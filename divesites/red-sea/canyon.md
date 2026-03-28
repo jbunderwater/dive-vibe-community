@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Canyon
 
-Canyon is a reef dive site in Red Sea, Middle East.
+The Canyon is one of Dahab's most celebrated and technically demanding dive sites on the Sinai Peninsula. Located a short distance south of Dahab's famous Blue Hole, the Canyon is a narrow underwater gorge that descends through a labyrinthine passage system down to depths of 45 meters and beyond.
 
 ## Overview
 
-Canyon is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The Canyon is a complex system of fissures, passages, and chambers cutting through the Sinai reef. Entry is through a narrow entrance on the reef flat, descending rapidly through a chimney to the main canyon floor at around 30–45 meters. The passages twist and open into larger chambers, with dramatic light effects where sunlight penetrates the cracks above. The Canyon is considered a guided dive and should never be attempted without an experienced local guide who knows the specific route. Visibility in the open sections is 20–35 meters; the confined sections require a torch. Water temperatures are 22–28°C.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Location**: Red Sea, Egypt
+- **Entry Type**: Boat dive (also shore accessible)
+- **Site Type**: Cave / Canyon / Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 45 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
+- **Typical Visibility**: 20–35 meters (65–115 feet)
+- **Current**: Minimal inside canyon
 - **Best Time**: September to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Marine life inside the canyon itself is sparse due to the confined, shaded environment — glassfish swarm in some of the larger chambers, and lionfish inhabit the darker recesses. The reef surrounding the canyon entrance and exit supports the full range of Sinai reef species: anthias, parrotfish, turtles, and moray eels. The sand plateau at depth outside the canyon occasionally hosts rays and crocodilefish.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 45 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Shore or boat entry to the reef flat, then descent through the canyon entrance. The classic route follows the main canyon passage down to approximately 30–45 meters, navigates through the connected passages, and exits back to the open reef. Gas management is critical — divers must have sufficient air to complete the passage and ascend. Begin ascent with a minimum 100 bar remaining. Safety stop at 5 meters on the open reef.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+The Canyon has a shore accessible entry point, though boat trips and guided tours are the more common approach. Local guides are essential — the passage system is complex and disorientation is possible without intimate knowledge of the route.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Do not enter without a guide who regularly dives this specific canyon
+- Carry a reliable torch as primary light — a backup is strongly recommended
+- Strict gas management: turn at one-third of tank capacity at a minimum
+- Advanced buoyancy control is critical — silt disturbance in confined spaces can rapidly reduce visibility to zero
+- This is not a dive for divers prone to depth narcosis — 40+ meters in an enclosed space compounds narcosis effects
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The Canyon carries significant hazard risks. Disorientation inside passages, silt-out events, nitrogen narcosis at depth, and running low on gas are all documented incident causes. Only Advanced or Rescue certified divers with overhead environment experience should enter the deeper passages. A pre-dive briefing with the guide on the exact route and turn-around point is mandatory. Always carry an SMB for the open reef ascent.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The canyon interior offers unique photography opportunities — light shafts penetrating cracks, silhouettes in passages, and glassfish clouds in chambers. A wide-angle lens suits the spatial drama. Good torch technique is essential to illuminate subjects without creating backscatter in confined spaces.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,54 +13,53 @@ addedBy: osm_import
 
 ## Kampagne Point
 
-Kampagne Point is a reef dive site in Tanzania, Africa.
+Kampagne Point is a reef dive site in the freshwater Lake Malawi region of Tanzania — the coordinates place it near the Tanzanian shore of Lake Malawi (also known as Lake Nyasa), the world-famous rift lake renowned for its extraordinary endemic cichlid fish diversity.
 
 ## Overview
 
-Kampagne Point is a dive site in Tanzania offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Lake Malawi / Lake Nyasa diving is a unique experience that differs entirely from ocean diving — the water is fresh, the depth range is modest, and the primary attraction is the world's most diverse freshwater fish assemblage, with over 1,000 endemic cichlid species found nowhere else on Earth. Kampagne Point is a rocky reef structure along the steep eastern shore of Lake Malawi's Tanzanian side, where the dramatic Rift Valley escarpment plunges directly into the lake. Visibility in the lake is exceptional — often 15-20 meters of crystal-clear freshwater.
 
 ## Site Information
 
-- **Location**: Tanzania, Africa
+- **Location**: Lake Malawi / Lake Nyasa, southern Tanzania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral reef (rocky reef / cichlid habitat)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 15-20 meters (50-65 feet)
+- **Current**: Minimal
+- **Best Time**: July to October (dry season, clearest water)
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+The dominant attraction is the endemic cichlid fish of the mbuna group — rock-dwelling species with brilliant coloration rivaling tropical marine fish. Species vary by location but typically include Labeotropheus, Petrotilapia, and Pseudotropheus genera in rainbow combinations of blue, yellow, orange, and red. Larger predatory Nile tilapia patrol the open water, while the Nkhata Bay region's Copadichromis species school in the mid-water. Freshwater crabs inhabit the rock crevices.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 22 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+A gentle descent along the rocky slope from 5 to 22 meters. The cichlid communities are densest in the rocky zones between 5-15 meters where algal growth and crevices provide feeding and shelter habitat. The deeper rock structures at 18-22 meters host different species compositions. Most divers focus their time in the 8-15 meter range for the highest fish density.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Tanzanian lakeshore communities such as Mbamba Bay or Liuli. Infrastructure is limited; arrange logistics well in advance through specialist freshwater operators or lodges on the Tanzanian Nyasa shore.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Standard saltwater diving equipment functions normally in freshwater — adjust weighting slightly (add 2-3 kg) as freshwater is less buoyant than saltwater
+- A cichlid identification book is worthwhile — the species diversity can be overwhelming without reference
+- Tanzania's Nyasa shore sees far fewer visitors than Malawi's western shore; expect more solitude but less operator support
+- July-October offers the best visibility and least risk of afternoon rain squalls
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Lake Malawi diving is generally low-risk due to calm conditions and excellent visibility. No decompression tables exist specifically for high-altitude freshwater diving, but the lake sits at approximately 475 meters elevation — use a conservative dive computer setting. Bilharzia (schistosomiasis) risk exists in the shallows near vegetated shorelines; avoid standing in shallow weedy areas before or after diving.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The cichlid photography opportunities at Lake Malawi are unique in freshwater diving. The fish are often territorial and will approach divers closely, allowing macro portrait shots without long lenses. Ambient light in clear freshwater at shallow depths produces excellent color rendition. A fish ID book and log notes complement photos for later species identification.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

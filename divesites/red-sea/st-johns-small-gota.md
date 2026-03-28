@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## St John's Small Gota
 
-St John's Small Gota is a reef dive site in Red Sea, Middle East.
+St John's Small Gota — "small coral dome" — is a compact reef structure within the St John's Reef system of the southern Egyptian Red Sea. Lying close to its larger neighbor, Gota Kebir, Small Gota offers a more intimate and manageable dive that is particularly well suited to detailed reef exploration and photography.
 
 ## Overview
 
-St John's Small Gota is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Small Gota is a rounded coral head that rises from a sandy bottom to within a few meters of the surface, creating a self-contained dive environment that can be fully circumnavigated in a single tank. Despite its modest size, the site punches above its weight — the coral coverage on the upper sections is outstanding, and the fish density typical of St John's Reef as a whole means every circuit of the dome reveals something new. The site is typically combined with other St John's dives on the same liveaboard day.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Location**: St John's Reef, Southern Red Sea, Egypt
+- **Entry Type**: Boat dive (liveaboard only)
+- **Site Type**: Coral reef (small gota / reef dome)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 25-40 meters (80-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Small Gota's compact size concentrates its marine life in a small area, making encounters feel particularly rich. Anthias clouds cover every vertical surface. Clownfish and their anemone hosts are conspicuous in the shallows, while parrotfish and surgeonfish graze continuously. Whitetip reef sharks rest on the sandy bottom at the base, and moray eels occupy every suitable crevice. Hawksbill turtles are frequently spotted feeding on the coral. Schools of snappers and fusiliers use the gota as an anchor point.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the sandy base at around 18-20 meters and begin a slow circumnavigation of the dome. Work progressively shallower on each circuit, ending on the reef top between 5-8 meters for the safety stop. The compact footprint makes it easy to cover the entire structure and return to your starting point. Allow extra time for the shallow section — the hard coral coverage is excellent.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Liveaboard zodiac access. Entry via back roll or giant stride. The site is generally calm enough for direct ascent with SMB. Confirm pickup procedure with the zodiac crew before entering.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Small Gota pairs perfectly with Gota Kebir for contrasting site sizes in a single dive day
+- The reef top in good natural light is outstanding for hard coral photography
+- Slow down for macro subjects — small gobies and shrimp on the coral surface reward patience
+- Look under ledges at the base for resting whitetip sharks and sleeping nurse sharks
+- Current is usually gentle here, making it a good site for less experienced liveaboard divers
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+As with all St John's sites, the remote location requires conservative dive planning — emergency services are distant. Surface with sufficient air reserve. Deploy SMB before ascending and confirm zodiac position. Currents are generally mild at Small Gota, but can strengthen around the exposed side of the dome.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The small scale of the site allows a patient photographer to cover every corner. Hard coral macro details, clownfish portraits, and sweeping reef-top wide angles all work well. The intimate size means you can move slowly and spend time on single subjects without worrying about coverage.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

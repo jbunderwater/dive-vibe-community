@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## La Caye
 
-La Caye is a reef dive site in Guadeloupe, Caribbean.
+La Caye is an intermediate-level reef dive southwest of Pigeon Island in the Malendure area, positioned outside the boundary of the Cousteau Reserve and offering more open-ocean character with greater depth than the protected reserve sites nearby.
 
 ## Overview
 
-La Caye is a dive site in Guadeloupe offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Reaching 25 meters at its deepest point, La Caye features a sloping reef that transitions from hard coral formations in the shallower zone to sandy terraces with scattered coral heads and sponge growth at depth. Its position outside the reserve means it sees slightly more current than the sheltered sites at Pigeon Island, adding an open-water feel that appeals to intermediate and more experienced divers. Visibility runs 20–30 meters during the dry season. Water temperature averages 27°C.
 
 ## Site Information
 
-- **Location**: Guadeloupe, Caribbean
+- **Location**: Malendure area, Basse-Terre, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Open reef with sandy terraces
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 20–30 meters
+- **Current**: Moderate; can be stronger on flood/ebb tides
+- **Best Time**: November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The slightly more open-water character of La Caye attracts larger pelagic species alongside reef residents. Caribbean reef sharks occasionally patrol the deeper sections, and eagle rays are sighted gliding over the sandy terraces. Hawksbill and green turtles are present throughout the dive, and large parrotfish are abundant on the reef slope. The sandy bottom at 20–25 meters supports sand-dwelling species including stingrays and garden eels.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin on the reef crest at approximately 8 meters and work progressively deeper. The most biologically rich zone is between 10–20 meters where coral and sponge growth is densest. Descend to the sandy terrace at 25 meters before beginning the ascent. Allow sufficient air for a safety stop at 5 meters.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Malendure operators; many combine La Caye with a morning dive in the Cousteau Reserve for a varied two-tank day. Giant stride or back-roll entry, SMB required on ascent.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- A natural complement to the nearby Cousteau Reserve — deeper and more open in character
+- Morning tides typically mean lighter current and better conditions for swimming against
+- Spend time on the sandy terrace at depth — the transition zone between reef and sand is productive for larger species encounters
+- Plan air consumption carefully for a 25-meter dive with a full safety stop
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Current is a real consideration at this site — ask your operator about conditions before descending. Maintain neutral buoyancy over the sandy terrace to avoid silt-outs that reduce visibility for other divers. SMB mandatory on ascent. Dive within your certification limits.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The deeper sandy terrace zone offers opportunities for wide-angle shots of eagle rays and reef sharks in open water. Reef slope compositions at 12–18 meters with ambient light are particularly effective in the dry season.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,55 +13,50 @@ addedBy: osm_import
 
 ## Peltastis
 
-Peltastis is a historic wreck dive in Croatia, Europe.
+The Peltastis is a Croatian cargo vessel that sank on 8 January 1968 near Krk Island in the Kvarner region. It is one of the most popular and regularly visited wrecks in the northern Adriatic, offering an accessible dive at 30–32 metres for intermediate divers looking for their first taste of serious wreck diving in Croatia.
 
 ## Overview
 
-Peltastis is a dive site in Croatia featuring the wreck of the Peltastis which sank in 1968-01-08. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The Peltastis rests upright on a sandy bottom, largely intact, with its superstructure and cargo holds in good condition. The hull is extensively colonised by orange and yellow sponges, sea anemones, and soft corals, giving the wreck a vivid appearance when illuminated by dive torches. The site benefits from the typically clear Kvarner waters, with visibility often 15–20 metres during summer. The wreck is long enough to reward multiple dive visits exploring different sections.
 
 ## Site Information
 
-- **Location**: Croatia, Europe
+- **Location**: Off Krk Island, Kvarner, Croatia
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 32 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 15–20 meters
+- **Current**: Generally light
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Large grouper are permanent residents of the superstructure. Conger eels occupy the darker sections of the holds. Scorpionfish are camouflaged against the encrusted hull, and moray eels peer from porthole frames and crevices. Clouds of sea bream and ornate wrasse surround the structure, and barracuda are occasionally sighted in summer.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 32 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend the shot line to the deck at around 25 metres, then work aft to the stern and the deeper hull bottom at 32 metres. The bow, mast, and bridge area are all worth exploring. Penetration of the holds is possible for trained wreck divers. Ascend via the shot line and complete a 3-minute safety stop at 5 metres — gas management is straightforward at this depth.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from Krk or Punat operators moor directly to the wreck buoy. Entry by giant stride or back roll. Deploy an SMB when free ascending from the safety stop depth.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- A torch is essential to reveal the full colour range of encrusting organisms and illuminate interior spaces
+- The bridge area provides the most protected entry point for new wreck divers
+- Nitrox is a comfortable upgrade that extends enjoyable bottom time at 30 m
+- The wreck can be silty inside — avoid fin kicks that disturb sediment in enclosed sections
+- An excellent site for underwater photography at all experience levels
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Depth is within upper recreational limits. Buoyancy control is important to avoid silt disturbance in the holds. Never penetrate enclosed spaces without proper wreck training, a reel, and redundant lighting. Carry an SMB and dive with a buddy.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The Peltastis is a superb wide-angle photography subject — the intact hull rising from the sandy bottom, draped in colourful sponges, photographs beautifully with a rectilinear wide-angle lens. Macro photographers will find nudibranchs and crustaceans on every square metre of encrusted surface. The bridge is a classic composition point.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

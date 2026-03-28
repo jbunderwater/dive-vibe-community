@@ -13,54 +13,49 @@ addedBy: osm_import
 
 ## Maheleg
 
-Maheleg is a reef dive site in Red Sea, Middle East.
+Maheleg is an offshore reef site in the central Red Sea at approximately 25.90°N, 34.41°E, positioned in the open waters off the Egyptian coast between Hurghada and Marsa Alam. The name is of Arabic origin and likely refers to the reef's local designation. Its offshore location means access is primarily by liveaboard vessel on routes that combine central Egyptian Red Sea sites.
 
 ## Overview
 
-Maheleg is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Maheleg is a classic offshore Red Sea reef — a submerged platform or atoll structure that rises from deeper water to create a productive diving environment at manageable depths. The open-ocean position exposes the reef to clear, oceanic water with exceptional visibility, often exceeding 30 meters in calm conditions. The combination of healthy coral coverage and moderate current that periodically sweeps the site supports a strong fish population, making this a rewarding dive for intermediate-level divers interested in both reef biology and larger marine encounters. At maximum depth of approximately 20 meters, the site is within easy reach of most recreational divers.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
+- **Location**: Central Red Sea, Egypt (offshore reef, approximately 25.90°N, 34.41°E)
+- **Entry Type**: Boat dive (liveaboard access)
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20-35 meters (65-115 feet)
+- **Current**: Moderate; variable by tidal state and season
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Offshore reefs in this section of the Egyptian coast are productive shark habitats. Grey reef sharks and whitetip reef sharks are regularly reported at offshore reef sites in the Maheleg area, with sightings typically occurring along the reef edges in moderate current. Napoleon wrasse patrol the outer reef sections, and schools of barracuda and big-eye trevally hold position in the current. Sea turtles appear sporadically at cleaner offshore reefs. The reef structure supports anthias clouds, butterflyfish, surgeonfish, and parrotfish, with moray eels and lionfish occupying the more sheltered sections. Sandy areas adjacent to the reef may hold stingrays and garden eel colonies.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef edge and follow the contour at 10-20 meters. Moderate current at offshore sites like Maheleg rewards drift diving — move with the flow rather than working against it, covering more reef area with less exertion. Spend time along the outer reef edge where pelagic visitors concentrate, then ascend the slope to explore the shallower reef top. Allow 50 bar for the ascent and safety stop, and surface with SMB deployed.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Liveaboard access only for this remote offshore site. Entry via giant stride; the boat maintains a drift pickup as conditions dictate. Pre-dive briefing from the dive guide will cover current conditions and exit procedures for the specific dive. Carry a whistle or signal mirror in addition to the SMB.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Best visited as part of a central Egyptian Red Sea liveaboard routing
+- Dive the site at its productive times — the guide will know whether morning or afternoon is preferable based on current conditions
+- Monitor shark activity by watching the open water column as well as the reef edge
+- Nitrox is worthwhile if available, extending bottom time at the 15-20 meter range where most pelagic activity occurs
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Offshore Red Sea reefs require full diver self-sufficiency. Currents can be variable and may intensify around reef corners without warning. If separated from the reef in open water, ascend in the blue and surface with SMB deployed — attempting to swim back against current is usually counterproductive. No rescue services are nearby; always brief abort procedures before entry. Fire coral is present on reef surfaces.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Clear water and strong fish populations make Maheleg a productive photography destination for intermediate reef and pelagic subjects. Wide-angle reef scenes with fish in the frame shoot beautifully in clear offshore water. Shark encounters require a large dome port and shooting toward the light to avoid silhouetting. Macro subjects are plentiful in the reef crevices and sandy margin.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

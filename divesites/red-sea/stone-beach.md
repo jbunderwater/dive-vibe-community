@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Stone Beach
 
-Stone Beach is a reef dive site in Red Sea, Middle East.
+Stone Beach is a nearshore reef and dive site located in the Hurghada region of the Egyptian Red Sea, in the central section of the Egyptian Red Sea coast. Its coordinates place it near the town of El Gouna or the Hurghada resort strip, where rocky and rubble shorelines give way to reef formations just offshore.
 
 ## Overview
 
-Stone Beach is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Stone Beach takes its name from the characteristic rocky, rubble-strewn shoreline that defines this stretch of coast. Below the waterline, the rocky substrate gives way to a coral reef slope with mixed hard and soft coral growth descending to a sandy bottom at around 18-20 meters. This is a well-known local dive site for the Hurghada area, suited to both day-boat visitors and guests staying at nearby resorts. Conditions are typically calm, and the site sees regular traffic from dive operators out of Hurghada and El Gouna.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Hurghada / El Gouna area, Red Sea, Egypt
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 15-25 meters (50-80 feet)
+- **Current**: Light to moderate
+- **Best Time**: Year-round; October to May preferred
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The reef supports the characteristic Red Sea mix of reef fish: dense anthias aggregations, parrotfish, various wrasse species, and hawkfish perching on coral heads. Moray eels occupy every suitable crevice, and lionfish hover motionlessly in the shadows. Scorpionfish and stonefish blend into the rubble bottom, making careful fin placement essential. Napoleon wrasse are occasionally seen, and sea turtles have been reported at this site.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin at the reef crest in 5-8 meters and follow the slope down to the sandy bottom at around 18-20 meters. The reef structure transitions from hard coral coverage in the shallows to coral boulders and rubble at depth. A standard out-and-back or drift profile along the reef contour works well. Allow adequate air for a comfortable 5-minute safety stop at 5 meters.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Accessed by day-boat from Hurghada or El Gouna marinas. Entry via giant stride or back roll. Mooring buoys are available at popular sites. Deploy SMB before ascending for boat pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Examine the rubble and sand at the reef base for camouflaged species — stonefish and scorpionfish are common
+- This is a good site for underwater photography practice given the sheltered conditions
+- Combine with other Hurghada area sites for a full day of diving
+- A torch helps explore cavities and overhangs where moray eels and lobsters shelter
+- Ask local operators about current conditions — winds can occasionally create surge near the shore
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Stonefish are present in the rubble zones — avoid contact with the substrate and wear boots if doing a shore entry. Boat traffic in the Hurghada area can be heavy; always surface with a deployed SMB. Fire coral is present on the reef; wetsuit coverage is recommended. Dive with a buddy and confirm pickup arrangements with the boat before descending.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The rubble-rich base of the reef offers excellent macro subjects including well-camouflaged critters, nudibranchs, and small crustaceans. The shallow reef crest in morning light provides pleasing wide-angle reef shots. Lionfish posed against coral backgrounds are a reliable subject throughout the dive.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

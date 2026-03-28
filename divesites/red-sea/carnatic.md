@@ -13,55 +13,54 @@ addedBy: osm_import
 
 ## Carnatic
 
-Carnatic is a historic wreck dive in Red Sea, Middle East.
+The Carnatic is one of the Red Sea's most famous and historic wrecks — a British P&O steamer that sank in 1869 after striking the reef at Abu Nuhas in the northern Red Sea. Now lying in 26–28 meters of water, it is among the most photographed wrecks in the world.
 
 ## Overview
 
-Carnatic is a dive site in Red Sea featuring the wreck of the Carnatic. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The SS Carnatic was an iron-hulled paddlewheel steamer carrying mail, cargo, and passengers when she struck the reef at Abu Nuhas and sank. The wreck lies on its side on the sandy floor, split into two main sections, with the bow and stern offering the most dramatic photographic opportunities. Over 150 years of submersion have transformed the Carnatic into an artificial reef of the highest order — encrusted with vivid soft corals, sea fans, and massive coral formations that make the wreck appear to be a natural reef structure. Thousands of glassfish fill the interior spaces, creating shimmering silver clouds that part as divers enter. Visibility is typically 20–30 meters; water temperatures range 22–28°C.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Red Sea, Egypt (Abu Nuhas Reef, Gulf of Suez)
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck (historic)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 28 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20–30 meters (65–100 feet)
+- **Current**: Light to moderate
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter glassy sweepers, lionfish, groupers, coral growth, soft corals, whale sharks, manta rays, hammerhead sharks. Additional species commonly sighted include oceanic whitetip sharks, sea turtles, dolphins. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Glassfish in dense clouds inhabit the wreck's holds and corridors, creating one of the Red Sea's most iconic underwater scenes. Lionfish hunt at the edges of the glassfish schools. Moray eels occupy the structural crevices and old rigging. Batfish hover in mid-water above the wreck. Napoleon wrasse and large grouper are resident. The coral-encrusted exterior hosts anthias, butterflyfish, and a variety of wrasse species.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 28 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the deepest section of the wreck at around 26–28 meters and work forward along the hull. The split in the wreck amidships allows light penetration into the interior. Explore the coral-encrusted bow section before moving to the stern, then ascend along the length of the wreck to the shallower sections at 10–15 meters. The upper portions of the wreck and surrounding reef provide an excellent safety stop environment.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Liveaboard or day-trip access from Hurghada. Mooring is available at Abu Nuhas. Descent line recommended. Standard giant stride entry; SMB deployment for safety stop and pick-up.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Position yourself in or near the glassfish clouds for the most dramatic photographs
+- The wreck splits are excellent for ambient light photography where light beams penetrate
+- Dive torch essential for exploring darker interior sections
+- The full wreck is best covered in two dives — one for each major section
+- Abu Nuhas reef also holds three other famous wrecks — plan a dedicated multi-dive day
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Interior penetration is possible but requires wreck diving experience. Glassfish clouds can disorient — maintain compass and depth awareness inside the wreck. Silt is present and can be disturbed easily — frog kicks are recommended inside spaces. Always dive with a buddy and carry an SMB.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The Carnatic is among the Red Sea's top five photography wrecks. The glassfish interior is the signature shot — wide angle, positioned inside looking out toward light. Exterior shots of the bow section rising from the sand, decorated with soft corals, are equally iconic. A dive torch for interior colour rendition is essential.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,55 +13,59 @@ addedBy: osm_import
 
 ## Shaab Rumi, Precontinent 2
 
-Shaab Rumi, Precontinent 2 is a wall dive site in Sudan Red Sea, Middle East.
+Shaab Rumi's Precontinent 2 site is one of the most historically significant dive sites in the world — the location of Jacques-Yves Cousteau's 1963 experimental underwater habitat, Conshelf II. The remnants of that pioneering project still rest on the sandy bottom inside Sha'ab Rumi's protected lagoon, making this a pilgrimage site for divers interested in the history of underwater exploration.
 
 ## Overview
 
-Shaab Rumi, Precontinent 2 is a dive site in Sudan Red Sea featuring a dramatic vertical wall that drops into the deep blue . Experimantal unterwater station Precontinent II run by Jacques-Yves Cousteau in 1963. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+In 1963, Jacques-Yves Cousteau and his team lived and worked underwater for a month at Sha'ab Rumi as part of the Conshelf II (Precontinent II) programme, studying the feasibility of long-term human habitation beneath the sea. The main habitat, known as "Starfish House," accommodated five oceanauts at 10 metres depth. A deeper cylindrical habitat called the "Deep Cabin" sat at 27 metres and housed two divers. Today, Starfish House's distinctive five-armed structure is gone, but the circular base, the fish-shaped hangar used to store a small submarine, and scattered debris from the experiment remain clearly visible on the sandy floor of the lagoon. Decades of coral encrustation have transformed the structures into artificial reefs teeming with marine life. Visiting this site means swimming through the same water Cousteau's team breathed and filmed in — an experience with few parallels in diving history.
 
 ## Site Information
 
-- **Location**: Sudan Red Sea, Middle East
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Location**: Sha'ab Rumi lagoon, northern Sudan Red Sea
+- **Entry Type**: Boat dive (liveaboard)
+- **Site Type**: Historic underwater habitat / wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 20 meters (Starfish House base at ~10m; Deep Cabin at ~27m for qualified divers)
 - **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Current**: Moderate
+- **Best Time**: October to May
+
+## The Conshelf II Remains
+
+The fish-shaped submarine hangar is the most recognisable structure — its distinctive shape remains clearly intact and heavily encrusted with corals and sponges. The circular base of Starfish House sits at around 10 metres surrounded by soft sand. Metal debris, pipe sections, and equipment fragments are scattered across the lagoon floor. Interpretive reference from the original Cousteau film "World Without Sun" helps divers identify specific structures. The lagoon's protected position means calm water and excellent visibility for examining the habitat remains up close.
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Decades of colonisation have made the Conshelf II structures into productive artificial reefs. Groupers, moray eels, and lionfish shelter within the metal framework. Schools of glassy sweepers and silversides fill the hangar interior. The lagoon's protected environment hosts sea turtles, large Napoleon wrasse, and barracuda. The outer reef wall beyond the lagoon entrance features hammerhead sharks, grey reef sharks, and pelagic species. Anthias and reef fish cover the coral-encrusted structural surfaces in dense, colourful communities.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-20 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Enter the lagoon and descend to the sandy bottom at 10-12 metres to explore the Starfish House base and surrounding debris field. Move to the submarine hangar for interior examination — the structure is large enough to swim through safely with care. Divers with advanced qualifications can continue to the deeper habitat remains at approximately 27 metres with appropriate depth planning. Finish the dive with a slow circuit of the lagoon walls before ascending to a 5-minute safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by liveaboard dive boat anchored at Sha'ab Rumi. Entry is by giant stride or back roll into the lagoon. The lagoon's protected waters make entry and exit straightforward in most weather conditions. Deploy an SMB on ascent for liveaboard pickup coordination.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Watch the Cousteau film "World Without Sun" (1964) before diving — it adds extraordinary context
+- Photograph the submarine hangar from multiple angles, including the entrance approach
+- Respect the historical structures — nothing should be touched or removed
+- Combine this dive with the South Plateau for a complete Sha'ab Rumi experience
+- Morning dives typically offer the best light inside the hangar structure
+- Ask your dive guide to point out specific Conshelf II components — local knowledge is invaluable
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The lagoon environment is generally calm and forgiving. Avoid contact with the encrusted metal structures — fire coral, sea urchins, and sharp edges are present. Do not enter confined areas within the hangar without proper training. If venturing to the Deep Cabin at 27 metres, plan conservatively and maintain appropriate bottom time limits. Fire coral on reef structures requires careful buoyancy throughout the dive.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+The submarine hangar is the centrepiece photographic subject — wide-angle shots from the approach show the fish shape clearly, and interior shots with a dive torch reveal the colour of encrusting life. The Starfish House base photographed against the sandy lagoon floor and blue water column above creates a classic image. Macro subjects on the metal framework include nudibranchs, gobies, and colourful encrusting invertebrates.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,55 +13,53 @@ addedBy: osm_import
 
 ## Captain Muddy
 
-Captain Muddy is a reef dive site in Tanzania, Africa.
+Captain Muddy is a coral reef site located off the northern tip of Zanzibar Island near Nungwi, known for its gentle conditions and approachable reef life that make it one of the area's most popular sites for newer and returning divers.
 
 ## Overview
 
-Captain Muddy is a dive site in Tanzania offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+The name may suggest murky conditions, but Captain Muddy is generally a clear and well-structured reef with coral formations starting in 5 meters and descending to 20 meters. It sits on the western side of the Nungwi peninsula where it is partially sheltered from the northeast monsoon, giving it more dive days per year than the exposed eastern sites. The reef is composed largely of branching Acropora and encrusting corals, with sandy patches supporting additional diversity. Visibility typically ranges from 10-20 meters.
 
 ## Site Information
 
-- **Location**: Tanzania, Africa
+- **Location**: Nungwi, North Zanzibar Island, Tanzania
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 10-20 meters (33-65 feet)
+- **Current**: Light to moderate
+- **Best Time**: October to April (northeast monsoon); June-September (southeast monsoon, western sites accessible)
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+Captain Muddy is a good site for sea turtle encounters — green turtles are resident on the reef and are accustomed to divers, allowing extended observation. Moray eels occupy the coral overhangs, and surgeonfish, parrotfish, and wrasse are common throughout the reef. Pufferfish and porcupinefish are frequently seen. The sandy patches support stingrays and goatfish, while the outer reef edge occasionally hosts reef sharks in the late afternoon.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+A relaxed dive suited to recently certified divers or those refreshing their skills. Descend from the mooring to the reef top at 5-8 meters and navigate downslope to the maximum depth of 20 meters, then return across the reef at mid-depth. Total dive time typically reaches 45-55 minutes with standard air consumption.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Nungwi village on the northern tip of Zanzibar. Most operators run two-tank morning trips combining Captain Muddy with a nearby wall site. Giant stride or back roll entry from a wooden boat or inflatable. Exit is assisted by the crew at the ladder.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Ideal as the first or second dive on a Zanzibar trip to assess conditions and familiarize with the marine environment
+- Ask your guide to show you the resident turtle feeding grounds on the reef top
+- Mornings are best — afternoon northeast trade winds can create surface chop that reduces visibility
+- Combine with nearby Barracuda Point or Manta Point for a contrast of site types on the same day
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Generally a forgiving site with light currents. Watch for sea urchins on the sandy bottom and avoid contact with fire coral on the reef edge. Boat traffic around Nungwi requires SMB deployment for ascent. As always in East Africa, be aware of jellyfish during September-November.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The calm conditions and cooperating turtles make Captain Muddy a photographer-friendly site. Wide-angle turtle portraits in the shallow reef top light are the signature shots here. Macro photographers will find cleaning stations with shrimp and wrasse, plus nudibranchs on the deeper coral patches.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

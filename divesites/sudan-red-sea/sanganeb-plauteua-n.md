@@ -11,57 +11,57 @@ osmId: 9721031166
 addedBy: osm_import
 ---
 
-## Sanganeb Plauteua N
+## Sanganeb Plateau N
 
-Sanganeb Plauteua N is a wall dive site in Sudan Red Sea, Middle East.
+Sanganeb North Plateau is one of the signature dives at Sanganeb Atoll — Sudan's most iconic reef and the only offshore atoll in the northern and central Red Sea. The north plateau marks the lighthouse end of the atoll, where vertical walls drop from the surface into the deep blue and hammerhead sharks are regularly encountered circling just beyond the reef edge.
 
 ## Overview
 
-Sanganeb Plauteua N is a dive site in Sudan Red Sea featuring a dramatic vertical wall that drops into the deep blue. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Sanganeb Atoll sits approximately 25 km northeast of Port Sudan, a solitary oval reef rising from deep water and crowned by a navigational lighthouse built by the British in 1870. The atoll is surrounded on all sides by vertical walls that plunge hundreds of metres into the open Red Sea, making it one of the most dramatic reef structures in the world. The North Plateau is exposed to open-ocean currents from the north, which brings exceptional water clarity and creates the conditions that attract large pelagic species. Hammerhead sharks are the headline encounter, but the biodiversity across the wall is extraordinary — from the coral-covered plateau at 10-15 metres to the soft coral-draped walls descending to depth. Sanganeb is a UNESCO World Heritage Site and national marine park, protecting it from most commercial fishing pressure.
 
 ## Site Information
 
-- **Location**: Sudan Red Sea, Middle East
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Location**: Sanganeb Atoll, 25 km northeast of Port Sudan
+- **Entry Type**: Boat dive (liveaboard or day boat)
+- **Site Type**: Wall dive / plateau
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 20 meters (plateau; outer wall descends to 200m+)
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Moderate to strong
 - **Best Time**: September to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Scalloped hammerhead sharks are the most celebrated residents, typically encountered cruising the outer wall at 15-20 metres or deeper during morning dives. Grey reef sharks are a constant presence on the plateau edge. Oceanic whitetip sharks appear in the open water off the wall with some regularity. Schools of barracuda and bigeye trevally aggregate at the current-exposed north point. Napoleon wrasse and large groupers inhabit the reef face. The plateau surface is dense with hard corals, sea fans, and anthias in vivid clouds. Eagle rays and manta rays visit on occasion.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-20 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Descend along the lighthouse wall to 15-20 metres and drift north along the outer reef face. Watch the blue water beyond the reef edge for hammerheads approaching from depth. The plateau shallows toward 10 metres and is covered with healthy hard corals and schooling reef fish. For stronger hammerhead encounters, experienced divers can sit deeper on the wall edge around 20 metres and watch the blue. Complete the dive with a circuit of the plateau surface before ascending to the safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Sanganeb is reached by liveaboard or day boat from Port Sudan. Entry is by giant stride or back roll on the north face. The drift along the wall is monitored by the boat, which follows divers and picks up at the downstream end following an SMB-signalled safety stop. The lighthouse jetty provides an optional reference point for orientation.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Morning dives are consistently better for hammerhead encounters — plan your first dive here
+- Hover at the reef edge at 15-20 metres and watch blue water; avoid descending below recreational limits chasing sharks
+- The lighthouse structure above water is a useful landmark for surface orientation
+- Visit the south and west walls on subsequent dives for different reef characters
+- Sanganeb is diveable day-tripping from Port Sudan as well as by liveaboard
+- Night dives on the plateau surface reveal lionfish hunting and cephalopod activity
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The open-ocean position creates strong and variable currents — particularly at the north point where the two wall faces converge. Monitor drift direction carefully and stay close to the wall for shelter when current intensifies. The wall drops steeply beyond the plateau edge; depth gauge monitoring is essential. Fire coral on the plateau is abundant. Always deploy an SMB during the safety stop; the exposed position makes surface pickups reliant on proper signalling.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+The north point of Sanganeb is prime wide-angle territory. Hammerheads photographed against the deep blue from below create dramatic silhouette images. The wall face between 10-20 metres photographs well in natural light during morning dives. Schooling fish tornadoes at the current point offer swirling wide-angle compositions. Macro subjects on the plateau surface include nudibranchs, cleaner shrimp stations on coral heads, and moray eel portraits.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

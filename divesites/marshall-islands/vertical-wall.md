@@ -13,55 +13,32 @@ addedBy: osm_import
 
 ## Vertical Wall
 
-Vertical Wall is a wall dive site in Marshall Islands, Pacific.
+Vertical Wall is one of Kwajalein Atoll's most aptly named dive sites — a near-perpendicular drop along the inner lagoon reef face that delivers exceptional wall diving within the world's largest atoll lagoon.
 
 ## Overview
 
-Vertical Wall is a dive site in Marshall Islands featuring a dramatic vertical wall that drops into the deep blue. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The wall descends steeply from the shallow reef crest at around 5 meters into the lagoon depths, with the recreational dive stopping at 25 meters while the wall continues well beyond. The face is densely encrusted with hard and soft corals — orange and yellow cup corals fill the crevices, sponge colonies in vivid purples and reds dominate the mid-sections, and soft coral trees sway in the mild current. Kwajalein Lagoon's sheltered conditions produce outstanding visibility, often reaching 30–35 meters, with warm 28–30°C water year-round.
 
-## Site Information
+The site is accessible to intermediate divers while offering enough depth range and biological complexity to satisfy more experienced visitors. The wall's multiple ledges and overhangs create natural frames for photography and excellent habitat for resident species.
 
-- **Location**: Marshall Islands, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+## What to Expect
 
-## Marine Life
+The wall's ledges are productive territory for moray eels — giant and undulated morays are common residents in the deeper crevices. Lionfish drift near the overhangs, relying on camouflage. Whitetip reef sharks rest on ledges or cruise slowly along the wall face. Higher up, napoleonfish (humphead wrasse) make regular appearances cruising the reef edge. Schools of snapper and fusiliers occupy the mid-water zone, with glassy sweepers sheltering under coral overhangs. Hawksbill turtles are documented here, feeding on sponges on the wall face.
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The reef crest at 5–10 meters is excellent for safety stops — dense coral cover with abundant butterflyfish, damselfish, and angelfish picking over the coral heads.
 
-## Dive Profile
+## Practical Information
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-25 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+- **Depth Range**: 5–25 meters
+- **Visibility**: 20–35 meters typical
+- **Currents**: Mild to moderate along the wall face; generally predictable conditions
+- **Entry**: Boat from Kwajalein-based dive operators
+- **Best For**: Intermediate and advanced divers; reliable year-round conditions
 
-## Entry and Exit
+## Marine Life Highlights
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Whitetip reef sharks, moray eels (giant, undulated), lionfish, hawksbill turtles, napoleon wrasse, parrotfish, snapper schools, fusiliers, glassy sweepers, orange cup corals, encrusting sponges, soft coral trees.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

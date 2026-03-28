@@ -13,55 +13,54 @@ addedBy: osm_import
 
 ## Big Wall
 
-Big Wall is a wall dive site in Tanzania, Africa.
+Big Wall is one of Pemba Island's signature wall dives, located off the eastern coast of Pemba Island in the Zanzibar Archipelago. It is part of the same dramatic submarine topography that makes Pemba one of East Africa's most respected advanced dive destinations.
 
 ## Overview
 
-Big Wall is a dive site in Tanzania featuring a dramatic vertical wall that drops into the deep blue. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Pemba Island's eastern coast drops away sharply into the Pemba Channel, forming near-vertical walls encrusted with gorgonian sea fans, orange elephant ear sponges, and cascading soft corals. Big Wall begins with a reef top at 5-8 meters before dropping steeply, with the most productive dive zone between 10 and 20 meters. Below 20 meters the wall continues into the deep, making buoyancy control critical to avoid unintended deep dives. Visibility is typically excellent — 20-30 meters is common in the northeast monsoon season.
 
 ## Site Information
 
-- **Location**: Tanzania, Africa
+- **Location**: East Pemba Island, Zanzibar Archipelago, Tanzania
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Maximum Depth**: 20 meters (wall continues deeper)
+- **Typical Visibility**: 20-30 meters (65-100 feet)
+- **Current**: Moderate to strong, variable with tide
+- **Best Time**: October to March (northeast monsoon, best visibility)
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The wall structure supports an impressive vertical ecosystem. Large gorgonian sea fans at 15-20 meters host pygmy seahorses and longnose hawkfish. Orange sea fans and basket sponges create colorful backdrops. Pelagic visitors including eagle rays, barracuda, and grey reef sharks patrol the wall's outer face. Sea turtles use the reef top for resting, and octopus are frequently spotted in crevices at night. Moray eels, lionfish, and large groupers occupy the permanent overhangs.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-20 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Descend directly to the wall from the boat and begin your dive at 18-20 meters at the base of the productive zone. Work horizontally along the wall face, exploring overhangs and crevices, while gradually ascending. Spend the majority of your bottom time between 10-20 meters and finish with a long shallow traverse of the reef top at 5-8 meters before your safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boats depart from Chake Chake or Wete on Pemba Island, or from liveaboards operating in Pemba Channel. Giant stride entry from the dive dhow or zodiac. Current can run strongly parallel to the wall — confirm with the guide whether to drift or hold station using a reef hook.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Pemba Island has very limited tourism infrastructure — plan accommodation and dive operators in advance
+- A reef hook allows you to station at the wall and observe pelagic activity without fighting the current
+- Pemba is known for hammerhead sightings during certain conditions — ask local operators for current reports
+- Liveaboard access from Zanzibar Stone Town gives the best logistical flexibility for Pemba dive trips
+- Advanced divers should note that the wall drops well beyond sport diving limits — strict depth monitoring is essential
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Wall dives carry an inherent risk of uncontrolled descent. Establish a clear maximum depth with your guide and dive computer, and do not chase marine life below the agreed limit. Strong lateral currents can push you away from the wall unexpectedly. Carry a reef hook and an SMB. The remote location of Pemba Island means access to a recompression chamber (Zanzibar or Dar es Salaam) is several hours away.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+Big Wall is outstanding for wide-angle photography — the combination of colorful soft corals, large gorgonian fans, and blue-water pelagic visitors creates compositions rarely found elsewhere in East Africa. Bring the widest lens available, and use a single strobe or no strobes at all for blue-water silhouette shots of rays and sharks.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

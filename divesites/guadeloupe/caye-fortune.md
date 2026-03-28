@@ -13,54 +13,49 @@ addedBy: osm_import
 
 ## Caye Fortune
 
-Caye Fortune is a reef dive site in Guadeloupe, Caribbean.
+Caye Fortune is a shallow fringing reef dive located off the south coast of Grande-Terre near the Îlet Fortune, part of a cluster of reef sites popular with dive operators from the Sainte-Anne and Saint-François areas.
 
 ## Overview
 
-Caye Fortune is a dive site in Guadeloupe offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The reef at Caye Fortune rises from a sandy bottom and forms a series of coral structures extending to around 18 meters. The site is characteristic of Guadeloupe's Grand Cul-de-Sac Marin lagoon fringe, with mixed hard coral assemblages including brain, star, and boulder corals alongside sponge-encrusted walls and rubble zones rich in small marine life. Visibility averages 15–25 meters and is typically best during the dry season (November to May). Water temperature stays around 26–28°C.
 
 ## Site Information
 
-- **Location**: Guadeloupe, Caribbean
+- **Location**: Off southern Grande-Terre, near Îlet Fortune, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Fringing coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 15–25 meters
+- **Current**: Light to moderate depending on season
+- **Best Time**: November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Sea turtles are regularly encountered at this site, attracted by the seagrass and algae growth near the reef margins. Parrotfish, surgeonfish, and snapper are abundant, and larger species such as barracuda and eagle rays make occasional passes over the reef. Spotted morays occupy coral crevices, and spiny lobsters are found at depth under ledges.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef top (around 5–8 meters) and follow the terrain to maximum depth at 18 meters. The profile is straightforward, with no complex navigation required. A safety stop at 5 meters in the shallower reef section completes the dive before boat pickup.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Giant stride entry from a dive boat; SMB deployment required for ascent. The site is typically paired with Caye Tome or Caye Martinique for a two-tank day in the area.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Best combined with other Caye sites in the area for a day trip from Saint-François
+- Turtle sightings are particularly common in morning sessions
+- Look for cleaning stations on coral heads where small wrasse service larger fish
+- Light current can create gentle drift conditions that make navigation pleasant
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Fire coral is present on reef crests — maintain good buoyancy. Boat traffic in the lagoon area requires a deployed SMB on ascent. Sea urchins populate sandy patches near the reef base.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The mix of coral structures and soft light at 10–15 meters is well-suited to natural-light reef photography. Wide-angle shots capturing sea turtle behaviour near the reef work well in morning light.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

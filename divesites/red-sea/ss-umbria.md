@@ -13,55 +13,51 @@ addedBy: osm_import
 
 ## SS Umbria
 
-SS Umbria is a historic wreck dive in Red Sea, Middle East.
+The SS Umbria is one of the finest wreck dives in the world and a crown jewel of Red Sea diving — arguably the most historically compelling wreck on the African continent. An Italian passenger-cargo vessel deliberately scuttled by her own captain on June 9, 1940, just as Italy entered World War II, the Umbria rests in Wingate Reef off Port Sudan, Sudan. Her cargo of 360,000 bombs, aerial torpedoes, fuses, and war materiel intended for the Italian East Africa campaign went to the bottom with her and remains there today.
 
 ## Overview
 
-SS Umbria is a dive site in Red Sea featuring a historic wreck which sank in 9 June 1940. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The Umbria measures 155 meters in length and lies on her port side in 35 meters at the deepest point, with the hull rising to just 10 meters below the surface. The wreck is remarkably intact and accessible, offering everything from shallow snorkeling along the hull to deep penetration of the holds. The cargo is extraordinary — stacked artillery shells, Fiat cars (still on deck), crated aircraft engines, and ammunition cases are preserved in eerie detail. Equally stunning is the marine life: the wreck has had 85 years to accumulate corals and attract a thriving ecosystem. Access is from Port Sudan, Sudan, typically by liveaboard — making it a destination that requires commitment but delivers an unmatched experience.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Wingate Reef, Port Sudan, Sudan
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20-35 meters (65-115 feet)
+- **Current**: Light to moderate
+- **Best Time**: November to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter glassy sweepers, lionfish, groupers, coral growth, soft corals, whale sharks, manta rays, hammerhead sharks. Additional species commonly sighted include oceanic whitetip sharks, sea turtles, dolphins. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Umbria's encrusted hull hosts large colonies of black coral, soft corals in orange and yellow, and dense fish life. Napoleon wrasse patrol the deck, accompanied by large groupers, lionfish in every nook, and shimmering schools of glassfish. Hammerhead sharks are encountered on the deeper portions of the wreck and in the open water above. Manta rays and whale sharks have been reported in the surrounding waters. The Fiat cars on deck are draped in coral growth and occupied by moray eels — a surreal combination of marine biology and industrial history.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 35 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Most dive profiles start at the shallowest accessible deck level (around 10-12 meters) and work gradually deeper to explore the open cargo holds. Hold 2 and Hold 3 contain the most dramatic cargo — bombs, crates, and vehicles. The deepest sections at 30-35 meters require careful air management. Multiple dives are needed to appreciate the full length of the wreck. A 5-minute safety stop at 5 meters is mandatory.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+The Umbria is accessed exclusively by liveaboard from Port Sudan. Descent is typically along the mooring or anchor line. Currents are generally mild, making it one of the more relaxed wreck dives in the region despite its size. Night dives on the Umbria are spectacular and highly recommended.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Plan at least three dives — exterior, forward holds, and aft section — to cover the wreck properly
+- Bring a torch; the cargo holds range from dim to dark, and details reward close inspection
+- The Fiat cars on the upper deck are a must-photograph subject — approach from above with a wide-angle lens
+- Book with a specialist Sudan liveaboard operator; political conditions in Sudan require current research before travel
+- Nitrox greatly extends bottom time on the deeper sections
+- Night dives reveal lionfish, moray eels on the hunt, and the cargo in an intimate, atmospheric light
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Sudan requires a special dive permit and entry visa — verify current political and travel conditions before booking. The hold penetrations involve disorientation risk in low-visibility conditions; penetrate only with a torch, line, and appropriate training. The deepest sections approach the limits of recreational diving — plan conservatively. Hammerhead sharks are present but generally not aggressive; maintain calm behavior.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The Umbria is one of the most photogenic wrecks on Earth. The upper deck in good natural light allows wide-angle compositions of the hull structure with the surface glinting above. The Fiat cars draped in coral are iconic subjects. In the holds, a torch and a macro lens reveal extraordinary detail on cargo labels, valves, and ammunition cases. A fisheye lens renders the sense of scale in the cavernous interiors.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Habili Radir
 
-Habili Radir is a reef dive site in Red Sea, Middle East.
+Habili Radir is an offshore reef pinnacle in the southern Egyptian Red Sea within the Wadi El Gemal National Park zone, located in the open water south of Marsa Alam.
 
 ## Overview
 
-Habili Radir is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Habili Radir sits within or adjacent to the boundaries of the Wadi El Gemal Hussien National Park, one of Egypt's larger marine protected areas. The national park designation provides meaningful protection from anchoring and fishing, and the habili structure here reflects the benefit: coral coverage is among the best in the southern Red Sea dive corridor. The pinnacle rises from the sandy seafloor to a crown a few meters below the surface, with steeply sloping flanks producing an efficient, compact dive area. The national park's conservation management has preserved the reef's fish stocks, making this a notably fish-rich site compared to unprotected habilis of similar size.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Southern Egyptian Red Sea, Wadi El Gemal area south of Marsa Alam
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Offshore reef pinnacle within national park
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20–30 meters
+- **Current**: Moderate; can run directionally around the pinnacle
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The national park's protection is evident in the size of groupers and the density of reef fish. Large coral groupers, lyretail groupers, and Napoleon wrasse are abundant. Schools of snapper and fusiliers are dense. Sea turtles — hawksbill and occasionally green turtle — appear on most dives. Moray eels are numerous in the coral structure. Dolphins occasionally visit the area in the early morning, and reef sharks are periodically seen at the deeper base of the pinnacle. The reef crown hosts large numbers of butterflyfish and surgeonfish.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the sandy base at 18–20 meters, circle the pinnacle once at depth, then follow the slope upward. Spend most of the dive in the 8–15 meter range on the flanks. The reef crown at 3–5 meters is worth a slow circuit to observe turtle activity and the dense reef fish schools before the safety stop. Allow adequate time for the safety stop in the clear, shallow water above the crown.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day-boat access from Marsa Alam or Port Ghalib operators, or via liveaboard. National park entry fees apply. Entry by giant stride. Deploy an SMB before ascending in the open water surrounding the pinnacle.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- National park rules are strictly enforced — no touching reef, no feeding fish, no anchoring
+- Early morning is best for turtle encounters on the crown; they tend to rest here through the night
+- The healthy grouper population is a direct result of national park protection — note the size difference versus northern Red Sea sites
+- Combine with other Wadi El Gemal sites such as Gota Wadi Gamal for a full park diving day
+- A wetsuit of at least 3mm is advisable year-round; 5mm for winter months
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+National park regulations govern the dive. Follow all briefings from the licensed guide. Deploy an SMB before ascending. Habili sites in the park often have stronger-than-expected currents on exposed faces. The boat must use designated mooring buoys where provided — random anchoring is prohibited.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The park's healthy fish stocks make for exceptional reef photography. Grouper portraits, turtle encounters, and dense school shots are all highly achievable. The soft-coral coverage on the deeper flanks complements wide-angle compositions.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

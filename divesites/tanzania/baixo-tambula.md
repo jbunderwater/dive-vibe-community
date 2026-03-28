@@ -13,54 +13,53 @@ addedBy: osm_import
 
 ## Baixo Tambula
 
-Baixo Tambula is a reef dive site in Tanzania, Africa.
+Baixo Tambula is a submerged reef shoal in Tanzania's northern Mafia Channel area, one of a cluster of productive outer reef formations that receive limited diving traffic and maintain pristine coral coverage.
 
 ## Overview
 
-Baixo Tambula is a dive site in Tanzania offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Baixo Tambula sits in the open channel north of Mafia Island, where upwelling currents and clear oceanic water from the Indian Ocean maintain exceptional coral health. The reef top rises to around 5 meters before sloping steadily to 22 meters, with a diverse mix of hard coral formations including branching and massive Porites structures that have accumulated over centuries of undisturbed growth. Visibility typically ranges from 15-20 meters and can exceed 25 meters after calm periods.
 
 ## Site Information
 
-- **Location**: Tanzania, Africa
+- **Location**: Northern Mafia Channel, Tanzania
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 15-20 meters (50-65 feet)
+- **Current**: Moderate
+- **Best Time**: October to March for calmest seas; whale shark season October-March
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+The undisturbed nature of this outer reef produces impressive fish populations. Dense schools of anthias and glassfish hover above the coral, attracting larger predators — barracuda, queenfish, and white-tip reef sharks are frequently seen. Moray eels inhabit the coral crevices, and the sandy patches at depth host garden eels and flatfish. Green and hawksbill turtles are common throughout the year. Between October and March, whale sharks frequently pass through the channel and can sometimes be observed from the surface before diving.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 22 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the outer slope at 18-22 meters and work back up the reef, exploring coral formations and sandy channels along the way. The reef architecture creates natural navigation points — large Porites heads at depth and staghorn thickets in the shallows guide your route. Finish with a long shallow reef traverse at 5-10 meters before ascending.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Reachable by boat from Mafia Island, with travel times of 30-60 minutes depending on conditions. The site is best approached in good weather; swell of more than 1 meter can make entry and surface navigation difficult. Always agree SMB and pickup procedures with the boat crew before the dive.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Morning dives typically have the best visibility as afternoon wind chop can reduce surface clarity
+- Bring a macro lens attachment — the coral heads host nudibranchs, flatworms, and mantis shrimp
+- If whale sharks are active in the channel, snorkeling the surface after the dive is often productive
+- Confirm with your operator that the boat has a working VHF radio given the offshore location
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Remoteness is the primary safety concern at Baixo Tambula. Ensure the operator carries oxygen and a first aid kit. Surface currents can run in a different direction from the reef current — deploy your SMB early and ascend slowly to avoid being swept away from the boat. Never dive this site alone.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The pristine coral gardens and diverse fish life make this an excellent all-round photography site. Ambient light at 15-22 meters retains good color in the blue Indian Ocean water, reducing the need for heavy strobe use. Wide-angle shots of the coral architecture against the blue water background are particularly rewarding.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

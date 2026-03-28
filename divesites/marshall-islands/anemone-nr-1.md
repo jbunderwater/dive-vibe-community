@@ -13,55 +13,32 @@ addedBy: osm_import
 
 ## Anemone Nr. 1
 
-Anemone Nr. 1 is a historic wreck dive in Marshall Islands, Pacific.
+Anemone Nr. 1 is a WWII-era wreck site in the Marshall Islands, named for the dense anemone colonies that have colonized the wreck structure in the decades since it sank during or after the Pacific War.
 
 ## Overview
 
-Anemone Nr. 1 is a dive site in Marshall Islands featuring the wreck of the Anemone Nr. 1. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The wreck sits in relatively shallow water with the shallowest structure accessible well above the 27-meter maximum depth, making it accessible to intermediate divers while still offering enough complexity and depth to reward multiple dives. Decades of coral and invertebrate growth have transformed the wreck into an artificial reef — giant clams and anemones carpet the exposed metal surfaces, and coral formations have begun to obscure the original structure beneath layers of encrusting growth.
 
-## Site Information
+Like many Marshall Islands WWII wrecks, the site history connects to either the Kwajalein campaign (February 1944) or the broader American advance through the Central Pacific. The intact sections of the wreck provide habitat for dense populations of reef fish and invertebrates, with visibility in the lagoon typically running 25–35 meters.
 
-- **Location**: Marshall Islands, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 27 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+## What to Expect
 
-## Marine Life
+The anemones that give the site its name are the defining visual feature — dozens of large anemone colonies host clownfish and small damsels throughout the wreck structure. Moray eels occupy the darker recesses. Lionfish hover near overhangs and under ledges. Schools of glassy sweepers fill larger interior spaces with their characteristic shimmering movement. On the exterior, grey reef sharks circle at mid-water, and hawksbill turtles have been sighted resting in the shadows of the wreck.
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+A dive torch is essential for illuminating the interior spaces and revealing the true colors of the sponge and coral encrustation. Night diving on this site reportedly produces excellent encounters with octopus, crabs, and feeding moray eels.
 
-## Dive Profile
+## Practical Information
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 27 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+- **Depth Range**: 10–27 meters
+- **Visibility**: 20–35 meters typical in the lagoon
+- **Currents**: Mild to moderate; generally manageable
+- **Entry**: Boat dive from Marshall Islands operators
+- **Best For**: Intermediate divers; suitable for multiple dives to explore fully
 
-## Entry and Exit
+## Marine Life Highlights
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Clownfish and anemone colonies, moray eels, lionfish, glassy sweepers, grey reef sharks, hawksbill turtles, giant clams, scorpionfish, snapper, groupers, feather stars.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

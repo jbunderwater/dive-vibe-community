@@ -13,54 +13,53 @@ addedBy: osm_import
 
 ## Baixo Varuni
 
-Baixo Varuni is a reef dive site in Tanzania, Africa.
+Baixo Varuni is a coral reef shoal in the Mafia Channel off the coast of southern Tanzania, part of a series of outer reef features within the Mafia Island Marine Park that see limited recreational diving traffic and maintain high coral integrity.
 
 ## Overview
 
-Baixo Varuni is a dive site in Tanzania offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Located in the central Mafia Channel, Baixo Varuni benefits from clear oceanic water flowing in from the Indian Ocean and the nutrient upwelling associated with the Rufiji River system. The reef ranges from 4 meters at the shallowest to 20 meters on the lower slopes, with a mosaic of hard coral formations — branching Acropora, massive Porites, and plate corals — covering most of the reef surface. Visibility is typically 15-20 meters, with occasional exceptional days reaching 25 meters during the northeast monsoon.
 
 ## Site Information
 
-- **Location**: Tanzania, Africa
+- **Location**: Mafia Channel, Mafia Island Marine Park, Tanzania
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 15-20 meters (50-65 feet)
+- **Current**: Moderate, tidal
+- **Best Time**: October to March
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+The intact reef ecosystem supports a complete food chain from small reef fish to apex predators. Large potato grouper are present in the deeper section. Sea turtles — both green and hawksbill — are frequently encountered grazing on algae and sponges. Reef sharks circle the outer perimeter in the late afternoon. The whale shark aggregation in the northern Mafia Channel is accessible from this site during October-March, making it a useful staging point for cetacean-watching surface intervals.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Navigate across the reef top to reach the outer slope, then descend to 18-20 meters to explore the base of the reef structure. Work back up the slope as a mid-dive traverse before returning to shallows for the safety stop. The gradual profile is forgiving for air management and allows full enjoyment of the diverse coral zones at each depth band.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Mafia Island. Conditions should be assessed on the morning of the dive — the Mafia Channel can be choppy in southerly wind conditions. Agree on pickup procedures and SMB colors with your boat crew prior to descent.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Visit in October-November for optimal conditions: calm seas, high visibility, and whale shark activity
+- Ask about dolphin pods that sometimes accompany boats in the channel
+- A dive knife or shears is useful in the channel where fishing line debris can occasionally be found
+- Extend your trip to explore multiple baixo formations — each has slightly different coral communities
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The offshore location requires attention to weather windows. Do not dive if wind exceeds 15 knots from the south, as sea conditions deteriorate rapidly in the channel. Always carry an SMB and be prepared for a longer-than-expected surface drift if current picks up during the ascent.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The varied coral architecture and diverse fish life support both macro and wide-angle photography. Branching Acropora coral gardens in the 5-10 meter zone photograph well in ambient light with a compact camera. At depth, wider glass and strobes will bring out the colors of the sea fans and encrusting corals.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

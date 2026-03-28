@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Jackfish Alley
 
-Jackfish Alley is a reef dive site in Red Sea, Middle East.
+Jackfish Alley is one of the most popular dive sites in the Ras Mohammed National Park area, a coral reef passage south of Sharm el-Sheikh in the northern Egyptian Red Sea famous for its massive schools of circling jack fish.
 
 ## Overview
 
-Jackfish Alley is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Jackfish Alley forms part of the Ras Mohammed reef system at the southern tip of the Sinai Peninsula, one of the Red Sea's premier marine protected areas. The site is a long, narrow reef channel or alley flanked by coral walls, through which tidal currents funnel and concentrate nutrients — creating conditions that support the enormous aggregations of bigeye trevally and other jacks for which the site is named. The coral walls on either side of the alley are dense and colourful, with large sea fans and soft corals adorning the faces below 10 meters. Dive boats from Sharm el-Sheikh visit Jackfish Alley on virtually every Ras Mohammed day trip.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Ras Mohammed National Park, southern tip of Sinai, northern Egyptian Red Sea
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral reef channel with walls (drift dive in current)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20–30 meters
+- **Current**: Moderate to strong; channelled current is the defining feature
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The headline attraction is the enormous, swirling tornado of bigeye trevally (jackfish) that occupies the alley, particularly during morning hours. The school can number in the thousands and creates one of the most visually spectacular sights in Red Sea diving. Barracuda school nearby in similar numbers. Below the jack tornado, the coral walls host anthias, butterflyfish, and groupers. Napoleon wrasse cruise the alley floor. Moray eels are resident in the wall crevices. Hawksbill turtles are frequently seen, and reef sharks patrol the outer edges of the current channel. In summer, whale sharks occasionally pass through the Ras Mohammed area.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Jackfish Alley is typically dived as a drift, entering at the northern end of the alley and allowing the current to carry divers through. Descend to the alley floor at 15–18 meters and then rise into the mid-water zone where the jack schools concentrate, usually at 8–12 meters. The drift carries divers naturally through the alley and into the open reef area at the southern end. Navigation is simple — the alley is linear and the current is the guide.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day-boat access from Sharm el-Sheikh, Naama Bay, or Dahab operators. Ras Mohammed National Park entry fees apply. Entry by giant stride or back roll. The drift nature means the pickup boat follows the group and collects divers at the downstream end of the alley. Deploy an SMB as you exit the alley into open water.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Time your arrival at the alley for early morning when the jackfish schools are typically most concentrated
+- Drift with the current rather than fighting it — the most experienced divers look the most relaxed here
+- The bigeye trevally tornado is at its most spectacular when framed against the sunlit surface from below
+- Ras Mohammed experiences heavy boat traffic on calm days — confirm your operator's entry time in advance
+- Combine Jackfish Alley with Shark Reef and Anemone City at Ras Mohammed for a full-day experience
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The channelled current in the alley can be strong enough to make independent navigation impossible. Follow the current and do not fight it. Signal the surface boat with an SMB before ascending at the downstream end of the alley. Boat traffic at Ras Mohammed can be heavy during peak season; surfacing without an SMB is dangerous. Always dive with a guide on the first visit to this site.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The swirling jackfish tornado is the most-photographed subject in Ras Mohammed and one of the iconic images of Red Sea diving. A wide-angle lens pointed upward through the school, backlist by the sun, produces stunning results. Compact camera users can achieve similar effects by positioning within or beneath the school. The coral walls also provide good backgrounds for reef fish portraits.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

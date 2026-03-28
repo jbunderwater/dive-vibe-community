@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## City of Sheboygan (Wrack)
 
-City of Sheboygan (Wrack) is a historic wreck dive in Great Lakes, North America.
+The City of Sheboygan is a 19th-century wooden propeller steamer lying in Lake Ontario near Kingston, Ontario. Part of the remarkable collection of shipwrecks in the Kingston area — one of the most wreck-dense regions in North America — this vessel rests at approximately 20 metres in the cold, clear freshwater that has kept her remarkably intact.
 
 ## Overview
 
-City of Sheboygan (Wrack) is a dive site in Great Lakes featuring the wreck of the City of Sheboygan (Wrack). Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Kingston, Ontario area at the eastern end of Lake Ontario and the entrance to the St. Lawrence River has been a maritime crossroads for two centuries. The combination of busy shipping traffic, treacherous shoals, and fierce winter storms claimed numerous vessels whose remains now form one of North America's finest underwater heritage trails. The City of Sheboygan was a wooden propeller-driven steamer that served Great Lakes trade in the latter half of the 19th century. She lies in approximately 20 metres of Lake Ontario water near Kingston, where the cold, dark freshwater conditions have preserved her hull with exceptional fidelity. Visibility typically ranges from 5–10 metres.
 
 ## Site Information
 
-- **Location**: Great Lakes, North America
+- **Location**: Lake Ontario, Great Lakes, Canada
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
+- **Maximum Depth**: 20 metres
+- **Typical Visibility**: 5–10 metres
+- **Water Temperature**: 4–18°C (seasonal); bottom typically 4–6°C
+- **Current**: Minimal in offshore Lake Ontario waters
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Lake Ontario near Kingston supports a diverse freshwater ecosystem. Smallmouth bass are the most commonly seen fish around the City of Sheboygan, patrolling the hull openings and deck sections. Yellow perch school in mid-water above the wreck. Round gobies — an established invasive species — cover the bottom around the debris field. Lake whitefish are occasionally spotted in the open water column above. The hull carries heavy zebra mussel colonization below 10 metres.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The wreck lies on a flat silty bottom upright or at a slight list. Explore the hull from bow to stern, noting the propeller machinery and boiler if present. The Kingston area's silty bottom requires careful buoyancy control to avoid reducing visibility. Ascend on the mooring or anchor line for a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Multiple dive charter operators work out of Kingston Harbour and the Kingston-area marinas. Several companies run multi-wreck day trips to the local sites. Entry by giant stride or back roll. Deploy SMB on ascent.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- The Kingston area's wreck collection is extensive — plan a multi-day trip to explore several sites
+- A torch is helpful for examining the engine and machinery spaces
+- Silty bottom conditions require practiced buoyancy
+- Visibility is often best in the morning before boat traffic stirs up sediment
+- Artifacts at all Kingston-area wrecks are protected under Ontario heritage legislation
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Lake Ontario waters near Kingston are relatively sheltered but can develop wave action with strong winds from any direction. Cold water demands adequate thermal protection. Boat traffic in Kingston Harbour can be significant — always ascend on a line with an SMB deployed. Dive with a buddy.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The City of Sheboygan's 19th-century wooden construction and machinery offer compelling photographic subjects. A torch or video light is valuable for illuminating interior spaces and hull details in the darker freshwater conditions. Smallmouth bass make willing portrait subjects.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

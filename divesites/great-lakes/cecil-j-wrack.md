@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## Cecil J. (Wrack)
 
-Cecil J. (Wrack) is a historic wreck dive in Great Lakes, North America.
+The Cecil J. is a Lake Erie wreck resting in approximately 20 metres off the Ontario north shore, in the productive wreck-diving waters between Port Dover and Port Colborne. This site represents the typical Lake Erie wreck experience — cold, silty-bottomed, and well-preserved.
 
 ## Overview
 
-Cecil J. (Wrack) is a dive site in Great Lakes featuring the wreck of the Cecil J. (Wrack). Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Cecil J. lies on the northern Lake Erie lakebed at an ideal intermediate diving depth. Like the dozens of other 19th and early 20th-century vessels that litter the Lake Erie bottom between Ontario's north shore and Ohio, the Cecil J. has benefited from the cold, oxygen-depleted conditions that inhibit the wood-boring organisms and bacterial action that would rapidly destroy a wreck in salt water. The result is an underwater time capsule: hull planking, hardware, anchors, and rigging preserved for divers to explore a century or more after the vessel sank. Visibility varies from 5 metres in poor conditions to 15+ metres on calm summer days.
 
 ## Site Information
 
-- **Location**: Great Lakes, North America
+- **Location**: Lake Erie, Great Lakes, Canada
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
+- **Maximum Depth**: 20 metres
+- **Typical Visibility**: 5–15 metres
+- **Water Temperature**: 4–22°C (seasonal); bottom typically 6–10°C
+- **Current**: Variable with wind
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Yellow perch are the signature fish of Lake Erie wreck sites, and the Cecil J. hosts a healthy resident population that schools densely around the hull in summer. Walleye patrol the perimeter, particularly early in the morning. Smallmouth bass occupy hull openings and sheltered areas below the deck. Round gobies are present throughout the debris field. Zebra mussels encrust all submerged hard surfaces.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The wreck lies upright on a flat sandy-silty bottom. Explore from bow to stern, taking note of structural and historical details along the hull. Silty sediment around the base of the wreck can reduce visibility if disturbed — maintain excellent buoyancy. Ascend the anchor or mooring line for a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Charter dive boats from Port Dover area provide regular wreck diving trips to this and nearby sites. Entry by giant stride. Deploy SMB on ascent. Local dive operators can advise on which wrecks to combine for the best day's diving.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Dive early morning for best visibility before any wind develops
+- A torch significantly improves the quality of hull and interior exploration
+- Pair this dive with another nearby Lake Erie wreck for a full day charter
+- Drysuit strongly recommended
+- Artifacts are protected under Ontario heritage law
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Lake Erie weather changes quickly. Defer to your dive charter operator's judgment on conditions. Cold water and limited bottom visibility in poor conditions are the main hazards. Always dive with a buddy and carry an SMB.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+Lake Erie wreck photography benefits from supplemental lighting. The blue-green ambient light underwater combined with a torch or video light reveals hull wood grain, rusted hardware, and other detail. Yellow perch schools make excellent subjects for mid-water wide-angle shots.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

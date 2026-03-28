@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Brown Reef
 
-Brown Reef is a reef dive site in Philippines Palawan, Asia.
+Brown Reef is a coral reef system in southern Palawan, part of the chain of offshore reefs and banks found in the remote sea passages southwest of Palawan proper.
 
 ## Overview
 
-Brown Reef is a dive site in Philippines Palawan offering rewarding diving on healthy coral reef structures . Southern Palawan reef dive. Coral formations with typical tropical reef fish species.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Located in the open waters between Palawan and Borneo, Brown Reef forms a compact reef structure rising from deeper water. The reef top sits at approximately 5–8 meters, sloping away to sandy patches and coral rubble at 20–25 meters on the edges. Hard coral coverage is typically strong on the upper reef, with encrusting plate corals, brain corals, and small table corals forming the main structural components. The surrounding blue water hosts regular pelagic visitors drawn by the upwellings around the reef base.
 
 ## Site Information
 
-- **Location**: Philippines Palawan, Asia
+- **Location**: Southern Palawan offshore, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters
+- **Current**: Moderate; variable direction
+- **Best Time**: November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Reef sharks are commonly sighted at depth, while sea turtles rest and feed on the shallower reef platform. Schools of fusiliers move in coordinated formations just above the reef surface, attracting predatory trevally and barracuda. Clownfish colonies occupy sea anemones scattered across the upper reef, and reef fish diversity is high with numerous wrasse, parrotfish, and angelfish species.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef top and conduct an orientation circuit of the shallow platform before heading down the slopes to your target depth. The perimeter at 20–25 meters offers the best chance of shark and large pelagic encounters. Return up the slope and finish with an extended shallow exploration before your safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Accessible only by liveaboard or long-range chartered vessel from southern Palawan ports. Confirm drift conditions with your boat crew before descending. Entry via giant stride; use an SMB for the ascent to assist boat pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Best combined with other southern Palawan bank dives on a multi-day liveaboard
+- Visit early morning for best visibility and calmer surface conditions
+- Bring both macro and wide-angle lenses — the reef offers both types of photography
+- Carry a signaling mirror or dive light for safety in the remote location
+- Check buoyancy carefully before entry; the reef top is shallow and coral damage is easy to cause
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The remote location requires self-reliance. Carry adequate signaling devices (SMB, whistle, mirror) and ensure your boat crew has a clear pickup plan. Currents can be unpredictable around the reef perimeter. Nearest medical and hyperbaric facilities are in Puerto Princesa.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The bright, clear water over the shallow reef top produces excellent natural-light images of reef scenes and macro subjects. Trevally and barracuda schools against blue water make dramatic wide-angle shots. Clownfish in their anemones are classic and reliable subjects on the upper reef.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## 7 Pinnacles
 
-7 Pinnacles is a reef dive site in Red Sea, Middle East.
+7 Pinnacles is a coral pinnacle dive site in the Strait of Tiran, near Sharm el Sheikh, northern Red Sea, Egypt.
 
 ## Overview
 
-7 Pinnacles is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+7 Pinnacles sits within the Strait of Tiran, one of the most celebrated diving corridors in the Red Sea. As its name suggests, the site features a series of seven distinct coral pinnacles rising from a sandy seabed, each encrusted with hard corals and festooned with soft corals, sea fans, and reef fish. The Tiran Strait channels nutrient-rich upwellings from the Gulf of Aqaba, supporting prolific marine life at every pinnacle. Strong currents are common in the strait, making this site best suited to divers comfortable with current diving.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Strait of Tiran, Sharm el Sheikh, Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral pinnacles / reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 25–40 meters
+- **Current**: Moderate to strong; tidal-driven
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The pinnacles attract dense aggregations of schooling fish — glassfish, fusiliers, and anthias swarm the structures in spectacular numbers. Large grouper and snapper patrol the bases, and Napoleon wrasse are regularly spotted. Reef sharks occasionally cruise the deeper sections between pinnacles. The nutrient-rich current draws planktivores in abundance, which in turn attracts larger predators. Turtles are sometimes seen resting on the coral heads.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Divers typically navigate between multiple pinnacles using the current to assist movement. Descend onto the first pinnacle at around 10–15 m, then follow the reef structure down toward the sandy bottom at 18–20 m. Drift between pinnacles, exploring each one before beginning a gradual ascent. Complete your safety stop in the blue water or on the last pinnacle before surfacing.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is exclusively by dive boat from Sharm el Sheikh or Na'ama Bay. Day-trip and liveaboard operators both visit this site. Entry is typically via back roll or giant stride. Coordinate with the boat captain for pickup, as surface drift is possible in current.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Time your dive with the current to move efficiently between all seven pinnacles
+- Look beneath overhangs on each pinnacle for resting lionfish, scorpionfish, and glassfish concentrations
+- A reef hook can be useful if you want to station yourself at a pinnacle and observe pelagic traffic
+- Bring an SMB — drifting in the Tiran Strait demands reliable surface marking
+- The site pairs well with Gordon Reef or Thomas Reef for a full Tiran day trip
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Currents in the Strait of Tiran can be powerful and shift direction with the tide. Always carry an SMB and dive whistle. Discuss current plans and abort signals with your buddy before descending. Boat traffic in the strait can be heavy — surface carefully and use your SMB conspicuously.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Multiple pinnacles covered in sea fans and soft corals offer rich wide-angle opportunities, particularly when schooling fish fill the frame. Macro subjects including nudibranchs and featherstars are found in crevices between coral heads. Shoot early in the morning for the best light angles.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

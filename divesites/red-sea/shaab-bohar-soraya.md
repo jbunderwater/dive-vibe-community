@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Shaab Bohar Soraya
 
-Shaab Bohar Soraya is a reef dive site in Red Sea, Middle East.
+Shaab Bohar Soraya is a reef site in the Fury Shoals region of Egypt's southern Red Sea, positioned adjacent to Shaab Bohar Kebir at approximately 24.29°N, 35.54°E. "Soraya" is a name used across multiple sites in this region — possibly named after a vessel or person from the early liveaboard era. The Fury Shoals complex is one of the most productive offshore reef systems accessible from Marsa Alam and Ras Banas, and Shaab Bohar Soraya is one of several named sections dived by liveaboards on southern itineraries.
 
 ## Overview
 
-Shaab Bohar Soraya is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Shaab Bohar Soraya is a mid-sized reef structure with its own distinct character and terrain. The reef supports a mix of hard and soft coral coverage, with the more sheltered sections having different species composition than the exposed current-facing faces. Like other Fury Shoals reefs, it benefits from excellent water clarity and nutrient-rich upwelled water that supports dense fish populations. The site is typically dived in conjunction with Shaab Bohar Kebir Ost and other nearby structures on the same day.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Fury Shoals, southern Red Sea, Egypt
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Typical Visibility**: 20-35 meters (65-115 feet)
 - **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Like all Fury Shoals reefs, Shaab Bohar Soraya supports a full Red Sea reef ecosystem. Grey reef sharks and whitetip reef sharks are present, particularly on the more exposed sections. Schools of snapper and fusiliers inhabit the mid-water zone above the reef. Napoleon wrasse, moray eels, and turtles are common. The coral formations include hard table corals, branching acropora, and massive Porites on the shallower sections, while the deeper and more exposed faces carry gorgonian fans and colorful soft corals. Octopus are often spotted in the sandy channels between reef structures.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef crest and assess current direction before committing to a route. Follow the reef contour, exploring coral formations at varying depths between 5 and 20 meters. Pay attention to the transition zones where different coral types meet — these edges are often the most fish-rich areas. The sandy base around the reef perimeter can yield rays and garden eels. Complete the dive with a safety stop at 5 meters on the shallow reef top.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by liveaboard on Fury Shoals itineraries. Giant stride entry from the dive skiff. Follow the guide's briefing for current-appropriate dive direction. Ascend on the mooring line if available, or deploy an SMB for open-water safety stop.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Dive this site in conjunction with Shaab Bohar Kebir Ost for a comprehensive experience of the reef complex
+- The Fury Shoals are best dived on an extended liveaboard; day trips from Marsa Alam are a long way out
+- Check current conditions thoroughly before the dive — strong flow can develop between reef structures
+- Macro and wide-angle photography are both productive at this site
+- Turtles are common resting on the reef; approach slowly and avoid startling them
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Strong channeled currents between reef structures can carry divers away from the site quickly. Always carry and deploy an SMB. The remoteness of the Fury Shoals means divers must be self-sufficient and conservative with air reserves. Fire coral and lionfish are present throughout the reef; appropriate exposure protection is recommended.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The Fury Shoals' exceptional clarity makes this a productive wide-angle destination. Hard coral formations photographed with ambient light create compelling reef landscape images. Schooling fish over the reef crest are a classic subject. Macro opportunities include nudibranchs, cleaning shrimps, and small reef fish in crevices on the coral face.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

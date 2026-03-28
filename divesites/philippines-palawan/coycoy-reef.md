@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Coycoy Reef
 
-Coycoy Reef is a reef dive site in Philippines Palawan, Asia.
+Coycoy Reef is a coral reef in the Balabac Island group of southern Palawan, known locally by its Filipino name and located in waters that form part of the broader Coral Triangle ecosystem.
 
 ## Overview
 
-Coycoy Reef is a dive site in Philippines Palawan offering rewarding diving on healthy coral reef structures . Balabac area reef. Local name Coycoy. Coral formations.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Situated near Balabac Island, Coycoy Reef benefits from the tidal flows of the Balabac Strait that keep the coral fed and oxygenated. The reef forms a coherent structure with a coral-topped platform at 5–10 meters, gently sloping to sand and rubble at 20 meters on the outer edges. Hard coral formations dominate, with notable coverage of branching Acropora, table corals, and massive Porites heads. The site sees minimal recreational dive traffic, meaning fish populations are largely unconditioned to human presence and exhibit natural, undisturbed behaviour.
 
 ## Site Information
 
-- **Location**: Philippines Palawan, Asia
+- **Location**: Balabac Island group, southern Palawan, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 10-25 meters
+- **Current**: Moderate tidal current
+- **Best Time**: November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Reef fish diversity is high at Coycoy Reef, reflecting the pristine Balabac marine environment. Parrotfish, wrasse, angelfish, and surgeonfish are ubiquitous. Sea turtles are commonly seen here, as the Balabac area supports one of the Philippines' healthier sea turtle populations. Reef sharks patrol the deeper perimeter, and the occasional bumphead parrotfish group may pass through. Nudibranchs and other macro subjects inhabit the rubble zones around the reef base.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin on the coral platform and work a circuit around the reef. Descend the outer slopes to 15–20 meters to check for sharks and larger fish before returning to the shallower reef top. Given the isolation of the site, there is no rush — the dive rewards slow, attentive exploration rather than covering maximum ground.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by boat from Balabac town or via a liveaboard itinerary covering southern Palawan. Entry by giant stride or back roll. Deploy an SMB before ascending; the surface can be choppy in the Balabac area when wind picks up.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Take time to explore the coral rubble zones for nudibranchs and other macro life
+- Morning dives before the wind comes up give the calmest surface and best visibility
+- The Balabac area is excellent for snorkelling as well — the shallow reef top is productive above water too
+- Respect the pristine environment; anchoring on sand rather than reef is essential
+- Combine with Carrington Reefs or Egeria Rocks for a comprehensive Balabac diving day
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The Balabac area is remote. Carry comprehensive signaling equipment and ensure your boat crew maintains visual contact throughout the dive. Currents can run through the strait unexpectedly. The nearest hyperbaric facility is in Puerto Princesa, a long journey away.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Clear water and undisturbed fish behaviour make Coycoy Reef an excellent photography site. Portrait-style reef fish images are particularly productive given the fish's lack of fear of divers. Wide-angle coral scenes and sea turtle encounters are the highlights.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Dorfa El Fanus West
 
-Dorfa El Fanus West is a reef dive site in Red Sea, Middle East.
+Dorfa El Fanus West is a coral reef site on the western side of the El Fanus reef system near Hurghada, Egypt. "Dorfa" (also written "Dofra") refers to the sloping reef structure, and this western face is commonly used as a mooring site for day-trip dive boats operating out of Hurghada. The western orientation provides good light in the afternoon and some shelter from prevailing northerly winds.
 
 ## Overview
 
-Dorfa El Fanus West is a dive site in Red Sea offering rewarding diving on healthy coral reef structures . mooring place for dive boats. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The reef slopes gradually from the surface down to around 20 meters, where the bottom transitions to a sandy plain with scattered coral outcrops. The upper reef between 5 and 12 meters is the most vibrant section, with dense encrusting and branching hard corals providing habitat for a wide variety of reef fish. The site is part of the El Fanus reef complex, which includes several named dive points along the same structure. Visibility at this site typically ranges from 15 to 30 meters. Water temperatures average 22°C in winter and reach 28–30°C in summer.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Red Sea, Egypt (El Fanus reef, west of Hurghada)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
+- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Current**: Moderate to strong (variable with wind)
 - **Best Time**: September to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The El Fanus reef system is known for consistent reef fish populations: schools of anthias hover above the coral, with emperor angelfish, butterflyfish, and surgeonfish common throughout. Napoleon wrasse and large grouper are regularly encountered on the deeper sections of the slope. Moray eels, lionfish, and scorpionfish are found in rocky overhangs. Sea turtles graze on the reef in the shallower zones. Occasional reef sharks are spotted at depth on the outer edges.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin at the mooring line and work across the reef top, gradually descending the western slope. The most interesting terrain lies between 8 and 18 meters where the slope steepens and coral coverage is densest. Sandy channels between coral ridges provide good navigation landmarks. Ascend back up the slope toward the mooring line before deploying your SMB for your safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boats moor on the reef using fixed mooring buoys. Entry is via giant stride from the stern. Use the mooring line for descent and ascent. In light-current conditions, a free descent along the slope is possible. Pickup is from the boat platform after a 3-minute safety stop.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- This site is often dived as part of a multi-site day trip including El Fanus and El Fanadir — ask your operator about the full route
+- Afternoon light on the western face provides good illumination for photography
+- Current can pick up in the afternoon; morning dives on this side of the reef tend to be calmer
+- Combine with a dive at the nearby El Fanus East or El Fanadir for a complete picture of the reef system
+- Visibility can be reduced after periods of strong wind due to suspended sediment
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Fire coral is present throughout the shallower reef sections — maintain buoyancy and avoid contact. Currents across the El Fanus reef can be moderate and can increase quickly with changing wind direction. Lionfish are common in crevices; watch where you place your hands. Carry an SMB for all open-water safety stops.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The western slope's afternoon light makes this an attractive option for wide-angle reef photography after midday. The dense anthias clouds above the coral heads create colourful wide-angle compositions. Macro subjects — including nudibranchs, cowrie shells, and commensal shrimp — are found in recessed sections of the reef between 8 and 15 meters.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

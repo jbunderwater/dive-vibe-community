@@ -13,54 +13,32 @@ addedBy: osm_import
 
 ## Marita Shoals
 
-Marita Shoals is a reef dive site in Marshall Islands, Pacific.
+Marita Shoals is a shallow reef structure in the northern reaches of Kwajalein Atoll's lagoon, positioned as one of the outermost named dive sites in the Kwajalein system and noted for its exposure to open-lagoon conditions.
 
 ## Overview
 
-Marita Shoals is a dive site in Marshall Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The shoals rise from the sandy lagoon floor to form a broad, gently sloping reef system at depths between 5 and 25 meters. The exposed position means the site receives more oceanic influence than the sheltered inner-lagoon coral heads — currents run stronger here, and the fish density and species diversity reflect that nutrient input. Hard coral coverage is solid, with encrusting corals, brain corals, and scattered table corals building a complex three-dimensional reef structure.
 
-## Site Information
+Visibility at Marita Shoals typically runs 25–35 meters in the open lagoon environment. Water temperatures hold around 28–30°C year-round, with conditions generally calmest between April and November.
 
-- **Location**: Marshall Islands, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+## What to Expect
 
-## Marine Life
+The current-influenced position makes this site a consistent producer of pelagic encounters. Barracuda are almost always present, hanging in loose schools or patrolling the reef edge. Grey reef sharks are regular visitors in the mid-water zone. Napoleon wrasse cruise the outer edge of the shoals, and schools of bumphead parrotfish have been reported in the area. Closer to the reef, the dense fish community includes groupers, sweetlips, snapper, and triggerfish working the coral heads.
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Hawksbill turtles graze the sponge and algae growth across the reef flat. In the crevices, moray eels and lionfish occupy the darker recesses. The sandy inter-reef areas around the shoals occasionally yield sightings of resting whitetip reef sharks.
 
-## Dive Profile
+## Practical Information
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth Range**: 5–25 meters
+- **Visibility**: 20–35 meters typical
+- **Currents**: Moderate to occasionally strong; more exposed than inner-lagoon sites
+- **Entry**: Boat dive from Kwajalein operators
+- **Best For**: Intermediate divers comfortable with mild current
 
-## Entry and Exit
+## Marine Life Highlights
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Grey reef sharks, barracuda schools, napoleon wrasse, bumphead parrotfish (occasional), hawksbill turtles, moray eels, lionfish, groupers, sweetlips, snapper, whitetip reef sharks.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

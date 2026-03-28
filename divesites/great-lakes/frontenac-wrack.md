@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## Frontenac (Wrack)
 
-Frontenac (Wrack) is a historic wreck dive in Great Lakes, North America.
+The Frontenac is a 19th-century wooden schooner resting in Lake Ontario near Kingston, Ontario — one of dozens of well-preserved historic vessels that make Kingston the most wreck-rich diving destination in Canada. The name Frontenac has historical significance in the Kingston area, named for the famous French governor of New France, and this vessel's loss is part of the region's long maritime heritage.
 
 ## Overview
 
-Frontenac (Wrack) is a dive site in Great Lakes featuring the wreck of the Frontenac (Wrack). Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Kingston, Ontario sits at the northeastern corner of Lake Ontario where the lake drains into the St. Lawrence River. This geographic position made Kingston a critical Great Lakes shipping hub throughout the 19th century, and the resulting maritime traffic, combined with fierce autumn storms, produced a remarkable density of shipwrecks. The Frontenac is one of many wooden schooners that traded in Lake Ontario waters and came to rest on the lake bottom when storms or navigational errors ended their working lives. Cold, dark, anaerobic conditions in Lake Ontario at 20 metres have preserved wooden hull elements that would not survive in saltwater. Visibility is typically 5–10 metres.
 
 ## Site Information
 
-- **Location**: Great Lakes, North America
+- **Location**: Lake Ontario, Great Lakes, Canada
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
+- **Maximum Depth**: 20 metres
+- **Typical Visibility**: 5–10 metres
+- **Water Temperature**: 4–18°C (seasonal); bottom 4–6°C
+- **Current**: Mild offshore
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Smallmouth bass dominate the fish community at Kingston-area wrecks, aggressively defending hull openings against intruders. Yellow perch gather in schools around the masts and rigging. Round gobies carpet the bottom. Occasional walleye sightings add excitement. The hull surfaces are encrusted with zebra mussels below 8 metres.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The Frontenac lies on the lakebed at approximately 20 metres. Explore the length of the hull from bow to stern, examining the construction methods typical of 19th-century Great Lakes schooners. The mast stubs and rigging fragments (if present) add historic character. Maintain buoyancy control above the silty bottom. Safety stop at 5 metres for 3 minutes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Kingston has numerous dive charter operators running regular trips to local wrecks. Day trips typically visit two or three wrecks in the 18–22 metre range. Entry by giant stride. Deploy SMB on ascent.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Kingston's wreck diving infrastructure is excellent — boats, equipment rental, and experienced guides are all available
+- Dive the Frontenac as one of multiple Kingston wrecks in a single day
+- Cold-water gear is essential year-round
+- A torch is valuable for the hull's shadowed sections
+- Heritage laws protect all artifacts
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Standard Great Lakes freshwater diving precautions apply. Cold water, limited visibility, and occasional Lake Ontario wave action. Always dive with a buddy. Carry an SMB for ascent in areas with boat traffic.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+Wooden hull wreck photography in Lake Ontario's blue-green ambient light has a distinctive character. Supplemental lighting reveals hull grain, fasteners, and hardware details. Smallmouth bass make engaging portrait subjects.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

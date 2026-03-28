@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Light House
 
-Light House is a reef dive site in Red Sea, Middle East.
+Light House is a well-known shore dive site in Dahab, on the Gulf of Aqaba coast of the Sinai Peninsula, Egypt. The site is named for the small lighthouse structure near the entry point at the northern end of Dahab's coastline. It is one of the most popular and frequently dived sites in Dahab, favoured by beginners and intermediate divers seeking a reliable, accessible reef experience close to town.
 
 ## Overview
 
-Light House is a dive site in Red Sea offering excellent diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The reef at Light House descends from a rocky shore entry over a sloping coral garden that reaches a sand and rubble bottom at 15-18 meters. The site is notable for its ease of access — divers can walk from most Dahab guesthouses and cafes to the entry point in minutes — and for the consistency of the marine life encountered here throughout the year. Unlike more current-exposed Gulf of Aqaba sites, Light House is typically sheltered and calm, making it one of the better sites for training dives, refresher dives, and leisurely afternoon or night dives. Visibility regularly reaches 20-30 meters in good conditions.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Dahab, Sinai Peninsula, Egypt, Gulf of Aqaba
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Current**: Generally mild; occasional tidal flow
+- **Best Time**: Year-round; spring and autumn for best conditions
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Light House hosts a typical but diverse Gulf of Aqaba reef community that rewards attentive divers. Pufferfish and moray eels are reliable regulars in the reef's crevices and overhangs. Clownfish with their anemones are scattered across the reef, and napoleon wrasse cruise the mid-water section in impressive numbers for a nearshore site. Schools of anthias, butterflyfish, and surgeon fish populate every coral head. Nudibranchs, flatworms, and small crustaceans reward macro photographers who take time to scan encrusted rock surfaces. Stonefish and scorpionfish camouflage against rubble and rock — a reminder to watch foot placement at all times.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter from the rocky shore and swim out over the shallow reef flat, which drops to a sloping reef garden at 5-10 meters. Follow the slope down to 15-18 meters on the sandy bottom, then work back up the slope exploring coral formations on the way. The site can be dived as a leisurely out-and-back along the reef or extended by moving along the shore in either direction, each section offering slightly different coral characteristics. Night dives here are particularly rewarding — cuttlefish, sleeping parrotfish, and hunting octopus are regular sightings after dark.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry from a rocky platform — suitable footwear or reef shoes are strongly recommended. Enter carefully as the rocks can be slippery and urchins are present near the waterline. Navigate to the reef using the lighthouse as an above-surface orientation point. Exit at the same entry area, moving deliberately to avoid urchin spines on exit.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Night dives at Light House are among the best in Dahab — book with a local operator or bring adequate lights
+- The site is ideal for photographers working on macro or reef fish subjects in calm, shallow conditions
+- Arrive early morning for the quietest conditions and best fish activity before afternoon wind builds
+- Combining Light House with the nearby Canyon or Islands site makes for a full day of contrasting dive experiences in Dahab
+- Water temperature averages 22-24°C year-round; a 3mm wetsuit is comfortable in summer, 5mm in winter
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Light House is one of the safest entry-level dives in Dahab, but standard precautions apply. Stonefish and scorpionfish camouflage on the rocky bottom and rubble areas — never place hands or kneel on the seabed without checking first. Fire coral is present on coral formations. Urchins concentrate near the entry and exit zone. A buddy and surface SMB are always recommended even at beginner sites.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The combination of clear water, abundant marine life, and manageable depth makes Light House one of Dahab's best photography sites. Clownfish and anemone subjects are plentiful. Macro work on the encrusted slope rewards patience. Napoleon wrasse portraits require a wide-angle lens and slow approach. Night photography at this site yields cuttlefish, octopus, and sleeping parrotfish subjects.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

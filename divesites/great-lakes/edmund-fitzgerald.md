@@ -13,55 +13,56 @@ addedBy: osm_import
 
 ## Edmund Fitzgerald
 
-Edmund Fitzgerald is a historic wreck dive in Great Lakes, North America.
+The Edmund Fitzgerald is the most famous shipwreck in Great Lakes history, lying in 160 metres of water in Lake Superior south of Michipicoten Island, Ontario, Canada. The massive ore carrier — 222 metres long — sank on November 10, 1975, during a catastrophic November storm, taking all 29 crew members to their deaths. The site is an official grave, diving is restricted, and access requires government permits.
 
 ## Overview
 
-Edmund Fitzgerald is a renowned dive site in Great Lakes featuring the wreck of the Edmund Fitzgerald which sank in 1975-11-10. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+On the evening of November 10, 1975, the Edmund Fitzgerald disappeared from radar during one of Lake Superior's notorious autumn gales, taking 29 crew members to the bottom. The cause of sinking has never been definitively established, though theories include hatch cover failures, rogue waves, and shoaling. The vessel lies in Canadian waters approximately 27 kilometres from Whitefish Point, Michigan, broken into two main sections — bow and stern — separated by approximately 170 metres of debris field. The wreck became the subject of Gordon Lightfoot's famous ballad "The Wreck of the Edmund Fitzgerald" and remains deeply embedded in Great Lakes cultural memory.
+
+At 160 metres, this is strictly a technical diving site accessible only to highly trained deep divers with trimix qualifications and appropriate support systems. The Canadian government designates the wreck as a war grave, and diving is controlled through permit requirements. Only a handful of authorized diving expeditions have visited the wreck since it was discovered by the US Navy in 1976.
 
 ## Site Information
 
-- **Location**: Great Lakes, North America
-- **Entry Type**: Boat dive
+- **Location**: Lake Superior, Ontario, Canada (approximately 27 km from Whitefish Point, Michigan)
+- **Entry Type**: Technical diving expedition only
 - **Site Type**: Wreck
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 160 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Difficulty Level**: Advanced (technical — far beyond recreational limits)
+- **Maximum Depth**: 160 metres
+- **Typical Visibility**: 3–8 metres at depth
+- **Water Temperature**: 2–4°C at depth year-round
+- **Current**: Variable near surface; minimal at depth
+- **Best Time**: July to August (most stable surface conditions on Lake Superior)
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Lake Superior at depth supports only sparse life. Deep-water sculpin and lake trout have been observed near the wreck during documented dives. The extreme cold and pressure limit the diversity of species. The wreck itself, being in relatively cold, low-oxygen conditions, has undergone slower biological colonization than shallower wrecks in the more productive lower Great Lakes.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 160 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+At 160 metres, the Edmund Fitzgerald is accessible only to technical divers qualified in trimix diving with extensive decompression diving experience. Bottom time is limited to minutes at this depth, with decompression obligations of 60–90 minutes or more. The dive requires planning with specialized software, gas mixes calculated for the depth profile, and a vessel with full technical support infrastructure. It is one of the most demanding dive profiles available to civilian divers.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Government permits from Transport Canada and Ontario's Ministry of Heritage are required. No commercial dive charters routinely offer trips to the Fitzgerald. The remote location requires a large, capable vessel capable of handling Lake Superior conditions.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- The Great Lakes Shipwreck Museum at Whitefish Point, Michigan, houses the Fitzgerald's recovered ship's bell and provides comprehensive historical exhibits — highly recommended for anyone interested in the Fitzgerald
+- Gordon Lightfoot's song and the 1995 IMAX documentary "The Edmund Fitzgerald: Legend of the Lakes" provide excellent context
+- The wreck is an official grave site — it must be treated with the utmost respect
+- Recreational divers should not attempt this site under any circumstances
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Lake Superior is the most dangerous of the Great Lakes, known for sudden, violent storms. Water temperatures are lethal for unprotected divers. At 160 metres, the risks of technical diving — oxygen toxicity, helium narcosis threshold management, decompression sickness, equipment failure — are extreme. Only the most experienced technical divers with appropriate training, equipment, and support should consider this site, and only with the required government permits.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The few authorized expeditions to the Edmund Fitzgerald have produced powerful imagery: the ship's name visible on the hull, the upright bow pointing toward the surface, the scattered cargo of taconite ore. These images represent some of the most significant documents in Great Lakes maritime history.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

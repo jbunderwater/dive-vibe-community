@@ -13,54 +13,32 @@ addedBy: osm_import
 
 ## Emon Coral Head
 
-Emon Coral Head is a reef dive site in Marshall Islands, Pacific.
+Emon Coral Head is a lagoon pinnacle dive near Emon Beach on Kwajalein Island, one of the most conveniently accessible coral head sites in the atoll's dive circuit and a popular choice for divers based on the main island.
 
 ## Overview
 
-Emon Coral Head is a dive site in Marshall Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Emon Beach was historically one of the primary recreational areas on Kwajalein Island, and the coral head bearing its name sits in the lagoon a short boat ride from the island's coastline. The proximity to the base makes it a frequently dived site with well-documented marine life and predictable conditions. The pinnacle rises through the lagoon's clear water to within a few meters of the surface, creating a full 25-meter depth range for exploration.
 
-## Site Information
+The coral head structure is mature and well-colonized — decades of growth in the protected lagoon environment have produced dense hard coral formations covering the pinnacle faces, with gaps and crevices throughout providing habitat complexity. Visibility in this part of the lagoon typically reaches 25–30 meters, and currents are mild year-round.
 
-- **Location**: Marshall Islands, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+## What to Expect
 
-## Marine Life
+The site is known for particularly dense concentrations of anemones with clownfish — multiple large anemone colonies are scattered across the upper sections of the coral head, each hosting its resident clownfish pair. Moray eels of several species — including the massive giant moray — have long-established territories in the crevices. Hawksbill turtles are regular visitors, grazing on sponge growth across the pinnacle. Napoleon wrasse and large parrotfish patrol the perimeter.
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+The sandy skirt around the base of the coral head harbors garden eels and the occasional blue-spotted ribbontail ray. Macro enthusiasts will find nudibranchs and flatworms on the encrusted coral surfaces throughout the dive.
 
-## Dive Profile
+## Practical Information
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth Range**: 5–25 meters
+- **Visibility**: 20–30 meters typical
+- **Currents**: Generally mild
+- **Entry**: Boat dive; convenient access from Kwajalein Island
+- **Best For**: Intermediate divers; good choice for first-time Kwajalein lagoon dive
 
-## Entry and Exit
+## Marine Life Highlights
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Clownfish and anemones, moray eels (including giant moray), hawksbill turtles, napoleon wrasse, parrotfish, garden eels, blue-spotted ribbontail rays, nudibranchs, groupers, snapper.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

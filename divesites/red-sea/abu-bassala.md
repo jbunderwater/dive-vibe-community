@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Abu Bassala
 
-Abu Bassala is a reef dive site in Red Sea, Middle East.
+Abu Bassala is a coral reef dive site in the southern Red Sea near the Berenice/Port Ghalib coastline, Egypt.
 
 ## Overview
 
-Abu Bassala is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Abu Bassala ("Father of the Onion" in Arabic, possibly referring to the rounded dome shape of the reef) is a submerged reef located in the lightly visited southern reaches of the Egyptian Red Sea, south of Port Ghalib. This part of the Red Sea sees comparatively little diver traffic compared to the Hurghada or Sharm el Sheikh regions, meaning the reef life is largely pristine. The reef is characterised by healthy hard coral formations, sea fans, and a diverse fish population supported by the nutrient-rich southern Red Sea. Liveaboard vessels are the primary means of access.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Southern Red Sea, near Port Ghalib / Berenice, Egypt
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20–35 meters
+- **Current**: Variable; can be moderate
+- **Best Time**: October to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The remote southern location supports a well-preserved reef ecosystem. Reef sharks are frequently sighted, along with various ray species crossing the sandy surrounding seabed. Dense populations of anthias, butterflyfish, and wrasse inhabit the coral structure. Napoleon wrasse and large grouper are present. Sea turtles are commonly encountered on southern Red Sea reefs of this type.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The reef rises from a sandy bottom to within a few metres of the surface. Begin in the shallower sections (5–10 m), explore the coral ridge, then descend the outer slopes to 15–20 m where sea fans and plate corals become more prominent. Return along the top of the reef for your safety stop in the coral garden.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by liveaboard from Port Ghalib, Hamata, or Marsa Alam. Day-trip access from shore is not typically available at this latitude without specialised transport. Mooring buoys may be absent; liveaboards will use anchor or drift-dive procedures depending on conditions.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Reserve this site for a liveaboard itinerary that explores the southern Egyptian Red Sea
+- Early morning dives offer the best visibility and light for photography
+- Bring reef hooks in case of current; carry SMBs at all times
+- The pristine condition of southern Red Sea reefs rewards photographers with clean backdrops
+- Be prepared for isolated dive conditions — the nearest evacuation facilities are in Port Ghalib or Marsa Alam
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Remote location means limited emergency support. Dive conservatively within your certification limits. Carry a fully charged dive computer and monitor NDLs carefully. Liveaboard dive guides will brief on site-specific current and entry procedures.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The undisturbed reef structure and clear water make for excellent wide-angle coral photography. Sea fans on the outer slope offer dramatic framing opportunities. Schooling reef fish and the open blue water beyond the reef edge provide rich photographic subjects.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

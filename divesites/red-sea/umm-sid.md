@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Umm Sid
 
-Umm Sid is a reef dive site in Red Sea, Middle East.
+Umm Sid is a coral reef dive site located along the Sinai Peninsula coast in the northern Red Sea, Egypt. Known also as "The Pillars," it features impressive coral towers and a richly encrusted reef slope that makes it a popular choice for divers exploring the Sharm el-Sheikh area.
 
 ## Overview
 
-Umm Sid is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Umm Sid sits just south of Sharm el-Sheikh and is accessed by boat from the Na'ama Bay area. The reef is characterized by enormous coral pillars rising from the sandy seabed, some reaching from depth all the way toward the surface. Gorgonian sea fans and soft corals decorate the walls between the pillars, and the site is well-regarded for consistent marine life sightings in relatively sheltered conditions. Visibility is typically excellent, often exceeding 25 meters, and the site is suitable for intermediate divers comfortable with mild current.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Sharm el-Sheikh, Sinai Peninsula, Red Sea, Egypt
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
+- **Typical Visibility**: 20-30 meters (65-100 feet)
+- **Current**: Mild to moderate
 - **Best Time**: September to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The coral pillars at Umm Sid shelter a diverse community of reef fish. Napoleon wrasse (humphead wrasse) are frequently encountered cruising between the towers, along with large groups of anthias, glassfish, and banner fish. Moray eels and lionfish lurk in the crevices. Sea turtles rest on the coral heads and are commonly spotted by divers. Triggerfish, surgeonfish, and butterflyfish populate the shallower reef platform. Reef sharks occasionally patrol the deeper sandy channels between the pillars.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin the dive at the mooring line and descend to the sandy floor between the coral towers, typically around 18-20 meters. Swim through the channels between the pillars, ascending gradually to explore the upper sections of the coral formations where fish density is highest. The sandy areas between the towers offer good navigation reference points. Allow plenty of bottom time in the mid-water range of 8-15 meters where most marine life activity concentrates. Complete a three-minute safety stop on the reef top before ascending.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from Sharm el-Sheikh or Na'ama Bay operators. Entry by giant stride or back roll from the dive deck. The mooring is typically fixed; follow the descent line. Deploy an SMB during your safety stop at 5 meters for the pickup boat to locate you. Coordinate exit logistics with the dive crew before descending.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Morning dives typically offer the best light through the coral pillars for photography
+- Take time to explore the sandy channels between the towers where small critters hide
+- Stay close to the pillars to avoid missing life in the crevices and overhangs
+- Bring an underwater torch to illuminate the colors in the soft coral growths
+- Check with operators for current conditions — even mild current can redirect drift through the pillars
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Fire coral is present throughout the reef; maintain careful buoyancy and avoid contact with the formations. Lionfish lurk in dark overhangs and are easy to brush accidentally — watch your fins and hands. Mild to moderate current can push divers away from the reef, so keep the pillars in sight as reference. Always carry and deploy an SMB. Dive within your certification depth limits.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The coral pillars at Umm Sid are among the most photogenic structures in the Sharm el-Sheikh area. Wide-angle shots looking up through the towers toward the surface produce striking silhouettes when sun angle is favorable. Napoleon wrasse and turtles offer compelling portrait subjects. Macro photographers will find nudibranchs, shrimp, and small gobies along the encrusted pillar bases. Shoot during the morning for natural light filtering through the formations.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

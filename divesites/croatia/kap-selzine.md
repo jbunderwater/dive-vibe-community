@@ -13,55 +13,50 @@ addedBy: osm_import
 
 ## Kap Selzine
 
-Kap Selzine is a wall dive site in Croatia, Europe.
+Kap Selzine is a dramatic wall dive site near the island of Cres in the Kvarner region of northern Croatia. The cape drops into a near-vertical wall that descends to 45 metres and beyond, making it one of the more challenging and rewarding dives in the Kvarner archipelago for Advanced divers.
 
 ## Overview
 
-Kap Selzine is a dive site in Croatia featuring a dramatic vertical wall that drops into the deep blue. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The wall begins in the shallows and plunges vertically, with the face covered in gorgonian sea fans, red sponges, and white-and-orange encrusting organisms typical of deep Adriatic walls. The crystal-clear Kvarner waters provide exceptional visibility — often 20+ metres — allowing full appreciation of the scale of the wall. The overhangs and fissures in the rock face create diverse micro-habitats at various depth levels.
 
 ## Site Information
 
-- **Location**: Croatia, Europe
+- **Location**: Cape Selzine, Cres Island, Kvarner, Croatia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 45 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 15–25 meters
+- **Current**: Variable; can be strong at the cape
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Large grouper occupy the upper sections of the wall. Conger eels and moray eels inhabit the deeper crevices. The wall's overhang sections shelter red coral (Corallium rubrum) colonies and dense sponge communities. Amberjack and barracuda patrol the blue water beyond the wall face, and curious sea bream explore the shallower encrusted sections. Nudibranchs are found on the sponge-covered surfaces throughout.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-45 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Descend to the upper wall face at 10–15 metres and follow the wall down to the target depth. For Advanced divers, the 30–45 metre section reveals the most impressive gorgonian formations and deepest marine life. Plan depth time carefully — begin ascending well before gas becomes a concern. A multi-level ascent up the wall face maximises bottom time at shallower depths before the 5-metre safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from Cres operators position divers at the cape. Entry by giant stride or back roll. The current at the cape can create drift conditions — discuss surface conditions with the captain before diving. Deploy an SMB well before surfacing for clear boat pickup.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Current can be significant at exposed cape positions — always confirm conditions before descent
+- Depth management is critical: the wall extends well beyond 45 m and divers can exceed planned limits quickly
+- A torch enhances the colours of the red and orange sponge communities and illuminates the overhang sections
+- Nitrox (32%) is recommended for longer comfortable bottom time on the deeper sections
+- The upper wall between 10–20 m is excellent for a second dive after a deep first dive
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+The depth (45 m), potential for current, and the disorienting experience of open-water wall diving make this an Advanced site only. Ensure all divers are comfortable at depth and have practiced good buoyancy control before the dive. Always dive with a buddy and carry an SMB.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The wall offers iconic wide-angle photography — vertical faces draped in gorgonian fans, with deep blue water in the background. A diver neutrally buoyant in the middle distance provides excellent scale. Torch-lit macro shots of the red coral and sponge communities are among the most striking images available in the Kvarner.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

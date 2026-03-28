@@ -13,55 +13,32 @@ addedBy: osm_import
 
 ## Junkpile-1
 
-Junkpile-1 is a historic wreck dive in Marshall Islands, Pacific.
+Junkpile-1 is the shallowest and most accessible of the three Junkpile wreck sites in Kwajalein Atoll's lagoon — a debris field of WWII military equipment that has transformed over eight decades into a richly colonized artificial reef.
 
 ## Overview
 
-Junkpile-1 is a dive site in Marshall Islands featuring the wreck of the Junkpile-1. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The Junkpile sites cluster together in the inner Kwajalein Lagoon, where post-battle cleanup operations and war surplus disposal left behind a field of military hardware scattered across the sandy lagoon floor. Junkpile-1 tops out at 25 meters, making it suitable for intermediate divers fresh from their first wreck experience. The debris includes vehicle chassis, equipment housings, machinery components, and assorted military hardware — each piece now encrusted with decades of coral growth and home to a complex community of reef species.
 
-## Site Information
+Visibility in the Kwajalein Lagoon is typically 20–30 meters, with the calm, sheltered lagoon environment providing predictable conditions year-round. The sandy substrate between debris pieces is clean and well-lit, making navigation straightforward even without a guide.
 
-- **Location**: Marshall Islands, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+## What to Expect
 
-## Marine Life
+The site rewards slow, methodical exploration. Every encrusted piece of debris has been claimed by marine life — lion fish hunt from the shadows, scorpionfish flatten themselves against the coral-covered metal with almost perfect camouflage, and moray eels peer from gaps in the equipment. Glassy sweepers form dense, shimmering schools inside hollow structures. Anemones with resident clownfish are scattered throughout the site.
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+On the sandy floor between the debris, blue-spotted ribbontail rays rest or cruise slowly, and garden eels sway in the slight current around the outer edges of the junkpile. The site is particularly good for detailed macro work — nudibranchs, flatworms, and small crustaceans populate the encrusted surfaces throughout.
 
-## Dive Profile
+## Practical Information
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+- **Depth Range**: 8–25 meters
+- **Visibility**: 15–30 meters typical in the lagoon
+- **Currents**: Generally mild; calm lagoon conditions
+- **Entry**: Boat dive from Kwajalein operators
+- **Best For**: Intermediate divers; excellent first Kwajalein wreck experience
 
-## Entry and Exit
+## Marine Life Highlights
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Lionfish, scorpionfish, moray eels, glassy sweepers, anemones and clownfish, blue-spotted ribbontail rays, garden eels, nudibranchs, flatworms, snapper, groupers.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

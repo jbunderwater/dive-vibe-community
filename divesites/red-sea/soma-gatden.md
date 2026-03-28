@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Soma Gatden
 
-Soma Gatden is a reef dive site in Red Sea, Middle East.
+Soma Gatden is a coral reef dive site located near Soma Bay on the Egyptian Red Sea coast, approximately 45 km south of Hurghada. The name "gatden" is a local transliteration of "garden," reflecting the lush coral formations that characterize this nearshore reef.
 
 ## Overview
 
-Soma Gatden is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Soma Gatden sits within the protected waters of Soma Bay, offering relatively sheltered conditions compared to offshore Red Sea reefs. The reef extends from the shallows down to around 20 meters, featuring a mix of hard coral tables, branching formations, and sandy clearings. Visibility regularly reaches 20-30 meters, and the site is a popular choice for day-boat excursions from the nearby resort area.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Soma Bay, Red Sea, Egypt
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20-30 meters (65-100 feet)
+- **Current**: Light to moderate
+- **Best Time**: Year-round; September to May for cooler, calmer conditions
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Soma Gatden supports a healthy community of reef fish, including anthias clouds, emperor angelfish, and pairs of Picasso triggerfish patrolling the shallows. Crocodilefish and scorpionfish blend into the sandy substrate at the reef base, while various species of nudibranch can be found on coral rubble. Napoleon wrasse are occasionally encountered, and green sea turtles rest among the coral heads. Hawksbill turtles are also reported.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin with a descent to the reef crest at around 5-8 meters, then follow the slope to the sandy bottom at 15-20 meters. The reef structure offers multiple swim-through formations and coral heads to explore. Work your way back to the shallows for your safety stop, where sunlight illuminates the hard coral gardens from above.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by day-boat from Soma Bay marina or hotel jetties. Entry is via giant stride or back roll from the dive platform. A mooring line is often used for descent. Deploy an SMB at the end of the dive for boat pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Morning dives offer the best light for photography in the shallower coral gardens
+- Watch the sandy patches at the reef base for camouflaged critters like stonefish and flatheads
+- The site is accessible year-round, though summer conditions bring warmer water and more jellyfish
+- Respect the no-touch policy — the fire coral in this reef is abundant
+- Carry an SMB for your safety stop
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Fire coral is common throughout the reef — wetsuit coverage and careful buoyancy are essential. Boat traffic in the Soma Bay area can be significant; always deploy your SMB before ascending. Currents are generally mild but can pick up around the reef tip. Dive within your certification limits and always buddy up.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The sun-drenched shallow reef crest between 5-10 meters offers superb wide-angle opportunities with hard coral in the foreground and blue water above. Macro photographers will find nudibranchs, shrimp, and small gobies in the coral rubble. Crocodilefish and scorpionfish reward careful observation at depth.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

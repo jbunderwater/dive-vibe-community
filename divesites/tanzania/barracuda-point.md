@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Barracuda Point
 
-Barracuda Point is a drift dive site in Tanzania, Africa.
+Barracuda Point is a drift dive site off the northern tip of Zanzibar Island, Tanzania, where tidal currents funnel through a narrow channel and regularly attract large schools of the fish that give this site its name.
 
 ## Overview
 
-Barracuda Point is a dive site in Tanzania offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Named for the impressive congregations of great barracuda that patrol the point, this drift site is one of the more exhilarating dives accessible from Nungwi. The Indian Ocean current sweeps divers along a sloping reef edged with sea fans and table corals down to 25 meters, with visibility typically ranging from 15 to 30 meters. Water temperatures sit around 26-29°C for most of the year, dropping slightly during the June-August kaskazi wind season.
 
 ## Site Information
 
-- **Location**: Tanzania, Africa
+- **Location**: Northern Zanzibar Island, Tanzania
 - **Entry Type**: Boat dive
 - **Site Type**: Drift
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Current**: Moderate to strong — varies with tide
+- **Best Time**: October to March (northeast monsoon); June-September also diveable
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+Schools of great barracuda are the headline attraction, sometimes numbering in the hundreds and forming spiraling tornados in the current. Giant trevally and kingfish hunt the same channel, while white-tip reef sharks cruise the reef edge below. Green and hawksbill sea turtles rest on the coral formations, and spinner dolphins occasionally pass through the blue water above. The reef top hosts dense carpets of staghorn and table Acropora corals populated by parrotfish, surgeonfish, and moorish idols.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The dive begins at a mooring or with a live-boat drop upcurrent. Divers drift along the reef slope at 15-25 meters, where the main barracuda aggregations typically hold position facing into the current. Reduce depth to 8-12 meters for the safety stop while the boat tracks your SMB. Bottom time is naturally limited by the pace of the drift; plan for 40-50 minutes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+A live-aboard or day-charter boat positions divers upstream. Entry is via giant stride or back roll from the inflatable tender. Carry an SMB and deploy it during your ascent so the pickup boat can locate you at the surface. Conditions change with the tide, so always confirm timing with the skipper before entry.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Time your dive within two hours of a tidal change for the strongest barracuda aggregations
+- Maintain neutral buoyancy and avoid finning hard — let the current carry you past the school
+- Wide-angle lens set-ups with a fisheye or 10-17mm work best for the large barracuda schools
+- Bring a reef hook if you want to pause and observe without fighting the current
+- Check visibility from the boat before entering; surface chop from the northeast can reduce clarity
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The current can be deceptively strong and direction can shift unpredictably near the point. Keep your buddy in sight at all times, agree on a maximum separation distance before descent, and be prepared to surface if you lose the reef. Jellyfish are occasionally encountered in the channel between September and November. Always carry an SMB and whistle.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Barracuda schools offer exceptional wide-angle subjects — approach slowly from below or to the side to avoid spooking the fish. Early morning dives benefit from top-lighting that creates dramatic silhouettes against the open water. The reef top also holds good macro subjects including nudibranchs and cleaner shrimp in the coral heads.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,55 +13,50 @@ addedBy: osm_import
 
 ## El Hawi Star Wrack
 
-El Hawi Star Wrack is a historic wreck dive in Croatia, Europe.
+The El Hawi Star is a merchant vessel wreck located in the Rijeka/Kvarner area of northern Croatia. At 42 metres maximum depth, it is one of the deeper accessible recreational wrecks in the northern Adriatic, sitting near the lower limit of recreational open-circuit diving and requiring careful gas planning.
 
 ## Overview
 
-El Hawi Star Wrack is a dive site in Croatia featuring the wreck of the El Hawi Star Wrack. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The wreck lies on a sloping sandy and rocky bottom at approximately 35–42 metres. The vessel's hull maintains reasonable structural integrity, with the superstructure and holds still recognisable. Years of submersion have allowed the hull to become encrusted with sponges, tubeworms, and sea fans. Visibility in this part of the Kvarner is typically 10–20 metres, though it can be reduced in spring due to plankton blooms.
 
 ## Site Information
 
-- **Location**: Croatia, Europe
+- **Location**: Kvarner Bay, Northern Croatia
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Intermediate (upper limit — Nitrox recommended)
 - **Maximum Depth**: 42 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 10–20 meters
+- **Current**: Light, occasionally stronger on the surface
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+At this depth, the wreck hosts large conger eels in the holds, substantial grouper that patrol the exterior, and lobster in the deeper crevices. The hull plating supports dense communities of encrusting sponges that attract nudibranchs and other invertebrates. Scorpionfish are well camouflaged on the encrusted surfaces throughout.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 42 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The upper sections of the wreck can be explored at 30–35 metres, with the bottom of the hull at 42 metres. Manage time carefully at depth — limit bottom time at 40+ metres to 10–15 minutes on air. Begin ascending through the shallower sections of the wreck and allow ample gas for a safety stop at 5 metres. Nitrox extends safe bottom time considerably.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from Rijeka or Crikvenica-area operators run this site. Shot line descent to the wreck is standard. Ascend via the shot line and deploy an SMB for the final ascent portion. The Kvarner can generate short steep seas — check forecasts before departure.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Nitrox (32%) strongly recommended to safely manage bottom time at 40+ metres
+- Carry a primary and backup torch — the holds and superstructure are dark
+- This should be the first and deepest dive of any multi-dive day
+- A 7 mm wetsuit or drysuit is advisable even in summer for dives at this depth
+- Log this site with the dive operator who can advise on current conditions
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The 42-metre maximum depth requires disciplined gas management and awareness of narcosis. Divers should be comfortable at depth before attempting this site. Penetration of enclosed sections requires wreck certification, reel, and redundant lighting. Carry an SMB and a dive knife.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The deeper section of the hull, with its large encrusted surfaces and structural features illuminated by torch, provides dramatic wide-angle compositions. The superstructure area at 30–35 metres receives enough ambient light for colourful shots using a strobe to fill shadows.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

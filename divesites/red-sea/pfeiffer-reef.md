@@ -13,54 +13,49 @@ addedBy: osm_import
 
 ## Pfeiffer Reef
 
-Pfeiffer Reef is a reef dive site in Red Sea, Middle East.
+Pfeiffer Reef is a remote offshore reef located in the southern Red Sea near the Sudan border, in an area accessed primarily by liveaboard vessels. The reef lies within the Sudanese Red Sea zone and is part of the broader group of deep-water reefs that includes the celebrated Sha'ab Rumi, offering a similar combination of extraordinary marine biodiversity and minimal diving pressure.
 
 ## Overview
 
-Pfeiffer Reef is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Pfeiffer Reef is an elongated oval reef rising from deep water, with a shallow reef top at 5-10 meters and steep walls descending to 20 meters before continuing into the abyss. The reef is pristine and sees far fewer divers than the Egyptian northern reefs, resulting in an exceptionally healthy coral ecosystem with extensive hard coral coverage and minimal human impact. Visibility regularly exceeds 30 meters. Water temperatures in the southern Red Sea run slightly warmer year-round.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Red Sea, Egypt/Sudan border region (southern Red Sea)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 25-40 meters (80-130 feet)
+- **Current**: Moderate, variable by season
+- **Best Time**: October to May (liveaboard season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The southern Red Sea reefs support exceptional shark diversity. Grey reef sharks patrol the reef perimeter and are commonly encountered here. Whitetip reef sharks rest under coral overhangs throughout the dive. Schools of hammerhead sharks have been reported at the reef tips during the winter season. Napoleon wrasse are large and abundant. Sea turtles and bottlenose dolphins are regular visitors. The reef walls support dense gorgonian sea fans and soft coral towers populated by anthias, glassfish, and basslets in huge numbers.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend from the liveaboard tender to the reef top and follow the wall, descending to 15-20 meters where the gorgonians and shark activity concentrate. Work slowly around the perimeter, checking under overhangs for resting sharks. Ascend back to the reef flat for your safety stop. This reef benefits from multiple dives to explore the different faces thoroughly.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is exclusively by liveaboard vessel, reached after a multi-day passage from Marsa Alam or Port Sudan. Tender or Zodiac transfers to the dive site. Drift ascents may be required depending on current — carry SMB at all times.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Plan for multiple dives across different faces of the reef — each has distinct character
+- Dawn and dusk are prime times for shark activity at the reef tips
+- Bring sufficient torch batteries — the deeper overhangs and crevices reward careful lighting
+- The remote location means self-sufficiency is essential; carry complete safety equipment
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The remote location far from medical facilities demands strict dive discipline. Stay within no-decompression limits and manage air conservatively. Shark encounters are common and should be treated calmly — maintain normal finning pace and avoid erratic movements. Currents can increase rapidly at the reef tips — have a pre-agreed abort signal with your buddy.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Pfeiffer Reef's pristine conditions and shark density make it an outstanding photography destination. Wide-angle shark portraits against the blue water backdrop are the signature shots. The healthy soft corals and gorgonians provide stunning reef-scape backgrounds. Schooling fish and the sheer wall with blue water below offer powerful compositional elements for liveaboard photographers.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

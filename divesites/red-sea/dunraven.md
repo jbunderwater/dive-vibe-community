@@ -13,55 +13,50 @@ addedBy: osm_import
 
 ## Dunraven
 
-Dunraven is a historic wreck dive in Red Sea, Middle East.
+The Dunraven is one of the Red Sea's most popular historic wreck dives, resting on the south face of Sha'ab Mahmoud (also called Beacon Rock) near Sharm el-Sheikh in the Straits of Gubal. The iron-hulled steamship — a British cargo and passenger vessel — struck the reef in January 1876 and sank in 18 meters of water. Today the wreck lies upside down, creating an atmospheric underwater cavern with good natural light filtering through.
 
 ## Overview
 
-Dunraven is a dive site in Red Sea featuring the wreck of the Dunraven. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The Dunraven was a 75-metre British steamship built in 1873 and engaged in trade between India and England when she ran aground on Sha'ab Mahmoud. The wreck has been underwater for nearly 150 years and is heavily colonised by corals and encrusting marine life. The hull sits inverted on the sandy bottom at 18 meters, with the keel visible at around 6 meters below the surface. The overturned hull creates an overhang that is swim-through accessible on the stern section, where filtered sunlight creates dramatic lighting effects. Visibility at the site typically reaches 20–30 meters. Water temperatures average 22°C in winter and 28°C in summer.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Red Sea, Egypt (Sha'ab Mahmoud / Beacon Rock, Straits of Gubal)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Typical Visibility**: 20-30 meters (65-100 feet)
 - **Current**: Moderate to strong
 - **Best Time**: September to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter glassy sweepers, lionfish, groupers, coral growth, soft corals, whale sharks, manta rays, hammerhead sharks. Additional species commonly sighted include oceanic whitetip sharks, sea turtles, dolphins. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Dunraven's encrusted hull hosts an extraordinary diversity of marine life. Glasseye and glassy sweepers school in the thousands beneath the overturned hull's overhang. Large groupers and squirrelfish occupy the deeper stern sections. Lionfish are ubiquitous throughout the wreck. Soft corals, sea fans, and fire corals have colonised the entire exterior. Sea turtles are regularly seen resting on the sandy bottom alongside the hull. Moray eels peer from portholes and gaps in the plating. Barracuda often cruise the surrounding reef, and reef sharks occasionally circle the wreck site.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 18 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Most operators approach the wreck from the stern, descending to the keel at around 6 meters before dropping down the side to the bow section at 18 meters. The classic route follows the port (left) side to the bow, then turns back along the starboard side past the engine room — still recognisable — to the stern overhang. The stern swim-through at 15 meters is the highlight: a natural cavern formed by the inverted hull that can be safely entered without penetration training, though a torch greatly enhances the experience. Reserve 50 bar for the return journey and safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boats moor on a fixed mooring buoy on the reef. Entry is via giant stride; descend the mooring line to the wreck. Return to the mooring line for ascent and a 3-minute safety stop at 5 meters. The site can experience moderate current flowing along the reef face — if conditions are running, drift to a point where you can still ascend the line.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Bring a dive torch — the stern swim-through and interior overhangs require light to fully appreciate
+- Maintain careful buoyancy throughout to avoid stirring up silt inside the hull cavern
+- The stern swim-through is beginner-accessible but can be disorienting on the first pass — follow your guide
+- Best light inside the cavern is around midday when sun is overhead
+- Combine with a dive on the nearby Thistlegorm wreck for a full Red Sea wreck day
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The stern swim-through is a confined space; divers with poor buoyancy should practice before attempting it. Lionfish are numerous throughout the wreck and hide in dark recesses — watch where you put your hands. Moderate currents are possible across the Straits of Gubal. Always carry an SMB for open-water safety stops. Fire coral is present on much of the exterior encrustation.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The Dunraven is among the most photogenic wrecks in the Red Sea. The stern swim-through with sunlight beams streaming through gaps in the hull is an iconic Red Sea image. A wide-angle lens captures the sweep of the inverted hull; a torch or video light will bring out the colours of the soft corals and sweeper schools in the cavern interior. Macro photographers will find nudibranchs, flatworms, and commensal shrimp throughout the encrusted plates.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

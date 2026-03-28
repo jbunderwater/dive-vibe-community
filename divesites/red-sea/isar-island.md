@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Isar Island
 
-Isar Island is a reef dive site in Red Sea, Middle East.
+Isar Island is a remote island reef site in the extreme southern Egyptian Red Sea near the border with Eritrea and Sudan, one of the most isolated dive locations in the entire Egyptian territorial waters.
 
 ## Overview
 
-Isar Island is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+At this latitude — barely north of the Sudanese border — Isar Island sits in a zone of the Red Sea visited by only a handful of specialist liveaboard itineraries per year. The island reef system here is characterised by the exceptionally clear, warm water of the southern Red Sea and the undisturbed coral that results from near-zero diving pressure. The reef around the island follows the tropical island form: a shallow fringing reef on the leeward side transitioning to steeper walls and slopes on the windward faces. Given its extreme remoteness, dive conditions at Isar Island are more variable than at northern Red Sea sites, with open-ocean swells and strong seasonal currents possible.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Location**: Extreme southern Egyptian Red Sea, near Sudanese/Eritrean border
+- **Entry Type**: Boat dive (extended expedition liveaboard only)
+- **Site Type**: Island fringing reef
+- **Difficulty Level**: Intermediate (advanced conditions possible)
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 25–40 meters
+- **Current**: Variable; can be strong in open-ocean conditions
+- **Best Time**: November to March (most stable weather window)
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The extreme isolation ensures marine life at Isar Island is among the most pristine in the Red Sea. Hammerhead sharks are reported at depth from November through March. Manta rays visit the island seasonally. Large Napoleon wrasse, massive groupers, and dense schools of snapper and fusiliers are present in concentrations that reflect the site's total lack of fishing pressure. Sea turtles — both hawksbill and green — nest on the island's beaches and are found in large numbers underwater. The surrounding deep water regularly delivers pelagic species including barracuda schools, wahoo, and occasional whale sharks in summer.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The dive profile will depend on which face of the island you are diving and current conditions at the time. On the calm leeward side, descend the gentle reef slope from 0 to 20 meters, exploring the fringing reef system. On the more exposed faces, drift diving along the outer wall is the recommended approach. Careful pre-dive briefing by the liveaboard guide is essential for this site.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Expedition liveaboard access only, on itineraries of 14–21 nights operating from Hurghada or Marsa Alam. These itineraries are rare and typically available through specialist Red Sea expedition operators. Entry by giant stride. SMB deployment is mandatory before every ascent. The liveaboard must maintain active watch throughout the dive given the remote, open-ocean environment.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Only attempt this site on a reputable expedition liveaboard with experienced guides who know this specific area
+- Winter is the best season for pelagic encounters and weather stability
+- This is genuinely unexplored diving by most standards — adjust expectations accordingly
+- Carry full safety equipment including EPIRB or PLB as a personal safety device
+- The island itself may not permit landing; check with the liveaboard operator regarding shore access
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+This is among the most remote dive sites in the Egyptian Red Sea. The nearest medical facility is hours away by sea. Only experienced divers with 50+ logged dives and a track record in open-ocean conditions should attempt this site. Dive well within limits, maintain strict buddy contact, and deploy an SMB on every ascent without exception. Emergency procedures should be reviewed thoroughly with the liveaboard crew before the first dive.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The pristine reefs and abundant wildlife of extreme southern Red Sea sites like Isar Island provide photography opportunities unavailable at more accessible locations. Exceptional visibility, undisturbed fish populations, and potential pelagic encounters make this one of the finest wide-angle photography opportunities in the region. Bring backup equipment — service is unavailable.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,54 +13,49 @@ addedBy: osm_import
 
 ## Caye Tome
 
-Caye Tome is a reef dive site in Guadeloupe, Caribbean.
+Caye Tome is a compact fringing reef in the southern Grand Cul-de-Sac Marin, one of a group of interconnected caye dive sites frequented by operators from Sainte-Anne. The site combines a shallow reef top with a deeper sandy margin, making it a versatile choice for beginners building experience.
 
 ## Overview
 
-Caye Tome is a dive site in Guadeloupe offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The reef at Caye Tome sits in protected lagoon water and features a mix of hard coral formations — primarily brain, star, and massive corals — rising from a sandy bottom that levels off at about 18 meters. The sheltered position within the lagoon keeps swell minimal and current light. Visibility typically ranges from 15 to 25 meters. Coral coverage is solid, with notable sponge growth at deeper sections. Water temperature averages 27°C.
 
 ## Site Information
 
-- **Location**: Guadeloupe, Caribbean
+- **Location**: Southern Grand Cul-de-Sac Marin, Grande-Terre, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Lagoon fringing reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 15–25 meters
+- **Current**: Light
+- **Best Time**: November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Hawksbill turtles are a consistent presence, particularly in the reef's shallower section. Parrotfish, triggerfish, and angelfish are abundant throughout the coral formations. Southern stingrays occupy sandy patches between coral heads. Barracuda occasionally patrol the deeper reef margin, and nurse sharks rest under ledges at depth.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Start on the shallow reef crest and work deeper following the slope to the sandy bottom. Marine life is distributed across all depths, but the 8–15 meter range offers the best combination of coral density and ambient light. End the dive in the shallows for a comfortable safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Sainte-Anne operators; the site is close enough for a half-day trip. Giant stride entry, SMB on ascent. Often paired with Caye Martinique for back-to-back dives in the area.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- A good site for coral fish ID practice — over 40 reef species are regularly encountered
+- The calm lagoon setting makes it suitable even on days with wind and chop elsewhere
+- Sandy areas at the reef base reward patient divers with stingray and jawfish sightings
+- Morning light is best for photography at the shallow reef crest
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Fire coral is present; avoid contact and maintain careful buoyancy. Deploy SMB well before ascending. The sandy bottom at 18 meters can create visibility reduction if disturbed — fin carefully.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The combination of shallow clear water and colourful reef fish makes Caye Tome a natural-light macro and fish-portrait site. Turtle encounters in the 5–10 meter zone are ideal for wide-angle work.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

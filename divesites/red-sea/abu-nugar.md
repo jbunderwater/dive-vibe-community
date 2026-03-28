@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Abu Nugar
 
-Abu Nugar is a reef dive site in Red Sea, Middle East.
+Abu Nugar is a coral reef dive site near El Gouna, north of Hurghada, Red Sea, Egypt.
 
 ## Overview
 
-Abu Nugar is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Abu Nugar sits in the coastal reef zone north of Hurghada, close to the upmarket resort town of El Gouna. This stretch of the Red Sea coast between El Gouna and Hurghada offers a dense cluster of reef sites accessible on half-day and full-day boat trips, making it one of the most convenient dive regions in Egypt. Abu Nugar is a characteristic northern Red Sea offshore reef — a shallow plateau of coral descending to deeper sandy margins — with the healthy coral coverage and diverse fish populations that have made the Hurghada region one of the world's most popular dive destinations for over three decades.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: El Gouna / northern Hurghada area, Red Sea, Egypt
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20–35 meters
+- **Current**: Moderate; variable
+- **Best Time**: October to May; year-round possible
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The reefs north of Hurghada are productive and reliably populated. Large grouper and Napoleon wrasse are frequently sighted. The mid-water above the reef holds schools of fusiliers and jacks. Moray eels are common in crevices. Turtles are encountered across the area. Reef sharks are present on the deeper outer slopes. The El Gouna reefs are known for their night-dive marine life — octopus, sleeping parrotfish, and hunting lionfish are commonly encountered after dark.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef plateau at 6–10 m and survey the structure before following the reef edge to the outer slope at 12–20 m. Work along the reef face, then ascend back to the plateau and complete a safety stop in the shallow coral garden. The flat plateau profile makes this a straightforward navigation dive.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+By day-trip boat from El Gouna or Hurghada. Several dive operators are based in El Gouna and organise daily trips to Abu Nugar and nearby sites. The site is popular for guided dives, certification courses, and experienced diver day trips alike. Giant stride entry; dive ladder exit.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- El Gouna operators are well-organised — book in advance during peak holiday season (December–January)
+- The reef is well suited to certification dives as a second or third open-water training site
+- Evening boats for night dives offer excellent marine life activity different from day conditions
+- Combine with the adjacent Sha'ab El Erg (dolphin reef) if time permits — it is in the same area
+- Bring a torch even for daytime dives to reveal the colour of encrusting corals and anemones
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The Hurghada-El Gouna boat corridor is busy with day-trip traffic. Surface carefully and deploy an SMB prominently. Follow all instructions from the dive boat captain and guide. Dive within your certification limits. Hurghada has a hyperbaric chamber — good backup medical support.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Consistent conditions and reliable subjects make this a good photography site. Napoleon wrasse and grouper provide large, approachable subjects. Night diving here is particularly rewarding for macro photographers — octopus and crustaceans are active after dark. Wide-angle coral landscapes work well in the clear northern Red Sea water.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

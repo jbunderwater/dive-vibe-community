@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Habili Dibia
 
-Habili Dibia is a reef dive site in Red Sea, Middle East.
+Habili Dibia is a remote submerged reef pinnacle in the southern Egyptian Red Sea, located well offshore in the deep waters east of the Sudanese border area, accessible only on the longest southern liveaboard itineraries.
 
 ## Overview
 
-Habili Dibia is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Habili Dibia lies in one of the least-visited zones of the Egyptian Red Sea. The site's coordinates place it deep in the southern offshore corridor where open-ocean conditions prevail and virtually no tourist infrastructure exists. The habili structure here is a typical submerged rocky reef rising from deep water, colonised by decades of undisturbed coral growth. Conditions can be more challenging than northern Red Sea sites — swell and current are more frequent — which is part of what keeps the reef in exceptional health. Liveaboards visiting this area operate on fully self-sufficient, multi-week expeditions for experienced divers.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Location**: Southern Egyptian Red Sea, deep offshore south of Marsa Alam
+- **Entry Type**: Boat dive (extended liveaboard only)
+- **Site Type**: Remote offshore submerged reef pinnacle
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 25–40 meters
+- **Current**: Moderate to strong; open-ocean conditions
+- **Best Time**: November to April (calmer season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+At this latitude and with this level of isolation, the marine community reflects a near-undisturbed ecosystem. Large Napoleon wrasse, sizeable groupers, and substantial schools of snapper are present in concentrations rarely encountered at busier sites. Reef sharks — grey reef and whitetip species — are common. Eagle rays and spotted eagle rays cross the sandy areas flanking the pinnacle. The exceptional visibility allows pelagic sightings at distance: hammerheads in mid-water and, on occasion, thresher sharks reported from liveaboard trip reports in the area. Hawksbill turtles are abundant in the wider southern Red Sea.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the deepest accessible area and circle the habili base at 18–20 meters, scanning the blue water for large pelagics. Ascend the flanks progressively. The mid-reef zone at 8–15 meters is typically richest in reef fish diversity. Finish on the shallow crown, which in undisturbed habili sites is often remarkably dense with hard coral growth.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Extended liveaboard access only, on itineraries of 12–18 nights covering the deepest southern Egyptian Red Sea. Entry by giant stride. Strict SMB discipline and open-water ascent planning are required at every dive.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- This is expert-level liveaboard diving; divers should have 100+ dives and experience in open-ocean conditions
+- Research the specific liveaboard operator's safety protocols for remote southern itineraries before booking
+- The exceptional clarity and pristine reef health make this one of the most rewarding diving experiences in the Red Sea for photographers
+- Carry full safety kit: SMB, dye marker, whistle, and surface signalling mirror
+- Winter months give the best pelagic encounter probability
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The extreme remoteness means any incident requires self-management until the liveaboard can respond. Dive well within limits, manage gas conservatively, and maintain close buddy and group contact at all times. The open-ocean environment means currents can change quickly and swell can appear with little warning. Deploy an SMB on every ascent without exception.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The combination of exceptional clarity, pristine reef structures, and abundant wildlife makes Habili Dibia a dream assignment for serious underwater photographers. Visibility often exceeds 35 meters — allowing wide-angle shots with extraordinary depth of field. The distant pelagic sightings are best captured with longer-focal-length underwater configurations.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

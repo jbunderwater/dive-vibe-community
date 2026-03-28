@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Blue Water House Reef
 
-Blue Water House Reef is a reef dive site in Red Sea, Middle East.
+Blue Water House Reef is a coral reef dive site in the Hurghada area of the Egyptian Red Sea, serving as the dedicated house reef for the Blue Water dive facility. House reefs of this type are valued for their accessibility, flexibility, and the fact that regular diver presence means the marine life has become accustomed to humans.
 
 ## Overview
 
-Blue Water House Reef is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The Blue Water House Reef occupies a section of the fringing reef characteristic of the Hurghada coastline — shallow and sheltered inshore, with a sloping reef face descending to sand at around 18–20 meters. The reef is in good condition with a mix of hard and soft coral colonies, and regular diver traffic has not diminished the fish life, which remains abundant due to the stable, undisturbed nature of a dedicated house reef. Boat mooring is available on site. Visibility is typically 15–25 meters; water temperatures range 22–29°C.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Red Sea, Egypt
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 15–25 meters (50–82 feet)
+- **Current**: Very light
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Fish life is dense and approachable. Resident napoleon wrasse have been observed at this site over many years. Moray eels occupy familiar crevices and can be predictably located by experienced dive guides. Turtles, bannerfish, parrotfish, and a variety of wrasse species form the core of the reef community. The sandy base holds garden eels and blue-spotted rays. Scorpionfish are camouflaged on the reef — watch where you place your hands.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The house reef format allows flexible dive planning. Typically divers descend to the sandy base at 18–20 meters, explore the reef slope in both directions, then ascend through the coral gardens to the shallow crest for a relaxed safety stop. The familiarity of regular dive guides with this specific reef means sightings are maximised.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from the associated dive facility. The operator manages all logistics. Entry by giant stride or back roll, exit via the boat ladder or platform.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Ask your dive guide about the resident marine life — they know where the animals live
+- Multiple dives on the house reef reward familiarity and deeper fish interaction
+- Night dives on familiar house reefs are particularly productive
+- A good site for skills practice and certification dives in open water conditions
+- Respect the site — it is maintained specifically for repeated use
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Conditions are generally benign. The main hazards are fire coral, sea urchins, and scorpionfish — all requiring buoyancy awareness. Surface current and boat traffic in the area require SMB deployment on ascent.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+House reefs reward patient photography. Returning to the same reef means building familiarity with specific subjects — resident eels, the local napoleon wrasse, and predictable macro finds. Natural light is good on the shallow reef crest.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

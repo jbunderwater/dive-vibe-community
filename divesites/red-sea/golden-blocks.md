@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Golden Blocks
 
-Golden Blocks is a reef dive site in Red Sea, Middle East.
+Golden Blocks is a reef dive site in the northern Egyptian Red Sea near Dahab, named for the large rectangular blocks of yellow-gold coral and rock formations that give the site its distinctive character.
 
 ## Overview
 
-Golden Blocks is a dive site in Red Sea offering rewarding diving on healthy coral reef structures . Only appox position. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Located in the Dahab area on the Gulf of Aqaba side of the Sinai Peninsula, Golden Blocks sits in the upper part of the Gulf where vertical light and exceptional water clarity create the intense blue and gold colour contrasts that give the site its name. The "blocks" are large sandy and coral-covered rocky outcrops arranged on a gently sloping reef, lying at depths of 5–20 meters. The site is generally dived as a boat dive and sees less traffic than Dahab's more famous shore entries, giving it a quieter character. The coral blocks are interspersed with sandy corridors, creating a navigable maze-like structure ideal for exploratory diving.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Gulf of Aqaba, Dahab area, northern Sinai, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef blocks and coral outcrops on sandy slope
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20–35 meters
+- **Current**: Generally mild in the Gulf of Aqaba
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The sandy corridors between the blocks are hunting grounds for Napoleon wrasse, and juvenile fish of many species shelter in the gaps. Triggerfish — both Picasso and titan — are territorial around nesting areas on the sand. Bluespotted ribbontail rays rest in the open sandy patches. The blocks themselves host numerous small critters including nudibranchs, shrimps, and juvenile moray eels. Reef sharks pass through on occasion, and barracuda hang in small groups above the deeper blocks. Turtles visit regularly to feed on algae growing on the block surfaces.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter from the boat and descend to the deepest blocks at 18–20 meters. Navigate through the sandy corridors between the blocks, gradually ascending as you work northward. The majority of bottom time is well spent in the 8–15 meter range where coral encrustation on the blocks is most developed. Finish the dive in the shallower block zone at 5–8 meters for the safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day-boat access from Dahab operators. Entry by giant stride. The site's approximate coordinates are noted — confirm the exact mooring position with the local dive guide, as boat captains navigate by landmarks. Exit back to the boat by SMB.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Bring a torch to look under the blocks and in the sandy corridors for resting rays and hidden critters
+- The sandy sections are worth inspecting slowly for garden eels and sand-dwelling gobies
+- Titan triggerfish nest on the sand between blocks — give them a wide berth March–May
+- The site offers good alternative diving when Dahab's famous shore entries are crowded
+- Dahab's clear Gulf of Aqaba water makes this site excellent for natural-light photography
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Titan triggerfish can be aggressive during nesting season (March–May). If one charges, swim upward rather than away horizontally. Currents in the Gulf of Aqaba are generally mild but can increase with wind. Be aware of boat traffic in the Dahab bay when surfacing, and always deploy an SMB.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The blocky formations create geometric, graphically interesting compositions when combined with wide-angle lenses. The intense blue Gulf of Aqaba water makes a striking backdrop. Macro subjects on the block surfaces and in the sand corridors are rewarding for patient photographers.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

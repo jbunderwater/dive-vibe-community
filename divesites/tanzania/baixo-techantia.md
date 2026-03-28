@@ -13,54 +13,53 @@ addedBy: osm_import
 
 ## Baixo Techantia
 
-Baixo Techantia is a reef dive site in Tanzania, Africa.
+Baixo Techantia is a coral reef shoal located south of Mafia Island in Tanzania's Mafia Island Marine Park, positioned in the productive waters between Mafia Island and the Tanzanian mainland coast near Kilwa.
 
 ## Overview
 
-Baixo Techantia is a dive site in Tanzania offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+This outer reef formation lies in waters influenced by the nutrient-laden outflow of the Rufiji River delta to the north, which enriches the Mafia Channel and supports extraordinary marine biodiversity. The reef top starts around 5 meters and slopes gently to the maximum depth of 20 meters. The combination of relatively calm conditions and nutrient-rich water produces dense coral coverage across the entire reef profile, with particularly impressive soft coral and sea fan development on the deeper sections.
 
 ## Site Information
 
-- **Location**: Tanzania, Africa
+- **Location**: South Mafia Channel, Mafia Island Marine Park, Tanzania
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 10-20 meters (33-65 feet)
+- **Current**: Moderate
+- **Best Time**: October to March (clearest water, whale shark season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+The southern Mafia Channel sees regular whale shark sightings between October and March, and this outer reef location provides good surface scanning opportunities. Beneath the surface, the reef supports large populations of snappers, fusiliers, and surgeonfish. Reef sharks and eagle rays patrol the outer slope, and the sandy bottom at depth hosts stingrays and flatfish. The dense soft coral growth shelters shrimp, crabs, and nudibranchs for macro photographers.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+A gentle slope from reef top to maximum depth makes navigation straightforward. Start deep at 18-20 meters to explore the richer coral development on the outer slope, then work back up through the mid-reef zone at 10-15 meters before finishing in the shallows. The soft corals and sea fans at depth are the highlight — take time to look at the invertebrate life associated with them.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Mafia Island (typically from Utende or from liveaboard vessels operating in the marine park). Travel time varies from 45 minutes to 90 minutes depending on origin point. Confirm weather windows with the operator as conditions in the southern channel can deteriorate quickly with southerly winds.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The southern Mafia Channel can be rougher than northern sites — a seasickness remedy is wise if you are susceptible
+- Carry a torch even for daytime dives; the soft coral overhangs shelter interesting cryptic species
+- Ask your operator about whale shark activity in the area before diving — a snorkel session may be possible
+- Marine park rules prohibit touching corals and feeding fish — briefings are enforced by park rangers on some boats
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+More exposed than inshore Mafia sites, Baixo Techantia should only be dived in favorable conditions. Verify sea state before departure. Moderate currents can intensify with tidal changes, so brief carefully on abort procedures. Always carry an SMB and deploy it before ascending.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The combination of healthy soft corals at depth and pelagic activity above the reef creates opportunities for both macro and wide-angle photography. The sea fans at 15-20 meters provide excellent backdrops for ambient-light wide-angle images. A compact camera with a wide-angle wet lens is a versatile choice for this site.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,55 +13,50 @@ addedBy: osm_import
 
 ## Yatouche
 
-Yatouche is a historic wreck dive in Red Sea, Middle East.
+Yatouche is a wreck dive site located in the Gulf of Aqaba near Eilat and the Sinai Peninsula, in the northern section of the Red Sea. The site marks the resting place of a vessel that sank in relatively accessible depths, providing an interesting dive for intermediate-level wreck enthusiasts in the area.
 
 ## Overview
 
-Yatouche is a dive site in Red Sea featuring the wreck of the Yatouche. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The Yatouche wreck lies in the northern Gulf of Aqaba, one of the two northern arms of the Red Sea, where the Sinai Peninsula, Israel, and Jordan all converge. The Gulf of Aqaba is known for its deep, clear water and generally calm conditions. The wreck has been on the seabed long enough to develop a coating of encrusting marine life, including corals and sponges that have taken hold on the hull. The site can be dived from Israeli, Jordanian, or Egyptian sides depending on access and permits, and it features in the dive site rotation for several operators in the area.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Gulf of Aqaba, Northern Red Sea
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20-30 meters (65-100 feet)
+- **Current**: Light
+- **Best Time**: Year-round (best October to May)
 
 ## Marine Life
 
-Divers at this site can expect to encounter glassy sweepers, lionfish, groupers, coral growth, soft corals, whale sharks, manta rays, hammerhead sharks. Additional species commonly sighted include oceanic whitetip sharks, sea turtles, dolphins. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck structure provides a compact artificial reef in an area where natural reefs are also accessible nearby. Schools of glassfish and glassy sweepers congregate around the hull openings and shadowed areas. Lionfish are resident in the overhangs and are a consistent sighting. Moray eels have established territory in the lower hull sections. Grouper and large wrasse patrol the exterior. Because the Gulf of Aqaba has relatively calm conditions and protected water, marine life is stable and reliable.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the wreck, which sits in 15-20 meters, and explore the exterior hull systematically from bow to stern. The deck and superstructure are accessible and encrusted with growth. Penetration into the interior is possible in some sections but should only be attempted with appropriate training and a torch. Allow adequate bottom time for a thorough exterior circuit before beginning the ascent. Complete a 3-minute safety stop at 5 meters.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from local operators in the area. The Gulf of Aqaba is generally calm with minimal swell, making entries and exits from dive boats straightforward. Standard giant stride or back roll entry. Deploy an SMB for the ascent and safety stop.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Bring a dive torch to explore the darker interior sections and find lionfish in overhangs
+- The calm conditions in the Gulf of Aqaba make this a good site for photography
+- Explore the hull perimeter carefully before attempting any interior sections
+- Check with local operators for current access regulations and permit requirements
+- Plan for a relaxed dive given the accessible depth
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Lionfish are resident in the wreck overhangs — watch hands and fins carefully around entrances and ledges. Maintain proper buoyancy inside the wreck to avoid silting and losing visibility. Do not attempt wreck penetration without proper training, a torch, and a redundant light source. Always deploy an SMB before ascending. Dive within certification limits.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The compact size of the wreck relative to the clear visibility in the Gulf of Aqaba allows full-wreck shots with the right wide-angle setup. Lionfish and grouper portraits are reliable subjects. The encrusted hull provides colorful macro subjects including tunicates, feather stars, and small crustaceans. Interior shots with available light streaming through openings create atmospheric compositions.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

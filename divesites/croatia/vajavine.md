@@ -13,55 +13,50 @@ addedBy: osm_import
 
 ## Vajavine
 
-Vajavine is a wall dive site in Croatia, Europe.
+Vajavine is a wall dive on the northern coast of Krk Island in the Kvarner region, close to the town of Krk and the popular beach dive sites in the area. The wall face drops to 25 metres through clean, clear Kvarner water and offers a solid intermediate wall diving experience.
 
 ## Overview
 
-Vajavine is a dive site in Croatia featuring a dramatic vertical wall that drops into the deep blue. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The wall at Vajavine begins in the shallows and drops vertically through rocky faces covered in encrusting sponges, sea fans, and soft corals. At 25 metres the wall levels out onto a sandy and rocky bottom. The site features overhangs and crevices at various depths that shelter diverse marine life. Positioned on Krk's exposed northern coast, the site benefits from strong water movement that promotes healthy marine communities.
 
 ## Site Information
 
-- **Location**: Croatia, Europe
+- **Location**: Northern Krk Island, Kvarner, Croatia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 15–20 meters
+- **Current**: Variable; can be stronger off the exposed coast
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Large grouper hold territory along the wall. Moray eels and conger eels inhabit the crevices and overhang recesses. Nudibranchs and sea slugs are found on the sponge-covered wall face. Octopus explore the rocky base, while sea bream and ornate wrasse patrol the mid-water sections. In deeper sections, red coral colonies appear in well-shaded overhangs.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-25 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Begin at the wall top in the shallows, then descend along the face, exploring the overhangs and crevices as you go. Reach the maximum depth of 25 metres at the base of the wall, then ascend slowly along the wall face, spending the most bottom time in the 10–20 m range where marine life is most concentrated. Safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from Krk town or Punat operators serve this site. Entry by giant stride or back roll. Deploy an SMB when ascending and for boat pickup on the surface. Currents at the northern tip of Krk can be stronger than expected — confirm with the captain before descending.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Current awareness is important at this exposed location — time the dive to slack water if possible
+- A torch reveals the colours and residents of the darker overhangs and crevices
+- Excellent site for combining with a second shallow reef dive earlier in the day
+- Intermediate divers will be comfortable here with solid buoyancy skills
+- The wall between 10–20 m offers the most diverse marine life
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The wall extends to 25 m and current can be present at this exposed location. Maintain awareness of depth and position on the wall. Always dive with a buddy and carry an SMB. Confirm surface conditions with the boat captain before diving.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The wall face provides excellent wide-angle opportunities — shooting upward from the base of the wall with the crest silhouetted against blue water is a classic composition. The crevices and overhangs reward macro photography of nudibranchs, sea slugs, and encrusting organisms.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

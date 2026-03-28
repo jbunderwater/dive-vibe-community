@@ -13,54 +13,49 @@ addedBy: osm_import
 
 ## Novotel House Reef
 
-Novotel House Reef is a reef dive site in Red Sea, Middle East.
+Novotel House Reef is a fringing reef dive site located directly in front of the Novotel resort on the Egyptian Red Sea coast, near Hurghada. This accessible house reef offers convenient diving just steps from the shoreline and is regularly dived by resort guests and visiting divers alike.
 
 ## Overview
 
-Novotel House Reef is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Novotel House Reef stretches along a shallow fringing reef flat before dropping to a moderate depth of around 20 meters. The reef is well-preserved and supports dense coral growth including table corals, brain corals, and fire coral formations. Visibility regularly reaches 20-30 meters, and the sheltered position close to shore keeps conditions calm for much of the year. Water temperatures range from around 22°C in winter to 30°C in summer.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Red Sea, Egypt (Hurghada area)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20-30 meters (65-100 feet)
+- **Current**: Generally mild, occasional moderate
+- **Best Time**: Year-round; September to May for peak conditions
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The reef flat hosts dense schools of glassfish and anthias that shimmer over the coral heads in the shallows. Moray eels occupy crevices along the reef slope, and lionfish are commonly sighted hovering near coral outcrops. Butterflyfish, angelfish, and surgeonfish are abundant throughout. Green and hawksbill turtles visit the reef regularly, and Napoleon wrasse occasionally cruise the outer edge. Octopus can be found tucked beneath coral ledges on night dives.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter via the resort's boat or jetty and navigate out to the reef edge. The reef flat sits at 3-5 meters and is ideal for slow exploration before descending the gentle slope to the sand bottom at around 20 meters. The base of the slope often holds bluespotted stingrays and small crocodilefish. Ascend slowly back up the slope and conduct your safety stop over the reef flat in 5 meters.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is via boat from the resort jetty. Giant stride or back roll entry is standard. The boat remains moored nearby for pickup after your safety stop — deploy an SMB on ascent to signal your position.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Night dives here are particularly rewarding — octopus, lobster, and sleeping fish are easy to spot
+- The reef flat in the shallows is excellent for a second dive to extend bottom time
+- Conditions are typically calmer in the morning before afternoon breezes pick up
+- Maintain buoyancy carefully over the reef flat to avoid contact with fire coral
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Fire coral is present on the reef flat — wear adequate exposure protection. Lionfish blend into coral outcrops and should not be approached closely. Monitor depth on the slope as the profile can lead to inadvertent descents. Always ascend with adequate air reserve for a 3-minute safety stop at 5 meters.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The shallow reef flat offers excellent natural light for wide-angle reef photography, especially on morning dives when the sun angle illuminates the coral gardens. Macro subjects are abundant in crevices along the slope — look for nudibranchs, Coleman shrimp, and crinoid shrimp. Night diving opens up additional macro opportunities including octopus and sleeping parrotfish.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

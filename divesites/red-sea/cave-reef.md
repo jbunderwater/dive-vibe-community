@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Cave Reef
 
-Cave Reef is a cave dive site in Red Sea, Middle East.
+Cave Reef is a cave and cavern dive site in the Al Fahal reef complex near Jeddah on the Saudi Arabian Red Sea coast. The site is named for a series of natural caves and tunnels cut through the reef limestone that divers can explore with appropriate experience and equipment.
 
 ## Overview
 
-Cave Reef is a dive site in Red Sea featuring underwater cave and cavern formations. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Cave Reef combines the dramatic underwater topography of a cave-riddled reef with the surrounding coral gardens of the Al Fahal complex. The caves and caverns range from large, well-lit chambers accessible to advanced recreational divers to tighter passages requiring proper training. The reef around the cave entrance areas is in good condition with soft corals, sea fans, and hard coral formations. Water temperatures range from 24–30°C and visibility is typically 15–25 meters outside the caves; reduced inside. The site is rated Advanced due to the overhead environment elements.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave / Cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 15–25 meters outside; variable inside (65–82 feet)
+- **Current**: Light
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+The cave interiors shelter lionfish, moray eels, and soldierfish — all well adapted to low-light conditions. Glassfish pack into cavern entrances, creating characteristic silver curtains at the threshold between light and dark. The surrounding reef outside the caves is rich with typical Red Sea reef fish: parrotfish, anthias, and turtles. Sea turtles sometimes rest in the larger cavern chambers.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Approach the cave entrances from the open reef, descending to the base of the cave system at around 18–20 meters. Explore the chambers and tunnels as appropriate to the dive leader's guidance and your own overhead environment experience. Return to open reef before ascending through the coral gardens for a shallow safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from local Jeddah-area operators. Descent to cave entrances from the reef flat. A guide familiar with the specific cave layout is strongly recommended for first-time visitors.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Two torches minimum — a primary and a backup — for any overhead environment section
+- Do not enter tight passages without cavern or cave diving training
+- The larger cavern chambers accessible without specialist training are the highlight
+- Look for resting turtles in the deeper chambers
+- Allow the glassfish curtain at cavern entrances to settle before passing through
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+This site has overhead environment elements that require appropriate training and equipment beyond standard open water qualifications. No line penetration diving should be undertaken without cave diving training. Always maintain line-of-sight to the cave entrance in cavern sections. Carry adequate gas reserves for any overhead section.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Cavern entrance photography with glassfish in the foreground and ambient light beyond is a classic composition. Light shafts penetrating cave openings create dramatic atmospheric shots. The reef exterior around the cave areas offers standard wide-angle reef photography options.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

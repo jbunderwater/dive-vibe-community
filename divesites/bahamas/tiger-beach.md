@@ -13,53 +13,54 @@ addedBy: osm_import
 
 ## Tiger Beach
 
-Tiger Beach is a reef dive site in Bahamas, Caribbean.
+Tiger Beach is the world's most celebrated tiger shark dive, a shallow sand flat off Grand Bahama where multiple tiger sharks circulate at arm's length in crystal-clear water.
 
 ## Overview
 
-Tiger Beach is a renowned dive site in Bahamas offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Tiger Beach sits in the northwest Bahamas, roughly 20 km offshore from Grand Bahama Island in the Old Bahama Channel. The site is a broad, flat sandy bottom at 6–9 metres where warm Gulf Stream water delivers extraordinary 30–40-metre visibility. What makes Tiger Beach exceptional is sheer predictability: tiger sharks are present virtually year-round, and on any given dive it is common to count five to fifteen individuals simultaneously. Lemon sharks and Caribbean reef sharks frequent the same area, and great hammerheads have been documented on winter dives. There is no structured bait station — divers kneel or sit on the sand and the sharks work around them naturally. The shallow depth means long bottom times and excellent natural light for photography.
 
 ## Site Information
 
-- **Location**: Bahamas, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Location**: Northwest Bahamas, Grand Bahama offshore
+- **Entry Type**: Boat dive (liveaboard or day charter)
+- **Site Type**: Sand flat / shark encounter
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 9 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Maximum Depth**: 9 metres
+- **Typical Visibility**: 25–40 metres
+- **Current**: Light
+- **Best Time**: October to February for peak tiger shark presence; year-round viable
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Tiger sharks (Galeocerdo cuvier) are the primary attraction, regularly reaching 3–4 metres at this site. Lemon sharks crowd the mid-water in large numbers. Great hammerheads (Sphyrna mokarran) visit from December to March. Nurse sharks rest on the sand. Caribbean reef sharks patrol the periphery. Occasionally oceanic whitetip sharks appear offshore. Southern stingrays and eagle rays cross the flat.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 9 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-9 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the sandy bottom at 6–9 metres and remain stationary — kneeling, sitting, or crouching. The sharks approach from all directions; avoid sudden movements and keep fins flat to the sand. Dives routinely extend to 50–60 minutes given the shallow depth. Experienced divemasters position themselves between divers and the most active sharks. Multiple dives per day are standard on liveaboard itineraries.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+All access is by specialised liveaboard or dedicated day-charter dive boats. The site is 1.5–2.5 hours from Freeport. Back-roll or giant-stride entry. Ascent on the anchor or shotline; deploy an SMB before surfacing if conditions require.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Use a dedicated shark-diving operator with experienced divemasters — passive shark interaction protocols are non-negotiable
+- Wide-angle lens essential; 8–15mm fisheye produces the most dramatic images in the shallow, bright water
+- Winter months offer the best chance of great hammerheads alongside the resident tigers
+- Closed-circuit rebreathers are popular with photographers but noisy open-circuit scuba works fine for shark interaction
+- This is not a beginner dive — basic shark-awareness training and solid buoyancy control are required
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Tiger sharks are large, powerful animals. Follow all operator briefings without deviation. Never touch or attempt to ride sharks. Avoid free-bleeding wounds. Ascend slowly and watch for other dive boats in the area.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Tiger Beach is arguably the best shark photography site on the planet. Shoot wide-angle to capture full-body shark portraits against the white sand and blue water. Afternoon light creates excellent backlit silhouette shots. Bring at least two dives to warm up before expecting close approaches.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

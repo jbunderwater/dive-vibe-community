@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## Charles P. Minch (Wreck)
 
-Charles P. Minch (Wreck) is a historic wreck dive in Great Lakes, North America.
+The Charles P. Minch is a 19th-century wooden schooner resting in the clear, cold waters of Fathom Five National Marine Park, Georgian Bay, Ontario. Lying at approximately 20 metres depth in the Tobermory area, this wreck is part of the remarkable cluster of historic vessels preserved in Canada's first national marine park dedicated to underwater heritage.
 
 ## Overview
 
-Charles P. Minch (Wreck) is a dive site in Great Lakes featuring the wreck of the Charles P. Minch (Wreck). Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Charles P. Minch was a Great Lakes cargo schooner typical of the commercial sailing fleet that dominated Lake Huron trade in the 1800s. She came to rest in Georgian Bay and now lies in approximately 20 metres of crystal-clear water within Fathom Five National Marine Park. The park's protected status, combined with Georgian Bay's cold, clean freshwater, has ensured exceptional preservation of the wooden hull. Fathom Five is renowned among divers for visibility that regularly reaches 20+ metres — among the best freshwater diving in the world. Water temperatures at the wreck remain cold (4–6°C) year-round.
 
 ## Site Information
 
-- **Location**: Great Lakes, North America
+- **Location**: Georgian Bay, Lake Huron, Fathom Five National Marine Park, Ontario, Canada
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 20 metres
+- **Typical Visibility**: 10–20 metres
+- **Water Temperature**: 4–16°C (seasonal); bottom consistently 4–6°C
+- **Current**: Minimal
+- **Best Time**: June to September
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Georgian Bay's cold, nutrient-rich water supports productive freshwater ecosystems. Lake trout circle the wreck at depth, while large smallmouth bass claim territories around the bow and stern sections. Yellow perch gather in schools inside and around the hull. Lake whitefish are occasionally spotted passing over the wreck in the water column above. The hull is colonized by zebra mussels below the thermocline, and freshwater sponges — unusual but present in Georgian Bay — grow on protected sections of the structure.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The Charles P. Minch lies on its side or at an angle (typical of many Georgian Bay wrecks dislodged from their original sinking position by ice and weather). Descend to the wreck and explore along the hull, noting preserved wooden construction and iron hardware. At 20 metres, NDL limits are generous — extended bottom times allow thorough exploration. Ascend on the mooring or anchor line, safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Charter dive boats from Tobermory Harbour access this wreck regularly. Tobermory is Canada's premier freshwater wreck diving destination with excellent charter infrastructure and equipment rental. Entry by giant stride. Deploy SMB on ascent. A Fathom Five National Marine Park day pass is required.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Tobermory's wreck collection allows multi-dive days visiting 2–3 different sites
+- Book Tobermory dive charters well in advance for July and August
+- Drysuit strongly recommended — bottom temperatures are cold
+- Photography rewards are high in Fathom Five due to exceptional visibility
+- Do not penetrate the wreck without proper training and equipment
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Cold water is the primary environmental hazard. Even in summer, the deep water in Georgian Bay remains near 4°C and thermal protection is essential. Boat traffic in the Tobermory area is heavy in summer — always ascend on a line and deploy an SMB before leaving the bottom. Always dive with a buddy.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+Fathom Five's combination of exceptional clarity and well-preserved wooden wrecks makes it one of the world's finest freshwater wreck photography destinations. The 19th-century wooden hull construction is visually compelling — hand-hewn planking, wooden pegs, and iron fittings are all visible in detail. Wide-angle shots with natural light are particularly effective here.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

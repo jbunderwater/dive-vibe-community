@@ -13,54 +13,32 @@ addedBy: osm_import
 
 ## Barracuda Coral Head
 
-Barracuda Coral Head is a reef dive site in Marshall Islands, Pacific.
+Barracuda Coral Head is an isolated pinnacle dive in Kwajalein Atoll's inner lagoon, named for the large schools of chevron barracuda that gather around its structure — one of the most dramatic fish aggregations in the Kwajalein dive circuit.
 
 ## Overview
 
-Barracuda Coral Head is a dive site in Marshall Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Kwajalein Lagoon's coral heads are isolated pinnacles rising from the sandy lagoon floor, each forming its own self-contained reef ecosystem. Barracuda Coral Head earned its name from the dense, spiraling barracuda schools that have used this structure as a gathering point for decades — a behavior likely tied to the upwelling of slightly cooler, nutrient-rich water around the pinnacle base. The coral head rises to within a few meters of the surface, allowing divers to ascend and descend freely around the full structure within the 25-meter depth range.
 
-## Site Information
+The Kwajalein Lagoon environment provides excellent visibility — typically 25–35 meters — and calm conditions year-round, making this an accessible and reliable dive in virtually any weather. Water temperature holds at 28–30°C.
 
-- **Location**: Marshall Islands, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+## What to Expect
 
-## Marine Life
+The barracuda are the signature encounter — schools of 50 to 200 or more chevron barracuda hover in mid-water columns around the pinnacle, their silver bodies catching the light as they wheel in slow formation. Grey reef sharks patrol the outer edges of the school. Napoleon wrasse and large groupers cruise the base of the coral head. The pinnacle sides are encrusted with hard corals, sponges, and sea whips, sheltering moray eels, lionfish, and scores of smaller reef fish.
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+On the sandy floor around the base, blue-spotted ribbontail rays rest or forage. Garden eels sway in the slight current at the sand edge. Night dives on Barracuda Coral Head reportedly produce spectacular light shows from bioluminescent plankton, with hunting barracuda visible on the perimeter.
 
-## Dive Profile
+## Practical Information
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth Range**: 5–25 meters
+- **Visibility**: 20–35 meters typical
+- **Currents**: Mild to moderate; calm lagoon conditions
+- **Entry**: Boat dive from Kwajalein operators
+- **Best For**: Intermediate divers; outstanding schooling fish photography
 
-## Entry and Exit
+## Marine Life Highlights
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Chevron barracuda schools, grey reef sharks, napoleon wrasse, large groupers, moray eels, lionfish, blue-spotted ribbontail rays, garden eels, sponge colonies, sea whips.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

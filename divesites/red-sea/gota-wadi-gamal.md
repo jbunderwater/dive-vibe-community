@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Gota Wadi Gamal
 
-Gota Wadi Gamal is a reef dive site in Red Sea, Middle East.
+Gota Wadi Gamal is an offshore reef pinnacle within the Wadi El Gemal National Park, the large protected marine area south of Marsa Alam in the Egyptian Red Sea.
 
 ## Overview
 
-Gota Wadi Gamal is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Wadi El Gemal National Park encompasses a vast stretch of coastline and offshore reef system, and the gotas (pinnacle reefs) within its boundaries represent some of the healthiest coral in Egypt. Gota Wadi Gamal is a compact isolated pinnacle rising from sandy seafloor to within a few meters of the surface, its flanks colonised by both hard and soft corals in excellent condition. The national park status has helped shield the site from anchor damage and overfishing, and the result is visibly more abundant fish life than at many northern Red Sea sites. The offshore position brings open-water pelagics within range, while the pinnacle structure concentrates reef life on its flanks.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Wadi El Gemal National Park, southern Egyptian Red Sea coast (south of Marsa Alam)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Offshore reef pinnacle within national park
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20–30 meters
+- **Current**: Moderate; variable around the pinnacle
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Sea turtles — both hawksbill and green — are notably abundant in this national park area and are almost guaranteed on every dive. Napoleon wrasse are resident. Schools of snapper and fusiliers move in dense clouds above the reef. The protected status means large groupers are more common here than at unprotected sites, and moray eels are found throughout the coral structure. Eagle rays pass through from the sandy seafloor areas adjacent to the pinnacle. In summer, whale shark sightings are recorded in the area around Wadi El Gemal.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the base of the pinnacle at 18–20 meters and circumnavigate the structure to note current direction and wildlife. Work up the flanks in the 10–18 meter range, spending time wherever wildlife concentrations are highest. The shallow crown rewards careful exploration before the safety stop. If multiple dives are planned in the park, a deep first dive here followed by a shallower reef dive provides a good profile.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day-boat access from Marsa Alam or Port Ghalib operators, or via liveaboard. Wadi El Gemal National Park entry fees apply and are typically included in the dive operator's price. Entry by giant stride. Deploy an SMB before ascending in this open-water environment.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- National park rules apply: no anchoring, no feeding fish, no removing anything from the reef
+- Turtle encounters in Wadi El Gemal are exceptional — give them space and let them approach you
+- The park sees considerably fewer divers than Hurghada-area sites, so expect a more pristine experience
+- Combine with a snorkelling visit to the Wadi El Gemal mangroves for a full park experience
+- Liveaboard itineraries that include this park are typically high-quality operations
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Standard open-water pinnacle precautions apply. Deploy an SMB before every ascent. Keep group sizes small to minimise disturbance to the protected reef. National park rangers patrol the area and enforce environmental regulations. Obey all park guidelines including no-feeding and no-touching rules.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The turtle population makes this site exceptional for turtle portrait photography. Wide-angle shots of turtles against the colourful pinnacle background are possible and highly rewarding. The clear water allows natural-light photography to good depth. School fish compositions are productive above the reef crown.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

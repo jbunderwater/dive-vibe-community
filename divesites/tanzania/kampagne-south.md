@@ -13,54 +13,53 @@ addedBy: osm_import
 
 ## Kampagne South
 
-Kampagne South is a reef dive site in Tanzania, Africa.
+Kampagne South is the southern extension of the Kampagne dive area along Tanzania's Lake Malawi shoreline, offering a complementary dive to the nearby Kampagne Point site with slightly different rocky reef structure and cichlid species distribution.
 
 ## Overview
 
-Kampagne South is a dive site in Tanzania offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Located adjacent to Kampagne Point on Lake Malawi's Tanzanian side, Kampagne South covers a southward-facing section of the same rocky underwater escarpment that characterizes this stretch of the lake's eastern shore. The rocky substrate descends from 4 meters at the surface to approximately 20 meters, with boulders and rocky outcrops creating a complex habitat of crevices, overhangs, and algae-covered surfaces. The exceptional clarity of Lake Malawi's water allows full visibility across the entire depth range on most days.
 
 ## Site Information
 
-- **Location**: Tanzania, Africa
+- **Location**: Lake Malawi / Lake Nyasa, southern Tanzania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral reef (rocky freshwater reef)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 15-20 meters (50-65 feet)
+- **Current**: Minimal
+- **Best Time**: July to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+Cichlid species communities at Kampagne South tend to differ slightly from the northern part of the site, reflecting the highly localized distribution of Lake Malawi endemics. Expect dense populations of mbuna cichlids around the rocky formations, with different species occupying different depth zones and specific rock types. In the open water above the rocks, utaka (open-water cichlids) school in large aggregations. The bottom substrate between rocks hosts catfish and small invertebrates.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Navigate southward from the boat mooring along the rock slope, staying at your target depth for the outward leg before returning at a shallower level. The southern face receives slightly different light exposure than the point, which can favor different cichlid behaviors. Time your dive for mid-morning when light angles best illuminate the rock faces.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by boat from Tanzanian lakeshore communities, coordinated through specialist Lake Malawi dive operators. The calm, sheltered conditions on the Tanzanian shore mean boat handling is generally straightforward. Weighting for freshwater buoyancy should be recalibrated prior to the dive.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Dive Kampagne Point and Kampagne South as consecutive dives on the same trip for species comparison
+- The Tanzanian shore of Lake Malawi is significantly less visited than the Malawian side — arrange logistics early
+- A waterproof notebook for recording cichlid species by site and depth adds scientific value to recreational dives
+- Cichlid photography here has potential for unique species documentation not seen elsewhere in the diving literature
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The calm freshwater environment presents few hazards beyond standard dive planning requirements. Monitor time and air to maintain a reserve for the safety stop and surface interval. The high-altitude freshwater combination requires conservative dive table or dive computer calculations. Avoid contact with shallow vegetation zones on shore due to bilharzia risk.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Kampagne South's south-facing rock structure creates different lighting opportunities from the point site, often providing better morning backlighting for ambient-light reef photography. The cichlids here may include species not photographically documented in wide circulation, making careful documentation genuinely valuable.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

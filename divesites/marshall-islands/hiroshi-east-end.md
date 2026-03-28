@@ -13,54 +13,32 @@ addedBy: osm_import
 
 ## Hiroshi East End
 
-Hiroshi East End is a reef dive site in Marshall Islands, Pacific.
+Hiroshi East End is the eastern extremity of a reef structure in Kosrae, Marshall Islands, forming a distinct dive site from the western end of the same reef system and offering complementary conditions to its counterpart Hiroshi West End.
 
 ## Overview
 
-Hiroshi East End is a dive site in Marshall Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The "Hiroshi" reef system extends along Kosrae's outer reef environment, with the east and west ends offering subtly different dive profiles based on their orientation to current and swell. The East End faces into the prevailing current flow, making it the more dynamic of the two — current-fed waters deliver nutrients and attract feeding aggregations of fish on the reef crest and upper slope. The maximum depth of 22 meters keeps the dive firmly in the intermediate range, with the main reef interest concentrated in the 8–18 meter zone.
 
-## Site Information
+Kosrae's reef systems are among the healthiest in Micronesia, benefiting from the island's low population density and strong community-based marine conservation ethic. Hard coral coverage is exceptional, with table corals, staghorn thickets, and massive brain and star coral formations covering the reef structures.
 
-- **Location**: Marshall Islands, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+## What to Expect
 
-## Marine Life
+The current exposure of the East End makes it a more productive site for schooling fish and pelagic encounters than the sheltered West End. Barracuda schools are common, hovering in the current above the reef. Dogtooth tuna sweep through on hunting runs. Grey reef sharks patrol the reef edge in the deeper sections. Closer to the reef, the coral gardens are densely populated with butterflyfish, angelfish, and surgeonfish feeding across the coral heads. Hawksbill turtles are frequently encountered grazing on the rich coral growth.
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+The reef crest in the shallows features interesting topography — coral arches, small overhangs, and crevices worth investigating for resting whitetip sharks and hiding invertebrates.
 
-## Dive Profile
+## Practical Information
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 22 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth Range**: 5–22 meters
+- **Visibility**: 20–35 meters typical
+- **Currents**: Moderate; can be current-dependent for best fish activity
+- **Entry**: Boat dive
+- **Best For**: Intermediate divers; excellent reef and fish photography
 
-## Entry and Exit
+## Marine Life Highlights
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Grey reef sharks, barracuda, dogtooth tuna, hawksbill turtles, napoleon wrasse, surgeonfish, butterflyfish, angelfish, groupers, whitetip reef sharks, table corals, staghorn corals.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

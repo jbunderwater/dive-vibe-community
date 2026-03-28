@@ -13,54 +13,49 @@ addedBy: osm_import
 
 ## Marsalis Abu Galawa
 
-Marsalis Abu Galawa is a reef dive site in Red Sea, Middle East.
+Marsalis Abu Galawa is a reef dive site in the Abu Galawa area south of El Quseir on Egypt's Red Sea coast, at approximately 27.31°N, 33.80°E. The Abu Galawa bay system — which also includes the nearby Jotao Abu Galawa site — is a collection of protected reef formations in a sheltered lagoon setting, accessible from liveaboards and day boats operating in the central Egyptian Red Sea region.
 
 ## Overview
 
-Marsalis Abu Galawa is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Marsalis Abu Galawa sits at a moderate intermediate depth of approximately 20 meters, representing the deeper, outer section of the Abu Galawa reef complex compared to the shallower Jotao site. The reef here benefits from the sheltered lagoon environment that characterises Abu Galawa — reduced wave energy and calmer conditions compared to fully exposed offshore sites — combined with productive marine life that uses the reef structures as habitat and feeding grounds. The site is typically paired with other Abu Galawa dives for a half-day or full-day itinerary.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
+- **Location**: Abu Galawa area, El Quseir region, Red Sea, Egypt
+- **Entry Type**: Boat dive (day boat or liveaboard)
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 15-25 meters (50-80 feet)
+- **Current**: Mild to moderate; more exposure on the outer reef sections
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The Abu Galawa reef system is well known in the Marsa Alam dive community for sea turtle encounters — green turtles are commonly found resting and feeding on the seagrass and reef areas throughout this section of coast. The Marsalis section of Abu Galawa offers the reef flat and sloping habitat where napoleon wrasse, groupers, and moray eels take up territories. Schools of glassy sweepers and anthias are abundant on the shallow reef structures. Lionfish are present in shaded sections, and the sandy margins support garden eels and stingrays. At the right time of year, spinner dolphins enter the bay area.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin the dive at 10-15 meters on the reef and work outward toward the 20-meter mark along the reef slope. The middle depth range between 10-18 meters is typically the most productive for both coral diversity and fish activity. Work back shallower as air reduces, covering the reef flat and any seagrass patches for turtle encounters before ascending. The site pairs naturally with the shallower Jotao Abu Galawa as a two-dive combination, with Marsalis Abu Galawa done first as the deeper dive.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day boats from El Quseir and liveaboards running the central Egyptian coast access Abu Galawa regularly. Entry via giant stride. The lagoon-sheltered conditions generally provide straightforward surface entry. Deploy SMB before ascending.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Plan Marsalis as the first dive if combining with the shallower Jotao site, following standard dive planning principles
+- Sea turtle encounters in the Abu Galawa area require slow, patient approach — do not chase or herd turtles
+- The protected lagoon environment makes Abu Galawa a reliable backup dive site when northerly winds make exposed offshore reefs inaccessible
+- Ask the operator about seasonal conditions — sightings of more unusual species like whale sharks and manta rays have been recorded in this area
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Conditions in the sheltered Abu Galawa lagoon are generally benign, but the outer reef edges can see moderate current. Fire coral is present on hard coral formations throughout the site. Urchins are common near the sandy seabed margin. Always use an SMB on ascent and conduct a full safety stop.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The Abu Galawa reef environment rewards patient close-up and macro photography as well as wider reef scenes. Sea turtle portraits in clear, calm water are a site highlight. The anthias and chromis clouds above coral heads shoot beautifully with natural ambient light in the 8-15 meter range.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

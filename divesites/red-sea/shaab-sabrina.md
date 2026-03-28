@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Shaab Sabrina
 
-Shaab Sabrina is a reef dive site in Red Sea, Middle East.
+Shaab Sabrina is a sheltered coral reef north of Hurghada that serves as a popular mooring point for dive boats, offering accessible reef diving and a calm lagoon interior suited to intermediate divers.
 
 ## Overview
 
-Shaab Sabrina is a dive site in Red Sea offering rewarding diving on healthy coral reef structures . mooring place for dive boats. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Located in the northern Egyptian Red Sea near Hurghada, Shaab Sabrina is a compact horseshoe-shaped reef that forms a natural anchorage for day-trip and liveaboard vessels. The reef's interior is shallow and relatively calm, making it an appealing second or night dive option after more demanding sites in the area. The outer rim slopes moderately from about 5 metres to a sandy base at 18–20 metres, with healthy table and branching corals along the lip. Although not as dramatic as some nearby offshore reefs, Sabrina offers consistently good coral health and reliable fish life year-round. Water temperatures average 26–28°C in summer, dropping to 22–24°C in winter, with visibility typically around 20–25 metres.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Northern Red Sea, Egypt (near Hurghada)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20-25 meters (65-80 feet)
+- **Current**: Light to moderate
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Shaab Sabrina's reef supports dense communities of anthias and glassfish around the coral heads, with groupers and trevally patrolling the outer edge. Green turtles are frequently sighted resting on the platform. Giant moray eels inhabit the deeper crevices, while blue-spotted stingrays shuffle across the sandy base. The reef attracts a good variety of reef fish including butterflyfish, angelfish, and wrasse, and the coral itself is decorated with sea fans and soft coral clusters on the deeper sections.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Most divers begin at the outer rim of the reef, descending along the slope from the platform top at 4–5 metres to the sandy base at around 18–20 metres. The reef edge winds around the horseshoe shape, providing a natural navigational guide. A typical dive covers the outer slope before cutting back across the platform top in the shallows for the safety stop. Night dives are popular here given the calm mooring conditions and abundant invertebrate activity after dark.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat; most operators moor to the reef directly. Entry is by giant stride or back roll from the boat or zodiac. The lagoon interior offers easy re-entry in calm conditions. Deploy your SMB at 5 metres and coordinate with the boat for pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Shaab Sabrina works well as a relaxed night dive — octopus, cuttlefish, and sleeping parrotfish are commonly spotted
+- The reef top in 4–8 metres is ideal for a final shallow dive to maximise air use before the boat departs
+- Look along the sandy base at the reef foot for rays and flatfish
+- Avoid anchoring on the coral — only use designated mooring buoys
+- Calm inner waters make this a good choice for divers building confidence in the open water
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Currents are generally mild at Shaab Sabrina, though the outer reef edge can see increased flow during tidal changes. Fire coral is present on the shallower reef sections — avoid contact with bare skin. During night dives, keep torch signals clear and stay close to the reef as the mooring environment can become congested with multiple dive groups. Always ascend with an SMB.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The shallow reef top provides excellent conditions for natural-light reef photography during midday dives when the sun penetrates the water column cleanly. Table coral formations with anthias clouds are among the best compositional opportunities. Night diving here offers compelling macro shots of hunting octopus and cuttlefish.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

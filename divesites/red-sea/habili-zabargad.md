@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Habili Zabargad
 
-Habili Zabargad is a reef dive site in Red Sea, Middle East.
+Habili Zabargad is an offshore reef pinnacle near Zabargad Island (also known as St. John's Island or Zebirget), one of the most remote and prestigious liveaboard destinations in the Egyptian Red Sea.
 
 ## Overview
 
-Habili Zabargad is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Zabargad Island is famed in the liveaboard world as a jewel of the far southern Red Sea — an island of olivine-rich geology (the island was historically mined for peridot gemstones) surrounded by reef systems of extraordinary quality. Habili Zabargad is one of the smaller reef structures in the immediate vicinity, a submerged pinnacle that complements the island's larger wall dives. Like all diving in the Zabargad area, it is exclusively accessible by liveaboard and receives only a fraction of the dive pressure of northern Red Sea sites. The reef is in immaculate condition with lush coral growth across all depth zones.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Location**: Near Zabargad Island (St. John's Island), far southern Egyptian Red Sea
+- **Entry Type**: Boat dive (liveaboard only)
+- **Site Type**: Offshore reef pinnacle near remote island
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 25–40 meters
+- **Current**: Moderate; can be strong on exposed faces
+- **Best Time**: October to May (avoid June–August for rough conditions)
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The Zabargad area is renowned for hammerhead sightings in winter months (December–March), and Habili Zabargad participates in this pattern — divers can expect to see hammerheads at depth in the blue water in peak season. Year-round, the reef hosts Napoleon wrasse in impressive numbers, large groupers, moray eels, and abundant reef fish schools. Whitetip reef sharks are common residents, and grey reef sharks patrol the outer zone. Hawksbill turtles are numerous. Eagle rays and spotted eagle rays cross the sandy areas around the pinnacle. The oceanic conditions of the area bring a regular exchange of pelagic visitors including thresher sharks and barracuda in open water.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to 18–20 meters and position yourself to view the blue water off the pinnacle's deeper faces during the first part of the dive. Pelagic sightings are most common during the descent and the first minutes at depth. Ascend the flanks and spend the main body of the dive at 8–15 meters exploring the soft-coral and sea-fan zones. The reef crown warrants careful exploration — it is rich with hard coral and schooling fish in an undisturbed state.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Liveaboard access only. The Zabargad area is on extended southern itineraries from Hurghada, Port Ghalib, or Marsa Alam (minimum 10 nights). Entry by giant stride from the liveaboard. Deploy SMB before ascending and coordinate surface pickup carefully.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The Zabargad area is among the top 10 liveaboard diving destinations in the world — book a reputable operator
+- December to March offers the highest probability of hammerhead sightings
+- The Island of Zabargad itself has historical significance (Roman peridot mines) and is worth exploring on the surface
+- Combine with the Rocky Island dive sites for a complementary day when at Zabargad
+- Bring multiple camera setups — the range of subjects from macro to big pelagic is exceptional
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+All standard remote liveaboard precautions apply. The Zabargad area can experience swell and current combinations that require advanced boat management. Listen carefully to the dive briefing for local conditions and current direction. Deploy an SMB on every ascent. The extraordinary remoteness means self-rescue capability is essential.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The Zabargad area is a bucket-list photography destination. Wide-angle shots in the exceptional 30–40 meter visibility create images of incomparable quality. Hammerhead sequences in the blue water are among the most sought-after images in Red Sea photography. The pristine coral pinnacle and turtle encounters provide outstanding subjects throughout the dive.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

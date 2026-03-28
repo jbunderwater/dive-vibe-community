@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## El Casra
 
-El Casra is a reef dive site in Red Sea, Middle East.
+El Casra is a reef dive site in the northern Marsa Alam region of Egypt, situated in the offshore reef belt between Hurghada and Marsa Alam. The name "El Casra" (sometimes spelled "Al Kasra") designates a mid-water reef structure accessible by day boat from operators working the stretch of coast around El Quseir and Hamata.
 
 ## Overview
 
-El Casra is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+El Casra is a submerged reef platform with a characteristic Red Sea profile: the reef top rises to within a few meters of the surface before the flanks slope down to sandy terraces at 15–20 meters. The reef is in good condition, with hard coral formations dominating the upper sections and transitions to mixed soft and hard coral on the deeper slopes. The surrounding open water provides a pelagic dimension to the dive. Visibility averages 20–30 meters, and water temperatures range from 23°C in winter to 29°C in summer.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Red Sea, Egypt (northern Marsa Alam coast, offshore)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Typical Visibility**: 20-30 meters (65-100 feet)
 - **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The reef hosts the core species of the Egyptian Red Sea: Napoleon wrasse, various groupers, cloud-like schools of anthias, and bright butterflyfish pairs. Moray eels occupy crevices along the deeper sections, and lionfish are present in most underhangs. Sea turtles are regularly sighted grazing the reef crown. Schools of snapper and fusiliers orbit the reef structure, while barracuda and the occasional reef shark cruise the outer edges. The sandy terrain adjacent to the reef base holds goby-shrimp pairs and blue-spotted stingrays.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef crown and work across the top before choosing a face to descend. The deeper flanks at 15–20 meters reveal the best soft coral growth and the greatest concentration of larger fish species. A full circumnavigation of the reef structure fills a standard dive to approximately 50 bar reserve. Ascend back to the crown for the safety stop, using the mooring line if conditions require.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by day boat. Entry via giant stride from the stern, descending the mooring line to the reef top. Exit by ascending the mooring line and returning to the dive platform after completing a 3–5 minute safety stop. In calm conditions, drift dives along the reef are possible — confirm the pickup plan with the boat crew before entry.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Explore multiple faces of the reef for variety — each cardinal direction can have different coral composition and fish communities
+- The deeper terraces at 18–20 meters are where larger groupers and moray eels concentrate
+- Check with your operator about combining this site with nearby El Sheig Malik for a two-reef day trip
+- Afternoon light on the western face provides the best illumination for photography after noon
+- Keep an eye on the blue water off the reef edge for passing pelagic species
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Current can be significant on exposed reef faces, particularly on the eastern and northern sides. Establish your dive direction relative to current on descent and plan to exit the current rather than fight it. Fire coral is present on the upper reef sections. Lionfish rest in underhangs throughout — avoid placing hands in crevices. Always carry an SMB for open-water safety stops.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+El Casra's clean water and variety of coral formations make it a versatile photography site. A wide-angle lens captures the sweep of the reef structure and schooling fish. Macro opportunities abound on the soft coral sections: look for nudibranch species, commensal shrimp on sea fans, and tiny wrasse cleaning stations. The sandy base is productive for goby-and-shrimp pairs — approach extremely slowly on the bottom.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

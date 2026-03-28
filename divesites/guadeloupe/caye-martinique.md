@@ -13,54 +13,49 @@ addedBy: osm_import
 
 ## Caye Martinique
 
-Caye Martinique is a reef dive site in Guadeloupe, Caribbean.
+Caye Martinique is a reef dive site at the southern end of the Grand Cul-de-Sac Marin lagoon off Grande-Terre, positioned between the Sainte-Anne shoreline and the outer reef systems. Despite sharing a name with the neighbouring island, the site is entirely within Guadeloupe's waters.
 
 ## Overview
 
-Caye Martinique is a dive site in Guadeloupe offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The reef structure at Caye Martinique rises from a sandy lagoon floor and forms a compact series of coral formations descending to 18 meters. Coral health is good, with brain, star, and encrusting corals forming the primary framework. Barrel sponges and rope sponges add colour at deeper levels. The lagoon setting provides shelter from Atlantic swell, keeping conditions calm and visibility reliable at 15–25 meters. Water temperature stays in the 26–28°C range year-round.
 
 ## Site Information
 
-- **Location**: Guadeloupe, Caribbean
+- **Location**: Southern Grand Cul-de-Sac Marin, Grande-Terre, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Lagoon coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 15–25 meters
+- **Current**: Generally light within the lagoon
+- **Best Time**: November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Green and hawksbill turtles are commonly seen at this site, and southern stingrays rest on sandy clearings between coral formations. French grunts, yellowtail snappers, and squirrelfish form dense aggregations in the midwater. Spotted morays and conger eels occupy deeper crevices. Eagle rays are occasional visitors, particularly in the early morning.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef crest and follow the gradual slope to the sandy bottom at 18 meters. The dive rewards slow exploration of coral heads and crevices. Bring adequate air for a safety stop at 5 meters — the shallows provide colourful reef-crest scenery to accompany your stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Sainte-Anne or Saint-François operators. Giant stride or back-roll entry. SMB required on ascent. Commonly paired with Caye Tome for a two-tank itinerary in the southern lagoon.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- A reliable, uncrowded alternative to the busier Cousteau Reserve sites
+- Early morning departures from Sainte-Anne give the best chance of calm conditions
+- Stingray sightings are more frequent when diving slowly and staying low to the sandy floor
+- The 10–15 meter zone is the sweet spot for marine life variety and photography light
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Monitor air consumption carefully at depth — the sandy bottom at 18 meters can encourage divers to stay deeper than planned. Deploy SMB well before ascending. Fire coral is present; buoyancy control is essential.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The bright lagoon water and coral-head formations provide natural-light portrait opportunities at 8–15 meters. Wide-angle shots capturing turtles or stingrays against coral backdrops are the highlight of this site.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

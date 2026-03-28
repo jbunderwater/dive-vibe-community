@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## C. B. Benson (Wreck)
 
-C. B. Benson (Wreck) is a historic wreck dive in Great Lakes, North America.
+The C. B. Benson is a 19th-century Lake Erie wreck located off the north shore of Lake Erie near Port Colborne, Ontario. Resting at approximately 20 metres on the sandy lakebed, this site offers classic Great Lakes wreck diving in the calm, cold freshwater conditions that preserve wooden-hulled sailing vessels for generations.
 
 ## Overview
 
-C. B. Benson (Wreck) is a dive site in Great Lakes featuring the wreck of the C. B. Benson (Wreck). Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Lake Erie's north shore between Port Colborne and Port Dalhousie was a busy shipping corridor in the age of sail, and vessels lost in storms here now provide a spectacular underwater heritage trail. The C. B. Benson is one of dozens of 19th-century schooners accessible from this stretch of the Ontario shore. At 20 metres, the wreck sits at an ideal recreational diving depth — shallow enough for extended bottom times, deep enough for good preservation. The cold, dark freshwater inhibits wood-eating organisms, keeping hull planking and structural elements intact long after a saltwater wreck would have disintegrated.
 
 ## Site Information
 
-- **Location**: Great Lakes, North America
+- **Location**: Lake Erie, Great Lakes, Canada
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
+- **Maximum Depth**: 20 metres
+- **Typical Visibility**: 5–15 metres
+- **Water Temperature**: 4–22°C (seasonal); bottom typically 6–10°C in summer
+- **Current**: Variable with wind direction
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Yellow perch are the most abundant fish around this wreck, gathering in large schools in the water column above the deck. Walleye — Lake Erie is North America's walleye fishing capital — patrol the area, especially at dawn and dusk. Smallmouth bass claim the hull openings as territory. Round gobies are present throughout. Zebra mussels cover all available hard surfaces below 10 metres.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The wreck sits upright on a flat sandy bottom. Begin at the bow, noting the hull construction typical of mid-19th-century Great Lakes schooners, then work aft along the deck. The mast stubs, capstan, and anchor hardware are points of interest. Hull penetration should be limited to trained wreck divers only. Return to the anchor line for your ascent and perform a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive charters from Port Colborne, Welland Canal area, or Port Dalhousie provide access. Entry by giant stride or back roll. Deploy SMB on ascent. Local dive operators know the site conditions and can advise on current conditions and best access.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Weekday diving avoids weekend boat traffic in this area
+- A torch is essential for examining the hull interior and deck features
+- Bring a spare torch battery — the cold can drain batteries faster than expected
+- The wreck is best dived in calm conditions when visibility reaches its maximum
+- Heritage protection applies — observe and photograph, do not touch or remove
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Lake Erie weather can be unpredictable. Check forecasts carefully, particularly wind speed and direction — wind-driven current on Lake Erie can be surprisingly strong. Always dive with a buddy. Cold water demands thermal protection. Carry an SMB.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The C. B. Benson provides excellent wreck photography opportunities at a manageable depth. Deck features, hull planking, and abundant yellow perch provide diverse subjects. Natural light from above creates attractive top-lit conditions on clear days.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

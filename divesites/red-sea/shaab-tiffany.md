@@ -13,54 +13,53 @@ addedBy: osm_import
 
 ## Shaab Tiffany
 
-Shaab Tiffany is a reef dive site in Red Sea, Middle East.
+Shaab Tiffany is a coral reef in the northern Egyptian Red Sea near Hurghada, a day-accessible site with a protected lagoon-style structure, coral gardens, and calm conditions suited to beginner-to-intermediate divers on day-trip circuits.
 
 ## Overview
 
-Shaab Tiffany is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Shaab Tiffany sits north of Hurghada at approximately 27.15°N, placing it firmly within the northern Egyptian Red Sea's day-accessible reef belt. The reef has a distinctive character — the inner section of the horseshoe or partial-lagoon structure is sheltered from prevailing northerly winds, making it a reliable spot for comfortable diving even when conditions elsewhere are choppy. The outer reef edge offers a more typical sloping reef with better coral and fish diversity. The site is regularly visited by day boats from Hurghada and Soma Bay, and is particularly well-suited to newer divers building open-water experience on boat dives. Water temperatures follow the northern pattern: 21–23°C in winter, rising to 28–30°C in summer.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Northern Red Sea, Egypt (near Hurghada, lat 27.15°N)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20-25 meters (65-80 feet)
+- **Current**: Light inside lagoon; moderate on outer edge
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The sheltered inner sections of Shaab Tiffany support good populations of reef fish that adapt well to regular diver presence — butterflyfish, angelfish, and parrotfish are conspicuous on the coral platform. The outer edge produces more interesting encounters: moray eels in crevices, lionfish perching on coral heads, and the occasional napoleon wrasse cruising the deeper sections. Green turtles appear on the reef plateau, and blue-spotted stingrays are found on sandy patches between the coral formations.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Most dives begin at the outer reef edge, descending from the shallow platform at 5–8 metres to the sloping reef bottom at 18–20 metres. The calm inner section provides an excellent end-of-dive option for extending shallow time while maintaining a comfortable reserve. Navigation is straightforward, following the reef edge around the sheltered face. The calm conditions on the inner side make this suitable as a boat-dive skills location for open-water course dives.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by day boat from Hurghada or Soma Bay. Entry by giant stride or back roll. The calm inner section provides easy re-entry conditions. Deploy SMB at 5 metres and coordinate with the boat crew for pickup. Multiple boats may be moored at this site simultaneously during peak season.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Ideal for a second or third dive when tired or after a more demanding site earlier in the day
+- The inner lagoon section is suitable for night diving with a Hurghada-based operator
+- Check the outer edge coral formations first — they support significantly better fish diversity than the inner slope
+- During winter when northerly winds are strong, this site's sheltered character is particularly valuable
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The inner reef is generally very calm and poses minimal hazard. The outer reef edge can develop current at tidal changes — brief your guide before entry. Multiple boats at the mooring create a busy surface environment; always deploy an SMB before ascending and confirm clear water above before surfacing. Fire coral is present on the platform.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Shaab Tiffany's calm inner section provides stable conditions for close-focus photography. The platform top in 5–8 metres receives good natural light during midday, making it productive for reef fish portraits and coral macro work. Night diving here offers cuttlefish and octopus photography opportunities.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

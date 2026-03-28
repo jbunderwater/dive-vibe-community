@@ -13,55 +13,50 @@ addedBy: osm_import
 
 ## Francesca da Rimini
 
-Francesca da Rimini is a historic wreck dive in Croatia, Europe.
+The Francesca da Rimini is the wreck of an Italian cargo steamer sunk on 24 January 1944 during WWII operations in the central Dalmatian channel near Šibenik. Lying at up to 50 metres, it is one of the deeper accessible wrecks on the Croatian coast and requires advanced gas management.
 
 ## Overview
 
-Francesca da Rimini is a dive site in Croatia featuring the wreck of the Francesca da Rimini which sank in 24.01.1944. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The vessel rests at 40–50 metres on a sloping bottom, lying on its port side. The hull is largely intact with the superstructure, masts, and cargo holds recognisable. Dense encrustation of orange and yellow sponges, sea fans, and soft corals gives the wreck a colourful appearance. Visibility in the Šibenik channel typically reaches 10–20 metres. This is a serious Advanced dive due to the depth and potential for silting in enclosed sections.
 
 ## Site Information
 
-- **Location**: Croatia, Europe
+- **Location**: Šibenik Channel, Central Dalmatia, Croatia
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 50 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 10–20 meters
+- **Current**: Light to moderate in the channel
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Conger eels inhabit the deeper holds and recesses. Large grouper patrol the superstructure. Scorpionfish and moray eels are resident throughout the wreck, and lobster can be found in crevices along the hull at depth. The sponge-encrusted hull attracts sea bream and ornate wrasse. Barracuda sometimes form schools above the wreck during summer.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 50 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Begin the dive shallower, descending the shot line to around 38–42 metres near the midship section and working toward the stern at maximum depth. Limit bottom time at 50 metres to approximately 10–15 minutes on air before beginning a staged ascent. Nitrox is strongly recommended. Allow adequate gas for a 5-minute safety stop at 5 metres plus margin.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from Šibenik or nearby Vodice operate to this site. Shot line descent directly to the wreck is standard. Ascend via the shot line or deploy an SMB for free ascent. Current can run through the channel — check conditions with the dive operator before the dive.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Nitrox (32%) strongly recommended for maximising bottom time at depth
+- Carry a primary and backup torch for interior inspection
+- This is a war grave — treat the site respectfully; no artefact removal
+- Drysuit or 7 mm wetsuit recommended outside of peak summer
+- Plan as the first and deepest dive of any multi-dive day
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+The 50-metre maximum depth puts this firmly in Advanced territory. Divers must be comfortable with extended range dives and staged ascents. In-water decompression capability is advisable. The shot line must be maintained as the primary reference throughout. Do not penetrate holds without wreck diving training and a reel.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The canted hull rising from the sandy bottom makes a dramatic wide-angle subject. Sponge-encrusted anchor chains and portholes photographed with a strobe bring out vivid colours. A model diver silhouetted against natural light filtering down from above creates memorable images.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

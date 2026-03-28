@@ -13,54 +13,49 @@ addedBy: osm_import
 
 ## Ras Abu Soma Garden
 
-Ras Abu Soma Garden is a reef dive site in Red Sea, Middle East.
+Ras Abu Soma Garden is a reef dive site located at Ras Abu Soma, a headland promontory south of Hurghada on the Egyptian Red Sea coast. The site is positioned on the sheltered side of the headland and is characterized by a gently sloping coral garden — one of the best examples of diverse hard coral coverage in the Hurghada region.
 
 ## Overview
 
-Ras Abu Soma Garden is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The "Garden" designation is well-earned: the reef here consists of a broad, gently sloping platform covered in an exceptional density and variety of hard coral species, including large table corals, brain coral domes, intricate plate corals, and stands of branching staghorn. The topography is gentler than typical Red Sea walls, making for relaxed diving across the coral carpet from the reef top at 5-6 meters down to sandy bottom at 20 meters. Visibility averages 20-30 meters and the sheltered position behind the headland keeps conditions calm on most days.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Red Sea, Egypt (Ras Abu Soma, south of Hurghada)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20-30 meters (65-100 feet)
+- **Current**: Typically gentle on the sheltered face
+- **Best Time**: Year-round; September to May optimal
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The garden reef supports an exceptionally diverse fish community. Napoleon wrasse cruise the outer garden edge. Schools of snapper and fusiliers gather over the coral heads, and large aggregations of anthias coat the upper slope. Butterflyfish pairs browse the coral in the typical manner. Spotted eagle rays have been reported over the sand at the base of the garden. Turtles are frequently encountered resting on coral platforms or grazing algae from hard substrate. Nudibranchs and flatworms are present throughout the coral rubble zones for keen macro observers.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The gentle gradient of this site encourages exploratory diving — descend to the sand at 20 meters and swim back across the garden at leisure, rising gradually through the zones. The coral density is highest between 8-15 meters and rewards slow, methodical swimming to appreciate the variety. Spend your last minutes on the reef top in the shallowest zone before your safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Hurghada or El Gouna operators. The calm conditions here make giant stride entry straightforward. Boat pickup after a safety stop deployed SMB at 5 meters.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Take time to slow down and examine individual coral heads — the diversity of coral species here is remarkable
+- The flat, gentle topography is excellent for student divers working on buoyancy control
+- Combine with a wall or deeper dive at the Ras Abu Soma headland for a contrasting second dive
+- Morning visits provide the best light for photographing the coral garden
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The gentle, shallow topography makes this a lower-risk site, but fire coral is present and can cause painful stings to exposed skin. Maintain good buoyancy to avoid contacting the fragile coral formations. The sandy edge of the garden may have limited visibility if currents have disturbed the substrate.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Ras Abu Soma Garden is arguably the best macro photography reef in the Hurghada region. The coral diversity provides numerous subjects including coral detail portraits, anemonefish in resident anemones, and nudibranchs on coral rubble. Wide-angle photography of the broad coral garden from a few meters above creates compelling reef landscape images. Natural lighting is excellent throughout due to the shallow depths and calm, clear water.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

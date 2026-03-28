@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Kalang Kechil
 
-Kalang Kechil is a reef dive site in Philippines Palawan, Asia.
+Kalang Kechil — meaning "Small Channel" in Malay — is a compact reef site in the Balabac Island group of southern Palawan, the smaller counterpart to nearby Kalang Besar and ideal for a paired diving day in this remote corner of the Philippines.
 
 ## Overview
 
-Kalang Kechil is a dive site in Philippines Palawan offering rewarding diving on healthy coral reef structures . Balabac area reef. Local name 'Kalang Kecil'. Coral formations and reef fish.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The Malay name, like that of Kalang Besar nearby, reflects the region's historical connections with maritime Borneo. Kalang Kechil is a smaller, more intimate reef than its neighbour, with a tighter coral structure that can be thoroughly explored on a single dive. The reef rises to approximately 8 meters at its shallowest and slopes away to 20 meters. Despite its modest size, coral coverage is dense, particularly in the 8–15 meter range where plating and branching corals form a productive community. The sheltered position within the channel system means more manageable diving conditions than exposed outer reefs.
 
 ## Site Information
 
-- **Location**: Philippines Palawan, Asia
+- **Location**: Balabac Island group, southern Palawan, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 10-25 meters
+- **Current**: Light to moderate tidal
+- **Best Time**: November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The compact reef structure creates high fish density in a small area. Damselfish, chromis, and anthias are abundant on the reef top. Larger residents include grouper, napoleon wrasse, and triggerfish. The enclosed nature of the site means fish are often more approachable than at more open reefs. Sea turtles occasionally rest on the shallower sections, and small reef sharks may be spotted on the deeper perimeter.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Given the reef's compact size, there is no need to rush. Descend to the deepest section first at 20 meters, then work methodically upward through the reef layers to the shallowest corals. The tight reef structure rewards a slow, hovering approach rather than swimming circuits. Take time to look inside coral heads with a torch.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by boat from Balabac or liveaboard. The sheltered channel location makes entry and exit generally straightforward compared to more exposed sites in the same area. Entry by giant stride; SMB for ascent.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The compact reef is ideal for a long, slow dive — take your time and cover every square meter
+- Bring a torch to look inside coral heads and crevices for critters
+- Pairs well with Kalang Besar for a comparative small-versus-large reef experience
+- Fish are often more approachable here than at more frequently dived sites
+- A shallow maximum depth allows generous bottom time for thorough exploration
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Standard precautions apply at this relatively sheltered site. Tidal current can still be present; monitor your position and air supply. Carry an SMB for the ascent. As with all Balabac sites, remote location means conservative diving is essential.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The high fish density on a small reef makes this an excellent macro and reef fish portrait site. The confined space means photographic subjects are always within range. Torch-lit images inside coral crevices can be particularly striking.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

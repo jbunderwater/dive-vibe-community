@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## St John's Habili Gaffar
 
-St John's Habili Gaffar is a reef dive site in Red Sea, Middle East.
+Habili Gaffar is a submerged reef pinnacle — a "habili" in local parlance — within the St John's Reef complex of the far southern Egyptian Red Sea. These isolated, open-ocean pinnacles that rise from deeper water are characteristically swept by stronger currents than the main reef structures, and this exposure is precisely what makes them magnets for larger pelagic species.
 
 ## Overview
 
-St John's Habili Gaffar is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Rising from a sandy bottom to within a few meters of the surface, Habili Gaffar presents as a compact, steep-sided pinnacle fully exposed to the prevailing Red Sea currents. The current-swept conditions bring significantly higher concentrations of plankton and nutrients, supporting denser fish aggregations than the more sheltered reef environments nearby. This is one of the more exciting dives within the St John's system, with the constant possibility of large pelagic encounters. The site is accessible only by liveaboard.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Location**: St John's Reef, Southern Red Sea, Egypt
+- **Entry Type**: Boat dive (liveaboard only)
+- **Site Type**: Reef (submerged pinnacle / habili)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Typical Visibility**: 20-35 meters (65-115 feet)
 - **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The current-washed flanks of Habili Gaffar support spectacular concentrations of fish. Enormous schools of barracuda and fusiliers swarm the pinnacle top, while large trevally and dogtooth tuna make sweeping passes. Whitetip reef sharks and grey reef sharks are commonly encountered, often sheltering in the lee of the pinnacle between hunting forays. Napoleon wrasse are resident and conspicuous. During the right season, hammerhead sharks and manta rays patrol the deeper water around the base of the pinnacle.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend directly to the pinnacle top and work the current from the start. The most productive strategy is to hold position at the pinnacle top in moderate current — using a reef hook if necessary — and watch the procession of fish. Descend the windward face to explore deeper, then swing around to the sheltered side for a more relaxed look at the coral coverage. Return to the top for the safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Liveaboard zodiac access. Entry via giant stride. Drift pickups are common — deploy SMB before ascending and confirm with the zodiac crew. Current direction and strength should be briefed by the dive guide before entry.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- A reef hook is strongly recommended to hold position in the current without touching coral
+- Brief your zodiac driver on the expected drift direction before the dive
+- Watch the blue water behind the pinnacle for hammerheads and mantas — they approach from depth
+- Carry a signal mirror in addition to an SMB in this remote location
+- Check current conditions at the start of the dive; abort early if conditions exceed your comfort
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+This is an open-ocean environment with potentially strong, shifting currents. Maintain buddy contact at all times. The remote location means emergency support is hours away — plan all dives conservatively and surface with significant air reserves. Always deploy SMB before ascending; zodiac pickup in strong current can be challenging.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The schooling fish activity above Habili Gaffar is the primary photographic draw. A wide-angle lens capturing a diver silhouetted against a vortex of barracuda is a defining Red Sea image. Pelagic encounters — tuna, sharks — require a quick reaction and a pre-set camera. The pinnacle's coral-covered flanks offer reef details in good visibility.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

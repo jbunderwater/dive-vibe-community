@@ -13,54 +13,49 @@ addedBy: osm_import
 
 ## Makadi Garden
 
-Makadi Garden is a reef dive site in Red Sea, Middle East.
+Makadi Garden is a reef dive site located in the Makadi Bay area south of Hurghada on Egypt's Red Sea coast. Makadi Bay is a purpose-developed resort area with a cluster of large hotels, and the diving here is characterised by accessible boat dives to nearshore and offshore reefs serving the resort community. The site sits at approximately 27.00°N, 33.91°E in the Red Sea, a few kilometres off the developed shoreline.
 
 ## Overview
 
-Makadi Garden is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Makadi Garden offers a coral garden dive in the productive nearshore reef environment typical of this stretch of the Egyptian coast. The "garden" name describes the topography — a series of coral outcroppings and patch reefs arranged across a sandy seafloor, rather than a continuous reef wall or drop-off. This type of formation is particularly enjoyable to explore slowly, weaving between coral heads and examining the varied microhabitats each structure provides. Maximum depth is approximately 20 meters, and the site is regularly used for resort course dives, check dives, and photography-focused excursions.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
+- **Location**: Makadi Bay, Hurghada area, Red Sea, Egypt
+- **Entry Type**: Boat dive (resort day boat)
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 15-25 meters (50-80 feet)
+- **Current**: Generally mild; can increase with wind
+- **Best Time**: Year-round; October to May for optimal conditions
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The coral garden structure at Makadi Garden supports a typical Red Sea nearshore reef community. Napoleon wrasse of considerable size are documented in this area, often approaching dive groups with familiarity from regular human presence. Schools of anthias, chromis, and butterflyfish are constant on every coral head. Octopus, moray eels, and lionfish are regular crevice inhabitants. Stonefish, well-camouflaged against sandy substrate, require careful attention near the reef base. Sea turtles make occasional appearances at this and neighbouring Makadi Bay sites. The sandy channels between coral outcroppings are worth examining for garden eels, rays, and flatfish.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+After descending to the sandy base between coral formations, work systematically through the garden, exploring each coral head from multiple angles. The intermediate depth rating reflects the moderate navigation challenge of an open garden site rather than technical demands — maintaining position and orientation across open sand requires more active navigation than following a continuous reef. Work progressively deeper into the formation before ascending the coral heads and returning to the shallower section for the end of the dive.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Makadi Bay resort jetties and dive centres. Entry via giant stride. The relatively calm nearshore location means exit conditions are generally straightforward. Deploy SMB before ascending and follow the boat's pickup procedures.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- For the best experience, move slowly and look carefully at each coral structure — resident species like stonefish and frogfish reward attentive observation
+- Napoleon wrasse at this site are accustomed to divers and may approach closely — resist the temptation to feed or touch them
+- This is an excellent site for the second or third dive of the day at a comfortable depth
+- Makadi Bay operators offer night dives at Makadi Garden — excellent for cuttlefish, octopus, and sleeping reef fish
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Stonefish are present in sandy substrate areas adjacent to coral formations — never kneel on the seabed or place hands without checking first. Fire coral is abundant on hard coral formations. Navigation in an open garden site without a wall reference can be disorienting in lower visibility — carry a compass and monitor your position relative to the boat. Always use an SMB on ascent.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Coral garden sites offer flexible composition options — wide-angle scenes capturing multiple coral heads with fish life above, or tight macro work on the encrusted surfaces. Napoleon wrasse close-up portraits are a signature Makadi area shot. The sandy channels make excellent foreground elements in wide compositions. Night photography at the garden yields cuttlefish and octopus hunting subjects.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

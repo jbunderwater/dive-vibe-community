@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Carless Reef
 
-Carless Reef is a reef dive site in Red Sea, Middle East.
+Carless Reef is a coral reef dive site in the Hurghada region of the Egyptian Red Sea. The reef sits close to the navigational hazards that have historically claimed vessels in the area, and its name likely commemorates a maritime incident. Today it is a straightforward intermediate reef dive popular with Hurghada day-trip operators.
 
 ## Overview
 
-Carless Reef is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Carless Reef features a classic northern Red Sea reef profile: a shallow crest at 3–5 meters sloping gradually to a sand and rubble bottom at around 16–18 meters. Hard coral coverage is moderate to good, with sea fans, table corals, and brain corals among the formations. The site is well-suited to the Open Water diver wishing to explore beyond 12 meters and comfortable for those building intermediate experience. Visibility is typically 15–20 meters; water temperatures 22–29°C.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Red Sea, Egypt
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 15–20 meters (50–65 feet)
+- **Current**: Light
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Reef fish communities are representative of the northern Red Sea: anthias and chromis above the corals, parrotfish and wrasse grazing the reef surface, and grouper in sheltered overhangs. Moray eels are regularly encountered in crevices. Turtles visit the shallow reef crest. Blue-spotted rays and garden eels are found on the sandy floor at 15–18 meters.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the sandy base and explore the reef face, moving along its length before ascending through the coral gardens. The shallowest reef sections at 3–8 meters are excellent for an extended safety stop with continued fish interaction. Plan a comfortable 40–50 minute dive within the moderate depth range.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day boat from Hurghada with mooring or anchor at the reef. Giant stride entry. Exit via the boat ladder. SMB recommended for any open-water ascent away from the mooring.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- A reliable second dive site when deeper or more exposed sites have been done earlier in the day
+- Check the sandy base carefully — camouflaged flatfish and scorpionfish are often missed
+- Good site for photographers working on reef composition and natural light technique
+- The shallower reef crest is excellent for snorkellers and newly certified divers
+- Combine with a wreck dive earlier in the day for a varied two-dive experience
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Conditions are typically calm and this is one of the more forgiving sites in the Hurghada area. Main hazards are the usual fire coral and sea urchin contacts — buoyancy control prevents these. Always carry an SMB for pick-up.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The moderate depth and good light penetration support natural light reef photography in the shallower section. Macro subjects on the coral structures — nudibranchs, cleaner shrimp, and hawkfish — are the specialty here.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

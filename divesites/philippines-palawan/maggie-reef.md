@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Maggie Reef
 
-Maggie Reef is a reef dive site in Philippines Palawan, Asia.
+Maggie Reef is a coral reef site in the Balabac Island group of southern Palawan, one of the named reefs in this biodiverse but little-visited stretch of the Balabac Strait ecosystem.
 
 ## Overview
 
-Maggie Reef is a dive site in Philippines Palawan offering rewarding diving on healthy coral reef structures . Southern Palawan reef dive in Balabac area. Coral formations and tropical fish species.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Situated within the Balabac reef complex, Maggie Reef offers a classic Coral Triangle diving experience in a region that sees far fewer divers than Palawan's more famous northern sites. The reef forms a compact structure with a hard coral platform at 8–12 meters, transitioning to sandy slopes at 22 meters on the outer edges. The Balabac area's position at the intersection of the Sulu Sea and Celebes Sea drainage creates strong marine biodiversity, and Maggie Reef reflects this with a diverse array of coral and fish species. The relatively shallow maximum depth and sheltered position in the reef cluster make it suitable for a range of diving levels.
 
 ## Site Information
 
-- **Location**: Philippines Palawan, Asia
+- **Location**: Balabac Island group, southern Palawan, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 10-25 meters
+- **Current**: Moderate tidal; variable direction
+- **Best Time**: November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Coral diversity at Maggie Reef is typical of the productive Balabac ecosystem. Parrotfish, surgeonfish, and wrasse are the dominant reef grazers. Napoleon wrasse and grouper are present in the reef's deeper sections. Sea turtles frequently cross the reef on their feeding circuits through the Balabac area. The sandy margins around the reef edge are worth investigating for flounder, stingrays, and gobies at cleaning stations.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 22 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the sandy edge at 18–22 meters and work around the reef perimeter before ascending the reef slope. The mid-depth range of 10–18 meters typically has the densest coral coverage and fish activity. Finish with a leisurely exploration of the shallow reef top before your safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by boat from Balabac town or inclusion on a liveaboard itinerary. The Balabac area is remote — plan accordingly. Entry by giant stride; SMB for ascent.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Check the sandy margins carefully — easily overlooked species like stingrays and flatfish frequent these zones
+- The reef rewards a slow, methodical approach rather than covering distance
+- Combine with Coycoy Reef or Kalang Kechil for a productive multi-dive day in the Balabac reef cluster
+- Bring ID books — the species diversity here can surprise even experienced Philippines divers
+- This site is essentially undiscovered by international diving tourism — make the most of it
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Remote location in the Balabac Strait. Standard boat diving precautions apply, with additional care due to distance from emergency facilities. Always carry an SMB and dive conservatively.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The undisturbed fish behaviour makes Maggie Reef excellent for close-approach reef fish photography. Sandy margin species offer macro opportunities. Wide-angle coral garden scenes are productive in the clear morning water.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

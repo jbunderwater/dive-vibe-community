@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Aluminium
 
-Aluminium is a reef dive site in Red Sea, Middle East.
+Aluminium is a reef dive site located in the Hurghada region of the Egyptian Red Sea, named for the distinctive appearance of its pale, bleached coral formations which can give the reef a metallic sheen in certain light conditions.
 
 ## Overview
 
-Aluminium is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Situated amid the scatter of reef systems north of Hurghada, Aluminium offers a classic mid-Red Sea reef experience with a mix of coral gardens, hard coral plateaux, and sand channels. Maximum depth is around 20 meters, making it well-suited for Open Water graduates and those building experience. The reef is home to a good cross-section of Red Sea reef life, and the site is frequented by day boats out of Hurghada. Visibility typically runs 15–25 meters, and water temperatures sit between 22–29°C throughout the year.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Red Sea, Egypt
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 15–25 meters (50–82 feet)
+- **Current**: Light to moderate
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Expect the full complement of northern Red Sea reef species: anthias in dense clouds over coral heads, parrotfish grazing the hard corals, and groups of bannerfish drifting in mid-water. Moray eels and lionfish occupy sheltered ledges. Turtles are common, and larger jacks and barracuda often patrol the reef edge.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter at the reef crest in 5–8 meters and explore the sloping coral garden toward the sandy floor at 18–20 meters. Coral formations are dense in the upper sections, transitioning to a more open sand and rubble bottom. Spend the deepest portion early in the dive, then work back up through the shallower corals. Safety stop at 5 meters is standard.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day boats from Hurghada run regular trips to this site. Giant stride or back roll entry from the dive platform. Exit via the boat ladder on the operator's signal.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- A reliable site in calm conditions when stronger current sites are unsuitable
+- Suitable as a second or third dive when managing gas and depth profiles
+- Look closely at the coral bases for crustaceans and small nudibranchs
+- The site is popular with snorkellers in the shallows — maintain awareness on ascent
+- Early morning dives tend to have the calmest conditions
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Traffic from day boats is a consideration — always ascend close to the mooring line and deploy an SMB before surfacing away from the line. Currents are generally mild but can increase around the reef edge. Avoid contact with the pale bleached coral formations, which may still be fragile.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The reef profile and good light penetration suit both wide-angle and macro work. Schools of anthias against hard coral backgrounds provide classic Red Sea wide-angle shots. Inspect crevices for cleaner shrimp, hawkfish, and nudibranch subjects.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

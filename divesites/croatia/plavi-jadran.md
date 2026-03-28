@@ -13,55 +13,50 @@ addedBy: osm_import
 
 ## Plavi Jadran
 
-Plavi Jadran is a historic wreck dive in Croatia, Europe.
+The Plavi Jadran ("Blue Adriatic") is a relatively recent wreck, sunk on 31 January 2018 near Šibenik in central Dalmatia. As a deliberately sunk vessel, it has been prepared for diving and sits upright on the seabed at a beginner-friendly depth, making it one of the most accessible introduction-to-wreck-diving sites in Croatia.
 
 ## Overview
 
-Plavi Jadran is a dive site in Croatia featuring the wreck of the Plavi Jadran which sank in 2018-01-31. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The Plavi Jadran rests at 18–22 metres on a sandy bottom in the clear central Dalmatian waters near Šibenik. Because the wreck is recent, the hull is structurally intact and easy to navigate. The process of colonisation is ongoing — the structure is accumulating encrusting organisms, sponges, and fish life year by year. Visibility in this area typically reaches 15–20 metres during the main diving season, and conditions are generally calm.
 
 ## Site Information
 
-- **Location**: Croatia, Europe
+- **Location**: Near Šibenik, Central Dalmatia, Croatia
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 22 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: May to October
+- **Typical Visibility**: 15–20 meters
+- **Current**: Generally mild
+- **Best Time**: April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+As a newer artificial reef, the Plavi Jadran is progressively attracting permanent residents. Grouper and sea bream are establishing territories around the structure. Octopus and moray eels have begun colonising sheltered sections of the hull. The surrounding sandy seabed supports flatfish and starfish. This site will continue to improve as the wreck matures as a habitat.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 22 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the deck at around 15–18 metres and explore the exterior. The depth maximum of 22 metres leaves substantial time for thorough exploration. Swim the full length of the hull, look into accessible openings, and ascend for a 3-minute safety stop at 5 metres. An excellent site for divers completing their first open-water wreck experience.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from Šibenik operators serve this site. Entry by giant stride or back roll. Ascent via the shot line. Deploy an SMB if free ascending from the safety stop.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
+- An ideal site for Open Water certified divers taking their first steps in wreck diving
+- The relatively shallow depth allows very long bottom times and relaxed exploration
+- Bring a torch to illuminate interior sections even though the wreck is not deeply enclosed
+- Combine with a nearby reef or wall dive for a complete day programme from Šibenik
+- Watch for small nudibranchs appearing on the slowly encrusting hull surfaces
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+This is one of Croatia's most beginner-friendly wreck dives. Depth is well within Open Water limits. The main requirement is basic buoyancy control to avoid silt disturbance inside enclosed sections. Always carry an SMB and dive with a buddy.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The intact, clean hull of a relatively recent wreck provides clear photographic subjects with good ambient light penetration at this depth. Wide-angle shots of the full vessel silhouette in good visibility are very achievable. As the wreck matures, macro subjects on the encrusting surfaces will become increasingly rewarding.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

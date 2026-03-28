@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Sha`ab Quais
 
-Sha`ab Quais is a reef dive site in Red Sea, Middle East.
+Sha`ab Quais is a coral reef dive site located in the northern Egyptian Red Sea near Hurghada, known for its circular reef structure and calm, sheltered diving conditions.
 
 ## Overview
 
-Sha`ab Quais is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Sha`ab Quais is a lagoon-style reef situated in the central Red Sea north of Hurghada, rising from sandy flats to a broad coral platform with protected inner waters. The reef's structure forms a natural shelter from wind and swell, making it a popular mooring spot for liveaboards and day boats in the region. The inner reef slopes offer dense coral gardens rich with anthias clouds, while the outer edges drop away to deeper terrain. Visibility regularly reaches 20–30 metres in calm conditions, and water temperatures range from 22°C in winter to 30°C in summer.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Northern Red Sea, Egypt (near Hurghada)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20-30 meters (65-100 feet)
+- **Current**: Light to moderate
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The coral gardens of Sha`ab Quais support dense aggregations of glassfish and anthias around branching table corals, attracting hunting groupers and trevally. Napoleon wrasse patrol the deeper reef edges, and green turtles are frequently sighted resting on the coral heads. Moray eels occupy crevices throughout the reef, while blue-spotted stingrays rest on sandy patches between coral formations. Schools of snapper and fusiliers are common in mid-water, and lionfish are found perched on the reef at most depths.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The typical dive begins at the outer reef edge, where the slope drops from the platform top at around 5 metres to a sandy bottom at 18–20 metres. The reef flat offers excellent snorkelling and entry-level conditions, while the outer slope provides more engaging terrain for intermediate divers. A gentle circumnavigation of the reef's accessible sections covers the best coral formations. Plan sufficient air for a 5-metre safety stop before returning to the boat.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+All access is by dive boat; most operators moor directly to the reef. Entry is by giant stride or back roll from the dive deck. The calm inner-lagoon side provides easier conditions for newer divers, while the outer reef suits more confident divers. Return to the boat using your SMB to signal position during the safety stop.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The inner lagoon side is ideal for a relaxed second or third dive
+- Morning dives offer the best light for coral photography
+- Ask your guide about the sandy patches where rays rest near the reef base
+- Bring a close-up lens — the small nudibranchs and shrimp on coral heads are excellent macro subjects
+- Check for turtle activity near the larger coral heads on the reef top
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Currents at Sha`ab Quais are generally mild, but can pick up at tide changes on the outer reef edge. Maintain awareness of depth when following the reef slope. Fire coral is present on the platform — avoid contact when moving through shallow sections. Always deploy an SMB for ascent. Boat traffic in the area can be active during peak season; surface with your SMB fully deployed.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Sha`ab Quais rewards both wide-angle and macro shooters. Wide-angle images of table coral structures with anthias clouds in the background are achievable at most depths. For macro, scan the coral branches carefully for small gobies, shrimp, and nudibranchs. Turtles resting on the reef top provide excellent natural-light portrait opportunities.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

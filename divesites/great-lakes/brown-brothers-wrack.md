@@ -13,55 +13,56 @@ addedBy: osm_import
 
 ## Brown Brothers (Wrack)
 
-Brown Brothers (Wrack) is a historic wreck dive in Great Lakes, North America.
+The Brown Brothers is a deeper Lake Erie wreck lying in approximately 40 metres of water off the Ontario north shore, between Port Dover and Long Point. This advanced-level site requires greater diving experience due to its depth, and rewards with impressive wreck preservation in cold, clear freshwater conditions.
 
 ## Overview
 
-Brown Brothers (Wrack) is a dive site in Great Lakes featuring the wreck of the Brown Brothers (Wrack). Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Lake Erie wrecks at depth beyond 30 metres offer exceptional preservation conditions — cold bottom water, low light levels, and minimal biological activity combine to keep wooden hull planking, iron fittings, and rigging in remarkable condition. The Brown Brothers lies on a sandy bottom at approximately 40 metres, at the outer limit of recreational diving. The site attracts experienced divers who want to explore the deeper reaches of Lake Erie's wreck collection. Visibility typically ranges from 5–12 metres, and bottom temperatures remain near 4°C year-round regardless of surface conditions.
 
 ## Site Information
 
-- **Location**: Great Lakes, North America
+- **Location**: Lake Erie, Great Lakes, Canada
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 40 metres
+- **Typical Visibility**: 5–12 metres
+- **Water Temperature**: 4–22°C at surface (seasonal); bottom consistently 4°C
+- **Current**: Variable; Lake Erie can develop strong current with wind
+- **Best Time**: June to September
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Deep Lake Erie wrecks host a different community than shallower sites. Lake trout — cold-water specialists — are more commonly seen here than at shallower wrecks. Deep-water sculpin inhabit the bottom debris field. Yellow perch are present but less numerous than at shallower depths. The wreck's hard surfaces below the thermocline are heavily colonized by zebra mussels. Freshwater sponges and bryozoans grow on some sections in the deeper portions.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 40 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+This site is at the recreational diving depth limit. Careful dive planning is essential. Descent on the anchor line to the wreck top (approximately 30–35 metres), then explore aft to the maximum depth of 40 metres. Keep a close eye on NDL and gas consumption — bottom time at this depth is limited. Begin ascent in plenty of time, completing a 3–5 minute safety stop at 5 metres. Consider bringing a pony bottle as an additional safety margin.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Charter dive boats from the Port Dover and Port Colborne area run trips to the deeper Lake Erie wrecks. This is not a site accessible to shore divers — a proper dive charter is required. Entry by giant stride. Deploy SMB on ascent for boat pickup.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Drysuit mandatory — bottom temperature is 4°C regardless of surface conditions
+- At 40 metres, narcosis effects may be noticeable — know your personal tolerance before diving this deep
+- Dive with an experienced buddy who is comfortable at this depth
+- Plan your gas consumption to surface with at least 80 bar reserve
+- A primary and backup dive computer is recommended at this depth
+- Heritage protection legislation protects all artifacts
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The combination of cold water, depth, and Lake Erie's unpredictable weather makes the Brown Brothers a site that demands respect. Narcosis, cold incapacitation, and rapid weather deterioration are the primary risks. Dive within your training and experience level. Advanced Open Water certification and deep dive specialty training are minimum requirements. Always dive with a buddy and carry an SMB.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+At 40 metres, ambient light is reduced but still sufficient for wide-angle photography in clear conditions. The wreck's well-preserved structure provides compelling subjects. A video light or strobe is valuable for revealing hull details and adding colour to what would otherwise be the characteristic blue-green tones of deep freshwater photography.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

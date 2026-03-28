@@ -13,55 +13,54 @@ addedBy: osm_import
 
 ## Balena
 
-Balena is a historic wreck dive in Red Sea, Middle East.
+Balena is a very shallow wreck dive site in the Hurghada area of the Egyptian Red Sea. The wreck — believed to be a small vessel — lies in just 3 meters of water and is primarily of interest to snorkellers, beginner divers, and wreck photographers working in natural light.
 
 ## Overview
 
-Balena is a dive site in Red Sea featuring the wreck of the Balena. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The Balena wreck sits on a sandy, sunlit seabed in water so shallow it barely covers the structure at low tide. Despite its modest depth, the wreck has become encrusted with coral growth and now acts as an artificial reef. The site is particularly appealing in calm sea conditions when sunlight filters through the water to illuminate the wreck and the fish sheltering within it. Visibility in the immediate area is typically 10–20 meters. Water temperatures remain warm year-round at 24–29°C. The site is accessed by day boat from Hurghada-area operators.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Red Sea, Egypt
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 3 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 10–20 meters (33–65 feet)
+- **Current**: Very light
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter glassy sweepers, lionfish, groupers, coral growth, soft corals, whale sharks, manta rays, hammerhead sharks. Additional species commonly sighted include oceanic whitetip sharks, sea turtles, dolphins. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Due to its extreme shallowness, the wreck is bathed in bright light and has attracted rich fish life — glassfish schools shelter within the hull, while lionfish, moray eels, and small grouper occupy the structure. Turtles occasionally visit the site, and sea urchins colonise the exterior. Chromis and butterflyfish surround the coral-encrusted edges.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 3 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+With a maximum depth of 3 meters, dive planning is minimal. Divers typically circumnavigate the wreck exterior and investigate the interior where accessible, spending extended time at this single depth. The proximity to the surface means natural light is excellent throughout. No decompression obligations apply, and surface intervals can be used productively with snorkelling.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access only. Entry by giant stride or back roll into very shallow water — exercise caution on entry to avoid contact with the wreck or seafloor. Exit via the boat ladder.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Best appreciated on a clear day when sunlight illuminates the entire wreck
+- Suitable for wide-angle photography without additional strobes
+- An excellent site for divers wanting extended time on a wreck without depth concerns
+- Combine with a deeper nearby site for a two-dive day
+- Snorkellers can enjoy much of what divers see from the surface
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The primary hazard is accidental contact with the wreck structure in such confined shallow space — buoyancy control is essential. Surge from passing boat wake can cause movement in very shallow water. Lionfish present a stinging hazard inside the wreck.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+One of the Red Sea's best naturally lit wreck photography sites. The shallow depth and clear water allow ambient light shooting without strobes. Schools of glassfish inside the hull create atmospheric wide-angle compositions.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

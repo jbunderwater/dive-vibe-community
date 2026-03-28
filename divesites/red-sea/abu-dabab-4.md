@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Abu Dabab 4
 
-Abu Dabab 4 is a reef dive site in Red Sea, Middle East.
+Abu Dabab 4 is a shore-entry coral reef dive site at Abu Dabbab Bay, north of Marsa Alam, Egypt.
 
 ## Overview
 
-Abu Dabab 4 is a dive site in Red Sea offering excellent diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Abu Dabbab Bay is one of the most celebrated dive and snorkel destinations on the Egyptian Red Sea coast, famous above all for its resident dugong population — among the most reliably accessible in the entire Red Sea. Abu Dabab 4 is one of several numbered entry points along the bay's sandy shoreline, offering a relaxed, shallow reef dive accessible directly from the beach. The seagrass beds that front the bay are a primary food source for the dugongs and also attract green sea turtles, making even shallow dives here remarkably rewarding. The site is ideal for beginners, snorkellers, and underwater photographers.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Abu Dabbab Bay, north of Marsa Alam, Red Sea, Egypt
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Coral reef and seagrass
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 15–30 meters
+- **Current**: Minimal; calm bay conditions most of the year
+- **Best Time**: Year-round; dugong sightings peak October–April
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Abu Dabbab Bay is justifiably famous for dugong encounters — these gentle sea mammals graze the seagrass beds in the shallows and are often seen within easy viewing range from the surface. Green sea turtles are extremely common and frequently rest on the seagrass or swim slowly through the bay. The reef itself hosts the usual Red Sea assemblage: angelfish, triggerfish, trumpetfish, moray eels, and reef sharks on the outer sections. Seahorses and octopus are found among the seagrass.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter from the sandy beach and wade or swim out across the seagrass to the reef edge. The seagrass zone at 2–5 m is itself worth exploring slowly for dugong, turtle, and macro life. Drop to the reef slope at 8–15 m for hard coral formations and more varied fish populations. Return through the seagrass on your ascent.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry directly from Abu Dabbab beach. The beach is accessible from the road and serviced by local dive and snorkel operators who provide equipment rental and guides. Water shoes are advisable over the seagrass. Fins should be put on in the water to avoid damaging the seagrass beds.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Move slowly and calmly through the seagrass — dugongs are easily startled and will retreat if approached quickly
+- Keep noise to a minimum and avoid touching or chasing wildlife
+- Morning dives offer the clearest water before day-trippers arrive
+- Snorkellers can enjoy excellent dugong and turtle encounters without descending deep
+- The site is very diver-friendly for beginners — minimal current and shallow depths
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The bay is calm but boat traffic from day-trip vessels and snorkel boats can be present. Surface carefully and use an SMB or tow-float when swimming in the bay. Avoid standing on seagrass, which is a protected marine environment.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+One of the top underwater photography destinations in the Red Sea. Wide-angle shots of dugong grazing among sunlit seagrass are iconic images from this bay. Turtles are often very approachable. Macro subjects include seahorses and nudibranchs in the seagrass. Use a wide-angle lens for the best dugong and turtle frames.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

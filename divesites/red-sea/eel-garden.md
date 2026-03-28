@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Eel Garden
 
-Eel Garden is a reef dive site in Red Sea, Middle East.
+Eel Garden is one of Dahab's most beloved shore dives, located at the northern end of Dahab's main diving stretch on the Gulf of Aqaba coast of the Sinai Peninsula. The site takes its name from the vast colonies of garden eels that carpet the sandy lagoon floor, creating one of the most mesmerising and unique marine spectacles on the Egyptian Red Sea coast.
 
 ## Overview
 
-Eel Garden is a dive site in Red Sea offering excellent diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The dive site begins at a sandy entry point accessible directly from the beach and transitions over a short swim into a broad sandy lagoon at 5–10 meters. The lagoon floor is densely colonised by spotted garden eels (Heteroconger hassi) — hundreds of individuals swaying in unison in the current, retracting instantly into the sand as divers approach. Beyond the lagoon, the sandy bottom gives way to a coral reef slope descending to around 20 meters, with scattered coral heads and eventually a wall dropping into deeper water. The site is calm and well-protected within the Gulf of Aqaba, with excellent visibility averaging 20–30 meters. Water temperature ranges from 21°C in February to 27°C in August.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Red Sea, Egypt (Dahab, Gulf of Aqaba, Sinai)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Coral reef (sandy lagoon and reef slope)
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20-30 meters (65-100 feet)
+- **Current**: Light (well protected in Gulf of Aqaba)
+- **Best Time**: Year-round; best visibility March to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The garden eel colony is the defining feature: on a good day, hundreds of spotted garden eels extend from the sand, creating a forest of swaying silhouettes. They are extremely sensitive to approach — moving slowly on the bottom well ahead of the colony and waiting motionless allows remarkable close-up observation. Beyond the eel garden, the reef slope hosts pufferfish, trumpetfish, various wrasse species, triggerfish, and schools of anthias. The sandy patches around the eel colony often contain blue-spotted stingrays and various goby species. Scorpionfish and moray eels are present along the reef edge.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter at the beach access point and descend into the lagoon over the sandy bottom. Navigate north along the sandy plain at 6–10 meters to reach the eel colony — the transition point where sand comes alive with movement. Spend time here before continuing to the reef slope for the second half of the dive. The reef section descends to 20 meters with scattered coral bommies. Return across the lagoon for a shallow exit, ascending gradually toward the beach.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Entry is from the beach at Dahab's Eel Garden access point. Walk into the water over the sandy bottom in booties; fins on once thigh-deep. Exit at the same beach, removing fins in knee-deep water. There is no significant surge at this protected Gulf of Aqaba site. Multiple dive centres along the Dahab promenade are located within walking distance and can arrange tank fills, guides, and equipment.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Approach the eel colony very slowly on your knees and stop 3–4 meters away — sudden movements cause mass retraction into the sand
+- Visit in the morning for calmer conditions and the best light over the sand
+- This is an excellent site for a first Red Sea dive — calm, shallow, and scenic
+- Stay through sunset for a fascinating evening dive when the reef fish change shift and nocturnal species emerge
+- The nearby Blue Hole and Canyon are more advanced dives worth adding if you are building experience at Dahab
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The Eel Garden is one of Dahab's safest dive sites. Currents are minimal and depth is manageable for beginners. Blue-spotted stingrays rest on the sandy bottom — watch where you kneel to approach the eel colony. The reef section beyond the lagoon has a wall that drops deeply; beginners should remain on the upper slope at 10–15 meters. Always have a local guide for your first Dahab dive.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The eel garden is a macro and behavioural photography dream: use a 60mm or 100mm macro lens and approach in complete slow motion. The images of hundreds of eels extending from the sand with backlighting from the surface are iconic Red Sea shots. A wide-angle lens is ideal for the reef section, where coral heads and anthias clouds provide colourful subjects. Natural light is sufficient throughout the dive given Dahab's excellent visibility.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

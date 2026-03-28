@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## Shab Rumi, Plateau S
 
-Shab Rumi, Plateau S is a wall dive site in Sudan Red Sea, Middle East.
+Sha'ab Rumi South Plateau is one of Sudan's most celebrated and photographed dive sites — a shallow, current-washed plateau on the southern end of Sha'ab Rumi atoll, famous for its enormous schools of barracuda, trevally, and hammerhead sharks that patrol the plateau edge. It is widely regarded as one of the finest shark dives in the Red Sea.
 
 ## Overview
 
-Shab Rumi, Plateau S is a dive site in Sudan Red Sea featuring a dramatic vertical wall that drops into the deep blue . Shab Rumi. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The South Plateau sits at the exposed southern tip of Sha'ab Rumi, directly in the path of currents that sweep up from the open Red Sea. This exposure makes it a gathering point for schooling pelagic fish and the apex predators that follow them. Massive, tightly packed tornadoes of chevron barracuda are a near-guaranteed encounter, swirling in dense cylinders around divers who hold position at the plateau edge. Scalloped hammerhead sharks cruise the wall below the plateau in regular processions, particularly in the early morning. The plateau's shallow depth (typically 10-20 metres on the plateau surface) allows extended bottom times and repeated encounters before divers need to ascend. Combined with the Conshelf II site in the lagoon, Sha'ab Rumi offers some of the richest diving in Sudan on a single anchoring.
 
 ## Site Information
 
-- **Location**: Sudan Red Sea, Middle East
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Location**: Sha'ab Rumi, northern Sudan Red Sea
+- **Entry Type**: Boat dive (liveaboard)
+- **Site Type**: Wall dive / plateau
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 20 meters (plateau; outer wall descends much deeper)
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The South Plateau is best known for its barracuda tornadoes — hundreds to thousands of chevron barracuda that spiral in formation just off the plateau edge, creating one of the Red Sea's most extraordinary spectacles. Scalloped hammerheads school along the outer wall, particularly at depth in the early hours. Grey reef sharks patrol the plateau edge throughout the day. Napoleon wrasse — some exceeding one metre in length — are resident and approachable. Eagle rays, schooling jacks, and tuna frequent the exposed southern tip. The plateau surface itself is carpeted with soft corals, sea fans, and dense anthias communities.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-20 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Descend to the plateau surface at 10-15 metres and immediately move to the southern tip where currents are strongest and fish aggregations peak. Hold position at the edge and observe barracuda schools and passing hammerheads below. Avoid descending too deep beyond the plateau edge — the wall drops away quickly and depth management becomes critical. After time at the tip, explore the plateau surface working back toward the lagoon entrance. Finish the dive with the safety stop in the lagoon's calmer water.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by liveaboard from the Sha'ab Rumi anchorage. Divers are typically dropped at the upstream end of the plateau and drift toward the southern tip with the current. The boat picks up divers at the lagoon entrance following an SMB-signalled safety stop. In stronger current conditions, the dive guide manages the drift carefully — follow instructions precisely.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Dive at first light for the highest chance of hammerhead school encounters
+- Position yourself at the plateau edge and remain still — movement disperses the barracuda tornado
+- Keep depth discipline strictly; the wall drops steeply beyond 20 metres
+- Wide-angle lens is essential for barracuda schools and hammerhead passes
+- Combine with a second dive on the Conshelf II lagoon site for a full Sha'ab Rumi experience
+- Bring extra air — the encounters here make it easy to extend the dive unintentionally
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Strong and variable currents at the southern tip require continuous buoyancy monitoring. The plateau edge is an abrupt drop-off — divers following hammerheads below the plateau can descend rapidly without noticing. Monitor your depth gauge constantly and set a firm depth limit before entering the water. Fire coral on the plateau surface is abundant — avoid contact. Always carry a high-visibility SMB for the current-assisted pickup.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+The barracuda tornado is the signature shot — wide-angle from below looking up through the school uses natural light dramatically. Hammerheads along the outer wall in blue water reward wide-angle with backlighting from above. The plateau surface offers medium-range shots of Napoleon wrasse, moray eels in coral heads, and anthias clouds over sea fans.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,55 +13,50 @@ addedBy: osm_import
 
 ## Giannis D
 
-Giannis D is a historic wreck dive in Red Sea, Middle East.
+Giannis D is one of the most accessible and photogenic wreck dives in the Egyptian Red Sea, resting at Sha'ab Abu Nuhas — the "Wrecks Reef" — in the northern Red Sea roughly 70 km north of Hurghada.
 
 ## Overview
 
-Giannis D is a dive site in Red Sea featuring the wreck of the Giannis D. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The Giannis D was a Greek cargo vessel that grounded on the shallow reef of Sha'ab Abu Nuhas on 19 April 1983 while carrying a cargo of timber. Today the wreck lies on its port side at a slight angle, with the bow in around 6 meters and the stern descending to 24 meters. The hull is completely intact and heavily encrusted with orange and yellow soft corals, hard corals, and sea fans that have transformed the former timber carrier into one of the most colourful wrecks in the Red Sea. Abu Nuhas is also home to three other significant wrecks — the Carnatic, Chrisoula K, and Kimon M — making it a world-class wreck diving destination that virtually all Red Sea liveaboards include on their northern itineraries.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Location**: Sha'ab Abu Nuhas, northern Egyptian Red Sea (approximately 70 km north of Hurghada)
+- **Entry Type**: Boat dive (liveaboard)
+- **Site Type**: Wreck (intact cargo vessel, 99 m length)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20–30 meters
+- **Current**: Moderate; can be strong over the reef top in swell
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter glassy sweepers, lionfish, groupers, coral growth, soft corals, whale sharks, manta rays, hammerhead sharks. Additional species commonly sighted include oceanic whitetip sharks, sea turtles, dolphins. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck is so thoroughly colonised by soft and hard corals that it reads more as an artificial reef than a shipwreck. Orange tree corals, giant sea fans, and anemone clusters coat the hull. Large schools of glassy sweepers fill the hold and cargo spaces, and lionfish are ubiquitous, hanging motionless in the shadows. Groupers occupy the deeper sections of the stern. Barracuda and jacks patrol the open water above the wreck, and several resident Napoleon wrasse visit regularly. The reef surrounding the wreck hosts triggerfish, butterflyfish, and parrotfish.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 24 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Most divers enter from the liveaboard moored above the stern or midships. Descend to the stern at 22–24 meters and work forward along the port side of the hull, examining the engine room and cargo holds. The foremast lies at around 8 meters near the bow and is a spectacular photo subject. The hold interiors are penetrable with a torch and form the centrepiece of the dive. Begin the ascent along the starboard side of the hull and finish with a safety stop floating above the bow section in clear water.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access almost exclusively by liveaboard from Hurghada, El Gouna, or Marsa Alam. Entry by giant stride or back roll from the boat. Exit to the liveaboard platform; the boat crew will typically maintain a stern line for reference.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- A dive torch is essential — the holds and engine room are dark and full of detail
+- The bow and foremast section in 6–8 meters makes for outstanding wide-angle photography
+- Combine with the adjacent Carnatic and Chrisoula K wrecks at Abu Nuhas for a full wreck diving day
+- Intermediate divers comfortable in enclosed spaces can swim through the main cargo hold without full penetration training
+- Strong swell can make Abu Nuhas rolly — choose calmer days if prone to seasickness
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Do not attempt full penetration of the engine room or deep hull spaces without wreck penetration training and appropriate equipment (reel, primary and backup lights). Silt disturbance inside the holds can reduce visibility to zero in seconds. The reef of Sha'ab Abu Nuhas is shallow and exposed — in heavy swell, the boat crew may call the dive for safety. Always follow crew briefings regarding the mooring and exit procedure.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The Giannis D is arguably the most photogenic wreck in the northern Red Sea. The colourful soft coral encrustation on the hull lends itself to close-focus wide-angle shots. The foremast and bow section make superb diver-portrait backdrops. A torch with strong output is required to bring out the vivid orange corals in the holds.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

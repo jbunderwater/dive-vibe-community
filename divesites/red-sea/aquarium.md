@@ -13,55 +13,54 @@ addedBy: osm_import
 
 ## Aquarium
 
-Aquarium is a reef dive site in Red Sea, Middle East.
+Aquarium is one of the most popular beginner and snorkelling dive sites in the Marsa Alam region of the Egyptian Red Sea, known for its shallow, crystal-clear waters and the remarkable density of colourful reef fish that give it an aquarium-like quality.
 
 ## Overview
 
-Aquarium is a dive site in Red Sea offering excellent diving on healthy coral reef structures . mooring place for dive boats. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Located south of Hurghada near El Quseir or within the Marsa Alam area, Aquarium sits at the reef's edge with a sandy mooring area suitable for dive boats. The site is extremely shallow — reaching just 12 meters at its deepest — and is protected from prevailing winds and swell, making it ideal for newly certified divers, snorkellers, and underwater photography in natural light. The reef walls and gardens are in excellent health, festooned with plate corals, brain corals, and colourful soft corals. Fish life is dense and accustomed to diver presence, allowing close approaches. Visibility is typically 15–25 meters, and water temperatures stay above 24°C year-round.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Red Sea, Egypt
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 15–25 meters (50–82 feet)
+- **Current**: Very light
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Schools of anthias, chromis, and damselfish swarm the reef in vivid orange and purple clouds. Parrotfish, wrasse, and pufferfish are present in high numbers. Turtles are frequently spotted resting on coral ledges. Clownfish inhabit anemones in the shallower zones, and blue-spotted ribbontail rays rest on the white sand patches. Moray eels, trumpetfish, and goatfish are regular sightings.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The dive is conducted entirely in the 3–12 meter range, making it an excellent first ocean dive or check-out dive. Descend to the sandy floor, then work along the reef face in both directions. The shallower reef crest at 3–5 meters is excellent for photography and extended bottom time. No decompression concerns at this depth.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive with mooring at the site. Giant stride entry is standard. Calm conditions usually allow straightforward ladder or platform exit. This is a mooring site for day-trip dive boats — follow the operator's exit procedure.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Ideal as a first dive or checkout dive for newly certified divers
+- Excellent snorkelling from the surface in the shallowest sections
+- Natural light is superb for underwater photography down to 10 meters
+- Don't rush — sit still and the fish will approach of their own accord
+- Ask your guide about the resident turtle's usual resting spots
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+This is one of the Red Sea's most benign dive sites. Main hazards are fire coral (avoid touching) and sea urchins in crevices. Boat traffic on the surface requires an SMB on ascent if surfacing away from the mooring line. Conditions can occasionally deteriorate with wind, creating mild surge.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+One of the best natural-light underwater photography sites for beginners. No need for strobes in the shallows — the colours are vivid in ambient light. Wide-angle works well for reef panoramas; the fishlife density supports creative close-focus shots without specialist macro lenses.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

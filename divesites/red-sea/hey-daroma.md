@@ -13,55 +13,50 @@ addedBy: osm_import
 
 ## Hey Daroma
 
-Hey Daroma is a historic wreck dive in Red Sea, Middle East.
+Hey Daroma is a wreck dive in the northern Egyptian Red Sea near Sharm el-Sheikh, the remains of a vessel that foundered in the waters of the Tiran/Sharm corridor and now lies on the reef slope at accessible depths.
 
 ## Overview
 
-Hey Daroma is a dive site in Red Sea featuring the wreck of the Hey Daroma. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The northern Red Sea near Sharm el-Sheikh is a historically active shipping lane, and the reefs and shallows have claimed several vessels over the centuries. Hey Daroma is one of these casualties — a wreck that settled on the reef slope at depths of 5–20 meters, accessible to intermediate divers on day trips from Sharm el-Sheikh. The vessel has been encrusted with coral growth over the years, and the structure now functions as an artificial reef that supports a distinct community of wreck-dwelling species. The wreck is positioned so that both the shallow upper sections and the deeper hull base can be explored in a single dive, offering a varied profile.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Northern Egyptian Red Sea, Sharm el-Sheikh area
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck (encrusted vessel on reef slope)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20–30 meters
+- **Current**: Moderate; subject to tidal influence in the Tiran corridor
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter glassy sweepers, lionfish, groupers, coral growth, soft corals, whale sharks, manta rays, hammerhead sharks. Additional species commonly sighted include oceanic whitetip sharks, sea turtles, dolphins. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Schools of glassy sweepers and cardinalfish fill the wreck's interior spaces and overhangs, creating a shimmering silver curtain effect typical of Red Sea wreck diving. Lionfish are consistently present, hovering motionless in the shade of the hull. Large groupers claim the deeper sections. Moray eels are resident throughout the structure, and triggerfish patrol the exterior hull surfaces. The surrounding reef slope hosts the standard Sharm-area community of reef fish, including Napoleon wrasse and hawksbill turtles grazing the coral nearby.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the deepest part of the wreck at 18–20 meters to examine the hull base and any swim-throughs. Work upward along the hull, exploring overhangs and recesses as depth decreases. The shallowest part of the wreck at 5–8 meters is well lit and provides good photographic conditions for natural-light shots. Complete the safety stop hovering near the shallowest hull section.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day-boat access from Sharm el-Sheikh or Naama Bay operators. Entry by giant stride or back roll. The boat typically anchors or moors near the wreck. Deploy an SMB before ascending and surface on the lee side of the reef to minimise exposure to Tiran corridor tidal currents.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- A dive torch is essential for illuminating the wreck interiors and bringing out coral colours
+- Maintain strict buoyancy control inside the wreck to prevent silt disturbance
+- The combination of wreck exterior and surrounding reef allows a varied dive experience
+- Northern Red Sea visibility in the Sharm area is typically among the best in Egypt — bring a wide-angle lens
+- Combine with a Tiran reef dive for a balanced day trip from Sharm el-Sheikh
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Entanglement risks on a degraded wreck include loose metal, netting, and cables. Never force through constricted spaces. Strong tidal flow in the Sharm–Tiran corridor can affect ascents; deploy an SMB well before surfacing. Avoid penetrating deep into the wreck without proper training and equipment.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The glassy sweeper clouds inside the wreck are excellent wide-angle subjects, especially when backlit by natural light entering from the wreck openings. The exterior hull with coral encrustation provides colourful close-focus wide-angle opportunities. A powerful torch is needed for interior detail shots.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

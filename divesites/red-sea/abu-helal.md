@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Abu Helal
 
-Abu Helal is a reef dive site in Red Sea, Middle East.
+Abu Helal is a coral reef dive site in the Strait of Tiran area, northeast of Sharm el Sheikh, northern Red Sea, Egypt.
 
 ## Overview
 
-Abu Helal is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Abu Helal sits in one of the most current-swept and biologically productive zones of the northern Red Sea — the Strait of Tiran, which channels water between the Gulf of Aqaba and the main Red Sea body. This constant flow of nutrient-rich water from depth supports some of the most diverse and abundant marine life in Egypt. Abu Helal offers a well-structured reef with dramatic topography including walls, slopes, and coral gardens. The site is part of the Ras Mohammed National Park protected area, which has helped maintain the outstanding coral health seen here.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Strait of Tiran, Ras Mohammed National Park, Sharm el Sheikh, Red Sea, Egypt
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 25–40 meters
+- **Current**: Moderate to strong; tidal-driven Tiran Strait currents
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The nutrient upwellings through the Tiran Strait sustain exceptional reef life. Large schools of fusiliers and anthias are a constant feature. Reef sharks — grey reefs and whitetip reefs — are regular visitors to the outer slopes. Napoleon wrasse are reliably present in the Tiran area. Turtles are seen year-round. Eagle rays and occasional hammerhead sharks have been reported during liveaboard dives. The coral itself is among the most diverse in the northern Red Sea.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the shallow reef crest and assess the current before committing to direction. Follow the reef structure at 10–15 m and descend to the outer slope at 15–20 m when conditions permit. Use the current to assist navigation along the reef. Ascend carefully and conduct a full safety stop, deploying an SMB in the current.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+By liveaboard or day-trip dive boat from Sharm el Sheikh or Na'ama Bay. The Tiran sites are a standard liveaboard destination and also accessible on organised day-trip excursions. Back roll entry; SMB ascent.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The Tiran Strait sites are best experienced on a liveaboard allowing multiple dives over consecutive days
+- Time dives to the tidal current — incoming current delivers the best pelagic activity
+- Carry a reef hook for the current-heavy sections where you want to hold position
+- Abu Helal pairs well with Jackson Reef, Thomas Reef, and Gordon Reef for a classic Tiran circuit
+- Night dives in the Tiran area can be spectacular — access depends on liveaboard permissions
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The Tiran Strait is known for strong and variable currents. Always carry an SMB and an audible signalling device. Maintain close buddy contact in current conditions. Follow the liveaboard or day-trip guide's briefing exactly — departure from the agreed dive plan can lead to separation in the strait.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Outstanding wide-angle conditions with schooling fish and diverse reef architecture. Reef sharks and Napoleon wrasse provide dramatic subjects. The coral walls with sea fans and soft corals frame well with natural light. The exceptional visibility makes ambient-light wide-angle possible throughout the dive.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

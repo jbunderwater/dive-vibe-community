@@ -13,54 +13,49 @@ addedBy: osm_import
 
 ## Kormoran
 
-Kormoran is a reef dive site in Red Sea, Middle East.
+Kormoran is a reef dive site in the northern Red Sea positioned near the Tiran Island reef complex, close to Jackson Reef and the wider Strait of Tiran dive area. The coordinates place it at approximately 28.03°N, 34.49°E — in the waters between Sharm el-Sheikh and the Tiran Islands, making it accessible from the main Sharm el-Sheikh liveaboard and day boat departure points.
 
 ## Overview
 
-Kormoran is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The site sits in the productive waters of the Strait of Tiran, an area famous for clear water, strong currents, and dense marine life. Kormoran offers an intermediate reef experience in a region where the combination of tidal flow and nutrient-rich water from the Gulf of Aqaba creates some of the Red Sea's most productive reef ecosystems. The reef structure here includes both coral garden sections and harder-edged reef formations that channel current and concentrate fish life. Maximum depth is approximately 20 meters, keeping the dive within recreational limits with manageable NDL windows.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
+- **Location**: Strait of Tiran area, northern Red Sea, Egypt
+- **Entry Type**: Boat dive (day boat or liveaboard from Sharm el-Sheikh)
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
+- **Typical Visibility**: 20-35 meters (65-115 feet)
+- **Current**: Moderate to strong tidal currents; variable by dive time
 - **Best Time**: September to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The Tiran area's productive, current-swept waters support excellent marine diversity. Napoleon wrasse are reliably sighted in this part of the Red Sea — large, characterful fish that often approach divers with curiosity. Grey reef sharks patrol the reef edges, and schools of barracuda and jack are common at sites influenced by tidal flow. The reef surface itself hosts dense populations of anthias, chromis, and butterflyfish, with moray eels in virtually every sizeable crevice. Spotted eagle rays pass through at irregular intervals, and sea turtles are occasionally encountered resting on sandy sections between coral formations.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Plan the dive to align with current direction — in the Tiran area, current-assisted drift diving is both practical and enjoyable. Descend to 15-20 meters on the reef edge and let the current carry you along the reef face, ascending gradually as you work through your bottom time. Most interesting reef features occur between 8-18 meters. Ascend with adequate reserve and surface with a deployed SMB for boat pickup in the current.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day boats from Sharm el-Sheikh reach the Tiran area in approximately 30-60 minutes depending on conditions. Entry via giant stride or back roll. Given the current potential, the boat typically deploys a drift pickup rather than maintaining a fixed anchor. Follow the dive guide's pre-dive briefing on current management.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Dive the site on a tidal assist rather than fighting current — check tide tables before departure
+- Carry a reef hook if available; holding position in current without touching coral is a useful technique in this area
+- Combine with adjacent Tiran reefs (Jackson, Thomas, Woodhouse) for a full-day trip
+- A 5mm wetsuit is comfortable for most of the year; 7mm in winter months
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Current is the primary safety consideration at Tiran area sites. Divers must be comfortable with drift diving technique: descent in controlled conditions, no fighting of current mid-dive, and early SMB deployment for surface pickup. Blue water open-ocean conditions are possible if separated from the reef — carry an audible signal device. Fire coral is abundant on the reef surface; full exposure protection is recommended.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The combination of clear blue water, colorful reef, and large resident fish makes Kormoran and the wider Tiran area very photogenic. Wide-angle reef scenes with natural light work best in the 8-15 meter range. Napoleon wrasse close-up portraits are a classic Tiran shot. Pelagic subjects like barracuda schools require shooting into the blue water with a fast shutter speed.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

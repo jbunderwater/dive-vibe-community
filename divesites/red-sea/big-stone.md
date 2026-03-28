@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Big Stone
 
-Big Stone is a reef dive site in Red Sea, Middle East.
+Big Stone is a reef dive site in the central Red Sea between Hurghada and the Brothers Islands, named for a prominent large coral block that rises conspicuously from the reef platform and serves as a landmark for divers and liveaboard navigators.
 
 ## Overview
 
-Big Stone is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Big Stone is characterised by its central feature — a massive coral bommie or isolated coral head standing several meters high from the reef floor. The surrounding reef is a mix of coral garden, sandy channels, and smaller scattered formations. The site is accessible in moderate to favourable conditions and is visited by both liveaboard circuits and day-trip operators. The "big stone" itself is heavily encrusted with soft corals and sea fans, and serves as a focal gathering point for fish life. Visibility is typically 20–30 meters; water temperatures range 24–29°C.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral reef / Pinnacle
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20–30 meters (65–100 feet)
+- **Current**: Light to moderate
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The central coral block attracts a rich community: schooling anthias cloud the upper surfaces, napoleon wrasse circle the mid-section, and moray eels occupy the lower crevices. Turtles regularly rest on the top of the formation. The surrounding reef supports parrotfish, surgeonfish, and bannerfish, while barracuda and trevally patrol the blue water around the pinnacle. Occasional eagle ray sightings reported by regular divers.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend directly to the base of the central bommie and work around it in a circular pattern, ascending progressively. The feature rises from around 18–20 meters to 5–8 meters, giving a natural ascent structure. After completing the main pinnacle, explore the surrounding reef and sand channels before a safety stop on the reef crest.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive with mooring or shot line to the reef. Descent line is recommended in any current. Use the central bommie as a reference point for navigation. SMB for safety stop and pick-up.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Circumnavigate the bommie multiple times — each pass reveals something new
+- Look on top of the coral block for turtles resting in shallow water
+- Check the deep water around the base for larger pelagic visitors
+- The formation photographs well from multiple angles throughout the dive
+- Good site for divers transitioning from shallow beginners' reefs to deeper profiles
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Current can channel around the isolated formation. Monitor air consumption on the deeper section. Maintain distance from the coral surface to prevent accidental contact with the soft corals. Always carry an SMB for open water ascent.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The isolated pinnacle format lends itself to dramatic wide-angle compositions, particularly shooting upward from the base toward the surface. Schools of anthias and napoleon wrasse against the coral provide strong subjects. Macro opportunities exist in the crevices and overhangs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

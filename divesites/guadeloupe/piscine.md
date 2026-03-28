@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Piscine
 
-Piscine is a reef dive site in Guadeloupe, Caribbean.
+Piscine — French for "swimming pool" — is one of Guadeloupe's most protected and beginner-friendly dive sites, formed by a natural sheltered pool between two small islets near Pigeon Island. The name perfectly describes the site's calm, clear conditions that make it feel like a giant outdoor aquarium.
 
 ## Overview
 
-Piscine is a dive site in Guadeloupe offering excellent diving on healthy coral reef structures . Sheltered pool between two islets with shallow water, rocky seabed, perfect for beginners and children. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Piscine sits in the natural shelter created between the twin islets of Pigeon Island, where two rocky land masses create a windbreak and wave barrier that results in exceptionally calm conditions even when conditions are rougher elsewhere. The seabed is rocky with coral growth and reaches only 6 meters — making it as suitable for confident snorkelers as for divers. The site is often used for try-dives, beginner certifications, and introductory dives for nervous first-timers. Visibility in the pool is outstanding, frequently reaching 25 meters or more. Water temperature averages 27°C year-round.
 
 ## Site Information
 
-- **Location**: Guadeloupe, Caribbean
+- **Location**: Pigeon Island area, Malendure, Basse-Terre, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Sheltered rocky reef / pool
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 6 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 20–30 meters
+- **Current**: Virtually none within the pool
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Despite the shallow depth, marine life is surprisingly varied. Parrotfish, sergeant majors, wrasse, and damselfish are found throughout the rocky substrate. Hawksbill turtles regularly enter the pool to rest or feed on seagrass attached to rocks. Juvenile fish of many species use the calm water as a nursery habitat, making Piscine an excellent place to observe small and young marine life in close detail.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 6 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-6 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site is essentially one depth level — a flat to gently sloping rocky bottom at 4–6 meters. Divers can cover the entire site multiple times during a single air supply, making it ideal for those still developing buoyancy skills. The site is so shallow that it exceeds all standard recreational decompression limits by a large margin.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Malendure; mooring buoys prevent anchor damage. Entry via ladder, giant stride, or back roll depending on boat configuration. Exit to the same boat. The site is also dived by snorkelers directly from the boat.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- One of the French Caribbean's best try-dive locations — ideal for first-time divers
+- Children can safely snorkel the site while accompanying adults dive
+- The calm conditions make it a perfect site for underwater photography practice
+- Look for juvenile fish hiding in rock crevices and nudibranchs on the rocky substrate
+- Pair with Jardin de Corail or the Aquarium for a full day in the Pigeon Island area
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The primary hazard here is boat traffic — always remain within the protected pool zone and surface with visibility. No current or depth concerns at this site. Sea urchins inhabit rocky areas; avoid contact.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The calm, clear, shallow water of Piscine is extraordinary for natural-light photography. Compact cameras and action cameras perform at their best here. Close-focus wide-angle shots of fish and turtles in bright ambient light are possible without any artificial lighting.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

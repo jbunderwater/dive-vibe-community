@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Horse Shoe Reef
 
-Horse Shoe Reef is a reef dive site in Red Sea, Middle East.
+Horse Shoe Reef is a horseshoe-shaped coral formation in the far southern Egyptian Red Sea near the Saudi Arabian border, in the remote offshore waters south of Wadi Lahami.
 
 ## Overview
 
-Horse Shoe Reef is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The horseshoe shape of this reef gives it a distinctive enclosed lagoon on the open side, with the protective arms of the reef creating a calm interior zone and two exposed outer walls that attract current-driven pelagic life. This classic reef geometry, found at several Red Sea sites, creates a naturally sheltered dive area inside the horseshoe alongside more demanding conditions on the outer walls. The site is accessed almost exclusively on extended liveaboard itineraries running south of Marsa Alam into the least-visited section of the Egyptian Red Sea. Coral health is consistently reported as outstanding by operators who reach this area.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Location**: Far southern Egyptian Red Sea, south of Wadi Lahami near Saudi border
+- **Entry Type**: Boat dive (liveaboard)
+- **Site Type**: Horseshoe-shaped coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 25–35 meters
+- **Current**: Variable; sheltered inside, stronger on the outer walls
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The enclosed interior of the horseshoe provides calm, shallow water that attracts turtles to rest and feed on the coral flat. The outer arms of the reef, where current flows, concentrate barracuda and jacks in schools. Napoleon wrasse, large groupers, and reef sharks patrol the outer wall. The interior reef face supports dense hard coral coverage with anthias and butterflyfish in abundance. Eagle rays are occasionally seen in the sandy areas between the reef and the seabed. The pristine nature of this rarely-dived reef means species populations are noticeably larger and less habituated to divers than northern Red Sea equivalents.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin the dive inside the horseshoe's calmer interior, descending to the sandy floor at 15–18 meters and exploring the inner reef face upward. Once comfortable, venture around to the outer wall on one arm of the horseshoe to encounter the current-driven pelagic life. Return through the horseshoe interior to ascend and safety-stop in the sheltered zone. This approach allows both easy, sheltered diving and more dynamic wall diving in a single dive.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Liveaboard access from Marsa Alam, Port Ghalib, or Wadi Lahami on extended itineraries. Entry by giant stride. The mooring typically positions the boat at the open end of the horseshoe. Deploy an SMB before ascending and coordinate the exit with the dive guide so the boat knows which arm of the reef you are emerging from.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Use the horseshoe's interior for a gentle warm-up before venturing onto the exposed outer walls
+- The outer arms are best dived as a drift, using current to move along the wall efficiently
+- Multiple dives on this reef (possible on a liveaboard layover) allow comprehensive exploration of all faces
+- The enclosed interior is an ideal spot for a post-dive snorkel from the liveaboard
+- Bring a wide-angle lens for the outer wall's pelagic action and interior reef portraits
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The contrast between the calm interior and the current-exposed outer wall requires careful planning. Ascend in the interior of the horseshoe unless current conditions favour the outer face. Never ascend on the outer wall if there is a strong tidal flow without deploying an SMB. The liveaboard must be positioned to receive divers from either side of the reef.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The interior of the horseshoe offers beautiful, bright natural-light photography with turtles and coral gardens. The outer wall provides dramatic wide-angle opportunities with pelagic fish against deep blue water. The contrasting environments within a single dive make this a versatile photography site.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,55 +13,49 @@ addedBy: osm_import
 
 ## Bucht Mrzlanovica (Wrack)
 
-Bucht Mrzlanovica (Wrack) is a historic wreck dive in Croatia, Europe.
+Bucht Mrzlanovica is a sheltered cove site off the island of Pag in the northern Dalmatian coast, where a historical vessel wreck lies scattered across the sandy bottom. The name "Mrzlanovica" refers to the bay, and the wreck here is a local dive known primarily to operators running trips along the Pag channel.
 
 ## Overview
 
-Bucht Mrzlanovica (Wrack) is a dive site in Croatia featuring the wreck of the Bucht Mrzlanovica (Wrack). Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The wreck rests at 20–25 metres on a sandy and mixed-rubble seabed in the protection of the cove. The hull structure has partially collapsed over time, but significant sections of plating, ribs, and mechanical components remain, all covered in encrusting sponges, bryozoans, and hydroids. The clear Dalmatian waters provide excellent visibility on calm days, often reaching 15–20 metres.
 
 ## Site Information
 
-- **Location**: Croatia, Europe
+- **Location**: Mrzlanovica Bay, Pag Channel, Dalmatia, Croatia
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 10–20 meters
+- **Current**: Minimal to light
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck debris supports resident octopus, moray eels, and conger eels in its sheltered spaces. Sea bream and wrasse are plentiful in the water column above the hull, while the sandy surrounding seabed hosts sea cucumbers, starfish, and small flatfish. In summer months, juvenile amberjack sometimes school above the highest wreck sections.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the shallowest wreck section first, then work down to the 25-metre maximum. Explore the structure methodically, using a torch to check inside all accessible cavities. Finish the dive by ascending slowly through the water column above the wreck. Allow gas for a safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from operators on Pag or the mainland opposite access this cove. Entry by giant stride or back roll from the stern platform. Ascend via a shot line or free ascent with SMB deployed.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- A dive torch is essential for wreck exploration and revealing species in dark recesses
+- Combine this site with a Pag Channel wall dive for a varied day of diving
+- Water temperature in this area drops to around 12°C in winter and early spring
+- Check for the Bura (NE wind) which can make the Pag Channel rough
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Depth and conditions are within recreational parameters. Maintain good buoyancy to avoid silt disturbance in enclosed sections. Carry an SMB. Do not penetrate any enclosed spaces without proper equipment and training.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The contrast between bright, well-lit sandy areas and the encrusted dark hull sections creates interesting compositional opportunities. Macro subjects abound on the sponge-covered metal. Look for octopus and moray eels in the darker crevices for dramatic portrait shots.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

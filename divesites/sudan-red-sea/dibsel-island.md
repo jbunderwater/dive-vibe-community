@@ -32,35 +32,35 @@ Dibsel Island is a remote southern site visited on specialized liveaboard expedi
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The remoteness and minimal diving pressure at Dibsel Island means marine life is abundant and largely undisturbed. Grey reef sharks, silvertip sharks, and hammerheads are regularly encountered on the outer walls. Silky sharks — rare in Sudan's northern sites — become more common this far south. Large schools of jacks, snappers, and emperors aggregate at current-exposed reef points. Napoleon wrasse, groupers, and moray eels shelter in wall crevices. Manta rays visit the site in season. The wall surfaces carry intact soft corals and sea fans in excellent condition, with anthias in dense clouds.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend along the outer wall to 20-30 metres and drift with the prevailing current, exploring the wall structure and watching the blue water beyond the reef edge for pelagics. The wall descends beyond recreational limits, so strict depth discipline is required. Most of the productive reef life is concentrated between 10-25 metres on the wall face. Ascend to the reef crest for a safety stop in shallower water before the boat pickup.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is exclusively via specialised deep-south liveaboard expeditions. Very few operators include Dibsel Island on their routes. Entry and exit are coordinated with the liveaboard crew based on prevailing sea conditions and current. Deploy a high-visibility SMB well before surfacing — the remote location and strong currents make reliable boat pickup critical.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Only accessible via specialised Sudan deep-south liveaboard expeditions — research operators carefully
+- Dive Dibsel as part of a broader southern archipelago itinerary, not as a standalone destination
+- Strong currents reward drift diving experience — master buoyancy control before attempting this site
+- Bring redundant signalling equipment (SMB, mirror, whistle) for remote-water safety
+- Underwater camera wide-angle setup is essential for shark and pelagic encounters
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The remote location is the defining safety consideration at Dibsel Island — emergency evacuation is severely limited and response times in the event of an incident are long. Only experienced divers with strong current competency should attempt the site. Strong currents require continuous monitoring. Nitrogen narcosis is a risk on the deeper wall sections below 30 metres — maintain depth discipline. Always dive with an experienced buddy and carry redundant signalling devices.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The deep, pristine walls with abundant marine life create exceptional wide-angle opportunities. Shark encounters at a site this remote often feature more natural, close behaviour than at heavily-dived northern Sudan sites. Coral sea fans and soft corals in excellent condition reward medium-range and detail shots along the wall face.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

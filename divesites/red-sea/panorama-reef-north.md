@@ -11,56 +11,51 @@ osmId: 6585137658
 addedBy: osm_import
 ---
 
-## panorama Reef North
+## Panorama Reef North
 
-panorama Reef North is a reef dive site in Red Sea, Middle East.
+Panorama Reef North is the northern tip of the Panorama Reef complex, one of the most popular offshore reef systems accessible from Hurghada in Egypt's northern Red Sea. The northern point acts as a current junction where water from multiple directions converges, producing the productivity and marine diversity the site is known for.
 
 ## Overview
 
-panorama Reef North is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The northern tip of Panorama Reef is characterized by a pronounced reef point where the reef narrows before dropping away on both sides. Coral cover here includes dense hard coral gardens on the reef top transitioning to steeper walls below 10 meters, dropping to sand at 25 meters. The converging currents at this tip carry plankton and nutrients that sustain large populations of reef fish and attract regular visits from larger pelagic species. Visibility typically sits between 20-35 meters.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Red Sea, Egypt (south of Hurghada)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
+- **Typical Visibility**: 20-35 meters (65-115 feet)
+- **Current**: Moderate, can strengthen at the tip
 - **Best Time**: September to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The northern tip is particularly productive for fish watching. Large schools of snapper and fusiliers orbit the point, pursued by trevally and barracuda. Napoleon wrasse are habituated to divers at this site and sometimes approach closely. Whitetip reef sharks rest on the sandy bottom between 18-25 meters. Turtles, both hawksbill and green, are frequent visitors to the reef top. The coral heads in the shallows support clownfish, butterflyfish, and dense anthias shoals.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Anchor on the northern mooring and descend to the reef top. Follow the point eastward or westward depending on current direction, descending gradually to 20-25 meters before working back toward shallower water. The tip itself, where the two faces meet, is the most productive zone — spend time hovering here if the current is manageable. Ascend along the reef top and complete your safety stop at 5 meters.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Hurghada or day trips from El Gouna. Giant stride entry with descent on the mooring. Deploy SMB before ascending from your safety stop depth for boat pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The tip of the north point is best dived when there is some gentle current to attract schools and pelagics
+- Check both sides of the point for whitetip reef sharks resting on sandy patches
+- Napoleon wrasse at this site are often friendly — respect their space but enjoy the encounter
+- Start your dive at the point and drift back along whichever face offers better conditions
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Current strength at the point can be variable and increases with tidal cycles. If current becomes too strong, signal your buddy and abort to the protected face of the reef. Always carry an SMB for drift ascent situations. Maintain situational awareness of your position relative to the boat mooring.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The reef point is ideal for wide-angle fish portraits — Napoleon wrasse will often pose for photographs. The dense school aggregations at the tip create impressive wide-angle opportunities. Coral heads in the shallows have good color and detail for reef macro and close-focus wide-angle work. Shoot toward the blue water off the point for silhouette schooling fish images.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

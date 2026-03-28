@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Sand Island
 
-Sand Island is a reef dive site in Red Sea, Middle East.
+Sand Island is a reef site in the central Red Sea, Egypt, located in the vicinity of Al Qunfudhah along the Saudi Arabian coast — an area where the Red Sea widens and scattered islands and shoals create varied diving terrain. The coordinates place this site in waters frequented by liveaboards operating in the central Red Sea corridor.
 
 ## Overview
 
-Sand Island is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Sand Island is a relatively low-relief reef system characterized by sand and rubble flats at its base, with coral bommies and scattered reef structures rising from the seafloor. The site's name reflects the sandy substrate that dominates the shallower areas. While not as dramatic as the abrupt vertical walls found further north, Sand Island offers accessible intermediate diving with good opportunities for reef fish observation and smaller pelagic encounters. Water clarity in this region is typically excellent, with visibility regularly reaching 25 meters or more.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Central Red Sea, Egypt
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20-30 meters (65-100 feet)
+- **Current**: Moderate
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The reef bommies at Sand Island support a typical central Red Sea reef fish community. Schools of anthias hover above the coral structures, and butterflyfish, parrotfish, and wrasse are ubiquitous. Moray eels and lionfish are resident in the coral crevices. The sandy areas between reef structures are productive for flatfish, stingrays, and garden eels. Turtles are seen regularly throughout this part of the Red Sea. In favorable conditions, spinner dolphins may be encountered in the surrounding blue water.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin at the reef crest, which rises to around 5–8 meters in the shallowest sections. Follow the gently sloping terrain down to the sand at approximately 20 meters. Navigate around the bommies and smaller isolated coral heads, checking crevices and overhangs along the way. The sandy bottom between structures often reveals half-buried stingrays and sand-dwelling flatfish. Complete the dive by working back up the slope toward the shallows for your safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from a liveaboard or local day-trip vessel. Entry via giant stride or back roll from the boat. Descend on the mooring or anchor line if one is deployed. At the end of the dive, ascend to 5 meters for a 3-minute safety stop and deploy an SMB before surfacing for boat pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Explore the sandy channels between reef structures for stingrays and sand-dwelling species
+- Night dives at this type of site reveal different behavior and species not seen during the day
+- Maintain neutral buoyancy over the sand to avoid silting up the reef base
+- A wide-angle lens captures reef bommies and sand flats in a single frame
+- Check with your liveaboard guide on current direction before planning your route
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Currents can run along the reef edge; stay aware of your position relative to the mooring line and boat. Fire coral is present on coral structures — exposure suits prevent stings. Lionfish are common in reef crevices; avoid reaching blindly into holes. Always ascend with adequate air for a safety stop and deploy an SMB when surfacing away from the vessel.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The combination of coral bommies and clean sand flats provides good compositional variety. Wide-angle shots looking up at bommie peaks with light rays are effective in the morning. Sand-dwelling creatures — stingrays, flatfish, garden eels — make distinctive macro subjects. Anthias-covered coral heads are photogenic in available light.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

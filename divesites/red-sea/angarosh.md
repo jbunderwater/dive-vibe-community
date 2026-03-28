@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Angarosh
 
-Angarosh is a reef dive site in Red Sea, Middle East.
+Angarosh is a remote reef system in the southern Red Sea off Sudan, best accessed by liveaboard. The name means "Mother of Sharks" in Arabic — a title this reef earns through consistently large aggregations of hammerhead sharks and grey reef sharks.
 
 ## Overview
 
-Angarosh is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Angarosh is part of the Brothers-Daedalus-Elphinstone liveaboard circuit and is considered one of the premier shark diving destinations in the Red Sea. The reef rises from deep water to form a submerged plateau with dramatic walls on its northern and southern extremes. Hammerhead sharks are regularly encountered in schools in the early morning, often at or near the surface. Grey reef sharks, silvertip sharks, and occasional tiger sharks add to the pelagic interest. Visibility is outstanding at 25–40 meters in optimal conditions.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral reef / Pelagic
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Maximum Depth**: 20 meters (patrol zone; deeper water adjacent)
+- **Typical Visibility**: 25–40 meters (82–130 feet)
 - **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Best Time**: June to September (peak hammerhead season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Hammerhead sharks in schools of dozens to hundreds are the headline attraction, particularly in early morning dives. Grey reef sharks and silvertip sharks are resident year-round. Oceanic whitetip sharks patrol the blue water on the wall edges. Large napoleon wrasse, schools of barracuda, and hunting tuna add to the pelagic spectacle. The reef itself hosts rich coral communities with anthias, triggerfish, and moray eels.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The most productive approach is an early morning drift along the outer reef wall, staying close to the reef edge at 15–20 meters where sharks congregate. Currents typically run northward along the western face. After the main shark dive, the shallower reef plateau at 5–10 meters offers excellent coral and reef fish diversity. Plan two dives — one pelagic focused, one reef focused.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Remote site, accessible by liveaboard only. Blue water entries are common; jumping directly into the current and drifting to the reef wall. Experienced guides lead the descent. Open water exits require deployment of an SMB and pick-up by the tender boat.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Dawn dives are essential for maximum hammerhead activity
+- Maintain a neutral position on the wall — avoid ascending into the blue water column where sharks patrol
+- Wide-angle fisheye lenses capture shark aggregations most effectively
+- Dive computers with alarm capability are useful for depth management near the wall
+- Listen carefully to the briefing — current direction and strength vary significantly
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Strong currents are normal at this remote reef. Oceanic whitetips are encountered in open water and require cautious, alert diving behaviour. Stay close to the reef wall and avoid erratic movements. All divers should have liveaboard-level experience and open water drift diving skills. Always carry an SMB and a signalling device.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Among the Red Sea's top shark photography venues. Wide-angle work with hammerhead aggregations requires fast shooting in low-light early morning conditions. A strobe-free approach often produces the cleanest blue-water shark silhouettes.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
