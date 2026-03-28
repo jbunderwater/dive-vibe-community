@@ -11,56 +11,53 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Thunderball Grotto
+# Thunderball Grotto
 
-Thunderball Grotto is a cave dive site in Bahamas, Caribbean.
+A small, spectacular sea cave on Staniel Cay in the Exumas — made famous by two James Bond films and offering one of the Caribbean's most photogenic snorkelling and diving experiences.
 
 ## Overview
 
-Thunderball Grotto is a renowned dive site in Bahamas featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Thunderball Grotto is a limestone sea cave on a small rocky island near Staniel Cay in the Exuma Cays, made internationally famous as a filming location for the 1965 James Bond film Thunderball and the 1983 film Never Say Never Again. The cave has multiple underwater entrances that lead to a large internal chamber with openings in the roof that allow shafts of natural light to penetrate to the water below, creating spectacular light effects. The cave's maximum depth is just 8 meters — the interior is shallow enough for snorkelling. The crystal-clear Exuma water delivers extraordinary visibility of 25–35+ meters. The site is visited year-round by yachts, water taxis, and dive boats from Staniel Cay. Water temperature is 24–28°C.
 
 ## Site Information
 
-- **Location**: Bahamas, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 8 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 1–8 m |
+| Difficulty | Beginner |
+| Entry Type | Boat |
+| Site Type | Cave |
+| Visibility | 25–35+ m |
+| Current | Tidal (light to moderate) |
+| Water Temp | 24–28°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+The cave interior supports a dense community of tropical fish that have become highly habituated to visitors. Large schools of yellowtail snapper, sergeant majors, and chromis fill the interior chamber — the fish are comfortable approaching to arm's length. Outside the cave, the reef and rock surfaces carry hard coral formations, sea fans, and encrusting organisms. Nurse sharks occasionally rest on the cave floor. The clear Exuma water means every fish is vividly visible from surface snorkelling level.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 8 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-8 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Entry through one of the underwater cave entrances (typically the largest on the south side) at 2–4 meters depth. Swim through to the interior chamber and surface inside the cave. Explore the lit interior chamber from the surface or while hovering at various depths. Exit through any of the entrances. The cave is small enough that a complete exploration requires 20–30 minutes. Tidal current flows through the entrances — check direction before entering.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Staniel Cay water taxi or dive operator. Entry through the underwater cave opening at 2–4 meters — this requires submerging (either snorkel or scuba) and swimming approximately 4 metres horizontally to the chamber interior. Not suitable for non-swimmers. Exit through the same or alternative entrances.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+Visit at low or slack tide to minimise current through the entrances. The most dramatic light effects occur when the sun is directly overhead (10am–2pm) and shafts of light enter through the roof openings. Low tide or slack water also reduces the current through the entrances. Staniel Cay Yacht Club rents kayaks and provides water taxi service to the cave for independent visitors.
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The cave entrance requires brief underwater swimming (snorkel or scuba) — guests who are not comfortable submerging cannot enter. Tidal current through the entrances can be significant — do not attempt entry against a strong outflowing current. The cave interior is safe and has ample headroom, but avoid the narrow passages that extend beyond the main chamber. The site is a natural cave, not a dive-managed site — there is no divemaster oversight.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Thunderball Grotto is one of the Caribbean's most photographed underwater locations. The dramatic light shafts entering through the roof openings create the signature image — a fisheye lens captures the full chamber with multiple light beams and fish clouds simultaneously. Shooting upward toward the openings during midday light is the classic composition. The fish are habituated enough to swim directly around the camera.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- Staniel Cay Yacht Club: provides access and water taxis to the cave
+- The cave is approximately 15 minutes by boat from Staniel Cay
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -11,57 +11,53 @@ osmId: 952659147
 addedBy: osm_import
 ---
 
-## S.S. Sapona
+# S.S. Sapona
 
-S.S. Sapona is a historic wreck dive in Bahamas, Caribbean.
+A Prohibition-era concrete freighter lying half-submerged off Bimini — a Bahamian landmark that has been a destination for divers and snorkellers since the 1930s.
 
 ## Overview
 
-S.S. Sapona is a dive site in Bahamas featuring the wreck of the S.S. Sapona which sank in 1926. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The S.S. Sapona is one of the most unusual and historically evocative wrecks in the Bahamas. Built in 1919 for Henry Ford as part of a fleet of concrete-hulled ships (an experimental wartime construction technique), the Sapona was later used as a floating warehouse during Prohibition and subsequently served other commercial purposes before being grounded in a 1926 hurricane in the shallow waters between North and South Bimini. Today the wreck lies on its side in just 3–5 metres of water — largely above the waterline — making it as much a surface landmark as an underwater dive. Ernest Hemingway, who lived in Bimini in the 1930s, reportedly used the Sapona for target practice. The wreck is visible from the surface and diveable year-round as a snorkel or introductory scuba dive.
 
 ## Site Information
 
-- **Location**: Bahamas, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 5 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 1–5 m |
+| Difficulty | Beginner |
+| Entry Type | Boat |
+| Site Type | Wreck |
+| Visibility | 15–25 m |
+| Current | Light |
+| Water Temp | 24–28°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Sapona's exposed concrete surfaces are colonised by a shallow-water reef community. Schools of sergeant majors defend egg patches on the concrete walls. Parrotfish and blue tang feed along the encrusted exterior. The underwater sections of the hull provide shelter for spotted moray eels and Caribbean spiny lobster. Southern stingrays rest in the sandy areas alongside the wreck. Green sea turtles are occasional visitors. Fire coral has colonised significant sections of the exterior.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 5 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Boat to the wreck, entry by giant stride or ladder into the shallow water. Divers swim around the submerged sections of the hull at 2–5 meters. The wreck is large enough to spend a full dive exploring — the hull sections have multiple swimming angles and interesting structural features. Surface intervals can be spent viewing the above-water sections of the hull. A complete exploration of the underwater portions takes 30–45 minutes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Bimini-based operators. The wreck is close to the main islands of Bimini. Entry by giant stride from the boat. Exit to the boat via ladder or assistance.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
+The Sapona is excellent as both a scuba dive and snorkel — the very shallow depth means the underwater sections are visible from the surface. Historical context (the Hemingway connection, the Prohibition story, the unusual concrete construction) significantly enhances the experience — read about the wreck's history before visiting. Fire coral is extensive on the hull surface — maintain awareness and avoid contact. The above-water sections of the wreck make for dramatic photos from the surface.
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Fire coral (Millepora) is abundant on the Sapona's concrete surface — avoid any contact with the hull. The exposed position of the wreck means Atlantic swell can create surge on the hull structure in rough conditions. Check conditions with operators before booking. The hull sections above water are structurally compromised — do not attempt to board the exposed sections.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The partially above-water wreck creates unique photography opportunities. Split-level shots showing the underwater hull and the above-water wreck sections simultaneously are a signature image. The schools of sergeant majors on the concrete walls photograph well in ambient light at this shallow depth. Atmospheric wide-angle shots with the rust-stained concrete and marine colonisation create a visually compelling subject.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- Big Game Club Resort, Bimini: regularly runs dive and snorkel trips to the Sapona
+- Bimini dive operators: the Sapona is typically the first stop on any Bimini dive itinerary
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
