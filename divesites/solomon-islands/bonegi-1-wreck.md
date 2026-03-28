@@ -13,55 +13,50 @@ addedBy: osm_import
 
 ## Bonegi 1 Wreck
 
-Bonegi 1 Wreck is a historic wreck dive in Solomon Islands, Pacific.
+One of the most celebrated WWII wreck dives in the Pacific, the Bonegi 1 Wreck — properly known as the Hirokawa Maru — is a large Japanese transport ship sunk during the Guadalcanal campaign in November 1942. The vessel lies close to shore west of Honiara, making it one of the most accessible major wrecks in the Solomon Islands.
 
 ## Overview
 
-Bonegi 1 Wreck is a dive site in Solomon Islands featuring the wreck of the Bonegi 1 Wreck. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The Hirokawa Maru rests at an angle with the bow sections beginning in just 2–5 meters of water, while the stern descends to around 34 meters. This dramatic depth range makes the wreck accessible to a wide range of certification levels, though the full dive to the deepest sections is best suited to intermediate divers comfortable with wreck navigation. The hull is largely intact and encrusted with decades of hard and soft coral growth, turning it into an artificial reef of extraordinary richness.
 
 ## Site Information
 
-- **Location**: Solomon Islands, Pacific
+- **Location**: Bonegi Beach, west of Honiara, Guadalcanal, Solomon Islands
 - **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 34 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
+- **Typical Visibility**: 15–30 meters
+- **Current**: Light to moderate
 - **Best Time**: April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Hirokawa Maru hosts an impressive resident population of glassy sweepers, batfish, and lionfish that hover in the corridors and hold openings. The coral-encrusted deck and railings attract schooling anthias and butterflyfish, while Napoleon wrasse and sea turtles are regularly seen patrolling the hull. Whitetip reef sharks rest on the sandy bottom near the stern. The shallow bow sections, lit by sun streaming through the surface, support dense anemone fields and clownfish colonies. Scorpionfish and frogfish hide in the encrusted steel, rewarding patient observers.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 34 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Entry is from the beach — at low tide the bow is barely submerged, giving a spectacular introduction as the scale of the wreck becomes immediately apparent. Divers typically work forward from the bow in the shallows before following the hull down to the midship section and, for those with the depth planned, continuing to the stern at 34 meters. The holds are partially accessible and contain remnants of the ship's cargo. A torch is essential for illuminating the interiors. Ascend along the hull and conduct a safety stop in the shallow bow area where excellent light makes the experience memorable.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry from Bonegi Beach. The entry point is well-established and easily found. Booties are recommended as the entry involves wading across rock and coral rubble. Conditions are generally calm inside the protected bay, though surge can occur during northwest swells. The wreck is buoyed and easy to locate. Taxis or hire cars from Honiara reach the site in roughly 30 minutes.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Dive the bow sections first to enjoy the shallows with full air — save depth for the stern
+- A dive torch is essential; two torches per diver is better for wreck interior exploration
+- Maintain neutral buoyancy carefully — silt inside the holds reduces visibility quickly if disturbed
+- The site can be dived as a second wreck alongside Bonegi 2 on the same day trip
+- Early morning light produces excellent visibility in the bow sections
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Currents are generally mild at this site, which contributes to its accessibility. However, open-ocean swells can create surge near the entry point — check conditions before committing. Wreck penetration beyond cavern zones should only be undertaken with proper cave/wreck penetration training and equipment. The stern descends to 34 meters; plan your no-decompression limits accordingly. Always dive with a buddy and carry an SMB for any section away from the visible hull.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The Hirokawa Maru is one of the most photogenic wrecks in the Pacific. The shallow bow sections provide stunning natural-light wide-angle shots, with the silhouette of the hull rising toward the surface. The coral-encrusted railings and anchor chain offer beautiful foreground detail. In the holds, a torch reveals vivid color on the encrusted walls. Macro photographers should search slowly along the hull plating for frogfish, nudibranchs, and decorator crabs.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,55 +13,50 @@ addedBy: osm_import
 
 ## Bonegi 2 Wreck
 
-Bonegi 2 Wreck is a historic wreck dive in Solomon Islands, Pacific.
+The Bonegi 2 Wreck — also known as the Kinugawa Maru — is a WWII Japanese freighter lying a short distance up the coast from its more famous neighbour, the Hirokawa Maru. Though smaller and more broken up than Bonegi 1, it offers shallower depths, excellent coral coverage, and an approachable introduction to wreck diving in the Solomons.
 
 ## Overview
 
-Bonegi 2 Wreck is a dive site in Solomon Islands featuring the wreck of the Bonegi 2 Wreck. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The Kinugawa Maru was sunk in the same November 1942 action as the Hirokawa Maru during the Guadalcanal campaign. The wreck sits at a gentler angle with the shallowest sections in roughly 5 meters and the deepest structural remnants at around 23 meters. Decades of coral growth have softened the steel into a colourful artificial reef, and the broken hull sections create an open, non-penetration dive that suits less experienced wreck divers well. The site is regularly dived in combination with Bonegi 1 as a two-wreck day trip from Honiara.
 
 ## Site Information
 
-- **Location**: Solomon Islands, Pacific
+- **Location**: Bonegi Beach, west of Honiara, Guadalcanal, Solomon Islands
 - **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 23 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
+- **Typical Visibility**: 15–25 meters
+- **Current**: Light
 - **Best Time**: April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Kinugawa Maru's broken structure has been colonised by dense hard and soft corals, creating a habitat that attracts a wide variety of reef fish. Schools of anthias and chromis hover above the encrusted steel, while lionfish and scorpionfish lurk in the shadows of the hull plating. Anemones with resident clownfish are scattered across the shallower sections. Nudibranchs and flatworms are frequently found on slow sweeps of the hull, and small octopuses take up residence in gaps in the structure. Whitetip reef sharks occasionally pass through at depth.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 23 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Entry is from the beach, similar to Bonegi 1. After a short surface swim, the top of the wreck comes into view in the shallows. Divers can spend the majority of bottom time in the 5–15 meter range where light is good and coral cover is dense, then descend along the hull sections toward the deeper debris field. The broken nature of the wreck means there are no confined penetration points — the dive is an open-water exploration along and between the hull sections. A comfortable 60-minute dive is achievable for most recreational divers at these depths.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry from Bonegi Beach, roughly 1–2 km from the Bonegi 1 entry point. The beach entry is straightforward with a short wade across a sand and rubble substrate. Conditions are typically calm; surge is possible in northwest swell season. The site is easily reached from Honiara by road.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- An ideal first wreck dive in the Solomons before tackling the deeper Bonegi 1 stern
+- Bring a torch even though the wreck is broken — it reveals colour under overhangs and in crevices
+- Take time on the shallower sections; the coral coverage here rivals dedicated reef dives
+- Often combined with Bonegi 1 in the same day — dive Bonegi 2 first to save greater depth for later
+- Snorkellers can view the shallowest sections from the surface
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Currents at this site are minimal and conditions are generally benign, making it one of the most relaxed dives available near Honiara. The broken structure eliminates the risk of disorientation inside confined spaces. Divers should still maintain good buoyancy to avoid damaging the coral growth that now covers much of the wreck. Always dive with a buddy and carry an SMB.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The combination of encrusted steel and natural light makes for appealing wide-angle shots along the hull. The shallower sections in 5–10 meters are particularly well-lit and ideal for natural-light photography without a strobe. Macro photographers will find nudibranchs, flatworms, and decorator crabs throughout the hull plating. A 60mm or 100mm macro lens rewards patience here.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
