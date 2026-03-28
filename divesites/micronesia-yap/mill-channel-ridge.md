@@ -11,56 +11,47 @@ osmId: 4031012954
 addedBy: osm_import
 ---
 
-## Mill Channel: Ridge
+# Mill Channel: Ridge
 
-Mill Channel: Ridge is a drift dive site in Micronesia - Yap, Pacific.
+A drift dive along the ridge formation in Mill Channel where mantas glide past in the current between cleaning stations
 
 ## Overview
-
-Mill Channel: Ridge is a dive site in Micronesia - Yap offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Mill Channel Ridge runs along the edge of Yap's most famous channel, offering a drift dive where divers ride the current along a coral ridge formation at around 20 meters. This site provides a different perspective on manta behavior compared to the static cleaning station dives. Here, mantas are often seen cruising through the channel in transit, sometimes in groups of three or four, gliding effortlessly against or with the current. The ridge itself is a healthy coral formation with excellent reef life independent of the manta encounters.
 
 ## Site Information
-
-- **Location**: Micronesia - Yap, Pacific
+- **Location**: Yap, Federated States of Micronesia
 - **Entry Type**: Boat dive
-- **Site Type**: Drift
+- **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Typical Visibility**: 15-30 meters (50-100 feet)
 - **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Best Time**: Year-round; incoming tides for best manta sightings
 
 ## Marine Life
-
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Manta rays pass through regularly, using the channel as a highway between cleaning stations and open-water feeding areas. Grey reef sharks are a constant presence along the ridge, with occasional eagle rays cruising past. Schools of barracuda, bigeye trevally, and yellowfin tuna patrol the blue water off the ridge edge. The ridge coral supports dense populations of anthias, damselfish, and butterflyfish. Whitetip reef sharks tuck into crevices along the base. Hawksbill and green sea turtles are regular visitors.
 
 ## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+This is a true drift dive. Enter the water upcurrent of the ridge and descend to the ridge top at approximately 15 meters. The current carries you along the ridge edge, which drops to 20 meters on the channel side. Maintain your position near the ridge top to watch for mantas passing in the blue. The drift covers several hundred meters and ends in a shallower area where the boat picks you up. Total dive time is typically 45-55 minutes.
 
 ## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat drop upcurrent with a negative entry to reach the ridge quickly. The boat follows your bubbles during the drift. Deploy your SMB well before the end of the drift to allow the boat captain to position for pickup. Exit in calmer water at the channel mouth.
 
 ## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Carry a reef hook to anchor yourself if you want to pause at a good vantage point along the ridge
+- Keep your eyes on the blue water off the ridge edge for passing mantas and pelagics
+- Stay streamlined to reduce drag in the current and conserve air
+- This pairs well with a cleaning station dive on the same trip for a complete Mill Channel experience
+- Bring a current-rated SMB and reel with at least 20 meters of line
 
 ## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Currents can be strong and increase rapidly with tidal changes. Drift diving experience is essential. Stay with your guide and group, as separation in current is difficult to recover from. Do not fight the current -- if swept off the ridge, ascend safely and deploy your SMB. Be aware that downcurrents are possible along the ridge wall face.
 
 ## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The drift provides opportunities for action shots of mantas and sharks in open water. Wide-angle is the only sensible choice. The challenge is stabilizing yourself in current for sharp images. Higher shutter speeds (1/200 or faster) help freeze motion. Video shooters will appreciate the cinematic quality of drifting alongside marine life. The ridge corals in the foreground with blue-water backgrounds make for compelling compositions.
 
 ## Additional Resources
-
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

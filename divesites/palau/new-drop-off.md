@@ -11,57 +11,47 @@ osmId: 4031041876
 addedBy: osm_import
 ---
 
-## New Drop-Off
+# New Drop-Off
 
-New Drop-Off is a wall dive site in Palau, Pacific.
+A sheer vertical wall plunging over 300 meters into the abyss, crowned by one of Palau's most pristine hard coral gardens
 
 ## Overview
-
-New Drop-Off is a dive site in Palau featuring a dramatic vertical wall that drops into the deep blue. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+New Drop-Off is a dramatic wall dive located on the southern end of Ngemelis Island, featuring one of the most spectacular vertical drops in Palau. The reef top at 1-3 meters hosts an extraordinary garden of pristine hard corals -- table corals, staghorn formations, and massive Porites heads packed together in a display of reef health rarely seen elsewhere. The wall itself drops vertically from the reef edge to over 300 meters, creating a dizzying sense of exposure. Grey reef sharks, Napoleon wrasse, and large schools of fusiliers work the wall face, while the reef top teems with chromis, damselfish, and surgeonfish. New Drop-Off is often dived on the same trip as Blue Corner and Big Drop-Off, and many experienced Palau divers rank it as the most beautiful of the three for its combination of wall drama and coral quality.
 
 ## Site Information
-
-- **Location**: Palau, Pacific
+- **Location**: Rock Islands, Palau, Micronesia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Moderate to strong, variable
+- **Best Time**: Year-round; calmer conditions typically November to May
 
 ## Marine Life
-
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The reef top is a showcase of hard coral diversity, with massive table corals stretching two to three meters across. Schools of blue and yellow fusiliers sweep along the wall in dense formations. Grey reef sharks patrol the wall edge, often in groups. Napoleon wrasse are frequent visitors. Hawksbill turtles graze on sponges along the wall face. The wall itself is decorated with sea fans, soft corals, and black coral bushes. Whitetip reef sharks rest in wall crevices. Pyramid butterflyfish school in the water column just off the wall. Leaf scorpionfish and flatworms provide macro subjects on the reef top. Barracuda schools sometimes circle in the blue off the wall.
 
 ## Dive Profile
-
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Begin on the reef top at 1-3 meters, exploring the hard coral garden before descending over the wall edge. The wall drops vertically, and most diving occurs between 10-30 meters where coral and fish life is most concentrated. Overhangs and small caves in the wall face provide shelter for sharks and groupers. The wall's sheer nature makes depth control critical -- the deep blue below can pull divers deeper than planned. Ascend back to the reef top for a safety stop among the corals.
 
 ## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Koror (approximately 50 minutes) or from liveaboards. Entry by giant stride, with descent to the reef top. Depending on current, the dive may be a drift along the wall with SMB pickup, or a return-to-boat profile if conditions are calm. Deploy an SMB from 5 meters for drift exits.
 
 ## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Spend time on the reef top -- the hard coral garden here is among the best in Palau
+- Descend the wall slowly and check behind you periodically for sharks approaching from the blue
+- Morning dives tend to have better visibility and more active shark patrols along the wall
+- Pair this dive with Blue Corner or Big Drop-Off for a full day of Ngemelis Island diving
+- Bring a wide-angle lens -- the wall scale and coral garden demand it
 
 ## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The sheer vertical wall creates a strong psychological pull to descend deeper than planned. Monitor your depth computer constantly and set audible alarms. Down-currents can occur along the wall face, pulling divers to dangerous depths. Currents along the wall are variable and can be strong. Stay close to your guide and group. An SMB and signaling devices are essential. Advanced certification and wall-diving experience are strongly recommended.
 
 ## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+The hard coral garden on the reef top is best shot with a wide-angle lens under natural light, capturing the dense coral formations against the blue water background. The wall itself offers dramatic perspectives -- shoot along the wall face to emphasize the vertical scale, or position a diver on the edge for a sense of the abyss below. Pelagic encounters are best captured with available light and fast shutter speeds. Macro shooters will find leaf scorpionfish, nudibranchs, and flatworms on the reef top.
 
 ## Additional Resources
-
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

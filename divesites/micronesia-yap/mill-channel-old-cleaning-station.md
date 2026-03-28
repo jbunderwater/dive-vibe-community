@@ -11,56 +11,47 @@ osmId: 4031012953
 addedBy: osm_import
 ---
 
-## Mill Channel old cleaning station
+# Mill Channel old cleaning station
 
-Mill Channel old cleaning station is a drift dive site in Micronesia - Yap, Pacific.
+The original manta cleaning station that put Yap on the diving map, offering deeper encounters at 25 meters with often fewer divers
 
 ## Overview
-
-Mill Channel old cleaning station is a dive site in Micronesia - Yap offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The Mill Channel old cleaning station is where Yap's legendary manta diving reputation began. Discovered in the 1980s, this deeper station at 25 meters features multiple large coral heads where manta rays queue up to be serviced by cleaner wrasses. Because it requires more air consumption and is limited to certified divers comfortable at depth, it tends to draw fewer visitors than the newer shallow station. This often translates to more intimate encounters with the mantas. The station operates year-round, with mantas visiting on incoming tides when the current pushes plankton-rich water through the channel.
 
 ## Site Information
-
-- **Location**: Micronesia - Yap, Pacific
+- **Location**: Yap, Federated States of Micronesia
 - **Entry Type**: Boat dive
-- **Site Type**: Drift
+- **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Current**: Moderate to strong (tidal dependent)
+- **Best Time**: Year-round; December to April for peak manta activity
 
 ## Marine Life
-
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Reef manta rays are the primary draw, with multiple individuals often present simultaneously. At this station, it is not uncommon to see mantas stacked at different levels above the coral heads, waiting their turn for cleaning. The deeper location also attracts grey reef sharks that patrol the channel edges, along with eagle rays, large Napoleon wrasse, and schools of bigeye trevally. Whitetip reef sharks rest on the sandy bottom nearby. The coral bommies host giant clams, moray eels, and colonies of garden eels in the surrounding sand.
 
 ## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Drop into the channel from the boat and descend to 25 meters where the cleaning station coral heads are located. Your guide will position the group on the sand downslope of the station. Air management is critical at this depth -- plan for a 30-40 minute bottom time with a staged ascent. The dive may include drifting along the channel floor to reach the station. A safety stop at 5 meters for at least 3 minutes is mandatory.
 
 ## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Colonia, approximately 15-20 minutes. Giant stride entry into the channel, with descent guided by the divemaster. Timing is coordinated with tidal cycles for optimal manta activity and manageable currents. Deploy SMB for pickup during safety stop.
 
 ## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The same strict manta interaction rules apply: stay low, do not approach, no flash photography
+- Bring a dive computer with clear depth alerts set for 25 meters to avoid exceeding planned depth
+- Nitrox (EANx32) is highly recommended to extend bottom time at 25 meters and add a safety margin
+- Morning dives on incoming tides typically produce the best manta encounters
+- Consider doing this as your first dive of the day when you have maximum no-decompression time available
 
 ## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The 25-meter depth requires solid air management and depth awareness. Currents in Mill Channel can be strong and unpredictable, particularly during tidal changes. Divers should be comfortable with drift diving techniques and carrying a reef hook for current management. The depth leaves less margin for error than the new station. Ensure your buddy team has matched air consumption expectations before descending.
 
 ## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The deeper water means less ambient light, so higher ISO settings are necessary. Wide-angle is essential for the close manta approaches. Although flash is prohibited, the dark blue water background at depth creates dramatic silhouette compositions. Slower shutter speeds in the dimmer conditions make image stabilization valuable. This station can produce some of Yap's most striking manta images due to the deep blue backgrounds and multiple-manta compositions.
 
 ## Additional Resources
-
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

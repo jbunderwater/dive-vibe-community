@@ -11,56 +11,47 @@ osmId: 6461715347
 addedBy: osm_import
 ---
 
-## Temple of Doom
+# Temple of Doom
 
-Temple of Doom is a cave dive site in Palau, Pacific.
+A complex multi-chamber cave system near Blue Corner demanding advanced skills, rewarding experienced divers with stalactite formations and dramatic light play
 
 ## Overview
-
-Temple of Doom is a dive site in Palau featuring underwater cave and cavern formations. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Temple of Doom is a challenging cave dive located on the same reef as Blue Holes and Blue Corner, on the western barrier reef of Ngemelis Island. The site consists of multiple interconnected chambers that penetrate deep into the reef structure, with passages branching at various depths between 15-30 meters. Named for the challenging navigation and overhead environments that require genuine cave or cavern diving competence, Temple of Doom is a step up in difficulty from the nearby Blue Holes. The chambers contain stalactite and stalagmite formations from the last Ice Age, similar to those in Chandelier Cave but in a deeper, more complex setting. Light effects filter through cracks and openings, creating atmospheric scenes in the chambers. This is not a casual swim-through -- Temple of Doom demands respect, preparation, and experience. It is one of Palau's most rewarding dives for those with the skills to explore it safely.
 
 ## Site Information
-
-- **Location**: Palau, Pacific
+- **Location**: Rock Islands, Palau, Micronesia
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Current**: Light inside chambers; moderate to strong on outer reef
+- **Best Time**: Year-round; calm conditions preferred for cave diving
 
 ## Marine Life
-
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+The cave's darker zones shelter species adapted to low-light conditions. Soldierfish and squirrelfish school in the shadowed passages. Large lobsters and slipper lobsters occupy crevices. Whitetip reef sharks occasionally rest on the sandy chamber floors. Sponges and encrusting organisms cover the cave walls in areas receiving some light. Outside the cave entrance, the reef offers typical Ngemelis marine life -- grey reef sharks, Napoleon wrasse, and schools of reef fish. The biological interest here is secondary to the geological formations and the diving experience itself.
 
 ## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter through the reef-top opening and descend into the first chamber at around 15-18 meters. From here, passages lead deeper into subsequent chambers, reaching maximum depths of approximately 30 meters. Navigation requires following the guide through a defined route -- multiple passages branch off, and disorientation is possible without guidance. The deepest chambers contain the most impressive formations. Air management is critical at depth in overhead environments. Allow adequate reserves for the exit and safety stop. Total bottom time is typically 30-40 minutes due to the depth and gas consumption.
 
 ## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Koror (approximately 45 minutes) or from liveaboards anchoring near the Ngemelis reef complex. Entry by giant stride with descent to the cave entrance on the reef top. Exit through the same entrance. The dive can be combined with a drift along the Blue Corner wall if air and dive profile permit.
 
 ## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Only attempt this dive with an experienced Palau guide who knows the chamber layout thoroughly
+- Carry a primary torch and at least one backup -- the deep chambers receive no natural light
+- Maintain visual contact with your guide and buddy at all times inside the cave
+- Practice precise buoyancy before entering -- ceiling and floor contact disturbs silt and formations
+- Brief yourself on the exit route before entering in case you need to exit independently
 
 ## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Temple of Doom presents genuine overhead-environment hazards. Silt disturbance can rapidly reduce visibility to near zero in the enclosed chambers. Multiple passages create navigation complexity. The 30-meter depth limits gas supply and adds narcosis risk. A reel or guide line is recommended for groups not led by a local guide. Divers should have cavern or introductory cave training at minimum. Full cave certification is ideal. Never enter without redundant lights. Maintain the rule of thirds for gas management. This is not appropriate for divers uncomfortable in overhead environments, regardless of their depth experience.
 
 ## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Temple of Doom offers atmospheric cave photography for those with the skills and composure to shoot in overhead environments. Wide-angle captures the chamber scale and stalactite formations. Off-camera lighting from a buddy's torch creates dramatic rim light and shadow play. Shoot toward any available natural light sources for ethereal beam effects. A diver's torch cutting through the darkness makes a compelling focal point. Macro opportunities exist on the cave walls but are secondary to the wide-angle drama. Keep your photography kit simple and streamlined -- this is not the place for bulky tray-and-arm setups.
 
 ## Additional Resources
-
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

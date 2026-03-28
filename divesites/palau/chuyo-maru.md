@@ -11,57 +11,47 @@ osmId: 4031041874
 addedBy: osm_import
 ---
 
-## Chuyo Maru
+# Chuyo Maru
 
-Chuyo Maru is a historic wreck dive in Palau, Pacific.
+A large WWII Japanese cargo vessel sitting upright on the bottom at 40 meters, offering serious wreck penetration for experienced deep divers
 
 ## Overview
-
-Chuyo Maru is a dive site in Palau featuring the wreck of the Chuyo Maru which sank in 1 April 1944 . WWII Japanese freighter, bombed 30-31 March 1944, sank 1 April 1944. 89m long, well-preserved. Deck at 30m, maximum depth 40m.. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The Chuyo Maru is the wreck of an 89-meter Japanese freighter that was bombed by American aircraft during Operation Desecrate One on March 30-31, 1944, and sank on April 1, 1944. The ship sits upright on a sandy bottom with the deck at approximately 30 meters and the keel at 40 meters. After more than 80 years underwater, the wreck is well-preserved and heavily colonized by corals and sponges. The Chuyo Maru offers genuine wreck penetration opportunities -- cargo holds, engine room, and corridors are accessible to properly trained divers. This is one of the deeper and more demanding wreck dives in Palau's WWII wreck collection, requiring careful gas management and dive planning. It rewards those who make the effort with an atmospheric exploration of a large, intact wartime vessel in the warm, clear waters of the Rock Islands.
 
 ## Site Information
-
-- **Location**: Palau, Pacific
+- **Location**: Rock Islands, Palau, Micronesia
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Current**: Light to moderate
+- **Best Time**: Year-round; calm conditions preferred for deep wreck diving
 
 ## Marine Life
-
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck is a thriving artificial reef. Large gorgonian fans and soft corals grow from the railings and superstructure. Schools of glassy sweepers fill the cargo holds, creating shimmering clouds of silver when illuminated by torch light. Lionfish perch throughout the wreck. Groupers occupy the larger spaces and overhangs. Whitetip reef sharks rest near the hull base. Batfish school around the mast and rigging remnants. The surrounding sand is home to garden eels and blue-spotted stingrays. Barracuda and jacks patrol the water column above the wreck. Nudibranchs and encrusting invertebrates cover the hull surfaces.
 
 ## Dive Profile
-
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 40 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+This is a deep dive requiring careful planning. Descend along the mooring line or anchor line directly to the wreck. The mast and superstructure appear at around 18-20 meters, with the main deck at 30 meters and the sand at 40 meters. Most divers explore the exterior superstructure and upper deck in the 25-35 meter range. Penetration into the cargo holds and engine room should only be attempted by wreck-certified divers with proper equipment including redundant lights and gas supply. Bottom time at 40 meters is limited -- plan for 15-20 minutes at depth with appropriate ascent schedule. Nitrox is strongly recommended to extend bottom time and reduce decompression obligation.
 
 ## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Koror (approximately 20 minutes) or from liveaboards. Entry by giant stride with a direct descent along the mooring line to minimize surface current exposure. Exit by ascending along the line to the safety stop. The boat typically remains moored above the wreck.
 
 ## Tips and Recommendations
-
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Use Nitrox (EANx32 or EANx36) to maximize bottom time and reduce deco obligation at depth
+- Carry a powerful primary torch and backup light for exploring the wreck interior
+- Study the wreck layout before the dive -- knowing the ship's structure helps you navigate efficiently with limited bottom time
+- The engine room is the most impressive penetration point but requires training and confidence
+- Plan the dive and dive the plan -- at 40 meters, gas runs out faster than you expect
 
 ## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+This is a deep dive at the limits of recreational diving. A dive computer with appropriate gas settings is essential. Nitrox extends bottom time but introduces oxygen toxicity considerations at maximum depth. Wreck penetration adds overhead environment risks -- silt-out, entanglement, and disorientation are all possible. Never penetrate without wreck diving training, redundant lights, and a clear exit strategy. Monitor narcosis symptoms at depth. Carry a safety sausage and audible signaling device. A surface interval of at least two hours is recommended before any subsequent deep dives.
 
 ## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The Chuyo Maru offers dramatic wreck photography for those who can manage the depth and limited bottom time. Wide-angle captures the scale of the hull and superstructure. Position a diver near the bow or along the railing for compelling scale shots. Interior photography requires powerful lights and careful buoyancy to avoid silt. The schools of glassy sweepers in the cargo holds photograph beautifully when backlit by torch. Plan your shots in advance -- limited bottom time means you need to know what you want before you descend.
 
 ## Additional Resources
-
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

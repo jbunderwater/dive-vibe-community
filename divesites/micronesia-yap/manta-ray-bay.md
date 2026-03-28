@@ -11,57 +11,47 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Manta Ray Bay
+# Manta Ray Bay
 
-Manta Ray Bay is a drift dive site in Micronesia - Yap, Pacific.
+A sheltered bay where manta rays surface-feed on plankton, barrel-rolling through clouds of tiny organisms in sometimes spectacular numbers
 
 ## Overview
-
-Manta Ray Bay is a dive site in Micronesia - Yap offering excellent diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Manta Ray Bay offers a completely different manta experience from the channel cleaning stations. In this protected bay, mantas gather to feed on plankton that concentrates near the surface, particularly during plankton blooms. Rather than hovering at cleaning stations, the mantas here perform their characteristic barrel rolls -- somersaulting repeatedly through dense plankton patches with mouths wide open. On exceptional days, dozens of mantas may be feeding simultaneously. The shallow depth of just 12 meters and calm conditions make this an outstanding site for beginners to witness one of the ocean's great spectacles.
 
 ## Site Information
-
-- **Location**: Micronesia - Yap, Pacific
+- **Location**: Yap, Federated States of Micronesia
 - **Entry Type**: Boat dive
-- **Site Type**: Drift
+- **Site Type**: Drift dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 5-20 meters (variable with plankton density)
+- **Current**: Light
+- **Best Time**: Year-round; plankton blooms vary but often peak November to May
 
 ## Marine Life
-
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Reef manta rays are the headline attraction, with feeding aggregations that can number in the dozens during peak plankton events. The barrel-rolling feeding behavior is mesmerizing and entirely different from the sedate cleaning station visits. The bay also hosts spotted eagle rays, mobula rays, and large schools of fusiliers attracted by the same plankton. Green sea turtles frequent the bay's seagrass patches. The sandy bottom has garden eels and occasional blue-spotted stingrays. Remoras often ride the mantas, detaching briefly to grab scraps.
 
 ## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+This is a shallow, relaxed dive. Descend to the sandy bottom at 8-12 meters and watch the mantas feeding above you. The key is patience -- find a spot and wait for the mantas to circle back through your area. Occasionally the mantas feed at the surface, making snorkeling an equally valid way to enjoy this site. Bottom times of 60 minutes or more are easily achievable. The dive profile is simple with no significant depth changes.
 
 ## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Colonia. The bay provides shelter from ocean swells, making entry comfortable year-round. Giant stride entry with a gentle descent to the sand. Exit via boat pickup in the bay.
 
 ## Tips and Recommendations
-
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Visibility can drop during heavy plankton blooms, but this is actually when manta numbers peak -- embrace the green water
+- Stay on the bottom and let feeding mantas pass overhead rather than swimming up to meet them
+- This site is equally spectacular as a snorkel when mantas are feeding at the surface
+- Morning dives tend to have calmer conditions and often coincide with manta feeding patterns
+- Combine with a Mill Channel cleaning station dive for two completely different manta behaviors in one day
 
 ## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+This is one of Yap's safest dive sites due to the sheltered location, shallow depth, and light currents. The primary consideration is maintaining distance from feeding mantas, which are focused on plankton and may not notice divers in their path. Reduced visibility during plankton blooms requires close buddy contact. Stay aware of your surroundings as mantas can approach from any direction.
 
 ## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Barrel-rolling mantas make for dynamic, dramatic images unlike anything at cleaning stations. Wide-angle is essential. The challenge is reduced visibility during peak feeding -- shoot close and aim upward to silhouette mantas against the brighter surface water. Video is particularly rewarding here, capturing the graceful rolling motion. On clear days with surface-feeding mantas, over-under (split) shots from the surface are possible. Natural light works well at this depth.
 
 ## Additional Resources
-
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

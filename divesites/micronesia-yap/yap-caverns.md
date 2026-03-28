@@ -11,56 +11,47 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Yap Caverns
+# Yap Caverns
 
-Yap Caverns is a cave dive site in Micronesia - Yap, Pacific.
+A series of dramatic swim-throughs and caverns with shafts of light, resting sharks, and rich macro life hiding in the crevices
 
 ## Overview
-
-Yap Caverns is a dive site in Micronesia - Yap featuring underwater cave and cavern formations. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Yap Caverns is a labyrinth of interconnected caverns, overhangs, and swim-throughs carved into the reef structure. The site provides a striking contrast to Yap's open-water manta and wall dives. Sunlight penetrates through openings above, creating dramatic light beams that illuminate the cavern interiors -- particularly stunning in the late morning when the sun angle is high. Whitetip reef sharks are regularly found resting inside the larger chambers, and the sheltered environment hosts prolific macro life. The caverns are open-topped and navigable without cave diving certification, though comfort in overhead environments is important.
 
 ## Site Information
-
-- **Location**: Micronesia - Yap, Pacific
+- **Location**: Yap, Federated States of Micronesia
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 20-35 meters (65-115 feet)
+- **Current**: Light to moderate
+- **Best Time**: Year-round; late morning for best light effects
 
 ## Marine Life
-
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+Whitetip reef sharks are the marquee residents, often found resting on the sandy floors of the larger cavern chambers. Lionfish are abundant throughout the site, perching on ledges and in crevices, particularly the striking red lionfish. Large moray eels -- green and whitemouth -- peer from holes in the cavern walls. The crevices shelter a wealth of macro life including cleaner shrimp, squat lobsters, nudibranchs, and flatworms. Glassy sweepers congregate in dense schools inside the darker chambers, parting as divers swim through. Outside the cavern structure, the surrounding reef supports healthy hard coral and schools of fusiliers and anthias.
 
 ## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin on the reef top at 8-10 meters and follow your guide to the cavern entrances. The swim-throughs vary in size from snug passages to large chambers. Maximum depth inside the caverns reaches 20 meters in the deepest chambers. Navigate through the connected passages, pausing to observe the light effects and marine life. Most of the dive is between 12-18 meters. Exit the cavern system onto the open reef for a gradual ascent and safety stop.
 
 ## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Colonia. Giant stride entry over the reef. The boat anchors or drifts nearby for pickup after the dive. Exit via the open reef area adjacent to the caverns.
 
 ## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Bring a good dive torch to illuminate the cavern interiors and bring out colors on the walls and marine life
+- Late morning dives (10-11 AM) produce the most dramatic light beam effects through the cavern openings
+- Maintain excellent buoyancy to avoid contact with the cavern walls and ceiling, which are covered in delicate organisms
+- Move slowly through the chambers to spot resting sharks before they spook and swim away
+- Keep your fins close to your body in tighter swim-throughs to avoid silt disturbance and wall contact
 
 ## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Although these are caverns (not caves) with natural light always visible, comfort in overhead environments is important. Avoid entering any passage where you cannot clearly see the exit. Maintain close contact with your guide and buddy. Air consumption tends to increase in enclosed spaces -- monitor your gauge frequently. Silt on the cavern floor can reduce visibility quickly if disturbed. Never enter a swim-through if another group is coming through from the opposite direction.
 
 ## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The light beam effects inside the caverns are the signature photographic opportunity. Wide-angle lenses capture the interplay of light shafts and silhouetted divers. Use a torch for fill light on subjects in the darker corners. Macro lenses excel on the abundant small life in the crevices -- lionfish portraits, nudibranchs, and shrimp. For the resting sharks, approach slowly with a wide-angle and use a low angle to include the cavern ceiling for context. Avoid direct strobe bursts at resting sharks.
 
 ## Additional Resources
-
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

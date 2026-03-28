@@ -11,56 +11,47 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Magic Kingdom
+# Magic Kingdom
 
-Magic Kingdom is a reef dive site in Micronesia - Yap, Pacific.
+A diverse reef teeming with fish life and excellent macro subjects, crowned by mandarin fish mating displays in the rubble zone at dusk
 
 ## Overview
-
-Magic Kingdom is a dive site in Micronesia - Yap offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Magic Kingdom is one of Yap's best reef dives, offering outstanding biodiversity in a compact area at moderate depth. The site features a healthy mixed reef with hard coral gardens, sandy rubble patches, and scattered coral bommies that collectively support an exceptional variety of marine life. The real magic happens at dusk, when mandarin fish (Synchiropus splendidus) emerge from the rubble to perform their nightly mating dance -- a sought-after spectacle among macro photographers and critter enthusiasts. During daylight hours, the reef delivers consistently excellent fish life with nudibranchs, shrimp, crabs, and other invertebrates throughout.
 
 ## Site Information
-
-- **Location**: Micronesia - Yap, Pacific
+- **Location**: Yap, Federated States of Micronesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 20-35 meters (65-115 feet)
+- **Current**: Light
+- **Best Time**: Year-round; dusk dives for mandarin fish
 
 ## Marine Life
-
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+The mandarin fish are the site's crown jewel, with their psychedelic blue, orange, and green coloring making them among the most beautiful fish in the sea. They emerge from dead coral rubble just before sunset in pairs, rising a few centimeters above the rubble to spawn before darting back to safety. During the day, the reef hosts an outstanding variety: nudibranchs of multiple species, banded coral shrimp, mantis shrimp in their burrows, porcelain crabs in anemones, leaf scorpionfish, and juvenile fish sheltering in staghorn coral. Larger visitors include blue-spotted stingrays on the sand, hawksbill turtles, and occasional reef sharks.
 
 ## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef at 10-12 meters and explore the coral gardens and rubble zones. Most of the dive stays between 10-18 meters. For mandarin fish, the key areas are rubble patches with dead hard coral heads between 3-8 meters -- your guide will know the specific spots where the fish are active. Plan your dive to arrive at the mandarin fish area during the last 20-30 minutes before sunset. The shallow finish allows for extended observation time without air concerns.
 
 ## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Colonia. Gentle giant stride entry over the reef. The site is sheltered and conditions are usually calm. Boat remains nearby for pickup after the dive.
 
 ## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Request a dusk dive specifically for mandarin fish and arrive at their rubble patch 20 minutes before sunset
+- Move extremely slowly and avoid shining dive lights directly at mandarin fish, which will cause them to retreat into the rubble
+- During the day, focus on the sandy rubble interfaces between coral heads where most macro subjects concentrate
+- A magnifying glass or diopter for your mask helps spot tiny nudibranchs and juvenile marine life
+- This is an outstanding night dive site as well, with different critters emerging after dark
 
 ## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Magic Kingdom is a relatively easy dive with light currents and moderate depths. The main consideration is situational awareness during dusk dives when light levels drop rapidly. Carry a torch but use it judiciously around the mandarin fish. Maintain buddy contact as visibility decreases at sunset. Lionfish are present and should not be touched. Watch for fire coral on the reef top.
 
 ## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+For mandarin fish, a macro lens (60mm or 100mm) is essential. The fish are tiny (5-6 cm) and their mating rise lasts only seconds, requiring fast reflexes and prefocused shots. Use a snoot or low-power strobe to avoid overwhelming the small subjects. During daylight, both macro and close-up wide-angle work well on the diverse reef. The nudibranchs and shrimp provide colorful macro subjects against clean backgrounds. For the reef itself, a fisheye or wide-angle with a diver model captures the garden atmosphere. Patience and slow movement produce the best results at this site.
 
 ## Additional Resources
-
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -11,57 +11,47 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Cherry Blossom Wall
+# Cherry Blossom Wall
 
-Cherry Blossom Wall is a wall dive site in Micronesia - Yap, Pacific.
+A beautifully colorful wall named for its pink soft corals resembling cherry blossoms, with reef sharks, turtles, and outstanding photography potential
 
 ## Overview
-
-Cherry Blossom Wall is a dive site in Micronesia - Yap featuring a dramatic vertical wall that drops into the deep blue. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Cherry Blossom Wall takes its poetic name from the profusion of delicate pink soft corals that blanket sections of the wall face, giving the appearance of cherry trees in bloom. This is one of Yap's most photogenic dive sites, with exceptional coral coverage in pinks, purples, and reds creating a garden-like atmosphere along the vertical wall. The conditions here tend to be more moderate than Yap's more exposed wall sites, making it accessible to intermediate divers while still delivering the dramatic wall diving experience Yap is known for. Reef sharks and hawksbill turtles are reliable sightings.
 
 ## Site Information
-
-- **Location**: Micronesia - Yap, Pacific
+- **Location**: Yap, Federated States of Micronesia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 25-40 meters (80-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: Year-round
 
 ## Marine Life
-
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The pink soft corals that give this wall its name create a distinctive habitat. Grey reef sharks and blacktip reef sharks patrol the wall edge, generally in smaller numbers than at more current-swept sites. Hawksbill sea turtles are frequently seen grazing on sponges along the wall. Schools of pyramid butterflyfish hover above the reef crest. The wall hosts gorgonian fans, wire corals with their resident gobies, and clusters of crinoids in yellows and reds. Moray eels peer from wall crevices, and whitetip reef sharks rest on ledges. The reef top above the wall has healthy table coral and large heads of Porites coral with Christmas tree worms.
 
 ## Dive Profile
-
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-22 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Drop from the boat to the reef top at around 5 meters, then descend along the wall face to a comfortable depth of 15-22 meters. The current here is typically lighter than other Yap walls, allowing more time to explore individual coral formations. Drift gently along the wall, ascending gradually over the dive. The densest soft coral coverage is between 12-18 meters. Finish on the reef top for your safety stop among the hard coral gardens.
 
 ## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Colonia. Standard giant stride entry. Conditions are usually calmer than the more exposed walls, with a straightforward descent to the wall. SMB deployment for boat pickup during or after safety stop.
 
 ## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Morning light brings out the best colors in the pink soft corals, especially when sun rays angle across the wall face
+- Take your time with individual coral formations rather than racing along the wall -- the beauty is in the details
+- Look for small critters sheltering among the soft coral branches, including tiny shrimp and crabs
+- This is an excellent second dive after a deeper wall dive, offering shallower depths with equal visual reward
+- Pair with a manta channel dive in the morning for a varied diving day
 
 ## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+This is one of Yap's more forgiving wall dives, with typically lighter currents and moderate depths. Standard wall diving precautions apply: maintain depth awareness, do not descend beyond your planned depth, and keep the wall as a reference point. Light to moderate currents are the norm, but conditions can change. Carry standard safety equipment including SMB and signaling devices.
 
 ## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+Cherry Blossom Wall is a photographer's paradise. The pink soft corals provide extraordinary natural compositions that require minimal arrangement. Wide-angle lenses capture the wall gardens in their full splendor -- shoot slightly upward to catch the soft corals against the blue water background. Dual strobes are essential to render the pinks and purples accurately, as these colors are lost to blue water absorption within a few meters. Macro shooters will find excellent subjects among the soft coral branches and on the wire corals. The calmer conditions here allow more precise composition than at current-swept walls.
 
 ## Additional Resources
-
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
