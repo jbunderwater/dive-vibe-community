@@ -17,7 +17,7 @@ Key Hole Pinnacles is a pinnacle dive site in St. Lucia, Caribbean.
 
 ## Overview
 
-Key Hole Pinnacles is a dive site in St. Lucia offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Key Hole Pinnacles is one of St. Lucia's most celebrated dive sites, featuring four dramatic volcanic seamounts that rise from depth to within a few feet of the surface — an underwater echo of the island's iconic Pitons above. The pinnacles are densely encrusted with black and orange gorgonian sea fans, barrel sponges, organ pipe corals, and tube corals, and mild currents channelling between them sustain exceptional coral diversity. Trumpetfish, filefish, groupers, snappers, pufferfish, seahorses, and frogfish inhabit the structures, and the site has an unusual reputation for rare pelagic visitors including whale sharks and ocean sunfish.
 
 ## Site Information
 

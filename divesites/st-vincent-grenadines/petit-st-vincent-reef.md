@@ -17,7 +17,7 @@ Petit St. Vincent Reef is a reef dive site in St. Vincent and the Grenadines, Ca
 
 ## Overview
 
-Petit St. Vincent Reef is a dive site in St. Vincent and the Grenadines offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Petit St. Vincent Reef surrounds the private island of PSV in the southern Grenadines, part of the Mission Blue Hope Spot and a Marine Conservation Area where over a decade of anchor and fishing restrictions has produced notably healthy reefs. The site offers a mix of sloping coral gardens and gentle drop-offs to around 20 meters, with brain coral, elkhorn, pillar coral, and gorgonian sea fans in good condition. Spotted drum, scorpionfish, flamingo tongue snails, moray eels, and frogfish reward attentive divers, while eagle rays, nurse sharks, and hawksbill turtles are regular visitors to the open water above the reef.
 
 ## Site Information
 

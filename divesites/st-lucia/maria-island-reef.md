@@ -17,7 +17,7 @@ Maria Island Reef is a reef dive site in St. Lucia, Caribbean.
 
 ## Overview
 
-Maria Island Reef is a dive site in St. Lucia offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Maria Island Reef lies in the waters surrounding the Maria Islands Nature Reserve off Vieux Fort in southern St. Lucia, an area managed by the St. Lucia National Trust and known for its undisturbed marine environment. The reef is a gentle, shallow dive to around 25 meters, well-suited to beginners, with hard coral formations and turtle grass beds that attract hawksbill and green sea turtles. Macro life is a highlight here — divers report finding peacock flounders, flying gurnards, snake eels, and seahorses against the colourful sponge-covered reef structures.
 
 ## Site Information
 

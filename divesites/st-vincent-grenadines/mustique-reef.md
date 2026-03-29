@@ -17,7 +17,7 @@ Mustique Reef is a reef dive site in St. Vincent and the Grenadines, Caribbean.
 
 ## Overview
 
-Mustique Reef is a dive site in St. Vincent and the Grenadines offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Mustique Reef offers sloping coral terrain to around 25 meters on the Grenadines' relatively undisturbed leeward reefs, where coral nursery programmes established in recent years are actively replanting brain coral and elkhorn to aid recovery. The site is known for relaxed drift conditions that allow divers to glide over intact hard and soft coral formations while spotting shy spotted drums and banded coral shrimp in the recesses. Parrotfish, angelfish, barracuda, and moray eels are typical reef residents, and hawksbill turtles and southern stingrays make regular appearances across the sandy patches between coral heads.
 
 ## Site Information
 

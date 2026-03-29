@@ -17,7 +17,7 @@ Pinnacles (Anse Cochon) is a pinnacle dive site in St. Lucia, Caribbean.
 
 ## Overview
 
-Pinnacles (Anse Cochon) is a dive site in St. Lucia offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Pinnacles at Anse Cochon ("Bay of Pigs") rises from the reef in finger-like coral formations with valleys and trenches in between, creating a dive full of varied topography within a shallow maximum depth of 18 meters. The structures are draped in sea whips, gorgonian fans, organ pipe corals, and feather duster worms, and the site acts as a productive breeding ground for juvenile fish including queen and French angelfish. Hawksbill turtles frequent the area, and careful divers may find seahorses and flounder tucked into the crevices between the coral columns.
 
 ## Site Information
 

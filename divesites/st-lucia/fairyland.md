@@ -17,7 +17,7 @@ Fairyland is a reef dive site in St. Lucia, Caribbean.
 
 ## Overview
 
-Fairyland is a dive site in St. Lucia offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Fairyland sits just off the rocky headland of West Pointe, south of Anse Chastanet, where periodic strong currents flush nutrient-rich water through the reef and keep its corals and sponges exceptionally vivid — giving the site its name. The reef plateau slopes from roughly 12 to 18 meters, with large boulders creating sheltered nooks packed with schools of horse-eye jacks, Bermuda chubs, Creole wrasse, and chromis, while turtles, southern stingrays, and octopuses are regularly encountered in the crevices. The site sits within the Soufriere Marine Management Area (SMMA), established in 1995, which has helped maintain the strong coral and fish diversity that makes it a favourite among local divemasters.
 
 ## Site Information
 

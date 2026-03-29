@@ -17,7 +17,7 @@ Monkey Shoals is a reef dive site in St. Kitts and Nevis, Caribbean.
 
 ## Overview
 
-Monkey Shoals is a dive site in St. Kitts and Nevis offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Monkey Shoals is a roughly one-square-mile coral atoll sitting in the channel between St. Kitts and Nevis, offering excellent visibility and dense marine life well away from the coastal runoff that can affect inshore sites. The shoal encompasses multiple sub-sites ranging from shallow nursery reefs at around 9 meters to deeper overhangs and drop-offs exceeding 30 meters, where nurse sharks, green moray eels, and large spiny lobsters take shelter under ledges. Horse-eye jacks, schooling barracuda, eagle rays, southern stingrays, and the unusual flying gurnard are regularly encountered across the atoll, making it one of the most species-rich sites in the St. Kitts area.
 
 ## Site Information
 
