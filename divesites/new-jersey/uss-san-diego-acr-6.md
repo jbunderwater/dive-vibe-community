@@ -32,7 +32,7 @@ The USS San Diego was a 504-foot armored cruiser that sank in July 1918 after st
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Divers at this site can expect to encounter tautog (blackfish), black sea bass, bergall, and large schools of scup sheltering in the inverted hull structure. Sand tiger sharks aggregate around the wreck from June through October, often seen cruising in groups along the keel. Lobsters occupy crevices between hull plates, and in summer months, ocean sunfish and blue sharks occasionally appear in the surrounding water column.
 
 ## Dive Profile
 
