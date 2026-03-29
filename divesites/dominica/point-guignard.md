@@ -17,7 +17,7 @@ Point Guignard is a wall dive site in Dominica, Caribbean.
 
 ## Overview
 
-Point Guignard is a dive site in Dominica featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Point Guignard is a gently sloping wall in the Soufriere Scotts Head Marine Reserve, starting at around 10 metres and descending to 25 metres, with very little current and good shelter making it accessible to divers of all levels. The slope is rich with seahorses on gorgonian fans, nudibranchs, sea slugs, turtles, stingrays, and moray eels — and the standout feature is a cave at around 15 metres with a tight swim-through and an archway exit that rewards divers with perfect buoyancy. Squid and giant lobsters make regular appearances on night dives at this frequently visited site.
 
 ## Site Information
 

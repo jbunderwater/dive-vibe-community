@@ -17,7 +17,7 @@ Coral Gardens is a reef dive site in Dominica, Caribbean.
 
 ## Overview
 
-Coral Gardens is a dive site in Dominica offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Coral Gardens is a shallow, sheltered reef in Batali Bay near the Cabrits National Park Marine Section, with large areas of finger coral and pencil coral providing habitat for turtles, schooling horse-eyed jacks, sennet, and diverse reef fish when currents concentrate them at the site. The site is part of a large reef system that includes Dangleben's Pinnacles, Coral Gardens South, and L'Abym North, giving it a calm and colourful character distinct from Dominica's more dramatic wall dives. Turtles are frequently sighted here, and big sponges add brilliant colour to a dive that is well-suited to beginners exploring Dominica's rich volcanic reef ecology.
 
 ## Site Information
 

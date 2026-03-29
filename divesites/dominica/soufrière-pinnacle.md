@@ -17,7 +17,7 @@ Soufrière Pinnacle is a wall dive site in Dominica, Caribbean.
 
 ## Overview
 
-Soufrière Pinnacle is a dive site in Dominica featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Soufrière Pinnacle is a series of pinnacles rising from a 25-foot shelf directly in front of Soufrière Village, with the swim to the site passing over bubbling submerged hot springs — a reminder that Soufrière Bay itself is the flooded crater of an ancient volcano. The gently sloping approach and minimal current in the sheltered bay make this an easy dive suitable for all levels, with the reef running from 25 to 80 feet adorned with brilliant sponges, abundant reef fish, and the occasional seahorse in the crevices. The site connects naturally into the dramatic L'Abym wall to its south, making it a popular first or second dive in a multi-dive day at Soufrière.
 
 ## Site Information
 
