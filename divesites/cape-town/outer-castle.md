@@ -17,7 +17,7 @@ Outer Castle is a reef dive site in Cape Town, Africa.
 
 ## Overview
 
-Outer Castle is a dive site in Cape Town offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Outer Castle is a rocky reef structure off the Cape Peninsula dropping to around 22 meters, its walls and boulders blanketed in dense kelp forest and decorated with bright pink and orange sea anemones fed by the cold Benguela upwelling. Cape fur seals from nearby colonies frequent the site and will often dart around divers playfully in the kelp canopy, while octopus, cuttlefish, and cape rock lobster inhabit the crevices. Water temperatures sit between 10–16°C year-round, so a drysuit or thick wetsuit is essential.
 
 ## Site Information
 

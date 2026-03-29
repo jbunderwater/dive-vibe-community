@@ -17,7 +17,7 @@ Remire Reef is a reef dive site in Seychelles, Africa.
 
 ## Overview
 
-Remire Reef is a dive site in Seychelles offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Remire Reef surrounds the tiny uninhabited island of Île aux Récifs in the Amirantes group, offering remote Indian Ocean diving with exceptional clarity and minimal boat traffic. The reef flat and slope host pristine staghorn and table corals down to roughly 20 meters, with hawksbill turtles, blue-spotted stingrays, and healthy populations of parrotfish and angelfish throughout. The isolation of the Amirantes means this site sees far less diver pressure than inner-island reefs, preserving its coral cover in notably good condition.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Goddamahagale dive site is a reef dive site in Sri Lanka, Asia.
 
 ## Overview
 
-Goddamahagale dive site is a dive site in Sri Lanka offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Goddamahagale is a shallow shore reef on Sri Lanka's west coast near Negombo, descending through rocky coral formations to a maximum of around 12 meters in the warm, calm waters of the Indian Ocean. The site features a mix of hard corals, sea fans, and rocky substrate that shelters lionfish, scorpionfish, and various wrasse species typical of Sri Lanka's coastal reefs. Given its proximity to Negombo and the shallow depth, it serves as a popular training and beginner dive site with reliable sightings of sea turtles and reef octopus.
 
 ## Site Information
 

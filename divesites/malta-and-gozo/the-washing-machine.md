@@ -17,7 +17,7 @@ The Washing Machine is a reef dive site in Malta and Gozo, Europe.
 
 ## Overview
 
-The Washing Machine is a dive site in Malta and Gozo offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The Washing Machine is a channel cut through the limestone rock on Gozo's northwest coast near Xwejni Bay, where the interaction of tidal surge and swell creates a swirling, tumbling current that gives the site its name. At maximum depth around 20 meters the surge lessens, revealing crevices packed with moray eels, octopus, and nudibranchs on the encrusted walls. Timing the entry with the right conditions is important — experienced divers who read the surge correctly are rewarded with a thrilling drift through the channel with strong Mediterranean visibility.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Bazaruto Island Reef is a reef dive site in Mozambique, Africa.
 
 ## Overview
 
-Bazaruto Island Reef is a dive site in Mozambique offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Bazaruto Island Reef lies within the Bazaruto Archipelago National Park, one of southern Africa's last remaining strongholds for dugong, where pristine hard and soft coral gardens slope to around 20 meters in the warm waters of the Mozambique Channel. Sea turtles are commonly encountered on the reef, and the park's protected status means fish populations — including potato bass, reef sharks, and dense schools of glassfish — remain largely intact. The site's remote island setting, accessible only by boat from Vilanculos, delivers visibility averaging 15-25 meters over some of the least-dived reefs on the East African coast.
 
 ## Site Information
 

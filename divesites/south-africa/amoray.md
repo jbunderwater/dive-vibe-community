@@ -17,7 +17,7 @@ Amoray is a reef dive site in South Africa, Africa.
 
 ## Overview
 
-Amoray is a dive site in South Africa offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Amoray is a coral reef site at Sodwana Bay in the iSimangaliso Wetland Park, part of the southernmost coral reef system in Africa along KwaZulu-Natal's Maputaland coast. The reef is named for the dense population of moray eels — honeycomb, giant, and snowflake morays — that occupy nearly every crevice in the coral structure down to about 20 meters. Loggerhead and leatherback turtles are regularly encountered here as Sodwana is adjacent to critical sea turtle nesting beaches, and the warm Agulhas Current maintains water temperatures around 24–27°C.
 
 ## Site Information
 

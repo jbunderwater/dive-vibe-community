@@ -17,7 +17,7 @@ addedBy: osm_import
 
 ## Overview
 
-Ħondoq ir-Rummien is a dive site in Malta and Gozo offering rewarding diving on healthy coral reef structures . Beach and coastline with salt pans and caves. Popular for snorkelling and diving.. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Ħondoq ir-Rummien is a sheltered bay on the southeastern tip of Gozo where a sandy beach meets a rocky limestone seabed that descends gradually to around 20 meters, with clear Mediterranean water and visibility frequently exceeding 20 meters. The site is known for its resident octopus, seahorses tucked among posidonia seagrass patches, and abundant sea bream, making it one of Gozo's most approachable shore or boat dives. Ancient salt pans carved into the shoreline and a small sea cave add to the character of this well-rounded site.
 
 ## Site Information
 

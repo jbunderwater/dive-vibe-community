@@ -17,7 +17,7 @@ Whale Rock is a pinnacle dive site in Seychelles, Africa.
 
 ## Overview
 
-Whale Rock is a dive site in Seychelles offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Whale Rock is a large granite boulder formation near Mahé, its flanks encrusted with sea fans, black coral bushes, and colourful soft corals down to around 20 meters. Hawksbill and green turtles are a near-constant presence at this site, resting on the rock ledges or grazing on the sponge growth. The boulders create sheltered swim-throughs that harbour lionfish, moray eels, and dense aggregations of glassfish.
 
 ## Site Information
 

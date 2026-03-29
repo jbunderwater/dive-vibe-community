@@ -17,7 +17,7 @@ Qbajjar Reef is a reef dive site in Malta and Gozo, Europe.
 
 ## Overview
 
-Qbajjar Reef is a dive site in Malta and Gozo offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Qbajjar Reef lies immediately adjacent to Xwejni Bay on Gozo's northwest coast, sharing the same rugged limestone terrain of boulders, gullies, and sand patches that bottom out near 20 meters. The reef is particularly good for cephalopod encounters — cuttlefish and octopus are frequently spotted in the rock crevices — along with grouper, sea bass, and colourful nudibranchs on the encrusted surfaces. Visibility is typically excellent in this part of Gozo, often 20-30 meters in calm conditions.
 
 ## Site Information
 

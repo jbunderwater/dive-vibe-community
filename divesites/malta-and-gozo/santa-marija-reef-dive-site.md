@@ -17,7 +17,7 @@ Santa Marija Reef Dive Site is a reef dive site in Malta and Gozo, Europe.
 
 ## Overview
 
-Santa Marija Reef Dive Site is a dive site in Malta and Gozo offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Santa Marija Reef sits off the eastern coast of Comino island in the channel between Malta and Gozo, where a gently sloping limestone reef descends to around 20 meters through posidonia seagrass meadows and scattered hard coral formations. The crystalline water of this channel regularly offers visibility of 20-30 meters, and the reef supports good populations of sea bream, wrasse, damselfish, and the occasional sea turtle. Its relatively sheltered position and moderate depth make it a reliable and accessible dive throughout the summer season.
 
 ## Site Information
 

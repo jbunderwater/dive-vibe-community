@@ -17,7 +17,7 @@ Ta' Ċenċ Dive Site is a reef dive site in Malta and Gozo, Europe.
 
 ## Overview
 
-Ta' Ċenċ Dive Site is a dive site in Malta and Gozo offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Ta' Ċenċ sits below Gozo's famous clifftop plateau on the island's southern coast, where a sloping rocky reef descends through posidonia seagrass beds and scattered boulders to around 20 meters. The site is characterised by colourful sea fans, sponges, and encrusting organisms along the reef walls, alongside moray eels, octopus, and dense schools of sea bream that congregate in the gullies. Boat access is required, and the typically clear Mediterranean water means this site is an attractive option for macro photography as well as wide-angle reef shots.
 
 ## Site Information
 

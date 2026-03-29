@@ -17,7 +17,7 @@ Sardine Run Reef is a reef dive site in South Africa, Africa.
 
 ## Overview
 
-Sardine Run Reef is a dive site in South Africa offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Sardine Run Reef lies off the Wild Coast near Port St Johns, the epicentre of South Africa's annual sardine run — one of the ocean's greatest wildlife spectacles occurring each June and July. Billions of sardines migrate northward in dense baitballs at 10–18 meters depth, pursued simultaneously by bronze whaler sharks, common dolphins, Cape gannets dive-bombing from above, and Bryde's whales lunging through the schools from below. Diving here during the run requires advanced open-water skills to handle surge and the sheer chaos of the feeding frenzy, but the experience is unmatched anywhere in the diving world.
 
 ## Site Information
 

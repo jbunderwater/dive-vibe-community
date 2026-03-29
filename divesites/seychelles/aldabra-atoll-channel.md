@@ -17,7 +17,7 @@ Aldabra Atoll Channel is a drift dive site in Seychelles, Africa.
 
 ## Overview
 
-Aldabra Atoll Channel is a dive site in Seychelles offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Aldabra Atoll Channel is a tidal drift dive through one of the passages linking the open Indian Ocean to the lagoon of Aldabra, a UNESCO World Heritage Site and one of the world's largest raised coral atolls. Enormous schools of fish stack up in the current — bumphead parrotfish, Napoleon wrasse, and giant trevally — while manta rays and reef sharks use the channel as a cleaning and feeding station. The sheer remoteness of Aldabra, accessible only by liveaboard expedition, means the marine ecosystem here is among the least disturbed in the entire Indian Ocean.
 
 ## Site Information
 

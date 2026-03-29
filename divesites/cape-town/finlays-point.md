@@ -17,7 +17,7 @@ Finlay's Point is a reef dive site in Cape Town, Africa.
 
 ## Overview
 
-Finlay's Point is a dive site in Cape Town offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Finlay's Point is a popular shore entry dive near Simon's Town on the False Bay side of the Cape Peninsula, where a shallow rocky reef descends gradually to around 15 meters through dense kelp forest. The site is well known for sightings of pyjama catsharks, large seven-gill cow sharks, and the colourful nudibranch fauna typical of Cape cold-water reefs. Its sheltered position relative to open Atlantic sites makes it diveable on more days of the year and a reliable option when the western seaboard is too rough.
 
 ## Site Information
 
