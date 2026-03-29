@@ -17,7 +17,7 @@ Pintu Kota is a reef dive site in Ambon, Asia.
 
 ## Overview
 
-Pintu Kota is a dive site in Ambon offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Pintu Kota, meaning "City Gate," is one of Ambon's most iconic dive sites, featuring a spectacular natural underwater archway at 15-17 meters depth that is draped in soft corals, sea fans, and gorgonians. The arch creates a dramatic swim-through with sunlight filtering into the chamber, and the surrounding slope attracts schools of snappers, jacks, fusiliers, and barracuda, along with nudibranchs and small critters tucked into the coral. Located on Ambon's south coast about an hour from Ambon Bay, this site is often paired with nearby Hukurila Cave for a full day of south coast diving, with visibility typically ranging from 15-20 meters.
 
 ## Site Information
 

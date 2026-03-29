@@ -17,7 +17,7 @@ De Palm Slope is a reef dive site in Aruba, Caribbean.
 
 ## Overview
 
-De Palm Slope is a dive site in Aruba offering rewarding diving on healthy coral reef structures . Palm Island barrier reef, Cessna 414 wreck included, 10 min boat from Aruba, visibility 20m. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+De Palm Slope is located off Palm Island, a small barrier island off Aruba's coast, and features a colorful sloping reef alongside the wreck of a Cessna 414 aircraft. The reef is home to moray eels, foraging parrotfish, and the occasional sleeping nurse shark tucked into the coral. Accessible by a 10-minute boat ride from the mainland, the site offers around 20 meters of visibility in warm turquoise Caribbean water, with water temperatures averaging 26-29°C.
 
 ## Site Information
 

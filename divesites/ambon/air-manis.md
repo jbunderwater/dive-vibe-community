@@ -17,7 +17,7 @@ Air Manis is a muck dive site in Ambon, Asia.
 
 ## Overview
 
-Air Manis is a dive site in Ambon offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Air Manis is one of Ambon Bay's top muck diving sites, located near a fishing pier less than 100 meters west of the Maluku Divers resort. The pier pilings and surrounding black sand slopes are packed with macro life, including flamboyant cuttlefish, giant frogfish, ghost pipefish, crinoid clingfish, and crinoid crabs, while massive schools of batfish and other fish circle beneath the pier structure. This shore-entry site is a favorite among underwater photographers and is often compared favorably to Lembeh Strait for the density and variety of critters found on every dive.
 
 ## Site Information
 
