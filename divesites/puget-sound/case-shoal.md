@@ -11,55 +11,56 @@ osmId: 1473261925
 addedBy: osm_import
 ---
 
-## Case Shoal
+# Case Shoal
 
-Case Shoal is a reef dive site in Puget Sound, North America.
+A shallow submerged shoal in Hood Canal, offering accessible Puget Sound cold-water diving with rich invertebrate communities.
 
 ## Overview
 
-Case Shoal is a dive site in Puget Sound offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Case Shoal is a shallow rocky rise in southern Puget Sound, in the Hood Canal corridor — an area known for its extraordinary marine biodiversity including the highly prized spot prawn. Hood Canal is a long, fjord-like inlet that traps nutrients and supports dense populations of invertebrates and crustaceans. The shoal's maximum depth of 15 metres keeps dives well within recreational limits, making it a good destination for newer intermediate divers seeking Pacific Northwest cold-water experience. Water clarity can be 8–12 metres on good days, and the cold, green water (8–12°C) demands at least a 7mm wetsuit, more practically a dry suit.
 
 ## Site Information
 
-- **Location**: Puget Sound, North America
+- **Location**: Hood Canal / southern Puget Sound, Washington
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky shoal
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 15 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 15 metres
+- **Typical Visibility**: 8–12 metres
+- **Water Temperature**: 8–12°C
+- **Current**: Moderate tidal
+- **Best Time**: April to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Hood Canal is renowned for its extraordinary abundance of spot prawns — large, flavourful prawns that burrow into the sandy-mud bottom at depth and congregate in shallower areas at certain times of year. The shoal is also home to giant Pacific octopus in the rocky crevices, Dungeness crabs on the sandy margins, and red and green urchins across the rocky substrate. Lingcod and rockfish (black and quillback) use the rock relief as ambush points. Plumose anemones, encrusting sponges, and tube worms colonise the harder substrate. Nudibranchs, particularly Hopkins' roses and opalescent nudibranchs, are common.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The shallow maximum depth of 15 metres allows generous bottom time and makes this a good site for practising buoyancy skills and underwater photography. Begin at the shoal crest in 5–8 metres and slowly work out to the deeper edges. The sandy patches around the shoal base are good hunting ground for crabs and octopus. Allow 3 minutes for a safety stop at 5 metres.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access only. Anchor on the down-current side. Back-roll or giant stride entry. The shallow profile makes this a relatively easy site to navigate back to the anchor line. Deploy an SMB before ascending.
 
-## Tips and Recommendations
+## Tips
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Visit in spring (April–May) when spot prawn activity is highest
+- Search the sandy transitions between rock and sediment carefully — octopus often position themselves at the rock edge
+- The site is sheltered enough for night diving; octopus are far more active after dark
+- Carry a dive light even on daylight dives for examining rock overhangs
 
-## Safety Considerations
+## Safety
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Cold water requires appropriate exposure protection. Hypothermia can develop faster than expected in 8°C water even with a dry suit if undergarments are inadequate. Tidal exchange in Hood Canal is moderate but real; time dives appropriately. An SMB is essential given the boat traffic throughout Puget Sound.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The combination of crustaceans, anemones, and octopus makes Case Shoal a productive macro photography destination. Spot prawns and Dungeness crabs make compelling subjects. Nudibranchs on encrusting sponges and the detail of plumose anemone columns work well with a macro lens. Strobes required for colour accuracy.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

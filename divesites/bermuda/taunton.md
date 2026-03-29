@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## Taunton
 
-Taunton is a historic wreck dive in Bermuda, Atlantic.
+A 228-foot Danish coal carrier wrecked in 1920 with its engine and boilers standing upright in just 6 meters of water, making it one of Bermuda's best combined dive and snorkel sites.
 
 ## Overview
 
-Taunton is a dive site in Bermuda featuring the wreck of the Taunton. Located in the Atlantic region, this site offers 15-30 meters of visibility with water temperatures averaging 20-28°C.
+The Taunton was a 228-foot Danish cargo steamer built in 1902, en route from Norfolk, Virginia to St. George's carrying coal when she wrecked on Bermuda's northeastern reef in November 1920. She now lies broken up on the reef in about 6 meters of water, but her engine and steam boilers remain standing nearly upright, reaching toward the surface in a manner that makes them visible as shadows from above on a calm day. The Taunton is frequently described as one of Bermuda's most photogenic shallow wrecks, with the upright machinery creating dramatic visual compositions against the sandy reef bottom. Its very shallow depth makes it equally accessible to divers and snorkelers, and conditions at this protected northeastern site are often calm enough for both.
 
 ## Site Information
 
-- **Location**: Bermuda, Atlantic
+- **Location**: Northeastern reef, near St. George's, Bermuda
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 6 meters
-- **Typical Visibility**: 15-30 meters (50-100 feet)
-- **Current**: Light to moderate
-- **Best Time**: May to October
+- **Maximum Depth**: 6 meters (20 feet)
+- **Typical Visibility**: 15–25 meters (50–82 feet)
+- **Current**: Light
+- **Water Temperature**: 18–28°C (64–82°F)
+- **Best Time**: May–October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, barracuda, coral encrustation, sea turtles, reef sharks, groupers, snappers. Additional species commonly sighted include parrotfish, angelfish. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Taunton's upright machinery and scattered hull plates support an active fish community typical of shallow Bermuda reef wrecks. Schools of sergeant majors nest on horizontal metal surfaces in summer. Snapper and grunt shelter around the boiler structures. Parrotfish and wrasse move through the broader reef area. Resident spiny lobster occupy crevices in the scattered hull remains. The clean, shallow water with good light penetration creates a productive photosynthetic zone for coral growth on the exposed metal surfaces.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 6 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The site is compact and the upright engine and boilers provide immediate landmarks from the moment of descent. Work around the machinery before exploring the scattered hull remains. The 6-meter depth allows indefinite bottom time, making this an excellent extended exploration site for newer divers. The entire site can be snorkeled from the surface on calm days.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Bermuda operators, particularly those based near St. George's on the East End. Giant stride or back roll entry. The near-surface machinery provides visual reference throughout the dive. An SMB is still recommended for boat pickup at this offshore location.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
+- The upright engine and boilers are the primary photographic subjects — approach them from below for dramatic upward-looking compositions
+- A glass-bottom boat or snorkel tour over this site is worthwhile if diving conditions are marginal
+- Summer brings sergeant major spawning activity on horizontal wreck surfaces — a fascinating behavior to observe
+- This is an excellent orientation dive for wreck diving beginners
+- The northeastern location near St. George's tends to be well-sheltered from southwest swell
 
 ## Safety Considerations
 
-Be aware of boat traffic, currents, occasional swells in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+At 6 meters, this is one of Bermuda's most benign wrecks from a depth perspective. The primary concerns are surface boat traffic at the offshore location and occasional current from tidal activity on the northeastern reef. Always carry an SMB and use it to signal the surface before ascending. Stay with the guide or group in this offshore environment.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The Taunton's upright engine and boilers in shallow, clear water are exceptional photography subjects. Upward-looking wide-angle compositions with the machinery silhouetted against the bright surface are iconic. Natural light photography is outstanding at 6 meters. The coral and sponge encrustation on the boiler surfaces creates rich macro opportunities. Snorkelers with waterproof cameras can photograph the machinery from above.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*

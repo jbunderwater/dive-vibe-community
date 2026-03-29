@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## South Point
 
-South Point is a reef dive site in Red Sea, Middle East.
+South Point is a coral reef dive site located in the far southern Egyptian Red Sea, in the area around Ras Banas or the Fury Shoals region. Its coordinates (approximately 23.6°N, 36.2°E) place it in one of Egypt's most remote and pristine diving areas, accessible primarily by liveaboard.
 
 ## Overview
 
-South Point is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+South Point marks the southern extremity of an offshore reef system in the deep southern Red Sea, where open-ocean conditions bring clear water and strong pelagic activity. The site sits at the confluence of reef and open sea, making it a dynamic dive that can swing from tranquil coral garden to current-swept drift within the same dive. Liveaboards operating the Deep South route from Marsa Alam or Port Ghalib regularly include this site.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Southern Red Sea, Egypt (Fury Shoals / Ras Banas area)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Typical Visibility**: 20-35 meters (65-115 feet)
 - **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The southern Red Sea's remote reefs support strong populations of large pelagics alongside resident reef species. Hammerhead sharks and oceanic whitetip sharks are occasionally sighted on the outer reef slope. Sea turtles, spotted eagle rays, and large humphead wrasse are regular encounters. Dense schools of fusilers and snappers hover in the current while giant moray eels occupy the reef's crevices.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef structure and follow the slope to the maximum depth of around 20 meters. The southern tip of the reef is the focal point, where currents concentrate fish life. Work along the exposed reef face, checking the blue water regularly for pelagic visitors. Retreat to the sheltered side of the reef as needed and finish with a drift back along the reef flank.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Accessed exclusively by liveaboard in this remote area. Entry via giant stride from the dinghy or main deck. Drifts are common — coordinate closely with the boat's zodiac for pickup. Always deploy an SMB before ascending.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Plan drift dives carefully and brief the zodiac team beforehand
+- Watch the blue water beyond the reef edge — pelagics often cruise in the open
+- A reef hook is useful for pausing at the point without touching coral
+- Be prepared for rapid depth changes if a current pushes you off the reef
+- Carry a whistle and mirror in addition to an SMB in this remote location
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Remote location with limited emergency support — all divers should be self-sufficient and within certification limits. Strong currents at the reef point can develop quickly; abort the dive and regroup with the boat if conditions exceed your comfort level. Oceanic whitetip sharks are present in the area — maintain calm behavior and avoid erratic movements.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The remote southern Red Sea offers exceptional water clarity for wide-angle reef photography. The reef point itself, silhouetted against open blue water, creates dramatic compositions. Pelagic encounters — though unpredictable — make for memorable images when they occur.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

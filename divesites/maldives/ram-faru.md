@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Ram Faru
 
-Ram Faru is a reef dive site in Maldives, Asia.
+Ram Faru is an outer reef (faru) site in South Malé Atoll, a section of the atoll's main reef wall where consistent currents maintain healthy coral cover and attract the grey reef sharks and pelagics that characterise the exposed outer reef environment.
 
 ## Overview
 
-Ram Faru is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Ram Faru sits on the outer rim of South Malé Atoll where the reef face drops from the surface to around 25 metres in a sequence of coral terraces and overhangs. The wall structure creates a diverse range of micro-habitats: the upper terraces are dominated by hard coral gardens, the mid-section features overhangs draped with sea fans and soft corals, and the base meets a sandy slope populated by garden eels and the occasional resting shark. Grey reef sharks and white-tip sharks patrol the outer wall when current is running, while the terrace overhangs shelter large sweetlips, grouper, and glass-fish clouds that scatter explosively when disturbed. The site represents South Malé Atoll outer reef diving at its accessible best.
 
 ## Site Information
 
@@ -26,41 +26,23 @@ Ram Faru is a dive site in Maldives offering rewarding diving on healthy coral r
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Current**: Moderate, can strengthen on tidal flow
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Grey reef sharks, white-tip reef sharks, sweetlips, grouper, sea fans, garden eels, glass fish, eagle rays, moray eels, parrotfish, and surgeonfish.
 
-## Dive Profile
+## Diving Tips
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- Follow the wall from the shallower terraces down to the base for a natural multi-level profile.
+- Check the sandy base carefully for resting sharks and stingrays before ascending.
+- The overhangs at 15–20 metres are the best zones for shelter fish (sweetlips, glassfish) and close coral photography.
+- Moderate current on the incoming tide keeps the water clear and makes this the optimal time to dive.
 
-## Entry and Exit
+## Getting There
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Ram Faru is in South Malé Atoll, accessible by boat from local resorts or from Malé, approximately 30–60 minutes by dhoni or speedboat.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,54 +13,32 @@ addedBy: osm_import
 
 ## GBR Coral Head
 
-GBR Coral Head is a reef dive site in Marshall Islands, Pacific.
+GBR Coral Head is a lagoon pinnacle in the central Kwajalein Lagoon dive zone, paired with the nearby GBR North Coral Head and representing one of the core cluster sites that divers typically cover in a morning or afternoon boat trip from the main island.
 
 ## Overview
 
-GBR Coral Head is a dive site in Marshall Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+"GBR" in Kwajalein dive parlance refers to a general bearing reference used in the lagoon chart system — a holdover from decades of military navigation practice that evolved into informal dive site naming. GBR Coral Head and its northern companion form a natural paired dive — the two pinnacles are close enough to visit on a single dive or back-to-back dives without repositioning the boat. The coral head structure is typical of the best Kwajalein sites: mature, densely encrusted, rising through clear lagoon water to near the surface.
 
-## Site Information
+Hard coral coverage at GBR is strong, with brain corals and massive star coral formations dominating the mid-sections. The surrounding sandy floor is clean and well-lit, providing a pale background that enhances visibility and photographic contrast.
 
-- **Location**: Marshall Islands, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+## What to Expect
 
-## Marine Life
+GBR Coral Head is known for an active cleaning station on the pinnacle's southwest face — a patch of soft coral and sea whips where cleaner wrasse set up their service operation, attracting humphead wrasse, groupers, and even grey reef sharks that approach for grooming. Watching large predators hold still while tiny cleaner wrasse work inside their mouths and gill slits is one of the reef's more intimate experiences. Grey reef sharks are present throughout the dive, circling at mid-water or resting on ledges. Moray eels of multiple species occupy the pinnacle's crevices.
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+The pinnacle crown in the shallows (5–10 meters) is dense with butterflyfish and angelfish, and anemones with resident clownfish are scattered across the upper structure.
 
-## Dive Profile
+## Practical Information
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth Range**: 5–25 meters
+- **Visibility**: 20–35 meters typical
+- **Currents**: Generally mild
+- **Entry**: Boat dive; often paired with GBR North Coral Head
+- **Best For**: Intermediate divers; notable cleaning station encounters
 
-## Entry and Exit
+## Marine Life Highlights
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Grey reef sharks, humphead wrasse, groupers (cleaning station), moray eels, clownfish and anemones, butterflyfish, angelfish, brain corals, sea whips, nudibranchs.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

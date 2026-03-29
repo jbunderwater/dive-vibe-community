@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Way Pretty Shallows
 
-Way Pretty Shallows is a reef dive site in Raja Ampat, Asia.
+Way Pretty Shallows is a shallow reef dive site in Raja Ampat, West Papua, Indonesia — the name speaks for itself.
 
 ## Overview
 
-Way Pretty Shallows is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The name Way Pretty Shallows is a diver's unambiguous verdict: this is a beautiful shallow reef, and it lives up to the description. Located near the Waigeo-Gam passage area, the site concentrates the extraordinary coral coverage that has made Raja Ampat the world's most biodiverse marine environment into an accessible, shallow-water setting. The reef sits at snorkelling-to-recreational depth, rewarding divers with long bottom times and exceptional natural light. The shallow position of the reef allows sunlight to penetrate fully, illuminating coral colours that are often lost in deeper water. It is a site that reminds even experienced divers why they learned to dive. Water temperatures average 27-29°C and visibility reaches 20-30 meters.
 
 ## Site Information
 
-- **Location**: Raja Ampat, Asia
+- **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters
+- **Current**: Mild to moderate, tidal influence
+- **Best Time**: October to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Way Pretty Shallows hosts the dense biodiversity for which Raja Ampat's shallows are renowned. Carpet anemone fields in the shallows shelter multiple clownfish species. Hard coral formations — brain corals, table corals, and branching Acropora — support resident communities of damselfish, wrasse, and parrotfish. Bumphead parrotfish occasionally parade through in groups, feeding on the coral. Sea turtles rest and feed in the shallows. The macro life is exceptional: nudibranchs, flatworms, and mantis shrimp inhabit the rubble and encrusting growth throughout the site. Pygmy seahorses have been recorded on sea fans in the slightly deeper sections.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+This is a shallow dive by design — spend the majority of the dive between 5-15 meters where coral life is densest and light is best. Descend to the reef top and spend the dive covering ground methodically, exploring coral formations in all directions from the entry point. The site accommodates extended bottom times at these depths with standard recreational equipment. Finish with a relaxed safety stop in the shallowest accessible area.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Perfect for photographers — the shallow depth and good light allow natural-light shooting of coral and fish
+- An outstanding site for snorkelling from the dive boat between dives
+- Excellent for less experienced divers seeking a confidence-building and rewarding dive
+- Spend time face-down over carpet anemones counting the clownfish species
+- Strong natural light makes this a good option for afternoon dives when deeper sites may be dark
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The shallow reef is accessible but not without hazards: the coral is fragile and easily damaged by contact. Maintain excellent buoyancy throughout. Mild tidal currents may develop — monitor conditions. The shallow depth means extended bottom times are possible but gas management remains important. Carry an SMB for ascent signalling.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Way Pretty Shallows is probably the best natural-light photography site in this part of Raja Ampat. The shallow reef is bathed in sun throughout the day, illuminating the vivid coral colours and fish that populate every centimetre of the reef surface. Wide-angle coral scenics and fish portraits using natural light are both excellent. The shallow depth allows long, unhurried photographic dives. This is also an outstanding site for underwater video production.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

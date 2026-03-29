@@ -13,54 +13,29 @@ addedBy: osm_import
 
 ## Emmadi Giri (Manta Point)
 
-Emmadi Giri (Manta Point) is a pinnacle dive site in Maldives, Asia.
+Emmadi Giri, widely known as Manta Point, is a celebrated giri (coral head/pinnacle) in South Male Atoll and one of the Maldives' signature manta ray cleaning stations — a site where reef mantas gather predictably to have parasites removed by resident cleaner wrasse.
 
 ## Overview
 
-Emmadi Giri (Manta Point) is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The giri rises from around 30 meters to its shallowest point at 5-6 meters, and its flat top and surrounding slopes are covered in hard coral and cleaning station anemones. The site earns its "Manta Point" name from its function as a reliable aggregation spot for reef manta rays (Mobula alfredi), which circle the pinnacle in lazy spirals while cleaner wrasse work the gill rakers and skin. On good days, five to twenty mantas may be present simultaneously, creating one of the most memorable wildlife encounters in the Indian Ocean. The best manta activity coincides with the southwest monsoon (May-November), when plankton blooms in South Male Atoll and the mantas concentrate at cleaning stations throughout the atoll. Outside manta season the site still offers excellent reef diving with strong fish life attracted by the pinnacle structure and current.
 
 ## Site Information
 
-- **Location**: Maldives, Asia
+- **Location**: South Male Atoll, Maldives
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 10-30 meters
+- **Current**: Variable; moderate to strong on exposed faces
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Reef manta rays (Mobula alfredi) — reliably present May-November, occasional year-round. Grey reef sharks, eagle rays, Napoleon wrasse, giant trevally, schools of bannerfish, and cleaner wrasse at the cleaning station anemones.
 
-## Dive Profile
+## Tips for Divers
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Keep low on the reef and avoid rising above the mantas, as this disrupts their cleaning behaviour. The standard protocol is to kneel or crouch near the cleaning stations and let the mantas circle overhead — patience is rewarded with remarkably close approaches. Do not chase or touch the mantas. Visit during the southwest monsoon season for the highest manta concentrations. The site is best dived in the morning before afternoon chop builds.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

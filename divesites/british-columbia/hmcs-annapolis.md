@@ -11,100 +11,60 @@ osmId: 8526894453
 addedBy: osm_import
 ---
 
-## HMCS Annapolis
+# HMCS Annapolis
 
-HMCS Annapolis is a 111-meter Canadian naval destroyer deliberately sunk in 2015 to create an artificial reef in Halkett Bay Marine Park off Gambier Island, British Columbia.
+A 111-metre destroyer deliberately sunk in Halkett Bay Marine Park, now one of British Columbia's premier artificial reef dives with engineered penetration routes and a mast rising to 10 metres.
 
 ## Overview
 
-HMCS Annapolis was a St. Laurent-class destroyer that served the Royal Canadian Navy from 1955 onwards. The ship was scuttled on April 4, 2015 by the Artificial Reef Society of British Columbia in one of Canada's most ambitious artificial reef projects. Unlike many HMCS wrecks, the Annapolis was specially prepared for diving with large hull cutaways, safe penetration routes, and walkways making it accessible to divers of various skill levels while maintaining Advanced-level technical requirements due to depth.
+HMCS Annapolis served the Royal Canadian Navy as a St. Laurent-class destroyer from 1964 to 1990. After years of preparation by the Artificial Reef Society of British Columbia, the vessel was scuttled on April 4, 2015 in Halkett Bay on the east side of Gambier Island in Howe Sound. The sinking created a major dive attraction: the 111-metre ship lies upright on a sand and shell bottom at 46 metres, her mast reaching to about 10 metres. Large rectangular cutaways were cut through the hull before sinking, giving divers safe viewing into the engine room and interior spaces without technical penetration training. The helicopter hangar aft of the superstructure is open and accessible at recreational depth.
 
 ## Site Information
 
 - **Location**: Halkett Bay Marine Park, Gambier Island, Howe Sound, British Columbia
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Entry Type**: Boat
+- **Site Type**: Wreck
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 46 meters
-- **Typical Visibility**: 8-15 meters
-- **Current**: Moderate, manageable
-- **Best Time**: June to September
-- **Water Temperature**: 8-12°C (cold water diving required)
+- **Maximum Depth**: 46 metres (keel); 10 metres (mast top)
+- **Typical Visibility**: 6–15 metres; best June through September
+- **Current**: Light to moderate in Halkett Bay
+- **Best Time**: June through September
 
-## Ship Specifications
+## Wreck Layout
 
-- **Type**: St. Laurent-class destroyer
-- **Length**: 111 meters
-- **Tonnage**: 2,800 tons
-- **Built**: 1955
-- **Service**: Royal Canadian Navy (1955-1974), Canadian Coast Guard vessel
-
-## Wreck Characteristics
-
-The Annapolis rests upright on the seabed in Halkett Bay. Unlike many accessible wrecks, this vessel was deliberately prepared for recreational diving:
-- Large hull cutaways engineered for safe interior viewing without specialized wreck training
-- Covered walkways on both sides
-- Open helicopter hangar accessible to recreational divers
-- Strategically-cut openings prevent entanglement hazards
-- Shallow highest point (10.5m) allows decompression and profile flexibility
+The Annapolis rests upright with a slight starboard list. The bow faces roughly northeast. Main deck is at 30–32 metres, superstructure bridge at approximately 22 metres. The helicopter hangar at the stern is a popular feature accessible around 28–32 metres. Large hull cutaways on both sides of the engine room allow divers to look inside without penetration. The mast and forward gun mount provide dramatic wide-angle photo subjects rising toward the surface.
 
 ## Marine Life
 
-The wreck has become a thriving marine habitat:
-- Wolf eels
-- Giant Pacific octopus
-- Lingcod and various rockfish species
-- Sea urchins and anemones
-- Nudibranchs in seasonal abundance
-- Occasional seals and sea lions
+Marine colonisation has been rapid since the 2015 sinking. Plumose anemones and encrusting bryozoans now coat much of the superstructure. Giant Pacific octopus have established dens inside the hull openings. Wolf eels patrol the cutaway sections. Quillback and copper rockfish congregate around the gun mount and mast wires. Lingcod occupy the deeper sections of the keel. Harbour seals regularly visit the wreck, particularly in the mornings.
 
 ## Dive Profile
 
-- Descent via shot line to wreck (2-4 minutes)
-- Exterior exploration at 35-46m (15-20 minute bottom time typical)
-- Optional interior exploration through cutaway sections (with experienced guide)
-- Helicopter hangar exploration (recreational depth)
-- Ascent to 5m for extended safety stop (5+ minutes recommended)
-- Decompress at safety stop due to depth
+Descend the shot line to the bow section. Work aft along the port or starboard rail, dropping to the main deck to explore the cutaway engine room openings. Continue to the helicopter hangar at the stern before ascending the superstructure to the bridge and mast. Final safety stop on the mast at 5–10 metres. Most divers plan two dives to see the full length of the ship; single-dive bottom time at 30–40 metres is typically 20–25 minutes.
 
-## Penetration Diving
+## Entry and Exit
 
-Interior exploration of the Annapolis is possible for divers with:
-- Advanced Wreck Diver certification minimum
-- Experience with technical equipment
-- Understanding of penetration protocols
-- Guided entry strongly recommended first visit
+Boat access from Horseshoe Bay or Gibsons Landing. Most operators run scheduled wreck trips to the Annapolis from Howe Sound. Anchor or use the mooring buoys in Halkett Bay. Descend the shot line; ascend with an SMB if you drift off the line on the way up.
 
 ## Tips and Recommendations
 
-- Book with experienced local dive operators (Armstrong Diving, others)
-- Plan multi-level dive profile to manage air consumption
-- Bring high-capacity tank and/or stage bottles if planning penetration
-- Use dive torch for interior exploration and macro photography
-- Maintain excellent buoyancy to avoid silt stirring
-- The cutaway sections allow safe viewing without full penetration training
-- Cold water demands proper thermal protection and gradual adaptation
+- Carry a torch — the interior spaces and cutaway viewing are much richer with illumination
+- Plan a two-dive day; the full ship cannot be thoroughly explored in one dive
+- Nitrox is worth considering to extend bottom time at 30–40 metres
+- The mast section makes excellent wide-angle photography at the safety stop depth
+- Morning light creates visible beams through the water at the mast level
 
 ## Safety Considerations
 
-This is an Advanced wreck requiring:
-- Advanced Open Water minimum
-- Wreck Diver specialty strongly recommended
-- Cold water diving experience (8-12°C)
-- Maximum depth experience to 46m
-- Strong buoyancy control skills
-- Excellent air management for 30+ minute dives
-- Technical gear considerations for deep bottom time
-- Always dive with a buddy and use proper signaling devices
-- Surface marker buoy essential for boat communication
+Maximum depth of 46 metres places this dive in Advanced territory — Advanced Open Water minimum is required. Narcosis can affect divers at depth; stay shallower on the first dive if unfamiliar with the site. The cutaway sections are for viewing, not penetration — only trained wreck divers with lights and guideline equipment should enter enclosed sections. Cold water (8–11°C) demands a well-maintained drysuit. Carry an SMB for the ascent; Howe Sound ferry and pleasure traffic is active.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The mast rising through the water column creates dramatic wide-angle compositions. Shoot toward the surface for silhouette shots with the hull backlit in blue-green water. The cutaway openings allow interior shots with a single strobe. Macro opportunities are excellent on the encrusted superstructure railings and gun mount detail.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- Last Updated: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

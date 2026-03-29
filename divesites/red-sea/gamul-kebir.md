@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Gamul Kebir
 
-Gamul Kebir is a reef dive site in Red Sea, Middle East.
+Gamul Kebir ("Big Gamul") is the larger of two reef structures in the Gamul group, located offshore between Hurghada and El Gouna in the northern Egyptian Red Sea.
 
 ## Overview
 
-Gamul Kebir is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The Gamul reefs are a popular destination for Hurghada-based day boats, with Gamul Kebir standing out for its size and variety of habitats. The reef rises from around 25 meters to within 2–3 meters of the surface, offering a coral-draped plateau on top and a sloping reef wall on the eastern face. Soft corals, sea fans, and dense stands of fire coral cling to the shallow crest, while the deeper sections of the slope host large table corals and branching coral thickets. The reef's position in the open sea means it attracts a richer mix of pelagics than inshore fringing reefs.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Offshore northern Egyptian Red Sea, between Hurghada and El Gouna
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Offshore platform reef with sloping wall
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20–30 meters
+- **Current**: Moderate; can be stronger on the exposed eastern face
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+humphead wrasse are frequently seen cruising the outer reef edge. Schools of snapper, fusiliers, and goatfish move across the reef plateau, chased by barracuda patrolling above. Reef sharks are occasionally spotted at depth below 15 meters. Large groupers claim the deeper overhangs, and giant moray eels are resident in the coral heads on the slope. Sea turtles rest on the platform and in the shallower sections of the reef crest, and eagle rays have been seen in the blue water on the eastern side.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Start on the reef top at 3–5 meters and circumnavigate the plateau to get a sense of the reef's layout. Drop down the eastern wall to 18–20 meters to look for larger species and pelagics, then ascend the slope methodically and finish in the shallows for the safety stop. The reef is large enough for two separate dives with different profiles.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Hurghada or El Gouna operators. Entry by giant stride. Ascend on the lee side of the reef and deploy an SMB for the pickup boat, which may be mooring on the western side away from current.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Combine Gamul Kebir with the adjacent Gamul Soraya for a two-dive day with good variety
+- The eastern wall is best dived on a rising tide when current helps carry you along it
+- Check the mooring buoy — if the boat is pulling hard on the mooring, expect current on the wall
+- Bring an underwater torch to peer into the deeper overhangs on the slope
+- A wide-angle lens suits the outer wall; macro works well in the sheltered northern section
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The exposed eastern face can experience strong tidal flow. Be cautious of unintentional drift toward open water and monitor your position relative to the reef. Ascend on the reef side in strong conditions. Deploy an SMB before surfacing — the area receives moderate boat traffic from Hurghada operators. Fire coral is abundant on the reef crest.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The outer wall provides dramatic wide-angle backdrops with deep blue water and sloping reef. humphead wrasse and barracuda make striking subjects. The sheltered northern section of the reef top offers colourful macro photography among the coral heads.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

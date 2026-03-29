@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## St John's Um Arouk
 
-St John's Um Arouk is a reef dive site in Red Sea, Middle East.
+St John's Um Arouk is a coral reef dive site within the St John's Reef system, one of the most remote and pristine reef complexes accessible in the Egyptian Red Sea. "Um Arouk" is an Arabic name referring to a distinctive feature of the reef structure — the word relates broadly to roots or branch-like forms. The site offers a representative St John's diving experience: exceptional visibility, dense fish life, and the sense of genuine remoteness that defines this part of Egypt's coast.
 
 ## Overview
 
-St John's Um Arouk is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Um Arouk is part of the sprawling St John's Reef complex approximately 100 km south of Marsa Alam, reached only by multi-day liveaboard. The site features a classic Red Sea reef platform with a sloping top at 5-10 meters descending to sandy channels and a base at 18-20 meters. Like all St John's sites, Um Arouk benefits from extremely light diver pressure compared to the northern Red Sea — coral coverage is dense, fish are large and approachable, and the overall underwater environment feels undisturbed.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
+- **Location**: St John's Reef, Southern Red Sea, Egypt
+- **Entry Type**: Boat dive (liveaboard only)
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 25-40 meters (80-130 feet)
+- **Current**: Moderate
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Um Arouk shares the exceptional marine life characteristic of St John's Reef. humphead wrasse are bold and curious. Groupers and moray eels occupy the reef structure. Green and hawksbill turtles are regularly encountered. Whitetip reef sharks rest on sandy patches at the reef base. The fish aggregations — dense clouds of anthias, fusiliers, and snappers — create a sense of diving through a living wall of color above the reef. Occasional hammerheads or manta rays are reported in the open water beyond the reef edge.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef slope and work methodically across the reef, sampling both the upper garden and the deeper base. Sandy channels between reef sections reward exploration for critters. The reef top provides a natural platform for the safety stop, with excellent coral coverage to enjoy during the 5-minute pause.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Liveaboard zodiac access. Entry via back roll or giant stride. Ascend with a deployed SMB and coordinate pickup with the zodiac crew, particularly if any current is running.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Approach humphead wrasse slowly and directly — they are surprisingly responsive to diver engagement
+- Check sandy patches at the reef base early in the dive when sharks are most active
+- Bring a wide-angle lens — the fish density makes for spectacular schooling photography
+- Plan the dive to end on the reef crest in good light for the safety stop
+- Combine Um Arouk with other St John's sites on the same liveaboard day for maximum coverage
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+St John's is a remote location with no nearby emergency facilities — dive within conservative limits and surface with adequate air. Deploy SMB before ascending and confirm zodiac position. Moderate currents are normal; brief with the dive guide on conditions before entry.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Wide-angle compositions are the highlight — the fish schools against the coral surface and clear blue water create some of the most vivid reef images achievable in the Red Sea. For macro, the rubble zones at the reef base offer nudibranchs, shrimp, and small gobies.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

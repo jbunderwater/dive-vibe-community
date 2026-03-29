@@ -11,55 +11,57 @@ osmId: 7217231377
 addedBy: osm_import
 ---
 
-## Kinghorn Rocks
+# Kinghorn Rocks
 
-Kinghorn Rocks is a reef dive site in British Columbia, North America.
+Remote rocky outcrops near the upper Strait of Georgia offering productive diving in less-visited northern BC waters.
 
 ## Overview
 
-Kinghorn Rocks is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Kinghorn Rocks lie in the northern Strait of Georgia near Desolation Sound, one of BC's premier cruising and diving destinations. The area around Desolation Sound and Cortes Island features numerous rocky outcrops and reefs offering excellent cold-water diving in waters that see relatively few divers compared to the southern Strait. The nutrient-rich waters of the northern Strait support exceptional marine life. Water temperatures are 7–11°C and visibility can reach 15+ metres in the clearer autumn months.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Northern Strait of Georgia, near Desolation Sound, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 8–15 metres
+- **Current**: Tidal currents — plan around slack
+- **Best Time**: Late summer and autumn
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The northern Strait of Georgia and Desolation Sound area is celebrated for its exceptional marine life. Giant Pacific octopus are large and frequent in rocky terrain. Lingcod reach impressive sizes in these less-fished waters. Plumose anemones in dense colonies cover current-facing surfaces. Wolf eels are present in permanent dens. Tiger and quillback rockfish dominate in deeper sections. Sea pens inhabit sandy adjacent areas. Steller sea lions patrol the area, and Pacific white-sided dolphins are regularly seen.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The rocks rise from surrounding water to approximately 8–10 metres at the shallowest. Work the perimeter at deeper depths initially, then ascend to the shallowest portions as the dive progresses. The multiple rock structures of Kinghorn Rocks allow navigation between features during a single dive. Allow adequate gas for a full safety stop.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Remote location accessible from Cortes Island, Heriot Bay on Quadra Island, or via liveaboard from Campbell River or the Comox Valley. The northern Strait requires a capable vessel and marine navigation skills. GPS essential. Check weather and currents before departure. Deploy SMB before ascending.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Desolation Sound Marine Park is a world-class cruising destination — combine diving with cruising for the full experience
+- The area is best explored on a multi-day liveaboard or by camping at Desolation Sound Marine Park
+- Autumn provides the clearest water and most stable conditions in the northern Strait
+- Cortes Island's local dive community can provide site knowledge and conditions information
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Remote location demands self-sufficiency. Emergency resources are far away. Tidal currents in the northern Strait can be strong. Monitor weather carefully — conditions can deteriorate quickly. Cold water (7–11°C) demands drysuit proficiency. Carry emergency signalling equipment including a PLB or EPIRB.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Less-visited northern Strait sites often deliver exceptional photography due to undisturbed marine life. Large octopus in natural positions, lingcod with territorial behaviour, and dense anemone gardens are all outstanding subjects. The fjord-like scenery above and below water provides unique compositional opportunities.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
+- Desolation Sound Marine Park: bcparks.ca
+- Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

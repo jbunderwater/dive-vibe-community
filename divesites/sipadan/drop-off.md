@@ -11,57 +11,47 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Drop Off
+# Drop Off
 
-Drop Off is a wall dive site in Sipadan, Asia.
+The original Sipadan dive site where Jacques Cousteau's team first explored the island's legendary vertical wall, now famous for swirling bigeye jack formations and morning bumphead parrotfish parades
 
 ## Overview
-
-Drop Off is a dive site in Sipadan featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Drop Off is where Sipadan's diving legend began. Located directly below the old resort jetty on the island's eastern side, this was the site explored by Jacques Cousteau's team when they brought Sipadan to the world's attention. The wall starts at just 3 metres and drops vertically beyond recreational diving limits into the abyss of the Celebes Sea. It remains one of the most reliable sites on the island for large marine life encounters, particularly the massive schools of bigeye jacks that form hypnotic swirling vortex formations in the blue water just off the wall. Early morning dives bring schools of 50 or more bumphead parrotfish crunching their way along the reef crest.
 
 ## Site Information
-
-- **Location**: Sipadan, Asia
+- **Location**: Sipadan Island, Sabah, Malaysia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-40 metres
+- **Current**: Moderate to strong, variable direction
+- **Best Time**: April to December; early morning for bumphead parrotfish
 
 ## Marine Life
-
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Bigeye jacks are the star attraction, forming dense swirling schools of hundreds to thousands of fish that create mesmerizing vortex patterns off the wall. Bumphead parrotfish — the largest parrotfish species — parade along the reef crest in groups of 50 or more during early morning dives, the crunching of their beak-like jaws audible underwater as they feed on coral. Green and hawksbill turtles are abundant, often resting on ledges in the wall or gliding past divers. Whitetip reef sharks and grey reef sharks patrol the deeper sections. Napoleon wrasse appear regularly. The wall itself is decorated with soft corals, gorgonian fans, and barrel sponges at depth. Leaf scorpionfish and various nudibranch species can be found in the crevices.
 
 ## Dive Profile
-
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+The wall begins almost immediately from the reef flat at approximately 3 metres — one of the shallowest wall starts on the island. Descend along the wall face to 20-30 metres to check for sharks and jacks in the blue water, then work gradually shallower along the wall. The jack formations tend to hover between 15 and 25 metres off the wall edge. Spend the final portion of the dive and safety stop along the reef crest where turtles rest and bumphead parrotfish graze. The vertical wall means depth management is critical — it is easy to drift deeper than planned.
 
 ## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Mabul or Kapalai island resorts, approximately 15 minutes by speedboat. Giant stride entry near the wall edge. Current direction determines whether this is dived as a drift or as a more stationary wall dive. Deploy an SMB for safety stop and boat pickup. The proximity to the island shore means conditions can be slightly more sheltered than the exposed points.
 
 ## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Arrive on the first boat for the best chance of encountering the bumphead parrotfish school — they move along the reef crest in early morning
+- Allow the bigeye jack school to approach you rather than swimming into the formation
+- Sipadan permits are limited to 120 per day — confirm your permit allocation with your resort before travel
+- The shallow wall start makes this an excellent site for longer bottom times at moderate depths
+- Carry a torch to illuminate the rich colours of soft corals and gorgonians growing on the wall face
 
 ## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The sheer vertical wall dropping from 3 metres means there is no gradual slope to control depth — divers must manage buoyancy carefully from the moment they leave the reef flat. Currents can be strong and changeable. An SMB, whistle, and audible signalling device are essential. The wall's proximity to the old resort jetty area does not reduce the seriousness of the dive — depth and current management remain critical. The nearest hyperbaric chamber is in Kota Kinabalu.
 
 ## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+Wide-angle is the primary lens choice. The bigeye jack vortex formations are among the most photogenic subjects at Sipadan — shoot upward with natural light for dramatic silhouettes, or use strobes to bring out the silver and gold colouration. Bumphead parrotfish close-ups on the reef crest make powerful portraits. The vertical wall with soft corals and a diver for scale creates classic wall-dive compositions. Turtles resting on wall ledges are reliable subjects at any time of day.
 
 ## Additional Resources
-
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

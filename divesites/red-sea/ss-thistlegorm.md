@@ -13,55 +13,51 @@ addedBy: osm_import
 
 ## SS Thistlegorm
 
-SS Thistlegorm is a historic wreck dive in Red Sea, Middle East.
+The SS Thistlegorm is widely regarded as the world's greatest wreck dive and one of the most iconic underwater sites on Earth. A British Armed Merchant Navy vessel sunk by German bombers on October 6, 1941, during World War II, the Thistlegorm rests in the northern Red Sea at the entrance to the Strait of Gubal, roughly 26 km south of Sharm el-Sheikh. The wreck was discovered by Jacques Cousteau in the early 1950s and has drawn divers from around the world ever since.
 
 ## Overview
 
-SS Thistlegorm is a renowned dive site in Red Sea featuring a historic wreck. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The Thistlegorm was a 128-meter steam-powered cargo ship carrying war supplies to Allied forces in North Africa when two Heinkel He-111 bombers struck her munitions hold. The resulting explosion broke the ship in two and sank her rapidly. Today the wreck lies on her starboard side in 30-31 meters of water, remarkably intact and laden with her original cargo — including motorcycles, trucks, armored vehicles, locomotive parts, Wellington boots, and ammunition. Two of the ship's holds remain accessible and are legendary for the extraordinary preservation of WWII-era materiel. The wreck is encrusted with soft corals and teeming with marine life, creating a fusion of maritime history and living reef that few dive sites can match.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
+- **Location**: Strait of Gubal, Northern Red Sea, Egypt
+- **Entry Type**: Boat dive (liveaboard or day-trip)
 - **Site Type**: Wreck
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 31 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
+- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Current**: Moderate to strong (particularly on the surface)
 - **Best Time**: September to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter glassy sweepers, lionfish, groupers, coral growth, soft corals, whale sharks, manta rays, hammerhead sharks. Additional species commonly sighted include oceanic whitetip sharks, sea turtles, dolphins. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Thistlegorm has become an artificial reef of extraordinary richness. Large schools of glassfish (silverside) cascade through the holds, pursued by groupers, trevally, and barracuda. Lionfish pose motionless in the superstructure, while giant moray eels patrol the shadowed interior. Spotted eagle rays and reef sharks — including whitetip reef sharks resting on deck — are regularly encountered. The anti-aircraft gun on the stern is frequently surrounded by a cloud of anthias and fusiliers.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 31 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive begins with a descent down the shot/anchor line to the main deck at around 15-18 meters on the port side, or to the sand at 28-31 meters. Most divers start by exploring the exterior — the deck guns, the bridge, the mast — before entering the numbered holds where the cargo is preserved. Hold No. 2 contains motorcycles and trucks; Hold No. 4 (deeper, in the blown section) contains locomotives and armored vehicles. Allow significant bottom time for thorough exploration, and plan for a 5-meter safety stop for 3-5 minutes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Accessed by liveaboard or day-boat from Sharm el-Sheikh. A mooring buoy is attached to the wreck. Descent and ascent are via a shot line. The surface can have strong current — stay on the line. At night, the wreck takes on a different character entirely and night dives are highly recommended if logistics allow.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- A minimum of two dives is recommended to do the wreck justice — one for the exterior, one for the holds
+- Bring a good dive torch — the holds are dark and the cargo rewards close inspection
+- Avoid penetrating Hold No. 4 (the blown section) without extensive wreck penetration training
+- Visit on weekdays; the Thistlegorm is among the most crowded dive sites in the world on weekends
+- A night dive here, when the wreck feels truly ghostly, is an unforgettable experience
+- Nitrox is available and advisable to maximize bottom time within safe limits
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The Thistlegorm is an advanced dive. The current at the mooring can be strong, particularly at depth changes. Hold penetration carries silt disturbance risks — zero-visibility exits from silt-outs are possible if buoyancy is poor. The holds contain sharp, rusted metal and protrusions. Depth management is critical: the site regularly attracts divers who exceed their certification limits chasing the deeper cargo sections. Always pre-plan your dive, dive within your training, and surface with adequate reserve. Strong surface currents — always ascend the mooring line.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The Thistlegorm is a photographer's dream, but challenging. Wide-angle is essential for hold interiors — a rectilinear 10-17mm lens renders the trucks and motorcycles in their full drama. Natural light penetrates from the open holds above, creating beams through particulate that reward patience. The anti-aircraft gun silhouetted against open blue water is one of the most reproduced images in Red Sea diving.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

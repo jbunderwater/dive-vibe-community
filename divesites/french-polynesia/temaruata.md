@@ -13,55 +13,26 @@ addedBy: osm_import
 
 ## Temaruata
 
-Temaruata is a wall dive site in French Polynesia, Pacific.
+Temaruata is a wall dive site on the west coast of Tahiti, French Polynesia. The name is Tahitian, likely referring to a local geographical feature or ancestral place name.
 
 ## Overview
 
-Temaruata is a dive site in French Polynesia featuring a dramatic vertical wall that drops into the deep blue. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The site presents a steep wall dropping from a shallow reef crest at 5–8 metres down to 30 metres, where it transitions to a sandy slope. The wall face is characterised by a mix of large plate corals on the upper sections, wire corals and black corals in the mid-section, and encrusting coralline algae and sponges at depth. Tahiti's leeward-coast sites consistently produce visibility of 25–35 metres, and water temperatures average 27–28°C, dropping a degree or two at the 30-metre mark.
 
-## Site Information
+## What to Expect
 
-- **Location**: French Polynesia, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+Temaruata's wall is known for its healthy coral coverage and the density of reef fish sheltering on its face. Large schools of striped surgeonfish and convict tangs graze the upper reef crest while the wall below hosts resting nurse sharks and white-tip reef sharks wedged into crevices. Hawksbill turtles forage on the sponges and soft corals along the mid-wall. Eagle rays and occasional grey reef sharks patrol the sandy base of the wall. The site receives moderate attention from Papeete-based operators and can be dived year-round, though April–November provides the most reliably calm conditions.
 
-## Marine Life
+## Conditions
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+- **Best season**: April–November
+- **Visibility**: 25–35 m typical
+- **Current**: Mild to moderate
+- **Water temperature**: 26–28°C
+- **Entry**: Boat dive
 
-## Dive Profile
+## Tips
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Plan a multilevel profile, beginning at 28–30 m to examine the deepest wall section before working back up to the reef crest for the safety stop. The site pairs well with nearby St Etienne sites for a two-dive morning from Papeete.
 
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

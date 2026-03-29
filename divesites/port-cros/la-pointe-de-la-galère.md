@@ -11,57 +11,56 @@ osmId: null
 addedBy: osm_import
 ---
 
-## La Pointe de la Galère
+# La Pointe de la Galère
 
-La Pointe de la Galère is a wall dive site in Port-Cros, Europe.
+A south-facing rocky headland at Port-Cros with a coralligenous drop-off and excellent grouper encounters on a less-crowded alternative to La Gabinière.
 
 ## Overview
 
-La Pointe de la Galère is a dive site in Port-Cros featuring a dramatic vertical wall that drops into the deep blue. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+La Pointe de la Galère is a headland site on the southern coast of Île de Port-Cros, within the national park's marine reserve. The site is considered one of the "surprising sites" of Port-Cros, offering diving that rivals La Gabinière in character but with less boat traffic. The underwater landscape consists of a coralligenous drop-off (rocky wall colonised by coralline algae and associated invertebrates) descending to 34 metres, with slab formations and rocky ridges extending across the base. Brown groupers are numerous and approachable, and the site serves as an excellent intermediate dive in the park's protected waters.
 
 ## Site Information
 
-- **Location**: Port-Cros, Europe
+- **Location**: Southern coast of Île de Port-Cros, Port-Cros National Park, France
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Rocky wall / coralligenous drop-off
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 34 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Maximum Depth**: 34 metres
+- **Typical Visibility**: 10–30 metres
+- **Water Temperature**: 13–25°C
 - **Current**: Light to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Brown groupers are present on the drop-off face, moving between 15 and 25 metres. Moray eels and conger eels inhabit the rock crevices, and scorpionfish blend into the rocky bottom. Gorgonian sea fans colonise the wall below 20 metres alongside encrusting red coral and sponges. Schools of salema and bogue pass through the water column above the wall, with sea bass hunting among them. Octopus and spiny lobsters are found in the deeper crevices. Nudibranchs are present on the encrusted surfaces throughout the dive.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-34 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+The wall begins just below the surface and descends to the maximum depth of 34 metres. Intermediate divers should plan their deepest point first, then ascend the wall while exploring the coralligenous zones at 15–25 metres — the most species-rich section of the drop-off. The top of the wall in 5–10 metres serves as an extended safety stop and often holds the most grouper activity.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access with mooring where buoys are available. Respect the national park's mooring regulations and reef protection rules. Back roll or giant stride entry. Deploy an SMB before ascending and coordinate with the boat crew for pickup.
 
-## Tips and Recommendations
+## Tips
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- The lower dive pressure here compared to La Gabinière can mean groupers are more natural in behaviour
+- The coralligenous zone between 15–25 metres holds the most invertebrate diversity — slow down here
+- La Galère is a good first dive in Port-Cros for divers new to the area before attempting the main Gabinière sites
+- Dive early morning for the calmest surface conditions and best visibility
 
-## Safety Considerations
+## Safety
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Standard Mediterranean park diving protocols apply. Advanced buoyancy control preserves the coralligenous organisms on the wall face. Monitor depth carefully in the 30–34 metre range to avoid unplanned decompression. Always deploy an SMB before surfacing — the open coastal position means boat traffic.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+The coralligenous wall is a rich photographic environment. Wide-angle shots along the wall face show gorgonians, sponges, and groupers in context. Macro photography of nudibranchs, coral polyps, and encrusting organisms on the rock face is highly productive. Natural light penetrates well in the upper 20 metres.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

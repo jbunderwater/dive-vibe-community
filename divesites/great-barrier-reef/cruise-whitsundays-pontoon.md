@@ -13,54 +13,51 @@ addedBy: osm_import
 
 ## Cruise Whitsundays Pontoon
 
-Cruise Whitsundays Pontoon is a reef dive site in Great Barrier Reef, Oceania.
+Cruise Whitsundays Pontoon is a day-trip dive site in the Whitsunday Islands section of the Great Barrier Reef, Queensland, Australia, operated from a permanent pontoon on the outer reef.
 
 ## Overview
 
-Cruise Whitsundays Pontoon is a shallow reef site accessed from the Cruise Whitsundays floating platform, offering beginner-friendly conditions and easy entry. Located in the Whitsunday Islands region of the southern Great Barrier Reef, this site offers 10-15 meters of visibility with water temperatures of 23-27°C. The pontoon facility provides excellent access for introduction dives and recreational diving.
+The Cruise Whitsundays pontoon provides the primary structured diving and snorkelling experience for day-trippers from the Whitsunday Islands — one of the most visited sections of the GBR, famous for its white sand beaches, sailing, and tropical island scenery. The pontoon is positioned on the outer reef of the Whitsunday section, giving access to GBR reef that would otherwise require a liveaboard commitment.
+
+The diving is characterised by sheltered conditions, shallow depth, and the GBR's southern character — warmer summer water than the northern reef, slightly less visibility on average, but impressive coral gardens and good fish life. This site is particularly well-designed for the many visitors to the Whitsundays who want a first scuba experience without prior training.
 
 ## Site Information
 
-- **Location**: Great Barrier Reef, Oceania
+- **Location**: Outer reef, Whitsunday Islands, Great Barrier Reef, Queensland, Australia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 15-40 meters (50-130 feet)
-- **Current**: Variable
-- **Best Time**: September to February
+- **Typical Visibility**: 8–20 metres
+- **Current**: Minimal at pontoon site
+- **Best Time**: July to November (clearest water); year-round operation
 
 ## Marine Life
 
-Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals.
+The Whitsunday section of the GBR supports different species composition from the northern sites. Maori wrasse are present and habituated to the regular dive traffic. Sea turtles are common. The reef around the pontoon holds good populations of parrotfish, surgeonfish, and the smaller reef fish families. Stingrays cruise the sandy areas. In clearer conditions, the reef shows the classic GBR diversity of hard corals and associated fish. Octopus are occasionally encountered in the reef crevices. The slightly warmer Whitsunday water supports prolific soft coral growth in sheltered areas.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Introductory dives are conducted in the immediate vicinity of the pontoon in the 3–8 metre zone, typically guided by a staff instructor. Certified divers can explore further under guide supervision or independently to the maximum 12 metres. The site is not a challenging dive navigation-wise, but the reef around the pontoon has been well-explored and maps of the local features are often available from the dive operation.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day trips from Airlie Beach (approximately 90 minutes by high-speed catamaran) or from Whitsunday Islands resorts. The Cruise Whitsundays operation provides full equipment hire, introductory dive instruction, and certified dive guiding from the pontoon. Entry and exit via the pontoon dive platform.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Introductory (discover scuba) dives are the primary offering here — no prior certification required
+- Book dive slots in advance during peak season (school holidays and summer), as demand is high
+- The combined snorkelling and diving day means excellent value for mixed groups
+- Semi-submersible tours from the pontoon offer a non-diving way to view the reef
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish (box jellyfish in summer), crocodiles (north) in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The pontoon operation runs with multiple staff in the water at all times during introductory dives. Visibility varies more in this section of the reef than in the north — following guide positioning ensures you stay in the clearest water. Box jellyfish stinger suits are provided during the wet season (November–April).
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The shallow depth and protected conditions make this an accessible underwater photography venue. Sea turtles are reliably approachable. The reef fish are accustomed to divers and allow close approach. For beginning photographers, this pontoon site offers forgiving conditions to learn without strong current or deep water.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

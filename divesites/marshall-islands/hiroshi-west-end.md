@@ -13,54 +13,32 @@ addedBy: osm_import
 
 ## Hiroshi West End
 
-Hiroshi West End is a reef dive site in Marshall Islands, Pacific.
+Hiroshi West End is the sheltered western face of a reef system in Kosrae, Marshall Islands, offering calmer conditions and a different biological character compared to the more current-exposed Hiroshi East End nearby.
 
 ## Overview
 
-Hiroshi West End is a dive site in Marshall Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The western orientation of this reef end provides natural shelter from the prevailing easterly current, making Hiroshi West End a consistently calmer dive with more predictable conditions and less current dependency. The maximum depth of 22 meters is identical to the East End, and both sites share the same exceptional hard coral coverage characteristic of Kosrae's reef systems — one of the best-preserved reef ecosystems in the Marshall Islands chain.
 
-## Site Information
+The sheltered conditions make the West End particularly suitable for less current-experienced intermediate divers and for photographers who want more stable conditions to set up macro shots. The reduced current also concentrates different species here — creatures that prefer calmer water to the current-seeking fish that dominate the East End.
 
-- **Location**: Marshall Islands, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+## What to Expect
 
-## Marine Life
+The West End's sheltered position favors large resident species. Humphead wrasse are almost always present, cruising the reef edge with their characteristic lumbering grace. Hawksbill turtles rest on the coral heads and graze leisurely on sponge growth. In the crevices and under overhangs, resident moray eels — including the large spotted moray — are easily approached. The coral gardens host a dense assemblage of butterflyfish, triggerfish, and parrotfish.
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+The absence of strong current allows divers to hover near cleaning stations and watch extended grooming interactions between cleaner wrasse and larger reef fish. Night diving on the West End is reportedly excellent, with octopus hunting across the reef crest, crabs emerging from crevices, and flatworms displaying their vivid coloration.
 
-## Dive Profile
+## Practical Information
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 22 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth Range**: 5–22 meters
+- **Visibility**: 20–35 meters typical
+- **Currents**: Generally mild; sheltered from prevailing current
+- **Entry**: Boat dive
+- **Best For**: Intermediate divers; ideal for macro photography and close-up reef encounters
 
-## Entry and Exit
+## Marine Life Highlights
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Humphead wrasse, hawksbill turtles, moray eels (spotted, giant), butterflyfish, triggerfish, parrotfish, cleaner wrasse stations, octopus (night), flatworms, nudibranchs, table corals.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

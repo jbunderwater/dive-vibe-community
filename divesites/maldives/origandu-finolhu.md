@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Origandu Finolhu
 
-Origandu Finolhu is a reef dive site in Maldives, Asia.
+Origandu Finolhu is a reef dive site associated with a small sandbank island (finolhu means "small island" or sandbank in Dhivehi) in South Malé Atoll, where the fringing reef around the sandy islet delivers an accessible and picturesque dive combining hard coral gardens and open reef with a pleasant, sheltered setting.
 
 ## Overview
 
-Origandu Finolhu is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Finolhus are the quintessential Maldivian landscape — tiny sandbank islands fringed by reef — and Origandu Finolhu offers diving that mirrors this idyllic setting. The reef surrounds the sandbank and slopes gradually from the shallows to around 25 metres, with the upper sections providing prime hard coral gardens rich in table corals, staghorn formations, and coral heads that teem with small reef fish. The outer reef base is favoured by white-tip reef sharks and stingrays, while eagle rays occasionally pass by in the open water beyond the reef edge. The site is calmer than exposed outer reef and channel sites, making it an excellent choice for less experienced divers or as a relaxing second dive.
 
 ## Site Information
 
@@ -26,41 +26,23 @@ Origandu Finolhu is a dive site in Maldives offering rewarding diving on healthy
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-25 meters (50-100 feet)
+- **Current**: Light to moderate
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+White-tip reef sharks, stingrays, eagle rays, parrotfish, surgeonfish, butterflyfish, grouper, moray eels, and an abundance of small reef fish among table and staghorn coral formations.
 
-## Dive Profile
+## Diving Tips
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- The shallower reef (5–15 metres) around the sandbank is ideal for photography — light penetrates cleanly in the sheltered conditions.
+- Check sandy areas at the reef base for stingrays and resting sharks.
+- This site is well suited to Open Water divers and those building confidence on reef dives.
+- The finolhu itself makes a beautiful surface interval stop — check with your operator if landing is permitted.
 
-## Entry and Exit
+## Getting There
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Origandu Finolhu is in South Malé Atoll, reached by boat from local resorts or from Malé, approximately 30–60 minutes by dhoni or speedboat.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

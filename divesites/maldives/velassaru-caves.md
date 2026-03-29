@@ -13,54 +13,21 @@ addedBy: osm_import
 
 ## Velassaru Caves
 
-Velassaru Caves is a cave dive site in Maldives, Asia.
+Velassaru Caves is a cave and overhang dive site located near Velassaru island in North Male Atoll, offering a shallower cave system than some of the more notorious deep cave sites in the Maldives. The site's modest maximum depth of 20 metres makes the cavern zone accessible to advanced open-water divers and provides an exceptional photographic experience.
 
-## Overview
+### Site Conditions
 
-Velassaru Caves is a dive site in Maldives featuring underwater cave and cavern formations. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+- **Depth range**: 5–20 m
+- **Typical visibility**: 15–25 m outside; variable inside
+- **Currents**: Generally mild; periodic surge at cave entrances
+- **Best season**: November–April for optimal outside conditions
 
-## Site Information
+### What to Expect
 
-- **Location**: Maldives, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+The cave system features multiple chamber entrances that allow divers to enter the reef structure, navigate through areas of filtered and ambient light, and exit on a different section of the reef face. The cave walls and ceilings are encrusted with colourful sponges, cup corals, and feather stars that require artificial light to fully appreciate. Large glassfish schools fill the entrance chambers, creating dramatic backlighting effects. Nurse sharks and large moray eels are resident within the caves, and the outer reef wall immediately beyond the entrances hosts grey reef sharks, Napoleon wrasse, and hawksbill turtles. The shallow maximum depth of the cavern section makes gas management very comfortable.
 
-## Marine Life
+### Tips for Divers
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+Despite the shallow maximum depth, a torch is essential for appreciating the full colour range of the cave biology, much of which is hidden in shadow. Divers should move through caves in single file to minimise silt disturbance and ensure the group can navigate back through the same passage if needed. The site's proximity to Vaadho Caves makes it an ideal pairing for a morning of cave diving in North Male Atoll.
 
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

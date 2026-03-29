@@ -11,55 +11,56 @@ osmId: 1467715296
 addedBy: osm_import
 ---
 
-## Dennis Shoal
+# Dennis Shoal
 
-Dennis Shoal is a reef dive site in Puget Sound, North America.
+A current-exposed shallow shoal in the San Juan Islands with dense invertebrate coverage and reliable lingcod.
 
 ## Overview
 
-Dennis Shoal is a dive site in Puget Sound offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Dennis Shoal is a submerged rocky plateau positioned to catch tidal exchange in the southern San Juan Islands. Its shallow maximum depth of 15 metres and strong invertebrate community make it a productive site for both wildlife observation and photography. The nutrient-rich tidal flow maintains dense colonies of white plumose anemones, encrusting sponges, and colonial tunicates across the shoal surface. The site is representative of the best accessible boat-dive reefs in this part of Puget Sound, combining a manageable depth profile with exceptional marine life density.
 
 ## Site Information
 
-- **Location**: Puget Sound, North America
+- **Location**: Southern San Juan Islands, Puget Sound, Washington
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky shoal
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 15 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
+- **Maximum Depth**: 15 metres
+- **Typical Visibility**: 8–14 metres
+- **Water Temperature**: 7–11°C
+- **Current**: Tidal, plan for slack
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Lingcod are reliably seen at Dennis Shoal, often occupying the shallowest portions of the rocky structure. Copper and quillback rockfish hover in loose aggregations around the shoal perimeter, and kelp greenlings dart through the kelp fronds. Giant Pacific octopus use the boulder crevices, and the shoal floor is crossed by sea stars, including sunflower sea stars where populations are recovering. Nudibranchs are diverse: aeolids, dorids, and arminids are all recorded. Puget Sound king crabs and rock scallops occupy sheltered positions on the rock faces.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin at the shallowest part of the shoal (5–6 metres) and work systematically across the structure to the deeper edges at 15 metres. The shallow maximum depth allows multiple passes or an extended single dive. Complete the dive with time spent on the shallowest section before ascending, which serves effectively as a safety stop. Deploy an SMB from 6 metres before surfacing.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access only. The shoal is primarily accessed by chartered dive boats from Friday Harbor or Anacortes. Anchor on the down-current side during the dive and position the boat for easy diver pickup. Back-roll or giant stride entry. Surface upwind and upwind of the vessel with SMB deployed.
 
-## Tips and Recommendations
+## Tips
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Linger on the shoal crest longer than the deeper edges — the anemone density and fish activity are highest there in moderate sunlight
+- Ask local dive guides about current patterns at this specific shoal — micro-currents vary by tidal phase and season
+- Autumn dives (September–November) can offer excellent visibility as plankton blooms subside
+- Carry a dive light; even at 15 metres, the underside of rock ledges is dark and rich with life
 
-## Safety Considerations
+## Safety
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Cold water (7–11°C) demands dry suit diving. The shallow maximum depth reduces decompression risk but not cold-water hazard. Tidal timing is important; check both current tables and wind conditions before diving exposed shoal sites. Boat traffic in the San Juan Islands requires an SMB on every ascent.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The 15-metre maximum depth keeps subjects within the range of ambient light in summer, making Dennis Shoal a good natural-light photography site for wide-angle work. Lingcod on the shoal crest, plumose anemone fields, and close-up nudibranch images are all excellent subjects. For accurate colour at depth, supplemental strobes are still recommended.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

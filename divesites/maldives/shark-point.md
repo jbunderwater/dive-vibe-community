@@ -13,54 +13,21 @@ addedBy: osm_import
 
 ## Shark Point
 
-Shark Point is a reef dive site in Maldives, Asia.
+Shark Point is a prominent reef corner in North Male Atoll that lives up to its name, consistently delivering encounters with grey reef sharks and nurse sharks throughout the year. The site sits at the junction of a lagoon channel and the outer reef, creating a natural aggregation zone for sharks that exploit the current-driven food supply.
 
-## Overview
+### Site Conditions
 
-Shark Point is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+- **Depth range**: 10–28 m
+- **Typical visibility**: 15–25 m
+- **Currents**: Moderate to strong on the point; lighter on the sheltered side
+- **Best season**: Year-round reliable; December–April preferred for visibility
 
-## Site Information
+### What to Expect
 
-- **Location**: Maldives, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 28 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+Grey reef sharks are the headline attraction, typically congregating in groups of 5–15 individuals near the tip of the point where tidal currents funnel nutrients. They maintain a predictable circuit around the corner, allowing divers to position down-current and observe repeated passes at close range. Nurse sharks rest in sandy pockets at the base of the reef, often stacked two or three deep. Napoleon wrasse patrol the shallower section of the point, while eagle rays regularly sweep past in the blue water off the wall. Lionfish, moray eels, and large scorpionfish add to the predator count on the reef itself.
 
-## Marine Life
+### Tips for Divers
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Currents at the exposed tip can be significant during mid-tide; reef hooks are useful for maintaining position on the point without exhausting gas supply. The calmer, sheltered side of the corner offers a complete contrast — light currents and good coral cover for a gentler second half to the dive. Best dived on incoming current when the nutrient-laden water pushes the sharks into an active, feeding posture.
 
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 28 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

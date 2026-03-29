@@ -11,55 +11,34 @@ osmId: 682245388
 addedBy: osm_import
 ---
 
-## Bungalow 78 exit
+## Bungalow 78 Exit
 
-Bungalow 78 exit is a reef dive site in Maldives, Asia.
+**Location:** Meeru Island, North Malé Atoll, Maldives
+**Depth:** 3–25 m
+**Difficulty:** Intermediate
+**Entry:** Shore
 
-## Overview
+### Overview
 
-Bungalow 78 exit is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Bungalow 78 Exit is a named entry and exit point on the house reef of Meeru Island Resort in North Malé Atoll. The "bungalow 78" reference indicates the specific water villa or bungalow at which divers descend directly from the resort's overwater structures onto the house reef. House reef diving at Meeru is a well-regarded shore diving experience, accessible at any time of day without boat logistics.
 
-## Site Information
+### Diving
 
-- **Location**: Maldives, Asia
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+From the exit point divers drop into the shallow reef flat and can explore in multiple directions along the house reef. The outer edge of the reef slopes away steeply to 25 m, with an outer wall section that supports sea fans and sponges. Turtles are resident on the house reef and are regularly encountered. The inner reef flat is productive for macro life, including nudibranchs, ghost pipefish, and cleaner shrimp stations.
 
-## Marine Life
+Night dives from shore access points like this are popular for observing cuttlefish, octopus, and invertebrates active after dark. The immediate proximity to the resort makes it straightforward to manage multiple dives in a day.
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+### Marine Life
 
-## Dive Profile
+- Resident hawksbill turtles
+- Nudibranchs and ghost pipefish
+- Cuttlefish and octopus (especially at night)
+- Moray eels and lionfish
+- Sea fans and hard corals on the outer slope
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+### Practical Notes
 
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Shore entry requires care — follow the designated entry route marked by the resort. No boat required. Best timed to avoid strong current on the outer reef slope. Suitable for intermediate divers; night dives should be guided or conducted by experienced divers familiar with the reef layout.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

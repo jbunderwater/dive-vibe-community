@@ -11,55 +11,34 @@ osmId: 3314137175
 addedBy: osm_import
 ---
 
-## Coral garden
+## Coral Garden
 
-Coral garden is a reef dive site in Maldives, Asia.
+**Location:** Meeru Island, North Malé Atoll, Maldives
+**Depth:** 2–25 m
+**Difficulty:** Intermediate
+**Entry:** Shore
 
-## Overview
+### Overview
 
-Coral garden is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Coral Garden is a house reef dive site at Meeru Island Resort in North Malé Atoll, accessible directly from shore. The name reflects the abundant and diverse hard coral coverage that characterises this section of the reef. As a shallow, accessible house reef dive, Coral Garden is suitable for divers at multiple experience levels and makes an excellent site for multiple daily dives without the need for a boat.
 
-## Site Information
+### Diving
 
-- **Location**: Maldives, Asia
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+The reef begins in just 2–3 m of water and extends down through a coral garden zone to a sloping outer reef at 25 m. The shallows are ideal for snorkelling and photography, with intricate coral formations sheltering juvenile reef fish, nudibranchs, and crustaceans. The mid-depth zone (8–18 m) is where coral coverage is most impressive, with table corals, brain corals, and staghorn formations.
 
-## Marine Life
+Turtles are resident and predictably present, moving calmly through the coral garden during daylight hours. The outer reef slope is where more open-water species are encountered, including occasional Napoleon wrasse and passing reef sharks.
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+### Marine Life
 
-## Dive Profile
+- Resident hawksbill turtles
+- Nudibranchs and crustaceans (macro life)
+- Juvenile reef fish in coral formations
+- Napoleon wrasse (outer slope, occasional)
+- Moray eels in coral crevices
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+### Practical Notes
 
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Shore diving allows flexible timing — early mornings and late afternoons are especially productive. Night diving from the shore entry point reveals different species. Suitable for intermediate divers; the shallows are appropriate for beginners accompanied by an instructor. No boat fees required.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

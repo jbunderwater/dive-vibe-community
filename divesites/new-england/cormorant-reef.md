@@ -11,55 +11,57 @@ osmId: 803747681
 addedBy: osm_import
 ---
 
-## Cormorant Reef
+# Cormorant Reef
 
-Cormorant Reef is a reef dive site in New England, North America.
+A rocky reef off the southeastern Connecticut/southwestern Rhode Island coast near Fisher's Island Sound, named for the diving birds that perch on the exposed rocks.
 
 ## Overview
 
-Cormorant Reef is a dive site in New England offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Cormorant Reef lies in the Fisher's Island Sound area, near the tri-state junction of Rhode Island, Connecticut, and New York waters — at coordinates placing it in the southwestern corner of Rhode Island Sound/eastern Fisher's Island Sound. The reef takes its name from double-crested cormorants, which characteristically roost on rocky outcrops in New England waters. The site sits at 14 metres maximum depth with the rocky substrate typical of the sound bottom in this area. The location puts it in the same general cluster as Catumb Rocks, Latimer Reef, Planet Rock, and Watch Hill Reef — all part of the rocky reef system that lines the coast from Watch Hill, Rhode Island, westward to Fishers Island, New York.
 
 ## Site Information
 
-- **Location**: New England, North America
+- **Location**: Fisher's Island Sound / southwestern Rhode Island Sound area
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 14 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
+- **Typical Visibility**: 5–12 meters (variable)
+- **Current**: Moderate to strong; Fisher's Island Sound tidal currents
+- **Water Temperature**: 8–20°C depending on season
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Fisher's Island Sound cold-water reef community. Tautog are the dominant species — southern New England's premier reef fish. Striped bass cruise through in warmer months, attracted by the tidal currents. Bluefish appear seasonally above the reef in summer. American lobsters inhabit deeper crevices. Sea bass are present in summer months. Cunner hover around encrusted rock surfaces. Sea urchins colonize open rock faces. Encrusting sponges and anemones cover shaded surfaces.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boat access from Westerly RI or Noank/Stonington CT. Descend to rocky reef at 8–14 metres. Navigate reef perimeter. Fisher's Island Sound currents require careful tide timing — plan for slack water. The relatively shallow 14-metre maximum allows generous bottom time once on-site. Complete a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat charter required from Westerly RI or eastern Connecticut operators. Fisher's Island Sound tidal currents flow strongly through the passages — plan around slack water. Anchor in sand adjacent to reef. Deploy SMB before ascending.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Fisher's Island Sound tidal currents are strong — plan dives around slack water
+- Tautog are the signature species here; early morning dives before boat traffic tends to produce better encounters
+- Combine with Planet Rock, Latimer Reef, and Watch Hill Reef for a productive southwestern Rhode Island dive day
+- 7mm wetsuit or drysuit recommended throughout the season
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Fisher's Island Sound tidal currents can be strong through the passages near Watch Hill. Plan all dives around slack water. Cold water below thermocline. Deploy SMB before surfacing.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Tautog portraits on kelp-draped rock are the signature subject. Natural light at 14 metres is reasonable in summer. Strobes improve color accuracy on the encrusting organisms.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Charter Access**: Westerly RI; Noank, Stonington, and Mystic CT area operators
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

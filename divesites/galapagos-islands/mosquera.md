@@ -11,56 +11,56 @@ osmId: 13121663404
 addedBy: osm_import
 ---
 
-## Mosquera
+# Mosquera
 
-Mosquera is a reef dive site in Galápagos Islands, South America.
+A sandy channel between North Seymour and Baltra where a large sea lion colony turns every dive into an underwater circus of playful interactions.
 
 ## Overview
 
-Mosquera is a dive site in Galápagos Islands offering rewarding diving on healthy coral reef structures. Located in the South America region, this site offers 10-25 meters of visibility with water temperatures averaging 15-26°C.
+Mosquera is a sand and rock islet in the channel between North Seymour and Baltra Islands, home to one of the largest sea lion colonies in the central Galapagos. The dive site features a sandy bottom with scattered rock formations, creating a relatively mellow environment compared to the Galapagos' more demanding current-swept sites. The main attraction is the sea lion colony -- dozens of animals that treat divers as entertainment, swooping, spinning, and blowing bubbles at close range. The sandy substrate also supports garden eels, rays, and reef sharks.
 
 ## Site Information
 
-- **Location**: Galápagos Islands, South America
+- **Location**: Channel between North Seymour and Baltra Islands, Galapagos Islands
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 27 meters
-- **Typical Visibility**: 10-25 meters (30-80 feet)
-- **Current**: Moderate to strong
-- **Best Time**: June to November
+- **Typical Visibility**: 10-20 meters (30-65 feet)
+- **Current**: Mild to moderate
+- **Best Time**: Year-round; sea lions are always present
 
 ## Marine Life
 
-Divers at this site can expect to encounter hammerhead sharks, whale sharks, sea lions, marine iguanas, manta rays, eagle rays, sea turtles, dolphins. Additional species commonly sighted include penguins, moray eels.
+Galapagos sea lions dominate this site, with juveniles and adults alike engaging with divers in extended, playful encounters -- mirroring movements, blowing bubbles face-to-face, and performing acrobatic spins. Garden eels sway from the sandy bottom in large colonies, disappearing into their burrows as divers approach. Stingrays and eagle rays cruise over the sand flats. Whitetip reef sharks rest under rock ledges. Schools of reef fish -- including surgeonfish, parrotfish, and king angelfish -- congregate around the scattered rock formations. Sea turtles graze on algae on the rocks. Spotted moray eels and octopus hide in the rocky substrate.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 27 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The dive is relatively straightforward by Galapagos standards. Entry leads to a sandy slope descending gradually to 20-27 meters. The scattered rock formations provide structure and marine life concentration points along the way. The garden eel colonies are found on the sandy flats between rock formations. Most of the sea lion interaction happens in the 5-12 meter range as divers ascend along the slope. The shallow sandy areas near the islet provide the best sea lion encounters. Safety stop is easily performed in the calm shallows.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Short panga ride from a day boat or liveaboard anchored in the channel. Giant stride entry into relatively calm water. The sheltered channel location means surface conditions are usually manageable. The dive is typically a gentle drift or swim along the sandy slope. Exit via direct pickup by panga, or SMB deployment if current has carried divers from the entry point.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Spend the majority of your dive time in the shallows (5-12 meters) where sea lion interactions are most frequent and prolonged
+- Approach garden eel colonies very slowly and low to the bottom -- they retract quickly if startled
+- Despite the calmer conditions, this is still the Galapagos -- carry full safety equipment including SMB and signaling devices
+- Morning dives tend to have the most active sea lions; by afternoon they often haul out to rest on the islet
+- Resist the urge to touch or chase the sea lions; staying still and letting them approach produces the best encounters
 
 ## Safety Considerations
 
-Be aware of strong currents, cold thermoclines, surge in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+While this is one of the gentler Galapagos dive sites, currents in the channel can pick up unexpectedly, especially during tidal changes. The Advanced rating reflects Galapagos conditions overall -- water temperatures of 18-24°C, distance from medical facilities, and the potential for conditions to shift mid-dive. Bull sea lions can be territorial, especially during breeding season (June-September); maintain distance from large males and follow your guide's direction. Standard thermal protection (5-7mm) is required.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Sea lion portraits and interaction shots are the main photographic draw. Use a wide-angle or fisheye lens and get close -- the sea lions will oblige by approaching to within centimeters. Eye-level shots produce the most engaging portraits. Garden eel colonies make excellent macro or mid-range subjects, but require patience and a slow, low approach. The sandy bottom provides a clean, uncluttered background for ray and shark shots. Ambient light is usually sufficient in the shallows, but strobes help with sea lion portraits to bring out the texture of their fur and the sparkle in their eyes.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

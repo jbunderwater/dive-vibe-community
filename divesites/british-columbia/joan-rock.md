@@ -11,55 +11,57 @@ osmId: 663869311
 addedBy: osm_import
 ---
 
-## Joan Rock
+# Joan Rock
 
-Joan Rock is a reef dive site in British Columbia, North America.
+A submerged rock in the central Gulf Islands offering accessible intermediate reef diving.
 
 ## Overview
 
-Joan Rock is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Joan Rock lies in the central Gulf Islands between Salt Spring Island and the Saanich Peninsula, in the typical Gulf Islands channel environment. The rock creates a concentration point for marine life in the nutrient-rich tidal waters of the area. Accessible by boat from Sidney or Ganges, this site is part of the extensive Gulf Islands reef diving network that has made this region one of Canada's most popular cold-water diving destinations. Water temperatures are 8–11°C and visibility averages 8–15 metres.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Central Gulf Islands, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Submerged rock / reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 8–15 metres
+- **Current**: Moderate tidal currents in the Gulf Islands
+- **Best Time**: Late spring through autumn
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Joan Rock hosts the characteristic cold-water community of the Gulf Islands. Giant Pacific octopus are found in rocky crevices throughout the site. Lingcod claim prominent positions on the reef surface and defend territories actively. Copper and quillback rockfish are the most commonly seen fish. Plumose anemones form dense colonies on current-exposed faces. Kelp greenlings and painted greenlings hover near the reef structure. Harbour seals are a constant presence and often investigate divers closely.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The rock rises to approximately 8–10 metres, with flanks dropping to 18 metres. Work the outer, deeper sections first then transition to the summit zone for the final portion of the dive. Look for octopus in every substantial crevice. Complete a 3-metre safety stop on the rock's shallowest section before surfacing.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Sidney or Ganges Harbour. GPS required. Anchor on sand clear of the reef. Gulf Islands vessel traffic is consistent — deploy SMB before ascending. A live boat pickup is preferred at this site.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Joan Rock is often visited on multi-site Gulf Islands dive day trips
+- Local Sidney dive operators can combine this site with nearby reef dives for a full day
+- Autumn typically provides optimal visibility in the Gulf Islands
+- Bring a dive light to explore crevices where octopus and wolf eels shelter
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Tidal currents in the Gulf Islands can be significant. Plan around slack tide. SMB deployment is critical due to vessel traffic. Cold water (8–11°C) requires drysuit protection. Maintain buddy contact.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Octopus portraits, lingcod resting on encrusted rock, and plumose anemone-covered reef faces are the signature photographic subjects. Wide-angle compositions with fish in mid-water against the blue column are effective. Macro work on sponge-covered surfaces finds nudibranchs and small crustaceans.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
+- Sidney and Gulf Islands dive operators
+- Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

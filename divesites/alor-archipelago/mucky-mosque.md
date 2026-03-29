@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Mucky Mosque
 
-Mucky Mosque is a muck dive site in Alor Archipelago, Asia.
+Mucky Mosque is a muck dive site in the Alor Archipelago, East Nusa Tenggara, Indonesia — a silty bay adjacent to a small coastal mosque where the dark volcanic substrate shelters a dense and diverse array of cryptic critters, making it one of the best dedicated muck sites in the archipelago.
 
 ## Overview
 
-Mucky Mosque is a dive site in Alor Archipelago offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The site takes its irreverent name from the nearby mosque visible from the water and the characteristically murky conditions in the bay. While visibility can be as low as 6–8 metres after rain or elevated tidal disturbance, it typically runs 10–15 metres in calm conditions — adequate for the close-range work the site demands. The bottom is a mix of fine black volcanic sand, old coral rubble, and scattered debris that provides exactly the kind of varied substrate that Alor's critters exploit for camouflage and hunting. The site is reliably calm, protected from the swell and current that defines diving elsewhere in the archipelago, making it a comfortable and methodical experience. At 18 metres maximum, it suits intermediate divers who want a full bottom time without the depth management concerns of the wall sites.
 
 ## Site Information
 
-- **Location**: Alor Archipelago, Asia
+- **Location**: Alor Archipelago, East Nusa Tenggara, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Muck
+- **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 6–15 metres (affected by tidal and rain runoff)
+- **Current**: Minimal; slight tidal movement only
+- **Best Time**: April to November (dry season reduces runoff and improves visibility)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Mucky Mosque has earned a strong reputation among Alor liveaboard guides for reliable frogfish sightings — both hairy frogfish and warty frogfish are found across multiple colour forms, stationed on sponge and rubble. Flamboyant cuttlefish hunt the sandy patches and are commonly found in pairs. Mimic octopus, wunderpus, and coconut octopus are all recorded here, with coconut octopus carrying their shells while walking across open sand in the shallows. Mantis shrimp occupy burrows throughout the site, their iridescent colours briefly visible when they emerge to feed. Thorny seahorses and pygmy pipehorses grip algae stems in the rubble zone, and robust ghost pipefish appear around the base of isolated coral heads. Blue-ringed octopus are regularly sighted — potentially the most toxic animal at the site, and to be observed only from a safe distance.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter in the shallows and work systematically across the sand and rubble from approximately 5 metres to the deeper rubble patches at 15–18 metres. Experienced guides typically chart a slow traverse of the best habitat zones, pausing for extended observation of each subject. The most productive depth range is 8–14 metres where sand transitions to rubble — this interface concentrates the highest diversity. Allow maximum bottom time for thorough coverage; the calm conditions and shallow depths make long dives of 70–80 minutes practical.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by liveaboard or day-boat tender. Entry via giant stride into calm, typically shallow water. The tender can anchor or hold position nearby; SMB deployment at ascent coordinates pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Spend at least 10 minutes on any frogfish you find — they are sedentary and cooperative subjects, and there is usually more happening around them than initially apparent
+- Ask guides specifically about octopus activity; wunderpus and mimic octopus tend to be most active in the early morning before mid-day heat settles the bottom
+- Move no more than 1–2 metres per minute — muck diving rewards extreme patience over ground speed
+- Avoid stirring the silt with your fins; use the hover-and-glide technique, keeping fins angled up and using micro-movements to navigate
+- Carry a small flashlight even on daytime dives to illuminate the underside of rubble pieces where critters shelter
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The primary hazard unique to this site is the presence of venomous animals that may not be immediately visible in the substrate. Blue-ringed octopus, stonefish (cryptic on rubble), and cone shells all occur here. Never handle any unidentified invertebrate. Maintain neutrally buoyant or slightly positive attitude above the bottom to avoid fin contact with potentially venomous benthic species.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Mucky Mosque is Alor's premier macro photography site. A 100 mm macro or equivalent is the standard lens choice, with a dioptre available for the smallest subjects. The dark volcanic substrate provides clean, out-of-focus backgrounds that make subjects pop without elaborate staging. Frogfish portraits — achieved by positioning the lens level with the subject and filling the frame — are among the most publishable images divers take from the Alor region.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

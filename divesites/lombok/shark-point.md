@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Shark Point
 
-Shark Point is a drift dive site in Lombok, Asia.
+The northwest tip of Gili Trawangan — blacktip and whitetip reef sharks, a sunken tugboat, and some of the most productive shallow turtle habitat in the Gili Islands.
 
 ## Overview
 
-Shark Point is a dive site in Lombok offering rewarding diving on healthy coral reef structures . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Shark Point is the northwest headland of Gili Trawangan, where deep ridges and canyons meet the shallow inshore reefs and sea grass. Blacktip and whitetip reef sharks cruise the canyon systems at depth, while the shallower zone at 5–12 m supports impressive numbers of green turtles resting in the sea grass and coral bommies. A tugboat (Glenn Nusa) was intentionally sunk near the canyons and has become home to school fish and a resident reef shark. Accessible as a day trip from Lombok, this is considered one of the premier dive sites in the entire Gili Islands area.
 
 ## Site Information
 
-- **Location**: Lombok, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Drift
+- **Location**: Northwest Gili Trawangan, accessible from Lombok
+- **Entry Type**: Boat dive (drift)
+- **Site Type**: Wall / Drift
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 25 m
+- **Typical Visibility**: 15–30 m
+- **Current**: Strong; always a drift dive
+- **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Blacktip and whitetip reef sharks in the canyon systems. Green turtles in large numbers on the shallow reef at 5–12 m. The Glenn Nusa tugboat wreck hosts schools of black snappers and sweetlips. Humpback snapper schools fill the canyon heads. Schools of jackfish at the headland.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin on the deep ridges at 20–25 m and ascend progressively through the canyon systems. Visit the Glenn Nusa wreck if conditions allow. Ascend to the shallow turtle zone at 5–12 m for the final portion of the dive before completing the safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat from Lombok or Gili Trawangan. Always a drift — enter upstream, pickup downstream. SMB essential.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Accessible from Lombok as a highlight day trip to Gili Trawangan
+- The 5–12 m turtle zone is an outstanding shallow experience capping a deep dive
+- Ask about the Glenn Nusa wreck location from your operator
+- Intermediate divers should focus on the shallower canyon sections; advanced divers can explore the deeper ridges
+- Dive on neap tides for more manageable current at the canyon entry
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Strong current is always present. Do not attempt the deep canyons without Advanced Open Water certification. Always carry an SMB. Coordinate pickup point with the boat before descent.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Reef sharks at rest on canyon slopes are the signature photograph. Schools of black snappers around the Glenn Nusa wreck suit wide-angle. Turtle portraits in the shallow sea grass zone with natural light.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

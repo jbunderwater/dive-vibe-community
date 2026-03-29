@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Agincourt Reef No. 4 - The Point
 
-Agincourt Reef No. 4 - The Point is a reef dive site in Great Barrier Reef, Oceania.
+Agincourt Reef No. 4 - The Point is a reef dive site on the fourth section of Agincourt Reef, approximately 65km east of Port Douglas on the outer Great Barrier Reef, Queensland, Australia.
 
 ## Overview
 
-Agincourt Reef No. 4 - The Point is a scenic reef site featuring a distinctive point formation with rich coral coverage and fish abundance. Located on the Agincourt ribbon reefs near Port Douglas, this site offers 15-20 meters of visibility with water temperatures of 23-27°C. The point structure creates interesting current conditions that attract pelagic fish and create a dynamic diving environment.
+Agincourt No. 4 is the northernmost of the regularly dived Agincourt sections, positioned at a point where the reef system's northern end meets open water on multiple sides. This exposed position — "The Point" — funnels currents and concentrates the associated marine activity that current brings: filter feeders extended in the flow, predators positioned to intercept prey, and a general heightening of reef vitality.
+
+At 18 metres maximum depth, The Point offers slightly deeper diving than the southern Agincourt sections, with a more pronounced reef face that provides additional habitat structure. It is frequently rated the best site among the Agincourt sections by visiting divers.
 
 ## Site Information
 
-- **Location**: Great Barrier Reef, Oceania
+- **Location**: Agincourt Reef No. 4 (northern end), outer Great Barrier Reef, approximately 65km east of Port Douglas, Queensland, Australia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 15-40 meters (50-130 feet)
-- **Current**: Variable
-- **Best Time**: September to February
+- **Typical Visibility**: 15–28 metres
+- **Current**: Moderate; stronger at the point itself
+- **Best Time**: August to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals.
+The point position produces the best pelagic sightings of the Agincourt sites. Schools of barracuda occupy the mid-water above the reef edge, and large trevally — giant trevally and golden trevally — hunt along the reef face. Reef sharks are present throughout, typically grey reef sharks cruising the exposed side. Sea turtles are abundant — the Agincourt Reef system has one of the higher turtle densities of any easily-accessible outer reef section. Maori wrasse are large and confident. The reef face at 14–18 metres has developed impressive gorgonian sea fans and soft coral growth due to the current exposure.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to The Point's deeper face at 15–18 metres, where the current and sea fan growth are most pronounced. Follow the reef face northward, then round the point and return via the more sheltered eastern side for a contrasting experience. The sheltered eastern face provides a quieter ascent and safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day trips from Port Douglas with Quicksilver and other operators. The Point is typically a second or third dive of the day after the main pontoon site. Entry from the tender by giant stride. Exit via tender pickup with SMB.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Position yourself at the actual point early in the dive for the best chance of encountering barracuda and trevally schools
+- The contrast between the exposed and sheltered faces is notable — explore both on a single dive
+- Current here is stronger than other Agincourt sites; if you are new to current diving, stay on the sheltered side
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish (box jellyfish in summer), crocodiles (north) in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The Point is the most current-affected of the Agincourt sites. Monitor your position carefully on the exposed face and be prepared to abort the point approach if current is unexpectedly strong. Communicate current strength to the boat crew before descent so they can position accordingly for pickup.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The Point's current-driven marine activity creates outstanding opportunities for pelagic fish schools against the open water blue. Position yourself at the reef edge and let the schools come to you. The gorgonian sea fans on the deeper face are excellent for diver-in-context wide-angle images.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

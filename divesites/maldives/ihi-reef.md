@@ -13,54 +13,35 @@ addedBy: osm_import
 
 ## Ihi Reef
 
-Ihi Reef is a reef dive site in Maldives, Asia.
+Ihi Reef is a coral reef dive near the inner waters of South Male Atoll, offering a pleasant mix of hard coral formations and reef fish diversity in a sheltered setting accessible year-round.
 
 ## Overview
 
-Ihi Reef is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Located in the relatively sheltered interior of South Male Atoll, Ihi Reef is a sloping reef that descends from a shallow crest at 4–5 metres to around 25 metres where the structure meets a sandy floor. The upper reef slope features well-developed hard coral including branching and encrusting Acropora, home to schools of anthias and chromis that swirl above the coral in dense clouds. Grouper and Napoleon wrasse occupy the mid-reef zone, while moray eels are frequently spotted peering from crevices at 10–15 metres. The sandy base has garden eels and the occasional blue-spotted stingray. Hawksbill turtles pass through the reef regularly, and whitetip reef sharks sometimes rest on the sand beside the reef base. The sheltered position means currents are generally light, making this a good dive for maximising bottom time and relaxed exploration. Visibility ranges from 15 to 25 metres. Water temperature averages 27–29°C.
 
 ## Site Information
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
+- **Depth**: Up to 25m
+- **Difficulty**: Intermediate
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Hawksbill turtles, Napoleon wrasse, grouper, moray eels, whitetip reef sharks, anthias, chromis, blue-spotted stingrays, and garden eels.
 
-## Dive Profile
+## Diving Conditions
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+| Condition | Details |
+|-----------|---------|
+| Visibility | 15–25m |
+| Current | Light |
+| Water Temp | 27–29°C |
+| Best Season | Year-round |
 
-## Entry and Exit
+## Tips for Divers
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+A good site for beginners stepping up from house reef dives, or intermediate divers seeking an unhurried exploration dive. The shallow crest is excellent for safety stops and offers some of the best fish density on the reef.
 
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

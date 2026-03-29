@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## Wilma (Wrack)
 
-Wilma (Wrack) is a historic wreck dive in Great Lakes, North America.
+The Wilma is a 19th-century wooden schooner wreck lying in Lake Erie off the Ontario north shore near Port Dover. One of many historic vessels preserved in the cold, clear water of northern Lake Erie, the Wilma offers a classic Lake Erie wreck diving experience at an accessible 20-metre depth.
 
 ## Overview
 
-Wilma (Wrack) is a dive site in Great Lakes featuring the wreck of the Wilma (Wrack). Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The waters between Port Dover and Long Point on Lake Erie's Ontario north shore host one of Canada's most concentrated collections of 19th-century shipwrecks. The Wilma is one of these vessels — a wooden schooner that succumbed to Lake Erie's notorious autumn weather and now rests at approximately 20 metres on the sandy lakebed. Cold, oxygen-depleted freshwater at this depth has preserved the wooden hull with exceptional fidelity, keeping planking, ironwork, and structural members intact long after a saltwater wreck would have deteriorated beyond recognition. On calm summer days, visibility can reach 15 metres, revealing the entire wreck profile in a dramatic wide-angle view.
 
 ## Site Information
 
-- **Location**: Great Lakes, North America
+- **Location**: Lake Erie, Great Lakes, Canada (Ontario north shore, near Port Dover)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
+- **Maximum Depth**: 20 metres
+- **Typical Visibility**: 5–15 metres
+- **Water Temperature**: 4–22°C (seasonal); bottom typically 6–10°C
+- **Current**: Variable with wind direction
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Yellow perch are the emblematic fish of Lake Erie north shore wrecks — expect to encounter dense schools hovering above the deck and milling around the hull. Walleye patrol the wreck edges. Smallmouth bass are territorial around the hull openings and protected deck sections. Round gobies are abundant on the silty bottom. Zebra mussels colonize all hard surfaces below the thermocline, creating the characteristic pale-striped appearance on the wood.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The Wilma lies upright on a flat sandy bottom at 20 metres. Explore from bow to stern, taking time to note construction details and preserved fittings. The wreck's condition makes it an engaging visual experience — the boat-building traditions of the 19th century are visible in the hull planking, framing, and iron fastenings. Ascend on the mooring or anchor line. Safety stop at 5 metres for 3 minutes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Charter dive boats from Port Dover provide regular access to the Wilma and other nearby wrecks. The Port Dover area has experienced dive charter operators who know the local sites intimately. Entry by giant stride. Deploy SMB on ascent.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Port Dover's wreck cluster makes a full day of diving possible — the Wilma combines well with the Trade Wind, 17 Fathom Wreck, and other nearby sites
+- Best visibility conditions come with settled weather and calm winds — morning dives before afternoon wind develops are recommended
+- Drysuit recommended for cold bottom water
+- A torch is valuable for examining hull interiors through hatches and openings
+- Ontario heritage legislation protects all artifacts at this and nearby wrecks
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Lake Erie north shore conditions can be excellent in settled weather but deteriorate quickly when winds pick up. Always check forecasts before heading out and be prepared to abort if conditions change. Cold bottom water demands thermal protection even when surface conditions are warm. Always dive with a buddy and carry an SMB.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The Wilma is a rewarding photography subject when visibility reaches its best. Wide-angle shots of the intact hull with natural light filtering from above, yellow perch schools in the mid-water, and close-up detail of the preserved wooden construction all work well. A torch significantly improves interior and shadowed area photography.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

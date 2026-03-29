@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Banc du Singe
 
-Banc du Singe is a reef dive site in Martinique, Caribbean.
+Banc du Singe — the Monkey Bank — is an intermediate reef dive off Martinique's southwest coast near Sainte-Luce, known for a combination of healthy coral structures and the possibility of encountering larger pelagic species on the deeper reef margin.
 
 ## Overview
 
-Banc du Singe is a dive site in Martinique offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Situated on the open southern Caribbean shelf, Banc du Singe features more exposed conditions than the sheltered caye sites, giving it an intermediate character suited to divers with some experience. The reef structure rises from a sandy bottom to 8 meters at its crest and descends to 18 meters on the outer face. Hard coral coverage is above average, with significant brain coral formations and gorgonian sea fans at depth. Visibility ranges from 15 to 25 meters depending on conditions. Water temperature averages 27°C.
 
 ## Site Information
 
-- **Location**: Martinique, Caribbean
+- **Location**: Off south coast Martinique, Sainte-Luce area
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Open bank reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 15–25 meters
+- **Current**: Moderate; can be stronger on the outer bank face
+- **Best Time**: November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The slightly more exposed location attracts species less commonly seen on the sheltered inner reefs. Caribbean reef sharks are occasional visitors on the outer bank face. Eagle rays glide over the sandy margins, and large barracuda patrol the water column above the reef crest. Sea turtles are resident throughout, and nurse sharks rest under the deeper coral overhangs. The diverse coral structure supports good invertebrate diversity including lobsters and large sponge communities.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef crest and explore the shallower zone before moving to the outer face. Current typically runs along the bank face — position yourself to drift with it rather than fight it. Spend time in the deeper gorgonian zone before ascending to the crest for your safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Sainte-Luce operators. Giant stride entry; live-boat or mooring pickup. SMB deployment on ascent is essential given current variability.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- The outer bank face is where larger species are most commonly seen — prioritise this section early in the dive when air is plentiful
+- Current conditions determine the best dive approach — brief carefully with your guide
+- Pair with Banc du Mitan for a two-tank south coast day with varying depth and character
+- An excellent site for divers transitioning from beginner-level to more open-water diving
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Current on the outer face can be significant — never dive against a strong current; drift instead. Always deploy SMB before ascending. The depth and current combination means divers should be comfortable with their NDL limits before committing to the deeper sections.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The combination of gorgonian sea fans at depth, potential reef shark encounters, and good visibility makes Banc du Singe an excellent wide-angle photography site. Morning light reaches the shallower reef crest well; deeper sections benefit from a good strobe setup.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

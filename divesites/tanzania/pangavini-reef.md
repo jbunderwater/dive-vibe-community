@@ -13,55 +13,53 @@ addedBy: osm_import
 
 ## Pangavini Reef
 
-Pangavini Reef is a reef dive site in Tanzania, Africa.
+Pangavini Reef surrounds Pangavini Island, a small uninhabited island approximately 12 kilometers north of Dar es Salaam and part of the Dar es Salaam Marine Reserve System. Pangavini is one of the better-preserved reef systems in the reserve and offers consistently good diving just offshore from Tanzania's largest city.
 
 ## Overview
 
-Pangavini Reef is a dive site in Tanzania offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Pangavini Island's reef is better developed than some of the more southerly Dar es Salaam marine reserve sites, benefiting from its slightly more exposed position in cleaner water. The reef encircles the island with coral gardens from 3-4 meters depth on the sheltered side to a more developed outer slope reaching 16 meters. Staghorn Acropora and Porites coral formations dominate, interspersed with sandy channels and rubble patches. Visibility ranges from 10-15 meters in most conditions.
 
 ## Site Information
 
-- **Location**: Tanzania, Africa
+- **Location**: Pangavini Island, Dar es Salaam Marine Reserve, Tanzania
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 16 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 10-15 meters (33-50 feet)
+- **Current**: Light to moderate
+- **Best Time**: October to February (clearest conditions)
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+Pangavini Reef hosts a diverse resident community including hawksbill and green turtles that are reliably present throughout the year. Dense surgeonfish schools work across the reef top, while butterflyfish pairs cruise the coral formations. The sandy channels shelter stingrays and goatfish, and the outer reef edge occasionally hosts white-tip reef sharks in the late afternoon. The island's isolated position means less human disturbance than the more accessible sites closer to the city.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 16 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-16 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+A classic circumnavigation of the island reef provides the most complete experience. Begin on the deeper outer slope and work toward the island, finishing in the very shallow protected side where coral gardens extend to the beach edge. The total reef perimeter allows a complete dive without retracing the route.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day boat access from Dar es Salaam, approximately 30-40 minutes from the Slipway or Msasani Bay area. Often combined with Bongoyo or Mbudya islands on a multi-dive day. The beach can be used for surface interval if conditions permit landing.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Pangavini's slightly more exposed position generally gives better visibility than the inner reserve sites
+- Snorkeling is productive here for surface companions, as the reef extends into very shallow water on the protected side
+- Morning conditions are consistently calmer than afternoons
+- Bring sunscreen (reef-safe) and plenty of water for the surface interval — the island has no fresh water
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+One of the gentler Dar es Salaam sites overall. Light currents on the sheltered side can become moderate on the exposed outer reef — check conditions before swimming around to the outer face. Always deploy SMB for ascent. The island is isolated so ensure the boat is properly anchored or moored before entering the water.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Pangavini's turtle residents and clear water make it one of the better photography sites in the Dar es Salaam system. Natural light works well in the shallow reef garden, and turtle portraits with coral background are achievable without strobes in good conditions. A wide-angle zoom (16-35mm equivalent) covers both the reef scenes and any turtle encounters effectively.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

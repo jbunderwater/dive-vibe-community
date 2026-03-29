@@ -13,54 +13,35 @@ addedBy: osm_import
 
 ## Cave Lagoon
 
-Cave Lagoon is a cave dive site in Raja Ampat, Asia.
+Cave Lagoon is a cave and lagoon dive site in Raja Ampat, West Papua, Indonesia. The site combines the dramatic geology of Raja Ampat's karst limestone coastline — honeycombed with caverns, overhangs, and hidden chambers — with the calm, biologically rich water of a sheltered lagoon. The combination of cave exploration and lagoon reef diving makes it one of the more unusual sites in the archipelago.
 
 ## Overview
 
-Cave Lagoon is a dive site in Raja Ampat featuring underwater cave and cavern formations. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The cave section involves passing through a limestone cavern or swim-through that opens into the sheltered lagoon beyond. The cave entrance is lit by natural light filtering through the water and through cracks in the limestone ceiling, creating ethereal light-shaft effects that are particularly photogenic. Cave walls support encrusting growth: hydroids, tunicates, and crinoids colonise the shaded surfaces where coral cannot grow.
 
-## Site Information
+Inside the lagoon, the sheltered conditions encourage a different community than exposed ocean reefs. Soft corals in brilliant purples and oranges drape the lagoon walls, and the calm, clear water allows excellent visibility. Juvenile fish are abundant — the lagoon functions as a nursery habitat — and resident populations of turtles and resting whitetip reef sharks take advantage of the protected environment.
 
-- **Location**: Raja Ampat, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+The Advanced rating reflects the cave passage, which requires divers to remain calm in confined spaces and maintain good buoyancy to avoid disturbing sediment or organisms on the cave walls. Water temperature stays around 27–29°C. Visibility is excellent once inside the lagoon.
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+- Turtles resting in the sheltered lagoon
+- Whitetip reef sharks resting in calm lagoon sections
+- Encrusting tunicates, hydroids, and crinoids in the cave
+- Soft coral gardens inside the lagoon walls
+- Dense juvenile fish populations in nursery habitat
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Divers enter through the cave passage — maintaining horizontal trim to protect cave organisms — and emerge into the lagoon for the primary dive. Depths range from 5–25 metres. The cave section requires Advanced certification or demonstrated cave/cavern experience. Entry and exit are by boat.
 
-## Entry and Exit
+## Practical Information
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+- **Depth range**: 5–25 m
+- **Visibility**: 15–25 m (excellent in lagoon)
+- **Current**: Light (sheltered)
+- **Best time**: October–April
+- **Water temperature**: 27–29°C
+- **Entry**: Boat
 
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

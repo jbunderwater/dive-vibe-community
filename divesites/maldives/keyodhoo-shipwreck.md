@@ -13,55 +13,35 @@ addedBy: osm_import
 
 ## Keyodhoo Shipwreck
 
-Keyodhoo Shipwreck is a historic wreck dive in Maldives, Asia.
+The Keyodhoo Shipwreck is a deliberately sunk or accidentally grounded vessel near Keyodhoo Island in Vaavu Atoll (Felidhe Atoll), now serving as an artificial reef and one of the more accessible wreck dives in this less-visited atoll.
 
 ## Overview
 
-Keyodhoo Shipwreck is a dive site in Maldives featuring the wreck of the Keyodhoo Shipwreck which sank in 2015. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Vaavu Atoll lies southeast of South Male Atoll and sees far fewer divers than its more famous neighbours, giving the Keyodhoo wreck a sense of discovery and solitude. The wreck rests at depth with its deepest sections touching 35 metres, while the upper superstructure rises to around 15–20 metres. The hull is progressively colonised by encrusting corals, hydroids, and sponges, and the nooks and recesses of the structure shelter lionfish, scorpionfish, moray eels, and resting nurse sharks. Schools of glassfish have taken up residence inside open holds and around the bridge area, creating atmospheric silhouettes when lit from above. Grey reef sharks patrol the surrounding sandy seabed, attracted by the wreck's role as an artificial reef aggregating baitfish. Visibility in Vaavu Atoll regularly exceeds 25 metres in clear season. Water temperature averages 27–29°C.
 
 ## Site Information
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Depth**: Up to 35m
+- **Difficulty**: Advanced
+- **Site Type**: Wreck dive
 
 ## Marine Life
 
-Divers at this site can expect to encounter batfish, lionfish, sweetlips, coral growth, soft corals, manta rays, whale sharks, reef sharks. Additional species commonly sighted include sea turtles, barracuda, trevally. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Nurse sharks, grey reef sharks, moray eels, lionfish, scorpionfish, glassfish schools, grouper, and progressive coral and sponge colonisation on the hull.
 
-## Dive Profile
+## Diving Conditions
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 35 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+| Condition | Details |
+|-----------|---------|
+| Visibility | 20–30m |
+| Current | Light to moderate |
+| Water Temp | 27–29°C |
+| Best Season | December–April |
 
-## Entry and Exit
+## Tips for Divers
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Advanced certification and wreck diving experience is recommended given the depth of the lower hull. Penetration into enclosed spaces should only be attempted by divers with specific wreck penetration training and appropriate equipment. The upper structure and exterior exploration offer plenty of interest without penetration. Carry a torch for investigating the shadowed sections.
 
-## Tips and Recommendations
-
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

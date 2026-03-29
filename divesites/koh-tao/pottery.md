@@ -13,55 +13,54 @@ addedBy: osm_import
 
 ## Pottery
 
-Pottery is a reef dive site in Koh Tao, Asia.
+A peaceful shallow reef on Koh Tao's south coast — often paired with Three Rocks for a relaxed dive with diverse reef fish and occasional turtles.
 
 ## Overview
 
-Pottery is a dive site in Koh Tao offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Pottery is a shallow reef site on the southern side of Koh Tao, often listed alongside Three Rocks as a combined dive location. The site rises from 18 m to as shallow as 2 m on the pinnacle structure, covered in soft corals, whip corals, and sponges. It is a scenic site with swim-throughs and marine diversity suited to beginner divers, particularly those recently certified or doing their first ocean dives in tropical waters. The relaxed depth profile and generally mild current make it accessible and enjoyable.
 
 ## Site Information
 
-- **Location**: Koh Tao, Asia
+- **Location**: South Koh Tao, Gulf of Thailand
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef / Pinnacle
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 12 m
+- **Typical Visibility**: 10–18 m
+- **Current**: Generally mild
+- **Best Time**: May to August
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Soft corals and whip corals on the pinnacle faces host nudibranchs and small crustaceans. Turtles are occasionally sighted. Triggerfish and parrotfish are common. Cuttlefish hover near the pinnacle edges. Moray eels inhabit crevices. Sergeant major fish and anthias swarm in the open water above the reef crest.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the base of the site and explore the pinnacle from 12 m upward. Follow the soft coral formations and any swim-through sections. Spend the second half of the dive in the shallows at 3–8 m where reef fish density is highest. Complete a 3-minute safety stop before returning to the boat.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat from Koh Tao (approximately 10–15 minutes to the south coast). Entry via back roll. Mild conditions suitable for newly certified divers. Mooring line return to boat.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Pair with Three Rocks nearby for a combined south coast dive day
+- The pinnacle top at 2–3 m offers excellent snorkelling for surface intervals
+- A good site for practising buoyancy skills in calm conditions
+- Combine with an HTMS Sattakut wreck dive for a varied day on the south side
+- Night dives are possible and reveal different critters in the coral and rubble zones
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Conditions are mild but currents can increase in the afternoon. Triggerfish in nesting season (June–August) require standard avoidance procedures. Maintain buoyancy above the coral pinnacle to avoid contact damage.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Soft corals in pastel colours provide pleasing background for fish portraits. Cuttlefish hovering near the reef edge make compelling close-up subjects. The shallow pinnacle top with strong natural light suits reef scene photography.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

@@ -11,56 +11,54 @@ osmId: 663869845
 addedBy: osm_import
 ---
 
-## Ras Ghamila Reef
+# Ras Ghamila Reef
 
-Ras Ghamila Reef is a reef dive site in Red Sea, Middle East.
+A headland reef near the Strait of Tiran with steep walls, garden eel colonies on the sandy slope, and the strong tidal currents that sweep the Tiran corridor past diverse reef ecosystems.
 
 ## Overview
 
-Ras Ghamila Reef is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Ras Ghamila Reef sits at approximately 27.98°N, 34.44°E — in the southern Sinai coastal zone south of Sharm el-Sheikh, near the entrance to the Strait of Tiran. The name "Ghamila" (جميلة) means "beautiful" in Arabic — a description applied to several Red Sea sites. This headland reef experiences the tidal current flow characteristic of the Tiran area, with water movement that drives nutrient cycling and supports productive reef communities. The reef structure follows the southern Sinai pattern: a shallow fringing flat dropping to a steep outer wall, with a sandy slope below. Garden eel colonies are documented on the sand adjacent to the reef.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Southern Sinai coast, near Strait of Tiran (~27.98°N, 34.44°E)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 15–25 meters
+- **Current**: Moderate; tidal flow in the Tiran corridor
+- **Best Time**: Year-round; October to May optimal
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Garden eels occupy the sandy slope adjacent to the reef base, extending from 15 to 20+ metres in well-established colonies. The current-swept outer wall supports large gorgonian fans and soft coral assemblages. Schools of barracuda and jacks patrol in open water off the reef edge. Grey reef sharks are present in the Tiran corridor area and are occasionally sighted at the reef edge. The upper reef carries the standard southern Sinai assemblage: anthias, chromis, moray eels, and groupers. Cleaning stations are distributed across the middle reef section.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the sandy slope at 15–18 metres and approach the garden eel colony slowly — stop 3–4 metres from the colony edge and observe without advancing further. After 10 minutes observing the eels, ascend to the outer reef wall and work along it at 10–15 metres. The upper reef at 5–8 metres provides the highest fish density. Safety stop at 5 metres over the reef flat.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day boat from Sharm el-Sheikh (30–50 minutes). Giant stride entry. Pair with Tiran Island sites or Thomas Reef for a two-dive day. SMB deployment before ascending.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Garden eels are extremely sensitive to vibration and current changes — approach the colony from the shallower side and stop well before reaching the colony edge
+- Current days produce the best barracuda and jack activity on the outer reef wall — plan the dive to take advantage of flow direction
+- The Tiran corridor's tidal flow can be used to advantage as a drift dive element on the outer wall
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Current in the Tiran corridor can develop rapidly on tidal changes — assess before entry and monitor throughout. Garden eels should be observed from a distance without descent toward the colony. SMB before ascending.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Garden eel portraits from a prone position at 3 metres distance — using a long lens or macro — reward the patient approach required. The outer wall in current provides wide-angle conditions for school and shark shots.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

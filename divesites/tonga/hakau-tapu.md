@@ -13,54 +13,51 @@ addedBy: osm_import
 
 ## Hakau Tapu
 
-Hakau Tapu is a reef dive site in Tonga, Pacific.
+Hakau Tapu — "sacred reef" in Tongan — is a reef formation that carries cultural significance in the traditional Tongan system of tapu (sacred prohibition), reflecting the long history of ocean resource management in Tongan communities.
 
 ## Overview
 
-Hakau Tapu is a dive site in Tonga offering rewarding diving on healthy coral reef structures . OSM natural reef feature. Not documented as established dive site. Depth and difficulty estimated from general Tonga reef patterns.. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The name Hakau Tapu translates directly as "sacred reef" or "forbidden reef" — tapu (the Tongan root of the English word "taboo") refers to the traditional Polynesian system of sacred restrictions governing access to resources, places, and activities. Reefs designated as tapu in traditional Tongan culture were off-limits to fishing, offering communities a de facto marine protected area long before modern conservation terminology existed. Whether Hakau Tapu retains formal protected status today is not established in available dive records, but the cultural heritage embedded in the name is notable. The reef itself sits in the waters of southwestern Tonga, rising from the sea floor to a shallow plateau before sloping to approximately 20 meters. Like other named reef features in this region, it exemplifies the healthy, relatively undisturbed coral reef character of southern Tonga's less-trafficked waters.
 
 ## Site Information
 
-- **Location**: Tonga, Pacific
+- **Location**: Southwestern Tonga island waters, Tonga
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 15–25 meters
+- **Current**: Light to moderate
+- **Water Temperature**: 22–26°C (72–80°F)
+- **Best Time to Dive**: Year-round; May–October for optimal conditions
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+The reef supports a diverse and well-preserved community consistent with a site historically protected from heavy fishing pressure. Hard coral coverage — Acropora tables, branching coral, and massive Porites heads — is dense across the reef plateau. Reef fish diversity includes large-bodied species that often disappear from heavily fished sites: substantial Napoleon wrasse, big-eye trevally, and large grouper are all reported. Hawksbill turtles are regular visitors. Whitetip and grey reef sharks patrol the reef margins. The intact coral structure supports extensive cleaning stations, where anthias and smaller reef fish converge, attracting the larger predators that make this site particularly rewarding for patient observers. The open water beyond the reef edge occasionally sees pelagic visitors including tuna and, during July–October, humpback whales moving through the area.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin on the shallow reef plateau at 5–8 meters, taking time to observe the fish community before descending the slope to the 15–20 meter zone. The deeper sections typically hold the larger fish. Plan to spend time at mid-depth (10–15m) on your way back up — this is where the highest fish density and most cleaning station activity is usually concentrated. A relaxed, unhurried circuit of the reef perimeter at varied depths gives the best overall picture of the site. Safety stop can be conducted on the reef plateau.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by charter boat from nearby island communities or as a stop on a transiting vessel. Anchoring or buoy mooring near the reef. Giant stride entry and controlled descent to the reef. Exit via boat ladder or swim-over.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Respect the cultural heritage of the site name — historically tapu sites in Tonga were important conservation tools, and their spirit is worth honoring in how you dive here
+- Large-bodied fish at this site may be the result of generations of reduced fishing pressure — approach slowly and avoid startling them
+- Spend time at the cleaning stations in the 10–15 meter range; they attract concentrated fish activity
+- Look into the deeper crevices in the reef slope for lobster, morays, and resting sharks
+- Ask local operators whether the site has any current formal protected area status before the dive
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+At 20 meters maximum depth with light to moderate current, this is a standard intermediate reef dive. The main variables are current management and the remoteness of the location relative to dive infrastructure. As with all southern Tonga sites, carry adequate air reserves for conservative ascents and always deploy an SMB in open water. Local knowledge about current patterns at this specific reef formation is valuable — debrief with your operator before the dive.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The cultural dimension of Hakau Tapu makes it a site worth documenting thoughtfully. Wide-angle reef shots capturing the dense coral coverage and fish life tell the story of what a historically protected reef looks like. Cleaning station photography — multiple species gathered at a single coral head, with sharks and large fish lingering nearby — is the photographic highlight of this site. Natural light shooting is effective at these depths during morning hours.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

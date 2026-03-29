@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Meno Corner
 
-Meno Corner is a drift dive site in Lombok, Asia.
+The northeastern tip of Gili Meno — a turtle-rich pinnacle and slope where sea turtles gather in the surrounding sea grass and coral.
 
 ## Overview
 
-Meno Corner is a dive site in Lombok offering rewarding diving on healthy coral reef structures . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Meno Corner is located at the northeastern tip of Gili Meno and is one of the best spots in the Gili Islands for sea turtle encounters. The site features a slope that leads out to a pinnacle stretching from 9 m to 30 m, all sides covered in corals. This is the main turtle habitat area on Gili Meno, where green and hawksbill turtles congregate in the sea grass beds and on the reef slope. A notable bonus is the nearby Bounty Wreck (Meno Wreck), sitting just off the coast and covered in soft coral. Together, these two adjacent sites make Gili Meno one of the standout dive destinations in the Lombok/Gili Islands area.
 
 ## Site Information
 
-- **Location**: Lombok, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Drift
+- **Location**: Northeast tip of Gili Meno, Gili Islands / Lombok
+- **Entry Type**: Boat dive (drift)
+- **Site Type**: Drift / Reef / Pinnacle
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 20 m
+- **Typical Visibility**: 15–25 m
+- **Current**: Moderate; can be strong on the corner
+- **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Green and hawksbill turtles in numbers — among the best turtle encounters in the entire Gili Islands. The pinnacle hosts reef fish typical of the Gili Islands — parrotfish, triggerfish, sweetlips, and moray eels. Reef sharks are occasionally seen on the deeper pinnacle sections. Blue-spotted stingrays on sandy patches.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the slope at 10–15 m and follow it to the pinnacle at 20–30 m. Spend time on the sea grass and reef patches searching for turtles before the pinnacle. Ascend via the shallower reef sections and complete a 3-minute safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat from Gili Meno or Lombok operators. The corner has variable current — follow your guide's entry timing recommendation. SMB for drift ascent.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Combine Meno Corner and Bounty Wreck in the same diving day for a comprehensive Gili Meno experience
+- Move slowly across the sea grass patches — turtles are often camouflaged among the blades
+- Best dived early in the morning when turtles are most active on the reef
+- The pinnacle drops to 30 m and is worth a deeper visit for advanced divers
+- Accessible from Lombok mainland as part of a Gili Islands day trip
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Current at the corner can be strong, particularly on spring tides. Stay close to the pinnacle for reference and do not let the current carry you away from it. Always carry an SMB. Turtles should not be approached from above.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Sea turtle encounters in sea grass with natural light are accessible wide-angle subjects. Multiple turtles together on the reef slope produce compelling images. The pinnacle with its coral coverage suits wide-angle with strobes at depth.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

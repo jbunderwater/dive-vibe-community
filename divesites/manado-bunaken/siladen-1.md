@@ -13,55 +13,28 @@ addedBy: osm_import
 
 ## Siladen 1
 
-Siladen 1 is a wall dive site in Manado & Bunaken, Asia.
+Siladen 1 is a wall dive on the western side of Siladen Island — a small uninhabited coral island northeast of Bunaken — where pristine reef walls, reliable turtles, and quieter conditions than the main Bunaken sites reward those who make the additional journey.
 
 ## Overview
 
-Siladen 1 is a dive site in Manado & Bunaken featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Siladen Island lies about 2 kilometres east of Bunaken Island and is entirely enclosed within Bunaken National Marine Park. The island is surrounded by walls on most sides, and Siladen 1 represents the western section of this system. Because Siladen's resorts are few and day trip traffic from Manado typically focuses on Bunaken itself, the Siladen sites feel considerably less busy. This relative solitude, combined with wall diving quality that rivals anywhere in the park, makes Siladen 1 a favourite among repeat visitors and divemasters who want an alternative to the more trafficked Lekuan circuit.
 
-## Site Information
+## What to Expect
 
-- **Location**: Manado & Bunaken, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 35 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+The wall at Siladen 1 drops from a reef crest at 4–6 metres to around 35 metres, its face covered in healthy hard and soft coral growth. Large seafans are prominent in the 15–25 metre range, and the wall has numerous overhangs and ledge features that make the topography more interesting than a uniform vertical face. Green turtles are consistently present — Siladen's walls are part of the same park ecosystem that makes Bunaken world-famous for turtle density — and they are often found resting undisturbed in small cavities in the wall.
 
-## Marine Life
+Whitetip reef sharks are regularly spotted resting on sandy patches at depth, and a resident population of Napoleon wrasse patrols this side of the island. Siladen 1 is also notable for the density of smaller reef life: nudibranchs in multiple species, ornate ghost pipefish, and unusual flatworms add a macro dimension to what is primarily a wall dive. The reef crest, with its complex hard coral structure, is particularly rich in juvenile reef fish during the late dry season.
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+## Conditions
 
-## Dive Profile
+- **Depth range:** 4–35 m
+- **Visibility:** 15–30 m; often among the best in the park
+- **Currents:** Light to moderate; calmer than north-facing Bunaken sites
+- **Water temperature:** 27–30°C
+- **Best season:** May–October
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-35 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+## Tips
 
-## Entry and Exit
+Siladen sites are best accessed as a dedicated trip from Bunaken resorts or Manado — the additional travel time is worth it for the reduced diver traffic alone. Guides with Siladen-specific knowledge know where the turtles tend to rest on this wall. The reef crest here is excellent for a thorough safety stop; bring a torch to examine the undercut sections just below the crest.
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

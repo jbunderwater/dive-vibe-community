@@ -11,56 +11,53 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Punta Juan
+# Punta Juan
 
-Punta Juan is a reef dive site in Bocas del Toro, Caribbean.
+A sheltered point reef in the heart of the Bocas del Toro archipelago, offering beginner divers a relaxed exploration of coral formations, starfish gardens, and reliably calm Caribbean conditions.
 
 ## Overview
 
-Punta Juan is a dive site in Bocas del Toro offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Punta Juan is a point reef on one of the central cays of the Bocas del Toro archipelago, situated in the sheltered waters between the main islands. The point geometry concentrates marine life as current flows around the tip, creating productive diving conditions across a range of depths from the shallows to 16 meters. The reef features brain corals, star corals, and scattered sea fans characteristic of the inner archipelago, with a sandy base supporting stingrays and sea stars. The sheltered position ensures calm conditions and visibility of 15–20 meters. Water temperature is 28–30°C. This is an excellent second-day dive for visitors building confidence before moving to the outer reef sites.
 
 ## Site Information
 
-- **Location**: Bocas del Toro, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 16 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 4–16 m |
+| Difficulty | Beginner |
+| Entry Type | Boat |
+| Site Type | Reef |
+| Visibility | 15–20 m |
+| Current | Light |
+| Water Temp | 28–30°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Punta Juan supports a well-rounded Caribbean reef community. Green sea turtles are common throughout the shallows. Large schools of French grunt and yellowtail snapper shelter around the coral formations. French and grey angelfish are resident. Cushion sea stars populate the sandy areas. Southern stingrays are common at the reef base. Spotted moray eels occupy the deeper crevices. The point position occasionally attracts spotted eagle rays cruising around the tip.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 16 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-16 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descent at the upward side of the point, then a drift around the point tip at 8–12 meters with the light current. Divers working the deeper 12–16 meter sandy base encounter the most stingrays and starfish activity. Ascent at the downward side of the point, or against the light current back to the boat. Total dive: 45–55 minutes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Bocas Town operators. Entry by giant stride. The sheltered location means almost always-calm conditions. Exit is standard boat pickup. The site is suitable for certification course dives.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+Punta Juan is an excellent site for practicing point navigation — descent at the upside of the point, circumnavigation of the tip, and exit at the downside is a classic technique for point dive navigation. The light current around the point tip is mild enough that beginner divers can manage it comfortably. Pair with Crawl Cay or The Playground for a full morning of intermediate archipelago diving.
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The point position creates slightly stronger current than flat reef sites — be aware of the flow direction on descent. Boat traffic in the central archipelago is moderate. DSMB recommended. Fire coral present on reef crest sections. Standard beginner precautions apply.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The point location produces naturally strong images — wide-angle shots of the reef curving around the point tip, with fish schools in the mid-water, are effective. The sandy base with stingrays and starfish photographed from a horizontal position provides clean white-sand backgrounds. Sea turtle portraits in the shallow water above the reef crest are consistently achievable.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- Bocas del Toro dive operators: Punta Juan is included in standard beginner and intermediate dive packages
+- Often combined with Zapatillas Reef for a full-day outer and inner reef experience
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

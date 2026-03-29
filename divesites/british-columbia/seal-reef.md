@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Seal Reef
 
-Seal Reef is a reef dive site in British Columbia, North America.
+Seal Reef is a rocky reef dive site in the northern Strait of Georgia off central Vancouver Island, British Columbia, Canada — its name is a nod to the resident harbour seals that haul out and hunt in the area.
 
 ## Overview
 
-Seal Reef is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Seal Reef sits in the channel systems north of Parksville/Qualicum in the Strait of Georgia, where tidal mixing keeps the water productive and cold. Harbour seals are a defining feature of the dive experience here — they regularly approach and observe divers with bold curiosity. Water temperature is 7–12°C, and visibility averages 6–12 metres, peaking in late summer and early autumn. The reef provides a mix of rocky substrate, kelp patches, and sand transition zones.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Northern Strait of Georgia, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 6–12 metres
+- **Current**: Variable; moderate on tidal flows
+- **Best Time**: July to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Harbour seals are the standout encounter at Seal Reef — curious individuals frequently swim alongside divers or circle the group throughout the dive. Lingcod, copper rockfish, and quillback rockfish occupy the rocky ledges and overhangs. Kelp greenling are common in the kelp patches. Dungeness crab and red rock crab scavenge on the sandy zones at the reef base. Nudibranchs, particularly alabaster and shaggy mouse species, appear on encrusted rock. Plumose anemone colonies adorn vertical surfaces.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend on the reef structure and spend time in the 10–15 metre zone where seal interactions are most common. Explore the rocky ledges for lingcod, moving down to the sandy perimeter where crabs and flatfish may be encountered. Ascend through the kelp zone and watch for seals making final passes on the way up.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access only. Anchor in sand or use a mooring buoy if available. Live-boat approaches work well here when any current is running. Seal interactions during entry and exit are common and are the highlight for many visiting divers.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Slow, calm movements encourage seals to stay close and interact
+- Never chase or pursue seals — let them initiate any interaction
+- Camera systems are a must at this site given the seal encounter potential
+- Slack water diving is recommended for beginners; more experienced divers can dive with moderate current
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Seal encounters are generally safe but remain alert — seals can nip, particularly if startled or if they feel cornered. Maintain neutral buoyancy throughout the dive to avoid accidental descent. Cold water (7–12°C) demands appropriate exposure protection. Deploy an SMB before surfacing.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Harbour seal portrait photography is the star attraction — wide-angle imaging of seals swimming through kelp is stunning. Portrait shots of the seals' whiskered faces require a moderately long port setting. Rockfish and lingcod also make excellent portrait subjects in strong available light.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

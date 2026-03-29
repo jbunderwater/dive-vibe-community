@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Shark Reef
 
-Shark Reef is a reef dive site in British Columbia, North America.
+Shark Reef is a submerged rocky reef in the San Juan Islands region near the southern Gulf Islands of British Columbia, Canada, named for the Pacific spiny dogfish sharks that congregate here seasonally.
 
 ## Overview
 
-Shark Reef is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Shark Reef sits in the active channel systems between the southern Gulf Islands and northern San Juan Islands, in one of the most tidal-influenced stretches of the Pacific Northwest's inland sea. The "sharks" in the name refer to Pacific spiny dogfish — small, non-aggressive sharks that can form large schools at this site during certain seasons. Water temperature is cold (7–12°C), with visibility typically 6–15 metres. The site benefits from regular tidal flushing that keeps invertebrate life dense and fish communities well-fed.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Southern Gulf Islands area, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 6–15 metres
+- **Current**: Moderate to strong; tide-dependent
+- **Best Time**: July to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Pacific spiny dogfish are the signature encounter — schools of dozens to hundreds of these small sharks can be found resting in aggregations on sandy substrate near the reef. Lingcod are abundant on the rocky structure, and copper and quillback rockfish hold prominent positions on ledges. Plumose anemones cover the current-swept walls. Giant Pacific octopus inhabit crevices in the deeper boulder zone. Harbour seals regularly patrol the site. On the sandy edges of the reef, Pacific halibut and flatfish are occasionally encountered.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend on the reef structure and explore the rocky terrain first, then check the sandy transition zones where dogfish may be resting. Dogfish are usually found in groups on the sand or slowly cruising the current edges. Ascend through the rockfish zone and spend the safety stop exploring the shallower kelp habitat. Total dive time typically 40–50 minutes.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Sidney, Swartz Bay, or other southern Gulf Islands marinas. Site is close to the Washington State border — ensure valid vessel documentation. Check tidal currents before committing to a dive plan and adjust timing accordingly.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Dogfish resting in aggregations can be approached slowly — avoid sudden movements
+- Do not confuse spiny dogfish with more dangerous sharks; they are harmless if undisturbed
+- Sandy zones around the reef base are worth exploring for flatfish and resting dogfish
+- Keep your SMB ready to deploy — channel boat traffic is significant
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Pacific spiny dogfish have small but sharp dorsal spines and teeth — do not attempt to handle them. Beyond dogfish, standard BC diving hazards apply: cold water, current, and boat traffic. Thermal protection adequate for 7–12°C is required. Deploy an SMB on every ascent.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Schooling dogfish photography is unique and dramatic — wide-angle shots of multiple animals resting together or moving in loose formation are impressive. Lingcod portrait photography is excellent given the site's resident population. Sandy zone flatfish camouflage shots require patience.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

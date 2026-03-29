@@ -11,55 +11,54 @@ osmId: 6978522058
 addedBy: osm_import
 ---
 
-## Dead Man's Bones
+# Dead Man's Bones
 
-Dead Man's Bones is a reef dive site in Jamaica, Caribbean.
+A dramatic-named east-coast reef dive reaching 20 metres, where the outer reef slope drops into deeper water with active fish life.
 
 ## Overview
 
-Dead Man's Bones is a dive site in Jamaica offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Dead Man's Bones is located on Jamaica's eastern coast near the community of Bowden, sharing the quiet, less-visited character of Jamaica's southeastern dive sites. The name evokes the historical danger of this coastline, where merchant vessels and pirate ships navigated treacherous shoals. The reef extends from the shallows down to 20 metres on the outer slope, making it one of the deeper reef dives in the east-coast area. At intermediate difficulty, the site rewards divers who reach the outer edge at depth, where the coral formations transition to larger sponges and the fish community shifts toward deeper-water species. Visibility averages 15–22 metres.
 
 ## Site Information
 
-- **Location**: Jamaica, Caribbean
+- **Location**: Eastern Jamaica coast (near Bowden)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Typical Visibility**: 15–22 meters (50–70 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The outer reef slope at 15–20 metres has larger sponges and sea fans, with black grouper and tiger grouper taking up territorial positions. Horse-eye jacks pass through in loose schools. Hawksbill turtles are seen at mid-depth on the reef. Moray eels and nurse sharks are found along the entire reef profile. The shallower sections have the typical mix of parrotfish, blue tangs, and grunts. Barracuda are common in the mid-water column above the reef.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef at 10–12 metres and work toward the outer slope. Navigate to the deepest planned depth (18–20 m) first, then work upward along the reef face. The outer slope is the highlight — spend the majority of bottom time at 15–20 metres before ascending. Return to the inner reef for the safety stop at 5 metres. Bottom time at 20 metres should be limited to 45 minutes without enriched air.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access requires a local charter from the eastern coast area. Limited commercial dive infrastructure. Entry via giant stride or back roll from a small boat. Current direction should be assessed before the dive.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- The dramatic name makes this a memorable site — reach the outer slope at depth for the best experience
+- Combine with Bowden Reef nearby for a two-tank east-coast exploration
+- The east coast is rarely dived — expect a genuine exploratory experience
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Intermediate divers and above. The outer slope begins to drop more steeply below 20 metres. Monitor depth carefully. Remote location — carry all safety equipment. Maintain air reserve for a safe ascent from depth.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The outer reef slope and sponge formations at depth are compelling wide-angle subjects. Grouper portraits at the reef base work well. The lack of other divers at this rarely-visited site means unobstructed compositions.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,55 +13,54 @@ addedBy: osm_import
 
 ## Laem Thian Pinnacle
 
-Laem Thian Pinnacle is a pinnacle dive site in Koh Tao, Asia.
+A secluded east coast dive spot at Koh Tao's Laem Thian cape — boulder clusters, swim-throughs, and yellow tail barracuda schools in a remote setting.
 
 ## Overview
 
-Laem Thian Pinnacle is a dive site in Koh Tao offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Laem Thian is located on Koh Tao's remote east coast and offers a secluded alternative to the busier west-side sites. The cape features clusters of huge boulders that form a series of exciting swim-throughs, caverns, and caves, creating a site that reveals more detail with each visit. The main swim-throughs are above 20 m with sun penetrating through gaps between boulders to create striking visuals. The rocky coastline from the surface matches the underwater landscape — rugged, boulder-strewn, and dramatically lit. Schools of yellow tail barracuda, butterflyfish, and blue ringed angelfish are resident throughout.
 
 ## Site Information
 
-- **Location**: Koh Tao, Asia
+- **Location**: Laem Thian cape, east coast Koh Tao, Gulf of Thailand
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle / Swim-through
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 16 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 16 m
+- **Typical Visibility**: 10–18 m
+- **Current**: Variable; east coast exposure
+- **Best Time**: November to April (southwest monsoon shelters east coast)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Schools of yellow tail barracuda are a consistent feature. Pairs of blue ring angelfish patrol the swim-through entrances. Butterflyfish are abundant on the rocky reef. Turtles, triggerfish, and moray eels inhabit the boulder base. Banded sea snakes cruise through the channels between boulders.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 16 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-16 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the boulder base at 8–16 m and explore the swim-through formations. The main caverns are above 20 m with some at safety stop level. Work through the archways and rocky channels methodically — multiple passages can be found. Complete a safety stop in the shallow boulder zone where sun penetrates beautifully through the gaps.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat from Koh Tao (approximately 20 minutes to the east coast). East coast sites are more accessible during the northwest monsoon (November–April) when the east is sheltered. Entry via back roll. SMB for ascent.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Dive this site November–April when the east coast is sheltered and conditions are best
+- The swim-throughs at safety stop depth (5 m) are a highlight — don't rush the ascent
+- Multiple visits reveal progressively more passages and critters
+- Pair with Mango Bay or other east coast sites for a half-day east coast exploration
+- Early morning visits avoid any afternoon surface chop on the east coast
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The east coast is more exposed during the southwest monsoon (May–October). Check conditions before committing. Swim-throughs should not be attempted solo. Titan triggerfish nesting areas around the boulders require wide avoidance in summer months.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Sun-penetrating swim-through shots are the defining image of Laem Thian. Position yourself inside the arch and capture the exit opening with sunbeams filtering through. Schools of barracuda above the boulders in blue water make compelling wide-angle subjects.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

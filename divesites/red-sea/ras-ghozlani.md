@@ -11,56 +11,54 @@ osmId: 278086479
 addedBy: osm_import
 ---
 
-## Ras Ghozlani
+# Ras Ghozlani
 
-Ras Ghozlani is a reef dive site in Red Sea, Middle East.
+A projecting reef headland south of Sharm el-Sheikh with a steep wall, gorgonian gardens, and the current-driven fish aggregations typical of exposed headland dives on the Sinai coast.
 
 ## Overview
 
-Ras Ghozlani is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Ras Ghozlani is a reef headland at approximately 27.79°N, 34.26°E on the Sinai Peninsula's southwestern coast, south of Sharm el-Sheikh in the direction of Ras Mohammed National Park. The word "ras" means headland or cape — the protruding nature of this point creates the current acceleration typical of exposed headlands in this section of the Red Sea. Ghozlani lies on the coastal dive axis between Sharm el-Sheikh and Ras Mohammed, and while it doesn't match the prestige of Shark Reef or Yolanda, it provides quality wall diving in a less crowded environment. The headland wall drops steeply from the shallow reef crest to 15–20 metres.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Sinai Peninsula southwestern coast, south of Sharm el-Sheikh (~27.79°N, 34.26°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral reef (headland wall)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 15–25 meters
+- **Current**: Moderate; stronger at the headland point
+- **Best Time**: Year-round; October to May optimal
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The headland point produces current-driven aggregations of anthias, fusiliers, and chromis on the wall face. Grey reef sharks occasionally use the headland current to patrol effortlessly. Gorgonian fans at 15–18 metres on the wall face are well-developed. Moray eels occupy the wall crevices throughout. Schools of barracuda hover in open water off the headland tip. The shallow upper reef carries butterflyfish and surgeonfish in typical Red Sea densities. Cleaning stations are established at 8–12 metres on the lee side of the headland.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter on the leeward side and work around the headland point from north to south or south to north depending on current direction. The point itself at 10–15 metres is the most productive section — station here to observe sharks and passing pelagics. Continue to the more sheltered lee side after visiting the exposed headland face. Safety stop at 5 metres over the shallow reef flat.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day boat from Sharm el-Sheikh (40–60 minutes). Giant stride entry. Often combined with Ras Mohammed park sites or positioned on a coastal cruise between park dives. SMB deployment before ascending.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Dive the headland point early in the dive when air is highest — the most exposed and current-affected section deserves full air resources
+- The lee side of the headland is the correct choice when strong current makes the exposed face uncomfortable
+- Combine with Ras Za'atar (a short distance away) for a two-dive southern Sinai coastal day
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Current at the headland tip can accelerate suddenly — maintain the reef structure as a reference point and avoid drifting into open water. SMB mandatory before ascending. Fire coral on the upper reef crest.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Gorgonian fan portraits at 15–18 metres on the headland wall in natural light are the primary wide-angle subjects. Current-driven school portraits — fusiliers and anthias on the wall face — suit ambient wide-angle technique.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

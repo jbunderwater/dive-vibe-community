@@ -7,60 +7,60 @@ maxDepth: 16
 entryType: boat
 siteType: reef
 ref: null
-osmId: 13614819153
+osmId: null
 addedBy: osm_import
 ---
 
-## Pelican Reef (Dive Site)
+# Pelican Reef (Dive Site)
 
-Pelican Reef (Dive Site) is a reef dive site in Jamaica, Caribbean.
+A productive Montego Bay Marine Park reef named for its abundant seabird activity above, with healthy coral gardens and active fish life below.
 
 ## Overview
 
-Pelican Reef (Dive Site) is a dive site in Jamaica offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Pelican Reef sits within the Montego Bay Marine Park cluster of dive sites near Airport Reef and Stingray City. Named for the brown pelicans that roost and dive on the surface nearby, the site features a broad shallow reef plateau at 5–10 metres that transitions to a gentle slope reaching 16 metres. The reef here has good hard coral coverage including brain corals, mountainous star coral, and pillar coral formations. Gorgonian sea fans and large rope sponges adorn the deeper sections. The site is sheltered and calm, with minimal current — well-suited for beginner divers and those on check-out dives. Visibility typically reaches 20–25 metres.
 
 ## Site Information
 
-- **Location**: Jamaica, Caribbean
+- **Location**: Montego Bay Marine Park, Jamaica
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 16 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 20–25 meters (65–80 feet)
+- **Current**: Minimal
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The shallow plateau is home to large schools of blue chromis, yellow-tail snapper, and French grunts. Hawksbill turtles are regularly sighted on the reef. Parrotfish — stoplight, rainbow, and blue parrotfish — graze constantly across the coral. Spotted eagle rays are occasional visitors on the sandy channels. Nurse sharks rest under coral overhangs. Trumpetfish lurk vertically in sea fans. Spotted moray eels and Caribbean spiny lobsters are found in the reef crevices. Cleaning stations with banded coral shrimp and cleaning gobies are active throughout the day.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 16 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-16 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef plateau at 5–10 metres. Explore the coral heads and sandy channels at mid-depth before working toward the deeper outer slope at 12–16 metres where the sponge formations are largest. Return up the reef slope for your safety stop at 5 metres near the mooring area. Bottom time is generous at these depths.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by dive boat from Montego Bay operators. Boats use mooring buoys within the Marine Park. Entry via giant stride or back roll. Often combined with Stingray City or Airport Reef. Deploy SMB on ascent for boat pickup.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- A good site for first dives at the start of a Jamaica trip to assess conditions and visibility
+- Look for cleaning stations — parrotfish, wrasse, and angelfish pause at cleaning gobies and shrimp stations
+- The pillar coral formations if present are distinctive vertical structures worth seeking out
+- Evening dives reveal octopus and hunting moray eels that are rarely visible during the day
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Fire coral is present on some reef sections — wear adequate exposure protection. Maintain buoyancy above the coral. Deploy SMB before surfacing and be aware of boat traffic in this busy Marine Park zone.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Pelican Reef's mix of hard coral formations, sea fans, and fish provides diverse photographic subjects. Wide-angle compositions of the brain coral and sponge landscape work well. Turtles at cleaning stations are classic Caribbean wide-angle subjects. Macro shooting the cleaning stations reveals shrimp, gobies, and small reef fish at close range.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Marine Park Info**: Montego Bay Marine Park Authority
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

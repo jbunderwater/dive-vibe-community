@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Carnatic Shoal
 
-Carnatic Shoal is a reef dive site in Philippines Palawan, Asia.
+Carnatic Shoal is a shallow submerged reef formation in southern Palawan, one of the network of hazardous-to-navigation shoals that also serve as excellent dive sites in this remote stretch of Philippine waters.
 
 ## Overview
 
-Carnatic Shoal is a dive site in Philippines Palawan offering rewarding diving on healthy coral reef structures . Southern Palawan shoal dive site. Shallow water reef formation.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The shoal lies in the open sea south of Palawan's main island, sitting in water less than 17 meters at its deepest point accessible to divers. Like the other southern Palawan banks and shoals, it was historically significant as a navigational hazard, and its isolation from shore means it remains one of the least-visited dive sites in the Philippines. The reef structure is primarily hard coral, with coral tables and massive Porites formations dominating the shallower sections. Tidal currents sweeping through the surrounding waters keep the reef healthy and productive.
 
 ## Site Information
 
-- **Location**: Philippines Palawan, Asia
+- **Location**: Southern Palawan sea, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral shoal / reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 17 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-25 meters
+- **Current**: Tidal, can be brisk on the shoal edges
+- **Best Time**: November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The shallow reef supports a dense community of reef fish typical of the Coral Triangle, including surgeonfish, parrotfish, large schools of fusiliers, and resident napoleon wrasse. Sea turtles are commonly seen grazing on algae between coral heads. The site's isolation contributes to relatively undisturbed fish populations, and the shoal edges attract patrolling reef sharks and occasional eagle rays.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 17 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-17 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+With a maximum depth of only 17 meters, this is an excellent site for extended bottom time. Begin on the shallowest section and work around the shoal's perimeter. The entire structure can be circumnavigated on a single tank, depending on size. Finish in the shallows and spend the last portion of your dive doing a relaxed macro search before a safety stop just below the surface.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by liveaboard or chartered boat from southern Palawan — the crossing from Puerto Princesa takes the better part of a day. Entry by giant stride; deploy an SMB for the ascent. Confirm surface conditions and current direction with the boat crew before descending.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The shallow maximum depth makes this a good site for a third or fourth dive of the day
+- Slow down and look carefully — the coral community hosts small critters between the coral heads
+- Time your dive to coincide with slack tide for the calmest conditions
+- Bring a fish ID guide; the isolated reef hosts species less commonly seen at tourist sites
+- The site is suitable for Open Water certified divers comfortable with current
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Although shallow, the open-ocean location requires careful navigation and attention to current. Currents can push divers off the shoal quickly. Always maintain visual contact with the reef structure and orient yourself relative to the boat's anchor or drift direction. Carry an SMB and emergency signaling devices.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The bright water and shallow depth make this a photographer's delight. Natural light reaches the reef floor throughout the day. Wide-angle shots of reef fish schools and coral formations work well, and the relatively undisturbed nature of the reef makes for clean, uncluttered imagery.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

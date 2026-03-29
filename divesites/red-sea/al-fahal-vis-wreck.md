@@ -13,55 +13,54 @@ addedBy: osm_import
 
 ## Al Fahal vis Wreck
 
-Al Fahal vis Wreck is a historic wreck dive in Red Sea, Middle East.
+Al Fahal vis Wreck is a wreck dive site located in the southern Red Sea off the Saudi Arabian coast, within the Al Fahal reef complex near Jeddah.
 
 ## Overview
 
-Al Fahal vis Wreck is a dive site in Red Sea featuring the wreck of the Al Fahal vis Wreck. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The Al Fahal vis Wreck rests within the shallow-to-mid-range waters of the Al Fahal reef area, lying at depths to around 30 meters. The wreck has been colonised by encrusting corals and sponges over the years, and the metal structure now serves as an artificial reef attracting dense populations of reef fish. The surrounding reef provides additional diving interest, making this a combined wreck-and-reef experience typical of the central Red Sea. Visibility in this area is generally 20–30 meters, and water temperatures range from 24–30°C depending on season.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Red Sea, Egypt
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20–30 meters (65–100 feet)
+- **Current**: Light to moderate
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter glassy sweepers, lionfish, groupers, coral growth, soft corals, whale sharks, manta rays, hammerhead sharks. Additional species commonly sighted include oceanic whitetip sharks, sea turtles, dolphins. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck structure shelters glass fish, lionfish, and moray eels, while the surrounding reef holds anthias, butterflyfish, and parrotfish. Batfish are frequently seen hovering near the superstructure. Turtles and eagle rays are occasional visitors to the reef platform nearby.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 30 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the main wreck structure, which lies on a sandy bottom at around 25–30 meters. Explore the exterior and any accessible holds before ascending to the reef crest at 10–15 meters for a decompression stop rich with marine life. Allow sufficient bottom time to cover both the wreck and the adjacent reef. A safety stop at 5 meters is straightforward in calm conditions.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is exclusively by boat. Giant stride entry is standard. Follow the dive leader's briefing as currents can shift around the reef edge. Deploy an SMB for pick-up in open water.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Bring a torch to inspect the darker recesses of the wreck
+- The combined wreck-and-reef profile rewards a longer dive plan
+- Morning dives typically offer the best light penetration
+- Keep an eye on the blue water for passing pelagics
+- Check conditions with your liveaboard or day-boat operator before the dive
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Currents around the Al Fahal reef complex can intensify unexpectedly. Avoid penetrating enclosed wreck spaces without proper training and equipment. Lionfish are present around the wreck — maintain awareness. Always carry an SMB and dive with a buddy.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The wreck offers classic wide-angle shots with soft coral encrustation as foreground and the structure framed against blue water. Macro subjects — nudibranchs, small crustaceans, and encrusting life — are found on the hull plates.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

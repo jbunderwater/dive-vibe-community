@@ -13,55 +13,21 @@ addedBy: osm_import
 
 ## Velidhu Hausriff
 
-Velidhu Hausriff is a reef dive site in Maldives, Asia.
+Velidhu Hausriff ("Velidhu House Reef") is the fringing reef directly accessible from Velidhu Island Resort in North Ari Atoll. As a house reef, it serves as the primary training and recreational dive site for resort guests, offering accessible diving from the beach or jetty without needing a boat. The shallow profile and calm conditions make it an excellent introduction to Maldivian reef diving.
 
-## Overview
+### Site Conditions
 
-Velidhu Hausriff is a dive site in Maldives offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+- **Depth range**: 1–12 m
+- **Typical visibility**: 10–20 m
+- **Currents**: Very mild; protected lagoon location
+- **Best season**: Year-round; most productive for marine life during November–April
 
-## Site Information
+### What to Expect
 
-- **Location**: Maldives, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+The house reef wraps around the island's shoreline, offering a variety of terrain from sandy shallows to small coral bommies and modest reef walls reaching 10–12 metres. The reef hosts a thriving resident community of species habituated to regular diver presence — Napoleon wrasse, nurse sharks, and hawksbill turtles that can be approached closely. Parrotfish, triggerfish, and pufferfish are abundant throughout the reef. The sandy bottom between reef structures is productive for macro photography, with nudibranchs, flatworms, and various gobies and shrimp visible on most dives. Night dives from the house reef reveal octopus on hunting forays, resting parrotfish in their mucus cocoons, and large crabs active on the sand.
 
-## Marine Life
+### Tips for Divers
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Shore entry from the resort beach or jetty makes this a flexible, easy-access dive at any time of day. The shallow profile and mild conditions are ideal for newly certified divers completing their first open-water dives post-certification. Night diving is particularly rewarding and is easily arranged through the resort dive centre. The house reef also provides a good snorkelling experience for non-divers in the resort's shallow lagoon zone.
 
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

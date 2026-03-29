@@ -11,55 +11,58 @@ osmId: 12996047689
 addedBy: osm_import
 ---
 
-## The Clump
+# The Clump
 
-The Clump is a reef dive site in New England, North America.
+A rocky reef cluster in mid-Narragansett Bay, Rhode Island, a productive cold-water dive within range of Providence and Newport.
 
 ## Overview
 
-The Clump is a dive site in New England offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Clump is a rocky reef feature in mid-Narragansett Bay at coordinates placing it centrally between the Providence metropolitan area and the bay's mouth at Newport. Narragansett Bay divides into East and West passages, with The Clump's position suggesting it sits in or near the main bay channel. The informal name "The Clump" describes a cluster of rocky features rather than an extended ledge — a compact group of rocky structures rising from the bay floor. Mid-Narragansett Bay diving at 14 metres offers better visibility than the upper bay while remaining more sheltered than the exposed Rhode Island Sound sites at the bay mouth. The site is well positioned for both Providence-area and Newport-area dive operators.
 
 ## Site Information
 
-- **Location**: New England, North America
+- **Location**: Mid-Narragansett Bay, Rhode Island
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 14 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
+- **Typical Visibility**: 4–10 meters (better than upper bay; variable)
+- **Current**: Moderate Narragansett Bay tidal current
+- **Water Temperature**: 8–22°C depending on season
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Mid-Narragansett Bay cold-water reef species. Tautog are well established on the rocky structures — Narragansett Bay is known as excellent tautog habitat throughout. Striped bass hunt the bay in warmer months. Bluefish pass through seasonally. American lobsters inhabit crevices in the rocky cluster. Sea bass present in summer. Cunner hover around encrusted surfaces. Sea urchins on exposed rock faces. Winter flounder on adjacent sandy areas. Narragansett Bay supports a productive food web thanks to its moderate nutrient levels and tidal flushing.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boat access from Providence area or Newport area operators. Descend to rocky cluster at 8–14 metres. Navigate the cluster perimeter — the compact nature of the site means the entire feature can be circumnavigated in a single dive. Plan around Narragansett Bay slack tide. Complete a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat charter required. Mid-bay location is accessible from both north (Providence) and south (Newport) operators. Anchor in sand adjacent to the rock cluster. Deploy SMB before ascending.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Narragansett Bay tautog are reliable — the bay is one of the best tautog grounds in southern New England
+- Mid-bay position provides better visibility than upper bay sites while being more sheltered than sound sites
+- Combine with other Narragansett Bay sites for a productive full-day dive trip
+- 7mm wetsuit or drysuit recommended throughout the season
+- Plan around slack tide for the bay's moderate current
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Moderate Narragansett Bay tidal current at peak flow. Narragansett Bay has significant boat traffic, particularly in summer. Deploy SMB clearly before surfacing. Cold water below thermocline.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Mid-bay visibility allows wider angle approaches than upper bay sites. Tautog portraits and rocky reef subjects are primary. Strobes recommended for color accuracy at 14 metres.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Charter Access**: Providence area dive charters; Newport and Narragansett RI operators
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

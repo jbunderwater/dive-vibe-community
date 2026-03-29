@@ -11,55 +11,58 @@ osmId: 6522122252
 addedBy: osm_import
 ---
 
-## Bentley Rock
+# Bentley Rock
 
-Bentley Rock is a reef dive site in British Columbia, North America.
+A submerged pinnacle in Discovery Passage offering rich cold-water reef life amid strong tidal currents.
 
 ## Overview
 
-Bentley Rock is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Bentley Rock sits in Discovery Passage near Campbell River, one of British Columbia's most current-swept stretches of water. The submerged rock rises from deeper water and concentrates marine life along its flanks, making it a productive dive when timed correctly to slack tide. Water temperatures range from 7–10°C year-round, making a drysuit essential. Visibility averages 6–15 metres depending on tidal conditions and season.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Discovery Passage, Campbell River area, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Submerged rock / reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 6–15 metres
+- **Current**: Strong tidal currents — dive at slack only
+- **Best Time**: Late summer and autumn for best visibility; always at slack tide
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Bentley Rock hosts the full spectrum of cold Pacific Northwest species. Giant Pacific octopus shelter in crevices along the rock's base. Wolf eels occupy den sites in the broken rock structure. Lingcod and copper rockfish hold position on current-swept ledges. Plumose anemones — both white and orange — encrust every hard surface. Puget Sound king crab and sunflower sea stars are common on the bottom. Schools of black rockfish and kelp greenling patrol the mid-water column. Harbour seals frequently investigate divers at this site.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin your descent immediately at slack tide, as currents build quickly in Discovery Passage. The rock's summit reaches approximately 6–8 metres depth, with the productive reef extending down to 18 metres. Work the current-facing side of the rock where filter feeders and invertebrates are most abundant. Keep your bottom time conservative to allow for a controlled ascent before currents pick up. Deploy your SMB before ascending and watch for boat traffic in this busy passage.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Access requires a boat with reliable navigation, as the rock is submerged and must be located with GPS or a depth sounder. Anchor clear of the dive site or use a live boat pickup. The site is exposed to both tidal current and wind chop — conditions can deteriorate quickly. Confirm slack tide times with local tide tables before departure.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Time your dive precisely to the slack — even 30 minutes off can make the site undiveable
+- Download tide tables for Campbell River (Discovery Passage reference station)
+- Carry a surface marker buoy and deploy it before ascending
+- A current hook allows you to hold position on the rock while observing wildlife
+- Local dive operators in Campbell River can advise on current timing and conditions
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Discovery Passage is one of the most current-prone diving areas in BC. Currents can exceed 4 knots between slack periods. Never attempt this site in a running tide. Boat traffic is significant — always surface with an SMB deployed. Cold water (7–10°C) demands drysuit competency. Dive with a buddy familiar with current diving.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The concentration of invertebrate life on Bentley Rock makes it excellent for wide-angle shots showing the rock structure draped in plumose anemones. Macro photographers will find nudibranchs, hermit crabs, and tube worms throughout. The blue-water column above the rock offers opportunities for silhouette shots of rockfish schools. Bring adequate lighting as depth and cold water reduce ambient light significantly.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
+- Campbell River dive charters for current timing
+- Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

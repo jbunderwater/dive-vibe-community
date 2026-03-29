@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Halik
 
-Halik is a drift dive site in Lombok, Asia.
+A drift reef on the northwest side of Gili Trawangan with giant barrel sponges, eagle rays, and good shark activity — accessible from Lombok operators.
 
 ## Overview
 
-Halik is a dive site in Lombok offering rewarding diving on healthy coral reef structures . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Halik Reef runs along the northwest side of Gili Trawangan and is dived as a drift, carrying divers through a varied reef system from the barrel sponge zone at 6 m through to the gorgonian-covered ridges deeper down. The consistent current makes for efficient diving where fish aggregations appear reliably — eagle rays, reef sharks, giant trevally, and large clownfish anemone fields are the signature features. The site is accessible to intermediate divers in the upper sections and offers deeper options for advanced divers. It is one of the most popular sites in the Gili Islands circuit for Lombok day-trip boats.
 
 ## Site Information
 
-- **Location**: Lombok, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Drift
+- **Location**: Northwest Gili Trawangan, accessible from Lombok
+- **Entry Type**: Boat dive (drift)
+- **Site Type**: Drift / Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 20 m
+- **Typical Visibility**: 15–25 m
+- **Current**: Moderate drift
+- **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Eagle rays in mid-water are a defining feature of this reef. White and blacktip reef sharks. Schools of snapper and giant trevally. Giant barrel sponges hosting shrimps and small fish. Extensive anemone fields with clownfish. Lionfish in overhangs. Turtles throughout.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter upstream of the reef and drift with the current. Stay at 10–20 m for the best combination of reef features and pelagic sightings. The barrel sponge zone at 6–10 m rewards a shallower drift. Ascend progressively with the current and complete the safety stop drifting in the upper water column.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat from Lombok or Gili Trawangan operators. Drift entry and pickup. SMB mandatory.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Day trips from Lombok to the Gili Islands often include Halik as one of the featured sites
+- The giant barrel sponges at 6–10 m are worth slowing down to examine carefully
+- Eagle ray sightings are common enough to plan on them rather than hope for them
+- Accessible to intermediate Open Water divers in the 10–18 m range
+- Combine with Shark Point or Turtle Point for a full northwest Gili Trawangan day
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Drift current is always running. Do not fight against it. Be prepared to surface away from the boat and use SMB for pickup. Reef sharks are non-aggressive. Always carry an SMB.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Giant barrel sponges make distinctive wide-angle subjects. Eagle rays in open water suit wide-angle with fast shutter. Clownfish in large, colourful anemones suit close-focus wide-angle compositions.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

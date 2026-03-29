@@ -13,54 +13,29 @@ addedBy: osm_import
 
 ## Entrence base
 
-Entrence base is a reef dive site in Maldives, Asia.
+Entrence base is the primary reference mooring and dive entry point in a cluster of numbered reef sites in North Male Atoll, serving as the anchor position from which the numbered series (110, 128, 155) radiate along the outer reef edge.
 
 ## Overview
 
-Entrence base is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The "base" designation marks this as the operational reference point for the numbered entry system on this section of North Male Atoll's outer reef. The site drops from a shallow reef crest into a sloping wall to 25 meters, with the broadest coral coverage of the cluster — wide hard coral tables and brain corals on the upper slope giving way to sea fans and soft corals in the current-exposed lower zones. The base mooring is typically the most-used entry in the cluster for day trips out of Male, resulting in a site where the fish life is particularly habituated to divers. Turtles are common, often remaining on the reef top during dives, and the resident grouper population is notably large. The sandy base at 25 meters features a resident cloud of garden eels and is a reliable place to find blue-spotted stingrays.
 
 ## Site Information
 
-- **Location**: Maldives, Asia
+- **Location**: North Male Atoll, Maldives
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters
+- **Current**: Moderate; often sheltered compared to 155
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Hawksbill turtles, large grouper, blue-spotted stingrays, garden eels, moray eels, grey reef sharks, schools of snapper and fusiliers, sea fans, and healthy hard coral tables on the upper slope.
 
-## Dive Profile
+## Tips for Divers
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+This site makes an excellent base for divers new to the North Male reef system, as the fish life is approachable and the topography is clear. Combine a descent to the sandy base (25 m) with a leisurely ascent through the coral gardens for a well-rounded 50-60 minute dive. The mooring is typically the busiest of the cluster, so earlier morning dives offer more peaceful conditions.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

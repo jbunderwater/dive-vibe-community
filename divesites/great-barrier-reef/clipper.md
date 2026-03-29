@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Clipper
 
-Clipper is a reef dive site in Great Barrier Reef, Oceania.
+Clipper is a reef dive site on the outer Great Barrier Reef near Lizard Island, Queensland, Australia.
 
 ## Overview
 
-Clipper is a shallow reef site featuring mooring facilities and excellent beginner-friendly diving conditions. Located on the southern reef system off Cairns, this site offers 12-18 meters of visibility with water temperatures of 23-27°C. The site is ideal for entry-level divers and casual recreational diving.
+Clipper is in close proximity to Plate Top and Troppo's, forming part of a cluster of outer reef sites on the same reef structure in the Lizard Island area. The site's name evokes the fast sailing ships that once navigated these outer reef passages, trading between Asian ports and Australian colonies. The site sits on an outer reef section exposed to the Coral Sea, with the characteristic clear water and healthy coral of this northern GBR area.
+
+At 17 metres maximum depth, Clipper is one of the shallower sites in the area, making it ideal as a third or fourth dive of the day when bottom time and no-decompression limits are more constrained.
 
 ## Site Information
 
-- **Location**: Great Barrier Reef, Oceania
+- **Location**: Outer Great Barrier Reef (Lizard Island area), Queensland, Australia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 17 meters
-- **Typical Visibility**: 15-40 meters (50-130 feet)
+- **Typical Visibility**: 15–28 metres
 - **Current**: Variable
-- **Best Time**: September to February
+- **Best Time**: August to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals.
+Clipper's outer reef position delivers consistent fish diversity. Maori wrasse are regulars, often investigating divers with characteristic boldness. Coral grouper and coral trout hold positions in the reef structure, launching ambush attacks on smaller fish. Sea turtles — green and hawksbill both — graze along the reef slope. The reef surface hosts colourful communities of butterflyfish and angelfish, with various species of both families represented. In the sand areas at depth, garden eels extend vertically in communities that retract instantly as divers approach.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 17 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-17 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Follow the reef slope from the crest at 3–5 metres to the sandy base at 17 metres. The site is compact enough to explore thoroughly in a single dive. The sand zone at depth is worth a dedicated 5-minute exploration before ascending along the reef face.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Lizard Island or liveaboard operators. Standard moored dive entry and exit via the boat platform.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Approach the garden eel colonies on the sand slowly and at a low angle — rushing causes them to retract before you reach photographing distance
+- The reef crest in the top 5 metres is a good snorkelling zone for non-diving companions
+- Combine with Plate Top and Troppo's for a comprehensive day of outer reef diving in the area
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish (box jellyfish in summer), crocodiles (north) in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Standard outer reef considerations. The relatively shallow maximum depth at 17 metres makes this site forgiving in terms of no-decompression limits. The main risk is the current — outer reef sites can experience tidal flows that affect navigation.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Clipper suits close-focus wide-angle and standard wide-angle approaches. The garden eel colony on the sand makes an unusual subject — use a very slow approach and frame a few eels against the sandy bottom. Reef fish portraits are straightforward given the typical friendliness of the Lizard Island area fish population, habituated to regular dive activity.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

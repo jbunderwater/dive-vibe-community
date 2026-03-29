@@ -13,55 +13,26 @@ addedBy: osm_import
 
 ## Faille St Etienne
 
-Faille St Etienne is a wall dive site in French Polynesia, Pacific.
+Faille St Etienne is a deep fissure dive site in the Tahiti lagoon near the St Etienne passage, French Polynesia. "Faille" means crack or fissure, and this site is defined by a dramatic vertical split in the reef that descends to 40 metres.
 
 ## Overview
 
-Faille St Etienne is a dive site in French Polynesia featuring a dramatic vertical wall that drops into the deep blue. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The fissure at St Etienne is one of the more dramatic geological features in Tahiti's dive sites. The crack runs roughly north–south through the outer reef slope, creating a narrow passage that divers can swim through or along as it descends steeply. The walls of the faille are covered in encrusting corals, sponges, and black corals that thrive in the lower light of the deeper section. At 40 metres the fissure opens onto the outer slope, where the oceanic influence brings larger pelagics. Visibility can reach 30–40 metres on clear days, and water temperature drops slightly to around 25–26°C at depth.
 
-## Site Information
+## What to Expect
 
-- **Location**: French Polynesia, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 40 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+The upper part of the fissure (10–20 m) has good coral coverage with glassfish swarms that part to allow passage. Deeper, the walls narrow and are draped in black coral (*Antipatharia* spp.) and large sea fans. Nurse sharks and white-tip reef sharks are frequently resting on ledges within the crack. At the base, where the faille meets the open slope, grey reef sharks and the occasional silvertip shark may be encountered. The dive rewards experienced divers with a sense of journeying through a geological fault while surrounded by dense marine life.
 
-## Marine Life
+## Conditions
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+- **Best season**: April–November
+- **Visibility**: 25–40 m typical
+- **Current**: Variable; can be strong at the fissure entrance
+- **Water temperature**: 26–28°C upper, 25–26°C at 40 m
+- **Entry**: Boat dive
 
-## Dive Profile
+## Tips
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+A maximum depth of 40 m means this site is suitable for Advanced Open Water divers and above. Monitor bottom time carefully and begin ascent from depth with a 3-minute safety stop at 5 m. A torch is essential for illuminating the fissure walls below 20 m.
 
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

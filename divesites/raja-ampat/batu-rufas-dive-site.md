@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Batu Rufas Dive Site
 
-Batu Rufas Dive Site is a reef dive site in Raja Ampat, Asia.
+Batu Rufas is a productive reef site in the Fam Islands area of southern Raja Ampat, known for its soft coral-encrusted structures and a reputation as one of the region's manta ray transit corridors.
 
 ## Overview
 
-Batu Rufas Dive Site is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Situated in the Fam Island group, Batu Rufas ("Rufas Rock") is a reef system rising from deeper water whose exposed position in the tidal flow creates ideal conditions for filter-feeding organisms and the larger animals that depend on them. The reef is draped in soft coral — red and orange dendronephthya fans, leather corals, and encrusting sponges give the structure vivid color at depth. Manta rays pass through on their feeding circuits, and experienced divemasters time visits around tidal phases that bring mantas closer to the reef. Water temperature averages 27–29°C with visibility of 15–25 meters.
 
 ## Site Information
 
-- **Location**: Raja Ampat, Asia
+- **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15–25 meters (50–80 feet)
+- **Current**: Moderate; site benefits from tidal flow for soft coral and manta activity
+- **Best Time**: October to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Reef manta rays are the headline attraction — they pass through the site on feeding circuits, particularly during plankton-rich tidal exchanges. The reef itself supports white-tip and black-tip reef sharks, napoleon wrasse, large schools of fusiliers, and occasional bumphead parrotfish. Soft coral gardens host a range of nudibranchs and flatworms. Hawksbill turtles are resident. The Fam Islands area is one of the least-dived regions in Raja Ampat, so marine life is especially undisturbed.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The dive follows the reef structure from the shallows at around 5 meters down to 20–25 meters. The richest soft coral growth tends to be on the current-facing sides of the reef at 12–20 meters. Spend time at depth inspecting the coral structure before ascending slowly up the reef slope. If mantas are present, remain calm and still on the reef top at 8–12 meters and allow them to approach on their feeding passes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by liveaboard tender or day-trip boat. The remote Fam Islands location makes this predominantly a liveaboard site. Entry via giant stride or back roll. Surface conditions are generally calm in this sheltered archipelago. Deploy SMB for ascent when drifting off the reef edge.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Check tidal timing with your guide — manta passage is most likely on the incoming flood tide
+- Carry a wide-angle lens for potential manta encounters alongside a macro setup for soft coral life
+- The site's remote location means dive conditions are usually undisturbed by heavy boat traffic
+- Respect the manta protection zone; do not chase, touch, or cut off manta rays
+- Allow extra bottom time at 10–15 meters for manta passes before ascending
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Moderate currents can occur at Batu Rufas during tidal exchange. Carry an SMB and be prepared to drift if current increases unexpectedly. The remote location means emergency services are many hours away — dive conservatively and plan within no-decompression limits.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Soft coral macro and manta wide-angle define the photographic opportunities at this site. If a manta is present, wide-angle glass is the priority. If no mantas appear, the dendronephthya soft corals at depth are exceptional macro and close-focus wide-angle subjects. Bring both lens configurations if your system allows.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

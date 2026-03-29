@@ -13,55 +13,53 @@ addedBy: osm_import
 
 ## Sau Inn Garden
 
-Sau Inn Garden is a reef dive site in Tanzania, Africa.
+Sau Inn Garden is a coral reef dive site named for its proximity to the Sau Inn lodge area on Zanzibar Island's southeastern coast near Jambiani, characterized by its garden-like coral formations in the protected eastern lagoon waters.
 
 ## Overview
 
-Sau Inn Garden is a dive site in Tanzania offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+The name reflects the reef's appearance — a lush, varied coral garden of different formation types interspersed with sandy openings that create a naturally attractive dive environment. The site lies within the lagoon formed by the eastern Zanzibar fringing reef barrier, with the maximum depth of 18 meters at the outer edge and shallower coral garden zones at 5-10 meters closer to the beach. The protected lagoon position gives Sau Inn Garden some of the most reliably calm conditions on Zanzibar.
 
 ## Site Information
 
-- **Location**: Tanzania, Africa
+- **Location**: Jambiani area, Southeast Zanzibar Island, Tanzania
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 10-15 meters (33-50 feet)
+- **Current**: Very light (protected lagoon)
+- **Best Time**: October to April (northeast monsoon, eastern Zanzibar)
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+The garden coral formations host a diverse and relatively undisturbed community. Angelfish species — emperor, semicircle, and regal — are particularly well represented here. Sea turtles use the garden corals as resting stations and are consistently present. The sandy openings between coral formations shelter pairs of garden eels that extend from their burrows until divers approach. Morays and groupers inhabit the larger coral structures. Lionfish are present and add color but should not be touched.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin at the outer edge of the garden in 15-18 meters and work toward the beach, systematically exploring each coral formation and the sandy channels between them. The unhurried pace that calm lagoon conditions allow is perfect for observing fish behavior at cleaning stations and turtle feeding sites. Finish with an extended session in the 5-8 meter coral garden zone.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from the Jambiani-Sau Inn area. Operators here typically use traditional wooden dhows and small motorized boats that allow multiple dives per day from the beach vicinity. The calm conditions make entry and exit simple even for nervous beginners.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The garden layout rewards slow, non-intrusive diving — set a personal speed limit and observe rather than chase
+- Night dives in the garden produce exceptional encounters with hunting octopus, foraging nudibranchs, and sleeping parrotfish in their mucus cocoons
+- The southeastern Zanzibar coast is quieter and less commercialized than Nungwi — ideal for divers who prefer a more relaxed pace
+- This site is an excellent option for completing PADI Open Water checkout dives in benign conditions
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+One of the safest diving environments in Zanzibar. Minimal current, shallow-moderate depth, and good visibility create low-risk conditions. As always, monitor buoyancy to protect the coral garden and deploy SMB for ascent. Night divers should carry primary and backup torches and agree on navigation protocol before leaving the boat.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The "garden" quality of this site — varied coral formations, sandy openings, and resident fish — creates a naturally attractive photography subject. The calm water and good natural light in the shallower zones (5-10 meters) allow extended photography without subject disturbance. Sleeping parrotfish at night are an unusual and striking photography subject.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

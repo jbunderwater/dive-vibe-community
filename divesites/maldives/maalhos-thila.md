@@ -13,53 +13,36 @@ addedBy: osm_import
 
 ## Maalhos Thila
 
-Maalhos Thila is a pinnacle dive site in Maldives, Asia.
+Maalhos Thila is a celebrated submerged pinnacle in Ari Atoll, renowned among experienced divers for its extraordinary soft coral display — a riot of blue and purple sea fans and whip corals — combined with reliable shark and ray encounters that make it one of the most photogenic thilas in the atoll.
 
 ## Overview
 
-Maalhos Thila is a dive site in Maldives offering rewarding diving on healthy coral reef structures . Awesome dive spot with blue/purple soft corals, fishes and sharks. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Rising from around 30 metres to a summit plateau at 8–10 metres, Maalhos Thila's sides are draped in spectacular blue and purple soft corals, sea fans of exceptional size, and encrusting sponges that burst with colour in torch-light. The current that sweeps the pinnacle feeds these organisms and also draws in the predators: grey reef sharks and white-tip reef sharks circle the structure with regularity, and eagle rays glide past the deeper walls. Schools of fish — particularly parrotfish, snapper, and fusiliers — hover in dense clouds above the pinnacle. The site sits within easy reach of the island of Maalhos in North Ari Atoll and is regularly dived by liveaboards transiting the atoll.
 
 ## Site Information
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 28 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: 2
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Current**: Moderate to strong
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Grey reef sharks, white-tip reef sharks, eagle rays, blue and purple soft corals, large sea fans, schools of parrotfish, fusiliers and snappers, grouper, napoleon wrasse, and anthias on the deeper walls.
 
-## Dive Profile
+## Diving Tips
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 28 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- A wide-angle lens captures the pinnacle's dramatic soft coral backdrops with reef sharks in frame.
+- Plan the dive to spend maximum bottom time at 15–25 metres where the soft coral display is most impressive.
+- Current concentrates the sharks on the upcurrent face — position yourself there early in the dive.
+- Allow ample time for a safety stop at the colourful summit plateau.
 
-## Entry and Exit
+## Getting There
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Maalhos Thila is accessed by boat from resorts in North Ari Atoll or by liveaboard operating in Ari Atoll. Nearest resort access is from Maalhos Island area. Ari Atoll is reached by seaplane (25 minutes) or speedboat (2 hours) from Malé.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

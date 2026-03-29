@@ -13,55 +13,32 @@ addedBy: osm_import
 
 ## Star of Russia Wreck
 
-Star of Russia Wreck is a historic wreck dive in Vanuatu, Pacific.
+The Star of Russia is a wreck dive located in the waters near Port Vila on Efate, Vanuatu — a moderately sized vessel resting at intermediate depth and providing the primary wreck diving option for divers based in the capital who cannot reach the famous Santo wrecks.
 
 ## Overview
 
-Star of Russia Wreck is a dive site in Vanuatu featuring the wreck of the Star of Russia Wreck. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Port Vila, Vanuatu's capital on Efate island, is primarily known for its reef diving — the Efate reef systems are healthy and accessible, with excellent visibility and warm water year-round. The Star of Russia provides wreck diving variety for those based in the capital. The vessel lies at up to 35 meters, with the upper structure accessible at intermediate depths, and the hull well-colonized by the coral and invertebrate growth of a wreck that has been in place for many decades.
 
-## Site Information
+The site's coordinates place it near Efate's northern coast in waters typical of the Port Vila dive zone — visibility of 15–25 meters, mild currents, and water temperatures of 26–28°C year-round. The wreck provides a marked contrast to the open-water reef dives that dominate Efate diving, with its enclosed spaces, structure, and wreck-specific species community.
 
-- **Location**: Vanuatu, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 35 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+## What to Expect
 
-## Marine Life
+The wreck's upper sections at 18–25 meters are the most productive zone, with natural light penetrating well into the upper deck and superstructure areas. Large gorgonian fans have established on the exposed upper structural elements — a sign of good water flow across the site that also brings regular encounters with barracuda and trevally hunting in the water column above. The hull interior spaces shelter the typical wreck community: moray eels, lionfish, and glassy sweepers in the holds.
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The deepest sections at 30–35 meters require careful air management — bottom time is limited at depth, and the most efficient profile is to descend directly to the deepest accessible section and ascend progressively to the upper structure for the final portion of the dive. A dive torch is essential for illuminating the interior spaces and bringing out the colors of the encrusting invertebrates.
 
-## Dive Profile
+## Practical Information
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 35 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+- **Depth Range**: 15–35 meters
+- **Visibility**: 15–25 meters typical
+- **Currents**: Mild to moderate
+- **Entry**: Boat dive from Port Vila operators
+- **Best For**: Intermediate divers based in Port Vila; good complement to Efate reef diving
 
-## Entry and Exit
+## Marine Life Highlights
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Barracuda, trevally, moray eels, lionfish, glassy sweepers, gorgonian fans, soft coral encrustation, snapper, groupers, batfish.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

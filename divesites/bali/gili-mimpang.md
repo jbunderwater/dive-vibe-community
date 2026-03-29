@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Gili Mimpang
 
-Gili Mimpang is a reef dive site in Bali, Asia.
+Also known as Shark Point and Batu Tiga — Candidasa's premier dive site for whitetip reef sharks, wobbegong sharks, and seasonal mola mola.
 
 ## Overview
 
-Gili Mimpang is a dive site in Bali offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Gili Mimpang (Batu Tiga, meaning "three rocks") is a series of three large rocks followed by six smaller ones off the coast of Candidasa, a 10-minute boat ride from Padangbai. The site is widely acknowledged as one of the best places in Bali to see whitetip reef sharks, wobbegong sharks, and the rare coral catshark. The reef is exceptionally well-preserved — highly alive with hard and soft corals, gorgonians, and barrel sponges — and the Indonesian Throughflow brings cooler, nutrient-rich water that feeds abundant fish life. Between July and October, mola mola appear at this site, sometimes in groups, dancing in the current rather than presenting at cleaning stations.
 
 ## Site Information
 
-- **Location**: Bali, Asia
+- **Location**: Amuk Bay, Candidasa area, east Bali
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef / Wall
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 25 m (wall continues deeper)
+- **Typical Visibility**: 10–25 m
+- **Current**: Strong and variable; unpredictable
+- **Best Time**: May to October (mola mola season July–October)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Whitetip reef sharks are the flagship species, often seen in groups resting on sandy patches. Wobbegong sharks and coral catsharks are rare finds that Gili Mimpang is known for. On the shallow eastern reef (5–15 m), turtles, large barrel sponges, giant trevally, and hawksbill turtles are reliable sightings. Mola mola are possible from July to October. Pygmy seahorses hide in the gorgonians.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend on the upcurrent side and follow the sloping reef from 5–25 m. The eastern shallow reef is productive for sharks and turtles. Deeper sections hold the larger gorgonians and are where sharks are most commonly found at rest. Allow the drift to carry you along the reef system. Ascend away from the rocks to open water for the safety stop and SMB deployment.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Padangbai or Candidasa (approximately 10 minutes). Entry via back roll. Currents are strong and variable — this site requires experience with unpredictable drift conditions. Down-currents are possible near the rock faces.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- A minimum of 25 logged dives and Advanced Open Water certification is strongly recommended
+- Time dives for neap tides when currents are most manageable
+- Watch open water carefully — mola mola and pelagics appear suddenly in the blue
+- Dive with a local operator who regularly dives this site and knows the current patterns
+- The shallow eastern reef at 5–12 m rewards slow, careful swimming near the bommies
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Strong, variable, and unpredictable currents are the primary hazard. Down-currents have been recorded near the rock faces. Do not attempt if you are not comfortable with drift conditions. Always carry an SMB. Be aware of depth as the wall deepens rapidly beyond recreational limits.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Whitetip reef sharks resting on sand between coral heads provide some of the most photogenic shark shots in Bali. Wide-angle suits the coral formations and shark encounters. Mola mola in open water require fast shooting; use wide angle and be ready for sudden appearances. Macro opportunities on the reef include pygmy seahorses and nudibranchs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

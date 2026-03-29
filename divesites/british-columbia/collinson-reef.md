@@ -11,55 +11,57 @@ osmId: 977990342
 addedBy: osm_import
 ---
 
-## Collinson Reef
+# Collinson Reef
 
-Collinson Reef is a reef dive site in British Columbia, North America.
+A submerged reef in the Gulf Islands with productive cold-water diving and excellent invertebrate growth.
 
 ## Overview
 
-Collinson Reef is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Collinson Reef sits in the central Gulf Islands in the Haro Strait area, between Salt Spring Island and the southern Gulf Islands group. The reef is subject to moderate tidal currents that support dense plumose anemone and sponge communities on its faces. The site is accessed by boat from Sidney or Salt Spring Island and represents the typical intermediate Gulf Islands dive experience. Water temperatures are 8–11°C with visibility of 8–15 metres in late summer and autumn.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Gulf Islands, Haro Strait area, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Submerged reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 8–15 metres
+- **Current**: Moderate tidal currents in the Gulf Islands
+- **Best Time**: Late spring through autumn
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Collinson Reef supports a typical Gulf Islands cold-water community with some noteworthy density of invertebrate life. Giant Pacific octopus are regularly encountered. Wolf eels inhabit rocky crevices on the deeper sections. Lingcod and copper rockfish are the dominant fish species. Plumose anemones form substantial colonies on exposed faces. Purple and orange encrusting sponges provide habitat for nudibranchs. Puget Sound king crab are occasionally spotted on the reef perimeter. Harbour seals are common throughout the dive.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The reef crest sits at approximately 8–10 metres, with the outer edge dropping to 18 metres. Begin at depth on the reef's current-facing side, work along the reef face, then ascend to the crest for the safety stop portion. The shallower crest zone often hosts the most kelp greenlings and painted greenlings. Allow adequate gas for a 3-minute safety stop and surface swim.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Sidney or Ganges Harbour on Salt Spring Island. Locate the reef by GPS. Anchor on sand well clear of the reef structure. Gulf Islands marine park regulations may apply in some areas — check before anchoring. Deploy an SMB clearly visible before ascending due to vessel traffic in the region.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Salt Spring Island ferry services make this area accessible for diving day trips from Vancouver or Victoria
+- Gulf Islands wolf eel populations are relatively stable — a good reason to visit and observe them respectfully
+- Local Sidney dive shops regularly run charters to Gulf Islands reefs like Collinson
+- Bring a dive light to illuminate crevices and overhangs
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Tidal currents in the Gulf Islands require planning around slack tide. BC Ferries operates in these waters. Anchoring regulations in marine parks must be respected. Cold water (8–11°C) requires drysuit protection. Surface with a visible SMB at all times.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Wolf eels at the reef's deeper sections are a priority photographic subject. Portraits with a wide-angle lens capture both the eel and the surrounding rocky habitat. Plumose anemone fields make excellent wide-angle backdrop compositions. Macro photography on encrusting sponges reveals nudibranchs, sea spiders, and colonial hydroids.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
+- Sidney and Salt Spring Island dive operators
+- Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

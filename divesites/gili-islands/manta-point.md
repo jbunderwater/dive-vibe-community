@@ -13,55 +13,54 @@ addedBy: osm_import
 
 ## Manta Point
 
-Manta Point is a reef dive site in Gili Islands, Asia.
+A seasonal reef site south of the Gili Islands where reef manta rays occasionally visit — a gentle drift through healthy coral with turtle sightings.
 
 ## Overview
 
-Manta Point is a renowned dive site in Gili Islands offering excellent diving on healthy coral reef structures . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Manta Point is located south of the Gili Islands chain, in deeper water where the occasional reef manta ray has been sighted. Unlike the near-guaranteed encounters at Nusa Penida, manta ray sightings here are seasonal and less predictable, but when they do occur the shallow, sheltered depth profile at this site makes for exceptionally accessible encounters. The site is primarily a gentle drift reef with healthy corals, resident turtles, and the full complement of Gili Islands reef fish, making it worth diving regardless of manta sightings.
 
 ## Site Information
 
-- **Location**: Gili Islands, Asia
+- **Location**: South of Gili Islands, near Lombok coast
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef / Drift
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 18 m
+- **Typical Visibility**: 15–25 m
+- **Current**: Moderate; gentle drift conditions
+- **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Reef manta rays are seasonal visitors — most likely May to October when current patterns are optimal. Resident green and hawksbill turtles. Reef sharks cruise the outer sections. Blue-spotted stingrays on sandy patches between coral heads. Reef fish diversity typical of the Gili Islands: parrotfish, triggerfish, sweetlips, and wrasse.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef at 8–18 m and drift gently with the current through the site. Scan both the reef surface and the open water for manta rays — they can appear at any depth level. The coral garden sections are worth slowing down to explore even if manta rays are absent. Complete a 3-minute safety stop before ascending.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat from Gili Islands dive operators. Entry via back roll. Drift pickup from boat. SMB deployment recommended.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Manta sightings are not guaranteed here — treat any encounter as a bonus
+- The reef and turtle encounters alone make this a worthwhile dive
+- Ask your operator about recent manta sightings before booking this specifically
+- Suitable for Open Water divers as the main reef dive even without mantas
+- Combine with another Gili Islands site for a complete diving day
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Standard reef dive precautions apply. Current is gentle but can increase. Manta rays should not be approached closer than 3 m and should not be touched. Always carry an SMB.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Manta ray encounters at this shallow depth produce bright, natural-light shots. Turtle portraits in the coral garden suit wide-angle. The gentle current allows more time for careful composition compared to stronger drift sites.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

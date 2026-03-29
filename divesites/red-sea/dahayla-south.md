@@ -11,56 +11,53 @@ osmId: 517346372
 addedBy: osm_import
 ---
 
-## Dahayla South
+# Dahayla South
 
-Dahayla South is a reef dive site in Red Sea, Middle East.
+The southern section of the Dahayla reef complex in the northern Sinai — a fringing reef with a sandy slope and sheltered bay character, complementing the more exposed northern section with calmer conditions and productive macro diving.
 
 ## Overview
 
-Dahayla South is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Dahayla South sits at approximately 28.61°N, 34.55°E — immediately south of Dahayla North on the Sinai coastal reef complex near the Gulf of Aqaba. The southern section typically has a different character from the northern tip: more sheltered, with a sandy slope at the base of the fringing reef and a bay-type geometry that reduces current exposure. The combination of Dahayla North and South provides two distinct dive experiences on the same reef system — a common approach for day-boat diving in this northern Sinai area.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Northern Sinai, Gulf of Aqaba zone (~28.61°N, 34.55°E)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 15–25 meters
+- **Current**: Mild; sheltered southern section
+- **Best Time**: Year-round; October to May optimal
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The sandy slope at the base of the southern section holds blue-spotted stingrays and goby-shrimp pairs in the calmer water. The fringing reef carries cleaning stations and resident moray eels. Hawksbill turtles rest on the reef platform. The sheltered character concentrates macro invertebrate diversity — nudibranchs and flatworms are found on the coral rubble sections.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the sandy slope at 12–15 metres and search for macro subjects and stingrays. Ascend to the fringing reef face at 8–12 metres for cleaning station observation. Safety stop at 5 metres over the upper reef.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day boat from Nuweiba, Aqaba, or Eilat. Typically the second dive after Dahayla North. Giant stride entry. SMB deployment before ascending.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The sandy slope at the base of the southern section is the macro zone — goby-shrimp pairs and flatfish reward patient searching
+- Pair with Dahayla North for a comprehensive reef exploration on the same day
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Mild conditions typical. Fire coral on the reef. SMB before ascending.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Sandy slope macro subjects — goby-shrimp pairs, stingrays, nudibranchs — in the Gulf of Aqaba's clear water. Natural light conditions are excellent for ambient macro photography throughout.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

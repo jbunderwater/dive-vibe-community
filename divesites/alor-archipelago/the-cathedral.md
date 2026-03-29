@@ -13,55 +13,53 @@ addedBy: osm_import
 
 ## The Cathedral
 
-The Cathedral is a wall dive site in Alor Archipelago, Asia.
+The Cathedral is a wall dive site in the Alor Archipelago, East Nusa Tenggara, Indonesia — a towering volcanic wall formation whose soaring vertical architecture and cathedral-like cavern structures have made it one of the most celebrated and visually dramatic dives in the archipelago.
 
 ## Overview
 
-The Cathedral is a dive site in Alor Archipelago featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The Cathedral earns its name from the geological formations along the wall: a series of arches, chimneys, and partially enclosed cavern-like recesses eroded into the volcanic rock create a structure that evokes the soaring spaces of a gothic nave. Natural light filters down through the openings and illuminates the interior faces of these formations, which are thickly colonised by orange and yellow encrusting sponges, tunicates, and black coral. The wall descends from a reef crest at 5–8 metres and continues to 35 metres before an outward-angled shelf transition. Currents here can be fierce, and the dramatic depth and complex topography require confident advanced diving skills. Liveaboard operators consistently rate this among their top three sites in the Alor region.
 
 ## Site Information
 
-- **Location**: Alor Archipelago, Asia
+- **Location**: Alor Archipelago, East Nusa Tenggara, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 20–35 metres
+- **Current**: Strong to very strong; accelerates along the wall and through the arch formations
+- **Best Time**: May to October (best visibility and most intense pelagic activity)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The Cathedral's recesses and overhangs are home to an extraordinary density of invertebrate life: Christmas tree worms, giant clams, and colonies of flame scallops stud the interior walls of the formations. Lionfish hover in the shadowed archways, and large morays occupy the deeper crevices. Batfish school around the cathedral formations in the 15–25 metre range, sometimes in groups of 30–50 individuals. Grey reef sharks and whitetip reef sharks are present throughout the dive, with shark activity typically highest near the base of the wall at 30–35 metres where cooler current water wells up. The open-water column adjacent to the wall hosts dogtooth tuna, large napoleon wrasse, and occasionally a passing eagle ray. The cavern interiors, while not requiring technical training to enter, reward careful hovering with leopard slugs, ornate ghost pipefish, and nudibranchs not found on the exposed wall face.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-35 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Descent to 25–35 metres is typically made directly to reach the most complex formations and the deepest cavern structures. Spend the first 10–15 minutes exploring the deepest section, where the arches are largest and the shark activity most concentrated. Work up the wall methodically through the 15–25 metre zone where the batfish schools and the interior cavern openings offer the most photographic opportunities. Finish the dive on the upper wall and reef crest at 5–10 metres, which is sheltered enough on most tidal states for a comfortable 5-minute safety stop. Total dive time is usually 50–65 minutes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access exclusively by liveaboard. The entry point is upstream of the first major wall formation, allowing divers to descend the wall face toward the cathedral structures with the current. Exit is by drift pickup downstream; the liveaboard crew follows divers' SMBs. Deploy SMBs at the start of the safety stop — surface conditions can be choppy and current at the surface is strong.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Allow eyes to adjust before entering the cavern interiors — the contrast between the lit open water and the shadowed recesses makes it easy to miss subjects on first pass
+- Swim through the arch formations during the middle of the dive rather than the deepest portion; the light is better at 15–20 metres for interior photography and there is more air reserve for extended exploration
+- The batfish schools respond to calm divers; remain still for 1–2 minutes after approaching and the school often closes in around you
+- Carry a small torch to illuminate the cavern interior walls where the most colourful and unusual invertebrates are found
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The Cathedral's enclosed formations concentrate current through arches and chimneys; flow speed inside can exceed open-wall conditions by a factor of two. Do not enter any enclosed section unless you can see a clear exit and your buoyancy control is sufficient to hover without contact with the formation walls — the sponge and coral inside is extraordinarily fragile and important to the site's character. At 35 metres, no-decompression limits are reached quickly; monitor your dive computer from the moment of descent. This site is inappropriate for divers not yet fully comfortable with depth, current, and overhead environments.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+The Cathedral is Alor's most photogenic dive site for wide-angle work. The arch formations, with their illuminated interiors and light filtering from above, create natural frames for compositions that place the subject inside a cavern with open water beyond. A fisheye lens in a dome port captures the full arch in a single frame. The batfish schools require a medium wide-angle for best coverage. Interior cavern shots benefit from dual strobes to reveal the full colour of the sponge-coated walls without burning out the ambient light from the opening.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

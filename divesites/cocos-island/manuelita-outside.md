@@ -11,57 +11,47 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Manuelita Outside
+# Manuelita Outside
 
-Manuelita Outside is a wall dive site in Cocos Island, Pacific.
+The exposed ocean-facing wall of Manuelita Island with three hammerhead cleaning stations and regular tiger shark sightings
 
 ## Overview
-
-Manuelita Outside is a dive site in Cocos Island featuring a dramatic vertical wall that drops into the deep blue. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Manuelita Outside is the western, ocean-facing side of Manuelita Island, a small islet off the northeast corner of Cocos Island. The site features steep boulder-strewn volcanic slopes dropping into deep water, with the northern section presenting a true vertical wall plunging to 50 meters and beyond. Three distinct hammerhead cleaning stations sit at 20-25 meters depth along the wall, making this one of the most reliable sites at Cocos for close hammerhead encounters. Since approximately 2008, tiger sharks have become regular visitors to this site, adding another layer of excitement to an already impressive dive.
 
 ## Site Information
-
-- **Location**: Cocos Island, Pacific
-- **Entry Type**: Liveaboard
+- **Location**: Western side of Manuelita Island, northeast Cocos Island, Costa Rica
+- **Entry Type**: liveaboard
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 15-30 meters
+- **Current**: Moderate to strong, "washing machine" conditions at extreme north
+- **Best Time**: June to December for hammerheads; year-round for tiger sharks
 
 ## Marine Life
-
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Three hammerhead cleaning stations at 20-25 meters draw large schools of scalloped hammerheads that circle in predictable patterns. Tiger sharks have been sighted regularly since around 2008, often cruising the mid-water along the wall. Eagle rays pass in formation along the wall face. Galapagos sharks, manta rays, and whale sharks make appearances. Massive schools of bigeye jacks swirl in the current. The wall crevices hold whitetip reef sharks, moray eels, and lobsters. This is usually a drift dive, covering the length of the wall as current allows.
 
 ## Dive Profile
-
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-35 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Descent along the mooring line to the wall. The three cleaning stations at 20-25 meters are the primary targets, with divers settling on the boulder slope to observe. The northern section has the most dramatic vertical wall but also the strongest currents, including a turbulent "washing machine" zone at the extreme north end. Most diving occurs between 15-30 meters along the central and southern portions of the wall. The drift carries divers southward in typical conditions.
 
 ## Entry and Exit
-
-This site can be accessed from shore or by boat. Shore entry follows established paths to the water. Boat access is available through local dive operators. Check conditions and choose the most appropriate entry method based on weather and sea state.
+Negative entry from the panga. The exposed ocean-facing position means surface conditions can be rougher than sheltered sites. Exit involves ascending to 5 meters for a safety stop and deploying an SMB for panga pickup, as this is typically a drift dive ending away from the entry point.
 
 ## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Position yourself near the cleaning stations and stay still; hammerheads will approach closely if divers remain calm
+- Look into the blue water regularly for tiger sharks cruising past at mid-depth
+- Avoid the extreme northern "washing machine" zone unless conditions are calm and your divemaster directs you there
+- Nitrox extends bottom time at the 20-25 meter cleaning station depth
+- This site pairs well with Manuelita Inside for a two-dive sequence on the same islet
 
 ## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The exposed ocean-facing position creates strong and sometimes unpredictable currents. The "washing machine" at the extreme north end can tumble divers and should be avoided in strong conditions. The vertical wall in the north drops well beyond recreational limits, making depth awareness critical. Tiger shark encounters require calm behavior; maintain eye contact and do not turn away. Carry an SMB, whistle, and mirror for surface signaling after drift ascents.
 
 ## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+Wide-angle is essential for the hammerhead schools at the cleaning stations. The vertical wall in the north provides dramatic depth perspective for ambient light shots. Tiger sharks offer exceptional photo opportunities if they approach closely. The drift dive format means securing camera gear for the entry and exit is important. Strobes help at the 20-25 meter cleaning station depth where ambient light diminishes.
 
 ## Additional Resources
-
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

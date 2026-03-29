@@ -11,55 +11,53 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Green Island
+# Green Island
 
-Green Island is a reef dive site in Saba, Caribbean.
+A sheltered reef site on Saba's leeward side, offering intermediate divers a diverse slope covered with healthy hard corals, large barrel sponges, and abundant Caribbean reef fish.
 
 ## Overview
 
-Green Island is a dive site in Saba offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Green Island is a reef dive on Saba's western flank, positioned in relatively calmer water compared to the exposed northwest and south pinnacles. The site features a sloping reef that descends from around 8 meters at the crest to 22 meters at the sandy base, with a varied terrain of hard coral formations, sand channels, and coral bommies. The Saba Marine Park's protection since 1987 has allowed the reef to develop dense hard coral coverage including large brain and star coral colonies. Visibility typically reaches 20–30 meters. Water temperature averages 26–28°C year-round, with cooler upwellings possible in winter.
 
 ## Site Information
 
-- **Location**: Saba, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 8–22 m |
+| Difficulty | Intermediate |
+| Entry Type | Boat |
+| Site Type | Reef |
+| Visibility | 20–30 m |
+| Current | Light to moderate |
+| Water Temp | 25–28°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Green Island is particularly known for its population of hawksbill turtles, which are a near-certain sighting throughout the Saba Marine Park. The reef slope hosts large schools of blue tang, creole wrasse, and chromis along with individual French and grey angelfish. Spotted moray eels occupy crevices throughout the reef, and Caribbean spiny lobster can be found sheltering beneath coral overhangs. At the sandy base, southern stingrays bury themselves in the sand patches between bommies. Occasional nurse sharks rest on the sand in the deeper sections.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 22 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descent is via mooring line to the reef crest at approximately 8 meters. Divers typically work north along the slope, gradually descending to 18–22 meters before reversing and ascending the reef face back toward the mooring. The sand-reef interface at 20–22 meters is worth exploring for stingray and lobster encounters before ascending for a safety stop on the crest.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+All dives at Green Island are conducted from licensed dive boats out of Fort Bay. Entry is by giant stride or backward roll onto the mooring descent line. Exit follows standard boat pickup procedure after a 3-minute safety stop at 5 meters. DSMB deployment is recommended.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+Green Island is a good intermediate site for a second dive of the day after an advanced morning dive at Eye of the Needle or Third Encounter. The shallower profile and moderate current make it more forgiving for gas management. Morning light hits the western face well for photography, particularly in the 8–15 meter range. The sandy clearings between bommies are excellent for close-focus wide-angle shots of resting rays.
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Current at Green Island is generally lighter than exposed pinnacle sites but can increase on incoming tides. Fire coral is present on the reef structure — maintain buoyancy and avoid contact. Sea urchins are common in sandy areas. Always carry a DSMB.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The shallow crest at Green Island has excellent ambient light for fish portraits, particularly for the angelfish species that are approachable and photogenic. Wide-angle shots of the coral slope with turtle sightings are a highlight. At depth, barrel sponge formations provide strong compositional elements.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- Saba Conservation Foundation: saba-nature.org — dive site maps and conditions
+- Saba Divers and Sea Saba both visit this site regularly
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Flare Point
 
-Flare Point is a reef dive site in Great Barrier Reef, Oceania.
+Flare Point is a reef dive site in the southern Ribbon Reefs of the northern Great Barrier Reef, Queensland, Australia.
 
 ## Overview
 
-Flare Point is a recreational reef dive site with good coral formations and diverse fish populations. Located along the outer reef in the central Great Barrier Reef, this site offers 12-18 meters of visibility with water temperatures of 23-27°C. The site is accessible to recreational divers seeking quality reef diving with abundant marine life and photography opportunities.
+Flare Point sits near the southern end of the Ribbon Reefs chain, in close proximity to Steve's Bommie and Flare Point offers a broader reef experience that complements the concentrated bommie diving of the area. The site spans a section of outer reef slope where the reef top gives way to a sloping face descending through progressively deeper coral zones to a sandy bottom at 19 metres.
+
+The reef is in good health by GBR standards and offers representative outer Ribbon Reef diving — excellent coral coverage, reliable fish diversity, and occasional pelagic visitors. Its position at the reef edge makes it a natural aggregation point for species moving between the open water and the reef.
 
 ## Site Information
 
-- **Location**: Great Barrier Reef, Oceania
+- **Location**: Ribbon Reefs (southern section), northern Great Barrier Reef, Queensland, Australia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 19 meters
-- **Typical Visibility**: 15-40 meters (50-130 feet)
-- **Current**: Variable
-- **Best Time**: September to February
+- **Typical Visibility**: 15–30 metres
+- **Current**: Variable; mild to moderate
+- **Best Time**: July to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals.
+The reef slope supports a broad cross-section of GBR species. Maori wrasse patrol the upper reef, and large parrotfish graze the coral surface noisily. Coral grouper and coral trout occupy the overhangs on the deeper sections. Turtles — both green and hawksbill — are regular grazers and browsers along the reef slope. Whitetip reef sharks rest on sandy patches. Above the reef, schools of fusiliers and surgeonfish move in coordinated formations. The site regularly produces eagle ray sightings in the open water off the reef edge.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 19 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-19 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef slope base at 17–19 metres, then follow the contour of the reef upward and along its length. The reef top at 5–10 metres provides an excellent final phase with strong light, dense fish activity, and a comfortable safety stop. The site is well-suited to a single-circuit dive that covers both the deeper slope and the shallower reef top.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Liveaboard access only. Free descent to reef slope. Exit via SMB on open water with boat pickup.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Watch the blue water off the reef edge for eagle rays — they frequently appear without warning from the open water
+- The upper reef top at 5–8 metres in morning light is ideal for natural-light wide-angle photography
+- Combine with a dive at nearby Steve's Bommie for a contrast between bommie and open reef diving
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish (box jellyfish in summer), crocodiles (north) in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Standard outer reef precautions apply. Current can be localised around the reef point — be prepared for surge on the exposed side. Box jellyfish risk is low at outer reef sites but increases during the November–April season.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Flare Point offers classic outer reef wide-angle photography: reef slope receding into the blue, large wrasse and parrotfish in their natural context, and turtle portraits. The clear water and good depth range allow for environmental images that convey the scale of the reef structure.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

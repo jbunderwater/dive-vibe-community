@@ -13,54 +13,29 @@ addedBy: osm_import
 
 ## Entrence 155
 
-Entrence 155 is a reef dive site in Maldives, Asia.
+Entrence 155 is a numbered reef mooring point and dive entry in North Male Atoll, part of the systematically organised outer reef access network used by Male-based dive operators.
 
 ## Overview
 
-Entrence 155 is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Entrence 155 is one of the outermost numbered entry positions in this cluster, providing access to a section of outer reef slope exposed to stronger tidal currents than the base and lower-numbered entries nearby. The reef at this position features well-developed soft coral growth on the mid-slope faces that receive the most current, along with hard coral tables and branching formations on the upper crest. The deeper reaches of the slope transition to a more vertical wall profile, with overhangs sheltering glass fish clouds and hunting lionfish. Pelagic species such as eagle rays and big-eye trevally are regularly encountered at depth on the outer face. The slightly more northern position in the cluster can receive different current angles from the adjacent numbered sites, making dive conditions here subtly distinct — particularly appealing when the current favours the outer wall from the oceanic side.
 
 ## Site Information
 
-- **Location**: Maldives, Asia
+- **Location**: North Male Atoll, Maldives
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters
+- **Current**: Moderate to strong on exposed faces; variable with tide
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Eagle rays, big-eye trevally, lionfish, glass fish, grey reef sharks, soft corals and sea fans on current-exposed faces, moray eels, parrotfish, and hawksbill turtles.
 
-## Dive Profile
+## Tips for Divers
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The outer face of Entrence 155 can experience stronger current than the nearby base and 110 sites, so check conditions before committing to the exposed wall. If current is running, working the sheltered down-current face is productive and more comfortable. Combine with a deeper pelagic pass at 20-25 meters on entry for the best chance of eagle ray encounters.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

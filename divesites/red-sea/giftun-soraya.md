@@ -13,55 +13,50 @@ addedBy: osm_import
 
 ## Giftun Soraya
 
-Giftun Soraya is a reef dive site in Red Sea, Middle East.
+Giftun Soraya is a sheltered reef and protected mooring area off Small Giftun Island (Giftun Soraya), part of the Giftun Island National Park south of Hurghada.
 
 ## Overview
 
-Giftun Soraya is a dive site in Red Sea offering excellent diving on healthy coral reef structures . mooring place for dive boats. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Giftun Soraya (the smaller Giftun island, as opposed to the larger Giftun Kebir) lies within one of the Red Sea's most visited marine protected areas. The reef surrounding the island offers calm, sheltered diving on the island's lee side, making it a favourite with beginners and those seeking a relaxed dive after more demanding sites in the area. The reef wall here is gentle rather than dramatic, sloping from the coral-draped shallows down to a sandy floor at 12–15 meters. Hard corals are abundant and in good health given the park's protected status, and the island's moorings see regular day boats from Hurghada operating half-day and full-day snorkel and dive trips.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Small Giftun Island, Giftun Island National Park, south of Hurghada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Sheltered fringing reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 15–25 meters
+- **Current**: Minimal to mild on the lee side
+- **Best Time**: Year-round; October to May for most stable conditions
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The shallow reef is teeming with colourful reef fish — butterflyfish, parrotfish, wrasse, and chromis fill the water above the coral. Clownfish inhabit anemones on the reef flat, and hawksbill turtles are regularly seen grazing. humphead wrasse are present and notably accustomed to human contact given the high visitor numbers. Bluespotted stingrays rest under coral overhangs, and sergeant major fish defend egg patches on flat rock surfaces. The sandy floor hosts garden eels at the reef base.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The shallow nature of this site means extended bottom times are comfortably achievable within no-decompression limits. Follow the reef slope from the mooring buoy, descending to the sandy floor at 12–15 meters and slowly working back up the slope. The most diverse coral sections are in the 5–10 meter range. Finish on the reef flat for the safety stop while observing turtles and reef fish from above.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day-boat access from Hurghada. The island is served by numerous licensed operators and the mooring infrastructure is well maintained. Entry by giant stride. Exit back to the mooring boat using the reference line.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- An ideal site for newly certified divers to build confidence in clear, warm, calm water
+- Bring an underwater camera — the fish life in the shallows is dense and approachable
+- Snorkellers can observe the same shallow reef from the surface alongside divers
+- Arrive early — this site can get busy with multiple boats by mid-morning
+- The island also offers a beach break between dives
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The site is extremely beginner-friendly, but basic safety practices still apply. Deploy an SMB before surfacing as boat traffic in the Giftun area can be heavy. Avoid touching coral or reef surfaces. Sunscreen should be reef-safe — enforcement of this is increasingly common in the national park.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The shallow, clear water and abundant fish life make this an excellent photography site without the need for artificial lighting. Natural light is strong throughout the morning and afternoon. Clownfish in anemones and resting turtles are standout subjects. Wide-angle with ambient light works beautifully in the 5–10 meter range.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

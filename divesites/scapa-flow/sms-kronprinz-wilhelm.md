@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## SMS Kronprinz Wilhelm
 
-SMS Kronprinz Wilhelm is a historic wreck dive in Scapa Flow, Europe.
+The most accessible of Scapa Flow's three König-class battleships, lying upside-down at 38 meters with the stern gun turrets clearly visible — the recommended starting point for understanding the Fleet's great battleships.
 
 ## Overview
 
-SMS Kronprinz Wilhelm is a dive site in Scapa Flow featuring the wreck of the SMS Kronprinz Wilhelm. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+SMS Kronprinz Wilhelm was a König-class dreadnought battleship — one of the most powerful warship designs of WWI. Originally named simply Kronprinz, she was renamed Kronprinz Wilhelm in 1918 to honor Crown Prince Wilhelm. Laid down in Kiel in 1911 and launched in February 1914, she participated in the Battle of Jutland before being interned at Scapa Flow. She was scuttled on June 21, 1919. Like her König-class sisters, she lies upside-down on the seabed, with her hull rising to 12 meters — the shallowest of the three remaining battleships — before the keel reaches 37–38 meters. The Kronprinz Wilhelm is the recommended starting point for divers wishing to understand the König-class battleships because her shallower profile and the visible stern gun turrets provide the clearest initial understanding of the scale and layout of these extraordinary warships.
 
 ## Site Information
 
-- **Location**: Scapa Flow, Europe
+- **Location**: Scapa Flow, Orkney, Scotland
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck (battleship — protected scheduled monument and war grave)
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 38 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: May to October
+- **Maximum Depth**: 38 meters (125 feet)
+- **Typical Visibility**: 5–20 meters (16–66 feet) — best May and September–October
+- **Current**: Light
+- **Water Temperature**: 6–14°C (43–57°F)
+- **Best Time**: May–October
 
 ## Marine Life
 
-Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+All three König-class battleships support similar cold-water communities on their upturned hulls. Plumose anemones and dead man's fingers are prolific on the exposed hull surfaces. The Kronprinz Wilhelm's shallower upper hull — rising to 12 meters — allows more natural light than the deeper wrecks, resulting in more active encrusting growth in the upper zones. Conger eels, large edible crabs, and kelp-associated species are found at the shallower sections. Pollack and saithe are abundant in mid-water.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 38 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the upturned hull at 12 meters and navigate along the keel toward the stern, descending gradually to the gun turret zone at 30–35 meters. The stern 12-inch gun turrets — their barrels clearly visible extending from the upturned hull — are the primary objectives and represent some of the most extraordinary sights in wreck diving. Plan descent and ascent carefully given the Advanced depth profile.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Stromness charter operators. Advanced Open Water certification minimum — some operators require wreck diving experience beyond this. Shot line descent. Dry suit and cold-water regulators mandatory. SMB deployment before surfacing.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- The Kronprinz is the recommended starting battleship — understand her before attempting the König or Markgraf
+- The stern gun turrets with their 12-inch barrels are the defining sight — budget significant time in this area
+- Study König-class battleship plans before diving — the upside-down orientation makes structural understanding essential
+- Multiple dives across multiple days are needed to comprehend the full scale of this 175-meter battleship
+- A Scapa Flow guide who specializes in the battleships adds significant value to these dives
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+This is a war grave — the remains of the Kronprinz Wilhelm's crew are within the wreck. The utmost respect for the site is required. The 38-meter depth with cold water and elevated gas consumption rates requires careful dive planning. No-decompression limits must be managed with a safe gas reserve for ascent. This is a protected scheduled monument — no artifact contact or removal is permitted under any circumstances.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The stern gun turrets at 30–35 meters are Scapa Flow's most dramatic single photographic subjects. The scale of the 12-inch gun barrels extending from the upturned hull is almost impossible to convey with a single photograph, but wide-angle lenses come closest. Powerful artificial lighting is essential at depth. The upper hull at 12 meters allows wider apertures with better natural light exposure during summer dives.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*

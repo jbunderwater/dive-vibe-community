@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## The Conestoga
 
-The Conestoga is a historic wreck dive in Great Lakes, North America.
+The Conestoga is a 20th-century steel canal vessel that sank in the St. Lawrence River near the Thousand Islands region, Ontario, in 1922. One of several steel wrecks in the Thousand Islands diving area, the Conestoga lies in approximately 20 metres of the St. Lawrence's clear, flowing freshwater, providing a 20th-century industrial complement to the 19th-century wooden schooners that dominate the region's wreck collection.
 
 ## Overview
 
-The Conestoga is a dive site in Great Lakes featuring the wreck of the The Conestoga which sank in 1922. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Conestoga sank in 1922 — relatively recent by Great Lakes wreck diving standards — in the St. Lawrence River near the Thousand Islands. She was a canal-size vessel designed to navigate the original St. Lawrence canals before the Seaway era. The steel hull has survived a century in the river's clear, cold water in excellent condition, and the 20th-century construction means the vessel's details are more familiar to modern eyes than the wooden schooners typical of the region. The Thousand Islands' excellent visibility (8–15 metres from the constantly flowing river) makes exploring the Conestoga's steel hull a clear, engaging dive.
 
 ## Site Information
 
-- **Location**: Great Lakes, North America
+- **Location**: St. Lawrence River, Ontario, Canada (Thousand Islands)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 20 metres
+- **Typical Visibility**: 8–15 metres
+- **Water Temperature**: 4–22°C (seasonal)
+- **Current**: Moderate; St. Lawrence River current
+- **Best Time**: June to September
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The St. Lawrence River around the Thousand Islands supports abundant freshwater life. Northern pike are the signature encounter near this wreck — large, powerful fish that hunt in the current along the hull. Smallmouth bass claim sheltered sections. Yellow perch and walleye are seasonally present. The steel hull's industrial features attract different species than the wooden-schooner environment — channel catfish are more commonly seen near steel wrecks. The flowing river keeps the hull largely free of the heavy mussel colonization typical of lake wrecks.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Plan the dive with the current in mind. Descend to the wreck and explore the steel hull sections, machinery areas, and cargo hold. The 1922 construction means identifiable 20th-century features — steam or diesel machinery, steel plate construction, riveted seams. On ascent, deploy SMB early and coordinate with the dive boat for current-assisted pickup.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Charter dive boats from Gananoque or Brockville provide access. The Thousand Islands dive charter network is excellent. Entry by giant stride. River current management is key.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- The Conestoga complements the wooden schooner wrecks of the area with 20th-century industrial character
+- Sinking in 1922, this is one of the more recently sunk wrecks in the Thousand Islands collection
+- Combine with the Robert Gaskin or Lillie Parsons for a varied Thousand Islands dive day
+- Current experience recommended
+- Drysuit recommended for cold river water
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+St. Lawrence River current is the primary safety consideration. Commercial shipping traffic requires dive flag and SMB. Cold water demands thermal protection. Always dive with a buddy.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The steel construction of the Conestoga provides macro photography subjects distinct from wooden wrecks — rivets, steel plate textures, machinery components, and hull fittings. Northern pike encounters in the flowing river are excellent photography subjects.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

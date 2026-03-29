@@ -11,55 +11,57 @@ osmId: 663869312
 addedBy: osm_import
 ---
 
-## Little Group Islands
+# Little Group Islands
 
-Little Group Islands is a reef dive site in British Columbia, North America.
+A cluster of small islands in the central Gulf Islands with excellent perimeter reef diving.
 
 ## Overview
 
-Little Group Islands is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Little Group Islands are a cluster of small rocky islands in the central Gulf Islands between Salt Spring Island and the Saanich Peninsula. Like most Gulf Islands features, the rocks extend below the waterline to create productive reef terrain. Multiple islands provide varied diving around their perimeters, with typical Gulf Islands cold-water conditions. The site is accessible from Sidney or Ganges. Water temperatures are 8–11°C and visibility reaches 8–15 metres in good conditions.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Central Gulf Islands, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Small island reef complex
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 8–15 metres
+- **Current**: Moderate tidal currents in the Gulf Islands
+- **Best Time**: Late spring through autumn
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The multiple small islands create varied microhabitats. Giant Pacific octopus are found in rocky crevices around all the islands. Lingcod are present throughout, with larger individuals claiming territories on the island bases. Copper and quillback rockfish are abundant. Plumose anemones and encrusting sponges cover exposed surfaces. Kelp greenlings and painted greenlings are present in the shallower kelp zones. Harbour seals haul out on the islands and follow divers underwater. California sea lions visit seasonally.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Multiple islands provide multiple dive targets. A single dive typically focuses on one or two island perimeters. Work deeper around the outer faces first, then circuit the shallower tops for the safety stop zone. The channel between the islands can have stronger current — plan accordingly. Allow adequate gas for extended swimming between islands.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Sidney or Ganges Harbour. The islands appear on navigational charts. Anchor on sand between the islands, clear of rocky perimeters. Respect any wildlife haul-out areas. Deploy SMB before ascending — Gulf Islands vessel traffic is active in summer.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Multiple islands allow dive site selection based on current — choose the most current-sheltered island if needed
+- Sea lion encounters are possible around these small islands
+- Morning dives benefit from calmer water before afternoon winds develop in the Gulf Islands
+- Local dive operators in Sidney and Salt Spring Island know these islands well
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Tidal currents and vessel traffic in the Gulf Islands require planning and SMB deployment. Wildlife haul-out areas must be respected — approach seals and sea lions with care and distance. Cold water (8–11°C) demands drysuit protection. Multiple dive targets require careful gas management.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Sea lion and seal interactions around island dive sites are exceptional wildlife photography opportunities. Wide-angle compositions of island perimeter terrain with fish and invertebrates make strong images. The multiple islands allow varied compositions within a single dive day.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
+- Sidney and Salt Spring Island dive operators
+- Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

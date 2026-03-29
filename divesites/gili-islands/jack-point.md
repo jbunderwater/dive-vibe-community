@@ -13,55 +13,54 @@ addedBy: osm_import
 
 ## Jack Point
 
-Jack Point is a wall dive site in Gili Islands, Asia.
+A current-swept western headland of Gili Trawangan where jackfish schools, reef sharks, and rays concentrate at the tip of the drift.
 
 ## Overview
 
-Jack Point is a dive site in Gili Islands featuring a dramatic vertical wall that drops into the deep blue . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Jack Point marks the central western headland of Gili Trawangan, where the drift currents that run along both the north and south sides of the island converge. At this point, schools of jackfish (trevally) and smaller fish assemble in the meeting of the currents, creating the dense fish aggregations that give the site its name. Divers approach the point at depth and rise to observe the spectacle before the current carries them around the point. Reef sharks, blue-spotted stingrays, and cuttlefish are regular companions throughout. The site can be dived at three levels — deep, midwater drift, and shallow — making the planning flexible.
 
 ## Site Information
 
-- **Location**: Gili Islands, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Location**: West Gili Trawangan, Gili Islands
+- **Entry Type**: Boat dive (drift)
+- **Site Type**: Wall / Drift
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 35 m
+- **Typical Visibility**: 15–25 m
+- **Current**: Strong at the point; drift conditions essential
+- **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Schools of jackfish (bigeye and bluefin trevally) are the signature species at the point. Reef sharks cruise the current-swept headland. Blue-spotted stingrays on the sandy patches. Cuttlefish, chromis, basslets, and colourful reef fish in the shallower sections. Rays occasionally pass in open water.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-35 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Boat entry upstream on the north or south approach, depending on current direction. Descend to 25–30 m for the deep dive option, or stay at 12–18 m for the midwater drift. Approach the point with the current and spend time at the tip observing the jackfish aggregations. Ascend via the upper reef flats before being carried around the point into open water. Always carry a safety balloon and be prepared to surface and wait for the boat.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat from Gili Trawangan. The current here can carry divers off the point into open water. Close coordination with the boat is essential. SMB mandatory — deploy before ascending in case of open water surfacing.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Advanced Open Water certified with drift experience required
+- Plan to end the dive at the reef flats before the tip of the point, not after
+- The shallow version at 5–12 m is more manageable for less experienced advanced divers
+- Neap tides reduce the current intensity significantly
+- Combine with Halik/Trawangan Wall for a full western Gili Trawangan day
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Strong current at the headland can sweep divers off the point into open water. Have an agreed abort plan with the guide before descending. If swept off the reef, surface immediately with SMB and wait for the boat. Do not attempt in very strong current conditions. Always dive with a buddy.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+Dense jackfish schools backlit by open water are the classic Jack Point image. Wide-angle suits the school density. Reef sharks passing in the current suit fast shutter speed wide-angle shooting. The current-swept point is challenging for composition — pre-focus and be ready.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

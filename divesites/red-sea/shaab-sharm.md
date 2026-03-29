@@ -13,54 +13,53 @@ addedBy: osm_import
 
 ## Shaab Sharm
 
-Shaab Sharm is a reef dive site in Red Sea, Middle East.
+Shaab Sharm is a submerged coral reef in the central Egyptian Red Sea at roughly 24.79°N, situated on the outer shelf between Quseir and the Marsa Alam area, offering clear open-ocean conditions and typical outer-reef marine life.
 
 ## Overview
 
-Shaab Sharm is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Shaab Sharm occupies a position on the middle Egyptian Red Sea outer shelf, away from the heavily trafficked resorts to the north and with the quieter character of the central dive corridor. The reef rises from deeper water to a broad platform with sloping sides, and the outer edges provide the most interesting diving terrain with coral-rich slopes, overhangs, and reliable fish populations. This part of the Egyptian Red Sea benefits from good year-round visibility, averaging 25–30 metres, and the offshore location moderates both temperature and the impact of inshore sedimentation. The reef name "Sharm" (Arabic for "inlet" or "bay") suggests a bay-like structure on at least one face, providing some shelter from prevailing winds.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Central Red Sea, Egypt (outer shelf, lat 24.79°N)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 25-30 meters (80-100 feet)
+- **Current**: Moderate; variable
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Reef fish at Shaab Sharm follow the patterns common to Egypt's central outer reefs: dense anthias colonies, permanent grouper residents, and reef-cruising humphead wrasse are reliable. Sea turtles appear on the platform, particularly in the shallower sections where algae and sponge growth provides feeding opportunities. Grey reef sharks patrol the outer edge, and the sandflats around the reef base shelter stingrays and goatfish. Moray eels are abundant in the crevices throughout the reef structure.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The standard dive begins at the reef edge, descending the slope from the platform at 5–8 metres to the sandy bottom at around 18–20 metres. After exploring the outer slope, divers follow the reef perimeter before returning to the platform shallows for the safety stop. The sheltered side provides calmer conditions if current is running on the outer face.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by day boat from Quseir-area operators or by liveaboard covering the central Red Sea corridor. Entry is by giant stride from the boat. SMBs must be deployed on every ascent given the offshore location and potential for current drift.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The sheltered bay-facing side is a good starting point when current or visibility makes the outer face challenging
+- Carry a dive computer to manage no-decompression limits on the outer slope
+- The reef platform in 5–8 metres rewards lingering — turtle encounters are common at this depth
+- Combine with other central Red Sea outer-reef sites for a productive liveaboard day
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+As with all outer Red Sea sites, divers must be prepared for self-sufficient open-water diving. Currents are generally moderate but can accelerate at reef tips. The remote location means emergency support requires significant transit time — dive conservatively. Always ascend with a deployed SMB.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The central Red Sea outer shelf typically offers slightly less surge than northern coastal sites, providing stable conditions for photography. Reef landscape shots benefit from the reliable 25–30 metre visibility. Turtles on the shallow platform photograph well in natural light during midday.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

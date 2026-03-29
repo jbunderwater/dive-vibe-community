@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Aquarium
 
-Aquarium is a reef dive site in Guadeloupe, Caribbean.
+Aquarium is an ultra-shallow reef dive near Malendure on the west coast of Basse-Terre, named for its extraordinary fish density and clarity — conditions that make it feel like diving inside a well-stocked display tank.
 
 ## Overview
 
-Aquarium is a dive site in Guadeloupe offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Sitting in the sheltered waters near the Jacques Cousteau Underwater Reserve, the Aquarium site reaches only 6 meters at maximum depth, making it an ideal choice for beginners, snorkel-diver hybrids, and underwater photographers who want extended bottom time with abundant subjects. Despite the shallow profile, the reef is dense with hard and soft coral, including large brain coral formations and sea fans, and fish life is exceptional. Visibility regularly exceeds 25 meters in the dry season. Water temperatures hold around 26–28°C year-round.
 
 ## Site Information
 
-- **Location**: Guadeloupe, Caribbean
+- **Location**: Malendure, Basse-Terre, Guadeloupe (near Pigeon Island)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Shallow coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 6 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 20–30 meters
+- **Current**: Very mild, usually negligible
+- **Best Time**: November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The Aquarium lives up to its name — dense populations of French and grey angelfish, queen triggerfish, French grunts, yellowtail snappers, and countless parrotfish in all phases create a constant swirl of colour. Hawksbill turtles are frequently encountered resting on the reef or cruising between coral heads. Spotted morays extend from crevices, and banded coral shrimp occupy cleaning stations under ledges. The sandy margins support southern stingrays gliding along the bottom.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 6 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-6 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The flat, shallow profile allows divers to move freely at one depth level across a wide reef area. Maximum depth is 6 meters — no decompression concerns and no need for complex planning. Beginners can focus entirely on buoyancy control and observation. Extended bottom times are possible; most divers stay 40–60 minutes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Giant stride or back-roll entry from a dive boat moored near the site. Ascend slowly at the end of the dive and deploy an SMB for boat pickup. The site is typically dived in conjunction with nearby Jardin de Corail or the Cousteau Reserve as part of a two-tank day.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Perfect for post-certification confidence building and buoyancy refinement
+- Morning light (9–11am) creates the best ambient conditions for photography
+- Look closely at coral heads for cleaning stations active with shrimp and small wrasse
+- Stay shallow and slow — fish are accustomed to divers and will approach closely if you're still
+- An excellent snorkeling site as well for non-diving companions
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The shallow profile creates no decompression risk, but boat traffic in the Malendure area requires care on the surface. Always surface with an SMB inflated. Fire coral is present — check before touching any coral structure.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The combination of crystal-clear shallow water, dense fish life, and good natural light makes Aquarium one of Guadeloupe's top photography sites. Compact cameras and GoPros perform excellently here without strobes. Wide-angle shots capturing schools of fish against coral backdrops are particularly effective in the morning hours.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

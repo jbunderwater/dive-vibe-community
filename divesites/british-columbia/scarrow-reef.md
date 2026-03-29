@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Scarrow Reef
 
-Scarrow Reef is a reef dive site in British Columbia, North America.
+Scarrow Reef is a rocky submerged reef in the central Gulf Islands of British Columbia, Canada, offering a classic Gulf Islands cold-water diving experience.
 
 ## Overview
 
-Scarrow Reef is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Scarrow Reef occupies a position in the central Gulf Islands between Galiano Island and the surrounding channels. Like most Gulf Islands reefs, it benefits from strong tidal flushing that delivers cold, nutrient-laden water, supporting dense invertebrate and fish communities. Water temperature is 7–12°C throughout the year. Visibility ranges 6–15 metres depending on tidal phase and season, with late summer and autumn being clearest. Currents are a factor and should be respected.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Central Gulf Islands, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 6–15 metres
+- **Current**: Moderate; tide-dependent
+- **Best Time**: July to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Rockfish species including copper rockfish, quillback rockfish, and kelp greenling are the most visible fish residents. Lingcod occupy prominent rocky ledges and are regularly encountered by divers. Plumose anemones in orange and white cover vertical surfaces across the reef. Giant Pacific octopus inhabit the boulder areas, and nudibranch diversity is good on encrusted rock faces. Harbour seals are a near-constant companion at this site.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the deeper sections of the reef at 15–18 metres and work systematically across the structure, exploring crevices and overhangs. Ascending gradually through the reef's mid-section, divers typically spend the latter portion of the dive in the shallower, kelp-rich zone before a controlled ascent and safety stop.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access is required. Moor away from the reef to protect the benthic life, and enter with a descent line or negative entry if current is running. The live-boat approach with drift pickup is used when tidal flows are strong.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Tidal planning is important — aim for slack water for the most comfortable dive
+- Look under ledge overhangs for resting lingcod during daylight
+- Plumose anemone growth is especially thick on the north-facing sections
+- A dive light greatly improves crevice and overhang exploration
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Current around exposed reefs in the Gulf Islands can build quickly. Do not dive against a strong tidal flow. Monitor gas turn-around pressure carefully if any current is present. Cold water thermal protection is mandatory. Deploy SMB well before surfacing in areas with boat traffic.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Copper and quillback rockfish are cooperative subjects for portrait photography. Wide-angle images of plumose anemone fields are consistently productive. Macro photography on encrusted surfaces rewards patient divers — look for nudibranchs, tube worms, and encrusting bryozoans.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

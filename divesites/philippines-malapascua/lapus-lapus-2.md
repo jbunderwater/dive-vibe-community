@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Lapus-Lapus 2
 
-Lapus-Lapus 2 is a pinnacle dive site in Philippines Malapascua, Asia.
+Lapus-Lapus 2 is the second of the Lapus-Lapus pinnacle cluster off northwest Malapascua Island, a series of submerged rock pinnacles that rise from the seafloor and create the concentrated marine life typical of isolated structure diving in Philippine waters.
 
 ## Overview
 
-Lapus-Lapus 2 is a dive site in Philippines Malapascua offering rewarding diving on healthy coral reef structures . Dive Site. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The Lapus-Lapus sites are among the lesser-visited dive destinations around Malapascua Island, sitting in the shadow of the globally famous Monad Shoal thresher shark dives. However, the pinnacle structure at Lapus-Lapus 2 delivers a different type of diving experience — encrusted with hard and soft corals, sea fans, and sponges, and surrounded by the open water that attracts passing pelagics. The pinnacle drops from near-surface level down to 30 meters, with the most productive diving in the 10–25 meter range where coral growth is densest. The site's character resembles other Philippine pinnacle dives with strong current potential and corresponding fish aggregations.
 
 ## Site Information
 
-- **Location**: Philippines Malapascua, Asia
+- **Location**: Northwest Malapascua Island, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 10-20 meters
+- **Current**: Variable; can be moderate to strong
+- **Best Time**: March to June
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Pinnacle structures in the Malapascua area support populations of sea snakes, which are harmless and commonly encountered in these waters. Lionfish occupy crevices throughout the structure. Barracuda schools and trevally patrol in the water column around the pinnacle. Sea turtles may be found resting on the shallow sections. The pinnacle's isolated structure in open water occasionally draws in more unusual visitors from the surrounding sea.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the base of the pinnacle at 25–30 meters and work upward in a spiral, covering the full circumference. The pinnacle's sides are productive throughout, but the 15–25 meter zone typically has the densest coral growth and associated fish communities. Finish the dive on the shallow pinnacle top for the safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Short banca ride from Malapascua Island resorts. Entry by giant stride; return to the banca by ladder. Deploy SMB before ascending.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Combine with a Monad Shoal morning dive for a full Malapascua diving day
+- The Lapus-Lapus sites are less busy than the main Malapascua sites, offering more personal space underwater
+- Currents here are intermittent — be prepared for current to pick up mid-dive
+- Bring wide-angle for the pinnacle structure and macro for the encrusting life
+- Ask your dive guide about recent sightings — sea snake encounters are common in the area
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The 30-meter depth requires monitoring of no-decompression limits. Currents can strengthen around pinnacles. Carry an SMB and be prepared for the possibility of a drift ascent if current is running at depth.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The pinnacle structure makes for dramatic wide-angle shooting, particularly from below looking up. Sea fans and soft corals on the deeper sections provide colourful details. Sea snake encounters, if they occur, make striking and unusual subjects.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

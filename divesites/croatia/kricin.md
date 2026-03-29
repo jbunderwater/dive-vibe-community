@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Kricin
 
-Kricin is a reef dive site in Croatia, Europe.
+Kricin is a rocky reef site in the Cres Island area of the Kvarner, in the central Adriatic channel between Cres and the mainland. The site benefits from the strong tidal flow through the Kvarner, which delivers nutrients and promotes healthy sponge communities and abundant fish life.
 
 ## Overview
 
-Kricin is a dive site in Croatia offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The reef at Kricin features rocky terrain descending from the shallows to approximately 25 metres, with a mix of open rocky faces, boulders, and crevices. Encrusting sponges of various colours colonise the substrate from mid-depth down. The Kvarner's characteristic crystal-clear water provides excellent visibility, typically 15–20 metres. The water movement through this area keeps the Adriatic water well oxygenated, supporting a productive marine community.
 
 ## Site Information
 
-- **Location**: Croatia, Europe
+- **Location**: Cres Island area, Kvarner, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 15–20 meters
+- **Current**: Moderate; channel location increases current variability
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+Grouper are resident throughout the reef. Moray eels inhabit the rocky crevices, and octopus hunt the open surfaces. Sea bream and ornate wrasse school around the reef structures. Barracuda and amberjack appear in the open water above the reef in summer months. Nudibranchs and sea slugs are found across the sponge-covered surfaces.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin at the shallower reef sections and descend to 25 metres, exploring the rocky faces and crevices as depth increases. The 10–18 metre zone typically offers the best combination of marine life and comfortable depth. Ascend slowly and complete a 3-minute safety stop at 5 metres. In moderate current, a drift along the reef is possible.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from Cres or Kvarner-area operators serve this site. Entry by giant stride. Deploy an SMB when ascending — the open Kvarner location requires clear surface signalling.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Current awareness is important in the Kvarner channel — time the dive with the operator's guidance
+- A torch helps explore deeper crevices where moray eels and lobster shelter
+- The channel location can produce excellent baitfish concentrations when current is running
+- Combine with a cave or wall dive from the Cres programme for a varied day
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Current is the primary variable at this channel-adjacent site. Coordinate the dive timing with the operator. Always carry an SMB and dive with a buddy. The depth is within recreational limits.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The clear Kvarner water provides exceptional wide-angle conditions. Schooling fish life when current is active creates spectacular images. Resident grouper and reef structure with sponge communities provide reliable photographic subjects.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

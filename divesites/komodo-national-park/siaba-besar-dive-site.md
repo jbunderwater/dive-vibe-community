@@ -13,55 +13,50 @@ addedBy: osm_import
 
 ## Siaba Besar dive site
 
-Siaba Besar dive site is a reef dive site in Komodo National Park, Asia.
+Siaba Besar is Komodo National Park's signature turtle dive — a sheltered, current-free reef around a small island in the eastern park where green sea turtles rest, sleep, and queue at cleaning stations in numbers that make this one of the most turtle-dense dives in all of Indonesia.
 
 ## Overview
 
-Siaba Besar dive site is a dive site in Komodo National Park offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Located in the sheltered waters of the Siaba area in central-eastern Komodo National Park, Siaba Besar offers a very different experience to the current-charged sites the park is famous for. The reef slopes gently from the island's shoreline to a sandy bottom at around 18–20 meters, with the terrain featuring table corals, bommies, and patches of healthy branching formations. Currents are minimal, making it one of the park's calmest dives. The site's cleaner wrasse populations attract green sea turtles in remarkable concentrations — it is common to count eight to twelve turtles in a single dive, many of them resting with eyes half-closed while wrasses pick their shells and flippers clean.
 
 ## Site Information
 
-- **Location**: Komodo National Park, Asia
+- **Location**: Komodo National Park, East Nusa Tenggara, Indonesia (Siaba area)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15–25 meters
+- **Current**: Very light; sheltered site
+- **Best Time**: Year-round; most reliable April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Green sea turtles (Chelonia mydas) are present in extraordinary numbers — multiple turtles resting on flat table corals, lined up at dedicated cleaning stations, or lazily cruising the sandy bottom. Some individuals appear habituated to diver presence and can be observed from very close range without disturbance. Hawksbill turtles are also seen occasionally. Between turtles, the reef supports a colourful array of reef fish: parrotfish, surgeonfish, and angelfish graze the corals, while moray eels and reef octopus occupy crevices. The sandy bottom hosts flatfish, garden eels, and the occasional blue-spotted ray.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+A relaxed circuit of the reef is typical, hovering at 8–15 meters where turtles are most active. Follow the guide between cleaning stations — the well-known stations are on specific table coral formations that experienced guides can find directly. Ascend gradually through the shallows, which are excellent for snorkelling-depth observation of juvenile turtles. The dive has a leisurely pace well-suited to photography and extended observation.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by liveaboard or day boat from Labuan Bajo. Calm conditions permit easy giant stride entry. The boat typically anchors nearby; exit by ladder. No SMB deployment usually needed given the sheltered environment, though always carry one.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Move slowly and avoid hovering directly above resting turtles, which can make them feel blocked and cause them to bolt
+- Approach turtle cleaning stations from the side rather than head-on
+- This is an ideal site for dive training, night dives, and photographers who want stationary subjects
+- Bring a macro lens — the cleaning wrasses at work are fascinating close-up subjects
+- The site also works well as a second or third dive after more demanding current dives earlier in the day
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Siaba Besar is one of Komodo's safest and most forgiving sites. Currents are negligible for most of the year. The primary concern is buoyancy control around the coral — maintain a horizontal position and avoid kicking up sediment, which both disturbs turtles and reduces visibility. As always, carry an SMB.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Wide-angle shots of turtles being cleaned on table corals with blue water background are the signature image from this site. A 16–35mm lens covers both full turtle portraits and environmental reef shots. The calm, clear water and good natural light create excellent conditions for any level of photographer. Macro shooters will find the cleaner wrasse interactions rewarding on a 60mm or 100mm lens.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

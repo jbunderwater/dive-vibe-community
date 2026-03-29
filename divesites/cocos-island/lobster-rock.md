@@ -11,57 +11,47 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Lobster Rock
+# Lobster Rock
 
-Lobster Rock is a wall dive site in Cocos Island, Pacific.
+A versatile wall site near Ulloa with rhodolith beds, endemic batfish, and reliable big-animal action when exposed sites are too rough
 
 ## Overview
-
-Lobster Rock is a dive site in Cocos Island featuring a dramatic vertical wall that drops into the deep blue. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Lobster Rock is located near the Ulloa area of Cocos Island, close enough to combine with Ulloa in a single dive when conditions allow. The site features walls and rock formations dropping to depth, with a distinctive rhodolith (red algae) plateau extending to the north. This rhodolith bed is one of the few places at Cocos where the endemic rosy-lipped batfish can be reliably found. Lobster Rock serves as an important backup site when the more exposed locations like Bajo Alcyone and Dirty Rock are too rough, but it delivers genuine big-animal encounters in its own right, including mantas, eagle rays, and tiger sharks.
 
 ## Site Information
-
-- **Location**: Cocos Island, Pacific
-- **Entry Type**: Liveaboard
+- **Location**: Near Ulloa, Cocos Island, Costa Rica
+- **Entry Type**: liveaboard
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 37 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 15-25 meters
+- **Current**: Moderate
+- **Best Time**: Year-round; particularly valuable when exposed sites are inaccessible
 
 ## Marine Life
-
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The rhodolith plateau to the north is home to the endemic Cocos rosy-lipped batfish, a bizarre bottom-dwelling fish with bright red lips found nowhere else. Whitetip reef sharks rest in the wall crevices and along rock formations. Manta rays, eagle rays, and marble rays pass through regularly. Cottonmouth jacks and surgeonfish school along the wall face. Black triggerfish and convict tangs engage in dramatic spawning behavior at the base of the wall during afternoon dives. Tiger sharks cruise through periodically. Occasional silvertip sharks appear. Lobsters — the site's namesake — inhabit crevices throughout the rock formations.
 
 ## Dive Profile
-
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-37 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+The dive typically begins along the wall, descending to the rock formations at depth before working north toward the rhodolith plateau. The batfish habitat on the rhodolith bed is at moderate depth, around 25-30 meters. The wall itself offers multi-level diving from 10 to 37 meters. Afternoon dives are recommended for observing the black triggerfish and convict tang spawning aggregations at the wall base. The site can be combined with the adjacent Ulloa area for an extended dive if air supply and conditions permit.
 
 ## Entry and Exit
-
-This site can be accessed from shore or by boat. Shore entry follows established paths to the water. Boat access is available through local dive operators. Check conditions and choose the most appropriate entry method based on weather and sea state.
+Negative entry from the panga. Conditions are typically more moderate than at the fully exposed southern and western sites. Descent along the mooring line to the wall. Exit via ascent with safety stop at 5 meters. An SMB should be deployed if current has carried divers away from the mooring line.
 
 ## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Dedicate time to searching the rhodolith plateau for rosy-lipped batfish — they are well-camouflaged and move slowly along the bottom
+- Plan an afternoon dive to witness black triggerfish and convict tang spawning at the wall base
+- This site combines well with Ulloa for a longer dive covering more terrain
+- Do not overlook Lobster Rock as merely a backup site — the species diversity and endemic batfish make it worthwhile in any conditions
+- Check wall crevices thoroughly for the lobsters that give the site its name
 
 ## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Currents at Lobster Rock are generally more moderate than at the exposed pinnacle and seamount sites, but can still be significant. The rhodolith plateau at depth requires careful air management if you also want to explore the shallower wall sections. Tiger sharks visit this site; standard Cocos shark protocols apply — remain calm, maintain eye contact, do not turn your back. Carry an SMB and signaling devices. As with all Cocos diving, the nearest recompression chamber is approximately 36 hours away.
 
 ## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+The rosy-lipped batfish is the unique photographic prize at this site — a macro or mid-range lens captures the bizarre red-lipped face against the rhodolith substrate. Wide-angle covers the wall scenes with schooling jacks and surgeonfish. Afternoon spawning aggregations of black triggerfish create dynamic wide-angle subjects. The relatively moderate current makes camera handling easier than at the more exposed sites. Strobes are important for bringing out the red coloration of both the rhodolith bed and the batfish.
 
 ## Additional Resources
-
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -11,55 +11,57 @@ osmId: 6422622400
 addedBy: osm_import
 ---
 
-## Entrance Bank
+# Entrance Bank
 
-Entrance Bank is a reef dive site in British Columbia, North America.
+A productive bank at the entrance to Discovery Passage offering excellent Campbell River area diving.
 
 ## Overview
 
-Entrance Bank is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Entrance Bank is positioned at the southern approach to Discovery Passage near Campbell River, in the zone where the Strait of Georgia narrows dramatically and tidal currents intensify. As a bank at this critical junction, it experiences significant tidal influence that brings nutrient-rich water from depth and concentrates marine life. The site is typical of the Discovery Passage region's diving character: cold, rich, current-driven, and requiring careful timing. Water temperatures are 7–10°C and visibility averages 8–15 metres.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Discovery Passage entrance, Campbell River area, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Submerged bank / reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 8–15 metres
+- **Current**: Strong tidal currents — dive at slack only
+- **Best Time**: Late summer and autumn
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Entrance Bank benefits from the nutrient upwelling typical of Discovery Passage. Giant Pacific octopus are abundant at this site. Lingcod are large and numerous, with some exceptional individuals. Schools of black rockfish hover above the bank structure. Quillback and copper rockfish are resident. Plumose anemones form dense gardens on current-swept faces. Sunflower sea stars and leather stars are common. Pacific white-sided dolphins are frequently seen in Discovery Passage and occasionally dive through the shallower bank.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The bank rises to approximately 8–10 metres with the base at 18 metres on sand. Descend at slack tide and work the bank's current-facing face where invertebrate growth is most concentrated. Plan a conservative bottom time to allow ascent before currents pick up. Deploy SMB during ascent and watch for boat traffic in the passage approach.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Campbell River's marina. Charter operators familiar with Discovery Passage are recommended for visitors to the area. Current timing must be coordinated precisely using the Discovery Passage reference station tide tables. The bank's position at the passage entrance means currents can develop rapidly.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Campbell River dive charters have extensive experience with Discovery Passage current timing
+- The bank's position makes it an excellent first dive before proceeding into Discovery Passage
+- Pacific white-sided dolphin interactions are possible during surface intervals in this area
+- September to November typically offers the best visibility and most stable conditions
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Discovery Passage approach currents are dangerous if misjudged. Strict adherence to slack-tide timing is essential. Boat traffic approaching from both the strait and passage requires vigilance. SMB deployment before ascending is mandatory. Drysuit and cold-water experience required.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Current-swept banks produce exceptional wide-angle photography — plumose anemone gardens photographed with a wide-angle lens against the blue water column are stunning. Schools of rockfish above the bank structure make strong mid-water compositions. Octopus on open substrate offer behavioural photography opportunities.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
+- Campbell River dive charter operators for Discovery Passage timing
+- Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

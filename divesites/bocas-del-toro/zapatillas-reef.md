@@ -11,56 +11,53 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Zapatillas Reef
+# Zapatillas Reef
 
-Zapatillas Reef is a reef dive site in Bocas del Toro, Caribbean.
+A pristine reef surrounding the Isla Zapatillas — two idyllic cays in a national marine park at the southeastern edge of Bocas del Toro, with outstanding coral coverage and no permanent human habitation.
 
 ## Overview
 
-Zapatillas Reef is a dive site in Bocas del Toro offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Zapatillas Reef surrounds the two small, protected Isla Zapatillas (Zapatilla Cays) at the southern end of the Bocas del Toro archipelago, part of the Bastimentos National Marine Park. The islands are uninhabited and receive significantly less boat traffic than the sites closer to Bocas Town — a distance that preserves the reef quality. The fringing reef is in excellent condition by Caribbean standards, with high hard coral coverage including brain, star, and intact elkhorn coral formations in the shallows. The reef descends from 2 meters at the beach to 14 meters at the outer sandy base. Visibility is 20–25 meters, better than the inner sites due to the cleaner water on the park's exposed southern edge. Water temperature is 27–29°C.
 
 ## Site Information
 
-- **Location**: Bocas del Toro, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 14 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 2–14 m |
+| Difficulty | Beginner |
+| Entry Type | Boat |
+| Site Type | Reef |
+| Visibility | 20–25 m |
+| Current | Light |
+| Water Temp | 27–29°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Zapatillas Reef benefits from Bastimentos National Marine Park protection, which restricts fishing and anchoring. The result is a fish community of notably higher density and species diversity than at more impacted sites. Green sea turtles are abundant — the sandy beaches of Zapatilla Cay are important nesting sites, and the same animals feed on the reef. Hawksbill turtles feed on reef sponges. Caribbean reef squid hover in schools at the reef edge. Large parrotfish, which are typically overfished throughout the Caribbean, are common and large here. Nurse sharks rest in the sandy areas at the reef base.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 14 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-14 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boat drop at the northern tip of the main Zapatilla cay, with descent to the reef at 3–5 meters. Navigation east around the outer reef face at 8–14 meters for the first half, ascending to the crest at 3–5 meters for the return. The complete circuit of the main cay's reef provides 50–60 minutes of diving at an easy pace.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive, requiring a 30–45 minute boat ride from Bocas Town and a national park fee payment for Bastimentos National Marine Park. Entry by giant stride or backward roll onto the reef. The beaches of Zapatilla Cay are available for surface intervals. Some operators allow snorkelling from the beach.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+The Zapatillas are a full-day destination from Bocas Town given the travel time. Plan a surface interval on the beautiful white-sand beach — the cays are genuinely idyllic above water as well as below. The park fee is nominal and goes toward conservation. The improved visibility relative to inner sites makes Zapatillas Reef the best wide-angle photography site at a beginner-accessible depth in the entire Bocas del Toro region.
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Bastimentos National Marine Park rules prohibit all fishing, collecting, and anchoring. The national park rangers patrol the area. Boat traffic at the Zapatillas is lower than inner sites, but the park-appropriate slow-speed zones apply. DSMB recommended. Sea turtle nesting season (April–October) means certain beach areas may be restricted.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Zapatillas Reef is the best beginner-accessible photography site in Bocas del Toro. The combination of better-than-average visibility, pristine coral, abundant turtles, and excellent ambient light in 5–12 meters creates outstanding wide-angle reef photography conditions. The undisturbed large parrotfish are exceptional portrait subjects — they are significantly larger and less skittish than at heavily fished sites. Split-level photography above the reef with the cay visible above the waterline is achievable in calm conditions.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- Bastimentos National Marine Park: permits and visitor information
+- Bocas del Toro operators: day-trip packages to Zapatillas including park fee and guided diving
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

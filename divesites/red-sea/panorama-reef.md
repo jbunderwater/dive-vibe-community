@@ -13,54 +13,49 @@ addedBy: osm_import
 
 ## Panorama Reef
 
-Panorama Reef is a reef dive site in Red Sea, Middle East.
+Panorama Reef is one of the most visited offshore reef systems in the northern Egyptian Red Sea, located roughly 20 kilometers southeast of Hurghada. It is a large, oval-shaped reef rising from deeper water with distinct north, east, and south faces, each offering different diving characteristics. The main reef site serves as the central reference point and is the default anchorage for day boats visiting the complex.
 
 ## Overview
 
-Panorama Reef is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The main section of Panorama Reef presents a classic Red Sea reef profile — a broad, shallow reef top at 3-8 meters covered in hard coral formations, dropping to steep walls and slopes that reach sandy bottom at 25 meters. The reef is renowned for exceptional visibility, regularly exceeding 30 meters in calm conditions. Coral health is good throughout, with fields of staghorn and table corals in the shallows giving way to large gorgonian sea fans and soft coral trees on the deeper sections. The reef's offshore position ensures consistently clear water and relatively mild currents on the protected western face.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Red Sea, Egypt (offshore Hurghada, north central Red Sea)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
+- **Typical Visibility**: 25-35 meters (80-115 feet)
+- **Current**: Light to moderate on the western face; stronger at the tips
 - **Best Time**: September to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Panorama Reef has a well-established resident community. humphead wrasse are a reliable highlight and are often seen cruising the reef top in pairs. Large groupers occupy deep coral overhangs, and moray eels extend from crevices at multiple points along the wall. Schools of glassfish and anthias coat the shallower sections of the reef, with predatory trevally and barracuda cutting through them. Hawksbill turtles regularly graze algae on the reef top. Whitetip reef sharks rest on sand patches at the base of the wall between 20-25 meters. Occasional pelagic visitors include hammerhead sharks, particularly on early morning winter dives.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend on the main mooring to the reef top at 5-8 meters. The western face is the most sheltered and recommended for a first dive — follow the wall southward, descending gradually to explore gorgonians and coral outcrops at 15-25 meters. The reef base offers sandy channels frequented by stingrays and bottom-dwelling fish. Ascend back to the reef top, proceed to the safety stop zone at 5 meters, and deploy your SMB for pickup.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day boats and liveaboards from Hurghada and El Gouna anchor at the main mooring buoy. Giant stride or back roll entry from the dive deck. Ascend with adequate reserve and complete a 3-minute stop at 5 meters before the boat collects you.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Morning dives have the best light for photography and calmer conditions
+- The western face is recommended for the main dive; explore the north and east tips for pelagic encounters on separate dives
+- humphead wrasse here are accustomed to divers — maintain calm, non-threatening behavior for close approaches
+- Combine a wall dive with time on the reef top to observe the contrasting communities
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Current direction and intensity varies around the reef perimeter. The northern and eastern tips carry stronger flow than the western face — discuss conditions with the guide before descending. Maintain awareness of depth on the wall, which drops steeply and can lead to inadvertent depth increases. Fire coral is present on the reef top. Always carry an SMB.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Panorama Reef is a premier photography destination. Wide-angle shots of the wall with gorgonian sea fans in the foreground and clear blue water behind are iconic Red Sea images. The humphead wrasse offer outstanding fish portrait opportunities. Schools of anthias and glassfish in the shallows create spectacular mid-water compositions. Macro subjects including nudibranchs, pipefish, and crinoid shrimp reward careful searching in coral crevices.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

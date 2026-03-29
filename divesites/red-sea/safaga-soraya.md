@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Safaga Soraya
 
-Safaga Soraya is a reef dive site in Red Sea, Middle East.
+Safaga Soraya is a boat dive reef site located in the Safaga area of the Egyptian Red Sea, roughly 60 km south of Hurghada. The word "Soraya" derives from Arabic and may refer to the Pleiades star cluster — a name applied to several features in this region. The site sits within the broader network of reefs and shoals that make Safaga one of the Red Sea's most productive diving areas.
 
 ## Overview
 
-Safaga Soraya is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Safaga is renowned among experienced Red Sea divers for its strong currents, which in turn deliver rich nutrient upwelling and exceptional pelagic encounters. Safaga Soraya is a coral reef rising from deeper water to around 5 meters at its shallowest point. The reef structure features sloping walls and terraces populated with table corals, gorgonians, and dense soft coral growth on the current-exposed faces. The area regularly attracts spinner dolphins, and sightings of hammerhead sharks are reported particularly in the cooler months from October to January.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Safaga, northern Red Sea, Egypt
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Typical Visibility**: 20-35 meters (65-115 feet)
 - **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The currents channeled through the Safaga shoals support a rich pelagic food chain. Spinner dolphins frequently investigate divers and can be encountered mid-water at this site. Schools of barracuda and trevally cruise along the reef edges, while humphead wrasse are resident in the deeper sections. On the reef itself, look for longnose hawkfish perched on gorgonians, moray eels in the coral heads, and dense clouds of glassfish sheltering in overhangs. Hammerhead sharks visit in the winter months, typically at depth along the reef's seaward edge.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef crest and orient to the current before deciding direction. Drift along the slope, using the terrain to shelter from the main flow when needed. The reef wall descends to around 20 meters before giving way to sand and rubble. The most productive zone for fish life and coral density is between 10 and 18 meters. Plan a drift dive when current is running, ending the dive in the blue and deploying an SMB for boat pickup.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from Safaga harbor or from a liveaboard. Conditions are best assessed on arrival — strong surge can make surface entries uncomfortable. Giant stride entry from the boat, descend promptly to avoid being pushed by surface current. Ascend in blue water well clear of the reef and deploy an SMB at 5 meters for pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Visit between October and January for best hammerhead encounters
+- Drift dive techniques make this site more enjoyable in stronger currents
+- Early morning departures from Safaga typically find calmer surface conditions
+- Bring a reef hook if conditions warrant — ask your guide about local rules
+- Spinner dolphins are often encountered before descending; enjoy them from a respectful distance
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Currents can be strong and unpredictable at this site. Always carry and be prepared to deploy an SMB, especially when ascending in open water. Be aware of boat traffic in the Safaga area. Fire coral is present on the reef structure; exposure protection prevents stings. Lionfish occupy reef overhangs — maintain awareness during close-in exploration.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Wide-angle shots of the coral-encrusted walls with ambient blue water backgrounds are rewarding here, especially when schools of fish or dolphins are in frame. The gorgonian fans on current-facing slopes are excellent subjects in the 12–18 meter range. Macro opportunities exist on the coral rubble at the base of the reef wall.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

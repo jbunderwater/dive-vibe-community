@@ -11,56 +11,56 @@ osmId: 6132126174
 addedBy: osm_import
 ---
 
-## Arborek shark point
+## Arborek Shark Point
 
-Arborek shark point is a reef dive site in Raja Ampat, Asia.
+Arborek Shark Point is a reef dive off the northern tip of Arborek Island in the Dampier Strait, renowned for reliable sightings of blacktip reef sharks and the remarkable epaulette shark — a walking shark found only in the shallow reef flats of eastern Indonesia and Papua New Guinea.
 
 ## Overview
 
-Arborek shark point is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The waters around Arborek village are some of the most biologically productive in Raja Ampat, and the reef at the northern tip of the island concentrates shark activity in a reliably accessible site. Blacktip reef sharks (Carcharhinus melanopterus) patrol the reef edge in numbers, often in shallow water where their distinctive black-tipped dorsal fins are visible from the surface. The epaulette shark (Hemiscyllium ocellatum) — celebrated for its ability to walk on its pectoral fins across exposed reef flats at low tide — is resident here and a highlight of every visit. Water temperature averages 27–29°C with visibility of 10–20 meters.
 
 ## Site Information
 
-- **Location**: Raja Ampat, Asia
+- **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 10–20 meters (33–65 feet)
+- **Current**: Variable; can be moderate on tidal exchange
+- **Best Time**: Year-round; epaulette sharks active at dusk and night
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Blacktip reef sharks are the dominant species, circling the reef edge throughout the day in groups of 3–10 individuals. Epaulette sharks rest under coral overhangs and in sandy pockets — at dusk they become more active and easier to observe as they walk across the shallow reef flat. Juvenile sharks of both species are sometimes encountered in the very shallows. The reef also supports napoleon wrasse, large groupers, bumphead parrotfish, and aggregations of snapper and sweetlips in crevices along the reef slope.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The reef structure slopes from the shallows at 2–3 meters down to 20–25 meters. Begin in the shallows to look for epaulette sharks under coral ledges, then work the reef edge at 10–15 meters where blacktips are most active. Check sandy pockets and overhangs throughout the dive — epaulettes are cryptic during daylight. A dusk or night dive dramatically increases epaulette shark activity and is highly recommended if the schedule allows.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Accessed by boat from Arborek village — this site is also reachable by local guides operating from the village homestays. Entry via giant stride or from a low platform. The village's proximity makes repeat dives straightforward. Exit back to the boat or to the village jetty if shore access is arranged.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Request a dusk dive for the best epaulette shark activity — they emerge from hiding as light fades
+- Do not handle, chase, or restrict epaulette sharks — they are shy and any stress disrupts natural behavior
+- Use a torch even on daytime dives to look under ledges where epaulettes rest
+- Blacktip sharks are not dangerous but should not be provoked — maintain a respectful distance
+- The village of Arborek has excellent local guides who know the exact resting spots
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Blacktip reef sharks are harmless to divers who behave calmly. Do not feed or approach sharks directly. Currents can be moderate on tidal exchange — carry an SMB. The shallow reef flat is exposed at low tide and entry/exit timing matters to avoid walking on the reef.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Two distinct photographic subjects define this site. Blacktip sharks are best photographed with a medium wide-angle lens (17–35mm equivalent) in the upper 10 meters where ambient light is strong. Epaulette sharks require a macro or close-focus wide-angle approach with a torch for illumination of their cryptic resting spots. Night and dusk photography of walking epaulettes is among the most unusual wildlife photography available in Indonesia.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

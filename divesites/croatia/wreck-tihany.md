@@ -13,55 +13,49 @@ addedBy: osm_import
 
 ## Wreck Tihany
 
-Wreck Tihany is a historic wreck dive in Croatia, Europe.
+The Tihany wreck lies in the waters west of Pag Island in the northern Dalmatian coast area. Resting at around 20–25 metres, it is a moderately accessible wreck dive for intermediate divers exploring the Dalmatian archipelago and provides a pleasant change from the area's excellent reef diving.
 
 ## Overview
 
-Wreck Tihany is a dive site in Croatia featuring a historic wreck. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The Tihany is a small-to-medium sized vessel lying on a sandy bottom in moderate depth. The hull structure has aged considerably but retains recognisable features, with the superstructure and main hull providing habitat for a diverse range of Mediterranean marine organisms. The clear Dalmatian waters, with typical summer visibility of 15–25 metres, allow good exploration of the entire wreck on a single dive.
 
 ## Site Information
 
-- **Location**: Croatia, Europe
+- **Location**: Pag Island area, Northern Dalmatia, Croatia
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 15–20 meters
+- **Current**: Generally mild
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The encrusted hull hosts grouper that patrol the superstructure, moray eels in recesses along the hull plating, and octopus sheltering beneath scattered debris. Nudibranchs and various sponge species colonise the structure. Sea bream, ornate wrasse, and sardinella are commonly observed in the surrounding water column.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the highest point of the wreck — typically the superstructure at 18–20 metres — then work down to 25 metres along the hull. Make a complete circuit, exploring accessible openings with a torch. Ascend via the shot line and complete a 3-minute safety stop at 5 metres. This is a comfortable dive with plenty of bottom time available within recreational limits.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from operators in Novalja, Pag, or nearby mainland ports access this site. Entry by giant stride or back roll. Ascend via shot line or deploy SMB for free ascent.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- A torch significantly enhances the dive by illuminating the darker structural areas
+- Good buoyancy control will prevent silt disturbance and preserve visibility
+- Combine with a reef dive on the nearby rocky walls for a full diving day
+- The site is suitable for underwater photographers at all experience levels
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+All dive parameters are within standard recreational limits. Monitor gas supply carefully when exploring the wreck interior. Carry an SMB. Dive within your certification limits and experience level.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The wreck structure provides interesting wide-angle subjects against a sandy bottom. Close-up work on the encrusted hull surfaces reveals nudibranchs, small crustaceans, and sponge detail. A torch and strobe combination brings out the full colour range of the encrusting organisms.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

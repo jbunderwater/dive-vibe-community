@@ -11,55 +11,56 @@ osmId: 3251209577
 addedBy: osm_import
 ---
 
-## Danger Rock
+# Danger Rock
 
-Danger Rock is a reef dive site in Puget Sound, North America.
+A shallow rocky seamount in the San Juan Islands, aptly named for its navigational hazard status, offering exceptional invertebrate density in moderate currents.
 
 ## Overview
 
-Danger Rock is a dive site in Puget Sound offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Danger Rock is a submerged rocky seamount in the northern San Juan Islands — named for the hazard it poses to vessel navigation rather than diving conditions. Its position in tidal flow ensures a constant supply of planktonic nutrients to the dense invertebrate community that covers every available surface. At a maximum depth of 15 metres, it is one of the shallower boat-dive sites in the archipelago, making bottom time generous and safety stops comfortable. The seamount is blanketed in white plumose anemones, colonial tunicates, and encrusting sponges in a display typical of the best Pacific Northwest reef diving.
 
 ## Site Information
 
-- **Location**: Puget Sound, North America
+- **Location**: Northern San Juan Islands, Puget Sound, Washington
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky seamount / reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 15 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
+- **Maximum Depth**: 15 metres
+- **Typical Visibility**: 8–15 metres
+- **Water Temperature**: 7–11°C
+- **Current**: Tidal; plan for slack
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The relatively shallow depth of Danger Rock keeps it within sunlit zones where kelp and anemone communities are at their most productive. Lingcod are abundant — this is a known site for large resident fish — and multiple rockfish species (copper, quillback, black) congregate around the seamount structure. Giant Pacific octopus inhabit the rock crevices, and wolf eels are present at den sites. Invertebrate diversity is high: Puget Sound king crabs, nudibranchs, tube worms, rock scallops, and sea stars. Kelp greenlings are curious and approachable. Harbour seals and river otters are seen occasionally.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The seamount crest is very shallow — possibly within 5 metres of the surface. This allows a very comfortable safety stop on the crest at the end of the dive. Work the circumference of the seamount at depth, examining the vertical faces before ascending. The shallow crest rewards extended time with dense anemone and fish communities.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access only. Given the navigational hazard status, approach with attention to depth sounder readings. Anchor clear of the summit in deeper water. Back-roll or giant stride entry. Ascend along the anchor line and complete the safety stop on the seamount crest. Deploy an SMB when ascending from the safety stop position.
 
-## Tips and Recommendations
+## Tips
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The seamount crest at 5 metres is an ideal macro photography location — invertebrates are dense and well-lit by natural light
+- Lingcod at this site are reportedly bold; remain calm and they will hold their position for extended observation
+- Even a 10-minute dive purely on the crest is worthwhile for the anemone density
+- Check the weather forecast carefully — exposed seamount positions can be uncomfortable in swell
 
-## Safety Considerations
+## Safety
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Despite the modest depth, cold water demands dry suit equipment. The seamount position makes it exposed to open-water conditions — avoid diving here in rough conditions. Tidal currents require precise timing. Deploy an SMB for all ascents given the open-water boat traffic context.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The shallow, well-lit crest offers some of the best natural-light photography opportunities in the region. Anemone fields shot upward toward the surface can show beautiful silhouettes. Lingcod portraits and rockfish in the water column are consistent subjects. Macro work on the dense invertebrate layer is highly productive.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

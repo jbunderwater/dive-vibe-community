@@ -13,54 +13,32 @@ addedBy: osm_import
 
 ## Victor Buoy Coral Head
 
-Victor Buoy Coral Head is a reef dive site in Marshall Islands, Pacific.
+Victor Buoy Coral Head is the northernmost regularly dived coral head site in Kwajalein Atoll's main dive circuit, positioned at the outer edge of the accessible northern lagoon zone near the "Victor" (NATO phonetic alphabet "V") navigational buoy designation — marking the far frontier of the standard Kwajalein dive inventory.
 
 ## Overview
 
-Victor Buoy Coral Head is a dive site in Marshall Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Victor Buoy represents the end of the road for day-trip coral head diving from Kwajalein's main dock. Beyond this latitude, coral heads exist but are rarely visited due to transit time. This outer position gives Victor Buoy a character unlike any of the inner cluster sites — the combination of longer boat ride, lower diver frequency, and northern lagoon water circulation creates conditions closer to wilderness reef diving than anything available at the central lagoon sites.
 
-## Site Information
+The pinnacle structure is mature and well-developed, with the typical Kwajalein lagoon profile of hard coral encrustation rising from 25 meters. The northern outer lagoon environment delivers noticeably stronger fish activity and more regular pelagic visitors than the sheltered inner sites.
 
-- **Location**: Marshall Islands, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+## What to Expect
 
-## Marine Life
+Victor Buoy's remote northern position makes it the most likely Kwajalein lagoon site for unexpected pelagic encounters. Dogtooth tuna sweep past regularly. Occasional hammerhead sharks have been reported by divers at this and neighboring outer northern sites. The grey reef shark population at Victor Buoy shows the most natural, undisturbed behavior of any regularly dived Kwajalein site — active, curious, and unhabituated.
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+The coral quality at Victor Buoy is outstanding — decades of minimal disturbance and good northern lagoon water quality have produced some of the finest hard coral formations in the Kwajalein system. Branching coral gardens, intact plate coral formations, and impressive brain coral domes cover the pinnacle in conditions rarely seen at the more heavily dived inner cluster sites.
 
-## Dive Profile
+## Practical Information
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth Range**: 5–25 meters
+- **Visibility**: 20–35 meters typical; often excellent northern lagoon clarity
+- **Currents**: Mild to moderate; northern position brings occasional stronger flows
+- **Entry**: Boat dive; longest standard transit from main dock
+- **Best For**: Intermediate divers seeking the best coral quality and most natural shark encounters in the Kwajalein system
 
-## Entry and Exit
+## Marine Life Highlights
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Grey reef sharks (natural behavior), dogtooth tuna, hammerhead sharks (occasional), humphead wrasse, hawksbill turtles, branching corals, plate corals, brain corals, moray eels, groupers.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

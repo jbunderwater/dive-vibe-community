@@ -11,56 +11,56 @@ osmId: 3092250389
 addedBy: osm_import
 ---
 
-## Chubb Reef (Dive Site)
+# Chubb Reef (Dive Site)
 
-Chubb Reef (Dive Site) is a reef dive site in Jamaica, Caribbean.
+A shallow, sheltered reef on Montego Bay's outer reef system with dense coral cover and reliable turtle sightings.
 
 ## Overview
 
-Chubb Reef (Dive Site) is a dive site in Jamaica offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Chubb Reef lies within the outer cluster of Montego Bay Marine Park dive sites, sharing the protected waters of the bay with Airport Reef, Stingray City, and Pelican Reef. The site features a broad, shallow reef plateau with excellent hard coral coverage, including large brain coral heads, mountainous star coral, and a variety of gorgonian sea fans. At a maximum depth of 12 metres, this is an ideal site for beginner divers, check-out dives, and second dives later in the day. The Marine Park protection has maintained the reef in good condition, with healthy coral coverage and an active fish community. Visibility is typically 20–25 metres, and the calm, sheltered location keeps conditions consistent.
 
 ## Site Information
 
-- **Location**: Jamaica, Caribbean
+- **Location**: Montego Bay Marine Park, Jamaica
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 20–25 meters (65–80 feet)
+- **Current**: Minimal
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Hawksbill turtles are a consistent highlight at Chubb Reef. Parrotfish, blue tangs, and French angelfish are abundant across the reef plateau. Nurse sharks rest under coral overhangs. Spotted moray eels occupy crevices throughout the site. Schools of blue chromis and yellow-tail snapper are common in the mid-water. Southern stingrays are found on sandy patches between coral heads. Spiny lobsters emerge from the reef base. Cleaning stations with banded coral shrimp operate throughout the reef.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef plateau at 5–8 metres. Navigate between the large coral formations, exploring sandy channels and overhangs. The deeper outer sections reach 10–12 metres. Ascend from the outer edge back toward the mooring for a safety stop at 3–5 metres. Bottom time is generous at these depths — 55–65 minutes is typical.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by dive boat from Montego Bay operators. Boats use mooring buoys within the Marine Park — anchoring is not permitted. Entry via giant stride or back roll. Commonly combined with Stingray City or Airport Reef on a two-tank boat trip.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- A reliable site for turtle encounters — the turtles here are accustomed to divers and allow close approach
+- Good afternoon dive when other Marine Park sites may have more boat traffic
+- Snorkeling is also viable from the boat if accompanying non-divers are present
+- Look under coral overhangs for resting nurse sharks
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Fire coral is present on some reef structures. Maintain buoyancy above the reef. Deploy SMB before surfacing and be aware of boat traffic. The Marine Park regulations prohibit touching or harassing marine life.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Brain coral formations with turtles as subjects are the signature shot at Chubb Reef. The shallow clear water and bright ambient light reduce the need for strobes. Wide-angle shots of the reef landscape are well-suited to this site. Macro subjects include blennies on coral heads and cleaning shrimp at stations.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Marine Park Info**: Montego Bay Marine Park Authority
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

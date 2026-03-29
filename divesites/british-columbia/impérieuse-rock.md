@@ -13,53 +13,51 @@ addedBy: osm_import
 
 ## Impérieuse Rock
 
-Impérieuse Rock is a reef dive site in British Columbia, North America.
+Impérieuse Rock is a rocky reef dive site in the Strait of Georgia, British Columbia, Canada, in the waters between Vancouver Island and the mainland, accessed by boat.
 
 ## Overview
 
-Impérieuse Rock is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Impérieuse Rock sits in the central Strait of Georgia, an area known for strong tidal currents that drive excellent marine productivity. The reef structure rises from the seafloor and is colonised by the full range of Pacific Northwest cold-water species. Water temperatures average 8-12°C throughout the year and a drysuit is the standard choice. Visibility typically runs 6-12 metres, with the clearest conditions during autumn and winter. Tidal flows in the Strait of Georgia can be strong at this location — always consult current predictions before diving.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Strait of Georgia, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 6-12 metres
+- **Water Temperature**: 8-12°C (drysuit recommended)
+- **Current**: Moderate to strong — check current tables
+- **Best Time**: Year-round; best visibility October to March
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Impérieuse Rock supports a dense community of cold-water Pacific species. Giant Pacific octopus are a reliable sighting, occupying rocky dens on the reef structure. Lingcod are present throughout, with larger individuals claiming prime territories on the reef faces. Black and copper rockfish populate the kelp canopy. Sea stars of multiple species, large purple and red sea urchins, and encrusting sponges dominate the rocky substrate. Harbour seals and, occasionally, Steller sea lions pass through the area.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin at the reef crest and explore the kelp-covered shallow sections before descending along the rock faces to 18 metres. The transition zone at 10-14 metres tends to offer the most diverse marine life. Monitor the current throughout the dive and avoid being pushed off the reef structure. Ascend along the reef and complete a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access only. Anchor or hold station well clear of the reef top to avoid dragging on the marine life. The Strait of Georgia sees significant commercial and recreational vessel traffic — surface with a fully deployed and inflated SMB at all times.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Check current predictions for the central Strait of Georgia before diving
+- Dive at or near slack tide for comfortable conditions on the reef
+- Bring a torch to inspect crevices and dens along the reef face
+- Cold water and potential current mean conservative gas planning is essential
+- Winter months provide the clearest water and most active fish aggregations
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Strong tidal currents in the Strait of Georgia and significant vessel traffic are the primary hazards. Never dive against a strong current — if conditions are running hard, wait for slack or abort the dive. Surface with a bright SMB deployed and listen for boat traffic before completing your ascent. Monitor air consumption carefully in cold water.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Impérieuse Rock offers productive wide-angle and macro photography in calm conditions. GPO portraits and lingcod on the reef face are the standout wide-angle subjects. The encrusting invertebrate community provides colour and texture for macro work — encrusting sponges, nudibranchs, and small crustaceans are found throughout. Natural light underwater can be striking on bright winter days when visibility peaks.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

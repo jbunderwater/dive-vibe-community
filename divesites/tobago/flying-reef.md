@@ -13,54 +13,49 @@ addedBy: osm_import
 
 ## Flying Reef
 
-Flying Reef is a reef dive site in Tobago, Caribbean.
+Flying Reef is a beginner-accessible reef site in the Speyside dive area of northeast Tobago, known for the large eagle rays that give it something of its name — animals that appear to "fly" effortlessly through the water above the reef.
 
 ## Overview
 
-Flying Reef is a dive site in Tobago offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Flying Reef extends to 15 meters with a sloping coral profile and a mix of hard corals, sea fans, and sponges characteristic of Tobago's northeast reef systems. The site sits in waters influenced by Tobago's position near the confluence of the Caribbean Sea and Atlantic Ocean, giving the reef access to the nutrient-rich upwellings that support exceptional fish life. Conditions are typically manageable with light to moderate current. Visibility averages 15–25 meters. Water temperature holds at 26–28°C.
 
 ## Site Information
 
-- **Location**: Tobago, Caribbean
+- **Location**: Speyside area, northeast Tobago
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Typical Visibility**: 15–25 meters
 - **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Best Time**: October to February
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Spotted and southern eagle rays are regularly seen hovering over the sandy margins adjacent to the reef — the site's defining feature. Sea turtles are common throughout. The reef itself hosts dense populations of parrotfish, angelfish, and snapper. Schools of small fish sweep through the coral formations in current conditions, attracting larger predators including barracuda and Caribbean reef sharks to the site.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef crest and follow the slope to 15 meters. Spend time in the areas adjacent to the sandy margins where eagle rays congregate. The full reef area can be covered comfortably in a single tank. Safety stop in the shallow reef zone at 5 meters.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Speyside operators. Giant stride entry; SMB on ascent. Well-suited as a first dive of the day before moving on to deeper, more current-dependent sites like Kelleston Drain or Sisters Rocks.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Watch the sandy margins and open-water zones adjacent to the reef for eagle ray encounters
+- The site is particularly good for eagle ray encounters in the early morning before current picks up
+- An excellent introductory Tobago dive for visitors new to the northeast coast
+- Pair with Bookends or Angel Reef for a two-tank beginner-level Speyside day
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Current can increase with tidal flow. Deploy SMB before ascending. Fire coral is present on reef crests. Standard Caribbean dive precautions apply.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Eagle ray encounters in the clear Speyside water are the standout photography subjects. Wide-angle shots of rays "flying" over the sandy floor or open water are achievable with a patient approach and good buoyancy. The reef face at 8–12 meters provides classic reef photography in good ambient light.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

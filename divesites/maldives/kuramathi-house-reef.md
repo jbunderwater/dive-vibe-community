@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Kuramathi house reef
 
-Kuramathi house reef is a reef dive site in Maldives, Asia.
+Kuramathi house reef is the accessible fringing reef surrounding Kuramathi Island in Rasdhoo Atoll, one of the Maldives' most diver-friendly house reefs and a prime reason the island resort has earned a strong reputation among diving visitors.
 
 ## Overview
 
-Kuramathi house reef is a dive site in Maldives offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Stretching along the island's outer edge in Rasdhoo Atoll, the Kuramathi house reef is shallow enough for beginners and snorkellers yet rich enough to reward experienced divers. The reef top sits at just 3–5 metres before sloping gently to around 15 metres, making it ideal for dusk and night dives when nocturnal species emerge. Nurse sharks rest in sandy channels during the day, and white-tip reef sharks patrol the outer slope. Schools of batfish hover at the reef edge, while the coral gardens host pufferfish, lionfish, moray eels, and an abundance of reef fish. Visibility typically reaches 20–30 metres. The site is accessible directly from shore or by short boat transfer to reach the outer corners.
 
 ## Site Information
 
@@ -26,42 +26,23 @@ Kuramathi house reef is a dive site in Maldives offering excellent diving on hea
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 20-30 meters (65-100 feet)
+- **Current**: Mild to moderate
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Nurse sharks, white-tip reef sharks, moray eels, lionfish, pufferfish, batfish, triggerfish, parrotfish, juvenile reef fish, octopus (night dives), and occasional eagle rays along the outer reef slope.
 
-## Dive Profile
+## Diving Tips
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- Night dives here are outstanding — book through the resort dive centre for guided evening excursions.
+- The northern corner of the reef frequently has the best coral health and fish density.
+- Current is generally mild, making this a relaxed dive at any time of day.
+- Beginners can stick to the reef top at 5–8 metres while more experienced divers explore the sloping wall to 15 metres.
 
-## Entry and Exit
+## Getting There
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Kuramathi Island Resort is reached by a 45-minute speedboat transfer from Velana International Airport or via a short domestic flight to Rasdhoo. The house reef is accessed directly by the resort dive centre.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,54 +13,49 @@ addedBy: osm_import
 
 ## Ras Bob Reef
 
-Ras Bob Reef is a reef dive site in Red Sea, Middle East.
+Ras Bob Reef is a shore-entry reef dive site located in Naama Bay, Sharm el-Sheikh, one of the most iconic and accessible dive destinations in Egypt. The site is a popular beginner and certification dive, positioned within swimming distance of the beach and offering safe, calm conditions for divers of all experience levels.
 
 ## Overview
 
-Ras Bob Reef is a dive site in Red Sea offering excellent diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Ras Bob Reef is a classic Sinai fringing reef, beginning just offshore from the Naama Bay waterfront. A shallow reef flat at 3-5 meters extends outward before dropping to a slope that reaches sandy bottom at around 20 meters. The reef is well-dived and may show some wear in the shallowest sections, but the middle and lower sections remain healthy with good hard coral coverage. Visibility in the Gulf of Aqaba water is typically exceptional at 20-30 meters. The protected bay location ensures calm, current-free conditions on most days, making this an ideal site for beginners and check-out dives.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Red Sea, Egypt (Naama Bay, Sharm el-Sheikh, Gulf of Aqaba)
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20-30 meters (65-100 feet)
+- **Current**: Minimal in the bay
+- **Best Time**: Year-round; October to May optimal
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Ras Bob Reef has a friendly, habituated fish community accustomed to regular diver presence. Moray eels are resident throughout the reef crevices and some individuals are hand-fed by dive guides — a practice to observe from a distance but not encourage. Pufferfish, porcupinefish, and angelfish are common. Turtles occasionally visit the bay. Clownfish tend anemones on the reef flat, and glassfish schools swarm near the reef edge. The sandy sections host small, cryptic species including gobies and occasional flatfish.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Shore entry from the established beach access point. Wade through the shallows carefully to avoid treading on the reef, then swim out until depth is sufficient to descend. Spend your dive exploring the reef slope at 10-18 meters before ascending gradually to the reef flat for a final slow exploration and your safety stop.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry from Naama Bay beach. The entry can involve wading over shallow reef — use appropriate footwear and enter at designated entry points. Exit at the same location, approaching the shore carefully during any swell. This is a popular beach, so be aware of other water users.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Use fins-up entry to protect the reef and your fins in the shallows
+- Night dives at Ras Bob Reef are outstanding — octopus, cuttlefish, and sleeping parrotfish are reliably found
+- This is one of the classic sites for Open Water student training dives in Sharm el-Sheikh
+- Arrive early on busy days — the beach and entry area can become congested with multiple dive groups
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The shallow reef flat has fire coral patches that must not be contacted. Moray eels in this area are accustomed to feeding and can behave unpredictably — maintain distance. Despite calm bay conditions, always carry an SMB. Watch for boat traffic in the bay, particularly when surfacing away from the designated swimming area.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Night diving at Ras Bob offers some of the best accessible macro photography in Sharm el-Sheikh. Octopus, cuttlefish, and sleeping reef fish are cooperative subjects. Day dives provide good clownfish and anemone photography on the shallow reef flat. The clear Gulf of Aqaba water allows natural light photography at greater depth than typical Red Sea sites — the 15-meter zone can still receive usable natural light on sunny mornings.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

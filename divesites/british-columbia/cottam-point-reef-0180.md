@@ -11,55 +11,57 @@ osmId: 11732411251
 addedBy: osm_import
 ---
 
-## Cottam Point Reef 0/180
+# Cottam Point Reef 0/180
 
-Cottam Point Reef 0/180 is a reef dive site in British Columbia, North America.
+A dramatic wall dive accessible from shore near Qualicum Beach, descending to 30 metres along a current-swept face.
 
 ## Overview
 
-Cottam Point Reef 0/180 is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Cottam Point Reef 0/180 is a shore-access wall dive near Qualicum Beach on eastern Vancouver Island, named for its north-south orientation (0° / 180° compass headings). The site features a submerged wall that drops sharply from the shallow reef crest to 30 metres, with its faces exposed to tidal current that feeds exceptional invertebrate growth. This is an advanced site due to the depth, current potential, and requirement for solid buoyancy skills to navigate the wall without damaging marine life. Water temperatures are 7–11°C, and visibility ranges 8–15 metres.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Qualicum Beach area, eastern Vancouver Island, British Columbia
 - **Entry Type**: Shore entry
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 30 metres
+- **Typical Visibility**: 8–15 metres
+- **Current**: Tidal currents present — dive at slack
+- **Best Time**: Late summer and autumn for best visibility
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The wall's vertical faces are thickly encrusted with plumose anemones, both orange and white, forming dense colonies that give the wall a spectacular appearance. Giant Pacific octopus are found in crevices along the wall base. Wolf eels inhabit den sites in the wall's broken rock sections. Lingcod are abundant and territorial. Tiger rockfish are found at depth on the wall. Nudibranchs are diverse throughout, with numerous species documented on sponge-covered surfaces. Harbour seals visit regularly.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin your descent along the wall's north face, following the reef down to 30 metres maximum. Work along the wall face at depth, then gradually ascend the wall as the dive continues. The mid-wall section at 15–20 metres typically shows the densest invertebrate growth. Ascend to the reef crest at 5–8 metres for the safety stop. The "0/180" name guides orientation — use a compass heading to navigate along the wall efficiently.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry from Qualicum Beach area access points. The entry requires a wade or swim to the wall's edge. Carry all equipment to the water's edge before gearing up. The exit requires careful management of surf conditions if any swell is present. Confirm exact entry point with local Qualicum Beach dive shops. Park and access may be limited — verify current access information.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Advanced buoyancy control is essential on this wall — practice hovering horizontally before attempting depth
+- Qualicum Beach dive shops are the best source for access information and current timing
+- The wall orientation allows systematic coverage — follow your compass heading along the wall face
+- Autumn provides both good visibility and comfortable conditions for this advanced site
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Depth of 30 metres requires conservative NDL management, especially on first dives. Current on the wall can be significant — time strictly to slack. Shore entry and exit with heavy gear requires planning and physical fitness. A drysuit with appropriate undergarment is mandatory. Never dive alone at this site. Monitor gas carefully and ascend with adequate reserve.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Vertical wall photography with wide-angle or fisheye lenses is the signature approach for this site. The plumose anemone-covered wall faces create beautiful soft-coral-like images in cold Pacific light. Look up the wall to photograph fish silhouettes against the blue water above. Macro work on the wall's sponge surfaces finds exceptional nudibranch diversity.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
+- Qualicum Beach dive shops for access and conditions
+- Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

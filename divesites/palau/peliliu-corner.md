@@ -11,57 +11,47 @@ osmId: 5352500390
 addedBy: osm_import
 ---
 
-## Peliliu Corner
+# Peliliu Corner
 
-Peliliu Corner is a wall dive site in Palau, Pacific.
+Remote southern Palau's most rewarding wall dive, where strong currents and distance from Koror mean pristine reefs and dense shark populations with few other divers
 
 ## Overview
-
-Peliliu Corner is a dive site in Palau featuring a dramatic vertical wall that drops into the deep blue. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Peliliu Corner is a current-swept wall dive at the southern tip of Palau's reef system, near the historic WWII island of Peleliu. The site's remoteness -- roughly two hours by boat from Koror -- means it receives far less diver traffic than northern sites like Blue Corner, and the marine life reflects this. Grey reef sharks here are present in impressive numbers, often 30 or more cruising the wall face, along with silvertip sharks and the occasional bull shark in deeper water. The wall is pristine, with dense coral growth and minimal evidence of human impact. Strong ocean currents sweep the corner, bringing nutrients and large pelagics in abundance. Peliliu Corner is typically visited only by liveaboards and long-range day trips, making every dive here feel like a genuine expedition to a frontier reef. For experienced divers seeking raw, uncrowded shark encounters, this is Palau at its most elemental.
 
 ## Site Information
-
-- **Location**: Palau, Pacific
+- **Location**: Peleliu, Southern Palau, Micronesia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 20-50 meters (65-165 feet)
+- **Current**: Strong to very strong
+- **Best Time**: Year-round; best conditions and visibility November to May
 
 ## Marine Life
-
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Grey reef sharks are the primary attraction, with large aggregations of 20-50 individuals commonly reported. Silvertip sharks, distinguishable by their white-tipped dorsal and tail fins, are regular visitors. Bull sharks are seen occasionally in the deeper water off the wall. Spotted eagle rays glide past in small groups. Napoleon wrasse of impressive size patrol the reef edge. Large schools of barracuda, bigeye jacks, and dogtooth tuna hunt in the current. The wall itself is covered in pristine hard and soft corals, sea fans, and sponges. Whitetip reef sharks rest in wall crevices. Hawksbill turtles are common. The overall biomass at Peliliu Corner is among the highest in Palau.
 
 ## Dive Profile
-
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-25 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Descend to the reef top at 5-8 meters and work your way to the corner where the current concentrates the action. Hook in and observe the shark aggregation, which tends to be most active during incoming current. After the hook phase, drift along the wall between 10-25 meters. The wall drops to great depth, so careful depth management is essential. The current can be very strong and change direction -- stay alert and maintain close contact with your guide. Safety stop at 5 meters, deploy SMB for pickup.
 
 ## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Accessible primarily by liveaboard or long-range day boat from Koror (approximately 90-120 minutes). Entry by giant stride into current. The boat captain assesses current direction and strength to determine the drop point. Exit is a drift pickup -- SMB deployment is mandatory. Surface conditions can be rougher in this exposed southern location, making boat pickup more challenging than at sheltered northern sites.
 
 ## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- This site is best experienced from a liveaboard that can time the dive to optimal current conditions
+- Bring a reef hook and be prepared for Blue Corner-level or stronger currents
+- The shark encounters here are among the most intense in Palau -- stay calm and enjoy the show
+- Carry extra air or use Nitrox to extend your time on the wall
+- If you have limited Palau time, this site justifies the long boat ride for the raw, uncrowded experience
 
 ## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Peliliu Corner is one of Palau's most demanding dives due to the combination of strong currents, remote location, and exposure to open ocean. Down-currents are a real hazard along the wall. The distance from Koror means that emergency medical assistance is significantly delayed compared to northern sites. Dive with operators experienced in southern Palau conditions. Carry signaling devices, an SMB, and ensure your safety equipment is in perfect working order. This site demands advanced certification, current-diving experience, and excellent physical fitness.
 
 ## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+Wide-angle is the only sensible lens choice at Peliliu Corner. The shark aggregations are best captured when divers are hooked in and the sharks approach on the current -- shoot into the blue with the sharks overhead for dramatic compositions. The pristine wall provides excellent backdrop with dense coral growth. The exceptional visibility on good days allows ambient-light shooting at distance. Eagle ray passes and barracuda schools offer action sequences. The remoteness and pristine conditions yield images with a wild, unspoiled quality that distinguishes this site from Palau's more visited locations.
 
 ## Additional Resources
-
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

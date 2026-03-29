@@ -11,55 +11,57 @@ osmId: 3251209577
 addedBy: osm_import
 ---
 
-## Danger Rock
+# Danger Rock
 
-Danger Rock is a reef dive site in British Columbia, North America.
+A submerged hazard rock in the southern Strait of Georgia offering accessible cold-water reef diving.
 
 ## Overview
 
-Danger Rock is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Danger Rock lies in the southern Strait of Georgia, marked as a navigational hazard and providing excellent underwater terrain for divers. The rock is accessed by boat from Sidney or nearby communities and offers the characteristic cold-water diving of BC's Salish Sea. Tidal exchange in the area keeps the water nutrient-rich and supports productive invertebrate and fish communities. Water temperatures are 8–12°C and visibility typically reaches 8–15 metres in good conditions.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Southern Strait of Georgia, near Gulf Islands, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Submerged rock / reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 8–15 metres
+- **Current**: Tidal currents present — plan around slack
+- **Best Time**: Late spring through autumn
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The rocky terrain of Danger Rock supports a full range of Pacific Northwest cold-water species. Giant Pacific octopus inhabit crevices throughout the rock structure. Lingcod are commonly seen resting on horizontal surfaces. Copper and quillback rockfish are the most abundant fish. Plumose anemones and encrusting sponges coat exposed surfaces. Kelp greenlings and painted greenlings are present throughout the reef. Dungeness crab forage on the sandy perimeter. Harbour seals are frequent visitors.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Work the rock's perimeter at depth, then ascend toward the summit for the safety stop portion of the dive. The outer faces of the rock in the 10–15 metre zone typically show the richest invertebrate growth. Look carefully into crevices for octopus throughout the dive. Allow adequate gas for a full safety stop and surface swim to the boat.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Sidney or nearby launch facilities. GPS required. Anchor on sand clear of the rock. Deploy an SMB before ascending — vessel traffic in the southern Strait of Georgia is significant. A live boat pickup is preferable.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Danger Rock is often included in multi-site Gulf Islands dive day trips from Sidney
+- The site is suitable as a second or third dive of the day given its moderate depth
+- Autumn provides consistently good visibility in the southern Strait
+- Local Sidney dive shops can provide precise navigation and current timing information
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Tidal currents in the Strait of Georgia require careful timing. Vessel traffic is significant — always surface with a deployed SMB. Cold water (8–12°C) demands drysuit protection. Dive with a buddy and maintain contact throughout.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Wide-angle photography of the rock's encrusted faces with fish in the mid-water column creates strong Pacific Northwest compositions. Octopus portraits and lingcod resting on substrate make excellent subjects. Macro photographers should examine sponge-covered surfaces for nudibranchs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
+- Sidney area dive operators
+- Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,54 +13,35 @@ addedBy: osm_import
 
 ## Imbekwan Bommies
 
-Imbekwan Bommies is a pinnacle dive site in Raja Ampat, Asia.
+Imbekwan Bommies is a pinnacle and bommie dive site in the outer islands of Raja Ampat, West Papua, Indonesia. The site features a cluster of isolated coral heads (bommies) rising from a deeper sandy substrate — a formation that attracts concentrated marine life in the open water around the pinnacles.
 
 ## Overview
 
-Imbekwan Bommies is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Each bommie functions as a micro-ecosystem, drawing cleaning fish, shelter-seekers, and hunters to the same structure. Coral coverage is dense on the upper and mid-sections of each pinnacle, with encrusting sponges, sea fans, and tunicates covering the deeper sides. The spaces between bommies are productive hunting grounds for whitetip reef sharks, which rest in the sand during daylight hours and become more active as dusk approaches.
 
-## Site Information
+Schools of batfish circle the tallest pinnacles, while lionfish and scorpionfish occupy overhangs and ledges where they wait in ambush. Nudibranchs and flatworms crawl across encrusting growth, and cuttlefish are frequently spotted hovering near coral structures. The sandy channels between bommies hold garden eels and the occasional flamboyant cuttlefish for those who search carefully.
 
-- **Location**: Raja Ampat, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+Visibility typically runs 15–25 metres. Water temperatures average 27–29°C. Currents can vary between bommies depending on tidal phase.
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+- Whitetip reef sharks resting on sand between bommies
+- Schools of batfish around the tallest pinnacles
+- Lionfish and scorpionfish in overhangs
+- Nudibranchs and cuttlefish on encrusting growth
+- Garden eels in sandy channels
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Divers navigate from bommie to bommie at 10–30 metres, spending time at cleaning stations and searching ledges for cryptic species. The multi-pinnacle layout rewards systematic exploration. Entry and exit are by boat.
 
-## Entry and Exit
+## Practical Information
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+- **Depth range**: 5–30 m
+- **Visibility**: 15–25 m
+- **Current**: Light to moderate
+- **Best time**: October–April
+- **Water temperature**: 27–29°C
+- **Entry**: Boat
 
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

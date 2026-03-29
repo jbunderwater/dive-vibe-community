@@ -13,54 +13,35 @@ addedBy: osm_import
 
 ## Guraidhoo Channel
 
-Guraidhoo Channel is a drift dive site in Maldives, Asia.
+Guraidhoo Channel is one of the signature drift dives of South Male Atoll — a wide, fast-flowing passage between Guraidhoo and Kandoomaafushi where powerful tidal currents generate world-class pelagic encounters.
 
 ## Overview
 
-Guraidhoo Channel is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The channel between Guraidhoo and the surrounding reef structures funnels enormous volumes of water with each tidal cycle, creating the current that makes this site famous. Divers enter at the outer channel corner and are swept along a wall that descends to 32 metres, passing overhangs hosting large sea fans and barrel sponges. The highlight is the consistent presence of grey reef sharks and eagle rays riding the current line — it is not unusual to count a dozen or more sharks in a single drift. Hammerhead sharks visit the channel during the cooler-water season (January to March), and whale shark sightings are possible when plankton blooms occur. The exit into the protected lagoon side provides a natural end to the drift and a calmer safety stop environment. Visibility is typically 20–30 metres. Water temperature averages 27–29°C.
 
 ## Site Information
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Drift
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 32 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Depth**: Up to 32m
+- **Difficulty**: Advanced
+- **Site Type**: Drift dive
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Grey reef sharks (in numbers), eagle rays, hammerhead sharks (seasonal), whale sharks (seasonal), Napoleon wrasse, barracuda, giant trevally, and schools of snapper. Walls feature large sea fans and barrel sponges.
 
-## Dive Profile
+## Diving Conditions
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 32 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+| Condition | Details |
+|-----------|---------|
+| Visibility | 20–30m |
+| Current | Strong (tide-dependent) |
+| Water Temp | 27–29°C |
+| Best Season | November–April; January–March for hammerheads |
 
-## Entry and Exit
+## Tips for Divers
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+This dive requires confident drift skills and the ability to hold depth in strong current. Plan the dive on an incoming tide for the best shark action at the outer corner. A safety sausage (SMB) is essential for the drift exit. Brief with the skipper on pick-up protocol before entering the water.
 
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

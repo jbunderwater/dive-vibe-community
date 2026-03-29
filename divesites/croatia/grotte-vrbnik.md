@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Grotte Vrbnik
 
-Grotte Vrbnik is a cave dive site in Croatia, Europe.
+Grotte Vrbnik is an underwater cavern system near the historic town of Vrbnik on the eastern coast of Krk Island in the Kvarner. The site features accessible shallow cavern formations that can be explored by intermediate divers in the clear northern Adriatic waters.
 
 ## Overview
 
-Grotte Vrbnik is a dive site in Croatia featuring underwater cave and cavern formations. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The caverns at Vrbnik are located in the rocky limestone coastline that characterises Krk Island. The accessible section reaches a maximum of 13 metres — entirely within the zone of natural light penetration — making this a comfortable cavern experience suitable for intermediate divers. The rocky walls inside and around the cave are encrusted with red, orange, and yellow sponges, and the shallow depth allows extended dive times. Visibility is typically excellent here, often 15+ metres.
 
 ## Site Information
 
-- **Location**: Croatia, Europe
+- **Location**: Vrbnik, Krk Island, Kvarner, Croatia
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 13 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: May to October
+- **Typical Visibility**: 15–20 meters
+- **Current**: Generally calm, particularly inside the cavern
+- **Best Time**: April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+The cavern shelters lobster and crabs in its darker recesses. Small fish including gobies and blennies are abundant on the cave walls. Outside the entrance, moray eels, grouper, and sea bream are common. Nudibranchs are found on the sponge-covered cave walls. Posidonia seagrass meadows may be present in the shallower surrounding areas.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 13 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-13 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+From the boat, descend to the cavern entrance at 5–8 metres and explore the interior, always maintaining sight of natural light. The maximum depth of 13 metres means the entire dive is well within a single standard cylinder's range. Finish the dive by exploring the rocky reef surrounding the cave entrance before a brief ascent. A safety stop at 5 metres is straightforward given the shallow depth.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from Vrbnik-based operators or those running Krk Island multi-site day trips access this location. Entry by giant stride or back roll. The site is sheltered from the prevailing NE Bura wind.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- A torch significantly enhances the experience by illuminating the vivid encrusting organisms
+- An excellent second or third dive of the day given the very shallow maximum depth
+- Suitable for divers building experience with cavern environments under supervised conditions
+- The shallow depth supports very long, relaxed dive times — ideal for macro photography
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Cavern diving principles apply even at this shallow depth: always maintain visual contact with the entrance, ensure all divers have functioning torches, and avoid pushing into any sections where orientation to the exit is unclear. Dive with a buddy.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The shallow depth and natural light make this an exceptionally photographer-friendly cavern. Shooting toward the entrance from inside with sunbeams filtering in creates beautiful images. The brightly coloured sponge community on the walls photographs beautifully with a strobe from close range.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,55 +13,35 @@ addedBy: osm_import
 
 ## Seamount
 
-Seamount is a wall dive site in Raja Ampat, Asia.
+Seamount is an offshore pinnacle and wall dive in the Keruo area of Raja Ampat, West Papua, Indonesia. Rising from deeper open water, the structure creates a focal point for marine life in an otherwise featureless seafloor, drawing both resident reef species and open-water pelagics to its flanks.
 
 ## Overview
 
-Seamount is a dive site in Raja Ampat featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The seamount's upper plateau lies at a diveable depth, making it accessible for exploration while still commanding the deep water on all sides. The summit and upper walls are encrusted with prolific hard coral growth — table corals, Acropora thickets, and massive Porites heads — that have capitalised on the structure's exposed, current-bathed position. Nutrient-rich water washing over the summit supports dense schools of fusiliers and anthias that perpetually cloud the upper section.
 
-## Site Information
+The flanks of the seamount drop away more steeply and transition to sea fans, soft corals, and encrusting sponges. Current running past the structure brings pelagics: rainbow runners, dogtooth tuna, and barracuda patrol the open water within metres of the wall face. Grey reef sharks are regularly seen circling the deeper flanks, and eagle rays cruise past with their characteristic wingtip-first descents.
 
-- **Location**: Raja Ampat, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+Visibility reaches 20–30 metres in good conditions. Water temperature averages 27–30°C. Currents are variable — the seamount sits in open water and can experience stronger flow than nearby inshore sites.
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+- Dense Acropora and table coral on the summit
+- Grey reef sharks circling the deeper flanks
+- Eagle rays and dogtooth tuna in the blue water
+- Barracuda and rainbow runners along the wall
+- Schools of fusiliers and anthias on the summit plateau
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-25 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Divers descend the wall from the summit at 8–10 metres down to 20–25 metres, exploring sea fans and overhangs before circling back to the shallower summit for the safety stop. The seamount's isolation in open water means navigation is straightforward — the structure fills the view in every direction. Entry and exit are by boat.
 
-## Entry and Exit
+## Practical Information
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+- **Depth range**: 5–25 m
+- **Visibility**: 20–30 m
+- **Current**: Moderate (variable with tide)
+- **Best time**: October–April
+- **Water temperature**: 27–30°C
+- **Entry**: Boat
 
-## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

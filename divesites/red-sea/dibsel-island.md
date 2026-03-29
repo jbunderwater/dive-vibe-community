@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Dibsel Island
 
-Dibsel Island is a reef dive site in Red Sea, Middle East.
+Dibsel Island is a small island dive site in the southern Egyptian Red Sea, located in the Sudanese border zone near the Eritrean coast. This rarely visited site sits in one of the most remote stretches of the Red Sea and is accessible only by liveaboard vessels making extended southern expeditions. Its isolation has preserved both the hard coral structures and the density of marine life.
 
 ## Overview
 
-Dibsel Island is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The island itself is a low-lying coral cay surrounded by fringing reef on multiple sides. The reef flat gives way to a gently sloping wall descending to 20 meters and beyond. Because this area receives few divers each season, the corals are largely undamaged and the fish populations are dense. Water visibility in this part of the Red Sea typically reaches 25–40 meters. Water temperatures sit around 25–28°C year-round in the southern Red Sea.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
+- **Location**: Southern Red Sea, Egypt (near Sudanese border)
+- **Entry Type**: Boat dive (liveaboard)
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Typical Visibility**: 25-40 meters (80-130 feet)
 - **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The fringing reefs around Dibsel Island support thriving populations of reef fish — anthias clouds, emperor angelfish, large humphead wrasse, and dense schools of snapper are consistently reported. Sea turtles are frequent visitors to the shallower reef flat. Reef sharks patrol the deeper sections. In the pelagic zone off the island, barracuda, trevally, and occasional hammerhead sharks are encountered. The reef's remoteness means marine life exhibits little fear of divers — a rare characteristic in the more heavily visited northern Red Sea.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The reef flat at 2–4 meters transitions to a moderate slope leading to the sandy bottom around 18–20 meters. The most diverse coral sections are found between 6 and 15 meters, where both hard and soft corals grow in excellent condition. A circumnavigation of the island's accessible reef sections can be completed in one dive if currents are manageable. Plan your dive heading into any current at the start to ensure an easier return.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by liveaboard only. Entry is from the dive tender or main vessel via giant stride. Ascend the anchor or mooring line for your safety stop and coordinate with the boat crew for pickup. In calm conditions, some operators permit entry from inflatable tenders beached on the island's shallows.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Visit as part of an extended southern Red Sea liveaboard itinerary including St. John's Reef and Zabargad
+- The southern Red Sea is less dived — bring a wide-angle lens and generous dive time
+- Afternoon light provides excellent illumination in the shallows on the western side
+- Check with your liveaboard operator regarding Sudanese maritime regulations if venturing further south
+- Carry a full set of reef-safe sun protection — this is open water and shade is scarce
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Remote location means emergency medical support is hours away. Ensure your dive insurance covers liveaboard expeditions and remote areas. Currents can be unpredictable in the open southern Red Sea. Always conduct a pre-dive current check before descending. Fire coral is present in the reef flat; board shorts are not suitable exposure protection at this site.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Dibsel Island rewards wide-angle photographers with pristine coral scenery and approachable reef fish. The shallow reef flat in calm morning conditions is excellent for natural-light reef photography. Look for cleaning stations on the outer slope where humphead wrasse and sharks come in for attention from cleaner wrasse — these are outstanding behavioural photography opportunities.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

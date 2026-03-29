@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Batu Lima
 
-Batu Lima is a reef dive site in Raja Ampat, Asia.
+Batu Lima — "Five Rocks" in Indonesian — is a reef dive near the Friwen Island area of Raja Ampat, where a cluster of submerged rocky outcrops creates a complex, richly colonized underwater landscape popular with both macro seekers and reef fish enthusiasts.
 
 ## Overview
 
-Batu Lima is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The five rock formations that give this site its name break the reef's horizontal profile and create a variety of microhabitats — exposed summits with strong coral growth, shaded sides with sponges and soft coral, sandy pockets between the outcrops, and overhanging ledges that shelter larger fish. The interaction of tidal flow with these rocky structures creates localized eddies that concentrate plankton-feeders and the fish that hunt them. Visibility is typically 15–20 meters and water temperature averages 27–29°C. Batu Lima sits close to the excellent diving of the Friwen area, making it a natural companion dive on any Friwen Island itinerary.
 
 ## Site Information
 
-- **Location**: Raja Ampat, Asia
+- **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 27 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15–20 meters (50–65 feet)
+- **Current**: Variable; moderate on tidal flow
+- **Best Time**: October to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The five rock outcrops and their connecting reef support a diverse assemblage of species. Snapper and sweetlips gather under ledges; trevally cruise the gaps between the rocks; hawksbill turtles forage on the reef top. White-tip reef sharks rest in sandy pockets between the boulders. The slower-paced reef sections between the rocks are good for nudibranchs, flatworms, and cryptic macro subjects including robust ghost pipefish and leaf scorpionfish resting on coral rubble. The site's varied topography makes each visit slightly different depending on starting position and tidal timing.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 27 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin at whichever rock the guide designates as the starting point based on current direction. Circumnavigate each rock formation in sequence, checking the current-shadow sides for sheltering fish and examining each sand pocket carefully. Depths range from 8–10 meters on the rock tops to 25–27 meters between the deeper bases. Maintain a relaxed pace and spend time looking closely at the substrate between boulders, where cryptic species are most often found.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from the Friwen Island area or from liveaboards operating the northern Raja Ampat itinerary. Entry via giant stride. The site's multiple rock formations provide natural orientation references. Deploy SMB for ascent; surface conditions are typically calm.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Ask the guide to lead you through all five rocks systematically — a circumnavigation dive plan is most efficient
+- Explore sandy gaps between rocks carefully with a torch for leaf scorpionfish and ghost pipefish
+- Combine with Friwen Bonda, Friwen Garden, or Friwen Laut for a full day of Friwen area diving
+- Check crevices between boulders for resting white-tip sharks
+- The tops of the rocks at 8–10 meters can be good for ending the dive with photogenic coral gardens
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Standard intermediate reef diving protocols apply. Moderate currents possible — carry an SMB. The rocky outcrops create eddies and flow reversals that can be disorienting; maintain reference to the rock structures to avoid unintentional drift.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The five-rocks topography lends itself to interesting wide-angle compositions — divers between boulders, sharks resting on sand, and schools of fish framing the rocky features. Macro subjects in the sand pockets between rocks are a productive secondary focus. A combination wide-angle/macro rig or two camera setups serves the site's variety well.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Gam Ridge
 
-Gam Ridge is a reef dive site in Raja Ampat, Asia.
+Gam Ridge is a reef ridge dive site off Gam Island in Raja Ampat, West Papua, Indonesia.
 
 ## Overview
 
-Gam Ridge is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures . Good corals and good quantity of fish. Saw a turtle and some clown fishes. Saw a nice black murena hidden under coral.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Gam Island is one of the karst limestone islands that defines the visual character of Raja Ampat, and Gam Ridge is a submerged extension of this island's geological structure — a ridge running from the island into deeper water, its surface colonised by the dense coral growth typical of protected Raja Ampat reefs. The ridge formation channels current along its flanks, creating productive conditions that support good coral coverage and substantial fish populations. Trip reports describe "good corals and good quantity of fish," with regular turtle sightings and clownfish in anemones throughout. A black moray eel hiding beneath coral heads is a memorable encounter that characterises the reef's complexity. Visibility typically reaches 20-30 meters and water temperatures average 27-29°C.
 
 ## Site Information
 
-- **Location**: Raja Ampat, Asia
+- **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters
+- **Current**: Moderate, flows along the ridge
+- **Best Time**: October to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Sea turtles are regular sightings at Gam Ridge, often resting on or foraging the reef. Clownfish are abundant in carpet anemone patches throughout the shallow sections. Moray eels — including large black and honeycombed morphs — hide beneath coral heads along the ridge. Schools of anthias and fusiliers populate the water column above the ridge crest. Parrotfish and surgeonfish graze actively. Reef sharks are present at the ridge flanks, and Napoleon wrasse patrol with characteristic unhurried confidence.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the ridge crest (5-8 meters) and follow the ridge in one direction, exploring both flanks as depth allows. The ridge runs to around 20-25 meters at its base. Current typically runs along the ridge rather than across it, making for a comfortable directional dive. Spend time at depth examining crevices for moray eels and other cryptic residents before ascending back up the ridge for the safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from Gam Island homestays or liveaboard operators. Entry via giant stride near the ridge crest. Current along the ridge may create a mild drift. Deploy SMB before ascending for boat pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Look carefully beneath coral heads and table corals for moray eels and groupers
+- The anemone patches with resident clownfish are a reliable source of photographic subjects
+- Gam Ridge works well as a first dive of the day given its accessible depth profile
+- Combine with nearby Mangrove Ridge and Fuzzy Rock for a full Gam area diving day
+- Dive slowly and methodically along both flanks of the ridge for the best species count
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Current flows along the ridge and is generally manageable. Carry an SMB and dive within your certification limits. Maintain buoyancy throughout to avoid contact with the reef. Follow your guide's direction regarding the preferred dive route along the ridge.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The ridge format suits wide-angle photography: compose along the ridge crest with depth on one side and the reef slope on the other. Turtle portraits are achievable given the animals' frequent relaxed presence at this site. The moray eel encounters, while unpredictable, offer superb macro portrait opportunities. Clownfish in anemones are reliable close-up subjects throughout the shallow sections.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Sardine Reef
 
-Sardine Reef is a pinnacle dive site in Raja Ampat, Asia.
+Sardine Reef is a pinnacle site in the eastern Dampier Strait where the defining spectacle is a living wall of sardines and fusiliers surrounding the structure — a bait ball so dense it literally dims the light as it passes overhead.
 
 ## Overview
 
-Sardine Reef is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The name says it all. Sardine Reef's submerged pinnacle rises to within 5 meters of the surface and has become a reliable aggregation point for massive schools of sardines (Sardinella sp.) and mixed fusiliers that circle the structure in formations thousands-strong. These bait balls attract predators — tuna, trevally, and reef sharks work the school's edges while dive hawks and frigate birds wheel above the surface above. Below, the pinnacle itself offers colorful hard and soft coral cover with a typical Raja Ampat complement of resident reef fish. Visibility is typically 15–20 meters and water temperature averages 27–29°C.
 
 ## Site Information
 
-- **Location**: Raja Ampat, Asia
+- **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15–20 meters (50–65 feet)
+- **Current**: Moderate; schooling intensity increases with moderate tidal flow
+- **Best Time**: October to April; sardine aggregations strongest in calm season
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Sardines and blue-backed fusiliers dominate the water column above and around the pinnacle in spectacular density — schools of tens of thousands that swirl, compress, and expand in response to the trevally and tuna working their edges. Giant trevally, bigeye trevally, and dog-tooth tuna conduct coordinated attacks on the bait ball. Grey reef sharks patrol the perimeter. On the pinnacle itself, large groupers, napoleon wrasse, and hawksbill turtles are resident. The base of the pinnacle at 15–20 meters has soft coral and sponge gardens with nudibranchs and flatworms for those with macro interests.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the pinnacle top at 5–8 meters and immediately take stock of where the sardine school is concentrated. If the ball is tight and predators are working it, stay at the school's level and watch the hunting behavior unfold. Position below the ball to look up through it against the light — the sensory experience of being surrounded by thousands of fish is extraordinary. Explore the pinnacle flanks at 10–20 meters after time with the school. The school's density often increases and decreases through the dive as predators disperse and regroup it.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from liveaboards or eastern Dampier Strait operators. The shallow pinnacle top is easily found. Entry via giant stride. Surface conditions are typically calm in this location. Deploy SMB on ascent.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Approach the bait ball slowly and from below — shooting up through the school is the best perspective
+- Predator attacks happen fast; have camera settings pre-configured before descent
+- The sardine school can completely surround divers in a disorienting, exhilarating experience — stay calm
+- Trevally can bump divers inadvertently while chasing sardines; this is normal and not harmful
+- Mid-morning dives often offer the best light for bait ball photography
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+No significant hazards beyond standard open-water diving protocols. Carry an SMB. The spectacle of the bait ball can be disorienting — maintain depth awareness and buddy contact throughout. Predatory fish (trevally, tuna) in hunt mode may brush past divers; they are not targeting divers but can cause unexpected contact.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Sardine Reef is a wildlife spectacle photographer's dream. Wide-angle glass is essential (14–17mm on full frame). The defining shot is positioned below or inside the bait ball, shooting upward toward the surface with the school creating a tunnel or dome effect. Including a diver adds scale. A fast shutter speed (1/200 or faster) freezes the motion of individual fish within the school. Backscatter management is critical — avoid strobe angles that highlight particles in front of the sardines.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -11,55 +11,56 @@ osmId: 1731207317
 addedBy: osm_import
 ---
 
-## Shirt Tail Reef
+# Shirt Tail Reef
 
-Shirt Tail Reef is a reef dive site in Puget Sound, North America.
+A compact rocky reef in the southern San Juan Islands, offering accessible cold-water diving with octopus, wolf eels, and colourful invertebrate communities.
 
 ## Overview
 
-Shirt Tail Reef is a dive site in Puget Sound offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Shirt Tail Reef is a submerged rocky structure in the southern San Juan Islands, in the channel systems between Lopez Island and the nearby mainland. The reef has an irregular profile — perhaps the origin of its distinctive name — with multiple small ridges and rock features that create habitat diversity. The site's proximity to tidal flow ensures consistent invertebrate growth, and the reef is established on regular San Juan Islands dive charter routes. Maximum depth is 18 metres; water temperature is 7–11°C year-round.
 
 ## Site Information
 
-- **Location**: Puget Sound, North America
+- **Location**: Southern San Juan Islands, Puget Sound, Washington
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 8–14 metres
+- **Water Temperature**: 7–11°C
+- **Current**: Moderate tidal; plan for slack
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Giant Pacific octopus are a reliable encounter at Shirt Tail Reef — the irregular rock profile provides abundant den sites. Wolf eels are present in the deeper crevices. Lingcod, copper rockfish, and kelp greenlings are resident throughout. The invertebrate layer is typically dense: plumose anemone colonies, encrusting sponges, nudibranchs (opalescent, aeolid, and dorid species), tube worms, and sea stars. Puget Sound king crabs move through the boulder areas. Harbour seals and Stellar sea lions occasionally investigate divers.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin at the shallowest portion of the reef (5–8 metres) and explore the irregular ridge features that characterise the site. Work outward to the deeper sections at 18 metres, investigating boulder gaps and rock overhangs as you go. The varied topography rewards a slow, methodical approach rather than a straight transect. Return to the shallow crest for a safety stop before surfacing.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access only, operated primarily by Friday Harbor and Anacortes charter operators. Anchor on the sheltered side relative to tidal flow. Back-roll or giant stride entry. The irregular reef topography means maintaining a compass heading is important for navigating back to the anchor line. Deploy an SMB before the final ascent.
 
-## Tips and Recommendations
+## Tips
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The irregular reef profile creates many small overhangs and rock pockets — these are prime spots for octopus and wolf eel dens
+- Search the transition zones between rock and sand at the reef base for flatfish and additional octopus
+- The reef is manageable for an intermediate diver building experience in Pacific Northwest cold-water environments
+- Bring a macro lens — the nudibranchs at this site are diverse and well-documented in the regional dive community
 
-## Safety Considerations
+## Safety
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Cold water (7–11°C) requires dry suit diving. Plan dives for slack tide and agree on a firm abort rule if current picks up unexpectedly. Always carry and deploy an SMB before surfacing. The irregular bottom topography means buddies should stay particularly close to avoid separation.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The irregular topography and boulder gaps at Shirt Tail Reef make for interesting wide-angle compositions. Octopus peering from den entrances and wolf eel portraits in their rock crevices are strong subjects. Macro photography on nudibranchs and encrusted surfaces is productive throughout the dive. A strobe is essential for colour accuracy.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

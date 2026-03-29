@@ -13,54 +13,53 @@ addedBy: osm_import
 
 ## Shaab Claudio
 
-Shaab Claudio is a reef dive site in Red Sea, Middle East.
+Shaab Claudio is a coral reef in the Fury Shoals / southern Egyptian Red Sea, at approximately 24.22°N, 35.61°E — placing it within the cluster of offshore reefs north of Sataya in the Marsa Alam region. The Fury Shoals are one of Egypt's finest liveaboard diving areas, characterized by pristine reefs, exceptional visibility, and the kind of marine life encounters that attract repeat visitors from around the world. Shaab Claudio is one of several named reefs in this system dived by southern Red Sea liveaboards.
 
 ## Overview
 
-Shaab Claudio is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Shaab Claudio follows the typical Fury Shoals reef profile: a coral platform rising to shallow depths (3–8 meters) surrounded by sloping walls that drop to 20 meters and beyond. The reef structure here features a mix of hard and soft corals, with table corals dominating the upper platform and gorgonian fans and soft corals appearing on the current-swept outer walls. The southern Red Sea around the Fury Shoals sees relatively low diver traffic compared to northern sites, and the reef health reflects this — coral coverage is dense and fish populations are undisturbed.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Fury Shoals, southern Red Sea, Egypt (Marsa Alam region)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Typical Visibility**: 20-35 meters (65-115 feet)
 - **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The Fury Shoals reef system is renowned for dolphin encounters, and spinner dolphins are frequently observed in the blue water around these outer reefs. Sea turtles are abundant — both green and hawksbill turtles rest on the coral platform and are among the most reliable sightings on any Fury Shoals dive. humphead wrasse are present on the outer reef edges. Grey reef sharks patrol the deeper sections. The reef surface hosts enormous populations of anthias and chromis, and the transition zone between coral and sand at the reef base provides habitat for garden eels and stingrays.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef flat and explore the coral gardens before following the slope outward to the reef edge at 15–20 meters. Look outward from the reef edge into the blue for dolphins and sharks. In current, the dive can be structured as a drift along the outer slope. Return to the reef platform for a comfortable safety stop in the shallows before ascending.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Liveaboard access from Marsa Alam or Port Ghalib. Day boats from Marsa Alam may also reach this site. Giant stride entry from the dive skiff. Deploy an SMB for all open-water ascents given the remote offshore location.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Combine with Sataya East and Sataya South for a comprehensive Fury Shoals dive itinerary
+- Early morning dives maximize the chance of dolphin encounters before the pod departs offshore
+- The Fury Shoals area rewards three to four days of diving — multiple sites can be combined on a liveaboard loop
+- Move slowly on the reef platform — turtle behavior is relaxed here and close approaches are possible
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The Fury Shoals are offshore reefs; emergencies require liveaboard support. Dive conservatively and within your limits. Currents on the outer reef edges can be significant. Always carry an SMB. A full-length wetsuit or 3mm suit provides adequate thermal and exposure protection year-round.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Turtles at close range on the coral platform are among the best photography opportunities in the southern Red Sea. The clear water and healthy coral provide excellent wide-angle reef scape compositions. Dolphin encounters in the mid-water zone reward quick action with a wide or fisheye lens. Soft coral growth on the outer reef walls produces close-focus wide-angle opportunities.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

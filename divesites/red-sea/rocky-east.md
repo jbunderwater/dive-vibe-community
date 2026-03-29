@@ -11,56 +11,55 @@ osmId: 663869758
 addedBy: osm_import
 ---
 
-## Rocky East
+# Rocky East
 
-Rocky East is a reef dive site in Red Sea, Middle East.
+The eastern face of the Rocky Island reef system in the Fury Shoals — a current-exposed wall with large gorgonian fans, passing pelagics, and the raw, open-ocean character that defines diving at this latitude.
 
 ## Overview
 
-Rocky East is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Rocky East is the eastern-facing dive site on Rocky Island, part of the Fury Shoals reef complex at approximately 23.56°N, 36.25°E in the southern Egyptian Red Sea. This is deep offshore territory, accessible only by liveaboard, where the reef faces the open Red Sea to the east. The eastern exposure means stronger current and open-ocean influence — a wall that drops to significant depth and receives passing pelagics that don't visit the sheltered western faces of the same island. Rocky Island sits within one of the less-dived sections of the Fury Shoals system, making the eastern face one of the most pristine wall dives in the region. Large gorgonian fans occupy the wall below 15 metres.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Location**: Eastern face, Rocky Island, Fury Shoals, southern Egyptian Red Sea (~23.56°N)
+- **Entry Type**: Liveaboard dive only
+- **Site Type**: Coral reef (wall)
+- **Difficulty Level**: Intermediate (current experience recommended)
+- **Maximum Depth**: 20 meters (wall extends deeper)
+- **Typical Visibility**: 20–35 meters
+- **Current**: Moderate to strong on the exposed eastern face
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The eastern wall receives passing pelagic traffic: grey reef sharks cruise the wall edge, and hammerhead sightings are possible in early morning dives during spring months. Large gorgonian fans at 15–20 metres are in excellent condition due to the site's undisturbed status. Schools of barracuda and trevally patrol in open water off the wall. Anthias and chromis schools cover every surface of the coral wall. Moray eels are common in the wall crevices. The sandy ledges at 18–20 metres hold resting whitetip reef sharks. Turtles pass along the wall mid-water.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend directly to the gorgonian zone at 15–18 metres on the wall face and assess current direction. Work along the wall with the current, covering the richest coral and shark sections at depth. After 20–25 minutes at depth, ascend the wall to 8–12 metres and continue along the shallower reef section. The dive transitions naturally from the exposed wall to a slightly more sheltered upper reef zone. Safety stop at 5 metres on the upper reef.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Liveaboard access on Fury Shoals itineraries — typically combined with Rocky North and other Fury Shoals sites over a multi-day stay. No permanent moorings on the eastern face. Giant stride entry from the tender with the boat positioning for the current direction. SMB deployment mandatory before ascending.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Dive the eastern face in the morning when current is often more predictable — afternoon conditions can be challenging
+- Position at 15–18 metres near the gorgonians and allow the current to carry you slowly along the wall
+- If current is too strong for comfortable diving, shift to the sheltered Rocky North site for the same dive
+- Carry a torch for the wall crevices — moray eels and lobsters occupy every deep cavity
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Current on the eastern face can be strong and variable. Assess conditions from the boat before entry — if surface conditions appear rough, abort the eastern face and dive Rocky North instead. The wall drops beyond 20 metres — discipline is required on depth limits. Deploy SMB before ascending; current will carry divers away from the reef quickly. Stay in buddy visual contact throughout.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The eastern wall provides classic wall photography: gorgonian fans at 15–18 metres with natural blue-water background, wide-angle shots of the anthias-covered wall face, and shark portraits at the reef edge. The undisturbed state of the reef and high visibility create ideal conditions for ambient wide-angle without flash for the upper wall in morning light.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

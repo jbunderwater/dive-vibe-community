@@ -11,57 +11,53 @@ osmId: null
 addedBy: osm_import
 ---
 
-## The Ledges
+# The Ledges
 
-The Ledges is a wall dive site in Sint Eustatius, Caribbean.
+A series of volcanic rock terraces stepping down Statia's northern leeward wall, each ledge carrying dense encrusting sponges and cup corals with resident groupers and lobster beneath the overhangs.
 
 ## Overview
 
-The Ledges is a dive site in Sint Eustatius featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Ledges is a terraced wall site on the northern section of Sint Eustatius's leeward coast, characterised by a series of horizontal ledge formations stepping down the volcanic wall from 8 to 15 meters. Each ledge represents a distinct geological layer of the volcanic structure, and each carries its own community of organisms on the horizontal face and overhang beneath. The STENAPA marine park's protection has allowed these slow-growing organisms — orange cup corals, encrusting sponges, and wire coral — to develop on the undersides of each ledge over decades. The site is in relatively calm water on the northern leeward coast. Visibility averages 20–30 meters.
 
 ## Site Information
 
-- **Location**: Sint Eustatius, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 15 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 8–15 m |
+| Difficulty | Intermediate |
+| Entry Type | Boat |
+| Site Type | Wall |
+| Visibility | 20–30 m |
+| Current | Light |
+| Water Temp | 26–28°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Each ledge level supports a distinct assemblage. The upper ledges at 8–10 meters carry hard coral formations with parrotfish and surgeonfish. The intermediate ledges at 11–13 meters have overhangs sheltering copper sweepers and glassfish clouds, with Caribbean spiny lobster beneath. The deepest ledges at 14–15 meters carry black coral bushes in their shadow zones. Hawksbill turtles visit throughout the site. Spotted moray eels occupy crevices in the ledge walls. At the base of the deepest ledge, southern stingrays rest in the sandy clearings.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-15 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Descent via mooring to the top ledge at 8 meters. Navigation follows the ledge system south, descending from one terrace to the next in sequence. The guide leads divers to the specific features on each ledge — the overhang with sweepers, the lobster crevice, the cup coral ceiling. Ascent uses the ledge steps in reverse, rising one level at a time back to the mooring. Bottom time at 15 meters: approximately 55–60 minutes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive with STENAPA mooring on the northern leeward coast. Access via Golden Rock Dive Center. Entry by giant stride. The sheltered position means calm entry and exit conditions in most weather.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+The Ledges rewards slow, systematic diving — work each ledge face thoroughly before descending to the next level. Carry a torch for the underside of each ledge where cup corals and sweepers concentrate. The terraced structure means this site is excellent for practicing depth control and methodical navigation. Evening dives at The Ledges are reported to produce good encounters with lobster and moray eels emerging from their daytime shelters.
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The ledge overhangs are all open — no enclosed overhead environments — but require attention to buoyancy when working underneath. Do not touch the orange cup coral on overhang ceilings as it is fragile and slow-growing. Fire coral is present on some exposed ledge faces. Current is usually light here but can increase with tidal flow.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+The step-terrace structure is visually distinctive — a wide-angle shot looking up a ledge face with the diver descending to the next level captures the unique topography. The overhang undersides with cup coral and sponge colour are excellent with supplemental lighting. Fish portraits on the upper ledge crests in ambient light are effective for the angelfish and parrotfish species found here.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- STENAPA: stenapafoundation.com — Sint Eustatius Marine Park dive site information
+- Golden Rock Dive Center: guided dives at The Ledges and throughout Statia's marine park
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

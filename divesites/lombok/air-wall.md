@@ -13,55 +13,54 @@ addedBy: osm_import
 
 ## Air Wall
 
-Air Wall is a wall dive site in Lombok, Asia.
+Gili Air's signature wall dive on the island's eastern side — rare gorgonian sea fans, bumphead parrotfish, and a vertical drop to 30 m.
 
 ## Overview
 
-Air Wall is a dive site in Lombok featuring a dramatic vertical wall that drops into the deep blue . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Air Wall runs along the eastern side of Gili Air and drops vertically from 5 m to 30 m, offering one of the most scenic wall dives accessible from Lombok and the Gili Islands. The wall is notable for hosting rare gorgonian sea fans — an impressive sight given the proximity to the more heavily visited sections of the Gilis. The dive starts on a sandy slope that transitions to coral bommies and ridges where bumphead parrotfish are regularly sighted. The current sweeps along the wall creating the conditions for larger fish to congregate, and the combination of colourful wall corals and pelagic action makes this one of the standout sites on Gili Air.
 
 ## Site Information
 
-- **Location**: Lombok, Asia
+- **Location**: East side of Gili Air, Gili Islands / Lombok
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Wall
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 22 m
+- **Typical Visibility**: 15–25 m
+- **Current**: Moderate; consistent along the wall
+- **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Bumphead parrotfish follow the wall in schools — an impressive and unusual sighting at Gili Air. Rare gorgonian sea fans throughout the wall face. Reef sharks and barracuda on the outer sections. Turtles feed along the reef crest. Moray eels and groupers inhabit wall crevices. Nudibranchs on the coral rubble and sandy ledges.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-22 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Descend to the wall at 10–15 m and follow it south, staying between 15–22 m to observe the gorgonian fans and reef. Watch the slope transition at the start of the dive for bumphead parrotfish before the wall section begins. Ascend gradually and complete a safety stop in the shallower coral zone.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat from Gili Air (short transit). Entry via back roll or giant stride. Current along the wall is manageable for intermediate divers. SMB for drift ascent.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Arrive early to maximise the chance of bumphead parrotfish before they move to other feeding areas
+- Scan the gorgonian fans carefully for pygmy seahorses — they have been reported here
+- Combine with a Gili Air Biorock dive and the Gili Air harbour macro site for a comprehensive Gili Air day
+- On neap tides, this site is more accessible for less experienced intermediate divers
+- The mandarin fish in Gili Air harbour is worth a separate dusk/dawn dive visit
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Current can increase on the wall's open eastern face. Stay alert to depth on the wall sections where the drop is significant. Always carry an SMB. Reef sharks are non-aggressive but maintain respectful distance.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+Rare gorgonian sea fans suit wide-angle close-focus with strobes. Bumphead parrotfish schools require wide-angle and fast shutter speeds. Turtles on the reef crest in natural shallow light make excellent wide-angle subjects.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

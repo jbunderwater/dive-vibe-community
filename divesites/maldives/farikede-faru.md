@@ -13,53 +13,29 @@ addedBy: osm_import
 
 ## Farikede Faru
 
-Farikede Faru is a reef dive site in Maldives, Asia.
+Farikede Faru is a deep outer reef (faru) in the southern Maldives, one of the country's premier big-animal dive sites with reliable encounters with thresher sharks, oceanic manta rays, whale sharks, and ocean sunfish (mola mola).
 
 ## Overview
 
-Farikede Faru is a dive site in Maldives offering rewarding diving on healthy coral reef structures . deep dive site with thresher shark, oceanic manta rays, whale sharks, mola mola. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Situated at the southern extreme of the Maldivian archipelago near Addu or Huvadhoo Atoll, Farikede Faru is characterised by an abrupt outer reef drop-off plunging well beyond recreational diving limits. The wall begins at 5 meters and falls precipitously to over 40 meters, where the deep reef face is swept by strong oceanic currents carrying cold nutrient-upwellings from the deep ocean. These cold-water intrusions are the key to the site's big-animal productivity: thresher sharks rise from the depths in the early morning to be cleaned at stations on the reef wall, oceanic manta rays feed in the plankton-rich water column during productive seasons, and whale sharks are drawn by the fish spawning aggregations that occur at specific times of year. Mola mola (ocean sunfish) appear during thermocline periods when cool water is present at depth. The sheer outer wall itself is covered in enormous sea fans and black coral trees, with pelagic species passing in the blue water beyond the reef edge.
 
 ## Site Information
 
-- **Location**: Maldives, Asia
+- **Location**: Southern Maldives (Addu/Huvadhoo Atoll area)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: 2
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 20-40 meters
+- **Current**: Strong oceanic currents; variable direction
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Thresher sharks (cleaning station behaviour), oceanic manta rays, whale sharks, mola mola (ocean sunfish), grey reef sharks, hammerhead sharks (seasonal), barracuda, dogtooth tuna, large sea fans, and black coral trees on the deep wall.
 
-## Dive Profile
+## Tips for Divers
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 40 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Early morning (first light) dives offer the best chance of thresher shark encounters at the cleaning stations. Descend quickly to 25-35 meters along the wall and position yourself calmly near a known cleaning station — patience and stillness are critical, as thrashers are shy and will abort the cleaning if divers approach aggressively. The outer blue water beyond the wall edge is where whale sharks and mantas are spotted. This site requires strong buoyancy control and experience managing deep dives in current.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

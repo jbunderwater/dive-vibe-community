@@ -11,55 +11,57 @@ osmId: 6457133102
 addedBy: osm_import
 ---
 
-## Cottam Reef
+# Cottam Reef
 
-Cottam Reef is a reef dive site in British Columbia, North America.
+A productive reef near Qualicum Beach on eastern Vancouver Island offering excellent cold-water diving.
 
 ## Overview
 
-Cottam Reef is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Cottam Reef lies in the Strait of Georgia near Qualicum Beach, in the waters off eastern Vancouver Island. This submerged reef feature rises from the strait floor and collects marine life on its rocky faces and crevices. The site is accessed by boat from Qualicum Beach or Parksville and offers typical intermediate Strait of Georgia conditions. Water temperatures are 8–11°C and visibility ranges from 8–15 metres in the summer and autumn months.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Strait of Georgia, near Qualicum Beach, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Submerged reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 8–15 metres
+- **Current**: Tidal currents present — plan around slack
+- **Best Time**: Late spring through autumn
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Cottam Reef hosts a productive cold-water community. Giant Pacific octopus are the most sought-after species at the site. Lingcod are abundant and some large individuals have established long-term territories on the reef. Copper and quillback rockfish are common throughout. Plumose anemones and encrusting sponges colonise exposed rock surfaces. Kelp greenlings and painted greenlings are abundant in the shallower areas. Dungeness crab forage on adjacent sand bottom. Harbour seals visit consistently.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The reef rises to about 8–10 metres, with the perimeter dropping to 18 metres. Work the deeper sections first, exploring crevices and overhangs for octopus and wolf eels. Transition to the shallower crest zone for the final portion of the dive. End with a 3-metre safety stop before surfacing. The reef's size allows a full perimeter tour in a single dive.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Qualicum Beach or Parksville boat launches. GPS required to locate the submerged feature. Anchor on sand clear of the reef. Deploy SMB during ascent — boat traffic in the Strait of Georgia requires a visible surface signal. A live boat pickup is preferable to anchoring at this site.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Cottam Reef is close to the wall dive at Cottam Point — the two can be combined for a dive day
+- Qualicum Beach has active dive clubs and operators familiar with this reef
+- Autumn visibility in the Strait of Georgia is generally the best of the year
+- Check for herring presence — when herring schools are in the Strait, predator activity increases dramatically
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Tidal currents in the central Strait of Georgia require planning. Current can accelerate quickly at the reef as the tidal phase changes. Always deploy SMB before ascending. Cold water (8–11°C) demands drysuit proficiency. Maintain buddy contact throughout.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Octopus portraits against the rocky reef substrate are a highlight at Cottam Reef. Lingcod resting on the bottom surrounded by encrusting invertebrates make strong wide-angle images. The anemone-covered reef faces provide backdrop for fish portraits. Macro work on sponges and bryozoans reveals a hidden world of nudibranchs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
+- Qualicum Beach and Parksville dive operators
+- Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

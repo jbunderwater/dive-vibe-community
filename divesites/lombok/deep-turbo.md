@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Deep Turbo
 
-Deep Turbo is a pinnacle dive site in Lombok, Asia.
+An offshore pinnacle in the Gili Islands channel with strong currents and big pelagics — one of the best advanced dives accessible from Lombok.
 
 ## Overview
 
-Deep Turbo is a dive site in Lombok offering rewarding diving on healthy coral reef structures . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Deep Turbo is an offshore pinnacle in the channel between the Gili Islands, reserved for advanced divers comfortable with strong current conditions. The pinnacle rises from depth to 10–15 m at its shallowest and drops away steeply into the channel. Strong currents concentrate pelagic life — trevally, reef sharks, eagle rays, and schooling fish converge on the pinnacle's upcurrent face. The exposed position and demanding conditions set this site apart as one of the top advanced dives in the Lombok/Gili Islands region, offering a genuinely challenging and rewarding experience for those qualified to attempt it.
 
 ## Site Information
 
-- **Location**: Lombok, Asia
+- **Location**: Offshore channel, Gili Islands / Lombok
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 30 m
+- **Typical Visibility**: 15–30 m (current-swept)
+- **Current**: Strong to very strong; always present
+- **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Reef sharks are reliably present at the pinnacle. Eagle rays and stingrays pass in the open water. Giant trevally and barracuda hunt around the structure. Schooling fusiliers and snapper in mid-water. Gorgonian fans and soft corals established on the pinnacle's current-swept face.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boat entry upstream. Descend quickly and locate the pinnacle's upcurrent face. Maintain depth using the pinnacle as reference. After observing pelagics, ascend the pinnacle face and drift off in a controlled manner. Deploy SMB at depth before surfacing away from the pinnacle.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat from Lombok or Gili Islands operators who schedule this site. Timing based on current conditions. Drift pickup required. SMB mandatory.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Advanced Open Water certification and proven drift experience required
+- A reef hook is useful for stationing at the upcurrent face
+- Only dive with operators who know this site intimately
+- Neap tides produce the most manageable conditions
+- The reward is big pelagics in clear current-swept water
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Strong current is the primary hazard. Be prepared to abort if conditions exceed your ability. Do not descend beyond planned depth while focused on pelagics. Coordinate with the boat on current direction and pickup plan before descending. Always carry an SMB.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Eagle rays in strong current against vivid blue water. Reef sharks on the upcurrent face with snapper schools behind them. Fast shutter speeds needed for fish moving in current.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

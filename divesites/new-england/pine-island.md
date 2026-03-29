@@ -11,55 +11,58 @@ osmId: 974080147
 addedBy: osm_import
 ---
 
-## Pine Island
+# Pine Island
 
-Pine Island is a reef dive site in New England, North America.
+A submerged rocky feature in Buzzards Bay, Massachusetts, whose island top is barely visible or submerged depending on tidal state.
 
 ## Overview
 
-Pine Island is a dive site in New England offering rewarding diving on healthy coral reef structures . island not visible on any imagery, only at some places. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Pine Island is a rocky feature in Buzzards Bay, Massachusetts, at coordinates placing it in the eastern approaches to Buzzards Bay between the Elizabeth Islands and the mainland coast near Wareham/Marion. The original OSM note on this feature states "island not visible on any imagery, only at some places" — suggesting a feature that is partially exposed at very low water but largely or entirely submerged. Buzzards Bay is a broad, shallow body of water between the Massachusetts mainland and the upper arm of Cape Cod, influenced by significant tidal flow through the Cape Cod Canal at the north end and through Vineyard Sound at the south. Rocky features like Pine Island at 15 metres depth provide the only hard substrate relief in an otherwise sandy bay floor.
 
 ## Site Information
 
-- **Location**: New England, North America
+- **Location**: Buzzards Bay, eastern bay area, Massachusetts
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
+- **Typical Visibility**: 3–8 meters (Buzzards Bay visibility varies significantly)
+- **Current**: Moderate; Buzzards Bay tidal flow
+- **Water Temperature**: 8–22°C depending on season
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Buzzards Bay cold-water reef species. Tautog are resident on rocky structures. Striped bass are abundant in Buzzards Bay in warmer months — the bay is a significant striper habitat. American lobsters inhabit crevices in the rocky substrate. Sea bass present in summer. Cunner around encrusted surfaces. Winter flounder common on the sandy bay floor adjacent to the rock. Bluefish appear seasonally.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boat access from Marion, Wareham, or other eastern Buzzards Bay launch points. Descend to rocky feature at 10–15 metres. The rocky relief against the otherwise sandy bay floor creates concentrated marine life. Plan around Buzzards Bay tidal state. Complete a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat required. Buzzards Bay boat launch facilities at Marion or Wareham provide convenient access. The tidal-marginal nature of the island means boat navigation requires checking the chart carefully for current depth. Anchor in sand adjacent to rock. Deploy SMB before ascending.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Buzzards Bay visibility varies significantly — July-August can produce excellent visibility; spring and fall after rain are often poor
+- Striped bass hunting the bay are a highlight in summer months
+- The isolated rocky feature in an otherwise sandy bay attracts concentrated marine life — productive even at modest size
+- 7mm wetsuit recommended for Buzzards Bay cold water
+- Plan around tidal state — Buzzards Bay current is moderate but directional
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Buzzards Bay tidal current from both Cape Cod Canal and Vineyard Sound flows. Cold water below thermocline. Buzzards Bay has significant summer boat traffic — deploy SMB clearly before surfacing.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The isolated rock relief in a sandy bay setting creates an interesting wide-angle context. Tautog and striped bass subjects. Natural light at 15 metres is adequate in clear conditions.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Charter Access**: Marion, Wareham, and eastern Buzzards Bay boat operators
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

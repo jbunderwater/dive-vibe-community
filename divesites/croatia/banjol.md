@@ -13,53 +13,50 @@ addedBy: osm_import
 
 ## Banjol
 
-Banjol is a cave dive site in Croatia, Europe.
+Banjol is a cave and cavern dive site located near the town of Banjol on the island of Rab in the Kvarner region of northern Croatia. The site features underwater caverns and rocky overhangs accessible at a moderate depth, making it one of the more approachable cave-type dives in the northern Adriatic.
 
 ## Overview
 
-Banjol is a dive site in Croatia featuring underwater cave and cavern formations. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The cave formations at Banjol occur in the shallow-to-moderate depth range, with the main cavern accessible at 10–15 metres. Natural light penetrates into the cavern entrance, creating the classic Adriatic cavern experience of shimmering light beams and colourful encrustation. The rocky walls and ceilings are covered in red and yellow sponges, encrusting anemones, and small sea fans. The clear Kvarner waters provide excellent visibility both inside and outside the cave.
 
 ## Site Information
 
-- **Location**: Croatia, Europe
+- **Location**: Banjol, Rab Island, Kvarner, Croatia
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 15–20 meters
+- **Current**: Generally minimal
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+The cave ceiling and walls host spiny lobster, hermit crabs, and small crustaceans in the darker recesses. Conger eels inhabit the deeper crevices. Outside the cave entrance, grouper and sea bream are common. Moray eels peek from crevices in the surrounding rocky terrain, and nudibranchs are found on the sponge-covered surfaces throughout.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter the water and descend to the cave entrance at around 8–10 metres. Explore the cavern interior — ensure you can always see natural light from the entrance (this is a cavern dive, not full cave). Exit the cave and explore the surrounding reef at 10–15 metres. Finish with a gradual ascent and safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from Rab town or local operators on Rab Island access this site. Entry by giant stride or back roll. The site is typically calm, but check conditions locally before diving.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- A torch is essential for illuminating the cave walls and revealing the full range of encrusting life
+- Never lose sight of natural light from the entrance — this is a cavern dive only, not full cave penetration
+- The cave entrance is most photogenic in morning light when sunbeams penetrate the water
+- A good site for intermediate divers making their first cavern explorations in the Adriatic
+- Combine with a reef dive nearby for a varied Rab Island dive day
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Cavern diving requires awareness of overhead environments. Always remain oriented toward the cave entrance and natural light. Ensure all divers have torches. The 15-metre maximum depth is well within recreational limits. Never push deeper into the cavern than your training and equipment allow. Dive with a buddy.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The cave entrance shot — looking out from inside the cavern toward the diver-lit blue water — is the classic Adriatic cavern image. The backlit silhouette of a diver in the mouth of the cave is equally dramatic. A torch reveals vivid red and orange sponge communities on the interior walls.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

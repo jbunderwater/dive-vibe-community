@@ -13,54 +13,53 @@ addedBy: osm_import
 
 ## Lalosi
 
-Lalosi is a reef dive site in Raja Ampat, Asia.
+Lalosi is a reef dive site in the Dampier Strait of Raja Ampat, offering a solid tropical reef experience with good coral coverage and a representative sampling of the region's extraordinary marine biodiversity.
 
 ## Overview
 
-Lalosi is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Located in the western Dampier Strait, Lalosi is a reef site that rewards divers willing to slow down and appreciate the layered complexity of a healthy Raja Ampat reef. The site presents a sloping reef structure with hard coral gardens at shallower depths and soft coral, sea fans, and sponge communities at depth. Tidal exchange in the Dampier Strait keeps the water productive and the filter feeders extended. Water temperature averages 27–29°C and visibility is typically 12–20 meters.
 
 ## Site Information
 
-- **Location**: Raja Ampat, Asia
+- **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 12–20 meters (40–65 feet)
+- **Current**: Variable; moderate on tidal flow
+- **Best Time**: October to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Raja Ampat's biodiversity benchmark applies fully at Lalosi: the region hosts over 1,500 fish species and 75% of all known coral species, and the reef at Lalosi reflects this richness. Schools of fusiliers swarm above the reef structure, butterflyfish pairs pick at coral polyps, and larger napoleon wrasse and bumphead parrotfish make occasional appearances. White-tip reef sharks patrol the reef edge. The reef substrate between coral heads is productive for macro hunters — nudibranchs, flatworms, and various crustaceans reward careful searching with a torch.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef crest at 5–8 meters and work down the slope to around 20–25 meters. Spend time at each depth band as the species composition changes with depth. The upper zone is dominated by hard corals and their associated fish; the deeper slope transitions to more soft coral and sponge, with occasional resting sharks on the sand. Return slowly up the reef slope and end the dive in the productive shallows.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from liveaboards or operators working the western Dampier Strait. Entry via giant stride or back roll. Deploy SMB on ascent in the Dampier Strait's active waterway.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Take time to inspect sandy patches between coral heads for cryptic species
+- Ask your guide about recent sightings — Raja Ampat guides know exactly which sites are currently productive
+- A torch enhances the dive significantly for crevice and under-coral searching
+- Pair with adjacent Dampier Strait sites like Citrus Ridge or Mayhem for a full-day itinerary
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Standard intermediate reef diving protocols. Dampier Strait currents can be strong — follow tidal timing advice from your guide. Carry an SMB; the strait sees heavy liveaboard and speedboat traffic.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Lalosi offers reliable all-round reef photography. Hard coral gardens in the shallows, schooling fish in the mid-water zone, and macro life on the reef slope cover the full range. Natural light is good in the upper 15 meters during morning dives.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

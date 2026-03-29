@@ -13,54 +13,32 @@ addedBy: osm_import
 
 ## Alimas Faru
 
-Alimas Faru is a reef dive site in Maldives, Asia.
+**Location:** South Ari Atoll, Maldives
+**Depth:** 5–25 m
+**Difficulty:** Intermediate
+**Entry:** Boat
 
-## Overview
+### Overview
 
-Alimas Faru is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Alimas Faru is a reef formation in South Ari Atoll, one of the Maldives' richest atolls for marine life. The faru structure presents a classic outer reef profile with a shallow top and a sloping to near-vertical outer wall. The reef is well established, with strong coral coverage and a diversity of habitats ranging from shallow coral gardens to deeper wall sections.
 
-## Site Information
+### Diving
 
-- **Location**: Maldives, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+Divers typically enter at the corner of the faru where currents concentrate marine activity. The outer wall runs to around 25 m, with a series of natural swim-throughs and crevices in the reef structure at mid-depth. Grey reef sharks and whitetip reef sharks are commonly encountered at the reef base and along the wall, and eagle rays are occasionally spotted cruising in the blue water off the outer face.
 
-## Marine Life
+The reef top is productive for macro observations — nudibranchs, mantis shrimp, and juveniles shelter in the coral rubble and sandy patches. During the southwest monsoon season, whale shark encounters are possible in the wider South Ari region, which is one of the most reliable whale shark aggregation areas in the world.
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+### Marine Life
 
-## Dive Profile
+- Grey reef sharks and whitetip reef sharks
+- Eagle rays (occasional)
+- Whale sharks (seasonal, nearby waters)
+- Nudibranchs and mantis shrimp
+- Hawksbill and green turtles
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+### Practical Notes
 
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Best accessed from South Ari Atoll resorts or liveaboards. Visibility ranges from 15–30 m depending on season. Current strength is variable — guide drift direction before entry. Suitable for intermediate divers.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

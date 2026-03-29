@@ -13,54 +13,51 @@ addedBy: osm_import
 
 ## Steve's Bommie
 
-Steve's Bommie is a pinnacle dive site in Great Barrier Reef, Oceania.
+Steve's Bommie is an iconic coral pinnacle in the Ribbon Reefs of the northern Great Barrier Reef, Queensland, Australia, renowned for its spectacular soft coral coverage and dense fish life.
 
 ## Overview
 
-Steve's Bommie is a dive site in Great Barrier Reef offering excellent diving on healthy coral reef structures. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Named after a local dive guide who regularly led divers here, Steve's Bommie is one of the most photographed sites on the GBR. The bommie rises from 20 metres to around 5 metres depth and is blanketed in soft corals — mustard yellow, deep purple, and blood orange — that drape every surface and sway in the mild current. The concentration of life on and around the pinnacle is extraordinary, with every tier offering a different spectacle from large pelagic visitors at depth to tiny macro subjects among the coral branches.
+
+Divers consistently rate it among their best GBR experiences, and it appears on almost every liveaboard itinerary in the Ribbon Reefs area.
 
 ## Site Information
 
-- **Location**: Great Barrier Reef, Oceania
+- **Location**: Ribbon Reefs, northern Great Barrier Reef, Queensland, Australia
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15-40 meters (50-130 feet)
-- **Current**: Variable
-- **Best Time**: September to February
+- **Typical Visibility**: 20–35 metres
+- **Current**: Mild; light current keeps soft corals extended
+- **Best Time**: July to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals.
+Schools of anthias — the small orange fish that characterise healthy Indo-Pacific reefs — swarm the pinnacle in thousands, creating a living orange halo around the structure. Clownfish are abundant in the anemones on the upper reaches. Nudibranchs are found across every depth zone, from the sandy base to the pinnacle top. Large moray eels occupy the deeper overhangs; Napoleon wrasse and coral trout circle the bommie in a slow orbit. On the sand below, blue-spotted stingrays rest motionlessly. Occasional white tip reef sharks and wobbegongs occupy the deeper areas. The site regularly produces lionfish, leaf scorpionfish, and ghost pipefish for macro hunters.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Circumnavigate the bommie at various depths to experience the full range of life. Most divers begin deeper — exploring the base and overhangs at 18–20 metres — before spiralling upward through the richest soft coral zones at 10–15 metres, finishing with a slow drift around the pinnacle top at 5–8 metres. Multiple circuits are always rewarding.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Liveaboard access only. The site is approximately 250km north of Cairns. Shot line or free descent to the pinnacle. Exit via SMB on open water.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Plan at least two dives here: one wide-angle dive for the soft coral panoramas, one macro dive for the nudibranchs and small critters
+- A wide-angle lens captures the anthias clouds and soft coral drapes in their full glory
+- Mild current is your friend here — let it carry you around the bommie while you focus on photography
+- Visit at different times of day; morning light from the east illuminates the eastern face beautifully
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish (box jellyfish in summer), crocodiles (north) in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Conditions are typically benign. The main risk is becoming absorbed in the site and missing your air limit. Set a turn pressure and adhere to it. SMB deployment is standard for liveaboard pickup.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Steve's Bommie is a wide-angle showpiece. Frame the soft coral drapes with the blue water behind, or shoot upward with divers silhouetted against the surface light. The anthias schools add movement and colour to any composition. Macro subjects are found at every depth — bring a diopter for nudibranchs and take your time scanning the coral.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,54 +13,26 @@ addedBy: osm_import
 
 ## Les Roses
 
-Les Roses is a reef dive site in French Polynesia, Pacific.
+Les Roses — "The Roses" — is a reef dive site in the lagoon north of Papeete, Tahiti, French Polynesia. The name refers to the rounded, rose-like shape of the large *Porites* coral heads that dominate the reef structure here.
 
 ## Overview
 
-Les Roses is a dive site in French Polynesia offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The site is characterised by large rounded *Porites lobata* coral bommies — massive, dome-shaped heads that can reach two metres in diameter and height — whose forms, particularly when viewed from above, resemble overlapping rose blooms. These coral heads rise from a sandy floor at around 18–22 metres and cluster thickly, creating a maze of passages and swim-throughs at the base. The sandy substrate between bommies is a hunting ground for stingrays and flatfish. Visibility averages 25–30 metres, and water temperatures are 27–28°C year-round.
 
-## Site Information
+## What to Expect
 
-- **Location**: French Polynesia, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+The *Porites* bommies are encrusted with smaller corals, hydroids, and sponges, and host a rich community of gobies, damsels, and hawkfish on their surfaces. Crevices between bommies shelter moray eels and resting nurse sharks. Turtles frequently graze the algae growing on older bommie surfaces. The sandy corridors between the coral heads attract stingrays, and golden trevally (*Gnathanodon speciosus*) schools cruise the inter-bommie passages. The site is excellent for wide-angle photography, particularly when positioned low to capture divers framed against the tower-like coral heads.
 
-## Marine Life
+## Conditions
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+- **Best season**: April–November
+- **Visibility**: 25–30 m typical
+- **Current**: Mild
+- **Water temperature**: 27–28°C
+- **Entry**: Boat dive
 
-## Dive Profile
+## Tips
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Wide-angle lenses are recommended for capturing the scale of the coral bommies. Swim slowly through the passages between heads to spot smaller species, and look along the sand at the base of the bommies where flatfish and small rays rest.
 
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

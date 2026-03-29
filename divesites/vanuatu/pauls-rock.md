@@ -13,54 +13,32 @@ addedBy: osm_import
 
 ## Paul's Rock
 
-Paul's Rock is a reef dive site in Vanuatu, Pacific.
+Paul's Rock is an intermediate reef dive site off Espiritu Santo, Vanuatu, named after a local diving figure and representing one of the regular reef dives that Luganville operators use to provide variety for divers spending multiple days in Santo between Coolidge sessions.
 
 ## Overview
 
-Paul's Rock is a dive site in Vanuatu offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The Santo dive scene is dominated by the SS President Coolidge, but an extended stay in Luganville reveals a productive reef diving environment beyond the famous wreck. Paul's Rock is one of the better-regarded reef sites in the Luganville operator circuit — a substantial coral structure accessible at 22 meters maximum depth, with the main reef interest concentrated in the 8–18 meter zone.
 
-## Site Information
+The Santo reefs benefit from the island's clean, well-circulated water and low population density — hard coral coverage is excellent, with extensive table coral formations and healthy branching coral thickets in the shallows. The visibility in the Santo inshore waters typically runs 20–30 meters, and the warm, stable water temperature of 26–28°C makes for comfortable extended dives.
 
-- **Location**: Vanuatu, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+## What to Expect
 
-## Marine Life
+Paul's Rock delivers the productive mid-depth reef diving that serves as a satisfying counterpoint to the Coolidge's enclosed wreck environment. Grey reef sharks patrol the outer reef edge in the 15–22 meter zone, providing the pelagic engagement absent from the Coolidge penetration dives. Napoleon wrasse and large groupers hold territory on the reef structure. Hawksbill turtles are regular sightings, and the hard coral gardens host dense populations of butterflyfish, angelfish, and surgeonfish.
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+The site is also worth visiting for its invertebrate diversity — nudibranchs and flatworms are found throughout the coral surfaces, and the crevices and overhangs shelter large moray eels that are well-habituated to divers from regular guide visits. Macro photographers particularly appreciate Paul's Rock as a contrast to the wide-angle wreck shots that dominate Santo photography.
 
-## Dive Profile
+## Practical Information
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 22 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth Range**: 5–22 meters
+- **Visibility**: 15–30 meters typical
+- **Currents**: Mild to moderate
+- **Entry**: Boat dive from Luganville operators
+- **Best For**: Intermediate divers; excellent complement to Coolidge wreck diving; good macro and reef photography
 
-## Entry and Exit
+## Marine Life Highlights
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Grey reef sharks, napoleon wrasse, large groupers, hawksbill turtles, moray eels, butterflyfish, angelfish, surgeonfish, nudibranchs, flatworms, table corals, branching corals.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

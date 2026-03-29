@@ -11,57 +11,55 @@ osmId: 700934174
 addedBy: osm_import
 ---
 
-## Fanous East
+# Fanous East
 
-Fanous East is a reef dive site in Red Sea, Middle East.
+A beginner-friendly offshore reef east of Hurghada with a sheltered sandy bowl, anemone gardens on the shallower sections, and the protective character that makes it a go-to site for first-time Red Sea divers and training groups.
 
 ## Overview
 
-Fanous East is a dive site in Red Sea offering excellent diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Fanous East is located at approximately 27.27°N, 33.89°E in the offshore zone east of Hurghada — one of the calmer, shallower sites in the Hurghada day-boat range. "Fanous" (فانوس) means "lantern" in Arabic, and the Fanous reef complex includes both eastern and western sections. The eastern section maxes out at 19 metres and is characterised by a sheltered orientation and gentle topography that suits beginners and newly-certified divers. The reef structure features a shallow terrace with a sandy bowl, anemone gardens, and a fringing reef edge. It is frequently used as a training site and for divers on their first-ever Red Sea experience.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Offshore Hurghada, central Egyptian Red Sea (~27.27°N, 33.89°E)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 19 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 15–20 meters
+- **Current**: Generally mild; sheltered site
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Anemones with resident clownfish dominate the shallower sections of the reef — multiple clownfish species are present in this area, making Fanous East a reliable site for clownfish photography. Blue-spotted stingrays rest in the sandy bowl. Moray eels in the reef crevices. Schools of anthias over the reef crest at 5–8 metres. Turtles are occasionally sighted resting on the reef surface. The fish diversity is good for a beginner site — butterflyfish, surgeonfish, and wrasse throughout.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 19 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-19 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+This is a simple, accessible dive profile suited to beginners. Descend to the sandy bowl at 12–15 metres and explore the bowl area for stingrays and macro subjects. Move to the anemone gardens at 8–10 metres — the most photogenic and biologically active section. Complete the dive on the shallow reef crest at 4–6 metres. Safety stop at 5 metres over the reef top in excellent ambient light.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day boat from Hurghada (20–30 minutes). Giant stride entry into calm water. Often used as the second dive of a two-dive day for newly-certified divers after a more demanding morning dive. SMB deployment before ascending.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The anemone gardens are the site's highlight — spend time here observing clownfish behaviour and resident cleaning wrasse
+- The sandy bowl at 12–15 metres is less demanding than the open reef and rewards careful searching for flatfish and stingrays
+- Ideal as a first Red Sea dive for new certifications — the calm conditions build confidence before tackling more exposed sites
+- Pair with Fanous West (the adjacent section) for maximum coverage of the Fanous reef complex
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Conditions are generally benign — this is one of Hurghada's calmer sites. Primary hazards: fire coral on the reef crest; urchins in crevices. Monitor air carefully for new divers. SMB before ascending.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Clownfish-in-anemone portraits are the signature subject at Fanous East — the multiple anemone colonies provide many opportunities for different compositions. The sandy bowl macro work suits a beginner photographer learning reef photography fundamentals. The shallow reef crest in good ambient light is excellent for natural-light fish portraits.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

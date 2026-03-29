@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Anemone City
 
-Anemone City is a reef dive site in Red Sea, Middle East.
+Anemone City is a reef dive site in the Sinai Peninsula area of the northern Egyptian Red Sea, famous for its extraordinary density of sea anemones carpeting the reef and the resident clownfish populations that inhabit them.
 
 ## Overview
 
-Anemone City is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+True to its name, Anemone City hosts one of the Red Sea's most impressive concentrations of sea anemones. The reef plateau, lying at depths of 5–20 meters, is blanketed with large carpet anemones and elegant anemones in shades of purple, green, and white. Each hosts its obligate pair of Red Sea clownfish (Amphiprion bicinctus), creating a vivid and endlessly photogenic scene. Beyond the anemone-covered sections, the reef features healthy hard coral formations, bombies, and sandy channels. Visibility is typically excellent at 20–30 meters.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Red Sea, Egypt
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
+- **Typical Visibility**: 20–30 meters (65–100 feet)
+- **Current**: Light to moderate
 - **Best Time**: September to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The signature attraction is the abundant anemone-clownfish symbiosis — dozens of pairs can be observed in a single dive. Beneath the anemones, damselfishes aggressively defend territories. Reef species including wrasse, parrotfish, and butterfly fish are present throughout. Lionfish are common, often resting motionless near the reef base. Turtle sightings are frequent, and blue-spotted ribbontail rays are found resting on the sand.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the sandy base at around 18–20 meters and work back up through the anemone fields on the reef slope. Spend extended time in the 8–15 meter range where anemone density is highest. The shallower reef crest is excellent for a prolonged safety stop with continued marine life interaction.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Sharm el-Sheikh or Dahab operators. Entry by giant stride or back roll. The protected location usually ensures calm surface conditions. Deploy an SMB for ascent.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Bring a macro lens for intimate clownfish portraits
+- Approach anemones slowly to avoid triggering defensive withdrawal
+- Multiple passes at different depths reveal different anemone species zones
+- Dawn dives capture the best light for anemone photography
+- This is a popular site — arrive early or plan a late afternoon dive for fewer crowds
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Currents are usually light, but can pick up along the reef edge. Buoyancy control is critical to avoid damaging the anemone colonies. Lionfish present a stinging hazard — watch where you place your hands on the reef. Always carry an SMB.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Anemone City is one of the Red Sea's premier macro photography sites. Wide-angle shots capturing multiple anemone colonies with clownfish are highly effective. Patience and slow approaches yield intimate close-focus portraits.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

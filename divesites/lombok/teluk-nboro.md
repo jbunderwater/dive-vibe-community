@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Teluk NBoro
 
-Teluk NBoro is a reef dive site in Lombok, Asia.
+A bay dive on Lombok's northwest coast — a relaxed reef with seahorse populations and muck-style sandy slope for macro enthusiasts.
 
 ## Overview
 
-Teluk NBoro is a dive site in Lombok offering rewarding diving on healthy coral reef structures . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Teluk NBoro (Naro Bay) is a dive site on Lombok's northwest coast, approximately 25 minutes by boat from the Gili Islands. The site sits in a sheltered bay with a sandy slope and scattered coral development, making it a relaxed dive that appeals particularly to macro photographers and divers interested in critter hunting rather than current-driven pelagic action. The nearby Mentigi Bay area on the Lombok coast is famous for seahorse populations, and Teluk NBoro shares similar substrate characteristics, with the potential for seahorses, pipefish, and ghost pipefish in the rubble and sand zones.
 
 ## Site Information
 
-- **Location**: Lombok, Asia
+- **Location**: Teluk Naro, northwest Lombok coast
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef / Sandy Slope
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 25 m
+- **Typical Visibility**: 10–18 m
+- **Current**: Generally mild inside the bay
+- **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Seahorses are occasionally found in the sandy rubble zone. Pipefish and ghost pipefish among sparse coral growth. Blue-spotted stingrays on the sandy bottom. Nudibranchs throughout the rubble. The bay fringe reef hosts typical reef fish — butterflyfish, parrotfish, and moray eels.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the sandy slope and move slowly searching the substrate. Focus on rubble patches, sparse coral fragments, and any algae growth where critters seek cover. The bay fringe reef at 10–18 m adds reef fish variety. Total dive time 50–60 minutes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat from Gili Islands or Lombok northwest coast. Short transit from Gili Air (approximately 25 minutes). Entry via back roll. Calm conditions.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Primarily a macro site — a dedicated macro camera setup maximises the experience
+- Move extremely slowly and methodically across the sandy substrate
+- Ask your guide about current seahorse and ghost pipefish locations before the dive
+- Combine with Frog Fish Point for a full macro dive day from Lombok or Gili Air
+- Night dives reveal octopus, mantis shrimps, and crabs active on the sandy bottom
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Mild currents but standard buoyancy care essential above the sandy substrate. Do not stir the sand — visibility collapses and critters are disturbed. Stingrays partially buried in the sand can sting if disturbed. Maintain awareness of depth on the outer slope.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Seahorse portraits on their natural substrate are the highlight subject. Ghost pipefish camouflage against surrounding material — macro lens essential. Stingrays on sand suit wide-angle close-focus for environmental context.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

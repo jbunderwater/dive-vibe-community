@@ -13,54 +13,55 @@ addedBy: osm_import
 
 ## Tarpon Hole
 
-Tarpon Hole is a reef dive site in Bermuda, Atlantic.
+A relatively recently buoyed Bermuda reef site near Elbow Beach featuring coral arches, channels, and schools of large jacks and snapper.
 
 ## Overview
 
-Tarpon Hole is a dive site in Bermuda offering excellent diving on healthy coral reef structures. Located in the Atlantic region, this site offers 15-30 meters of visibility with water temperatures averaging 20-28°C.
+Tarpon Hole is among the newer formally buoyed dive sites in Bermuda's extensive dive site network, with its mooring placed in 2013. Located close to the surf breaks at Elbow Beach on the island's South Shore, the site features a maze of small channels and arches running through and over the reef, providing a naturally guided exploration route through interconnected reef formations. Large schools of jacks, which give the site its name, and snapper have been consistently reported here by Bermuda dive operators. The multiple coral arches create natural swim-through formations that add variety to the dive, and the maximum depth of 17 meters makes the lower reef sections accessible to Intermediate divers while keeping the upper zones well within Beginner range.
 
 ## Site Information
 
-- **Location**: Bermuda, Atlantic
+- **Location**: South Shore near Elbow Beach, Bermuda
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 17 meters
-- **Typical Visibility**: 15-30 meters (50-100 feet)
-- **Current**: Light to moderate
-- **Best Time**: May to October
+- **Maximum Depth**: 17 meters (55 feet)
+- **Typical Visibility**: 15–30 meters (50–100 feet)
+- **Current**: Light
+- **Water Temperature**: 18–28°C (64–82°F)
+- **Best Time**: May–October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles, reef sharks, groupers, snappers, parrotfish, angelfish, moray eels, lobsters. Additional species commonly sighted include brain corals, sea fans, barrel sponges.
+Tarpon Hole is particularly known for large schooling fish. Jacks — commonly horse-eye jacks and bar jacks — school in significant numbers and are one of the site's defining features. Large gray and mutton snapper are regular residents under the coral arches. The channels and arches support resident French angelfish and butter hamlet. Sea turtles pass through the site and are regularly encountered on this section of the South Shore reef. Barracuda patrol the water column above the reef.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 17 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-17 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter the reef system from the mooring and work through the natural channel network, passing under the arches at various depths from 5 to 17 meters. The channels provide natural navigation through the site. Spend time hovering in the deeper portions watching fish schools moving in and out of the arches. The safety stop can be conducted at the shallow reef top, often the most active area for smaller reef fish.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from South Shore operators. The site is buoyed, simplifying location and mooring. Giant stride or back roll entry. Deploy SMB for surface pickup. South Shore conditions — wind and swell from the southwest — should be assessed before the dive.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- The arch swim-throughs are the defining feature — take time to approach from different angles for variety
+- Large jack schools are most frequently seen in mid-water above the reef — look up regularly during the dive
+- This newer site is somewhat less impacted than older high-traffic Bermuda sites
+- Morning dives are recommended for the calmest South Shore conditions
+- Combine with the nearby Hermes wreck for a contrasting paired dive day
 
 ## Safety Considerations
 
-Be aware of boat traffic, currents, occasional swells in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The combination of arches and channels means divers can briefly lose visual contact with buddies. Agree on arch navigation plans before descending and maintain frequent buddy checks. The 17-meter maximum depth is accessible but requires standard recreational depth awareness. Monitor air supply during extended exploration of the channel system.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The coral arches are natural photographic frames for wide-angle compositions with fish or divers silhouetted against the light. Jack schools in Bermuda's clear water create impressive ambient light images. Close focus on the coral arch structure details reveals encrusting invertebrates and resident blennies. Morning sun angles illuminate the arch interiors most dramatically.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*

@@ -13,55 +13,50 @@ addedBy: osm_import
 
 ## Mary Island
 
-Mary Island is a wall dive site in Solomon Islands, Pacific.
+Mary Island is a wall dive in the Marovo Lagoon of the Western Province — home to what is widely described as the world's largest double-barrier lagoon. The site showcases the pristine reef health that makes Marovo one of the Solomon Islands' premier diving destinations, with near-vertical walls draped in massive sea fans, dense soft corals, and healthy hard coral gardens on the reef top.
 
 ## Overview
 
-Mary Island is a dive site in Solomon Islands featuring a dramatic vertical wall that drops into the deep blue. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Marovo Lagoon is a UNESCO World Heritage-listed area encompassing hundreds of islands, channels, and reef systems. Mary Island's wall drops from a shallow coral-covered reef top down to around 30 meters and beyond, offering intermediate divers a compelling vertical ecosystem. The wall is characterised by exceptional coral diversity — large sea fans and gorgonians extend outward from the wall face, and the crevices and overhangs shelter a rich variety of reef fish and invertebrates. Grey reef sharks patrol the wall's edge, and the blue water off the wall carries pelagic visitors.
 
 ## Site Information
 
-- **Location**: Solomon Islands, Pacific
+- **Location**: Marovo Lagoon, Western Province, Solomon Islands
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
+- **Typical Visibility**: 20–40 meters
+- **Current**: Light to moderate
 - **Best Time**: April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The reef top in 5–12 meters hosts a dense community of hard corals — table corals, staghorns, and massive Porites — with fish life to match. Parrotfish, surgeonfish, and large grouper are common. As the wall descends, enormous sea fans and wire corals become the defining features, some spanning several meters. Crinoids cling to the fan structures, and small hawkfish perch on the fan branches. Whitetip and grey reef sharks are reliably encountered along the wall edge. The blue water beyond the wall may produce eagle rays, trevally, and Napoleon wrasse. In the crevices, moray eels, nudibranchs, and small crustaceans reward careful inspection.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Begin on the reef top in 5–8 meters to orientate and observe the coral garden before descending along the wall. Work your way along the wall face, staying in the 15–25 meter range for the best combination of sea fan and coral coverage while conserving bottom time. Move shallower in the second half of the dive and spend the last portion of bottom time on the reef top before a safety stop in the shallows. Current along the wall is usually manageable but can strengthen with tidal changes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by boat from liveaboards operating in Marovo Lagoon or land-based operators at nearby resorts. Entry via giant stride or back roll; follow the reef line to locate the wall edge. Deploy an SMB for ascent. Coordinate with the boat for pickup.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Combine with other Marovo Lagoon dives — the area has numerous wall and reef sites within short boat range
+- Look carefully in crevices and under overhangs for sleeping reef sharks and resting turtles
+- A wide-angle lens with two strobes brings out the best in the sea fan and wall scenes
+- Buoyancy control is critical on wall dives — avoid involuntary depth gain on the drop-off
+- Morning dives typically offer the best light on the reef top
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Currents in Marovo Lagoon are generally moderate, though tidal state can affect conditions along exposed wall sections. Depth management is important — wall dives can lead to unintentional deep descents if divers focus too much on the wall and too little on their depth gauge. Stay shallower than 30 meters unless specifically planning a deep dive. Always carry an SMB. Dive with a guide familiar with local tidal patterns.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Mary Island's wall is a wide-angle photographer's subject. The combination of large sea fans, colourful soft corals, and the deep blue beyond the wall face creates compelling compositions with significant depth and colour. Shooting upward from the base of the sea fans toward the surface light produces dramatic silhouettes. On the reef top, natural light and macro work on crinoids, nudibranchs, and coral details reward a second lens setup.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

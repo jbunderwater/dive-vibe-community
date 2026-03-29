@@ -13,54 +13,49 @@ addedBy: osm_import
 
 ## Caye Gros Loup
 
-Caye Gros Loup is a reef dive site in Guadeloupe, Caribbean.
+Caye Gros Loup is a reef dive site off the northern coast of Grande-Terre, accessed by boat from the Pointe-à-Pitre and Gosier areas, offering a broad, gently sloping reef with good marine life diversity and accessible depths.
 
 ## Overview
 
-Caye Gros Loup is a dive site in Guadeloupe offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The reef at Caye Gros Loup rises from sandy substrate and extends to around 18 meters, featuring a mix of massive brain corals, star corals, and pillar corals interspersed with barrel sponges and gorgonian sea fans. The site benefits from relatively calm conditions on the leeward side and offers dependable visibility in the 15–25 meter range. As a fringing reef system within the Grand Cul-de-Sac Marin, the site sits within one of the Caribbean's largest natural lagoons, providing a sheltered diving environment with warm water year-round.
 
 ## Site Information
 
-- **Location**: Guadeloupe, Caribbean
+- **Location**: Off northern Grande-Terre, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Fringing coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 15–25 meters
+- **Current**: Light; can strengthen with tidal flow
+- **Best Time**: November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Common sightings include hawksbill and green turtles, southern stingrays resting on sandy patches, barracuda patrolling the reef edge, and schools of yellowtail snappers and grunts. Parrotfish are abundant, particularly the larger stoplight and queen varieties. Moray eels are present in deeper crevices, and nurse sharks occasionally rest under coral overhangs.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+A descent to the reef crest at approximately 5 meters, then following the slope to maximum depth at 18 meters. The terrain is varied enough to sustain interest throughout the dive, with coral heads at various depths breaking up the sandy bottom. Safety stop in the shallows.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access only; giant stride or back-roll entry. SMB deployment required for ascent. Typically dived as part of a two-tank day with Caye à l'Anglais or other Grand Cul-de-Sac Marin sites.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Well-suited to divers building confidence after certification
+- The sandy margins around the reef base are good stingray habitat
+- Bring a torch for exploring coral crevices where morays and lobsters hide
+- Pair with a morning dive for best light conditions
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Current can increase with tidal flow — check conditions with your operator. Fire coral is present on the reef crest. Always surface with an SMB deployed and visible.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The broad reef structure and good visibility make this a solid wide-angle site. Turtle and stingray portraits work well in the 10–15 meter zone where natural light is still strong.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

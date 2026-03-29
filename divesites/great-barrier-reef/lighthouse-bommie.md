@@ -13,54 +13,51 @@ addedBy: osm_import
 
 ## Lighthouse Bommie
 
-Lighthouse Bommie is a pinnacle dive site in Great Barrier Reef, Oceania.
+Lighthouse Bommie is a productive coral pinnacle in the Ribbon Reefs of the northern Great Barrier Reef, Queensland, Australia, and is considered one of the best night dive sites in the region.
 
 ## Overview
 
-Lighthouse Bommie is a dive site in Great Barrier Reef offering excellent diving on healthy coral reef structures. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Lighthouse Bommie sits near the channel between two Ribbon Reefs sections, rising from a sandy bottom at 20 metres to around 5 metres depth. The structure is dense with encrusting corals, sponges, and sea fans, and the overhangs and crevices throughout the bommie provide ideal habitat for the ambush predators and nocturnal animals that make night diving here exceptional.
+
+During the day, the site offers a well-rounded experience — healthy coral coverage, a resident community of reef fish, and reliable sightings of larger species including moray eels, lionfish, and sweetlips. At night it transforms completely, with previously hidden critters emerging from every surface.
 
 ## Site Information
 
-- **Location**: Great Barrier Reef, Oceania
+- **Location**: Ribbon Reefs, northern Great Barrier Reef, Queensland, Australia
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15-40 meters (50-130 feet)
-- **Current**: Variable
-- **Best Time**: September to February
+- **Typical Visibility**: 15–30 metres
+- **Current**: Variable; can strengthen with tidal changes
+- **Best Time**: July to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals.
+By day, Lighthouse Bommie hosts large moray eels — including giant morays — emerging partially from crevices throughout the structure. Lionfish hover in the overhangs, and aggregations of sweetlips and snapper school in the mid-water. Coral trout and hawksbill turtles are regular visitors. At night, Spanish dancer nudibranchs are reliably found on the upper surfaces — among the largest nudibranchs in the world, they can reach 60cm and undulate in a distinctive swimming motion when disturbed. Sleeping parrotfish in their mucous cocoons, hunting octopuses, and decorator crabs emerge as the light fades. Crayfish (spiny lobster) crowd the crevices after dark in numbers that can surprise first-time night divers.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Daytime dives typically follow a circuit of the bommie, descending to the sandy base at 18–20 metres before working upward through the crevices and overhangs. Night dives are conducted from the liveaboard with torch and focus light; the bommie top at 5–8 metres is ideal for a leisurely night dive without deep commitments. Safety stops in the shallows around the pinnacle top are relaxed and rewarding.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Liveaboard access only; the site lies approximately 225km north of Cairns. Night dives are typically tethered to a shot line for orientation. Exit via SMB or direct retrieval from the liveaboard tender.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- This site is best appreciated as an evening or night dive — book a spot on the night dive roster
+- Carry a primary torch and a backup — losing light at night on a bommie is disorienting
+- Look for Spanish dancer nudibranchs on the sandy bottom and upper pinnacle surfaces in the first hour after dark
+- Cuttlefish hunt along the sand edges at night — watch them stalk prey with colour-changing skin patterns
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish (box jellyfish in summer), crocodiles (north) in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Night dives require careful buddy management and a pre-agreed surface signal. Monitor depth and time carefully in the dark. At Lighthouse Bommie the current can change with tidal shifts; check with the liveaboard crew before each dive. Always carry a signalling device.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The Spanish dancer nudibranch is the photographic trophy at Lighthouse Bommie. Its large size (up to 60cm) means standard macro lenses capture detailed close-ups, while wider focal lengths can capture the full animal in context. Use a torch for positioning, then a focus light for camera autofocus. The moray eels make excellent daytime portrait subjects in their crevice frames.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

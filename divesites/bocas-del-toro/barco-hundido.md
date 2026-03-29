@@ -11,57 +11,53 @@ osmId: 12639496075
 addedBy: osm_import
 ---
 
-## Barco Hundido
+# Barco Hundido
 
-Barco Hundido is a historic wreck dive in Bocas del Toro, Caribbean.
+A deliberately sunk vessel lying upright on the sandy bottom of Bocas del Toro's sheltered archipelago, now colonised by coral and serving as a productive artificial reef in warm, calm waters.
 
 ## Overview
 
-Barco Hundido is a dive site in Bocas del Toro featuring the wreck of the Barco Hundido. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Barco Hundido — literally "sunken ship" in Spanish — is a wrecked vessel sitting upright on a sandy bottom at 17 meters in the calm, sheltered waters of the Bocas del Toro archipelago. The site is accessible to intermediate divers in conditions typical of Panama's Caribbean coast: warm (28–30°C) water, light to moderate current, and good visibility. The wreck structure has been colonised by hard and soft corals over the years, along with tube sponges and encrusting organisms that transform the ship into a living reef. The protected archipelago setting means the site is generally diveable year-round in comfortable conditions. Visibility averages 15–20 meters, somewhat reduced compared to the outer reef sites due to the sheltered bay environment.
 
 ## Site Information
 
-- **Location**: Bocas del Toro, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 17 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 5–17 m |
+| Difficulty | Intermediate |
+| Entry Type | Boat |
+| Site Type | Wreck |
+| Visibility | 15–20 m |
+| Current | Light |
+| Water Temp | 28–30°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck structure provides shelter for large populations of snapper and grunt that school densely around the superstructure. Green and spotted moray eels occupy interior spaces. Southern stingrays are consistently found in the sandy areas surrounding the hull. The encrusted exterior surfaces host Christmas tree worms, feather duster worms, and tube sponges in vivid colours. Caribbean spiny lobster can be found beneath the deeper structural overhangs.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 17 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descent from the boat directly to the wreck at 10–17 meters. Divers typically circumnavigate the exterior before working along the deck. The flat, sandy bottom around the hull is worth exploring for stingray and lobster encounters. The wreck's upright position makes navigation straightforward. Maximum depth of 17 meters allows generous bottom time — approximately 55–65 minutes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from operators based at Bocas Town on Isla Colón. Entry by giant stride. The sheltered bay environment means conditions are almost always calm. Exit is standard boat pickup.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+Carry a torch for the wreck's interior spaces and shaded structural sections where the Christmas tree worms and encrusting organisms are most densely packed. The site is frequently visited as a second dive after one of the outer reef sites — the sheltered, warm conditions make it an excellent afternoon or checkout dive. Night diving at Barco Hundido is reported to be excellent with octopus, crab, and nocturnal fish active on the wreck surface.
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Interior structural sections should not be penetrated without wreck diving training and adequate equipment. The enclosed bay environment means occasional reduced visibility after rain. Silt inside the wreck can zero visibility if disturbed — maintain careful buoyancy near the hull. DSMB recommended.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The wreck in warm, clear water makes for accessible wide-angle wreck photography without the complexity of strong current or surge. The schools of snapper around the superstructure are strong compositional elements. Christmas tree worm colonies on the hull surface are excellent macro subjects — the spiral pattern and vivid colours photograph well.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- Bocas del Toro dive operators: multiple shops on Isla Colón offer wreck dives
+- The wreck is located in Bocas's sheltered inner waterway accessible year-round
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

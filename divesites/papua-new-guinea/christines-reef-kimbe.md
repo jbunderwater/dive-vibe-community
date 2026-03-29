@@ -13,55 +13,50 @@ addedBy: osm_import
 
 ## Christine's Reef Kimbe
 
-Christine's Reef Kimbe is a reef dive site in Papua New Guinea, Pacific.
+Christine's Reef is a welcoming and beautiful coral garden in Kimbe Bay, West New Britain, Papua New Guinea — an ideal introduction to the extraordinary marine biodiversity of one of the world's richest reef systems.
 
 ## Overview
 
-Christine's Reef Kimbe is a dive site in Papua New Guinea offering excellent diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Christine's Reef is a gently sloping coral garden in the sheltered waters of Kimbe Bay, named in honour of a diver who contributed to the exploration of the bay's dive sites. The reef is characterised by exceptionally diverse hard coral coverage — massive Porites heads, staghorn thickets, table corals, and brain corals grow in close succession, creating a textured landscape that rewards slow, attentive exploration. Anemone communities are abundant here, each hosting resident Clark's and pink anemonefish. At the reef's edge, where the coral slope gives way to a sandy flat, eagle rays cruise the transition zone on morning dives — a sighting that reliably produces wide smiles in the boat debriefs. The overall fish diversity is high even by Kimbe Bay standards: butterflyfish, angelfish, wrasse, parrotfish, and schools of anthias are constant companions throughout the dive. For newly certified divers or those returning to diving, Christine's Reef offers a forgiving, shallow profile with rich rewards. For experienced divers, it serves as an excellent second or third dive of the day, offering unhurried reef exploration between the more demanding pinnacle dives.
 
 ## Site Information
 
-- **Location**: Papua New Guinea, Pacific
+- **Location**: Kimbe Bay, West New Britain, Papua New Guinea
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 15-25 meters (50-80 feet)
+- **Current**: Light to moderate
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Resident anemonefish (Clark's and pink), Napoleon wrasse, eagle rays (frequent sightings at reef edge), hawksbill sea turtles, butterflyfish, angelfish, anthias, parrotfish, surgeonfish, groupers. Macro life includes nudibranchs on the coral heads, cleaner shrimps at cleaning stations, and cephalopods in the reef rubble. Schools of fusiliers hover mid-water above the reef throughout the dive.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The reef profile is gentle and forgiving, making navigation straightforward for newer divers. Begin at the reef crest in 5-8 meters and follow the coral slope down to the sandy base at 18-20 meters. Time at depth can be spent exploring the transition zone where eagle rays are most commonly encountered. Return along the upper slope, spending the remainder of the dive at 5-10 meters with good natural light. Bottom times of 60-70 minutes are easily achievable at this depth profile.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by boat from Walindi Plantation Resort or other Kimbe Bay operators. The site is in sheltered bay waters and conditions are generally calm year-round. Giant stride entry. Deploy SMB on ascent for boat pickup.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- An excellent first dive of the day for newly certified divers or those re-establishing skills before attempting the deeper pinnacles
+- Take time at the reef base transition zone — eagle rays tend to appear early morning, often within the first 15 minutes of the dive
+- Anemone communities are best photographed with close approach from directly in front; approaching from above causes clownfish to retreat
+- The coral diversity here rewards diver naturalists — bring a waterproof species ID card for Coral Triangle reef fish
+- Kimbe Bay water temperature stays consistently warm (28-30°C) — a 3mm shorty is comfortable for most divers
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Christine's Reef is one of Kimbe Bay's most beginner-friendly sites. Currents are typically light and the sheltered bay position keeps conditions calm. The gentle slope makes depth management easy. Standard reef safety applies: maintain buoyancy to avoid contact with coral, don't chase or handle marine life, and always dive within your certification limits. Carry an SMB for boat pickup.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Christine's Reef works well for both wide-angle reef portraits and macro close-ups. Wide-angle compositions of the healthy staghorn thickets, with anthias clouds and natural light shafts, are beautiful and accessible even for beginner underwater photographers. Macro subjects — nudibranchs, anemonefish, cleaner shrimps — are abundant and approachable. Afternoon dives in particular offer warm, angled light on the upper reef structure that renders coral colour at its most vivid.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

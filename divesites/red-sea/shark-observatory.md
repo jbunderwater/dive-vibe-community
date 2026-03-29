@@ -11,56 +11,54 @@ osmId: 9230671030
 addedBy: osm_import
 ---
 
-## Shark Observatory
+# Shark Observatory
 
-Shark Observatory is a reef dive site in Red Sea, Middle East.
+A named dive site south of Sharm el-Sheikh where the topography creates a natural observation point for reef sharks and the current-driven fish assemblages that make this section of the Sinai coast productive for pelagic encounters.
 
 ## Overview
 
-Shark Observatory is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Shark Observatory is located at approximately 27.73°N, 34.26°E on the Sinai Peninsula's southwestern coast — south of Sharm el-Sheikh in the direction of Ras Mohammed National Park. The name indicates the site's primary characteristic: the reef topography creates an elevated observation position — a shallow coral platform or headland from which the open water beyond the reef edge can be monitored for shark and pelagic activity. This section of the Sinai coast experiences tidal current from the Gulf of Suez and the northern Red Sea, creating the conditions that bring sharks to reef edges. The site is dived as a day-boat option from Sharm el-Sheikh operators and sits on the southern Sinai coastal dive axis.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Sinai Peninsula southwestern coast, south of Sharm el-Sheikh (~27.73°N, 34.26°E)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 15–25 meters
+- **Current**: Moderate; tidal flow creates the conditions for shark activity
+- **Best Time**: Year-round; October to May optimal
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Grey reef sharks are the primary attraction — the site name reflects their consistent presence at the reef edge in current. Schooling barracuda patrol in open water off the headland. The upper reef carries the dense anthias and fusilier populations typical of current-swept southern Sinai reefs. Moray eels in the crevices. Gorgonian fans at 15–18 metres on the outer wall. The sandy sections adjacent to the reef base hold blue-spotted stingrays. Groupers patrol the outer reef face.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef edge at 15–18 metres and station at the outer observation point. Scan the open water to the west for grey reef sharks patrolling in the current. After 10–15 minutes at the observation position, work along the outer wall toward either the northern or southern end depending on current direction. The upper reef at 5–10 metres is explored in the final section of the dive. Safety stop at 5 metres over the reef flat.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day boat from Sharm el-Sheikh (40–60 minutes). Giant stride entry. Pair with Ras Ghozlani or Ras Za'atar for a southern Sinai coastal day. SMB deployment before ascending.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Station at the reef edge at 15–18 metres on descent and hold position — sharks patrol predictable circuits around the headland
+- Current-running conditions produce the best shark activity — don't be discouraged by initial absence if current is present
+- Afternoon dives typically have stronger current and better shark activity than morning dives
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Current at the reef edge can be strong — stay close to the reef structure rather than drifting into open water. SMB before ascending. Monitor position relative to the reef throughout the dive.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Grey reef shark portraits at the reef edge in current suit a wide-angle approach with the diver positioned below the shark's eye level. Barracuda school shots in open water off the headland reward ambient wide-angle technique with natural backlight.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

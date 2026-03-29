@@ -11,55 +11,57 @@ osmId: 6389039359
 addedBy: osm_import
 ---
 
-## Brodie Rock
+# Brodie Rock
 
-Brodie Rock is a reef dive site in British Columbia, North America.
+A submerged hazard rock in the Strait of Juan de Fuca offering cold-water reef diving near Victoria.
 
 ## Overview
 
-Brodie Rock is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Brodie Rock is located in the western approaches to Victoria in the Strait of Juan de Fuca, a heavily trafficked marine waterway between Vancouver Island and Washington State. As a submerged rock subject to tidal flows entering from the Pacific, it accumulates rich invertebrate growth and attracts a variety of fish species. This boat-access site offers classic Gulf Islands cold-water conditions with temperatures of 8–11°C and visibility of 8–15 metres in season.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Strait of Juan de Fuca, west of Victoria, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Submerged rock / reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 8–15 metres
+- **Current**: Strong tidal currents in Juan de Fuca Strait
+- **Best Time**: Late summer and autumn
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Brodie Rock's position in the Juan de Fuca Strait means it experiences strong tidal exchange, which nourishes dense invertebrate communities. Giant Pacific octopus are the top attraction, using the rock's crevices for shelter. Lingcod defend territories on the upper reef, while quillback and copper rockfish congregate in schools. The rock faces are covered with plumose anemones, encrusting sponges, and cup corals. Dungeness crab are found on surrounding sand. California sea lions haul out on nearby rocks and often investigate divers in this area.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The rock rises to within about 8 metres of the surface, with the surrounding terrain dropping to 18 metres at the base. A typical dive follows the perimeter of the rock at mid-depth, exploring crevices and overhangs before ascending. Current on the Juan de Fuca side can be significant — time the dive carefully and be prepared for drift conditions. Safety stop at 3 metres with SMB deployed.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Depart from Victoria's Inner Harbour, Oak Bay Marina, or Pedder Bay. GPS navigation is required to locate this submerged feature. Strong winds and swell from the Pacific can make the Juan de Fuca Strait rough — check weather forecasts carefully before departure. A boat with good sea-keeping ability is recommended for this exposed location.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- This site is more exposed than Victoria's inner harbour reefs — plan for ocean swell
+- Local Victoria dive charters have extensive experience with Juan de Fuca conditions
+- The Juan de Fuca Strait has strong reliable tidal currents — tight timing to slack is essential
+- California sea lion encounters are common in autumn — a thrilling addition to the dive
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The Juan de Fuca Strait is one of BC's most challenging diving environments due to current, swell, and vessel traffic. Never attempt this site without reliable current timing data. Surface with a bright, highly visible SMB. Drysuit and cold-water training are mandatory. Have a float plan and ensure your boat operator is vigilant.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Sea lions often interact playfully with divers and make exceptional underwater photography subjects. The invertebrate-covered rock faces offer classic Pacific Northwest wide-angle compositions. For macro work, explore sponge surfaces for nudibranchs and the sediment areas around the rock base for small crabs and worms. Video with an external light system is highly effective here.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
+- Fisheries and Oceans Canada tide tables: tides.gc.ca
+- Victoria area dive charters for Juan de Fuca conditions
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

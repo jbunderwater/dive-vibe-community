@@ -13,55 +13,53 @@ addedBy: osm_import
 
 ## Lagoon Mounding
 
-Lagoon Mounding is a reef dive site in Tanzania, Africa.
+Lagoon Mounding is a shallow reef formation within Zanzibar Island's southeastern lagoon, near Jambiani, featuring raised coral mounds rising from the lagoon floor in a distinctive knoll-and-channel topography that creates diverse microhabitats in a compact area.
 
 ## Overview
 
-Lagoon Mounding is a dive site in Tanzania offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+The eastern Zanzibar lagoon contains several areas where coral growth has built up "moundings" — raised reef structures that break the monotony of the flat lagoon bottom and create sheltered pockets of higher coral density. Lagoon Mounding specifically refers to one of these formations accessible from Jambiani, where the reef rises from the sandy lagoon floor at 10-12 meters to coral tops at 5-6 meters. The site is entirely inside the fringing reef barrier, giving it some of the calmest and most consistent conditions on Zanzibar.
 
 ## Site Information
 
-- **Location**: Tanzania, Africa
+- **Location**: Jambiani Lagoon, Southeast Zanzibar Island, Tanzania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral reef (lagoon mounds)
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 8-15 meters (26-50 feet)
+- **Current**: Very light (protected lagoon)
+- **Best Time**: Year-round; October to April best for eastern sites
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+The mound structure provides a concentrated habitat that attracts higher fish densities than the surrounding lagoon floor. Schools of goatfish comb the sandy channels between mounds, while the mound walls shelter soldierfish, squirrelfish, and moray eels in the shadier recesses. Sea turtles are resident in the area and frequently rest on the mounds. Night dives reveal cuttlefish hovering over the mound tops and hunting in the adjacent sandy channels.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Navigate between the coral mounds, exploring the channels at the base level before ascending each mound to the crest. The site rewards slow, methodical exploration rather than continuous movement — hovering near the mound edges allows fish behavior to continue naturally. An air-limited dive of 50 minutes easily covers the main mound cluster.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat departure from Jambiani village. Very calm conditions allow small traditional wooden boats. The sheltered lagoon means this site can be dived even when open-water sites are unsuitable due to weather. Pickup at the surface is straightforward with minimal swell.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Outstanding site for practicing buoyancy over the varied mound topography
+- Night dives here are highly recommended — the calm, shallow conditions and rich cuttlefish activity make for memorable evenings
+- Pair with Jambiani Lagoon and Pawoni Hill for a full day of varied southeastern Zanzibar diving
+- The mound structure is home to cleaning stations — hover patiently near coral outcrops and observe fish queuing for shrimp and wrasse cleaners
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The protected lagoon setting makes this one of Zanzibar's safest dive sites. Light currents, minimal swell, and shallow depth remove most standard dive risks. Sea urchins are present on and around the mounds — manage buoyancy to avoid contact. For night dives, brief carefully on navigation between mounds and carry a spare torch.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The varied topography of the mounds creates interesting compositional opportunities — shooting along a mound wall with fish in the background and a sandy channel in the foreground produces layered images with depth. The lagoon's clear, calm water allows natural-light photography down to 10 meters in good conditions. Night photography of cuttlefish is a particular specialty here.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

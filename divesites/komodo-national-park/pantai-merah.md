@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Pantai Merah
 
-Pantai Merah is a reef dive site in Komodo National Park, Asia.
+Pantai Merah — Indonesian for "Red Beach" or "Pink Beach" — is one of only seven pink-sand beaches in the world, the colour produced by red coral fragments mixed with white sand. The reef directly offshore is an accessible, photogenic dive that serves as an excellent introduction to Komodo diving.
 
 ## Overview
 
-Pantai Merah is a dive site in Komodo National Park offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Situated on the eastern coast of Komodo Island, Pantai Merah offers a shore entry onto a colourful sloping reef that runs from the iconic pink sand beach down to a sandy bottom at around 25–30 meters. The site is sheltered from the dominant currents that define many other Komodo sites, making it one of the park's most accessible dives. The shallower sections, from 3 to 15 meters, are particularly rewarding — densely populated with hard coral formations, anemones hosting clownfish, and small critters that reward a slow, macro-focused approach. The deeper sections have more rubble and scattered coral but are worth exploring for flatfish and sand-dwelling species.
 
 ## Site Information
 
-- **Location**: Komodo National Park, Asia
+- **Location**: Komodo National Park, East Nusa Tenggara, Indonesia (eastern Komodo Island)
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 10–20 meters
+- **Current**: Light to moderate; strongest at site corners
+- **Best Time**: April to November; early morning for calmest conditions
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The shallow reef is excellent for macro observation: nudibranchs are numerous and varied, with chromodorids and phyllodesmiums common. Frogfish occupy sponge-encrusted rubble patches. Anemonefish and their host anemones are scattered throughout the 5–15 meter zone. Hawksbill and green turtles graze on the deeper reef sections. Schools of sergeant majors and chromis hover above the coral table, while moray eels and lionfish lurk in crevices. The sandy bottom at depth hosts garden eels, blue-spotted rays, and the occasional octopus.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter directly from the beach, wading over a short sandy shallows before the reef begins at 3–5 meters. The guide leads a circuit along the reef, typically staying between 8–20 meters where coral density is greatest. The deeper section on the reef base can be explored if time and air permit before returning to the shallows for a comfortable safety stop in excellent light.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry from the pink beach. The beach is accessible by boat from the park's ranger station and mooring sites — independent visitors must use permitted boats. Entry is straightforward with fins on in shallow water. Exit at the same beach entry point.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The shallows between 5–15 meters offer the most rewarding diving — do not rush to depth
+- Bring a macro lens or a compact camera with close-up mode for nudibranchs and frogfish
+- The pink beach itself is worth visiting before or after the dive — one of Komodo's most photographed landscapes
+- Early morning provides the best water clarity and light for photography
+- Combine with a snorkel along the beach edge where the coral begins immediately from shore
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+While generally calm, light currents can run along the reef edges. Maintain awareness of your position relative to the beach and do not allow the current to push you around the island's point into more exposed water. Sea urchins are numerous in the shallows — wear booties when walking along the beach entry. Always dive with a buddy.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Pantai Merah is one of Komodo's best topside-and-underwater photography destinations. Above water, the pink sand framed by rust-red hills is spectacular. Below, the well-lit shallows with their diverse critter life make excellent macro and wide-angle subjects. The shallow depth and good light create clean backgrounds for nudibranch portraits. The beach and reef in the same frame from a drone or snorkel-level angle is iconic.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

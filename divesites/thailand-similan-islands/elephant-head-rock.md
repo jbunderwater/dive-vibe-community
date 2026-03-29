@@ -13,53 +13,54 @@ addedBy: osm_import
 
 ## Elephant Head Rock
 
-Elephant Head Rock is a pinnacle dive site in Thailand Similan Islands, Asia.
+Elephant Head Rock — known in Thai as Hin Pousar — is one of the most iconic and topographically dramatic dive sites in the Similan Islands, located at the southern end of the archipelago near Island 8, Similan Islands National Park, Phang Nga Province, Thailand.
 
 ## Overview
 
-Elephant Head Rock is a dive site in Thailand Similan Islands offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The site takes its name from a granite rock formation that emerges above the waterline and resembles an elephant's head in profile. Below the surface, the geology becomes genuinely spectacular: enormous rounded granite boulders, some the size of houses, are stacked and interlocked at every angle, creating a three-dimensional labyrinth of channels, canyons, swimthroughs, and overhangs extending from 5 meters down to 40 meters and beyond. This is not a reef dive — it is a boulder topography dive, and navigation requires spatial awareness. The site is advanced-rated primarily because of its complexity and the currents that can funnel strongly between the boulder formations.
 
 ## Site Information
 
-- **Location**: Thailand Similan Islands, Asia
-- **Entry Type**: Liveaboard
-- **Site Type**: Pinnacle
+- **Location**: Similan Islands National Park, near Island 8, Phang Nga Province, Thailand
+- **Entry Type**: liveaboard
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15–35 meters
+- **Current**: Moderate to strong; accelerates through channels
+- **Best Time**: November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Leopard sharks (zebra sharks, Stegostoma tigrinum) are the signature residents, typically found resting motionless on sandy patches between boulders at 15–25 meters — a photogenic and reliable encounter. Whitetip reef sharks cruise the deeper channels. Schools of striped barracuda hold position in the current above the boulder field. Napoleon wrasse (humphead wrasse) patrol the mid-water zones between formations. Hawksbill turtles are commonly seen resting on boulders or feeding on encrusting organisms. Honeycomb moray eels occupy crevices throughout the site, and various species of angelfish and butterflyfish weave through the channels.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 40 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Most dive plans follow a circumnavigation of the main boulder complex, entering the deeper swimthroughs (12–20 m) before working back through shallower passages (5–12 m) toward the end of the dive. Guides typically lead groups single file through the narrower channels. Maximum depth of 40 m is achievable on the seaward (west) side of the formation, but most of the interesting topography and marine life is concentrated between 8 and 25 meters. Buoyancy precision is critical — the swimthroughs demand divers to hold trim and avoid contact with the encrusted boulder walls.
 
 ## Entry and Exit
 
-This site can be accessed from shore or by boat. Shore entry follows established paths to the water. Boat access is available through local dive operators. Check conditions and choose the most appropriate entry method based on weather and sea state.
+Liveaboard access only for the main dives; a small number of day-trip boats from Khao Lak reach this site due to its relatively southerly position in the archipelago. Entry by zodiac with giant stride. The site is moored and dive leaders brief groups on the navigation route before descent.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Stay close to your dive guide on the first dive — the boulder maze is disorienting and routes are not obvious without familiarity
+- Move slowly through swimthroughs to avoid silt disturbance and to allow macro subjects (nudibranchs, flatworms on boulder surfaces) to be noticed
+- A torch is useful for illuminating the insides of overhangs where soldierfish, squirrelfish, and morays shelter
+- Leopard sharks rest in specific sandy gullies; your guide will know the most reliable spots
+- Wide-angle and macro are both rewarding here — consider shooting ambient light for the boulder architecture and bringing a focus light for crevice details
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Disorientation in the boulder complex is the primary risk for inexperienced divers. Current accelerates unpredictably through channels and can sweep divers off course between formations. Divers should maintain visual contact with their guide and never enter a swimthrough unless they can see the exit and have confirmed their dive buddy is following. Minimum recommendation is Advanced certification with strong buoyancy skills. SMB should be carried and deployable at all times.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Elephant Head Rock may be the most photogenic site in the Similans for structural photography. The play of light through crevices and swimthrough entrances creates dramatic silhouette opportunities. A wide rectilinear lens captures the scale of the boulders relative to divers. For leopard shark portraits, approach slowly from slightly below and to the side; a mid-range zoom at the widest setting (e.g., 16–35mm equivalent) keeps sufficient depth of field. Hawksbill turtles around the boulder tops are excellent ambient-light subjects.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

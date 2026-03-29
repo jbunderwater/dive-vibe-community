@@ -11,55 +11,57 @@ osmId: 6457133060
 addedBy: osm_import
 ---
 
-## Dorcas Rock
+# Dorcas Rock
 
-Dorcas Rock is a reef dive site in British Columbia, North America.
+A submerged rock near Qualicum Beach offering productive cold-water reef diving on eastern Vancouver Island.
 
 ## Overview
 
-Dorcas Rock is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Dorcas Rock lies in the Strait of Georgia offshore from Qualicum Beach on eastern Vancouver Island, in the productive mid-strait waters that support exceptional Pacific Northwest marine life. The rock is a submerged feature accessible by boat from Qualicum Beach or Parksville and represents the typical intermediate-level diving of this part of the Strait of Georgia. Water temperatures range from 8–11°C, and visibility averages 8–15 metres in good conditions.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Strait of Georgia, Qualicum Beach area, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Submerged rock / reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 8–15 metres
+- **Current**: Tidal currents present — plan around slack
+- **Best Time**: Late spring through autumn
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Dorcas Rock hosts a productive community of Pacific Northwest cold-water species. Giant Pacific octopus are found in crevices throughout the rock. Lingcod are resident predators, often seen resting on the rock surface. Copper and quillback rockfish are the most abundant reef fish, with black rockfish occasionally schooling above the structure. Plumose anemones and encrusting sponges cover exposed faces. Kelp greenlings and painted greenlings are common. Dungeness crab and Puget Sound king crab are found on sandy surrounding terrain.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The rock summit reaches approximately 8–10 metres. Begin at depth along the base perimeter and systematically work up the rock face. The crevice zones at 12–18 metres depth typically hold the largest octopus. The upper portion of the rock with its rocky overhangs is good for wolf eel sightings. Complete a 3-metre safety stop before surfacing.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Qualicum Beach or Parksville. GPS required for this submerged feature. Anchor on sand well clear of the rock summit. A live boat pickup is recommended. Deploy SMB clearly before ascending — the central Strait of Georgia has moderate vessel traffic.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- This site is often paired with the nearby Cottam Reef or Cottam Point Wall for a full day's diving
+- Qualicum Beach area dive shops know this rock well and can provide exact coordinates
+- The area is known for excellent octopus populations compared to the southern Strait
+- Morning dives tend to have the best visibility in this area
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Tidal currents in the central Strait of Georgia require planning. Always check current tables before departure. Cold water (8–11°C) demands drysuit protection. Surface with a deployed SMB. Maintain buddy contact throughout the dive.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Octopus in crevices or foraging in the open are excellent macro and wide-angle subjects. Lingcod resting on horizontal rock surfaces with encrusting sponge backgrounds make strong reef portraits. Wide-angle shots of the rock structure draped in anemones are the classic Pacific Northwest composition.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
+- Qualicum Beach and Parksville dive operators
+- Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

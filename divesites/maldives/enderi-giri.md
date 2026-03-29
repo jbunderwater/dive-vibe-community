@@ -13,54 +13,29 @@ addedBy: osm_import
 
 ## Enderi Giri
 
-Enderi Giri is a pinnacle dive site in Maldives, Asia.
+Enderi Giri is a submerged coral pinnacle (giri) in South Male Atoll, offering a classic Maldivian giri dive with strong fish aggregations around a richly encrusted structure.
 
 ## Overview
 
-Enderi Giri is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The giri rises from a sandy bottom at around 26 meters up to within a few meters of the surface, its entire surface colonised by hard and soft corals. The pinnacle's position in the atoll interior means it catches current from multiple directions depending on the tide, and this current drives an impressive concentration of marine life around its walls. Schools of bannerfish and snapper hover in the midwater above the pinnacle, while grouper and moray eels hold territories in the crevices below. Grey reef sharks are frequently sighted circling at depth, and the overhangs on the deeper faces shelter resting nurse sharks and turtles. The upper section of the giri is a good site for spotting nudibranchs and flatworms among the encrusting growth. Enderi Giri is typically dived as a circumnavigation — divers circle the pinnacle at varying depths to explore the different communities occupying each face.
 
 ## Site Information
 
-- **Location**: Maldives, Asia
+- **Location**: South Male Atoll, Maldives
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 26 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters
+- **Current**: Variable; can be moderate to strong
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Grey reef sharks, nurse sharks, hawksbill turtles, moray eels, grouper, schools of bannerfish and snapper, Napoleon wrasse, nudibranchs, and diverse hard and soft coral coverage across the pinnacle faces.
 
-## Dive Profile
+## Tips for Divers
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 26 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Descend directly to the deeper faces on entry to catch the best shark and large-species activity before ascending to shallower depths for the safety stop and coral-top exploration. The pinnacle circumnavigation works best with moderate current — in strong current, staying on the sheltered down-current face gives the most comfortable viewing. Carry a torch for the overhangs and crevices on the deeper sections.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

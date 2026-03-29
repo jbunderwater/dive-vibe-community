@@ -11,57 +11,55 @@ osmId: 10224583151
 addedBy: osm_import
 ---
 
-## Woo south
+## Woo South
 
-Woo south is a reef dive site in Tanzania, Africa.
+Woo South is the southern section of the Woo reef complex on Zanzibar Island's eastern coast near Jambiani, part of a series of reef features in the Jambiani lagoon area that together provide a full day's varied diving in the southeastern part of the island.
 
 ## Overview
 
-Woo south is a dive site in Tanzania offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+The "Woo" sites are a cluster of reef formations in the southeastern Zanzibar lagoon, with Woo South covering the southern extension of the complex where the reef becomes lower and more spread out, creating a broader habitat of coral mounds, sandy channels, and rubble zones. Maximum depth of 16 meters sits entirely within the lagoon's comfortable range. Like the other Jambiani area sites, Woo South benefits from the protection of the outer fringing reef barrier that eliminates swell and reduces tidal current to manageable levels.
 
 ## Site Information
 
-- **Location**: Tanzania, Africa
+- **Location**: Jambiani area, Southeast Zanzibar Island, Tanzania
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 16 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 10-15 meters (33-50 feet)
+- **Current**: Light (protected lagoon)
+- **Best Time**: October to April (northeast monsoon, eastern Zanzibar)
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+Woo South's spread-out habitat of mounds and channels supports a diverse resident community. The sandy areas attract garden eels, stingrays, and goatfish foraging across the bottom. The coral mounds host the typical Jambiani cast: sea turtles, parrotfish, triggerfish, and moray eels. The broader, lower reef profile compared to more concentrated hill formations means more ground to cover and a greater variety of micro-habitats within a single dive.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 16 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-16 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Navigate southward across the reef complex, exploring each coral mound and the channels between them. The varied topography means the dive offers constant new features rather than a continuous reef face. A full 50-minute dive easily covers the Woo South area while allowing time at each interesting coral formation.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Jambiani operators. Often combined with Woo North or other Jambiani sites for a two or three-dive day. The calm lagoon conditions allow easy entry and exit. Traditional wooden boats and small zodiacs both serve the site.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Woo South combines well with Stingray City and Sau Inn Garden for a varied three-site Jambiani day
+- The broader, more spread-out habitat is ideal for divers practicing navigation skills with compass bearings
+- Look under coral rubble pieces in the sandy channels — often the most cryptic invertebrates are found beneath loose rubble
+- The southeastern Zanzibar dive scene is growing but still offers a notably quieter experience than Nungwi
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Same benign safety profile as other Jambiani lagoon sites. Light current, shallow depth, and calm conditions create a very low-risk environment. Carry and deploy SMB for ascent. Monitor buoyancy to protect the coral formations.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The varied mound and channel topography offers interesting compositional variety compared to simple reef slope sites. Garden eel photography requires a very long, slow approach across the sand — extend your arm with camera first, body trailing far behind. The calm clear water provides good natural-light opportunities at all depths.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

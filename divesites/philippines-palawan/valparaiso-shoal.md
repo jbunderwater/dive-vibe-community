@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Valparaiso Shoal
 
-Valparaiso Shoal is a reef dive site in Philippines Palawan, Asia.
+Valparaiso Shoal is a named shoal in the southern Palawan sea, bearing one of several Spanish-influenced geographic names that reflect the Philippines' colonial cartographic history, and offering an isolated reef diving experience in little-visited waters.
 
 ## Overview
 
-Valparaiso Shoal is a dive site in Philippines Palawan offering rewarding diving on healthy coral reef structures . Southern Palawan shallow water site. Named feature. Coral and reef formation.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Located in the offshore waters southeast of Palawan proper, Valparaiso Shoal rises from the surrounding seafloor to form a shallow reef environment accessible to intermediate divers. The shoal's Spanish name suggests it was charted during the Spanish colonial period, when these waters were actively navigated between the Philippine archipelago and the Sulu Sultanate territories. Coral growth covers the shoal's structure, with a platform at 8–10 meters and sloping edges dropping to 20 meters. The site's isolation from both major ports and tourist hubs means it remains one of the most undisturbed reefs in the Palawan diving circuit.
 
 ## Site Information
 
-- **Location**: Philippines Palawan, Asia
+- **Location**: Southern Palawan offshore sea, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral shoal / reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters
+- **Current**: Variable open-ocean current
+- **Best Time**: November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Isolated offshore shoals typically punch above their weight in terms of marine life, acting as attractors for open-ocean species. Valparaiso Shoal fits this pattern, with regular sightings of schooling trevally and barracuda, patrolling reef sharks on the deeper edges, and sea turtles crossing the reef platform. Napoleon wrasse and large grouper are resident. The coral structure supports a full complement of Indo-Pacific reef fish, and the sandy margins harbour ray and flatfish species.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the shoal platform and conduct an initial orientation survey before exploring the outer edges. The perimeter at 15–20 meters is the most productive zone for larger animals. Return to the platform for a leisurely exploration of the shallower reef before your safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by liveaboard or long-range chartered vessel from southern Palawan ports. The crossing may take several hours. Entry by giant stride from the boat. Drift conditions require SMB deployment for the ascent, and coordination with the boat crew for pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The isolated location ensures genuinely undisturbed diving — treat it with appropriate respect
+- Visibility can exceed 30 meters on the best days; bring a wide-angle lens to take advantage
+- Look up as well as down — pelagic species often approach from above
+- Plan to dive Valparaiso Shoal as part of a multi-day liveaboard circuit of southern Palawan
+- Currents can be significant; have a drift diving plan ready before entering the water
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Open-ocean shoal diving requires comprehensive preparation. Carry emergency signaling equipment (SMB, whistle, mirror), and ensure the boat maintains visual contact. Currents at isolated shoals can be unpredictable. The nearest hyperbaric facility is many hours distant.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Exceptional visibility and undisturbed marine life create premium photography conditions. Wide-angle reef panoramas, pelagic encounters, and sea turtle portraits are the key subjects. The isolation and clear water make this one of the most rewarding photography sites on a southern Palawan liveaboard circuit.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

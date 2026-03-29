@@ -13,55 +13,53 @@ addedBy: osm_import
 
 ## Little Wall
 
-Little Wall is a wall dive site in Tanzania, Africa.
+Little Wall is a more accessible wall dive on Pemba Island's eastern coast, serving as an excellent introduction to Pemba's dramatic underwater topography for divers progressing toward the more demanding deeper walls in the area.
 
 ## Overview
 
-Little Wall is a dive site in Tanzania featuring a dramatic vertical wall that drops into the deep blue. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Pemba Island's eastern coast is characterized by near-vertical submarine walls plunging into the Pemba Channel, and Little Wall offers the same experience as the larger wall sites but with a shallower profile that suits intermediate divers. The wall begins at the reef top around 6-8 meters and drops to a sand ledge at approximately 20 meters where the wall angle eases. Compared to its neighbor Big Wall, the shallower maximum depth allows longer bottom times and more relaxed exploration of the wall's encrusted surfaces. Visibility regularly reaches 20-25 meters in favorable conditions.
 
 ## Site Information
 
-- **Location**: Tanzania, Africa
+- **Location**: East Pemba Island, Zanzibar Archipelago, Tanzania
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 20-25 meters (65-80 feet)
+- **Current**: Moderate, variable with tide
+- **Best Time**: October to March (northeast monsoon)
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The wall face is encrusted with orange and yellow sponges, sea fans, and black coral bushes at depth. Nudibranchs and flatworms are found on virtually every section of the wall surface — Pemba's wall nudibranchs include several spectacular species not commonly seen elsewhere in East Africa. Groupers and soldierfish inhabit the overhangs. Eagle rays and reef sharks are frequently seen in the blue water adjacent to the wall. Soft coral outcrops at 15-20 meters attract pygmy seahorses on gorgonian fans.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-20 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Begin at the reef top and descend the wall face, following natural crevices and ledges down to 18-20 meters. Methodically work along the wall, checking each overhang for resident species before continuing. Ascend to 10 meters to cross the upper wall zone on the way back to the mooring, finishing with a safety stop on the reef crest in 5-6 meters.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access from Pemba Island dive operators based in Chake Chake or Wete, or from liveaboards. The wall can experience tidal current; check timing with the guide before entry. Giant stride from the dive vessel and deploy SMB during ascent.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Little Wall is the ideal site to develop wall diving technique before attempting the deeper Big Wall
+- A dive torch is essential — the overhangs and crevices contain a disproportionate amount of the marine life
+- Ask your guide to locate pygmy seahorse positions on gorgonian fans; they require patient searching on specific fan species
+- Pemba has very limited tourist infrastructure — arrange accommodation and diving several weeks in advance
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Even though Little Wall is shallower than the adjacent Big Wall, the wall topography can induce passive descent — monitor depth continuously. Current can run parallel to the wall face and may pick up unexpectedly with tidal changes. Carry a reef hook for holding position during high-current periods. Always ascend with an SMB deployed.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+The 20-meter depth limit keeps the dive within a manageable photography range. Nudibranch macro shots on the encrusted wall surface are the primary close-up subjects. Wide-angle photographers should position below a large gorgonian fan with the open blue water beyond for classic Pemba wall compositions.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

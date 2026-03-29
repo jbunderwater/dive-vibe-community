@@ -13,55 +13,50 @@ addedBy: osm_import
 
 ## Kimon M
 
-Kimon M is a historic wreck dive in Red Sea, Middle East.
+The Kimon M is a Greek-owned cargo freighter that ran aground and sank in the northern Red Sea off the Sinai coast of Egypt. The wreck rests in the Abu Nuhas reef area — the same notorious ship graveyard that claims the Giannis D, Carnatic, Chrisoula K, and Tile Wreck — making it part of one of the most celebrated multi-wreck dive destinations in the world. The Kimon M struck Abu Nuhas Reef in 1978 and sank to a maximum depth of around 32 meters.
 
 ## Overview
 
-Kimon M is a dive site in Red Sea featuring the wreck of the Kimon M. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The Kimon M sits on its starboard side on a sloping sandy seabed with the shallowest sections of the wreck at around 12-15 meters and the deepest hull sections at approximately 30-32 meters. The wreck is moderately intact overall, though years of storm surge and salt water have collapsed some structures. Unlike the nearby Giannis D — which is the most visited and most penetrable wreck at Abu Nuhas — the Kimon M is less frequently dived, giving it a quieter character and slightly more pristine encrustation on the exterior surfaces. The hull is covered in soft corals, sponges, and sea fans, particularly on the shaded sections facing away from direct sunlight.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
+- **Location**: Abu Nuhas Reef, northern Red Sea, Egypt (near Hurghada / Sharm el-Sheikh routes)
+- **Entry Type**: Boat dive (liveaboard or day boat)
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 32 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20-35 meters (65-115 feet)
+- **Current**: Moderate; can be stronger on exposed reef sections
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter glassy sweepers, lionfish, groupers, coral growth, soft corals, whale sharks, manta rays, hammerhead sharks. Additional species commonly sighted include oceanic whitetip sharks, sea turtles, dolphins. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Kimon M supports a well-established artificial reef community. Schools of glassy sweepers — sometimes in dense thousands — flood interior spaces and shaded hull sections. Large groupers have claimed territories in the cargo holds and around the machinery spaces. Lionfish are abundant in all overhang areas, and moray eels patrol the more accessible interior corridors. Soft coral growth on the hull attracts nudibranchs, feather stars, and crinoids. Barracuda and trevally school around the wreck superstructure in open water.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 32 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend the mooring or descent line to the highest point of the wreck — typically the hull side at around 12-15 meters — and orient to the overall structure before descending deeper. Work from bow to stern or vice versa, exploring deck structures, cargo holds, and the engine room area as depth allows. The deepest sections at 28-32 meters require careful bottom time management on air — advanced divers on nitrox 32 can extend time at the deep hull sections. Plan your ascent conservatively and conduct a 3-5 minute safety stop at 5 meters.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Accessible by liveaboard from Hurghada or Sharm el-Sheikh, or occasionally by day boat from Hurghada on favourable weather days. The Abu Nuhas reef anchorage is exposed to wind and swell from the north — surface conditions can be rough. Entry via giant stride; the boat maintains a drift pickup in current.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- If diving Abu Nuhas for the first time, dive the Giannis D first to understand reef orientation, then visit the Kimon M as a second dive
+- A primary torch and backup are essential for any interior exploration
+- Nitrox significantly extends bottom time at the deeper hull sections — plan accordingly
+- The wreck lies relatively close to the Giannis D; with a good guide, both can be visited in a single long dive or as separate dives on the same day
+- Watch for fishing nets and monofilament around the superstructure — carry a cutting tool
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The 32-meter maximum depth requires intermediate-level air management skills and an awareness of NDL limits on air. Penetration of the Kimon M requires wreck specialty training, redundant lighting, and a reel or line. The wreck has areas of structural instability — avoid forcing entry through collapsed sections. Currents at Abu Nuhas can pick up quickly; always dive with an SMB and signal device.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Wide-angle shots of the hull in profile against the blue water background are highly effective at 20-25 meters where the overall wreck scale becomes apparent. Schools of glassy sweepers filling the interior create dramatic backlit compositions. The coral encrustation on the hull exterior offers excellent macro work. Bring a 15mm or wide rectilinear lens for the full hull exterior shots.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

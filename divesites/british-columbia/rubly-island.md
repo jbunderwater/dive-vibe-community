@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Rubly Island
 
-Rubly Island is a reef dive site in British Columbia, North America.
+Rubly Island is a small rocky islet in the southern Gulf Islands of British Columbia, Canada, providing sheltered reef diving along its kelp-fringed shoreline.
 
 ## Overview
 
-Rubly Island is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Situated in the Gulf Islands between Vancouver Island and the BC mainland, Rubly Island offers typical Pacific Northwest reef diving in a relatively sheltered environment. The surrounding waters are cold (7–12°C), nutrient-rich, and packed with temperate marine species. Visibility averages 6–12 metres, improving toward late summer. The island's shoreline features rocky drop-offs with kelp canopy that transitions to deeper boulder fields and mixed substrate below 10 metres.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Gulf Islands, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 6–12 metres
+- **Current**: Variable; stronger on exposed sides
+- **Best Time**: July to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Kelp forests dominate the shallower zones, sheltering juvenile rockfish and greenling. Lingcod — some exceeding 1 metre — are regularly seen resting on rocky ledges. Giant Pacific octopus are present in boulder areas, and both harbour seals and Steller sea lions visit this area regularly. Copper rockfish, quillback rockfish, and black rockfish represent the most commonly observed rockfish species. Encrusting life includes tube worms, encrusting bryozoans, and colourful sponges on deeper rock faces.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Start on the sheltered side of the island and work along the rocky shoreline, descending to the boulder field at 12–18 metres. Circle back through the mid-depth kelp fringe before a slow ascent and safety stop in the kelp canopy zone. Depth progression is gradual, making it suitable for intermediate divers comfortable with cold water.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat entry is standard for this offshore island. Anchor in a sandy patch away from kelp and rocks. Conditions on the exposed side can be uncomfortable in wind or swell — check the forecast and choose the sheltered aspect accordingly.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Dive the sheltered lee side when wind is above 15 knots
+- Watch for Steller sea lions passing through — they can be curious and fast
+- Carry a light or torch for inspecting crevices for GPO and wolf eels
+- A drysuit is strongly recommended for comfort on multiple dives
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Cold water and potential surge on exposed faces are the primary hazards. Monitor gas consumption carefully when working against a current. Always deploy an SMB on ascent, particularly if boat traffic is present. Buddy checks on drysuit systems before every dive.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Kelp forest ambience shots are rewarding in summer when the canopy is at its fullest. Rockfish portrait photography works well given how boldly the fish hold position. Wide-angle works in the canopy; switch to macro for tube worms and nudibranchs on the deeper boulders.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

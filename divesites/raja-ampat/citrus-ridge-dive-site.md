@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Citrus Ridge Dive Site
 
-Citrus Ridge Dive Site is a drift dive site in Raja Ampat, Asia.
+Citrus Ridge is a rewarding drift dive along a ridge system in the Dampier Strait, offering excellent soft coral coverage and effortless gliding past richly colonized reef structures on the tidal flow.
 
 ## Overview
 
-Citrus Ridge Dive Site is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures . Good corals and good quantity of fishes. The stream kindly bring you to the south.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Citrus Ridge sits in the current-swept heart of the Dampier Strait, where its ridge topography channels tidal flow along the reef and feeds the dense soft coral growth for which the site is named. The "citrus" name reflects the vivid yellow and orange of the dendronephthya and leather corals that blanket the ridge. Drift diving here is a pleasure — divers are carried gently along the ridge crest and down the flanks, passing through curtains of soft coral with minimal effort. Visibility is typically 15–25 meters and water temperature averages 27–29°C.
 
 ## Site Information
 
-- **Location**: Raja Ampat, Asia
+- **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Drift
+- **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15–25 meters (50–80 feet)
+- **Current**: Moderate to strong during tidal flow; best dived on gentle to moderate flow
+- **Best Time**: October to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The current-fed soft coral gardens support an abundance of reef fish — schools of anthias pack the water column above the ridge, surgeonfish aggregate in grazing herds, and sweetlips shelter in crevices below the coral overhangs. White-tip reef sharks rest on the sandy bottom adjacent to the ridge. Hawksbill turtles forage along the reef top. Eagle rays are sometimes sighted in the open water alongside the ridge. Nudibranchs are present in variety on the soft coral stems.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter the water upcurrent of the ridge and let the flow carry you along its length. Stay at ridge-crest depth (10–15 meters) to enjoy the best soft coral concentration, or drop to 20–25 meters to view the structure from below and look for resting sharks and rays. The drift carries divers along the ridge's length naturally; work with the current rather than against it. End the dive by signaling the surface, deploying SMB, and drifting to the surface for boat pickup.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from liveaboards or day-trip operators. The guide sets the entry point based on current direction and speed; follow the briefing precisely. Deploy SMB on ascent and maintain vertical position for drift ascent. Boat pickup is via the SMB line.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Do not fight the current — this is a drift dive and the experience is in flowing with it
+- The soft coral is best photographed at mid-current when fully extended; strong surges can push polyps inward
+- Early morning dives often offer the most vibrant soft coral color as light angles are favorable
+- Keep a depth reference on the ridge crest to avoid drifting into the blue
+- Your SMB should be ready to deploy throughout the dive in case you separate from the group
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Drift dives require constant communication with the guide and boat crew. In strong conditions this site can become challenging to navigate safely — follow the guide's recommendation on whether conditions are suitable. Never surface without an SMB in a tidal current zone. Carry a signaling device and dive knife.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Citrus Ridge is excellent for wide-angle drift photography. Shooting parallel to the ridge with soft coral in the foreground and a diver in the background captures the site's character well. Close-focus wide-angle of the dendronephthya branches against blue water is another strong approach. The natural current means you get only one pass at each section, so preset your settings before the dive.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

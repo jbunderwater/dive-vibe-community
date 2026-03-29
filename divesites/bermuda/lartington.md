@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## Lartington
 
-Lartington is a historic wreck dive in Bermuda, Atlantic.
+An 1875 tramp steamer from Sunderland that sank with 4,000 cotton bales, its upturned bow rising almost to the surface in Bermuda's clear shallow reef.
 
 ## Overview
 
-Lartington is a dive site in Bermuda featuring the wreck of the Lartington. Located in the Atlantic region, this site offers 15-30 meters of visibility with water temperatures averaging 20-28°C.
+The Lartington was a tramp steamer — a vessel using both sail and steam — built in 1875 in Sunderland, England. On December 8, 1879, she departed Savannah, Georgia carrying 4,000 bales of cotton bound for Russia. She struck Bermuda's reef system and was lost. Today, her upturned bow lies on its port side with the prow rising to within inches of the surface at low tide, making the wreck partially visible even to surface observers on calm days. The mid-section is crumbled and scattered, but the boilers remain recognizable amid the debris. The stern section features a broken propeller that is a highlight of the dive. The site lies in up to 10 meters of water, accessible to Open Water divers with basic buoyancy skills.
 
 ## Site Information
 
-- **Location**: Bermuda, Atlantic
+- **Location**: Outer reef, Bermuda
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 10 meters
-- **Typical Visibility**: 15-30 meters (50-100 feet)
-- **Current**: Light to moderate
-- **Best Time**: May to October
+- **Maximum Depth**: 10 meters (33 feet)
+- **Typical Visibility**: 15–25 meters (50–82 feet)
+- **Current**: Light
+- **Water Temperature**: 18–28°C (64–82°F)
+- **Best Time**: May–October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, barracuda, coral encrustation, sea turtles, reef sharks, groupers, snappers. Additional species commonly sighted include parrotfish, angelfish. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Shallow Bermuda reef wrecks are productive fish habitats. The Lartington's scattered structural remains support schools of grunt, snapper, and parrotfish across a wide debris field. Spiny lobster are common in the spaces between hull plates. The intact bow section provides a prominent piece of hard structure that attracts larger fish, including grouper and barracuda. Hawksbill turtles occasionally visit the shallow reef surrounding the wreck.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 10 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Begin at the prominent upturned bow, which defines the site and provides a navigation anchor. Follow the debris field toward the mid-section boilers, then explore the stern section with its distinctive broken propeller. The scattered nature of the wreck rewards thorough exploration rather than a brief circuit. The maximum depth of 10 meters allows extended bottom time.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Bermuda operators. The site is accessible from multiple locations around the island. Giant stride or back roll entry. The shallow depth makes this comfortable for snorkelers as well as divers.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
+- The bow rising nearly to the surface is visible on very calm days — look for the shadow
+- The broken propeller at the stern is the most photogenic single element of this wreck
+- A torch reveals resident lobster in the spaces between collapsed hull sections
+- An early morning dive before the wind builds provides the calmest surface and best light
+- The site's scattered nature rewards slow, systematic exploration — allow time for the full circuit
 
 ## Safety Considerations
 
-Be aware of boat traffic, currents, occasional swells in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The shallow depth makes this one of Bermuda's most accessible wrecks. Primary considerations are boat traffic at the offshore reef location and surface swell, which can make entry and exit from the stern platform uncomfortable. Maintain awareness of other divers in the confined spaces between collapsed hull sections.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The Lartington offers distinctive photographic material: an upturned bow almost breaking the surface, recognizable boilers amid scattered debris, and a dramatic broken propeller. Wide-angle natural light photography at 10 meters captures the full scene. Macro shots on the coral-encrusted surfaces reveal the invertebrate community that has colonized the wreck over 140 years.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*

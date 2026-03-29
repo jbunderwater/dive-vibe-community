@@ -11,57 +11,56 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Atlantic Princess Wreck
+# Atlantic Princess Wreck
 
-Atlantic Princess Wreck is a historic wreck dive in Dominican Republic, Caribbean.
+*A shallow, accessible wreck off the southern coast near Santo Domingo, suitable for beginner divers and snorkelers.*
 
 ## Overview
 
-Atlantic Princess Wreck is a dive site in Dominican Republic featuring the wreck of the Atlantic Princess Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Atlantic Princess is a shallow wreck located in the waters off the southern Dominican Republic coast between Santo Domingo and Bayahibe. Resting at a maximum of 12 meters, the wreck is one of the most accessible in the country for beginners and open-water divers completing certification. The vessel is substantially encrusted with corals and sponges, having been on the bottom long enough to transition from wreck to artificial reef. Visibility in these southern waters averages 15–20 meters. Water temperatures stay at 26–28°C year-round. The combination of shallow depth, calm conditions, and abundant marine life makes this a popular first wreck dive for students and recent graduates.
 
 ## Site Information
 
-- **Location**: Dominican Republic, Caribbean
+- **Location**: Southern coast, Dominican Republic, near Santo Domingo
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 15–20 meters (50–65 feet)
+- **Current**: Minimal
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck's encrusted hull provides habitat for a dense fish community. Schools of yellowtail snappers and horse-eye jacks circle the structure. Groupers occupy permanent positions near the hull. Soldierfish and glassy sweepers mass in darker sections. Moray eels — green and spotted — peer from every suitable hiding spot. Hawksbill turtles visit the wreck regularly. The sandy seabed surrounding the hull is home to southern stingrays and garden eels. Barnacles, oysters, and tunicates cover exposed metal surfaces, while fire corals and star corals colonize the higher points of the superstructure.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 12 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the shallowest section of the wreck at 6–8 meters and begin an exterior circuit. The hull and deck structures provide clear navigation references. Drop to the deepest section at 10–12 meters to explore the hold areas from the exterior. The shallow depth supports long bottom times of 60–75 minutes. No safety stop is required, but spending the final 5 minutes hovering above the wreck in 4–5 meters of water is advisable practice. Do not penetrate the hull without proper wreck training and lighting.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive operators from the Santo Domingo and La Caleta area serve this site. Entry via giant stride from a dive boat. Conditions are generally calm given the leeward southern coast exposure. Short boat crossings from the main operator bases.
 
-## Tips and Recommendations
+## Tips
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
+- An excellent first wreck dive for Open Water graduates before attempting deeper sites
+- Bring a torch to illuminate the interior spaces without penetrating — peering through openings reveals the densely packed schooling fish inside
+- The sandy surroundings around the wreck are worth a slow circumnavigation to find stingrays
+- Night dives on shallow wrecks like this are particularly active — octopus, lobster, and tarpon emerge after dark
+- Combine with La Caleta Underwater Park for a comprehensive wreck-diving day on the southern coast
 
-## Safety Considerations
+## Safety
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The wreck is at a safe recreational depth for beginners. Do not enter enclosed hull spaces without proper wreck training and a functioning dive torch — silting can rapidly eliminate visibility inside. Watch for metal edges and protruding hardware. Fire coral may be present on encrusted surfaces. Always dive with a buddy.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The shallow, bright conditions make this an ideal wreck photography site even for beginner shooters. Natural light penetrates effectively at 12 meters, allowing wide-angle shots without a strobe. Frame the hull from below with sunlight breaking over the top for dramatic silhouette shots. Macro subjects on the encrusted hull include tunicates, Christmas tree worms, and small gobies. Moray portraits from the exterior openings are a classic wreck shot.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

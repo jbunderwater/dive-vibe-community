@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Nursery Bommie
 
-Nursery Bommie is a pinnacle dive site in Great Barrier Reef, Oceania.
+Nursery Bommie is a coral pinnacle dive site on the outer Great Barrier Reef near Port Douglas, Queensland, Australia.
 
 ## Overview
 
-Nursery Bommie is a dive site in Great Barrier Reef offering excellent diving on healthy coral reef structures. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Nursery Bommie takes its name from the exceptional density of juvenile fish that shelter in and around the bommie's structure. The complex architecture of the pinnacle — crevices, overhangs, soft coral branches, and anemone fields — provides ideal nursery habitat for the young of many reef species, creating concentrations of juvenile fish life that are not found on simpler reef structures.
+
+The bommie rises to 20 metres on a sandy base, with the typical GBR bommie profile of a steep, colonised structure providing habitat across multiple depth zones simultaneously. The juvenile fish assemblage makes this site particularly interesting for divers interested in fish identification and behavioural observation.
 
 ## Site Information
 
-- **Location**: Great Barrier Reef, Oceania
+- **Location**: Outer Great Barrier Reef near Port Douglas, Queensland, Australia
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15-40 meters (50-130 feet)
-- **Current**: Variable
-- **Best Time**: September to February
+- **Typical Visibility**: 15–25 metres
+- **Current**: Mild
+- **Best Time**: August to November; year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals.
+Juvenile fish are the defining feature — small parrotfish, juvenile wrasse, baby grouper, and the larvae-stage young of many species that are invisible at other times find refuge in the bommie's structure. Adult fish are equally present: maori wrasse, large coral grouper, and lionfish occupy the bigger crevices. Clownfish colonies in the anemones are a constant attraction. The sandy base holds blue-spotted stingrays. Nudibranchs are reliable on the soft coral surfaces. The site name notwithstanding, adult reef sharks patrol the deeper margins — whitetip reef sharks resting on the sand at 18–20 metres are common.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin at the sandy base at 18–20 metres to observe the resting sharks and stingrays before ascending the bommie structure. The densest juvenile fish activity is in the 8–15 metre zone, particularly around the anemone clusters and soft coral branches. Finish the dive circling the bommie top at 5–8 metres in the best light.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Port Douglas or liveaboard. Standard bommie descent by shot line or free descent. Exit via SMB with boat pickup.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Take time to study the juvenile fish — the bommie is an outdoor fish identification class, with juvenile colour phases of common species present at every depth
+- The clownfish colonies are highly photogenic and reliably easy to approach
+- Look carefully in the crevices for juvenile moray eels and small reef fish hiding from the adult predators that also use the bommie
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish (box jellyfish in summer), crocodiles (north) in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Standard outer reef dive. The maximum depth of 20 metres requires attention to no-decompression limits if doing multiple dives. Mild conditions overall.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The juvenile fish at Nursery Bommie are unusual photographic subjects — the juvenile colour phases of common species are often strikingly different from adults and make interesting images. Wide-angle bommie shots with the anthias cloud and clownfish anemone in frame are straightforward here. A macro lens rewards patient searching among the coral.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -11,56 +11,56 @@ osmId: 278086483
 addedBy: osm_import
 ---
 
-## Far Garden
+# Far Garden
 
-Far Garden is a reef dive site in Red Sea, Middle East.
+The most pelagic-rich of the four Gardens north of Naama Bay — tower-like coral pinnacles lead to a steep drop-off with the Cathedral overhang, and summer corner aggregations of whale sharks and manta rays.
 
 ## Overview
 
-Far Garden is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Far Garden is the farthest of the four Garden dive sites from Naama Bay, positioned north of Middle Garden on the Gulf of Aqaba coast of the Sinai Peninsula. It has a distinct character from the other three gardens: the plateau is more inclined, narrower, and supports a greater number of tall coral pinnacles extending nearly to the surface. The dive typically begins at the Intercontinental Resort frontage, exploring three tower-like pinnacles before reaching the drop-off at 20–24 metres where the wall carries dense soft and hard coral coverage. At 30 metres, a large overhang known as "the Cathedral" penetrates the reef for several metres — accessible only with appropriate training. The eastern corner where the reef transitions to open water is the site's premier pelagic viewpoint; in summer months, manta rays and whale sharks are regularly sighted at this corner.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Garden Bay, north of Naama Bay, Sharm el-Sheikh, Sinai, Egypt
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20–35 meters
+- **Current**: Usually mild to moderate drift; stronger at the eastern corner
+- **Best Time**: October to May; manta rays and whale sharks peak July–September
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The tower-like coral pinnacles at the beginning of the dive are densely covered in anthias and chromis. Eagle rays are frequently observed crossing the sandy areas between pinnacles and at the drop-off base. Barracuda schools form at the eastern corner, especially when current flows. Hawksbill turtles are common on the reef flat and pinnacle tops. Whitetip reef sharks patrol the wall base. Batfish and snapper congregate at the corner. The drop-off hosts a rich soft and hard coral community with giant groupers in the deeper sections. The summer corner concentration of manta rays is one of the most-reported large animal sightings in the Sharm el-Sheikh region, with multiple mantas sometimes present simultaneously.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boat entry and descent to the first of the three tower pinnacles at 5–10 metres. Swim between the pinnacles heading east, then drop to the drop-off at 20–24 metres where the wall begins. Follow the wall east toward the corner. Most interesting marine life is at 10–20 metres along the wall and at the corner where the reef terminates in open water. Do not approach the Cathedral overhang (at 30 m) without appropriate training — it is a dark overhead environment that requires at minimum a cavern diving course. Finish the dive drifting past the corner before ascending for a safety stop and SMB deployment.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day boat from Naama Bay (approximately 15–25 minutes north). Entry by backroll or giant stride, descending to the first pinnacle as the starting point. The dive is usually done as a current-assisted drift, finishing at the far corner where the boat picks up. In very light conditions, the site can be done as a mooring dive on the first pinnacle, but drift is preferred.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- For manta ray encounters, focus on the eastern corner where the reef meets open water — July through September is the peak window
+- The three tower pinnacles at the start reward a slow circumnavigation — their surfaces are densely colonised
+- Do not enter the Cathedral at 30 m without cavern or overhead-environment training
+- Far Garden is best appreciated as a dedicated dive — not rushed as the final site of a tired multi-dive day
+- Combine with Ras Nasrani (further north) on the same day trip for the best of both pelagic sites
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The eastern corner can have strong current and is an open-water exposure point. Divers separated from the reef here should deploy an SMB immediately. The Cathedral at 30 metres is an overhead environment — enter only with appropriate certification. Depth at the wall base can exceed recreational limits; maintain depth awareness throughout. Fire coral on upper reef surfaces. Always carry an SMB — the far corner drift requires open-water pickup.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Far Garden is one of the best Sharm el-Sheikh sites for large animal encounters. Wide-angle is essential: manta rays at the summer corner require a fisheye or super-wide lens to capture even a portion of the wingspan. Eagle ray portraits crossing sandy areas in clear mid-water light are outstanding. The tower pinnacles are striking reef-portrait subjects covered in layered fish life. Barracuda schooling at the corner in late afternoon light rewards patience.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

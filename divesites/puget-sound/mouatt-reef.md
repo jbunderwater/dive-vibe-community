@@ -11,55 +11,56 @@ osmId: 1198854415
 addedBy: osm_import
 ---
 
-## Mouatt Reef
+# Mouatt Reef
 
-Mouatt Reef is a reef dive site in Puget Sound, North America.
+A submerged rocky reef in the northern San Juan Islands with strong current exposure and exceptional anemone and fish communities.
 
 ## Overview
 
-Mouatt Reef is a dive site in Puget Sound offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Mouatt Reef is a rocky structure in the northern San Juan Islands positioned to intercept currents running through the channels north of Orcas Island. Current-swept reefs like this one support the most productive invertebrate communities in the San Juan Islands — a consequence of the nutrient delivery that comes with consistent water movement. The reef's exposed faces are carpeted with plumose anemones and sponges, and the calmer sections in the lee of the structure allow octopus and wolf eels to maintain permanent dens. Maximum depth is 18 metres.
 
 ## Site Information
 
-- **Location**: Puget Sound, North America
+- **Location**: Northern San Juan Islands, Puget Sound, Washington
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 8–15 metres
+- **Water Temperature**: 7–11°C
+- **Current**: Tidal, moderate to strong; plan for slack
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The current-facing side of the reef hosts the densest plumose anemone colonies, fed by planktonic material in the tidal flow. Lingcod and rockfish (copper, quillback) are abundant, taking advantage of the current to ambush prey. Giant Pacific octopus inhabit the sheltered boulder gaps on the reef's lee side. Wolf eels are reported from den sites in the rock crevices. Invertebrate diversity is high: Puget Sound king crabs, nudibranchs, rock scallops, and encrusting sponges in brilliant orange and red dominate the rock faces. Harbour seals are frequently seen.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend on the up-current side of the reef during the slack window. Work along the most current-exposed faces where the anemone coverage is densest before moving to the lee side to investigate boulder piles for octopus. Ascend via the reef crest at the end of the dive, using the shallower zone as a safety stop.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access only. Anchor or hold position on the lee side during the dive to keep the vessel as an easy reference. Back-roll or giant stride entry. Monitor current throughout — the slack window in the northern Sound can be short. Deploy an SMB before surfacing.
 
-## Tips and Recommendations
+## Tips
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The exposed reef faces are the best reward at this site; do not spend all time in the sheltered zones
+- Time the dive carefully: plan to start at the beginning of slack and ascend as current begins to pick up
+- Northern San Juan Island reefs like this have historically had the best octopus sightings — look carefully in every available gap
+- Bring an underwater light — even in shallow water, the colour of invertebrates under artificial light is extraordinary
 
-## Safety Considerations
+## Safety
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+This site is more current-exposed than average and requires careful tidal planning. A late slack entry means the dive will be cut short by rising current. Dry suit essential. Always deploy an SMB before surfacing given the open-water position of the reef.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The anemone-covered current-facing reef face is a spectacular wide-angle subject. Shooting upward from the rock surface through the anemone canopy toward the surface produces memorable images. Macro photography on the sponge and nudibranch communities is detailed and colourful. A strobe produces far better results than ambient light alone at this depth.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

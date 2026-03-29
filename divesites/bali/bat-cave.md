@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Bat Cave
 
-Bat Cave is a cave dive site in Bali, Asia.
+Arguably the finest dive at Menjangan Island — a dramatic wall with cave entrances at 9–12 m sheltering diverse reef life.
 
 ## Overview
 
-Bat Cave is a dive site in Bali featuring underwater cave and cavern formations. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Bat Cave Point sits on the eastern wall of Menjangan Island, inside West Bali National Park, and is widely regarded as the island's best dive. Small bats inhabit the caves at the waterline, giving the site its name; the underwater cave crevasses begin at around 9 metres and are a haven for invertebrates and critters. The wall drops vertically to beyond 40 metres and is draped in gorgonian sea fans, whip corals, and large barrel sponges. Strong head-on currents sweep in nutrient-rich water, producing dense fish aggregations throughout the water column. The site typically serves as the continuation dive from Pos 2, with divers drifting west along the wall until they reach the cave entrances.
 
 ## Site Information
 
-- **Location**: Bali, Asia
+- **Location**: Menjangan Island, West Bali National Park, northwest Bali
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Wall / Cave
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 40 m (recreational limit ~20 m)
+- **Typical Visibility**: 15–30 m
+- **Current**: Moderate to strong; head-on current from the east
+- **Best Time**: April to November (dry season, best visibility)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+Cave crevasses shelter nudibranchs, electric clams, moray eels, and small crustaceans. The open wall hosts schools of bluefin trevally, bigeye trevally, and fusiliers. Blacktip reef sharks patrol the deeper sections, and octopus are commonly spotted in overhangs. Pygmy seahorses hide in the gorgonians between 20–30 m, and the occasional whale shark has been reported drifting past during certain seasons.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin the dive at Pos 2 and drift southwest along the wall to Bat Cave Point. The wall starts at 3 m and plunges beyond recreational limits; most divers stay between 10–25 m where coral density and fish life are greatest. The cave entrances at 9–12 m are the highlight — explore them safely without penetrating beyond the light zone. Ascend slowly along the wall and conduct a 3-minute safety stop at 5 m before surfacing.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by traditional jukung boat from Labuhan Lalang jetty in West Bali National Park. Entry via giant stride or back roll. Currents can run strong; follow the dive briefing on entry timing relative to the current direction. Deploy an SMB during ascent for boat pickup in open water.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Dive this site as a continuation from Pos 2 for a long, memorable drift along the wall
+- Bring a torch to illuminate the cave recesses and reveal cryptic critters
+- Check pygmy seahorse colonies on gorgonians around 22–25 m
+- Nitrox is available from most Menjangan operators and extends bottom time
+- Visit in the morning for the best light angles on the wall and clearest water
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Currents can be strong and unpredictable, particularly on incoming tides. Do not penetrate the cave beyond natural light. Always dive with a buddy and carry an SMB. Down-currents are possible near the deep wall sections — maintain positive buoyancy and do not chase depth. Dive within your certification limits.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The cave entrances provide dramatic silhouette shots with ambient light streaming from above. Wide-angle lenses suit the wall sections with large gorgonians, while macro photographers will find electric clams, nudibranchs, and pygmy seahorses inside the cave crevasses. Morning dives produce the best water column colour.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

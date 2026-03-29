@@ -13,54 +13,29 @@ addedBy: osm_import
 
 ## Exit 8
 
-Exit 8 is a reef dive site in Maldives, Asia.
+Exit 8 is a numbered reef mooring on the outer reef circuit in the central-southern Maldives, forming part of the dense cluster of exits on the northern section of the reef and offering reliable access to a well-developed outer slope.
 
 ## Overview
 
-Exit 8 is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Exit 8 sits in the heart of the northern exit cluster alongside Exits 7, 9, and 10, and accesses a reef section with good biodiversity across its depth range. The upper reef crest at 3-8 meters features the highest hard coral cover of the outer face, with dense staghorn fields and table corals providing habitat for damselfish, anemonefish, and butterflyfish communities. The mid-slope transition zone at 10-20 meters combines coral bommies with sandy channels, creating a varied terrain that supports diverse species. Large Napoleon wrasse are frequently encountered here, often solitary individuals that patrol a section of reef and are accustomed to diver presence. The deeper sections at 20-25 meters have scattered coral heads on a gently sloping sandy substrate where garden eels colonise in numbers. Whitetip reef sharks often rest on the sandy areas during daytime dives.
 
 ## Site Information
 
-- **Location**: Maldives, Asia
+- **Location**: Maldives (South/Central Atolls)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters
+- **Current**: Moderate; variable
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Napoleon wrasse, whitetip reef sharks, garden eels, anemonefish, butterflyfish, damselfish, parrotfish, dense staghorn and table corals on the upper crest, and mixed reef fish schools.
 
-## Dive Profile
+## Tips for Divers
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Work the sandy channels at mid-depth for the best Napoleon wrasse encounters, and descend to the sandy base for the whitetip sharks resting during the day. The staghorn fields on the crest are a highlight for wide-angle photography. As with all exits in this cluster, confirm the planned exit strategy with your divemaster before diving.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

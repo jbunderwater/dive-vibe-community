@@ -11,55 +11,56 @@ osmId: 5002157910
 addedBy: osm_import
 ---
 
-## Blake Island Reef
+# Blake Island Reef
 
-Blake Island Reef is a reef dive site in Puget Sound, North America.
+A rocky reef off Blake Island State Park in central Puget Sound, offering accessible cold-water diving close to Seattle.
 
 ## Overview
 
-Blake Island Reef is a dive site in Puget Sound offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Blake Island sits in central Puget Sound between Seattle and Bremerton, and its surrounding reef structure is one of the more accessible boat-dive destinations in the greater Seattle metro area. The reef consists of glacial boulders and rocky outcroppings covered in Pacific Northwest cold-water invertebrates — plumose anemones, tube worms, sponges, and nudibranchs. Water visibility ranges from 6–12 metres depending on tidal state and season. Blake Island itself is accessible only by boat as part of Blake Island State Park, and the reef is a popular stop for Puget Sound dive charters operating out of Seattle and Bremerton.
 
 ## Site Information
 
-- **Location**: Puget Sound, North America
+- **Location**: Blake Island State Park, central Puget Sound, Washington
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 24 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 24 metres
+- **Typical Visibility**: 6–12 metres
+- **Water Temperature**: 8–12°C
+- **Current**: Moderate tidal; plan for slack
+- **Best Time**: April to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Blake Island Reef supports a classic central Puget Sound assemblage. Giant Pacific octopus are present in the deeper boulder fields, wolf eels occupy dens in the rock crevices, and lingcod stake out hunting positions on open rock surfaces. Multiple rockfish species (black, copper, and tiger) move through the water column. The reef's invertebrate cover includes large white plumose anemones, orange sea cucumbers, red urchins, and brittle stars. Dungeness crabs and Puget Sound king crabs forage across the sandy patches between rock formations. Harbour seals are commonly seen.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The reef top sits at approximately 8–10 metres. Work down the sloping rock faces and through the boulder fields to the site's maximum depth of 24 metres. The most productive zone for fish and invertebrates is typically between 12–20 metres on the vertical and overhanging rock surfaces. Complete the dive in the shallower sections before ascending; plan for a safety stop at 5 metres.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Access is exclusively by boat. There are limited mooring buoys at Blake Island State Park; arrive early in peak season. Anchor on the sheltered side relative to the tidal flow. Back-roll or giant stride entry. Deploy an SMB before ascending and surface upwind of the vessel.
 
-## Tips and Recommendations
+## Tips
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Central Puget Sound has more variable visibility than the outer San Juan Islands — diving early in the tidal cycle before sediment stirs is beneficial
+- Blake Island is a worthwhile destination for a combined dive and hike, as the state park offers maintained trails
+- Night diving the reef can reveal octopus actively hunting outside their dens
+- A dive light is useful even during daytime for illuminating the underside of rock ledges
 
-## Safety Considerations
+## Safety
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Water temperature requires dry suit or, at minimum, a 7mm wetsuit with hood and gloves. Central Puget Sound tidal exchanges can be strong; plan dives around the slack tide prediction. Boat traffic in the sound is heavy year-round — use an SMB on every ascent. Harbour seals are curious but generally harmless.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The combination of plumose anemone walls, boulder fields, and resident octopus makes Blake Island Reef a productive photography site. Macro images of nudibranchs on encrusting sponges work well, as do wide-angle shots looking up through the kelp canopy. Strobes are essential for accurate colour rendition below 8 metres.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

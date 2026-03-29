@@ -13,55 +13,54 @@ addedBy: osm_import
 
 ## Twins
 
-Twins is a pinnacle dive site in Koh Tao, Asia.
+Two coral-covered pinnacles near Koh Nang Yuan — a shallow, clownfish-rich beginner site ideal for newly certified divers.
 
 ## Overview
 
-Twins is a dive site in Koh Tao offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Twins consists of two main coral-covered pinnacle formations (and a smaller third) separated by sandy channels, located near Koh Nang Yuan just off Koh Tao. The site is extremely popular for beginner divers due to its shallow maximum depth of 18 m, low current, and dense anemone fields populated with resident clownfish families. The pinnacles themselves are decorated with soft corals and hard coral formations, creating a colourful environment accessible from 5 m to the sandy channels at 18 m. The adjacent Buoyancy World artificial site lies just to the north of the middle pinnacle, providing an optional extension.
 
 ## Site Information
 
-- **Location**: Koh Tao, Asia
+- **Location**: Near Koh Nang Yuan, northwest Koh Tao, Gulf of Thailand
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 18 m
+- **Typical Visibility**: 10–18 m
+- **Current**: Generally mild
+- **Best Time**: May to August
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Anemones with clownfish families are the signature species — dense populations across the pinnacle tops. Pufferfish, moray eels, and triggerfish are common throughout. Turtles graze on the shallow reef sections. Cuttlefish are sometimes seen hovering near the sandy channels. Barracuda occasionally patrol the outer sections of the pinnacles.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the first pinnacle top at 5–8 m and explore the anemone fields. Drop to the sandy channels at 15–18 m to search for stingrays. Circle both pinnacles at mid-depth before ascending to the shallow reef for the safety stop. The entire site can be explored comfortably in 50–60 minutes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat from Koh Tao (approximately 10 minutes). Entry via back roll or giant stride. Conditions are predictable and manageable for new divers. Return to the boat at the mooring line.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Excellent for a first boat dive after completing pool training
+- The Buoyancy World site to the north is an interesting adjacent extension of the dive
+- Clownfish families are reliably present throughout the year
+- Combine with Japanese Garden for a complete Koh Nang Yuan diving day
+- Evening dives occasionally reveal cuttlefish hunting over the sandy channels
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Conditions are generally easy and current is mild. Titan triggerfish can nest in the sandy channels June–August — maintain distance from any circular nest depressions in the sand. Anemones with clownfish should not be touched. Maintain buoyancy above the pinnacle tops to protect coral.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Clownfish portraits in anemones are the classic Twins photograph — bright subjects in colourful settings. Wide-angle shots of both pinnacles together require a fisheye or ultra-wide lens. The sandy channel shots between pinnacles with stingrays are achievable with a wide-angle close-focus approach.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

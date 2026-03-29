@@ -13,55 +13,54 @@ addedBy: osm_import
 
 ## Meno Wall
 
-Meno Wall is a wall dive site in Lombok, Asia.
+A steep soft coral wall between Gili Trawangan and Gili Meno — one of the Gili Islands' best night dive sites and an excellent drift for intermediate divers.
 
 ## Overview
 
-Meno Wall is a dive site in Lombok featuring a dramatic vertical wall that drops into the deep blue . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Meno Wall runs along the channel between Gili Trawangan and Gili Meno, descending from 5 m to over 22 m on a steep face covered in soft corals and sea fans. The drift current carries divers at a relaxed pace along the wall, with turtles, reef sharks, and batfish appearing regularly from the blue. Night dives here are exceptional — the crustaceans that shelter by day emerge at dark, and lobsters, shrimps, crabs, and nocturnal reef fish become the main attraction. Pygmy seahorses and bamboo sharks have been found in the wall's crevices. This is one of the most consistently good sites in the Gili Islands / Lombok dive zone.
 
 ## Site Information
 
-- **Location**: Lombok, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Location**: Channel between Gili Trawangan and Gili Meno, Gili Islands / Lombok
+- **Entry Type**: Boat dive (drift)
+- **Site Type**: Wall / Drift
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 22 m
+- **Typical Visibility**: 15–25 m
+- **Current**: Moderate; carries divers along the wall comfortably
+- **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Turtles cruise the wall face at all depths. Reef sharks are seen passing in the blue. Bamboo sharks rest in wall crevices. Pygmy seahorses inhabit soft coral colonies. At night: lobsters, shrimps, crabs, and nocturnal reef fish emerge throughout the wall. Nudibranchs are abundant on the soft coral and gorgonian fan structures.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-22 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Descend to 15–20 m on the wall and begin drifting. Follow the wall face upward progressively as the dive continues. Concentrate on the 5–15 m zone during the final third of the dive where turtle and fish density peaks. Complete a 3-minute safety stop in shallow water above the wall.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat from Gili Trawangan, Gili Meno, or Lombok mainland operators. Always drifted — enter upstream, pickup downstream. SMB mandatory.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Night dives here are among the best in the Gili Islands — book with an operator who runs night boat trips
+- The comfortable drift pace suits both novice and experienced divers
+- Check wall crevices for bamboo sharks resting during day dives
+- Combine with the Bounty Wreck for a complete Gili Meno diving day
+- Soft coral density peaks between 8–18 m — ideal photography depth range
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Drift current can accelerate occasionally. Ascend to the shallower wall if current becomes too strong. Always carry an SMB. Night dives require each diver to carry a primary light and a backup. Be aware of boat traffic in the channel especially at night.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+Night dive photography reveals fully coloured lobsters and shrimps illuminated by torch and strobe. Day dives suit wide-angle for the soft coral wall and passing turtles. Pygmy seahorses require macro lens and patience to locate in gorgonian polyps.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

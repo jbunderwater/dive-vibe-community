@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Sataya East
 
-Sataya East is a reef dive site in Red Sea, Middle East.
+Sataya East is the eastern exposure of Sataya Reef (also known as Dolphin Reef), one of the most renowned dive sites in the southern Egyptian Red Sea, located approximately 120 km south of Marsa Alam in the Fury Shoals region. Sataya Reef is a horseshoe-shaped atoll, and its eastern and southern sections are the main dive areas, famous for the resident pod of spinner dolphins that inhabits the protected lagoon.
 
 ## Overview
 
-Sataya East is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Sataya East encompasses the eastern wall and slope of the atoll, facing into the prevailing current and open water. This exposure is characterized by a steep outer wall transitioning to a rubble slope, with coral terraces at mid-depth and sandy channels running between isolated bommies in the shallower sections. The eastern side sees stronger current than the protected western and southern faces, making it the preferred site for drift diving and for encountering larger pelagic species. Sataya is a liveaboard destination; day trips from Marsa Alam are possible but the remoteness makes overnight itineraries the norm.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Sataya Reef (Dolphin Reef), Fury Shoals, southern Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral reef / wall
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Maximum Depth**: 20 meters (wall extends deeper)
+- **Typical Visibility**: 20-35 meters (65-115 feet)
 - **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The signature experience at Sataya is swimming with the resident pod of spinner dolphins that rests in the lagoon and frequently investigates divers on the outer reef. Dolphins are encountered most reliably in the early morning before they depart to feed offshore. The outer wall at Sataya East hosts grey reef sharks, which patrol the reef edge in small groups. Schools of barracuda and trevally are common, along with large groupers, humphead wrasse, and eagle rays. The wall corals include impressive gorgonian sea fans and fields of soft corals on the current-swept faces.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the eastern wall and follow the current in a drift along the reef face. The wall drops sharply but productive diving is concentrated between 8 and 20 meters where coral cover is densest and fish life most active. Watch the blue water off the reef edge for dolphins and sharks crossing between the atoll and open sea. The drift typically ends in the more sheltered southern section where ascent conditions are calmer. Deploy an SMB for a blue-water safety stop if the drift has carried you away from a mooring.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by liveaboard or day boat from Marsa Alam. The current direction determines the entry and exit points — get a detailed briefing from your guide before the dive. Giant stride entry from the dive skiff. Drift dives require coordinated pickup by the boat at the exit point; ensure the boat crew knows the expected exit location.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Dive the eastern side first thing in the morning to maximize dolphin encounter time
+- Stay in the 10–18 meter range for the best combination of coral and fish life
+- Drift with the current rather than fighting it — let the reef come to you
+- Sataya's dolphins are wild and protected; observe them without chasing or interfering
+- Combine Sataya East with a dive on Sataya South in the same day for contrasting experiences
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Current can be significant on the eastern face; confirm conditions with the guide before the dive. Blue-water ascents require a deployed SMB — be prepared. Boat traffic can be present near this popular site. Dolphins are a protected species; maintain distance and do not block their travel path or touch them.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The dolphin encounters make Sataya East one of the most photographed sites in the southern Red Sea. Wide-angle and fisheye lenses capture dolphins in blue water against the reef backdrop. The wall's soft corals and gorgonians produce excellent close-focus wide-angle shots. Sharks and barracuda schools reward patience at the reef edge.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,54 +13,21 @@ addedBy: osm_import
 
 ## Seafan
 
-Seafan is a reef dive site in Maldives, Asia.
+Seafan takes its name from the spectacular gorgonian sea fan colonies that dominate the deeper sections of this Addu Atoll reef. Located in the southernmost atoll of the Maldives, the site combines a healthy coral garden with the large fan formations that thrive in the nutrient-rich currents flowing through the atoll's channels.
 
-## Overview
+### Site Conditions
 
-Seafan is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+- **Depth range**: 10–25 m
+- **Typical visibility**: 20–30 m
+- **Currents**: Moderate; generally manageable with good buoyancy
+- **Best season**: November–April for northeast monsoon clarity
 
-## Site Information
+### What to Expect
 
-- **Location**: Maldives, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+The defining feature of this site is the concentration of large orange and red sea fans at 18–25 metres, some spanning over a metre in diameter and perfectly positioned for photography against the deep blue backdrop of the outer reef slope. Pygmy seahorses have been reported on several of the larger fan structures, rewarding patient observers with a macro highlight. Above the fan zone, the reef slope supports dense hard coral formations, schools of fusiliers and anthias, and regular reef shark patrols. Addu Atoll's southerly position and comparatively few dive operations mean fish life is less habituated and encounters feel more natural than at heavily dived northern sites.
 
-## Marine Life
+### Tips for Divers
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Slow, careful buoyancy control is essential to avoid damaging the fragile sea fan structures. A macro lens setup will capture the fine detail of pygmy seahorses and the invertebrates living on the fans. The moderate current at this site is typically manageable but can increase during mid-tide, so scheduling the dive for the last hour of the incoming or outgoing tide gives the best conditions.
 
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

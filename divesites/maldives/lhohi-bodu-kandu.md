@@ -13,54 +13,36 @@ addedBy: osm_import
 
 ## Lhohi Bodu Kandu
 
-Lhohi Bodu Kandu is a drift dive site in Maldives, Asia.
+Lhohi Bodu Kandu — "Big Channel of Lhohi" — is a powerful channel passage in South Malé Atoll that funnels ocean currents past overhanging coral walls and delivers the shark aggregations and pelagic encounters that define classic Maldivian kandu diving.
 
 ## Overview
 
-Lhohi Bodu Kandu is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Bodu Kandu is the main, wide channel cut into the Lhohi reef system, where strong tidal currents accelerate through the gap between ocean and lagoon. On incoming tides, divers ride the surge along the channel walls, sheltering in cuts and overhangs to watch grey reef sharks and white-tip sharks cruise effortlessly against the flow. The walls descend steeply to 28 metres and beyond, decorated with sea fans and black coral bushes in the deeper sections. Eagle rays are a regular sighting, and schooling fish — fusiliers, snappers, and jacks — amass at the channel mouth where current concentrations bring maximum nutrition. The site demands confident buoyancy control and experience managing strong, unpredictable currents.
 
 ## Site Information
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Drift
+- **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 28 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Current**: Strong, tidal — timing critical
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Grey reef sharks, white-tip reef sharks, eagle rays, schools of jacks, fusiliers, snappers, napoleon wrasse, sea fans, black coral, moray eels, and pelagic visitors during the season.
 
-## Dive Profile
+## Diving Tips
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 28 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- Dive on an incoming tide for the most exciting shark action at the channel mouth.
+- Use the channel wall to shelter and maintain position when the current is strongest.
+- This is an advanced dive — confirm current conditions with your guide and have solid neutral buoyancy before attempting.
+- Keep your group together; the wide channel mouth can scatter divers quickly.
 
-## Entry and Exit
+## Getting There
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Lhohi Bodu Kandu is accessed by dive boat from resorts and live-aboards operating in South Malé Atoll, typically 30–60 minutes by dhoni from Malé.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

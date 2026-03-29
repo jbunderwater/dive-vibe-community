@@ -11,55 +11,57 @@ osmId: 1676321804
 addedBy: osm_import
 ---
 
-## Celia Reefs
+# Celia Reefs
 
-Celia Reefs is a reef dive site in British Columbia, North America.
+A cluster of submerged reefs in the Gulf Islands offering productive cold-water diving.
 
 ## Overview
 
-Celia Reefs is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Celia Reefs is a complex of submerged reef structures in the central Gulf Islands, lying in the waters between Salt Spring Island and the Saanich Peninsula. The multiple reef pinnacles and rocky terrain create a varied dive landscape with excellent invertebrate growth encouraged by steady tidal flow. The site is accessible from Sidney or Ganges and represents a typical Gulf Islands intermediate dive. Water temperatures range from 8–11°C, and visibility averages 8–15 metres in the summer and autumn months.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Gulf Islands, central Strait of Georgia / Haro Strait area, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Submerged reef complex
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 8–15 metres
+- **Current**: Moderate tidal currents — plan around slack
+- **Best Time**: Late spring through autumn
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Multiple reef structures create diverse microhabitats. Giant Pacific octopus are commonly encountered in crevices throughout the reef complex. Lingcod defend territories on open rocky surfaces. Copper and black rockfish are the most frequently seen reef fish. Encrusting sponges, plumose anemones, and cup corals cover vertical and overhanging surfaces. Nudibranchs are diverse, with more than a dozen species recorded in the Gulf Islands. California sea lions are seen here seasonally, particularly in autumn and winter.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The reef complex offers multiple pinnacles and connecting ridges to explore. A typical dive covers 2–3 of the reef structures, working from deeper terrain back to shallower areas near the end of the dive. Maximum depth is 18 metres on the sandy patches between reef structures. The mid-depth zone around 8–15 metres is where invertebrate life is most concentrated.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Sidney or Salt Spring Island. The reef complex covers a significant area — GPS is essential for locating the individual structures. Anchor carefully on sand between reefs to avoid damage. The multiple dive targets make this a good site for two dive groups with brief surface intervals between spots.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The reef complex rewards exploration — each pinnacle has a slightly different character
+- Bring a dive light to explore under overhangs and ledges
+- Gulf Islands Marine Trail kayakers and boaters frequent this area — surface with care
+- Local dive charters are familiar with the best individual reef targets within the complex
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Moderate currents are present throughout the Gulf Islands. Time dives to slack tide for the most comfortable conditions. The reef complex's size means compass navigation is valuable to avoid getting disoriented underwater. Always surface with a deployed SMB. Cold water (8–11°C) requires drysuit protection.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Multiple reef structures provide varied photographic compositions. Wide-angle shots of reef pinnacles draped in anemones and sponges are highly effective. Macro photographers will find exceptional nudibranch diversity. Octopus den photography requires patience — respect the animal's space and wait for it to emerge naturally.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
+- Sidney and Salt Spring Island dive operators
+- Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

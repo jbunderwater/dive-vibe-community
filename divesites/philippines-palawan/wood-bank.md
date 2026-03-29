@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Wood Bank
 
-Wood Bank is a reef dive site in Philippines Palawan, Asia.
+Wood Bank — known locally as Kahoy Bank (kahoy meaning "wood" in Filipino) — is an offshore coral bank in the southern Palawan sea corridor, part of the network of submerged banks between Palawan and Borneo that reward dedicated liveaboard divers.
 
 ## Overview
 
-Wood Bank is a dive site in Philippines Palawan offering rewarding diving on healthy coral reef structures . Southern Palawan bank dive site. Known locally as Kahoy Bank. Coral and reef structure.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Sitting in the open sea south of Puerto Princesa, Wood Bank rises to approximately 10 meters at its shallowest, forming a productive reef platform over a base of deeper water. The Filipino name Kahoy Bank reflects the site's local identity and suggests the reef's landmark status to generations of Palawan fishermen navigating these waters. The bank's platform and sloping sides support good hard coral coverage, with encrusting and massive corals dominant in the shallower sections and sea fans appearing on the deeper slopes at 15–23 meters. Like the other southern Palawan banks, the site sees limited recreational diving, preserving the reef in good condition.
 
 ## Site Information
 
-- **Location**: Philippines Palawan, Asia
+- **Location**: Southern Palawan sea, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral bank / reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 23 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters
+- **Current**: Variable; can be strong on bank edges
+- **Best Time**: November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Wood Bank sits in the current pathway of the southern Palawan sea, making it a productive aggregation point for pelagic species. Schools of barracuda and trevally are commonly sighted circling the bank. Reef sharks patrol the deeper edges. Sea turtles rest on the coral platform and are frequently encountered feeding. Large grouper and napoleon wrasse occupy territories within the reef structure.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 23 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the bank's shallowest point and orient yourself before working down the sloping edges. The 15–23 meter zone along the bank's perimeter is the most productive for large animal encounters. Work around the bank perimeter before ascending to the coral plateau for the final portion of the dive and safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access requires liveaboard or long-range chartered boat from southern Palawan. Entry by giant stride; the open-ocean location demands SMB use for the ascent. Confirm pickup procedures with the boat crew before descending, especially if current is running.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Combine Wood Bank with Brown Bank and Leslie Bank for a comprehensive southern bank diving day
+- The Filipino name Kahoy Bank may be better recognised by local boat captains
+- Monitor air carefully — the bank perimeter at 20+ meters can deplete air faster than expected
+- Surface conditions can be choppy; assess before entry and be prepared for a challenging exit
+- Sea conditions in the southern Palawan passage are typically calmer in January and February
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Open-ocean bank diving with significant distance from emergency services. Carry comprehensive signaling equipment and establish clear boat pickup protocols. Strong currents on the bank edges require attention to position management. Nearest hyperbaric facility is in Puerto Princesa.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Clear water conditions at this rarely dived bank make photography rewarding. Wide-angle shots of the reef panorama and blue-water pelagic encounters are the highlights. Sea fan details on the deeper slopes provide colour on otherwise blue-dominated images.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

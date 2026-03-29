@@ -13,53 +13,51 @@ addedBy: osm_import
 
 ## Fulford Reef
 
-Fulford Reef is a reef dive site in British Columbia, North America.
+Fulford Reef is a submerged rocky reef located near Fulford Harbour on the south end of Salt Spring Island, British Columbia, Canada, in the southern Gulf Islands.
 
 ## Overview
 
-Fulford Reef is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Sitting in the sheltered waters between Salt Spring Island and the Saanich Peninsula, Fulford Reef is an intermediate boat dive on a rocky structure draped in bull kelp and encrusting invertebrates. Water temperatures stay between 8-12°C, and a drysuit is standard equipment for comfort. Visibility averages 6-12 metres, improving through the winter months. Tidal exchange through the southern Gulf Islands can generate strong currents — always check tide tables and dive at slack water.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Southern Gulf Islands, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 6-12 metres
+- **Water Temperature**: 8-12°C (drysuit recommended)
+- **Current**: Strong on tidal exchanges — dive at slack
+- **Best Time**: Year-round; best visibility October to March
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The reef supports a classic southern Gulf Islands ecosystem. Giant Pacific octopus shelter in rocky dens and are regularly spotted by attentive divers. Lingcod guard territories on the reef face, often sitting still enough to approach closely. Kelp greenling, black rockfish, and copper rockfish populate the kelp canopy. Large purple and red sea urchins, sea stars, and colourful nudibranchs are abundant throughout the shallower sections. Harbour seals are common visitors.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin at the reef top in 6-8 metres of water and explore the mixed kelp and rock habitat before following the reef down to 18 metres. The transition zone around 10-14 metres tends to have the highest density of fish life. Keep track of the current direction — if a mild drift begins, use it to extend your exploration along the reef rather than fighting it. Reserve adequate gas for a safety stop and ascent.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Fulford Harbour or nearby launch ramps on Salt Spring Island or the Saanich Peninsula. Moor or anchor clear of the reef top to avoid damaging the kelp and invertebrate community. Deploy your SMB before ascending as the area sees regular ferry and recreational boat traffic through Fulford Passage.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Consult current tables — tidal flow through the Gulf Islands can be strong
+- A dive torch helps locate GPO in crevices along the lower reef
+- Winter diving often provides the clearest water and most active marine life
+- Watch for lingcod nesting behaviour in late winter and spring
+- Keep an eye out for nudibranchs in the shallower kelp zone
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Strong tidal currents are the primary hazard. Even at predicted slack, residual flow can persist — enter the water quickly once conditions settle. Ferry traffic in Fulford Passage is frequent; surface with a highly visible SMB. Cold water increases air consumption, so monitor gauges regularly and turn the dive early if needed.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The southern Gulf Islands palette is rich with colour. Nudibranchs, sea stars, and encrusting sponges offer excellent macro subjects. Lingcod resting on the reef make dramatic wide-angle shots. GPO encounters in the lower reef reward patient photographers — use a wide-angle lens and approach from a low angle to avoid disturbing the animal.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

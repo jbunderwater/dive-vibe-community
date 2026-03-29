@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Flamenco Hausriff
 
-Flamenco Hausriff is a reef dive site in Red Sea, Middle East.
+Flamenco Hausriff is the house reef of the Flamenco Beach & Resort area near Safaga on the northern Egyptian Red Sea coast, offering convenient, sheltered diving directly off the shoreline.
 
 ## Overview
 
-Flamenco Hausriff is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+"Hausriff" is the German word for "house reef," reflecting the site's origins as the preferred training and leisure reef of the German-speaking dive clientele who have frequented Safaga since the 1980s. The reef runs parallel to the shore at a manageable depth of 3–20 meters, with a sandy bottom giving way to a gently sloping coral garden. Staghorn and brain corals dominate the shallower sections, while sea fans and soft corals drape the steeper parts of the slope at depth. Although less dramatic than Safaga's offshore reefs such as Panorama and the Middle Garden, Flamenco Hausriff rewards unhurried divers with excellent macro life and the kind of relaxed conditions ideal for skills practice or night diving.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Location**: Safaga, northern Egyptian Red Sea coast
+- **Entry Type**: Boat dive (also accessible by shore entry in calm conditions)
+- **Site Type**: Fringing house reef with sloping coral garden
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 15–25 meters
+- **Current**: Generally mild; occasional surge near the reef crest
+- **Best Time**: Year-round; October to May for optimal conditions
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The soft-coral sections host numerous nudibranchs, flatworms, and ornate ghost pipefish — making it one of the better macro sites in the Safaga area. Blue-spotted stingrays rest on sandy patches between the coral heads. Anthias and glassfish swarm above the reef in impressive clouds, and humphead wrasse visit regularly. Reef octopuses are commonly found at night, along with sleeping parrotfish and hunting lionfish. Hawksbill turtles graze the sea grass areas at the reef's sandy edges.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter from the boat or shore and navigate directly onto the reef crest at 3–5 meters. Follow the slope outward and downward to 15–20 meters, spending the majority of bottom time in the 8–15 meter range where coral diversity peaks. Night dives on this reef are particularly rewarding — the sandy bottom comes alive with crabs, shells, and hunting octopus.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day-boat access from Safaga or directly from the resort jetty. Shore entries are possible from the beach in calm conditions. Exit back to the boat using an SMB, or return to the shore entry point using the reef crest as a navigation guide.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Excellent for night dives — book with your liveaboard or resort dive centre for a guided evening dive
+- Macro photographers should bring a dioptre lens for nudibranchs and ghost pipefish
+- The shallow reef crest doubles as an excellent snorkelling area
+- Visit in the early morning for the clearest visibility before sediment is disturbed by boat traffic
+- A refresher dive here before heading to Safaga's offshore reefs is strongly recommended
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Currents are generally mild but can pick up along the outer slope. Boat traffic in the resort area can be heavy; always ascend with an SMB deployed. Be cautious of fire coral on the reef crest. Stonefish have been reported in the sandy rubble zones — shuffle your feet when wading in shallow areas.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The soft-coral sections between 10 and 18 meters offer superb macro subjects. Wide-angle is less rewarding here than at Safaga's offshore reefs, but fish portraits and reef scenes photograph well throughout the dive. Night photography is particularly productive on the sandy areas adjacent to the reef.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

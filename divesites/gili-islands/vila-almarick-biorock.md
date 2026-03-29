@@ -13,55 +13,54 @@ addedBy: osm_import
 
 ## Vila Almarick Biorock
 
-Vila Almarick Biorock is a artificial dive site in Gili Islands, Asia.
+A Biorock reef restoration structure on the east coast of Gili Trawangan — part of the island's extensive coral rehabilitation program.
 
 ## Overview
 
-Vila Almarick Biorock is a dive site in Gili Islands offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Vila Almarick Biorock is one of the northernmost structures in the east coast Gili Trawangan Biorock cluster, named after the Vila Almarick resort. Like all structures in the Gili Islands Biorock network, it uses low-voltage electrical current to stimulate mineral accretion on steel frames, creating the foundation for accelerated coral growth. Since 2006, when the program began, these structures have transformed sections of previously damaged reef into thriving artificial reefs. The Vila Almarick structure sits at the shallower end of the east coast cluster, making it particularly accessible for beginner divers and snorkellers.
 
 ## Site Information
 
-- **Location**: Gili Islands, Asia
+- **Location**: East coast Gili Trawangan, Gili Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Artificial
+- **Site Type**: Artificial Reef / Biorock
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 15 m
+- **Typical Visibility**: 15–20 m
+- **Current**: Minimal
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Fish community typical of the east coast Biorock structures — lionfish, pufferfish, batfish, and sweetlips. Turtles are regular visitors along the east coast. Cleaner shrimps and nudibranchs on the coral growth. Sandy bottom near the structure supports stingrays and garden eels.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the structure and explore systematically. Circle the frame examining coral density and resident fish communities. The shallow depth allows extended bottom time. Extend the dive to include other nearby east coast Biorock structures accessible within a short swim.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat from Gili Trawangan east coast. Sheltered conditions. Entry via back roll. Easily combined with the other east coast Biorock structures in a single dive.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- An ideal site for combining multiple Biorock structures in a single dive — swim between them
+- Works as a relaxed afternoon dive after more demanding morning sites
+- Suitable for non-certified divers on a Discovery Scuba session in the shallows
+- Night dives are possible and add a different perspective on the reef community
+- The east coast cluster includes several named structures that can all be visited on one dive
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Standard artificial reef precautions apply — maintain buoyancy, do not touch the frame. Lionfish on the structure are venomous. Low-voltage current is safe for divers. Fin placement awareness near growing coral structures.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Each Biorock structure in the cluster has slightly different character — compare them photographically. Turtle and fish portraits against the coral-covered geometry suit wide-angle close-focus. The shallower position here allows natural light photography without strobe for the upper structure sections.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

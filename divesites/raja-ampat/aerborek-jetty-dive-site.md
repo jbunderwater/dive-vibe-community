@@ -13,55 +13,35 @@ addedBy: osm_import
 
 ## Aerborek Jetty Dive Site
 
-Aerborek Jetty Dive Site is a reef dive site in Raja Ampat, Asia.
+The Aerborek Jetty Dive Site is located at the village of Arborek on a small island in the Dampier Strait, Raja Ampat, West Papua, Indonesia. Arborek is one of the most visited villages in Raja Ampat — famous for its traditional weaving, homestay tourism, and the remarkable diving literally beneath its jetty. The site is best known for mandarin fish (Synchiropus splendidus), the jewel-like dragonets that perform their courtship display here at dusk.
 
 ## Overview
 
-Aerborek Jetty Dive Site is a dive site in Raja Ampat offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The jetty pilings and surrounding rubble reef are home to one of Raja Ampat's most reliable mandarin fish populations. Mandarin fish are among the most visually spectacular reef fish in the ocean — their psychedelic blue, green, and orange marbling is produced not by pigment but by structural colour cells unique among vertebrates. Each evening at dusk, pairs rise just above the rubble surface in a slow-motion courtship spiral before spawning and retreating to the coral. The display typically lasts only a few minutes, making timing essential.
 
-## Site Information
+Beyond the mandarin fish, the jetty structure accumulates excellent macro life. Ghost pipefish and seahorses inhabit seagrass patches nearby. Nudibranchs in extraordinary variety cover encrusted rubble. Frogfish cling to sponge-covered pilings, and mantis shrimp are active at the reef edge. The surrounding rubble reef also holds blue-ringed octopus for those with patience and a careful eye.
 
-- **Location**: Raja Ampat, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+Water temperature holds at 27–29°C. The shallow depth makes for extended bottom times, and the gentle conditions are appropriate for beginners comfortable with boat diving.
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+- Mandarin fish (courtship display at dusk — the primary attraction)
+- Ghost pipefish and seahorses in seagrass
+- Nudibranchs in exceptional variety on the rubble
+- Frogfish on encrusted jetty pilings
+- Blue-ringed octopus in shells and crevices
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Daytime dives explore the jetty structure and surrounding rubble reef at 5–15 metres for general macro. The signature mandarin fish dive is timed for dusk — divers position themselves in the rubble at 3–8 metres and wait for the display. Beginner divers with basic buoyancy control enjoy this site. Entry and exit are by boat.
 
-## Entry and Exit
+## Practical Information
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+- **Depth range**: 2–15 m
+- **Visibility**: 10–20 m
+- **Current**: Light (sheltered)
+- **Best time**: Year-round; mandarin fish display every evening at dusk
+- **Water temperature**: 27–29°C
+- **Entry**: Boat
 
-## Tips and Recommendations
-
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

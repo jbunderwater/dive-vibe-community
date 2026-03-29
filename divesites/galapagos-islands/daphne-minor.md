@@ -11,57 +11,56 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Daphne Minor
+# Daphne Minor
 
-Daphne Minor is a wall dive site in Galápagos Islands, South America.
+A volcanic island wall dive renowned for one of the Galapagos' most extraordinary sights -- marine iguanas diving to graze on algae, a behavior found nowhere else on Earth.
 
 ## Overview
 
-Daphne Minor is a dive site in Galápagos Islands featuring a dramatic vertical wall that drops into the deep blue. Located in the South America region, this site offers 10-25 meters of visibility with water temperatures averaging 15-26°C.
+Daphne Minor is a small volcanic island between Santa Cruz and Santiago, its steep flanks dropping underwater into a wall that encircles the island. While the diving here features the typical Galapagos cast of sea lions, reef sharks, and eagle rays, the site's distinction is as one of the best locations to observe marine iguanas feeding underwater. These unique reptiles dive from the rocky shore and cling to the submerged volcanic rock, grazing on algae at depths of 5-12 meters before surfacing to rewarm -- a behavior that exists only in the Galapagos and that few divers ever witness firsthand.
 
 ## Site Information
 
-- **Location**: Galápagos Islands, South America
+- **Location**: Between Santa Cruz and Santiago Islands, Galapagos Islands
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-25 meters (30-80 feet)
-- **Current**: Moderate to strong
-- **Best Time**: June to November
+- **Typical Visibility**: 10-18 meters (30-60 feet)
+- **Current**: Moderate
+- **Best Time**: Year-round; marine iguanas feed throughout the year but are most active in the morning
 
 ## Marine Life
 
-Divers at this site can expect to encounter hammerhead sharks, whale sharks, sea lions, marine iguanas, manta rays, eagle rays, sea turtles, dolphins. Additional species commonly sighted include penguins, moray eels. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Marine iguanas are the signature species, entering the water from the rocky shoreline and diving to graze on green and red algae growing on the submerged volcanic rock. They flatten their bodies against the rock, clinging with sharp claws while tearing off algae with specialized blunt snouts. Individual feeding dives typically last 5-10 minutes before the iguana returns to the surface to bask and rewarm. Galapagos sea lions patrol and play around the island. Whitetip reef sharks rest on ledges and in crevices along the wall. Spotted eagle rays pass along the wall edge. Green sea turtles share the algae-rich shallows with the iguanas. Schools of reef fish populate the wall. Moray eels and octopus occupy the rocky substrate.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-20 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+The dive follows the wall around the volcanic island, descending from the shallow reef zone to a maximum of 20 meters. The wall features ledges, crevices, and volcanic rock formations encrusted with algae and marine growth. Marine iguanas are typically encountered in the 3-12 meter range on the sheltered side of the island where algae growth is thickest. The dive works along the wall with the current, gradually circling the island. Allow extended time in the shallows to observe iguana feeding behavior -- rushing past at depth means missing the site's highlight. Safety stop is easily performed along the wall in the shallows.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Panga from liveaboard or day boat to entry point on the lee side of the island. Giant stride entry near the wall. The dive follows the wall with the current, drifting around the island. Exit via SMB deployment for panga pickup on the downstream side. Moderate currents mean the panga should follow divers' bubbles during the dive. Surface conditions vary depending on wind and swell exposure.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Ask your guide where marine iguanas have been entering the water recently -- they tend to use consistent access points along the shoreline
+- When you spot a feeding iguana, settle quietly on the wall below and to the side; they tolerate close approach if you are still and calm
+- Do not block an iguana's path back to the surface -- they need to return to shore to rewarm and blocking them causes dangerous heat loss
+- Morning dives offer the best iguana activity, as they feed early before water temperatures drop their body temperature too much
+- Look along the wall crevices for resting whitetip sharks, which are easy to overlook while focused on iguana watching
 
 ## Safety Considerations
 
-Be aware of strong currents, cold thermoclines, surge in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Moderate currents around the island can strengthen at points where the island's profile changes, creating acceleration zones. The volcanic rock is sharp and can damage equipment or cause cuts -- maintain buoyancy control near the wall. Marine iguanas are protected wildlife; do not touch, chase, or obstruct them. The cold water (18-22°C) accelerates air consumption and requires proper thermal protection (5-7mm wetsuit). Standard Galapagos remoteness considerations apply -- distance from recompression and medical facilities means conservative dive planning is essential. Carry an SMB, whistle, and mirror.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+Marine iguanas feeding underwater are one of the most unique photographic subjects in diving. Use a wide-angle lens and approach slowly from the side, getting low and level with the iguana for eye-contact compositions. They are relatively tolerant of close approach if you move deliberately. Strobes help bring out the red and green coloration of both the iguanas and the algae against the dark volcanic rock. Sea lions circling the island provide dynamic wide-angle subjects. The volcanic wall itself, with its textured lava formations and algae growth, creates a distinctive backdrop different from typical tropical reef scenes. Shoot in the shallows for best natural light.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

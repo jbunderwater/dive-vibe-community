@@ -1,23 +1,5 @@
 [
   {
-    "name": "Galapagos fan dive",
-    "lat": -0.9010163,
-    "lon": -89.6106449,
-    "osm_id": 3667973195,
-    "osm_type": "node",
-    "depth": 20,
-    "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Advanced",
-    "tags": {
-      "amenity": "tourism",
-      "name": "Galapagos fan dive",
-      "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "scubaboard.com, padi.com/diving-in/the-galapagos-islands, theportuguesetraveler.com/galapagos/san-cristobal/best-dive-sites-san-cristobal-galapagos"
-    }
-  },
-  {
     "name": "Mosquera",
     "lat": -0.4085075,
     "lon": -90.2772687,
@@ -69,7 +51,7 @@
     }
   },
   {
-    "name": "Kicker Rock (León Dormido)",
+    "name": "Kicker Rock (Le\u00f3n Dormido)",
     "lat": -0.77,
     "lon": -89.52,
     "depth": 25,

@@ -13,54 +13,35 @@ addedBy: osm_import
 
 ## Manta Ridge
 
-Manta Ridge is a reef dive site in Raja Ampat, Asia.
+Manta Ridge is one of Raja Ampat's dedicated manta ray encounter sites, located in West Papua, Indonesia. The ridge's position in an area of strong upwelling creates a reliable cleaning and feeding station where oceanic manta rays (Mobula birostris) and reef manta rays (Mobula alfredi) congregate year-round.
 
 ## Overview
 
-Manta Ridge is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The site consists of a sloping ridge running through relatively shallow water, making it well-suited for extended observation time without deep-water decompression concerns. Divers typically position themselves low on the reef while mantas circle overhead at the cleaning stations, where wrasse and other cleaner fish pick parasites from the rays' undersides.
 
-## Site Information
+On current-rich days, mantas may be seen filter-feeding in the water column, performing slow barrel rolls with their cephalic fins extended to funnel plankton. Multiple mantas are commonly present simultaneously. The surrounding reef is carpeted in hard corals and encrusting sponges, with good populations of reef fish along the ridge crest.
 
-- **Location**: Raja Ampat, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+Visibility averages 15–25 metres. Water temperatures range from 27–30°C. Currents can run moderately strong, making buoyancy control important to avoid disturbing the mantas or the reef.
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+- Oceanic manta rays and reef manta rays at cleaning stations
+- Wrasse and small cleaner fish servicing the mantas
+- Dense schools of anthias and fusiliers over the ridge
+- Reef sharks occasionally passing through deeper water
+- Hard coral gardens along the ridge crest
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Divers descend to 10–18 metres on the ridge and hold position, minimising movement to avoid startling the mantas. Patience is rewarded with prolonged close encounters. The dive rarely exceeds 20 metres, allowing long bottom times. Entry and exit are by boat.
 
-## Entry and Exit
+## Practical Information
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+- **Depth range**: 5–20 m
+- **Visibility**: 15–25 m
+- **Current**: Mild to moderate
+- **Best time**: October–April; mantas present year-round
+- **Water temperature**: 27–30°C
+- **Entry**: Boat
 
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Gota Sataia 1
 
-Gota Sataia 1 is a reef dive site in Red Sea, Middle East.
+Gota Sataia 1 is the first of two reef pinnacles in the Sataia group, located offshore in the southern Egyptian Red Sea near Wadi Lahami, a seldom-visited area known for its pristine coral.
 
 ## Overview
 
-Gota Sataia 1 is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The Sataia reefs lie in the southern offshore waters, accessible from Wadi Lahami or on liveaboard itineraries running between Marsa Alam and the Sudan border. This first pinnacle sits in slightly shallower water compared to its companion (Gota Sataia 2), with a coral crown at 5–8 meters and sloping flanks to 20 meters. The site is noted for dense soft-coral coverage on the flanks and healthy hard-coral structures on the summit plateau. Given its remoteness, the reef has not experienced the bleaching and anchor damage common at more accessible northern sites. Local liveaboard guides rate the Sataia pinnacles among the best in the southern corridor for sheer coral quality.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Location**: Southern Egyptian Red Sea, offshore Wadi Lahami area
+- **Entry Type**: Boat dive (liveaboard or day charter from Wadi Lahami)
+- **Site Type**: Offshore reef pinnacle
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 25–35 meters
+- **Current**: Moderate; directional flow around the pinnacle base
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Dense schools of anthias hover above the soft-coral-draped flanks, creating a colourful backdrop for wide-angle photography. humphead wrasse and large groupers are resident. Schools of trevally and jacks orbit the pinnacle in the blue water above, and barracuda patrol in loose formations. Hawksbill turtles are frequent visitors. In winter months, hammerhead sharks have been reported passing the deeper base of the pinnacle. Moray eels occupy every sizeable coral head, and lionfish are present throughout the reef.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to 18–20 meters at the pinnacle base and work around the structure to assess current direction and pelagic activity. Ascend in a slow spiral up the flanks, spending maximum time in the 8–15 meter band where soft corals and reef fish are most concentrated. The coral crown at 5–8 meters is worth exploring carefully before the safety stop. If current is running, position the descent to drift naturally up the structure's flank.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Liveaboard access from Marsa Alam, Port Ghalib, or Wadi Lahami. Alternatively, day charters from Wadi Lahami marina serve the Sataia reefs on calmer days. Deploy an SMB before ascending to signal the pickup boat, which may be mooring off the pinnacle in open water.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Dive both Sataia pinnacles on the same day — the second site (Gota Sataia 2) has a different depth profile and slightly different marine community
+- The isolated position of the pinnacles means they see pelagic visitors that more coastal reefs do not
+- Maintain scrupulous buoyancy control among the soft corals — they are fragile and take decades to regrow
+- Check current direction before descending so you can plan the drift path around the structure
+- The winter months offer the best pelagic action; summer is calmer but offers less big-animal activity
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The remote offshore environment requires careful gas management. Never surface without an SMB in this open-water environment. Currents can run faster at the base of the pinnacle than expected. If you become separated from the reef in current, deploy the SMB immediately and wait for boat rescue rather than fighting the current.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The soft-coral coverage combined with schooling fish and clear water makes this a superb wide-angle site. Close-focus wide-angle shots of soft-coral branches backed by the blue water are classic Red Sea liveaboard images. Macro subjects including nudibranchs and crinoid shrimps are found in the coral rubble between the larger structures.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

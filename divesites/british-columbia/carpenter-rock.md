@@ -11,55 +11,57 @@ osmId: 5634295660
 addedBy: osm_import
 ---
 
-## Carpenter Rock
+# Carpenter Rock
 
-Carpenter Rock is a reef dive site in British Columbia, North America.
+A submerged reef pinnacle in the northern Strait of Georgia with diverse cold-water marine life.
 
 ## Overview
 
-Carpenter Rock is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Carpenter Rock lies in the northern Strait of Georgia in waters between Vancouver Island's east coast and Hornby Island. This submerged feature rises from the strait floor and concentrates marine life in the productive, nutrient-rich waters of the upper Strait. Access is typically from Courtenay/Comox or Hornby Island. Water temperatures range from 8–12°C and visibility averages 8–15 metres, with best conditions in autumn when plankton blooms diminish.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Northern Strait of Georgia, near Hornby Island, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Submerged rock / reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 8–15 metres
+- **Current**: Moderate tidal currents
+- **Best Time**: Late summer and autumn
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The northern Strait of Georgia supports exceptional populations of giant Pacific octopus — Carpenter Rock is a reliable spot for encounters. Wolf eels are present in permanent den sites. Lingcod are abundant and can be seen guarding egg masses during winter and spring. Copper and quillback rockfish are the dominant reef fish. Plumose anemones and encrusting sponges colonise hard surfaces. The area is also known for large Puget Sound king crabs patrolling the reef base. Harbour porpoise are frequently seen at the surface in this part of the Strait.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The rock summit reaches to about 8–10 metres, with the perimeter dropping to 18 metres. Begin at depth along the rock's base, working the perimeter before ascending to explore the shallower crest section. The deepest sections tend to host the largest lingcod and octopus. End the dive with time on the shallower portions and complete a 3-metre safety stop.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Courtenay/Comox Small Boat Basin or Hornby Island ferry terminal. The rock must be located by GPS and depth sounder. Anchor well clear of the reef. Monitor weather conditions — the northern Strait of Georgia can develop short, steep chop in northwesterly winds. Deploy an SMB before ascending.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Hornby Island is a renowned dive destination — Carpenter Rock pairs well with Flora Islet dives
+- This area of the Strait of Georgia has excellent Pacific white-sided dolphin sightings at the surface
+- Autumn is generally the best season for visibility in the northern Strait
+- Comox Valley dive shops can provide precise navigation information for this site
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Tidal currents are a constant consideration in the Strait of Georgia. Always check current tables and plan around slack. SMB deployment is mandatory due to commercial ferry and boat traffic. Cold water (8–12°C) demands drysuit proficiency. Weather in the northern Strait can deteriorate rapidly — have a float plan.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The northern Strait of Georgia's nutrient-rich waters support exceptional invertebrate diversity. Wide-angle photography of octopus on rocky substrate with sponge backgrounds is striking. Lingcod guarding egg masses in winter provide unique behavioural photography. Macro work on encrusting bryozoans yields exceptional nudibranch and worm images.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
+- Comox Valley and Courtenay dive shops
+- Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

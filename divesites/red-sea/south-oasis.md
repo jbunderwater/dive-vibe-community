@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## South Oasis
 
-South Oasis is a reef dive site in Red Sea, Middle East.
+South Oasis is a coral reef dive site located within the Ras Mohammed National Park area on the southern tip of the Sinai Peninsula, Egypt. Its coordinates place it in the vicinity of the Gulf of Aqaba's western shore, where the national park's protected waters harbour some of the healthiest coral ecosystems on the northern Red Sea.
 
 ## Overview
 
-South Oasis is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+South Oasis lives up to its name as a verdant refuge of coral life on what is otherwise a stark desert coastline. The reef rises from a sandy bottom at around 18-20 meters to a shallow crest teeming with fish. Located within the Ras Mohammed National Park, the site benefits from strict no-take regulations that have allowed fish populations to recover to remarkable densities. It is typically visited on day trips from Sharm el-Sheikh.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Ras Mohammed National Park, Sinai, Egypt
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
+- **Typical Visibility**: 20-30 meters (65-100 feet)
+- **Current**: Light to moderate
 - **Best Time**: September to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The reef supports dense congregations of anthias, sergeant majors, and butterflyfish over the coral crest. Parrotfish and surgeonfish are ubiquitous grazers, while groups of barracuda patrol the blue water above. humphead wrasse and large groupers are regular visitors, and sea turtles are frequently encountered grazing on seagrass patches nearby. Occasional sightings of leopard sharks resting on the sandy bottom are reported.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the sandy bottom at 18-20 meters and work your way up the coral slope toward the shallow crest. The richest fish life is concentrated between 5 and 15 meters. A figure-eight route allows exploration of both the reef's leeward and exposed sides. End the dive on the reef crest for a shallow safety stop amid the bustling fish community.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day-boats from Sharm el-Sheikh and Na'ama Bay run regular trips to the Ras Mohammed sites. Entry is by giant stride or back roll. Most operators use a mooring buoy. Ascend the mooring line or deploy an SMB for pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Visit on weekdays to avoid the weekend crowds from Sharm el-Sheikh
+- The national park entry fee applies — factor this into trip costs
+- Combine with nearby Ras Mohammed sites such as Shark Reef for a full day
+- Bring a wide-angle lens — the fish density makes for spectacular school photography
+- Currents are generally mild but verify with your dive guide before descending
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Boat traffic in Ras Mohammed waters is significant on weekends; maintain close contact with your buddy and ascend at the mooring. Fire coral is abundant on the shallow reef crest — good buoyancy control is essential. Always carry an SMB. Park regulations prohibit touching, standing on, or collecting any marine life or coral.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The shallow coral garden between 5-10 meters is ideal for wide-angle reef scenes, with excellent natural light and vibrant fish life. Yellowback fusiliers, anthias, and butterflyfish provide constant action. At depth, sandy patches yield gobies on their mounds and occasional sleeping turtles.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

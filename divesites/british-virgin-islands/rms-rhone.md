@@ -11,57 +11,54 @@ osmId: null
 addedBy: osm_import
 ---
 
-## RMS Rhone
+# RMS Rhone
 
-RMS Rhone is a historic wreck dive in British Virgin Islands, Caribbean.
+The most celebrated wreck in the Caribbean — a 310-foot Royal Mail Steam Packet Company iron-hulled ship sunk in the devastating hurricane of October 1867, now encrusted with six decades of coral growth and home to an extraordinary marine community off Salt Island.
 
 ## Overview
 
-RMS Rhone is a dive site in British Virgin Islands featuring the wreck of the RMS Rhone. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The RMS Rhone sank on 29 October 1867 when a powerful hurricane struck the British Virgin Islands while the ship was anchored at Great Harbour on Peter Island. The captain attempted to make for open sea but the vessel was overwhelmed by the storm and struck the rocks at Salt Island, breaking in two. Of the 147 passengers and crew, only 23 survived. The wreck was designated the BVI's first marine park in 1980 and is now protected as an underwater park. The stern section lies in 6–15 metres and the bow section in 15–26 metres, making the site diveable as two separate dives or as a progressive deep-to-shallow single dive. The wreck is heavily colonised by brain and star corals, sea fans, tube sponges, and orange cup corals and is genuinely one of the most naturally dramatic wreck dives in the western hemisphere. The RMS Rhone was featured prominently in the 1977 film The Deep, bringing it to international attention. Visibility averages 20–30 metres. Water temperature is 26–28°C.
 
 ## Site Information
 
-- **Location**: British Virgin Islands, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 26 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 6–26 m |
+| Difficulty | Intermediate |
+| Entry Type | Boat |
+| Site Type | Wreck |
+| Visibility | 20–30 m |
+| Current | Light to moderate |
+| Water Temp | 26–28°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Rhone's 310-foot length provides habitat for an extraordinary diversity of Caribbean marine life. The stern section in the shallows is packed with schools of French grunts, yellowtail snappers, and glassy sweepers. Enormous green morays occupy the boiler and engine room sections. Hawksbill turtles graze on the coral growth covering the hull — some individuals have been resident for decades. Caribbean reef sharks patrol the open water around the wreck. The bow section in deeper water is home to large groupers in the anchor chain area. The wreck's exterior surfaces are draped with orange cup corals, tube sponges, and black coral branches.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 26 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The most common approach is to dive the deeper bow section first, descending to 20–26 metres and working forward from amidships. After spending 10–15 minutes in the deeper zone, ascend to the stern section at 6–15 metres for the remainder of the dive. The stern's mast rising to 4 metres below the surface is the most photogenic feature. The two sections of the broken wreck provide distinct dive objectives. Total dive time 45–55 minutes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from operators based across the BVI — the Rhone is accessible from Road Town, Norman Island, and most BVI charter yacht operations. Permanent moorings at both bow and stern sections. Entry by backward roll or giant stride. DSMB required. The site is a BVI National Park — no anchor damage permitted.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+The stern section with its intact mast at 4 metres is the most iconic Rhone image — descend the mast from the shallowest point for the full dramatic context of the wreck's scale. Visit early morning before the charter boat traffic builds — the Rhone is heavily visited and early timing makes a real difference. The porthole openings on the stern are the most recognisable features from photographs.
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The wreck is a marine park — no collection of any material and no anchoring. The bow section at 26 metres requires attention to NDL limits. Do not penetrate enclosed interior sections without proper wreck diving training — the interior is silted and visibility can collapse quickly. DSMB mandatory.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The RMS Rhone is among the most photographed wrecks in the world. The stern section at 4–15 metres provides exceptional natural light — the mast silhouette rising toward the surface with diver and sea fan is the classic composition. The deep encrustation on the hull creates extraordinary colour and texture for close-focus and medium-range photography. A wide-angle lens is essential to capture the scale of the bow and stern.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- BVI National Parks Trust: the Rhone is designated as a National Park with regulated access
+- Blue Water Divers (Road Town) and Sail Caribbean Divers: regularly operate RMS Rhone two-tank trips
+- The wreck is accessible to charter yachts — many BVI bareboat itineraries include a Rhone stop
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

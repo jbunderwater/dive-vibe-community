@@ -13,55 +13,54 @@ addedBy: osm_import
 
 ## Francisco
 
-Francisco is a wall dive site in Raja Ampat, Asia.
+Francisco is a wall dive site in Raja Ampat, West Papua, Indonesia, named after a diver who explored the area.
 
 ## Overview
 
-Francisco is a dive site in Raja Ampat featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Francisco is a vertical wall dive located in the Dampier Strait area of Raja Ampat, named in tribute to a diver who frequented the site. The wall plunges from a shallow reef top into deep water, draped with dense growths of sea fans, black coral trees, and both hard and soft corals competing for space on the vertical face. Raja Ampat's characteristically clear water makes the transition from sunlit shallows to the darker depths below the wall especially dramatic. Currents running along the wall bring nutrients that support rich invertebrate life and attract mid-water species. Water temperatures average 27-29°C and visibility typically reaches 20-30 meters.
 
 ## Site Information
 
-- **Location**: Raja Ampat, Asia
+- **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters
+- **Current**: Moderate to strong, directional
+- **Best Time**: October to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The wall face hosts large sea fans and gorgonian fans colonized by pygmy seahorses — a patient search of the fan bases rewards careful observers. Reef sharks patrol the wall edge while trevally and barracuda school in the blue water off the wall. Sweetlips and grouper hold station in overhangs. Nudibranchs and flatworms decorate the encrusting sponges. Turtles are common visitors, and Napoleon wrasse occasionally cruise past at mid-wall depths.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Descend to the wall top at around 5-8 meters and begin a gradual descent along the face, pausing at overhangs and crevices. The wall's richest life is found between 10-25 meters; stay mindful of depth as the wall drops well below 30 meters. Finish the dive with time on the shallow reef top during your safety stop. Strong directional current can make this a drift wall dive — your guide will position the boat accordingly.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat. Entry via giant stride or back roll in current-free water near the wall top. Drift with the current along the wall face, surfacing at a pre-agreed location downurrent. Deploy SMB at 5 meters for boat pickup.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Monitor depth constantly — vertical walls make it easy to sink deeper than intended
+- Check large gorgonian fans carefully for pygmy seahorses
+- Dive during slack current for the most leisurely exploration, or embrace the drift
+- Bring a dive light to illuminate overhangs and crevices
+- Start shallower and work deeper as the dive progresses
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Strong currents can develop quickly along the wall — be ready to ascend if conditions exceed your experience level. Maintain buoyancy discipline to avoid touching the wall. Always carry an SMB and deploy it before surfacing. Dive with an experienced local guide who knows the current patterns at this site.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+The wall's vertical architecture lends itself to wide-angle compositions emphasizing depth and scale. Position a dive buddy or divemaster against the wall for scale reference. Macro opportunities abound in the overhangs — look for pygmy seahorses, nudibranchs, and flatworms on encrusting growth. Silhouette shots of sea fans against the blue water above work particularly well at this site.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

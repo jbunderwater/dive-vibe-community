@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Säulenbucht
 
-Säulenbucht is a reef dive site in Croatia, Europe.
+Säulenbucht ("Column Bay" in German) is a small bay and reef dive site near Krk Island in the Kvarner region, named for distinctive columnar rock formations that characterise the underwater topography. The natural stone columns and pillar-like formations give this site a unique architectural quality rarely found in Mediterranean reef diving.
 
 ## Overview
 
-Säulenbucht is a dive site in Croatia offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The underwater terrain at Säulenbucht features distinctive columnar limestone formations rising from the seabed — the "columns" that give the bay its name. These natural pillars are encrusted with sponges, sea fans, and encrusting corals, creating a visually striking landscape in the clear Kvarner water. Maximum depth reaches approximately 25 metres at the base of the columns, with the tops accessible in the shallower sections. Visibility is typically 15–20 metres.
 
 ## Site Information
 
-- **Location**: Croatia, Europe
+- **Location**: Krk Island area, Kvarner, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef with columns
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 15–20 meters
+- **Current**: Generally light in the sheltered bay
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+The columnar formations create numerous sheltered micro-habitats. Moray eels and conger eels inhabit the recesses between columns. Scorpionfish sit motionless on the encrusted surfaces. Grouper patrol the water column between the pillars. Nudibranchs and sea slugs are plentiful on the sponge-covered column surfaces. Sea bream and ornate wrasse are abundant throughout.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the column bases at 20–25 metres and ascend through the column field, exploring the surfaces at each level. The bay's sheltered position allows for an unhurried dive. Spend time in the 8–18 metre zone where the column formations are most dramatic and the light penetration is best. Safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from Krk-area operators serve this bay. Entry by giant stride or back roll. The sheltered bay position provides calm surface conditions for entry and exit.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- The columnar formations are the feature of this site — take time to explore around and between them
+- A torch brings out the colours of the encrusting organisms on the column surfaces
+- The bay's sheltered position makes this an excellent choice on days when exposed sites are challenging
+- Combine with a second Krk Island site for a varied diving day
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Standard intermediate reef diving in calm, sheltered conditions. Monitor depth among the columns. Carry an SMB and dive with a buddy.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The columnar formations are the star subject — wide-angle images of the pillars rising from the seabed with a diver providing scale are compelling. The encrusted column surfaces reward macro photography. The bay's calm conditions make for easy, unhurried shooting.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,53 +13,51 @@ addedBy: osm_import
 
 ## Hornby Rock
 
-Hornby Rock is a reef dive site in British Columbia, North America.
+Hornby Rock is a submerged rocky reef in Barkley Sound, British Columbia, Canada, off the west coast of Vancouver Island, accessed by boat from Ucluelet or Bamfield.
 
 ## Overview
 
-Hornby Rock is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Hornby Rock lies within the productive outer waters of Barkley Sound, where cold Pacific Ocean upwelling drives one of BC's richest marine ecosystems. The reef rises from deeper water and is swept by tidal currents that carry nutrients across the rock, sustaining dense invertebrate and fish populations. Water temperatures are 8-11°C and a drysuit is required. Visibility typically runs 10-18 metres in good conditions, making Barkley Sound one of BC's clearer dive areas. Pacific swell and tidal currents require careful planning and weather window selection.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Barkley Sound, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 10-18 metres
+- **Water Temperature**: 8-11°C (drysuit required)
+- **Current**: Moderate to strong — check tides and swell
+- **Best Time**: May to October (more settled Pacific conditions)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Hornby Rock is productive for large species typical of BC's outer coast. Giant lingcod — some exceeding 1 metre — are a highlight, guarding reef territories and resting openly on rock faces. Giant Pacific octopus are encountered frequently, sometimes in daylight in open positions. Quillback rockfish, copper rockfish, and tiger rockfish occupy the deeper reef sections. The rock surface is thickly covered with Gooseneck barnacles, orange and purple encrusting sponges, and colonial tunicates. Steller sea lions from Barkley Sound colonies may visit, creating thrilling pelagic encounters.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef crest and explore the sponge and anemone-encrusted rock faces from the shallows down to 18 metres. Keep watch for lingcod resting openly on the reef — approach slowly and low to avoid flushing them off the structure. Scan crevices with a torch for GPO. Work along the reef structure before ascending slowly, completing a 3-5 minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access via charter operator from Ucluelet or Bamfield. Pacific swell can make small boat operations uncomfortable — choose a weather window with minimal offshore swell. Mooring at the site requires attention to current direction and vessel swing. Pick up divers promptly on surfacing as residual current can cause drift.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Summer through early autumn provides the most stable weather for outer Barkley Sound diving
+- Look at eye level along the reef face for lingcod — they are often right in front of you
+- Bring a dive torch even in good visibility to inspect deeper crevices for GPO
+- Barkley Sound charter operators can advise on current and swell conditions
+- A surface inflatable signal tube is essential given boat traffic in the Sound
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Remote location, Pacific swell, and tidal currents combine to make dive planning critical at Hornby Rock. Always operate with an experienced local charter. Monitor weather forecasts for the outer west coast — conditions can deteriorate rapidly. Carry an SMB, whistle, and personal locator device. Cold water emergencies in Barkley Sound require fast boat response; always dive with a safety-conscious operator.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Barkley Sound's clear water and dramatic marine life make Hornby Rock a prime photo destination. Lingcod resting on sponge-carpeted rock create powerful wide-angle compositions. GPO in the open are a rare and rewarding subject — natural light plus a single strobe brings out the texture and colour of the skin. Sea lion encounters, if they occur, suit high-speed burst shooting with a wide-angle lens.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

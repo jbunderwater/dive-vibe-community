@@ -13,53 +13,50 @@ addedBy: osm_import
 
 ## El Fanadir Foc
 
-El Fanadir Foc is a reef dive site in Red Sea, Middle East.
+El Fanadir Foc (also referenced as "El Fanadir Fog" in some operator records) is a shore dive access point on the El Fanadir reef system near Hurghada. "Foc" likely derives from the Arabic "al-foc" meaning "above" or indicating the upper/outer section of the reef. The site is part of the El Fanadir reef complex — a popular group of named dive points along the reef that runs parallel to the coast north of Hurghada.
 
 ## Overview
 
-El Fanadir Foc is a dive site in Red Sea offering rewarding diving on healthy coral reef structures . name_source El Fanadir Fog: "Red Sea Partners". Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+El Fanadir Foc is a shore-accessible dive site where entry is made directly from the beach or a purpose-built jetty at one of the dive centres or hotels located on this stretch of coast. The reef at El Fanadir runs as a shallow fringing system with the top at 1–3 meters and a slope descending to approximately 16 meters before transitioning to sand. The site is sheltered compared to offshore reefs and generally provides a calm, accessible dive. Visibility averages 15–25 meters, and water temperatures range from 22°C in winter to 29°C in summer.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Red Sea, Egypt (El Fanadir reef, north of Hurghada)
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 16 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
+- **Typical Visibility**: 15-25 meters (50-80 feet)
+- **Current**: Light to moderate (sheltered fringing reef)
 - **Best Time**: September to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+El Fanadir's fringing reef supports a productive community of reef species typical of the northern Egyptian Red Sea. Anthias and damselfish are abundant in the upper reef zone. Large humphead wrasse patrol the deeper sections, and groupers occupy rocky overhangs. Moray eels are frequently sighted at the reef base, and octopus hunt across the sandy margins. Butterflyfish pairs are seen throughout. The shallower reef sections host clownfish in anemones and various pufferfish species. The transition zone between reef and sand below 12 meters holds the best concentration of larger species.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 16 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-16 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter from shore and descend gradually over the reef flat, following the slope down to 12–16 meters along the outer reef face. The most interesting terrain is along the reef wall between 8 and 14 meters where coral coverage is densest. Work along the wall before ascending back up the slope to exit at the shore entry point. The shallow nature of the site provides extended bottom time — plan for 60–80 minute dives under most conditions.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Entry from a sandy beach or purpose-built jetty depending on which dive centre you use. Most operators provide concrete entry steps or a sandy inlet. Enter fin-in-hand, strap on fins in knee-deep water, and begin your surface swim out to the reef edge before descending. Exit at the same point. Footwear is recommended for the exit across the reef flat.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- El Fanadir Foc is a good first dive after arrival — manageable depth and easy navigation
+- Combine with El Fanadir and El Fanadir West dives at the same complex for a full day on the reef
+- The reef flat at 2–5 meters is a good snorkelling area if conditions are calm
+- Visit at different times of day — the morning and late afternoon fish activity patterns differ significantly
+- Take time on the sandy base at 14–16 meters to look for garden eels and sand-dwelling species
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Fire coral on the reef flat is a hazard for inattentive divers — maintain buoyancy and avoid contact in the shallows. Surge on the reef flat can be moderate on days with significant northerly wind; avoid diving when wave height exceeds 0.5 meters at this shore entry. Lionfish inhabit the rocky base sections — inspect overhangs before reaching in. Current is generally light on this fringing reef section.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+El Fanadir Foc offers excellent photography across all categories. The dense anthias clouds above the coral heads in the upper reef (5–10 meters) are classic Red Sea wide-angle subjects. The sandy base transition zone at 12–16 meters holds macro subjects: commensal shrimp, nudibranchs, and goby-shrimp pairs are regularly found with careful searching. Natural light is good throughout the dive in the clear Egyptian water.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

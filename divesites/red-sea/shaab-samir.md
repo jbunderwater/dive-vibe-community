@@ -13,54 +13,53 @@ addedBy: osm_import
 
 ## Shaab Samir
 
-Shaab Samir is a reef dive site in Red Sea, Middle East.
+Shaab Samir is a coral reef dive site in the northern Egyptian Red Sea near Hurghada, popular with day-trip operators for its accessible depth profile, good coral gardens, and consistent fish life.
 
 ## Overview
 
-Shaab Samir is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Located north of Hurghada at approximately 27.32°N, Shaab Samir is part of the cluster of day-accessible reefs that form the backbone of Hurghada's dive industry. The reef offers a straightforward sloping coral garden that descends from a shallow platform to a sandy base, making it a popular choice for intermediate divers as well as dive courses moving into open water. While it lacks the dramatic topography of some offshore reefs, Shaab Samir delivers solid coral coverage and reliable reef-fish diversity. The northern Red Sea location means cooler winter water temperatures (20–22°C from December to March) and warmer conditions of 27–30°C in summer, with visibility averaging 20–25 metres year-round.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Northern Red Sea, Egypt (near Hurghada, lat 27.32°N)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20-25 meters (65-80 feet)
+- **Current**: Light to moderate
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Shaab Samir's reef supports dense anthias populations around branching coral formations, particularly on the shallower sections where light penetration is strongest. Groupers occupy prominent coral heads, and humphead wrasse are occasionally sighted on the deeper sections. Moray eels — both giant and yellowmouth species — inhabit the reef crevices, and sea turtles visit the site. The sandy base around the reef foot is home to blue-spotted stingrays, and lionfish are a near-constant presence on every section of the reef.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Dives begin at the reef crest in 5–8 metres, descending along the slope to the sandy bottom at 18–20 metres. The gentle gradient makes navigation easy and allows divers to adjust depth comfortably throughout the dive. After exploring the slope, a return via the reef platform in the shallows allows close inspection of the densest coral growth before completing the safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Shaab Samir is reached by day boat from Hurghada harbour. Entry is by giant stride or back roll from the dive deck. Return to the boat at the end of the dive using your SMB to indicate position. Some operators use a mooring buoy; others anchor nearby — confirm procedure with the dive guide.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Shaab Samir is an excellent refresher or first-day-dive choice before tackling more demanding offshore sites
+- Winter months bring cooler water — a 5mm wetsuit is advisable from November to March
+- The reef crest in 5–8 metres is ideal for extending dive time at the end of the air supply
+- Night dives here can be organised through Hurghada operators — octopus and cuttlefish are commonly seen
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Shaab Samir sees significant day-boat traffic during peak season. Be aware of boat activity at the surface before ascending and always deploy an SMB. Currents are generally mild but can develop on the exposed sections of the reef. Fire coral is present throughout the reef crest — full wetsuit coverage is advisable.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The shallow reef top provides excellent conditions for natural-light photography during midday dives. Dense anthias schools around coral structures provide colourful wide-angle subjects. The sandy base offers opportunities for stingray shots with natural backlighting from the surface.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

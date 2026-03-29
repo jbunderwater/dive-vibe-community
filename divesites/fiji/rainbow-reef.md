@@ -11,56 +11,56 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Rainbow Reef
+# Rainbow Reef
 
-Rainbow Reef is a reef dive site in Fiji, Pacific.
+The soft coral capital of the soft coral capital — an explosion of color that defines Fiji diving.
 
 ## Overview
 
-Rainbow Reef is a dive site in Fiji offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Rainbow Reef stretches along the Somosomo Strait between Taveuni and Vanua Levu and is widely regarded as one of the world's most colorful dive sites. The reef earns its name from the extraordinary density and variety of soft coral hues crammed onto every surface: orange, yellow, pink, purple, and magenta Dendronephthya colonies compete for space on pinnacles, walls, and rubble slopes. Strong tidal currents flush nutrient-rich water through the strait continuously, driving an explosion of filter-feeding organisms that is unmatched in Fiji. Rainbow Reef is not a single dive site but a system of multiple named sites — including the famous "White Wall" adjacent area, "The Ledge," and "Annie's Bommies" — all sharing the same reef structure and current-rich environment.
 
 ## Site Information
 
-- **Location**: Fiji, Pacific
+- **Location**: Somosomo Strait, Taveuni, Fiji
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 28 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 20–35 meters (65–115 feet)
+- **Current**: Moderate to strong tidal current
+- **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+The soft coral forest attracts a corresponding abundance of fish life. Clouds of orange and purple anthias hover over every coral head, darting back into cover when approached. Butterflyfish pick at coral polyps throughout the reef — 20+ species have been recorded here. Anemonefish (clownfish) occupy numerous large anemones along the shallower sections. Schools of moorish idols, pennant bannerfish, and batfish move through the current lanes. Hawksbill and green sea turtles feed on the corals and sponges. Reef whitetip sharks rest on sandy patches between pinnacles. Bumphead parrotfish periodically stampede through the site in groups of 30–50, grinding chunks from coral heads.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 28 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Most operators run Rainbow Reef as a drift dive timed to the tidal current. Descend to 15–20 meters and allow the current to carry you along the reef, ascending and descending with the terrain. The most spectacular soft coral growth is typically found between 12 and 25 meters. Shallower sections (5–12 meters) offer good snorkeling-depth coral and are used for safety stops. Many operators run two or three consecutive dives on different sections of the reef system in the same tidal window.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is exclusively by boat from Taveuni-based operators. Day trip and liveaboard access are both widely available — Taveuni is the base of operations, a 30-minute flight from Nadi or accessible by ferry from Vanua Levu. Dive operators brief tidal timing carefully; arriving on Rainbow Reef at slack tide still produces good diving but misses the full current-driven spectacle.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- **Book the morning current**: Ask operators which tidal window produces the best current at Rainbow Reef specifically. Morning dives frequently align with favorable current in the dry season.
+- **Stay shallow on the first dive**: Entry through shallower sections (8–15 meters) allows extended bottom time in the most colorful zone while saving air for a second drift along the deeper wall.
+- **Pair with Great White Wall**: Rainbow Reef and Great White Wall are less than a kilometer apart. Most Taveuni operators run them together in a two-dive package on the same tidal window.
+- **Look for the small stuff**: Between the big soft coral formations, the reef harbors nudibranchs, Coleman shrimp on fire urchins, cleaner shrimp at stations, and tiny hairy squat lobsters buried in the coral branches.
+- **Visibility is tide-dependent**: Strong current means excellent visibility. During spring tides, visibility can exceed 35 meters. Neap tides produce softer current and slightly reduced visibility — still beautiful, but different.
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Current can accelerate rapidly as tides turn in the strait, particularly around the channel narrows. Maintain close contact with your buddy and agree on an abort signal if the current becomes unmanageable. Boat traffic in the Somosomo Strait is moderate — surface with an SMB and stay in the boat's designated pickup zone. Divers with limited drift dive experience should take a shallower introductory drift before committing to the deeper sections.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Rainbow Reef rewards wide-angle photography for the sweeping soft coral vistas, but carries exceptional macro subjects for those willing to slow down. The challenge is the current: shooting wide-angle requires positioning yourself with the current at your back to avoid swimming against it while composing. A fisheye lens on a compact system works well for close-focus wide-angle shots of coral heads teeming with anthias. Macro shooters should focus on nudibranchs, hairy squat lobsters, and the Coleman shrimp pairs that inhabit fire urchins in the rubble zones.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

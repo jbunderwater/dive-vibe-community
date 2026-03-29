@@ -11,57 +11,56 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Le Grec Wreck
+# Le Grec Wreck
 
-Le Grec Wreck is a historic wreck dive in Port-Cros, Europe.
+A legendary WWII-era mine victim in the Hyères channel, lying in three sections at 35–47 metres with a gorgonian-colonised hull and abundant fish life.
 
 ## Overview
 
-Le Grec Wreck is a dive site in Port-Cros featuring the wreck of the Le Grec Wreck. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Le Grec — officially named *Sagona* — is one of the most historically evocative wrecks in the Hyères Bay area. Built in 1912 in Dundee, Scotland, the 54-metre cargo ship changed hands multiple times before sinking on 3 December 1945 when it struck a floating mine south of Porquerolles while carrying a cargo of wine. The explosion tore off the bow, and the wreck now lies in three sections approximately 60 metres apart, at depths between 36 and 47 metres. The name "Le Grec" (The Greek) came from a later survey by naval divers who found Greek-language documents aboard — the ship's papers and crew were Greek at the time of sinking. It lies just hundreds of metres from the nearly identical Donator wreck, the two wrecks sharing the same fate six weeks apart.
 
 ## Site Information
 
-- **Location**: Port-Cros, Europe
+- **Location**: South of Porquerolles, Hyères Bay, near Port-Cros, France
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 47 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Site Type**: Wreck (three sections)
+- **Difficulty Level**: Advanced (depth and current)
+- **Maximum Depth**: 47 metres
+- **Typical Visibility**: 10–25 metres
+- **Water Temperature**: 13–25°C
+- **Current**: Moderate to strong; plan for slack or favourable conditions
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The gangways and deck areas of both the main hull (middle and stern, in excellent condition) and the separated bow section are invaded by red and two-tone gorgonian fans. Dense fish activity characterises all three sections: large groupers, barracudas, moray eels, and hundreds of dentex create a constant underwater spectacle. Schools of swallowtail sea perch cloud the mast and superstructure, and the holds, which still contain the remnants of wine barrel staves, attract conger eels and lobsters into the interior.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 47 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The main hull (middle and stern) lies at 36–47 metres and is the primary dive section. Explore the most intact features: the winch, the propeller, the holds, and the mast lying on the port side. The separate bow section, located approximately 60 metres north-northeast of the main hull, can be a second dive objective or included in a single long dive with nitrox. The multi-section nature of the wreck means the exploration area is substantial — pre-plan which sections to cover given available bottom time.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from operators in La Londe, Le Lavandou, or Hyères. A permanent buoy line or descent line is required. Descend directly to the wreck on the line. Ascent via line; deploy SMB from the safety stop at 5 metres. Current conditions should be verified before descent.
 
-## Tips and Recommendations
+## Tips
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Nitrox is almost essential here — bottom time at 36–47 metres on air is severely limiting
+- The story behind the name makes this dive more rewarding: the narrative of the Greek papers, the wine cargo, and the mine alongside the Donator creates a compelling historical context
+- Both sections of the wreck (main hull and separated bow) reward thorough exploration over two dives
+- Compare with the nearby Donator for an extraordinary twin-wreck diving experience
 
-## Safety Considerations
+## Safety
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+Depth and current are the primary hazards. Minimum certification: advanced open water with deep specialty experience. Nitrox recommended. Current in the Hyères channel can be significant; dive with an operator who monitors conditions. Monitor gas consumption carefully at depth and ascend conservatively. Wreck penetration requires wreck training and a torch.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The gorgonian-covered gangways and deck machinery provide outstanding wide-angle subjects. Groupers and dentex in the water column above the wreck create compelling fish portrait opportunities. Macro work on the encrusted surfaces shows gorgonian polyp detail and the varied sponge communities. Full artificial lighting is needed at these depths.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

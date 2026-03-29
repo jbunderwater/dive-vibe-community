@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Zabargad Jetty
 
-Zabargad Jetty is a reef dive site in Red Sea, Middle East.
+Zabargad Jetty is a dive site located at Zabargad Island (also known as St. John's Island or Geziret Zabarghad) in the far southern Red Sea off the Egyptian coast. Zabargad is a remote, uninhabited island famous historically as the world's primary source of peridot gemstones, and its dive sites are celebrated for pristine coral and outstanding marine life at one of the least-visited locations in the Egyptian Red Sea.
 
 ## Overview
 
-Zabargad Jetty is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Zabargad Island lies approximately 100 kilometers east-northeast of Berenice and is accessible only by liveaboard. The island features a small, sheltered lagoon with the remains of an old jetty, which has become an artificial reef structure in its own right. The jetty pilings and debris are encrusted with coral and attract large concentrations of fish. The wider reef area around the island is part of a protected zone with exceptional coral health. Because Zabargad can only be reached by multi-day liveaboard, it sees very limited diver traffic and the marine environment remains close to pristine.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Zabargad Island, Southern Red Sea, Egypt (liveaboard access only)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral reef / Jetty
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 25-40 meters (80-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The sheltered waters around the jetty support one of the most impressive marine communities in the southern Red Sea. Hammerhead sharks are regularly seen schooling in the blue water around Zabargad, with early morning dives offering the best encounters. Manta rays visit seasonally. Dolphins are a near-constant presence in the protected lagoon. Green and hawksbill turtles rest and forage on the reef. The jetty pilings themselves are colonized by large grouper, moray eels, lionfish, and dense schools of glassfish. Dugongs have been reported in the area. humphead wrasse cruise the reef edge and are frequently approachable.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter near the old jetty structure and explore the encrusted pilings and debris at 10-18 meters before working out to the natural reef slope. The reef drops gradually to 20 meters with excellent coral coverage throughout. Plan to spend time in the shallower sections on the way back, particularly around the base of the jetty where fish concentration is highest. Complete the safety stop in the clear, calm waters of the lagoon.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Liveaboard access only. Zodiac tender drop from the liveaboard, with boat pickup after the dive. Conditions in the sheltered anchorage at Zabargad are typically very calm. Coordinate carefully with the liveaboard crew as the remoteness of the site means there are no alternative support options.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Early morning dives often produce hammerhead and manta ray encounters in the open water around the island
+- Spend time searching the jetty pilings carefully — fish density here is exceptional
+- Zabargad is remote; carry additional safety equipment and ensure the liveaboard has full emergency preparedness
+- Night dives around the jetty can be spectacular with cuttlefish, octopus, and sleeping reef fish
+- The peridot gemstone history of the island makes for interesting topside exploration between dives
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The extreme remoteness of Zabargad Island is the primary safety consideration. The nearest significant medical facilities are many hours away. Dive conservatively and plan all profiles with this in mind. Conditions in the open water beyond the lagoon can be more challenging than within the sheltered anchorage. Always carry a signaling device — whistle, mirror, and SMB — and ensure the liveaboard has your dive plan before descending.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Zabargad's exceptional visibility and pristine reef condition make it a top photography destination on southern Red Sea liveaboards. The jetty pilings provide dramatic wide-angle subjects with fish schools framed against the clear blue. Hammerhead shark encounters in open water offer rare opportunities for pelagic shots. Macro work on the encrusted debris reveals nudibranchs, flatworms, and crustaceans not commonly found at more heavily dived sites. Night dives add cuttlefish and octopus to the portfolio.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

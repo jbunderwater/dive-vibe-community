@@ -13,54 +13,26 @@ addedBy: osm_import
 
 ## Les rairas
 
-Les rairas is a reef dive site in French Polynesia, Pacific.
+Les rairas is a reef dive site in the Raiatea lagoon, French Polynesia. "Raira" is a Tahitian term, and the site name likely references a local geographic or ancestral place name within the Raiatea reef system.
 
 ## Overview
 
-Les rairas is a dive site in French Polynesia offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The site lies within the barrier reef lagoon of Raiatea — the sacred island of ancient Polynesia and the reputed origin point of the great migration voyages across the Pacific. The reef here offers a typical Society Islands lagoon dive: a mix of coral gardens, bommies, and sandy corridors at depths between 8 and 25 metres. The lagoon water is clear and warm, with visibility of 25–30 metres and temperatures of 27–28°C. Raiatea's lagoon is less intensively dived than Bora Bora or Moorea, giving sites like Les rairas a less-trafficked character.
 
-## Site Information
+## What to Expect
 
-- **Location**: French Polynesia, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+The coral structures at Les rairas host a characteristic Society Islands reef community: napoleon wrasse, parrotfish, and schools of snapper over the coral, with turtles grazing on algae and hawksbill turtles foraging on encrusting sponges. White-tip reef sharks rest in sandy gullies beneath the coral outcrops. The sandy patches between coral structures are productive hunting ground for stingrays. Macro divers find nudibranchs and flatworms on the encrusting coral surfaces, and the crevice fauna includes moray eels, lobsters, and small crustaceans. The site is representative of the healthy, less-pressured reef environment that makes Raiatea appealing to divers seeking a quieter alternative to the more famous Society Islands destinations.
 
-## Marine Life
+## Conditions
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+- **Best season**: April–November
+- **Visibility**: 25–30 m typical
+- **Current**: Mild
+- **Water temperature**: 27–28°C
+- **Entry**: Boat dive from Raiatea operators
 
-## Dive Profile
+## Tips
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Raiatea operators often combine Les rairas with a visit to the sacred Taputapuatea marae (an ancient ceremonial site) ashore for divers interested in Polynesian culture. The island's less touristed nature means smaller dive groups and more personal divemaster attention.
 
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

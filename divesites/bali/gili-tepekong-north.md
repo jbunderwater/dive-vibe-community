@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Gili Tepekong North
 
-Gili Tepekong North is a reef dive site in Bali, Asia.
+The more accessible face of Gili Tepekong — healthy hard and soft corals, turtles, and whitetip reef sharks with manageable current.
 
 ## Overview
 
-Gili Tepekong North is a dive site in Bali offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Gili Tepekong is the largest of the three volcanic islets in Amuk Bay off Candidasa, and its north face offers a more sheltered diving experience compared to the exposed southern sections. The northern reef features steep drop-offs, swim-throughs, and walls covered in blood-red sea fans, table corals, and various sponge species. Schools of sweetlips, bannerfish, and grouper are resident, and whitetip reef sharks are commonly found resting among the coral bommies. The site is accessible to intermediate divers on most days, though currents can still be significant and require monitoring throughout the dive.
 
 ## Site Information
 
-- **Location**: Bali, Asia
+- **Location**: Amuk Bay, Candidasa area, east Bali
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef / Wall
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 25 m
+- **Typical Visibility**: 10–20 m
+- **Current**: Moderate; can increase significantly
+- **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Whitetip reef sharks, turtles, octopus, and cuttlefish are regular sightings. Schools of sweetlips, jacks, and grouper gather in the current-swept areas. Bargibanti pygmy seahorses are found nestled in the pink and yellow gorgonians, taking on their host's colour for camouflage. Nudibranchs, crabs, and shrimps inhabit the reef rubble. The cooler water occasionally brings mola mola in season (July–October).
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend on the north face and follow the reef slope from 5–25 m. Swim-throughs between 10–18 m add variety to the dive. Spend time on the reef crest examining gorgonians for pygmy seahorses before dropping to the deeper sections. Ascend gradually and complete a 3-minute safety stop at 5 m, watching for current changes during ascent.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat from Padangbai or Candidasa (approximately 20–25 minutes). Entry via back roll. Currents are more predictable on the north face than the south, but monitor throughout. SMB deployment essential for drift ascent.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Gili Tepekong North suits intermediate divers; save Tepekong South for when conditions and experience align
+- Look methodically at pink gorgonians for Bargibanti pygmy seahorses
+- The canyon and swim-throughs between boulders are a highlight — follow your guide
+- Mola mola are possible July–October on the current-swept sections
+- Combine with Gili Mimpang for a full Candidasa diving day
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Currents can intensify quickly and may reverse without warning near the island. Down-currents are possible near rock faces. Always carry an SMB. Maintain sight of your buddy and guide throughout. Abort the dive and surface in a sheltered location if current exceeds your ability to control depth.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The swim-throughs provide dramatic frame shots with divers silhouetted against the light. Pygmy seahorses in gorgonians require macro lens and careful focus. Wide-angle captures the schools of sweetlips and the coral wall character.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

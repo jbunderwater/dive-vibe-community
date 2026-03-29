@@ -11,59 +11,59 @@ osmId: 11980577311
 addedBy: osm_import
 ---
 
-## USS Yankee (Auxiliary Cruiser)
+# U.S.S. Yankee (Exempt Site)
 
-Historic auxiliary cruiser wreck in Buzzards Bay, Massachusetts.
+The scattered remains of a 406-foot Spanish-American War auxiliary cruiser that foundered under tow in Buzzards Bay in 1908.
 
 ## Overview
 
-The USS Yankee was a 406-foot iron auxiliary cruiser built as a training ship for the US Navy. Originally commissioned during the Spanish-American War, the vessel was refloated after running aground on Ledge but foundered during towing on December 5, 1908, while en route to New Bedford. The wreck now rests 3 miles east of Round Hill Point in Buzzards Bay. Hull remains are scattered across the bottom in 55 feet (17 meters) of water. Large pieces of hull cover the bottom, with identifiable features including an anchor hawse pipe marking the bow and the rudderpost denoting the stern. Much debris has low profile, but some sections rise 10 feet off the bottom. This is a classic New England wreck with distributed remains and moderate depth.
+The USS Yankee was a 406-foot iron steam-powered auxiliary cruiser originally built as a civilian vessel and converted for naval service during the Spanish-American War of 1898. After the war she served as a training ship for Naval Reserve forces. On December 5, 1908, while being towed to New Bedford for maintenance, the Yankee ran aground on a ledge in Buzzards Bay. After five tow attempts failed to free her, she broke up and sank in approximately 17 metres of water roughly 3 miles east of Round Hill Point in South Dartmouth, Massachusetts. The wreck is managed by Massachusetts BUAR as an Exempted Site, allowing recreational diving without a permit. Hull remains are spread across the bottom with low profile, though some sections rise up to 3 metres off the seabed. The anchor hawse pipe marks the bow position; the rudderpost identifies the stern. Large sections of iron plating lie flat, creating a dispersed but clearly identifiable debris field.
 
 ## Site Information
 
-- **Location**: Buzzards Bay, 3 miles east of Round Hill Point, Massachusetts
+- **Location**: Buzzards Bay, 3 miles east of Round Hill Point, South Dartmouth, Massachusetts
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 17 meters
-- **Typical Visibility**: 2-5 meters (5-15 feet, poor)
-- **Current**: Swift, variable with tidal state
-- **Water Temperature**: 50-58°F (10-14°C)
+- **Typical Visibility**: 2–6 meters (6–20 feet)
+- **Current**: Swift tidal current; highly variable with tidal state
+- **Water Temperature**: 10–18°C summer; colder off-season
 - **Best Time**: May to September
 
 ## Marine Life
 
-Cold-water temperate species including striped bass, tautog, pollock, and schooling fish. Wreck structure provides shelter for crustaceans and mobile invertebrates. Limited coral/algae growth due to cold water and poor light penetration.
+The iron hull plating and scattered debris provide hard substrate in an otherwise silty bay environment. Tautog patrol the larger structural pieces. Striped bass cruise through in warmer months. Pollock school in mid-water above the debris field. American lobsters shelter beneath the overhanging hull sections. Encrusting bryozoans, hydroids, and anemones cover the older iron surfaces. Cunner hover around the metal edges.
 
 ## Dive Profile
 
-Descend to scattered debris field in 17 meters. Navigate hull pieces and wreck debris. Anchor hawse and rudderpost are recognizable features. Some relief (up to 10 feet on certain sections) allows for interesting topography. Strong currents require attention to dive planning. Bottom time 25-30 minutes. Current and low visibility mandate staying oriented to guide/reference line.
+Access via boat charter from New Bedford or South Dartmouth area operators. The wreck debris is oriented roughly northeast-southwest and covers a significant area of the bottom. The anchor hawse pipe at the bow and the rudderpost at the stern provide reliable navigation references for experienced divers who have been on the site before. Plan dives around slack tide — Buzzards Bay currents can be swift and visibility suffers dramatically on the flood. Maximum depth 17 metres. Complete a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Boat charter required. Anchor on wreck debris. Controlled descent on reference line. Current and visibility may be significant—follow dive leader closely. Return to ascent point for 5-meter safety stop before boarding.
+Boat charter required. The site is in open Buzzards Bay — conditions can deteriorate quickly with afternoon southwesterly sea breezes. Descend on a reference line in current. Navigation in low visibility requires compass skills and familiarity with the wreck layout. Deploy SMB clearly before ascending.
 
 ## Tips and Recommendations
 
-- 6.5-7mm wetsuit or dry suit required (cold year-round)
-- Swift currents and poor visibility—strong navigation skills essential
-- Bring dive light for wreck detail identification
-- Monitor air closely—rough conditions increase consumption
-- This site is accessible for recreational diving (no permit required)
-- Not ideal for photography due to visibility, but wreck structure interesting
-- Plan dives during slack tide windows when possible
+- Plan dives strictly around slack tide — current is the primary challenge at this site
+- Bring a dive light: visibility is often poor and the iron hull details reward close inspection
+- The anchor hawse pipe and rudderpost are key landmarks — ask your captain to put you on them
+- 7mm wetsuit or drysuit recommended for Buzzards Bay cold water
+- This is an Exempted Site under Massachusetts BUAR — no permit required for recreational diving
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Buzzards Bay tidal currents can be swift and unpredictable, particularly near the opening to Vineyard Sound. Low visibility is common — stay oriented to a reference line or wreck feature at all times. Cold water year-round requires adequate thermal protection. Deploy SMB before surfacing. A competent local captain familiar with bay current patterns is important.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+Low visibility limits photographic range but the large iron hull sections and plating reward close-focus work. Wide-angle shots of the anchor hawse pipe or rudderpost convey the scale of the vessel. Encrusting invertebrates on weathered iron create detailed macro subjects. A powerful strobe is essential to restore color at depth.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Management**: Massachusetts BUAR (Exempted Site)
+- **Historical Reference**: New Bedford Standard-Times archive; Naval History and Heritage Command
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

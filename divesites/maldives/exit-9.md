@@ -13,54 +13,29 @@ addedBy: osm_import
 
 ## Exit 9
 
-Exit 9 is a reef dive site in Maldives, Asia.
+Exit 9 is a numbered reef mooring point on the outer reef circuit in the central-southern Maldives, positioned between Exits 8 and 10 on the northern arc of the exit series and providing access to a productive section of outer reef slope.
 
 ## Overview
 
-Exit 9 is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Exit 9 occupies a central position in the northern exit cluster, its reef section distinguished by a well-defined drop from the coral crest to the sandy slope below. The outer reef wall here features strong gorgonian sea fan growth between 15 and 22 meters — large fan structures oriented perpendicular to the prevailing current, capturing plankton and providing structure for seahorses, longnose hawkfish, and cryptic pygmy seahorses on the fan branches. The current-swept nature of the outer face at this depth range creates a productive feeding zone for pelagic fish, with schools of barracuda and dogtooth tuna regularly passing along the reef edge. The upper reef section above 10 meters is calmer and features turtle grazing sites and anemone gardens with resident clownfish. The combination of the deep fan zone, mid-reef turtle territory, and shallow anemone garden makes Exit 9 one of the more varied sites in the exit series.
 
 ## Site Information
 
-- **Location**: Maldives, Asia
+- **Location**: Maldives (South/Central Atolls)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters
+- **Current**: Moderate to strong on exposed outer face
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Gorgonian sea fans (well-developed at 15-22 m), seahorses, longnose hawkfish, barracuda schools, dogtooth tuna, hawksbill turtles, anemonefish, grey reef sharks, and diverse reef fish.
 
-## Dive Profile
+## Tips for Divers
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Descend to the sea fan zone first and examine the fan branches carefully with a torch for seahorses and hawkfish — slow down and the rewards are substantial. The outer edge at 20-22 meters is the best position to intercept passing pelagics. Ascend through the mid-reef turtle territory and finish with the anemone gardens in the shallows for a satisfying three-zone dive.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

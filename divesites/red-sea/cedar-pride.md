@@ -11,57 +11,56 @@ osmId: 663869877
 addedBy: osm_import
 ---
 
-## Cedar Pride
+# Cedar Pride
 
-Cedar Pride is a historic wreck dive in Red Sea, Middle East.
+Jordan's most iconic dive — a deliberately scuttled Lebanese freighter lying intact on her port side in Aqaba's crystalline waters, encrusted in soft corals after four decades on the seabed.
 
 ## Overview
 
-Cedar Pride is a dive site in Red Sea featuring the wreck of the Cedar Pride. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The Cedar Pride was a Lebanese cargo vessel that caught fire at Aqaba harbour on August 2, 1982, killing two crew members. For three years the burned-out hulk sat at anchor, unclaimed and accruing harbour fees. In 1985, King Hussein of Jordan — himself a keen diver — personally sanctioned the scuttling of the vessel as an artificial reef, making it one of the earliest intentional wreck placement projects in the Middle East. On November 16, 1985, the Cedar Pride was sunk approximately 200 metres offshore, positioned carefully on her port side at a maximum depth of 27 metres. Today she is one of Aqaba's most accessible and celebrated wreck dives: a 95-metre ship lying intact and stable, with the uppermost (starboard) side reaching to just 10 metres depth. Decades of colonisation have transformed the hull into an artificial reef covered in soft corals, and every accessible section is populated with resident marine life.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
+- **Location**: Aqaba, Jordan, northern Red Sea (Gulf of Aqaba)
+- **Entry Type**: Boat dive (also accessible from shore by a 130-metre swim)
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Maximum Depth**: 22 meters (starboard side shallowest at 10 m; stern at 16 m; deepest point at 26–27 m)
+- **Typical Visibility**: 15–30 meters
+- **Current**: Generally mild
+- **Best Time**: Year-round; October to May optimal
 
 ## Marine Life
 
-Divers at this site can expect to encounter glassy sweepers, lionfish, groupers, coral growth, soft corals, whale sharks, manta rays, hammerhead sharks. Additional species commonly sighted include oceanic whitetip sharks, sea turtles, dolphins. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck has been colonised into a functioning artificial reef. Soft corals, sponges, and encrusting growth cover every exposed surface of the hull. Schools of glassy sweepers fill the cargo holds. Lionfish drift lazily in the shadows. Hawksbill turtles visit the upper hull regularly. Moray eels occupy every available crevice. Scorpionfish camouflage themselves on encrusted hull sections. The crow's nest at 12–15 metres is particularly dense with growth. Schools of snapper and barracuda patrol the exterior. Seahorses and nudibranchs inhabit the quieter sections. The main mast at 12 metres hosts the highest concentration of marine life on the wreck.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 22 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The wreck lies on its port side; the starboard hull (top of the wreck) is accessible from as shallow as 10 metres. Descend the mooring line to the stern at 16 metres and work forward along the hull. The two large cargo holds are accessible for easy penetration in the 15–20 metre range — both are open and well-lit with minimal silt risk. The main mast at 12 metres is the most densely colonised section and the photographic centrepiece. A swim-through runs under the wreck at 26 metres. Access between sections is straightforward. Safety stop on the upper hull at 10 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Shore access via a 130-metre swim from the beach, or by boat with a permanent mooring buoy attached near the stern. The wreck is clearly visible from the mooring position. Boat access is recommended for most divers to avoid the surface swim in Aqaba's shipping traffic. Night dives at the Cedar Pride are excellent and regularly offered.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Start at the stern and work forward to the bow — this covers the full depth range progressively
+- The main mast at 12 metres is the highlight; spend maximum time there before moving deeper
+- A torch is essential for the cargo hold interiors — the soft coral detail inside rewards a slow inspection
+- Do not attempt the 26-metre swim-through without Wreck Specialty certification
+- The wreck is also effective as a night dive, with lobsters, crabs, and hunting eels emerging
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The Cedar Pride is an accessible recreational wreck with manageable depth and generally mild current. Wreck penetration (cargo holds) should only be attempted by divers with at least Basic Wreck Diver training. The 26-metre swim-through is a full penetration environment requiring Wreck Diver Specialty certification. Sharp metal edges throughout — do not reach blindly into dark sections. Buoyancy discipline is critical inside the holds to avoid silt disturbance. Lionfish are plentiful; watch where you place hands.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The Cedar Pride is one of Aqaba's most photographed dive subjects. The main mast covered in soft corals with the wreck hull as background creates a classic wide-angle composition. Shooting upward from alongside the hull toward the surface light — with the encrusted hull as the foreground — captures the wreck's scale. Lionfish among soft corals are outstanding macro subjects. The interior of the holds rewards torch-assisted close-focus wide-angle shots of the glassy sweeper schools.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

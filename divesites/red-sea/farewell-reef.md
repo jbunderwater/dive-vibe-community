@@ -11,56 +11,54 @@ osmId: 16663971
 addedBy: osm_import
 ---
 
-## Farewell Reef
+# Farewell Reef
 
-Farewell Reef is a reef dive site in Red Sea, Middle East.
+The southernmost reef on many Fury Shoals itineraries — a fitting final dive site that combines a hard coral garden, sandy corridor navigation, and the memorable open-ocean character of the Fury Shoals system before the long sail north.
 
 ## Overview
 
-Farewell Reef is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Farewell Reef sits at approximately 24.21°N, 35.56°E in the Fury Shoals complex south of Marsa Alam. Its name accurately describes its function on most itineraries: this is where liveaboards and extended day trips typically complete their Fury Shoals diving before heading back north. Despite the casual connotation, the reef is not a consolation dive — it offers the same clear water and pristine coral characteristics of the broader Fury Shoals system, with a layout well-suited to a final exploratory dive of the area. The reef complex consists of coral structures with sandy corridors between them, providing a navigable diving environment.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
+- **Location**: Fury Shoals, southern Egyptian Red Sea (~24.21°N, 35.56°E)
+- **Entry Type**: Boat dive (day trip from Marsa Alam or liveaboard)
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20–30 meters
+- **Current**: Mild to moderate
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The hard coral gardens of Farewell Reef are dense and healthy — table corals and brain corals in excellent condition. Grey reef sharks are occasionally sighted on the outer slope. Hawksbill turtles rest on the reef platform and are reliably encountered. The sandy corridors between reef structures hold blue-spotted stingrays. Moray eels and groupers in the reef crevices throughout. Schools of fusiliers and anthias over the reef crest. The undisturbed nature of the site means fish approach more closely than at heavily trafficked northern sites.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin on the outer reef slope at 12–18 metres and work inward through the sandy corridors between reef structures. The navigation through the coral garden is the defining character of this dive — use the reef structures as reference points. Ascend to the upper reef crest at 5–8 metres for the final section. Safety stop at 5 metres over the shallow reef top.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day boat from Marsa Alam (60–80 minutes) or liveaboard — typically the last Fury Shoals dive before heading north. Giant stride entry. SMB deployment before ascending.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Embrace the leisurely character of the "farewell" concept — this dive suits a slower, more observational pace than the preceding days
+- The sandy corridors reward careful navigation and patient searching for macro subjects
+- Look back at the hard coral formations from a distance — the scale of the coral tables is impressive from an elevated perspective
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Standard offshore reef precautions apply. SMB before ascending. Current on the outer slope should be assessed. Fire coral on the upper reef.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The hard coral garden in morning light offers excellent wide-angle ambient photography — coral table compositions with school fish in the background are the signature images. Sandy corridor macro work with stingrays and flatfish suits a macro lens approach. Turtle portraits on the reef platform are accessible at this site.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

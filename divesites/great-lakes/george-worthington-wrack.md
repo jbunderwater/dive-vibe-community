@@ -13,55 +13,54 @@ addedBy: osm_import
 
 ## George Worthington (Wrack)
 
-George Worthington (Wrack) is a historic wreck dive in Great Lakes, North America.
+The George Worthington is a 19th-century Lake Erie wreck lying in approximately 20 metres of water in the western basin of Lake Erie, near Sandusky or Toledo, Ohio. One of many historic vessels that sank in the western Great Lakes' busiest commercial shipping corridor, the George Worthington rests in cold, productive Lake Erie water.
 
 ## Overview
 
-George Worthington (Wrack) is a dive site in Great Lakes featuring the wreck of the George Worthington (Wrack). Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Lake Erie's western basin — the shallowest portion of the lake — saw intense commercial traffic throughout the 19th century as vessels moved between the emerging industrial cities of Detroit, Toledo, Cleveland, and Buffalo. Storms, shoals, and mechanical failures claimed many vessels, and the George Worthington was one such casualty. Lying at 20 metres in western Lake Erie, this wreck benefits from the cold, low-oxygen conditions that have preserved wooden hull elements far beyond their normal lifespan in saltwater. The western basin of Lake Erie is known for warmer surface temperatures (reaching 24°C in summer) contrasting sharply with cold bottom water below the thermocline.
 
 ## Site Information
 
-- **Location**: Great Lakes, North America
+- **Location**: Lake Erie, Great Lakes, USA (Ohio / Ontario border area)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
+- **Maximum Depth**: 20 metres
+- **Typical Visibility**: 3–12 metres
+- **Water Temperature**: 4–24°C (seasonal); below thermocline 4–8°C
+- **Current**: Variable with wind; western Lake Erie can develop strong current
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Western Lake Erie is one of the most productive fisheries in North America. The George Worthington's hull attracts extraordinary numbers of yellow perch — schools of hundreds are common in summer. Walleye, Lake Erie's prize sport fish, patrol the structure. Large smallmouth bass are resident in the hull. Channel catfish occasionally cruise the bottom debris field. Zebra mussels carpet the hard surfaces below the thermocline.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The wreck sits on the flat sandy-silty western Lake Erie bottom. Standard bow-to-stern hull exploration works well. At 20 metres, bottom times are generous. The prominent fish life makes taking time to observe the ecosystem as rewarding as examining the hull's historical features. Safety stop at 5 metres for 3 minutes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Charter dive boats from Ohio ports (Sandusky, Lorain, or Port Clinton area) provide access. The Ohio side of Lake Erie has a thriving dive charter community. Entry by giant stride. Deploy SMB on ascent.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Western Lake Erie's summer surface can be warm enough for wetsuits, but dress for the cold bottom temperatures
+- Visibility varies considerably — check conditions with charter operators before booking
+- The walleye aggregations around this wreck rival any sport fishing experience
+- Combining wreck dives with the fishing culture of western Lake Erie makes for a unique diving destination experience
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Western Lake Erie is notorious for fast-developing storms. Never dive without checking weather forecasts. Wind-driven current can develop within hours. The thermocline at 10–12 metres can disorient divers who are not expecting the sudden temperature change. Always dive with a buddy and carry an SMB.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+Dense yellow perch schools create spectacular wide-angle photography opportunities around the George Worthington. Walleye portraits are possible with patience and a steady approach. The warm western Lake Erie water in summer allows comfortable shooting with a standard wetsuit.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

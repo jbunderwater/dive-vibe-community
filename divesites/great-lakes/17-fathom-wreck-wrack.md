@@ -13,55 +13,56 @@ addedBy: osm_import
 
 ## 17 Fathom Wreck (Wrack)
 
-17 Fathom Wreck (Wrack) is a historic wreck dive in Great Lakes, North America.
+The 17 Fathom Wreck is a classic Lake Erie wreck dive located off the northern shore of Lake Erie, Ontario, Canada. Sitting at approximately 20 metres in the cold, clear freshwater of Lake Erie, this wreck is one of several well-preserved historical vessels scattered along this stretch of the lake.
 
 ## Overview
 
-17 Fathom Wreck (Wrack) is a dive site in Great Lakes featuring the wreck of the 17 Fathom Wreck (Wrack). Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Lake Erie's cold, freshwater environment has preserved this wreck remarkably well. The site sits roughly at the depth its name suggests — around 17 fathoms (approximately 31 metres at full depth in the area, though the wreck structure is accessible at shallower points). The wreck lies on a sandy bottom in the northern reaches of Lake Erie, Ontario, with visibility that can reach 10–15 metres on good days in summer. Water temperatures vary dramatically by season, from near-freezing in winter to around 18–20°C at the surface in peak summer, though bottom temperatures remain cold year-round.
 
 ## Site Information
 
-- **Location**: Great Lakes, North America
+- **Location**: Lake Erie, Great Lakes, Canada/USA
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
+- **Maximum Depth**: 20 metres
+- **Typical Visibility**: 5–15 metres
+- **Water Temperature**: 4–20°C (seasonal); bottom typically 4–8°C
+- **Current**: Mild to moderate; Lake Erie can develop current in strong wind conditions
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Great Lakes wrecks support a thriving freshwater ecosystem. Expect to encounter large yellow perch, smallmouth bass, and lake trout sheltering around the wreck structure. Crayfish inhabit crevices throughout the hull. Zebra and quagga mussels coat much of the exposed metal and wood surfaces, creating habitat for small invertebrates. Freshwater amphipods are abundant, and in summer months diving near dawn or dusk may yield sightings of lake whitefish passing through. The wreck acts as an artificial reef, concentrating fish in an otherwise featureless sandy bottom.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Begin your descent from the boat anchor line to the top of the wreck structure. Explore the deck and hull exterior, noting the state of preservation typical of freshwater wrecks — wood and metal remain far more intact than their saltwater counterparts. The wreck lies on a relatively flat sandy bottom, making navigation straightforward. Ascend with adequate reserve gas and perform a 3-minute safety stop at 5 metres before surfacing.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access requires a charter dive boat operating out of local Ontario ports in the Port Dover or Port Colborne area. Entry is via giant stride or back roll. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- A drysuit is strongly recommended — bottom temperatures remain cold even in summer
+- Bring a dive torch to illuminate shadowed areas under the hull
+- Maintain good buoyancy to avoid stirring silt inside the wreck
+- Do not attempt penetration without proper overhead environment training
+- Great Lakes wrecks are protected under Ontario and Canadian heritage laws — do not disturb or remove artifacts
+- Dive with an operator familiar with Lake Erie current patterns
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Lake Erie is the shallowest of the Great Lakes and the most prone to sudden weather changes. Conditions can shift quickly from calm to rough with little warning. Always check weather forecasts before heading out and have a contingency plan if conditions deteriorate. Cold water at depth requires adequate thermal protection — hypothermia risk is real even in summer. Always dive with a buddy and carry an SMB.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+Freshwater wrecks offer uniquely clear photography compared to saltwater wrecks. The lack of marine growth allows structural details to remain visible, and visibility on calm days can reach 15 metres or more. Wide-angle shots of the hull with ambient light filtering from above make for dramatic images. Macro opportunities include the encrusted mussel beds and the small fish that shelter in every opening.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

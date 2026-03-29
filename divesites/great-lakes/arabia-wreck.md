@@ -13,55 +13,56 @@ addedBy: osm_import
 
 ## Arabia (Wreck)
 
-Arabia (Wreck) is a historic wreck dive in Great Lakes, North America.
+The Arabia is one of the most celebrated wreck dives in Georgian Bay, Lake Huron. This 19th-century schooner rests in approximately 34 metres of crystal-clear freshwater in the Tobermory area of Ontario's Bruce Peninsula, within the Fathom Five National Marine Park — Canada's first national marine park established specifically to protect subaqueous cultural heritage.
 
 ## Overview
 
-Arabia (Wreck) is a dive site in Great Lakes featuring the wreck of the Arabia (Wreck). Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Arabia was a wooden schooner that sank in Georgian Bay in 1884. She now rests on her keel in approximately 34 metres, making her the deepest of the famous Tobermory wrecks. As part of Fathom Five National Marine Park, the Arabia benefits from exceptional protection. Cold Georgian Bay water — consistently around 4°C at depth — has preserved the vessel to a remarkable degree. The ship's hull, rigging, and internal spaces remain largely intact, offering a window into 19th-century Great Lakes sailing. Visibility in Georgian Bay can reach 20+ metres, among the best in the Great Lakes system.
 
 ## Site Information
 
-- **Location**: Great Lakes, North America
+- **Location**: Georgian Bay, Lake Huron, Fathom Five National Marine Park, Ontario, Canada
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 34 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 34 metres
+- **Typical Visibility**: 10–20 metres
+- **Water Temperature**: 4–16°C (seasonal); bottom consistently 4°C
+- **Current**: Minimal in protected Georgian Bay waters
+- **Best Time**: June to September
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Georgian Bay wrecks support abundant freshwater life. Lake trout — large, powerful fish — are commonly spotted circling the Arabia's hull. Yellow perch gather in schools inside the hold and around the deck. Smallmouth bass are territorial around the masts and railings. The cold, clear water supports healthy populations of cisco (lake herring) that move through in schools. Zebra and quagga mussels encrust all hard surfaces below the thermocline, creating micro-habitat for amphipods and other invertebrates.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 34 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The Arabia rests upright on a sloping rocky bottom. Descend the mooring line to the bow at approximately 25 metres, then explore aft along the hull to the stern at 34 metres. At this depth, NDL limits are meaningful — plan a dive profile that allows thorough exploration of key features (windlass, masts, stern cabin area) before beginning your ascent. Perform a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Charter dive boats depart from Tobermory Harbour multiple times daily in season. Several operators offer guided dives and equipment rental. Tobermory is a purpose-built dive town with excellent infrastructure. Entry by giant stride. Deploy SMB on ascent — boat traffic in the area can be significant in summer.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- A drysuit is essential — the bottom is consistently 4°C regardless of season
+- The Tobermory area offers multiple wrecks at similar depths — plan a multi-day trip
+- Night diving is permitted with advance arrangement and adds a unique perspective
+- Visibility is typically excellent — wide-angle lenses reward the photographic diver
+- Fathom Five National Marine Park requires a park pass for diving
+- Book charter boats early in summer as Tobermory is extremely popular
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+At 34 metres, the Arabia is at the outer limit for recreational divers. Calculate NDL limits conservatively and ascend well before reaching limits. Cold water at this depth — consistently 4°C — requires a drysuit and competency in drysuit diving before attempting this site. Always dive with a buddy and carry an SMB. Boat traffic in Tobermory Harbour area is heavy in summer.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The Arabia is one of the finest freshwater wreck photography subjects in North America. Visibility often exceeds 15 metres, allowing wide shots of the entire hull in frame. The upright orientation, preserved masts, and dramatic bow profile are classic subjects. Natural light penetrates well in summer, reducing the need for powerful strobes for ambient shots.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

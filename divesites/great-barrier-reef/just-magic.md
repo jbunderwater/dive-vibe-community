@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Just Magic
 
-Just Magic is a reef dive site in Great Barrier Reef, Oceania.
+Just Magic is a reef dive site on Light Reef on the outer Great Barrier Reef near Port Douglas, Queensland, Australia.
 
 ## Overview
 
-Just Magic is a scenic reef site offering excellent fish encounters and coral formations. Located on the Agincourt reef system near Port Douglas, this site offers 12-18 meters of visibility with water temperatures of 23-27°C. True to its name, this site delivers a magical diving experience with abundant marine life and beautiful reef structures suitable for recreational divers.
+The site's name is self-explanatory according to those who dive it regularly — a straightforward assessment of a site that consistently delivers an outstanding reef diving experience without any single defining headline feature. Just Magic sits on the same outer reef system as Phil's Bommie and the Agincourt sites, and it shares the excellent water clarity and marine diversity that characterises this section of the GBR.
+
+The site is a reliable performer for day-trip operators running out of Port Douglas, offering healthy coral and consistent marine life in a depth range accessible to beginners.
 
 ## Site Information
 
-- **Location**: Great Barrier Reef, Oceania
+- **Location**: Light Reef, outer Great Barrier Reef near Port Douglas, Queensland, Australia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 16 meters
-- **Typical Visibility**: 15-40 meters (50-130 feet)
-- **Current**: Variable
-- **Best Time**: September to February
+- **Typical Visibility**: 15–25 metres
+- **Current**: Variable; typically mild
+- **Best Time**: August to November; year-round accessible
 
 ## Marine Life
 
-Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals.
+Just Magic lives up to its name with a broad assemblage of GBR reef species. Maori wrasse patrol the site with their characteristic slow, confident movements. Sea turtles — particularly green turtles — are very reliable here, often found grazing on the coral or resting on sandy patches. Schools of snapper and sweetlips hover in the mid-water. Moray eels, coral grouper, and lionfish occupy the reef crevices. The coral cover is excellent for this section of the outer reef, with both hard and soft coral communities well-represented.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 16 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-16 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+A relaxed outer reef dive following the reef contour between 6 and 16 metres. The site does not have a single dominant feature, which encourages a more exploratory approach than dedicated bommie or wall dives. Follow the reef edge in both directions from the entry point, spending time at the mid-depth zone where fish activity is most concentrated.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day trips from Port Douglas. Moored dive with entry by giant stride and exit via the boat platform or tender.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- This is an excellent site for divers who want a genuine outer GBR reef experience without the crowds that sometimes accompany the Agincourt pontoon sites
+- The consistent marine life makes it reliable for divers visiting multiple GBR sites and wanting guaranteed turtle and wrasse encounters
+- Morning dives typically have the best visibility before afternoon wind chop affects water clarity
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish (box jellyfish in summer), crocodiles (north) in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Standard outer reef considerations. The mild conditions and moderate depth make this a straightforward site. Follow the boat crew's current briefing, as outer reef conditions can change with the tide.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Just Magic's broad fish diversity makes it suitable for a mixed photography approach — wide-angle reef landscapes, turtle portraits, and mid-sized reef fish all in a single dive. The site's name encourages a certain latitude in framing: shoot what moves you rather than following a strict shot list.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

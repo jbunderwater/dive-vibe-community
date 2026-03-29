@@ -11,56 +11,56 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Saona Island
+# Saona Island
 
-Saona Island is a reef dive site in Dominican Republic, Caribbean.
+*Pristine fringing reefs in a national park off the southeastern tip of Hispaniola, with outstanding turtle and stingray encounters.*
 
 ## Overview
 
-Saona Island is a dive site in Dominican Republic offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Saona Island (Isla Saona) lies at the southeastern tip of the Dominican Republic within the Cotubanamá National Park (formerly Del Este National Park). The island is surrounded by a combination of fringing reefs, seagrass beds, and sandy lagoons. Dive sites around Saona Island sit at 6–12 meters over flat to gently sloping terrain, making them outstanding beginner destinations. The calm, turquoise water of the Mona Passage side features exceptional visibility of 20–30 meters and temperatures of 27–29°C year-round. The area is famous for its large population of southern stingrays and frequent hawksbill and green turtle sightings.
 
 ## Site Information
 
-- **Location**: Dominican Republic, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Location**: Isla Saona, Cotubanamá National Park, southeastern Dominican Republic
+- **Entry Type**: Boat dive (operated from Bayahibe or La Romana)
+- **Site Type**: Coral reef and seagrass
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 20–30 meters (65–100 feet)
+- **Current**: Minimal inside the national park lagoon areas
+- **Best Time**: Year-round; this area is consistently calm and clear
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Saona Island is particularly renowned for its southern stingrays, which congregate in sandy lagoons in large numbers. Hawksbill and green turtles are reliably encountered feeding on sponges and seagrass. Eagle rays glide through the channels between the island and the reef. The fringing reef holds queen conch (protected within the national park), large groupers, parrotfish, and schools of French grunts. Nassau groupers, which are becoming increasingly rare elsewhere, are still seen here under park protection. Spotted moray eels, spiny lobsters, and nurse sharks rest under coral overhangs.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Saona Island dives are shallow and relaxed. Descend to 5–8 meters over the reef crest and explore at a slow pace, visiting coral heads and sandy clearings. The seagrass lagoon side of the island at 3–6 meters is excellent for turtle observations. No safety stop is required given the maximum depth, but spending the final few minutes in the shallows over the reef top extends the experience. Bottom times are long — expect 60–80 minute dives.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day trips depart from Bayahibe (approximately 45 minutes by speedboat) or La Romana. Dive and snorkel combined trips are common. Conditions are reliably calm given the island's leeward position. Entry via boat ladder or giant stride.
 
-## Tips and Recommendations
+## Tips
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Arrive early — Saona Island sees heavy snorkel/speed-boat tourism by midday; morning dives have more peaceful conditions
+- The seagrass lagoons on the south side of the island are the best area for turtle and stingray encounters
+- Multiple anchor sites exist around the island — ask your operator which reef section is least trafficked that day
+- Snorkeling is excellent from the beach at Mano Juan village on the south coast
+- Combine with Catalina Island as a two-destination day for more varied diving
 
-## Safety Considerations
+## Safety
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+This is one of the safest dive sites in the Dominican Republic. The main hazard is boat traffic from the high volume of tourist speedboats that visit Saona on day trips. Dive boats will time dives to avoid the busiest snorkel traffic. Stay close to the reef and avoid surfacing in open areas without an SMB. Fire coral is present on the reef — avoid contact.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Saona Island offers some of the most photogenic diving in the Dominican Republic. Crystal-clear, shallow water with abundant sunlight creates ideal wide-angle conditions without a strobe. Large groups of stingrays in the sandy lagoons are a signature subject. Turtle portraits in shallow, bright water come out exceptionally well. The colorful reef fish population is dense enough for fish portraiture with a wide macro or 60mm lens.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

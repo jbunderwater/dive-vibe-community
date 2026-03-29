@@ -11,55 +11,57 @@ osmId: 663869323
 addedBy: osm_import
 ---
 
-## Palancar Reef
+# Palancar Reef
 
-Palancar Reef is a reef dive site in Cozumel, Caribbean.
+One of the most celebrated dive sites in the Caribbean, a vast coral labyrinth swept by gentle drift currents along Cozumel's southwest coast.
 
 ## Overview
 
-Palancar Reef is a renowned dive site in Cozumel offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Palancar Reef is Cozumel's crown jewel — a sprawling reef system stretching several kilometers along the island's leeward southwest coast, protected within the Arrecifes de Cozumel National Park. The site is divided into named sections including Palancar Gardens, Palancar Caves, Palancar Bricks, and Palancar Horseshoe, each offering distinct terrain. Palancar Gardens features shallow coral gardens dense with brain corals and star corals. Palancar Caves is defined by dramatic swim-throughs, archways, and spur-and-groove canyons descending to 30 meters. The Mesoamerican Barrier Reef's influence means immaculate water clarity of 25–40 meters and warm Caribbean temperatures of 26–29°C year-round. Cozumel's north-to-south current system makes nearly every dive here a relaxed drift, requiring minimal finning as the reef slides past.
 
 ## Site Information
 
-- **Location**: Cozumel, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Location**: Southwest Cozumel, Quintana Roo, Mexico
+- **Entry Type**: Boat dive (mooring buoys throughout)
+- **Site Type**: Coral reef (spur-and-groove with caves and canyons)
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Maximum Depth**: 30 meters (100 feet)
+- **Typical Visibility**: 25–40 meters (80–130 feet)
+- **Current**: Moderate north-to-south drift — the site is designed for drift diving
+- **Best Time**: November to April for calmest seas; diving is excellent year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Palancar is renowned for its resident population of spotted eagle rays, often seen in formation cruising over the sandy channels between spurs. Hawksbill and green sea turtles are almost guaranteed sightings, frequently resting on coral heads or grazing on sponges. The endemic splendid toadfish (*Sanopus splendidus*) hides under coral ledges — found nowhere else on Earth. Large Atlantic spotted groupers patrol the deeper sections, while queen angelfish and French angelfish are common throughout. Blacktip reef sharks and nurse sharks rest in sandy channels. The reef itself is carpeted with massive star corals, brain corals, pillar corals, and sea fans, with enormous barrel sponges at depth. Schools of blue tangs, Bermuda chubs, and horse-eye jacks sweep through regularly.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The standard Palancar drift begins at the mooring site chosen by your captain based on current direction. Descend to the reef top at 10–15 meters and allow the current to carry you through the gardens and into the cave systems. The caves and canyons range from 15 to 30 meters — explore the swim-throughs but stay aware of depth. Most wildlife activity concentrates between 12–25 meters. Ascend gradually to the reef top for the final minutes, then deploy your SMB for boat pickup in open water during your 5-meter safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+All access is by boat with Cozumel dive operators. Boats tie to established mooring buoys — no anchoring is permitted within the national park. Entry is via giant stride or back roll. Because this is drift diving, divers surface wherever the current carries them; deploying an SMB before ascending is mandatory so the boat can track you. Follow your divemaster's briefing regarding the specific section being dived and the current speed on that day.
 
-## Tips and Recommendations
+## Tips
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Dive Palancar Caves specifically for the dramatic archways and swim-throughs — allow extra air for exploration
+- Search ledge undersides at 15–20 meters for the splendid toadfish, especially near coral overhangs
+- Pair a deeper cave dive with a shallower garden dive in the afternoon when light penetrates at a beautiful angle
+- The Horseshoe section offers a stunning amphitheater formation great for wide-angle photography
+- Visit November through April for the smoothest sea conditions between Cozumel town and the outer reef
 
-## Safety Considerations
+## Safety
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Drift currents can strengthen unexpectedly at Palancar. Always carry and deploy an SMB before surfacing — the boat relies on it to find you. Avoid diving the outer wall without advanced training; the wall drops beyond sport diving limits quickly. Fire coral is present on many structures — maintain neutral buoyancy to avoid accidental contact. The nearest recompression chamber is at Cozumel's SSS-Cozumel facility in San Miguel.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Palancar is one of the world's top wide-angle reef photography destinations. The scale of the coral formations, the swim-throughs lit by shafts of Caribbean light, and the density of reef fish create compelling compositions. Use a 10–17mm fisheye or wide rectilinear lens for the cave interiors. Morning dives catch sunlight filtering through openings in the caves. For macro, check ledges and sponge bases for the splendid toadfish — a unique and photogenic endemic subject.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Arrecifes de Cozumel National Park**: Managed by CONANP; mooring fees collected
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

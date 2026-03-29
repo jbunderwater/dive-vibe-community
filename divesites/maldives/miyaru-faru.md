@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Miyaru Faru
 
-Miyaru Faru is a reef dive site in Maldives, Asia.
+Miyaru Faru — "Shark Reef" in Dhivehi — is a reef formation in South Malé Atoll whose name signals the main attraction: a consistent population of reef sharks that patrol the outer reef edge alongside healthy coral formations and schooling fish.
 
 ## Overview
 
-Miyaru Faru is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Miyaru Faru takes its name from the Dhivehi word for shark (miyaru), reflecting the reliable shark sightings that have made this reef a favoured dive. The site extends along an outer reef face from the shallows down to 25 metres, with coral gardens on the upper slope giving way to steeper walls and sandy channels lower down. White-tip reef sharks are the most common species, seen resting on the sand and patrolling the reef edge, while grey reef sharks occasionally join them on stronger current days. The coral health is solid, with a mixture of hard coral tables, branching formations, and sea fans that attract butterflyfish, angelfish, and the ever-present parrotfish. Turtles graze on the reef top with regularity.
 
 ## Site Information
 
@@ -26,41 +26,23 @@ Miyaru Faru is a dive site in Maldives offering rewarding diving on healthy cora
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Current**: Moderate, variable
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+White-tip reef sharks, grey reef sharks, turtles, parrotfish, butterflyfish, angelfish, grouper, moray eels, sea fans, and schools of fusiliers along the outer reef face.
 
-## Dive Profile
+## Diving Tips
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- Scan the sandy channels at the reef base for resting white-tips before they retreat to deeper water.
+- The upper reef slope (8–15 metres) has excellent coral diversity for unhurried reef photography.
+- Stronger current typically improves shark activity — ask your guide about tidal timing.
+- Combine with nearby Miyaru Kandu for a two-dive trip featuring both reef and channel experiences.
 
-## Entry and Exit
+## Getting There
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Miyaru Faru is located in South Malé Atoll and is reached by dive boat from nearby resorts or from Malé, approximately 30–60 minutes by dhoni or speedboat.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

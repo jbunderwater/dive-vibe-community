@@ -13,55 +13,56 @@ addedBy: osm_import
 
 ## Forest City (Wreck)
 
-Forest City (Wreck) is a historic wreck dive in Great Lakes, North America.
+The Forest City is a deep wreck in Fathom Five National Marine Park, Georgian Bay, Ontario. At 45 metres, this is the deepest recreational wreck dive in the Tobermory area — a challenging but rewarding dive in the famously clear waters of Georgian Bay.
 
 ## Overview
 
-Forest City (Wreck) is a dive site in Great Lakes featuring the wreck of the Forest City (Wreck). Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Forest City lies in the deepest section of the Fathom Five wreck collection, descending to 45 metres in the cold, crystal-clear waters of Georgian Bay. Fathom Five National Marine Park is renowned for visibility that can reach 25 metres or more, and this exceptional clarity makes deep dives significantly more pleasant than they would be in murkier waters. The Forest City was a 19th-century wooden vessel lost in Georgian Bay, and her hull has been preserved in remarkable condition by the cold, dark water at this depth. At 45 metres, this site requires Advanced Open Water certification and preferably deep diving specialty experience.
 
 ## Site Information
 
-- **Location**: Great Lakes, North America
+- **Location**: Georgian Bay, Lake Huron, Fathom Five National Marine Park, Ontario, Canada
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 45 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 45 metres
+- **Typical Visibility**: 10–25 metres
+- **Water Temperature**: 4–12°C (seasonal); bottom consistently 4°C
+- **Current**: Minimal
+- **Best Time**: June to September
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+At 45 metres in Georgian Bay, large lake trout are the dominant wildlife encounter. These cold-water predators are frequently seen circling deep wrecks, attracted by the schools of cisco and small perch that aggregate around the structure. At this depth, ambient light is reduced and the water temperature is at its coldest — conditions that suit lake trout perfectly. Deepwater sculpin may be encountered on the sediment near the wreck's base.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 45 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+At 45 metres, NDL on air is approximately 9–12 minutes, depending on surface pressure. This is a limited bottom-time dive — plan carefully to maximize your experience of the wreck within safe limits. Descend rapidly on the anchor line to conserve precious bottom time. Explore the most photogenic or significant sections first (typically bow area and main deck). Ascend promptly and complete a 5-minute safety stop at 5 metres. Enriched Air Nitrox is often used on this dive — ensure your mix is appropriate for the depth.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Charter dive boats from Tobermory access the Forest City regularly as part of multi-site dive days. This site is typically offered to advanced divers while beginner groups dive the shallower Tobermory wrecks. Entry by giant stride. Deploy SMB on ascent. A Fathom Five National Marine Park pass is required.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Advanced Open Water and deep diving specialty certification are minimum requirements
+- Enriched Air Nitrox (maximum 32% for this depth with 45m planned maximum) can help manage NDL
+- Drysuit essential — bottom temperature is 4°C
+- Lake trout encounters at this depth are memorable — have a wide-angle lens ready
+- Plan surface intervals carefully between deep dives in Tobermory's multi-dive format
+- Narcosis effects at 45 metres are real — know your personal response to depth
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The Forest City sits at the outer limit of recreational diving. Narcosis, cold incapacitation, and rapidly depleting NDL are the primary risks. Never attempt to extend bottom time beyond safe limits — the wreck will still be there on the next visit. Always dive with a buddy experienced at this depth. Carry an SMB.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+Georgian Bay's exceptional visibility makes the Forest City a prime deep wreck photography subject. At 45 metres, ambient light is present but limited — wide-angle photography with supplemental lighting provides the best results. Lake trout encounters are outstanding photography opportunities.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

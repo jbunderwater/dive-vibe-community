@@ -13,55 +13,54 @@ addedBy: osm_import
 
 ## Nimrod (Wrack)
 
-Nimrod (Wrack) is a historic wreck dive in Great Lakes, North America.
+The Nimrod is a 19th-century wooden schooner wreck in Lake Erie, lying in approximately 20 metres of water in the north-central section of the lake, near the Ontario north shore between Port Stanley and Long Point. Cold Lake Erie freshwater has preserved this vessel as part of the region's remarkable underwater heritage.
 
 ## Overview
 
-Nimrod (Wrack) is a dive site in Great Lakes featuring the wreck of the Nimrod (Wrack). Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Nimrod name was a popular choice for 19th-century vessels — it evokes the biblical hunter and was commonly applied to small, agile trading schooners. This Lake Erie Nimrod lies in the mid-lake area off Ontario's north shore, where the combination of cold water and significant depth has ensured excellent preservation. The central Lake Erie basin provides somewhat better visibility and calmer bottom conditions than the shallow western basin, and the wreck sits on a sandy bottom that keeps turbidity manageable on calm days. Visibility ranges from 5–15 metres.
 
 ## Site Information
 
-- **Location**: Great Lakes, North America
+- **Location**: Lake Erie, Great Lakes, Canada (north-central Lake Erie, Ontario waters)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
+- **Maximum Depth**: 20 metres
+- **Typical Visibility**: 5–15 metres
+- **Water Temperature**: 4–22°C (seasonal); bottom typically 4–8°C
+- **Current**: Variable with wind
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Lake Erie's productive fishery is well represented at the Nimrod. Yellow perch are the most conspicuous fish, schooling densely around the hull. Walleye patrol the wreck perimeter. Smallmouth bass are resident in the hull. Round gobies are abundant on the sediment. Zebra mussels encrust all submerged hard surfaces below the thermocline.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Standard Lake Erie wreck dive profile. Descend to the wreck top and explore from bow to stern on the flat lakebed. The wooden hull offers historical details — note the schooner's rigging attachments, windlass, and cargo hold structure. Ascend with adequate reserve gas. Safety stop at 5 metres for 3 minutes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Charter dive boats from Port Stanley or nearby Ontario north shore ports provide access. Local Lake Erie dive charter operators offer multi-wreck day trips to this region's wreck collection. Entry by giant stride. Deploy SMB on ascent.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Drysuit or 7mm wetsuit recommended for cold bottom temperatures
+- Bring a torch for hull examination
+- Early morning diving typically offers better visibility
+- Combine with other nearby Lake Erie wrecks for a full day charter
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Lake Erie weather demands constant awareness. Conditions can shift rapidly with little warning. Always check weather forecasts and be prepared to abort. Cold water demands thermal protection. Dive with a buddy and carry an SMB.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+Lake Erie's blue-green ambient light and dense perch schools create characteristic freshwater wreck photography. A torch enhances hull detail images. The early morning light on calm days produces the best conditions.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

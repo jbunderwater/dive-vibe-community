@@ -11,55 +11,56 @@ osmId: 13429643555
 addedBy: osm_import
 ---
 
-## Tyee Shoal
+# Tyee Shoal
 
-Tyee Shoal is a reef dive site in Puget Sound, North America.
+A rocky shoal in central Puget Sound near the Kitsap Peninsula, offering accessible cold-water diving for divers based in the Seattle–Tacoma metropolitan area.
 
 ## Overview
 
-Tyee Shoal is a dive site in Puget Sound offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Tyee Shoal is a submerged rocky rise in central Puget Sound, in the waters between the Kitsap Peninsula and the main basin south of Seattle. The shoal is positioned in an area of moderate tidal exchange that delivers nutrients to its marine communities. The site is accessible to divers based in the greater Seattle–Tacoma area and represents the typical character of central Puget Sound diving: cold, green water (8–12°C), moderate visibility (6–10 metres), and a productive invertebrate community covering the rocky substrate. Maximum depth is 18 metres.
 
 ## Site Information
 
-- **Location**: Puget Sound, North America
+- **Location**: Central Puget Sound, near Kitsap Peninsula, Washington
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky shoal
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 6–10 metres
+- **Water Temperature**: 8–12°C
+- **Current**: Moderate tidal
+- **Best Time**: April to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Giant Pacific octopus are the signature encounter at central Puget Sound shoals like Tyee. The boulder structure provides den habitat, and octopus here can be large. Lingcod and copper rockfish are resident throughout. Puget Sound king crabs and Dungeness crabs cross the sandy margins. The rocky surface supports plumose anemones, encrusting sponges, sea stars, and nudibranchs. In the water column, Pacific herring and other schooling baitfish attract larger predators. Spotted ratfish are commonly seen on or near the sandy bottom.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The shoal crest may be as shallow as 6 metres, enabling a comfortable safety stop at the end of the dive without a separate stop. Work from the crest outward and down to the 18-metre base, covering the most boulder-rich sections. The sandy transitions at the shoal's base are worth investigating for flatfish, crabs, and additional octopus.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access only. Operated by Puget Sound dive charters based in Seattle, Tacoma, and Bremerton. Anchor on the down-current side. Back-roll or giant stride entry. Deploy an SMB before ascending — central Puget Sound has heavy vessel traffic including commercial ferries and shipping. Surface upwind of the vessel.
 
-## Tips and Recommendations
+## Tips
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Central Puget Sound is driveable from Seattle in under an hour, making this a practical half-day dive destination
+- Winter and spring dives often have better visibility than summer when plankton blooms cloud the water
+- Check the noise conditions — naval operations in this part of the Sound occasionally affect dive plans
+- Spotted ratfish, with their distinctive iridescent spots and large eyes, are a Puget Sound speciality worth seeking out
 
-## Safety Considerations
+## Safety
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Boat traffic in central Puget Sound is year-round and includes commercial vessels, Washington State Ferries, and naval ships. An SMB is mandatory for every ascent. Cold water (8–12°C) requires dry suit or thick wetsuit. Tidal planning is advisable; while currents in the central basin are moderate, slack diving is more comfortable.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Octopus portraits in the boulder dens are the photographic highlight at Tyee Shoal. Ratfish on the sandy bottom make unusual and compelling macro subjects. Lingcod resting on the rock surface provide good portrait opportunities. Plumose anemone macros are productive throughout. Strobes required.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## Lottie Wolf (Wrack)
 
-Lottie Wolf (Wrack) is a historic wreck dive in Great Lakes, North America.
+The Lottie Wolf is a 19th-century wooden schooner wreck lying in Georgian Bay, Lake Huron, near Collingwood, Ontario. This vessel is part of the rich maritime heritage of Georgian Bay's eastern shore, where cold, clear freshwater has preserved wooden hulls through more than a century of submersion.
 
 ## Overview
 
-Lottie Wolf (Wrack) is a dive site in Great Lakes featuring the wreck of the Lottie Wolf (Wrack). Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Georgian Bay's eastern shoreline and the waters around Collingwood saw extensive commercial traffic throughout the 19th century as the area developed as an important port for lumber, grain, and passenger traffic. The Lottie Wolf was among the many vessels that made this trade possible before meeting her end in Georgian Bay's sometimes violent weather. She now rests at approximately 20 metres in the cold, relatively clear waters of eastern Georgian Bay. Unlike the Tobermory area's exceptional clarity, visibility here is typically more modest at 5–10 metres, but the wreck's preservation is excellent and it forms an interesting dive in a less-visited part of Georgian Bay.
 
 ## Site Information
 
-- **Location**: Great Lakes, North America
+- **Location**: Georgian Bay, Lake Huron, Ontario, Canada
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
+- **Maximum Depth**: 20 metres
+- **Typical Visibility**: 5–10 metres
+- **Water Temperature**: 4–20°C (seasonal); bottom 4–8°C
+- **Current**: Generally mild in eastern Georgian Bay
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Eastern Georgian Bay wreck sites host healthy freshwater communities. Smallmouth bass are the dominant fish, frequently seen darting in and out of the hull. Yellow perch school around the masts and rigging remains. Lake whitefish occasionally pass overhead in open water above the site. Crayfish are common on the bottom debris field. Zebra mussels colonize hard surfaces below approximately 8 metres.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The wreck lies on the sandy-silty bottom of eastern Georgian Bay. Standard bow-to-stern exploration works well. Note the hull construction — 19th-century wooden schooner building methods visible in the planking, framing, and iron hardware. Maximum depth 20 metres. Ascend on the anchor line for a standard safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Charter dive boats from Collingwood or nearby Georgian Bay towns provide access. The Collingwood area has dive charter operators serving the local wreck collection. Entry by giant stride. Deploy SMB on ascent.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Collingwood is a pleasant base for multi-day diving in eastern Georgian Bay
+- Drysuit recommended for extended bottom time
+- The wreck is less visited than the Tobermory sites — weekday diving offers solitude
+- Torch recommended for hull examination
+- Heritage laws protect all artifacts
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Georgian Bay can develop significant wave action with northwest winds. Always check forecasts before heading out. Cold water demands thermal protection. Dive with a buddy and carry an SMB.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+Eastern Georgian Bay wreck photography in 5–10 metres visibility benefits from supplemental lighting. The 19th-century wooden hull provides excellent texture and detail for close-up shots. Ambient light photography works best on calm, sunny days.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

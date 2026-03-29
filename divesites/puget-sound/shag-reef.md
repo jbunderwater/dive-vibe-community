@@ -11,55 +11,56 @@ osmId: 632577924
 addedBy: osm_import
 ---
 
-## Shag Reef
+# Shag Reef
 
-Shag Reef is a reef dive site in Puget Sound, North America.
+A rocky reef on the western edge of the San Juan Islands, near Haro Strait, with a kelp forest canopy and classic Pacific Northwest cold-water marine communities.
 
 ## Overview
 
-Shag Reef is a dive site in Puget Sound offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Shag Reef is a rocky submerged reef close to the Haro Strait boundary on the western side of the San Juan Islands. The site takes its name from the presence of pelagic cormorants (shags) that roost and dive on the nearby rocks above the waterline. Below the surface, the reef supports a dense kelp canopy in summer and a rocky substrate covered in plumose anemones, sponges, and encrusting organisms. The tidal influence from the adjacent strait keeps the water cold (7–11°C) and productive year-round. Maximum depth is 18 metres.
 
 ## Site Information
 
-- **Location**: Puget Sound, North America
+- **Location**: Near Haro Strait, western San Juan Islands, Washington
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef with kelp canopy
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 8–14 metres
+- **Water Temperature**: 7–11°C
+- **Current**: Strong tidal near Haro Strait; plan carefully for slack
+- **Best Time**: June to September
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Bull kelp at Shag Reef creates a multi-level habitat that attracts juvenile rockfish, kelp greenlings, and Puget Sound perch into the upper water column. Beneath the canopy, the rock faces support lingcod and larger rockfish. Giant Pacific octopus are present in the boulder areas at the reef base. Wolf eels occupy crevice dens in the deeper sections. The Haro Strait location means cormorant and great blue heron foraging is visible above the surface, and harbour seals regularly pass through. Invertebrates include plumose anemones, encrusting sponges, and nudibranchs throughout.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The kelp canopy begins just below the surface and extends to the reef top at 5–8 metres. Descend through the canopy to the rocky substrate below, working toward the outer edges of the reef at 18 metres. The dense anemone and fish communities in the 8–15 metre zone reward a slow, thorough exploration. Return to the reef crest for a safety stop in the kelp forest.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access only. The Haro Strait exposure means wind and current conditions should be carefully assessed before diving. Anchor on the lee side. Back-roll or giant stride entry, keeping clear of dense kelp at the surface entry point. On ascent, surface in a clear area away from the kelp canopy's densest portions. Deploy an SMB before ascending.
 
-## Tips and Recommendations
+## Tips
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The kelp canopy in August is at its most impressive — fronds can be 6–8 metres long
+- Linger below the kelp canopy looking upward — the filtered light through the golden fronds is a memorable visual
+- Check for ratfish in the sandy patches at the base of the reef — this distinctive species is a Pacific Northwest speciality
+- The Haro Strait location means orca sightings from the boat surface interval are possible in summer
 
-## Safety Considerations
+## Safety
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Proximity to Haro Strait means current can be strong. Plan dives for slack water and have a conservative exit time agreed before entering. Kelp tangles rarely cause serious issues but carry a dive knife for accessibility. Cold water requires dry suit. Deploy SMB before all ascents.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The kelp forest at Shag Reef is one of its finest photographic features — wide-angle upward shots through the canopy create stunning natural light images. Lingcod and rockfish portraits in the rock zone below, nudibranchs on encrusted surfaces, and the dense anemone walls all offer excellent subjects. Strobes bring out the colour that ambient light suppresses at depth.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

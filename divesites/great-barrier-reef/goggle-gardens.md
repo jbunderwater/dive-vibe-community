@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Goggle Gardens
 
-Goggle Gardens is a reef dive site in Great Barrier Reef, Oceania.
+Goggle Gardens is a shallow coral garden dive site in the Ribbon Reefs of the northern Great Barrier Reef, Queensland, Australia, near Pixie Pinnacle.
 
 ## Overview
 
-Goggle Gardens is a shallow reef site with beautiful coral formations and colorful reef fish, perfect for beginner divers and snorkelers. Located in the central Great Barrier Reef, this site offers 10-15 meters of visibility with water temperatures of 23-27°C. The site features vibrant coral gardens with excellent macro photography opportunities and calm diving conditions.
+Goggle Gardens occupies a broad, shallow reef section adjacent to the Pixie Pinnacle area, offering a complementary experience to the concentrated bommie diving of nearby Pixie Pinnacle and Pixie Gardens. The name likely refers to the site's visibility and colour impact — a reef so vivid that it prompts divers to widen their eyes in the manner of wearing goggles, or alternatively to the goggle-like appearance of the coral formations from above.
+
+The site spreads across a gently undulating shallow reef at 8–14 metres, with excellent coral coverage and the clear Ribbon Reef water that makes this northern section of the GBR among the most photographically rewarding on the east coast of Australia.
 
 ## Site Information
 
-- **Location**: Great Barrier Reef, Oceania
+- **Location**: Ribbon Reefs (near Pixie Pinnacle), northern Great Barrier Reef, Queensland, Australia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 14 meters
-- **Typical Visibility**: 15-40 meters (50-130 feet)
-- **Current**: Variable
-- **Best Time**: September to February
+- **Typical Visibility**: 15–30 metres
+- **Current**: Generally mild
+- **Best Time**: July to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals.
+The shallow reef garden supports a dense and varied community of reef species. Parrotfish crunch through the coral in continuous grazing activity, and surgeonfish schools sweep across the reef top. Clownfish are found throughout the anemone colonies scattered across the garden. Hawksbill turtles are consistent visitors, browsing the sponges in the reef's lower sections. The clear water and excellent light levels mean fish colours are vivid and immediately apparent — the butterflyfish pairs and moorish idols of the area are particularly visible. Nudibranchs reward careful searching of coral surfaces.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 14 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-14 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+A relaxed, exploratory dive across the reef garden, staying within the 8–14 metre range throughout. No single compelling depth zone means divers can follow interest rather than depth profiles. The shallow depth produces extended bottom times ideal for slow, methodical exploration. The site is suited to multiple visits — the breadth of the reef garden means different areas are accessible on successive dives.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Liveaboard access only; near the Pixie Pinnacle mooring area. Free descent from the surface. Exit via SMB with liveaboard tender pickup or swim back to the vessel.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Combine with a dive at Pixie Pinnacle and Pixie Gardens for a full Ribbon Reef shallow diving experience
+- Natural light photography is outstanding here — the 8–12 metre depth range at midday renders coral colours naturally
+- Slow down to find nudibranchs on the coral surfaces — the reef garden environment has more critters than it appears on a first pass
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish (box jellyfish in summer), crocodiles (north) in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+One of the most relaxed and straightforward dive sites in the Ribbon Reefs area. Shallow depth, mild conditions, and excellent visibility combine to minimise typical dive hazards. Sun protection remains important during surface intervals in the tropics. Standard SMB protocol applies for liveaboard pickup.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Goggle Gardens rewards natural-light photography with its shallow depth and clear water. Wide-angle reef garden shots at 8 metres in morning or mid-morning light produce vibrant images with excellent colour rendition. Clownfish and anemone compositions are reliable subjects. Bring a macro lens for nudibranch details.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

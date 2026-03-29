@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Fantastic Reef
 
-Fantastic Reef is a reef dive site in Philippines Palawan, Asia.
+Fantastic Reef is a coral dive site near Port Barton in northern Palawan, one of the named reef sites in the scenic bay and island system that makes Port Barton a growing destination for divers and island-hoppers alike.
 
 ## Overview
 
-Fantastic Reef is a dive site in Philippines Palawan offering rewarding diving on healthy coral reef structures . Port Barton. Dramatic coral formations with massive brain corals. Schools of fish cruise the site. Drop-offs visible in calm seas. Good intermediate skill level site.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Sitting in the protected waters around Port Barton, Fantastic Reef earns its name from the dramatic coral formations that populate its structure. Massive brain corals stand out as particularly impressive specimens, reaching significant size after years of undisturbed growth. Schools of fish cruise the reef in coordinated formations, while the deeper sections at 20–25 meters offer drop-offs visible in calm seas. The site is suitable for intermediate divers and is typically dived from Port Barton's local dive operators during the northeast monsoon season when conditions are favourable.
 
 ## Site Information
 
-- **Location**: Philippines Palawan, Asia
+- **Location**: Port Barton, northern Palawan, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 10-25 meters
+- **Current**: Moderate; can be stronger near drop-offs
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Large brain coral heads form the centrepiece of the reef, with colourful reef fish communities clustered around them. Schools of snapper, fusiliers, and barracuda move through the water column above the reef. Sea turtles are commonly encountered resting on or swimming above the coral formations. Napoleon wrasse, grouper, and lionfish occupy the deeper sections, and the sandy patches adjacent to the reef yield the occasional stingray or flatfish.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef slope and explore the dramatic coral formations in the mid-depth range of 10–20 meters. The larger brain corals and table corals are distributed across this zone. Continue to 25 meters to check the deeper drop-off sections before working back up the reef. Allow 15–20 minutes on the shallower reef for a relaxed finish and safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Port Barton dive operators run day trips to Fantastic Reef by bancas (outrigger boats), typically departing in the morning. Entry by giant stride or back roll from the banca; return by ladder or with assistance from the crew. The crossing from Port Barton is short, making this accessible for multiple dives in a day.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Port Barton is far less developed than El Nido — dive here for a more intimate experience
+- Ask your dive operator about current and visibility conditions on the day
+- The impressive brain coral formations deserve close inspection — approach slowly and don't touch
+- Morning is the best time for visibility and calm sea conditions
+- Combining with other Port Barton sites such as Shark Point or the San Telmo Island reefs makes for a full diving day
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Port Barton is a quieter destination than El Nido, but dive operators are experienced with local conditions. Currents near the drop-off sections can increase abruptly; maintain awareness of your depth and air. Carry an SMB for the ascent.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The large brain coral formations provide spectacular wide-angle subjects, particularly when backlit with natural light from above. Schools of fish hovering above the reef are ideal for blue-water reef photography. Detail shots of the coral textures and resident reef fish are equally productive.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

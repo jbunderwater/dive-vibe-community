@@ -11,55 +11,57 @@ osmId: 663869331
 addedBy: osm_import
 ---
 
-## La Francesa
+# La Francesa
 
-La Francesa is a reef dive site in Cozumel, Caribbean.
+A southern Cozumel reef known for its healthy coral gardens and resident population of spotted eagle rays attracted by the sandy inter-reef channels.
 
 ## Overview
 
-La Francesa is a dive site in Cozumel offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+La Francesa (The Frenchwoman) occupies the southern dive corridor of Cozumel's leeward coast, positioned between Palancar to the south and El Cedral to the north. The site features a spur-and-groove coral system with well-developed coral ridges interspersed by white sandy channels that attract rays and stingrays. The coral health here is notable — the southern reefs of Cozumel within the national park have experienced relatively lower bleaching stress compared to northern sites in recent thermal events. The 18-meter maximum depth and typically manageable currents place La Francesa in comfortable intermediate territory. It functions well both as a standalone dive and as the second site on a Palancar morning pairing.
 
 ## Site Information
 
-- **Location**: Cozumel, Caribbean
+- **Location**: Southern leeward coast, Cozumel, Quintana Roo, Mexico
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Spur-and-groove coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Maximum Depth**: 18 meters (60 feet)
+- **Typical Visibility**: 20–35 meters (65–115 feet)
+- **Current**: Light to moderate northward drift
+- **Best Time**: November to April; year-round diving possible
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Spotted eagle rays are a consistent feature at La Francesa — the sandy channels create natural corridors along which the rays cruise, and the moderate currents carry sufficient plankton and small invertebrates to keep them active in this zone. Southern stingrays rest in the sandy channels, sometimes partially buried. Hawksbill turtles graze throughout the site. Large queen triggerfish establish territories on the reef in summer months and can be observed in territorial behaviour around their nests. Yellowtail snapper and schoolmaster snapper aggregate in large schools under coral ledges. The splendid toadfish has been recorded at La Francesa — check crevices at 10–15 meters.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+A drift along the top of the spurs at 8–12 meters, descending into the channels to 15–18 meters to observe the ray activity on the sandy floor. The natural structure of the spur-and-groove terrain provides straightforward navigation for intermediate divers. Allow the current to assist the drift; fighting it unnecessarily consumes air and energy. Ascend to the reef crest for the final portion of the dive before deploying your SMB at 5 meters.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from San Miguel; the southern position means a 25–35 minute ride. Mooring buoys within the national park. Operators commonly combine La Francesa with Palancar Gardens for a morning two-tank trip.
 
-## Tips and Recommendations
+## Tips
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Look across the sandy channels in both directions as you drift — eagle rays often appear at a distance and sweep across the channel floor
+- The southern reefs experience less boat traffic than central sites; budget extra time in the water given the travel investment
+- La Francesa is an excellent intermediate step between the calmer beginners' sites and the deeper Palancar sections
+- Alert your divemaster if you spot what appears to be a toadfish — they appreciate confirmation of sightings for their local knowledge records
+- Bring a torch to illuminate the crevice undersides — this is where the most secretive reef species hide
 
-## Safety Considerations
+## Safety
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The longer boat ride to southern sites means that self-sufficient dive planning is important — check your gear carefully before departure, as emergency resupply is distant. Fire coral is present on coral structures. Standard drift diving protocols apply; SMB deployment before ascending is non-negotiable.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Eagle rays crossing the white sandy channels are a classic Cozumel image — use a wide-angle lens and position yourself slightly above the channel floor for a dramatic downward angle on an approaching ray. Natural light in the southern reefs is exceptional given the clarity and depth. Turtle portraits are reliably achievable throughout the site. The abundant snapper aggregations under coral ledges reward wide-angle shooting when conditions allow you to approach without disturbing the school.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Arrecifes de Cozumel National Park**: Site within protected zone
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

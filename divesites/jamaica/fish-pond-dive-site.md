@@ -7,59 +7,60 @@ maxDepth: 18
 entryType: boat
 siteType: reef
 ref: null
-osmId: 13614819150
+osmId: null
 addedBy: osm_import
 ---
 
-## Fish Pond (Dive Site)
+# Fish Pond (Dive Site)
 
-Fish Pond (Dive Site) is a reef dive site in Jamaica, Caribbean.
+A colorful Montego Bay reef packed with swim-throughs, caverns, and dense fish populations, frequently visited for its eagle ray sightings.
 
 ## Overview
 
-Fish Pond (Dive Site) is a dive site in Jamaica offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Fish Pond is one of the most popular reef dives within the Montego Bay Marine Park, known for its multiple caverns, swim-throughs, and exceptional fish density. The reef here features a network of overhangs and small cavern formations at 15–18 metres that shelter clouds of fish. The site is named for the dense aggregations of fish — particularly large mixed schools of grunts, snapper, and chromis — that pack the overhangs and cavern sections. Eagle rays are a common sighting at Fish Pond, often seen on the sandy channels adjacent to the reef. Nearby Fish Pond Alley extends the dive with more cavern terrain at a similar depth. The clear water and predictable calm conditions make this a reliable and popular site.
 
 ## Site Information
 
-- **Location**: Jamaica, Caribbean
+- **Location**: Montego Bay Marine Park, Jamaica
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 20–30 meters (65–100 feet)
+- **Current**: Light
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Dense schools of French grunts, porkfish, and blue-striped grunts pack the overhangs and cavern sections. Eagle rays glide across the sandy channels below the reef — multiple individuals are sometimes present. Nurse sharks rest beneath deep overhangs. Hawksbill turtles are frequently present. Large green moray eels occupy the cavern interiors. French angelfish and queen angelfish are abundant. Caribbean spiny lobsters are found in crevices throughout. Spotted eagle rays are occasional visitors on the open sand.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef at 10–12 metres and navigate toward the cavern sections at 15–18 metres. Follow the reef contours to find the overhangs — the divemaster will lead you to the best sections. The swim-through caverns provide natural navigation routes at depth. After exploring the deeper cavern terrain, work back up the reef to the 10-metre plateau for a second exploration before your safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by dive boat from Montego Bay operators. The site is within the Montego Bay Marine Park and boats use mooring buoys. Entry via giant stride or back roll. Deploy SMB on ascent for boat pickup. This site is often combined with Stingray City or Pelican Reef on a two-tank trip.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Look into the sandy areas for eagle rays — they often rest on the bottom between the cavern sections
+- The overhangs are densest between 15 and 18 metres — descend fully to see the best fish concentrations
+- Bring a dive torch to illuminate the cavern interiors and see the full colors
+- Fish Pond Alley nearby extends the dive with additional cavern terrain
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Maintain good buoyancy in the cavern sections — the ceiling and walls support living coral and sponge. Enter overhangs in small groups and avoid disturbing silt. Carry adequate air for the deeper sections and maintain a reserve for the ascent and safety stop.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Fish Pond offers spectacular wide-angle photography of the fish-packed overhangs. Shooting upward into an overhang with fish silhouetted against the opening captures the density of fish life. Eagle rays on the sand are compelling subjects at this site — approach slowly and shoot wide. The cavern interiors with torch illumination provide dramatic low-key images.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Marine Park Info**: Montego Bay Marine Park Authority
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

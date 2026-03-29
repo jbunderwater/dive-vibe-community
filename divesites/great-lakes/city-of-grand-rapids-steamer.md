@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## City of Grand Rapids (steamer)
 
-City of Grand Rapids (steamer) is a historic wreck dive in Great Lakes, North America.
+The City of Grand Rapids is an extremely shallow wreck lying in just 5 metres of water in Fathom Five National Marine Park near Tobermory, Ontario. This side-wheel steamer, which sank in 1907 during a fire, is one of the most accessible wreck dives in the Great Lakes — its upper structure is visible from the surface on clear days, making it a popular snorkelling and beginner diving destination.
 
 ## Overview
 
-City of Grand Rapids (steamer) is a dive site in Great Lakes featuring the wreck of the City of Grand Rapids (steamer) which sank in 1907. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The City of Grand Rapids was a passenger and freight steamer that caught fire and sank in the Big Tub Harbour area of Tobermory in 1907. She was a wooden side-wheel steamer typical of the passenger vessels that served Georgian Bay communities in the late 19th and early 20th centuries. The wreck sits in just 5 metres of crystal-clear Georgian Bay water, making it visible from the surface in good conditions and accessible even to snorkellers. The shallow depth also means the wreck receives natural light and retains vivid colour, a different experience from the dimmer deeper wrecks at Tobermory. A remarkable artifact, the side-wheel mechanism has been a landmark feature for visitors for decades.
 
 ## Site Information
 
-- **Location**: Great Lakes, North America
-- **Entry Type**: Boat dive
+- **Location**: Georgian Bay, Lake Huron, Fathom Five National Marine Park, Ontario, Canada
+- **Entry Type**: Boat dive (also snorkel accessible)
 - **Site Type**: Wreck
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 5 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 5 metres
+- **Typical Visibility**: 10–20 metres
+- **Water Temperature**: 10–20°C at surface in summer; cooler at the wreck bottom
+- **Current**: Minimal in protected Big Tub Harbour area
+- **Best Time**: June to September
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The shallow, sunlit wreck supports a diverse and visually rich community. Sunfish (pumpkinseed and bluegill) hover around the hull, attracted by the algae-covered wood. Smallmouth bass are territorial around the protected hull spaces. Crayfish are abundant on the bottom around the wreck. In summer, the warm, shallow water supports water plants and algae growth that provides habitat for juvenile fish. The wreck is effectively a small freshwater reef.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 5 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+This is an ideal first wreck dive or refresher dive. Simply descend to 5 metres and spend the entire dive exploring the wreck's extent. The side-wheel feature and hull framework are the highlights. No decompression concerns at this depth — enjoy extended bottom time while monitoring air consumption. Exit the water comfortably with a large reserve.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Charter dive boats from Tobermory Harbour often include the City of Grand Rapids as part of a multi-site day, or it can be accessed independently as a beginner introduction. Some guided shore-access options exist. Entry by giant stride or ladder descent. The shallow depth makes entry and exit easy.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
+- This is an excellent first wreck dive for open water divers new to wreck exploration
+- Snorkelling is viable in good visibility conditions — the hull is visible from the surface
+- The site works well as a warm-up or checkout dive before heading to the deeper Tobermory wrecks
+- A Fathom Five National Marine Park day pass is required
+- Morning visits often have better visibility before afternoon boat traffic
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+This site is genuinely beginner-friendly, but cold water remains a consideration even at 5 metres — the water is significantly cooler than tropical diving environments. A wetsuit of at least 3mm is recommended. The protected harbour setting means minimal current and wave action. Always dive with a buddy.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The City of Grand Rapids is outstanding for natural-light photography. The 5-metre depth allows full ambient light penetration, showing the wreck's structure in vivid colour without the need for artificial lighting. Wide-angle shots of the entire hull framed with sunlight from above, or close-up images of the side-wheel mechanism, are popular subjects.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

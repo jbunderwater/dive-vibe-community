@@ -13,55 +13,54 @@ addedBy: osm_import
 
 ## Bounty
 
-Bounty is a historic wreck dive in Lombok, Asia.
+The Gili Islands' most accessible wreck dive — a pontoon on Gili Meno's northern slope fully overgrown with soft corals and sheltering pygmy seahorses.
 
 ## Overview
 
-Bounty is a dive site in Lombok featuring the wreck of the Bounty . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The Bounty Wreck (also called Meno Wreck) lies on the northern slope of Gili Meno, where a pontoon that was used during jetty construction sank after developing a hole. The pontoon's top sits at about 6 m and its deepest tip at 17 m, making it accessible to Open Water level divers throughout its length. Over the years the structure has been completely colonised by soft and hard corals and now functions as a thriving artificial reef. The Bounty is the best place in the Gili Islands to search for pygmy seahorses, and frogfish, scorpionfish, and sweetlips are reliable residents.
 
 ## Site Information
 
-- **Location**: Lombok, Asia
+- **Location**: North slope of Gili Meno, Gili Islands / Lombok
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 18 m
+- **Typical Visibility**: 15–25 m
+- **Current**: Mild to moderate
+- **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter batfish, lionfish, sweetlips, coral growth, soft corals, manta rays, whale sharks, reef sharks. Additional species commonly sighted include sea turtles, barracuda, trevally. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Pygmy seahorses on the soft coral growth of the wreck — this is the best site in the Gilis for finding them. Frogfish in various colour morphs on the hull. Scorpionfish camouflaged against the encrusted surface. Sweetlips in resident groups. Moray eels inside the structure. Turtles cruise past the shallow sections.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 18 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the deeper tip of the pontoon at 17 m and work your way up to the shallowest section at 6 m. Search the soft coral growth methodically for pygmy seahorses and frogfish. The entire wreck can be circled multiple times given the generous air at this depth. Complete the safety stop above the shallow section.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat from Gili Meno or Gili Trawangan operators. Mooring on the wreck. Entry via back roll. Minimal current on most days. Ascent from the wreck structure for the safety stop.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- This is the premier site in the Gili Islands for pygmy seahorse searching — ask your guide for known locations
+- Frogfish are cryptic; look for irregular shapes on the encrusted surfaces
+- A torch reveals colour on the soft corals that is lost without artificial light
+- Combine with Meno Wall for a comprehensive Gili Meno diving day
+- The wreck is accessible enough for completion of Advanced Open Water deep adventure dives
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The wreck structure may have sharp metal edges — do not touch it. Do not attempt interior penetration without wreck diving training. Scorpionfish are extremely well-camouflaged on the hull — never rest hands or knees on the wreck surface. Always carry an SMB.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+Pygmy seahorses on soft coral require a dedicated macro lens and patience. Frogfish portraits in their cryptic positions on the wreck suit macro. Wide-angle captures the complete pontoon structure with accompanying fish life. The coral-covered hull makes stunning close-focus wide-angle subjects.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

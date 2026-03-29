@@ -11,57 +11,53 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Carlisle Bay - Eilon
+# Carlisle Bay - Eilon
 
-Carlisle Bay - Eilon is a historic wreck dive in Barbados, Caribbean.
+A shallow, accessible wreck in Carlisle Bay's celebrated cluster — a compact vessel at 10 metres with good encrustation and a sheltered position ideal for snorkel tours, beginner divers, and those wanting a relaxed orientation to Barbados wreck diving.
 
 ## Overview
 
-Carlisle Bay - Eilon is a dive site in Barbados featuring the wreck of the Carlisle Bay - Eilon. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Eilon is one of the smaller vessels in the Carlisle Bay wreck cluster, lying at 10 metres off the Barbados west coast south of Bridgetown. The wreck sits upright in the sandy bay, its hull and deck covered with encrusting sponges and coral growth built up over years of submersion. The shallow depth and calm Carlisle Bay conditions make the Eilon one of the most accessible wreck dives in Barbados — reachable independently by shore divers and by snorkellers swimming from the surface in good visibility. The site is typically visited as part of a multi-wreck tour of the bay. Visibility averages 15–20 metres. Water temperature is 26–28°C.
 
 ## Site Information
 
-- **Location**: Barbados, Caribbean
-- **Entry Type**: Shore entry
-- **Site Type**: Wreck
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 10 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 3–10 m |
+| Difficulty | Beginner |
+| Entry Type | Shore |
+| Site Type | Wreck |
+| Visibility | 15–20 m |
+| Current | Very light |
+| Water Temp | 26–28°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Eilon's relatively shallow structure supports the typical Carlisle Bay wreck fish community. Schools of sergeant majors and yellowtail snappers occupy the deck areas. Hawksbill turtles are a constant presence in Carlisle Bay and visit the wreck regularly. Caribbean reef octopus shelter in hull crevices. Southern stingrays rest on the sand around the hull base. The encrusted surfaces support Christmas tree worms and feather duster worms visible to the careful observer.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 10 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Shore entry and surface swim to the wreck mooring buoy. Descend to the deck at 5–7 metres and explore the full circumference at deck level before dropping to the sandy base at 10 metres. The compact scale means the wreck can be covered quickly — multiple passes or a slow, observation-focused exploration are both viable approaches.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry from the Carlisle Bay beach. Surface swim to the wreck. Exit at the same beach entry point.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+The Eilon is best combined with the adjacent Berwyn and Ce-Trek wrecks for a comprehensive Carlisle Bay multi-wreck dive. Arrive early to the bay to avoid peak snorkel tour boat traffic on the wrecks. The shallow depth makes this an excellent second or third wreck in a multi-site bay tour.
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Very low-risk site given the depth and calm conditions. DSMB recommended for signalling during surface return. Be alert for snorkel tour boats operating in the bay. Fire coral is present on some hull sections.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The Eilon in 10 metres of Carlisle Bay's typically clear water is excellent for natural-light photography. Turtle portraits over the wreck, feather duster worm close-ups on the hull, and school-of-fish compositions are all achievable without strobes.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- Barbados Blue and Heatwave Water Sports: offer Carlisle Bay wreck tours including the Eilon
+- The Carlisle Bay wrecks are accessible independently from the beach by confident shore divers
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

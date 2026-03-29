@@ -13,61 +13,55 @@ addedBy: osm_import
 
 ## Douglas Rock
 
-Douglas Rock is a reef dive site in Alaska, North America.
+A tidal rock formation in the Ketchikan area offering dense invertebrate communities and frequent rockfish encounters.
 
 ## Overview
 
-Douglas Rock is a dive site in Alaska offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Douglas Rock is a submerged rocky formation rising from the cold waters of the Inside Passage near Ketchikan, Alaska. Sitting in a tidal zone that funnels nutrients to resident filter feeders, the rock is colonized by thick clusters of aggregating anemones, encrusting sponges, and sea stars across its flanks. Lingcod and black rockfish are the most commonly encountered fish species, while giant Pacific octopus occupy the deeper crevices and overhangs. The site is part of the broader cluster of named dive rocks in the Ketchikan area that dive operators regularly visit during slack tide windows. Clear water conditions in late summer and early winter provide the best visibility at this site.
 
 ## Site Information
 
-- **Location**: Southeast Alaska (Ketchikan area), Alaska
+- **Location**: Southeast Alaska (Ketchikan area), Inside Passage
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef / exposed rock
 - **Difficulty Level**: Advanced
-- **Typical Visibility**: 8-20 meters (26-66 feet)
-- **Current**: Strong, slack tide required
-- **Water Temperature**: 6-12°C (43-54°F)
-- **Best Time**: July-September (warmest months)
-
+- **Maximum Depth**: 26 meters (85 feet)
+- **Typical Visibility**: 8–18 meters (26–60 feet)
+- **Current**: Strong — slack tide required
+- **Water Temperature**: 6–12°C (43–54°F)
+- **Best Time**: June–September
 
 ## Marine Life
 
-The rocky formations support cold-water invertebrate communities including sea urchins, starfish, anemones, nudibranchs, and sponges. Lingcod, rockfish, and cabezon patrol the rocks. Giant Pacific octopus inhabit rock crevices. Kelp fronds extend from shallower formations.
-
+Douglas Rock supports an excellent cross-section of Inside Passage invertebrate fauna. Plumose and aggregating anemones dominate the upper rock faces. Sea urchins, Dungeness crabs, and various sea star species occupy the rock base. Lingcod and cabezon patrol the structure, sometimes resting motionlessly among the invertebrate coverage. Wolf eels have been reported in crevices by local divers. Steller sea lions occasionally investigate dive groups in these waters.
 
 ## Dive Profile
 
-Descend to the rocky formation and stay close to structure for current management. Explore rock faces and crevices watching for fauna. Most dive time spent between 15-24 meters. Watch for large mobile fauna on exposed areas.
-
+Begin by descending directly onto the rock during the slack period, typically identifying the top at 8–12 meters before working down the flanks to depth. The most productive zone for fish and invertebrates is between 12–22 meters. Manage your no-decompression time and ascent carefully, as there is no decompression infrastructure in the vicinity.
 
 ## Entry and Exit
 
-Boat dive access from Ketchikan or nearby operators. Descend directly on a line or GPS coordinates. Maintain group cohesion.
-
+Access is by dive charter from Ketchikan. Local operators know the slack tide schedules and positioning requirements for this site. Shot lines or anchor descent is typical. Use an SMB on every ascent.
 
 ## Tips and Recommendations
 
-- Book with a local dive operator familiar with slack tide schedules
-- Wear dry suit with proper thermal insulation
-- Install cold-water regulator
-- Use a dive torch for fauna spotting
-- Deploy surface marker buoy (SMB) at ascent
-- Practice buoyancy control on rocky bottom
-
+- This is one of several named rocks near Ketchikan regularly visited by local operators
+- Dive torch is essential for illuminating crevices where lingcod and octopus shelter
+- Plan multi-dive days to include several of the nearby rock sites
+- Dry suit maintenance check before every dive — leaking seals in 6°C water are dangerous
+- Wolf eel encounters are possible but treat these animals with respect and distance
 
 ## Safety Considerations
 
-This is an Advanced site requiring cold-water and current diving experience. Strong currents demand slack tide coordination. Limited visibility in glacier outflow requires navigation skills. Always dive with buddy, maintain group cohesion, and abort if conditions deteriorate.
-
+Strong tidal currents are the primary hazard at Douglas Rock, as with all exposed rocks in the Inside Passage. Divers should not enter the water unless slack tide conditions are confirmed. Cold water risks require proper dry suit protection and diver awareness of early hypothermia symptoms. Always dive with a buddy.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The aggregating anemone colonies make excellent wide-angle subjects when illuminated with strobes. Macro photography of nudibranchs and small crustaceans on encrusting bryozoan mats is productive. Lingcod are photogenic subjects that often allow close approaches when not harassed.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*

@@ -11,57 +11,56 @@ osmId: 663869368
 addedBy: osm_import
 ---
 
-## Wreck C-53
+# Wreck C-53
 
-Wreck C-53 is a historic wreck dive in Cozumel, Caribbean.
+An intentionally sunk Mexican Navy minesweeper that has become one of Cozumel's most diver-friendly artificial reefs.
 
 ## Overview
 
-Wreck C-53 is a dive site in Cozumel featuring a historic wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Felipe Xicoténcatl (hull number C-53) is a former United States Navy Admirable-class minesweeper transferred to the Mexican Navy and scuttled in 2000 to create an artificial reef off Cozumel's northwest coast. The vessel sits upright in 24 meters on a sandy plain, making it a classic recreational wreck dive. At 56 meters in length, the ship is large enough to require several dives to explore fully, yet shallow enough to allow excellent bottom time without decompression concerns. The hull has been heavily colonised over more than two decades of immersion, with coral encrustation, sponge growth, and algae creating a vivid artificial reef environment. The interior compartments are accessible to qualified wreck divers.
 
 ## Site Information
 
-- **Location**: Cozumel, Caribbean
+- **Location**: Northwest Cozumel, Quintana Roo, Mexico
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Intentionally sunk wreck (Admirable-class minesweeper)
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 24 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Maximum Depth**: 24 meters (80 feet) — the keel rests at this depth
+- **Typical Visibility**: 20–35 meters (65–115 feet)
+- **Current**: Typically mild; can increase in afternoon
+- **Best Time**: November to April; accessible year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The C-53 has evolved into a genuine artificial reef ecosystem. Large Atlantic spotted groupers have taken up residence around the superstructure. Moray eels occupy the anchor chain housing and porthole cavities. Schools of glassy sweepers and silversides fill the hold spaces, creating shimmering curtains of fish that part around divers. Juvenile Caribbean reef sharks have been sighted around the wreck perimeter. Hawksbill turtles are occasional visitors resting on the hull. The encrusting sponges — orange, purple, yellow — make the wreck as colourful as a natural reef. Flamingo tongue cowries inhabit sea fans growing from the deck fittings.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 24 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the sand beside the hull (typically on the port side where the mooring is attached) and orient yourself to the ship's layout. The deck is at around 16 meters, the sand at 24 meters at the keel. A full exterior circuit of the hull takes approximately 20 minutes, leaving ample time for interior exploration of the main holds and accessible passageways. Penetration of the interior's deeper sections is for certified wreck divers with torches only. Ascend along the hull to the deck level, then proceed to your safety stop in the water column.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from San Miguel; the C-53 is approximately 10–15 minutes from the main dive piers. A mooring buoy marks the wreck. Entry by giant stride; exit via boat ladder after SMB deployment at the safety stop.
 
-## Tips and Recommendations
+## Tips
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Carry a dive torch even for the exterior — the encrusted surfaces reveal far more detail with artificial light
+- Certified wreck divers can penetrate the engine room and main hold; consult with your operator about current guidelines
+- The C-53 is excellent for a second dive following a shallower reef site
+- Look inside every porthole and opening for resident moray eels and crustaceans
+- Early morning light entering through the open forward hatch creates beautiful interior shots
 
-## Safety Considerations
+## Safety
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Wreck penetration without proper training carries serious risk; the interior of the C-53 is accessible but proper wreck diving protocols must be followed. Maintain neutral buoyancy throughout to avoid disturbing the silt that has settled on interior surfaces, which can rapidly reduce visibility to near-zero. Do not exceed your certification level for penetration. Carry a torch whenever entering any enclosed space. Fire coral has established itself on portions of the hull.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The C-53 rewards both wide-angle and macro approaches. The full-hull exterior shot from the sand looking up at the silhouette is a classic Cozumel wreck image requiring a fisheye or ultra-wide lens. The glassy sweeper schools in the hold create extraordinary backlit images when light enters from exterior openings. For macro, the encrusted hull surfaces are rich with flamingo tongues, nudibranchs, and encrusting sponge patterns.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

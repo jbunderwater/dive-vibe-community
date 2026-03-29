@@ -13,55 +13,21 @@ addedBy: osm_import
 
 ## Vilamendhoo Housereef
 
-Vilamendhoo Housereef is a reef dive site in Maldives, Asia.
+Vilamendhoo Housereef is the fringing reef surrounding Vilamendhoo Island Resort in South Ari Atoll, renowned as one of the finest house reefs in the Maldives. Whale shark sightings are possible year-round in South Ari Atoll, and the house reef's position on this productive atoll means the resort's guests enjoy excellent marine life without ever leaving the island's jetty.
 
-## Overview
+### Site Conditions
 
-Vilamendhoo Housereef is a dive site in Maldives offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+- **Depth range**: 2–15 m
+- **Typical visibility**: 15–25 m
+- **Currents**: Generally very mild in the protected lagoon zone
+- **Best season**: Year-round excellent; May–December for peak whale shark season
 
-## Site Information
+### What to Expect
 
-- **Location**: Maldives, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+The house reef wraps entirely around the island, with the outer reef slope reaching 12–15 metres before dropping away more steeply. The reef crest is in exceptional condition, with dense hard coral coverage and prolific fish life habituated to regular diver presence. Hawksbill turtles graze on the reef virtually every day, often allowing close approach. Napoleon wrasse, resident nurse sharks, and large parrotfish are fixtures. The reef is particularly celebrated for whale shark encounters during the southwest monsoon season (May–October), when the nutrient-rich currents of South Ari Atoll draw these gentle giants to the surface to feed on plankton. Whale shark sightings from the jetty are not unusual, with snorkellers and divers regularly swimming with animals that cruise along the house reef at 5–8 metres depth.
 
-## Marine Life
+### Tips for Divers
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Shore entry directly from the beach or jetty makes the house reef immediately accessible 24 hours a day. Night dives are highly productive, with octopus, cuttlefish, Spanish dancer nudibranchs, and large crabs regularly encountered on the sand. Whale shark encounters follow resort snorkelling guidelines: no touching, maintain a 3-metre distance from the animal's head, and approach from the side rather than the front. The shallow depth profile is ideal for new divers but rewards advanced divers who move slowly and observe carefully.
 
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

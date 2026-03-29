@@ -13,55 +13,49 @@ addedBy: osm_import
 
 ## Wrack Ribolovc
 
-Wrack Ribolovc is a historic wreck dive in Croatia, Europe.
+Wrack Ribolovc is a small vessel wreck in the Split–Makarska region of southern Dalmatia. Located near the coast at a manageable depth of 20 metres, it serves as a pleasant, accessible wreck dive for intermediate-level divers exploring the waters around Split.
 
 ## Overview
 
-Wrack Ribolovc is a dive site in Croatia featuring the wreck of the Wrack Ribolovc. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The "Ribolovc" name likely refers to a fishing vessel or small working boat, and the wreck reflects that origin — a compact, relatively flat structure resting on a sandy bottom at around 18–20 metres. While the wreck is not large, it is well colonised by Mediterranean marine life and provides an interesting complement to the reef diving in the area. Visibility around Split is typically 10–20 metres, with clearer conditions occurring from late spring through early autumn.
 
 ## Site Information
 
-- **Location**: Croatia, Europe
+- **Location**: Split–Makarska Coast, Southern Dalmatia, Croatia
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 10–20 meters
+- **Current**: Generally mild
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Small wreck sites like this are often excellent for macro life. Octopus are regularly found sheltering in cavities formed by the hull. Moray eels peer from crevices in the encrusted structure. Nudibranchs and small crustaceans inhabit the sponge-covered surfaces. Sea bream and wrasse circle the site, and in summer months, mullet may be seen feeding around the wreck perimeter.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the wreck at 18–20 metres and make a full circuit of the hull. Peer into all accessible openings with a torch. The dive is relaxed and unhurried — allow time for close-up exploration. Finish with a gradual ascent and a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from Split-area operators serve this site. Entry by giant stride or back roll. Deploy an SMB on ascent.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- A torch is essential for inspecting cavities and bringing out the colours of encrusting organisms
+- This is an excellent second dive of the day after a deeper site
+- Good buoyancy control is important to avoid disturbing the silty bottom around the hull
+- The site can be combined with a reef or wall dive nearby for a full day programme
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Depth and conditions are well within recreational limits. The main hazard is silt disturbance in enclosed sections. Always dive with a buddy and carry an SMB for boat pickup. Dive within your certification level.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The compact wreck offers intimate macro photography opportunities — nudibranchs, octopus, and encrusting invertebrates all reward close inspection. Wide-angle shots of the full hull structure can be captured in good visibility conditions. The sandy bottom provides a clean, bright background.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

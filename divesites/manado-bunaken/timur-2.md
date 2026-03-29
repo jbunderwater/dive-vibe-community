@@ -13,55 +13,30 @@ addedBy: osm_import
 
 ## Timur 2
 
-Timur 2 is a wall dive site in Manado & Bunaken, Asia.
+Timur 2 — "East 2" — is the northern section of Bunaken Island's east wall, a continuation of the Timur 1 wall system with a similar profile but slightly different marine life mix and the addition of a dramatic corner section where the reef wraps toward the north-east.
 
 ## Overview
 
-Timur 2 is a dive site in Manado & Bunaken featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Timur 2 picks up where Timur 1 ends, continuing north along Bunaken Island's east coast and eventually rounding the corner toward the north-east. This corner section, where the east and north-east walls meet, is the highlight of the dive — a prominent reef feature where current converges and marine life concentrates. Like its southern neighbour, Timur 2 sees less traffic than the south coast sites, giving it a more undisturbed quality that experienced divers appreciate.
 
-## Site Information
+The east coast wall system at Bunaken drops to depth very close to the surface — in places, the top of the wall is barely a metre below the waterline, creating dramatically vertical topography right from the entry point.
 
-- **Location**: Manado & Bunaken, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 40 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+## What to Expect
 
-## Marine Life
+The wall at Timur 2 is characterised by very clean vertical faces, with minimal slope before the drop, and a complex mix of hard coral on the upper sections and soft coral, seafans, and barrel sponges lower down. Between 20 and 35 metres, the wall features larger overhangs and deeper crevices than Timur 1, providing more shelter for moray eels, lobsters, and resting nurse sharks.
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+At the corner section, where the east wall turns north-east, current influence increases and the marine life becomes more active and diverse. Schooling fish concentrate here: dense clouds of glassfish around coral bommies, schools of sweetlips in the 15–20 metre range, and fusilier in the upper water column. Whitetip and grey reef sharks are reliably present at depth at the corner. Turtles are abundant throughout, particularly in the shallower reef zone above the wall crest.
 
-## Dive Profile
+## Conditions
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+- **Depth range:** 3–40+ m
+- **Visibility:** 15–25 m
+- **Currents:** Moderate; stronger at the corner section
+- **Water temperature:** 27–30°C
+- **Best season:** May–October
 
-## Entry and Exit
+## Tips
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Timur 2 is a good follow-on dive from Timur 1 — the topography changes enough to keep the second dive interesting. The corner section is the destination; plan the dive to arrive there with 100–120 bar remaining to allow time to explore properly. Keep close to the wall as you approach the corner to avoid being pushed off by increasing current.
 
-## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

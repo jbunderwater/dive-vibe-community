@@ -13,55 +13,54 @@ addedBy: osm_import
 
 ## Bale Sampan Biorock
 
-Bale Sampan Biorock is a reef dive site in Lombok, Asia.
+A Biorock coral restoration structure on Gili Trawangan's east coast — accessible from Lombok day-trip boats and part of the world's second-largest Biorock project.
 
 ## Overview
 
-Bale Sampan Biorock is a dive site in Lombok offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Bale Sampan Biorock is one of the east coast Gili Trawangan cluster of Biorock structures, part of the extensive network of more than 120 frames placed in the Gili Islands waters since 2006. The low-voltage electrical current stimulates coral growth five times faster than normal and improves bleaching survival rates. The structure is accessible from Lombok day-trip boats visiting the Gili Islands and is often included as a conservation-focused dive on multi-site itineraries. The east coast location provides sheltered diving with calm conditions and clear water.
 
 ## Site Information
 
-- **Location**: Lombok, Asia
+- **Location**: East coast Gili Trawangan, accessible from Lombok
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef / Biorock
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 18 m
+- **Typical Visibility**: 15–20 m
+- **Current**: Minimal
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Lionfish, batfish, pufferfish, and sweetlips shelter in the structure. Turtles cruise past the east coast Biorock cluster. Reef fish communities establish on the coral-covered frame. Cleaner shrimps and nudibranchs in coral crevices.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the Biorock structure. Circle and examine the coral growth and resident species. Extend to other nearby structures in the east coast cluster. Total dive time 40–50 minutes. Standard safety stop before surfacing.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat from Lombok or Gili Trawangan. Short transit from Lombok's northwest coast. Calm east coast conditions. Entry via back roll.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Include this dive when doing a Lombok day trip to Gili Trawangan
+- The Biorock story is worth knowing — ask your operator about the conservation program
+- Multiple Biorock structures can be visited in a single dive
+- Combine with natural reef sites like Turtle Point for a conservation-natural contrast day
+- Night dives on the Biorock cluster reveal nocturnal species active on the structures
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Do not touch the metal frame — sharp edges possible. Maintain buoyancy near the coral-covered structure. Lionfish on the frame are venomous. Low-voltage current is completely safe.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The artificial reef geometry with growing coral creates unique subjects. Fish portraits against the coral-covered frame. Conservation documentation shots showing reef restoration progress.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

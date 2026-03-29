@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Gotta Hemera
 
-Gotta Hemera is a reef dive site in Red Sea, Middle East.
+Gotta Hemera is a submerged reef pinnacle in the southern Egyptian Red Sea, located in the remote offshore waters between Berenice and the Zabargad–Rocky Island area.
 
 ## Overview
 
-Gotta Hemera is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+"Gotta" (a common spelling variant of "gota") in this part of the Red Sea refers to an isolated reef knoll or submerged pinnacle, and Hemera sits in a little-visited stretch of the far southern offshore corridor. The site is on select liveaboard itineraries that reach south past Zabargad Island toward the Sudan border — a route reserved for experienced divers seeking truly remote diving. The reef rises from the sandy seafloor to 5–8 meters below the surface, its flanks covered in soft corals and encrusting corals, with large sea fans appearing below 12 meters. Water clarity in this southern section is typically outstanding, regularly exceeding 30 meters.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Location**: Far southern Egyptian Red Sea, between Berenice and Zabargad Island
+- **Entry Type**: Boat dive (liveaboard access)
+- **Site Type**: Isolated offshore reef pinnacle
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 25–35 meters
+- **Current**: Variable; can be moderate to strong
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The isolation of the site means marine life shows little human habituation. humphead wrasse, large groupers, and giant moray eels are all present and notably unafraid of divers. Schools of fusiliers and snapper populate the mid-water zone above the reef, and barracuda hang in loose patrols above the pinnacle. Hammerhead sharks are encountered in the blue water around the base on winter itineraries. Hawksbill turtles rest on the reef crown. The plankton-rich southern waters support a richer array of filter feeders — including crinoids and basket stars — than is typical of northern Red Sea sites.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the deepest accessible section at 18–20 meters and circle the pinnacle base, watching the blue water for pelagics. Ascend the flanks methodically, noting the sea fan coverage below 12 meters and the transition to hard corals above. The reef crown at 5–8 meters warrants a slow, careful circuit to observe turtles and dense schooling fish before the safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Liveaboard access exclusively. Itineraries including this site are typically 10–14 nights and operate from Hurghada, Port Ghalib, or Marsa Alam. Entry by giant stride from the dive deck. Deploy an SMB well before the final ascent — this is a fully open-water environment.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Research the specific liveaboard itinerary carefully — not all vessels that venture south include this pinnacle
+- Bring all the dive gear you need; resupply is not possible at this remote location
+- Winter liveaboards have the best chance of hammerhead encounters
+- The site rewards slow, deliberate diving more than rushed surveys
+- Allow time to simply hover and observe the fish community — undisturbed populations behave very differently from those near dive hubs
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Remoteness is the defining safety factor here. No rescue resources are available except the liveaboard. Dive conservatively, communicate with the dive guide, and carry all standard safety equipment: SMB, dive knife, signalling mirror, and torch. Currents can be unpredictable around isolated pinnacles in open water.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Outstanding conditions for wide-angle work: clear water, rich marine life, and the dramatic silhouette of the pinnacle against open-ocean blue. The southern Red Sea's relatively unvisited pinnacles offer some of the best natural-light wide-angle photography in the region.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

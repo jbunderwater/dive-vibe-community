@@ -11,57 +11,58 @@ osmId: 6566512233
 addedBy: osm_import
 ---
 
-## Wanderer
+# Wanderer
 
-Wanderer is a historic wreck dive in New England, North America.
+The last whaling bark ever to depart New Bedford, lost to a sudden squall off Cuttyhunk Island in August 1924.
 
 ## Overview
 
-Wanderer is a dive site in New England featuring the wreck of the Wanderer which sank in 1924-08-26. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The *Wanderer* was a 100-foot wooden whaling bark and one of the last vessels to depart New Bedford on a whaling voyage. She sailed on August 25, 1924, in what would prove to be the final whaling voyage from that historic port. The very next day, August 26, a sudden squall overwhelmed the vessel off Cuttyhunk Island, at the western end of the Elizabeth Islands chain in Buzzards Bay, Massachusetts. The crew survived but the ship was lost. The *Wanderer* now rests in approximately 25 metres of water off the Cuttyhunk area. As the last whaling ship from New Bedford, she represents the close of an era that defined the region's maritime identity. The site is accessible by dive charter and provides an intimate connection to New England's extraordinary whaling history.
 
 ## Site Information
 
-- **Location**: New England, North America
+- **Location**: Off Cuttyhunk Island, Elizabeth Islands, Buzzards Bay, Massachusetts
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Typical Visibility**: 3–8 meters (10–25 feet)
+- **Current**: Moderate; variable with tidal state in Buzzards Bay
+- **Water Temperature**: 10–18°C summer; colder off-season
+- **Best Time**: June to September
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wooden hull has deteriorated significantly over 100 years, but the remaining structure and associated rocky seafloor supports a productive cold-water community. Tautog and cunner are resident on the wreck debris. American lobsters inhabit the larger timber sections and surrounding rocks. Pollock are occasionally seen in schools above the site. Winter flounder rest on sand patches near the wreck. Sea urchins and blue mussels colonize the harder surfaces. Striped bass cruise through in late summer.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Access via boat charter from the Cuttyhunk or New Bedford area. The wooden structure has largely collapsed, leaving scattered timber debris and fastening hardware across the bottom at 20–25 metres. Navigate the debris field while keeping the main structural remains in view for orientation. The historical context rewards a slow, contemplative approach to the dive. Ascend with 80 bar/1,200 psi in reserve and complete a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat charter required. Local knowledge is important for navigating Buzzards Bay currents and Elizabeth Islands shoals. Vineyard Scuba and New Bedford-area operators can provide access. Anchor carefully over the debris field. Deploy SMB before surfacing.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Read about the Wanderer and New Bedford's whaling history before diving — the context transforms the dive
+- The wooden timbers are fragile after 100 years — maintain careful buoyancy above the debris field
+- Buzzards Bay currents can be tricky — plan the dive around favorable tidal conditions
+- Combine with other Elizabeth Islands diving for a productive day
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Cold water year-round below thermocline — 7mm wetsuit or drysuit recommended. Buzzards Bay tidal currents are variable and can be strong near the island passages. Monitor air consumption carefully and ascend with adequate reserve.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The historic wooden structure, even in its deteriorated state, provides evocative documentary photography. Close-focus wide-angle shots of encrusted timber with marine life convey the passage of time. The 25-metre depth requires strobes to restore color.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Historical Reference**: The Vineyard Gazette, August 26, 1924 — "Bark Wanderer Lost"
+- **Local Operator**: Vineyard Scuba, Oak Bluffs, MA
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

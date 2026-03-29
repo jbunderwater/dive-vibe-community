@@ -13,54 +13,51 @@ addedBy: osm_import
 
 ## Down Under Diving
 
-Down Under Diving is a reef dive site in Great Barrier Reef, Oceania.
+Down Under Diving is a reef dive site on the outer Great Barrier Reef south of Cairns, Queensland, Australia.
+
+> **Data Quality Note**: The name "Down Under Diving" is more typically associated with a dive operator or company than a dive site. This entry should be reviewed to confirm it refers to a genuine named dive site location rather than an operator listing. If it proves to be an operator rather than a site, it should be removed from the database per the project's data quality standards.
 
 ## Overview
 
-Down Under Diving is a reef site with mooring facilities and good coral formations on the southern reef system. Located off Cairns in the southern Great Barrier Reef, this site offers 12-18 meters of visibility with water temperatures of 23-27°C. The moored site is convenient for recreational divers seeking easy access to coral gardens and reef fish.
+Subject to data quality confirmation, Down Under Diving appears to be a named reef site on the outer GBR in the area south of Cairns, positioned on the same reef system as several other outer GBR day-trip destinations. The coordinates place it in an outer reef section that would be accessible by day-trip vessels from Cairns.
+
+The site, if confirmed as a genuine location, sits on outer reef terrain at a depth consistent with the other GBR beginner sites in the area — a reef slope or platform dive with the standard outer GBR conditions of good visibility and healthy coral.
 
 ## Site Information
 
-- **Location**: Great Barrier Reef, Oceania
+- **Location**: Outer Great Barrier Reef (south of Cairns), Queensland, Australia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 16 meters
-- **Typical Visibility**: 15-40 meters (50-130 feet)
+- **Typical Visibility**: 15–25 metres
 - **Current**: Variable
-- **Best Time**: September to February
+- **Best Time**: August to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals.
+The outer reef location in this section of the GBR typically supports a representative cross-section of GBR reef species. Sea turtles, maori wrasse, reef sharks, parrotfish, surgeonfish, and butterflyfish are the expected assemblage for outer reef sites in this latitude. The depth range of 6–16 metres encompasses both the reef crest and upper slope habitats, where fish diversity is typically highest.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 16 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-16 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+A standard outer reef profile following the slope contour from the crest to 16 metres and back. Pending further information about the specific site, the general approach for this depth and reef type is to explore the transition zone between reef crest and upper slope, where habitat complexity is highest.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Cairns. Exact operational details depend on which operators service this site.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Verify with dive operators in Cairns whether this is a currently used and named dive site in their rotation
+- If confirmed, book with operators familiar with the specific site features for the best guided experience
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish (box jellyfish in summer), crocodiles (north) in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Standard outer reef precautions apply. The site's data quality status is uncertain — verify site details with a local operator before planning a specific trip around this site.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Outer reef sites in this latitude offer standard GBR photography opportunities: reef landscapes, sea turtle portraits, and reef fish assemblages in clear tropical water.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

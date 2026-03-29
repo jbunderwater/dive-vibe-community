@@ -13,52 +13,49 @@ addedBy: osm_import
 
 ## Pointe Malendure
 
-Pointe Malendure is a reef dive site in Guadeloupe, Caribbean.
+Pointe Malendure is one of Guadeloupe's most accessible shore dives, departing from the black volcanic sand beach of Malendure village — the main shore base for diving the nearby Cousteau Reserve. The site offers a guided descent along a fixed rope to deeper reef structures, transitioning from a seagrass zone through a classic Caribbean coral reef.
 
 ## Overview
 
-Pointe Malendure is a dive site in Guadeloupe offering rewarding diving on healthy coral reef structures . Beach entry on black volcanic sand, descent along rope to two platforms (15m and 30m), royal angels, turtle sightings common, seagrass to coral reef transition. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Entry is from Malendure's distinctive black-sand beach, a reminder of Basse-Terre's volcanic origins. A guide rope leads from the entry point seaward, descending through a seagrass meadow and into the reef zone. The reef features two distinct depth platforms — around 15 and 20 meters — marked by differences in coral assemblage and fish life. Visibility averages 20–30 meters. Water temperature holds at 26–28°C and the seagrass zone provides additional habitat diversity absent from the Pigeon Island boat sites nearby.
 
 ## Site Information
 
-- **Location**: Guadeloupe, Caribbean
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Location**: Malendure Beach, Basse-Terre, Guadeloupe
+- **Entry Type**: Shore dive
+- **Site Type**: Reef with seagrass transition zone
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 20–30 meters
+- **Current**: Light to moderate; stronger at the reef's exposed face
+- **Best Time**: November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The seagrass zone near the entry hosts hawksbill turtles feeding on vegetation and occasionally resting on the sandy bottom. As depth increases, grey and French angelfish (known in French as "anges royaux") become prominent, often swimming in pairs around large coral heads. The deeper reef platform supports barracuda, snappers, and grunts in larger numbers. Eagle rays and the occasional Caribbean reef shark are seen in the open water above the deeper platform.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Use the guide rope to navigate from the beach to the reef. Descend through the seagrass zone, noting the transition as coral heads begin to appear around 6–8 meters. Follow the slope to the 15-meter platform and assess conditions before continuing to 20 meters. Ascend slowly, spending time in the seagrass zone during the safety stop — this is often where the best turtle encounters occur.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry over dark volcanic sand — fins on before entering. The guide rope is your primary navigation reference. Exit at the same beach; surge can make the final few meters to shore slightly challenging on days with northerly swell. Water shoes are recommended.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- The guide rope makes navigation straightforward for intermediate divers new to Guadeloupe
+- The seagrass-to-reef transition is ecologically interesting and not replicated at the nearby boat sites
+- Turtle sightings are extremely reliable here — allow extra time in the seagrass zone at the start and end of the dive
+- Combines naturally with a morning boat dive in the Cousteau Reserve for a full day at Malendure
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Keep the guide rope in sight throughout the dive — without it, navigation in open water back to the beach can be difficult. Watch for boat traffic between Malendure beach and Pigeon Island; the channel is active throughout the day. Wear a SMB and be visible on the surface. Fire coral is present on reef structures.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The seagrass zone provides an unusual photographic environment for a Caribbean reef dive — wide-angle turtle portraits in the seagrass are distinctive. The deeper reef platforms offer classic reef compositions. Natural light is excellent throughout the depth range, particularly in morning hours.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

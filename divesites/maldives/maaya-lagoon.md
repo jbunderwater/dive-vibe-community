@@ -13,54 +13,36 @@ addedBy: osm_import
 
 ## Maaya Lagoon
 
-Maaya Lagoon is a pinnacle dive site in Maldives, Asia.
+Maaya Lagoon is a sheltered pinnacle site within the lagoon of North Ari Atoll, adjacent to the famous Maaya Thila, providing a calmer alternative with prolific reef fish, coral formations, and the possibility of nurse shark sightings in a more protected environment.
 
 ## Overview
 
-Maaya Lagoon is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+While Maaya Thila is one of the Maldives' most renowned dive sites, Maaya Lagoon offers a complementary experience on the lagoon side — a pinnacle structure reaching to around 10–12 metres, surrounded by sandy lagoon floor at 30 metres. The protected setting means current is typically gentler than at the exposed thila, making this an accessible intermediate dive. Nurse sharks are regularly found resting on the sandy bottom and in the shaded undercuts of the structure, and eagle rays occasionally sweep through the lagoon. The coral formations host a colourful community of reef fish: anthias, butterflyfish, moorish idols, and schools of fusiliers are all typical sightings. The site is popular as a second dive pairing with Maaya Thila.
 
 ## Site Information
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-25 meters (50-80 feet)
+- **Current**: Light to moderate (sheltered lagoon setting)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Nurse sharks, eagle rays, anthias, butterflyfish, moorish idols, fusiliers, parrotfish, grouper, moray eels, and a diverse hard coral community on the pinnacle surfaces.
 
-## Dive Profile
+## Diving Tips
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- This site is commonly dived as a second dive after Maaya Thila — plan your air and bottom time accordingly.
+- Look under the pinnacle overhangs and on the sandy floor for resting nurse sharks.
+- The sheltered lagoon setting makes this suitable for photographers who want calmer conditions to work with macro subjects.
+- Descend to 25–30 metres early to check the sandy bottom, then ascend slowly along the pinnacle sides.
 
-## Entry and Exit
+## Getting There
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Maaya Lagoon is in North Ari Atoll, reached by seaplane (25 minutes) or speedboat (2 hours) from Malé. Most resorts and liveaboards in Ari Atoll include this site on multi-dive excursions.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

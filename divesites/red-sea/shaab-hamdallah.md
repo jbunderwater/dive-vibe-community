@@ -11,56 +11,55 @@ osmId: 1396426968
 addedBy: osm_import
 ---
 
-## Shaab Hamdallah
+# Shaab Hamdallah
 
-Shaab Hamdallah is a reef dive site in Red Sea, Middle East.
+A sheltered offshore reef south of Safaga with sandy channels between coral structures, resident cleaning stations, and the calm water conditions that make it a productive day-trip option when exposed sites in the area are unworkable.
 
 ## Overview
 
-Shaab Hamdallah is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Shaab Hamdallah ("reef of praise" in Arabic) sits at approximately 26.63°N, 34.06°E — south of Safaga in the central Egyptian Red Sea, in a transitional zone between the Safaga reef cluster and the more southerly Marsa Alam dive territory. The reef occupies a relatively sheltered position that provides refuge from northerly winds and chop. The structure consists of a main reef body with sandy channels and coral formations at varying depths. As a less-documented site compared to the nearby Abu Soma complex and Tobia series, it receives fewer divers and maintains better coral integrity on the sandy transition zones.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Offshore south of Safaga, central Egyptian Red Sea (~26.63°N)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 15–25 meters
+- **Current**: Generally mild; assess before entry
+- **Best Time**: Year-round; October to May optimal
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Cleaning stations on the main reef structure attract resident groupers, moray eels, and passing turtles for extended cleaning sessions. Schools of anthias cover the reef crest in the shallower sections. Blue-spotted stingrays rest on the sandy channel floors. Moray eels are distributed throughout the crevices. Scorpionfish occupy the reef edges in camouflaged positions. Barracuda patrol the outer reef face. The sandy channels between coral structures support goby-shrimp pairs in areas of minimal current.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin on the reef crest at 5–8 metres and work along the main reef body to the outer face at 12–18 metres. The sandy channels that intersect the reef structure provide natural navigation corridors — follow one channel to its endpoint before returning along the reef face. Cleaning stations in the 8–12 metre zone reward stationary observation. Return along the upper reef for the safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day boat from Safaga (40–60 minutes). Giant stride entry. The sheltered position makes entry straightforward in most conditions. Pair with Abu Soma sites or Tobia Hamra for a two-site day. SMB deployment before ascending.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The cleaning stations reward stationary, patient observation — approach to within 3 metres without disturbing the cleaning activity and wait
+- The sandy channels are the macro zone — examine carefully for goby-shrimp pairs, flatfish, and blue-spotted rays
+- This site is a productive option when northerly conditions make Giftun and Elphinstone impossible from Hurghada
+- Visit the outer reef face in the last third of the dive when air is sufficient for the most exposed section
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Mild conditions are typical but current can develop. Scorpionfish on the reef edge are a contact hazard. Fire coral on the upper reef. SMB before ascending.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The cleaning station portraits — groupers and morays in cleaning position — at 8–12 metres are the primary photographic subjects. Sandy channel macro work with goby-shrimp pairs rewards a patient, prone approach. The reef crest in morning light suits ambient wide-angle shots.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

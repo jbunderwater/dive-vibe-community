@@ -13,54 +13,35 @@ addedBy: osm_import
 
 ## Gangehi Kandu
 
-Gangehi Kandu is a drift dive site in Maldives, Asia.
+Gangehi Kandu is a thrilling channel drift dive in the Ari Atoll, renowned for strong currents that funnel nutrient-rich water through the passage and attract an impressive concentration of pelagic life.
 
 ## Overview
 
-Gangehi Kandu is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Gangehi Kandu (kandu meaning "channel" in Dhivehi) cuts through the reef between the Indian Ocean and the atoll lagoon, creating the tidal surge that defines this dive. On incoming tides, divers are swept along the channel walls past overhangs draped in soft corals and sea fans, with grey reef sharks patrolling the current lines and eagle rays gliding overhead. Schools of bigeye trevally and barracuda hold station in the flow, and occasional hammerheads are spotted at depth during the right season. The dive typically begins at the outer corner, where the current is strongest, then eases as the channel widens toward the lagoon side. Depth ranges from 15 to 35 metres along the sloping walls. Visibility is typically 20–30 metres in clear oceanic water. Water temperature averages 27–29°C year-round.
 
 ## Site Information
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Drift
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Depth**: Up to 35m
+- **Difficulty**: Advanced
+- **Site Type**: Drift dive
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Grey reef sharks, whitetip reef sharks, eagle rays, barracuda, bigeye trevally, jobfish, Napoleon wrasse, and seasonal hammerhead sharks. Channel walls host feather stars, sea fans, and soft coral gardens.
 
-## Dive Profile
+## Diving Conditions
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 35 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+| Condition | Details |
+|-----------|---------|
+| Visibility | 20–30m |
+| Current | Moderate to strong (tide-dependent) |
+| Water Temp | 27–29°C |
+| Best Season | November–April (northeast monsoon) |
 
-## Entry and Exit
+## Tips for Divers
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive on an incoming tide for the best shark and pelagic encounters at the channel mouth. Advanced buoyancy control is essential — sudden downcurrents can occur near the corner. Agree on a drift pick-up plan with the boat before entering. A surface marker buoy (SMB) is mandatory.
 
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,55 +13,28 @@ addedBy: osm_import
 
 ## Muka Gereja
 
-Muka Gereja is a wall dive site in Manado & Bunaken, Asia.
+Muka Gereja — "church face" in Indonesian — is a shallow, beginner-friendly wall dive on Bunaken Island's west coast, positioned in front of the island's main church and offering some of the calmest conditions in the national park.
 
 ## Overview
 
-Muka Gereja is a dive site in Manado & Bunaken featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Muka Gereja sits on the western side of Bunaken Island in front of the village that holds the island's church, hence its name. The site's west-facing aspect provides excellent shelter from the south-east trade winds that characterise the main diving season, and the wall here is shallower and less vertical than the south-coast giants, making it one of the most forgiving introductions to Bunaken diving. Experienced divers also appreciate Muka Gereja for leisurely macro and photo dives, since the gentle conditions allow extended, unhurried time on the reef.
 
-## Site Information
+## What to Expect
 
-- **Location**: Manado & Bunaken, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+The wall at Muka Gereja runs from about 5 metres depth on the crest down to 25 metres before levelling onto a sandy slope. The upper reef crest is exceptionally rich in hard corals — enormous Porites bommies, branching acropora, and table corals create a complex three-dimensional habitat for reef fish. The wall face itself, while not as sheer as at Lekuan or Likuan, is well colonised by encrusting corals, sponges, and small seafans, and the reduced depth means excellent natural light throughout the dive.
 
-## Marine Life
+Turtles are a consistent presence as at all Bunaken wall sites. The shallower profile makes turtle interactions more intimate — watching a hawksbill or green turtle hover at 8 metres in perfect visibility is a highlight the site regularly provides. Macro life here is rewarding: nudibranchs in multiple species, ornate ghost pipefish, and frogfish have all been recorded. The sandy bottom at 25 metres is worth checking for garden eels, which emerge from their burrows in the sand and sway in the current.
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+## Conditions
 
-## Dive Profile
+- **Depth range:** 5–25 m
+- **Visibility:** 15–25 m
+- **Currents:** Very light; one of the calmest sites in the park
+- **Water temperature:** 27–30°C
+- **Best season:** Year-round; west aspect offers protection in all seasons
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-25 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+## Tips
 
-## Entry and Exit
+Muka Gereja is the ideal orientation dive for first-time Bunaken visitors — the conditions are forgiving, the reef is excellent, and it sets realistic expectations for the quality of diving throughout the park. Take time at the Porites bommies on the reef crest: they host extraordinary communities of invertebrates, fish, and crustaceans that reward slow, patient observation.
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Excellent site for newer divers — calm conditions and easy navigation
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

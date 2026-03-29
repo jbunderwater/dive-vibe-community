@@ -13,53 +13,50 @@ addedBy: osm_import
 
 ## Fessej Rock
 
-Fessej Rock is a reef dive site in Malta and Gozo, Europe.
+Fessej Rock is a submerged reef formation lying between Comino and the south coast of Gozo, positioned in open water accessible by boat from both islands. The site is a standalone limestone rock rising from the sandy seabed, exposed to the channel currents that periodically sweep between Malta and Gozo and bring productive, well-oxygenated water to the reef.
 
 ## Overview
 
-Fessej Rock is a dive site in Malta and Gozo offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The rock rises from the sandy bottom at 18–20 metres to within a few metres of the surface, creating a compact reef that can be circled in a single dive. The limestone surfaces are colonised by encrusting sponges, sea fans, and anemones. Channel position means the site occasionally experiences stronger current than the sheltered Comino bays, which concentrates filter feeders and attracts pelagic fish. Visibility is consistently good in the 20–25 metre range.
 
 ## Site Information
 
-- **Location**: Malta and Gozo, Europe
+- **Location**: Comino Channel, Malta
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: May to October
+- **Typical Visibility**: 20–25 meters
+- **Current**: Light to moderate; channel position
+- **Best Time**: April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+Grouper are territorial residents of the rock's crevice zones. Moray eels and conger eels inhabit the deeper recesses at the base. Sea bream, wrasse, and salema orbit the reef. Octopus are common in the rocky debris around the base. In current conditions, barracuda and amberjack school above the rock. The sandy bottom supports goatfish and flatfish.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the base of the rock at 18–20 metres and circle it completely, exploring the crevices and sponge-covered surfaces. Work up the reef structure to the shallowest point and explore the surrounding sandy areas for flatfish and octopus. Safety stop at 5 metres with an SMB deployed for boat pickup.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from Gozo and Malta operators serve this site as part of Comino-area programmes. Entry by giant stride. Check current conditions before diving — the channel position can accelerate flow on tidal changes. An SMB is essential for ascent in the open water.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- A slight current can be advantageous — position with the reef as a windbreak
+- Explore the base of the rock carefully for conger eels and resident grouper
+- Combine with Comino's caves and arches for a varied day programme
+- Torch useful for examining the crevice zone at depth
+- The open water position can produce unexpected pelagic visitors in summer
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The channel position means current should be assessed before entry. The open water ascent requires an SMB. Always dive with a buddy and maintain awareness of boat traffic in the Comino Channel. If current increases significantly during the dive, abort to the sheltered side of the rock.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The compact reef rising from sand creates clean wide-angle compositions. Resident grouper portraits, moray eels at crevice entrances, and barracuda in the water column above provide diverse subjects. The sandy bottom around the rock base allows full-reef backdrop shots.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

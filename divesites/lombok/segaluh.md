@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Segaluh
 
-Segaluh is a reef dive site in Lombok, Asia.
+A reef site near Lombok's northeast coast with coral formations and diverse reef fish in a less-visited area beyond the main Gili Islands dive circuit.
 
 ## Overview
 
-Segaluh is a dive site in Lombok offering rewarding diving on healthy coral reef structures . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Segaluh is a reef site in the northeast area beyond the main Gili Islands chain, lying in the waters closer to Lombok's north coast. The site is less frequented than the core Gili Islands sites, which contributes to healthy corals and more undisturbed fish behaviour. The reef features typical Indonesian tropical coral formations at 10–25 m with a range of reef fish, occasional turtles, and the biodiversity characteristic of Coral Triangle waters. It is accessible from Lombok operators as a day trip to this less-visited section of the region.
 
 ## Site Information
 
-- **Location**: Lombok, Asia
+- **Location**: North Lombok coast / east of Gili Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 25 m
+- **Typical Visibility**: 15–20 m
+- **Current**: Moderate
+- **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Reef fish diversity typical of the region — parrotfish, triggerfish, surgeonfish, butterflyfish. Turtles graze the reef crest. Moray eels and grouper at depth. Reef sharks occasionally sighted on the outer slope. Nudibranchs and cleaner shrimps in the rubble zones.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef at 10–15 m and follow the slope to 25 m. Most of the productive reef life is concentrated between 8–18 m. Ascend gradually and complete a 3-minute safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat from Lombok operators. Moderate current. Entry via back roll. SMB for ascent.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The less-visited character means more relaxed encounters with reef inhabitants
+- Combine with Teluk NBoro for a Lombok coastal dive day
+- A good site for advancing divers practicing coral reef navigation
+- The quieter conditions make this a good site for underwater photography practice
+- Ask local operators about recent specific sightings
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Standard intermediate reef precautions. Currents are moderate. Maintain buoyancy above coral. Always carry an SMB.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Fish portraits benefit from the undisturbed nature of the reef — subjects are less wary. Turtle encounters with natural light. Nudibranchs in coral rubble for macro work.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

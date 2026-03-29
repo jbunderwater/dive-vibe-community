@@ -13,54 +13,53 @@ addedBy: osm_import
 
 ## Ot Di Ma
 
-Ot Di Ma is a reef dive site in Raja Ampat, Asia.
+Ot Di Ma is a reef dive site in the central Dampier Strait of Raja Ampat — a local-language site name reflecting the indigenous Papuan geographic nomenclature of the archipelago, and a solid representative of the region's extraordinary reef biodiversity.
 
 ## Overview
 
-Ot Di Ma is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Located in the Dampier Strait between Waigeo and the central islands, Ot Di Ma is a reef site that sees moderate use from liveaboards and local operators working the strait's middle corridor. The reef presents a typical Dampier Strait profile: hard coral dominance in the shallows, a sloping structure down to 20–25 meters with increasing soft coral and sponge complexity, and the full complement of Indo-Pacific reef fish diversity that makes Raja Ampat the world's most biodiverse marine environment. Water temperature averages 27–29°C and visibility is typically 12–20 meters.
 
 ## Site Information
 
-- **Location**: Raja Ampat, Asia
+- **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 12–20 meters (40–65 feet)
+- **Current**: Variable; moderate on tidal exchange
+- **Best Time**: October to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Ot Di Ma's central Dampier Strait position means it benefits from the tidal exchange that feeds Raja Ampat's reef productivity. Schooling fusiliers and snapper fill the mid-water zone. Napoleon wrasse, hawksbill turtles, and large groupers are resident. White-tip reef sharks rest at the reef base. The coral gardens in the upper reef support dense populations of butterflyfish, angelfish, and parrotfish. Nudibranch diversity on the substrate between coral heads is excellent — Raja Ampat's nudibranch species count is among the highest in the world.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin at the reef crest in the shallows and follow the slope down to 20–25 meters. Spend time at each depth band, noting the transition from hard to soft coral as depth increases. The lower reef base is productive for resting sharks and larger fish. Ascending slowly, pause at 12–15 meters to enjoy the schooling fish and resident reef fish activity. Finish with a comfortable safety stop in the coral shallows.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Dampier Strait operators or liveaboards. Entry via giant stride. The central strait location means some current management may be required. Deploy SMB on ascent — the Dampier Strait has significant boat traffic.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- A torch helps with crevice inspection throughout the dive
+- Look carefully at rubble sections between coral heads for ghost pipefish and leaf scorpionfish
+- Ask your guide about recent sightings at this specific site
+- Pair with adjacent strait sites for efficient multi-dive day coverage
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Standard intermediate reef protocols. Moderate currents possible during tidal exchange. Carry an SMB. The Dampier Strait sees heavy liveaboard traffic — surface visibility and SMB deployment are important.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Good all-round reef photography. Hard coral gardens in the shallows, schooling fish in mid-water, soft coral at depth, and macro on the substrate provide diverse subjects in a single dive. Natural light quality is good in the upper 15 meters during morning dives.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

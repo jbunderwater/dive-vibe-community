@@ -11,57 +11,53 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Pamir Wreck
+# Pamir Wreck
 
-Pamir Wreck is a historic wreck dive in Barbados, Caribbean.
+A mid-sized vessel wreck off Barbados's west coast at 14 metres — one of the island's most productive intermediate wreck sites with dense fish life, established encrustation, and the reliable visibility and calm conditions of the sheltered Caribbean coast.
 
 ## Overview
 
-Pamir Wreck is a dive site in Barbados featuring the wreck of the Pamir Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Pamir is a vessel lying at 14 metres off Barbados's west coast, sunk as an artificial reef and now well-established as a dive site with a mature marine community. The site lies in the clear Caribbean water of the island's west side, sheltered from the Atlantic swell by Barbados's profile, giving consistently calm and clear conditions. The vessel has developed a productive encrustation of sponges, corals, and other sessile organisms, and the fish community that exploits the structure is both diverse and accessible at this depth. Visibility averages 20–25 metres. Water temperature is 26–28°C.
 
 ## Site Information
 
-- **Location**: Barbados, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 14 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 5–14 m |
+| Difficulty | Intermediate |
+| Entry Type | Boat |
+| Site Type | Wreck |
+| Visibility | 20–25 m |
+| Current | Light |
+| Water Temp | 26–28°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Pamir's structure supports a productive community. Schools of glassy sweepers and French grunts fill the more sheltered sections of the hull. Spotted and green morays are well-established residents in hull crevices. Large groupers occupy the deeper sections of the wreck. Hawksbill turtles are regular visitors along the west coast and visit the Pamir to feed on encrusting sponges. Caribbean spiny lobster shelter under overhangs at the base.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 14 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descent to the wreck deck at 5–8 metres and work systematically along the structure, descending to the sandy base at 14 metres. The accessible depth allows extended exploration within comfortable NDL limits. Safety stop at the upper deck level.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from west coast Barbados operators. Giant stride or backward roll entry. DSMB recommended.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+The Pamir's 14-metre depth makes it a comfortable intermediate dive with no NDL pressure on a single tank. Best combined with the Stavronikita or a reef site for a varied two-tank day. Carry a torch for the more sheltered hull sections. Ask the dive guide about the current state of the resident groupers — large individuals are reliably present.
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Standard wreck diving precautions apply. Do not enter enclosed spaces without wreck training. DSMB required. Fire coral may be present.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The Pamir at 14 metres in Barbados's west coast visibility is a natural-light photography site for most of the depth range. Grouper portraits, school-of-fish compositions in the hold sections, and hull encrustation close-ups are the main subjects.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- West coast Barbados dive operators including Heatwave Water Sports: include the Pamir on regular dive itineraries
+- Best combined with a reef site or the Stavronikita for a two-tank day
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

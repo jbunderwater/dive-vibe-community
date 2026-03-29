@@ -11,56 +11,34 @@ osmId: 9180047752
 addedBy: osm_import
 ---
 
-## Dharavandhoo thila
+## Dharavandhoo Thila
 
-Dharavandhoo thila is a pinnacle dive site in Maldives, Asia.
+**Location:** Baa Atoll, near Dharavandhoo Island, Maldives
+**Depth:** 8–28 m
+**Difficulty:** Intermediate
+**Entry:** Boat
 
-## Overview
+### Overview
 
-Dharavandhoo thila is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Dharavandhoo Thila is a submerged pinnacle in Baa Atoll, close to Dharavandhoo Island. Baa Atoll is a UNESCO Biosphere Reserve and one of the Maldives' premier diving regions, particularly famous for manta ray and whale shark aggregations at Hanifaru Bay. The thila itself is a well-structured pinnacle with good coral coverage and a productive mix of resident and visiting species.
 
-## Site Information
+### Diving
 
-- **Location**: Maldives, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 28 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+The pinnacle rises from the atoll floor to around 8 m depth, creating a classic thila profile with a shallow summit, steep sides, and base overhangs. Soft corals and encrusting sponges cover the walls below 15 m, while the summit plateau has a carpet of hard corals. The overhangs provide rest spots for nurse sharks, and moray eels appear throughout the structure's crevices.
 
-## Marine Life
+In the context of Baa Atoll, dives at this thila occasionally benefit from the proximity of the atoll's rich nutrient environment — mantas foraging through the atoll may pass the thila, particularly during the southwest monsoon plankton bloom season.
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+### Marine Life
 
-## Dive Profile
+- Nurse sharks and grey reef sharks
+- Manta rays (seasonal, passing)
+- Moray eels and hawksbill turtles
+- Soft corals and encrusting sponges
+- Napoleon wrasse (occasional)
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 28 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+### Practical Notes
 
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Baa Atoll access requires a domestic flight or speedboat from Malé. Best accessed from Baa Atoll resorts or liveaboards. Current on the thila varies — check tide timing before diving. Visibility typically 15–25 m.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

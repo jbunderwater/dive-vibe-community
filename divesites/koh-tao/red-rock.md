@@ -13,55 +13,54 @@ addedBy: osm_import
 
 ## Red Rock
 
-Red Rock is a reef dive site in Koh Tao, Asia.
+A striking rocky pinnacle off Koh Nang Yuan with a distinctive horizontal crack harbouring moray eels, sea snakes, and wart slugs.
 
 ## Overview
 
-Red Rock is a dive site in Koh Tao offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Red Rock is a prominent rock pinnacle off the coast of Koh Nang Yuan that drops almost vertically just below the surface. The feature that makes this site distinctive is a large horizontal crack running through the rock at a mid-depth, which serves as a shelter for a varied collection of critters — wart slugs (nudibranchs), moray eels, banded sea snakes, jenkins rays, and adult yellow boxfish have all been regularly spotted inside. The rock itself is coloured in hues of red, orange, and yellow from encrusting organisms, making for a visually striking dive.
 
 ## Site Information
 
-- **Location**: Koh Tao, Asia
+- **Location**: Off Koh Nang Yuan, northwest Koh Tao, Gulf of Thailand
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef / Rock Pinnacle
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 25 m
+- **Typical Visibility**: 10–18 m
+- **Current**: Mild to moderate
+- **Best Time**: May to August
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The distinctive horizontal crack shelters wart slugs (nudibranchs), moray eels, banded sea snakes, and adult yellow boxfish. Jenkins rays (torpedo rays) have been seen inside the crack. The outer rock faces host triggerfish, parrotfish, and surgeonfish. Turtles graze on the reef below the rock, and barracuda are occasionally seen in the blue water above.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the base of the rock at 20–25 m and ascend the vertical rock face. Spend time examining the horizontal crack at 8–15 m for the resident critters. Circle the pinnacle to see all faces before completing a safety stop in the shallows. Total dive time 45–55 minutes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat from Koh Tao (10 minutes to Koh Nang Yuan). Entry via back roll. Currents are moderate. SMB for ascent from the pinnacle.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Shine a torch into the horizontal crack methodically — critters are spread throughout its length
+- Yellow boxfish are bold; approach slowly and they remain in view for photography
+- Combine with Green Rock for a comprehensive Koh Nang Yuan advanced dive day
+- Jenkins rays in the crack are a rare find worth sharing in your dive log
+- The vertical drop of the rock makes for a dramatic descent experience
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Banded sea snakes are venomous but non-aggressive — do not attempt to handle or corner them in the crack. Triggerfish nesting on the lower rock sections in summer require wide avoidance. Maintain neutral buoyancy near the vertical rock face to avoid scraping coral.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Yellow boxfish portraits in the crack are the signature shot. Banded sea snakes cruising the rock face make atmospheric compositions. The rock colour texture with encrusting organisms suits close-up wide-angle photography. The crack interior with torch illumination creates dramatic contrast shots.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

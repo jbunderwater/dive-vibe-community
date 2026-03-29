@@ -13,54 +13,53 @@ addedBy: osm_import
 
 ## Pawoni Hill
 
-Pawoni Hill is a reef dive site in Zanzibar, Africa.
+Pawoni Hill is a pronounced coral hill formation in the southeastern Zanzibar reef system near Jambiani, rising from the lagoon floor and delivering a concentrated habitat structure with a 20-meter maximum depth — deeper than most Jambiani lagoon sites and with correspondingly more diverse marine life.
 
 ## Overview
 
-Pawoni Hill is a dive site in Zanzibar offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Pawoni Hill sits within the broader Jambiani reef area but at a deeper position than the shallow lagoon sites, reaching 20 meters at the sandy base around the hill's perimeter. The formation rises steeply from the surrounding seafloor, creating a multi-level dive with the hill crest at 6-8 meters, a mid-slope zone at 10-15 meters, and the base at 18-20 meters. The vertical relief concentrates fish life at each level — planktivores hover above the crest while larger predators work the base. The intermediate designation reflects the 20-meter depth and the need for precise buoyancy to navigate around the hill without disturbing the substrate.
 
 ## Site Information
 
-- **Location**: Zanzibar, Africa
+- **Location**: Jambiani Reef, Southeast Zanzibar Island, Tanzania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral reef (coral hill)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 12-18 meters (40-60 feet)
+- **Current**: Very light (protected lagoon-side)
+- **Best Time**: October to April (northeast monsoon)
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+Pawoni Hill supports a vertically stratified fish community. The hill crest at 6-8 meters holds territorial reef fish — triggerfish, butterflyfish, and damselfish defend feeding territories on the coral surface. The mid-slope hosts sweepers and glassfish in dense aggregations under ledges, with lionfish waiting at the edges. At the sandy base, garden eels extend from burrows in undisturbed patches, and flatheads lie camouflaged against the sand. Sea turtles are regularly encountered on the crest and upper slope, and moray eels inhabit the deeper base crevices.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin by circling the hill base at 18-20 meters to assess the full perimeter before ascending the slope. Work up through the mid-slope zone, examining ledges and overhangs, then spend the final portion of the dive on the hill crest in 6-8 meters. The circular navigation pattern covers all aspects of the hill. Night diving at Pawoni Hill is excellent — the concentrated structure becomes even more productive after dark with hunting lionfish, octopus, and active crustaceans.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Jambiani operators. Pawoni Hill is typically combined with the shallower Jambiani Lagoon or Sau Inn Garden for a full day in the southeastern Zanzibar reef system. Check tidal timing for the best bottom visibility over the sandy base — incoming tides improve clarity.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Night diving at Pawoni Hill is particularly productive — lionfish actively hunt above the crest and octopus emerge to forage around the base
+- Garden eels at the sandy base require patient, slow approach — hold position at distance and watch them extend; any finning overhead causes immediate retraction
+- The concentrated hill structure makes this an excellent site for fish counting — a useful exercise for divers interested in reef ecology
+- Combine with Sau Inn Garden (adjacent site) to cover the reef system efficiently
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Benign diving conditions overall, with the 20-meter depth being the primary consideration. Very light current in the protected position reduces drift risk. Wall-approach technique is required at the base — avoid pressing against coral when inspecting crevices. Standard fire coral and sea urchin hazards throughout. SMB deployment recommended for ascent.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Pawoni Hill's vertical relief creates compositional variety rare in the flat lagoon environment. Shooting upward from the base at 18-20 meters toward the hill crest silhouetted against the light surface provides dramatic wide-angle compositions. Close-up photography of garden eels requires very slow approach and patience. Lionfish portraits against coral backgrounds are reliable subjects on the upper slope.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

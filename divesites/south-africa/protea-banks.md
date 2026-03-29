@@ -11,56 +11,57 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Protea Banks
+# Protea Banks
 
-Protea Banks is a pinnacle dive site in South Africa, Africa.
+A remote open-ocean pinnacle system off Shelly Beach that delivers some of the most intense shark encounters in Africa, with bull sharks and ragged-tooth sharks as the headline species.
 
 ## Overview
 
-Protea Banks is a dive site in South Africa offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Protea Banks lies approximately eight kilometres offshore from Shelly Beach on the KwaZulu-Natal South Coast, rising from 40 metres on the sand to the shallowest pinnacles at around 24 metres. Unlike the sheltered cave systems of Aliwal Shoal, Protea Banks is fully exposed to ocean swells and currents, making it a genuinely advanced site suited to experienced divers. The banks divide into a northern and southern system, each offering distinct diving characters. The site has an international reputation for high-density shark encounters in open water, without cages or baiting — simply divers descending to rocky pinnacles in nutrient-rich current where sharks aggregate naturally. Water temperatures range from 17°C in the winter upwelling season to 27°C in summer.
 
 ## Site Information
 
-- **Location**: South Africa, Africa
-- **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Location**: 8 km offshore from Shelly Beach, KwaZulu-Natal, South Africa
+- **Entry Type**: Boat dive (offshore; exposed ocean conditions)
+- **Site Type**: Offshore pinnacle system
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 10–20 meters; can drop to 5 meters during upwellings
+- **Current**: Strong to very strong; tidal rips common
+- **Water Temperature**: 17–27°C (63–81°F)
+- **Best Time**: June–November for ragged-tooth sharks; November–February for bull sharks and oceanic blacktips
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+Bull sharks are the defining species of Protea Banks in summer, present in numbers that few other sites worldwide can match. Ragged-tooth sharks dominate the winter season, using the deeper northern bank as a resting and mating ground. Oceanic blacktip sharks cruise the current lines throughout the year in large schools. Tiger sharks are recorded occasionally, primarily on the southern bank. Hammerhead sharks pass through in small groups during their seasonal migrations. Humpback whales are encountered in the water column during their June–November passage. Dolphins hunt baitfish over the banks, and large kingfish, barracuda, and yellowfin tuna patrol the current edges.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 35 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Dives follow a negative entry descent to the pinnacle tops at 24–27 metres, where divers shelter from the current in the lee of the rock structures and observe sharks in the surrounding water column. The southern bank offers a deeper profile to 35 metres with large overhangs sheltering resting ragged-tooth sharks. Bottom time is limited by depth and current exertion. Ascents are made in the blue water away from the pinnacles; a current hook or reef hook is useful to hold position in strong flow. Experienced divers can drift-ascend along the current line to the surface.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boats depart from Shelly Beach and the crossing of approximately eight kilometres can be rough in south-west swell conditions. The dive is typically a negative-entry back roll with immediate descent. Surface conditions at the site are often exposed and choppy; deployment of a delayed SMB during ascent is essential for boat pickup in surface chop. Divers should be experienced in drift diving and comfortable making open-water ascents without a line.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- A current hook or reef hook is strongly recommended for holding position during the dive
+- The northern bank is the primary ragged-tooth aggregation site in winter; the southern bank is deeper and more shark-diverse
+- A 7mm wetsuit with hood is advisable in winter when the upwelling brings cold water from 17°C
+- Photographers should prioritise a wide-angle lens; the shark encounters happen in open water at mid-range distances
+- Check the offshore sea forecast carefully — the site becomes inaccessible in south-west swells above 2.5 metres
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Protea Banks is not suitable for beginner or intermediate divers. Strong, unpredictable currents can sweep divers away from the pinnacle system during descent if timing is incorrect. Bull sharks in summer are notably bold and require calm, controlled behaviour underwater — erratic movement or surfacing with a bleeding injury elevates risk. The remote offshore location means that any emergency requires a long boat ride to shore. Dive only with operators who have extensive site-specific experience. Always carry a surface signaling device and a dive knife.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Protea Banks is exceptional for open-water shark photography but technically demanding due to the current and visibility fluctuations. Wide-angle zoom lenses (16–35mm equivalent) perform well here, as encounter distances vary. Bull shark photography in summer is best on the southern bank during the slack period of the tidal cycle when visibility briefly improves and sharks become more settled. The swirling aggregations of oceanic blacktip sharks in current form spectacular schooling images from below.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

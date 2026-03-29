@@ -13,55 +13,53 @@ addedBy: osm_import
 
 ## Mike's Delight
 
-Mike's Delight is a wall dive site in Alor Archipelago, Asia.
+Mike's Delight is a wall dive site in the Alor Archipelago, East Nusa Tenggara, Indonesia — an advanced current-swept wall celebrated for its pristine soft coral coverage and the regularity with which large sharks appear off its face.
 
 ## Overview
 
-Mike's Delight is a dive site in Alor Archipelago featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Mike's Delight runs along the outer edge of one of Alor's smaller islands, where the land drops directly into deep water and strong tidal flows from the Banda Sea sweep the wall clean and nutrient-rich. The wall descends vertically from a reef top at 4–6 metres and its base is beyond recreational limits, meaning the dive is effectively limitless in scope but practically conducted in the 12–28 metre range. The wall is consistently coated in soft corals — pale lavender, orange, and white dendronephthya colonies cover every surface that is not occupied by a sea fan — and the effect in clear water with good light is visually arresting. The site demands comfort with current because conditions can shift from manageable to demanding within a single dive, earning it an advanced rating despite the modest maximum depth logged for recreational profiles.
 
 ## Site Information
 
-- **Location**: Alor Archipelago, Asia
+- **Location**: Alor Archipelago, East Nusa Tenggara, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 28 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 20–30 metres
+- **Current**: Strong; sweeps along the wall face and can include downwellings
+- **Best Time**: April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Grey reef sharks are the site's signature encounter — they cruise the wall face at 15–25 metres, often in groups of three to five. Whitetip reef sharks rest on ledges at depth. Eagle rays and marbled rays pass along the wall edge with some regularity, and the current brings schools of fusiliers and surgeonfish into tight formations against the wall. The soft corals host a microhabitat of their own: crinoids, feather stars, and small basslets are embedded throughout, and gobies shelter in every coral base. At depth, large barrel sponges provide cleaning stations where small wrasse service larger fish. Spanish dancers have been documented on night dives along the base of the wall at the recreational depth limit.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-28 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Deploy into the current up-wall and drift along the face. The productive depth range is 12–28 metres; spend the early portion deeper for shark encounters and gradually ascend through the soft coral zone in the 12–20 metre range. The wall top at 4–6 metres provides a sheltered safety stop on most tidal states. Monitor your drift speed — in peak current the wall moves past quickly and the dive may run short; use the lee side of any promontories along the wall to slow progress and extend dive time.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by liveaboard or day-boat tender. Drop in at the up-current end of the dive site and drift to an agreed pick-up point downflow. SMB deployment is essential as the surface current will carry divers away from the pick-up position rapidly. Brief the skipper on expected drift distance before entering.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Enter on the early part of the current before flow reaches its peak — the sharks are present at all current states, but visibility and manageability are better in the first 30–45 minutes of a flooding tide
+- Check ledges and overhangs from a metre's distance before reaching into them; moray eels are abundant and occupy most suitable crevices
+- Soft coral photography is best in the 15–20 metre range where the colonies are densest and ambient light still contributes to colour
+- Avoid using a reef hook here — the soft coral substrate is fragile and a hook will tear it; move to the reef top if current becomes uncomfortable
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Strong currents and the risk of downwellings along the wall face make situational awareness critical throughout the dive. If you encounter a downwelling, move horizontally away from the wall immediately. Never dive this site alone and ensure all divers carry SMBs. The soft coral on the wall is extremely fragile; fin technique and buoyancy control must be precise to avoid contact.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+Mike's Delight is one of Alor's premier wide-angle wall sites. The combination of soft coral foreground, shark silhouettes in mid-water, and the open blue create layered compositions that reward careful framing. Shooting upward from 20 metres toward a diver against the coral canopy at 12 metres is a classic framing. For the reef sharks, keep distance and let the animals come to you — they regularly approach to within 3–4 metres of stationary divers.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

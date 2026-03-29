@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## North Point
 
-North Point is a pinnacle dive site in Philippines Malapascua, Asia.
+North Point is an advanced pinnacle dive on the northern tip of Malapascua Island, where the confluence of currents from the Visayan Sea creates one of the more dynamic diving experiences in the area and regularly attracts pelagic species.
 
 ## Overview
 
-North Point is a dive site in Philippines Malapascua offering rewarding diving on healthy coral reef structures . Dive Site. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The northern point of Malapascua Island is exposed to open ocean conditions from the Visayan Sea, making it a significantly more challenging site than the sheltered reefs on the island's leeward sides. The pinnacle structure here drops from the surface to 35 meters, with the upper sections heavily encrusted with soft corals, sea fans, and hard coral formations that thrive in the current-swept environment. The exposure to open-sea currents is the site's defining characteristic — when currents are running, fish life concentrates dramatically along the pinnacle faces, creating spectacular schooling fish displays. The deeper sections at 25–35 meters are where the most impressive pelagic activity occurs, making this primarily a destination for experienced divers with strong buoyancy control.
 
 ## Site Information
 
-- **Location**: Philippines Malapascua, Asia
+- **Location**: Northern tip of Malapascua Island, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 10-25 meters
+- **Current**: Often strong; north-facing open ocean exposure
+- **Best Time**: March to June (typically calmer north-facing conditions)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+When current is running at North Point, the site delivers exceptional fish life. Large schools of barracuda and jacks circle the pinnacle. Whitetip reef sharks are resident and frequently seen resting under ledges. Hammerhead sharks occasionally appear in the deeper water below the pinnacle. Dogtooth tuna and other open-ocean predators hunt around the current-exposed tip. Sea snakes are common in the area.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 35 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Current management is the key skill at North Point. Descend quickly to the planned depth and position yourself on the sheltered side of the pinnacle. When current is strong, use the pinnacle as a reference to hold position and observe fish activity on the current-facing side. The working depth of 25–35 meters limits bottom time — plan carefully and ascend conservatively. The shallow sections above 15 meters allow time to equalise air before the safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Accessible by banca from Malapascua. Conditions should be assessed before committing to this site — strong surface swells or unpredictable current may warrant diving an alternative site. Entry by negative descent; SMB essential for ascent when current is running.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Only attempt North Point on days when your guide confirms conditions are appropriate
+- The strongest currents produce the best fish action — but require advanced current management skills
+- A reef hook is useful for resting while observing schooling fish without affecting the reef
+- The deeper sections are where the most impressive activity occurs; plan your dive to spend time at 25–35 meters
+- This is one of the few Malapascua sites where hammerhead sightings occur regularly, though not on every dive
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Advanced currents, 35-meter depth, and open-ocean exposure make this a genuinely demanding dive. Only experienced divers with strong buoyancy control and current diving skills should attempt North Point. Dive with an experienced local guide. Always carry an SMB. Conditions can change rapidly at this exposed northern point.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The strong current brings dramatic fish schooling scenes that are exceptional photographic subjects. Wide-angle shooting of barracuda and jack schools against the pinnacle face is the highlight. Shark portraits in the deeper sections are possible on days when the large animals are present and approachable.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

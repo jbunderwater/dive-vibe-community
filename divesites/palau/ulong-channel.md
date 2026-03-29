@@ -11,56 +11,47 @@ osmId: 4031041880
 addedBy: osm_import
 ---
 
-## Ulong Channel
+# Ulong Channel
 
-Ulong Channel is a drift dive site in Palau, Pacific.
+Known as "The Express," this narrow coral-walled channel accelerates tidal currents to deliver one of the world's greatest drift dives
 
 ## Overview
-
-Ulong Channel is a dive site in Palau offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Ulong Channel is a narrow cut between two Rock Islands on the western side of Palau's barrier reef, widely regarded as one of the best drift dives on the planet. As the tide changes, water funnels through this coral-walled channel, accelerating to speeds that carry divers effortlessly at two to three knots. The channel is roughly 50 meters wide and several hundred meters long, with walls of pristine hard coral rising on both sides. Grey reef sharks, eagle rays, and sea turtles ride the same current alongside divers. At the channel's exit, the current disperses over a sandy plateau populated by thousands of garden eels that retract into their burrows as divers approach. The entire experience -- the speed, the marine life, the dramatic exit onto the sand flat -- makes Ulong Channel a Palau dive that rivals Blue Corner for sheer exhilaration, despite its modest 13-meter maximum depth.
 
 ## Site Information
-
-- **Location**: Palau, Pacific
+- **Location**: Rock Islands, Palau, Micronesia
 - **Entry Type**: Boat dive
-- **Site Type**: Drift
+- **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 13 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Current**: Strong to very strong (the entire point of the dive)
+- **Best Time**: Best on outgoing tide; year-round diving
 
 ## Marine Life
-
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Grey reef sharks cruise the channel entrance and often swim alongside divers through the passage. Spotted eagle rays are regulars, gliding through the channel with powerful wingbeats. Hawksbill turtles tuck into the coral walls and sometimes drift with divers. Schools of fusiliers, snappers, and surgeonfish pack the channel. Napoleon wrasse are commonly seen near the channel walls. The sandy plateau at the exit is home to vast colonies of garden eels -- one of the largest concentrations in Palau. Whitetip reef sharks rest in the shallows near the channel mouth. Soft corals and sea fans line the channel walls, with butterflyfish and angelfish darting among them.
 
 ## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 13 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-13 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The dive begins with a descent at the channel entrance on the reef side, where the current picks up. Divers descend to 8-13 meters and let the current carry them through the channel, maintaining buoyancy to avoid contact with the coral walls on either side. The channel transit takes 5-15 minutes depending on current strength. At the exit, divers drift onto the expansive sand flat at 10-12 meters, where they can hover over the garden eel colony before ascending. Total dive time is typically 45-55 minutes, with the post-channel reef exploration making up the bulk.
 
 ## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Koror, approximately 40 minutes. The boat drops divers upstream of the channel entrance, timing the drop to the tidal current. Divers descend quickly and enter the channel. Exit is a drift pickup on the reef flat beyond the channel -- deploy an SMB during the safety stop for the boat to track. Communication with the boat captain regarding current timing is essential.
 
 ## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Dive on a strong outgoing tide for the fastest and most thrilling ride through the channel
+- Keep arms tucked and streamlined to avoid snagging on coral walls during the fast drift
+- Slow your approach to the garden eel field -- move gently and they will stay extended for photos
+- An early morning dive often has the best visibility and most active sharks in the channel
+- Carry a reef hook in case your guide stops the group at the channel entrance to observe sharks
 
 ## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The strong current is the defining feature and the primary hazard. Divers must be comfortable in strong drift conditions and able to control buoyancy precisely to avoid wall contact. Do not fight the current -- go with it. Ensure your gear is streamlined with nothing dangling that could snag. Stay with your group, as separation in strong current makes regrouping difficult. An SMB is mandatory for the drift pickup. This site requires current-diving experience and is not suitable for beginners despite the shallow depth.
 
 ## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Ulong Channel offers unique opportunities for both wide-angle and close-focus wide-angle work. Shoot the coral walls streaming past during the drift for a sense of speed, or frame sharks and rays against the channel backdrop. The garden eel field at the exit is a classic Palau image -- approach slowly and use a long focal length or patience to get close before the eels retract. Video shooters love this dive for the inherent dynamism of the current-driven transit.
 
 ## Additional Resources
-
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

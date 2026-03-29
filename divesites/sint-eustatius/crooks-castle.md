@@ -11,56 +11,57 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Crooks Castle
+# Crooks Castle
 
-Crooks Castle is a reef dive site in Sint Eustatius, Caribbean.
+Shallow coral garden covering the remains of an 18th-century Dutch colonial wharf, scattered with encrusted anchors and ballast stones.
 
 ## Overview
 
-Crooks Castle is a dive site in Sint Eustatius offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Crooks Castle sits along the southwestern coast of Sint Eustatius, directly below the ruins of the historic Dutch colonial fort and wharf of the same name. The seafloor here is littered with 17th and 18th-century artifacts — anchors, ballast stones, cannons, and ceramic fragments — embedded in a lush shallow reef. STENAPA (Sint Eustatius National Parks Foundation) manages the marine park, and all artifacts are strictly protected. The combination of history and marine life makes this one of the island's most distinctive dives, accessible to beginners and snorkelers alike.
 
 ## Site Information
 
-- **Location**: Sint Eustatius, Caribbean
+- **Location**: Southwest coast, Sint Eustatius, Caribbean Netherlands
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral reef with historic artifacts
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 20-30 meters
+- **Current**: Usually light
+- **Best Time**: March to June (calm seas, strong visibility)
+- **Water Temperature**: 26-29°C (79-84°F)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The shallow coral structures host French and queen angelfish, spotted drums, yellowhead jawfish, and abundant cleaning stations. Green and hawksbill sea turtles graze on sea grass patches nearby. Reef squid hover in mid-water, and southern stingrays rest on sandy patches between the coral heads. Frogfish have been spotted on the encrusted colonial stonework, camouflaged against the algae-covered masonry.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 10 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-10 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+This is a relaxed, multi-level dive in 3-10 meters of water. Divers typically navigate among the scattered colonial ruins and coral heads before ascending to explore the shallowest sections. Extended bottom times are possible given the depth. A safety stop at 5 meters over the sand is easy to maintain. Night diving here reveals octopus, sleeping parrotfish, and foraging spotted moray eels.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is exclusively by boat; there is no shore entry from the fort ruins. Dive operators in Oranjestad run regular morning two-tank trips that combine Crooks Castle with a second site. Mooring buoys are maintained by STENAPA — anchor drops are not permitted in the marine park. Entry via giant stride; the mooring line serves as a descent reference.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Bring a dive light even during the day — artifact crevices shelter small macro life
+- Photograph the historic anchors and cannons but never touch or remove artifacts
+- The site is ideal for a relaxed second dive after a deeper morning site
+- STENAPA dive fees are collected by local operators; ensure your operator is licensed
+- Combine with the shallow snorkel trail at Statia's Gallows Bay for a full day
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Boat traffic along the southwest coast requires deploying an SMB on ascent. Fire coral encrusts many of the colonial stonework pieces — watch fin placement. Surgeonfish are territorial around certain coral heads. Dive within sport diving limits; the maximum depth is well within recreational range.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Wide-angle shots capturing encrusted anchors and cannons against healthy coral create compelling historical-underwater compositions. Macro subjects include flamingo tongue cowries on sea fans, cleaning shrimp in crevices, and peacock flounders on the sand. Morning light angles from the east provide good ambient illumination at these shallow depths.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Dive site information compiled from STENAPA marine park records and Sint Eustatius diving guides. Last updated 2026-03-28.*

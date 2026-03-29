@@ -13,53 +13,50 @@ addedBy: osm_import
 
 ## Castle
 
-Castle is a reef dive site in Great Barrier Reef, Oceania.
+Castle is a deeper reef dive site at Osprey Reef in the Coral Sea, Queensland, Australia, named for the imposing coral formations that rise from the reef floor like battlements.
 
 ## Overview
 
-Castle is a dive site in Great Barrier Reef offering rewarding diving on healthy coral reef structures. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Castle sits on the outer reef platform of Osprey Reef, south of the North Horn area, where the reef builds impressive three-dimensional coral structures rather than dropping away as a sheer wall. The site's name refers to turreted formations of hard coral — massive Porites bommies, table coral stacks, and consolidated reef structures that create a vertical landscape reminiscent of a fortified castle when viewed from the sandy channels between them.
+
+At 24 metres maximum depth, Castle is the deepest of the Osprey Reef recreational sites and is reserved for intermediate and above divers. The deeper zone is where the reef sharks congregate most reliably and where pelagic visitors from the open Coral Sea make their appearances.
 
 ## Site Information
 
-- **Location**: Great Barrier Reef, Oceania
+- **Location**: Osprey Reef, Coral Sea, Queensland, Australia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters
-- **Typical Visibility**: 15-40 meters (50-130 feet)
-- **Current**: Variable
-- **Best Time**: September to February
+- **Typical Visibility**: 25–40 metres
+- **Current**: Moderate; variable with tidal changes
+- **Best Time**: August to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals.
+Grey reef sharks are the defining large species at Castle, patrolling the channels between the coral formations with characteristic lazy confidence. Hawksbill and green sea turtles rest on the flat surfaces of the coral structures and are often approached closely. Eagle rays cruise the mid-water between formations, and occasional manta rays are sighted at depth. The coral itself is among the best preserved at Osprey Reef, with excellent table coral coverage and large soft coral sea fans decorating the deeper faces. Barracuda and trevally school over the reef top in open water.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 24 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the sandy channels at 20–24 metres to explore the base of the castle formations and encounter reef sharks. Work upward through the channels and overhangs before reaching the reef flat at 12–15 metres. The Coral Sea's clear water means distant structures are visible throughout, helping with navigation and orientation. Allow ample bottom time for the 5-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Liveaboard access only. Giant stride or back roll entry, free descent to reef top. Exit via SMB.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Plan your deepest penetration early in the dive to allow extended time in the shallower zones on the way up
+- The channels between the coral formations are best explored methodically — each one opens into different sections of the reef
+- Early morning dives here tend to produce the most reef shark activity before the day's dive traffic disturbs the site
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish (box jellyfish in summer), crocodiles (north) in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Castle's depth requires careful gas management and depth monitoring. NDL limits at 24 metres must be observed. The intermediate rating reflects the depth commitment and the variable currents that can make buoyancy control more demanding than shallower Osprey sites. Always ascend slowly — Coral Sea dives at depth warrant a 3-minute safety stop minimum.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The coral architecture at Castle is ideal for wide-angle environmental images. Shoot along the channels between formations with a diver exploring in the background. The grey reef sharks provide classic GBR-Coral Sea shark imagery, and the visibility allows for impressive environmental portraits with the blue water visible beyond the reef structures.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

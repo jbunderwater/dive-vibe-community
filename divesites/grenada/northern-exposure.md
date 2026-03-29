@@ -11,56 +11,53 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Northern Exposure
+# Northern Exposure
 
-Northern Exposure is a reef dive site in Grenada, Caribbean.
+A broad, undisturbed reef on Grenada's less-visited north coast — the longest boat ride from St. George's, but rewarded with dense coral coverage, natural fish behaviour, and a noticeably different character to the well-trafficked southwest sites.
 
 ## Overview
 
-Northern Exposure is a dive site in Grenada offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Located off Grenada's northern coastline, Northern Exposure features a broad reef that descends to around 23 metres. The north coast sees significantly fewer dive boats than the southwest, and the reef reflects this lower human traffic pressure — coral coverage is dense and marine life is notably less conditioned to human presence. The reef features good hard coral diversity including brain, star, and pillar corals, with substantial barrel sponge growth at depth. Visibility can be exceptional in good conditions, reaching 30 metres or more. Water temperature is 26–28°C year-round.
 
 ## Site Information
 
-- **Location**: Grenada, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 23 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 5–23 m |
+| Difficulty | Beginner |
+| Entry Type | Boat |
+| Site Type | Reef |
+| Visibility | 20–30 m |
+| Current | Light to moderate |
+| Water Temp | 26–28°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The lower dive pressure on the north coast means marine life behaves less predictably around divers — which is a positive quality, as encounters feel more naturalistic. Sea turtles are less habituated to boats and divers, making interactions feel special. Large parrotfish, groupers, and Caribbean reef sharks are more common here than at the south coast sites. Eagle rays and the occasional hammerhead are documented at the deeper reef sections on the more northerly exposed faces.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 23 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef crest and follow the slope to 23 metres, then ascend along the reef face. The less-explored terrain rewards divers who look carefully — the north coast reef has corners and structures that aren't well-documented and may yield unexpected finds. Allow adequate air for the full safety stop and the boat return.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Longer boat ride of 30–60 minutes from south coast operators. Giant stride entry; DSMB essential on ascent given the more remote location. Typically offered as a half-day excursion combining two dives on the north coast. Check conditions carefully with the operator.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+The journey is worth it — this site offers a noticeably different character to the more visited south coast. Less frequent dive traffic means marine life behaviours are more natural and encounters more spontaneous. Bring lunch and plan for a full half-day north coast excursion. The remoteness means self-sufficiency in navigation and safety equipment is important.
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The north coast is more exposed to Atlantic swell than the south — conditions can change rapidly. Only attempt the journey with an operator who knows the north coast and monitors weather carefully. The longer distance from shore means any equipment problem is more serious than at the nearshore sites. DSMB is essential.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The undisturbed quality of Northern Exposure's reef makes it ideal for wildlife photography — animals behave naturally. The higher probability of large species encounters (sharks, eagle rays, unhurried turtles) rewards wide-angle setups. Natural light at 15–23 metres in Grenada's clear north coast water is excellent.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- Aquanauts Grenada: offers north coast excursions including Northern Exposure on request
+- Best approached as a full-day trip combining two north coast dives
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

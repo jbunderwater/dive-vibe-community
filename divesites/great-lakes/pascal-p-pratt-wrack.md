@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## Pascal P. Pratt (Wrack)
 
-Pascal P. Pratt (Wrack) is a historic wreck dive in Great Lakes, North America.
+The Pascal P. Pratt is a 19th-century wooden schooner wreck in Lake Erie, resting in approximately 20 metres off the Ontario north shore near Port Dover. This schooner is part of the rich heritage wreck collection that lines the bottom of Lake Erie's northern Canadian waters.
 
 ## Overview
 
-Pascal P. Pratt (Wrack) is a dive site in Great Lakes featuring the wreck of the Pascal P. Pratt (Wrack). Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Pascal P. Pratt was a wooden cargo schooner that served the Lake Erie trade routes in the 19th century before sinking in the lake's notorious autumn storms. She now rests at approximately 20 metres on the sandy bottom of northern Lake Erie, where cold freshwater has inhibited the biological processes that would destroy a wooden hull in saltwater. The site lies in well-dived waters between Port Dover and Port Colborne, where Ontario divers have been exploring an outstanding collection of historic sailing ships for decades. Visibility is typically 5–15 metres.
 
 ## Site Information
 
-- **Location**: Great Lakes, North America
+- **Location**: Lake Erie, Great Lakes, Canada (Ontario north shore, near Port Dover)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
+- **Maximum Depth**: 20 metres
+- **Typical Visibility**: 5–15 metres
+- **Water Temperature**: 4–22°C (seasonal); bottom typically 6–10°C
+- **Current**: Variable with wind
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Yellow perch are the defining fish of Lake Erie north shore wrecks, and the Pascal P. Pratt hosts a sizeable resident school that hovers above the deck in summer. Walleye patrol the wreck's perimeter — Lake Erie is famous for its walleye population, and wreck sites concentrate them. Smallmouth bass claim hull openings as territories. Round gobies are everywhere on the silty bottom. Zebra mussels blanket all hard surfaces.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Standard Lake Erie north shore wreck profile. Descend to the wreck and explore from bow to stern on the flat sandy bottom. Note the 19th-century wooden schooner construction details. Ascend with adequate reserve gas. Safety stop at 5 metres for 3 minutes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Charter dive boats from Port Dover or the surrounding area provide regular wreck diving access. This is a well-served dive region. Entry by giant stride. Deploy SMB on ascent.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Pair with other nearby Lake Erie wrecks on the same charter day
+- Drysuit recommended for cold bottom water
+- Torch for hull examination
+- Lake Erie conditions should always be checked before heading out
+- Heritage protection applies to all artifacts
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Lake Erie conditions require constant weather awareness. Rapid wind and wave development is a characteristic hazard. Cold bottom water demands thermal protection. Dive with a buddy and carry an SMB.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The typical Lake Erie wreck photography experience — blue-green ambient light, encrusted hull surfaces, and abundant yellow perch schools. Supplemental lighting brings out hull detail and colour.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

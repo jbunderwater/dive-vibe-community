@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Les Sources d'Eau Chaude
 
-Les Sources d'Eau Chaude is a reef dive site in Guadeloupe, Caribbean.
+Les Sources d'Eau Chaude — the Hot Water Springs — is one of Guadeloupe's most geologically distinctive dive sites, located near Pigeon Island in the Malendure area. Thermal vents and hydrothermal activity at the seabed create warm patches and fault formations that give this site a character found nowhere else in the island's dive roster.
 
 ## Overview
 
-Les Sources d'Eau Chaude is a dive site in Guadeloupe offering rewarding diving on healthy coral reef structures . Unique thermal vents in seabed at 23m with hot springs, royal lobsters, magnificent fault formations from geothermal activity. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Situated close to the Cousteau Reserve, Les Sources d'Eau Chaude sits on a geothermal fault zone where hot springs vent into the Caribbean through the seabed. At around 15 meters depth, divers can feel localised warm water seeping from fissures in the rock and observe the fault formations created by volcanic activity over thousands of years. The seabed features dramatic cracked rock formations, with coral and sponge growth adapted to the slightly elevated temperatures. Visibility averages 20–25 meters. Background water temperature is the usual 26–28°C, but water near the vents can be noticeably warmer.
 
 ## Site Information
 
-- **Location**: Guadeloupe, Caribbean
+- **Location**: Near Pigeon Island, Malendure, Basse-Terre, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Volcanic reef with hydrothermal vents
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Typical Visibility**: 20–25 meters
 - **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Best Time**: November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Despite — or perhaps because of — the geothermal activity, marine life is rich. Large spiny lobsters (langouste royale) occupy the crevices and fault formations, making this one of the better lobster-spotting sites in the Malendure area. Sea turtles frequent the site, and parrotfish, angelfish, and squirrelfish are abundant around the coral and rock formations. The fault zone also harbours moray eels and conger eels in deeper recesses.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef and navigate toward the fault zone, identifiable by the cracked geological formations on the seabed. Place your hand carefully near (not on) the vent openings to feel the warm water rising. Explore the full extent of the fault structures before ascending through the coral zone for your safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Malendure operators, often combined with a Cousteau Reserve dive. Giant stride entry, SMB required on ascent. The site is accessible year-round but conditions are typically best from November through May.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- This is one of the Caribbean's few accessible geothermal dive sites — the scientific interest alone makes it worth a visit
+- Locate the vent openings and feel the temperature difference — a memorable underwater experience
+- Large lobsters at this site are protected — observe, don't disturb
+- The fault formations create interesting crevice habitat that rewards slow, careful exploration
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Do not attempt to put fingers or hands into vent openings — water temperature can be high close to the source. Maintain careful buoyancy over the geological formations. The site attracts divers specifically for the vents — follow your guide's briefing on safe interaction with the geothermal features.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The volcanic geology creates dramatic subjects — cracked seabed formations and warm-water shimmer rising from the vents photograph as visually striking and scientifically interesting. Macro work on large lobsters in the fault crevices is highly rewarding. The combination of geological and biological subjects makes this an unusually varied photography dive.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

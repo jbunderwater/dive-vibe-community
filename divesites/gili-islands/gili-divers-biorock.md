@@ -13,55 +13,54 @@ addedBy: osm_import
 
 ## Gili Divers Biorock
 
-Gili Divers Biorock is a artificial dive site in Gili Islands, Asia.
+A Biorock coral restoration structure on the east coast of Gili Trawangan, supported by the Gili Divers conservation program.
 
 ## Overview
 
-Gili Divers Biorock is a dive site in Gili Islands offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Gili Divers Biorock is part of the extensive network of more than 120 Biorock structures around the Gili Islands. This particular structure is supported by the Gili Divers operation and forms part of the Gili Eco Trust's ongoing reef restoration initiative that has been running since 2006. The Biorock process uses low-voltage electrical current passed through steel frames to stimulate accelerated limestone mineral accretion, creating the ideal substrate for coral colonisation. Over time, the structure has become a thriving reef habitat. The Gili Divers operation offers Biorock specialty courses where divers can learn coral gardening, survey, and maintenance skills.
 
 ## Site Information
 
-- **Location**: Gili Islands, Asia
+- **Location**: East coast Gili Trawangan, Gili Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Artificial
+- **Site Type**: Artificial Reef / Biorock
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 15 m
+- **Typical Visibility**: 15–20 m
+- **Current**: Minimal
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Various reef fish have colonised the structure including anthias, wrasse, pufferfish, and lionfish. Turtles visit the structure for cleaning. Crustaceans, cleaner shrimps, and nudibranchs inhabit the coral growth on the frame. The surrounding natural reef adds additional species diversity to the dive.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the Biorock structure and circle it systematically. Examine coral growth density and the fish communities living within the structure. Extend the dive to the natural reef surrounding the Biorock area. Ascend slowly for a standard safety stop. Total dive time 40–50 minutes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Gili Trawangan. Short transit to the east coast. Calm conditions year-round on the sheltered side of the island.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The Biorock speciality course offered by Gili Divers provides hands-on reef restoration experience
+- The structure is a tangible example of community-based marine conservation
+- Combine with a natural dive site to observe the contrast in coral density and fish life
+- Suitable for snorkellers as well as divers in the shallower sections
+- Visit at different times of year to observe coral growth progression over seasons
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Do not touch the metal frame — sharp edges can cause cuts, and touching disturbs settled coral. Low-voltage current is safe and imperceptible. Maintain buoyancy to avoid fin strikes on the structure. Lionfish are present and venomous — observe without contact.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Before-and-after documentation of coral growth makes interesting sequential photography. The steel geometry with growing coral creates abstract close-up compositions. Fish portraits against the coral-covered frame produce unique backgrounds.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

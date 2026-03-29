@@ -13,54 +13,36 @@ addedBy: osm_import
 
 ## Kuramathi North
 
-Kuramathi North is a drift dive site in Maldives, Asia.
+Kuramathi North is a drift dive site on the northern tip of Kuramathi Island in Rasdhoo Atoll, where the atoll's currents funnel nutrient-rich water past a healthy outer reef slope populated by sharks, pelagics, and dense reef fish schools.
 
 ## Overview
 
-Kuramathi North is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Positioned at the northern point of Kuramathi Island where the atoll rim meets open ocean, this site benefits from consistent currents that deliver exceptional fish life. Divers descend to the reef top at around 8–10 metres and are carried along the outer wall, which drops steeply to beyond 25 metres. Grey reef sharks and white-tip reef sharks are commonly seen cruising mid-water, while napoleon wrasse and large grouper hold station around the coral outcrops. The current keeps the corals in excellent condition — sea fans, soft corals, and overhangs draped with anthias characterise the deeper sections. Hammerhead sharks are occasionally sighted during the season from January to April when the channel current strengthens.
 
 ## Site Information
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Drift
+- **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 20-35 meters (65-115 feet)
+- **Current**: Moderate to strong, directional
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Grey reef sharks, white-tip reef sharks, napoleon wrasse, large grouper, schools of fusiliers and snappers, eagle rays, anthias on the wall, sea fans, and occasional hammerhead sharks during the season.
 
-## Dive Profile
+## Diving Tips
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- Time the dive with an incoming current for the best shark action on the outer wall.
+- Stay close to the reef to shelter from the current when needed and control depth on the sloping wall.
+- This is a drift dive — confirm current direction with your guide before descending.
+- Best combined with a dive at Rasdhoo Madivaru (hammerhead point) on the same boat trip.
 
-## Entry and Exit
+## Getting There
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Kuramathi North is a short boat ride from Kuramathi Island Resort in Rasdhoo Atoll, approximately 45 minutes by speedboat from Velana International Airport.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

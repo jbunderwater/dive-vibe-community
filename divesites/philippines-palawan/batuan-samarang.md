@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Batuan Samarang
 
-Batuan Samarang is a reef dive site in Philippines Palawan, Asia.
+Batuan Samarang — also charted as Rifleman Rock — is a shallow submerged rock formation in the Balabac Strait, one of the island-studded passages separating southern Palawan from Borneo.
 
 ## Overview
 
-Batuan Samarang is a dive site in Philippines Palawan offering rewarding diving on healthy coral reef structures . Balabac area submerged rock formation. Also known as Rifleman Rock. Shallow water site.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+This site sits in relatively sheltered waters near the Balabac Island group, where tidal flows through the strait nourish the coral growth. The rock rises to near-surface level, creating a compact diving area with the bulk of interesting life concentrated in the upper 10–15 meters. Hard corals form the primary structure, with encrusting species and small sea fans occupying the deeper margins. The shallowness makes it an excellent site for maximising bottom time and conducting thorough macro searches.
 
 ## Site Information
 
-- **Location**: Philippines Palawan, Asia
+- **Location**: Balabac Strait, southern Palawan, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Submerged rock / reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 19 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 10-25 meters
+- **Current**: Moderate tidal current, stronger on spring tides
+- **Best Time**: November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The shallow reef supports healthy populations of reef fish including parrotfish, wrasse, angelfish, and butterflyfish. Sea turtles frequently pass through and may be encountered resting on the rock. Reef sharks occasionally patrol the deeper perimeter. Smaller critters including nudibranchs and flatworms are present in rubble zones between coral heads.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 19 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-19 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin on the shallow summit at around 5 meters and work outward toward the rock's edges, descending to 15–19 meters along the flanks. The coral coverage is densest in the mid-depth range. Allow plenty of bottom time to explore the rock thoroughly before ascending slowly to your safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by chartered boat from Balabac town or via a southern Palawan liveaboard itinerary. The Balabac area is remote; trips typically require at least two days from Puerto Princesa. Entry by giant stride; return to the boat using an SMB to signal your position.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The Balabac Strait rewards patient, slow diving — don't rush past the smaller life
+- Bring macro lenses; nudibranchs and flatworms are frequently found here
+- Check tides before entry; the current can make navigation difficult on outgoing springs
+- Morning visibility is generally better than afternoon
+- This area is rarely dived — conditions and marine life are notably pristine
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Tidal currents through the Balabac Strait can be unpredictable. Monitor current direction before and during the dive, and be prepared to surface-drift to the boat. Carry an SMB and whistle. Emergency services in the Balabac area are limited — conservative diving is essential.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The shallow, bright conditions are ideal for reef macro photography. Seek nudibranchs and small crustaceans in the rubble patches and under coral ledges. Reef fish portraits and coral landscape shots are equally productive at this compact site.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

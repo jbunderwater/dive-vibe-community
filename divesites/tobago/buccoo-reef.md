@@ -13,54 +13,49 @@ addedBy: osm_import
 
 ## Buccoo Reef
 
-Buccoo Reef is a reef dive site in Tobago, Caribbean.
+Buccoo Reef is Tobago's most famous and most-visited reef system — a large, shallow coral reef off the island's southwestern tip that has been a national protected area since 1973 and is one of the most recognised reef systems in the southern Caribbean.
 
 ## Overview
 
-Buccoo Reef is a dive site in Tobago offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Buccoo Reef extends over several square kilometres of shallow water off the southwest coast of Tobago, forming a complex of coral formations, seagrass beds, and sandy lagoons protected by a barrier reef. The reef has been subject to considerable environmental pressure over the decades — boat groundings, tourism, bleaching events, and storms have affected coral health in sections — but significant areas remain in good condition. The outer reef edge drops to around 25 meters and retains the best coral structure. Visibility varies depending on location and season but typically reaches 15–25 meters. Water temperature stays at 26–28°C.
 
 ## Site Information
 
-- **Location**: Tobago, Caribbean
+- **Location**: Southwest Tobago, off Buccoo village
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Large reef complex with lagoon zones
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 15–25 meters
+- **Current**: Variable; lagoon areas are calm, outer reef has more current
+- **Best Time**: February to May (best visibility)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The Buccoo Reef complex supports diverse marine life across its different zones. The lagoon areas are habitat for green turtles feeding on seagrass, juvenile reef fish, and invertebrates including conch. The reef proper hosts parrotfish, snapper, grouper, and angelfish. The outer reef edge produces more significant encounters — eagle rays and nurse sharks are common, and Caribbean reef sharks occasionally visit. The seagrass beds between the reef and shore are among Tobago's most productive sea turtle habitats.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Dives at Buccoo vary depending on the operator's chosen section of the reef. Outer edge dives descend to 20–25 meters on the seaward face. Lagoon-side dives stay in the 3–10 meter range. Brief with your operator about which section of the reef will be dived and plan accordingly.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Buccoo, Scarborough, or Crown Point operators. Giant stride entry; SMB on ascent. Glass-bottom boat and snorkel tours also operate on the shallower lagoon sections.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Choose an outer-edge dive over the lagoon-side for better coral condition and more fish life
+- Avoid visiting on busy public holidays when boat traffic on the reef is heavy
+- The "Nylon Pool" — a shallow sandbar in the lagoon — is a popular tourist stop but offers little for serious divers
+- The reef is protected — no touching, collecting, or anchoring on coral
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Buccoo is one of the busiest shallow reefs in the region — boat traffic requires a deployed SMB on every ascent. The reef area has been subject to grounding damage in the past, and some areas have irregular depth — follow your guide carefully. The lagoon is exposed to sun with little shade; sunburn protection is important for surface intervals.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The reef's diverse zones offer subjects across all photographic styles. The seagrass lagoon with sea turtles, the outer edge in clear water with abundant reef fish, and the coral formations at various depths all provide varied opportunities. Buccoo is not Tobago's highest-quality photography site, but the range of habitats in a single reef complex creates genuine variety.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

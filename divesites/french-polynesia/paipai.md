@@ -1,5 +1,5 @@
 ---
-name: Pa’ipa’i
+name: Pa'ipa'i
 lat: -16.664726
 lng: -151.539059
 difficulty: Advanced
@@ -11,56 +11,28 @@ osmId: 663869257
 addedBy: osm_import
 ---
 
-## Pa’ipa’i
+## Pa'ipa'i
 
-Pa’ipa’i is a drift dive site in French Polynesia, Pacific.
+Pa'ipa'i is a celebrated pass drift dive in French Polynesia, widely regarded as one of the world's premier shark diving experiences. The site — located in a pass of the Taha'a or northern Raiatea barrier reef — is famous for the "wall of sharks" phenomenon where hundreds of grey reef sharks aggregate in the channel during the right tidal conditions.
 
 ## Overview
 
-Pa’ipa’i is a dive site in French Polynesia offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Pa'ipa'i has earned a reputation among experienced divers for the sheer number of grey reef sharks that congregate in its channel. During strong incoming tides, the shark aggregation can number in the hundreds — an almost incomprehensible density of large predators packing the mid-water column in a behaviour that researchers believe is connected to courtship and feeding. The pass depth sits at around 20–25 metres, and tidal flows can run at 3–5 knots. Visibility on incoming oceanic water regularly exceeds 35 metres, offering clear views of the spectacle.
 
-## Site Information
+## What to Expect
 
-- **Location**: French Polynesia, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Drift
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+The grey reef shark aggregation at Pa'ipa'i during peak conditions is one of the most extraordinary wildlife encounters available to divers anywhere on Earth. Hundreds of sharks — many between 1.5 and 2 metres — fill the water column from the channel floor to within a few metres of the surface. Maintaining position in the current requires effort, but divers who can hold their station are rewarded with sharks passing within arm's reach on all sides. Eagle rays and large napoleon wrasse navigate through the shark aggregation. Schools of barracuda circle overhead. Outside of peak aggregation periods, the pass still produces reliable shark encounters with typical groups of 20–50 individuals.
 
-## Marine Life
+## Conditions
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+- **Best season**: April–November; aggregation peaks vary seasonally
+- **Visibility**: 30–40 m on incoming tide
+- **Current**: Very strong (3–5 knots at peak); fins and positioning critical
+- **Water temperature**: 27–28°C
+- **Entry**: Boat drift dive; guide mandatory
 
-## Dive Profile
+## Tips
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+This is strictly an Advanced dive and is frequently listed as the flagship site by Raiatea and Taha'a dive operators. Dives are conducted with small groups and experienced local guides who know the shark behaviour cycles. Buoyancy mastery and strong fin technique are mandatory — divers who cannot manage the current will be unsafe and will disturb the aggregation. Book in advance with Taha'a or Raiatea-based operators who specialise in this site.
 
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

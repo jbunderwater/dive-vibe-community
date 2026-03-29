@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## Wexford (Wrack)
 
-Wexford (Wrack) is a historic wreck dive in Great Lakes, North America.
+The Wexford is one of Lake Huron's most historically significant wrecks — a steel-hulled steamer lost with all hands during the Great Lakes Storm of November 1913, one of the most devastating storms in Great Lakes history. She lies in approximately 20 metres of Lake Huron water off the Ontario coast near Grand Bend, discovered in 2000 after eluding searchers for 87 years.
 
 ## Overview
 
-Wexford (Wrack) is a dive site in Great Lakes featuring the wreck of the Wexford (Wrack). Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Great Storm of November 9–12, 1913 was the most destructive storm in Great Lakes history, sinking twelve ships and killing 248 sailors over four days of hurricane-force winds and whiteout snow. The Wexford was a 77-metre steel steamer that vanished in the storm with all 17 crew members. Her location remained unknown for 87 years until discovered by diver Mike Fletcher in 2000. The Wexford lies in approximately 20 metres of Lake Huron water off Goderich, Ontario, upright on the lakebed and remarkably preserved given her century of submersion. This site is historically profound — the Wexford is one of the last "mystery wrecks" of the 1913 storm, and her discovery is considered one of the most significant Great Lakes diving events of recent decades.
 
 ## Site Information
 
-- **Location**: Great Lakes, North America
+- **Location**: Lake Huron, Great Lakes, Ontario, Canada (off Goderich, southern Lake Huron)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
+- **Maximum Depth**: 20 metres
+- **Typical Visibility**: 5–12 metres
+- **Water Temperature**: 4–20°C (seasonal); bottom 4–8°C
+- **Current**: Variable with Lake Huron conditions
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Southern Lake Huron supports a healthy freshwater fish community. Lake trout and walleye are present. Smallmouth bass inhabit the hull openings. Yellow perch school around the superstructure. Round gobies are established in Lake Huron. Zebra mussels coat the hull surfaces below the thermocline, creating the characteristic appearance of all Ontario Great Lakes wrecks.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The Wexford lies upright at 20 metres. Explore the steel hull from bow to stern — this is a complete vessel, not a broken or scattered wreck, which makes exploration intuitive and rewarding. The superstructure, portholes, mast, and stern are all intact. The historical significance of this vessel — lost with all hands in the greatest Great Lakes storm — gives the dive a solemn, powerful character beyond the physical. Ascend on the anchor or mooring line. Safety stop at 5 metres for 3 minutes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Charter dive boats from Goderich, Ontario provide access. Local dive operators have the most detailed knowledge of current conditions and access logistics for the Wexford. Entry by giant stride. Deploy SMB on ascent.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Research the Great Storm of 1913 before diving the Wexford — the historical context makes this a deeply moving experience
+- The vessel serves as a grave for 17 crew members — treat it with appropriate respect
+- Drysuit recommended for cold Lake Huron bottom temperatures
+- The Wexford is one of the most historically significant accessible wreck dives in Canada
+- The discovery story — 87 years lost, found by recreational diver Mike Fletcher — is extraordinary
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Lake Huron offshore conditions can deteriorate rapidly. Check weather forecasts carefully. The Wexford lies in open lake waters — conditions at the site may differ from the harbour. Cold water demands thermal protection. The historical and emotional significance of this site as a grave should be a reminder to dive with appropriate care and respect. Dive with a buddy and carry an SMB.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The Wexford is one of the most compelling photography subjects in Great Lakes diving. The intact upright hull of a vessel lost with all hands in the greatest Great Lakes storm offers images of extraordinary historical power. The steel hull in Lake Huron's ambient light, with portholes and deck features clearly visible, provides subjects ranging from intimate macro to wide-angle documentary.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

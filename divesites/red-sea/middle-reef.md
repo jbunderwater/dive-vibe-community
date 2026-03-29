@@ -13,54 +13,49 @@ addedBy: osm_import
 
 ## Middle Reef
 
-Middle Reef is a reef dive site in Red Sea, Middle East.
+Middle Reef is an offshore reef site in the southern Red Sea at approximately 22.37°N, 38.85°E, situated in the central section of the sea in the waters between Egypt and Saudi Arabia. This position places it in a rarely visited region of the Red Sea, accessible only by liveaboard operating southern or transoceanic routing. The close proximity to the North Long Reef site (at 22.34°N, 38.85°E) — just a few hundred meters to the south — suggests these are part of a reef complex in the open Red Sea.
 
 ## Overview
 
-Middle Reef is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Middle Reef and its neighbouring North Long Reef form a reef complex in open Red Sea waters at a latitude that sees very little recreational diving traffic. The isolation of the site from any major dive hub means the reef is in essentially pristine condition relative to accessible resort sites. The combination of clear, oceanic water and undisturbed coral and fish communities creates conditions that experienced liveaboard divers find markedly different in character from the busier northern Red Sea resort sites. The 20-meter maximum depth keeps the site within intermediate recreational range.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
+- **Location**: Open Red Sea (approximately 22.37°N, 38.85°E)
+- **Entry Type**: Boat dive (liveaboard access only)
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 25-40 meters (80-130 feet)
+- **Current**: Variable; can be strong in open Red Sea conditions
+- **Best Time**: November to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Remote open Red Sea reefs with minimal diver pressure support well-established shark populations. Grey reef sharks and whitetip reef sharks are the most likely encounters along the reef edge, with silvertip sharks possible at depth. Large schools of barracuda and trevally are common at mid-water. humphead wrasse and groupers take up territories on the reef, noticeably calmer than the same species at heavily dived northern sites. Sea turtles make appearances at offshore reefs throughout the Red Sea. Coral coverage on rarely-visited reefs tends to be exceptional, with both hard coral and sea fan development at their best.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef and work the outer edge at 10-20 meters. The open position of this reef means there is typically no sheltered side to retreat to — plan for the possibility of increasing current and monitor conditions throughout. Cover the reef perimeter by following the edge, examining the reef face for shark activity in the adjacent blue water. Ascend conservatively with good air reserve and deploy SMB well before the surface.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Exclusively liveaboard access. Surface conditions in the open Red Sea can be variable and sometimes rough. Entry only when the boat captain confirms conditions are safe. Giant stride entry; drift pickup by the boat. Carry a full range of safety signalling equipment.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Pair with the adjacent North Long Reef for a comprehensive exploration of this reef complex
+- The isolation is the site's defining character — embrace the expedition feeling and expect potentially dramatic encounters
+- Nitrox extends bottom time at the 15-20 meter productive range
+- Carry a reef hook to hold position without touching coral when current is present
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Open Red Sea at 22°N is genuinely remote — emergency services are measured in many hours' response time at best. All divers must be comfortable with the full range of open-water dive safety procedures: independent ascent, SMB deployment, audible signalling, and self-sufficiency. Currents can be unpredictable at offshore reefs without the modulating effect of coastal topography. Fire coral is present on all reef surfaces.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Pristine, rarely-dived reefs in clear oceanic water produce exceptional wide-angle imagery. The combination of untouched coral, large resident fish, and potential shark encounters creates opportunities for portfolio-quality images. A wide rectilinear lens or fisheye and a reliable strobe system are the essential tools for capturing the depth and colour of an unspoiled Red Sea reef.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

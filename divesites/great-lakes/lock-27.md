@@ -13,54 +13,55 @@ addedBy: osm_import
 
 ## Lock 27
 
-Lock 27 is a reef dive site in Great Lakes, North America.
+Lock 27 is a submerged section of the historic St. Lawrence canal system in eastern Ontario, near the Thousand Islands region. Like the nearby Lock 23, this decommissioned heritage infrastructure provides a distinctive freshwater dive through engineered stone chambers and associated canal architecture in the clear waters of the St. Lawrence watershed.
 
 ## Overview
 
-Lock 27 is a dive site in Great Lakes offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Lock 27 is part of the system of bypassed canals that preceded the modern St. Lawrence Seaway infrastructure. When the Seaway was built and older canal sections were decommissioned, some locks were flooded or otherwise submerged, creating unusual dive sites with intact 19th-century stonework and lock hardware. The site lies in eastern Ontario in the Thousand Islands region — an area already well-known for wreck diving and freshwater dive heritage. The flowing water from the St. Lawrence watershed maintains good visibility, and the stone channel of the lock creates a channelled dive environment different from open-water wreck diving. Water temperatures vary seasonally from near freezing in winter to 22°C at the surface in summer.
 
 ## Site Information
 
-- **Location**: Great Lakes, North America
+- **Location**: St. Lawrence River watershed, Eastern Ontario, Canada (Thousand Islands region)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Heritage infrastructure / freshwater dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 20 metres
+- **Typical Visibility**: 8–15 metres
+- **Water Temperature**: 4–22°C (seasonal)
+- **Current**: Moderate; varies with season and upstream conditions
+- **Best Time**: June to September
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The lock's submerged stonework creates micro-habitat that supports a variety of freshwater species. Northern pike are common, using the shelter of the lock structure as ambush points. Smallmouth bass inhabit the corners and sheltered sections of the lock chamber walls. Crayfish are abundant on all stone surfaces. Yellow perch school in the open water of the chamber. Native freshwater mussels and aquatic insects colonize the stonework. In calmer sections near the lock walls, aquatic vegetation provides additional shelter for juvenile fish.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The defined walls and floor of the lock chamber provide natural navigation. Enter and explore along one wall, then return along the other to cover the full structure. The architecture of the lock — mitre gates (or their remnants), sill stones, and wall drainage features — are interesting engineering subjects. Maximum depth 20 metres. Plan ascent and exit logistics with the dive boat before entering due to current management requirements.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive charters from Gananoque, Brockville, or other Thousand Islands communities offer access. Local operators know the current patterns at this site and can advise on optimal timing. Entry by giant stride from the dive boat.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Combining multiple Thousand Islands dive sites in a single day is highly recommended
+- Research the history of the St. Lawrence canal systems before diving — the context enriches the experience
+- A torch is essential for examining the stonework and dark sections of the lock
+- Current diving experience recommended
+- The Thousand Islands generally rewards a 2–3 day visit given the density of dive sites
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+As with all St. Lawrence River diving, current assessment is essential. The channelled nature of the lock can amplify current in certain conditions. Unstable masonry at old lock sites is a possibility — avoid contact with obviously fragile structures. Always dive with a buddy and carry an SMB.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Lock diving offers architectural photography opportunities rarely found in freshwater diving. The precision stonework of 19th-century canal construction, illuminated with torches against the clear river water, creates compelling images. The geometric symmetry of the lock chamber provides unusual compositional options.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

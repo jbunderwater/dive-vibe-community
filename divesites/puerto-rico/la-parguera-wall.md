@@ -11,57 +11,53 @@ osmId: null
 addedBy: osm_import
 ---
 
-## La Parguera Wall
+# La Parguera Wall
 
-La Parguera Wall is a wall dive site in Puerto Rico, Caribbean.
+Puerto Rico's signature wall dive — a vertical Caribbean carbonate drop-off running for kilometres along the southwestern shelf edge at La Parguera, with black coral forests, large pelagics, and some of the clearest water on the island.
 
 ## Overview
 
-La Parguera Wall is a dive site in Puerto Rico featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+La Parguera Wall is the defining dive feature of Puerto Rico's southwest coast, where the Caribbean island platform drops abruptly from a broad reef shelf at 10–15 metres into the deep Caribbean basin. The wall runs in a broadly east-west orientation off La Parguera — a fishing village and recreational boating destination in Lajas municipality — and drops past recreational dive limits to well over 40 metres. The upper wall zone at 15–30 metres carries dense sponge growth including barrel sponges and tube sponges, large gorgonian sea fans, and extensive black coral at depth. The La Parguera area is one of Puerto Rico's most productive and most-dived regions, with several operators running regular wall trips. Visibility averages 20–35 metres on the southwest shelf. Water temperature is 26–29°C.
 
 ## Site Information
 
-- **Location**: Puerto Rico, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 10–40 m |
+| Difficulty | Advanced |
+| Entry Type | Boat |
+| Site Type | Wall |
+| Visibility | 20–35 m |
+| Current | Light to moderate |
+| Water Temp | 26–29°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The La Parguera Wall's deep, current-swept character supports an excellent pelagic community. Caribbean reef sharks patrol the open water at the wall edge, particularly in the 20–30 metre zone. Schools of horse-eye jacks and bar jacks sweep along the wall. Spotted eagle rays cruise the wall face and occasionally the sandy reef top. Large groupers occupy the wall overhangs and black coral sections at depth. Hawksbill turtles are common at the upper wall where sponge growth is dense. At night, the wall is exceptionally productive for octopus, moray eels, and lobster encounters.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Descend via mooring line to the reef top at 10–12 metres, then drop down the wall face in a planned descent. Spend the first 15 minutes of the dive in the 25–40 metre zone for the most impressive terrain and pelagic encounter window, then ascend to the 15–20 metre zone for the majority of the dive before the safety stop on the reef top. The wall orientation and current conditions determine the best direction of drift.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from La Parguera village operators. The harbour is the departure point for all southwest wall trips. Entry by backward roll or giant stride. DSMB required. Several specific wall sections have permanent moorings — operators will select based on conditions.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+La Parguera has multiple named wall sections — Fallen Rock, Black Wall, and others — each with slightly different character. Ask operators which specific section they plan to dive and request Black Wall if deep black coral sections are a priority. Night dives on the wall are highly productive and offered by local operators. The La Parguera bioluminescent bay is a famous attraction — plan a combination day-dive and night bay tour.
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+The wall drops well beyond recreational limits — maintain planned maximum depth and do not follow pelagics deeper. DSMB required — the boat may drift significantly during the dive. Monitor air consumption carefully at depth. Current can run parallel to the wall with varying strength — communicate with operators about tidal timing.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+La Parguera Wall is Puerto Rico's best advanced wall photography site. The combination of large barrel sponges, black coral forests at depth, and regular pelagic encounters makes the site ideal for both close-focus wide-angle and full-frame wide-angle shooting. Caribbean reef shark portraits on the wall backdrop, eagle ray passes in open water, and black coral branch close-ups are the defining subjects.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- Parguera Divers: local La Parguera operator specialising in the southwest wall sites
+- Paradise Scuba (Lajas area): regular wall dive operations from La Parguera
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

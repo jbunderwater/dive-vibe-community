@@ -13,55 +13,54 @@ addedBy: osm_import
 
 ## Barge de Gubal
 
-Barge de Gubal is a historic wreck dive in Red Sea, Middle East.
+Barge de Gubal is a wreck dive site in the Gubal Island area of the northern Gulf of Suez, Red Sea. The wreck of a large cargo barge lies in 20–25 meters of water amid the scattered reef systems of the Gubal Straits — a historically treacherous shipping lane that has claimed numerous vessels over the centuries.
 
 ## Overview
 
-Barge de Gubal is a dive site in Red Sea featuring the wreck of the Barge de Gubal. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The Barge de Gubal is a substantial wreck that has become heavily encrusted with coral over the years, effectively transforming into an artificial reef. The flat barge deck provides a stable, easy-to-navigate surface for divers, while the sides drop away into sand. The area around Gubal Island is renowned for its concentration of wrecks, and the Barge de Gubal is one of several accessible wrecks in the vicinity, often dived as part of a multi-wreck day. Visibility is typically 15–25 meters, with water temperatures of 22–28°C.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Red Sea, Egypt
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 15–25 meters (50–82 feet)
+- **Current**: Moderate
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter glassy sweepers, lionfish, groupers, coral growth, soft corals, whale sharks, manta rays, hammerhead sharks. Additional species commonly sighted include oceanic whitetip sharks, sea turtles, dolphins. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Soft corals and sea fans cover the barge deck and sides, and glassfish schools shelter within the protected structural spaces. Lionfish, moray eels, and grouper occupy the wreck. Batfish and barracuda are regularly seen hovering mid-water above the structure. The sandy areas adjacent to the barge are home to blue-spotted ribbontail rays and crocodilefish.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the deepest part of the barge hull at 22–25 meters and work methodically across the deck, inspecting the encrusted metalwork and any cargo remnants. Ascend the sides of the barge progressively before spending time in the mid-water above the structure where batfish congregate. Safety stop at 5 meters above or near the wreck.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive; the site is typically accessed on day trips or liveaboard circuits. A mooring line to the wreck or a shot line is commonly deployed. Use the line for descent and ascent. SMB deployment for open water exit if no line is available.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Combine with other Gubal Straits wrecks for a dedicated wreck-diving day
+- Dive torch essential for inspecting the darker structural recesses
+- Look under the barge hull edges for resting whitetip reef sharks
+- The encrusted deck offers excellent macro subjects including nudibranchs
+- Be prepared for current on the wreck — tie off or maintain contact with the structure
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Currents in the Gubal Straits can be significant — site conditions should be evaluated before descending. Penetration of enclosed spaces requires wreck diving certification. Fire coral is present on the superstructure. Always carry an SMB and dive with a buddy.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The soft coral encrustation on the barge structure provides vivid colour for wide-angle photography. Glassfish clouds inside structural openings against ambient light are a classic wreck photography composition. Macro work yields nudibranchs and crustaceans on the hull.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

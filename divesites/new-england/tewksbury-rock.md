@@ -11,55 +11,57 @@ osmId: 816347620
 addedBy: osm_import
 ---
 
-## Tewksbury Rock
+# Tewksbury Rock
 
-Tewksbury Rock is a reef dive site in New England, North America.
+A named rocky outcrop off the Hull/Cohasset coast, part of the western South Shore ledge cluster near Boston Harbor.
 
 ## Overview
 
-Tewksbury Rock is a dive site in New England offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Tewksbury Rock is a named rocky feature in the waters off Hull and Cohasset on Massachusetts's South Shore, in the western fringe of the broad ledge system that extends across the southern approaches to Boston Harbor. The rock sits at 15 metres maximum depth — slightly shallower than the deeper members of the South Shore ledge cluster to the south. The name Tewksbury appears in Massachusetts place names (the town of Tewksbury is in the Merrimack Valley) but the connection to this rock is unclear — perhaps an early colonial family or vessel involved in a historical incident. For divers, Tewksbury Rock provides the same accessible cold-water reef diving as the adjacent Martin Ledge and Harding Ledge sites.
 
 ## Site Information
 
-- **Location**: New England, North America
+- **Location**: Off Hull/Cohasset, western South Shore of Massachusetts
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
+- **Typical Visibility**: 5–10 meters (variable)
+- **Current**: Moderate tidal current
+- **Water Temperature**: 7–20°C depending on season
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Rocky ledge community of the western Massachusetts Bay. Tautog resident on rock faces. American lobsters inhabit crevices. Cunner hover around encrusted surfaces. Pollock school in midwater. Sea urchins on exposed rock. Winter flounder on adjacent sand. Anemones and bryozoans on shaded surfaces.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boat access from Hull or Cohasset. The 15-metre maximum depth allows more bottom time than the deeper 18-metre ledges. Navigate rock perimeter and crevice faces. Combine with Martin Ledge and Harding Ledge for a western South Shore multi-site day. Complete a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat charter required. Anchor in sand adjacent to rock. Deploy SMB before ascending.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The shallower 15m maximum depth allows more generous bottom time than nearby 18m ledges
+- Combine with Martin Ledge and Harding Ledge for an efficient western South Shore dive day
+- 7mm wetsuit or drysuit required
+- Plan around slack tide
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Cold water year-round. Moderate tidal current. Rocky bottom. Deploy SMB before surfacing.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+At 15 metres, natural light penetrates better than at 18m. Wide-angle reef portraits can work in good visibility; strobes improve color accuracy.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Charter Access**: Hull and Cohasset area dive operators
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

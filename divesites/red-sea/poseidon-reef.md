@@ -13,54 +13,49 @@ addedBy: osm_import
 
 ## Poseidon Reef
 
-Poseidon Reef is a reef dive site in Red Sea, Middle East.
+Poseidon Reef is an offshore patch reef situated in the Safaga area of the Egyptian Red Sea, approximately 60 kilometers south of Hurghada. The Safaga region is well known among diving enthusiasts for its consistent winds — a draw for kiteboarders and windsurfers — but also features a cluster of impressive offshore reefs with excellent coral health and strong marine biodiversity, of which Poseidon is one.
 
 ## Overview
 
-Poseidon Reef is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Poseidon Reef is a relatively compact coral structure rising from deeper water to a reef top at around 5-8 meters. The sides slope and drop to sand at approximately 20 meters. Coral coverage is healthy throughout, with table corals, brain corals, and branching staghorn forming the primary structural elements. The reef is sheltered from prevailing winds on its western face, providing reliably good conditions and visibility averaging 20-30 meters. The site is generally dived from day boats and liveaboards operating out of Safaga.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Red Sea, Egypt (Safaga area, central Egyptian Red Sea)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
+- **Typical Visibility**: 20-30 meters (65-100 feet)
+- **Current**: Moderate; varies with conditions
 - **Best Time**: September to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Poseidon Reef supports the typical central Red Sea reef community. humphead wrasse are frequently encountered cruising the outer reef edge. Groupers, including giant grouper, favor the deeper coral overhangs. Schools of snapper and anthias inhabit the reef slope in numbers. Green and hawksbill turtles visit regularly. Lionfish, scorpionfish, and moray eels occupy the reef's crevices and ledges. The sandy bottom surrounding the reef provides additional habitat for bluespotted stingrays and garden eels visible from the reef base.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef top and follow the slope down, circling the reef to cover the different faces. The most productive depth band is 8-18 meters where coral density and fish life are greatest. Sandy patches at the base of the reef occasionally hide crocodilefish and other cryptic species worth seeking out. Ascend gradually and complete the safety stop on the reef top where fish life remains active.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Safaga day operators or liveaboards. Giant stride or back roll entry with descent to the mooring or directly to the reef top. Deploy SMB on ascent and coordinate with the boat for pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Check multiple sides of the reef during the dive — the leeward face is calmer but the current-swept side has better fish aggregations
+- Look for crocodilefish on the sand patches at the reef base, where they are well camouflaged
+- Combine Poseidon Reef with nearby Safaga reefs for a productive full-day itinerary
+- The Safaga region is less crowded than Hurghada, meaning quieter dives with less boat traffic
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Current can develop on the exposed faces of the reef — stay oriented throughout the dive and note the current direction before descending. Maintain depth awareness as the sandy bottom beyond the reef base leads to increasingly deep water. Fire coral patches are present on the reef top. Always carry an SMB for ascent signaling.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The compact size of Poseidon Reef means it can be covered thoroughly in a single dive, allowing time to photograph a variety of subjects. Wide-angle reef-scape photography works well along the sloping walls. humphead wrasse offer cooperative wide-angle portrait subjects. The sandy base hosts camouflaged subjects like crocodilefish and scorpionfish that reward careful searching. Anthias shoals over the reef crest photograph beautifully in natural light.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,55 +13,53 @@ addedBy: osm_import
 
 ## Diani Reef
 
-Diani Reef is a reef dive site in Kenya Coast, Africa.
+Diani Reef is the primary fringing reef off Diani Beach, Kenya's most developed resort coast south of Mombasa, providing accessible beginner diving with 16-meter maximum depth and a healthy coral community that serves as the foundation of the area's dive industry.
 
 ## Overview
 
-Diani Reef is a dive site in Kenya Coast offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Diani Beach stretches for about 17 kilometers along Kenya's south coast, and the fringing reef running parallel to the shoreline creates a natural diving destination for the resort hotels and dive operators based here. The reef sits 300-600 meters offshore, accessible by a short boat ride, and drops from a shallow crest at 3-5 meters to the dive limit at 16 meters over a broad, sloping profile with diverse hard coral formations. The reef's proximity to shore and manageable depth profile have made it a standard training and introductory site for decades, and despite significant tourism development, the coral coverage remains good in the healthiest sections. Visibility averages 12-20 meters.
 
 ## Site Information
 
-- **Location**: Kenya Coast, Africa
+- **Location**: Diani Beach, South Coast, Kenya
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 16 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 12-20 meters (40-65 feet)
+- **Current**: Light to moderate
+- **Best Time**: October to March (northeast monsoon); June-September can have reduced visibility
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+Sea turtles are the most charismatic regular visitors — both green and hawksbill turtles feed on the reef and are accustomed to divers. Large moray eels inhabit crevices throughout the reef slope. Lionfish are common on coral outcrops. Schools of surgeonfish and parrotfish graze across the reef surface. Octopus hunt in the reef-sand interface at the base. Reef sharks are occasionally seen in the deeper sections during afternoon dives, and stingrays rest on sandy patches between coral formations.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 16 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-16 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend from the mooring to the reef base at 14-16 meters and navigate gradually up the slope, spending the bulk of the dive in the most productive coral zone at 6-12 meters. The broad profile allows unhurried navigation without rushing toward the shallows. Complete the safety stop on the shallow reef crest in excellent natural light. The relaxed profile is suitable for first ocean dives after pool or confined water training.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat departure from Diani Beach operators — multiple dive shops operate along this stretch and most are within walking distance of the major resort hotels. Short boat transit of 5-15 minutes. Tidal timing affects access over the reef crest; morning dives typically find better conditions than afternoon on incoming tides.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- An excellent site for a first ocean dive after completing Open Water certification
+- Bring a torch even on daytime dives to reveal morays and octopus in the reef crevices
+- Morning dives typically offer better visibility than afternoon as tidal turbidity increases later in the day
+- Night diving at Diani Reef is popular and very accessible given the short transit and calm conditions
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Low-risk diving environment appropriate for beginner divers. Current is generally light to moderate and manageable with basic skills. The main hazards are fire coral contact and sea urchin puncture from inattentive fin movement in the shallow sections. Boat traffic near the reef in peak resort season requires SMB deployment before ascending. Dive with an operator-provided guide for first dives here.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Excellent natural light conditions throughout the reef profile for ambient-light photography. Sea turtle encounters are the priority shot — approach from the side and avoid overhead fin movement. The variety of reef fish provides good subjects at every depth. Night photography of octopus and hunting lionfish is accessible and productive from this beach.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

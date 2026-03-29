@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Rannalhi Bodu Giri
 
-Rannalhi Bodu Giri is a reef dive site in Maldives, Asia.
+Rannalhi Bodu Giri — "Big Coral Head of Rannalhi" — is a large giri formation in South Malé Atoll near Rannalhi Island, a substantial coral structure that supports one of the more impressive resident fish communities among the giris of this area, including reliably large sharks and schooling pelagics.
 
 ## Overview
 
-Rannalhi Bodu Giri is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Bodu (meaning "big") is an apt description for this giri — the coral structure is noticeably larger than many of the area's other coral heads, providing more diverse habitat zones. The summit sits at 5–6 metres and is densely overgrown with hard corals, while the flanks present a series of overhangs and swim-throughs before reaching the sandy base at 25 metres. The site's size supports a proportionally larger concentration of fish: multiple white-tip reef sharks may be seen resting simultaneously, schools of snapper and batfish occupy the upper flanks, and large napoleonfish regularly appear around the shallower sections. Nurse sharks are often found tucked into the deeper overhangs, and eagle rays occasionally visit the outer edges.
 
 ## Site Information
 
@@ -26,41 +26,23 @@ Rannalhi Bodu Giri is a dive site in Maldives offering rewarding diving on healt
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-25 meters (50-100 feet)
+- **Current**: Moderate, variable
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+White-tip reef sharks, nurse sharks, napoleon wrasse, eagle rays, batfish, schools of snappers, coral grouper, moray eels, fusiliers, and hard coral formations throughout.
 
-## Dive Profile
+## Diving Tips
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- The size of this giri allows a full circumnavigation with plenty to see — plan a systematic circuit to cover all sides.
+- Check overhangs at 18–22 metres for resting nurse sharks and smaller reef species.
+- Napoleon wrasse often appear near the summit; they're curious and photogenic.
+- Combine with Rannalhi Faru for a contrasting two-dive day: giri vs. outer reef wall.
 
-## Entry and Exit
+## Getting There
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Rannalhi Bodu Giri is in South Malé Atoll, accessible by boat from local resorts or from Malé, approximately 30–60 minutes by dhoni or speedboat.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

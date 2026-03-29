@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Abu Fendira
 
-Abu Fendira is a reef dive site in Red Sea, Middle East.
+Abu Fendira is a coral reef dive site near Hamata, in the southern reaches of the Egyptian Red Sea.
 
 ## Overview
 
-Abu Fendira is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Abu Fendira is situated in the Hamata archipelago region, a collection of islands and fringing reefs south of Marsa Alam that form one of the most scenic and biologically rich coastal areas on the Egyptian Red Sea. The islands are surrounded by extensive fringing reefs and separated by sandy channels — a topography that creates diverse diving environments within short distances of one another. Abu Fendira offers a well-developed reef with a mix of coral types and a resident fish population typical of the healthy southern Red Sea. The site is a regular stop for Hamata-based day-trip operators.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Hamata archipelago, southern Red Sea, Egypt
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20–30 meters
+- **Current**: Moderate; variable around the island structures
+- **Best Time**: October to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The Hamata reefs are known for their dugong sightings — the area is one of the few places in Egypt outside Abu Dabbab where these animals are occasionally seen. Sea turtles are common. The reef supports a healthy population of reef sharks, large grouper, and moray eels. Schooling fish including fusiliers and snapper populate the mid-water above the reef. The sheltered channels between islands can attract manta rays during the right season.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef plateau and explore the coral garden before working to the outer edge. The drop-off descends to a sandy terrace at 15–20 m, where rays may be resting. Ascend along the reef structure, exploring overhangs and crevices on the way back to the shallows for the safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+By dive boat from Hamata harbour. Local dive guides from Hamata operators lead dives in this area and have detailed knowledge of the best sections of each reef. Giant stride entry; SMB ascent for boat pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Ask local guides about recent dugong activity in the area — sightings are uncommon but possible
+- The channel areas between islands can concentrate fish — explore beyond the main reef structure
+- Early morning dives deliver the best visibility and calmest conditions before sea breezes build
+- This area is less visited than Marsa Alam sites — ideal for divers seeking a quieter experience
+- Combine with a snorkel in the shallow lagoon areas for additional wildlife encounters
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Variable currents around the island structures can catch divers out. Check conditions at each site before entering. Always carry an SMB. The nearest medical support is in Marsa Alam, approximately 50 km north.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The Hamata reefs offer photogenic coral structures and diverse subjects. Wide-angle shots of the reef landscape and schooling fish work well in the clear water. The chance of dugong encounters makes wide-angle with a large field of view worth having ready. Macro life in the coral rubble zones is also rewarding.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

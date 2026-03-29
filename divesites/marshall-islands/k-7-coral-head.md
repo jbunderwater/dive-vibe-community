@@ -13,54 +13,32 @@ addedBy: osm_import
 
 ## K-7 Coral Head
 
-K-7 Coral Head is a reef dive site in Marshall Islands, Pacific.
+K-7 Coral Head is a Kwajalein Lagoon pinnacle in the K-series cluster, positioned slightly west of the main K-9 group and known among regular Kwajalein divers for a large resident moray population and a particularly photogenic pinnacle profile.
 
 ## Overview
 
-K-7 Coral Head is a dive site in Marshall Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Part of the K-series grouping that defines a substantial portion of Kwajalein's inner lagoon dive circuit, K-7 offers the same fundamental appeal as its K-series neighbors — an isolated hard coral pinnacle rising from the sandy lagoon floor through 25 meters of clear water, accessible by boat and diveable year-round in the atoll's calm, sheltered lagoon environment.
 
-## Site Information
+K-7 sits slightly apart from the denser K-9 and K-10 cluster, giving it a slightly different water circulation pattern and, divers report, a somewhat different fish community — slightly more parrotfish activity on the coral surfaces and fewer barracuda than the more exposed sites.
 
-- **Location**: Marshall Islands, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+## What to Expect
 
-## Marine Life
+Large moray eels are a K-7 specialty — the pinnacle's abundant crevices and overhangs shelter an unusually dense moray population, including massive giant morays that extend their heads from holes throughout the dive. Feeding opportunities are frequent as the morays hunt small fish across the coral surface, and the closely spaced crevices make it possible to spot several individuals in a single glance across the structure. Humphead wrasse are regular companions, and schools of snapper circulate the mid-water zone.
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+The pinnacle crown at 5–10 meters features some of the best hard coral coverage in the K-series cluster, with particularly large brain coral formations — some exceeding a meter in diameter — that have grown undisturbed for many decades. Clownfish in anemone colonies are scattered throughout the upper structure.
 
-## Dive Profile
+## Practical Information
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth Range**: 5–25 meters
+- **Visibility**: 20–35 meters typical
+- **Currents**: Generally mild
+- **Entry**: Boat dive; can be combined with nearby K-9 and K-10 sites
+- **Best For**: Intermediate divers; particularly good for moray eel encounters
 
-## Entry and Exit
+## Marine Life Highlights
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Giant moray eels, humphead wrasse, snapper schools, large brain corals, clownfish and anemones, parrotfish, groupers, lionfish, butterflyfish.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

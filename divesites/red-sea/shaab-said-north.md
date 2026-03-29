@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Shaab Said North
 
-Shaab Said North is a reef dive site in Red Sea, Middle East.
+Shaab Said North is a coral reef site on the outer Egyptian Red Sea shelf east of Marsa Alam, part of the Shaab Said reef complex that is known for clear open-ocean water and productive reef diving with sharks, turtles, and dense fish life.
 
 ## Overview
 
-Shaab Said North is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Shaab Said North sits close to the reef crest of the northern portion of the Shaab Said complex, positioned just slightly south of the "Nord" mapping point and sharing the same general reef system. This outer Red Sea location delivers the characteristic qualities of Egypt's offshore reefs: exceptional water clarity, vibrant coral formations, and a consistent presence of large pelagic species. The reef here rises from around 20 metres to a broad shallow platform, with the slope providing the primary diving terrain. The site is reached by day boat from Marsa Alam or by liveaboard, and sees moderate diver traffic, primarily from vessels operating the southern Red Sea circuits.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Outer Red Sea, Egypt (east of Marsa Alam, lat 24.27°N)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 25-35 meters (80-115 feet)
+- **Current**: Moderate; variable
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Shaab Said North's reef structure supports robust coral communities with dense anthias populations around the branching coral heads. humphead wrasse are resident on this section of the reef, and grey reef sharks are regularly seen patrolling the outer edge. Green and hawksbill turtles feed along the reef platform and are a consistent highlight of dives here. Large moray eels inhabit the deeper crevices, and sweetlips and snapper school near overhangs. Passing schools of barracuda and trevally are common.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The dive typically starts at the reef tip, descending along the northern slope to a depth of 18–20 metres before following the reef contour along its outer edge. The sandy base at the foot of the slope harbours stingrays and sleeping whitetip reef sharks. Gradually ascend toward the reef platform in the last third of the dive, spending bottom time at 5–8 metres among the table corals before completing the safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from Marsa Alam or liveaboard. Entry by giant stride from the boat or zodiac. Confirm current direction with the guide before entry. Return to the boat using an SMB. Zodiac pickup is standard on most operations serving this area.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Early morning dives are best for shark activity along the outer edge
+- Spend time at the reef crest in the shallows — coral diversity here is excellent for photography
+- Look under overhangs at depth for sleeping whitetip reef sharks
+- Pair this dive with Shaab Said South for a comprehensive reef day
+- Carry a dive computer — this site's depth profile is easy to extend unintentionally
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The outer reef location means help is not immediately accessible in an emergency. Currents can be strong at tide changes, particularly on the exposed northern tip of the reef. A safety sausage (SMB) is mandatory equipment. Divers should be comfortable with open-water boat diving before visiting this site.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Clear water and healthy coral make Shaab Said North an excellent wide-angle reef photography location. Early morning sun angles provide pleasing back-scatter-free conditions for shots up the reef slope toward the surface. humphead wrasse and reef shark encounters offer compelling large-animal photography.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

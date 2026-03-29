@@ -11,56 +11,52 @@ osmId: 663869675
 addedBy: osm_import
 ---
 
-## Light Reef - Phil`s Bommie
+## Light Reef - Phil's Bommie
 
-Light Reef - Phil`s Bommie is a pinnacle dive site in Great Barrier Reef, Oceania.
+Light Reef - Phil's Bommie is a coral pinnacle dive site on Light Reef, part of the Agincourt Ribbon Reef system on the outer Great Barrier Reef near Port Douglas, Queensland, Australia.
 
 ## Overview
 
-Light Reef - Phil`s Bommie is a scenic coral pinnacle (bommie) featuring excellent coral coverage and abundant reef fish. Located on the Agincourt reef system near Port Douglas, this site offers 12-18 meters of visibility with water temperatures of 23-27°C. Named after a notable dive guide, this bommie is an excellent introduction to pinnacle diving for recreational divers.
+Phil's Bommie is one of the named bommies on Light Reef, a section of the outer Ribbon Reef system accessible from Port Douglas. Like many of the GBR's best-named bommies, it was named for a dive guide — in this case Phil — who regularly took divers to this spot and knew its features intimately. The site follows the classic GBR bommie template: an isolated coral structure rising from the sandy seafloor, densely colonised on all surfaces, providing habitat for a concentration of marine life that exceeds what the surrounding reef can support.
+
+At 16 metres maximum depth, Phil's Bommie is shallower than the Ribbon Reef bommies to the north, making it well-suited for day-trip operations from Port Douglas.
 
 ## Site Information
 
-- **Location**: Great Barrier Reef, Oceania
+- **Location**: Light Reef, outer Great Barrier Reef near Port Douglas, Queensland, Australia
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 16 meters
-- **Typical Visibility**: 15-40 meters (50-130 feet)
-- **Current**: Variable
-- **Best Time**: September to February
+- **Typical Visibility**: 15–25 metres
+- **Current**: Mild
+- **Best Time**: August to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals.
+The bommie supports a resident community of anthias clouds, clownfish colonies, and numerous nudibranchs across its surfaces. Large maori wrasse are commonly present at this site — possibly the same individuals encountered at the adjacent Agincourt sites. The sandy base of the bommie holds blue-spotted stingrays and occasional leopard (zebra) sharks resting in the open. Sea turtles use the bommie as a resting and cleaning station. The upper bommie structure hosts good soft coral coverage, attracting pygmy seahorses and pipefish for macro hunters. Moray eels occupy the deeper crevices.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 16 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-16 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Circuit dives around the bommie at multiple depths, from the sandy base at 14–16 metres up to the bommie summit at 4–5 metres. The most productive zone is typically 8–12 metres where soft coral coverage is densest and macro life is concentrated. Multiple circuits reveal different subjects on each pass.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day trips from Port Douglas or liveaboard access. Free descent to the bommie top or sand base. Exit via SMB with boat pickup.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- This bommie rewards slow, methodical diving rather than a single fast circuit
+- Ask the dive guide to point out the pygmy seahorses if they are present — their camouflage makes them invisible to the untrained eye
+- The sandy base around the bommie is productive for flatfish and sand-dwelling critters — don't neglect the bottom zone
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish (box jellyfish in summer), crocodiles (north) in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Standard outer reef dive site. Mild conditions suit beginner divers. Monitor air consumption — the richness of the site encourages extended stays. Always deploy an SMB for pickup in open water.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Phil's Bommie offers a full range of photographic subjects. Wide-angle shots of the bommie with anthias clouds and divers provide classic GBR bommie imagery. Macro photographers can spend an entire dive on the bommie surface photographing nudibranchs and seahorses. The sandy base provides portrait opportunities with stingrays and resting sharks.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

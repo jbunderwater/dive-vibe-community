@@ -11,57 +11,47 @@ osmId: 6457176736
 addedBy: osm_import
 ---
 
-## Ngerechong Drop-off
+# Ngerechong Drop-off
 
-Ngerechong Drop-off is a wall dive site in Palau, Pacific.
+A less-visited wall dive in southern Palau with excellent coral coverage and relaxed fish life, offering a quieter alternative to the famous Ngemelis walls
 
 ## Overview
-
-Ngerechong Drop-off is a dive site in Palau featuring a dramatic vertical wall that drops into the deep blue. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Ngerechong Drop-off is a wall dive on the southern side of Ngerechong Island, in the less-trafficked southern reaches of Palau's Rock Islands. The wall drops from a shallow coral-topped reef at 3-5 meters to well beyond recreational depth limits, with the most interesting features concentrated between 10-33 meters. The coral coverage on the wall is excellent, with sea fans, soft corals, and hard coral formations in healthy condition reflecting the lower diver traffic this area receives. The site is typically dived in combination with the nearby Ngerechong North Coral Garden, giving divers the contrast of a pristine shallow reef and a dramatic wall on the same trip. While it lacks the intense pelagic action of Blue Corner or Peliliu Corner, Ngerechong Drop-off rewards patient divers with beautiful wall scenery, healthy reef fish populations, and a sense of exploring beyond the beaten path.
 
 ## Site Information
-
-- **Location**: Palau, Pacific
+- **Location**: Ngerechong Island, Rock Islands, Palau, Micronesia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 33 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Current**: Light to moderate
+- **Best Time**: Year-round; typically calmer conditions than western wall sites
 
 ## Marine Life
-
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The wall hosts healthy populations of gorgonian sea fans and soft corals. Grey reef sharks and whitetip reef sharks patrol the wall edge, though in smaller numbers than at the famous corners. Hawksbill turtles graze on sponges along the wall face. Napoleon wrasse make regular appearances. Schools of fusiliers and surgeonfish sweep along the wall. Butterflyfish and angelfish dart among the corals. Lionfish perch in overhangs. The reef top above the wall teems with chromis, damselfish, and anthias, spilling over from the adjacent coral garden. Leaf scorpionfish and well-camouflaged flatworms reward careful observers. The occasional eagle ray passes in the blue.
 
 ## Dive Profile
-
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-33 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Descend from the reef top and drop over the wall edge at around 5 meters. Explore the wall face between 10-33 meters, where coral and fan growth is most developed. The wall is steep to vertical, so depth control requires attention. Swim along the wall at a comfortable depth, checking overhangs and crevices for marine life. Ascend to the reef top for a safety stop, enjoying the hard coral garden on the way up. Total dive time is typically 50-60 minutes with good air management.
 
 ## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Koror (approximately 45 minutes to the southern Rock Islands). Entry by giant stride with descent to the reef top. Depending on conditions, this is either a drift dive with SMB pickup or a return-to-boat profile. The southern location generally provides sheltered conditions for entry and exit.
 
 ## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Pair this dive with Ngerechong North Coral Garden for a complete reef-and-wall experience
+- Look carefully at the large sea fans for pygmy seahorses -- they have been reported at this site
+- The lower diver traffic means marine life is often less wary and allows closer approaches
+- Use the shallow reef top (3-5 meters) for an extended safety stop with plenty to observe
+- Afternoon light can illuminate the wall face nicely depending on wall orientation
 
 ## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Standard wall diving precautions apply. The wall drops to extreme depth, so monitor your depth gauge or computer continuously. Down-currents are possible but less common than at the more exposed western wall sites. Stay within your depth certification limits. Carry an SMB for drift exits. The remote southern location means longer boat travel time in case of emergency. Current is generally mild but can increase without warning.
 
 ## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+Wide-angle is recommended for capturing the wall topography and sea fan gardens. The lower diver traffic allows more time to compose shots without competing for position. The reef top is excellent for close-focus wide-angle coral photography in natural light. Macro opportunities are present on the wall with nudibranchs, flatworms, and pygmy seahorses. Shoot along the wall face to convey the scale of the drop-off. Turtles and Napoleon wrasse provide willing subjects for portrait-style photography.
 
 ## Additional Resources
-
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

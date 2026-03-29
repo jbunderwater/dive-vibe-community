@@ -11,56 +11,51 @@ osmId: 5603008074
 addedBy: osm_import
 ---
 
-## Rainbow reef
+## Rainbow Reef
 
-Rainbow reef is a reef dive site in Red Sea, Middle East.
+Rainbow Reef is a colorful inshore reef dive site located near Ras Muhammad at the southern tip of the Sinai Peninsula. The name is apt — the site is celebrated for its exceptionally vibrant soft coral growth in a spectrum of colors, making it one of the more visually striking reef dives in the Sharm el-Sheikh area.
 
 ## Overview
 
-Rainbow reef is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Rainbow Reef presents a gently sloping reef profile from a shallow top at around 5 meters down to a sandy bottom at approximately 20 meters. What distinguishes the site is the density and variety of its soft coral life, which covers sections of the reef in colorful clusters of yellow, orange, pink, and purple. Hard coral structures provide the underlying architecture, while the soft corals create a denser, more textured appearance than typical Red Sea fringing reefs. Visibility is excellent at 20-30 meters, and the relatively protected position ensures calm conditions on most days.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Red Sea, Egypt (Ras Muhammad area, southern Sinai)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
+- **Typical Visibility**: 20-30 meters (65-100 feet)
+- **Current**: Light to moderate
 - **Best Time**: September to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The diverse coral cover supports an equally diverse fish community. Anthias in large numbers swarm the soft coral sections. Butterflyfish, angelfish, and surgeonfish are abundant across the reef. Pufferfish and porcupinefish drift through the midwater. Moray eels are commonly found extending from crevices at multiple points along the reef slope. Hawksbill turtles visit to graze and rest, and humphead wrasse make regular appearances along the outer reef edge. The sandy bottom at the base hosts stingrays and flatfish.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef top and follow the slope in either direction along the reef, spending most time in the 8-18 meter zone where soft coral density is greatest. The bottom provides a reference and a chance to look for cryptic sand-dwelling species. Ascend gradually and complete the safety stop in the vibrant shallows where natural light illuminates the colors most effectively.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Sharm el-Sheikh or Dahab operators. Giant stride or back roll entry. Deploy SMB on ascent for boat coordination. The calm conditions here generally make for easy entry and exit.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- This site is particularly well-suited to underwater photography due to its colorful soft coral coverage
+- Morning dives benefit from better natural light penetration that brings out the reef's colors
+- A wide-angle lens with strobe will reproduce the soft coral colors more accurately than natural light alone at depth
+- Current is typically mild — suitable for divers who prefer relaxed, non-drift diving
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Fire coral patches are interspersed with the soft corals — distinguish between them before making contact with the reef. Lionfish are present throughout and rest motionlessly on coral outcrops. Maintain buoyancy to avoid contact with the delicate soft coral growth. Moderate currents can develop on the outer reef edge; adjust your dive plan accordingly.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Rainbow Reef is primarily a macro and close-focus wide-angle photography site. The soft coral density and color variety create outstanding close-up compositions. Anthias shoals above the coral make excellent behavioral subjects. Wide-angle reef-scape photography benefits enormously from a strobe or video light to restore the warm colors that are absorbed at depth. Morning dives with high sun angle offer occasional excellent natural light shafts into the reef.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

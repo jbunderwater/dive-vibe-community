@@ -13,55 +13,54 @@ addedBy: osm_import
 
 ## Scuba Junction
 
-Scuba Junction is a reef dive site in Koh Tao, Asia.
+A varied reef on Koh Tao's southeast coast with coral slopes, sandy channels, and reliable turtle sightings for all diver levels.
 
 ## Overview
 
-Scuba Junction is a dive site in Koh Tao offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Scuba Junction is a dive site on the southeast side of Koh Tao offering a mix of coral slopes, sandy channels, and varied topography that makes it accessible to divers of all levels. The site is less frequented than the island's most famous spots, giving it a more relaxed character with typically less boat traffic. Coral formations extend from the shallows to around 20 m, with sandy patches between them hosting a range of critters. Turtles are common throughout the site, and the calmer conditions make it a good option for afternoon dives when some of the more exposed west-side sites have more swell.
 
 ## Site Information
 
-- **Location**: Koh Tao, Asia
+- **Location**: Southeast Koh Tao, Gulf of Thailand
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 20 m
+- **Typical Visibility**: 10–18 m
+- **Current**: Generally mild
+- **Best Time**: May to August
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Turtles are regularly encountered grazing on the reef. Cuttlefish are often seen hovering near the coral heads. Moray eels, triggerfish, and parrotfish are common. Sandy patches host stingrays and garden eels. Nudibranchs can be found in the rubble zones between coral heads.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef at 5–8 m and follow the slope to 15–20 m. Explore the sandy channels between coral heads before returning along the upper reef. Turtles are often found along the reef crest between 5–12 m. Complete a 3-minute safety stop in the shallows before returning to the boat.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat from Koh Tao. Entry via back roll. Conditions are manageable for beginner divers. SMB deployment recommended for open water ascent.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- A good afternoon dive option when west-facing sites have more surface chop
+- Less crowded than the popular Koh Nang Yuan sites — better for undisturbed turtle encounters
+- Search sandy channels for cuttlefish in hunting mode
+- Suitable as a discovery experience dive for non-certified divers
+- Night dive potential here — octopus and crabs are active after dark
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Conditions are generally easy but afternoon conditions can bring more swell from the southeast. Titan triggerfish nesting areas in summer require standard 3-metre distance. Maintain buoyancy above reef structure throughout the dive.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Turtle portraits in natural reef habitat are accessible here. Cuttlefish colour display shots reward patient photographers. The less-visited reefs offer cleaner backgrounds for fish portrait photography.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

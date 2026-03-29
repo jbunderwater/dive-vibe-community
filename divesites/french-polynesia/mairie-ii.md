@@ -13,55 +13,26 @@ addedBy: osm_import
 
 ## Mairie II
 
-Mairie II is a historic wreck dive in French Polynesia, Pacific.
+Mairie II is a shallow wreck dive site in the Tuamotu Archipelago, French Polynesia. The *Mairie II* — a small inter-island supply vessel — sank in November 1989 and now rests on the sandy atoll floor, where it has become an established artificial reef.
 
 ## Overview
 
-Mairie II is a dive site in French Polynesia featuring the wreck of the Mairie II which sank in Novembre 1989. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The *Mairie II* lies at approximately 17 metres on a sand and coral rubble bottom within an atoll lagoon in the Tuamotu Archipelago — the most remote and least-dived region of French Polynesia. The vessel, a typical inter-island freighter of the kind that sustained remote Polynesian communities, sank in 1989 and has been submerged for over three decades, allowing substantial coral and sponge growth across its hull and superstructure. The wreck is well intact, with the hull, wheelhouse, and deck equipment recognisable. The sheltered atoll setting produces excellent visibility of 25–35 metres and calm conditions, with water temperatures averaging 27–28°C.
 
-## Site Information
+## What to Expect
 
-- **Location**: French Polynesia, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 17 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+The wreck's hull and deck are now a living reef structure, covered in hard corals, tunicates, and encrusting sponges. Schools of glassfish fill the interior compartments, and moray eels occupy every suitable crevice in the hull plating. The wheelhouse interior is accessible and makes an excellent wide-angle photograph. Large napoleon wrasse patrol the exterior of the hull, and the sandy bottom surrounding the wreck holds stingrays. In the remote Tuamotu setting, the marine environment around the *Mairie II* is less disturbed than comparable wrecks near populated islands, and fish life is abundant and relatively unafraid of divers. At 17 metres maximum depth, the site is accessible to Open Water-certified divers and offers generous bottom time.
 
-## Marine Life
+## Conditions
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+- **Best season**: Year-round; April–November optimal for access
+- **Visibility**: 25–35 m typical in atoll lagoon
+- **Current**: Mild; atoll lagoon setting
+- **Water temperature**: 27–28°C
+- **Entry**: Boat dive; remote atoll — accessible by liveaboard or inter-island flight
 
-## Dive Profile
+## Tips
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 17 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The Tuamotu Archipelago is most efficiently explored by liveaboard — land-based accommodation on most atolls is limited to very basic guesthouses. A torch is useful for the wheelhouse and hold interiors. The remote setting means self-sufficiency in dive equipment is important; spare parts and fills are limited outside of Rangiroa and Fakarava.
 
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

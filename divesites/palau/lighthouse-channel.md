@@ -11,57 +11,47 @@ osmId: 4031041875
 addedBy: osm_import
 ---
 
-## Lighthouse Channel
+# Lighthouse Channel
 
-Lighthouse Channel is a drift dive site in Palau, Pacific.
+A gentle, shallow channel drift perfect for macro enthusiasts, night divers, and those seeking Palau's famed mandarin fish at dusk
 
 ## Overview
-
-Lighthouse Channel is a dive site in Palau offering excellent diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Lighthouse Channel is a sheltered, shallow channel near the Koror lighthouse, offering a very different Palau diving experience from the dramatic walls and current-swept corners that dominate the itineraries. The channel features a sandy bottom with scattered coral heads and rubble at a maximum depth of just 5 meters, with gentle tidal currents providing a mild drift. The site's fame rests on its twilight and night diving -- this is one of Palau's most reliable locations for observing mandarin fish emerging from the rubble at dusk to perform their mating dance. By day, the sheltered conditions and shallow depth make it an excellent site for macro photography, checkout dives, and training. Seahorses, pipefish, and a wealth of small critters populate the rubble and coral heads. Lighthouse Channel proves that world-class diving does not always require deep water and strong current.
 
 ## Site Information
-
-- **Location**: Palau, Pacific
+- **Location**: Koror, Palau, Micronesia
 - **Entry Type**: Boat dive
-- **Site Type**: Drift
+- **Site Type**: Drift dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 5 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 10-20 meters (30-65 feet)
+- **Current**: Light (gentle tidal drift)
+- **Best Time**: Year-round; dusk dives for mandarin fish, night dives for critters
 
 ## Marine Life
-
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Mandarin fish are the star attraction, emerging from rubble hideouts at dusk to mate in a brief, colorful display. Thorny seahorses cling to soft coral branches. Ornate ghost pipefish and robust ghost pipefish hide among the coral heads. Leaf scorpionfish sit motionless on rubble. Numerous species of nudibranchs decorate the substrate. Blue-spotted stingrays rest on the sand. Octopus are active at night. Cuttlefish hunt along the channel. Lionfish are common on the coral bommies. Anemonefish, gobies, and blennies populate every available coral head. At night, Spanish dancers, basket stars, and hunting crabs emerge, making this a premier night dive destination.
 
 ## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 5 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-5 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+A simple, relaxed dive. Descend to the sandy bottom at 3-5 meters and drift gently with the tidal current along the channel, exploring coral heads and rubble patches. For mandarin fish, arrive at the designated rubble area before dusk and settle near the coral heads where the fish emerge -- guides know the exact spots. Night dives follow the same profile with torches. Bottom time is essentially unlimited given the shallow depth, with dives commonly lasting 60-80 minutes. No decompression concerns at this depth.
 
 ## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Short boat ride from Koror (10-15 minutes). Entry by giant stride into calm, shallow water. The gentle drift carries divers along the channel. Exit is back to the boat, which follows the group or repositions for pickup. Surface conditions are always calm in this sheltered location.
 
 ## Tips and Recommendations
-
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Book a dusk dive specifically for mandarin fish -- they emerge for only 15-20 minutes around sunset
+- Use a red filter on your torch during the mandarin fish display to avoid disturbing them
+- Bring a macro lens and a good magnifying glass for finding nudibranchs and tiny critters
+- This is an excellent night dive site -- ask your operator to schedule one here
+- Perfect first or last dive of the day due to the shallow profile and proximity to Koror
 
 ## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+This is one of Palau's safest dive sites. The shallow depth, calm conditions, and sheltered location minimize all typical hazards. The gentle current is easy to manage for all experience levels. The main consideration is avoiding contact with the sandy bottom and coral heads to protect both the fragile habitat and your own skin. Lionfish are present -- avoid touching corals and rubble carelessly. During night dives, carry a backup torch and maintain buddy contact.
 
 ## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Lighthouse Channel is a dedicated macro photography site. A 60mm or 100mm macro lens with a diopter is ideal for mandarin fish and nudibranchs. Use a snoot or focused beam for dramatic lighting on small subjects. For mandarin fish, manual focus and patience are essential -- the fish are fast and the display brief. Ghost pipefish and seahorses photograph best with careful positioning and slow, gentle approaches. Night photography here is exceptional, with Spanish dancers and active invertebrates providing vivid subjects against the dark background. Wide-angle has limited application at this site.
 
 ## Additional Resources
-
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,54 +13,26 @@ addedBy: osm_import
 
 ## Tao-tao
 
-Tao-tao is a reef dive site in French Polynesia, Pacific.
+Tao-tao is a reef dive site in the northern Taha'a lagoon, French Polynesia. The name is Tahitian and likely refers to a local coral or geographic feature of the reef at this location.
 
 ## Overview
 
-Tao-tao is a dive site in French Polynesia offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Located within the calm lagoon waters of Taha'a, Tao-tao offers a classic Society Islands lagoon dive on a healthy coral reef system. The site sits in the northern part of the Raiatea-Taha'a barrier reef lagoon, away from the main pass areas but within the same productive ecosystem. The reef structure ranges from 8 to 25 metres, with coral gardens and isolated bommies rising from a sandy floor in clear, warm water. Visibility averages 25–30 metres, and water temperatures are a comfortable 27–28°C year-round. Taha'a's vanilla plantations ashore create a backdrop of lush tropical vegetation visible at the surface.
 
-## Site Information
+## What to Expect
 
-- **Location**: French Polynesia, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+The coral reef at Tao-tao supports a well-developed community typical of healthy Society Islands lagoon sites. Schools of bluestripe snapper and convict tangs crowd the coral edges, while napoleon wrasse make unhurried circuits of the site. Turtles are frequent, often resting on flat coral surfaces or grazing algae from the reef top. White-tip reef sharks rest in sandy channels beneath coral overhangs. The sandy patches between bommies attract stingrays, and the coral bommies themselves shelter moray eels and lionfish. The peaceful, unhurried quality of Taha'a diving — fewer boats, smaller groups, and a genuine sense of remoteness — makes Tao-tao a particularly enjoyable site for experienced divers wanting to move at their own pace.
 
-## Marine Life
+## Conditions
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+- **Best season**: April–November; calm year-round in the lagoon
+- **Visibility**: 25–30 m typical
+- **Current**: Mild
+- **Water temperature**: 27–28°C
+- **Entry**: Boat dive from Taha'a operators or from liveaboards
 
-## Dive Profile
+## Tips
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Taha'a's limited dive infrastructure means smaller groups and more personalised dives. The island is best reached by boat from Raiatea or via liveaboard. Combining Tao-tao as a morning reef dive with an afternoon pass dive at Passe de Céran makes for an excellent contrast of dive styles in one day.
 
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

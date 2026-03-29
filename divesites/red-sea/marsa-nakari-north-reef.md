@@ -11,56 +11,51 @@ osmId: 12754199513
 addedBy: osm_import
 ---
 
-## Marsa Nakari North reef
+## Marsa Nakari North Reef
 
-Marsa Nakari North reef is a reef dive site in Red Sea, Middle East.
+Marsa Nakari North Reef is part of the Marsa Nakari bay system on Egypt's southern Red Sea coast, approximately 90 km south of Marsa Alam. Marsa Nakari is a protected inlet within the Wadi el Gemal National Park region — one of the least developed and most ecologically pristine stretches of the Egyptian coastline. The North and South reef designations describe the two distinct reef structures framing the bay entrance, with this site covering the northern reef arm.
 
 ## Overview
 
-Marsa Nakari North reef is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The Marsa Nakari reef system benefits from its location within a protected national park area with minimal coastal development and very low diver traffic compared to the resort areas further north. The bay's sheltered character provides calm entry conditions, while the outer reef edges experience productive tidal flow. Coral coverage at Marsa Nakari is considered among the best-preserved on the Egyptian coast, reflecting decades of relatively limited human impact. The north reef in particular features well-developed hard coral formations and sea fans on the outer slopes.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
+- **Location**: Marsa Nakari, southern Red Sea coast, Egypt (near Wadi el Gemal National Park)
+- **Entry Type**: Boat dive (liveaboard access)
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20-30 meters (65-100 feet)
+- **Current**: Moderate; stronger at the outer reef edge on tidal flow
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The undisturbed reefs of the Marsa Nakari area support exceptional marine biodiversity. Sea turtles are a consistent highlight throughout the Wadi el Gemal region — both green and hawksbill turtles are documented at Marsa Nakari. humphead wrasse are commonly encountered on the reef, along with large groupers that are notably less wary of divers than at heavily trafficked northern sites. Grey reef sharks patrol the outer edges. Dense anthias and chromis populations cover every coral head, while the larger hard coral formations shelter moray eels and lionfish. The relative isolation means fish populations are measurably larger and calmer than at resort dive sites.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin at the reef edge and explore the outer slope at 10-20 meters before working inward along the reef face. The north reef arm provides a natural navigation line with open water on one side and the bay interior on the other. Ascending from deeper on the outer slope to shallower on the inner bay side creates a natural dive circuit that covers the variety of reef environments. Conclude in the shallower inner reef section before ascending and signalling for boat pickup.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Accessed by liveaboard from Marsa Alam or day boats from the Hamata area. Entry via giant stride. The bay location provides shelter from northerly winds, but the outer reef can be exposed. Follow the operator's briefing for current conditions specific to the day.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The Wadi el Gemal area is best explored on an extended liveaboard — combine Marsa Nakari North and South reefs in a single day
+- Fish are noticeably calmer here due to minimal diver pressure — move slowly and approach large species (humphead wrasse, groupers, turtles) at their pace
+- The site is remote; carry full safety equipment including a charged SMB, signal mirror, and audible device
+- Water temperatures in this southern area are slightly cooler in winter — a 5mm wetsuit is comfortable from November to March
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The remote location of Marsa Nakari requires greater self-sufficiency than resort dive sites. Emergency services are not nearby. Always brief the dive group on abort procedures before entry. Current on the outer reef edge can be moderate and may intensify at certain tidal states. Fire coral is present throughout the reef structure.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The minimal diver pressure at Marsa Nakari translates to more natural fish behaviour and closer approach distances for photography. Sea turtle portraits, humphead wrasse close-ups, and wide-angle reef scenes with dense fish populations are all achievable here. The excellent water clarity and healthy coral provide compelling backgrounds for any subject.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

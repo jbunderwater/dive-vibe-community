@@ -13,55 +13,54 @@ addedBy: osm_import
 
 ## Gota Mesharifa
 
-Gota Mesharifa is a wall dive site in Sudan Red Sea, Middle East.
+Gota Mesharifa is a submerged pinnacle and wall dive in the Angarosh cluster of northern Sudan, located in the same offshore reef chain as Angarosh atoll. The site is known for its pristine coral coverage, clear open-ocean water, and the shark and pelagic life that concentrate around isolated offshore structures far from the coast.
 
 ## Overview
 
-Gota Mesharifa is a dive site in Sudan Red Sea featuring a dramatic vertical wall that drops into the deep blue. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+"Gota" is the Arabic term for a submerged reef or pinnacle that rises toward the surface without breaking it — one of Sudan's most productive diving structures. Gota Mesharifa sits in deep water in the northern Sudan Red Sea, its summit rising to within accessible diving depth while its flanks fall away steeply on all sides. This isolated position concentrates marine life: fish gather at the pinnacle for shelter and feeding, and sharks and large pelagics patrol the surrounding blue water attracted by the abundance. The site receives minimal diving attention compared to the more famous nearby reefs, which contributes to undisturbed wildlife behaviour and pristine coral in excellent condition.
 
 ## Site Information
 
-- **Location**: Sudan Red Sea, Middle East
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Location**: Northern Sudan Red Sea, Angarosh reef cluster
+- **Entry Type**: Boat dive (liveaboard)
+- **Site Type**: Wall dive / pinnacle
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 20 meters (pinnacle top; walls descend deeper)
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Grey reef sharks and whitetip reef sharks are resident around the pinnacle base. Schools of jacks, fusiliers, and barracuda circle the structure in open water. Large groupers and Napoleon wrasse shelter in overhangs and crevices on the pinnacle walls. Moray eels occupy the rocky sections of the wall, and lionfish hover in shadowed recesses. The pinnacle top and upper walls are covered with healthy hard corals and the vivid anthias clouds typical of well-currented Sudan reef crests. Hammerheads appear in season, especially during early morning dives.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-20 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Descend to the pinnacle top at around 10 metres and circle the structure before dropping to the wall sections at 15-20 metres. Explore the pinnacle's different faces to find current-sheltered overhangs and exposed corners where fish and sharks concentrate differently. Avoid following the wall below 20 metres — the pinnacle drops steeply and the temptation to follow sharks deeper is strong. Finish the dive by ascending back to the pinnacle top and conducting a safety stop in open water before signalling the boat.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by liveaboard dive boat. Descend on the pinnacle structure using it as a reference point throughout the dive. The boat monitors the group from the surface and picks up divers following an SMB safety stop. In stronger currents, entry and exit logistics are briefed by the dive guide based on conditions.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Circle the pinnacle completely — different faces have different coral characters and fish communities
+- Early morning is best for shark encounters near the pinnacle base
+- Maintain buoyancy carefully on the pinnacle top to avoid contact with coral
+- Use the pinnacle itself as depth and position reference throughout the dive
+- Wide-angle lens recommended for pinnacle overview shots and passing pelagics
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The isolated position in deep water means currents can be strong and directional — assess current before descending and plan your drift direction. The steep wall beyond the pinnacle makes depth control critical; monitor continuously. Fire coral is present on exposed surfaces. Deploy a high-visibility SMB during the safety stop for reliable boat pickup in open water.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+Pinnacle dives offer distinctive photography opportunities — circling the structure with a wide-angle lens captures the scale of the formation against the blue water column. Fish schooling around the pinnacle top photograph well in natural light from above. Close-focus reef details on the coral-covered pinnacle summit reward macro setups.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

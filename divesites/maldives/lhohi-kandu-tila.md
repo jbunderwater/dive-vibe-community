@@ -13,54 +13,36 @@ addedBy: osm_import
 
 ## Lhohi Kandu Tila
 
-Lhohi Kandu Tila is a pinnacle dive site in Maldives, Asia.
+Lhohi Kandu Tila is a submerged pinnacle positioned at the mouth of the Lhohi channel in South Malé Atoll — a site that combines the concentrated marine life of a classic thila with the powerful currents and shark action of a kandu, making it one of the more demanding and rewarding dives in the area.
 
 ## Overview
 
-Lhohi Kandu Tila is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Sitting directly in the channel current, Lhohi Kandu Tila is swept by water flowing between ocean and lagoon, which keeps visibility crisp and draws an impressive abundance of pelagic species. The pinnacle top lies at around 10 metres and is festooned with sea fans and soft corals battered into spectacular shapes by the current. The walls drop steeply to 30 metres, where overhangs shelter resting nurse sharks and sleeping white-tip reef sharks. Grey reef sharks gather in mid-water on the upcurrent side during strong flow, while eagle rays and occasional hammerheads patrol the deeper water. Strong, unpredictable current surges require advanced buoyancy skills and experience reading the dive before entry.
 
 ## Site Information
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Current**: Strong, tidal surges — advanced divers only
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Grey reef sharks, nurse sharks, white-tip reef sharks, eagle rays, occasional hammerhead sharks, napoleon wrasse, sea fans, schools of jacks and fusiliers, and large grouper on the deeper walls.
 
-## Dive Profile
+## Diving Tips
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- Entry must be timed precisely with the current — your guide will signal when conditions are right.
+- Use the pinnacle as a wind-break: position yourself on the down-current side to shelter and observe sharks approaching from upcurrent.
+- Ascend against the current wall to avoid being swept off the site before completing your safety stop.
+- This is not recommended for divers without prior kandu experience in the Maldives.
 
-## Entry and Exit
+## Getting There
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Lhohi Kandu Tila is reached by boat from South Malé Atoll resorts or from Malé, approximately 30–60 minutes by dhoni or speedboat.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

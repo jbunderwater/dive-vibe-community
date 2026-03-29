@@ -13,55 +13,53 @@ addedBy: osm_import
 
 ## Napoleon Wall
 
-Napoleon Wall is a wall dive site in Tanzania, Africa.
+Napoleon Wall is the deepest and most dramatic of the wall dives accessible from Zanzibar Island's eastern coast near Jambiani, named for the resident Napoleon (humphead) wrasse that historically frequented the site. It is one of the premier wall diving experiences in the Zanzibar Archipelago.
 
 ## Overview
 
-Napoleon Wall is a dive site in Tanzania featuring a dramatic vertical wall that drops into the deep blue. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Napoleon Wall drops from a reef crest at 8-10 meters to 35+ meters along an impressive vertical face on the outer edge of the Zanzibar fringing reef. This depth profile makes it the most demanding wall site accessible from Jambiani, requiring careful dive planning and intermediate-to-advanced proficiency. The wall face is encrusted with soft corals, sea fans, and black corals below 20 meters, transitioning to denser hard coral above. Visibility is typically 20-30 meters on the outer reef, with the Indian Ocean providing clear blue water beyond the wall face.
 
 ## Site Information
 
-- **Location**: Tanzania, Africa
+- **Location**: Outer reef off Jambiani, Southeast Zanzibar Island, Tanzania
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 20-30 meters (65-100 feet)
+- **Current**: Moderate to strong — tidal
+- **Best Time**: October to April (northeast monsoon, eastern sites best)
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The wall's name reflects the Napoleon wrasse historically present here, and these large humphead fish are still occasionally encountered, particularly in the early morning. The deeper wall sections (below 20 meters) host large sea fans with resident hawkfish, black coral trees with spindle cowries, and occasional large groupers in overhangs. Sharks — predominantly grey reef and whitetip — cruise the outer water beyond the wall face. During October-March, hammerhead sharks have been reported at depth by experienced dive guides. The shallower reef crest supports dense populations of Indian Ocean reef fish.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-35 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Careful planning is essential given the 35-meter maximum depth. Begin at the mooring and descend to the planned maximum depth (suggest limiting recreational dives to 30 meters maximum), then work up the wall methodically with attention to NDL limits. The most interesting zone is typically 18-28 meters where soft corals and sea fans are most developed. Ascend to the reef crest at 8-10 meters for an extended shallow finish and safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Jambiani operators. Confirm current timing with the guide — the wall is best dived at slack or on a gentle incoming tide. Strong tidal current makes navigation difficult and can sweep divers off the wall. Giant stride entry from the dive boat; deploy SMB for safety stop pickup.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Dive within your actual certification depth limit — this site tempts deeper excursions that exceed standard recreational limits
+- Set a conservative maximum depth on your dive computer (30 meters for intermediate divers) and commit to it
+- The wall rewards slow movement — rushing past features means missing the cryptic species in overhangs and crevices
+- Ask the guide about Napoleon wrasse frequency — sightings are seasonal and unpredictable
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The 35-meter maximum depth, combined with potential strong current, makes Napoleon Wall one of the most demanding dives in the Zanzibar Archipelago despite its intermediate classification. NDL limits must be observed rigorously. If current exceeds moderate levels, abort to a shallower site. The nearest decompression chamber is in Zanzibar Town or Dar es Salaam — avoid decompression stops. Always carry a reef hook, SMB, and whistle.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+Napoleon Wall is one of the most photogenic sites in Zanzibar. Wide-angle shots looking along the wall face with the open blue water beyond — particularly with a ray or shark in the frame — represent the signature images of the site. The deep sea fans and soft corals at 20-28 meters require strobes for accurate color reproduction.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

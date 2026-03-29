@@ -13,54 +13,55 @@ addedBy: osm_import
 
 ## Stingray City
 
-Stingray City is a reef dive site in Cayman Islands, Caribbean.
+Grand Cayman's most iconic dive — a shallow sandbar in the North Sound where large populations of habituated southern stingrays glide among visitors in just 4 meters of water.
 
 ## Overview
 
-Stingray City is a renowned dive site in Cayman Islands offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Stingray City is one of the most famous shallow water dive and snorkel experiences in the Caribbean, and arguably the world. Located in the protected waters of Grand Cayman's North Sound, the site developed over decades after local fishermen cleaning their catch anchored at this sandbar, teaching southern stingrays to associate the sound of boat engines with food. Today, large numbers of Atlantic southern stingrays — some with wingspans exceeding 1.5 meters — congregate daily at the sandbar in depths of only 4–5 meters. Divers and snorkelers wade and swim among the rays, which are thoroughly accustomed to human interaction and will glide directly over and around visitors. The experience is one of the most unusual and memorable underwater encounters in the Caribbean, though its commercial popularity means the site can be crowded during peak season.
 
 ## Site Information
 
-- **Location**: Cayman Islands, Caribbean
+- **Location**: North Sound sandbar, Grand Cayman
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Sandbar / reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Maximum Depth**: 12 meters (40 feet)
+- **Typical Visibility**: 20–30 meters (65–100 feet)
+- **Current**: Light
+- **Water Temperature**: 26–29°C (79–84°F)
+- **Best Time**: Year-round (early morning for smaller crowds)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Southern stingrays are the defining encounter — populations at Stingray City can number 20–50 animals on busy days. Atlantic southern stingrays here have developed feeding associations with humans and will actively approach visitors seeking food. Nurse sharks occasionally visit the sandbar. The surrounding reef areas accessible from the main sandbar support typical North Sound species including parrotfish, snapper, and sergeant majors.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Most of the stingray interaction occurs in the 3–5 meter sandbar zone where rays are most concentrated. The site can be explored in shallow water without formal dive skills — many participants snorkel the site. Divers can extend their experience to the surrounding reef areas at up to 12 meters for conventional reef exploration before or after the stingray interaction. The sandbar itself is the primary focus.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from any Grand Cayman operator — virtually every dive and water sports company runs Stingray City trips. Shallow water entry can be wading or giant stride depending on boat type. Large operator trips can include dozens of visitors at once — early morning departures typically provide a less crowded experience.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Book an early morning departure (before 9 AM) for the least crowded conditions and most natural ray behavior
+- Southern stingrays are safe to interact with — their barb is on the tail and does not strike unprovoked
+- Do not attempt to ride, hold, or restrict the rays' movement
+- Waterproof cameras and GoPro-style action cameras are ideal for this shallow-water environment
+- Combine with a North Sound reef snorkel for a fuller North Sound marine experience
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Southern stingrays are docile and accustomed to humans at this site, but should not be stepped on accidentally — shuffle your feet when walking on the sandy bottom to avoid surprising any buried rays. The barb is a natural defense mechanism that responds to pressure on the body. Do not wear gloves — the no-glove policy enforced in the Cayman Marine Park also helps prevent accidental injury. Boat traffic in the North Sound requires SMB awareness on the return.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Stingray City is one of the Caribbean's most photographed dive sites. Southern stingrays at very close range in excellent visibility create extraordinary opportunities with any camera. The rays' tolerance for close interaction allows true macro detail shots of their patterning and texture. Ambient natural light photography in 4 meters produces spectacular results. Wide-angle group shots of multiple rays among divers are a classic Grand Cayman image.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*

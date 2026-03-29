@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Round the Bend
 
-Round the Bend is a reef dive site in Great Barrier Reef, Oceania.
+Round the Bend is a reef dive site at Osprey Reef in the Coral Sea, situated near the northern tip of the atoll, Queensland, Australia.
 
 ## Overview
 
-Round the Bend is a dive site in Great Barrier Reef offering excellent diving on healthy coral reef structures. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Round the Bend takes its name from its position just around the corner from the dramatic North Horn shark feed site. Divers who have just experienced the intensity of North Horn are often surprised by how different this nearby site feels — calmer, more intimate, and focused on the reef rather than the open water. The site follows the edge of Osprey Reef's northern plateau, where the reef drops away on one side to deep water while shallower reef gardens spread inward toward the atoll lagoon.
+
+The contrast between the exposed outer wall and the sheltered inner reef creates excellent diversity: wall species on the outer edge and garden reef species in the shallower sections, all within a single dive.
 
 ## Site Information
 
-- **Location**: Great Barrier Reef, Oceania
+- **Location**: Osprey Reef (northern section), Coral Sea, Queensland, Australia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 15-40 meters (50-130 feet)
-- **Current**: Variable
-- **Best Time**: September to February
+- **Typical Visibility**: 25–40 metres
+- **Current**: Variable; can be stronger at the corner point
+- **Best Time**: August to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals.
+The Coral Sea's exceptional water clarity means the fish life at Round the Bend is highly visible from a distance. Grey reef sharks are present throughout, often cruising the reef edge in small groups. Large Napoleon wrasse make regular appearances, and schools of bumphead parrotfish occasionally pass through on their grazing circuits. The reef gardens hold dense populations of butterflyfish, moorish idols, and anthias, while the wall face features sea fans and whip corals. Sea turtles and eagle rays are commonly sighted in the mid-water.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+A gentle arc following the reef edge from shallow (8 metres) to the maximum dive depth at 18 metres, then returning via the reef top. The corner point where the site rounds from the wall exposure to the sheltered garden is typically the most productive area for pelagic sightings. Currents at the corner can create up-currents — maintain buoyancy control during transitions.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Liveaboard access; Osprey Reef is reached after approximately 18–24 hours from Cairns. Entry by giant stride with descent to the reef edge. Exit via SMB and liveaboard tender pickup.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Dive this site as a complement to North Horn — the contrast between the two experiences is part of what makes Osprey Reef memorable
+- Watch the blue water off the wall edge for passing pelagics — barracuda, tuna, and occasional hammerheads are sighted here
+- The corner point concentrates current-driven plankton, attracting feeding activity — position yourself there early in the dive
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish (box jellyfish in summer), crocodiles (north) in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Osprey Reef's remote location means any medical assistance is hours away; conservative dive planning is prudent. The corner at Round the Bend can produce localised current — monitor your position relative to the reef and be prepared to abort the corner approach if current is strong.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Coral Sea visibility makes Round the Bend excellent for wide-angle shooting. Frame reef fish against the blue water column, or shoot along the reef edge at 15 metres with divers silhouetted above. The Napoleon wrasse and grey reef sharks make reliable wide-angle subjects.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

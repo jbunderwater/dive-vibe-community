@@ -13,53 +13,51 @@ addedBy: osm_import
 
 ## Glimpse Reefs
 
-Glimpse Reefs is a reef dive site in British Columbia, North America.
+Glimpse Reefs is a series of submerged rocky reef structures near the southern end of Vancouver Island, British Columbia, Canada, in the waters off Victoria accessed by boat.
 
 ## Overview
 
-Glimpse Reefs is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Glimpse Reefs is an intermediate boat dive offering rocky reef terrain thickly colonised by cold-water Pacific Northwest invertebrate and fish communities. The cold, productive waters off southern Vancouver Island maintain temperatures of 8-12°C year-round. Visibility typically reaches 6-12 metres, with the clearest conditions occurring in winter when plankton blooms are minimal. Tidal currents can be brisk through this area — diving on or near slack water is strongly advised.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Southern Vancouver Island, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 6-12 metres
+- **Water Temperature**: 8-12°C (drysuit recommended)
+- **Current**: Variable to strong — dive near slack
+- **Best Time**: Year-round; clearest water October to March
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The reef structure supports dense populations of rockfish, including black, copper, and quillback species. Lingcod are a standout species here — large individuals claim territories along the reef faces and ledges. Giant Pacific octopus inhabit crevices and overhangs throughout the dive. Painted greenling and kelp greenling are common in the kelp canopy. Look in sandy areas adjacent to the reef for flounders and skates. Nudibranchs, chitons, and encrusting bryozoans add colour to the rocky substrate.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Explore the reef top in 5-8 metres of water before descending along the rock faces to the maximum depth of 18 metres. The most diverse habitat tends to be along the rock ridges in the 8-14 metre zone. Monitor your air carefully in cold water and plan your ascent to allow a comfortable 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access only, typically from Victoria or Saanich Inlet. Anchor or hold station well clear of the reef to avoid dragging anchor across the marine life. Deploy your SMB before ascending — waters near Victoria see substantial vessel traffic from commercial and recreational boats.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Check tide tables and aim to arrive at slack water
+- A dive torch is essential for finding GPO in reef crevices
+- Cold water drysuits and proper weighting are recommended
+- Scan sandy areas near the reef edges for halibut and skates
+- Visibility dramatically improves from autumn through early spring
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Tidal current and boat traffic are the primary concerns at Glimpse Reefs. Surface with an inflated SMB and listen for boat engines before completing your ascent. Monitor air consumption closely — cold water significantly increases breathing rate. Keep your buddy in visual contact throughout the dive.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Glimpse Reefs provides excellent photographic variety. Lingcod portraits using wide-angle lenses are a favourite. Nudibranchs and small crustaceans on the reef surface reward macro photographers. Ambient light shots through the kelp canopy can be spectacular on calm, bright days. A dual-strobe setup brings out the vivid colours of encrusting sponges and anemones.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

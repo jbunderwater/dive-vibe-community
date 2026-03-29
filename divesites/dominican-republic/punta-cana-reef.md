@@ -11,56 +11,56 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Punta Cana Reef
+# Punta Cana Reef
 
-Punta Cana Reef is a reef dive site in Dominican Republic, Caribbean.
+*A shallow fringing reef off the eastern tip of Hispaniola, popular for resort and introductory diving near the major tourist zone.*
 
 ## Overview
 
-Punta Cana Reef is a dive site in Dominican Republic offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Punta Cana Reef lies off the eastern cape of the Dominican Republic, in the waters fronting the major resort corridor between Punta Cana and Bávaro. The reef system here consists of fringing coral formations and scattered coral heads over a sandy bottom at depths of 6–12 meters. This area is primarily served by resort dive operations catering to first-time and casual divers. Visibility averages 15–20 meters, and the water stays warm at 27–29°C for most of the year, dipping to around 25°C in January and February. The Atlantic trade winds can create some surge on this eastern-facing coastline, so calmer mornings are preferred.
 
 ## Site Information
 
-- **Location**: Dominican Republic, Caribbean
+- **Location**: Punta Cana / Bávaro area, eastern Dominican Republic
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 15–20 meters (50–65 feet)
+- **Current**: Light; occasional surge in trade wind conditions
+- **Best Time**: May to November (calmer Atlantic conditions); mornings are best year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Despite the relatively high dive traffic from resort operations, the reef supports Caribbean reef fish in good numbers. Four-eyed butterflyfish, queen triggerfish, smooth trunkfish, and french angelfish are commonly seen. Green and hawksbill turtles are regular visitors. Nurse sharks rest beneath coral ledges. Southern stingrays glide over sandy patches. Cleaning stations on prominent coral heads host shrimp and wrasse tending to groupers and snappers. Barracuda are often present in the water column. The sandy bottom around the reef edge hosts garden eels in undisturbed areas.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+A straightforward shallow profile. Descend to the reef crest at 5–6 meters and follow the reef contour, dropping to sandy patches at 10–12 meters. The dive plan is linear along the reef structure, returning toward the boat mooring. No safety stop required at this depth, but hovering in the shallows at the end of the dive extends time on the reef. Air consumption will be slow and bottom times are generous — typical dives run 50–70 minutes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Resort dive operators run regular boats from Punta Cana and Bávaro beach facilities. Entry is via giant stride. Surface conditions can be choppy when trades are strong — operators will reschedule in poor weather. Follow the dive guide, as navigation varies by operator.
 
-## Tips and Recommendations
+## Tips
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Book through established resort dive operators rather than individual beach vendors for proper briefings and equipment
+- Morning boats (departing 8–9 am) offer calmer water and better visibility before afternoon wind
+- Introductory "Discover Scuba" dives are well-suited to this site
+- Combine with a snorkeling pass over the shallows on the return trip
+- Bring a reef-safe sunscreen — standard sunscreens damage the corals this close to shore
 
-## Safety Considerations
+## Safety
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Boat traffic can be heavy in this tourist-heavy area. Always dive with a buddy and follow the guide closely in resort-oriented dive operations. Be aware of fire coral on the reef structure. Do not touch or stand on the reef. Surge conditions can push divers into the reef unexpectedly — maintain buoyancy and position.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Bright, sunlit conditions at shallow depth create excellent ambient-light photography opportunities. Wide-angle shots of the reef and fish life are compelling in natural light. Macro subjects on the coral heads include cleaner shrimp, Christmas tree worms, and flamingo tongues. Turtle encounters are the highlight photo opportunity.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Jack Point
 
-Jack Point is a drift dive site in Lombok, Asia.
+Gili Trawangan's western drift dive where jackfish schools and reef sharks congregate at the current-swept central headland.
 
 ## Overview
 
-Jack Point is a dive site in Lombok offering rewarding diving on healthy coral reef structures . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Jack Point is at the central western coastline of Gili Trawangan, where the drift currents from north and south converge at the point, creating dense fish aggregations — particularly of jackfish (trevally) that circle the headland in large schools. Divers approach at depth and ascend to observe the schools before being carried around the point. Blue-spotted stingrays, cuttlefish, chromis, and colourful reef fish inhabit the reef flats above the point in the shallows. The site can be dived at three depth levels — deep, midwater, and shallow — making it flexible for different experience levels. Accessible to Lombok day-trip boats.
 
 ## Site Information
 
-- **Location**: Lombok, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Drift
+- **Location**: West Gili Trawangan, accessible from Lombok
+- **Entry Type**: Boat dive (drift)
+- **Site Type**: Drift / Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 20 m
+- **Typical Visibility**: 15–25 m
+- **Current**: Strong at the point; drift conditions
+- **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Dense schools of jackfish and bigeye trevally at the point. Reef sharks cruise the current-swept headland. Blue-spotted stingrays on sandy patches. Cuttlefish in the shallows. Chromis, basslets, and reef fish in the upper reef zone at 5–12 m.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Approach the point from upstream at 15–20 m. Observe the jackfish schools concentrated at the tip. Ascend via the upper reef flats in the shallows before being carried around the point. Drift carefully — being swept around the point into open water should be avoided if possible.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat from Lombok or Gili Trawangan operators. Drift entry. Close boat coordination required for pickup. SMB essential.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Time entry for moderate current — too strong and the point cannot be approached safely
+- The shallow 5–12 m section around the headland is the most accessible drift option
+- Cuttlefish encounters at 3–8 m in the shallows are a highlight of the upper section
+- Accessible from Lombok as part of a full-day Gili Islands dive trip
+- Neap tides significantly reduce the current intensity at the point
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Strong current at the headland can sweep divers into open water. Plan to end the dive before the point tip and surface in the shallower reef area. Always carry an SMB. Coordinate the pickup point with the boat crew before descending.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Jackfish school density at the point produces compelling wide-angle images. Cuttlefish in the shallows are approachable portrait subjects. Reef shark silhouettes against the open water suit wide-angle.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

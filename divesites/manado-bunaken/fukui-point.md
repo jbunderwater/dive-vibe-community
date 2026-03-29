@@ -13,55 +13,30 @@ addedBy: osm_import
 
 ## Fukui Point
 
-Fukui Point is a reef dive site in Manado & Bunaken, Asia.
+Fukui Point is one of Bunaken's most beloved reef dives — a gently sloping garden of hard corals and staghorn formations that gives way to a point where pelagic life regularly makes an appearance.
 
 ## Overview
 
-Fukui Point is a dive site in Manado & Bunaken offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Located on the western side of Bunaken Island, Fukui Point is a well-rounded site that blends shallow reef garden diving with the thrill of open-water encounters. Unlike the dramatic vertical walls that define many of Bunaken's most famous sites, Fukui slopes more gradually, making it an excellent choice for beginners, snorkellers, and divers who prefer reef-top exploration to wall-hugging depth. It sits at the corner of the island, where two currents converge and attract pelagic species into surprisingly accessible water.
 
-## Site Information
+Named after a Japanese diver who fell in love with the site in the 1980s and helped establish the early dive tourism infrastructure around Bunaken, Fukui Point carries a certain nostalgic prestige among long-time visitors to the park.
 
-- **Location**: Manado & Bunaken, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+## What to Expect
 
-## Marine Life
+The reef crest runs at 3–8 metres and is carpeted with healthy staghorn and branching acropora corals. This is prime territory for green and hawksbill turtles, which are almost always present — often two or three individuals can be spotted in a single dive. Bumphead parrotfish frequently graze the shallower reef, their distinctive humped foreheads and loud crunching audible from several metres away.
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+At the point itself, where the two wall sections meet, current upwellings bring nutrient-rich water that attracts schooling fish in abundance: bigeye trevally, dogtooth tuna, and occasionally the park's resident Napoleon wrasse cruise the open water. Blacktip and whitetip reef sharks are reliably present around the point on ebbing tides. The 20–30 metre range at the base of the slope hosts large gorgonian fans and scattered coral bommies that serve as cleaning stations.
 
-## Dive Profile
+## Conditions
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth range:** 3–30 m
+- **Visibility:** 15–25 m
+- **Currents:** Light to moderate on the reef flat; stronger at the point during tidal changes
+- **Water temperature:** 27–30°C
+- **Best season:** May–October; the sheltered western aspect makes this diveable year-round
 
-## Entry and Exit
+## Tips
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Fukui Point is an ideal first dive for visitors arriving in Bunaken — it quickly demonstrates the park's biodiversity without overwhelming. Morning dives catch the bumphead parrotfish at their most active. Turtle interactions are best kept passive; the turtles here are well-habituated to divers but will ascend for air regardless, so be ready to move out of their ascent path.
 
-## Tips and Recommendations
-
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

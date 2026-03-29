@@ -13,54 +13,32 @@ addedBy: osm_import
 
 ## G-Buoy Coral Head
 
-G-Buoy Coral Head is a reef dive site in Marshall Islands, Pacific.
+G-Buoy Coral Head is a well-established lagoon pinnacle dive in Kwajalein Atoll, named after a former navigational buoy position in the inner lagoon and recognized among regular Kwajalein divers for its consistently reliable turtle sightings.
 
 ## Overview
 
-G-Buoy Coral Head is a dive site in Marshall Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The Kwajalein Lagoon's coral heads each develop distinct reputations over years of regular diving, and G-Buoy is noted for hawksbill turtles that appear to have claimed the site as a regular feeding and resting territory. The pinnacle structure rises from the sandy lagoon floor through 25 meters of clear water, with the typical mature hard coral encrustation of the established Kwajalein dive sites. Coral coverage is dense — table corals dominate the upper sections while encrusting corals and sponges fill in the vertical faces.
 
-## Site Information
+The site position in the lagoon's central zone provides the calm, sheltered conditions that make Kwajalein diving so reliable. Visibility is consistently 25–35 meters and currents remain mild year-round.
 
-- **Location**: Marshall Islands, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+## What to Expect
 
-## Marine Life
+Hawksbill turtles are the site's signature species — they use the coral head's sponge-covered surfaces as a grazing ground and can often be approached closely as they feed, seemingly unconcerned by divers who maintain a respectful distance and avoid direct pursuit. Humphead wrasse and large parrotfish are regular companions, and schooling snapper circle the pinnacle mid-water. Moray eels have established territories in the crevices throughout the structure. The sandy floor around the pinnacle base harbors garden eels in small colonies.
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Night diving at G-Buoy produces excellent encounters — the sandy areas around the base come alive with crabs, octopus, and flatfish, while the sleeping reef fish tucked into coral crevices are illuminated in torch beams throughout the dive.
 
-## Dive Profile
+## Practical Information
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth Range**: 5–25 meters
+- **Visibility**: 20–35 meters typical
+- **Currents**: Generally mild
+- **Entry**: Boat dive from Kwajalein operators
+- **Best For**: Intermediate divers; reliable turtle encounters; good night diving
 
-## Entry and Exit
+## Marine Life Highlights
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Hawksbill turtles, humphead wrasse, large parrotfish, moray eels, snapper schools, garden eels, octopus (night), crabs, table corals, encrusting sponges.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

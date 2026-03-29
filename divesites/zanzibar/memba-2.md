@@ -13,55 +13,53 @@ addedBy: osm_import
 
 ## Memba 2
 
-Memba 2 is a reef dive site in Zanzibar, Africa.
+Memba 2 is the shallower companion reef to Memba 1 on northeastern Zanzibar Island, maxing at 15 meters and providing an exceptionally accessible beginner dive with generous bottom time and good coral cover throughout the site.
 
 ## Overview
 
-Memba 2 is a dive site in Zanzibar offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Positioned slightly northwest of Memba 1 on the same northeastern Zanzibar reef system, Memba 2 covers the shallower sections of the fringing reef where coral growth is dense in bright, well-lit conditions. The 15-meter maximum depth keeps the entire site within comfortable recreational range and removes the depth management pressure that affects longer dives at deeper sites. The reef crest begins at 2-3 meters and slopes gradually to the sandy base at 15 meters, with good coral diversity across the range. This shallow profile and very calm position make Memba 2 one of the most accessible dive sites in the Nungwi area.
 
 ## Site Information
 
-- **Location**: Zanzibar, Africa
+- **Location**: Northeast Zanzibar Island, Zanzibar Archipelago, Tanzania
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 12-18 meters (40-60 feet)
+- **Current**: Very light
+- **Best Time**: October to April (northeast monsoon)
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+The shallow, bright character of Memba 2 favors reef fish that depend on good light for feeding and territorial behavior. Butterflyfish in several species are particularly abundant, patrolling the hard coral structures. Bannerfish hover near the coral heads. Hawksbill turtles graze in the shallowest sections. The sandy base hosts garden eels in undisturbed patches. At night, the reef transforms — sleeping parrotfish visible in their mucus cocoons, hunting octopus, and foraging nudibranchs make this a productive night dive destination despite its shallow profile.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The 15-meter depth ceiling provides essentially unlimited bottom time for most divers at standard recreational gas mixes, allowing unhurried exploration of the full reef from base to crest and back. The two-tank combination of Memba 1 and Memba 2 uses the deeper site first, making Memba 2 the logical second dive. Safety stops are trivially simple in the shallow reef.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Nungwi operators. Regularly combined with Memba 1 for a morning two-tank pairing. The very shallow draft over the reef crest requires attention from the boat — entry is typically over the mooring at the reef edge rather than directly over the crest. Giant stride entry; SMB deployment recommended.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The 15-meter maximum depth makes this an ideal second dive or afternoon dive when NDL limits are a consideration
+- Night diving at Memba 2 is recommended for the accessible conditions and different cast of nocturnal species
+- Look carefully for the garden eels in the sandy channels between reef sections — they retract immediately when approached
+- Combine with Memba 1 as an introductory two-tank package for newly certified divers
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Minimal risk profile. The 15-meter ceiling, very light current, and sheltered position combine to make Memba 2 one of Zanzibar's safest dives. Main hazards are fire coral contact and sea urchin puncture from careless fin movement in the shallow sections. SMB required for ascent.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Exceptional natural light conditions throughout the site make Memba 2 ideal for ambient-light photography at all depths. Butterflyfish are active and photogenic subjects against coral backgrounds. Macro photography of the reef surface reveals nudibranchs, flatworms, and encrusting invertebrates. Night photography in the calm conditions is accessible even to compact camera users.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

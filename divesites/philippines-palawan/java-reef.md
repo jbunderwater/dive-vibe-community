@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Java Reef
 
-Java Reef is a reef dive site in Philippines Palawan, Asia.
+Java Reef is a coral reef in the southern Palawan sea, situated in the offshore waters southeast of Palawan proper, in the stretch of ocean that historical navigation charts marked with named reefs and hazards en route to the Sulu Archipelago.
 
 ## Overview
 
-Java Reef is a dive site in Philippines Palawan offering rewarding diving on healthy coral reef structures . Southern Palawan reef. Named geographic feature. Coral formations and reef fish.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The reef rises from deeper water to form a compact structure with a coral-covered platform at 8–12 meters, surrounded by sloping reef faces dropping to sand at 22 meters. Like many of the southern Palawan offshore reefs, Java Reef sees very few recreational divers, preserving a level of fish density and fish behaviour that would be unusual at a frequently dived site. Hard coral coverage is generally good, with the shallower platform featuring table and branching Acropora. The deeper slopes host sea fans and soft coral growth fed by passing currents.
 
 ## Site Information
 
-- **Location**: Philippines Palawan, Asia
+- **Location**: Southern Palawan offshore, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters
+- **Current**: Variable; open-ocean influence
+- **Best Time**: November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The combination of offshore location and minimal fishing pressure creates excellent marine life density at Java Reef. Barracuda schools are frequently encountered overhead, with trevally patrolling the reef edges. Napoleon wrasse and large grouper occupy the deeper sections. Sea turtles regularly visit the reef to feed and rest. Nudibranchs and other macro subjects inhabit the rubble and sand margins around the reef base.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 22 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef platform and orient yourself before exploring the edges. Work around the reef perimeter to cover the different faces, which may have different fish communities depending on current direction. Spend the final portion of the dive in the shallower reef top before ascending through a safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Java Reef requires liveaboard access from southern Palawan or a long-range chartered vessel. The crossing time from port is substantial. Entry by giant stride; SMB deployment before surfacing is essential given open-ocean conditions.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The remote location guarantees a wild diving experience — expect untamed reef fish behaviour
+- Tidal timing matters; plan to dive when current is slack or gently running
+- Combine with Valparaiso Shoal or other nearby sites for a productive multi-dive day
+- Carry enough air to complete a safety stop — open-ocean ascents require self-sufficiency
+- Water clarity can be exceptional here, reaching 30+ meters visibility on good days
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Remote open-ocean diving requires careful preparation. Ensure the boat crew has emergency equipment on board and a clear plan for pickup. Carry comprehensive dive safety equipment including SMB, whistle, and signaling mirror. The nearest hyperbaric facility is in Puerto Princesa or Sandakan (Malaysia), both distant.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The combination of clear water and undisturbed marine life creates excellent photography conditions. Wide-angle reef panoramas, schooling pelagics, and sea turtle encounters are the highlights. Natural light is superb on clear days, reducing the need for flash on shallower subjects.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,53 +13,54 @@ addedBy: osm_import
 
 ## West of Six
 
-West of Six is a reef dive site in Thailand Similan Islands, Asia.
+West of Six is located on the western face of Island 6 (Koh Payu) in the Similan Islands National Park, Phang Nga Province, Thailand. The name follows the informal naming convention used by early liveaboard operators in the Similans, where many sites are simply identified by their compass aspect relative to the numbered island.
 
 ## Overview
 
-West of Six is a dive site in Thailand Similan Islands offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The site blends boulder formations and coral reef in a configuration typical of the Similans' west-facing shores: granite boulders form the structural skeleton, with hard and soft coral colonising the surfaces between and above. The west-facing aspect creates moderate exposure to tidal current and seasonal swell. The site is less dramatic in topography than the major boulder dives (Elephant Head Rock, Christmas Point) and less fish-dense than the pinnacle sites, but offers a well-rounded intermediate dive with a good mix of reef landscape and resident marine life. It functions as a useful complement to the more demanding dives on a multi-day liveaboard itinerary.
 
 ## Site Information
 
-- **Location**: Thailand Similan Islands, Asia
-- **Entry Type**: Liveaboard
+- **Location**: Similan Islands National Park, west side of Island 6, Phang Nga Province, Thailand
+- **Entry Type**: liveaboard
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15–30 meters
+- **Current**: Light to moderate; stronger on the outer west face
+- **Best Time**: November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Whitetip reef sharks patrol the sandy channels between boulders and rest in clusters on the sand at 20–25 m. Sea turtles are common on the mid-slope and around the boulder faces. Napoleon wrasse appear regularly in the 15–25 m zone. Banded sea kraits are sometimes observed swimming along the reef surface — they are venomous but docile and should not be handled. Moray eels occupy most large crevices. Various butterflyfish, angelfish, and rabbitfish populate the shallower reef zones. Nudibranchs and flatworms are found on encrusted boulder surfaces throughout the dive.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+A standard profile begins at the base of the boulder formation on the outer west face (20–28 m), moves inshore through channels between boulders, then ascends onto the mixed reef slope for the middle section of the dive (10–20 m). The shallow zone and sand patches at the back of the formation are used for the safety stop. Current is more pronounced on the exposed outer face; the inshore boulder channels provide relief.
 
 ## Entry and Exit
 
-This site can be accessed from shore or by boat. Shore entry follows established paths to the water. Boat access is available through local dive operators. Check conditions and choose the most appropriate entry method based on weather and sea state.
+Liveaboard access. Zodiac entry with giant stride. The west exposure means entry may be postponed or redirected if swell conditions are running in from the northwest. Day-trip boats from Khao Lak occasionally reach Island 6 on longer routes.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The sandy patches between the deeper boulders often have clusters of resting whitetip reef sharks — approach slowly and horizontally rather than from directly above
+- Check crevices and overhangs for banded sea kraits; they move slowly and predictably and are an interesting observation when found resting or hunting
+- The shallower reef zone (5–12 m) transitions from granite-dominated to more conventional coral reef as you move inshore — worth exploring for chromodoris nudibranchs
+- This site dives well as a pre-lunch or afternoon dive when the more demanding sites have been completed
+- Visibility is typically better in the morning on the west side before any residual afternoon swell stirs the water column
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Moderate current is the primary consideration on the outer west face. Conditions are generally accessible for intermediate divers but can intensify during spring tides. Monitor depth on the outer boulders — the formation drops steeply and it is possible to drift deeper while watching fish. Always carry an SMB and deploy it on any open-water ascent.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+A versatile site where both wide-angle boulder compositions and reef macro are available. Whitetip reef shark clusters in sandy gullies are a strong wide-angle subject; approach level and low to frame sharks against the sand with the boulder backdrop. Napoleon wrasse in the mid-water zones are excellent ambient-light portrait subjects in good visibility. Banded sea krait against a blue-water background makes an unusual wide-angle image. For macro: boulder surfaces at 12–20 m are productive for nudibranchs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

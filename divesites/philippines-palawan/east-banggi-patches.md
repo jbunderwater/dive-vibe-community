@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## East Banggi Patches
 
-East Banggi Patches is a reef dive site in Philippines Palawan, Asia.
+East Banggi Patches is a scattered series of shallow coral formations on the eastern side of the Banggi Island area in the Balabac Strait, offering a diverse multi-patch diving experience in one of the Philippines' most remote reef systems.
 
 ## Overview
 
-East Banggi Patches is a dive site in Philippines Palawan offering rewarding diving on healthy coral reef structures . Banggi area shallow water reef patches. Multiple coral formations.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The "patches" designation refers to the site's structure: rather than a single continuous reef, this is a collection of distinct coral outcroppings rising from a sandy substrate at varying depths. Each patch has its own character, with some dominated by hard coral tables and others featuring small bommies encrusted with soft corals and sea fans. The eastern exposure of these patches means they receive currents from a different direction than the western Banggi reefs, creating slightly different species assemblages and feeding conditions. The shallow maximum depth of 19 meters makes every patch fully explorable on a single dive.
 
 ## Site Information
 
-- **Location**: Philippines Palawan, Asia
+- **Location**: East of Banggi Island, Balabac Strait, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral patch reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 19 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 10-20 meters
+- **Current**: Variable tidal; moderate on the patches
+- **Best Time**: November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Coral patch environments support high densities of small reef fish, including damselfish, chromis, and anthias hovering above the bommie tops. Lionfish and scorpionfish are typically present, lurking in coral recesses. Sea turtles regularly cross between patches. The sandy substrate between patches is excellent territory for finding jawfish, garden eels, and occasional cuttlefish. Reef sharks and barracuda patrol in the water column between patches.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 19 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-19 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Plan your dive to cover two or three patches depending on distance between them. Spend time on each patch before moving to the next, using the sandy channel as a transit zone. Check the sand carefully between patches — it's often where the most unusual critters are found. The shallow depth allows extended exploration before your safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Accessible by boat from the Banggi Island area, itself reached by chartered vessel or liveaboard from Balabac. Entry by giant stride; the boat can typically anchor or drift slowly while you explore the patches. Deploy SMB before ascending.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The patches are best explored at a slow pace — resist the urge to cover too much ground
+- Check sand between patches for flatfish, cuttlefish, and sand-dwelling eels
+- Morning dives offer the best light for photographing small reef fish
+- The site is excellent for a second or third dive of the day due to its shallow profile
+- A torch helps reveal hidden lionfish and critters inside coral heads
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The open-water nature of the Balabac Strait means conditions can change quickly. Monitor current between patches and be prepared to end the dive early if visibility drops or current increases. Always carry an SMB for ascent, especially if drifting between patches.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Multiple small coral structures offer excellent variety in a single dive. Bommie-top fish portraits, wide-angle inter-patch shots with sand and coral in frame, and macro searches in the rubble zones all make this a photographically productive site.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

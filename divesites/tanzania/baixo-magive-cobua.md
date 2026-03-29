@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Baixo Magive Cobua
 
-Baixo Magive Cobua is a reef dive site in Tanzania, Africa.
+Baixo Magive Cobua is a shallow reef formation in the Mafia Island archipelago of southern Tanzania, part of the Mafia Island Marine Park — one of East Africa's most pristine and least-dived protected marine areas.
 
 ## Overview
 
-Baixo Magive Cobua is a dive site in Tanzania offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+"Baixo" is the Portuguese-derived Swahili term for a shallow reef or shoal, and Magive Cobua is one of several such formations scattered across the outer Mafia Channel. The site sits in nutrient-rich waters fed by seasonal upwelling and riverine inputs from the Rufiji River delta, which support an unusually high density of coral growth and fish biomass. Visibility averages 15-20 meters, and the reef tops at around 4 meters before sloping to the maximum surveyed depth of 18 meters.
 
 ## Site Information
 
-- **Location**: Tanzania, Africa
+- **Location**: Mafia Island Marine Park, southern Tanzania
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 12-20 meters (40-65 feet)
+- **Current**: Moderate, variable with tide
+- **Best Time**: October to March for calmest conditions; June-September for whale shark season
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+Mafia Island's protected waters support exceptional fish density. Expect large schools of fusiliers and snappers over the reef top, with groupers and sweetlips patrolling deeper ledges. Green turtles are commonly encountered resting on the coral. Whale sharks aggregate in the Mafia Channel between October and March — one of the most reliable whale shark encounter destinations in the Indian Ocean. Stingrays and eagle rays cruise the sandy patches between coral heads.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin at the reef crest in 4-6 meters, then follow the slope down to 15-18 meters for the most diverse coral communities. The terrain is varied, with coral blocks, sandy channels, and small overhangs supporting a range of micro-habitats. Spend the deeper portion of your dive on the outer slope before ascending the reef for a long shallow water finish.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access requires a boat from Mafia Island, typically from Utende or Kilindoni. Given the remote location, always brief with the boat crew on abort signals and surface marker procedures. Deploy an SMB at 5 meters for your safety stop to ensure an easy pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Mafia Island Marine Park requires a park fee — confirm with your operator before diving
+- October to March offers the best combination of calm seas and whale shark encounters
+- Bring a torch for investigating coral overhangs and finding nudibranchs
+- This is a remote site — confirm the operator has adequate safety equipment onboard
+- Tidal timing affects both visibility and current strength; aim for slack water on your first visit
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The remoteness of the Mafia Channel means emergency evacuation can be slow. Ensure your operator carries oxygen, a first aid kit, and has reliable communications. Moderate currents are common across the reef top and can strengthen quickly with tidal changes. Always dive with a buddy and carry a fully inflated SMB.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The combination of healthy coral, diverse fish populations, and potential whale shark encounters makes this a high-value photography site. Wide-angle rigs are recommended. Morning light provides the best conditions for reef shots, while late afternoon can produce dramatic silhouette opportunities as pelagic fish rise in the water column.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

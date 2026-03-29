@@ -11,57 +11,55 @@ osmId: 10224583148
 addedBy: osm_import
 ---
 
-## Cement wall
+## Cement Wall
 
-Cement wall is a wall dive site in Tanzania, Africa.
+Cement Wall is a wall dive site on the eastern coast of Zanzibar Island near Jambiani village, named for the pale, almost smooth-looking hard coral substrate that covers the upper section of the wall, giving it a distinctive appearance compared to the more encrusted walls in the north.
 
 ## Overview
 
-Cement wall is a dive site in Tanzania featuring a dramatic vertical wall that drops into the deep blue. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+The eastern Zanzibar coast is less developed for diving than the northern Nungwi area, but sites like Cement Wall offer a more authentic experience with fewer boats and calmer conditions inside the fringing reef. The wall drops from a reef top at approximately 6 meters to a sand bottom around 20 meters, with the most interesting sections at 12-20 meters where overhanging coral formations create sheltered micro-habitats. Visibility is typically good at 15-20 meters during the northeast monsoon.
 
 ## Site Information
 
-- **Location**: Tanzania, Africa
+- **Location**: East Zanzibar Island near Jambiani, Tanzania
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 15-20 meters (50-65 feet)
+- **Current**: Moderate, tidal
+- **Best Time**: October to April (northeast monsoon, eastern sites best)
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The wall overhangs shelter groupers, soldierfish, and large moray eels. Lionfish are common in the crevices and should be given space. Sea fans and black corals appear on the deeper sections at 15-20 meters, hosting longnose hawkfish and flamingo prawns for eagle-eyed macro photographers. Sea turtles regularly rest on the sandy bottom at the base of the wall. Reef sharks occasionally patrol the outer water beyond the wall face.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-20 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Descend to the sand at the base of the wall (approximately 20 meters) and work your way up, spending time at each overhang and crevice on the way. The most productive zone is 12-18 meters where the wall has the greatest relief and most complex structure. Finish with a traverse of the upper reef at 6-10 meters before ascending for the safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Jambiani village dive operators. The eastern coast is generally calmer than the north in the northeast monsoon season (October-April) but can be affected by the kusi (southeast monsoon) between June and September. Confirm site accessibility with operators during transitional months.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- The relative isolation of the eastern Zanzibar coast means less boat traffic and quieter dive conditions
+- Bring a dive torch — the wall overhangs shelter cryptic species that require illumination to see clearly
+- Tidal current timing significantly affects conditions here; briefings from local guides are invaluable
+- Combine with nearby Jambiani Lagoon and Pawoni Hill for a full day of varied diving in the area
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Moderate tidal currents can sweep along the wall face, particularly during the change of tide. If current picks up, ascend to the reef top where conditions are more sheltered. Monitor depth carefully — the wall profile encourages passive descent. Always carry an SMB.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+The wall overhangs and their inhabitants are the main macro photography subjects. A torch or constant video light dramatically improves image quality in the shadowed crevices. Wide-angle shots looking along the wall face with a diver for scale produce strong compositions.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

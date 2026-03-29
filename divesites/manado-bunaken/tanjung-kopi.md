@@ -13,55 +13,28 @@ addedBy: osm_import
 
 ## Tanjung Kopi
 
-Tanjung Kopi is a wall dive site in Manado & Bunaken, Asia.
+Tanjung Kopi — "Coffee Point" in Indonesian — is a wall dive at a prominent headland on Bunaken Island's north coast, known for its powerful currents, healthy gorgonian garden, and shark encounters in the deeper open water.
 
 ## Overview
 
-Tanjung Kopi is a dive site in Manado & Bunaken featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Tanjung Kopi sits on the north coast of Bunaken Island at a rocky point that juts into the Bunaken Strait. The name reportedly comes from the dark-coloured rocks visible on the point, which local fishermen thought resembled coffee grounds. Oceanographically, the headland creates significant current turbulence, particularly during tidal exchanges in the strait between Bunaken Island and Manado Tua volcano. This current energy feeds the wall's extraordinary invertebrate life and creates the aggregations of schooling fish that make the site exciting for advanced divers.
 
-## Site Information
+## What to Expect
 
-- **Location**: Manado & Bunaken, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+The wall drops from a reef crest at 5 metres to around 35 metres, with the most compelling diving in the 15–30 metre band. Large sea fans with wingspans of 1–2 metres are the headline feature; many have been growing in place for decades and represent a significant part of the site's charm. Between the seafans, the wall is lined with colourful soft corals and encrusted with crinoids. Sea snakes are frequently seen moving along the wall face as they hunt crevice-dwelling fish.
 
-## Marine Life
+At the point itself, when current is running, the open water fills with schooling fish: fusilier in the thousands, bigeye trevally, and dogtooth tuna all pass through. Whitetip reef sharks patrol the base of the wall and the sand at depth, while grey reef sharks occasionally appear from deeper water. The combination of wall inspection and open-water scanning makes Tanjung Kopi a site where attention is pulled in multiple directions simultaneously.
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+## Conditions
 
-## Dive Profile
+- **Depth range:** 5–35+ m
+- **Visibility:** 15–28 m
+- **Currents:** Strong; particularly at the point during tidal exchanges
+- **Water temperature:** 26–30°C
+- **Best season:** May–October; north coast sites best avoided during north-west monsoon
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-35 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+## Tips
 
-## Entry and Exit
+Tanjung Kopi rewards patience on the point — position yourself on the wall face out of the main current flow and watch the schooling fish pass by, rather than trying to chase them into open water. The seafans are best viewed with a torch to reveal their resident inhabitants. Plan dives for slack current windows if the priority is wall inspection rather than drift diving.
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

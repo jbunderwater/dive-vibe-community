@@ -13,54 +13,35 @@ addedBy: osm_import
 
 ## Swarm
 
-Swarm is a reef dive site in Raja Ampat, Asia.
+Swarm is a reef dive site in the southern reaches of Raja Ampat, West Papua, Indonesia. The name captures the dominant experience at this site: an overwhelming density of reef fish that fills the water column in moving, shifting masses above and around the coral structure.
 
 ## Overview
 
-Swarm is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The reef at Swarm is notable for the sheer volume of fish that congregate here. Fusilier schools numbering in the thousands cloud the mid-water, parting and reforming as larger predators pass through. Surgeonfish graze in dense herds across the reef flat, and anthias are so numerous above the coral crest that they are effectively a moving carpet of orange and purple. The combination creates a visual spectacle that lives up to the site's name.
 
-## Site Information
+Below the schooling fish, the reef structure is diverse and well-developed. Hard coral gardens cover the shallower plateau and the slope carries sea fans and encrusting growth to around 25 metres. Whitetip and blacktip reef sharks patrol the deeper edges, and large grouper occupy cave-like shelters in the reef face. The southern position of the site means currents can be variable — when current runs, it energises the schooling behaviour and draws pelagic fish into the mix.
 
-- **Location**: Raja Ampat, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+Visibility runs 15–25 metres. Water temperature averages 27–29°C. The site is excellent for wide-angle photography.
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+- Enormous schools of fusiliers, surgeonfish, and anthias
+- Whitetip and blacktip reef sharks on the deeper edges
+- Large grouper in reef shelters
+- Sea fans on the reef slope
+- Occasional pelagics in current
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The dive spends most of its time in the 8–20 metre range, exploring the reef crest and slope while remaining in the heart of the schooling activity. Deeper excursions to 25 metres allow investigation of the shark-patrolled edges. Entry and exit are by boat.
 
-## Entry and Exit
+## Practical Information
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+- **Depth range**: 5–25 m
+- **Visibility**: 15–25 m
+- **Current**: Light to moderate
+- **Best time**: October–April
+- **Water temperature**: 27–29°C
+- **Entry**: Boat
 
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

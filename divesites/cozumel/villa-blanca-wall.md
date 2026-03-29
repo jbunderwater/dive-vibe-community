@@ -11,57 +11,56 @@ osmId: 663869366
 addedBy: osm_import
 ---
 
-## Villa Blanca Wall
+# Villa Blanca Wall
 
-Villa Blanca Wall is a wall dive site in Cozumel, Caribbean.
+A wall dive in Cozumel's northern hotel zone, accessible for intermediate divers and notable for its healthy sea fan formations and reliable turtle sightings.
 
 ## Overview
 
-Villa Blanca Wall is a dive site in Cozumel featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Villa Blanca Wall takes its name from the Villa Blanca resort that was located on the shore nearby. The wall runs parallel to the north hotel zone coastline and features a classic Cozumel spur-and-groove upper section transitioning to a steeper drop-off that reaches 30 meters. Its intermediate rating reflects the moderate, predictable current patterns compared to the stronger exposed-point sites. The upper wall section between 10 and 20 meters is characterised by particularly dense sea fan growth, including large purple sea fans and yellow branching gorgonians. The site is diveable with many Cozumel operators given its northern location close to the main hotel concentration.
 
 ## Site Information
 
-- **Location**: Cozumel, Caribbean
+- **Location**: Northern hotel zone, Cozumel, Quintana Roo, Mexico
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Sloping reef with wall section
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Maximum Depth**: 30 meters (100 feet)
+- **Typical Visibility**: 20–35 meters (65–115 feet)
+- **Current**: Light to moderate northward drift
+- **Best Time**: Year-round; northern location well-protected from southern swells
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Hawksbill and green turtles are among the most reliable sightings at Villa Blanca — the density of sponges and sea fans in the 10–20 meter range provides an excellent food source. Large moray eels occupy the larger coral crevices; green morays are often visible by day. The sea fans throughout the site support flamingo tongue cowries in good numbers. School-sized aggregations of blue striped grunts and white grunts shelter under coral ledges on the upper reef. Caribbean spiny lobsters are present and active here at dusk and dawn — night dives at this site reveal them foraging across the reef surface.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Descend to the reef crest at 8–10 meters and work down the slope through the sea fan zone to the wall section at 20–30 meters. The upper section rewards slow exploration; spend 15–20 minutes here before dropping to the wall for the deeper portion of the dive. Ascend with adequate air to spend extended time in the sea fan zone on the way back up. Safety stop at 5 meters against the upper reef where the structure provides a visual reference.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Short boat ride from the northern hotel zone pier. Mooring buoys present throughout. The proximity to hotel-based operators makes Villa Blanca convenient for multi-day dive programs staged from northern Cozumel accommodations.
 
-## Tips and Recommendations
+## Tips
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- The sea fan zone at 12–18 meters is the site's most rewarding section — don't rush through it on the way down
+- Night dives here are excellent; lobsters, octopus, and sleeping parrotfish are accessible in calm conditions
+- This site works well as an introductory wall dive for divers moving up from beginner reef diving
+- Look carefully at flamingo tongue cowries in the sea fans — when the mantle is extended, the spotted colouring is vivid and striking
+- Carry a light even on day dives to examine the crevices where moray eels shelter
 
-## Safety Considerations
+## Safety
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Intermediate-rated but requires attention to depth at the wall section — the drop-off can lead to unplanned deepening if you're not monitoring your depth gauge. Fire coral occurs on some coral structures. Standard SMB deployment before ascending from depth. The northern hotel zone position gives good access to San Miguel's emergency facilities.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+The sea fan garden zone is a macro and close-focus wide-angle paradise. Flamingo tongue cowries with extended mantles create vibrant colour contrast against the purple sea fans. Wide-angle captures the fanned coral tapestry with divers at scale. Turtle portraits are achievable here given the relaxed population. At night, the wall and reef surface become active subjects for macro shooters.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

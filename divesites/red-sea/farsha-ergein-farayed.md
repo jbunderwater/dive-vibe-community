@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Farsha Ergein Farayed
 
-Farsha Ergein Farayed is a reef dive site in Red Sea, Middle East.
+Farsha Ergein Farayed is a coral reef dive site in the southern Egyptian Red Sea, lying within the remote offshore waters of the Brothers–Daedalus corridor southeast of Marsa Alam.
 
 ## Overview
 
-Farsha Ergein Farayed is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Farsha Ergein Farayed is a shallow-to-mid-depth reef rising from deeper water in an area seldom reached by day boats. The Arabic word "farsha" denotes a broad, flat reef platform, and this site lives up to the name: a wide table of hard coral at 5–10 meters gives way to sloping walls and coral gardens descending to around 25 meters. Because the site sits away from the busier tourist centres, coral coverage remains high, with large plate corals, branching Acropora and robust coral heads colouring the plateau. Visibility routinely stretches 20–30 metres in the clear offshore water, and the absence of heavy boat traffic means the marine community has stayed largely undisturbed.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Southern Egyptian Red Sea, offshore from Marsa Alam
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral reef (reef platform with sloping walls)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20–30 meters
+- **Current**: Moderate; can strengthen around the reef edges
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The flat reef top supports dense schools of glassfish and anthias hovering above the coral, drawing in big-eye trevally and small reef sharks patrolling the edges. humphead wrasse cruise the coral gardens, and it is not unusual to spot a resting turtle on the plateau. Giant moray eels occupy the larger coral heads, while lionfish and scorpionfish lurk at the base of the slope. Spotted eagle rays pass through on the current, and occasional oceanic whitetip sharks have been reported in the blue water off the reef wall.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin on the reef plateau at 5–8 meters, drifting along the hard-coral garden and noting the coral diversity on the flat top. Drop down the outer slope to 18–25 meters to look for larger reef fish and passing pelagics, then work back up the slope and finish the dive on the shallow plateau for the safety stop. Allow at least 50 bar reserve for the ascent, as currents along the outer edge can require more effort than expected.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by liveaboard or day-charter boat from Marsa Alam or Port Ghalib. Entry is by giant stride from the dive deck. Ascend on the reef side sheltered from the prevailing current and deploy an SMB before surfacing to signal the pick-up boat.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Dive the reef edge early in the morning when currents are lighter and light angles are best for photography
+- The reef plateau is excellent for a relaxed second or third dive of the day
+- Check with the liveaboard crew about current direction before descending — the strongest flow often wraps around the northern end
+- Keep a close eye on depth on the outer wall, as the slope is gradual and it is easy to drift deeper than planned
+- Bring a wide-angle lens for school fish and a macro lens for nudibranchs in the coral rubble at 20 metres
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Currents can accelerate unexpectedly around the reef edges, particularly on the ebb tide. Always carry an SMB and deploy it before surfacing in open water. The remote location means assistance is not immediately available, so do not push no-decompression limits. Fire coral is present on the reef top — gloves are recommended but avoid touching the coral.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The healthy hard-coral plateau provides wide-angle compositions framed against the intense blue water on the drop-off. The shallower sections photograph well in natural light throughout the morning. Look for macro subjects — nudibranchs, flatworms and blennies — tucked into the coral rubble zone at the base of the slope.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

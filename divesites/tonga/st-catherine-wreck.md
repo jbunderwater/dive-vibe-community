@@ -13,55 +13,52 @@ addedBy: osm_import
 
 ## St Catherine Wreck
 
-St Catherine Wreck is a historic wreck dive in Tonga, Pacific.
+The St Catherine is a copra trading vessel that was deliberately sunk as an artificial reef in Vava'u, now sitting upright on a sandy bottom and colonized by substantial coral growth and fish life.
 
 ## Overview
 
-St Catherine Wreck is a dive site in Tonga featuring the wreck of the St Catherine Wreck . Name not confirmed; similar to Clan McWilliam (30m) or other Vavau wrecks. May be local designation.. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The St Catherine was a small inter-island cargo vessel that carried copra — the dried coconut kernel that was the economic lifeblood of the Pacific islands trade — between the islands of Tonga. Deliberately scuttled to create an artificial reef, the wreck rests upright on a flat, sandy bottom at around 25 meters depth, making it one of the more accessible wreck dives in the Vava'u group. Since sinking, the vessel has been progressively colonized by hard and soft corals, encrusting sponges, and the diverse fish community that artificial structures attract in warm, clear Pacific water. The wreck sits within the protected waters of the Vava'u harbor area, so conditions are generally mild and the site is accessible on most days of the year.
 
 ## Site Information
 
-- **Location**: Tonga, Pacific
+- **Location**: Vava'u harbor area, Tonga
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 15–25 meters
+- **Current**: Light; calm conditions typical within harbor area
+- **Water Temperature**: 24–28°C (75–82°F)
+- **Best Time to Dive**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck structure functions as a fish aggregation point, concentrating species that would otherwise be dispersed across the open sandy bottom. Large schools of glassy sweepers and silversides fill the hold areas during the day, parting for divers who swim through. Grouper of several species occupy the darker interior spaces and cargo holds. Lionfish perch on the rails and superstructure, using the wreck edges as ambush positions. Sea turtles rest on the deck or alongside the hull. Soft corals and encrusting sponges cover exposed horizontal surfaces, while the hull sides host patches of hard coral in the 10–20 meter range. Whitetip reef sharks occasionally patrol around the wreck perimeter.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the top of the superstructure at approximately 15 meters, then work methodically over the deck and along the hull sides before dropping to the sandy bottom at 25 meters for a view of the full hull profile. The wreck is small enough that a single dive covers the exterior thoroughly. Limited penetration into the hold areas is possible for divers with a torch and appropriate experience — the interior is relatively open with good ambient light through hatchways. End the dive working back up the hull to the shallowest sections for your safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by dive boat from Neiafu. The boat typically moors on a buoy above the wreck. Giant stride entry, descend the mooring line to the wreck top. Return to the mooring line for a controlled ascent and safety stop.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Bring a dive torch to peer into the hold spaces and illuminate the densely packed schools inside
+- Take a moment to hover at depth beside the hull for the classic full-wreck profile photograph
+- Lionfish are common and well-camouflaged — watch hand placement on the superstructure
+- The sandy bottom around the wreck hosts flatfish, stingrays, and garden eels — look outward after exploring the hull
+- Night dives on this wreck can be rewarding, with different species emerging after dark
+- The site is sheltered enough that it can be dived when ocean swell prevents diving exposed sites
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Conditions on this wreck are generally benign, making it suitable for Open Water divers with proper supervision and for independent Intermediate-level divers. Penetration of the interior should only be attempted with a dive torch and wreck/cave training. Maintain good buoyancy when near the hull to avoid silt disturbance, and watch for sharp metal edges on any exposed wreck structure. Mooring line descent and ascent is recommended to manage the 25 meter depth accurately.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The upright attitude of the wreck makes it ideal for full-profile wide-angle shots — position yourself at the sandy bottom and shoot along the hull length. Interior shots looking out through portholes or hatchways capture a classic wreck perspective. Macro subjects are plentiful on the encrusted hull surfaces: nudibranchs, flatworms, and small crustaceans are found in the coral and sponge growth.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

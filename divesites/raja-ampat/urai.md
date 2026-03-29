@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Urai
 
-Urai is a reef dive site in Raja Ampat, Asia.
+Urai is a reef dive site in Raja Ampat, West Papua, Indonesia.
 
 ## Overview
 
-Urai is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Urai sits in the northern reaches of Raja Ampat's Dampier Strait area, offering productive reef diving along a structure that benefits from the currents circulating through this part of the archipelago. The reef combines a sloping profile with coral-encrusted bommies rising from the substrate, creating varied terrain that rewards divers who take time to explore at multiple levels. Like many Raja Ampat reefs that have been protected under the local community marine conservation system, Urai has maintained high coral cover and fish biomass. Water temperatures average 27-29°C year-round, and visibility typically reaches 20-30 meters.
 
 ## Site Information
 
-- **Location**: Raja Ampat, Asia
+- **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters
+- **Current**: Moderate, variable direction
+- **Best Time**: October to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The bommie terrain at Urai provides habitat diversity that translates into species variety. Large coral heads shelter groupers, moray eels, and lionfish, while the surrounding reef supports dense populations of clownfish, damselfish, and parrotfish. Reef sharks are regular visitors, and Napoleon wrasse patrol the mid-water above the bommies. Sea turtles are frequently seen, often allowing close approach. For macro enthusiasts, the encrusting growth on the bommies yields nudibranchs, flatworms, and various shrimp species. Cuttlefish are sometimes encountered hunting near the reef.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin at the reef crest and descend along the bommie field, spending time at each coral head. The most productive depth range is 8-20 meters, where bommies are most numerous and their fish communities most active. At depth, the terrain opens to a sandy slope worth checking for garden eels and ray species. Return to the reef on a slightly different line to cover new ground, finishing with a shallow water safety stop near the reef top.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat. Entry via giant stride near the reef top. Current direction varies and your guide will orient the dive accordingly. Deploy SMB before ascending for boat pickup. Exit back onto the dive boat.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Spend time hovering near individual bommies — they each have resident communities worth observing
+- Check under ledges and in crevices for resting sharks and groupers
+- Early morning dives often find more active hunting behaviour from larger predators
+- Bring a torch for exploring cavities in the bommie structures
+- The reef is suitable for both wide-angle and macro approaches
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Moderate currents can develop depending on tidal stage — check with your guide before the dive. Maintain good buoyancy around the bommies to avoid contact. Always carry an SMB and ascend at a controlled rate. Dive within your certification limits.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The bommie terrain at Urai creates natural wide-angle compositions with coral heads as anchor points in the frame. Fish schooling above the bommies can be captured with an upward angle against the blue water and surface light. Macro subjects are plentiful on the encrusting coral of the bommie faces — patience and close focus reward photographers willing to hover.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

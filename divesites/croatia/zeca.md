@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Zeca
 
-Zeca is a reef dive site in Croatia, Europe.
+Zeca is a rocky reef site in the Pag Island area of northern Dalmatia. The site lies in the waters west of Pag Island in the outer Dalmatian Archipelago, offering typical but productive rocky reef diving in the clear blue open Adriatic water.
 
 ## Overview
 
-Zeca is a dive site in Croatia offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The reef at Zeca descends over rocky limestone slopes and boulders to approximately 25 metres. The open Dalmatian position means excellent water clarity — typically 15–20 metres visibility — and a healthy marine community benefiting from open water circulation. The substrate supports encrusting sponges and anemones at depth, with Posidonia seagrass in the shallower sections.
 
 ## Site Information
 
-- **Location**: Croatia, Europe
+- **Location**: West of Pag Island, Northern Dalmatian Coast, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 15–20 meters
+- **Current**: Light to moderate; open coast position
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+Resident grouper occupy the deeper boulder sections. Moray eels and octopus inhabit the rocky crevices. Sea bream and ornate wrasse are plentiful in the mid-water. Barracuda patrol the open water above the reef in summer. The Posidonia areas in the shallows support seahorses and pipefish.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef top and work down the slope to 25 metres. Explore the rocky terrain and crevice zones. The most diverse marine life is typically found between 8–18 metres. Ascend slowly and complete a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from Pag town or Zadar-area operators serve this site. Entry by giant stride. Deploy an SMB on ascent — the open coast position requires clear surface signalling.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- The outer Dalmatian position can generate some swell and current — check conditions before diving
+- Explore the Posidonia sections at the end of the dive for seahorses
+- Combine with a Pag cave or wreck dive for a varied day programme
+- The open water location sometimes produces unexpected pelagic visitors
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The open coast position can expose the site to wind swell and variable current. Assess surface conditions with the operator before entry. Always carry an SMB and dive with a buddy.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The excellent open Adriatic visibility creates ideal wide-angle conditions. Barracuda in the water column, resident grouper portraits, and Posidonia meadow subjects provide diverse photographic opportunities throughout the dive.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

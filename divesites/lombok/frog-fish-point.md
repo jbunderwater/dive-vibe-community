@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Frog Fish Point
 
-Frog Fish Point is a reef dive site in Lombok, Asia.
+A macro diving speciality site near Gili Air — warty, giant, and hairy frogfish species among the signature finds on the sandy reef substrate.
 
 ## Overview
 
-Frog Fish Point is a dive site in Lombok offering rewarding diving on healthy coral reef structures . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Frog Fish Point is a dedicated macro dive site in the Gili Air area, renowned for the diversity of frogfish species encountered in its sandy reef substrate and rubble zones. Warty frogfish, giant frogfish, and hairy frogfish have all been recorded here, along with the seahorses, pipefish, ghost pipefish, and nudibranchs typical of Gili Air's harbour and macro sites. The site is a complementary dive to the more current-driven sites in the Gili Islands, providing a calmer, focused macro experience.
 
 ## Site Information
 
-- **Location**: Lombok, Asia
+- **Location**: Near Gili Air, Gili Islands / Lombok
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef / Muck
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 20 m
+- **Typical Visibility**: 10–18 m
+- **Current**: Mild
+- **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Multiple frogfish species — warty, giant, and hairy. Seahorses and pipefish in sparse algae and rubble zones. Ghost pipefish among debris. Nudibranchs throughout the rubble. Mantis shrimps at burrow entrances. The Gili Air harbour area nearby is famous for the mandarin fish, seen at dawn or dusk. Blue-spotted stingrays on the sand.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the sandy substrate at 10–20 m and move extremely slowly across the site. The guide will typically locate known frogfish positions in advance. Examine each piece of rubble, sparse coral fragment, and algae tuft systematically. A full 55-minute dive is easily spent searching this site thoroughly.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat from Gili Air (very short transit). Entry via back roll or giant stride. Minimal current. Return to mooring or beach.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Ask your guide specifically about current frogfish locations before the dive — they are pre-scouted
+- Move extremely slowly — frogfish are spotted by shape irregularity, not colour
+- The Gili Air harbour mandarin fish display is worth a separate dawn or dusk dive
+- A dedicated macro camera setup rewards with detailed frogfish portraits
+- Combine with Air Wall for a varied Gili Air diving day
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Maintain positive buoyancy above the sand at all times — stonefish and scorpionfish can be present on muck sites. Do not stir the sandy substrate — visibility collapses instantly and critters are disturbed. Standard macro site precautions apply.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Frogfish in their full cryptic context are the priority subject. Each colour morph of frogfish presents a different photographic challenge. Ghost pipefish and seahorses suit 100mm macro lens. Nudibranchs reward macro with diopter for the most detail.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

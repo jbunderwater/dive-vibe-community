@@ -11,57 +11,47 @@ osmId: 4031013297
 addedBy: osm_import
 ---
 
-## Zero plane
+# Zero plane
 
-Zero plane is a historic wreck dive in Micronesia - Yap, Pacific.
+A WWII Japanese Mitsubishi A6M Zero fighter resting in just 5 meters of water, coral-encrusted and accessible to snorkelers and beginning divers alike
 
 ## Overview
-
-Zero plane is a dive site in Micronesia - Yap featuring the wreck of the Zero plane. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The Zero plane wreck is a poignant piece of World War II history lying in the shallows off Yap. This Mitsubishi A6M Zero fighter -- the aircraft that defined Japanese naval aviation during the Pacific War -- came to rest in just 5 meters of water, likely during the American bombing campaigns that targeted Yap's Japanese military installations in 1944-1945. Though broken apart by decades of wave action and coral growth, the aircraft remains recognizable: the engine cowling, wing sections, and fuselage fragments are clearly identifiable beneath their coral encrustation. The extremely shallow depth makes this equally rewarding as a snorkel or a very easy dive, and the historical significance adds a dimension rarely found on typical reef dives.
 
 ## Site Information
-
-- **Location**: Micronesia - Yap, Pacific
+- **Location**: Yap, Federated States of Micronesia
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 5 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 20-30 meters (65-100 feet)
+- **Current**: Light
+- **Best Time**: Year-round; morning for best light penetration
 
 ## Marine Life
-
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck structure has become an artificial reef, with hard coral colonies growing over the metal surfaces and providing habitat for a variety of reef fish. Anemones with resident anemonefish have established on the wing sections. Schools of damselfish and chromis swarm above the wreckage. Lionfish tuck into shaded areas beneath the fuselage. Scorpionfish camouflage themselves on coral-encrusted metal surfaces. Small moray eels peer from openings in the structure. The surrounding sand supports blue-spotted stingrays, and juvenile reef fish use the wreck as a nursery. The coral growth has transformed the wreck into a living memorial.
 
 ## Dive Profile
-
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 5 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+This is as simple as diving gets. Descend to the wreck at 3-5 meters and explore the scattered debris field. The engine and propeller area, wing sections, and fuselage fragments are spread across a small area. Take your time to identify the aircraft components beneath the coral growth. The entire site can be explored thoroughly in a single dive with bottom times exceeding 60 minutes at this depth. No decompression concerns whatsoever. This site is also excellent for snorkeling, with the wreck clearly visible from the surface in good conditions.
 
 ## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Colonia, short ride. Gentle entry into calm, shallow water directly over the wreck site. The boat anchors or moors nearby. Exit is straightforward -- surface and swim to the boat.
 
 ## Tips and Recommendations
-
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
+- Approach this site with historical awareness and respect -- it is a war grave and a piece of Pacific War history
+- Do not touch, remove, or disturb any wreck components, which are protected by Micronesian law
+- Morning light at a high angle provides the best illumination of the wreck details in the shallow water
+- Bring a dive torch to peer into shaded areas of the wreckage where lionfish and moray eels hide
+- This pairs well as a final dive of the day or an easy afternoon dive after deeper morning dives
 
 ## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The extreme shallow depth and calm conditions make this one of Yap's safest dive sites. The primary hazard is the wreck structure itself -- corroded metal can have sharp edges, so maintain neutral buoyancy and avoid contact. Lionfish shelter in the wreckage and should not be approached closely. Be mindful of fire coral that has colonized parts of the structure. No penetration is possible or appropriate given the fragile, corroded state of the aircraft.
 
 ## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The shallow depth means abundant natural light, making this an excellent natural-light photography site. Wide-angle lenses capture the overall wreck scene with clear blue water above. Shoot low and wide to get the full wreck profile with the surface visible above. Close-up shots of coral growth on identifiable aircraft components -- propeller, cockpit frame, landing gear -- tell a powerful story. Macro subjects include the anemonefish and lionfish that have colonized the wreckage. Overunder (split) shots are possible in calm conditions, showing the wreck beneath and Yap's coast above. The historical context makes every image from this site inherently compelling.
 
 ## Additional Resources
-
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

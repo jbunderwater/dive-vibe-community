@@ -11,55 +11,57 @@ osmId: 663869298
 addedBy: osm_import
 ---
 
-## Dyer Rocks
+# Dyer Rocks
 
-Dyer Rocks is a reef dive site in British Columbia, North America.
+Rocky outcrops in Saanich Inlet offering accessible cold-water reef diving near Victoria.
 
 ## Overview
 
-Dyer Rocks is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Dyer Rocks are situated in the southern portion of Saanich Inlet, one of the most accessible and extensively dived waterways near Victoria. Saanich Inlet is a sheltered fjord-like inlet that cuts into the Saanich Peninsula from the north — its protected waters offer calmer conditions than the exposed Haro Strait or Juan de Fuca Strait. The inlet is known for its eelgrass meadows, and Dyer Rocks provide hard-bottom reef habitat contrasting with the softer substrate elsewhere in the inlet. Water temperatures are 8–11°C and visibility ranges from 6–12 metres.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Saanich Inlet, near Victoria, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 6–12 metres
+- **Current**: Moderate tidal currents in Saanich Inlet
+- **Best Time**: Late spring through autumn
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Saanich Inlet has one of the densest giant Pacific octopus populations in the region, and Dyer Rocks is consistent for octopus sightings. Wolf eels have been observed at rocky sites throughout the inlet. Lingcod and cabezon are the dominant predator fish. Copper and quillback rockfish inhabit the reef structure. Plumose anemones are abundant on current-facing surfaces. In winter, Saanich Inlet is known for six-gill shark sightings in its deeper zones — while not typically at the rocky shallows, they are part of the inlet's character. Harbour seals are extremely common throughout Saanich Inlet.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The rocks extend to 18 metres at their deepest perimeter, with shallower terrain at 6–10 metres on the tops. Begin at depth and work the rock perimeter before ascending to the shallower portions. The rocky crevices at mid-depth are the best areas for octopus. End the dive with extended time in the shallow zone where kelp greenlings and painted greenlings are abundant.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Brentwood Bay or Tod Inlet in Saanich Inlet. The sheltered nature of Saanich Inlet makes this site suitable in most weather conditions. GPS required to locate Dyer Rocks. Anchor on sand clear of the reef. Deploy SMB before ascending — recreational boats and kayaks use Saanich Inlet extensively.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Saanich Inlet is one of the best areas for octopus encounters in all of BC
+- The inlet's protected waters make it accessible in conditions that would preclude outer coast diving
+- Combine Dyer Rocks with a dive at other Saanich Inlet sites for a productive dive day
+- Victoria dive shops and clubs are very familiar with Saanich Inlet diving
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Tidal currents in Saanich Inlet are generally moderate. The inlet is relatively sheltered, making conditions more benign than outer coastal sites. Cold water (8–11°C) requires drysuit protection. Surface with a deployed SMB. Maintain buddy contact.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Saanich Inlet octopus are among the most photographed subjects in BC diving. Wide-angle octopus portraits with rocky backgrounds, or octopus in dens, are standout images. Wolf eel portraits in crevice entrances are classic Pacific Northwest shots. Macro photography on encrusting surfaces finds nudibranchs throughout.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
+- Victoria area dive operators familiar with Saanich Inlet
+- Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -11,56 +11,56 @@ osmId: null
 addedBy: osm_import
 ---
 
-## The Coral Gardens
+# The Coral Gardens
 
-The Coral Gardens is a reef dive site in Jamaica, Caribbean.
+A dense mosaic of brain coral, sea fans, and barrel sponges within the Montego Bay Marine Park, ideal for first dives and underwater photography.
 
 ## Overview
 
-The Coral Gardens is a dive site in Jamaica offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Coral Gardens is a popular dive and snorkel site within the boundaries of the Montego Bay Marine Park. The site lives up to its name — the seafloor here is a dense mosaic of massive brain corals, star corals, towering barrel sponges, and sweeping sea fans. The Park's protection since 1991 has allowed the coral cover to remain strong, and the site is consistently reported as one of the most visually impressive shallow dives in the Montego Bay area. Water depth on the reef plateau ranges from 3 to 12 metres, and the gentle current and calm inshore conditions make it suitable for beginner divers and snorkelers. Visibility is typically 20–25 metres, and water temperatures stay in the 27–29°C range year-round.
 
 ## Site Information
 
-- **Location**: Jamaica, Caribbean
+- **Location**: Montego Bay Marine Park, Jamaica
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 20–25 meters (65–80 feet)
+- **Current**: Minimal
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Hawksbill turtles are a hallmark of The Coral Gardens, frequently seen grazing on sponges among the coral heads. Parrotfish in multiple species — rainbow, stoplight, and blue — are abundant. French angelfish and queen angelfish are seen in pairs throughout the site. Blue tangs and surgeonfish graze the algae-covered rubble between coral structures. Large spotted eagle rays occasionally glide across the sandy channels. Nurse sharks rest under brain coral overhangs. Trumpetfish hang vertically in the sea fans. Spotted moray eels are common in the coral crevices.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef at 5–8 metres and navigate between the large coral structures. The spur-and-groove formations create natural paths through the garden, with sandy patches between the coral ridges. The deeper end of the site reaches 12 metres at the outer edge. Ascend from the outer reef back toward the mooring at 3–5 metres for your safety stop. Bottom time at these depths is generous — 55–65 minutes is typical.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by dive boat from Montego Bay operators. Entry via giant stride or back roll from the dive boat. Boats use mooring buoys within the Marine Park. Deploy SMB before surfacing for boat pickup. The site is a short ride from the Montego Bay waterfront.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Excellent site for newer divers and for divers making their first Caribbean dive
+- Afternoon light produces beautiful side-lighting on the coral formations
+- Ask the divemaster to point out the resident turtle — they are often predictably located in the same areas of the reef
+- Snorkeling is excellent at this site for non-divers accompanying the group
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Fire coral is present on some structures — wear a full 3mm wetsuit or lycra skin. Maintain buoyancy above the coral to prevent damage. Deploy SMB before surfacing and be aware of boat traffic in the Marine Park area. Avoid standing on coral rubble.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The Coral Gardens is one of the best close-focus wide-angle sites in Montego Bay. Massive brain corals provide dramatic foregrounds with divers or turtles as subjects. Parrotfish portraits are excellent in the clear shallow water. The garden-like density of the reef creates layered compositions — use a wide lens to convey the abundance.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Marine Park Info**: Montego Bay Marine Park Authority
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

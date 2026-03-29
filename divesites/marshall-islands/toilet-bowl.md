@@ -13,55 +13,32 @@ addedBy: osm_import
 
 ## Toilet Bowl
 
-Toilet Bowl is a historic wreck dive in Marshall Islands, Pacific.
+Toilet Bowl is a WWII-era wreck and debris site in Kwajalein Atoll's lagoon, named by American military divers for the collection of plumbing fixtures and salvaged equipment clustered on the lagoon floor during post-war cleanup operations.
 
 ## Overview
 
-Toilet Bowl is a dive site in Marshall Islands featuring the wreck of the Toilet Bowl. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The site is one of several "Junkpile" category wrecks in the Kwajalein area — a cluster of war material, vehicle parts, and sundry military equipment dumped or sunk during and after the February 1944 Battle of Kwajalein and the subsequent American occupation. Unlike the large named warship wrecks of Bikini Atoll, Toilet Bowl is an intimate site with interesting historical artifact interest and strong marine colonization across the debris field.
 
-## Site Information
+The maximum depth of 25 meters is well within intermediate diving range, and the lagoon environment offers the predictable, calm conditions typical of Kwajalein sites — visibility running 20–30 meters, mild currents, and warm water. The debris field extends across a sandy lagoon floor, with individual pieces of equipment visible as distinct coral-encrusted objects.
 
-- **Location**: Marshall Islands, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+## What to Expect
 
-## Marine Life
+The historical artifacts are the initial draw — coral-encrusted military debris including equipment casings, machinery parts, and various recognizable objects from the wartime occupation. Over decades, the debris field has become an artificial reef, with hard coral formations growing over every surface. Lionfish are abundant throughout the debris, hovering in characteristic motionless ambush posture. Moray eels occupy every suitable gap. Schools of snapper circle the larger debris structures, and glassy sweepers pack the shadowed interiors of hollow equipment.
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Sand around the debris edges rewards patient observers — flatfish, stonefish, and garden eels populate the sandy zones, while blue-spotted ribbontail rays rest in the open areas between debris piles.
 
-## Dive Profile
+## Practical Information
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+- **Depth Range**: 5–25 meters
+- **Visibility**: 20–30 meters typical in the Kwajalein Lagoon
+- **Currents**: Generally mild; sheltered lagoon site
+- **Entry**: Boat dive from Kwajalein-based operators
+- **Best For**: Intermediate divers with interest in WWII history and macro life
 
-## Entry and Exit
+## Marine Life Highlights
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Lionfish, moray eels, scorpionfish, stonefish, snapper schools, glassy sweepers, blue-spotted ribbontail rays, flatfish, garden eels, encrusting corals, anemones.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

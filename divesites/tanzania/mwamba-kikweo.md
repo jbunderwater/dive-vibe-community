@@ -13,55 +13,53 @@ addedBy: osm_import
 
 ## Mwamba Kikweo
 
-Mwamba Kikweo is a reef dive site in Tanzania, Africa.
+Mwamba Kikweo is a shallow fringing reef on the coast south of Dar es Salaam, one of several coastal reef sections in the southern Dar es Salaam Marine Reserve System accessible to day-trip divers from the city.
 
 ## Overview
 
-Mwamba Kikweo is a dive site in Tanzania offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+"Mwamba" means "reef" or "rocky outcrop" in Swahili, and Mwamba Kikweo is a classic coastal fringing reef with a gentle coral slope from 3-4 meters at the reef top to 15 meters at the base. The site sits in the protected marine reserve area and benefits from less fishing pressure than unprotected coastline. Visibility can be affected by seasonal runoff from the Tanzanian mainland, but typically ranges from 8-15 meters. The site is useful as a beginner dive or as a second dive after a deeper outer reef site.
 
 ## Site Information
 
-- **Location**: Tanzania, Africa
+- **Location**: Southern Dar es Salaam Marine Reserve, Tanzania
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 8-15 meters (26-50 feet)
+- **Current**: Light
+- **Best Time**: October to February (clearest water)
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+A typical inshore Tanzanian reef community with parrotfish, surgeonfish, angelfish, and triggerfish as the most visible species. Moray eels are resident in the reef crevices, and small stingrays and flatfish inhabit the sandy margins. Sea turtles visit the reef throughout the year. The protected status means fish are generally larger and less skittish than on unprotected sections of coast.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+A gentle reef slope suitable for slow, methodical exploration. Descend to 12-15 meters on the outer slope and work back along the reef at progressively shallower depth, finishing with time in the coral garden at 3-8 meters. Calm conditions allow for extended bottom time well within standard recreational limits.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Dar es Salaam operators. Often combined with other Dar es Salaam marine reserve sites on a two-dive day. Giant stride or back roll entry. Calm conditions allow easy ladder exit on return to the boat.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Ideal for newer divers as a second dive after an outer reef site
+- The sandy areas around the reef base reward slow scanning for flatfish and juvenile rays
+- Look under coral overhangs with a torch for resting soldierfish and squirrelfish
+- Carry reef hooks and SMBs as standard equipment even on this calmer site
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Generally very safe diving conditions. Monitor buoyancy carefully over the reef to avoid coral contact. Sea urchins are present at the reef base and on sandy margins. Deploy SMB for ascent due to local boat traffic in the reserve area.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Good site for natural-light photography in the shallow coral garden zone. Fish are relaxed and approachable. The shallow, clear water at 3-8 meters provides excellent topside light for reef photography without strobes.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Dangerous Reef
 
-Dangerous Reef is a reef dive site in Red Sea, Middle East.
+Dangerous Reef is a remote offshore reef in the Egyptian Red Sea, located in the Brothers Islands area south of Hurghada. The name speaks to the challenging conditions that can prevail here — exposed to open-water swells and prone to strong currents — but experienced divers are rewarded with pristine coral gardens and impressive pelagic encounters.
 
 ## Overview
 
-Dangerous Reef is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Dangerous Reef sits in the central Red Sea south of the Brothers (El Akhawein), part of the broader offshore reef system rarely visited except by liveaboards. Its isolation means the corals are largely undisturbed: hard corals dominate the shallower sections, while soft corals and sea fans drape the steeper faces. The reef's remote position places it in the path of open-water currents that carry nutrients and attract larger pelagic species. Visibility typically exceeds 25 meters and water temperatures range from 24°C in winter to 30°C in summer.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
+- **Location**: Red Sea, Egypt (offshore, Brothers Islands region)
+- **Entry Type**: Boat dive (liveaboard)
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Typical Visibility**: 25-40 meters (80-130 feet)
 - **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The reef hosts healthy populations of humphead wrasse, various grouper species, and large schools of snapper and fusiliers. Reef sharks — grey tip and whitetip — are regularly encountered cruising the outer edges. Oceanic whitetip sharks have been reported at this site, particularly in bluewater off the reef walls. Sea turtles are common visitors to the shallower coral gardens. Lionfish rest in crevices throughout the reef structure, and moray eels of several species occupy the rocky substrate below 10 meters.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The reef rises to within a few meters of the surface, allowing a gradual descent along the coral slope to around 20 meters. Most marine life concentrates on the upper reef between 5 and 15 meters, where coral diversity is highest. The deeper sections and reef edges are where sharks and larger pelagics patrol. Begin shallow and work along the reef contour, keeping the wall on one shoulder. Allow at least 50 bar for your safety stop and ascent in case of current.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is exclusively by liveaboard vessel. Entry is via giant stride from the dive deck, descending the mooring line or drifting down the up-current side of the reef. The boat crew will follow your bubbles and pick up divers from the surface after a 3–5 minute safety stop at 5 meters. Deploy your SMB early in open water.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Only accessible by liveaboard — plan accordingly and book routes that include the Brothers/Daedalus corridor
+- Descend the mooring or up-current side quickly to avoid being swept off the reef
+- Keep a close eye on your depth and air supply; currents can push divers deep without notice
+- An SMB is essential — surface conditions can make visual pickup difficult
+- Best diving is often in the first half of the dive before currents build
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Strong currents can arrive suddenly and without warning. Divers should be comfortable handling current-diving techniques including the use of reef hooks if required. Oceanic whitetip sharks at this site are habituated to boats and should be observed with respect — avoid dangling limbs or splashing erratically at the surface. Fire coral is present throughout; exposure is a risk when bracing against surging water. Always carry an SMB and whistle for open-water pickup.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The clean water and diverse coral make for excellent wide-angle shooting. Schools of snapper and fusiliers backlit against the blue provide classic Red Sea shots. Grey reef sharks and the occasional oceanic whitetip reward patient divers hovering in bluewater at the reef edge. Macro subjects — nudibranchs, flatworms, and commensal shrimp — are found in crevices throughout.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

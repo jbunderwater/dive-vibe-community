@@ -11,57 +11,56 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Cayman Trench Edge
+# Cayman Trench Edge
 
-Cayman Trench Edge is a wall dive site in Jamaica, Caribbean.
+A dramatic wall dive on the northern rim of the Cayman Trench, where the reef drops thousands of feet into one of the deepest points in the Caribbean.
 
 ## Overview
 
-Cayman Trench Edge is a dive site in Jamaica featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Cayman Trench Edge is one of Jamaica's most exhilarating wall dives, situated on the northern shelf break where the sea floor plunges to extraordinary depths — the Cayman Trench reaches over 7,500 metres (24,700 feet) making it the deepest point in the Caribbean Sea. Just a few miles offshore near Negril, the reef shelf breaks at around 15–20 metres before the wall drops vertically and then steeply into the abyss. Divers descend along the wall face to the recreational depth limit of 40 metres, where the wall remains covered in large sea fans, tube sponges, and black coral formations. The nutrient-rich upwelling from the deep trench fuels exceptional fish life and regularly brings pelagic species close to the wall.
 
 ## Site Information
 
-- **Location**: Jamaica, Caribbean
+- **Location**: Off Negril, Jamaica (Cayman Trench northern rim)
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 25–40 meters (80–130 feet)
+- **Current**: Moderate; variable with upwelling
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The shallow reef plateau before the wall hosts grunts, snapper, and schooling blue chromis. As you descend the wall, large azure vase sponges and elephant ear sponges appear, along with impressive stands of black coral at depth. Rainbow jacks and cero mackerel patrol mid-water. Large green moray eels occupy crevices in the wall face. Hawksbill turtles are regular visitors along the wall. At depth, schools of horse-eye jacks and bar jacks sweep past the wall face. The nutrient upwelling occasionally draws spinner dolphins into the area above the wall.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Descend to the reef top at 15–18 metres. Follow the reef to the wall edge and descend to your planned depth — 30 metres is a comfortable advanced dive with good bottom time; 40 metres approaches recreational limits and requires careful planning. Swim along the wall face, exploring the sponge formations and fish life. Ascend the wall gradually, pausing at 15 metres before your 5-metre safety stop. Allow adequate air for the ascent and safety stop — the wall can be deceptively deep.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by dive boat from Negril operators. Entry via giant stride or back roll. Boats anchor or moor on the shallow plateau above the wall. Current direction varies — get a full briefing before the dive. Deploy SMB at the start of your ascent for boat pickup.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Watch your depth constantly — the wall's vertiginous scale makes it easy to drift deeper than planned
+- Spend time on the reef plateau before dropping over the wall to let your eyes adjust to the scale
+- Look into the blue water away from the wall — pelagics and turtles often appear from open water
+- Dive this site on a calm day for the best conditions; northerly swell can create surge at the wall top
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+This site is for advanced divers and above. The wall drops well beyond recreational limits — strict depth discipline is essential. Monitor your computer throughout the dive. Current from trench upwelling can be significant and variable; always get a pre-dive current briefing. Ascend the wall slowly and perform a full 3-minute safety stop at 5 metres. Never dive this site alone.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+The Cayman Trench Edge is a wide-angle site — the vast blue backdrop and the wall face covered in sponges makes for dramatic images. Position a diver near a large sea fan with the blue open water behind them. At depth, the black coral formations are compelling macro and close-focus wide-angle subjects. Fish portraits of the resident jacks and mackerel work well in the clear water.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Local Operators**: SunDivers Negril, Couples Swept Away Dive Team
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

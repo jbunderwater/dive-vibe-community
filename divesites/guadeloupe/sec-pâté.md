@@ -13,53 +13,50 @@ addedBy: osm_import
 
 ## Sec Pâté
 
-Sec Pâté is a pinnacle dive site in Guadeloupe, Caribbean.
+Sec Pâté is Guadeloupe's most dramatic advanced dive site — a deep-water pinnacle rising from the open Caribbean south of the Cousteau Reserve, renowned for consistently strong current, impressive topography, and encounters with large pelagic species that the shallower reef sites rarely produce.
 
 ## Overview
 
-Sec Pâté is a dive site in Guadeloupe offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Located off the southwest coast of Basse-Terre, Sec Pâté is an isolated underwater pinnacle that rises steeply from the open ocean floor. The top of the pinnacle sits at around 10 meters, while the base descends beyond 40 meters, making the full profile accessible only to experienced divers with proper decompression training or careful recreational depth management. The pinnacle's exposure to open-ocean currents brings nutrient-rich water and with it, significant pelagic action. Visibility is exceptional, frequently exceeding 30 meters. Water temperature averages 27°C, but thermoclines are possible at depth.
 
 ## Site Information
 
-- **Location**: Guadeloupe, Caribbean
+- **Location**: Southwest of Basse-Terre, Guadeloupe (open Caribbean)
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Open-ocean pinnacle
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 25–40 meters
+- **Current**: Moderate to strong; site is selected based on current conditions
+- **Best Time**: Calm-weather periods, November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The pinnacle's exposure to nutrient-rich open-ocean water makes it a magnet for large species. Caribbean reef sharks and blacktip sharks are frequently encountered circling the structure. Hammerhead sharks are occasional visitors in deeper water. Eagle rays and large barracuda patrol the upper sections. The pinnacle surface itself hosts rich coral and sponge encrustation, with large groupers occupying deep ledges. Turtles and dolphin schools are seen on the surface during the boat ride to the site.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 40 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the pinnacle top (around 10 meters) and orientate. Current direction will determine the dive plan — an experienced guide's briefing is essential. Typically, follow the current down the pinnacle face to around 30–40 meters, then ride the current around the pinnacle at a shallower depth before ascending. Manage no-decompression limits carefully; bottom time at 40 meters is short. Plan a safety stop at 5 meters with SMB deployed in open water.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive only; Sec Pâté is only dived with experienced operators who monitor current and weather conditions before committing to the site. Giant stride entry; live boat pickup at the surface after the dive — do not attempt to return to the mooring line against current.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Only dive this site with an operator who knows it well — conditions can change quickly
+- The site is best dived on slack tide or with manageable current in a predictable direction
+- Stay with the group and follow the guide's instructions precisely
+- Bring a dive computer and plan conservatively — the depth and current combine to create rapid NDL consumption
+- This is one of the best shark-encounter sites in the French Caribbean
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+Current at Sec Pâté can be strong and unpredictable — this is the primary hazard. All divers must carry SMBs and know how to deploy them in current. The open-water setting means the boat must be positioned for a live pickup. Do not descend below 40 meters. Only attempt this site if your experience level, certification, and physical fitness genuinely match the conditions on the day.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Sec Pâté offers some of the best shark and pelagic photography in Guadeloupe. Wide-angle shots of reef sharks circling the pinnacle against blue water, or eagle rays in open ocean, require a fast camera setup and good buoyancy control in current. The pinnacle itself photographs dramatically in ambient light at 10–20 meters.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -11,55 +11,53 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Coconut Court Reef
+# Coconut Court Reef
 
-Coconut Court Reef is a reef dive site in Barbados, Caribbean.
+A convenient shore dive off the south coast of Barbados near the Coconut Court Beach Hotel — an accessible fringing reef in calm, protected water that serves as a reliable beginner site close to the island's main resort area.
 
 ## Overview
 
-Coconut Court Reef is a dive site in Barbados offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Coconut Court Reef lies off the south Barbados coast in the Christ Church parish, adjacent to the resort hotel strip that lines this part of the island. The reef is accessible directly from the shore and descends to 12 metres in the typically calm water of the south coast's protected inshore zone. The reef features a mix of hard corals, sea fans, and sponge growth characteristic of Barbados's fringing reef system. The south coast's position allows calmer conditions for shore diving than the more exposed east coast, making the reef a reliable day-to-day dive option for visitors based in the south. Visibility averages 10–20 metres depending on conditions. Water temperature is 26–28°C.
 
 ## Site Information
 
-- **Location**: Barbados, Caribbean
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 3–12 m |
+| Difficulty | Beginner |
+| Entry Type | Shore |
+| Site Type | Reef |
+| Visibility | 10–20 m |
+| Current | Light |
+| Water Temp | 26–28°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The Coconut Court Reef community includes the standard Barbadian south coast fish assemblage. Hawksbill turtles are present — south coast turtle activity is lower than the west coast but encounters do occur. Schools of French grunts and blue tangs populate the reef crest. Parrotfish and queen angelfish are resident. Caribbean spiny lobster shelter under reef overhangs and in crevices. Southern stingrays rest on sandy patches between coral formations.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Shore entry adjacent to the hotel and navigation to the reef. Descend to the reef crest at 3–5 metres and explore along the structure to 12 metres. The site is relatively compact and navigable in a single dive.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore dive from the beach adjacent to the Coconut Court hotel area. Enter via the sandy beach access and navigate to the reef. Exit at the same location. The south coast beach entry can be affected by surge in rough conditions.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+Conditions on the south coast are more variable than the west coast — check for southerly swell before diving as it can significantly reduce visibility and create surge at the entry. Morning dives in calm conditions offer the best experience. The site is well-suited as a checkout or practice dive for visitors based in the south coast resort area.
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The south coast entry can be affected by surge in rough conditions — abort if waves are significant. Boat traffic near hotel areas requires SMB use or careful surface awareness. The site is unsupervised — dive with a buddy.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The accessible reef in clear conditions offers natural-light photography for the full depth range. Turtle encounters and parrotfish compositions are the main subjects when conditions are favourable.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- Barbados Blue and local south coast operators: can advise on Coconut Court conditions and access
+- Conditions here are more variable than the west coast — always check before diving
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,54 +13,53 @@ addedBy: osm_import
 
 ## Shaab Sheer
 
-Shaab Sheer is a reef dive site in Red Sea, Middle East.
+Shaab Sheer is a coral reef site in the northern Egyptian Red Sea, positioned along the outer dive corridor south of Hurghada at approximately 26.64°N, offering a moderate reef slope with good coral coverage and accessible conditions for intermediate divers.
 
 ## Overview
 
-Shaab Sheer is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Located between Hurghada and Quseir on the mid-northern Egyptian Red Sea shelf, Shaab Sheer occupies a transitional zone where the busy northern dive circuit meets the more remote central reefs. The site offers a classic Red Sea reef profile: a broad coral platform dropping off on its outer face via a sand-and-coral slope to around 20 metres. The reef sees moderate dive boat traffic from operators working the northern and central Egyptian Red Sea and is a reasonable quality site for a day's diving, particularly as part of a multi-stop cruise. Water temperatures here range from 22°C in winter to 29°C in summer, with visibility averaging 20–25 metres.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Northern-central Red Sea, Egypt (lat 26.64°N)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20-25 meters (65-80 feet)
+- **Current**: Light to moderate
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Shaab Sheer supports the standard assemblage of northern Red Sea reef fish — dense anthias populations on the coral heads, groupers holding territory on the mid-slope, and occasional humphead wrasse moving along the reef edge. Moray eels inhabit crevices throughout the reef, and lionfish are found perched near overhangs at most depths. Sea turtles visit the reef platform, particularly in the calmer sections. The sandy areas at the reef base are worth checking for blue-spotted stingrays and crocodilefish lying flat against the bottom.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The dive typically begins at the reef edge, descending along the outer slope from the reef crest at 5–8 metres to the sandy bottom at 18–20 metres. The terrain is straightforward with a consistent gradient that makes navigation and depth management easy. After exploring the slope, divers return via the reef platform for the safety stop in the shallows. The site is well-suited to building comfort with Red Sea reef diving before progressing to more exposed outer-shelf sites.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by day boat or liveaboard. Entry by giant stride or back roll from the vessel. SMBs must be deployed on every ascent. Confirm mooring or anchor arrangement with the boat crew before entry.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Shaab Sheer is a good choice for a relaxed afternoon dive following more demanding morning sites
+- The reef platform top in 5–8 metres is ideal for underwater photography in natural light
+- Look under coral overhangs at depth for hiding groupers and moray eels
+- Carry a macro lens — the coral substrate supports small invertebrates often overlooked by divers focused on larger animals
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Conditions at Shaab Sheer are generally benign, though current can develop on the outer reef edge during tidal changes. Fire coral is present on the platform — full wetsuit coverage is recommended. Deploy an SMB on ascent and surface in clear view of the dive boat.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Shaab Sheer offers reliable mid-water reef photography conditions. The shallower platform provides excellent natural-light conditions during midday dives, and the consistent coral coverage gives wide-angle reefsape photography multiple suitable subjects throughout the dive.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

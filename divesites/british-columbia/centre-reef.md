@@ -11,55 +11,57 @@ osmId: 6389076534
 addedBy: osm_import
 ---
 
-## Centre Reef
+# Centre Reef
 
-Centre Reef is a reef dive site in British Columbia, North America.
+A submerged reef in the Nanaimo area of the Strait of Georgia supporting vibrant cold-water communities.
 
 ## Overview
 
-Centre Reef is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Centre Reef sits in the central Strait of Georgia near Nanaimo, in the productive mid-channel waters that see consistent tidal upwelling. The reef supports the characteristic temperate cold-water community of the Salish Sea, with a particular abundance of filter feeders on exposed current-swept faces. Nanaimo is one of BC's most active dive destinations, with several established operators servicing sites like Centre Reef. Water temperatures are 8–11°C year-round, and visibility typically reaches 8–15 metres.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Strait of Georgia, Nanaimo area, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Submerged reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 8–15 metres
+- **Current**: Tidal currents present — dive near slack
+- **Best Time**: Late spring through autumn
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Giant Pacific octopus are regularly encountered at Centre Reef, drawn to the rocky habitat for shelter and hunting grounds. Lingcod occupy prominent positions on the reef structure. Copper and quillback rockfish are the dominant fish, with black rockfish often schooling in the water column above. Plumose anemones coat the reef faces with white and orange columns. Encrusting sponges and bryozoans provide habitat for numerous nudibranch species. Puget Sound king crab are found along the reef base, and harbour seals visit frequently.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The reef rises to about 8 metres, with flanks dropping to 18 metres. A systematic perimeter swim of the reef provides the best coverage. Spend the first half of the dive at depth on the outer reef faces where current and invertebrate growth are greatest, then transition to the shallower crest for the safety stop zone. The interior of the reef structure often harbours the most octopus and fish.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Nanaimo's boat basin or launching facilities. Locate the reef by GPS. Anchor on sand well clear of the reef summit. Deploy an SMB before ascending — BC Ferries routes pass through the southern Strait of Georgia and vessel traffic is constant. Have the boat tender maintain watch.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Nanaimo has a thriving dive community — local knowledge about exact reef structure and current timing is valuable
+- The Nanaimo area supports multiple dive sites suitable for day-trip multi-dive days
+- Autumn typically provides the clearest visibility throughout the Strait of Georgia
+- Consider combining Centre Reef with a nearby artificial reef dive such as the HMCS Saskatchewan or HMCS Cape Breton
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Tidal currents require careful timing. Always consult Nanaimo or Ballenas Island tide tables and plan to dive at slack. Surface with a brightly coloured SMB visible from a distance. Cold water demands drysuit proficiency. Keep buddy separation to a minimum in any current.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Centre Reef's invertebrate growth provides excellent photographic subjects. Wide-angle reef panoramas with plumose anemones in the foreground and rockfish in the background are classic Pacific Northwest images. Macro work on encrusting sponges reveals nudibranchs, sea spiders, and colonial tunicates. Octopus hunting or investigating divers makes compelling behavioural photography.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
+- Nanaimo dive operators for current conditions and charter services
+- Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

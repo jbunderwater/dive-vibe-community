@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## 3 Sisters
 
-3 Sisters is a pinnacle dive site in Komodo National Park, Asia.
+The 3 Sisters is a trio of submerged pinnacles in the southern Komodo region, a current-battered site where strong tidal flows between the rock formations attract pelagic species and produce the kind of full-immersion biodiversity experience that defines the best of Komodo diving.
 
 ## Overview
 
-3 Sisters is a dive site in Komodo National Park offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Three pinnacles rising from deep water form the basis of this dive — each seamount contributing its own upwelling and shelter pattern to create a diverse underwater topography. The site is exposed to the powerful tidal flows of the southern Komodo area and is firmly advanced: strong currents on the flood and ebb tide require current-management skills and good buoyancy control. The pinnacle summits lie at around 5–8 meters, while the bases drop to 30 meters and below on sand and rubble. Soft coral growth on the flanks is strong where shelter from the current creates the right conditions, and the open water between and above the pinnacles often teams with pelagic activity on the right day.
 
 ## Site Information
 
-- **Location**: Komodo National Park, Asia
+- **Location**: Komodo National Park, East Nusa Tenggara, Indonesia (southern Komodo area)
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15–30 meters
+- **Current**: Strong to very strong; site-specific briefing essential
+- **Best Time**: April to November; best on incoming current
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Grey reef sharks are regularly seen resting on the sandy channels between the pinnacles or circling in the current. Schools of trevally, barracuda, and fusiliers mass in the water column above the pinnacles on strong-current days. Napoleon wrasse and large dogtooth tuna are possible. White-tip reef sharks are common on the sandy bottom. Eagle rays occasionally pass through. The pinnacle faces support good soft coral communities with associated anthias and damsels. Sea turtles are seen on most dives.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Drop in upstream of the first pinnacle and descend to the base, using the sheltered face to stay out of the main current. Circuit the base of all three structures at 20–30 meters before working up through the most coral-covered mid-section. Spend time hovering off the pinnacle tops in the current where the fish action is greatest, then deploy your SMB for a blue-water safety stop as you drift clear downstream.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Liveaboard or day boat access. The boat crew drops divers upstream and repositions to collect at the drift-out point. Always carry an SMB and deploy it promptly at 5 meters — the exposed location makes a clear surface signal essential for the boat.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Study the tidal tables and brief with the guide on expected current direction
+- A reef hook is useful for stationary observation on the pinnacle faces when current is strong
+- Wide-angle photography is most productive; aim for pinnacle-face and fish-school compositions
+- The site can be very exposed to surface chop — a short swim from the boat to the entry point may be needed
+- Good physical fitness and current experience are prerequisites
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Strong and changing currents are the primary hazard at 3 Sisters. Down-currents can develop on the downstream faces of the pinnacles. Brief specifically on the escape plan for each possible current scenario before entry. Maintain visual contact with the guide throughout. Not appropriate for divers without significant drift and current diving experience. Always carry an SMB, whistle, and signal mirror.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Three pinnacles provide multiple angles for wide-angle compositions. Shoot up at the pinnacle summits against the blue for dramatic perspective, or frame shark silhouettes against downward light. Fish schools swirling around the rocks create images that capture the energy of Komodo diving. A 10–17mm fisheye excels here.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

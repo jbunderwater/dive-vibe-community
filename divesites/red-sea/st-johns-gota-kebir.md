@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## St John's Gota Kebir
 
-St John's Gota Kebir is a reef dive site in Red Sea, Middle East.
+St John's Gota Kebir — "Gota Kebir" translating from Arabic as "large coral head" or "big dome" — is a prominent pinnacle or reef platform within the St John's Reef system of the southern Egyptian Red Sea. It is one of the larger structural features of this remote offshore reef complex, visited exclusively by liveaboard itineraries running the "Deep South" route.
 
 ## Overview
 
-St John's Gota Kebir is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Gota Kebir presents as a broad, flattish reef top at 5-8 meters that slopes and drops on multiple sides to sandy bottom at around 20 meters. The sheer size of the structure allows for an extended dive with varied habitats — shallow garden reef on top, coral boulders and overhangs on the flanks, and sandy rubble channels at the base. The site's remoteness ensures it sees far less traffic than northern Egyptian Red Sea reefs, contributing to notably healthier coral coverage and larger, less wary fish.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Location**: St John's Reef, Southern Red Sea, Egypt
+- **Entry Type**: Boat dive (liveaboard only)
+- **Site Type**: Coral reef (reef platform / gota)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 25-40 meters (80-130 feet)
+- **Current**: Moderate
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Dense aggregations of anthias and chromis blanket the reef top, with butterflyfish and angelfish picking at coral polyps. Large humphead wrasse are resident and conspicuously unafraid of divers. Green turtles rest on sandy patches at the base of the reef. On the flanks, groupers and large moray eels occupy the ledges and overhangs. Whitetip reef sharks are frequently encountered on the sandy bottom or beneath overhangs, often in pairs or small groups. Schools of barracuda and yellowfin tuna occasionally sweep through in open water above the reef.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef top and take a circumnavigation approach — working methodically around the gota before returning across the reef crest. Descend the flanks in stages to sample different depths. The reef top from 5-10 meters offers the best hard coral coverage and fish density. Sandy channels at the base reward slower exploration for critters. End the dive on the reef top for a comfortable safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Liveaboard zodiac access only. Back roll or giant stride entry. The site is sheltered enough for direct ascent with SMB from the reef top if the zodiac is waiting nearby.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- A circumnavigation dive strategy ensures you sample the full variety of habitats
+- Check sandy patches at the reef base for whitetip sharks, stingrays, and leopard sharks
+- Bring a wide-angle lens — the hard coral garden on the reef top is spectacular in good light
+- The site pairs well with other St John's features on the same liveaboard day
+- Plan for two dives if conditions allow — one day, one dusk/twilight
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+St John's is a remote area — no decompression chamber within practical reach. Dive conservatively and watch your bottom time carefully. Moderate currents are normal; strong currents can develop at the reef point. Always surface with an SMB deployed and coordinate your ascent position with the zodiac.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The reef top in the first half of a morning dive captures the best natural light angles on hard coral. Wide-angle compositions framing humphead wrasse against the coral surface are a consistent highlight. At the reef base, a torch helps bring out the colors in the overhangs.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

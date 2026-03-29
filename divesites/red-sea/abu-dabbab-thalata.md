@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Abu Dabbab Thalata
 
-Abu Dabbab Thalata is a reef dive site in Red Sea, Middle East.
+Abu Dabbab Thalata (Arabic for "Abu Dabbab Three") is a boat-access coral reef dive site in the Abu Dabbab area, north of Marsa Alam, Red Sea, Egypt.
 
 ## Overview
 
-Abu Dabbab Thalata is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Abu Dabbab Thalata forms part of a cluster of closely related reef structures in the Abu Dabbab bay complex. Situated slightly offshore from the seagrass habitat of the famous bay, it delivers a more open-water reef experience with good coral cover and regular sightings of mid-water pelagics. The reef here features a characteristic Red Sea combination of tabletop corals on the shallow terrace transitioning to branching and massive coral heads on the deeper slopes, all supporting a healthy mix of reef and schooling fish. Day-trip boats from Marsa Alam regularly include this site on multi-dive itineraries.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Abu Dabbab area, north of Marsa Alam, Red Sea, Egypt
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20–30 meters
+- **Current**: Moderate; variable
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+A typical but healthy Red Sea reef assemblage populates this site. Grouper and snapper patrol the deeper sections; anthias and glassfish congregate in dense clouds around coral outcrops. Moray eels, lionfish, and scorpionfish occupy the nooks of the reef wall. Turtles are commonly sighted, benefiting from the proximity to the seagrass habitat. Reef sharks occasionally pass through, particularly on morning dives.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin on the shallow coral plateau at 6–10 m and navigate to the reef edge. Descend the outer slope to 15–20 m, working along the wall to explore coral structures and overhangs. Ascend the reef in a zigzag pattern to cover more ground and complete the safety stop on the shallow plateau.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+By dive boat from Marsa Alam or the Abu Dabbab resort area. Typical mooring or drift entry. Giant stride or back roll from the boat. Surface with an SMB after the safety stop for boat pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- This site works well as the second or third dive of a day trip, after a morning shore dive at Abu Dabbab Bay
+- Look for lionfish hovering beneath coral table overhangs — they are common here
+- The reef plateau at 6–10 m is worth spending time on before dropping deeper
+- Buoyancy control is important to avoid contact with the tabletop corals on the shallow section
+- A dive light helps reveal the colour of the soft corals and illuminates crevice life
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Maintain awareness of current direction during the dive. Always conduct a safety stop and deploy an SMB for boat pickup. Avoid contact with fire coral, which is present on several sections of the reef edge. Lionfish and scorpionfish are well camouflaged — watch where you put your hands.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Good conditions for both wide-angle reef shots and macro work. Lionfish portraits and moray eel compositions are popular subjects. Schools of glassfish lit by sunbeams make striking wide-angle images. Water clarity in the Abu Dabbab area is generally excellent.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

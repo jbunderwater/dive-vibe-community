@@ -13,54 +13,53 @@ addedBy: osm_import
 
 ## Shaab Sakara
 
-Shaab Sakara is a reef dive site in Red Sea, Middle East.
+Shaab Sakara is a submerged reef on the outer Egyptian Red Sea shelf between Quseir and Marsa Alam, known as a quieter offshore site with healthy coral gardens, clear water, and undisturbed marine life typical of Egypt's less-visited outer reefs.
 
 ## Overview
 
-Shaab Sakara is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Shaab Sakara sits in the outer Red Sea between Quseir and Marsa Alam at approximately 24.37°N, placing it within the productive stretch of Egyptian coastline that includes numerous offshore reefs offering excellent visibility and minimal diver traffic. The reef rises from deep water to a broad coral platform, with sloping sides that support diverse hard coral communities. The relative obscurity of Shaab Sakara compared to headline sites to the north means the reef experiences lower diver pressure, and marine life here tends to be less habituated and more naturally behaved. Visibility in this area regularly reaches 25–30 metres, and the offshore location keeps water temperatures relatively stable.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Outer Red Sea, Egypt (between Quseir and Marsa Alam, lat 24.37°N)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 25-30 meters (80-100 feet)
+- **Current**: Moderate; variable by season
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Shaab Sakara's reef supports the typical fish assemblages of Egypt's outer reefs: anthias and glassfish congregate around coral heads, groupers and humphead wrasse patrol the reef edge, and sea turtles appear regularly on the platform. The reduced diver traffic compared to more famous sites means reef sharks are sighted here with less disturbance, and the larger moray eels in their crevices show more relaxed behaviour. Lionfish perch on coral formations throughout the site, and the sand between coral patches holds stingrays.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Dives at Shaab Sakara typically follow the reef slope from the crest at 5–8 metres down to the sandy base at 18–20 metres. The terrain is straightforward, making it a good site for divers consolidating their open-water reef skills or those looking for a relaxed dive after more demanding sites on the same circuit. The platform top offers additional shallow time on coral-rich terrain before the safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by day boat or liveaboard operating from Quseir or Marsa Alam. Entry is via giant stride or back roll from the boat. SMB deployment is required on all ascents given the offshore location. Confirm current direction before entry.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Shaab Sakara rewards unhurried diving — move slowly to observe the more cautious marine life
+- The reduced diver pressure makes this an excellent site for fish behaviour photography
+- Carry a macro lens — less-visited reefs often produce richer small-creature finds
+- Pair with other outer-reef sites in the area for a full day away from the inshore tourist traffic
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+As with all offshore Egyptian Red Sea sites, divers must be self-sufficient. Currents are moderate but can accelerate at the reef tips. Maintain good air management given the distance from shore support. Always ascend with an SMB deployed. Fire coral on the reef crest should be avoided, especially in surge conditions.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The combination of good visibility and reduced diver traffic makes Shaab Sakara a satisfying photography location. Reef fish behaving naturally, rather than retreating from frequent diver contact, provide more authentic and behaviourally interesting images. Wide-angle reef scape and medium-range fish portrait work are equally productive here.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

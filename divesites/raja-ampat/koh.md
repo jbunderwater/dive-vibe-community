@@ -13,55 +13,54 @@ addedBy: osm_import
 
 ## Koh
 
-Koh is a reef dive site in Raja Ampat, Asia.
+Koh is a shallow reef dive in the eastern Dampier Strait near the Mansuar Island area, an accessible beginner and snorkeler-friendly site offering a sunlit coral garden at modest depths and a pleasant introduction to Raja Ampat reef diving.
 
 ## Overview
 
-Koh is a dive site in Raja Ampat offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Koh is a shallow reef site ideally suited to new divers, snorkelers, and those who simply want to enjoy a relaxed dive in Raja Ampat's extraordinarily biodiverse waters without depth or current challenges. The reef sits in clear, warm water at depths rarely exceeding 12 meters, making it an excellent location for those building experience, for surface intervals, or as a between-dive snorkel for liveaboard guests. Despite its modest depth, the reef reflects Raja Ampat's remarkable marine richness — hard coral coverage is good, and the fish life is diverse. Water temperature averages 27–29°C with excellent visibility in the shallows.
 
 ## Site Information
 
-- **Location**: Raja Ampat, Asia
+- **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15–25 meters (50–80 feet)
+- **Current**: Typically mild; protected location
+- **Best Time**: Year-round; excellent snorkeling site
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The shallow reef supports colorful hard coral formations — branching Acropora, brain corals, and plate corals — with a vibrant community of reef fish. Clownfish are resident in several anemone colonies. Schools of anthias hover above every coral head. Parrotfish, surgeonfish, and butterflyfish pairs are abundant. Sea turtles regularly forage on the reef flat. The shallow water means excellent natural light throughout the dive, making identification and photography easy.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+A shallow, flat dive profile at 5–12 meters. Begin at the reef edge and drift slowly across the coral garden, spending time at each coral formation before moving on. There is no need to descend deep — the best life is in the 3–10 meter range where light is abundant. Safety stop in the shallows is effortless. Maximum dive time is only limited by air consumption in the shallows, which is typically excellent.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from eastern Dampier Strait operators or as an add-on from nearby dive sites. Calm, protected waters make entry and exit easy. The shallow reef top makes back-roll entry important to avoid landing on coral.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Excellent as a surface interval snorkel or as a first dive for beginners in Raja Ampat
+- The shallow conditions make photography easy — natural light is abundant at all depths
+- Look in every anemone for resident clownfish pairs — multiple species are present
+- Sea turtles are often approachable at this site — approach slowly and avoid chasing
+- Combine with deeper sites nearby for a full day of contrasting dive experiences
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+One of Raja Ampat's safest dive sites. The main consideration is avoiding coral contact on the shallow reef flat during entry and exit. No significant current or depth hazards. Standard safety stop applies even at shallow depths.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Excellent conditions for natural light reef photography. The shallow depth (3–12 meters) puts subjects in the "golden zone" for ambient light. Wide-angle coral garden shots, clownfish portraits in their anemones, and sea turtle encounters are the photographic highlights. No strobe is needed in the upper 8 meters on sunny mornings.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

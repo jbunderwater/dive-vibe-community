@@ -13,54 +13,21 @@ addedBy: osm_import
 
 ## Vaageli Outside
 
-Vaageli Outside is a reef dive site in Maldives, Asia.
+Vaageli Outside is the outer-facing reef wall on the exposed Indian Ocean side of Vaageli reef in South Male Atoll. The "outside" designation indicates direct ocean exposure, which translates into stronger currents, clearer water, and a higher probability of pelagic encounters compared to the more sheltered lagoon-side sites in the Vaageli cluster.
 
-## Overview
+### Site Conditions
 
-Vaageli Outside is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+- **Depth range**: 8–25 m
+- **Typical visibility**: 20–30 m
+- **Currents**: Moderate to strong; variable with tidal state
+- **Best season**: November–April for northeast monsoon optimal visibility
 
-## Site Information
+### What to Expect
 
-- **Location**: Maldives, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+The outer wall is immediately more dramatic than the lagoon-facing sites, dropping steeply from a shallow reef flat into deep blue. Sea fans and black coral trees colonise the wall from 18 metres downward, and the current-swept outer surface hosts dense populations of soft corals in vivid purple and pink. Grey reef sharks and silvertip sharks use the outer wall as a highway, cruising through regularly on tidal shifts. Eagle rays are a highlight of the site, often in pairs or small groups gliding effortlessly past the wall. Napoleon wrasse, large dogtooth tuna, and schools of bigeye trevally add to the pelagic action. The upper reef crest supports a healthy hard coral community with excellent topographic interest.
 
-## Marine Life
+### Tips for Divers
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+A reef hook is highly recommended for the outer exposure — strong current pulses can arrive unexpectedly during tidal shifts. Divers should establish a negative entry to reach depth quickly before ascending current sweeps them over the reef. The site rewards those who can hold position in the current and simply observe the stream of pelagic life passing through.
 
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

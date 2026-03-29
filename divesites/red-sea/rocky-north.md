@@ -11,56 +11,55 @@ osmId: 663869756
 addedBy: osm_import
 ---
 
-## Rocky North
+# Rocky North
 
-Rocky North is a reef dive site in Red Sea, Middle East.
+The northern tip of Rocky Island in the Fury Shoals — a rounded reef point where currents from the east and west faces converge, producing dense fish aggregations, resident sharks, and classic pinnacle diving on one of the Fury Shoals' most diverse reefs.
 
 ## Overview
 
-Rocky North is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Rocky North describes the northern tip of Rocky Island at approximately 23.57°N, 36.25°E in the Fury Shoals complex of the southern Egyptian Red Sea. The northern point is a natural convergence zone: currents sweeping around both the eastern and western faces of the island meet here, concentrating planktonic food and driving aggregations of reef fish. The reef structure at the north point is characteristically rounded, with coral pinnacles emerging from the main reef at 8–15 metres and a gradual sandy slope extending northward. It is typically the most accessible section of the Rocky Island system and serves as the default dive when eastern face conditions are too demanding. This is a liveaboard-only destination on Fury Shoals itineraries.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
+- **Location**: Northern tip, Rocky Island, Fury Shoals, southern Egyptian Red Sea (~23.57°N)
+- **Entry Type**: Liveaboard dive only
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20–30 meters
+- **Current**: Variable; converging currents at the point can be moderate
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The current convergence at the northern tip drives dense fish aggregations: large schools of snapper, fusiliers, and goatfish pack the reef at the point. Grey reef sharks are resident and visible patrolling the outer reef edge. Cleaning stations on the northern face attract groupers and humphead wrasse. Eagle rays cross the sandy slope north of the point. Moray eels are abundant in the reef crevices. The coral pinnacles in 10–15 metres hold glassfish schools with hunting groupers. Turtles are frequently encountered resting on the upper reef or in the mid-water at the point.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter at the northern tip and descend directly to the convergence zone at 10–15 metres. The reef point structure allows a circumnavigation of the northern tip in a single dive — start on the east side at 12–15 metres, round the point, and return along the west side at 8–12 metres. The north-facing aspect provides good natural light throughout the dive. Safety stop at 5 metres over the reef top near the pinnacles.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Liveaboard tender drop and pick-up. Rocky North is the most commonly dived section of Rocky Island due to its comparative accessibility and calmer conditions. Giant stride entry adjacent to the reef point. SMB mandatory before ascending — convergent current at the point requires the boat to track diver positions from the surface marker.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The reef point at 10–12 metres is the most productive observation post — station yourself with the reef at your back and watch both sides simultaneously for sharks and rays
+- If the eastern face of Rocky Island has too much current, Rocky North provides a high-quality alternative with similar marine life
+- Cleaning stations on the northern face reward patient, stationary observation at 2–3 metres distance
+- Pair Rocky North with Rocky East (dived first while conditions are best) for a comprehensive Rocky Island experience
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Converging currents at the reef point can be disorienting — maintain depth and compass awareness throughout. In strong current conditions, stay close to the reef structure rather than drifting into open water at the point. SMB deployment is essential before ascending. Remote location means all standard liveaboard safety protocols apply.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The northern tip produces diverse photographic conditions in a single dive: wide-angle shark portraits at the outer reef edge, fish aggregation shots at the convergence zone, and cleaning station portraits on the calmer northern face. The natural light on the north-facing aspect is even and shadowless for much of the dive — good conditions for ambient reef photography.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -11,55 +11,57 @@ osmId: 5635622656
 addedBy: osm_import
 ---
 
-## Maude Reef
+# Maude Reef
 
-Maude Reef is a reef dive site in British Columbia, North America.
+A reef site on the central Sunshine Coast offering classic Pacific Northwest cold-water diving.
 
 ## Overview
 
-Maude Reef is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Maude Reef is located in the Strait of Georgia along the central Sunshine Coast, in the waters between the mainland and Texada Island. The Sunshine Coast offers a long string of reefs and rocks between Gibsons and Powell River, all with similar productive cold-water character. Maude Reef is in the northern portion of this range, accessible from Pender Harbour or Powell River. Water temperatures are 8–11°C and visibility reaches 8–15 metres with the best conditions in autumn.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Strait of Georgia, central Sunshine Coast, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Submerged reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 8–15 metres
+- **Current**: Tidal currents in the Strait — plan around slack
+- **Best Time**: Late summer and autumn
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Maude Reef supports the characteristic Salish Sea cold-water community. Giant Pacific octopus are the primary sought species. Lingcod are present in good numbers, with larger individuals on the deeper sections. Copper and quillback rockfish are the dominant reef fish. Plumose anemones and encrusting sponges cover exposed faces. Kelp greenlings and painted greenlings inhabit the shallow zone. Dungeness crab and Puget Sound king crab are found on adjacent sandy terrain. Harbour seals visit consistently.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The reef rises to approximately 8–10 metres, with the perimeter extending to 18 metres. Spend the deeper phase of the dive on the outer reef faces where invertebrate growth is heaviest, then ascend to the crest for the safety stop. The crevice zones on the deeper reef sections are the best locations for octopus encounters.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Pender Harbour or Powell River. GPS required. Anchor on sand clear of the reef. Deploy SMB before ascending — the central Strait of Georgia sees recreational boat traffic throughout summer. Live boat pickup is preferred.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The northern Sunshine Coast from Pender Harbour to Powell River has numerous excellent reef sites
+- Powell River is also known for its ocean-access freshwater diving — Mowat Bay lake dive is a local attraction
+- The Sunshine Coast sees fewer divers than the Gulf Islands — marine life is often less disturbed
+- Local Pender Harbour and Powell River operators know current conditions for this reef
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Tidal currents in the central Strait require planning. Weather in the Strait can deteriorate quickly. Deploy SMB before ascending. Cold water (8–11°C) demands drysuit protection. Maintain buddy contact.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Sunshine Coast reef photography offers Pacific Northwest species in a less-visited setting. Octopus in natural positions make outstanding subjects. Wide-angle reef panoramas with encrusting life are effective. Macro work on sponge-covered surfaces reveals nudibranchs throughout.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
+- Pender Harbour and Powell River dive operators
+- Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

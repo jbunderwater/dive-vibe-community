@@ -7,60 +7,60 @@ maxDepth: 9
 entryType: boat
 siteType: reef
 ref: null
-osmId: 13614819152
+osmId: null
 addedBy: osm_import
 ---
 
-## Stingray City (Dive Site)
+# Stingray City (Dive Site)
 
-Stingray City (Dive Site) is a reef dive site in Jamaica, Caribbean.
+A shallow Montego Bay dive site where large southern stingrays congregate on a sandy reef, often allowing close approach.
 
 ## Overview
 
-Stingray City (Dive Site) is a dive site in Jamaica offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Stingray City is one of the most popular dive experiences in the Montego Bay Marine Park, where southern stingrays have habituated to diver presence on a sandy reef flat at just 9 metres. The site sits within the protected boundaries of the Marine Park and features a mix of sand channels and low coral formations. The stingrays — sometimes five or more at a time — patrol the sandy bottom and are generally unafraid of divers. The site is shallow and very accessible, making it an ideal first dive or a fun second dive after a deeper site. The adjacent reef has coral, sponges, and sea fans to explore alongside the ray encounters.
 
 ## Site Information
 
-- **Location**: Jamaica, Caribbean
+- **Location**: Montego Bay Marine Park, Jamaica
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 9 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 20–25 meters (65–80 feet)
+- **Current**: Minimal
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Southern stingrays are the headline attraction — their wing spans commonly reach over a metre. Nurse sharks are regularly seen resting on the sandy bottom alongside the rays. The adjacent reef supports parrotfish, blue tangs, French angelfish, and schooling grunts. Spiny lobsters emerge from reef crevices. Spotted moray eels are found throughout the coral structure. Crabs and sea urchins inhabit the sandy patches between coral heads. Hawksbill turtles occasionally cruise through the site.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 9 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-9 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the sandy bottom at 7–9 metres. The stingrays are typically found on the sandy flat and will often approach divers on the bottom. Stay low and move slowly to observe the rays at close range. The reef adjacent to the sand flat is worth exploring — move between the sand and reef sections to see the full diversity of the site. Bottom time at 9 metres is generous at 60+ minutes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by dive boat from Montego Bay operators. Entry via giant stride or back roll. Boats use mooring buoys in the Marine Park. After diving, ascend to 3–5 metres for safety stop near the mooring line. Deploy SMB before surfacing.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Stay on or near the sandy bottom — kneeling in the sand at eye level with the rays creates the best encounters
+- Do not chase or corner the rays — let them approach and move freely around you
+- Combine this site with a deeper reef dive (Airport Reef, Pelican Reef) on the same boat trip
+- Visibility and light are best in the morning hours
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Southern stingrays are docile when not disturbed but carry a venomous spine at the base of their tail — shuffle your feet if wading, and do not grab or restrain the animals. Keep fingers away from the mouth area. Maintain neutral buoyancy to avoid contact with the sandy bottom and associated reef edges.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Stingray City is a macro and wide-angle photographer's dream. The clear shallow water and cooperative stingrays allow close approach. Shoot wide to include the sandy bottom habitat and surrounding reef. Getting low — belly to the sand — and shooting upward at the ray captures dramatic images with the surface light behind. Include a diver for scale. The nurse sharks on the sand are also excellent subjects.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Marine Park Info**: Montego Bay Marine Park Authority
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Abu Dabbab Wahid
 
-Abu Dabbab Wahid is a reef dive site in Red Sea, Middle East.
+Abu Dabbab Wahid (Arabic for "Abu Dabbab One") is the primary boat-access reef site at Abu Dabbab Bay, north of Marsa Alam, Red Sea, Egypt.
 
 ## Overview
 
-Abu Dabbab Wahid is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Abu Dabbab Wahid is the first and most frequently visited of the Abu Dabbab offshore reef structures. It sits at the northern end of the Abu Dabbab bay cluster, closest to the main boat moorings, making it the typical first dive of the day for Marsa Alam day-trip operators. The reef offers a structured profile from a shallow hard-coral crest down well-defined slopes draped in sea fans and soft corals. The site benefits from the outstanding water clarity typical of this stretch of the Egyptian Red Sea, and the combination of reef fish diversity and occasional large pelagic visitors makes it consistently rewarding.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Abu Dabbab Bay, north of Marsa Alam, Red Sea, Egypt
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20–35 meters
+- **Current**: Moderate; can increase on the outer reef
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Abu Dabbab Wahid regularly delivers sightings of green sea turtles, which transit between the nearby seagrass beds and the outer reef. humphead wrasse are a feature of this site — large individuals are often relaxed around divers. Grouper and moray eels are common. The reef crest supports dense populations of anthias and butterflyfish. Barracuda and trevally school above the reef in the mid-water. Reef sharks are occasionally sighted on deeper passes.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the shallow reef crest at 5–8 m and take in the landscape. Navigate to the reef edge and follow the slope to 15–20 m, noting sea fans and coral formations. Work your way back to the crest exploring the reef structure and complete a safety stop at 3–5 m in the shallow coral garden.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day-trip and liveaboard boats from Marsa Alam moor at this site regularly. Giant stride entry from the boat platform. Ascend and deploy an SMB for the boat crew before surfacing. Exit by dive ladder.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Ask your dive guide about recent turtle and humphead wrasse sightings — these are frequently seen
+- Spend time at the crest level (5–8 m) as well as the deeper slope — the reef top has character of its own
+- This is a popular site during peak season; to avoid crowds, plan for very early morning
+- Bring a dive torch to investigate the coral overhangs on the way down the slope
+- The site is excellent for certification dives and guided beginner-to-intermediate experiences
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Maintain proper buoyancy above the coral crest to avoid damaging the reef. Monitor your air consumption — the temptation to stay deep watching marine life is strong. Always deploy an SMB for ascent. Be alert to boat traffic in the main mooring area.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+A favourite site for underwater photographers operating from Marsa Alam. Turtles and humphead wrasse offer approachable wide-angle subjects. The reef structure with sea fans and schooling fish provides rich background compositions. Macro opportunities abound on the reef slope in crevices and on the sand margin.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

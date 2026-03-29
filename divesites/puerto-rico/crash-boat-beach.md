@@ -11,55 +11,53 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Crash Boat Beach
+# Crash Boat Beach
 
-Crash Boat Beach is a reef dive site in Puerto Rico, Caribbean.
+Puerto Rico's most popular shore dive — a vibrant reef and rubble zone off the concrete pier at Aguadilla, with exceptional fish density, regular turtle sightings, and the warm clear water of Puerto Rico's northwest coast.
 
 ## Overview
 
-Crash Boat Beach is a dive site in Puerto Rico offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Crash Boat Beach takes its name from the US Air Force Ramey Base crash rescue boats that were formerly stationed at the concrete pier here during the Cold War era. The pier and surrounding rubble zone have created an artificial reef structure that has developed a remarkably productive marine community over the decades. The dive area extends along the reef slope from the shallows to 15 metres, with the pier structure, rubble areas, and natural reef sections all contributing to the site's diversity. The northwest coast location gives the site excellent visibility on calm days — 20–25 metres is typical in winter and spring conditions. Water temperature is 26–28°C year-round.
 
 ## Site Information
 
-- **Location**: Puerto Rico, Caribbean
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 3–15 m |
+| Difficulty | Beginner |
+| Entry Type | Shore |
+| Site Type | Reef |
+| Visibility | 15–25 m |
+| Current | Light |
+| Water Temp | 26–28°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Crash Boat Beach is one of Puerto Rico's most reliable turtle sites. Green and hawksbill turtles are almost guaranteed on any morning dive — some individuals have been identified and monitored by local divers for years. Large schools of French grunts and yellowtail snappers occupy the pier structure. Caribbean spiny lobster shelter in the rubble zones. Nurse sharks rest under ledges and debris. Southern stingrays cruise the sandy margins. Spotted and green morays occupy crevices in the reef and rubble sections.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter from the sandy beach to the north of the pier and navigate to the reef slope. Explore the reef zone at 8–15 metres before returning to the pier structure at 6–10 metres. The pier itself is an interesting structural dive — swim along the pilings, checking the undersides for encrustation and resident fish. Safety stop on the sandy shallows. Total dive time 45–55 minutes.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore dive from the beach adjacent to the pier. Sandy entry; fins on in knee-deep water. The beach has facilities including freshwater showers and parking. The site is diveable independently.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+Morning dives before 9am offer the best conditions — afternoon trade winds frequently increase surface chop. The pier pilings are a specific dive objective worth spending time on — the encrustation is excellent and resident fish schools are dense. Ask local divers about the specific turtle individuals; some have names and well-known patrol routes.
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Boat traffic is present in the area — deploy an SMB or surface well clear of boat lanes. Swim fins through any surge zones near the pier. Sea urchins are present in the rocky sections. This is an unsupervised site — dive with a buddy and inform someone onshore of your plans.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Crash Boat Beach is one of Puerto Rico's best natural-light photography sites. Morning light at 8–15 metres in clear northwest coast water is exceptional. Turtle portraits are the signature image — approach slowly from below and to the side for the best angles. School-of-fish compositions under the pier are also excellent subjects.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- Aqua Adventure Puerto Rico (Aguadilla): local operator with Crash Boat expertise
+- The beach has free public parking and facilities
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

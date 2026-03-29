@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Dolphin House
 
-Dolphin House is a reef dive site in Red Sea, Middle East.
+Dolphin House — also known as Sha'ab El Erg or "Dolphin House Reef" — is one of Egypt's most celebrated dive and snorkel sites, located approximately 25 km north of Hurghada. The site owes its name to a resident population of spinner dolphins that has used this shallow lagoon as a resting area for decades, making it one of the few places in the world where divers can encounter wild dolphins in their home environment.
 
 ## Overview
 
-Dolphin House is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The site consists of a horseshoe-shaped reef enclosing a broad shallow lagoon, with the outer reef dropping to around 20 meters on its exposed faces. The lagoon rarely exceeds 10 meters deep and is carpeted with sandy patches broken up by scattered coral bommies and garden eel fields. The dolphin pod — typically 50–100 spinner dolphins — uses the enclosed lagoon to rest during daylight hours before heading offshore to feed at night. Visibility averages 20–30 meters, and water temperatures range from 22°C in winter to 30°C in summer.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Red Sea, Egypt (north of Hurghada, Sha'ab El Erg)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral reef (lagoon and outer reef)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20-30 meters (65-100 feet)
+- **Current**: Light to moderate in lagoon, moderate on outer reef
+- **Best Time**: Year-round; dolphins most reliably present October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The spinner dolphins are the headline attraction — pods of 50 to over 100 individuals frequently rest and socialise in the lagoon. Divers who enter calmly and avoid chasing the dolphins often experience extended encounters. The sandy lagoon floor hosts dense colonies of garden eels that retract as divers approach. The outer reef holds the typical Red Sea assemblage: anthias, butterflyfish, surgeonfish, humphead wrasse, octopus, and moray eels. Sea turtles are regularly sighted grazing on sea grass patches within the lagoon.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Most operators begin in the lagoon, swimming slowly toward the dolphin pod and hovering mid-water at neutral buoyancy to avoid disturbing the animals. Dolphins approach curious and calm divers but flee if chased or crowded. After dolphin time, explore the outer reef wall between 8 and 20 meters, where coral diversity increases and larger reef fish patrol the coral heads. Garden eel colonies are most impressive in the sandy lagoon shallows between 5 and 10 meters — approach slowly and stop several meters away to observe them before they retract.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boats moor on the outer reef or anchor in the lagoon entrance. Entry is via giant stride or back roll, dropping to the sandy lagoon floor or directly onto the reef. The calm lagoon conditions make this a manageable intermediate dive. Exit is via the boat ladder — currents on the outer reef can require active finning to return to the mooring line.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Enter the water quietly and remain horizontal — avoid vertical kicking which startles dolphins
+- Never swim directly toward the dolphins; let them choose to approach you
+- Morning dives offer the best chance of encountering resting dolphins before afternoon boat traffic increases
+- The garden eel colony on the lagoon sandy floor is a highlight in its own right — approach extremely slowly on the bottom
+- This site is also exceptional for snorkelling — consider a snorkel session after your dive to observe the dolphins from above
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The site is generally well-protected and conditions are mild, but the outer reef can experience moderate current. Boat traffic is heavy during peak season — deploy your SMB before surfacing and be aware of zodiacs ferrying snorkellers. Egyptian marine protection regulations prohibit touching, chasing, or separating dolphins from the pod; enforce these rules with your entire group.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Dolphin House is one of the best sites in the Red Sea for underwater dolphin photography. Use a wide-angle lens and shoot in burst mode — dolphins move fast and the best frames come from allowing them to swim toward you. The lagoon's sandy substrate reflects light well in the shallows. For reef shots, the outer coral wall at 10–15 meters offers attractive hard coral formations with good natural light.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

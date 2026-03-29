@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Elba Reef, West-Plateau
 
-Elba Reef, West-Plateau is a reef dive site in Sudan Red Sea, Middle East.
+Elba Reef's West Plateau is the third of the four distinct dive zones on Elba Reef, presenting deep wall diving on the reef's western flank at Sudan's northern frontier. Like the other Elba Reef sites, it sees almost no regular diving traffic due to the remote location in the disputed Halaib Triangle, resulting in pristine coral and undisturbed marine life.
 
 ## Overview
 
-Elba Reef, West-Plateau is a dive site in Sudan Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The West Plateau faces into the prevailing Red Sea currents from the northwest, making it the most current-influenced of Elba Reef's dive sites. This current exposure drives exceptional marine productivity — nutrient-rich water feeds dense fish populations and attracts the large pelagics that follow them. The wall descends steeply to 32 metres at the recreational limit, with sea fans and hard corals covering the face throughout. Compared to the North Plateau's dramatic depth, the West Plateau offers a more accessible advanced dive that still delivers the outstanding coral coverage and shark encounters characteristic of this remote atoll. Divers visiting Elba Reef typically dive all four plateau sites over two days to experience the full character of the reef.
 
 ## Site Information
 
-- **Location**: Sudan Red Sea, Middle East
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Location**: Elba Reef western face, Egypt-Sudan border (Halaib Triangle)
+- **Entry Type**: Boat dive (liveaboard)
+- **Site Type**: Wall dive / plateau
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 32 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Typical Visibility**: 25-40+ meters (80-130+ feet)
 - **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Best Time**: March to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The west-facing exposure means strong, consistent currents that attract significant aggregations of schooling fish. Large schools of jacks, fusiliers, and surgeonfish are almost always present at current-exposed reef points. Grey reef sharks patrol the wall edge regularly. The hard coral coverage on the plateau and upper wall is intact and highly developed — table corals, brain corals, and branching staghorns grow in healthy formations. Sea fans and soft corals line the deeper wall sections from 20-32 metres. Napoleon wrasse are resident and approachable, along with large groupers and moray eels in crevices throughout.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter upstream and drift along the west wall face, descending to 20-25 metres for the optimal balance of current, fish activity, and coral exploration. More experienced divers can explore to 32 metres on the deeper wall sections. The plateau surface above 20 metres offers easier navigation with good hard coral coverage. Complete the drift to a natural reef exit point, then ascend for the safety stop. The dive guide will plan entry and exit points based on current direction.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by liveaboard dive boat. Current-assisted drift dives require close coordination between the dive guide and the surface crew. Entry point is upstream of the main plateau; exit and SMB signalling are downstream. The remote location requires high-visibility SMBs for reliable surface tracking.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Assess current strength at depth before committing to the deeper sections
+- The west face tends to have the strongest currents of the Elba Reef system — build up with the shallower south plateau first
+- Hard coral formations on the upper plateau reward careful, slow exploration between drift sections
+- Bring a dive torch for examining the underside of table corals and crevices
+- Underwater camera wide-angle setup works well for the reef wall and schooling fish
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Strong currents require continuous buoyancy awareness throughout the dive. The deep wall drops below recreational limits — do not chase marine life deeper than your planned maximum. Fire coral on the wall surface and table coral edges requires good buoyancy control. The remote location means emergency support is limited; dive conservatively and within your proven experience range. Always carry an SMB and deploy before ascending.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The west wall with its current-exposed schooling fish provides excellent wide-angle action shots. The hard coral plateau top photographs well in natural light as a reef landscape. Deeper sea fans at 25-30 metres are strong subjects against the blue water background.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

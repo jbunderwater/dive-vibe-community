@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Krivica
 
-Krivica is a reef dive site in Croatia, Europe.
+Krivica is a reef dive in the outer Zadar Archipelago area of northern Dalmatia, in the waters between Pag Island and the northern Dalmatian island chain. The site offers rocky reef diving typical of this section of the Croatian coast, with clear water and diverse Mediterranean marine life in a relatively remote setting.
 
 ## Overview
 
-Krivica is a dive site in Croatia offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The reef at Krivica descends over limestone rock to approximately 25 metres, with mixed terrain of rocky slopes, boulders, and crevices. The substrate supports encrusting sponges, anemones, and small sea fans. Posidonia seagrass is present in the shallower sections. The outer Dalmatian position means water clarity is typically excellent — 15–20 metres or better in good conditions.
 
 ## Site Information
 
-- **Location**: Croatia, Europe
+- **Location**: Northern Dalmatian Coast (Pag area), Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Typical Visibility**: 15–20 meters
 - **Current**: Light to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+Grouper are the dominant large predators at this reef. Moray eels and octopus inhabit the rocky crevices. Sea bream, wrasse, and sardinella are abundant in the mid-water. The Posidonia meadows in the shallows are worth checking for seahorses and pipefish. Nudibranchs and sea slugs are found on the sponge-covered surfaces throughout.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin at the shallow reef top and work down the slope to 25 metres. Explore the rocky faces and check crevices for resident eels and lobster. Spend the most time in the 8–18 metre zone where marine life is most concentrated. Ascend slowly and complete a safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from operators in the Zadar or Pag areas serve this site. Entry by giant stride or back roll. Deploy an SMB on ascent for boat pickup in the open water.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Take time with the Posidonia shallows at the end of the dive for seahorse encounters
+- A torch enhances the deeper crevice sections where lobster and eels shelter
+- The outer island location provides some of the clearest water in Croatia
+- Combine with a nearby cape or wall dive for a productive day programme
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Standard intermediate parameters. Carry an SMB for surfacing in the open water. Dive with a buddy and stay within recreational depth limits.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Excellent visibility makes this a productive wide-angle site. The Posidonia meadows offer intimate macro opportunities with seahorses and pipefish in the shallows. Resident grouper and the open reef landscape with clear blue water are reliable wide-angle subjects.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

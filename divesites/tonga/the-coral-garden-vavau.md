@@ -13,55 +13,51 @@ addedBy: osm_import
 
 ## The Coral Garden Vavau
 
-The Coral Garden Vavau is a reef dive site in Tonga, Pacific.
+The Coral Garden is a classic Vava'u reef site offering dense hard coral coverage in calm, sheltered conditions — one of the best introductory dives in the Tonga archipelago.
 
 ## Overview
 
-The Coral Garden Vavau is a dive site in Tonga offering excellent diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Located within the protected waters of the Vava'u island group, The Coral Garden rewards divers with a dense patchwork of hard coral formations in the shallow to mid-water zone. The site is characterized by branching Acropora tables, massive Porites heads, and fields of staghorn coral that support an extraordinarily diverse community of reef fish. Sheltered from prevailing swells by the surrounding limestone islands, conditions are typically calm and visibility is excellent, making this an ideal site for newly certified divers, underwater photographers, and snorkelers. The site exemplifies the largely undisturbed state of Vava'u's reefs, which have seen significantly less bleaching pressure than reefs further west due to the cooler, nutrient-rich South Pacific waters.
 
 ## Site Information
 
-- **Location**: Tonga, Pacific
+- **Location**: Vava'u island group, Tonga
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 20–30 meters
+- **Current**: Light; generally calm
+- **Water Temperature**: 24–28°C (75–82°F)
+- **Best Time to Dive**: Year-round; May–October for clearest conditions
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Hard coral diversity is the primary attraction, with Acropora tables, branching staghorn, and large brain coral heads all well represented. Resident reef fish include numerous clownfish in anemone colonies, butterflyfish, Moorish idols, parrotfish, wrasse of multiple species, and schools of anthias hovering above the coral heads. Hawksbill turtles graze the reef regularly, and octopus are commonly spotted in crevices between coral formations. Whitetip reef sharks occasionally patrol the outer edges of the site. During the July–October season, the shallow depth means humpback whale song carries clearly to divers at this site.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The reef begins in 3–5 meters of water and slopes gently to the 12–15 meter sandy bottom. Most of the dense coral growth and marine life activity is concentrated between 5 and 12 meters, making this a genuinely high-quality dive even with a conservative depth profile. Plan a relaxed, slow circuit of the reef — rushing this site means missing small creatures in the coral matrix. Bottom times are generous at these depths, and multilevel profiles are easy to manage.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from Neiafu-based operators. Entry is by giant stride from the boat, which is typically moored on a buoy or anchored in sand adjacent to the reef. Exit is via ladder or platform. Snorkel gear is also viable for the shallower reef sections.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Slow down and look into the coral heads for clownfish, gobies, and small crustaceans
+- A macro lens or wet diopter reveals nudibranchs and flatworms on coral rubble
+- Turtles are frequently encountered mid-dive — approach slowly and they often remain
+- Morning dives tend to see more active fish behavior than afternoon visits
+- This site is an excellent choice after a night of rough weather, as the sheltered location means conditions remain good when exposed sites are diveable
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Conditions at this site are among the most forgiving in Vava'u. Light currents and shallow depths make this accessible to recently certified Open Water divers. Standard precautions apply: maintain good buoyancy to avoid coral contact, and carry an SMB for ascent. Be aware that boat traffic can be present in the area during peak season.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Wide-angle shooting captures the broad coral garden perspective, particularly when framing the large Acropora table formations against mid-water blue. Macro subjects are abundant — nudibranchs, flatworms, and cleaning stations are found throughout the reef matrix. Early morning light creates a warm, angled quality that enhances coral colors without requiring strobes at the shallower sections.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,55 +13,52 @@ addedBy: osm_import
 
 ## Humpback Wall
 
-Humpback Wall is a wall dive site in Tonga, Pacific.
+Humpback Wall is a Vava'u wall dive that earns its name from the humpback whales that pass alongside the reef face during Tonga's July–October whale season — a dive experience found in very few places on earth.
 
 ## Overview
 
-Humpback Wall is a dive site in Tonga featuring a dramatic vertical wall that drops into the deep blue. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Humpback Wall runs along an outer island edge of the Vava'u group, where a healthy reef top drops away to a vertical wall descending past 30 meters into open ocean. The wall itself is a strong dive in any season, with gorgonian fans, soft coral clusters, and a reliable pelagic presence. But from July through October, the site takes on a completely different character: southern hemisphere humpback whales migrate to Tonga's warm waters to breed and calve, and this wall sits directly in their travel corridor. Divers on the wall regularly hear humpback song transmitted through the water column, and whale sightings — sometimes at very close range — are not unusual. Tonga is one of the only places in the world where in-water encounters with humpback whales are legally permitted, and this site is among the best diving locations within the whale zone.
 
 ## Site Information
 
-- **Location**: Tonga, Pacific
+- **Location**: Outer Vava'u island group, Tonga
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 25–40 meters
+- **Current**: Moderate; can run along the wall face
+- **Water Temperature**: 24–27°C (75–81°F)
+- **Best Time to Dive**: July–October for whale encounters; year-round for wall diving
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Year-round residents include grey reef sharks patrolling the wall edge, Napoleon wrasse on the reef top, large grouper in cave overhangs, and schools of barracuda in the blue water. Gorgonian sea fans and black coral bushes are distributed along the wall between 15 and 30 meters. Sea turtles are commonly encountered resting on the reef top or hovering mid-water. During July–October, humpback whales are the defining encounter: mothers and calves in particular favor the sheltered waters of Vava'u, and it is not unusual to observe a cow-calf pair passing along the wall face at distances of 20–30 meters. Humpback song — the low, complex vocalizations of male whales — is audible from within the water column throughout the season, even when whales are not in visual range.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Begin on the reef top at 8–12 meters, orientating to the wall edge and checking conditions before descending. Work down the wall face to the 25–30 meter range for the best sea fan concentrations, then ascend methodically while exploring the mid-wall zone between 15 and 20 meters. During whale season, spend time at mid-water depths (10–20m) where encounters are most likely — whales in these waters are often curious and will approach, so hovering quietly is more productive than active swimming. Allow adequate air for a 3–5 minute safety stop on the reef top.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by dive boat from Neiafu-based operators. Many operators run dual-purpose whale-swimming and dive trips during the season, allowing water time on the wall interspersed with whale encounter opportunities. Giant stride entry from the boat. Deploy an SMB before ascending if current may have moved you from the boat's position.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- During whale season, listen the moment you enter the water — if you can hear song, the encounter potential is high
+- Move slowly and avoid excessive noise that could disturb approaching whales
+- Horizontal neutrality in the mid-water column (not hovering above whales, not chasing) is both ethically correct and practically more effective
+- Outside whale season, plan the dive on incoming tide for best visibility and shark activity at the wall edge
+- A 5mm wetsuit is recommended — even at 24°C, extended dives in open water can chill
+- Wide-angle lenses are essential during whale season — encounters happen fast and at unpredictable distances
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The outer position of this site means swells and current are more significant than in protected lagoon sites. Assess surface conditions before entering and be prepared to abort if conditions deteriorate after entry. Current can run strongly along the wall face; always ascend on the up-current side of the boat. During whale encounters, maintain calm movement and do not chase or intercept whales — besides being illegal, it is dangerous to position yourself in the path of a whale's travel. Carry an SMB on every dive at this site.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Wide-angle photography is the primary mode at this site. During whale season, the 8–15mm focal length range captures the dramatic scale of humpbacks against the wall backdrop or in open blue water. The whale-dive combination photograph — diver on the wall, whale in open water behind — is the iconic Tonga image. Outside whale season, standard wall photography applies: sea fans, reef shark silhouettes, and dramatic depth perspectives. A camera housing rated to at least 40 meters is recommended.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

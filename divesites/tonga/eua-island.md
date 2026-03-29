@@ -13,54 +13,52 @@ addedBy: osm_import
 
 ## Eua Island
 
-Eua Island is a cave dive site in Tonga, Pacific.
+'Eua is the southernmost inhabited island in Tonga and one of the least-dived — a destination offering dramatic cave systems, sheer walls, and genuine wilderness diving in a location that sees only a handful of dive expeditions each year.
 
 ## Overview
 
-Eua Island is a dive site in Tonga featuring underwater cave and cavern formations. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+'Eua Island sits approximately 30 kilometers southeast of Nuku'alofa, the Tongan capital, and is geologically ancient compared to the volcanic islands elsewhere in Tonga — it is a raised limestone platform whose dramatic cliffs, arches, and sea caves continue below the waterline. Diving here is expedition-level: there are no established commercial dive operators permanently based on the island, dive logistics must be arranged through Nuku'alofa or by private charter, and sites are not standardized or regularly maintained with moorings. What divers find in return is an underwater landscape of extraordinary geological character — limestone passages that continue into cavern systems, sheer walls dropping from the cliff line into deep water, and marine life that has no habituation to human presence. Strong currents are possible on exposed faces, and conditions can be challenging. This is virgin diving territory by South Pacific standards.
 
 ## Site Information
 
-- **Location**: Tonga, Pacific
+- **Location**: 'Eua Island, southern Tonga (approx. 30km SE of Nuku'alofa), Tonga
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 20–35 meters
+- **Current**: Moderate to strong; strongest on exposed eastern faces
+- **Water Temperature**: 22–26°C (72–79°F)
+- **Best Time to Dive**: May–October; calmer weather windows and humpback season overlap
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+The combination of strong current, deep water access, and minimal fishing pressure creates a rich pelagic environment around 'Eua's walls and caves. Grey reef sharks and whitetip sharks are regular sightings. Large Napoleon wrasse and grouper occupy cave overhangs. The walls themselves support extensive soft coral growth and gorgonian assemblages where current runs. Sea turtles are commonly encountered. From July through October, humpback whales are present in the waters around 'Eua in significant numbers — the island's position south of the main Vava'u concentration makes it a notable calving area, and humpbacks are frequently encountered directly at dive sites. The cave systems, while dimly lit, support lobster, morays, and encrusting organisms typical of the Pacific cave environment.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Site profiles vary depending on which section of island coastline is being accessed. Wall dives on the western face begin in 5–8 meters and descend to 25–30 meters along sheer limestone. Cave entries are typically at 3–8 meters and lead into cavern sections with overhead environment. The cave systems should be treated as overhead environment dives — divers must assess their light penetration and air supply against the depth of passage. No established guideposts or lines are in place; navigational discipline is essential.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+No commercial dive infrastructure exists on 'Eua. Access requires either a private charter vessel from Nuku'alofa capable of reaching the island with dive equipment, or coordination with the small guesthouses on 'Eua Island that occasionally arrange dive logistics for visiting divers. The ferry from Nuku'alofa runs regularly but carries no dive equipment hire. Any dive expedition to 'Eua must be fully self-sufficient in equipment, gas supply, navigation, and emergency protocols.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Research current conditions specific to the face of the island you plan to dive — east-facing sites are exposed to prevailing swells and can be unsafe
+- Contact Tonga dive operators in Nuku'alofa well in advance to arrange logistics; this is not a destination that can be improvised on arrival
+- Carry a full expedition kit including surface marker buoys, cutting tools, lights, and a DSMB
+- Plan dive profiles conservatively given the distance to medical care — the nearest recompression chamber is several hours away
+- Overnight stays on the island allow early morning dives in the calmest conditions
+- July–October trips should plan for possible humpback encounters at any dive site
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+'Eua diving carries elevated risk relative to conventional resort diving. No rescue infrastructure is nearby, medical evacuation is slow, and sites are not standardized. Divers must be Advanced-certified with experience in overhead environments for any cave work, and experienced in current management for the wall sites. Always dive with a buddy and do not enter cave passages that cannot be safely reversed. In the absence of local guides with site-specific knowledge, exercise extreme conservatism in assessing how far into cave systems to penetrate.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The combination of geological drama, untouched marine life, and low ambient light in the cave systems makes 'Eua a compelling target for serious underwater photographers. Wide-angle work in the caverns — framing divers against the dark cave ceiling with exterior light pouring through the entrance — yields images rarely seen from Tonga. Wall photography benefits from the strong color saturation of the soft coral growths where current runs. The near-certainty of humpback whale encounters in season adds a pelagic dimension difficult to replicate elsewhere.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

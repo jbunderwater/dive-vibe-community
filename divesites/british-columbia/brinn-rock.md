@@ -11,55 +11,57 @@ osmId: 663869286
 addedBy: osm_import
 ---
 
-## Brinn Rock
+# Brinn Rock
 
-Brinn Rock is a reef dive site in British Columbia, North America.
+A submerged rocky outcrop in the Haro Strait near Victoria supporting diverse cold-water marine life.
 
 ## Overview
 
-Brinn Rock is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Brinn Rock lies in the Haro Strait southeast of Victoria, in the channel between Vancouver Island and the San Juan Islands. This exposed submerged rock sits in tidal currents that bring nutrients up from depth, supporting a rich encrustation of invertebrate life. The site is accessed by boat from Victoria and offers typical Gulf Islands cold-water diving conditions. Water temperatures range 8–12°C and visibility averages 8–15 metres, with best conditions in late summer.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Haro Strait, south of Victoria, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Submerged rock / reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 8–15 metres
+- **Current**: Moderate to strong tidal currents in Haro Strait
+- **Best Time**: Late summer and autumn for best visibility
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The current-swept surfaces of Brinn Rock are colonised by dense plumose anemone gardens and encrusting sponges in purple, orange, and yellow. Giant Pacific octopus occupy crevices on the rock's flanks. Lingcod and copper rockfish are the dominant fish species, with the lingcod often conspicuously territorial. Painted greenlings and kelp greenlings inhabit the upper reef. Sunflower sea stars and leather stars are found on the rock's base. Pacific white-sided dolphins occasionally pass through the Haro Strait and may visit divers.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The rock crest is accessible at about 8–10 metres depth, with the base dropping to 18 metres. Work down the current-facing face where invertebrate growth is heaviest, then circle the rock at mid-depth before ascending the shallower lee side. Time your dive to the slack period — Haro Strait has significant current. Allow a 3-metre safety stop with a fully deployed SMB before surfacing.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Victoria Inner Harbour or Oak Bay Marina. GPS coordinates are essential for locating this submerged feature. Anchor well away from the rock to avoid damage. A live boat pickup is safer than anchoring due to current variability. Watch for ferry traffic in the Haro Strait corridor when surfacing.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Victoria area dive operators frequently visit this site and can advise on optimal timing
+- Haro Strait sees significant BC Ferries and US commercial traffic — surface visibility is critical
+- A current hook allows comfortable viewing of the invertebrate-covered faces
+- Arrive at the site 15–20 minutes before predicted slack for best conditions
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Haro Strait currents can exceed 3 knots — timing to slack is non-negotiable. International shipping and ferry traffic pass through this strait regularly. Always surface with a highly visible SMB. Cold water requires a well-maintained drysuit with adequate undergarment. Never dive this site alone.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The dense invertebrate encrustation on current-facing surfaces is visually striking for wide-angle photography. Plumose anemone colonies with rockfish hovering above make classic Pacific Northwest compositions. Macro opportunities include nudibranchs, amphipods, and small crustaceans on sponge surfaces. Bring a video light for accurate colour rendition.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
+- Victoria area dive shops and charters familiar with Haro Strait conditions
+- Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

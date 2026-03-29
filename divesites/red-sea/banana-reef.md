@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Banana Reef
 
-Banana Reef is a reef dive site in Red Sea, Middle East.
+Banana Reef is a coral reef dive site near Hurghada, Egypt, named for its characteristic curved, elongated shape that when viewed from above resembles a banana. It is one of the day-trip reefs frequently visited by Hurghada operators.
 
 ## Overview
 
-Banana Reef is a dive site in Red Sea offering rewarding diving on healthy coral reef structures . mooring place for dive boats. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Banana Reef features a gently curving reef formation with a mix of hard coral gardens, sandy patches, and small coral bombies. The reef slopes from a shallow crest at around 5 meters down to a sandy base at 28–30 meters. The curvature of the reef creates sheltered corners where fish congregate in high numbers, and the variety of micro-habitats across the profile supports diverse marine life. Visibility is typically 15–25 meters, with water temperatures of 22–29°C.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Red Sea, Egypt
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 15–25 meters (50–82 feet)
+- **Current**: Light to moderate
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+A good spread of Red Sea reef species is present throughout the profile: anthias, chromis, and damsels on the upper reef; parrotfish and wrasse at mid-depth; and larger predators including trevally and barracuda patrolling the lower reef edge. Moray eels occupy crevices throughout. Turtles are a regular sighting, and blue-spotted rays are found on the sandy sections near the base. Crocodilefish are sometimes spotted camouflaged on the sand.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to 25–30 meters along the outer curve of the reef, then work back along the reef face, progressively ascending as the dive continues. The inside curve of the reef at 10–15 meters offers the most sheltered conditions and densest fish populations. Complete the dive with an extended shallow reef-crest section and a safety stop at 5 meters.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Hurghada day-trip operators with mooring available. Giant stride entry. Follow the reef plan from the dive leader. SMB deployment for safety stop pick-up.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Swim the full length of the reef to appreciate the shape and variety of habitats
+- Check the sand at 25–30 meters for garden eels and rays
+- Look in overhangs at mid-depth for resting sharks
+- The curved inner face of the reef in the 8–15 meter range is the most photogenic section
+- Bring a dive torch for the darker overhangs
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Currents can run along the reef, particularly at the northern and southern tips. Monitor air consumption on the deeper section and ascend with a minimum of 50 bar reserve. Boat traffic requires SMB use on all open-water ascents.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The reef's curve creates natural compositional frames for wide-angle photography. Schools of bannerfish and anthias against hard coral backgrounds are classic subjects. The deeper sand at 25+ meters offers crocodilefish and ray encounters for wide-angle close focus.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

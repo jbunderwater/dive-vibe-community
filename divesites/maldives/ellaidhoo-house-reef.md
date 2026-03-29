@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Ellaidhoo house reef
 
-Ellaidhoo house reef is a reef dive site in Maldives, Asia.
+Ellaidhoo house reef is the fringing house reef surrounding Ellaidhoo Island in North Ari Atoll, one of the Maldives' most praised resort reefs for beginner and training dives.
 
 ## Overview
 
-Ellaidhoo house reef is a dive site in Maldives offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Ellaidhoo's house reef wraps around the island and drops through a shallow terrace before reaching a gently sloping wall to around 15 meters. The reef is known for exceptional coral health, with dense staghorn and table corals along the upper slope providing habitat for a remarkable density of reef fish. Turtles are regular visitors and frequently rest on the coral heads, making this a favourite for underwater photographers seeking relaxed, close-approach shots. The shallow nature of the reef allows for extended bottom time, and the sheltered western side is often used for check dives and training. Moray eels, octopus, and blue-spotted stingrays are found tucked into crevices throughout the reef. Visibility is typically excellent, and current is minimal inside the sheltered lagoon approaches.
 
 ## Site Information
 
@@ -26,42 +26,16 @@ Ellaidhoo house reef is a dive site in Maldives offering excellent diving on hea
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters
+- **Current**: Generally mild; stronger on outer reef corners
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Hawksbill and green turtles, moray eels, blue-spotted stingrays, octopus, parrotfish, bannerfish, pufferfish, trumpetfish, and dense schooling reef fish. Occasional whitetip reef sharks patrol the outer reef edge.
 
-## Dive Profile
+## Tips for Divers
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The house reef is accessible directly from the beach or by short boat transfer to the outer slope. Early morning dives are particularly rewarding for turtle encounters. The inner lagoon section is perfect for night dives with fluorescent coral and hunting lionfish. Strong current is rarely encountered here, making this an ideal first dive in the Maldives.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

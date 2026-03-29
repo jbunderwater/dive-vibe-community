@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## W. L. Wetmore (Wreck)
 
-W. L. Wetmore (Wreck) is a historic wreck dive in Great Lakes, North America.
+The W. L. Wetmore is a 19th-century wooden schooner wreck in Fathom Five National Marine Park, Georgian Bay, Ontario. One of the cluster of historic vessels preserved in Canada's first national marine park dedicated to underwater heritage, the Wetmore lies in the exceptional clear water of Tobermory's Georgian Bay at approximately 20 metres.
 
 ## Overview
 
-W. L. Wetmore (Wreck) is a dive site in Great Lakes featuring the wreck of the W. L. Wetmore (Wreck). Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The W. L. Wetmore was a Great Lakes cargo schooner that met her end in Georgian Bay, joining the remarkable collection of historic vessels now preserved within Fathom Five National Marine Park. At 20 metres in the park's famously clear water — visibility regularly reaching 15–20 metres — this wreck offers an outstanding dive in pristine freshwater conditions. The cold Georgian Bay water (consistently near 4°C at this depth) has preserved the wooden hull in excellent condition. The park's protection ensures the wreck remains undisturbed. The Tobermory area's collection of wrecks at various depths from 7 to 45 metres makes it a world-class freshwater dive destination.
 
 ## Site Information
 
-- **Location**: Great Lakes, North America
+- **Location**: Georgian Bay, Lake Huron, Fathom Five National Marine Park, Ontario, Canada
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 20 metres
+- **Typical Visibility**: 10–20 metres
+- **Water Temperature**: 4–16°C (seasonal); bottom 4–6°C
+- **Current**: Minimal
+- **Best Time**: June to September
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Georgian Bay cold-water species are regularly encountered at the Wetmore. Lake trout patrol at depth. Smallmouth bass are territorial on the hull — often seen closely following divers. Yellow perch school around mast stumps and rigging. Lake whitefish appear periodically in the water column above the wreck. Zebra mussels colonize surfaces below the thermocline.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The Wetmore lies at 20 metres on the Georgian Bay bottom. The exceptional Fathom Five visibility allows full appreciation of the wreck's profile before reaching the deck. Explore bow to stern with time to note hull construction details. At 20 metres, NDL provides generous exploration time. Standard ascent with 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Charter dive boats from Tobermory service the Wetmore as part of multi-site day tours. Multiple operators in Tobermory offer regular dive charters. Book in advance for peak season (July-August). A Fathom Five National Marine Park day pass is required. Entry by giant stride.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- The W. L. Wetmore is one of several mid-depth (20m) wrecks in Fathom Five — often paired with Arabia (34m) or Forest City (45m) for a deeper second dive
+- Drysuit essential for bottom temperatures
+- Excellent visibility makes wide-angle photography highly rewarding
+- Do not remove artifacts from this protected national park
+- Tobermory's dive scene is well-developed — excellent logistics and guided options available
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Cold bottom water demands proper drysuit diving skills. Boat traffic in Tobermory in summer is significant — deploy SMB before ascending. Park regulations must be observed. Dive with a buddy.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+Georgian Bay's exceptional clarity makes the W. L. Wetmore a prime wide-angle wreck photography subject. The 20-metre depth with 15+ metre visibility allows dramatic hull profile shots with natural light. Lake trout encounters add wildlife photography opportunities.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

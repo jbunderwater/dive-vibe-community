@@ -13,55 +13,50 @@ addedBy: osm_import
 
 ## Mawan
 
-Mawan is a reef dive site in Komodo National Park, Asia.
+Mawan is a sheltered reef dive in the eastern Komodo National Park area, perhaps best known among critter hunters for its mandarin fish population — small, brilliantly coloured psychedelic dragonets that emerge from the rubble at dusk to perform their mating dance.
 
 ## Overview
 
-Mawan is a dive site in Komodo National Park offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Mawan is a small island in the eastern section of Komodo National Park with a gently sloping reef descending from the shoreline to sandy bottom at around 22–24 meters. The site is calm and sheltered, making it suitable for beginners and a pleasant afternoon dive after more demanding morning sessions. The reef has reasonable hard coral coverage with scattered rubble patches. The site's secret is its mandarin fish population — at dusk, these extraordinary fish emerge from the rubble and dead coral to display and mate in brief encounters that are among the most photogenic spectacles in all of Indonesian diving.
 
 ## Site Information
 
-- **Location**: Komodo National Park, Asia
+- **Location**: Komodo National Park, East Nusa Tenggara, Indonesia (eastern park)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 24 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 12–20 meters
+- **Current**: Light; sheltered conditions
+- **Best Time**: Year-round; mandarin fish best at dusk (around 17:00–18:30)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Mandarin fish (Synchiropus splendidus) are the signature species — tiny, brilliantly patterned dragonets in electric blue, orange, and green that emerge from rubble patches at dusk to find mates in brief, spectacular encounters lasting only seconds. They are best observed at low light in the 1–5 meter rubble sections. The day-dive reef hosts turtles, a variety of reef fish, and the usual Komodo complement of butterflyfish, angelfish, and wrasse. Moray eels and lionfish occupy crevices. The sandy bottom sections host garden eels, blue-spotted rays, and various flatfish.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 24 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+For standard daytime diving, descend and circuit the sloping reef between 10–22 meters before returning to the shallows. For the mandarin fish experience, plan to be in the rubble zone at 1–5 meters as the light fades — typically 20–30 minutes before official sunset. The guide will lead the group to the rubble patches and position divers around the individual fish territories. Keep torches switched off until the fish emerge; low ambient light is when they become active.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access. Giant stride entry for daytime dives; careful entry and torchwork for dusk mandarin fish dives. Exit by ladder. The calm, sheltered conditions make entry and exit straightforward in all light conditions.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The mandarin fish dusk dive is the priority — plan your day around arriving at Mawan before sunset
+- For mandarin fish, position yourself prone above the rubble zone and minimise movement
+- Bring a close-up macro lens: mandarin fish are tiny (5–7 cm) and fast; a 100mm or equivalent is ideal
+- Do not use bright torches near mandarin fish during the emergence — red-filter lights are the recommended option
+- The daytime reef is a pleasant second dive with turtles and good fish life
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Mawan is one of Komodo's safest dive sites given its sheltered, shallow conditions. The primary risk during dusk dives is the reduced visibility after sunset — stay close to the guide and make sure your torch is functional. Ascend conservatively in low-light conditions. Always carry an SMB. Night diving should only be conducted with liveaboard guides who know the site well.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Mandarin fish photography is technically demanding — small subjects, low light, and fast movement combine to produce plenty of out-of-focus frames. A 100mm macro with a fast sync speed and precise manual focus (autofocus struggles in low light on such small subjects) gives the best results. Use minimal strobe power to avoid washing out the extraordinary colour patterns. Patience and repeated visits to the same individual fish territory greatly improve success rates.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

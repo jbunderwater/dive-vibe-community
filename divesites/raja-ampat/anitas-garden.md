@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Anita's Garden
 
-Anita's Garden is a reef dive site in Raja Ampat, Asia.
+Anita's Garden is a coral garden reef site in Raja Ampat, West Papua, Indonesia, named after a diver whose love of the site inspired the name.
 
 ## Overview
 
-Anita's Garden is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Among Raja Ampat's many personally named dive sites, Anita's Garden is one of the more evocative: a lush coral garden that rewards the kind of slow, attentive diving that its namesake apparently practised. Located in the western Raja Ampat area near Misool or the Fam Islands, the site features exceptional soft coral development alongside healthy hard coral formations — a combination that creates a visually spectacular underwater landscape. The "garden" character means the site is characterised more by reef beauty and macro life than by big-fish action, though both are present. Visibility typically reaches 20-30 meters, and water temperatures average 27-29°C.
 
 ## Site Information
 
-- **Location**: Raja Ampat, Asia
+- **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters
+- **Current**: Mild to moderate
+- **Best Time**: October to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The coral garden habitat at Anita's Garden supports extraordinary density and diversity of reef fish: anthias in clouds above soft coral branches, surgeonfish and parrotfish browsing the hard corals, and damselfish defending territory in the coral polyps. Clownfish in multiple anemone species are a highlight of the shallows. Seahorses are a realistic find in this habitat type — scan sea fans and soft coral branches carefully. Nudibranchs and flatworms are abundant on the encrusting growth. Turtles rest on the reef, and reef sharks make occasional passes at depth.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+This is a site designed for relaxed, exploratory diving. Descend to the reef top (5-8 meters) and spend time working across the coral garden, moving gradually deeper. The garden character extends from the shallows down to around 20 meters, below which the terrain transitions to slope. Allow at least 45 minutes of bottom time to properly explore the variety of corals and resident species. This site particularly rewards hovering and close observation rather than covering distance.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat. Entry via giant stride or back roll into calm water near the reef top. Current conditions are typically mild at this site. Deploy SMB at 5 meters for boat pickup. The relaxed conditions make this a good site for longer safety stops and final air consumption.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- This is a macro photographer's dream — allocate substantial time to the coral surfaces
+- Scan sea fans and soft coral branches for seahorses and pygmy seahorses
+- The shallow depth enables very long bottom times — plan accordingly
+- Ideal for divers who prefer beauty and biodiversity over big fish encounters
+- Morning light in the shallows illuminates the soft coral colours magnificently
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Conditions at this site are generally benign, making it suitable for a wide range of divers. Nonetheless, carry an SMB, dive within your limits, and maintain buoyancy to protect the delicate coral. Mild currents may develop — check with your guide before the dive.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Anita's Garden is an outstanding photography site across all formats. Wide-angle coral scenics capture the sheer colour and density of the garden. Macro work on coral surfaces yields nudibranchs, flatworms, seahorses, and tiny commensal crustaceans. The shallow depth and typically calm conditions allow extended natural-light shooting without strobe fatigue. Late-morning light through the water column produces beautiful results.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

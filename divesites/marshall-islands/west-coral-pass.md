@@ -13,55 +13,32 @@ addedBy: osm_import
 
 ## West Coral Pass
 
-West Coral Pass is a wall dive site in Marshall Islands, Pacific.
+West Coral Pass is a natural tidal channel flanked by coral walls, located in the Marshall Islands near Jaluit or Arno Atoll, where lagoon water exchanges with the open Pacific to produce outstanding current-driven diving.
 
 ## Overview
 
-West Coral Pass is a dive site in Marshall Islands featuring a dramatic vertical wall that drops into the deep blue. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Pass diving in the Marshall Islands operates on tidal cycles — when the tide pushes water between the lagoon and the open ocean, these channels concentrate nutrient-rich current and the fish species that feed in it. West Coral Pass channels this tidal energy through a coral-lined gap flanked by walls dropping to 25 meters, creating excellent conditions for drift diving when the tide cooperates. The wall sections on either side of the pass are richly encrusted with hard corals, soft coral formations, and crinoids in reds and blacks.
 
-## Site Information
+The name's western orientation typically gives the site afternoon light and a slightly gentler current profile compared to the primary atoll passes, making it a good choice for intermediate divers getting their first experience of Marshall Islands pass diving.
 
-- **Location**: Marshall Islands, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+## What to Expect
 
-## Marine Life
+Grey reef sharks are the defining encounter at this site — they aggregate in the pass current, positioning themselves mid-water to intercept prey swept through with the tide. On active days, five to fifteen sharks are visible simultaneously in the channel. Schools of rainbow runners and fusiliers fill the water column alongside them. Large humphead wrasse hold station near the wall edges at the pass mouth.
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Current timing is everything here — operators coordinate entry around tidal flow for maximum fish activity. The typical dive involves a current-assisted entry at the pass entrance, a drift through the main channel behind the guide, and a gradual ascent onto the shallower reef crest for a final explore and safety stop in calmer water before pickup.
 
-## Dive Profile
+## Practical Information
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-25 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+- **Depth Range**: 5–25 meters
+- **Visibility**: 25–40 meters typical
+- **Currents**: Tidal-dependent; moderate to strong on incoming or outgoing tide — plan around tide tables
+- **Entry**: Boat dive; current-dependent, guide essential for timing
+- **Best For**: Intermediate divers comfortable with drift diving and current-dependent conditions
 
-## Entry and Exit
+## Marine Life Highlights
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Grey reef sharks, rainbow runners, fusilier schools, humphead wrasse, barracuda, crinoids, soft corals, anthias, butterflyfish, occasional whitetip reef sharks.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

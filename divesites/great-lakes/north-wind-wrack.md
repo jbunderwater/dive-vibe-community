@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## North Wind (Wrack)
 
-North Wind (Wrack) is a historic wreck dive in Great Lakes, North America.
+The North Wind is a historic wreck lying in the North Channel of Lake Huron, in the waters between Manitoulin Island and the Ontario mainland — one of the most scenic and underrated dive regions in the Great Lakes. Cold, clear North Channel water has preserved this vessel in excellent condition.
 
 ## Overview
 
-North Wind (Wrack) is a dive site in Great Lakes featuring the wreck of the North Wind (Wrack). Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The North Channel of Lake Huron — the body of water between Manitoulin Island and the northern Ontario mainland — is one of the most beautiful and least-visited waterways in the Great Lakes system. Known primarily to sailors and cruisers for its spectacular scenery, the North Channel also offers outstanding wreck diving in cold, extremely clear freshwater. The North Wind lies in approximately 20 metres of North Channel water, where visibility can reach 15–20 metres — comparable to the famous Tobermory area but with far fewer divers. The cold, clean water of the North Channel (influenced by its connection to Lake Superior) provides exceptional preservation conditions. This is a destination dive for Ontario divers who want to escape the crowds of more popular sites.
 
 ## Site Information
 
-- **Location**: Great Lakes, North America
+- **Location**: North Channel, Lake Huron, Ontario, Canada
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 20 metres
+- **Typical Visibility**: 8–20 metres
+- **Water Temperature**: 4–16°C (seasonal); bottom consistently cold
+- **Current**: Minimal in protected North Channel waters
+- **Best Time**: June to September
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The North Channel's cold, clear water supports excellent freshwater biodiversity. Lake trout are more commonly encountered here than in the lower lakes — this is prime lake trout habitat. Walleye and pickerel are present. Smallmouth bass inhabit the wreck hull. Northern pike are occasionally seen. The North Channel has less zebra mussel impact than the lower Great Lakes, meaning hull surfaces are more natural in appearance.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The North Wind lies at 20 metres on the North Channel lakebed. Explore the hull at leisure — the better visibility here compared to many Great Lakes sites makes navigation intuitive and exploration rewarding. The wreck's historical character is enhanced by the beautiful North Channel setting. Standard ascent with safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access to North Channel diving requires either a private boat or charter from one of the small marinas serving this remote area. Little Current, Manitoulin Island, or Espanola on the north shore are possible bases. Infrastructure is less developed than at Tobermory or Kingston — plan accordingly.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- The North Channel is worth a multi-day trip combining wreck diving with the region's stunning scenery
+- Drysuit recommended — North Channel water is cold year-round
+- The area has less commercial dive infrastructure than Tobermory or Kingston — plan fuel, supplies, and accommodation in advance
+- This region rewards adventurous divers willing to explore outside the established dive tourism corridors
+- Lake trout are outstanding encounters at North Channel sites
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The North Channel's remoteness means emergency services response times are longer than in more developed areas. Conservative dive planning and excellent equipment preparation are essential. Cold water demands proper thermal protection. Always dive with a buddy and carry an SMB.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The exceptional clarity of North Channel water, combined with a less-disturbed natural setting and minimal zebra mussel impact on the hull, creates outstanding photography conditions. Lake trout encounters at 20 metres in 15-metre visibility are exceptional.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

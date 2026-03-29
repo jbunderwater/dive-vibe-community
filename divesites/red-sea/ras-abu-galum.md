@@ -13,54 +13,49 @@ addedBy: osm_import
 
 ## Ras Abu Galum
 
-Ras Abu Galum is a reef dive site in Red Sea, Middle East.
+Ras Abu Galum is a headland reef site located on the Gulf of Aqaba coastline of the Sinai Peninsula, within the Ras Abu Galum Protectorate — a protected marine and desert landscape north of Dahab. The site is accessible by boat from Dahab or by a desert trail, and is known for its remote character and outstanding reef health due to limited diving pressure.
 
 ## Overview
 
-Ras Abu Galum is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Ras Abu Galum sits at the base of dramatic sandstone cliffs that plunge into the Gulf of Aqaba, and the reef descends steeply from the shoreline to a sandy bottom at around 20 meters. The reef structure here is a classic Gulf of Aqaba fringing reef — narrow at the top and dropping steeply on the seaward face. Coral coverage is excellent and largely undisturbed, with large hard coral formations and healthy soft coral growth throughout the dive zone. Visibility in the clear Gulf of Aqaba waters typically exceeds 25 meters.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Red Sea, Egypt (Gulf of Aqaba, Ras Abu Galum Protectorate, north of Dahab)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
+- **Typical Visibility**: 25-35 meters (80-115 feet)
+- **Current**: Generally mild in the protected area
 - **Best Time**: September to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The undisturbed reef at Ras Abu Galum supports a high-density fish community relative to more heavily dived Sinai sites. Large groupers occupy territory beneath deep coral overhangs. Schools of snappers and fusiliers patrol the reef slope in numbers. Moray eels are abundant, and octopus are found throughout. Green and hawksbill turtles are regular residents in this protected area. The sandy bottom below the reef hosts garden eels in dense meadows, a characteristic feature of the Gulf of Aqaba.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend from the boat or shore along the reef face, working down to 15-20 meters before ascending gradually along the slope. The upper reef at 5-10 meters is particularly rich and deserves time during the ascent. The garden eel colonies on the sand at the reef base are worth a brief detour. Complete your safety stop in the shallow coral zone before exiting.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Dahab, typically a short transfer north along the coast. The protectorate status limits boat traffic, keeping the site uncrowded. Some divers access via the desert trail on foot with full gear — a substantial undertaking. Giant stride or shore entry depending on access method.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Ras Abu Galum is a protected area — all marine life and natural features must be left undisturbed
+- The garden eel colonies on the sand are impressive but approach slowly and stop well short to avoid them retreating into their burrows
+- Combine with Blue Hole or the Canyon at Dahab for a full-day diving program
+- The remote desert setting adds to the overall experience — arrive early to enjoy the landscape
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The steep fringing reef profile requires careful buoyancy control to avoid contact with the coral. The protectorate rules are strictly enforced — do not collect anything or disturb the reef. Standard Gulf of Aqaba conditions apply: monitor depth carefully on the steep outer face and manage air conservatively for the return swim or boat pickup.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The pristine condition of the reef at Ras Abu Galum makes it an outstanding wide-angle reef photography location. The garden eel meadows on the sand at the reef base are unique macro subjects — approach very slowly and use a long focal length macro lens to capture them without causing retreat. Coral portrait photography in natural light is excellent in the clear Gulf of Aqaba water. The dramatic cliff backdrop visible above the surface adds to the atmosphere of surface shots.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

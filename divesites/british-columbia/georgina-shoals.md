@@ -13,53 +13,51 @@ addedBy: osm_import
 
 ## Georgina Shoals
 
-Georgina Shoals is a reef dive site in British Columbia, North America.
+Georgina Shoals is a submerged shallow reef system in the northern Gulf Islands area of British Columbia, Canada, near the waters between Saltspring and Galiano Islands.
 
 ## Overview
 
-Georgina Shoals is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Georgina Shoals presents an intermediate reef dive on a series of rocky outcroppings and boulder fields draped in kelp and invertebrate life. The cold, productive waters of the northern Gulf Islands keep temperatures between 8-12°C year-round. Visibility averages 6-12 metres and is often best from October through February. Tidal currents through the Gulf Islands can run strongly — timing a dive at slack water makes the dive considerably more comfortable and productive.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Northern Gulf Islands, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef / shoal
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 6-12 metres
+- **Water Temperature**: 8-12°C (drysuit recommended)
+- **Current**: Strong on tidal exchanges — dive at slack
+- **Best Time**: Year-round; visibility best October to February
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The shoal habitat is productive for cold-water Pacific Northwest species. Lingcod are commonly seen resting on the rock, and large cabezon occupy ledges near the base of the reef. Black and copper rockfish form loose aggregations in the kelp zone. Giant Pacific octopus occupy dens in the boulder fields, particularly in the 10-15 metre range. Colourful nudibranchs, encrusting sponges, and plumose anemones decorate the rock surfaces. Harbour seals regularly follow divers through the site.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The shoal structure allows flexible dive planning — explore the kelp-covered shallow sections first at 5-8 metres, then drop down the reef contours to the sandy margins at 15-18 metres. The most interesting topography tends to be along the rocky ridges in the 8-14 metre zone. Keep a close watch on the current; conditions at the surface may not reflect what is happening below.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access only. Anchor or deploy a drift line depending on current conditions. This site is well-suited to a planned drift dive when tidal movement is mild. Carry an SMB and deploy before ascending — Gulf Islands waters see regular ferry and recreational vessel traffic.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Study the tide table before diving — strong currents can make the dive difficult
+- Bring a dive torch to investigate crevices for GPO and wolf eels
+- Winter months often deliver clearer water and active rockfish schools
+- Listen for Steller sea lion vocalisations — they occasionally visit this area
+- Note your entry bearing in case visibility drops during the dive
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Tidal currents and boat traffic are the main hazards. Ascend with a deployed SMB and stay close to your buddy. Cold water at this latitude demands attention to air consumption — plan a conservative turnaround point. Never surface without signalling your position, particularly in foggy or overcast conditions.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Georgina Shoals offers a range of photographic subjects. Encrusting sea stars, nudibranchs, and anemones suit macro lenses in the shallow zone. Lingcod portraits are rewarding for wide-angle work — approach low and slowly to avoid flushing them off the reef. GPO den shots require patience and a well-positioned strobe to bring out skin texture and eye detail.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

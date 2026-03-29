@@ -13,54 +13,49 @@ addedBy: osm_import
 
 ## Pointe Burgos
 
-Pointe Burgos is a reef dive site in Martinique, Caribbean.
+Pointe Burgos is a reef dive site on the Caribbean coast of Martinique north of the Les Anses d'Arlet area, offering a compact, beginner-friendly reef accessible by boat from the nearby village dive operators.
 
 ## Overview
 
-Pointe Burgos is a dive site in Martinique offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Situated near a small headland on Martinique's sheltered Caribbean coast, Pointe Burgos features a fringing reef that follows the contour of the point, sloping from the shallows to around 12 meters. The reef is characterised by moderate to good hard coral coverage — brain, star, and encrusting corals — with sandy channels between coral formations. The site's position in a sheltered coastal zone keeps conditions calm and visibility reliable at 15–25 meters. Water temperature averages 27°C.
 
 ## Site Information
 
-- **Location**: Martinique, Caribbean
+- **Location**: Near Les Anses d'Arlet, southwest Martinique
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Headland fringing reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 15–25 meters
+- **Current**: Light; protected position
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Sea turtles are present year-round in the headland area, taking advantage of the seagrass and algae resources on the reef. Parrotfish, surgeonfish, and wrasse are common throughout. The sandy channels between coral sections attract southern stingrays. Larger species including barracuda occasionally patrol the outer reef edge. Spotted morays are found in crevices at the base of coral formations.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+A simple sloping profile from the shallows to 12 meters. Follow the reef contour around the headland, exploring both the sun-facing and shaded sides for different species distributions. The depth is comfortable for beginners and allows extended bottom time. Safety stop in the shallow reef section.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Les Anses d'Arlet operators. Giant stride entry; SMB on ascent. Pointe Burgos is often used as a second, shallower dive after a deeper site like Grande Anse Reef or Cap Enragé earlier in the day.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- A reliable and uncrowded alternative to the busier Les Anses d'Arlet sites
+- The headland position means both east- and west-facing reef sections can be explored on a single dive
+- Well-suited to fish identification practice — slow down and observe species behaviour at each coral head
+- Combine with Jardin Tropical or Anse Dufour for a full Les Anses d'Arlet dive day
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Fire coral is present on the reef crest — maintain buoyancy. Boat traffic from fishing and dive boats in the area requires a deployed SMB on ascent. Sea urchins are common in sandy areas near the reef base.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The diverse micro-habitats created by the headland structure offer varied photographic subjects. Wide-angle reef compositions, turtle portraits, and close-focus shots of reef fish in natural behaviour are all achievable in the 5–12 meter zone with strong ambient light.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

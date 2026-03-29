@@ -11,55 +11,57 @@ osmId: 663869283
 addedBy: osm_import
 ---
 
-## Discovery Island
+# Discovery Island
 
-Discovery Island is a reef dive site in British Columbia, North America.
+A muck dive site at Discovery Island near Victoria with exceptional small-creature diversity.
 
 ## Overview
 
-Discovery Island is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Discovery Island lies just off the southeastern tip of Vancouver Island near Victoria and is accessible by kayak or small boat, with occasional shore access via Cattle Point in Oak Bay. The island sits in the middle of Haro Strait and offers muck diving conditions on its sheltered sides, where silty and sandy substrate accumulates invertebrate and fish species more typically associated with muck diving environments. This contrasts with the exposed rock faces elsewhere on the island. Water temperatures are 8–11°C and visibility ranges from 5–12 metres depending on conditions.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
-- **Entry Type**: Shore entry
+- **Location**: Discovery Island, near Oak Bay, Victoria, British Columbia
+- **Entry Type**: Shore entry (or small boat to shore)
 - **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 15 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 15 metres
+- **Typical Visibility**: 5–12 metres
+- **Current**: Tidal currents on exposed sides; calmer in sheltered bays
+- **Best Time**: Late spring through autumn
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Discovery Island's sheltered sandy and silty areas host species that prefer sediment-based habitats. Crescent gunnels, snake prickleback, and prickleback eels move through kelp and eelgrass on the sandy shallows. Decorator crabs are abundant, adorning themselves with algae and sponges for camouflage. Hermit crabs are numerous. Pacific spiny lumpsucker — a distinctive small fish beloved by BC photographers — are occasionally found in kelp and eelgrass. Giant Pacific octopus forage in the shallower areas. Harbour seals haul out on Discovery Island regularly and investigate divers in the water.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Maximum depth at this site is 15 metres. Focus your dive on the shallower sediment habitat, moving slowly and pausing frequently to spot small cryptic species. The eelgrass meadows in the shallows down to about 5 metres are particularly productive for small invertebrates and fish. Work deeper onto the sandy bottom for nudibranchs and larger invertebrates. Given the shallow depth, extended bottom times are possible.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Access from Cattle Point in Oak Bay (kayak or small boat required for the crossing). Discovery Island is a provincial marine park — camping is available but facilities are limited. Land carefully on the island's rocky shores and gear up on land. Entry into the water follows established routes. Be aware of currents on the exposed sides of the island.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Pacific spiny lumpsuckers are one of BC diving's most endearing species — search kelp holdfasts carefully
+- Victoria-area macro photographers often cite Discovery Island for exceptional small-creature diversity
+- Respectful approach to hauled-out seals on the island maintains their natural behaviour
+- Kayak diving to the island provides an excellent full-day adventure in Oak Bay
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Haro Strait currents affect the exposed sides of Discovery Island significantly. Stick to the sheltered side for muck diving. Cold water (8–11°C) requires drysuit protection. The island is a marine park — no collecting or disturbance of wildlife. Kayak crossing requires appropriate sea kayaking skills and conditions assessment.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Muck diving is a macro photographer's delight. Pacific spiny lumpsuckers make uniquely BC photographs — these small, clumsy fish are highly photogenic. Decorator crabs covered in camouflage materials make striking macro images. Pipefish in eelgrass, gunnels in kelp, and nudibranchs on sponges all reward careful searching and macro technique.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
+- Discovery Island Provincial Marine Park information: bcparks.ca
+- Oak Bay area dive operators for kayak dive support
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

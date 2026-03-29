@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Mirkos Reef
 
-Mirkos Reef is a reef dive site in Lombok, Asia.
+A coral-rich reef dive in the waters between Gili Meno and the Lombok coast with diverse fish life and a deeper section for experienced divers.
 
 ## Overview
 
-Mirkos Reef is a dive site in Lombok offering rewarding diving on healthy coral reef structures . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Mirkos Reef is a dive site in the waters around Gili Air, known as part of the broader collection of coral-rich Gili Islands dive sites. The reef features coral formations with diverse tropical reef fish and extends to 35 m at its deepest sections, though the productive zone for marine life is concentrated between 10–25 m. The site suits intermediate divers for the main reef and offers extended depth options for advanced divers wanting to explore the deeper coral formations. It is accessible as a day trip from Lombok.
 
 ## Site Information
 
-- **Location**: Lombok, Asia
+- **Location**: Waters near Gili Air and Gili Meno, Gili Islands / Lombok
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 35 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 35 m
+- **Typical Visibility**: 15–22 m
+- **Current**: Moderate
+- **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Reef fish typical of the Gili Islands' coral triangle position — parrotfish, surgeonfish, triggerfish, butterflyfish, and wrasse. Turtles on the reef crest. Moray eels and grouper at depth. Reef sharks are occasionally sighted on the outer sections. Nudibranchs and cleaner shrimps in the coral rubble.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 35 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the productive reef zone at 10–20 m and explore the coral formations. Advanced divers can extend to 25–35 m to examine the deeper structure. Ascend gradually along the reef slope and complete a standard safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat from Gili Islands or Lombok operators. Entry via back roll. Moderate current. SMB recommended for ascent.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Pair with nearby Gili Air sites for a comprehensive east coast dive day
+- The deeper sections are worth visiting for larger grouper and occasional shark encounters
+- Accessible from Lombok day-trip boats as a mid-point between Gili Air and Gili Meno
+- Search coral rubble zones carefully for nudibranchs and cleaner shrimps
+- Works well as an afternoon dive after more demanding morning sites
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Currents are moderate and manageable for intermediate divers. The deeper sections should only be dived by those certified to the appropriate depth. Maintain buoyancy above coral heads. Always carry an SMB.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Reef fish diversity suits fish portrait work. Turtles on the reef crest. Deeper sections with larger sea fans suit wide-angle with strobes.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

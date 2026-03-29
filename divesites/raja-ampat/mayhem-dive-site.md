@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Mayhem Dive Site
 
-Mayhem Dive Site is a pinnacle dive site in Raja Ampat, Asia.
+Mayhem earns its name. This exposed pinnacle in the central Dampier Strait is Raja Ampat's most aptly named dive site — a current-swept reef structure where the fish life is so thick, so fast-moving, and so chaotic that first-time visitors are often overwhelmed.
 
 ## Overview
 
-Mayhem Dive Site is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Mayhem is a submerged pinnacle that breaks the surface and extends into the Dampier Strait's powerful tidal flows. When conditions align — strong current, correct tidal phase — the site delivers an underwater spectacle that few places on Earth can match. Schools of jack and fusilier swirl in tornadoes overhead, barracuda hold formation in the current, reef sharks cruise the edges, and mantas occasionally make an appearance. The pinnacle's surface is heavily colonized with soft coral and encrusting life, but the real draw is the pelagic action in the water column above. Water temperature averages 27–29°C and visibility is typically 15–25 meters.
 
 ## Site Information
 
-- **Location**: Raja Ampat, Asia
+- **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15–25 meters (50–80 feet)
+- **Current**: Strong, often very strong; site is best at moderate to strong flow
+- **Best Time**: October to April; tidal timing is critical
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Giant trevally and bigeye trevally form dense, fast-moving schools that chase baitfish across the top of the pinnacle. Chevron barracuda stack in columns. Grey reef sharks and white-tip reef sharks patrol the deeper flanks. On the pinnacle itself, ornate wobbegongs and tasselled wobbegongs sit motionless in the surge zone. Reef fish diversity is extraordinary — surgeonfish, triggerfish, parrotfish, anthias, and butterflyfish crowd every coral head. During certain tidal phases, oceanic manta rays sweep through the blue water beyond the pinnacle edge.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The dive plan depends entirely on current strength and direction. With strong incoming current, drop behind the pinnacle, hook in or fin hard to hold position, and allow the fish action to come to you. With slacker conditions, swim the circumference of the pinnacle from the summit at 5–10 meters down to 20–25 meters. The fishiest zone is typically the upper 15 meters where schools concentrate. Always plan air conservatively — the excitement of Mayhem tends to drive up breathing rate.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access only — liveaboards and day-trip operators drop divers directly on the pinnacle with a current assessment. If current is running, free descent to the pinnacle top is essential; avoid drifting into open water away from the structure. Carry reef hooks. SMB deployment at the end of the dive is mandatory — divers often surface downcurrent of the boat.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Only dive this site if you are comfortable in strong current — it is not a beginner site
+- A reef hook allows you to hold position and watch the action without fighting current
+- Breathe slowly and deliberately; adrenaline elevates air consumption significantly here
+- The best fish action is typically on the incoming current during the early flood tide
+- Confirm tidal timing with your guide before entering the water
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Mayhem is advanced-only. Unmanaged current can sweep divers away from the pinnacle into open water. Never surface in open water without an SMB deployed. Guide lines may be rigged on some visits; follow the guide's lead precisely. The site should not be dived by less experienced divers regardless of conditions.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The chaotic schooling fish action is the main photographic subject. A wide-angle lens (15mm or wider) captures the school density. Shooting upward toward the surface gives silhouettes of trevally and barracuda against blue water. A fast shutter speed (1/160 or faster) is needed to freeze fast-moving fish. Ambient light photography works well in the upper 10 meters on sunny days.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

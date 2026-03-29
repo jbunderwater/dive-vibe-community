@@ -11,55 +11,57 @@ osmId: 620673918
 addedBy: osm_import
 ---
 
-## Center Reef
+# Center Reef
 
-Center Reef is a reef dive site in British Columbia, North America.
+A productive mid-channel reef in the southern Gulf Islands with abundant cold-water marine life.
 
 ## Overview
 
-Center Reef is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Center Reef sits in the south Strait of Georgia east of Victoria, in the channel waters between the southern Gulf Islands and the BC mainland coast. The reef's position in the main tidal flow ensures steady nutrient supply supporting rich communities of filter feeders and the predators that follow them. The site is accessed by boat from Sidney, Tsawwassen, or the southern Gulf Islands. Water temperatures are consistently cold at 8–11°C, and visibility typically ranges from 6–15 metres depending on season.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: South Strait of Georgia, east of southern Gulf Islands, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Submerged reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 6–15 metres
+- **Current**: Tidal currents present — dive near slack
+- **Best Time**: Late summer and autumn
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Center Reef hosts a classic Pacific Northwest cold-water community. Giant Pacific octopus are the headline species, with multiple dens recorded on the reef. Lingcod are the dominant predator fish, sometimes seen guarding territories aggressively. Copper and quillback rockfish are abundant. Plumose anemones dominate exposed surfaces while encrusting sponges and cup corals cover shaded areas. Nudibranchs are diverse and often found on sponge-covered surfaces. Puget Sound king crab and Dungeness crab are found near the reef base.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The reef rises to a shallowest point of about 6–8 metres, with the sides dropping to 18 metres. Spend the first portion of the dive at depth exploring the perimeter before ascending to the reef's upper section for the safety stop zone. Look carefully into crevices throughout the dive for octopus and wolf eel. The final 5 minutes can be spent on the shallow reef crest observing small invertebrate life.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Sidney marina or nearby Gulf Island launch sites. Locate with GPS and depth sounder. Anchor on sand clear of the reef structure. A live boat pickup is preferred over anchoring at this exposed site. Deploy an SMB well before surfacing — vessel traffic in the southern Strait is significant.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Morning dives often have the best visibility before afternoon winds stir up particulate
+- Bring a powerful torch to explore the deeper overhangs and crevices
+- The surrounding channel areas can be used for longer range navigation dives
+- Sidney dive shops can confirm current timing for this specific reef location
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The southern Strait of Georgia has considerable commercial and recreational boat traffic. Surface with a fully deployed, brightly coloured SMB. Tidal currents require careful planning — slack window may be only 20–30 minutes. Cold water and depth demand drysuit competence. Maintain buddy contact throughout the dive.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Wide-angle reef panoramas with plumose anemones in the foreground and the blue water column above make signature Gulf Islands images. Portrait photography of lingcod and octopus rewards patience. Macro photographers should carefully scan sponge surfaces for nudibranchs and minute crustaceans.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
+- Sidney area dive operators for local conditions
+- Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

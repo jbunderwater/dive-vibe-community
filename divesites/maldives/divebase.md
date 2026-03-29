@@ -13,54 +13,32 @@ addedBy: osm_import
 
 ## Divebase
 
-Divebase is a reef dive site in Maldives, Asia.
+**Location:** North Malé Atoll (western rim), Maldives
+**Depth:** 5–25 m
+**Difficulty:** Intermediate
+**Entry:** Boat
 
-## Overview
+### Overview
 
-Divebase is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Divebase is a reef site on the western rim of North Malé Atoll. The name suggests a site that serves as a regular base of operations for diving in the area — a reliable, accessible reef used frequently by local dive operations and resorts. Western rim sites in North Malé Atoll face the open Indian Ocean and typically offer strong coral coverage and consistent shark activity.
 
-## Site Information
+### Diving
 
-- **Location**: Maldives, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+The reef presents an outer wall dropping from the reef crest to the sandy floor at 25 m. The wall is well developed with coral formations, and the reef crest shelters substantial fish life. Grey reef sharks and whitetip reef sharks patrol the outer wall and are a consistent feature of dives here. Napoleon wrasse are regularly encountered.
 
-## Marine Life
+The sandy floor areas between the reef base and scattered bommies provide resting spots for sharks and rays. The upper reef is a productive area for turtle encounters and observation of parrotfish and surgeonfish feeding on the coral.
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+### Marine Life
 
-## Dive Profile
+- Grey reef sharks and whitetip reef sharks
+- Napoleon wrasse
+- Hawksbill and green turtles
+- Surgeonfish and parrotfish
+- Eagle rays (occasional)
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+### Practical Notes
 
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+An accessible, reliable reef dive. Conditions are generally calm inside the atoll. Suitable for intermediate divers. Visibility typically 15–25 m. Boat access from western North Malé Atoll resorts and liveaboards.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

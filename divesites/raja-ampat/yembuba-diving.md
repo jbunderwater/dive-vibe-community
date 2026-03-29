@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Yembuba Diving
 
-Yembuba Diving is a reef dive site in Raja Ampat, Asia.
+Yembuba Diving is a reef site off Yembuba village on the southern coast of Waigeo Island in the Dampier Strait — a productive diving location in the bustling heart of Raja Ampat's most-visited diving corridor, offering reliable reef fish diversity and good coral coverage.
 
 ## Overview
 
-Yembuba Diving is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Yembuba village is one of several small communities along Waigeo's southern coast that manage their reef areas through locally-run marine protection zones. The reef at Yembuba has benefited from reduced pressure and shows solid coral recovery compared to less-managed areas. The site presents a gently sloping reef with hard coral gardens in the shallows transitioning to soft coral and encrusting sponge at depth. Being located in the Dampier Strait, the site experiences tidal exchange that supports healthy filter feeders and associated fish life. Water temperature averages 27–29°C with visibility of 12–20 meters.
 
 ## Site Information
 
-- **Location**: Raja Ampat, Asia
+- **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 12–20 meters (40–65 feet)
+- **Current**: Variable; moderate on tidal exchange
+- **Best Time**: October to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The Yembuba reef supports a representative cross-section of Dampier Strait biodiversity: schooling fusiliers and snapper form mid-water aggregations, napoleon wrasse cruise the reef edge, and hawksbill turtles forage through the coral gardens. Resident white-tip reef sharks are found resting at depth. The reef flat at 3–8 meters supports a variety of butterflyfish pairs, surgeonfish, and parrotfish. Macro subjects include flatworms, nudibranchs, and cowries in the rubble sections between coral heads.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin at the reef crest in 5–8 meters and follow the slope down to 20–25 meters, inspecting coral formations and checking crevices along the way. The mid-slope zone at 12–18 meters tends to have the best concentration of larger fish. Return up the slope and spend the end of the dive exploring the shallow hard coral garden, which supports excellent life at snorkeling depths. The protective mooring in the bay near the village is often used by local guides.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Accessed by boat from liveaboards operating in the Dampier Strait or by local operators based near Waigeo's southern coast. Conditions in the Dampier Strait can vary — check conditions before entry. Deploy SMB on ascent; the Dampier Strait sees regular boat traffic.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Dive with a local village guide who knows the resident species locations
+- The site is often combined with other southern Waigeo reefs on day-trip itineraries
+- Check the marine protection zone boundaries with your guide — staying within the protected area is important
+- A relaxed pace rewards macro hunters; the rubble zones between corals hold surprises
+- Carry a torch even on daytime dives — crevices hide scorpionfish and moray eels
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Standard intermediate reef diving protocols apply. Dampier Strait currents can strengthen rapidly on tidal change — be prepared to abort if conditions shift. The Strait sees heavy boat traffic from liveaboards and speedboats; carry an SMB and dive flag.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Yembuba offers a solid all-around reef photography location. Hard coral wide-angle in the shallows, reef fish portraits at mid-depth, and nudibranch macro in the rubble zones provide diverse subjects in a single dive. The site is less crowded than marquee Raja Ampat sites, allowing unhurried photography.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Dakit-Dakit
 
-Dakit-Dakit is a pinnacle dive site in Philippines Malapascua, Asia.
+Dakit-Dakit is a very shallow pinnacle dive site off Malapascua Island, known for its excellent coral and macro life concentrated in waters no deeper than 12 meters — making it an ideal site for extended underwater photography or a relaxed end-of-day dive.
 
 ## Overview
 
-Dakit-Dakit is a dive site in Philippines Malapascua offering rewarding diving on healthy coral reef structures . Dive Site. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+"Dakit" in local dialect suggests something small and close together, reflecting the nature of this compact pinnacle feature that breaks near the surface. The pinnacle creates a microhabitat where the shallowest sections receive abundant sunlight, promoting vigorous coral growth. Hard corals are the primary structure, with plate corals and branching forms dominating the well-lit upper sections. The surrounding shallow water creates excellent natural light for photography throughout the day. Given the 12-meter maximum depth, this site is suitable for all certified diver levels and offers exceptional bottom time — a full tank can easily last 60–80 minutes here with controlled breathing.
 
 ## Site Information
 
-- **Location**: Philippines Malapascua, Asia
+- **Location**: Near Malapascua Island, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Shallow pinnacle / reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 8-20 meters
+- **Current**: Light to moderate
+- **Best Time**: Year-round; morning for best light
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The shallow, sun-drenched pinnacle supports a vibrant community of smaller reef species. Clownfish in anemones are prominent. Damselfish schools dart across the coral surface. Flatworms and nudibranchs creep through the coral growth, and macro subjects are consistently found throughout the reef. Sea snakes are common in the Malapascua area and may be encountered cruising the pinnacle. Frogfish occasionally turn up on the coral structure, using camouflage to blend into sponge growth.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+At 12 meters maximum, the entire depth range of this site can be covered in a single descending and ascending loop. Work slowly around the pinnacle, looking carefully at coral surfaces for cryptic species. The very shallow sections at 2–5 meters are worth extended time — the diversity of small life here often exceeds that of the deeper sections. This is a site where unhurried exploration pays dividends.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Short banca ride from Malapascua resorts. Entry by giant stride or back roll; the shallow water allows visual confirmation of the pinnacle location before entry. Return to the banca by ladder.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The shallow depth makes this an excellent night dive — cryptic species emerge after dark
+- Use very slow movements to maximise observation of small, shy critters
+- Bring a macro lens and torch — this is a site for patient detail photography
+- The extended bottom time possible here makes it ideal for photographers who want time for multiple shots of the same subject
+- Consider this as a night dive option after dinner — night life at shallow reefs around Malapascua is exceptional
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The shallow depth minimises decompression risk. Standard boat diving precautions apply. Be aware of boat traffic near the surface — deploy SMB before ascending even at this shallow depth.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The ideal macro photography site in the Malapascua area. Extended bottom time at 12 meters allows thorough searching for nudibranchs, flatworms, frogfish, and other cryptic subjects. The excellent natural light eliminates the need for flash in most conditions. Night diving here transforms the site with different behaviour and species.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

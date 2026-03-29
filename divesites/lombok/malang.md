@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Malang
 
-Malang is a reef dive site in Lombok, Asia.
+Also known as Takat Malang — a collection of large rock formations north of the Gili Islands with gorgonian sea fans, schooling fish, and depths to 40 m for technical and advanced divers.
 
 ## Overview
 
-Malang is a dive site in Lombok offering rewarding diving on healthy coral reef structures . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Takat Malang (Malang) lies north of the Gili Islands and consists of a collection of large rock formations (Takats) arranged on a sloping bed, beginning with a plateau at 15 m. About 10 major Takats make up the site, each sculpted with overhangs, outcrops, and swim-throughs. The structures are covered in soft and hard coral varieties including very large gorgonian sea fans and table corals. The maximum depth of 40 m places this firmly in the advanced and technical diver category. Sandy bottom passages between Takats are excellent for blue-spotted stingrays and garden eels.
 
 ## Site Information
 
-- **Location**: Lombok, Asia
+- **Location**: North of Gili Islands, Lombok region
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef / Rock Formations
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 40 m
+- **Typical Visibility**: 15–30 m
+- **Current**: Moderate to strong
+- **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Very large gorgonian sea fans hosting pygmy seahorses. Blue-spotted stingrays on the sandy bottom between Takats. Garden eels in sandy patches. Schooling reef fish throughout the Takat overhangs. Barracuda and trevally in the blue water. Turtles on the upper plateau sections at 15–20 m.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 40 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the initial plateau at 15 m and systematically explore each Takat. The overhangs at 20–30 m are the most productive zone. Experienced divers may explore to 40 m on the deeper Takat faces. Ascend via the plateau to the shallower Takat tops for the safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat from Lombok or Gili Islands operators. Entry based on current conditions. Advanced buoyancy required for the complex topography. SMB essential.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Advanced Open Water certified minimum; best with technical diving experience for the 40 m sections
+- One of the top five advanced dives in the Lombok/Gili Islands region
+- Examine gorgonian fans on each Takat for pygmy seahorses — patience required
+- Plan no-decompression limits carefully when spending time at 30–40 m
+- Combine with Simon's Reef for a full north Gili Islands advanced day
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The 40 m maximum depth requires advanced certification and careful gas management. Do not exceed planned depth limits on the Takat faces. Strong current possible between Takats. Always carry an SMB. Ascent planning from 40 m requires a minimum 3-minute stop at 5 m and longer if any decompression obligation.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Large gorgonian sea fans in profile with a diver for scale are the standout shot. Blue-spotted stingrays on the sandy channels suit wide-angle with natural light. The Takat overhangs with soft coral suit strobe-lit wide-angle.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

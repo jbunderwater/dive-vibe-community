@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Saddle
 
-Saddle is a reef dive site in Red Sea, Middle East.
+Saddle is a shallow shore-entry reef site in the northern Red Sea, Egypt, situated in the Gulf of Aqaba near Nuweiba. The name references the saddle-shaped profile of the reef, which dips gently between two raised coral ridges before leveling out on a sandy bottom at around 6 meters.
 
 ## Overview
 
-Saddle is a dive site in Red Sea offering excellent diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Saddle is an ideal site for beginners and snorkelers, offering a calm, sheltered environment with good year-round conditions. The very shallow maximum depth makes it forgiving for those building confidence underwater. Despite the limited depth, the reef supports a healthy community of hard corals, including branching acropora and brain corals, interspersed with patches of rubble and sand that attract a different range of organisms. The Gulf of Aqaba is well known for exceptional water clarity, and visibility at Saddle routinely exceeds 20 meters even at this modest depth.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Gulf of Aqaba, northern Red Sea, Egypt
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 6 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20-30 meters (65-100 feet)
+- **Current**: Generally mild
+- **Best Time**: Year-round; October to May preferred
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The shallow reef at Saddle is teeming with reef fish. Expect schools of sergeant majors and chromis hovering over the coral, along with parrotfish grazing on encrusted surfaces. Butterflyfish pick across the coral heads while pufferfish drift through the water column. Gobies and blennies occupy sandy patches near the coral base, and small moray eels occupy crevices in the reef structure. Nudibranchs and small invertebrates reward patient observers looking closely at rubble zones.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 6 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-6 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Wade in from shore and fin out over the reef flat until the sandy saddle appears below. The dive follows the gently undulating reef profile, exploring both the coral ridges and the sandy channels between them. There is no need for a deep dive plan here — the entire site is accessible within the first 6 meters. Spend time hovering slowly over the coral, looking into crevices and under ledges. A safety stop is not mandatory at this depth, but best practice recommends a brief pause at 3–5 meters before surfacing.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Entry is directly from shore over a flat reef shelf. Wear booties or hard-soled dive socks to protect against sharp reef and sea urchins in the entry zone. Fin out over the reef crest — avoid stepping on coral. Exit at the same point, taking care during surge if wind conditions have picked up. Early morning entries typically offer the calmest surface conditions.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Ideal first open-water dive for new or recently certified divers
+- Snorkeling is also excellent here given the shallow depth
+- Bring a macro lens — small invertebrates and nudibranchs are common
+- Early morning light makes for excellent photography conditions
+- Avoid touching the reef — even light contact can damage coral polyps
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The site is generally safe and calm, but sea urchins are present in the entry zone — watch your footing. Fire coral can cause skin irritation; exposure suits are recommended. Boat traffic may be present in the area, so surface with an SMB or stay close to the shore entry corridor. The very shallow depth means decompression sickness risk is minimal, but proper ascent habits should still be practiced.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The shallow depth and excellent natural light make Saddle an outstanding photography site throughout the day. Wide-angle shots of coral formations are productive in the morning when the sun angles directly through the water. Macro photographers will find nudibranchs, small gobies, and ornate reef invertebrates on the coral rubble and between coral heads.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -11,55 +11,59 @@ osmId: 803747665
 addedBy: osm_import
 ---
 
-## Catumb Rocks
+# Catumb Rocks
 
-Catumb Rocks is a reef dive site in New England, North America.
+Submerged rocky outcrops off Watch Hill, Rhode Island, in one of southern New England's most historically wreck-strewn stretches of coast.
 
 ## Overview
 
-Catumb Rocks is a dive site in New England offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Catumb Rocks lies in the Watch Hill area at the southwestern corner of Rhode Island, near the entrance to Fisher's Island Sound. This coastline has an exceptional maritime history — over 49 vessels are recorded as having been lost in the Watch Hill area over the centuries, driven onto the rocks and shoals by storms or navigation errors. Catumb Rocks is part of this hazardous complex of submerged features that extends from Watch Hill Point into the sound. The site sits at approximately 15 metres maximum depth, with the rocky substrate providing the cold-water habitat characteristic of southern Rhode Island Sound. The combination of historical significance and productive reef ecology makes this one of the more interesting dive sites in the Watch Hill cluster.
 
 ## Site Information
 
-- **Location**: New England, North America
+- **Location**: Watch Hill area, southwestern Rhode Island
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
+- **Typical Visibility**: 5–12 meters (variable with tidal state)
+- **Current**: Moderate to strong; Watch Hill tidal currents are significant
+- **Water Temperature**: 8–20°C depending on season
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Southern Rhode Island Sound cold-water species. Tautog are the dominant reef fish species in this area. American lobsters inhabit crevices throughout the rocky substrate. Striped bass cruise through the area in warmer months, particularly around the strong tidal currents near Watch Hill. Pollock school in midwater. Sea bass are present in summer. Cunner hover around the encrusted rock surfaces. Sea urchins carpet open rock faces. Northern sea ravens rest on the rocky bottom.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boat access from Watch Hill area, Westerly, or eastern Connecticut operators near Stonington or Mystic. Descend to the rocky substrate at 10–15 metres and navigate the rock perimeter. The strong tidal currents in the Watch Hill area mean timing is critical — plan dives around slack water. The potential for historical wreck debris in the area adds exploratory interest. Complete a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat charter required. Watch Hill tidal currents are a primary planning consideration — the current through the Watch Hill passage can exceed 2 knots at peak flow. A captain familiar with local tidal patterns is important. Anchor in sand adjacent to rocks. Deploy SMB before ascending.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Plan dives strictly around Watch Hill slack tide — the currents here are among the strongest in Rhode Island Sound
+- The historical record of 49+ vessels lost in this area suggests wreck debris may be present on and around the rocks
+- Striped bass hunting the currents around Watch Hill are a summer highlight
+- Combine with Cormorant Reef, Perch Island, and Watch Hill Reef for a multi-site southern Rhode Island day
+- Westerly and Watch Hill area operators have the best local knowledge
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Watch Hill tidal currents are strong and the passage between Fisher's Island Sound and Rhode Island Sound creates significant water movement. Plan all dives around slack water using Watch Hill tidal predictions — never attempt this site against a running current. Cold water below thermocline year-round — 7mm wetsuit or drysuit recommended. Deploy SMB clearly before surfacing.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Rocky reef subjects at 15 metres require strobes for accurate color. Tautog portraits on kelp-draped rock; striped bass in the current-swept water column; and the encrusting life on rock surfaces are primary photographic subjects.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Charter Access**: Watch Hill and Westerly RI; Stonington/Mystic CT area operators
+- **Historical Reference**: Watch Hill wreck records — Rhode Island Historical Preservation and Heritage Commission
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

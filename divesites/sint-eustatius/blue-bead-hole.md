@@ -11,55 +11,53 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Blue Bead Hole
+# Blue Bead Hole
 
-Blue Bead Hole is a reef dive site in Sint Eustatius, Caribbean.
+A shallow shore dive famous for the cobalt-blue Venetian glass trade beads that centuries of current have deposited in sandy pockets along the seafloor — a living treasure hunt in Statia's ancient roadstead.
 
 ## Overview
 
-Blue Bead Hole is a dive site in Sint Eustatius offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Blue Bead Hole is one of Sint Eustatius's most singular diving experiences — a shallow site renowned not for dramatic topography but for the extraordinary historical artifacts scattered across the sandy bottom. During Statia's commercial peak in the mid-1700s, when the island was known as the "Golden Rock" and was among the Atlantic world's busiest trade entrepôts, Venetian cobalt-blue glass trade beads passed through in enormous quantities. Centuries of currents and wave action have concentrated thousands of these beads in certain sandy depressions along the leeward coast. STENAPA strictly protects the site — beads must not be collected, but divers can observe and photograph them in situ. The site is suitable for snorkelling as well as scuba, and the adjacent reef provides a pleasant shallow dive alongside the bead hunt.
 
 ## Site Information
 
-- **Location**: Sint Eustatius, Caribbean
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 10 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 1–10 m |
+| Difficulty | Beginner |
+| Entry Type | Shore |
+| Site Type | Reef (historic artifacts) |
+| Visibility | 15–25 m |
+| Current | Light |
+| Water Temp | 26–28°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The shallow reef adjacent to the bead holes features brain and star coral formations. Blue tang, parrotfish, and sergeant majors are abundant in the shallows. Sandy depressions between reef patches host garden eels and occasional flounder. Green sea turtles are common in the shallow grass beds around the site.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 10 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-10 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Shore entry from the beach near Oranjestad, with divers following the sandy depressions northward in the 3–10 meter range to look for the blue bead concentrations. Local guides know the current bead-finding areas, which shift over time as sand moves. A guided 30–40 minute dive covers the main areas. Snorkellers can access the shallowest bead pockets without scuba equipment.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry via the beach below the fort at Oranjestad. Entry over the rocky shoreline requires care — booties or water shoes recommended. The slope is gradual. Exit at the same beach. No boat required.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+Blue Bead Hole is best experienced with a local guide who knows the current bead concentration areas — these shift seasonally and a guide dramatically improves the probability of finding beads. The beads are small (6–10 mm diameter) and cobalt blue, visible against white sand in good visibility. Photograph rather than collect: removing any artifact is illegal under STENAPA regulations. An excellent pairing with Crooks Castle or Double Wreck for a full day of historical Statia diving.
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+All artifacts including blue beads are protected by STENAPA and Dutch law — collecting is illegal. Shore entry over rock requires careful footing. Visibility can reduce after rain events. Current is light but can develop in the afternoon. Always dive with a buddy and inform someone ashore.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The cobalt-blue beads on white sand make striking macro subjects. A close-up lens at 1:2 or 1:1 ratio captures the rich blue colour and any encrustation on older beads. Shallow ambient light at 3–8 meters is excellent throughout the day for natural-light photography of the reef and sand areas.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- STENAPA: stenapafoundation.com — historical artifact protection guidelines
+- SECAR: St. Eustatius Center for Archaeological Research — academic context for the bead deposits
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

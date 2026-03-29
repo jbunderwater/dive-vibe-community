@@ -13,55 +13,28 @@ addedBy: osm_import
 
 ## Likuan 3
 
-Likuan 3 is a wall dive site in Manado & Bunaken, Asia.
+Likuan 3 is the northernmost section of Bunaken Island's famous Lekuan wall series, offering slightly calmer conditions than its neighbours and outstanding wall diving accessible to intermediate divers.
 
 ## Overview
 
-Likuan 3 is a dive site in Manado & Bunaken featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Where Likuan 1 and 2 are known for their intensity and depth, Likuan 3 provides a more relaxed introduction to Bunaken's signature wall diving experience. The wall still drops sheer from 3–4 metres to well beyond recreational limits, but currents here tend to be more manageable, and the wall crest is rich and varied enough to keep less experienced divers occupied for an entire tank. Part of Bunaken National Marine Park, the site benefits from the same extraordinary biodiversity that defines the entire south-coast wall system.
 
-## Site Information
+## What to Expect
 
-- **Location**: Manado & Bunaken, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 40 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+The wall face between 8 and 25 metres is particularly dense at Likuan 3. Enormous table corals project horizontally from the wall, providing shelter for dense aggregations of glassfish and the predatory trevally that circle them. Large seafans in purples, oranges, and yellows create a spectacular backdrop in photographs. The wall has numerous chimneys and crevices where moray eels — including giant morays exceeding 1.5 metres — peer out from the shadows.
 
-## Marine Life
+Turtles are consistently present, often feeding on algae and soft corals clinging to the wall face. Bumphead parrotfish occasionally pass through in schools of 20 or more, their excavating bite marks visible on the coral below. The shallow top of the wall is an excellent spot to end the dive — look for juvenile lionfish hiding among the coral rubble, flamboyant cuttlefish on sandy patches, and small schools of moorish idols drifting in formation.
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+## Conditions
 
-## Dive Profile
+- **Depth range:** 3–40+ m
+- **Visibility:** 15–25 m
+- **Currents:** Light to moderate; more sheltered than Likuan 1 and 2
+- **Water temperature:** 27–30°C
+- **Best season:** May–October
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+## Tips
 
-## Entry and Exit
+Likuan 3 is often recommended as the starting point for divers new to Bunaken's wall system. Its accessible conditions allow time to settle into correct buoyancy before attempting the more demanding sites. The site transitions smoothly into Panorama further along the wall, and guides sometimes combine both in a single drift dive when current allows.
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

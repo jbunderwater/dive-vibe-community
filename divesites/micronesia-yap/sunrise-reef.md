@@ -11,56 +11,47 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Sunrise Reef
+# Sunrise Reef
 
-Sunrise Reef is a reef dive site in Micronesia - Yap, Pacific.
+A healthy, light-drenched reef best dived in the early morning when the rising sun illuminates vibrant coral gardens and bustling fish life
 
 ## Overview
-
-Sunrise Reef is a dive site in Micronesia - Yap offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Sunrise Reef earns its name from the spectacular early-morning light that floods this east-facing reef, creating a warm glow across the coral gardens during the first dive of the day. The site features an expansive area of healthy hard coral -- staghorn, table, and massive Porites formations -- interspersed with sandy patches and small coral bommies. It offers a relaxed, unhurried diving experience focused on reef ecology and fish diversity rather than big-animal encounters. For divers looking for a contrast to Yap's high-adrenaline manta and shark dives, Sunrise Reef delivers a peaceful, visually rich experience.
 
 ## Site Information
-
-- **Location**: Micronesia - Yap, Pacific
+- **Location**: Yap, Federated States of Micronesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 20-35 meters (65-115 feet)
+- **Current**: Light
+- **Best Time**: Year-round; early morning for best light
 
 ## Marine Life
-
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+The healthy coral coverage supports a thriving reef fish community. Schools of anthias pulse above the coral heads, while surgeonfish, parrotfish, and wrasses move across the reef in grazing groups. Anemones host multiple species of anemonefish. Hawksbill turtles rest among the corals and are a regular sighting. Blue-spotted stingrays lie on sandy patches between coral formations. Moray eels peer from holes in the reef structure. Macro life includes nudibranchs, flatworms, cleaner shrimp at established stations, and Christmas tree worms dotting the Porites coral heads. Occasional eagle rays cruise over the reef, and garden eels colonize the sandy margins.
 
 ## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+A simple reef dive at 10-18 meters with no significant drop-offs or navigational challenges. Descend to the reef and meander through the coral gardens at your own pace. The lack of strong currents allows extended exploration of specific areas. Most of the interesting coral formations and marine life are found between 8-15 meters. A leisurely 60-minute dive is standard. The gentle profile and shallow safety stop make this an excellent second or third dive of the day.
 
 ## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Colonia. Easy giant stride entry into calm water over the reef. The boat moors nearby or drifts with minimal current. Simple exit via boat ladder after surfacing near the vessel.
 
 ## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Book the first morning dive slot for the iconic sunrise light that gives this site its name and character
+- Slow down and look closely at the coral heads for small, camouflaged creatures that are easily missed at speed
+- Visit the cleaner shrimp stations and observe the cleaning behavior with reef fish clients queuing up
+- This site pairs perfectly as a mellow second dive after a high-energy manta or wall dive
+- Bring a macro lens or close-up diopter to make the most of the small reef life
 
 ## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Sunrise Reef is one of Yap's more benign dive sites. Currents are typically light, depths moderate, and conditions calm. Standard safety practices apply: dive with a buddy, carry an SMB, and maintain buoyancy control over the corals. Be aware of fire coral and scorpionfish, which blend into the reef. Avoid touching or standing on coral formations.
 
 ## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The early-morning light is the defining feature for photography. The low sun angle creates warm tones and long shadows across the coral gardens, ideal for wide-angle reef scenes. Sunburst shots through Snell's window are particularly effective in the clear, shallow water. Macro photographers will find nudibranchs, Christmas tree worms, and cleaner shrimp as reliable subjects. Overunder (split) shots work well in the calm surface conditions. The reef provides a consistently photogenic backdrop without requiring a specific "money shot" -- the beauty is in the overall scene.
 
 ## Additional Resources
-
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

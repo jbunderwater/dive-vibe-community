@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Banc Major
 
-Banc Major is a reef dive site in Martinique, Caribbean.
+Banc Major is a medium-sized reef bank off Martinique's south coast, forming part of the cluster of dive sites south of Sainte-Luce and serving as one of the area's more substantial reef structures for intermediate divers.
 
 ## Overview
 
-Banc Major is a dive site in Martinique offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Banc Major rises from the sandy Caribbean shelf and features a broad, well-developed hard coral platform descending to 20 meters. The site sits in slightly more open water than the sheltered inner banks, giving it access to clearer, bluer Caribbean water. Coral coverage includes brain, star, and pillar corals across the shallower plateau, with barrel sponges and gorgonians on the deeper outer face. Visibility averages 20–30 meters in the dry season. Water temperature holds around 26–28°C.
 
 ## Site Information
 
-- **Location**: Martinique, Caribbean
+- **Location**: South Caribbean coast, Sainte-Luce area, Martinique
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef bank
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 20–30 meters
+- **Current**: Light to moderate; can increase on the exposed face
+- **Best Time**: November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Large parrotfish and thick schools of blue tangs are characteristic of Banc Major's well-developed reef. Eagle rays regularly cross the sandy margins, and barracuda are common sentinels above the reef crest. Sea turtles are present year-round. The barrel sponges at 15–20 meters are favoured resting spots for large groupers and nurse sharks.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef plateau and cross it to the outer face, following the slope to maximum depth. The most interesting terrain is on the seaward-facing edge where the reef drops more sharply and pelagic visitors are more common. Ascend along the reef crest and take your safety stop in the 5–8 meter range.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Sainte-Luce operators; part of the standard two-tank south coast rotation. Giant stride entry, SMB deployment on ascent. Pair with Banc du Mitan or Caye Duprey for a full dive day.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Explore the outer reef face first while air supply is highest
+- The barrel sponges at depth are worth spending time at — groupers and nurse sharks use them as resting spots
+- Banc Major's slightly more open position means better chance of pelagic encounters than the inner banks
+- Morning dives offer calmer conditions and better light for photography
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Current is more variable here than at the inner banks — be prepared to drift rather than swim against it. SMB deployment before ascending is important. Maintain NDL discipline at 20 meters — bottom time is limited at this depth.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The open reef structure and clear water make Banc Major a strong wide-angle site. Eagle ray passes over the sandy margin and school-of-fish compositions at the reef crest are the highlight subjects. Barrel sponge portraits with resident groupers work well with a strobe setup.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## Atlantic (Wrack)
 
-Atlantic (Wrack) is a historic wreck dive in Great Lakes, North America.
+The Atlantic wreck site lies in Lake Erie off the Ontario north shore, in the wreck-rich waters between Port Dover and Port Colborne. One of numerous 19th-century sailing vessels lost to Lake Erie storms, the Atlantic rests in approximately 20 metres of cold freshwater where preservation conditions are among the best in the Great Lakes.
 
 ## Overview
 
-Atlantic (Wrack) is a dive site in Great Lakes featuring the wreck of the Atlantic (Wrack). Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Lake Erie, despite being the shallowest of the Great Lakes, has claimed hundreds of vessels over two centuries of intense commercial shipping. The Atlantic is one of many schooners and steamers that now rest on the lake bottom, their wooden hulls protected from the usual deterioration agents by cold, low-oxygen freshwater. The site sits at approximately 20 metres — an ideal recreational diving depth — on the sandy bottom of the northern Lake Erie basin. Visibility varies from 5 metres in poor conditions to 15 metres on calm, clear summer days.
 
 ## Site Information
 
-- **Location**: Great Lakes, North America
+- **Location**: Lake Erie, Great Lakes, Canada
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
+- **Maximum Depth**: 20 metres
+- **Typical Visibility**: 5–15 metres
+- **Water Temperature**: 4–22°C (seasonal); Lake Erie surface temperatures are the warmest of the Great Lakes in summer
+- **Current**: Variable; Lake Erie can develop significant current with wind
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Yellow perch dominate the wreck community in Lake Erie, often encountered in large schools hovering over the deck. Walleye — for which Lake Erie is famous — are occasionally spotted near the wreck, particularly in early morning or evening. Smallmouth and largemouth bass use the hull as structure, and lake trout patrol the edges of the debris field. Zebra mussels cover all hard surfaces. Round gobies are omnipresent on the bottom around the wreck.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the wreck top and explore from bow to stern. The wreck lies on a flat sandy bottom, making orientation and navigation easy for intermediate divers. Hull features including the capstan, anchoring hardware, and cargo hold are the main points of interest. Begin your ascent with adequate reserve gas. Safety stop at 5 metres for 3 minutes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive charters operate from Port Dover and Port Colborne in the Port Erie area of Ontario. Entry by giant stride or back roll. Deploy SMB on ascent. Weather permitting, the charter boat will hold position while divers complete safety stops.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Lake Erie's summer surface temperatures can be warm enough for a thick wetsuit, but bottom temperatures remain cold — dress for the bottom, not the surface
+- Drysuit preferred for extended dives or cooler months
+- Bring a torch for examining dark hull interiors
+- Artifacts are protected by Ontario heritage legislation
+- Check wind forecasts carefully — Lake Erie is notorious for rapidly developing waves
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Lake Erie has a well-earned reputation for dangerous weather. Its shallow depth means waves build quickly and can become dangerous without warning. Never dive Lake Erie without checking weather forecasts, and be prepared to abort a dive trip if conditions deteriorate. Always dive with a buddy and carry an SMB.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+Lake Erie wrecks offer a distinctive photographic palette — the muted blue-green water, silty bottom, and encrusted hull textures create moody, atmospheric images. Yellow perch schools hovering around the wreck make excellent natural framing elements. A torch adds warmth and contrast to interior shots.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

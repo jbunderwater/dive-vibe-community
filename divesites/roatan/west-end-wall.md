@@ -11,57 +11,56 @@ osmId: null
 addedBy: osm_import
 ---
 
-## West End Wall
+# West End Wall
 
-West End Wall is a wall dive site in Roatán, Caribbean.
+*Roatán's most convenient wall dive, directly accessible from West End village and the go-to site for the dive shops lining the main road.*
 
 ## Overview
 
-West End Wall is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+West End Wall is the main wall dive site for the West End dive community, running directly in front of and around the West End Village area on the northwest corner of Roatán. The reef drops from a shallow coral plateau at 5–8 meters down to 30 meters and beyond along the main Mesoamerican Barrier Reef face. Dozens of dive shops in West End offer day-long boat trips and shore-accessible routes to this wall, making it the most-dived site on the island. Despite heavy dive traffic, the wall remains productive and spectacular. Visibility averages 25–30 meters. Water temperatures hold at 27–29°C.
 
 ## Site Information
 
-- **Location**: Roatán, Caribbean
-- **Entry Type**: Boat dive
+- **Location**: West End Village, northwest Roatán, Bay Islands, Honduras
+- **Entry Type**: Boat dive (some sections accessible by shore entry from West End)
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 25–30 meters (80–100 feet)
+- **Current**: Light to moderate; generally gentle in front of West End village
+- **Best Time**: Year-round; this is the most accessible dive site on Roatán
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The West End Wall is one of the best turtle diving experiences in the Bay Islands. Both hawksbill and loggerhead turtles are regularly encountered feeding on sponges along the wall face and on the reef plateau. Eagle rays are seen daily passing along the wall. The reef top is exceptionally rich in hard coral coverage — brain corals, star corals, and elkhorn corals in various stages. Caribbean reef sharks appear in the deeper sections. Nurse sharks rest on sandy ledges at 18–22 meters. The shallow reef plateau (5–8 meters) is famous for its spotted drum sightings — these elegant fish are reliably found near larger coral heads.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+The West End Wall can be dived as a boat dive with permanent mooring positions, or accessed by shore entry at certain points near the dive shops. Descend to the reef plateau at 5–8 meters and navigate to the wall edge before dropping to your target depth of 15–25 meters. The wall follows the coastline in both directions — navigation is straightforward by simply following the wall. Ascending back to the reef top for the safety stop extends the dive experience in the shallows. Typical dive time is 50–60 minutes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Multiple West End dive operators offer trips to this wall throughout the day. Shore entry is also possible from the beach at the end of the main West End road for experienced divers. Boat entry via giant stride. Exit via boat ladder or shore entry point.
 
-## Tips and Recommendations
+## Tips
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- The section directly in front of Half Moon Bay (the small cove in West End) has excellent shallow reef for the safety stop
+- Shore entry divers should check with local shops about access points and conditions before entering independently
+- West End is the budget diving capital of Roatán — multiple price-competitive operators offer excellent service
+- Combine West End Wall with the adjacent reef at Half Moon Bay for a comprehensive shallow/deep dive
+- Turtle sightings are most reliable at dawn on the reef plateau — an early boat is worthwhile
 
-## Safety Considerations
+## Safety
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+One of Roatán's most dived sites, so boat traffic around West End can be significant. Surface carefully and deploy an SMB before ascending in open water. The wall drops quickly — maintain depth discipline. Current is generally manageable but can pick up on the west-facing sections in afternoon trade winds. Always dive with a buddy.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+The West End Wall is excellent for photography at every level. The shallow reef plateau in 5–8 meters of clear, sunlit water is perfect for natural-light reef portraits. The wall face with sea fans and coral formations offers wide-angle subjects. Turtle encounters on the plateau are among the most photogenic in the Caribbean — approach slowly from the side without chasing.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

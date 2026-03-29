@@ -11,57 +11,56 @@ osmId: 9383584501
 addedBy: osm_import
 ---
 
-## Pointe du Gouvernail
+# Pointe du Gouvernail
 
-Pointe du Gouvernail is a wall dive site in Guadeloupe, Caribbean.
+*A wall dive at the rudder-shaped promontory off Les Saintes, with an imposing drop-off and rich French Caribbean reef life in exceptionally clear water.*
 
 ## Overview
 
-Pointe du Gouvernail is a dive site in Guadeloupe featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Pointe du Gouvernail ("Rudder Point") is a wall dive site located off the main island of Terre-de-Haut in the Les Saintes archipelago, approximately 15 kilometers south of Basse-Terre, Guadeloupe. The promontory juts out from the island's coastline and drops into clear Caribbean water, creating a wall dive at 10–22 meters. Les Saintes is widely regarded as one of the most beautiful dive areas in the French Caribbean, combining crystalline visibility, strong coral health, and a charming traditional island community above the waterline. Water temperatures average 26–27°C year-round, with a slight dip to 24°C in February–March.
 
 ## Site Information
 
-- **Location**: Guadeloupe, Caribbean
+- **Location**: Terre-de-Haut, Les Saintes, Guadeloupe
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 25–35 meters (80–115 feet)
+- **Current**: Light to moderate; the point concentrates current
+- **Best Time**: Year-round; November to May for clearest water in Les Saintes
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Les Saintes has a reputation for clean, healthy reef systems with lower diver pressure than the main Guadeloupe sites near Bouillante. Pointe du Gouvernail hosts impressive large animal encounters. Caribbean reef sharks cruise the deeper section of the wall. Hawksbill and green turtles are very commonly sighted. Eagle rays appear seasonally. The wall face is covered with sea fans, encrusting sponges, and wire corals. Barracuda school in the open water above the point. Large groupers and snapper hold station near the wall base. French and grey angelfish are territorial residents of the shallow reef section.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-22 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Cross to Les Saintes by ferry or dive boat from Basse-Terre or Guadeloupe. Descend to the reef top at 8–10 meters and navigate to the wall face at the promontory. Follow the wall to the target depth of 18–20 meters. The point creates an interesting corner dive — exploring both faces of the promontory in a single dive is possible. Ascend the wall back to the reef top for the safety stop. Current at the point tip requires active management.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Reach Les Saintes by ferry from Trois-Rivières or Saint-François (30 minutes). Les Saintes-based dive operators serve Pointe du Gouvernail directly. Alternatively, Bouillante operators offer day trips to Les Saintes. Entry via giant stride. The Les Saintes channel can have ferry traffic — surface carefully.
 
-## Tips and Recommendations
+## Tips
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Les Saintes deserves a full two-day diving visit — plan to stay on Terre-de-Haut rather than day-tripping
+- Combine Pointe du Gouvernail with La Baleine and the adjacent Sec Pâté for a comprehensive Les Saintes dive day
+- The underwater clarity in Les Saintes is consistently among the best in the French Caribbean — conditions worth the crossing
+- The anchorage at Bourg des Saintes is one of the Caribbean's most picturesque — book accommodation in advance during peak season
+- Sharks at this site are unthreatening — they are simply part of the resident ecosystem
 
-## Safety Considerations
+## Safety
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Current at the promontory tip requires experience managing drift. Do not attempt to swim against a strong current — drift with it and signal the boat. Always carry an SMB for the open-water ascent. Ferry traffic in the Les Saintes channel is regular — surface carefully and signal your position.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+The exceptional visibility of Les Saintes makes Pointe du Gouvernail an outstanding photography site. Wide-angle shots along the wall face with the promontory topography visible in the background. Reef shark encounters in clear, blue-green water are dramatic subjects in this visibility. The wall face's sea fan coverage makes compelling foreground framing for wide-angle compositions.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

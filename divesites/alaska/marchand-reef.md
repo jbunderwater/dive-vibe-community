@@ -13,61 +13,55 @@ addedBy: osm_import
 
 ## Marchand Reef
 
-Marchand Reef is a reef dive site in Alaska, North America.
+A submerged reef in the Ketchikan cluster known for its dense anemone coverage and regular lingcod activity.
 
 ## Overview
 
-Marchand Reef is a dive site in Alaska offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Marchand Reef is one of the named reef formations clustered in the Dixon Entrance approaches south of Ketchikan, where some of Alaska's most productive cold-water dive sites are concentrated. The reef rises to manageable depths while descending to 26 meters, providing a full dive profile across zones with distinctly different fauna. Upper reef faces carry the densest anemone and sponge coverage, while deeper sections host larger lingcod and provide shelter for giant Pacific octopus. Like all sites in this group, successful diving requires coordinating the descent with slack tide windows. The site is regularly visited by Ketchikan dive operators and benefits from consistent local operational knowledge.
 
 ## Site Information
 
-- **Location**: Southeast Alaska (Ketchikan area), Alaska
+- **Location**: Ketchikan area reef cluster, Southeast Alaska
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Advanced
-- **Typical Visibility**: 8-20 meters (26-66 feet)
-- **Current**: Strong, slack tide required
-- **Water Temperature**: 6-12°C (43-54°F)
-- **Best Time**: July-September (warmest months)
-
+- **Maximum Depth**: 26 meters (85 feet)
+- **Typical Visibility**: 8–18 meters (26–60 feet)
+- **Current**: Strong — slack tide required
+- **Water Temperature**: 6–12°C (43–54°F)
+- **Best Time**: June–September
 
 ## Marine Life
 
-The rocky formations support cold-water invertebrate communities including sea urchins, starfish, anemones, nudibranchs, and sponges. Lingcod, rockfish, and cabezon patrol the rocks. Giant Pacific octopus inhabit rock crevices. Kelp fronds extend from shallower formations.
-
+Marchand Reef carries the typical Inside Passage cold-water community: aggregating anemones, plumose anemones, encrusting sponges, Pisaster and sunflower sea stars, sea urchins, and horse mussels. Rockfish schools are common in mid-water above the structure. Lingcod are the dominant large predators and are often surprisingly approachable. Giant Pacific octopus, wolf eels, and cabezon have all been reported by local divers at this site.
 
 ## Dive Profile
 
-Descend to the rocky formation and stay close to structure for current management. Explore rock faces and crevices watching for fauna. Most dive time spent between 15-24 meters. Watch for large mobile fauna on exposed areas.
-
+Descend on the structure during slack, spending initial time at 20–26 meters before ascending progressively through the mid-range zones. The upper reef at 8–14 meters provides a natural safety stop zone with plenty of interest to keep divers occupied. Allow a full 3-minute safety stop before surfacing.
 
 ## Entry and Exit
 
-Boat dive access from Ketchikan or nearby operators. Descend directly on a line or GPS coordinates. Maintain group cohesion.
-
+Ketchikan operators run regular trips to Marchand Reef as part of multi-site dive days in this cluster. No permanent moorings — shot line descent is standard. SMB mandatory for all ascents.
 
 ## Tips and Recommendations
 
-- Book with a local dive operator familiar with slack tide schedules
-- Wear dry suit with proper thermal insulation
-- Install cold-water regulator
-- Use a dive torch for fauna spotting
-- Deploy surface marker buoy (SMB) at ascent
-- Practice buoyancy control on rocky bottom
-
+- Marchand Reef pairs well with neighboring sites like Alert Rock and Harvey Rock for a full day
+- Giant Pacific octopus are typically found in crevices below 15 meters — look for shell middens outside den entrances
+- Cold-water lingcod often allow very close approaches — avoid touching them, but slow, calm movement permits excellent views
+- Prepare for water temperatures potentially dropping below 8°C even in summer at depth
+- Dry suit checks including valve tests should be completed before departure from port
 
 ## Safety Considerations
 
-This is an Advanced site requiring cold-water and current diving experience. Strong currents demand slack tide coordination. Limited visibility in glacier outflow requires navigation skills. Always dive with buddy, maintain group cohesion, and abort if conditions deteriorate.
-
+Current management is the critical skill for this site. Aborting the dive and rescheduling if conditions are unsuitable is always the right decision. Dry suit proficiency and proper undersuit insulation are mandatory. Cold water increases air consumption — dive conservatively and maintain agreed turn pressures with your buddy.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Marchand Reef is a strong photography site within the Ketchikan cluster. The dense anemone coverage provides excellent textured backgrounds for fish portraits. Lingcod are highly photogenic and relatively cooperative. Macro subjects — nudibranchs, tube worms, sea stars — reward slow, careful exploration of the encrusted surfaces.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*

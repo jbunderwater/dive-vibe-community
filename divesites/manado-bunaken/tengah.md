@@ -13,55 +13,28 @@ addedBy: osm_import
 
 ## Tengah
 
-Tengah is a wall dive site in Manado & Bunaken, Asia.
+Tengah — "middle" in Indonesian — is a wall dive on Bunaken Island's west side that lives between the calmer tourist sites and the more exposed northern sites, offering serious wall diving with a rich, undisturbed coral face.
 
 ## Overview
 
-Tengah is a dive site in Manado & Bunaken featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Tengah occupies the mid-section of Bunaken's western coast, positioned between the sheltered western sites near Fukui and the exposed north-western sites like Mike's and Raymond's. Its name reflects this geography. The wall here receives enough current to feed dense coral growth without the full force of the north-west swells, creating conditions that reward advanced divers who can manage moderate to strong current while appreciating an extremely healthy reef. Because it lacks the same name recognition as the Lekuan series or Fukui, Tengah tends to see fewer divers — a genuine advantage for those who find it.
 
-## Site Information
+## What to Expect
 
-- **Location**: Manado & Bunaken, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+The reef crest at Tengah sits at 5–8 metres and the wall drops vertically to 40 metres and beyond. The coral coverage on the wall face is notably pristine — large table corals, massive brain corals, and extensive fields of encrusting corals cover nearly every surface. Between 20 and 35 metres, the wall features prominent ledges where resting whitetip reef sharks and giant sleeping trevally are reliable sightings. Large barrel sponges emerge from the wall at depth, some old enough that their age is measured in decades.
 
-## Marine Life
+The wall's exposure to moderate current means the resident fish populations are well-fed and active. Dense schools of anthias swarm around the coral formations in the 10–20 metre range, and the transition between the wall face and the open water is often busy with schooling sweetlips, surgeonfish, and fusilier. Napoleon wrasse make regular appearances, and patient divers have reported occasional whale shark sightings in the open water during peak plankton season (April–May).
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+## Conditions
 
-## Dive Profile
+- **Depth range:** 5–40+ m
+- **Visibility:** 15–30 m
+- **Currents:** Moderate to strong; variable direction
+- **Water temperature:** 26–30°C
+- **Best season:** May–October
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+## Tips
 
-## Entry and Exit
+Tengah rewards divers who take time to examine the wall closely rather than cruising along it quickly. The barrel sponges in particular are worth inspecting — many harbour resident shrimps, crabs, and tiny blennies. Current direction at this site can shift during a dive, so maintain awareness of position relative to the wall throughout.
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

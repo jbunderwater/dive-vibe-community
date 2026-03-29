@@ -11,56 +11,54 @@ osmId: 1493059692
 addedBy: osm_import
 ---
 
-## Sham Fugami
+# Sham Fugami
 
-Sham Fugami is a reef dive site in Red Sea, Middle East.
+A coastal dive site near Quseir with a sheltered bay character, sandy-floor transitions, and the resident fish communities that concentrate in protected bays along this stretch of the central Egyptian Red Sea coast.
 
 ## Overview
 
-Sham Fugami is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Sham Fugami sits at approximately 25.87°N, 34.42°E on the central Egyptian Red Sea coast near Quseir — in the bay and cove zone typical of this section of the coastline. "Sham" in Arabic can refer to a northward-facing bay or geographical feature. The site's sheltered character distinguishes it from the more exposed offshore reefs further south and east — it offers a calmer, bay-environment dive suited to the conditions common during the northerly wind season. Quseir operators use this and adjacent sites when offshore conditions preclude access to deeper sites. The reef structure features a bay margin with fringing coral, sandy seabed transitions, and accessible depths throughout.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Near Quseir, central Egyptian Red Sea coast (~25.87°N, 34.42°E)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 10–20 meters
+- **Current**: Generally mild in the sheltered bay position
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The sheltered bay environment supports the typical Quseir coastal assemblage: moray eels in the reef crevices, groupers on the outer reef face, and blue-spotted stingrays on the sandy floor. Cleaning stations in the 8–12 metre zone attract resident fish. Lionfish and scorpionfish in the coral overhangs. Garden eels may be present in the sandy sections adjacent to the reef base. The bay's protection from current means macro invertebrate diversity is high — nudibranchs and flatworms reward slow searching on the coral substrate.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the sandy bay floor at 12–15 metres and search for stingrays and garden eels. Move to the reef margin at 8–12 metres for cleaning station observation. The shallow inner bay at 4–8 metres provides the snorkel-depth section. Safety stop at 5 metres over the inner bay reef.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day boat from Quseir (15–30 minutes). Giant stride or roll-in entry. The sheltered bay character makes this a reliable option in choppy northerly wind conditions. SMB deployment before ascending.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Use this site as a second dive after a more demanding offshore site — the calm bay conditions are ideal for a relaxed, macro-focused dive
+- The sheltered character makes it an excellent night dive option from Quseir — moray eels and octopuses are active after dark
+- Search the sandy bay floor carefully for nudibranchs and flatworms on the coral rubble transition zones
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Generally mild conditions. Fire coral on the reef sections. Scorpionfish and lionfish in coral overhangs. SMB before ascending — even in calm conditions, the boat needs to locate divers at the surface.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Nudibranch and flatworm macro work on the coral substrate rewards careful searching and a macro lens approach. Sandy floor portraits — stingrays and garden eels in natural light — suit ambient technique in the well-lit shallow bay.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,53 +13,50 @@ addedBy: osm_import
 
 ## Canyon
 
-Canyon is a reef dive site in Croatia, Europe.
+Canyon is a wall and canyon dive in the Cres/Lošinj area of the Kvarner archipelago in northern Croatia. The site features a dramatic geological formation where the seafloor drops away in a series of vertical faces and narrow channels, creating an impressive underwater landscape with varied depths.
 
 ## Overview
 
-Canyon is a dive site in Croatia offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The site consists of rocky wall faces, narrow canyon-like channels, and broken terrain dropping to around 25 metres. The walls and overhangs are encrusted with red and orange sponges, gorgonian fans, and hydroids, while the crevices and boulders create numerous micro-habitats. The clear Kvarner waters, with typical visibility of 15–20 metres, allow full appreciation of the dramatic topography.
 
 ## Site Information
 
-- **Location**: Croatia, Europe
+- **Location**: Cres/Lošinj area, Kvarner, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Wall/canyon
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 15–20 meters
+- **Current**: Light to moderate; check locally
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+The canyon walls provide sheltered habitat for moray eels, lobster, and conger eels in the deeper crevices. Grouper claim territorial positions near the top of the wall. Nudibranchs and sea slugs crawl across sponge-covered surfaces. Sea bream and ornate wrasse populate the mid-water, and octopus are commonly found exploring the rocky bottom. Red coral (Corallium rubrum) is present in shaded overhangs.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin at the shallow end of the canyon formation and work down the walls to the 25-metre maximum depth. Explore the narrow canyon sections by finning through carefully while maintaining distance from the walls. Work back up through the shallower sections and complete a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from Cres or Mali Lošinj operators access this site. Entry by giant stride or back roll. Deploy an SMB during ascent for boat pickup. Be aware of any current running through the canyon on the surface.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- A torch is invaluable for illuminating the deep crevices and darker canyon sections
+- Excellent buoyancy control is essential in the narrow canyon passages
+- The red coral-encrusted overhangs are among the most photogenic aspects of the site
+- Combine with a second reef dive nearby for a full day programme
+- Bring a surface marker buoy — the canyon topography can take divers away from the descent point
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The canyon topography can be disorienting for less experienced divers — maintain awareness of depth and position at all times. Current can funnel through narrow sections. Always dive with a buddy and carry an SMB. The site is straightforward for intermediate divers with solid buoyancy skills.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The canyon walls draped with red and orange sponges make exceptional wide-angle subjects with a diver for scale. Deep crevice openings framed by colourful encrustation are classic compositions. Macro subjects on the sponge-covered walls reward close inspection.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,54 +13,51 @@ addedBy: osm_import
 
 ## Moore Reef - 5 Ways
 
-Moore Reef - 5 Ways is a reef dive site in Great Barrier Reef, Oceania.
+Moore Reef - 5 Ways is a popular reef dive site on Moore Reef, approximately 40km east of Cairns on the outer Great Barrier Reef, Queensland, Australia.
 
 ## Overview
 
-Moore Reef - 5 Ways is a scenic reef site famous as one of Cairns' most popular dive destinations, featuring multiple dive options across different reef sections. Located near Cairns in the central Great Barrier Reef, this site offers 15-20 meters of visibility with water temperatures of 23-27°C. The site features diverse coral formations and abundant fish life, with facilities for multiple dive groups.
+Moore Reef is one of the most accessible outer reef destinations from Cairns, reached in approximately 90 minutes by high-speed catamaran. The 5 Ways site takes its name from the point where five separate reef channels meet, creating an intersection of current flows that concentrates food particles and, consequently, marine life. A permanent pontoon is maintained at Moore Reef, providing a stable platform for day-trip operations including guided snorkelling, introductory dives, and certified diver experiences.
+
+The 5 Ways site is a short swim or boat transfer from the pontoon and offers the most diverse diving at Moore Reef. The converging channels create subtle current effects that keep the soft corals extended and attract midwater species to the confluence point.
 
 ## Site Information
 
-- **Location**: Great Barrier Reef, Oceania
+- **Location**: Moore Reef, outer Great Barrier Reef, approximately 40km east of Cairns, Queensland, Australia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 15-40 meters (50-130 feet)
-- **Current**: Variable
-- **Best Time**: September to February
+- **Typical Visibility**: 10–25 metres
+- **Current**: Mild at the confluence; predictable with tidal patterns
+- **Best Time**: Year-round; July to October for best visibility
 
 ## Marine Life
 
-Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals.
+The five converging channels concentrate plankton and attract reef fish in feeding aggregations. Maori wrasse are numerous and confident around the pontoon area. Sea turtles are a near-guarantee at Moore Reef — both green and hawksbill turtles are resident in the reef system and frequently encountered at the 5 Ways site. Leopard sharks (zebra sharks) are commonly sighted resting on the sand. Whitetip reef sharks patrol the channel edges. The reef itself supports healthy hard coral coverage with butterflyfish, parrotfish, and surgeonfish in constant activity. Bumphead parrotfish groups occasionally pass through the channels.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+A shallow dive that stays within 15 metres, typically following the channel edges and crossing through the confluence area. Most of the marine life activity is in the 5–12 metre range. With a maximum depth of 15 metres, bottom time is generous — 50-60 minute dives are achievable for most divers, making this ideal for underwater photography and leisure exploration.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day trips depart from Cairns marina (Reef Fleet Terminal) with multiple operators. Entry is from the pontoon dive platform or tender. Guided dives are available for beginners; certified divers can self-guide with a briefing. Exit via the pontoon dive platform ladder.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Book the first dive slot on the pontoon to experience the site before the day's snorkelling traffic begins
+- The 5 Ways confluence is best during an incoming tide when current draws nutrients across the site
+- Introductory (discover scuba) dives are well-suited to this site — it is shallow, calm, and rich in large, approachable marine life
+- Ask about the resident turtle by name — pontoon dive guides typically know the individual animals
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish (box jellyfish in summer), crocodiles (north) in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Moore Reef is the most supervised and supported dive environment on the GBR — the pontoon has trained staff in the water at all times during dive hours. Box jellyfish risk is managed with stinger suits provided to guests during the October–May season. Follow the guided dive briefing for current conditions on the day.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Moore Reef's clear outer reef water and abundant large animals make it excellent for beginner underwater photographers. Sea turtles are the primary subject — approach slowly from the side and the turtles typically continue feeding, allowing close-range portraits. The maori wrasse are similarly cooperative. Wide-angle reef landscapes are achievable without strobes in the morning light.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

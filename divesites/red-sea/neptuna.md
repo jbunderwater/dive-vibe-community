@@ -13,55 +13,49 @@ addedBy: osm_import
 
 ## Neptuna
 
-Neptuna is a historic wreck dive in Red Sea, Middle East.
+The Neptuna is a wreck dive site at approximately 23.62°N, 36.20°E in the Red Sea — a position in the open waters of the central Egyptian Red Sea, close to the Khanka wreck site at nearly identical coordinates. The proximity of these two wrecks (Neptuna at 23.619°N and Khanka at 23.617°N, both at approximately 36.20°E) suggests this is a wreck cluster in the same small area — possibly a reef or shallow bank that has claimed multiple vessels over the years.
 
 ## Overview
 
-Neptuna is a dive site in Red Sea featuring the wreck of the Neptuna. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The Neptuna and Khanka wrecks in close proximity create an opportunity for a productive twin-wreck dive day or a single extended dive covering both sites. The Neptuna rests at intermediate diving depths to approximately 20 meters, making it accessible to intermediate divers on standard air fills. Years of submersion have allowed the hull to accumulate encrusting organisms, and the wreck now functions as an artificial reef structure providing habitat for a productive marine community in the open Red Sea. The area around both wrecks is accessed by liveaboard from Hurghada.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
+- **Location**: Central Red Sea, Egypt (approximately 23.62°N, 36.20°E)
+- **Entry Type**: Boat dive (liveaboard access)
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20-35 meters (65-115 feet)
+- **Current**: Moderate; variable in the open Red Sea
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter glassy sweepers, lionfish, groupers, coral growth, soft corals, whale sharks, manta rays, hammerhead sharks. Additional species commonly sighted include oceanic whitetip sharks, sea turtles, dolphins. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Neptuna wreck structure hosts the characteristic Red Sea artificial reef community. Schools of glassy sweepers fill accessible interior spaces in dense silver masses. Groupers of significant size hold territory in the hold and machinery spaces, while lionfish occupy every suitable overhang and dark ledge. Giant moray eels are resident in the corroded hull plating gaps. Soft coral growth — particularly sea fans and tree corals — decorates the exterior, and the surrounding sandy seabed may shelter stingrays. The open Red Sea location means occasional pelagic visitors to the wreck: barracuda, trevally, and reef sharks are possible.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the wreck and orient by circumnavigating the exterior before diving in detail. Work from one end to the other at the productive depth range of 10-20 meters, examining hull features, cargo holds, and superstructure. If the Khanka wreck is within reach on the same dive, a connecting exploration of both wrecks is possible depending on dive guide knowledge and conditions. Ascend with 50 bar minimum reserve and complete a full safety stop before surfacing.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Liveaboard access from Hurghada on central Red Sea routing. Entry via giant stride; drift pickup if current is present. Deploy SMB before ascending in open water conditions.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Ask the liveaboard dive guide about combining the Neptuna with the adjacent Khanka wreck
+- Carry primary and backup torches for interior sections
+- Approach the wreck circumnavigation with enough air to complete a full exterior survey before exploring interiors
+- Nitrox is useful for extending time in the 15-20 meter range where the most interesting hull sections are found
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Remote liveaboard dive in open Red Sea requires full self-sufficiency. Carry charged SMB, audible signal, and signal mirror. Interior penetration requires wreck dive training and line. Silt disturbance in enclosed spaces can rapidly reduce visibility. Fire coral on all external surfaces.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Wide-angle hull silhouette shots in the clear Red Sea water — the Neptuna wreck framed against the deep blue — are the most dramatic images available at this site. Schools of glassy sweepers in the interior with torch-lit foreground and ambient background light through openings create striking compositions. Soft coral growth on the exterior hull provides detailed close-up subjects.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

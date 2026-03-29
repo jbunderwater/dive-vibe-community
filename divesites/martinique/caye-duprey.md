@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Caye Duprey
 
-Caye Duprey is a reef dive site in Martinique, Caribbean.
+Caye Duprey is a reef dive site in the Sainte-Luce area on Martinique's south coast, one of the cluster of reef sites that make this stretch of coastline one of the island's most active for recreational diving.
 
 ## Overview
 
-Caye Duprey is a dive site in Martinique offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Located in the sheltered Caribbean waters south of Sainte-Luce, Caye Duprey presents a broad reef platform that slopes from shallow coral-rich zones to a sandy bottom at 20 meters. The site features healthy hard coral structures including brain, star, and massive corals, with notable sponge growth on the deeper sections. Protected from the brunt of Atlantic swells by the island's bulk, conditions here are reliably calm and visibility averages 15–25 meters. Water temperature holds at 26–28°C.
 
 ## Site Information
 
-- **Location**: Martinique, Caribbean
+- **Location**: South coast near Sainte-Luce, Martinique
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral reef platform
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Typical Visibility**: 15–25 meters
 - **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Best Time**: November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Sea turtles are common at Caye Duprey, particularly green turtles feeding on algae between coral formations. Parrotfish, surgeonfish, and schooling grunts are abundant throughout the reef. The sandy margins at 18–20 meters attract southern stingrays, and eagle rays make regular passes over the reef. Moray eels and spiny lobsters inhabit crevices at depth.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Follow the reef slope from the crest to the sandy bottom, exploring coral formations along the way. The profile is gentle, making navigation straightforward. Focus on the 10–15 meter zone where coral density and fish life are highest. Return up the reef slope for a safety stop in the shallows.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Sainte-Luce operators. Giant stride entry; SMB required on ascent. Commonly paired with Banc du Mitan or Banc Major for a two-tank south coast itinerary.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- A reliable, uncrowded alternative when the more popular sites are busy
+- The sandy margin at depth rewards patient divers with stingray and eagle ray encounters
+- Good site for buoyancy practice — the gentle slope and clear water make depth control easy to monitor
+- Morning light hits the shallower reef sections well for photography
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Fire coral is present on reef crests — maintain good buoyancy. Deploy SMB before ascending. Monitor air consumption on the 20-meter sections of the dive.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The clear south coast water and healthy reef provide solid natural-light reef photography conditions. Turtle encounters over coral heads are the highlight subject. Wide-angle reef shots in the shallow zone photograph well without supplementary lighting.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

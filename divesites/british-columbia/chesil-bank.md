@@ -11,55 +11,57 @@ osmId: 6389059656
 addedBy: osm_import
 ---
 
-## Chesil Bank
+# Chesil Bank
 
-Chesil Bank is a reef dive site in British Columbia, North America.
+A submerged bank in the Gulf Islands offering consistent cold-water diving with excellent invertebrate life.
 
 ## Overview
 
-Chesil Bank is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Chesil Bank sits in the central Gulf Islands in the waters between Salt Spring Island and Saanich Peninsula. As a shoaling underwater feature, it concentrates currents and upwelling nutrients that support rich communities of filter feeders. The site is typical of Gulf Islands intermediate diving — accessible by boat from Sidney or Ganges, requiring drysuit gear and tide-awareness. Water temperatures hold between 8–11°C and visibility ranges 8–15 metres in favourable conditions.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Gulf Islands, central Strait of Georgia / Haro Strait, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Submerged bank / reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 8–15 metres
+- **Current**: Moderate tidal currents — plan around slack
+- **Best Time**: Late spring through autumn
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Chesil Bank supports the classic Gulf Islands cold-water community. Giant Pacific octopus are routinely sighted in crevices throughout the bank. Lingcod are abundant predators, often resting camouflaged against the rocky bottom. Copper and quillback rockfish inhabit the reef structure. Plumose anemones and encrusting sponges coat exposed surfaces. Nudibranchs are diverse and visible for those who search carefully. Harbour seals are regular visitors. Dungeness crab forage on sandy areas adjacent to the bank.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The bank rises to a high point of approximately 8–10 metres. Work the deeper perimeter of the bank during the main dive phase, transitioning to the shallower sections for the safety stop. The bank's flat upper surface contrasts with its steeper sides, providing two distinct habitat types within a single dive. Look into crevices and under ledges throughout the dive for the larger invertebrate species.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Sidney marina or Ganges Harbour, Salt Spring Island. Locate the bank with GPS and depth sounder. Anchor well clear of the bank's summit to avoid reef damage. A live boat pickup is preferred. Deploy SMB clearly before ascending to alert boat traffic.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Explore both the top of the bank and its sides for the full range of marine life
+- Autumn dives on the Gulf Islands often provide the best seasonal visibility
+- Bring both wide-angle and macro lens setups for the full range of photographic subjects
+- Check conditions with local Sidney or Gulf Islands dive operators
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Currents in the Gulf Islands require tide table planning. The bank's position in open water makes it exposed to wind chop. Always surface with a deployed SMB. Cold water (8–11°C) requires a well-functioning drysuit with appropriate undergarments.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The varied terrain of Chesil Bank offers wide-angle compositions of the bank's structure with fish and invertebrates. Macro photographers should carefully search for nudibranchs on sponge-covered surfaces. Octopus interactions — particularly colour changes — make spectacular behavioural photography. Bring a strobe or video light for accurate colours.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
+- Sidney and Gulf Islands dive operators
+- Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

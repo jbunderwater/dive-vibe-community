@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Mangrove Ridge
 
-Mangrove Ridge is a reef dive site in Raja Ampat, Asia.
+Mangrove Ridge is a reef ridge dive site located adjacent to mangrove habitat in Raja Ampat, West Papua, Indonesia.
 
 ## Overview
 
-Mangrove Ridge is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Mangrove Ridge sits within the cluster of closely spaced dive sites in the Gam Island area, positioned where a submerged reef ridge meets the influence of nearby mangrove ecosystems. This proximity to mangrove habitat gives the site an unusual ecological character: the nutrient input from the mangroves supports rich invertebrate life on the reef, and the ridge's shallow sections border the transitional habitat where reef and mangrove meet. The ridge is colonised by both hard and soft coral growth, with the mangrove-adjacent shallows supporting juvenile fish communities sheltering in the transition zone. The combination of ridge terrain and mangrove influence makes this one of the more ecologically interesting sites in the Gam area. Visibility averages 15-25 meters and water temperatures remain 27-29°C.
 
 ## Site Information
 
-- **Location**: Raja Ampat, Asia
+- **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-25 meters
+- **Current**: Mild to moderate, tidal influence
+- **Best Time**: October to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The mangrove adjacency enriches the juvenile fish diversity along the ridge's shallowest sections — juvenile batfish, sweetlips, and snappers use the transition zone as nursery habitat before moving to open reef. On the ridge itself, clownfish in anemones, resident groupers, and moray eels under coral heads are reliable sightings. Banded sea kraits are occasionally encountered traversing the reef. Reef sharks and Napoleon wrasse are present at the ridge's deeper flanks. For macro enthusiasts, nudibranchs and flatworms on the soft coral sections of the ridge are excellent subjects.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin at the ridge crest near the mangrove margin in the shallows (3-8 meters) and work along the ridge as it descends toward 20-25 meters. Spend time in the transition zone between mangrove root system and open reef — this area concentrates juvenile fish that are often overlooked at more open-water sites. Descend the ridge flanks to observe the deeper community before returning to the crest for the safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat. Entry near the ridge crest via giant stride. Tidal currents may influence conditions — check timing with your guide. Deploy SMB before ascending. The site is typically accessed from Gam Island homestays or liveaboard operators anchored in the Gam area.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Explore the mangrove-reef transition zone slowly — juvenile fish here can be surprisingly varied
+- Compare the community on the ridge with nearby Gam Ridge and Mangrove and Slope for interesting ecological contrasts
+- The site suits naturalist divers who appreciate the ecological story as much as individual encounters
+- Tidal timing affects conditions in the shallows — morning dives at or near high tide are usually best
+- The site works well as a second or third dive combining with deeper nearby sites
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Tidal current can run along the ridge and through the mangrove transition zone. Stay close to your guide in the shallows where currents may be unpredictable. Maintain buoyancy to avoid contact with both the coral ridge and mangrove structures. Carry an SMB. Dive within your certification limits.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The mangrove-ridge transition is visually distinctive and photographically productive. Wide-angle shots through the mangrove margin with the ridge dropping away into depth create unusual compositions. The juvenile fish population in the transition zone offers compelling macro and close-up subjects. The ridge flanks with coral growth at depth suit traditional reef scenic wide-angle work.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

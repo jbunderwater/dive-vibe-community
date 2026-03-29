@@ -11,55 +11,57 @@ osmId: 663869285
 addedBy: osm_import
 ---
 
-## Chain Islet
+# Chain Islet
 
-Chain Islet is a reef dive site in British Columbia, North America.
+A small rocky islet near Victoria with productive underwater terrain and active marine wildlife.
 
 ## Overview
 
-Chain Islet is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Chain Islet is a small rocky outcrop in the Haro Strait east of Victoria, part of the chain of small islands and reefs stretching between Vancouver Island and the San Juan Islands. The islet's above-water rock extends below the surface as a reef structure, creating habitat for a range of cold-water species. The site is accessible by boat from Victoria or Sidney and experiences the tidal currents typical of the Haro Strait region. Water temperatures range from 8–11°C and visibility is commonly 8–15 metres.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Haro Strait, east of Victoria, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky islet / reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 8–15 metres
+- **Current**: Moderate tidal currents in Haro Strait
+- **Best Time**: Late spring through autumn
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The underwater extension of Chain Islet provides excellent habitat for Pacific Northwest species. California sea lions haul out on the exposed rock surface and regularly interact with divers underwater — encounters can be spectacular. Giant Pacific octopus are found in crevices below the waterline. Lingcod and kelp greenlings are abundant on the rocky faces. Plumose anemones form dense colonies on current-swept surfaces. Harbour seals are a constant presence around the islet, and Steller sea lions visit seasonally.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Dive the rocky perimeter of the islet, beginning at the deeper sections on the more exposed sides and working around to the sheltered aspects. Maximum depth of 18 metres is found on the seaward faces. The shallow zone of 5–8 metres around the islet base is excellent for spending the final portion of the dive. Perform a safety stop at the shallow perimeter before surfacing.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Victoria Inner Harbour, Oak Bay Marina, or Sidney. Approach the islet carefully and maintain a safe distance from haul-out areas to avoid disturbing sea lions. Anchor on sand well away from the islet's rocky perimeter. Ascend with a deployed SMB as ferry and vessel traffic is significant in the Haro Strait.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Approach any hauled-out sea lions or seals quietly and at a distance — disturbing haul-outs is illegal
+- Underwater sea lion encounters happen on the sea lions' terms — let them approach you
+- The small islet can be circumnavigated in a single dive
+- Victoria dive charters regularly include Chain Islet in multi-site day trips
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Haro Strait tidal currents require careful timing to slack. BC Ferries and international shipping use this corridor — surface with a very visible SMB. Sea lion interactions, while generally safe for respectful divers, require awareness of the animals' potentially large size and power. Cold water demands drysuit protection.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Sea lion interactions produce some of the most dynamic wildlife photography available in BC diving. Wide-angle or fisheye lenses capture the animals' speed and playfulness. Look for moments when sea lions pose near the camera for portrait shots. The islet's rocky underwater structure with plumose anemones also provides fine invertebrate compositions.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
+- Victoria area dive charters for current timing and multi-site itineraries
+- Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

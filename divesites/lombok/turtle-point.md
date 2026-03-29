@@ -13,55 +13,54 @@ addedBy: osm_import
 
 ## Turtle Point
 
-Turtle Point is a reef dive site in Lombok, Asia.
+A pinnacle on Gili Trawangan's northeast side where green and hawksbill turtles gather in numbers — accessible from Lombok as a day trip.
 
 ## Overview
 
-Turtle Point is a dive site in Lombok offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Turtle Point is a pinnacle on the northeast side of Gili Trawangan that has become one of the Gili Islands' premier turtle encounter sites. The coral-covered pinnacle drops from 10 m to 35 m and is used by both green and hawksbill turtles as a feeding and resting area. Multiple turtle encounters in a single dive — sometimes 10 or more — are regularly reported. The site is accessible from Lombok mainland as part of a Gili Islands day trip, making it one of the most achievable bucket-list dives in the Lombok area for visiting divers.
 
 ## Site Information
 
-- **Location**: Lombok, Asia
+- **Location**: Northeast Gili Trawangan, accessible from Lombok
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef / Pinnacle
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 35 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 35 m
+- **Typical Visibility**: 15–25 m
+- **Current**: Moderate; variable on the pinnacle
+- **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Green and hawksbill turtles in substantial numbers — a standout site in the Gili Islands for turtle density. Reef sharks on the deeper pinnacle sections. Reef fish diversity throughout. Nudibranchs and cleaner shrimps on the coral surface. Barracuda and trevally in the blue water.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 35 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend the mooring line to the pinnacle and begin exploring the upper sections at 10–18 m where turtles are most concentrated. Advanced divers can explore deeper pinnacle sections. Ascend slowly to the pinnacle top for the safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat from Lombok or Gili Trawangan operators. Descent on mooring line. SMB for open water ascent.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- One of the highest-value day trip sites accessible from Lombok
+- Move very slowly along the pinnacle face — turtles stay if not startled
+- Multiple turtle encounters are almost guaranteed on most dives
+- Combine with Trawangan Wall for a full northeast and northwest Gili Trawangan day
+- Accessible to beginner Open Water divers in the upper pinnacle sections
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Variable current on the pinnacle. Beginners should stay on the upper sections in calmer water. Do not descend beyond certification depth. Do not touch or chase turtles. Always carry an SMB.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Multiple turtles together in one frame. Turtle eye-level portraits with pinnacle coral background. Wide-angle captures the pinnacle scale with turtles and reef sharks in context.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

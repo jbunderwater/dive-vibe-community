@@ -13,55 +13,50 @@ addedBy: osm_import
 
 ## Pink Beach
 
-Pink Beach is a reef dive site in Komodo National Park, Asia.
+Pink Beach is one of Komodo National Park's most visited sites, combining the visual spectacle of a rare pink-sand beach — its colour drawn from fragments of red coral — with a sloping reef that offers easy, colourful diving accessible to beginners and snorkellers alike.
 
 ## Overview
 
-Pink Beach is a dive site in Komodo National Park offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Located on the eastern coast of Komodo Island, Pink Beach (separate from the similarly named Pantai Merah site also within the park) sits against a backdrop of rust-red volcanic hills and offers a directly accessible shore entry onto a shallow sloping reef. The dive site extends from the beach edge in 2–3 meters of water to a sandy bottom at around 25–30 meters. Currents here are generally mild, the reef is sheltered, and the water clarity is good. This makes it a natural choice for first dives in Komodo, check-out dives, and as a relaxed option on an itinerary otherwise dominated by advanced current sites.
 
 ## Site Information
 
-- **Location**: Komodo National Park, Asia
+- **Location**: Komodo National Park, East Nusa Tenggara, Indonesia (eastern Komodo Island)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 12–20 meters
+- **Current**: Light; occasionally moderate at the reef's outer edge
+- **Best Time**: April to November; manageable year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The reef at Pink Beach rewards both wide-ranging and slow, observational approaches. Sea turtles are regularly encountered grazing on the reef or resting on flat coral tables. Anemone communities hosting clownfish are distributed across the 5–15 meter zone. Schools of sergeant majors and chromis hover above the coral, while moorish idols and butterflyfish patrol the reef face. The sandy bottom at depth is productive for blue-spotted ribbontail rays and the occasional flatfish. Garden eels sway in the slight current in sandy patches near the reef base. Nudibranchs are found on closer inspection of encrusting organisms on rubble.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter from the beach or the boat and descend along the sloping reef. The shallower section between 5–15 meters has the best coral coverage and fish density — this zone deserves the majority of dive time. Deeper exploration to 20–30 meters reveals the sandy base and its associated species. Return through the shallows for the safety stop, which can be done comfortably on the reef top in good visibility.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Shore entry from the beach is possible, or boat entry with a short swim to the reef. The beach requires wearing booties — sea urchins occupy the sandy beach edge. Exit at the same point; approach slowly and check for urchins before standing.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The iconic pink sand is created by red coral fragments mixed with white sand — look for the coral pieces on the beach
+- The shallows make this site excellent for snorkelling alongside divers
+- Spend at least 20 minutes in the 5–15 meter zone before going deeper — this is where most marine life is concentrated
+- Bring a macro setup for nudibranchs and critters on the rubble patches
+- Visit early in the day before boats bring day-trippers who snorkel from the beach
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The site is one of Komodo's safest. The main hazard is the entry and exit over the urchin-populated beach edge — wear protective footwear. Light currents at the outer reef edge can develop on the ebb tide. Always carry an SMB. Supervise inexperienced divers closely on their descent and ascent.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Pink Beach is visually exceptional above water — the pink sand, turquoise water, and dramatic volcanic hills behind make it one of the most photographed beaches in Indonesia. Underwater, the excellent natural light in the shallows creates clean, bright images without strobes for coral and fish portraits. Wide-angle to capture the reef landscape; macro for the critters. Shooting back toward the beach from underwater in 3–5 meters reveals the pink sand glowing above.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

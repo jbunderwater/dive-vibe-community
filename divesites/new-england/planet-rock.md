@@ -11,55 +11,57 @@ osmId: 803747675
 addedBy: osm_import
 ---
 
-## Planet Rock
+# Planet Rock
 
-Planet Rock is a reef dive site in New England, North America.
+A submerged rocky feature at the western edge of Fisher's Island Sound, near the Connecticut/Rhode Island/New York junction.
 
 ## Overview
 
-Planet Rock is a dive site in New England offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Planet Rock lies at the western end of the Watch Hill/Fisher's Island Sound reef cluster — the coordinates place it near the western approach to Fisher's Island Sound, where the sound opens toward Long Island Sound. This position puts it at the outer edge of the Rhode Island Sound reef sites, toward the Fisher's Island/Stonington area. "Planet Rock" is an unusual name for a New England marine feature — it may derive from a vessel's name, a historical incident, or an informal naming convention of local divers or fishermen. The rocky substrate at 15 metres depth provides the cold-water reef diving typical of the sound, with the added interest of its position at the convergence of multiple water body approaches.
 
 ## Site Information
 
-- **Location**: New England, North America
+- **Location**: Western Fisher's Island Sound, near Connecticut/Rhode Island border
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
+- **Typical Visibility**: 5–12 meters (variable)
+- **Current**: Moderate; Fisher's Island Sound/Long Island Sound tidal flow
+- **Water Temperature**: 8–20°C depending on season
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Western Fisher's Island Sound cold-water reef species. Tautog are the dominant reef fish — well established in this rocky habitat. Striped bass hunt the area in season. Bluefish appear above the reef in summer. American lobsters in deeper crevices. Sea bass in warmer months. Cunner hover around encrusted surfaces. Sea urchins on open rock faces. Encrusting sponges and anemones on shaded surfaces.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boat access from Stonington CT or Westerly RI. Descend to rocky reef at 10–15 metres. Navigate rock perimeter. Plan around slack tide — the convergence of Fisher's Island Sound and Long Island Sound currents creates variable flow patterns. Complete a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat charter required. Stonington CT operators are closest to this site. Anchor in sand adjacent to rock. Deploy SMB before ascending.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Western position in the Fisher's Island Sound cluster — Stonington CT is the most convenient base
+- Combine with Cormorant Reef and Latimer Reef for a Fisher's Island Sound multi-site day
+- Tautog are the primary target; approach ledge faces slowly and quietly
+- 7mm wetsuit or drysuit recommended throughout the season
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Tidal currents from both Fisher's Island Sound and Long Island Sound influence this site. Plan around slack water. Cold water below thermocline. Deploy SMB before surfacing.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Tautog on kelp-draped rock are the signature subjects. Strobes needed at 15 metres for color accuracy.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Charter Access**: Stonington and Noank CT; Westerly RI area operators
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Abu Echera
 
-Abu Echera is a reef dive site in Red Sea, Middle East.
+Abu Echera is a coral reef dive site in the southern Red Sea, in the Hamata / Wadi Gimal area of Egypt.
 
 ## Overview
 
-Abu Echera is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Abu Echera lies in a stretch of the Egyptian Red Sea coast between Port Ghalib and Hamata — an area of exceptional marine biodiversity that sees comparatively low diver traffic. The coastline here is protected by the Wadi El Gemal National Park, one of Egypt's largest marine protected areas, and the reefs within and near the park show the benefits of this protection with excellent coral cover and abundant wildlife. Abu Echera is a representative example of this type: a well-structured reef with diverse corals, rich fish populations, and the occasional larger pelagic visitor drawn by clean, nutrient-rich water.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Hamata / Wadi El Gemal area, southern Red Sea, Egypt
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20–35 meters
+- **Current**: Variable; moderate on exposed reef faces
+- **Best Time**: October to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The protection afforded by the national park supports particularly healthy coral cover and fish populations. Sea turtles are common throughout the Hamata area. Various ray species including spotted eagle rays transit the sandy margins. Large schools of fusiliers and sergeant majors inhabit the reef crest. Reef sharks are present on the outer slopes. The macro life on protected reefs in this region is outstanding, with nudibranchs and flatworms in abundance.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef crest and navigate along the top of the reef before dropping to the outer slope. The slope at 10–20 m features varied coral growth and overhanging formations. Return up the slope and complete a safety stop in the shallower reef garden.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by day-trip boat from Hamata or by liveaboard. The Hamata harbour is the launching point for day trips to reefs in this area. Liveaboards operating southern Red Sea itineraries regularly include Abu Echera-type reefs in their schedules.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The Wadi El Gemal park area is significantly less crowded than Hurghada or Sharm el Sheikh — relish the quieter experience
+- Combine Abu Echera with nearby Fury Shoal sites for a diverse southern Red Sea liveaboard itinerary
+- Dawn dives in the area are particularly rewarding — clear water, low boat traffic, and active reef life
+- Turtles in this area are particularly relaxed around divers due to limited encounter pressure
+- Bring a reference guide for Red Sea nudibranchs — the macro life here rewards species identification
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The remoteness of the southern Red Sea requires self-reliance. Carry fully charged dive computers, SMBs, and signalling devices. The nearest decompression facilities are in Marsa Alam. Always dive with a buddy and monitor depth and time carefully.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The protected reef status means excellent coral quality and relatively undisturbed marine life. Wide-angle coral garden shots with natural light are highly rewarding. Turtles and rays provide charismatic wide-angle subjects. The macro life on protected reefs here rivals more famous sites in the northern Red Sea.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

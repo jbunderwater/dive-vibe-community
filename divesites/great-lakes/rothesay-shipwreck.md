@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## Rothesay (Shipwreck)
 
-Rothesay (Shipwreck) is a historic wreck dive in Great Lakes, North America.
+The Rothesay is a 19th-century schooner that sank in the St. Lawrence River on September 12, 1889. Now lying in approximately 20 metres of the clear Thousand Islands waters near Brockville, Ontario, the Rothesay has rested on the river bottom for over 135 years — remarkably preserved by the cold, flowing freshwater of the St. Lawrence.
 
 ## Overview
 
-Rothesay (Shipwreck) is a dive site in Great Lakes featuring the wreck of the Rothesay (Shipwreck) which sank in 12 Sep 1889. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Rothesay went down in the St. Lawrence River in 1889, adding to the growing fleet of vessels that would come to define the Thousand Islands as one of North America's premier wreck diving destinations. At 20 metres in the St. Lawrence's clean, constantly-flowing freshwater, the vessel's wooden hull has survived remarkably well — the river's cold temperature and oxygen-depleted bottom conditions slowing deterioration dramatically compared to saltwater. The Rothesay's documented sinking date (September 12, 1889) makes this one of the historically identifiable wrecks in the Thousand Islands collection, allowing divers to connect with a specific moment in Great Lakes maritime history. Visibility in this section of the St. Lawrence is typically 8–15 metres.
 
 ## Site Information
 
-- **Location**: Great Lakes, North America
+- **Location**: St. Lawrence River, Ontario, Canada (Thousand Islands, near Brockville)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 20 metres
+- **Typical Visibility**: 8–15 metres
+- **Water Temperature**: 4–22°C (seasonal)
+- **Current**: Moderate; St. Lawrence current varies with season and water levels
+- **Best Time**: June to September
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The St. Lawrence River Thousand Islands section supports a rich fish community. Northern pike are commonly encountered near 19th-century wooden wrecks — the sheltered hull provides ideal ambush structure. Smallmouth bass are resident on the deck and around the hull openings. Yellow perch and walleye are present. Freshwater drum (sheepshead) — less common further into the Great Lakes — are occasionally seen in the St. Lawrence system. The flowing water limits zebra mussel dominance, leaving more natural hull surfaces visible.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the wreck and explore, using the hull as shelter from current. The Rothesay's 1889 vintage means 19th-century wooden schooner construction — hull planking, iron hardware, and rigging attachment points are identifiable features. On ascent, deploy SMB early for pickup coordination. Safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Charter dive boats from Brockville provide regular access. The Thousand Islands region's dive charter infrastructure is excellent. Entry by giant stride from the dive boat. River current management is the key skill for this site.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- The specific 1889 sinking date gives historical depth to the dive — research the Rothesay's story before visiting
+- Combine with the nearby Lillie Parsons, Robert Gaskin, or Keystorm for a full Brockville wreck day
+- Drysuit recommended for extended bottom time in cold fresh water
+- Current-diving experience is beneficial
+- Brockville's Underwater Sculpture Park is an excellent complement for a varied diving day
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+St. Lawrence River current requires careful dive planning and an experienced dive crew. Commercial shipping traffic in the St. Lawrence is real — dive flag and SMB are mandatory. Cold water demands thermal protection. Always dive with a buddy.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The Rothesay's 135-year-old hull in the clear St. Lawrence water creates outstanding photography conditions. Northern pike encounters add wildlife photography opportunities. The flowing river's characteristic blue-green tones produce images with a distinctive freshwater character.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

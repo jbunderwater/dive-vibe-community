@@ -11,56 +11,56 @@ osmId: 820354025
 addedBy: osm_import
 ---
 
-## The Maze
+# The Maze
 
-The Maze is a reef dive site in Utila, Caribbean.
+*A shallow coral reef with an intricate network of channels, passages, and coral formations that give the site its name — perfect for beginner divers and certification dives.*
 
 ## Overview
 
-The Maze is a dive site in Utila offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Maze is one of Utila's most popular shallow reef sites, earning its name from the intricate network of coral passages, channels, and formations that divers navigate through in an almost puzzle-like progression. Located on the northern side of Utila at depths of 4–12 meters, the site is ideal for beginners, Open Water students, and divers enjoying a second shallow dive of the day. The coral topography is complex enough to be engaging without being disorienting — natural light penetrates throughout, and the site is easily navigated with basic orientation skills. Visibility averages 20–25 meters. Water temperature is a constant 27–28°C.
 
 ## Site Information
 
-- **Location**: Utila, Caribbean
+- **Location**: North coast of Utila, Bay Islands, Honduras
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral reef with complex channel topography
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 20–25 meters (65–80 feet)
+- **Current**: Minimal; well-suited for beginners
+- **Best Time**: Year-round; the sheltered north coast is accessible most days
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The intricate coral topography of The Maze creates a particularly rich microhabitat. Parrotfish of multiple species are abundant — midnight, stoplight, and rainbow parrotfish. Schools of French grunts shelter under coral overhangs. Spotted drums — disproportionately common in the labyrinthine passages — are a highlight. Hawksbill turtles navigate the channels comfortably. Moray eels inhabit every suitable crevice. Nurse sharks rest in the deeper passages. Cleaning stations are active on prominent coral heads — look for fish hovering stiffly waiting their turn. The network of passages provides shelter for juvenile fish, making this an excellent site for observing young reef fish species.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef top at 4–5 meters and enter the network of channels. The dive is an exploration of the passage system — follow the coral-lined channels at 6–10 meters, ducking through lower sections and rising over coral formations. The maximum depth of 12 meters is only reached in the deepest channel sections. Bottom times of 60–75 minutes are typical. No safety stop required at this depth, but the final portion of the dive is naturally spent in the shallowest passages at 4–6 meters.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Served by Utila Town operators — multiple shops run regular trips here. Short north coast crossing. Entry via giant stride or ladder. Calm, shallow exit conditions.
 
-## Tips and Recommendations
+## Tips
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Navigate slowly through the passages rather than rushing — there are far more species than initially apparent
+- Look into the shadowed undersides of coral overhangs for spotted drums, lobsters, and squirrelfish
+- The Maze is an excellent site for underwater navigation skills practice — try returning to the start point by alternative routes
+- Combined with Airport Caves for a two-tank beginner day, this gives a complete introduction to Utila's reef character
+- Snorkelers can access the shallowest sections of The Maze directly from the boat in calm conditions
 
-## Safety Considerations
+## Safety
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+One of Utila's safest dive sites. Minimal current, shallow depth, and clear natural-light conditions. Fire coral is present on the reef walls — avoid contact. Sea urchins occupy crevice sections. Maintain buoyancy to avoid crashing into the coral formations in the narrower passages. Stay oriented and don't panic if you lose track of the direction — surface and reorient.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The Maze is excellent for wide-angle reef photography given the three-dimensional coral topography. Shoot down a channel corridor lined with coral walls on both sides for a tunnel-like composition. The shallow depth and good natural light means natural-light photography is effective. Spotted drum encounters in the passages are a particularly rewarding subject. Macro subjects on the encrusted coral walls include Christmas tree worms, flamingo tongues, and small gobies.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

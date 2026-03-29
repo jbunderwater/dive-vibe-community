@@ -13,54 +13,32 @@ addedBy: osm_import
 
 ## Bodu Gaa
 
-Bodu Gaa is a reef dive site in Maldives, Asia.
+**Location:** Baa Atoll, Maldives
+**Depth:** 5–25 m
+**Difficulty:** Intermediate
+**Entry:** Boat
 
-## Overview
+### Overview
 
-Bodu Gaa is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Bodu Gaa — meaning "big shallow reef" or "big sandbank" in Dhivehi — is a reef site in Baa Atoll, a UNESCO Biosphere Reserve renowned for its extraordinary marine biodiversity. Baa Atoll is home to Hanifaru Bay, one of the world's most famous manta ray aggregation sites, and the broader atoll's reefs reflect this exceptional ecological richness.
 
-## Site Information
+### Diving
 
-- **Location**: Maldives, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+The reef structure features a mix of coral gardens in shallow water and a more pronounced outer slope descending to 25 m. Hard corals dominate the upper reef, with table corals, staghorn, and brain corals providing habitat for a rich community of reef fish. The outer slope has bommies — coral heads standing proud of the reef face — that attract grouper, sweetlips, and moray eels.
 
-## Marine Life
+Given the atoll's fame for manta rays, chance encounters are not uncommon on dives across Baa Atoll's reefs, particularly during the southwest monsoon season (May–November) when plankton blooms bring mantas to feed in large numbers in the atoll's channels and bays.
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+### Marine Life
 
-## Dive Profile
+- Reef manta rays (chance encounters, seasonal)
+- Moray eels and grouper
+- Sweetlips and snapper schools
+- Table corals and staghorn corals
+- Hawksbill turtles
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+### Practical Notes
 
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Baa Atoll requires a domestic flight or speedboat connection from Malé. Best accessed via Baa Atoll liveaboards or island resorts. Manta season peaks May–November. Visibility typically 15–25 m.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

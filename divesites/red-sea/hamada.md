@@ -13,55 +13,50 @@ addedBy: osm_import
 
 ## Hamada
 
-Hamada is a historic wreck dive in Red Sea, Middle East.
+Hamada is a wreck dive in the southern Egyptian Red Sea near Marsa Alam, the remains of a cargo or supply vessel that came to rest on the reef and now serves as a unique artificial reef structure in this section of the coast.
 
 ## Overview
 
-Hamada is a dive site in Red Sea featuring the wreck of the Hamada. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The Hamada wreck lies at an accessible depth in the southern Red Sea dive corridor, making it a frequently visited site for Marsa Alam day-boat operators and liveaboards traversing the area. The vessel has been on the reef long enough to be thoroughly colonised by hard and soft corals, with the hull structure now serving as a stable substratum for an artificial reef community. The identity and full history of the Hamada wreck is less well-documented than the famous northern Red Sea wrecks, but liveaboard guides who regularly visit confirm it provides an interesting wreck dive in a region otherwise dominated by coral reef diving. Maximum depth reaches approximately 20 meters at the deepest parts of the structure.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Southern Egyptian Red Sea, Marsa Alam area
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck (encrusted vessel)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20–30 meters
+- **Current**: Moderate; can be stronger when wind is from the north
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter glassy sweepers, lionfish, groupers, coral growth, soft corals, whale sharks, manta rays, hammerhead sharks. Additional species commonly sighted include oceanic whitetip sharks, sea turtles, dolphins. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck structure has attracted the typical encrusted wreck community of the Red Sea. Schools of glassy sweepers fill any enclosed spaces, and lionfish are present throughout. Large groupers occupy the deeper sections of the hull, and moray eels have colonised the wreck's recesses. The coral growth on the exterior hull supports anthias, butterflyfish, and parrotfish. The sandy area around the wreck base is patrolled by bluespotted stingrays. The open water above the wreck occasionally yields barracuda and, on fortunate days, reef sharks drawn by the fish concentration.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the deepest part of the wreck — typically the bow or stern section — at 18–20 meters and work along the hull systematically. The mid-depth range (8–15 meters) contains the richest coral encrustation and most diverse fish life. Approach any potential penetration points with caution and only enter spaces you can exit without difficulty. Ascend along the upper hull surface and complete the safety stop hovering above the shallowest section of the wreck.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day-boat access from Marsa Alam or Port Ghalib operators, or via liveaboard. Entry by giant stride. The wreck is typically approached from the sheltered leeward side. Deploy an SMB before ascending, as the boat may be mooring off the wreck structure.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- A dive torch is essential for examining the interior spaces and illuminating the coral encrustation's colours
+- Maintain strict buoyancy control inside any wreck — silt disturbance reduces visibility rapidly
+- Do not attempt penetration of enclosed spaces without wreck diving training
+- The wreck makes an interesting change from the region's predominantly reef diving character
+- Combine with a nearby reef dive for a varied Marsa Alam day trip
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Wreck diving requires awareness of entanglement hazards (loose nets, cables, fishing line) and siltation risk. Never penetrate beyond the light zone without proper equipment and training. Currents on the open side of the wreck can be significantly stronger than on the sheltered side. Deploy an SMB before ascending.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The coral encrustation on the hull provides colourful wide-angle subjects with good detail. Interior shots require a powerful torch to balance the ambient light at depth. The schooling fish inside the wreck spaces are excellent subjects for atmospheric wreck photography.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

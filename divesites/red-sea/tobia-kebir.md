@@ -11,56 +11,56 @@ osmId: 19266140
 addedBy: osm_import
 ---
 
-## Tobia Kebir
+# Tobia Kebir
 
-Tobia Kebir is a reef dive site in Red Sea, Middle East.
+The largest of the Safaga Tobia reefs — a sheltered island reef with a narrow channel between two reef sections, offering calm conditions for coral gardens, glassfish pinnacles, and garden eel fields even in rough weather.
 
 ## Overview
 
-Tobia Kebir is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Tobia Kebir ("Large Tobia") is the biggest of the four Tobia reefs clustered in the Safaga/Soma Bay area, approximately 25 minutes by boat from Safaga or Hurghada. The reef runs north to south and is divided into two sections by a navigable channel. The maximum depth is around 16–20 metres and currents are generally mild, making this one of the most accessible and weather-resilient dive sites in the region — divers report that it remains diveable even in strong winds that close other sites. The eastern wall of the main reef is densely colonised with hard and soft corals, and the sandy areas between the reef sections hold a productive garden eel field. To the south, coral pinnacles known as ergs rise from the sandy bottom, their cracks sheltering glassfish schools, lionfish, and hunting horse mackerel.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
+- **Location**: Safaga area, central Egyptian Red Sea (near Soma Bay)
+- **Entry Type**: Boat dive (day trip from Safaga or Hurghada)
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 15–23 meters
+- **Current**: Mild; channel section can have stronger flow
+- **Best Time**: Year-round; October to May optimal
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The eastern reef wall hosts surgeonfish, unicornfish, large schools of anthias, and anemones with resident clownfish. Spotted eagle rays glide over the sandy channel floor. Garden eels extend from the sand between the reef sections, withdrawing in unison as divers approach — a characteristic sight at this site. The southern pinnacles shelter glassfish in crevices, hunted by horse mackerel, lionfish, and coral groupers. Moray eels occupy ledges throughout. Blue-spotted stingrays and flatfish, including Moses's sole, rest on sandy patches. Triggerfish patrol the bottom, and dolphins have been reported passing the site in summer.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter at the channel between the north and south sections of the reef, descending to the sandy bottom at 10–15 metres where garden eels are visible. Move along the eastern wall, following the coral ridge at 10–16 metres to view the coral coverage and resident fish. Work south to the pinnacle cluster below the main reef, where 15-20 minutes can be spent exploring the glassfish-filled crevices between ergs. Finish the dive in the shallower northern reef sections for a relaxed safety stop. Drift dives are possible on favourable current days, running from the north of the main reef toward the landing area or across the southern blocks to Tobia Soraya.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat from Safaga or Hurghada (25–30 minutes). The sheltered position of the reef means entry is possible in conditions that close other sites in the area. Entry by giant stride from a dive dhow. Current is minimal in most sections, making this suitable for less experienced intermediate divers. Deploy an SMB before ascending.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Approach the garden eel field very slowly — stop at 5–6 metres distance from the field edge and wait; the eels partially retract at first approach but resume feeding behaviour if divers remain still
+- The southern pinnacles are best explored in detail with a torch to illuminate the glassfish-filled interior crevices
+- This site can be dived multiple times with different route options: channel first, then east wall; or directly to southern ergs
+- Tobia Kebir pairs well with Tobia Soraya (to the south) for a two-site day trip
+- Night dives at the site reveal crustaceans and hunting octopuses
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Conditions are generally mild at Tobia Kebir, making it one of the safer offshore sites in the Safaga area. Titan triggerfish may be encountered on sandy bottom areas in nesting season (May–September) — give them appropriate space. Fire coral is present on the reef crest. The channel between reef sections can develop stronger current than the main reef faces; monitor your position during channel sections. Always carry an SMB.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Garden eel fields in the sandy channel are a distinctive macro and wide-angle subject — an upward-angle shot with garden eels extended from the sand in the midground and the reef wall behind creates a depth-of-field challenge worth solving. The southern pinnacle crevices reward torch-assisted macro shots of glassfish schools. Anemones with resident clownfish on the eastern wall are approachable and well-lit in morning conditions. Eagle rays crossing the sandy channel make fast-action wide-angle subjects.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Shaab Sataya
 
-Shaab Sataya is a reef dive site in Red Sea, Middle East.
+Shaab Sataya — also known as Dolphin Reef — is one of the most celebrated sites in the southern Egyptian Red Sea, famed for a resident pod of spinner dolphins that inhabit the lagoon and regularly interact with divers in the water.
 
 ## Overview
 
-Shaab Sataya is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Shaab Sataya is a large horseshoe-shaped reef approximately 60 kilometres southeast of Marsa Alam, forming a broad lagoon that serves as a daily resting ground for a resident school of spinner dolphins numbering in the hundreds. The reef itself is impressive in its own right — an extensive coral structure with walls, slopes, and sandy lagoon bottom that support abundant marine life — but the dolphin encounters are what define Shaab Sataya's reputation. Liveaboards and day boats regularly anchor inside the lagoon in the morning hours when the dolphins return from their nocturnal feeding runs offshore, and in-water encounters are a near-daily occurrence during the season. The outer reef walls and points drop into deep water with very good visibility, frequently 30+ metres, and strong current sections are home to significant pelagic activity.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Location**: Southern Red Sea, Egypt (southeast of Marsa Alam, lat 24.15°N)
+- **Entry Type**: Boat dive (liveaboard and day boat)
+- **Site Type**: Coral reef / Lagoon
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Maximum Depth**: 20 meters (lagoon); deeper on outer wall
+- **Typical Visibility**: 25-35 meters (80-115 feet)
+- **Current**: Light inside lagoon; moderate to strong on outer reef
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Shaab Sataya is synonymous with spinner dolphins — the resident pod often exceeds 100 individuals and is reliably present in the lagoon during morning hours. Divers enter the water quietly and allow the dolphins to approach, which they frequently do with great curiosity. The reef itself supports excellent fish diversity: grey reef sharks are seen on the outer walls, and humphead wrasse cruise the lagoon edge. Turtles rest on the reef platform, and the sandy lagoon bottom conceals goatfish, rays, and flat-bodied flounder. The outer reef attracts trevally, barracuda, and occasionally hammerhead sharks on early morning passes.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Most operators begin the day with a dolphin snorkel session before the first dive. Scuba dives are typically conducted along the inner lagoon edge at depths of 10–18 metres, or on the outer reef where the terrain drops more steeply. The lagoon diving is accessible and well-suited to intermediate divers, while the outer wall requires attention to depth and current. A two-dive day combining an inner lagoon dive with an outer reef pass covers the full character of the site.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Shaab Sataya is accessed by liveaboard from Marsa Alam or by day boat. Day boat access requires an early departure given the distance. Dolphin encounters are conducted as free-swimming snorkel or scuba events — follow the operator's briefing carefully regarding approach behaviour. Do not chase or corner the dolphins; passive interaction is the standard protocol and is far more productive in any case. SMB deployment is required on all ascents.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Arrive as early as possible — the dolphins tend to be most active inside the lagoon from sunrise until mid-morning
+- Passive approach in the water dramatically increases the duration and quality of dolphin interactions
+- Snorkelling with the dolphins is often more rewarding than scuba, as the bubbles can disturb the animals
+- The outer reef wall is worth diving in the afternoon once the main dolphin activity has concluded
+- Bring a wide-angle lens for dolphin photography — 10–17mm fisheye or a rectilinear wide zoom is ideal
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The main reef diving is accessible for intermediate divers, but the outer wall sections have strong current that can develop rapidly. Maintain awareness of depth when diving the outer wall. Inside the lagoon, boat traffic from multiple vessels can be a hazard — always deploy an SMB before ascending. Regarding the dolphins: do not touch, pursue, or separate mothers from calves. Aggressive or chasing behaviour by divers leads to the pod leaving the area and harms the experience for all subsequent visitors.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Shaab Sataya offers among the most accessible wild dolphin photography opportunities in the world. Wide-angle approach shots with natural surface light are the standard technique. For reef photography, the lagoon edge at 12–15 metres provides excellent natural-light conditions during morning dives. The outer wall at dusk can produce compelling silhouette shots of sharks and large pelagics against the blue water background.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

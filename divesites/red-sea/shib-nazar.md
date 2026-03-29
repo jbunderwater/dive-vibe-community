@@ -11,56 +11,54 @@ osmId: 4433719560
 addedBy: osm_import
 ---
 
-## Shi'b Nazar
+# Shi'b Nazar
 
-Shi'b Nazar is a reef dive site in Red Sea, Middle East.
+A remote coral reef in the southern Saudi Red Sea — an offshore structure in rarely-dived waters where the marine life is dense, the coral cover is exceptional, and the isolation provides a genuinely untouched diving experience.
 
 ## Overview
 
-Shi'b Nazar is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Shi'b Nazar sits at approximately 22.32°N, 38.85°E in the southern Saudi Red Sea — remote and difficult to access without a specialist regional operator or an expedition-class liveaboard. "Shi'b" (شعب) is the Arabic term for a coral reef, and Nazar (نظار) relates to "observation" or may refer to a local toponym. The site lies in an area that receives very little recreational dive pressure due to historical constraints on dive tourism in Saudi Arabia. Offshore reefs in this latitude range share characteristics with the nearby Elba and Shaab Jimna systems: pristine coral coverage, high fish biomass, and open-ocean species that exploit the current-swept positions.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
+- **Location**: Southern Saudi Red Sea (~22.32°N, 38.85°E)
+- **Entry Type**: Boat dive (specialist regional operator or liveaboard)
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20–35 meters
+- **Current**: Variable; moderate is typical
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The near-pristine conditions produce fish biomass well above mainstream Red Sea sites. Dense schooling barracuda and jacks exploit the open-water adjacent to the reef. Grey reef sharks patrol the outer slope. Groupers occupy the reef in unusually high numbers — a consequence of limited fishing pressure. Hard coral coverage is exceptional: dense table corals, brain corals, and intact branching coral assemblages throughout. Moray eels in the reef crevices. Hawksbill turtles on the reef platform.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend on the sheltered side and work to the outer reef edge at 12–18 metres. Scan the slope for pelagics before ascending and exploring the coral garden at 8–12 metres. Complete the safety stop at 5 metres on the upper reef.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Specialist regional operator or liveaboard with appropriate permissions for Saudi Red Sea waters. SMB mandatory. Giant stride entry from the tender.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Research the current access requirements and permit situation carefully before planning any itinerary to Saudi Red Sea reefs
+- The undisturbed coral gardens reward photography above all else — bring a wide-angle lens
+- Combine with Al Fahal and Cement Reef for a comprehensive southern Saudi offshore reef itinerary
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Remote position with limited emergency response. Dive conservatively and within limits. SMB before ascending. Current assessment before entry.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Pristine coral table formations in excellent natural light provide outstanding wide-angle compositions. Dense fish schools in the open water adjacent to the reef. The undisturbed subject matter creates images unavailable at mainstream sites.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

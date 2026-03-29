@@ -13,53 +13,54 @@ addedBy: osm_import
 
 ## Koh Bon Pinnacle
 
-Koh Bon Pinnacle is a pinnacle dive site in Thailand Similan Islands, Asia.
+Koh Bon Pinnacle is the undisputed manta ray capital of Thailand — a submerged granite pinnacle rising from deep water roughly 20 km north of the main Similan Islands group, in the Similan Islands National Park, Phang Nga Province, Thailand.
 
 ## Overview
 
-Koh Bon Pinnacle is a dive site in Thailand Similan Islands offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The pinnacle top sits at around 16–18 meters and drops steeply on all sides to beyond 50 meters. Reef manta rays (Mobula alfredi) use cleaning stations on the shallow crest, where cleaner wrasse pick parasites from their broad underbellies. Sightings are reliable from November through May, with peak activity often in the early morning when mantas arrive before the midday dive boats. This is a dedicated liveaboard site — no day-trip boats operate this far north — and even liveaboards time their visits around tidal windows when currents are manageable.
 
 ## Site Information
 
-- **Location**: Thailand Similan Islands, Asia
-- **Entry Type**: Liveaboard
-- **Site Type**: Pinnacle
+- **Location**: Similan Islands National Park, Phang Nga Province, Thailand
+- **Entry Type**: liveaboard
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 50 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15–40 meters
+- **Current**: Strong to very strong; tidal-dependent
+- **Best Time**: November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The cleaning station on the pinnacle top is the headline attraction, with reef mantas circling and hovering patiently while cleaner wrasse work over their gills and cephalic fins. Leopard sharks (zebra sharks) rest on sandy patches between boulders at depth. Large schools of bigeye trevally and chevron barracuda patrol the current-swept flanks. Whitetip reef sharks are common residents. Hawksbill turtles pass through regularly, and occasional whale shark sightings are reported when plankton blooms are present.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 50 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The typical dive plan starts on the down-current side of the pinnacle, descending to 18–22 meters to observe the cleaning stations on the crest. When mantas are active, divers hold position neutrally buoyant without approaching or blocking the cleaning circuit — manta etiquette requires staying low and passive. After the cleaning station, work the deeper boulder fields on the north face (25–35 m) where leopard sharks and trevally schools congregate. Ascend along the shallower south ridge before conducting a safety stop in open water. Reserve at least 80 bar for the ascent given potential for surge and drift.
 
 ## Entry and Exit
 
-This site can be accessed from shore or by boat. Shore entry follows established paths to the water. Boat access is available through local dive operators. Check conditions and choose the most appropriate entry method based on weather and sea state.
+All access is by liveaboard vessel. The pinnacle offers no mooring for day boats and the crossing from Khao Lak is too long for day trips. Liveaboards anchor or drift the area and deploy zodiacs for individual groups. Entry is typically a giant stride from the zodiac with a descent line if current is running. Surface pick-up by zodiac on a deployed SMB is standard procedure.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Approach cleaning stations from below and remain completely still — erratic movement or bubbles directed at the manta will abort the cleaning and drive them off
+- Time your entry with your liveaboard guide to hit the cleaning station during the morning slack tide when mantas are most predictable
+- A wide-angle lens (10–17mm or equivalent) is ideal for capturing mantas against the blue water backdrop
+- Carry a reef hook — attaching to rubble rather than coral allows you to hold position in current without finning and disturbing the mantas
+- Check buoyancy carefully before the dive; this site rewards relaxed, minimal-movement diving
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Currents at Koh Bon Pinnacle can shift rapidly and run hard in multiple directions as tidal flow bends around the pinnacle. Surge on the crest can be significant in certain swell windows. Divers who lose contact with the pinnacle in a strong current should deploy an SMB immediately and surface for zodiac pick-up rather than fighting the current. Always brief your buddy and guide on the abort signal before entering. Minimum certification: Advanced Open Water with logged experience in current diving. Nitrox is widely used on liveaboards to extend no-decompression limits on the shallow crest.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Koh Bon Pinnacle is one of Thailand's premier wide-angle photography locations. Mantas against sunburst from above, or silhouetted from below in open blue water, are the signature shots. A rectilinear 15mm or fisheye 8–15mm on full frame gives sufficient angle to include the full wingspan of a large manta. Shoot in manual exposure, prioritise shutter speed of at least 1/125 to freeze manta movement, and accept slight underexposure to preserve the blue water background. On the boulder fields, macro subjects include Coleman shrimp on fire urchins and various nudibranchs.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

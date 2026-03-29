@@ -13,55 +13,54 @@ addedBy: osm_import
 
 ## White Rock
 
-White Rock is a reef dive site in Koh Tao, Asia.
+One of Koh Tao's most popular and versatile dive sites — raised shelf formations, honeycomb groupers, and Christmas tree worms for all diver levels.
 
 ## Overview
 
-White Rock is a dive site in Koh Tao offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+White Rock is located on the west side of Koh Tao and is one of the island's most frequently visited dive sites due to its accessibility, variety of depth zones, and reliable marine life. The site consists of a series of raised rocky shelves from 2 m all the way to 26 m, providing habitat diversity that supports both reef fish and macro critters. Honeycomb groupers, long-spined black sea urchins, and Christmas tree worms inhabit the shelf structures. The site's shallow sections make it accessible to beginners and newly certified Open Water divers while still offering enough depth for intermediate divers. It is one of the best Koh Tao sites for night diving.
 
 ## Site Information
 
-- **Location**: Koh Tao, Asia
+- **Location**: West side of Koh Tao, Gulf of Thailand
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 22 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 22 m
+- **Typical Visibility**: 10–20 m
+- **Current**: Generally mild
+- **Best Time**: May to August
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Honeycomb groupers are the signature species — large, distinctive, and reliably present. Christmas tree worms in multi-colour forms cover the rock shelves. Sea anemones with resident clownfish throughout. Moray eels, surgeonfish, and porcupinefish are common. Night dives reveal octopus, hunting crabs, and various crustaceans that are inactive by day. Barracuda and trevally patrol the outer reef sections.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 22 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to 20–22 m to explore the deeper rock formations and then ascend progressively up through the shelf zones. The middle depth 8–15 m is the most productive for fish life. The 2–5 m shallows host the densest clownfish and Christmas tree worm concentrations. Allow ample time in the shallows before completing the safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat from Koh Tao west coast (5 minutes). Entry via back roll or giant stride. Currents are mild. SMB deployment for ascent is recommended.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Night dives at White Rock are among the best on Koh Tao — book in advance
+- Explore the rock shelves methodically; the crevices hide groupers and moray eels
+- Christmas tree worms retract instantly when approached — move slowly for best views
+- Combine with a morning dive at HTMS Sattakut for a varied two-site day
+- The shallow sections are excellent for open water training dives
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Currents are generally mild but can increase on the outer reef. Long-spined black sea urchins on the rock shelves cause injuries if contacted — maintain spatial awareness. Night dives require dive lights and a buddy system — stay close. Lionfish inhabit overhangs throughout the site.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Christmas tree worms in multi-colour clusters make outstanding close-focus wide-angle or macro subjects. Honeycomb grouper portraits are achievable with a patient approach. Night dive photography reveals octopus colour changes and hunting crustaceans.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

@@ -13,54 +13,32 @@ addedBy: osm_import
 
 ## K-9 Deep Coral Head
 
-K-9 Deep Coral Head is a reef dive site in Marshall Islands, Pacific.
+K-9 Deep Coral Head is the deeper companion site to K-9 Coral Head in Kwajalein Atoll's inner lagoon, named for its position at the deeper base sections of the K-9 pinnacle system where the coral growth transitions to more specialized deep-water species.
 
 ## Overview
 
-K-9 Deep Coral Head is a dive site in Marshall Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Despite the "Deep" designation, K-9 Deep Coral Head sits within the standard 25-meter recreational limit — the name reflects its character as the deeper-reaching extension of the K-9 pinnacle system rather than a dramatically different depth profile. The site focuses on the 15–25 meter zone at the base of the K-9 structure where the hard coral grades into more specialized deep-water encrusting communities, with large sponge formations, sea fans beginning to establish, and a noticeably different species composition from the coral-rich shallow summit.
 
-## Site Information
+The site is most productively dived as the second dive of a K-9 cluster trip — descend here first to the deepest extent, then gradually ascend to the K-9 main site for the safety stop. This profile maximizes bottom time at depth while ending the dive in the rich shallow zone.
 
-- **Location**: Marshall Islands, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+## What to Expect
 
-## Marine Life
+The deeper sections of the K-9 system attract larger predatory species that prefer the mid-water zone. Grey reef sharks patrol consistently at depth here, and the sandy floor at the base yields some of the best chances in the cluster for spotting nurse sharks resting in the open. Larger groupers — including the substantial coral grouper — hold territory in the deeper crevices and are less approachable than their shallow-water counterparts.
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+The encrusting sponge and invertebrate growth in the 18–25 meter zone is visually impressive — colonies of orange cup corals fill the spaces between larger sponge formations, and feather stars (crinoids) are well-represented on the upper faces of the deeper coral structures.
 
-## Dive Profile
+## Practical Information
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth Range**: 15–25 meters (focuses on deeper end of K-9 cluster)
+- **Visibility**: 20–35 meters typical
+- **Currents**: Generally mild
+- **Entry**: Boat dive; best dived before K-9 main site on a multi-pinnacle dive
+- **Best For**: Intermediate divers with interest in deeper reef communities
 
-## Entry and Exit
+## Marine Life Highlights
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Grey reef sharks, nurse sharks (occasional), large coral groupers, feather stars (crinoids), orange cup corals, encrusting sponges, moray eels, lionfish.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Lombok Dive
 
-Lombok Dive is a reef dive site in Gili Islands, Asia.
+A reef site in the southern Gili Islands area with coral gardens, resident turtles, and the characteristic mix of Coral Triangle species.
 
 ## Overview
 
-Lombok Dive is a dive site in Gili Islands offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Lombok Dive is a reef site in the waters around the Gili Islands accessible from both Lombok and Gili Air, offering a typical Indonesian tropical reef experience with coral gardens, sandy patches, and varied fish life. The site suits intermediate divers looking for a relaxed dive with good species diversity. Turtles are regularly encountered, and the reef hosts the full range of species common to the Gili Islands' coral triangle environment — from reef sharks and cuttlefish to macro critters including ghost pipefish and seahorses.
 
 ## Site Information
 
-- **Location**: Gili Islands, Asia
+- **Location**: South Gili Islands area, near Lombok
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 20 m
+- **Typical Visibility**: 15–20 m
+- **Current**: Moderate
+- **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Turtles are a consistent sighting. Cuttlefish and octopus hunt over the sandy patches. Ghost pipefish and seahorses have been found in the sparse algae and rubble zones. Reef sharks are occasionally seen. Clownfish in anemones, moray eels, and parrotfish are common. Macro critters including nudibranchs and cleaner shrimps in the coral rubble.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef at 8–15 m and explore the coral garden. Move slowly over sandy patches between bommies looking for cuttlefish and ghost pipefish. Follow the reef slope to 20 m before ascending gradually. Complete a 3-minute safety stop at 5 m.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat from Gili Air or Lombok. Short boat transit. Entry via back roll. Current is moderate. SMB for ascent.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Move slowly over sandy patches — cuttlefish and octopus are often found hunting here
+- Ask your guide specifically about ghost pipefish locations if available
+- The site is accessible from Lombok's harbour as well as Gili Air for flexible day planning
+- Combine with other Gili Air sites for a full diving day
+- Afternoon diving when others move to night preparation can provide a quieter experience
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Standard reef dive precautions apply. Currents are moderate — suitable for intermediate divers. Maintain buoyancy above coral heads. Always carry an SMB.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Sandy patches with cuttlefish or octopus are the best photography subjects. Turtle portraits in natural reef habitat suit wide-angle. Ghost pipefish require macro focus and good torch illumination.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

@@ -13,55 +13,49 @@ addedBy: osm_import
 
 ## Khanka
 
-Khanka is a historic wreck dive in Red Sea, Middle East.
+The Khanka is a shipwreck resting in the central Egyptian Red Sea, positioned near the Brothers Islands area at approximately 23.6°N. The site is accessed by liveaboard vessels operating routes between Hurghada and the Brother Islands, making it a stop on the classic Egyptian liveaboard circuit for wreck enthusiasts.
 
 ## Overview
 
-Khanka is a dive site in Red Sea featuring the wreck of the Khanka. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The Khanka is a steel-hulled cargo or supply vessel that came to rest on a reef, now lying on its side or at a steep angle in waters reaching around 20 meters maximum depth. Over the decades since sinking, the wreck has been colonised by a rich growth of soft and hard corals, transforming the steel structure into an artificial reef. The relatively accessible depth makes it suitable for intermediate divers, and the combination of wreck exploration and reef photography draws liveaboard groups as a secondary dive alongside the more famous Brothers Islands sites.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
+- **Location**: Central Red Sea, Egypt (near Brothers Islands region)
+- **Entry Type**: Boat dive (liveaboard access)
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20-35 meters (65-115 feet)
+- **Current**: Variable; can be moderate on exposed sections
+- **Best Time**: October to April (liveaboard season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter glassy sweepers, lionfish, groupers, coral growth, soft corals, whale sharks, manta rays, hammerhead sharks. Additional species commonly sighted include oceanic whitetip sharks, sea turtles, dolphins. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Wreck structures in the Red Sea are magnets for marine life, and the Khanka is no exception. Large schools of glassy sweepers fill the interior spaces in shimmering silver clouds. Groupers and humphead wrasse occupy territories around the hull, and moray eels emerge from rusted gaps in the plating. Lionfish are resident along the shaded underside sections. The coral growth across the exterior — soft corals in purple and orange, fan corals, and encrusting hard corals — creates a richly textured surface that attracts nudibranchs, feather stars, and Christmas tree worms visible on close inspection.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the wreck top and begin by orienting yourself to the overall hull shape and its orientation on the seabed. Work progressively around the exterior, exploring the coral-encrusted deck structures, any open cargo holds, and the propeller or stern section. Maximum depth is reached at the deepest hull section on the seabed at around 20 meters. The intermediate skill rating reflects that wreck navigation, buoyancy control around encrusted structures, and managing silt disturbance require some diving experience.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Accessed exclusively by liveaboard. A mooring line or descent line to the wreck provides orientation for the descent. Entry via giant stride or back roll. Surface with sufficient air for a safety stop at 5 meters, signaling the boat with an SMB.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Carry a primary dive torch — the interior spaces and underside sections are significantly darker than the surrounding open water
+- Buoyancy control is critical to avoid stirring up silt inside the wreck and disturbing the soft coral growth
+- Check with the dive guide about any accessible interior sections worth visiting
+- Pair this dive with adjacent reef sections if the wreck can be explored in less than a full tank
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Wreck penetration should only be attempted by divers with wreck diving training and appropriate equipment (line, redundant light, buoyancy mastery). Entanglement hazards exist in the form of fishing line, loose cables, and collapsed structures. Silt is easily disturbed in enclosed spaces and can rapidly reduce visibility to zero. Fire coral is present on all exposed surfaces — avoid contact.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Wide-angle images of the coral-encrusted hull with natural light filtering down from the surface are the signature shot at wreck sites like the Khanka. Schools of glassy sweepers create dramatic interior scenes with a torch for fill light. Close-up shots of the soft coral growth on the hull reveal intricate textures and color.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

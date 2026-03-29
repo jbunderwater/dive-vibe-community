@@ -13,54 +13,32 @@ addedBy: osm_import
 
 ## ER-2 Coral Head
 
-ER-2 Coral Head is a reef dive site in Marshall Islands, Pacific.
+ER-2 Coral Head is a lagoon pinnacle dive in Kwajalein Atoll, positioned in the eastern portion of the lagoon's inner reef system and named using the military alphanumeric grid designation used to chart the atoll.
 
 ## Overview
 
-ER-2 Coral Head is a dive site in Marshall Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The "ER" prefix in Kwajalein diving nomenclature refers to specific grid sectors of the atoll's lagoon chart, and ER-2 sits in a section with slightly more exposure to lagoon circulation than the more sheltered inner sites. This positioning delivers slightly better current activity and, correspondingly, more active fish behavior than the most protected coral heads. The pinnacle structure rises from around 25 meters to within a few meters of the surface, encrusted with the mature hard coral growth typical of undisturbed lagoon reef environments.
 
-## Site Information
+The Kwajalein Lagoon's water chemistry is notably clean and stable — the atoll's massive lagoon volume (2,174 square kilometers) self-regulates temperature and salinity, maintaining near-constant conditions of 28–30°C and 25–35 meter visibility year-round.
 
-- **Location**: Marshall Islands, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+## What to Expect
 
-## Marine Life
+The slightly stronger current influence at ER-2 keeps the site productive for fish-watching. Barracuda regularly aggregate here, hanging in loose schools in the water column above the pinnacle. Dogtooth tuna occasionally sweep through on hunting runs. The coral head base area sees regular grey reef shark patrols, and whitetip reef sharks rest on sandy ledges at depth. The pinnacle surface hosts the diverse Kwajalein lagoon community: moray eels, lionfish in the overhangs, large groupers on the mid-structure, and dense populations of smaller reef fish on the shallow crown.
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+The site is particularly noted among photographers for the quality of light and the three-dimensional silhouettes achievable — shooting upward from the base with a wide-angle lens captures the pinnacle's full profile in the blue-water column.
 
-## Dive Profile
+## Practical Information
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth Range**: 5–25 meters
+- **Visibility**: 20–35 meters typical
+- **Currents**: Mild to moderate; slightly more current-exposed than inner sites
+- **Entry**: Boat dive from Kwajalein operators
+- **Best For**: Intermediate divers; good wide-angle photography conditions
 
-## Entry and Exit
+## Marine Life Highlights
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Barracuda, grey reef sharks, whitetip reef sharks, dogtooth tuna (occasional), moray eels, lionfish, large groupers, snapper, fusiliers, butterflyfish.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

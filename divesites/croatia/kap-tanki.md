@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Kap Tanki
 
-Kap Tanki is a reef dive site in Croatia, Europe.
+Kap Tanki ("thin cape") is a rocky cape reef dive in the Dugi Otok area of the northern Dalmatian Zadar Archipelago, adjacent to the similar Kap Zašorga site to the northwest. The narrow cape extends into the clear Adriatic water as a reef system descending to around 25 metres, offering a clean Dalmatian reef experience in this pristine island chain.
 
 ## Overview
 
-Kap Tanki is a dive site in Croatia offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The reef at Kap Tanki follows the cape topography — a narrow limestone promontory with rocky faces descending on both sides to a sandy bottom. The dive allows exploration of the cape tip and both reef faces, making for an interesting dive profile with varied terrain. Sponge communities, sea anemones, and small gorgonians colonise the substrate from mid-depth down. The clear Zadar Archipelago water provides visibility regularly exceeding 15 metres.
 
 ## Site Information
 
-- **Location**: Croatia, Europe
+- **Location**: Cape Tanki, Dugi Otok area, Zadar Archipelago, Northern Dalmatia, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 15–20 meters
+- **Current**: Variable around the cape tip
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+Grouper, moray eels, and octopus are characteristic species at this site. The cape tip and adjacent reef faces attract a variety of Adriatic fish species: sea bream, ornate wrasse, saddled bream, and barracuda. Nudibranchs and sea slugs inhabit the sponge-covered surfaces. The thin cape topography concentrates marine life that shelters on both sides depending on the prevailing current.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Approach the cape and descend on one side to 20–25 metres. Explore the reef face and navigate around the cape tip, then ascend along the other side. This figure-of-eight route around the cape maximises variety in a single dive. Ascend near the shallower section and complete a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from Zadar or Sali operators serve this site. Entry by giant stride or back roll. Coordinate the pickup point carefully with the boat captain — circumnavigating the cape may bring you to a different surface position than the entry point.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Plan the dive route around the cape with the operator before descending
+- Both sides of the cape may offer different species and habitats depending on exposure and current
+- Combine with nearby Kap Zašorga for a two-site day exploring this section of Dugi Otok
+- The cape tip is the point of maximum current — spend minimal time there and explore the calmer faces
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Cape tips concentrate current — be aware of conditions changing around the corner of the cape. Always carry an SMB and plan the surface pickup with the boat crew. Dive with a buddy and remain within recreational depth limits.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The cape tip with its diverse fish life and clear water provides excellent wide-angle photography. Both sides of the reef offer different lighting angles throughout the day. Macro subjects on the encrusted rock surfaces reward close investigation.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

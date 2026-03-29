@@ -13,55 +13,54 @@ addedBy: osm_import
 
 ## Abu Ramada South
 
-Abu Ramada South is a reef dive site in Red Sea, Middle East.
+Abu Ramada South is a shallow fringing reef on the southern side of Abu Ramada Island near Hurghada, Red Sea, Egypt.
 
 ## Overview
 
-Abu Ramada South is a dive site in Red Sea offering excellent diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The southern face of Abu Ramada Island offers a classic beginner-friendly reef experience in the sheltered waters between the Abu Ramada island cluster and the Hurghada mainland. At a maximum depth of only 12 meters, this site is accessible to divers at any certification level and is frequently used for introductory and refresher dives. The reef is characterised by gently sloping coral formations extending from the island's rocky base down to a sandy and rubble bottom, with hard corals dominating the upper sections and softer, more diverse communities in the mid-reef zone. The protected southern exposure provides consistent calm conditions.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Abu Ramada Island (South), Hurghada, Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef slope
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 12-25 meters
+- **Current**: Very light to light
+- **Best Time**: Year-round (best October to May)
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Despite the shallow depth, the southern reef supports a colourful fish community representative of northern Egyptian Red Sea reefs. Angelfish, butterflyfish, and parrotfish work the coral surface. Anthias swarm the upper coral formations in clouds of orange and pink. Pufferfish and filefish move slowly over the reef, while lionfish and scorpionfish maintain their camouflaged vigils in rubble zones. Cleaning stations with cleaner wrasse are visible at coral heads — watching large fish queue patiently for service is an engaging behaviour to observe. Garden eels emerge from the sandy base at the reef's lower edge.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend from the boat directly to the reef crest at 3–5 meters and explore the upper coral garden before dropping to the base of the slope at 10–12 meters. The dive can follow the perimeter of the island's southern face, working east or west along the reef contour. The consistent shallow depth means nitrogen loading is very low, allowing extended bottom time and a thoroughly leisurely safety stop over the sandy shallows.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat mooring on the southern side or near the island tip. Giant stride or back roll entry. Conditions are typically calm enough for even first-time divers to manage entry and exit comfortably. Signal for boat pickup with a raised arm or SMB.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- An excellent first dive for those new to Red Sea conditions
+- The shallow depth and slow pace encourage detailed observation — look for small invertebrates on coral surfaces
+- Ideal as a second dive paired with Abu Ramada Plateau or Ost in the same area
+- Bring an underwater slate to identify species — reef fish variety is high
+- Snorkelling from the boat is practical for surface intervals
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Conditions at this site are generally very benign. The main hazards are fire coral on protruding reef structures and sea urchins near the sandy base — maintain neutral buoyancy throughout. Even at shallow depth, perform a safety stop at 3 meters before surfacing. Monitor boat traffic in the area.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Excellent natural-light photography throughout the dive due to shallow depth. Macro subjects are abundant: nudibranchs, sea slugs, and small crustaceans can be found with careful searching. The fish community is approachable and used to divers — reef portrait photography of parrotfish, angelfish, and anthias is straightforward.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

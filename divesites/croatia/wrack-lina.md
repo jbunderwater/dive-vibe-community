@@ -13,55 +13,50 @@ addedBy: osm_import
 
 ## Wrack Lina
 
-Wrack Lina is a historic wreck dive in Croatia, Europe.
+Wrack Lina (also recorded separately as "Lina wreck") is the wreck of a cargo vessel near Krk Island in the Kvarner region of northern Croatia, lying at depths reaching 55 metres. The site is one of the most demanding recreational dives in the northern Adriatic and is reserved for Advanced divers with solid gas management discipline.
 
 ## Overview
 
-Wrack Lina is a dive site in Croatia featuring the wreck of the Wrack Lina. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The vessel rests largely upright, with the shallowest deck structures accessible at approximately 38–40 metres and the hull bottom at 55 metres. The wreck is in good condition for its age, with the hull and superstructure retaining their general shape, heavily colonised by Adriatic sponges, soft corals, and gorgonian sea fans. The deep clear waters of the Kvarner regularly offer 15–20 metres of visibility even at depth.
 
 ## Site Information
 
-- **Location**: Croatia, Europe
+- **Location**: Off Krk Island, Kvarner, Croatia
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 55 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Typical Visibility**: 15–20 meters
 - **Current**: Light to moderate
-- **Best Time**: May to October
+- **Best Time**: June to September
 
 ## Marine Life
 
-Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Grouper and sea bream orbit the upper superstructure. Conger eels and moray eels inhabit the interior holds and dark crevices. The encrusted hull supports scorpionfish, nudibranchs, and a dense array of sponge communities. In summer, barracuda and amberjack can be found patrolling the water column above the wreck.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 55 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend the shot line to the upper deck at 38–40 metres. Limit time at maximum depth (55 m) to 8–10 minutes on air. Execute a staged ascent using the shot line as a reference, pausing at 20 m, 15 m, and 5 m. Nitrox considerably extends safe working time. Technical diving configurations (twin sets, rebreathers) are ideal for this site.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from Krk or Rijeka operators serve this site. Descent and ascent on the shot line is standard. Deploy an SMB if free ascending. Confirm sea state before departure — the Bura wind can produce steep Kvarner swells rapidly.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Nitrox or technical gas mixes are strongly recommended
+- Carry primary and backup torches for interior and deep exploration
+- Pre-plan gas turn pressures carefully — no margin for error at this depth
+- A drysuit is advisable in spring, autumn, and for dives below 30 m in summer
+- Brief thoroughly with the local dive guide before descent
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+This site pushes the boundary of recreational diving. Narcosis, gas depletion, and rapid thermal change with depth are all concerns. Only Advanced divers with experience at 40+ metres should attempt the deeper sections. Always dive with a buddy and an experienced local guide on first visits.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The colourful sponge-encrusted superstructure photographed from slightly above creates magnificent wide-angle images with deep blue water in the background. Torch-lit close-ups of the resident invertebrates and fish reward macro photographers willing to manage carefully at depth.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

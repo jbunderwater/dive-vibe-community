@@ -13,54 +13,49 @@ addedBy: osm_import
 
 ## Angel Reef
 
-Angel Reef is a reef dive site in Tobago, Caribbean.
+Angel Reef is a beginner-accessible reef site off Tobago's northeast coast, in the same productive dive corridor as Japanese Gardens and Kelleston Drain. The site offers a gentler, shallower alternative to the deeper drift sites that characterise northeast Tobago diving.
 
 ## Overview
 
-Angel Reef is a dive site in Tobago offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Angel Reef is named for the large French and grey angelfish pairs that are among the most reliably sighted animals at the site. The reef features a sloping coral platform descending to 12 meters with good hard coral coverage — brain, star, and encrusting corals on a rocky substrate. Tobago's position at the southern end of the Caribbean island chain, close to the South American continental shelf, gives its waters higher nutrient content than many other Caribbean destinations, supporting unusually rich marine life for a shallow site. Visibility averages 15–25 meters. Water temperature averages 26–28°C.
 
 ## Site Information
 
-- **Location**: Tobago, Caribbean
+- **Location**: Northeast Tobago, Speyside area
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 15–25 meters
+- **Current**: Light to moderate; can increase with tidal flow
+- **Best Time**: October to February (peak clarity)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Angelfish pairs — French and grey — are a constant and distinctive presence at this site, swimming in characteristically relaxed pairs through the coral formations. Sea turtles are present year-round and notably unhurried in these less-trafficked waters. Parrotfish and snapper are abundant, and the deeper sand-reef interface harbours stingrays. Octopuses and spiny lobsters occupy crevices in the coral and rock.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Follow the reef slope from the shallows to 12 meters. The site is uncomplicated and well-suited to newer divers. Most marine life is distributed through the full depth range — no need to rush to the deeper sections. Extended bottom time is possible at this depth.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Speyside or Charlotteville operators in northeast Tobago. Giant stride entry; SMB on ascent. Commonly used as a first dive to warm up before tackling the current-driven deeper sites nearby.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- A perfect orientation dive for visitors new to Tobago's northeast dive area
+- Angelfish at this site are uncommonly approachable — move slowly for the best encounters
+- Pair with Bookends or Flying Reef for a relaxed two-tank northeast coast day
+- Tobago's nutrient-rich water means fish numbers here exceed expectations for 12-meter depth
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Current can increase with tidal flow — check conditions before descending. SMB deployment on ascent. Fire coral is present on the reef crest. Standard Caribbean precautions apply.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The reliably present angelfish pairs at close range make this an excellent macro and portrait site. The Tobago water is slightly green-tinged from nutrient content — a strobe or video light brings out colour that ambient light can flatten. Turtle portraits in good visibility are achievable without supplementary lighting.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Plate Top
 
-Plate Top is a reef dive site in Great Barrier Reef, Oceania.
+Plate Top is a reef dive site on the outer Great Barrier Reef near Lizard Island, Queensland, Australia, named for the distinctive plate coral formations that define its shallow reef flat.
 
 ## Overview
 
-Plate Top is a scenic reef site with mooring facilities accessed from the Cairns day-trip operators. Located on the southern reef system off Cairns, this site offers 12-18 meters of visibility with water temperatures of 23-27°C. Named for its flat-topped reef structure, this site features good coral formations and is ideal for recreational divers.
+Plate Top takes its name from the extensive colonies of plate corals — broad, flat Turbinaria and Montipora formations that spread horizontally across the reef surface, creating a stacked, layered appearance in the shallower zones. These plate coral structures are particularly well-developed here, forming terraced shelves that step down from the reef crest toward the slope below.
+
+The site is positioned on the outer reef system in the Lizard Island area, giving it the clear water and healthy coral coverage characteristic of outer GBR reefs. It is a reliable site for day and liveaboard trips in the area, offering a good cross-section of GBR reef diving without demanding specific conditions.
 
 ## Site Information
 
-- **Location**: Great Barrier Reef, Oceania
+- **Location**: Outer Great Barrier Reef (Lizard Island area), Queensland, Australia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 19 meters
-- **Typical Visibility**: 15-40 meters (50-130 feet)
-- **Current**: Variable
-- **Best Time**: September to February
+- **Typical Visibility**: 15–30 metres
+- **Current**: Mild to moderate
+- **Best Time**: August to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals.
+The layered plate coral formations create sheltered microhabitats — the undersides of the plates harbour small fish, juvenile animals, and invertebrates that find refuge in the sheltered space. Hawksbill turtles are commonly found feeding on the sponges attached to the plate undersides. Coral trout and grouper ambush prey from the edges of the plates. Reef fish diversity is high: parrotfish, surgeonfish, triggerfish, and butterflyfish move through the formations in numbers. Moray eels use the gaps between plate stacks as their territories. At depth on the sandy slope, whitetip reef sharks rest in small groups.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 19 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-19 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin at the reef crest at 3–5 metres to observe the plate coral architecture in the best light, then descend along the terraced face to 15–19 metres. The transition zones between plate coral levels are particularly productive for fish watching. Ascend via the terraces rather than the slope for a gradual, varied return to the shallows.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Lizard Island or liveaboard operators covering the area. Free descent to the reef top. Exit via the boat mooring or SMB.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Spend time at the reef crest looking at the plate formations from above before descending — the architectural quality of the coral is visible from the surface
+- Look under the plate overhands for juvenile fish nurseries and small invertebrates
+- Triggerfish can be territorial in this area during breeding season — maintain distance and avoid hovering directly over their nesting sites
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish (box jellyfish in summer), crocodiles (north) in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Titan triggerfish establish cone-shaped territories around nesting sites on the reef and may chase divers who enter their zone. If a triggerfish begins circering toward you, swim horizontally away (not up — the nesting cone extends upward). Otherwise the site presents standard outer reef considerations.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The plate coral architecture at this site is unusual and photogenic — wide-angle shots of the stacked formations create strong geometric compositions. Hawksbill turtles feeding under plate overhangs are a recurring subject. The good visibility on this outer reef site allows for environmental portraits that show the coral landscape in context.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

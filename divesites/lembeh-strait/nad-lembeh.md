@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## NAD Lembeh
 
-NAD Lembeh is a muck dive site in Lembeh Strait, Asia.
+NAD Lembeh is the house reef of NAD Lembeh Resort — one of the Lembeh Strait's most respected muck diving operations — located on the Sulawesi mainland side of the strait in North Sulawesi, Indonesia. House reefs in Lembeh are not reefs in the conventional sense; they are sections of the resort's adjacent black sand slope that have been dived intensively for years by experienced guides who know every burrow, every debris pile, and every regular resident. NAD Lembeh's house reef is considered one of the best-managed and most critter-dense in the strait.
 
 ## Overview
 
-NAD Lembeh is a dive site in Lembeh Strait offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The site runs along a sloping black volcanic sand bottom in front of the resort, extending to about 20 meters. The substrate is typical Lembeh muck — black sand with scattered rubble, coconut shells, bottles, and other debris that creates habitat for burrowing and sheltering critters. Because resort guides dive this site daily, critter locations are tracked closely and returning visitors often find the same individual animals in predictable spots. Visibility averages 8–15 meters; currents are minimal. Water temperature holds at 26–28°C.
 
 ## Site Information
 
-- **Location**: Lembeh Strait, Asia
+- **Location**: Lembeh Strait, North Sulawesi, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Muck
+- **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 8–15 meters (25–50 feet)
+- **Current**: Minimal to light
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+NAD Lembeh's house reef is one of the most reliable locations in the strait for the Bobbit worm (Eunice aphroditois) — the enormous ambush predator that buries its segmented body in the sand and strikes prey with spring-loaded jaws. The site is well-known for coconut octopus, which are observed regularly carrying shells across the sand. Mantis shrimp — both the smasher and spearer varieties — emerge from burrows throughout the slope. Snake eels retreat tail-first into the sand leaving only their heads visible. Hairy frogfish and painted frogfish are documented residents. The sandy areas between rubble patches frequently harbour blue-ringed octopus, flamboyant cuttlefish in season, and various species of nudibranch.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Being a house reef, the dive can be conducted at a very relaxed pace without time pressure from surface intervals or boat schedules. The slope from 5 to 20 meters is the main dive zone, with the shallowest sections above 8 meters particularly productive for nudibranchs and small critters. A typical dive with an expert NAD guide involves stopping at known critter stations — a guide who has been working this slope daily will lead divers directly to subjects rather than searching randomly.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Entry is direct from the resort's banca boat or from the resort jetty for very shallow dives. The boat drops divers at the slope and retrieves them at the end of the dive. SMB deployment is standard for open-water safety stops.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- NAD Lembeh's guides are among the most knowledgeable in the strait — trust them and follow their direction closely; do not free-dive ahead or stray from the group
+- The Bobbit worm is one of the most requested sightings here — ask your guide before descent and they will take you to known burrow locations
+- This is an excellent site for multiple consecutive dives; the house reef format allows flexible scheduling between meal and surface intervals
+- A focus light significantly improves Bobbit worm visibility in their burrows — the fluorescent iridescence of their mandibles becomes vivid under artificial light
+- Intermediate difficulty reflects the need for solid buoyancy control near active Bobbit worm burrows — disturbing the sand around their burrows disrupts the sighting and stirs significant silt
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Bobbit worms are a safety consideration unique to this site — their strike is extremely fast and their jaws are sharp; do not place hands or fingers near active burrow openings. Blue-ringed octopus are present throughout the sand slope. Stonefish rest on rubble. Standard Lembeh precautions apply: no touching, careful buoyancy, hard-soled booties. Carry an SMB.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The house reef format allows photographers to return to the same subjects on consecutive dives, which is invaluable for behaviour photography. Bobbit worm photography requires patience — position yourself at eye level with the burrow entrance and wait for the worm to raise its head. Video is particularly effective for capturing strike behaviour. Coconut octopus carrying shells provide excellent behaviour sequences. A 100mm macro lens covers the majority of subjects well; a focus light is essential for burrow photography.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

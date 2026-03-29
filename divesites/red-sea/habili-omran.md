@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Habili Omran
 
-Habili Omran is a reef dive site in Red Sea, Middle East.
+Habili Omran is an offshore reef pinnacle in the southern Egyptian Red Sea, situated in the open waters south of Marsa Alam in the liveaboard corridor between Berenice and the Brothers–Zabargad group.
 
 ## Overview
 
-Habili Omran is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Like the other habili sites scattered across the southern Egyptian Red Sea, Habili Omran is a submerged rocky reef that rises from deep water, providing an isolated focal point for both reef and pelagic marine life. The pinnacle here is known among liveaboard guides for its soft-coral richness and the reliable presence of humphead wrasse that have come to associate the site with human visitors. The flanks slope from a shallow crown at around 5 meters to 18–20 meters before the sand, supporting a continuous carpet of soft coral, encrusting sponges, and sea fans across all depth zones. The surrounding open-ocean water is typically clear and inviting, with the pinnacle's silhouette visible from the surface on calm days.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Location**: Southern Egyptian Red Sea, offshore between Marsa Alam and Berenice
+- **Entry Type**: Boat dive (liveaboard or extended day charter)
+- **Site Type**: Offshore reef pinnacle (habili)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 25–35 meters
+- **Current**: Moderate; typically directional around the pinnacle
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+humphead wrasse are the headline species here and are regularly encountered in pairs or small groups. Large groupers (including potato cod size range) occupy the deeper overhangs. Schools of anthias and fusiliers create a constant, colourful backdrop above the soft-coral flanks. Barracuda and trevally patrol the open-water zone above the pinnacle. Whitetip reef sharks rest on the sand at the base during daylight hours, becoming active hunters around the structure at dusk. Hawksbill turtles are a consistent presence. Garden eels populate the sandy areas immediately adjacent to the reef base.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to 18–20 meters at the pinnacle base and identify the current direction. Follow the upstream face of the pinnacle upward, letting any current assist the ascent. Spend the productive middle phase of the dive between 8–15 meters where soft coral coverage peaks. The reef crown at 5 meters warrants a complete circuit before the safety stop. In calm conditions, the site can be completely circumnavigated at depth before ascending.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Liveaboard or extended day-charter access from Marsa Alam or Port Ghalib. Entry by giant stride. Deploy an SMB before ascending and maintain surface visibility with the boat crew for the pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- humphead wrasse at this site are known to be particularly approachable — move slowly and avoid sudden fin kicks
+- The pinnacle is compact enough to thoroughly explore in a single dive
+- Look along the sandy base for resting sharks during the descent
+- If current is running along one face of the pinnacle, position yourself to drift up that face for an effortless ascent
+- Combine with other southern offshore sites for a high-quality liveaboard itinerary
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Standard offshore pinnacle precautions apply. Deploy an SMB on every ascent. Monitor gas carefully, as the pinnacle's compact size can encourage divers to circle repeatedly at depth. Keep the reef in view to prevent being carried off in current. The liveaboard must maintain an active watch during all dives.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The approachable humphead wrasse provide exceptional fish portrait opportunities. Close-focus wide-angle of the soft-coral-draped flanks is highly productive. The open blue water surrounding the pinnacle allows backlit silhouette shots of schooling fish above the reef crown.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

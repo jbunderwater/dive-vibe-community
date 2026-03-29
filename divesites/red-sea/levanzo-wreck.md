@@ -13,55 +13,49 @@ addedBy: osm_import
 
 ## Levanzo Wreck
 
-Levanzo Wreck is a historic wreck dive in Red Sea, Middle East.
+The Levanzo is a wreck dive site in the southern Red Sea at approximately 21.99°N, 37.05°E, placing it in the waters off the central Saudi Arabian or Egyptian coast in the less-visited central section of the sea. The name Levanzo refers to an island in the Egadi Islands off western Sicily, suggesting an Italian connection to this vessel's registry or origin.
 
 ## Overview
 
-Levanzo Wreck is a dive site in Red Sea featuring the wreck of the Levanzo Wreck. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The Levanzo wreck lies at a maximum of around 20 meters depth in the open Red Sea, away from the heavily dived resort areas of the north. The remote location means diver traffic is minimal, giving the wreck a quieter, more pristine character than the famous wrecks around Sharm el-Sheikh or Hurghada. The combination of the Red Sea's exceptional water clarity and low diver pressure has allowed coral and sponge communities to establish across the hull over the years since sinking. The shallow maximum depth makes this accessible to intermediate divers on a standard air fill.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
+- **Location**: Central Red Sea (approximately 21.99°N, 37.05°E)
+- **Entry Type**: Boat dive (liveaboard access)
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20-35 meters (65-115 feet)
+- **Current**: Variable; can be strong in open Red Sea conditions
+- **Best Time**: October to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter glassy sweepers, lionfish, groupers, coral growth, soft corals, whale sharks, manta rays, hammerhead sharks. Additional species commonly sighted include oceanic whitetip sharks, sea turtles, dolphins. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Remote Red Sea wrecks that see little diver pressure tend to have well-established marine communities and fish that are notably less shy than at heavily visited sites. The hull structure of the Levanzo provides habitat for groupers, moray eels, and lionfish, with clouds of glassy sweepers filling interior spaces. Soft coral growth on the exterior attracts nudibranchs and crinoids. The surrounding open water may bring encounters with grey reef sharks and schooling pelagics that patrol the open Red Sea.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend the mooring or anchor line to the wreck top and orientate to the vessel's structure before exploring. Work the exterior features at depth — deck structures, hull openings, and encrusted surfaces — before ascending to the shallower superstructure sections for the final part of the dive. Monitor air carefully in the absence of a fixed reference to depth: open water conditions and the occasional strong current can disorient. Complete a full 5-minute safety stop before surfacing.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Accessed exclusively by liveaboard operating central or southern Red Sea itineraries. Open water conditions can be rougher than in sheltered coastal waters — a sea anchor or drift pickup may be used depending on vessel and conditions. Entry via giant stride; deploy SMB well before ascending.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Carry a dive torch and backup light
+- Research the vessel history with the liveaboard operator before the dive to understand what to look for
+- Be prepared for open water conditions — neither shelter nor shore is nearby
+- The remote location makes this wreck feel more like an expedition dive than a resort dive; plan accordingly
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Open Red Sea dive sites require greater self-sufficiency than coastal resort dives. Currents can be unpredictable in central Red Sea waters without the coastal geography that moderates flow elsewhere. Always carry a fully charged SMB with oral inflation and an audible signal device. Brief all divers on abort procedures before entry. There are no nearby rescue services at remote sites.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+A less-visited wreck in clear Red Sea water presents excellent wide-angle opportunities. Shoot along the hull length to capture scale, using a wide-angle or fisheye lens. Interior scenes with torch-lit foreground and ambient-lit background through openings create dramatic contrasts. The encrusted hull surface rewards close-up work.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

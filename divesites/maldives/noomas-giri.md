@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Noomas Giri
 
-Noomas Giri is a reef dive site in Maldives, Asia.
+Noomas Giri is a coral head (giri) in South Malé Atoll, a compact reef structure that rises near the lagoon floor and hosts a surprisingly dense concentration of reef life relative to its size, making it a reliable and enjoyable dive for intermediate-level divers.
 
 ## Overview
 
-Noomas Giri is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Noomas Giri presents as a broad coral mound with its highest point at around 6 metres and base extending to 25 metres, surrounded by sandy lagoon floor on all sides. The structure's isolated position means fish aggregate here as the only available shelter and feeding ground in the vicinity — creating the characteristic "giri effect" of elevated species density. Coral grouper lurk in the crevices, moray eels hunt the reef edges, and clouds of fusiliers and anthias hover above the summit. White-tip reef sharks occasionally rest in the sandy channels at the base, particularly on calmer days when current is reduced. The coral growth is a mix of hard table corals and encrusting species, with the occasional sea fan adding vertical structure on the deeper flanks.
 
 ## Site Information
 
@@ -26,41 +26,23 @@ Noomas Giri is a dive site in Maldives offering rewarding diving on healthy cora
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-25 meters (50-80 feet)
+- **Current**: Moderate, variable
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+White-tip reef sharks, coral grouper, moray eels, fusiliers, anthias, sea fans, pufferfish, triggerfish, butterflyfish, and eagle rays on occasion.
 
-## Dive Profile
+## Diving Tips
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- Descend to the base first to check the sandy perimeter for resting sharks before they sense your approach.
+- The summit is a fine spot for photos — anthias and fusiliers create a lively backdrop.
+- Moderate currents bring nutrients to the structure and improve visibility; time dives accordingly.
+- This giri pairs well with nearby South Malé Atoll sites such as Lhohi Giri for a two-dive trip.
 
-## Entry and Exit
+## Getting There
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Noomas Giri is in South Malé Atoll, accessible by boat from local resorts or from Malé, approximately 30–60 minutes by dhoni or speedboat.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

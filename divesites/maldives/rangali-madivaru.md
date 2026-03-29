@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Rangali Madivaru
 
-Rangali Madivaru is a reef dive site in Maldives, Asia.
+Rangali Madivaru is a reef dive site in South Ari Atoll near Rangali Island, one of several "madivaru" (meaning "manta point" in Dhivehi) sites in the Maldives — a reef known for its regular manta ray and eagle ray encounters, particularly during the northeast monsoon season.
 
 ## Overview
 
-Rangali Madivaru is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The name madivaru signals that this reef sits along a manta ray cleaning and feeding route. Rangali Madivaru extends along the outer reef face of the Rangali area in South Ari Atoll, descending from the shallows to around 25 metres. Manta rays visit the site regularly, particularly during the northeast monsoon months (November–April), and are seen either being cleaned by wrasse at specific cleaning stations on the reef or feeding in plankton-rich water near the surface. Beyond the mantas, the reef itself is in excellent condition with diverse coral formations and a strong fish community: turtles, reef sharks, napoleon wrasse, and schools of snapper all frequent the wall. Eagle rays are an additional highlight during their seasonal presence.
 
 ## Site Information
 
@@ -26,41 +26,23 @@ Rangali Madivaru is a dive site in Maldives offering rewarding diving on healthy
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Current**: Moderate, variable
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Manta rays (seasonal, October–April peak), eagle rays, turtles, white-tip reef sharks, napoleon wrasse, schools of snappers, parrotfish, moray eels, and healthy hard and soft coral formations.
 
-## Dive Profile
+## Diving Tips
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- The best manta encounters occur during the northeast monsoon (November–April) when plankton concentrations are highest.
+- If mantas are at the cleaning station, maintain distance and depth — never chase or block their path.
+- Stay still and patient at depth while mantas circle overhead; approaching them will cause them to leave.
+- Combine with Rangali Manta Point for a complete manta ray diving experience in the same area.
 
-## Entry and Exit
+## Getting There
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Rangali Island and South Ari Atoll are accessible by seaplane from Malé (approximately 30 minutes). The Conrad Rangali Island resort (now Hilton) is the primary access point, though liveaboards also regularly visit.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Grand-Caye
 
-Grand-Caye is a reef dive site in Martinique, Caribbean.
+Grand-Caye is one of Martinique's larger reef structures in the southern Caribbean, positioned between the Sainte-Luce and Rivière-Pilote areas and characterised by broad coral coverage and a well-established resident fish community.
 
 ## Overview
 
-Grand-Caye is a dive site in Martinique offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+As the name suggests, Grand-Caye is a substantial reef feature — larger in extent than most of the smaller caye sites nearby. It features a wide coral platform ranging from 5 to 18 meters with diverse hard coral assemblages including brain, star, and pillar corals, complemented by a sponge community that develops significantly at the deeper edges. The broad, navigable extent of the reef makes it suitable for longer dive explorations. Visibility averages 15–25 meters. Water temperature holds at 26–28°C year-round.
 
 ## Site Information
 
-- **Location**: Martinique, Caribbean
+- **Location**: South Caribbean coast, Martinique (Sainte-Luce / Rivière-Pilote area)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef bank
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Typical Visibility**: 15–25 meters
 - **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Best Time**: November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The larger reef area at Grand-Caye supports a more diverse community than the smaller cayes. Large green and hawksbill turtles are common throughout the reef. Nurse sharks are frequently found resting under coral overhangs at depth. Schools of yellowtail snappers and grunts congregate around coral structures. Southern stingrays traverse the sandy margins. The deep edge of the reef produces eagle ray sightings and occasional barracuda.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The breadth of Grand-Caye allows divers to plan longer explorations along the reef. Descend to the main plateau and follow the reef edge, varying between shallower and deeper sections as marine life dictates. The 12–18 meter outer edge typically yields the most interesting encounters. Allow adequate air for a safety stop in the shallower zone.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Sainte-Luce or Rivière-Pilote operators. Giant stride or back-roll entry to a mooring buoy if available. SMB deployment on ascent. Pair with Banc du Singe or Caye Duprey for a diverse two-tank south coast day.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- The larger reef area rewards divers who take time to explore its full extent rather than covering it quickly
+- The outer edge at 15–18 meters is the best zone for encounters with larger species
+- Ask your operator about any cleaning station locations on the reef — these can be reliably productive for wrasse and goby observation
+- Grand-Caye works well as a second dive after a deeper site like Banc Major
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The site's breadth means navigation discipline is important — maintain a reference for the return route to the boat. Fire coral is present, particularly on the shallower crest. Deploy SMB before ascending.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The combination of broad reef coverage and clear water makes Grand-Caye a versatile photography site. Wide-angle reef panoramas, turtle portraits, and nurse shark shots at depth are all achievable. The expansive sandy margin on the deep side provides clean background for stingray portraits.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

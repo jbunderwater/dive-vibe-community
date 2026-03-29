@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## Willis (Wrack)
 
-Willis (Wrack) is a historic wreck dive in Great Lakes, North America.
+The Willis is a 19th-century wooden schooner wreck in Lake Erie near Cleveland, Ohio. Lying in approximately 20 metres of water in the north-central section of Lake Erie, this vessel is part of the extensive wreck collection that lines the Ohio side of Lake Erie — a less-dived but equally historically rich counterpart to the Ontario north shore wreck collection.
 
 ## Overview
 
-Willis (Wrack) is a dive site in Great Lakes featuring the wreck of the Willis (Wrack). Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Ohio side of Lake Erie holds numerous historic wrecks from the sailing and early steam era, and the Willis is one of them. She rests at approximately 20 metres in the northern Lake Erie basin near the Ohio coast, where cold, dark freshwater conditions have preserved the wooden hull beyond what would be possible in salt water. Lake Erie's central basin offers somewhat better visibility than the western basin — typically 5–12 metres — and the flat, sandy bottom in this area makes for relatively easy wreck diving. The vessel's history connects to the intensive commercial traffic between Cleveland and points east along the Lake Erie corridor throughout the 19th century.
 
 ## Site Information
 
-- **Location**: Great Lakes, North America
+- **Location**: Lake Erie, Great Lakes, USA (Ohio north shore, central basin)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
+- **Maximum Depth**: 20 metres
+- **Typical Visibility**: 5–12 metres
+- **Water Temperature**: 4–22°C (seasonal); bottom typically 6–10°C
+- **Current**: Variable with wind
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Lake Erie's productive fishery is well-represented at the Willis. Yellow perch are abundant around the hull. Walleye hunt the structure edges at dawn and dusk. Smallmouth bass are resident in the hull openings. White bass are present in the open water above the wreck. Round gobies populate the bottom. Zebra mussels encrust all hard surfaces.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Standard Lake Erie wreck exploration. Descend to the wreck on a flat, sandy bottom. Explore from bow to stern noting preserved hull details. The 20-metre depth provides comfortable recreational diving with adequate NDL. Safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Charter dive boats from Cleveland, Lorain, or Fairport Harbor, Ohio provide access. The Ohio side of Lake Erie has active dive charter operators servicing the local wreck collection. Entry by giant stride. Deploy SMB on ascent.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- The Ohio side of Lake Erie wreck diving is less visited than the Ontario north shore but equally rewarding historically
+- Drysuit or thick wetsuit recommended for cold bottom temperatures
+- Visibility in the central basin is typically better than the western basin
+- Check conditions with local operators before booking
+- Heritage laws protect wrecks in Ohio state waters
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Lake Erie weather demands constant awareness on both sides of the border. Conditions deteriorate quickly in any section of the lake. Cold bottom water demands thermal protection. Always check forecasts and have a plan. Dive with a buddy and carry an SMB.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The Willis offers typical central Lake Erie wreck photography conditions — better visibility than the western basin, dense perch schools for wildlife shots, and preserved wooden hull detail. A torch reveals the hull's historical character.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

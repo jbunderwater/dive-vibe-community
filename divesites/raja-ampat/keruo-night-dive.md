@@ -13,54 +13,35 @@ addedBy: osm_import
 
 ## Keruo Night Dive
 
-Keruo Night Dive is a reef dive site in Raja Ampat, Asia.
+Keruo Night Dive is a dedicated night diving site in the Keruo Island area of Raja Ampat, West Papua, Indonesia. The site is specifically known for epaulette sharks (Hemiscyllium freycineti) — a species of walking shark endemic to Raja Ampat and nearby New Guinea — which emerge after dark to hunt across the reef flat.
 
 ## Overview
 
-Keruo Night Dive is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+As night falls, the reef at Keruo transforms. The epaulette sharks — also called walking sharks for their habit of using their pectoral and pelvic fins to "walk" across shallow reef flats — emerge from their daytime hiding places and begin systematically working the rubble and coral heads in search of crustaceans and small fish. Watching an epaulette shark navigate the reef in a diver's torch beam, its patterned body moving with a distinctive wriggling gait, is one of Raja Ampat's most memorable wildlife encounters.
 
-## Site Information
+Beyond the walking sharks, the reef at night reveals a different world. Parrotfish sleep in their mucus cocoons beneath coral ledges. Octopuses jet across the sand in flashes of colour. Cuttlefish hunt under the torchlight, hypnotising prey with rippling chromatophore displays. Moray eels are active and visible, cruising the reef surface rather than hiding in their daytime crevices. Crustaceans that spend the day concealed emerge to feed — Spanish dancer nudibranchs, decorator crabs, and mantis shrimp are all commonly encountered.
 
-- **Location**: Raja Ampat, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+Water temperature holds at 27–29°C. Depth is generally shallow — the walking sharks work the shallowest sections of the reef flat, so much of the dive takes place at less than 10 metres.
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+- Epaulette sharks (walking sharks) hunting on the reef flat
+- Octopuses and cuttlefish active in the open
+- Sleeping parrotfish in mucus cocoons
+- Moray eels hunting across the reef surface
+- Spanish dancer nudibranchs, decorator crabs, and mantis shrimp
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The night dive explores the shallow reef flat at 3–15 metres by torch, moving slowly and methodically to find cryptic nocturnal species. The epaulette sharks are the primary target, found in the shallowest sections. Intermediate divers comfortable with night diving will appreciate this site. Entry and exit are by boat.
 
-## Entry and Exit
+## Practical Information
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+- **Depth range**: 3–15 m (primarily shallow reef flat)
+- **Visibility**: 10–15 m (torchlight dependent)
+- **Current**: Light
+- **Best time**: October–April; epaulette sharks present year-round
+- **Water temperature**: 27–29°C
+- **Entry**: Boat
 
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

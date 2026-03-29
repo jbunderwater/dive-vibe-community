@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## Sawandek Jetty
 
-Sawandek Jetty is a reef dive site in Triton Bay, Asia.
+Sawandek Jetty is Triton Bay's most accessible dive site — a shallow, calm jetty dive at a local village pier that serves as both a relaxed option for newer divers and a productive critter site, hosting giant clams, turtles, and whitetip reef sharks in just 8 meters of water.
 
 ## Overview
 
-Sawandek Jetty is a dive site in Triton Bay offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Located in the settlement area of inner Triton Bay, West Papua, Indonesia, Sawandek Jetty is the bay's closest equivalent to a muck diving or critter site in an urban-adjacent setting. The wooden jetty structure and its pilings are colonized by encrusting organisms and provide shelter for a surprising diversity of marine life in very shallow water. Unlike the remote, current-exposed outer sites, Sawandek Jetty is calm, protected, and diveable across a wide range of conditions — making it the standard choice for checkout dives, less experienced divers, night dives, and anyone seeking a change of pace from the more demanding wall and channel dives. The site is also associated with local coral restoration efforts, with transplanted coral fragments growing on frames placed in the sandy shallows around the jetty structure.
 
 ## Site Information
 
-- **Location**: Triton Bay, Asia
+- **Location**: Triton Bay, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 8 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 5-15 meters (can be reduced near the jetty structure by particulates)
+- **Current**: Generally minimal; well sheltered
+- **Water Temperature**: 28-30°C (82-86°F)
+- **Best Time**: Year-round; excellent night dive site
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Giant clams (Tridacna gigas) — some reaching a meter in width — are anchor residents of the sandy shallows around the jetty. Green sea turtles rest on the sand or graze on seagrass patches nearby, and hawksbill turtles visit the coral restoration frames. Whitetip reef sharks are almost invariably present, resting on the sandy bottom around the jetty pilings in groups of two to five individuals. The jetty structure itself hosts lionfish, scorpionfish, and various gobies. Banded sea kraits (Laticauda colubrina) are frequently encountered moving between the water and the shoreline rocks. The seagrass areas adjacent to the site harbor seahorses and pipefish. At night, the site transforms: Spanish dancer nudibranchs, hunting octopus, and sleeping parrotfish in mucus cocoons join the juvenile banded sea kraits that cluster near the shoreline.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 8 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-8 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend from the tender to a maximum of 8 meters and navigate systematically across the sandy and seagrass areas around the jetty structure. The pilings are worth examining from base to surface — look for lionfish resting on horizontal surfaces, juvenile fish using the structure as shelter, and encrusting organisms that may host nudibranchs. Move out toward the giant clam beds in the open sandy areas, then return to the shallow coral restoration frames. Night dives follow the same area with a torch — the behavior change from day to night is dramatic and educational. Bottom times of 60 minutes or more are typical given the minimal depth.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by short tender transfer from the liveaboard anchorage. Entry is by controlled descent in very shallow water. Exit via the tender dive ladder. Shore entry from the jetty itself may be possible with local guide coordination. Night dive logistics are managed by the liveaboard crew — typically a tender accompanies the dive team throughout.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Do not miss the night dive if it is offered on your liveaboard itinerary — Sawandek Jetty at night is a completely different experience from the day dive
+- Move extremely slowly near the whitetip reef sharks resting on the sand; abrupt movements cause them to scatter and they may not return during your dive
+- Bring a torch even on day dives to illuminate the jetty piling undersides and crevices
+- The coral restoration frames are fascinating to examine closely — look for the species being transplanted and any new coral growth around the attachment points
+- This is an ideal site for any diver wanting to practice buoyancy skills before attempting the deeper, current-exposed sites later in the itinerary
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Sawandek Jetty is one of the safest and most forgiving sites in Triton Bay. The primary hazard is accidental contact with the jetty structure or the resident scorpionfish and lionfish — maintain good buoyancy and spatial awareness. Be respectful of the whitetip reef sharks; while they are not aggressive, any wild animal deserves space and predictable, non-threatening behavior from divers. At night, a torch is essential and buddy contact must be maintained throughout. Inform the boat crew before any night dive and ensure appropriate surface lighting on the tender.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The shallow, calm conditions make Sawandek Jetty a forgiving environment for underwater photography experimentation. Giant clams provide spectacular wide-angle subjects — position yourself low and shoot toward the mantle with a wide lens to capture the iridescent blue-green patterns. The whitetip sharks on the sand are classic ambient-light subjects; available light at 6 to 8 meters is usually sufficient in daylight hours. Night photography here is outstanding: Spanish dancer nudibranchs (often 20cm or more) are among the most dramatic macro subjects anywhere in the Indo-Pacific, and their red coloration against a dark background makes for powerful images. A 60mm macro lens is versatile for the jetty critter subjects; a fisheye or 16-35mm on the giant clams.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

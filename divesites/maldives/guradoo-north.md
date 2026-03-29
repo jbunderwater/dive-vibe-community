@@ -13,54 +13,35 @@ addedBy: osm_import
 
 ## Guradoo North
 
-Guradoo North is a reef dive site in Maldives, Asia.
+Guradoo North is a reef dive along the northern face of Guradoo Island in South Male Atoll, offering a diverse hard coral landscape and reliable fish life in accessible depths.
 
 ## Overview
 
-Guradoo North is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The northern reef of Guradoo forms a sloping coral garden that descends from the shallows to about 25 metres before transitioning to a sandy plain. The upper slope between 5 and 15 metres is dominated by broad table corals and staghorn formations that shelter clouds of anthias and small reef fish. Deeper down, the slope gives way to scattered coral heads rising from white sand — classic habitat for blue-spotted stingrays and groups of resting nurse sharks. The outer edge of the reef sees regular passes by eagle rays and the occasional Napoleon wrasse. With light currents on the north-facing wall, this site is suitable for most intermediate divers and makes a comfortable second or third dive of the day. Visibility averages 15–25 metres. Water temperature holds at 27–29°C throughout the year.
 
 ## Site Information
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
+- **Depth**: Up to 25m
+- **Difficulty**: Intermediate
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Nurse sharks, blue-spotted stingrays, eagle rays, Napoleon wrasse, anthias, sweetlips, grouper, and hawksbill turtles. Table corals and staghorn formations on the upper slope.
 
-## Dive Profile
+## Diving Conditions
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+| Condition | Details |
+|-----------|---------|
+| Visibility | 15–25m |
+| Current | Light to moderate |
+| Water Temp | 27–29°C |
+| Best Season | Year-round; December–April for best visibility |
 
-## Entry and Exit
+## Tips for Divers
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Spend time on the upper slope exploring the coral gardens before dropping to the sandy areas at depth for nurse shark and stingray encounters. The site is suitable for coral photography and wide-angle reef shooting.
 
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

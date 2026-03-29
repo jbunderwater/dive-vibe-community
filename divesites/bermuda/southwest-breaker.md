@@ -13,54 +13,55 @@ addedBy: osm_import
 
 ## Southwest Breaker
 
-Southwest Breaker is a reef dive site in Bermuda, Atlantic.
+A shallow outer reef system on Bermuda's windward southwest edge offering healthy coral formations and diverse reef fish communities.
 
 ## Overview
 
-Southwest Breaker is a dive site in Bermuda offering excellent diving on healthy coral reef structures. Located in the Atlantic region, this site offers 15-30 meters of visibility with water temperatures averaging 20-28°C.
+The Southwest Breaker sits on Bermuda's outer reef perimeter at the southwest extremity of the island — one of several named reef breaks that define the boundary between the shallow Bermuda platform and the deep Atlantic beyond. The reef here rises from the sandy bottom to near the surface in places, creating a varied shallow environment with high light penetration and active wave energy that maintains a diverse, healthy coral community. This is classic Bermuda shallow reef diving: excellent visibility, warm water, abundant reef fish, and the occasional passing pelagic. The site is visited regularly as part of Bermuda's outer reef circuit and provides an accessible introduction to the island's natural reef environment away from the wreck-focused sites.
 
 ## Site Information
 
-- **Location**: Bermuda, Atlantic
+- **Location**: Southwest outer reef, Bermuda
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 9 meters
-- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Maximum Depth**: 9 meters (30 feet)
+- **Typical Visibility**: 20–40 meters (65–130 feet)
 - **Current**: Light to moderate
-- **Best Time**: May to October
+- **Water Temperature**: 18–28°C (64–82°F)
+- **Best Time**: May–October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles, reef sharks, groupers, snappers, parrotfish, angelfish, moray eels, lobsters. Additional species commonly sighted include brain corals, sea fans, barrel sponges.
+The Southwest Breaker reef community reflects the biodiversity of Bermuda's outer platform edge. Brain corals, staghorn corals, sea fans, and encrusting fire coral create a diverse structural habitat. French and gray angelfish are abundant. Schools of blue tang, sergeant major, and various grunt species populate the coral heads. Hawksbill turtles are regularly sighted in this area. The outer edge location means occasional encounters with passing pelagic fish — wahoo and other open-water species sometimes pass through.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 9 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-9 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+This site divides naturally into two zones: the upper reef crest in the 3–5 meter range, and the deeper reef face dropping to 9 meters. Begin the dive on the deeper face before finishing with extended time on the shallow reef crest. The very shallow maximum depth allows unlimited bottom time and makes this comfortable for newer divers and snorkelers.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive. The offshore location means conditions can be rougher than sheltered North Shore sites — assess wind and swell before departure. Giant stride entry. The shallow reef crest in calm conditions allows comfortable surface swimming if needed. Always deploy an SMB on ascent given the offshore location.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- This site is best dived in calm morning conditions before afternoon Atlantic swell builds
+- The outer edge location means better chances of pelagic fish encounters than inshore sites
+- Hawksbill turtle sightings are regular here — observe from a distance without pursuing
+- The high visibility at this outer site makes natural light photography particularly effective
+- Combine with another outer reef wreck or reef site nearby for a full dive day
 
 ## Safety Considerations
 
-Be aware of boat traffic, currents, occasional swells in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The Southwest Breaker's offshore location exposes it to Atlantic swell more than central or North Shore sites. Check marine forecasts specifically for this area before departure. In deteriorating conditions, abort the dive and return to calmer water. The site is accessible to Beginner divers in calm conditions but should not be dived in rough seas.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Excellent visibility at this outer reef site makes it ideal for natural light photography throughout the water column. Coral formations, sea fans, and the reef crest in shallow water photograph beautifully with sunlight. Angelfish and turtle encounters reward patient positioning with natural light compositions. A strobe enhances the fire coral and encrusting invertebrate colors in deeper sections.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*

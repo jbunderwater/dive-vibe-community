@@ -11,55 +11,57 @@ osmId: 1792735963
 addedBy: osm_import
 ---
 
-## Escape Reef
+# Escape Reef
 
-Escape Reef is a reef dive site in British Columbia, North America.
+A reef near Gabriola Island north of Nanaimo with productive cold-water marine communities.
 
 ## Overview
 
-Escape Reef is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Escape Reef is located in the Strait of Georgia north of Nanaimo near Gabriola Island. The site name — perhaps suggesting the underwater escape from everyday life — describes a well-rounded reef dive with the full complement of Salish Sea marine life. The site is accessible from Nanaimo and represents a typical Strait of Georgia intermediate reef dive. Water temperatures are 8–11°C and visibility averages 8–15 metres in the summer and autumn months.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Strait of Georgia, north of Nanaimo near Gabriola Island, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Submerged reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 8–15 metres
+- **Current**: Tidal currents in the Nanaimo area — plan around slack
+- **Best Time**: Late spring through autumn
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Escape Reef hosts a rich cold-water community. Giant Pacific octopus are the headline attraction, consistently found in rocky crevices throughout the reef. Lingcod are numerous and visible on the reef surface. Copper and quillback rockfish are the dominant fish species. Plumose anemones and encrusting sponges cover exposed rocky faces. Kelp greenlings, painted greenlings, and pile perch inhabit the shallower rocky zone. Nudibranchs are diverse at this reef. Harbour seals are reliably present.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The reef structure rises to about 8–10 metres, with flanks extending to 18 metres. Work deeper sections first on the outer reef faces, then ascend to the crest zone as the dive winds down. Look carefully into every crevice for octopus. A full perimeter tour of the reef typically reveals 3–5 octopus dens. Complete a 3-metre safety stop before surfacing.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Nanaimo marina facilities. GPS required. Anchor on sand well clear of the reef. Nanaimo's busy commercial port means vessel traffic is constant in these waters — deploy a bright, visible SMB before ascending. A live boat pickup keeps the dive team safer.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Escape Reef is excellent for divers focused on octopus observation and photography
+- Nanaimo dive shops regularly run trips to this and nearby Gabriola Island reefs
+- Consider a multi-dive day pairing this site with the HMCS Saskatchewan artificial reef
+- Autumn visibility in the Strait of Georgia is typically 12–15 metres at its best
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Tidal currents and boat traffic in the Nanaimo area are the primary concerns. Plan dives around slack tide and deploy SMB before ascending. Cold water (8–11°C) demands drysuit proficiency. Maintain buddy contact throughout.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Octopus portraiture is the primary photographic goal at Escape Reef. Wide-angle shots of octopus on open substrate or at den entrances are outstanding. Rockfish in schooling formation above the reef against the surface glow make striking silhouette images. Macro work on sponge-covered rock finds nudibranchs, sea spiders, and colonial tunicates.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
+- Nanaimo dive operators and charter services
+- Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

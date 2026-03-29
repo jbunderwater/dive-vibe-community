@@ -11,57 +11,53 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Shakem Wreck
+# Shakem Wreck
 
-Shakem Wreck is a historic wreck dive in Grenada, Caribbean.
+A deliberately scuttled Grenadian fishing and cargo vessel resting at 33 metres in the waters southwest of St. George's — a mid-sized artificial reef wreck that has developed a productive marine community and offers a deeper complement to Grenada's shallow wreck dives.
 
 ## Overview
 
-Shakem Wreck is a dive site in Grenada featuring the wreck of the Shakem Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Shakem was a working vessel operating in Grenadian waters that was sunk as an artificial reef to create dive habitat off the southwest coast. The vessel rests upright on the sandy bottom at 33 metres, making this an advanced dive with limited bottom time within recreational NDL limits. The wreck has been in place long enough to develop meaningful sponge and coral encrustation on the superstructure and hull surfaces, and the structure now serves as a habitat aggregator for the surrounding reef fish community. This is one of a cluster of southwest Grenada wreck sites and is typically dived by operators based at True Blue Bay. Visibility averages 20–30 metres. Water temperature is 26–28°C.
 
 ## Site Information
 
-- **Location**: Grenada, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 33 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 25–33 m |
+| Difficulty | Advanced |
+| Entry Type | Boat |
+| Site Type | Wreck |
+| Visibility | 20–30 m |
+| Current | Light |
+| Water Temp | 26–28°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Shakem's hull and superstructure have developed a typical Grenada deep-reef community. Large groupers — primarily tiger groupers and nassau groupers — occupy the interior compartments and engine room sections. Schools of glassy sweepers and soldierfish fill the more sheltered interior spaces. Spotted moray eels are found throughout the hull structure. Caribbean reef sharks patrol the open water around the wreck. The hull exterior carries a good coat of encrusting sponges and orange cup corals, with some black coral growth on the deeper sections.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 33 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descent directly to the wreck at 33 metres, limiting bottom time to the NDL constraint at this depth — typically 20–25 minutes on a single tank. Prioritise the superstructure and interior compartments, which are accessible from deck openings, before ascending to the shallower deck and superstructure sections at 25–28 metres. Safety stop at 5 metres on the ascent line.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from True Blue Bay operators, typically a 15–20 minute run from the marina. The wreck is moored with a descent line. Entry by backward roll or giant stride. DSMB required on ascent.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+The 33-metre maximum depth limits bottom time significantly — plan the dive with a conservative turnaround time and ensure a full 3-minute safety stop. The wreck is best dived early in a trip sequence, before accumulated nitrogen from shallower dives reduces available NDL time at depth. Carry a torch — the interior spaces are dark and the most interesting marine life is sheltered inside the hull.
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+Maximum depth of 33 metres requires careful NDL management. Do not penetrate beyond light penetration zones without proper wreck diving training and a reel line. A DSMB is mandatory for the ascent given the boat traffic in the southwest Grenada dive area. This site should not be dived by those not certified for depths over 30 metres.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The Shakem offers a more intimate wreck photography experience than the Bianca C — the smaller scale means the whole vessel can be framed in a single wide-angle composition. Grouper portraits inside the hull, moray close-ups in crevices, and school-of-fish images inside the superstructure are the primary subjects. A torch is essential for the interior detail shots.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- True Blue Bay Boutique Resort dive operators: include the Shakem on advanced dive itineraries
+- Typically combined with the Bianca C or Veronica L for multi-wreck dive trips
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

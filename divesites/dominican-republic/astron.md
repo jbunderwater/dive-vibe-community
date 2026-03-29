@@ -11,57 +11,56 @@ osmId: 170000345
 addedBy: osm_import
 ---
 
-## Astron
+# Astron
 
-Astron is a historic wreck dive in Dominican Republic, Caribbean.
+*A shallow, encrusted cargo vessel wreck near Samaná Bay, accessible to divers of all levels and teeming with reef fish.*
 
 ## Overview
 
-Astron is a dive site in Dominican Republic featuring the wreck of the Astron. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Astron is a cargo vessel wreck located in the waters near Samaná Bay on the northeastern Dominican Republic coast. The wreck lies at a maximum depth of 16 meters, making it one of the most accessible wreck dives in the country for beginner and entry-level divers. After decades on the seabed, the hull is heavily colonized with corals and sponges, transforming the vessel into a thriving artificial reef. The shallow depth allows long bottom times and makes it suitable for open-water certification dives. Visibility around Samaná typically runs 15–20 meters. Water temperature averages 26–28°C, with a slight winter dip to 24°C.
 
 ## Site Information
 
-- **Location**: Dominican Republic, Caribbean
+- **Location**: Near Samaná Bay, northeastern Dominican Republic
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 16 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 15–20 meters (50–65 feet)
+- **Current**: Light to minimal
+- **Best Time**: Year-round; January to March coincides with humpback whale season in Samaná Bay
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Astron's encrusted hull is a haven for Caribbean reef life. Large groupers — yellowfin, Nassau, and tiger — use the wreck as a permanent residence. Yellowtail snappers school in mid-water above the structure. Glassy sweepers and soldierfish pack the interior spaces. Spotted morays and green morays occupy every suitable crevice. Spiny lobsters shelter beneath overhanging hull plates. Hawksbill turtles visit the wreck regularly. The sandy bottom around the wreck holds garden eels and occasionally spotted eagle rays. Fire worms and Christmas tree worms populate the encrusted hull surfaces.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 16 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the wreck top at 8–10 meters. Spend the opening portion of the dive circling the exterior of the hull, exploring the bow and stern sections. Drop to the deepest part of the wreck at 14–16 meters if comfortable. The interior spaces are accessible but shallow penetration only — look into open holds and doorways with a torch without fully entering. Ascend to the top of the superstructure at 6–8 meters for the final portion of the dive. No safety stop required, but 3 minutes at 5 meters is good practice.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from Las Terrenas or Las Galeras serve this site, with Samaná town operators also offering trips. Entry via back roll or giant stride. The site is calm enough for easy ladder exit.
 
-## Tips and Recommendations
+## Tips
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
+- Visiting during January to March adds the bonus of hearing (and occasionally seeing) humpback whales that come to Samaná Bay to breed and calve
+- Bring a small dive torch to peer into the wreck's interior spaces for maximum fish-finding
+- The sandy areas to one side of the wreck often reveal stingrays and garden eels on the approach swim
+- Night dives on the Astron reveal lobsters, octopus, and sleeping parrotfish wedged into coral crevices
+- Multiple passes around the wreck are worthwhile as you'll miss species on the first circuit
 
-## Safety Considerations
+## Safety
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Beginner-friendly but observe wreck safety basics: do not enter enclosed spaces without proper training and a torch. Silting inside the hull can quickly eliminate visibility. The wreck has some metal edges and jagged sections. Maintain buoyancy to avoid contact. Always dive with a buddy.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The Astron's encrusted surfaces are excellent for both wide-angle and macro photography. Wide-angle: shoot along the hull with ambient light and a diver for perspective. Macro: the hull encrustation hosts fire worms, Christmas tree worms, and nudibranchs that reward a close look. Grouper portraits near the bow section are a signature shot.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

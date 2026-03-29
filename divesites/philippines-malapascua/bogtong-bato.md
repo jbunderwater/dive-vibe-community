@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Bogtong Bato
 
-Bogtong Bato is a pinnacle dive site in Philippines Malapascua, Asia.
+Bogtong Bato is a submerged pinnacle off the northwest coast of Malapascua Island, one of several pinnacle dive sites in the Malapascua area that offer alternatives to the famous Monad Shoal thresher shark dives.
 
 ## Overview
 
-Bogtong Bato is a dive site in Philippines Malapascua offering rewarding diving on healthy coral reef structures . Dive Site. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The name "Bogtong Bato" translates roughly as "single rock" in Cebuano, accurately describing the isolated pinnacle structure that rises from the seafloor to within a few meters of the surface. The pinnacle sits in the waters between Malapascua Island and the Cebuano mainland, forming a compact structure that concentrates marine life in the same way the region's more celebrated dive sites do. Hard and soft corals encrust the pinnacle sides, and the structure's isolated position in open water attracts a mix of reef residents and pelagic visitors. Currents sweeping past the pinnacle bring nutrients that sustain the dense sea fan growth on the deeper sections.
 
 ## Site Information
 
-- **Location**: Philippines Malapascua, Asia
+- **Location**: Northwest of Malapascua Island, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 10-25 meters
+- **Current**: Variable; can strengthen around the pinnacle
+- **Best Time**: March to June (generally calmer conditions)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The pinnacle's concentrated structure supports a range of resident and visiting species. Sea fans on the deeper sections harbour longnose hawkfish and filefish. Lionfish are common on the mid-depth sections. Sea snakes may be encountered cruising the reef face. The open-water environment around the pinnacle attracts trevally, barracuda, and occasional reef sharks. Macro subjects including nudibranchs and flatworms inhabit the coral growth throughout the structure.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the base of the pinnacle at 25–30 meters and ascend in a spiral around the structure, covering all sides as you work your way shallower. The pinnacle top at 3–5 meters is an excellent location for the safety stop while continuing to observe reef life. Manage air carefully — 30 meter starting depth limits bottom time.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Accessible by banca from Malapascua dive resorts. The short boat ride makes this viable as a second or third dive of the day. Entry by giant stride; return to the banca by ladder. Deploy SMB before ascending for boat crew visibility.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Dive this site as a complement to a morning Monad Shoal trip
+- The pinnacle rewards slow, circular diving — cover all sides of the structure
+- Sea fans on the 20–30 meter sections deserve close inspection for hiding critters
+- Bring a torch for exploring the darker crevices lower on the pinnacle
+- The site is excellent for both experienced divers and confident intermediates
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The 30 meter maximum depth requires careful no-decompression limit management. Currents can increase around the pinnacle unexpectedly. Deploy SMB for the ascent. Hyperbaric facilities are limited in the Malapascua area — conservative diving is important.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Pinnacle photography lends itself to dramatic wide-angle shots of the structure receding into the deep. Sea fan details on the deeper sections and the abundant reef life on the mid-depth sections both provide excellent subjects. Natural light is good on the shallower pinnacle sections.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

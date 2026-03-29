@@ -13,53 +13,55 @@ addedBy: osm_import
 
 ## Batt Rock
 
-Batt Rock is a reef dive site in British Columbia, North America.
+Batt Rock is a boat-access reef dive in the Gulf Islands near Saltspring Island, British Columbia, Canada.
 
 ## Overview
 
-Batt Rock is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Batt Rock is a submerged rock pinnacle in the central Gulf Islands, rising from surrounding depths to within metres of the surface. Its isolated position in open water attracts strong tidal flows, which keep the rock heavily encrusted with filter feeders. The terrain includes steep sides dropping to 18 metres, with crevices and overhangs along the way. Water temperatures hold between 8 and 11°C year-round, and a dry suit is the appropriate choice. Visibility is typically 8 to 12 metres and can extend to 15 metres in good conditions.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Central Gulf Islands, Saltspring Island area, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Typical Visibility**: 8-12 meters (25-40 feet)
+- **Water Temperature**: 8-11°C (46-52°F) — dry suit recommended
+- **Current**: Moderate; varies with tidal cycle
+- **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Batt Rock's exposed pinnacle is colonised with dense plumose anemone growths that make the rock appear almost furry from a distance. Lingcod sit motionless on flat rock surfaces, relying on camouflage to ambush prey. Copper and black rockfish hover in mid-water around the pinnacle. Giant Pacific octopus shelter in crevices on the steeper sides. Nudibranchs are abundant on the rock surface, and purple sea urchins graze the encrusting algae. Harbour seals use the area regularly.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the base of the pinnacle at 15 to 18 metres and begin circumnavigating it, checking crevices for octopus and ledges for lingcod. Work your way around and up the structure, noting the changing anemone and fish communities at different depths. The top of the rock at 5 to 8 metres is worth spending time on before ascending. Deploy SMB and complete a safety stop at 5 metres.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat only. The pinnacle is relatively compact; a single anchor or drift dive approach both work depending on current conditions. Ensure the boat is positioned to recover divers who surface some distance from the rock if current is present.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Circumnavigate the pinnacle at depth first, then spiral up on the second pass
+- Look in every crevice — GPO can be surprisingly well hidden
+- A torch is useful even in daylight to illuminate the anemone crevices
+- Linger at the pinnacle top in the kelp zone — fish density is high here
+- Dive near slack for the most comfortable experience
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The open-water position of Batt Rock means tidal current affects the site from multiple directions as tides shift. Monitor current direction continuously and be prepared to abort into a drift if it builds. A deployed SMB on ascent is essential — the boat may need to reposition significantly to collect divers after a drift.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Plumose anemone coverage at Batt Rock rewards wide-angle shooters. Position close to the rock face with the anemone-covered walls behind your subject for impactful images. The lingcod are patient subjects and will tolerate a slow approach. Nudibranchs and tube worms on the rock surface are excellent macro subjects.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

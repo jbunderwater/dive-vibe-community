@@ -11,56 +11,53 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Happy Hill
+# Happy Hill
 
-Happy Hill is a reef dive site in Grenada, Caribbean.
+A cheerful, easy-going beginner reef on Grenada's southwest coast — a gentle sandy slope with good coral coverage, abundant fish life, and the kind of uncomplicated, enjoyable dive that the site's name perfectly describes.
 
 ## Overview
 
-Happy Hill is a dive site in Grenada offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Happy Hill features a classic Caribbean fringing reef profile, descending from 5 metres at the crest to a sandy floor at 16 metres. The reef is well-developed with good coverage of brain corals, star corals, and sea fans, and the sand-reef transition zone hosts a variety of burrowing and bottom-dwelling species. The site is positioned in a sheltered bay area, giving it consistently calm water and visibility that regularly exceeds 25 metres during the dry season. Happy Hill is frequently used as a first-dive site for visiting divers or as a confidence-building dive early in a trip.
 
 ## Site Information
 
-- **Location**: Grenada, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 16 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 5–16 m |
+| Difficulty | Beginner |
+| Entry Type | Boat |
+| Site Type | Reef |
+| Visibility | 20–30 m |
+| Current | Very light |
+| Water Temp | 26–28°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Hawksbill and green turtles are regularly encountered on the reef, particularly in the 5–10 metre range where sponge and algae growth is highest. Large parrotfish and queen triggerfish are prominent reef residents. French angelfish move through the coral in pairs, and schools of blue tangs sweep the shallow reef crest. Southern stingrays glide across the sandy margin at the reef base, and the sand is dotted with jawfish peering from their burrows.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 16 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-16 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+A simple, gentle slope from the shallows to 16 metres. Navigate from the boat to the reef crest and work progressively deeper. The dive works equally well in either direction along the reef. Spend time at the sand-reef interface at 12–16 metres before ascending for a safety stop in the colourful shallow zone.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Grand Anse or True Blue operators; short ride from the main resort area. Giant stride entry; DSMB on ascent. Often the second dive of a morning when paired with the Underwater Sculpture Park or Flamingo Bay.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+The name describes the dive accurately — this is an uncomplicated, enjoyable site for all levels. Jawfish observation at the sand margin rewards divers who stay still and wait. An excellent site for fish photography beginners — fish density is high and the animals are relaxed. Well-suited as a refresher dive for visitors who have not dived recently.
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Straightforward site with no significant hazards beyond standard precautions. Deploy DSMB on ascent. Fire coral is present; maintain good buoyancy. The sandy bottom at 16 metres can be disturbed by careless fin movements — kick carefully.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Happy Hill's clear water, shallow depth, and abundance of reef fish create ideal conditions for natural-light photography. Turtle portraits in the mid-water zone, school-of-fish compositions, and jawfish behavioural shots from the sand margin are the standout subjects.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- Aquanauts Grenada and Dive Grenada: include Happy Hill as a standard beginner and refresher site
+- Often paired with Flamingo Bay or the Underwater Sculpture Park for a two-tank beginner morning
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

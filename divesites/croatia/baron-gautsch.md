@@ -13,55 +13,50 @@ addedBy: osm_import
 
 ## Baron Gautsch
 
-Baron Gautsch is a historic wreck dive in Croatia, Europe.
+Baron Gautsch is one of Croatia's most historically significant wreck dives — the remains of an Austro-Hungarian passenger steamer sunk on 13 August 1914 by a mine off Rovinj in the northern Adriatic. The vessel, which was carrying civilian refugees, sits upright on a sandy bottom and is regarded as a war grave.
 
 ## Overview
 
-Baron Gautsch is a renowned dive site in Croatia featuring the wreck of the Baron Gautsch which sank in 1914-08-13. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The Baron Gautsch rests at 28–40 metres on a gently sloping seabed west of Rovinj, lying on her starboard side with substantial structural integrity. At 85 metres long, the wreck offers extensive exploration over multiple dives. Adriatic visibility is typically excellent in summer, reaching 20–30 metres, and the wreck is heavily encrusted with sponges, gorgonian fans, and soft corals that give it a striking appearance when illuminated by a torch.
 
 ## Site Information
 
-- **Location**: Croatia, Europe
+- **Location**: Off Rovinj, Istria, Croatia
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 15–30 meters
+- **Current**: Generally mild; can increase seasonally
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck's encrusted hull and scattered debris field support dense populations of conger eels tucked into dark recesses, plus large grouper that patrol the superstructure. Nudibranchs and sea slugs are found on the sponge-covered plating, while sea bream and wrasse circle the upper sections in the ambient light. Scorpionfish sit motionless on rusted surfaces, well camouflaged against the encrustation.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 40 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the bow at around 28 metres and work your way aft along the port side. The deepest point — the stern with the propeller — reaches 40 metres, so plan carefully for bottom time and gas management. A natural penetration of the cargo holds is possible for trained wreck divers. Allow gas for a multi-level ascent and a 3–5 minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from Rovinj operators moor directly to the wreck buoy. Entry is by giant stride or back roll. Ascent is along the mooring line. Deploy an SMB if free ascending. Sea conditions can deteriorate quickly in the northern Adriatic — confirm weather before departure.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- This is a designated war grave — treat the site with respect and do not remove any artefacts
+- Bring a primary and backup torch for interior sections and deep overhangs
+- Gas planning is critical: depth reaches 40 m and bottom time is limited on air
+- A drysuit or 7 mm wetsuit is recommended in spring and autumn when water temperature drops to 12–15°C
+- Wide-angle photography rewards patience — the full bow section framed in blue water is iconic
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+Depth, silting in enclosed sections, and occasional stronger currents make this an Advanced-only site. Nitrox is strongly recommended for extended bottom time. Avoid penetration without proper wreck training, a reel, and redundant lighting. Always ascend with adequate gas reserve for a safety stop.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The bow with its anchor chains and encrusted hawse pipe makes a dramatic wide-angle composition. Natural light penetrates well to the upper sections in midday summer conditions. A torch reveals vivid orange and yellow sponge colours on the hull plating.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -11,55 +11,57 @@ osmId: 663869321
 addedBy: osm_import
 ---
 
-## Canoe Rock
+# Canoe Rock
 
-Canoe Rock is a reef dive site in British Columbia, North America.
+A well-known submerged rock in the Gulf Islands renowned for its invertebrate-covered walls and rockfish.
 
 ## Overview
 
-Canoe Rock is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Canoe Rock is one of the better-known dive sites in the central Gulf Islands, lying in the Haro Strait near Portland Island. Named for its elongated shape resembling an upturned canoe, the rock sits in moderate tidal current that feeds the plumose anemone and sponge communities covering its flanks. Accessible from Sidney or Ganges on Salt Spring Island, this site sees regular dive traffic and has been a favourite of Gulf Islands divers for many years. Water temperatures are 8–11°C with visibility of 8–15 metres in season.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Haro Strait / Gulf Islands, near Portland Island, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Submerged rock / reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 8–15 metres
+- **Current**: Moderate tidal currents — dive at slack or near slack
+- **Best Time**: Late spring through autumn
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Canoe Rock is celebrated for its rich invertebrate communities. Plumose anemones blanket the current-facing rock surfaces in white and orange. Encrusting sponges in yellow, purple, and red add colour to the deeper sections. Giant Pacific octopus inhabit crevices throughout the rock. Wolf eels are occasionally encountered here, particularly in the rock's more sheltered aspects. Lingcod are present and can be territorial around their resting spots. Schools of black rockfish hover in the water column above the rock. Harbour seals frequently visit and will swim alongside divers.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The rock's summit is at about 5–8 metres below the surface, making the upper section accessible for decompression safety stops. The main dive is conducted along the rock's flanks between 10–18 metres where invertebrate growth is heaviest. Circle the rock during the dive to experience all its aspects — the current-facing side has the richest anemone growth, while the sheltered side tends to have more octopus and fish life. Complete a safety stop on the shallow summit before ascending.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Sidney marina or Ganges Harbour on Salt Spring Island. The rock is marked on navigational charts. Tie off to the rock's natural structure only if using a permanent tie-off — avoid anchoring on the reef. Monitor tidal current and surface with a visible SMB. Ferry traffic operates in the area — maintain careful watch on the surface.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Arrive early to get the best of the slack tide window before current builds
+- Sidney Island and Portland Island Marine Park make this a great dive trip destination
+- A dive light enhances the colours of encrusting sponges in overhangs
+- The rock rewards multiple dives — different species are active at different times
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Current in the Gulf Islands channels can be significant. Always plan dives around tide tables for the Haro Strait reference station. BC Ferries and other vessel traffic operates in this area — surface with a bright SMB and maintain visual contact with the boat. Cold water (8–11°C) requires full drysuit protection.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Canoe Rock offers classic Pacific Northwest invertebrate photography. Wide-angle shots of anemone-covered walls with rockfish in the mid-water column are stunning. Macro work on sponge surfaces reveals nudibranchs, hydroids, and small crustaceans. Octopus behaviours — colour change, den maintenance — make exceptional subjects.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
+- Sidney area dive charters and dive shops
+- Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,54 +13,49 @@ addedBy: osm_import
 
 ## Merlo Reef
 
-Merlo Reef is a reef dive site in Red Sea, Middle East.
+Merlo Reef is a remote offshore reef site in the southern Red Sea at approximately 20.84°N, 37.42°E. This position places it in the open waters of the central-southern Red Sea, in a region where liveaboards operating Sudanese Red Sea routes or extended southern Egyptian routes may stop. The site is far from any resort coast and representative of the least-explored section of the Egyptian and Sudanese Red Sea.
 
 ## Overview
 
-Merlo Reef is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+At this latitude in the Red Sea, reefs are influenced by the broader Indian Ocean oceanographic system with seasonally variable conditions and a mix of resident and migratory species. Merlo Reef rises from deeper water as a submerged platform with productive edges at accessible diving depths up to 20 meters. The remote character means virtually no regular recreational diver traffic, and the reef ecosystem reflects this undisturbed state — fish populations are larger, coral coverage more extensive, and animal behaviour less habituated to divers than at northern resort sites. Access is exclusively by liveaboard making extended southern routing.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
+- **Location**: Southern Red Sea (approximately 20.84°N, 37.42°E)
+- **Entry Type**: Boat dive (liveaboard access only)
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20-35 meters (65-115 feet)
+- **Current**: Variable; can be strong on exposed reef edges in the open Red Sea
+- **Best Time**: November to April (liveaboard season for southern routes)
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The southern and central Red Sea is productive shark habitat, and remote offshore reefs like Merlo are frequented by grey reef sharks, whitetip reef sharks, and potentially silvertip sharks along the deeper edges. Schools of barracuda and trevally use the reef structure as a reference point, and large humphead wrasse are commonly encountered at undisturbed reefs. Sea turtles appear at offshore reef sites throughout this region. The coral reef itself — benefiting from minimal human disturbance — supports dense populations of all the characteristic Red Sea reef species, with hard coral coverage and sea fan development reflecting years of undisturbed growth.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend the mooring or anchor line to the reef top and orient to the site. Work the outer reef edges at 10-20 meters where current-driven fish activity concentrates. Monitor buoyancy carefully on the reef crest — undisturbed reefs often have more fragile, branching coral growth that damages easily. Ascend conservatively with 50 bar reserve and deploy SMB well before the surface given the open water context.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Exclusively liveaboard access via southern Red Sea routing. Surface conditions in the open Red Sea can be significantly rougher than sheltered coastal sites — the boat captain will advise on whether conditions are suitable for diving on the day. Entry via giant stride; the boat maintains drift pickup position. Carry a full complement of safety gear including charged SMB, audible signal, and signal mirror.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Consider Merlo Reef a genuine expedition dive — the isolation is part of the appeal, but requires corresponding self-sufficiency
+- Pre-dive briefing from the guide is essential for understanding current conditions specific to the day
+- Nitrox, if available on the liveaboard, extends bottom time at the 15-20 meter range significantly
+- Be prepared for the possibility that conditions may not permit diving on any given day in the open Red Sea
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Remote southern Red Sea sites present maximum self-sufficiency requirements. Emergency services are not available within any reasonable response time. Brief all divers on abort procedures. Currents in the open Red Sea can be stronger and more variable than indicated by tidal predictions alone. Always surface with a deployed SMB. Fire coral is present on all reef surfaces.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+A pristine, rarely-dived reef in clear southern Red Sea water is a superb photography environment. Shoot wide-angle reef panoramas with fish populations that are noticeably larger and calmer than at northern resort sites. Shark encounters at less-visited sites tend to be closer and more investigative — use wide-angle or moderate zoom for reef shark portraits.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

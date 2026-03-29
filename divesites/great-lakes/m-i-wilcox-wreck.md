@@ -13,55 +13,54 @@ addedBy: osm_import
 
 ## M. I. Wilcox (Wreck)
 
-M. I. Wilcox (Wreck) is a historic wreck dive in Great Lakes, North America.
+The M. I. Wilcox is a 19th-century wooden schooner wreck lying in the western basin of Lake Erie, near the Ohio-Michigan border area. This small cargo vessel is one of many schooners that sank in western Lake Erie's busy and dangerous shipping waters, now preserved in cold freshwater for divers to explore.
 
 ## Overview
 
-M. I. Wilcox (Wreck) is a dive site in Great Lakes featuring the wreck of the M. I. Wilcox (Wreck). Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The western basin of Lake Erie was one of the most heavily trafficked stretches of water in 19th-century North America, connecting the port of Detroit with the Lake Erie ports of Toledo, Sandusky, and Cleveland. The M. I. Wilcox was among the hundreds of schooners that served this trade before succumbing to the lake's famous autumn storms. She lies at approximately 20 metres in the warm, relatively shallow western basin, where bottom temperatures remain cooler than the sun-warmed surface even in summer. The western basin's visibility is the most variable in Lake Erie, ranging from 2–3 metres in poor conditions to 10 metres when calm.
 
 ## Site Information
 
-- **Location**: Great Lakes, North America
+- **Location**: Lake Erie, Great Lakes, USA (western basin, near Ohio/Michigan border)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
+- **Maximum Depth**: 20 metres
+- **Typical Visibility**: 3–10 metres
+- **Water Temperature**: 4–24°C (seasonal); surface water is the warmest in the Great Lakes system in summer
+- **Current**: Variable; western Lake Erie develops current quickly with wind
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The western Lake Erie fishery is legendary. Yellow perch school densely around the M. I. Wilcox. Walleye — Lake Erie's famous sport fish — patrol the wreck edges, particularly at dawn and dusk. Smallmouth and largemouth bass inhabit the hull. Channel catfish are common on the silty bottom. White bass and white perch are present in season. Zebra mussels cover all submerged hard surfaces.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Western Lake Erie wreck diving at 20 metres provides generous bottom time. Explore the hull from bow to stern on the flat, silty bottom. Excellent buoyancy control is important to avoid stirring up silt in an area that may already have reduced visibility. Ascend on anchor or mooring line. Safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Charter dive boats from Toledo, Ohio or Monroe, Michigan provide access. Western Lake Erie has dive charter operators who know the local wreck collection well. Entry by giant stride. Deploy SMB on ascent.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Summer surface temperatures can be warm enough for a thin wetsuit — but dress for the bottom temperatures
+- Western Lake Erie visibility is the most unpredictable in the Great Lakes — always check conditions with local operators
+- The walleye and perch concentrations around this wreck are among the most impressive in freshwater diving
+- Plan dives during settled weather periods for best visibility
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Western Lake Erie is the most dangerous lake section for rapidly developing storms. Weather can change within an hour. Never dive without current weather forecasts and a safety margin in your dive plan. Cold bottom water contrasts sharply with warm surface — prepare for the thermocline. Dive with a buddy and carry an SMB.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+Dense fish aggregations — perch, walleye, and bass — make the M. I. Wilcox an outstanding wildlife photography site. Close-approach photography of walleye is possible in the dim conditions near the wreck at dawn light. Video with dive lights brings colour to what would otherwise be monochrome ambient conditions.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

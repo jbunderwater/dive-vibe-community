@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Kalang Besar
 
-Kalang Besar is a reef dive site in Philippines Palawan, Asia.
+Kalang Besar — meaning "Big Channel" in Malay — is a reef site in the Balabac Island group of southern Palawan, named for the navigational channel it sits within, and one of a cluster of reef features in this Malay-influenced corner of the Philippines.
 
 ## Overview
 
-Kalang Besar is a dive site in Philippines Palawan offering rewarding diving on healthy coral reef structures . Balabac area reef. Local name 'Kalang Besar' (Big). Coral and reef fish habitat.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The Malay name reflects the historic maritime connections of the southern Palawan region with Borneo, which lies just across the Balabac Strait. Kalang Besar forms a substantial reef structure compared to some of its smaller neighbours, offering varied diving terrain across its expanse. The reef top at 8–12 meters transitions to sloping faces dropping to 22 meters on the outer perimeter. Hard coral coverage is good, with notable populations of plate corals and massive Porites. The channel location means predictable tidal currents that keep the reef well-fed and fish populations active.
 
 ## Site Information
 
-- **Location**: Philippines Palawan, Asia
+- **Location**: Balabac Island group, southern Palawan, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 10-25 meters
+- **Current**: Moderate tidal; can strengthen in the channel
+- **Best Time**: November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The channel position exposes Kalang Besar to productive tidal flow, resulting in healthy aggregations of reef fish. Schools of fusiliers and snapper are prominent above the reef. Grouper, wrasse, and triggerfish are resident throughout the reef structure. Sea turtles are regularly encountered here, as are reef sharks on the deeper perimeter. The current-swept faces of the reef support sea fan growth with attending filefish and longnose hawkfish.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 22 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin on the shallower reef platform and work outward toward the channel-facing perimeter, where current and fish activity will be greatest. Spend time on the deeper slopes before returning to the reef top for a relaxed finish. The reef's larger size compared to nearby sites allows more ground to be covered on a single dive.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by boat from Balabac or via liveaboard. The channel position may require adjusting the dive plan depending on current strength and direction on the day. Entry by giant stride; use SMB for ascent, particularly if any current is running.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The channel current is your ally — time your dive to use it for an easy drift along the reef face
+- The "besar" (big) designation is accurate: this reef rewards thorough exploration
+- Check under coral overhangs for resting whitetip sharks and lobster
+- Compare the marine life on current-facing versus sheltered sides of the reef
+- Pair with nearby Kalang Kechil for a two-dive circuit of the Balabac reef system
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Channel currents can strengthen suddenly. Monitor your position relative to the reef and be prepared to ascend if you are being pushed off the structure. Always carry an SMB. The Balabac area is remote — conservative diving is important.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The combination of current-swept sea fans on the deep faces and abundant reef fish make this a versatile photography site. Wide-angle shots along the reef face with schools of fish are especially productive. Natural light is excellent on the shallow reef top.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

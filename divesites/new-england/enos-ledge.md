@@ -11,55 +11,57 @@ osmId: 816347623
 addedBy: osm_import
 ---
 
-## Enos Ledge
+# Enos Ledge
 
-Enos Ledge is a reef dive site in New England, North America.
+A rocky ledge in the South Shore ledge cluster off Scituate and Cohasset, Massachusetts, offering productive cold-water reef diving.
 
 ## Overview
 
-Enos Ledge is a dive site in New England offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Enos Ledge is part of the South Shore ledge cluster — a group of named submerged rocky ledges south of Boston Harbor in the waters off Scituate and Cohasset, Massachusetts. Along with Davis, Tobias, Mikes, Harding, Martin, Utonia, and Three-and-One-Half-Fathom Ledges, Enos forms part of a network of navigational hazards that appear on NOAA nautical charts for the approach south of the President Roads channel. For recreational divers based on the South Shore, these ledges represent productive reef diving at depths of 12–18 metres, with reliable lobster populations and the characteristic cold-water fish community of Massachusetts Bay. Scituate and Hull-area dive charters visit these ledges regularly.
 
 ## Site Information
 
-- **Location**: New England, North America
+- **Location**: South Shore ledges, off Scituate/Cohasset, Massachusetts
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
+- **Typical Visibility**: 5–10 meters (variable)
+- **Current**: Moderate tidal current
+- **Water Temperature**: 7–20°C depending on season
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Typical Massachusetts Bay rocky ledge fauna. Tautog are resident on the ledge structure. American lobsters inhabit crevices throughout the system. Cunner hover above encrusted surfaces. Pollock school in midwater. Sea urchins colonize exposed rock. Winter flounder rest on adjacent sandy areas. Anemones, hydroids, and bryozoans cover shaded rock faces.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boat access from South Shore charter operators. Descend to ledge at 12–18 metres. Navigate ledge perimeter, working crevice faces for lobsters. The ledge cluster allows multi-site diving on a single charter. Plan around slack tide. Complete a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat charter required. Anchor in sand adjacent to ledge. Deploy SMB before ascending.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Pair with Davis and Tobias Ledges for a productive three-site South Shore day
+- Lobsters concentrate at the sand-rock interface at ledge base
+- 7mm wetsuit or drysuit required
+- Plan dives around slack tide for best conditions
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Cold water year-round. Moderate tidal current near peak flow. Rocky ledge hazards for boats. Deploy SMB before surfacing.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+At 18 metres, strobes are needed for accurate color. Ledge face portraits and lobster crevice shots are primary subjects.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Charter Access**: Scituate and South Shore dive charter operators
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

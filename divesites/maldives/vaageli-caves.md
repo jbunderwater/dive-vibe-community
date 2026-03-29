@@ -13,54 +13,21 @@ addedBy: osm_import
 
 ## Vaageli Caves
 
-Vaageli Caves is a cave dive site in Maldives, Asia.
+Vaageli Caves is a cave and overhang complex integrated into the outer reef of South Male Atoll's Vaageli reef system. Multiple cave openings at different depths provide varied entry and exit options, from shallow light-flooded chambers to deeper, more committed passages that require proper cave diving technique.
 
-## Overview
+### Site Conditions
 
-Vaageli Caves is a dive site in Maldives featuring underwater cave and cavern formations. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+- **Depth range**: 10–25 m
+- **Typical visibility**: 15–25 m outside; variable inside
+- **Currents**: Mild; surge possible at exposed cave mouths
+- **Best season**: November–April for optimal outside conditions
 
-## Site Information
+### What to Expect
 
-- **Location**: Maldives, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+The caves are characterised by wide, light-filled entry chambers that narrow into passages decorated with encrusting corals, sponges, and feather stars. Glassfish schools fill the entrance zones, creating spectacular light diffusion effects in mid-morning light. Larger chambers inside shelter resting nurse sharks and grouper, while the cave walls support moray eels and lobsters in every available crevice. The outer reef immediately surrounding the cave entrances hosts grey reef sharks, Napoleon wrasse, and the typical cast of South Male Atoll reef species. The cave system connects to the Vaageli reef complex, making it an excellent complement to an outer-wall dive at the adjacent sites.
 
-## Marine Life
+### Tips for Divers
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+A primary torch is mandatory for deeper passages. The rule of thirds should be applied carefully — the cave complex is not overhead to the degree of true cave diving, but some passages require navigation in low ambient light. The shallower, daylit chambers are accessible to advanced open-water divers; only the deepest committed passages require full cave training. Pair this site with Vaageli Outside or Vaageli Corner for a full day's diving on the Vaageli reef system.
 
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

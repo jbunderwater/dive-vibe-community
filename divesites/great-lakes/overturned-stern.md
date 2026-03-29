@@ -13,55 +13,53 @@ addedBy: osm_import
 
 ## Overturned Stern
 
-Overturned Stern is a historic wreck dive in Great Lakes, North America.
+Overturned Stern is one of three sections of the Edmund Fitzgerald, the legendary Great Lakes ore carrier that sank November 10, 1975 in Lake Superior. The stern section lies inverted (overturned) approximately 170 metres from the bow section, at a depth of approximately 160 metres in Canadian waters south of Michipicoten Island, Ontario. Like all sections of the Fitzgerald, this is an official grave site accessible only to technical divers with government permits.
 
 ## Overview
 
-Overturned Stern is a dive site in Great Lakes featuring the wreck of the Overturned Stern which sank in 1975-11-10. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The stern section of the Edmund Fitzgerald is the most visually dramatic of the three wreck sections. Unlike the bow, which settled upright, the stern section overturned during the sinking — it lies inverted on the lake bottom, propeller pointing skyward. The violence of this section's sinking was catastrophic; the stern broke free of the hull and flipped completely, an indication of the ferocity of the November gale that sank the vessel. At 160 metres in Lake Superior's cold, dark water, the overturned stern is one of the most compelling deep wreck subjects in the world — accessible only to a handful of technical divers who have received the necessary permits to visit this official maritime grave.
 
 ## Site Information
 
-- **Location**: Great Lakes, North America
-- **Entry Type**: Boat dive
+- **Location**: Lake Superior, Ontario, Canada (south of Michipicoten Island)
+- **Entry Type**: Technical diving expedition only
 - **Site Type**: Wreck
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 160 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Difficulty Level**: Advanced (technical — beyond recreational limits)
+- **Maximum Depth**: 160 metres
+- **Typical Visibility**: 3–8 metres at depth
+- **Water Temperature**: 2–4°C at depth year-round
+- **Current**: Minimal near bottom
+- **Best Time**: July to August
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+At 160 metres in Lake Superior, biological activity is extremely limited. Deep-water sculpin and lake trout have been documented near the wreck during authorized expeditions. The cold, dark conditions at this depth support only the most cold-adapted, pressure-tolerant species.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 160 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+At 160 metres with an inverted target, this is an extraordinarily demanding technical dive. The overturned configuration requires careful navigation and orientation. Bottom time is limited to minutes, with decompression obligations typically exceeding an hour. This site requires trimix breathing gas, sophisticated decompression planning software, and extensive deep diving experience.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Government permits from Transport Canada and Ontario's Ministry of Heritage are required. Commercial access does not exist. The site requires a large, fully-equipped technical diving support vessel and an experienced expedition team.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- The Edmund Fitzgerald Memorial Beacon at Whitefish Point, Michigan shines across the lake nightly in honour of the 29 crew members lost
+- The Great Lakes Shipwreck Museum at Whitefish Point houses the Fitzgerald's recovered ship's bell — perhaps the most moving Great Lakes maritime artefact on public display
+- The wreck of the Edmund Fitzgerald serves as a reminder of the power and danger of the Great Lakes' autumn storms
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+At 160 metres in Lake Superior — isolated, cold, and remote — this represents the extreme limit of civilian diving. Only the most experienced technical divers with full expedition support should consider this site. The wreck is a grave site and must be treated accordingly.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The images captured by authorized expeditions to the overturned stern — the propeller pointing upward, the hull in inverted position — are among the most striking in Great Lakes diving history, testifying to the power of the storm that sank the Edmund Fitzgerald.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

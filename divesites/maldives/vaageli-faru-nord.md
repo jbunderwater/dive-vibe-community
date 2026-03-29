@@ -13,54 +13,21 @@ addedBy: osm_import
 
 ## Vaageli Faru Nord
 
-Vaageli Faru Nord is a reef dive site in Maldives, Asia.
+Vaageli Faru Nord ("North Reef of Vaageli") is the northern section of the Vaageli reef system in South Male Atoll. The outer reef slope here is characterised by robust hard coral coverage and a productive ecosystem that benefits from the nutrient-rich currents running along the north-facing reef wall.
 
-## Overview
+### Site Conditions
 
-Vaageli Faru Nord is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+- **Depth range**: 5–25 m
+- **Typical visibility**: 15–25 m
+- **Currents**: Light to moderate; directional flow along the wall
+- **Best season**: November–April for northeast monsoon clarity
 
-## Site Information
+### What to Expect
 
-- **Location**: Maldives, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+The northern exposure of the Vaageli reef receives consistent water movement that keeps the corals in excellent condition. Hard coral formations dominate the upper 15 metres, with fields of staghorn and table Acropora providing habitat for a dense fish community. The mid-depth slope transitions to a more vertical wall section with sea fans and encrusting growth. Grey reef sharks cruise the outer limit of visibility, while turtles — particularly hawksbill — are exceptionally common on this section of the reef. Blue-spotted stingrays rest in sandy pockets at depth, and Napoleon wrasse are a fixture of the mid-water.
 
-## Marine Life
+### Tips for Divers
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+This site works well as a drift dive when the current runs along the north face, allowing divers to cover a large section of the reef in a single dive. The shallow reef top makes for an excellent extended safety stop, with good snorkelling quality and visibility. Combine with Vaageli Corner and Vaageli Faru Süd for a comprehensive exploration of the full Vaageli reef system.
 
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

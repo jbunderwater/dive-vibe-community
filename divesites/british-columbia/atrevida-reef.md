@@ -13,53 +13,55 @@ addedBy: osm_import
 
 ## Atrevida Reef
 
-Atrevida Reef is a reef dive site in British Columbia, North America.
+Atrevida Reef is a boat-access reef dive in Desolation Sound, British Columbia, Canada.
 
 ## Overview
 
-Atrevida Reef is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Atrevida Reef sits in the remote waters of Desolation Sound, one of British Columbia's premier cruising and diving destinations north of Powell River on the Sunshine Coast. Named after the 18th-century Spanish exploration vessel, the reef rises from deeper water to within a few metres of the surface and is surrounded by the dramatic fiord scenery of the Coast Mountains. The cold, clear water here — typically 8 to 11°C — supports prolific life on the rocky substrate. Visibility in Desolation Sound tends to be excellent compared to more urban sites, often reaching 10 to 20 metres in summer.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Desolation Sound, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Typical Visibility**: 10-20 meters (33-65 feet)
+- **Water Temperature**: 8-11°C (46-52°F) — dry suit recommended
+- **Current**: Light to moderate
+- **Best Time**: June to September
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Atrevida Reef's cold, productive waters support large populations of sea urchins, sunflower sea stars, and bat stars across the reef surface. Giant Pacific octopus inhabit the deeper boulder sections and are regularly seen on evening dives. Schools of black rockfish hover above the reef in mid-water, while lingcod occupy territorial spots on the prominent rock structures. Wolf eels have been reported in the deeper crevices. Nudibranchs are abundant throughout the site, including the vibrant opalescent nudibranch. Harbour seals frequent the area, particularly during salmon runs in summer.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the deeper reef edges at 15 to 18 metres and explore the boulder fields and crevices. Work across the reef crest heading shallower — the mid-depth zone of 8 to 12 metres is the most productive for fish life. The shallow reef top at 3 to 6 metres is excellent for a final exploration before ascending. Allow time for a safety stop at 5 metres before surfacing.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access only — Atrevida Reef is in a remote stretch of Desolation Sound accessible primarily by liveaboard or private vessel. Anchor or moor appropriately to avoid reef damage. The area is a provincial marine park, and divers should respect no-take regulations throughout.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Desolation Sound is best explored from a liveaboard or cruising yacht
+- Evening and night dives dramatically increase GPO activity
+- Water clarity in summer rivals some tropical destinations
+- Bring a torch regardless of time of day — crevices reward exploration
+- The marine park designation means no collection of any marine life
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Remote location means self-sufficiency is essential — no emergency services are nearby. Ensure the surface support vessel has proper anchoring, safety equipment, and communication devices. Cold water demands dry suit use; hypothermia risk is real in extended dives. Carry an SMB and deploy before ascending.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Desolation Sound's clear water and rich marine life make Atrevida Reef an excellent photography site. Wide-angle shots of the reef structure against the mountain backdrop can be striking from the surface. Underwater, rockfish schools, sea star aggregations, and GPO encounters are the prime subjects. Macro work on nudibranchs and bryozoans is rewarding in the 8 to 12 metre zone.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

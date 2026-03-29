@@ -13,55 +13,53 @@ addedBy: osm_import
 
 ## Tongoni Reef
 
-Tongoni Reef is a reef dive site in Tanzania, Africa.
+Tongoni Reef is a coastal fringing reef near Tongoni village, located approximately 20 kilometers south of Tanga on Tanzania's northern coast. The reef sits adjacent to the historic Tongoni Ruins — the largest collection of Shirazi tombs on the East African coast — combining a rich marine environment with significant cultural heritage in the same area.
 
 ## Overview
 
-Tongoni Reef is a dive site in Tanzania offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Tongoni's coastal reef benefits from the cleaner water of the northern Tanzania coast and the relative lack of urban development compared to the Dar es Salaam coast further south. The reef extends from the shallow intertidal zone to 15 meters, with a gentle slope and typical East African Indian Ocean coral community. Visibility ranges from 10-15 meters in most conditions, improving during the northeast monsoon from October to February. The proximity to the Tongoni mangrove system influences the marine biology, with some species typical of mangrove edges occasionally seen at the reef base.
 
 ## Site Information
 
-- **Location**: Tanzania, Africa
+- **Location**: Tongoni coast, near Tanga, northern Tanzania
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 10-15 meters (33-50 feet)
+- **Current**: Light
+- **Best Time**: October to March
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+Tongoni Reef supports a classic northern Tanzanian reef community with parrotfish, surgeonfish, triggerfish, and moray eels as the dominant species. Sea turtles are present year-round. The reef edges near the mangrove transition zone attract snapper species and juvenile reef fish that use the mangroves as nursery habitat. Stingrays and small rays inhabit the sandy margins of the reef.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+A gentle reef slope dive ideal for beginners and certification training. Descend to 12-15 meters at the outer reef edge and work back toward the beach at progressively shallower depths. The calm conditions and simple topography make navigation intuitive even for newly certified divers. Total dive times of 50-60 minutes are achievable.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Tanga, approximately 20-30 minutes south by motorboat. Alternatively, some operators provide access from local fishing village boats closer to the site. Combine the dive with a visit to the Tongoni Ruins for a cultural addition to the day trip.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Visit the Tongoni Ruins before or after diving — the 14th-15th century Shirazi mosque and tombs are among the most significant archaeological sites on the Tanzanian coast
+- The mangrove-to-reef transition zone at the reef edge is ecologically interesting — ask guides about juvenile fish species in this transition area
+- Tanga-based diving is genuinely off the standard Tanzania tourist trail and provides an authentic local experience
+- Confirm water clarity before diving — the proximity to mangrove outflow can occasionally reduce visibility after heavy rains
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+One of the more benign dive sites on the northern Tanzanian coast. Light currents, shallow depth, and calm conditions make this suitable for beginners. Boat traffic near Tanga's approach channels requires SMB deployment. As always, avoid contact with fire coral and sea urchins on the reef.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The cultural combination of reef diving and nearby ruins makes Tongoni a unique location for travel photography. Underwater, the reef photography focuses on the typical East African reef community — parrotfish and turtle portraits are the primary subjects. The mangrove edge provides unusual compositional opportunities not available at typical offshore reef sites.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

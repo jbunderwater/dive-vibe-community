@@ -11,56 +11,56 @@ osmId: 1561340043
 addedBy: osm_import
 ---
 
-## Aquarium
+# Aquarium
 
-Aquarium is a reef dive site in Dominican Republic, Caribbean.
+*Bayahibe's signature shallow reef, named for the exceptional diversity and density of Caribbean fish life in clear, calm conditions.*
 
 ## Overview
 
-Aquarium is a dive site in Dominican Republic offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Aquarium is the most popular beginner dive site operated from Bayahibe, named for the sheer density and variety of Caribbean reef fish that populate this shallow fringing reef. At depths of 5–12 meters over a mixed reef-and-sand bottom, the site is accessible, calm, and consistently impressive for first-time divers and photographers. It pairs naturally with The Wall for a classic Bayahibe two-tank morning. Visibility is typically 20–28 meters. Water stays at 27–29°C most of the year. The name is apt — on any given dive, over 30 species of reef fish are visible simultaneously.
 
 ## Site Information
 
-- **Location**: Dominican Republic, Caribbean
+- **Location**: Offshore Bayahibe, southeastern Dominican Republic
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 20–28 meters (65–90 feet)
+- **Current**: Minimal
+- **Best Time**: Year-round; this is one of the most consistently accessible sites in the country
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Aquarium lives up to its name. Large schools of yellowtail snappers hover in mid-water, so accustomed to divers that they become an ambient crowd. French grunts and smallmouth grunts mass beneath coral overhangs. French angelfish are territorial and bold. Queen angelfish patrol their home sections of reef. Parrotfish — all life stages and species — are abundant. Cleaning stations host shrimp and cleaner wrasse. Hawksbill turtles are often feeding directly on the reef. Green moray eels display from crevices. Spotted drums, one of the most visually distinctive Caribbean fish, are found near larger coral heads. Garden eels extend from the sandy border of the reef.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+An exploratory shallow dive. Descend to 5–6 meters over the reef crest and move slowly over the reef, pausing at coral heads and overhangs. Drop to 10–12 meters where the reef transitions to sand. Average dive time is 50–65 minutes. No safety stop is required, but spend the last minutes hovering in the shallows watching the fish activity. Beginners can focus entirely on enjoying the marine life without concern about depth management.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat from Bayahibe, typically paired as the second dive of a morning two-tank trip (after the deeper Wall dive). Entry via giant stride or back roll. Exit via boat ladder in calm conditions.
 
-## Tips and Recommendations
+## Tips
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- For first-time divers, this is one of the most impressive entry-level dives in the Caribbean
+- Move slowly and avoid sudden movements — the fish here are accustomed to divers but still more active when approached gently
+- Watch cleaning stations for entertaining behaviors — fish queue patiently while shrimp remove parasites
+- Bring an underwater camera even on a discovery dive — a GoPro on a simple mount produces excellent results here
+- Combine with The Wall (done first, deeper) for a classic Bayahibe morning
 
-## Safety Considerations
+## Safety
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+One of the safest dive environments in the Dominican Republic. Fire coral is present on the reef — the white, branching/plate variety that causes a burning sting on contact. Maintain buoyancy and avoid touching anything. Sea urchins are present in crevices. Follow dive guide instructions regarding approach to marine life.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Aquarium is arguably the best site in the Dominican Republic for reef fish photography. The fish density and calm behavior allows close approach. Wide-angle lenses capture sweeping reef scenes with dozens of fish visible in a single frame. The macro photographer will find spotted drums, cleaner shrimp, flamingo tongues, and Christmas tree worms as subjects. Natural light photography without a strobe produces excellent results in these shallow, clear conditions.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

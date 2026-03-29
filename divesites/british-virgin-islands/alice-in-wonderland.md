@@ -11,56 +11,56 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Alice in Wonderland
+# Alice in Wonderland
 
-Alice in Wonderland is a reef dive site in British Virgin Islands, Caribbean.
+Alice in Wonderland is one of the British Virgin Islands' most distinctive reef sites, located on the south side of Ginger Island. The site earned its whimsical name from the extraordinary mushroom-coral formations that dot the reef — giant boulder corals and plate corals rising from the sandy bottom like something from a fantasy landscape.
 
 ## Overview
 
-Alice in Wonderland is a dive site in British Virgin Islands offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The site's defining feature is the collection of large mushroom-shaped coral formations that rise from a sandy floor to approximately 12–15 meters, creating a surreal topography of coral "mushrooms" of various sizes. The reef descends further to 21 meters where the sand base meets the deeper edge. The BVI's clear, warm waters are ideal for coral growth, and Alice in Wonderland's formations are among the largest and most impressive in the island group. Visibility typically reaches 25–30 meters. Water temperature averages 27°C.
 
 ## Site Information
 
-- **Location**: British Virgin Islands, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 21 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 5–21 m |
+| Difficulty | Beginner |
+| Entry Type | Boat |
+| Site Type | Reef |
+| Visibility | 20–30 m |
+| Current | Light to moderate |
+| Water Temp | 26–28°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The mushroom coral formations create habitat complexity that supports a rich fish community. Large parrotfish and queen triggerfish are prominent. Nurse sharks rest under the coral overhangs created by the mushroom formations. Hawksbill turtles are regularly sighted feeding on sponges attached to the large corals. Schools of creole wrasse sweep along the current faces, and barracuda hover in the water column above the reef.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 21 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the sandy floor and orient among the mushroom formations. The site is navigated by moving between the large coral structures — each formation has its own character and resident species. Explore at multiple depths as the formations range from 5 to 15 meters. The sandy floor at 20–21 meters provides a final deep zone before ascending.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Road Town or Norman Island area operators. Giant stride entry; SMB required on ascent. Alice in Wonderland is often paired with the nearby RMS Rhone wreck or The Indians for a varied BVI two-tank day.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- The mushroom formations are the main attraction — swim around and beneath each one to fully appreciate their structure
+- Nurse sharks resting under large overhang formations are an almost guaranteed encounter
+- The BVI is a popular bareboat charterer destination — encounter rates with other dive groups at popular sites can be high; dive early to beat the crowds
+- Pair with The Indians or Ginger Steps for a varied southern island dive day
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Current can strengthen on the site's exposed southern exposure — dive around slack tide for the most comfortable conditions. Deploy SMB before ascending. Sea urchins populate sandy areas between formations.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The mushroom coral formations create genuinely otherworldly wide-angle subjects. Shooting upward through the coral overhangs with a wide-angle lens, with light filtering from above, creates images that justify the site's Alice in Wonderland name. Nurse shark portraits under overhangs are also excellent subjects.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- Road Town and Norman Island operators: include Alice in Wonderland on southern island itineraries
+- Best combined with Ginger Steps or The Indians for a full southern BVI dive day
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

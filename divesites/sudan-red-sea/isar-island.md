@@ -32,35 +32,35 @@ Isar Island is part of the exclusive circuit of remote southern sites visited on
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+At this extreme southern latitude, marine species composition shifts noticeably compared to Sudan's more-visited northern sites. Silky sharks — uncommon in the north — become regular encounters. Hammerhead sharks, grey reef sharks, and oceanic whitetip sharks patrol the outer walls. Manta rays, eagle rays, and sea turtles are regularly sighted. The walls host abundant soft corals and sea fans, with groupers, Napoleon wrasse, and large moray eels occupying crevices at depth. Schools of jacks, snappers, and emperors aggregate at current-exposed reef points. The low diving pressure means fish behaviour is notably less cautious than at heavily-visited northern sites.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the wall at 20-30 metres and drift with the current along the reef face. The wall descends well beyond recreational limits — maintain depth discipline and focus exploration on the 15-30 metre band where coral and fish life are most abundant. Watch the blue water off the wall for pelagics and shark passes. Ascend to the reef crest for final exploration and safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is exclusively via specialised deep-south liveaboard expeditions from Port Sudan. Very few operators venture this far south. Entry and exit are managed by the liveaboard crew with close coordination required due to strong currents. High-visibility SMBs are mandatory for surface pickup in remote conditions.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Isar Island is end-of-route diving — logistics and weather determine access, not itinerary alone
+- Carry two high-visibility SMBs in case one fails; rescue support is limited at this distance from Port Sudan
+- Cold water upwellings can drop temperatures here — a 5mm wetsuit is recommended even in season
+- Multi-day liveaboard in the deep south is the only practical access — do not attempt day trips
+- Silky shark encounters here can be very close — maintain calm and avoid rapid movements
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Remote location is the overriding concern — emergency evacuation from Isar Island involves hours of transit time at minimum. Only dive if you are in excellent health, have significant current diving experience, and are comfortable at depths above 30 metres. Strong currents can separate diving buddies quickly — establish clear loss-of-buddy procedures before descending. Fire coral and hydroids on the wall surface require careful buoyancy. Abort the dive immediately if nitrogen narcosis affects judgment below 30 metres.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The combination of pristine walls, rarely-seen shark species, and exceptional visibility makes Isar Island a premier photographic destination for those able to reach it. Wide-angle setups reward patience at the wall edge for shark passes. The intact soft corals and sea fans photograph well at medium range with available light in the morning hours.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

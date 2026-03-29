@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Pineapple Island Hausriff
 
-Pineapple Island Hausriff is a reef dive site in Maldives, Asia.
+Pineapple Island Hausriff (Hausriff is the German term for house reef, widely used in the Maldives resort context) is a shallow fringing reef in South Ari Atoll, an ideal site for beginners, snorkellers, and Open Water certification dives in crystal-clear Maldivian waters.
 
 ## Overview
 
-Pineapple Island Hausriff is a dive site in Maldives offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The house reef at Pineapple Island — a small resort island in South Ari Atoll — stays within 10 metres throughout and is characterised by a sunny, colourful shallow reef ecosystem. The reef top is densely colonised by hard corals, with table and branching formations providing shelter for juvenile reef fish, parrotfish, and triggerfish. The site's shallow profile and mild current make it perfect for first-time divers and snorkellers, while the clear water and good light create excellent conditions for underwater photography without the need for flash. Sea turtles are regular visitors to the reef top, grazing unconcerned in the shallows. The proximity of the house reef to the resort means morning and evening diving are easily arranged, with dawn dives revealing a different character as nocturnal species prepare to retreat.
 
 ## Site Information
 
@@ -26,42 +26,23 @@ Pineapple Island Hausriff is a dive site in Maldives offering excellent diving o
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Current**: Light
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Sea turtles, parrotfish, triggerfish, butterflyfish, juvenile reef fish, moray eels, pufferfish, blue-spotted stingrays in sandy patches, and occasional nurse sharks resting at the reef edge.
 
-## Dive Profile
+## Diving Tips
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 10 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-10 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- This is a perfect first open-water dive in the Maldives — visibility and conditions are reliably good.
+- Stay shallow (5–8 metres) to maximise bottom time and enjoy the colour and light in the coral garden.
+- Look for blue-spotted stingrays in sandy patches at the reef base.
+- Early morning dives often produce the best turtle encounters before boat traffic begins.
 
-## Entry and Exit
+## Getting There
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Pineapple Island is a resort island in South Ari Atoll, accessible by seaplane from Malé (approximately 30 minutes). The house reef is accessed directly from the resort.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

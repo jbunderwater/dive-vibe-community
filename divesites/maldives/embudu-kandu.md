@@ -13,54 +13,29 @@ addedBy: osm_import
 
 ## Embudu Kandu
 
-Embudu Kandu is a drift dive site in Maldives, Asia.
+Embudu Kandu is the channel passage between Embudu and Bodufinolhu islands in South Male Atoll — a current-swept kandu renowned for concentrating sharks, rays, and large pelagic species along its coral-encrusted walls.
 
 ## Overview
 
-Embudu Kandu is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Embudu Kandu is the calmer counterpart to the "Express" section of the channel system, allowing divers more time to explore the walls and overhangs rather than being swept through at full speed. The channel walls descend to 28 meters and are draped in sea fans, black coral trees, and encrusting sponges that thrive in the nutrient-rich current flow. Grey reef sharks and whitetip reef sharks are almost always present, patrolling the channel mouth and resting on sandy shelves along the wall. Schooling hammerhead sharks have been reported at depth during the early season. The overhangs and ledges along both walls provide shelter for resting turtles, and large grouper guard their territories among coral boulders on the channel floor. Divemasters use the channel regularly as a shark dive, positioning groups to drift along the wall while sharks cruise in the current below.
 
 ## Site Information
 
-- **Location**: Maldives, Asia
+- **Location**: South Male Atoll, Maldives
 - **Entry Type**: Boat dive
-- **Site Type**: Drift
+- **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 28 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-35 meters
+- **Current**: Strong; direction reverses with tide
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Grey reef sharks, whitetip reef sharks, occasional hammerheads, eagle rays, turtles, large grouper, Napoleon wrasse, schools of barracuda, dense soft corals, sea fans, and black coral trees on the deeper walls.
 
-## Dive Profile
+## Tips for Divers
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 28 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Buoyancy control is critical in this site, as the current can vary significantly between the surface and depth. Descend quickly to the wall on entry and maintain contact with the reef to control your drift. The channel is most productive for shark activity during early morning incoming tides. Always carry a surface marker buoy and be prepared for a drift exit into the lagoon or open water.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

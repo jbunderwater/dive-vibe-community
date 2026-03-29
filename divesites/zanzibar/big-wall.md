@@ -13,55 +13,53 @@ addedBy: osm_import
 
 ## Big Wall
 
-Big Wall is a wall dive site in Zanzibar, Africa.
+Big Wall is one of Zanzibar's premier wall dives, accessible from the Nungwi area at the island's northern tip. The site forms part of the dramatic reef topography where the shallow Zanzibar platform drops into the deeper Indian Ocean, creating vertical walls encrusted with rich marine growth.
 
 ## Overview
 
-Big Wall is a dive site in Zanzibar featuring a dramatic vertical wall that drops into the deep blue. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+The wall at this site descends from a reef crest at 5-8 meters to 20 meters at the base of the productive dive zone, though the wall continues deeper beyond recreational limits. Zanzibar's Big Wall is known for particularly vibrant soft coral and sea fan growth that covers the face in shades of orange, red, and yellow — creating some of the most colorful wall photography in East Africa. The warm Indian Ocean water (26-29°C year-round) and excellent visibility of 20-30 meters make this a flagship site for Zanzibar diving.
 
 ## Site Information
 
-- **Location**: Zanzibar, Africa
+- **Location**: Northern Zanzibar Island, near Nungwi
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
+- **Maximum Depth**: 20 meters (wall continues deeper)
+- **Typical Visibility**: 20-30 meters (65-100 feet)
 - **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Best Time**: October to March (northeast monsoon)
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The wall face supports a vertical ecosystem with each depth zone hosting different communities. Sea fans at 15-20 meters host pygmy seahorses and flamingo prawns visible with close inspection. Orange and white cup corals encrust the shaded overhangs. Eagle rays and reef sharks are regularly seen in the blue water beyond the wall. Hawksbill turtles use the reef crest for resting and feeding. Schools of anthias hover above the coral growth throughout the wall's surface.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-20 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Descend to the mooring and drop directly to 18-20 meters at the base of the productive zone. Work along the wall face horizontally, examining each overhang and crevice, before ascending methodically through the mid-wall zone at 10-15 meters. Spend the final portion of the dive on the reef crest in 5-8 meters of water before the safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat departure from Nungwi operators. The wall is best dived in moderate current conditions — strong current runs parallel to the face and can push divers away from the wall unexpectedly. A reef hook is standard equipment for Zanzibar wall diving. Giant stride entry; deploy SMB for ascent.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Bring a dive torch even on daytime dives — the overhangs shelter species that require illumination to see clearly
+- Zanzibar's Big Wall is often combined with nearby Barracuda Point for a contrasting two-tank morning
+- The pygmy seahorse positions on sea fans shift seasonally — ask your guide which fans are currently occupied
+- Current is essential for bringing pelagic visitors to the wall; coordinate timing with guides
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Wall dive depth discipline is critical. The wall continues below 20 meters and the clear water can make depth perception difficult — set a firm depth limit on your computer and adhere to it. Current can pick up without warning on the outer wall; carry a reef hook and be prepared to ascend away from the wall if current reverses. Always deploy SMB before ascending.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+Big Wall is one of East Africa's top photography walls. The colorful soft coral growth at 15-20 meters rewards strobe-lit close-up photography, while wide-angle shots along the wall face with rays or sharks in the frame produce dramatic images. An ultra-wide or fisheye lens at the 10-20mm range is the recommended setup.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

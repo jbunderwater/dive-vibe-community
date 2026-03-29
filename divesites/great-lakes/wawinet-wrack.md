@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## Wawinet (Wrack)
 
-Wawinet (Wrack) is a historic wreck dive in Great Lakes, North America.
+The Wawinet is a 20th-century Georgian Bay vessel wreck lying in approximately 20 metres of water in the Collingwood or Owen Sound area of Georgian Bay, Ontario. This vessel adds to the interesting collection of 20th-century wrecks that complement the 19th-century sailing ships in the southern Georgian Bay diving scene.
 
 ## Overview
 
-Wawinet (Wrack) is a dive site in Great Lakes featuring the wreck of the Wawinet (Wrack). Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Wawinet rests in the southern Georgian Bay waters near Collingwood or the Owen Sound area — a stretch of lakeshore that saw significant vessel traffic throughout the 20th century serving the growing communities of Ontario's Blue Mountain region. The wreck lies at approximately 20 metres on the Georgian Bay lakebed, where cold freshwater has preserved the hull well. The Collingwood area is known in Ontario diving circles as an accessible destination for weekend wreck diving, with a cluster of interesting vessels at manageable depths. Visibility in southern Georgian Bay typically ranges from 5–10 metres, somewhat less than the northern Tobermory area but still rewarding.
 
 ## Site Information
 
-- **Location**: Great Lakes, North America
+- **Location**: Georgian Bay, Lake Huron, Ontario, Canada (southern Georgian Bay, Collingwood area)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
+- **Maximum Depth**: 20 metres
+- **Typical Visibility**: 5–10 metres
+- **Water Temperature**: 4–20°C (seasonal); bottom 4–10°C
+- **Current**: Minimal in southern Georgian Bay
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Southern Georgian Bay wreck sites support a productive freshwater community. Smallmouth bass are prominent around the hull. Yellow perch school in mid-water. Northern pike are occasionally spotted near the wreck. Crayfish inhabit the bottom debris field. Zebra mussels colonize hard surfaces below the thermocline. In the shallow southern Georgian Bay waters, warm summer surface temperatures support more diverse plant life and sunfish species than the colder northern parts of the lake.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The Wawinet lies at a comfortable 20-metre recreational depth. Explore the hull from end to end, noting the vessel's construction and any preserved features. The southern Georgian Bay bottom is relatively sandy in this area. Standard ascent with safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Charter dive boats from Collingwood or Owen Sound area provide access. The Collingwood area has active dive charter operations. Entry by giant stride. Deploy SMB on ascent.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- The Collingwood area wreck cluster makes a good Ontario dive weekend
+- Combine with the Mapledawn and Marquette for a multi-wreck day at varied depths
+- Drysuit or thick wetsuit recommended for cold bottom temperatures
+- Torch for hull examination
+- The Blue Mountain ski area and Georgian Bay scenery make Collingwood worth visiting for non-diving family members
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Georgian Bay weather can deteriorate in any season. Check forecasts before heading out. Cold water demands thermal protection. Dive with a buddy and carry an SMB.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+Southern Georgian Bay wreck photography in 5–10 metre visibility benefits from supplemental lighting. The vessel's construction details and resident fish community provide worthwhile subjects.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

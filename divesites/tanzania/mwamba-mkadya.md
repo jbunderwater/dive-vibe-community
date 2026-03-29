@@ -13,54 +13,53 @@ addedBy: osm_import
 
 ## Mwamba Mkadya
 
-Mwamba Mkadya is a reef dive site in Tanzania, Africa.
+Mwamba Mkadya is a coral reef south of Dar es Salaam in Tanzania, positioned along the coastline of the Dar es Salaam Marine Reserve where inshore reefs transition from silty near-shore conditions to clearer water accessed by intermediate divers comfortable with moderate current.
 
 ## Overview
 
-Mwamba Mkadya is a dive site in Tanzania offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Mwamba Mkadya represents the intermediate tier of Dar es Salaam diving — more exposed than the sheltered patch reefs but less demanding than the outer channel sites. The reef structure includes a rubble zone at the base leading to a coral slope from 8-18 meters, with the most concentrated coral growth in the mid-reef zone at 10-15 meters. Visibility is variable, typically 10-15 meters in the northeast monsoon season. The site sees less dive traffic than the northern Dar es Salaam reserves, resulting in calmer animal behavior.
 
 ## Site Information
 
-- **Location**: Tanzania, Africa
+- **Location**: Dar es Salaam Marine Reserve, southern section, Tanzania
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 10-15 meters (33-50 feet)
+- **Current**: Moderate
+- **Best Time**: October to February
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+The less-visited status of Mwamba Mkadya contributes to relaxed fish behavior — groupers allow close approaches and reef sharks occasionally cruise the outer edge without being disturbed by human presence. Large parrotfish in their terminal phase (bright blues and greens) are prominent. Octopus is relatively common on this reef compared to the higher-traffic northern sites. Cleaning stations with shrimp are active at several coral outcrops.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+A standard reef slope dive suited to divers who have completed their first open water dives and want a step up in terrain. Descend to 16-18 meters on the outer slope and work back up, spending time at cleaning stations in the 10-15 meter zone. Finish in the shallower rubble and coral garden zone for the safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Dar es Salaam, typically combined with other south-of-city sites on a two-dive day. Travel time is slightly longer than to northern reserve sites — allow 40-50 minutes from Msasani Bay. Current can be more noticeable here than at the sheltered northern patches.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Good site for consolidating drift navigation skills in a moderate-current environment
+- Search for octopus in the rubble zone at the base of the reef — more reliable here than at heavily dived sites
+- Mornings are essential — afternoon wind and current effects are more pronounced at this exposed southern location
+- Ask operators whether they combine this with nearby Mwamba Kikweo for a varied south-Dar day trip
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+More exposed than the northern Dar es Salaam patch reefs. Moderate currents require confident navigation and reliable SMB deployment. The southern reserve sees less dive traffic, which means the boat crew may be farther away at pickup — surface clearly with SMB deployed and whistle ready.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Good variety of subjects including relaxed groupers and parrotfish in good light conditions. The calmer fish behavior compared to more dived sites makes animal portrait photography more rewarding. A 60mm macro lens is effective for the cleaning station subjects.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

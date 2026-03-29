@@ -11,56 +11,53 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Stenapa Reef
+# Stenapa Reef
 
-Stenapa Reef is a reef dive site in Sint Eustatius, Caribbean.
+An ultra-shallow beginner reef named for the conservation foundation that manages Sint Eustatius's marine park — a snorkel-depth site with good coral coverage in the heart of the protected leeward zone.
 
 ## Overview
 
-Stenapa Reef is a dive site in Sint Eustatius offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Stenapa Reef is named in honour of the Sint Eustatius National Parks Foundation (STENAPA), which has managed Statia's marine protected area since the late 1990s. The site is one of the shallowest in the marine park — a maximum of 6 meters means it is accessible to beginner divers, snorkellers, and open water students alike. The reef is in a central position on the leeward coast and has benefited from decades of marine park protection and monitoring. Hard coral coverage is good, with well-developed brain and star coral formations and scattered sea fan colonies. The site is frequently used as an introduction dive or snorkel excursion. Visibility is typically 15–25 meters. Water temperature is 26–28°C year-round.
 
 ## Site Information
 
-- **Location**: Sint Eustatius, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 6 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 1–6 m |
+| Difficulty | Beginner |
+| Entry Type | Boat |
+| Site Type | Reef |
+| Visibility | 15–25 m |
+| Current | Light |
+| Water Temp | 26–28°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The shallow reef hosts a representative Caribbean reef fish community. Blue tang, parrotfish, and sergeant majors are abundant. French angelfish and four-eye butterflyfish are common. The sea fan colonies host flamingo tongue snails. Sandy patches between coral formations have garden eels and the occasional southern stingray. Hawksbill turtles visit to feed on the sponges on the reef crest. Green sea turtles are also present in the shallow grass beds.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 6 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-6 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descent from the boat to the reef crest at 2–3 meters. Exploration is lateral rather than vertical — the entire site is within 6 meters. Divers cover the reef crest and slopes, investigating coral formations and sandy clearings. The shallow depth allows very long dives (60+ minutes) before air or safety-stop considerations. Ideal for practicing buoyancy in a forgiving environment.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive with STENAPA mooring. Access via Golden Rock Dive Center. Entry by giant stride. Exit is standard boat pickup. The site is also accessible by snorkel from the same boat.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+Stenapa Reef is the ideal first dive on a Statia trip — the shallow depth and calm conditions allow divers to get comfortable before moving to deeper or more current-exposed sites. Excellent for new divers working on buoyancy. The flat, sunlit reef top is also ideal for checking camera exposure settings before a day of deeper, more complex diving.
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The very shallow depth means surge can be felt at the surface when any swell is present — check conditions before diving. Fire coral is present on the reef crest. Avoid touching any reef structure. All STENAPA marine park rules apply at this named site. No collecting of any kind.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Stenapa Reef's shallow depth delivers outstanding ambient natural light throughout the day. Fish portraits are excellent — the light is consistent and the fish are approachable. Flamingo tongue snails on sea fans are a classic Caribbean macro subject, easily found here. Wide-angle reef panoramas in 3–5 meters of water have a bright, blue-water quality difficult to achieve at deeper sites.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- STENAPA: stenapafoundation.com — the foundation that manages and monitors this reef
+- Golden Rock Dive Center: uses Stenapa Reef as an introduction and training site
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

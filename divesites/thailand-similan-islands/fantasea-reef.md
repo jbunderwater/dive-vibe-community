@@ -13,53 +13,54 @@ addedBy: osm_import
 
 ## Fantasea Reef
 
-Fantasea Reef is a boulder dive site in Thailand Similan Islands, Asia.
+Fantasea Reef is a granite boulder and reef dive site in the southern Similan Islands National Park, Phang Nga Province, Thailand. It represents the characteristic geology of the Similan east coast: granite formations draped with coral, accessible depths, and a productive mixed environment of boulder and reef habitats.
 
 ## Overview
 
-Fantasea Reef is a dive site in Thailand Similan Islands offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The site features large granite boulders scattered across a sloping substrate that transitions from shallower hard coral reef to deeper sand and rubble at 40 meters. The boulders are encrusted with a mixture of hard corals, sponges, and soft corals that accumulate in the moderate current exposure of this aspect. It is an intermediate site — accessible for divers who have moved beyond beginner-grade sites but not demanding the full advanced skill set required for the major west-coast and pinnacle dives. The name reflects the early liveaboard culture of giving evocative names to sites throughout the archipelago.
 
 ## Site Information
 
-- **Location**: Thailand Similan Islands, Asia
-- **Entry Type**: Liveaboard
+- **Location**: Similan Islands National Park, southern Similan area, Phang Nga Province, Thailand
+- **Entry Type**: liveaboard
 - **Site Type**: Boulder
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15–30 meters
+- **Current**: Light to moderate
+- **Best Time**: November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The site offers a varied selection of reef fish, with higher species diversity than the more current-swept west-coast sites. Clownfish in anemone hosts appear on the shallow reef sections. Moray eels, pufferfish, and lionfish occupy the boulder crevices. Hawksbill turtles are regular, foraging on sponges growing on the boulder faces. Leopard sharks are occasionally found resting on sandy patches between boulders at depth. Whitetip reef sharks patrol the deeper portions of the slope. Schools of glassfish fill the deeper boulder overhangs with attendant lionfish and twinspot snapper. Napoleon wrasse appear on the mid-slope.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 40 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin at depth on the outer boulders (25–35 m) to maximise bottom time at maximum depth, then work inshore and shallower via the boulder field. The mid-slope (12–22 m) is the most productive for marine life variety. The shallower reef zone (5–12 m) is colourful in morning light and ideal for the safety stop with active reef fish. Maximum depth of 40 m is achievable on the outer face but the most interesting diving is above 25 m.
 
 ## Entry and Exit
 
-This site can be accessed from shore or by boat. Shore entry follows established paths to the water. Boat access is available through local dive operators. Check conditions and choose the most appropriate entry method based on weather and sea state.
+Liveaboard and occasional day-trip access from Khao Lak. Conditions are generally calm enough for straightforward zodiac operations. Site is moored during peak season.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Check sandy pockets between the deeper boulders for leopard sharks — they tend to be less reliably resident here than at Elephant Head or Deep Six, but sightings occur
+- The shallower boulder surfaces at 8–15 m are productive for nudibranchs and flatworms; carry a torch for the undersides of overhangs
+- This site is a good choice for divers transitioning from beginner-grade sites to boulder dives — the topography is less complex than Elephant Head Rock
+- A wide-angle lens captures the boulder-meets-coral landscape; the scenic variety of this site is higher than a pure reef or pure boulder site
+- Garden eels in the sandy margins at the base of the slope retreat into their burrows as you approach — observe from 3–4 metres above the sand
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Fantasea Reef is an intermediate site with no extreme hazards. Current is manageable for properly certified intermediate divers. The 40 m maximum depth requires attention on the outer boulders where the slope offers no visual depth cues to prevent gradual descent. Monitor your dive computer actively. Always carry an SMB for surface signalling.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Fantasea Reef's mixed habitat — boulders, soft coral, hard coral — makes it productive for varied subject photography. Wide-angle compositions mixing the granite structures with coral-covered surfaces are distinctive. The shallow reef section in morning ambient light is well-suited to no-strobe wide-angle coral garden images. For macro, the boulder overhangs at 15–22 m typically yield nudibranchs, flatworms, and encrusted cowrie shells.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

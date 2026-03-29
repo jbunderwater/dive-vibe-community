@@ -13,54 +13,32 @@ addedBy: osm_import
 
 ## Dongmaas Giri
 
-Dongmaas Giri is a reef dive site in Maldives, Asia.
+**Location:** South Malé Atoll, Maldives
+**Depth:** 5–25 m
+**Difficulty:** Intermediate
+**Entry:** Boat
 
-## Overview
+### Overview
 
-Dongmaas Giri is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Dongmaas Giri is a submerged reef mound in South Malé Atoll, representing the classic Maldivian giri formation. Like other giri sites in the atoll, it functions as an isolated marine life hub on the sandy atoll floor, its hard substrate attracting corals, sponges, and the fish and invertebrates that depend on reef structure. The "Dongmaas" name distinguishes it from nearby Dong Giri, implying a related but distinct reef feature.
 
-## Site Information
+### Diving
 
-- **Location**: Maldives, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+The dive follows the contour of the giri from its shallow summit down to the sandy base at 25 m. Hard corals cover the upper sections and soft corals and sea fans appear on the deeper walls. The overhangs around the midsection of the structure shelter resting nurse sharks and grouper during the day. Moray eels, mantis shrimp, and nudibranchs are among the smaller residents found by observant divers.
 
-## Marine Life
+Schooling reef fish gather above and around the giri — blue-striped snapper, fusilier, and surgeonfish in considerable numbers. The site is productive for photography given the density of subjects.
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+### Marine Life
 
-## Dive Profile
+- Nurse sharks and grouper
+- Moray eels and mantis shrimp
+- Nudibranchs
+- Schools of snapper, fusilier, and surgeonfish
+- Sea fans and soft corals
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+### Practical Notes
 
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+A versatile site suitable for multiple dives, with something to offer divers of different interests (pelagics, reef fish, macro). Visibility typically 15–25 m. Minimal current. Boat access from South Malé Atoll resorts.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

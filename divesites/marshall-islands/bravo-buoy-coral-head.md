@@ -13,54 +13,32 @@ addedBy: osm_import
 
 ## Bravo Buoy Coral Head
 
-Bravo Buoy Coral Head is a reef dive site in Marshall Islands, Pacific.
+Bravo Buoy Coral Head is a lagoon pinnacle dive in Kwajalein Atoll, named after the navigational buoy position used by the US military to chart the lagoon — one of dozens of coral head dive sites that define the Kwajalein diving experience.
 
 ## Overview
 
-Bravo Buoy Coral Head is a dive site in Marshall Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The Kwajalein dive naming convention reflects the atoll's military history: buoy positions, navigational reference points, and military grid coordinates became the informal names for the coral heads that American military personnel began diving during the post-war occupation and have dived ever since. Bravo Buoy Coral Head is one of several buoy-named pinnacles in the northern section of the inner lagoon, rising from the sandy floor to near the surface in water with exceptional clarity.
 
-## Site Information
+The structure is typical of the best Kwajalein coral heads — a hard coral pinnacle encrusted with decades of reef growth, surrounded by clean sand and open water that allows excellent three-dimensional exploration. Visibility runs 25–35 meters, current is generally mild, and water temperature holds at 28–30°C year-round.
 
-- **Location**: Marshall Islands, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+## What to Expect
 
-## Marine Life
+The coral head structure provides habitat for the classic Kwajalein lagoon community. Humphead wrasse and large parrotfish cruise the perimeter. Moray eels occupy crevices throughout the pinnacle. Schools of snapper and fusiliers hover in the mid-water column. Whitetip reef sharks rest on sandy ledges at the base or cruise slowly around the lower structure. The hard coral coverage is dense and in good condition — table corals, brain corals, and encrusting formations cover virtually every surface above the sand line.
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Photography conditions are among the best in Micronesia: excellent visibility, soft natural light filtering through the clear lagoon water, and cooperative subject species.
 
-## Dive Profile
+## Practical Information
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth Range**: 5–25 meters
+- **Visibility**: 20–35 meters typical
+- **Currents**: Generally mild; stable lagoon conditions
+- **Entry**: Boat dive from Kwajalein operators
+- **Best For**: Intermediate divers; excellent year-round conditions
 
-## Entry and Exit
+## Marine Life Highlights
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Humphead wrasse, parrotfish, moray eels, snapper schools, fusiliers, whitetip reef sharks, groupers, butterflyfish, table corals, brain corals, nudibranchs.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

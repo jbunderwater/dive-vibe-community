@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## Mixing Bowl Little Cayman
 
-Mixing Bowl Little Cayman is a wall dive site in Cayman Islands, Caribbean.
+The junction point where Bloody Bay Wall meets Jackson Bight — an underwater amphitheater of coral canyons, tunnels, and swim-throughs at the eastern end of Little Cayman's world-famous wall system.
 
 ## Overview
 
-Mixing Bowl Little Cayman is a dive site in Cayman Islands featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Mixing Bowl marks the eastern terminus of Bloody Bay Wall where it meets Jackson Bight, creating one of Little Cayman's most distinctive dive environments. While Bloody Bay Wall is primarily defined by its dramatic vertical drop-off, the Mixing Bowl area transitions into the Jackson Bight characteristic topography of horizontal tunnels, coral canyons, and swim-throughs rather than a continuous wall face. Divers who have dived Bloody Bay Wall repeatedly often find Mixing Bowl provides a welcome contrast — a more enclosed, navigational dive experience within the same Marine Park. The coral formations at the junction point are exceptional, with the meeting of two different current patterns contributing to a particularly productive marine environment.
 
 ## Site Information
 
-- **Location**: Cayman Islands, Caribbean
+- **Location**: Eastern Bloody Bay Wall / Jackson Bight junction, North Shore, Little Cayman
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Wall / canyon / swim-throughs
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Maximum Depth**: 25 meters (82 feet)
+- **Typical Visibility**: 25–40 meters (82–130 feet)
 - **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Water Temperature**: 26–29°C (79–84°F)
+- **Best Time**: Year-round (December–April preferred)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Mixing Bowl shares the exceptional marine productivity of the broader Bloody Bay Marine Park. Hawksbill and green turtles are common in this section of the reef. Caribbean reef sharks patrol the wall junction area. Eagle rays pass through the zone between the wall and the Jackson Bight tunnels. The tunnel and swim-through environments host resident tarpon, snapper schools, and large grouper in the darker recesses. The coral formations at the junction are dense, supporting typical Caribbean reef fish in high abundance.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-25 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Depending on which direction the dive boat approaches, begin either on the Bloody Bay Wall side (working eastward toward the junction) or the Jackson Bight side (working westward into the tunnels). The 25-meter maximum depth is appropriate for the area but many of the swim-throughs and canyons are shallower, allowing extended bottom time. Plan the dive to include both the wall junction and at least one of the significant Jackson Bight tunnels.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Little Cayman resort operators. The Bloody Bay Marine Park is mooring-buoyed. Giant stride entry. Little Cayman operators run this and adjacent sites daily when conditions allow.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- This site is best understood as a combination site — plan to divide time between the wall junction and the tunnel system
+- The Mixing Bowl area is more topographically complex than the open wall — navigation planning helps
+- Tarpon sheltering in tunnel recesses can be approached very closely in the darker areas
+- Ask your dive guide to distinguish Mixing Bowl from the broader Jackson Bight area for clarity
+- Multiple dives in this zone over several days reveal features that a single dive misses
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The tunnel and swim-through elements require good buoyancy control to avoid silting conditions. Do not enter any overhead environment without proper training and equipment. The wall junction area can develop current — monitor conditions and plan exit direction accordingly. Little Cayman's limited medical infrastructure requires conservative dive planning.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+The combination of wall and tunnel environments provides varied photographic opportunities. Tarpon in the tunnel interiors create dramatic ambient light portraits. Wide-angle compositions of the wall junction with sea fan frames are distinctive. The junction between the vertical wall and horizontal canyon topography is an unusual landscape rarely found elsewhere. Strobe lighting for tunnel subjects balances the dark interior with the brighter ambient exterior.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*

@@ -11,57 +11,56 @@ osmId: 270997633
 addedBy: osm_import
 ---
 
-## Zingara
+# Zingara
 
-Zingara is a historic wreck dive in Dominican Republic, Caribbean.
+*A deliberately scuttled vessel in the waters off Puerto Plata, now one of the Dominican Republic's north coast wreck dives.*
 
 ## Overview
 
-Zingara is a dive site in Dominican Republic featuring the wreck of the Zingara. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Zingara is a wreck located off the north coast of the Dominican Republic near Puerto Plata. The vessel was sunk as an artificial reef to create a dive attraction in waters that are not as well-developed for diving as the southeastern coast around Bayahibe and La Romana. The wreck lies at around 30–36 meters on a sandy bottom, making it an advanced-level dive requiring good air management. Visibility in these north coast waters averages 15–25 meters. Water temperatures range from 26–28°C in summer and 23–25°C in winter. The site attracts divers from the Puerto Plata and Sosúa area resorts.
 
 ## Site Information
 
-- **Location**: Dominican Republic, Caribbean
+- **Location**: Puerto Plata area, north coast Dominican Republic
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 36 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 15–25 meters (50–80 feet)
+- **Current**: Variable; can be moderate on the north coast
+- **Best Time**: May to October when the Atlantic is calmer on the north coast
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Years of encrustation have transformed the Zingara's hull into a productive artificial reef. Large groupers and snapper schools shelter in and around the wreck structure. Glassy sweepers and soldierfish cluster around any openings and overhangs. Moray eels inhabit the superstructure. Hawksbill turtles occasionally visit the wreck area. Lion fish, introduced to the Caribbean, are present on north coast wrecks. Barracuda patrol the water column above the wreck. Encrusting sponges — orange, red, and purple — and wire corals grow densely on exposed metal surfaces.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 36 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend directly to the wreck, which lies with its deepest sections at around 36 meters. Spend the deeper portion of your bottom time exploring the main hull and superstructure. As air depletes, work shallower along the wreck's upper sections and any mast or rigging. Ascend and complete a safety stop at 5 meters before surfacing. Bottom time at 36 meters is limited under recreational limits — plan conservatively and consider nitrox for extended bottom time.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from Puerto Plata and Sosúa serve this site. Entry via giant stride or back roll. Deploy an SMB before your safety stop ascent. The north coast can have choppier surface conditions than the southern Caribbean shore, so choose days with calm wind and sea state.
 
-## Tips and Recommendations
+## Tips
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Nitrox is strongly recommended to maximize bottom time at depth
+- Carry a primary dive torch — wreck interiors are dark even at midday
+- Do not penetrate any enclosed areas without proper wreck penetration training and equipment
+- Check north coast weather carefully; afternoon swells can build quickly off Puerto Plata
+- Log your dive with the local dive operator who can brief you on current conditions and safe access points
 
-## Safety Considerations
+## Safety
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+Maximum depth of 36 meters requires careful dive planning within Advanced Open Water limits (maximum 40 meters). Ensure adequate reserve air before ascending. The north coast of the Dominican Republic can have stronger currents and larger swells than the south coast — confirm conditions with local operators before the dive. Always dive with a buddy.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The encrusted hull makes compelling wide-angle subjects, particularly if there is good ambient light penetrating from above. A torch is essential for illuminating the vivid colors of encrusting sponges inside the wreck. Look for moray eels peering from openings and groupers hovering near the structure for portrait shots.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

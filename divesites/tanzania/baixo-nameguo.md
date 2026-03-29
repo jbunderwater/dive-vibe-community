@@ -13,54 +13,53 @@ addedBy: osm_import
 
 ## Baixo Nameguo
 
-Baixo Nameguo is a reef dive site in Tanzania, Africa.
+Baixo Nameguo is an offshore reef shoal in the Mafia Island Marine Park area of southern Tanzania, situated in the open channel northeast of Mafia Island where pelagic nutrients and strong tidal movement sustain a thriving coral ecosystem.
 
 ## Overview
 
-Baixo Nameguo is a dive site in Tanzania offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+One of several outer reef formations accessible from Mafia Island, Baixo Nameguo offers a more exposed, current-swept experience than the inshore sites. The reef top begins around 6 meters and the outer slope descends to 22 meters, with coral diversity increasing at depth. Currents can be brisk, which concentrates fish life and brings in pelagic visitors. Visibility typically reaches 15-25 meters on clear days.
 
 ## Site Information
 
-- **Location**: Tanzania, Africa
+- **Location**: Mafia Channel, Mafia Island Marine Park, Tanzania
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
+- **Typical Visibility**: 15-25 meters (50-80 feet)
 - **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Best Time**: October to March for calm seas and whale sharks
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+The current-swept outer slope attracts schools of bigeye trevally, barracuda, and rainbow runners that hover in the blue water above the reef. Reef sharks are regularly sighted patrolling the edge, while hawksbill turtles forage on the abundant coral growth. The deeper ledges shelter large groupers and Napoleon wrasse. During October to March, whale sharks are frequently encountered in the Mafia Channel, and dives here have a reasonable chance of sightings near the surface.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 22 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin your descent on the exposed side and work the current-washed outer slope from 18-22 meters, where coral coverage is richest. As air diminishes, move onto the reef top in 6-12 meters for an extended shallow finish. The current typically runs along the reef face; if it strengthens, ascend to the shallower reef crest which provides more shelter.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Mafia Island (typically 30-50 minutes by motorized dhow or speedboat depending on operator). Given the offshore location, confirm weather and sea state before departing. Deploy an SMB for the safety stop pickup — the boat may need to track you in open water.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Check tidal timing with your operator; diving 1-2 hours after high tide often produces best visibility on the outer slope
+- The offshore location means sea conditions can build quickly — have a clear abort plan
+- Encounter probability for whale sharks improves with an early morning departure
+- Bring a reef hook if you want to station yourself against the current and observe pelagic activity
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The combination of offshore location and moderate-to-strong current requires solid intermediate dive skills. If the current reverses mid-dive, you may need to ascend away from the reef and surface in open water. Always carry a fully inflated SMB and a whistle. Ensure the boat crew is positioned to track you from the surface throughout the dive.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Wide-angle photography is the priority here — current-schooling trevally, passing sharks, and the potential for whale shark encounters all reward large-format images. A fisheye or ultra-wide lens on a DSLR or mirrorless housing produces the best results. For closer reef subjects, look for nudibranch activity on the coral heads in the 15-20 meter range.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

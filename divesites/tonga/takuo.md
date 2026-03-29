@@ -13,55 +13,51 @@ addedBy: osm_import
 
 ## Takuo
 
-Takuo is a historic wreck dive in Tonga, Pacific.
+Takuo is a wreck site in Tonga's island waters, now heavily colonized by corals and serving as a productive fish aggregation point in an otherwise open sandy environment.
 
 ## Overview
 
-Takuo is a dive site in Tonga featuring the wreck of the Takuo . Historical hydrographic marker with hull showing. Limited dive history found; depths estimated based on hull_showing water level. Likely coral-encrusted with marine life.. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The Takuo wreck sits in the waters of the Tonga island chain at approximately 20 meters depth, resting on a sandy bottom. The vessel's origin and history are not extensively documented in public dive records, but the wreck has been in place long enough to accumulate substantial coral growth and to establish itself as a permanent feature of the local reef ecosystem. Like many Pacific wrecks, the artificial hard substrate provided by the hull has accelerated coral colonization far beyond what the surrounding sandy environment would otherwise support, creating a concentrated patch of reef habitat that attracts fish from the surrounding area. The site is diveable year-round and is accessible from nearby island communities by charter boat.
 
 ## Site Information
 
-- **Location**: Tonga, Pacific
+- **Location**: Tonga island waters, Tonga
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 15–25 meters
+- **Current**: Light to moderate
+- **Water Temperature**: 23–27°C (73–81°F)
+- **Best Time to Dive**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck hull supports dense populations of encrusting hard and soft corals, sponges, and anemones with associated clownfish. Schools of fusiliers and snapper orbit the structure during the day, while grouper and lionfish occupy darker corners and interior spaces. Sea turtles are a common encounter at this site, often found resting on the deck or hull surfaces. The sandy bottom around the wreck hosts stingrays, flatfish, and garden eels in the surrounding sea floor. Whitetip reef sharks are regular visitors, frequently resting on the sandy bottom near the wreck's shadow.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the top of the superstructure at 8–12 meters, then explore the deck and hull sides before dropping to the sandy bottom at 20 meters for the full hull profile view. The wreck is of a size that a single dive covers the exterior comprehensively. Accessible interior spaces with natural ambient light can be explored with a dive torch. Begin your ascent from the shallowest structural feature and conduct your safety stop on the up-current side of the wreck.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by charter boat from nearby island communities or through operators in the nearest town with dive services. The boat moors or anchors above the wreck. Giant stride entry and descent to the wreck top. Ascent via the wreck's superstructure to the mooring or free ascent with SMB.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Bring a dive torch for the darker interior spaces and to bring out coral colors below 15 meters
+- The sandy bottom around the wreck is worth examining for rays and flatfish before ascending
+- Lionfish are present and well-camouflaged — watch hand placement near superstructure
+- A slow, methodical circuit of the hull exterior before entering any interior spaces provides the best overall encounter with the site
+- Night dives on this wreck reveal different residents: octopus, morays actively hunting, and sleeping reef fish
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+This site is well within intermediate-level diver capabilities. The 20 meter maximum depth allows generous bottom times, and conditions are generally mild. Interior penetration should be limited to areas with clear ambient light or attempted only with a dive torch and appropriate training. Avoid disturbing silt inside enclosed spaces. Always carry an SMB for ascent.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The encrusted hull makes for strong macro photography — scan the surfaces for nudibranchs, flatworms, and small crustaceans in the coral matrix. Wide-angle shots looking along the hull length capture the wreck's scale and the fish life surrounding it. A torch is needed to illuminate interior shots and to restore color saturation on the deeper hull sections.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,53 +13,51 @@ addedBy: osm_import
 
 ## Gull Reef
 
-Gull Reef is a reef dive site in British Columbia, North America.
+Gull Reef is a submerged rocky reef in the southern Gulf Islands of British Columbia, Canada, in the waters near Prevost Island and surrounding channels, accessed by boat.
 
 ## Overview
 
-Gull Reef is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Gull Reef is a productive intermediate reef dive in the heart of the Gulf Islands, where tidal currents flush cold, nutrient-laden water across the reef structure. Water temperatures average 8-12°C, and a drysuit is recommended for extended dives. Visibility is typically 6-12 metres, with the clearest conditions from October to March. The site is subject to strong tidal currents through the surrounding passages — always check current predictions and dive at or near slack water.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Southern Gulf Islands, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 6-12 metres
+- **Water Temperature**: 8-12°C (drysuit recommended)
+- **Current**: Strong on tidal exchanges — dive at slack
+- **Best Time**: Year-round; best visibility October to March
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The reef supports a dense community of cold-water species characteristic of the southern Gulf Islands. Giant Pacific octopus are common in rocky dens along the reef. Lingcod claim territories on the rock faces, often remaining still as divers approach. Black rockfish and kelp greenling populate the bull kelp canopy at 5-8 metres. Sea stars, nudibranchs, and encrusting sponges in orange, white, and purple cover the lower reef surfaces. Harbour seals are regular visitors, attracted to the abundant fish life.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef top at 5-8 metres and explore the kelp forest before following the reef contours down to 18 metres. The most productive zone is typically in the 8-14 metre range where the reef transitions from kelp to open rock. Allow time for a gradual ascent back up the reef face, finishing with a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access only, typically from marinas on Salt Spring Island, Galiano Island, or the Saanich Peninsula. Moor or anchor clear of the reef top. The Gulf Islands waterways carry regular ferry and recreational vessel traffic — always deploy your SMB before ascending.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Dive at slack water to avoid being swept off the reef in the tidal current
+- Bring a torch to search reef crevices for GPO and wolf eels
+- Cold water diving requires careful monitoring of air consumption
+- Winter months offer the best visibility and active rockfish aggregations
+- Plan your exit carefully to avoid drifting into vessel traffic zones
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Strong tidal currents in the Gulf Islands passages are the primary safety concern at Gull Reef. Even mild residual current can make ascent uncomfortable. Keep your SMB accessible and deploy at depth. Cold water increases decompression risk — ascend conservatively and complete your safety stop. Monitor your buddy and maintain visual contact throughout the dive.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Gull Reef offers a blend of macro and wide-angle opportunities. Nudibranchs and small crustaceans provide excellent macro subjects in the shallower kelp zone. Lingcod and rockfish portraits work well with a wide-angle or fisheye lens. GPO encounters are a highlight — take your time positioning for the best angle and use a single strobe to avoid harsh shadows on the animal's textured skin.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

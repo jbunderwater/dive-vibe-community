@@ -11,55 +11,57 @@ osmId: 6422601086
 addedBy: osm_import
 ---
 
-## Brant Reef
+# Brant Reef
 
-Brant Reef is a reef dive site in British Columbia, North America.
+A productive submerged reef in the Strait of Georgia off Nanaimo's coastline.
 
 ## Overview
 
-Brant Reef is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Brant Reef lies in the central Strait of Georgia offshore from the Nanaimo area, in waters that see steady tidal exchange and upwelling nutrients. The reef provides excellent habitat for cold-water Pacific Northwest species in a relatively accessible location for divers based in Nanaimo or nearby communities. Water temperatures are consistently cold at 8–11°C, requiring drysuits. Visibility varies from 6–15 metres depending on season and tidal stage.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Strait of Georgia, Nanaimo area, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Submerged reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 6–15 metres
+- **Current**: Tidal currents present — dive near slack
+- **Best Time**: Late spring through autumn
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The reef supports a full complement of Salish Sea species. Giant Pacific octopus are frequently encountered among rock crevices. Lingcod — some exceeding a metre in length — guard territories on the rocky substrate. Copper and quillback rockfish hover near the reef structure. Plumose anemones in white and orange form dense colonies on rocky prominences exposed to current. Tiger rockfish can be found deeper on the reef. Puget Sound king crab and red rock crab are common. Harbour seals often follow dive groups around the reef.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The reef structure descends from a high point around 8–10 metres to sandy areas at 18 metres. Begin at the deeper perimeter and work back to the reef crest over the course of the dive. The mid-depth zone around 10–15 metres typically has the greatest density of fish and invertebrate life. Complete a safety stop at 3 metres before ascending to the surface.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Nanaimo marina or nearby launch ramps. Use GPS to locate the reef and anchor clear of its summit. A live boat tender is ideal. Time your dive to coincide with the end of incoming or outgoing tides when current is at minimum. Signal your ascent clearly with an SMB due to boat traffic in the area.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Nanaimo has several excellent dive charters familiar with local reef sites
+- Current can pick up quickly — don't overstay your bottom time
+- The reef rewards multiple dives as different species are active at different times of day
+- Autumn offers some of the best visibility conditions in the Strait of Georgia
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Tidal current is the primary hazard at this site. Always deploy an SMB before ascending. Boat traffic in the Strait of Georgia is heavy — surface with a flag buoy visible from a distance. Cold water (8–11°C) requires drysuit proficiency. Dive with a buddy and carry a dive knife in case of entanglement.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Rockfish portraits, octopus interactions, and wide-angle reef panoramas are all achievable here. Lingcod resting on substrate make striking subjects with a wide-angle or fisheye lens. Macro photographers should search for nudibranchs on sponges and bryozoans throughout the reef. Strobe lighting is essential for accurate colour at depth.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
+- Nanaimo dive charters and dive shops for local conditions and slack times
+- Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

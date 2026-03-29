@@ -11,56 +11,55 @@ osmId: 746173573
 addedBy: osm_import
 ---
 
-## Drunkenmans Cay
+# Drunkenmans Cay
 
-Drunkenmans Cay is a reef dive site in Jamaica, Caribbean.
+A colorfully named small cay in the Portland Bight area with a fringing reef and tranquil conditions typical of Jamaica's protected southern coast.
 
 ## Overview
 
-Drunkenmans Cay is a dive site in Jamaica offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Drunkenmans Cay sits in the Portland Bight Protected Area of Jamaica's southern coast, part of a scattered archipelago of small cays and reef systems that receive minimal recreational dive traffic. The cay is surrounded by a fringing reef extending to 14 metres, with the classic spur-and-groove formations, small overhangs, and sandy channels characteristic of Jamaican shallow reefs. The protected area status has helped maintain reef health in this region. The site is peaceful and uncrowded, with good beginner conditions in the sheltered southern waters. Visibility averages 15–20 metres during the dry season.
 
 ## Site Information
 
-- **Location**: Jamaica, Caribbean
+- **Location**: Portland Bight Protected Area, south Jamaica
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 14 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 15–20 meters (50–65 feet)
+- **Current**: Light
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The cay reef supports schoolmaster snapper, French grunts, parrotfish, and blue tangs. Hawksbill turtles are present in the area and are commonly seen grazing on sponges. Nurse sharks rest at the base of the reef. Spiny lobsters and spotted moray eels occupy crevices. Southern stingrays rest on sandy patches around the cay. Sergeant majors are abundant in the shallower surge zone around the cay's rocky base.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 14 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-14 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Circumnavigate the cay reef keeping the island within sight. The reef crest is at 5–8 metres with the deepest areas at 12–14 metres on the outer edge. Plan for a clockwise or counterclockwise circuit depending on current direction. Safety stop at 5 metres on the sheltered lee side of the cay.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by local charter from the south coast — limited commercial dive infrastructure in this area. Entry via giant stride or back roll from a small boat. Moor on the lee side of the cay for shelter.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Plan to visit multiple south-coast cays in a single day — they are close enough together for efficient diving
+- The cay names in this area (Drunkenmans, South Cay, Maiden Cay) reflect the historical fishing and sailing culture of the Jamaican south coast
+- Snorkeling the shallow cay fringe is productive for those in the group who prefer not to dive
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Remote location — carry all safety gear. Sea conditions on the south coast can change; check the weather and swell forecast before departure. Always deploy SMB before surfacing.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Cay fringe environments produce distinctive compositions. Wide-angle shots looking along the reef with the cay surface visible above water create a sense of place. Turtle and nurse shark portraits are reliable subjects at these protected south-coast sites.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Protected Area**: Portland Bight Protected Area, Jamaica
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

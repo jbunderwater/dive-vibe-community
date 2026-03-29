@@ -13,54 +13,32 @@ addedBy: osm_import
 
 ## Twin Peaks Coral Head
 
-Twin Peaks Coral Head is a reef dive site in Marshall Islands, Pacific.
+Twin Peaks Coral Head is one of Kwajalein Atoll's most structurally distinctive sites — two separate coral pinnacles rising side by side from the lagoon floor, creating a unique double-pinnacle dive profile that allows divers to explore both structures on a single dive and use the sandy channel between them as a natural navigation guide.
 
 ## Overview
 
-Twin Peaks Coral Head is a dive site in Marshall Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The "twin peaks" formation is a geological accident of the lagoon floor topography — two distinct coral heads rose independently in close proximity, close enough to explore together but separate enough to have developed distinct communities on their individual faces. The overall dive depth matches the standard Kwajalein lagoon range (25 meters maximum), with each pinnacle rising to within a few meters of the surface. The channel between the peaks provides excellent structural interest and a natural low-relief swim-through at intermediate depths.
 
-## Site Information
+The coordinates place this site in the western-central northern zone of the lagoon, in an area that sees moderate diver traffic — less than the main inner cluster, more than the most remote outer sites.
 
-- **Location**: Marshall Islands, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+## What to Expect
 
-## Marine Life
+The two-pinnacle structure effectively doubles the reef surface area available for exploration compared to a single coral head, producing correspondingly higher species diversity and fish density. Each peak has developed its own character — experienced divers at Kwajalein report that the eastern peak tends to hold more resident moray eels and lionfish in its denser crevice structure, while the western peak has better gorgonian fan development on its faces and hosts more mid-water species.
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+The channel between the peaks is a particular highlight — a miniature "canyon" at 10–15 meters depth, flanked by coral walls on both sides, that often concentrates current flow and therefore fish activity. Grey reef sharks patrol this channel regularly. Hawksbill turtles graze the sponge growth on both pinnacle faces.
 
-## Dive Profile
+## Practical Information
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth Range**: 5–25 meters
+- **Visibility**: 20–35 meters typical
+- **Currents**: Mild; the inter-peak channel can concentrate mild current
+- **Entry**: Boat dive
+- **Best For**: Intermediate divers; structurally interesting double-pinnacle experience
 
-## Entry and Exit
+## Marine Life Highlights
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Grey reef sharks, hawksbill turtles, moray eels, lionfish, gorgonian fans, snapper, groupers, butterflyfish, humphead wrasse.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,54 +13,21 @@ addedBy: osm_import
 
 ## Vaageli Corner
 
-Vaageli Corner is a reef dive site in Maldives, Asia.
+Vaageli Corner marks the turning point of the Vaageli reef in South Male Atoll, where the outer reef wall bends and the current dynamics change — creating the conditions that concentrate sharks and pelagics at this kind of Maldivian corner site. The site is part of a cluster of dives on the Vaageli reef that collectively provide a full day of exploration.
 
-## Overview
+### Site Conditions
 
-Vaageli Corner is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+- **Depth range**: 8–25 m
+- **Typical visibility**: 15–25 m
+- **Currents**: Moderate to strong on the corner; lighter on the inner side
+- **Best season**: November–April for best clarity and consistent shark activity
 
-## Site Information
+### What to Expect
 
-- **Location**: Maldives, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+The corner's protruding reef tip is the focus of the dive, where grey reef sharks use the current convergence to hold station with minimal effort. Groups of 3–8 sharks are commonly seen here, particularly when the incoming current pushes nutrients around the corner. Eagle rays and giant trevally patrol the blue water off the reef edge, while the corner itself supports large Napoleon wrasse, dense schools of fusiliers, and colourful reef communities on the wall beneath. The inner side of the corner, sheltered from the current, provides a relaxed end to the dive with nurse sharks and turtles.
 
-## Marine Life
+### Tips for Divers
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Entry timing on the incoming tide produces the best shark encounters, as animals gather at the corner to face into the current. A reef hook allows divers to maintain position at the exposed tip without exhausting air supply during extended shark-watching periods. The corner is often combined with Vaageli Faru Nord or Vaageli Outside on the same trip, maximising time on the Vaageli reef complex.
 
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

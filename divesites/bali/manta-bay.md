@@ -13,53 +13,54 @@ addedBy: osm_import
 
 ## Manta Bay
 
-Manta Bay is a reef dive site in Bali, Asia.
+A closer, shallower alternative to Manta Point — a sheltered bay near Broken Beach where reef mantas regularly visit.
 
 ## Overview
 
-Manta Bay is a dive site in Bali offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Manta Bay is situated near the iconic Broken Beach (Pasih Uug) on the northwest coast of Nusa Penida, making it the closer and more frequently visited of the two main manta sites on the island. The site is shallower than Manta Point with a maximum depth of around 18 m, set in a partially sheltered bay that experiences less swell than the fully exposed southern coast. Reef manta rays visit the cleaning corals here on most days, though the site tends to attract more snorkel tour traffic than Manta Point. Operators report approximately 80% encounter rates. The sandy bottom and coral bommies also host resident reef fish and macro life.
 
 ## Site Information
 
-- **Location**: Bali, Asia
+- **Location**: Northwest Nusa Penida, near Broken Beach
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef / Cleaning Station
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: 1
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 18 m
+- **Typical Visibility**: 10–20 m
+- **Current**: Moderate; less exposed than Manta Point
+- **Best Time**: April to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Reef manta rays are the primary attraction, visiting cleaning stations in the bay on most days. Blue-spotted stingrays, reef sharks, and turtles are regular companions. The coral bommies host clownfish, moray eels, and reef fish. During the July–October season, cooler upwellings occasionally bring mola mola close to the reef.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the sandy floor at 12–18 m and approach the cleaning stations at a respectful distance. Allow the mantas to approach rather than chasing them. Explore the coral bommies around the bay perimeter between manta passes. Ascend via the reef wall and conduct a 3-minute safety stop at 5 m.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Toyapakeh or operators based on Nusa Penida. The crossing is shorter than to Manta Point but can still be choppy. Entry via back roll from dive boat. SMB deployment for ascent is recommended.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Arrive early to minimise overlap with snorkel tour boats that crowd the bay by midday
+- Stay low and neutrally buoyant — hovering above cleaning mantas disrupts the behaviour
+- Combine with nearby Crystal Bay for a contrasting two-site day
+- Wear a 3–5 mm wetsuit; water is generally warmer here than at Manta Point
+- Conditions are generally more manageable here on days when Manta Point is too rough
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Currents are less intense than Manta Point but can still be significant. Be aware of increased boat traffic in the bay — stay well clear of mooring lines and anchor chains. Do not approach manta rays closer than 3 m; they will leave the cleaning station if stressed. Always carry an SMB.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Wide-angle lenses capture manta rays circling over the coral bommies. The shallower, brighter conditions at Manta Bay often produce better-lit shots than the deeper site. Capture belly patterns to contribute to manta ID research programs run by local conservation organisations.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

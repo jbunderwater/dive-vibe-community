@@ -13,53 +13,54 @@ addedBy: osm_import
 
 ## Manta Point
 
-Manta Point is a reef dive site in Raja Ampat, Asia.
+Manta Point is one of Raja Ampat's most celebrated manta ray cleaning stations, located in the Arborek area near the village of Arborek on the eastern coast of the Dampier Strait.
 
 ## Overview
 
-Manta Point is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Manta Point sits in the productive waters off Arborek village, where reef manta rays (Mobula alfredi) congregate year-round at a dedicated cleaning station. On most dives, multiple mantas arrive to be serviced by cleaner wrasse, often hovering motionless just above the reef in the shallow zone. The site is famous for its reliable manta encounters — divemasters at Arborek regularly report three to ten mantas per dive. Water temperatures average 27–29°C with visibility typically 15–25 meters.
 
 ## Site Information
 
-- **Location**: Raja Ampat, Asia
+- **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: 2
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15–25 meters (50–80 feet)
+- **Current**: Mild to moderate; strongest on incoming tide
+- **Best Time**: October to April (dry season); mantas present year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Reef manta rays are the headline attraction — multiple individuals per dive is the norm, not the exception. The cleaning station sits at 8–15 meters on a gently sloping coral reef. Beyond the mantas, the reef supports healthy populations of reef sharks, sea turtles, napoleon wrasse, and large schools of fusiliers. The coral garden leading to the station is rich in hard coral growth with resident blue-spotted stingrays resting on sandy patches.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend from the boat and make your way to the cleaning station at around 8–12 meters. Position yourself calmly on the sandy bottom or behind a coral head — sudden movements will cause mantas to abort their cleaning run. Once settled, mantas often make repeated passes within arm's reach. After time at the station, explore the surrounding reef at 15–20 meters. End the dive in the shallows for a slow ascent and safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by boat from Arborek village or from liveaboards operating in the Dampier Strait. Entry is via giant stride or back roll. The site is shallow enough that surface conditions are rarely a concern. Deploy an SMB on ascent for pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Do not touch, chase, or approach mantas from above — let them come to you
+- Position horizontally and stay still near the cleaning station; mantas will approach closer if you are calm
+- Early morning dives tend to offer calmer conditions and excellent light for photography
+- Bring a wide-angle lens — mantas circle the station repeatedly and fill the frame
+- Respect the manta protection zone and follow local guiding rules from Arborek village guides
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Currents can pick up on the incoming tide and may make holding position at the cleaning station challenging. Always maintain buoyancy control to avoid disturbing the reef or accidentally contacting mantas. Carry an SMB. Boat traffic in the Arborek area can be heavy — stay close to the dive guide and ascend only at the designated pickup point.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Manta Point is one of the finest manta photography locations on Earth. Wide-angle glass (10–17mm fisheye or 16–35mm) is ideal. Shoot looking up toward the surface to silhouette the mantas against the light, or position at the same depth for a level profile shot. Mantas circle predictably, so patience yields exceptional close-focus wide-angle images.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

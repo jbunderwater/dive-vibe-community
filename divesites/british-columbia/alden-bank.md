@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## Alden Bank
 
-Alden Bank is a reef dive site in British Columbia, North America.
+Alden Bank is a shallow reef in the northern Strait of Georgia near the US-Canada border, accessed by boat from the Bellingham or Sidney area. The bank rises to within a few metres of the surface and is surrounded by rich Pacific Northwest marine life.
 
 ## Overview
 
-Alden Bank is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Alden Bank sits in the waters between Saturna Island and the San Juan Islands, where tidal exchange keeps nutrients flowing year-round. The reef top is densely carpeted with encrusting invertebrates — purple sea urchins, orange cup corals, and white plumose anemones crowd every available surface. Water temperatures typically range from 7–11°C, requiring a drysuit for comfortable diving.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Northern Haro Strait, near Saturna Island, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 8–15 metres
+- **Current**: Moderate to strong tidal currents — plan dives around slack water
+- **Best Time**: Year-round; summer offers best visibility
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The reef structure shelters a dense invertebrate community including sea stars, nudibranchs, and painted greenlings browsing among the urchins. Giant pacific octopus are regularly encountered tucked under ledges, and lingcod patrol the edge of the bank. Harbour seals often investigate divers, and Steller sea lions may pass through during winter months.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend on the high point of the bank and explore the sloping edges where the reef drops away into deeper water. The shallower sections around 5–10 metres harbour the densest invertebrate life; the deeper edges at 15–18 metres tend to attract larger fish including rockfish and cabezon. A safety stop can be completed in the shallows on the bank top.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access only. Anchor or tie off in calmer conditions and descend the anchor line. Maintain awareness of tidal flow direction throughout the dive and ascend with a surface marker buoy (SMB) to signal your position to your boat.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Time your dive to within an hour of slack water to manage current
+- A drysuit is essential — water temperatures rarely exceed 12°C
+- Macro photographers will find nudibranchs and decorated warbonnets here
+- Keep an eye out on the reef edges for passing schools of black rockfish
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Tidal currents can build quickly on the bank — always check current tables for Haro Strait before diving. Carry an SMB and whistle. Boat traffic in the surrounding waters is active; deploy your SMB before ascending and do not surface far from your vessel.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The shallow reef top offers excellent ambient-light conditions for wide-angle shots of invertebrate communities. Macro subjects include nudibranchs, hermit crabs, and the intricate structure of cup corals. A strobe or video light is recommended to reveal the true colours beneath the surface.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

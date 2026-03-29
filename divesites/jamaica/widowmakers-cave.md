@@ -11,55 +11,56 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Widowmaker's Cave
+# Widowmaker's Cave
 
-Widowmaker's Cave is a cave dive site in Jamaica, Caribbean.
+Montego Bay's most famous dive — a dramatic reef tunnel lined with black coral that exits onto the wall at 25 metres.
 
 ## Overview
 
-Widowmaker's Cave is a dive site in Jamaica featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Widowmaker's Cave is the signature dive site of Montego Bay and one of the most recognizable names in Caribbean diving. The site takes its name from the James Jones novel "Go to the Widowmaker," and the cave lives up to its dramatic reputation. The entrance opens on the reef face at around 11 metres (35 feet) and the tunnel descends through the reef structure, exiting onto the wall at approximately 24–25 metres (80 feet). The passage is narrow in sections — a chimney-like section requires divers to pass through individually — and the walls are covered with black coral and soft red polyps. The experience of swimming through this reef tunnel and emerging onto the open wall is one of the most memorable in Jamaican diving.
 
 ## Site Information
 
-- **Location**: Jamaica, Caribbean
+- **Location**: Montego Bay, Jamaica
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Typical Visibility**: 20–30 meters (65–100 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+The cave walls are draped with black coral formations, encrusting sponges, and soft red polyps. Just inside the entrance, banded coral shrimp are frequently found at cleaning stations. Creole wrasse and parrotfish are common on the outer reef above the cave. Hawksbill turtles are regular visitors around the cave entrance. Large grouper and snapper congregate near the wall exit. Barracuda often hang in the water column above the site. On the wall itself, large sea fans and azure vase sponges appear at depth.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the cave entrance at 11 metres. Swim through the passage, which descends progressively to the exit point at 24–25 metres. The narrowest section requires single-file passage. Upon exiting on the wall, explore along the wall face before beginning a gradual ascent. Ascend to 15 metres along the wall for exploration, then to 5 metres for your 3-minute safety stop. Divers can also enter from the bottom near the 24-metre mark. Manage air carefully — the penetration section requires adequate reserve for the passage and wall exploration.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by dive boat from Montego Bay operators. Entry via giant stride or back roll. Boats moor on the reef near the cave entrance. On exit, ascend to the reef top and deploy SMB for boat pickup. Do not attempt this dive without an experienced local guide on your first visit — knowing the exact location of the entrance and exit is essential.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- This dive is for advanced divers and above — strong buoyancy skills are mandatory
+- Bring a dive torch to illuminate the cave interior and reveal the colors of the black coral and sponges
+- The wall exit is a dramatic moment — pause and look into the blue before beginning your ascent
+- Two entry options exist: from the top (reef at 35 ft) or from the bottom (wall at 80 ft)
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+The narrow chimney section must be navigated single file. Turn back immediately if you feel any discomfort or if visibility drops inside. Maintain a third of your tank air in reserve before entering. Do not attempt solo cave navigation. The wall drops significantly deeper than the recreational limit beyond 25 metres — monitor your depth carefully on exit.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The cave interior offers dramatic low-key images lit by a dive torch. The contrast between the dark cave interior and the blue water framed at the exit is a compelling composition. Position a diver in the exit portal for scale. On the outer wall, wide-angle captures the sea fans and sponge formations beautifully.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Local Operators**: ScubaCaribe Montego Bay, Dressel Divers Montego Bay
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

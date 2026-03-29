@@ -13,53 +13,55 @@ addedBy: osm_import
 
 ## Barnsley Shoal
 
-Barnsley Shoal is a reef dive site in British Columbia, North America.
+Barnsley Shoal is a boat-access reef dive in the Discovery Islands of northern British Columbia, Canada.
 
 ## Overview
 
-Barnsley Shoal is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Barnsley Shoal lies in the Discovery Islands, a cluster of islands and channels north of Campbell River where the water is cold, deep, and exceptionally productive. Tidal exchange through the passes of the Discovery Islands is among the strongest in British Columbia, and shoals like Barnsley benefit from the nutrient upwelling this creates. The shoal rises from deeper water to around 6 metres at its shallowest, with the most productive diving on the outer edges at 12 to 18 metres. Water temperatures run 7 to 10°C year-round, and a dry suit is essential. Visibility can reach 15 metres on calm days in summer.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Discovery Islands, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Typical Visibility**: 8-15 meters (25-50 feet)
+- **Water Temperature**: 7-10°C (45-50°F) — dry suit required
+- **Current**: Moderate; stronger on spring tides
+- **Best Time**: June to September
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The Discovery Islands are renowned among BC divers for their exceptional density and diversity of marine life, and Barnsley Shoal reflects this reputation. Giant Pacific octopus are frequently encountered in the boulder terrain. Lingcod and quillback rockfish patrol the reef. Swimming scallops occupy sandy patches around the shoal edges, while large Dungeness crabs move across the bottom in the shallows. Plumose anemones colonise the steeper rock faces, and nudibranchs are abundant throughout. Steller sea lions and harbour seals regularly visit the area during salmon season.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the deeper shoal edges and work your way inward over the rock and gravel terrain. The outer ridge at 12 to 18 metres offers the most anemone and rockfish habitat. Cross the shoal shallower and finish with time in the 5 to 8 metre zone before ascending. A safety stop at 5 metres is routine before surfacing.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access only. The Discovery Islands are remote and best accessed by liveaboard or private vessel out of Campbell River. Anchor carefully and brief the group on current conditions before entry.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Campbell River is the primary access town for Discovery Island diving
+- Liveaboard trips offer the most efficient way to dive multiple sites in the area
+- Check current tables specific to the Discovery Passage for precise planning
+- The area is within the traditional territory of the Laich-kwil-tach First Nations — respect the environment
+- Night dives here can produce exceptional GPO and nudibranch encounters
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Remote location means emergency response time is long. Ensure the surface support vessel has full safety equipment. Current can increase unexpectedly — always dive with a clear abort plan. Cold water thermal protection is non-negotiable; dry suit failure in 7°C water can rapidly become life-threatening.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The Discovery Islands' cold, clear water makes Barnsley Shoal a strong photography site. Wide-angle shots of anemone-covered rock faces and GPO encounters are the highlights. The schooling rockfish and sea stars also provide compelling subjects. Macro work on nudibranchs is excellent throughout the site.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

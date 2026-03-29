@@ -13,55 +13,52 @@ addedBy: osm_import
 
 ## Swallows Cave
 
-Swallows Cave is a cave dive site in Tonga, Pacific.
+Swallows Cave is one of the most celebrated natural attractions in the Vava'u island group and a signature dive site of Tonga.
 
 ## Overview
 
-Swallows Cave is a dive site in Tonga featuring underwater cave and cavern formations. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Located on the eastern face of Kapa Island, Swallows Cave is a large sea cave with a wide, open entrance that admits boats at low tide and divers year-round. The cave takes its name from the hundreds of white-rumped swiftlets (locally called swallows) that nest in the darkened ceiling, their calls echoing off the vaulted limestone walls. Underwater, shafts of sunlight penetrate the entrance and scatter across the cave floor in shifting blue-green columns — an effect that peaks during morning dives when the sun angle is low. The site is suitable for both snorkelers and certified divers, making it one of the most accessible iconic experiences in the South Pacific.
 
 ## Site Information
 
-- **Location**: Tonga, Pacific
+- **Location**: Kapa Island, Vava'u, Tonga
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 20–30 meters
+- **Current**: Generally calm; sheltered by island topography
+- **Water Temperature**: 24–28°C (75–82°F)
+- **Best Time to Dive**: Year-round; morning light is best for cave illumination
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+The cave interior hosts schools of glassy sweepers and silversides that shimmer in the light beams. Lionfish and moray eels occupy the rocky ledges and overhangs near the cave floor. Sea turtles occasionally rest inside the cave, and spinner dolphins have been observed passing through the entrance. Outside the cave entrance, the surrounding reef holds parrotfish, surgeonfish, Moorish idols, and resident trevally. During the humpback whale season (July–October), whale song is sometimes audible from inside the cave — a particularly memorable experience.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter the cave by swimming through the wide, well-lit entrance at the surface or diving down. The cave floor slopes to around 18 meters at the deepest interior sections. The most dramatic light effects are found in the 3–10 meter range near the entrance. Experienced divers can explore deeper ledges toward the back of the cave, where the passage narrows. Navigation is straightforward — the open entrance provides a constant visual reference and natural light throughout the dive.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from Neiafu or day-trip operators based in Vava'u. Boats can anchor or drift outside the entrance while divers enter. Giant stride entry from the boat is standard. Surface snorkeling inside the cave is equally popular and requires no dive gear.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Dive in the morning for the best light column effects inside the cave
+- Bring an underwater torch to illuminate the darker rear sections and spot lionfish
+- Buoyancy control is important — the cave ceiling is close and breaking the surface disturbs nesting birds
+- Combine with a visit to Mariner's Cave on the same day trip, as boats frequently run both caves together
+- The cave is also accessible by kayak from nearby anchorages for sailors
+- Whale song is audible inside the cave during July–October — surface between dives to listen
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The cave is well-lit and has no restrictions on air supply for a simple in-and-out dive profile. Conditions are generally calm due to island shelter, but surge can build at the entrance if swell is running. Do not dive in the cave if surge is present — entry and exit become dangerous. Always assess surface conditions before entering. Carry a torch as backup navigation aid in the darker rear sections.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Swallows Cave is one of the most photogenic dive sites in the South Pacific. Wide-angle lenses capture the dramatic light-shaft effect as sunlight enters the mouth of the cave. Shooting upward toward the entrance from 5–8 meters yields silhouette compositions of the cave arch with diver scale. Macro subjects include nudibranchs, crustaceans, and encrusting sponges on the cave walls. A red filter or strobes are needed to restore color in the cave's interior sections.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

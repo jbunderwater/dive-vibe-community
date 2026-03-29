@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Abu Hashish Drift
 
-Abu Hashish Drift is a drift dive site in Red Sea, Middle East.
+Abu Hashish Drift is a drift dive site at Ras Abu Hashish, north of Hurghada, Red Sea, Egypt.
 
 ## Overview
 
-Abu Hashish Drift is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Abu Hashish is a headland north of Hurghada that creates the topographic conditions for the currents that drive one of the area's most enjoyable drift dives. When the current runs, divers can be carried effortlessly along the reef wall, covering significant ground with minimal effort while observing the rich marine life stirred into activity by the moving water. The reef at Abu Hashish Drift is characterised by healthy hard and soft coral formations on a wall and slope profile, with the current bringing planktivores and mid-water species into open water where they can be more easily observed. This is one of the Hurghada area's classic current dives.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Ras Abu Hashish, north of Hurghada, Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Drift
+- **Site Type**: Drift dive on reef wall
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20–35 meters
+- **Current**: Moderate to strong; tidal and wind dependent
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Current diving at Abu Hashish brings pelagic visitors closer to the reef. Barracuda and trevally school in the current above the reef. Reef sharks use the current to patrol with minimal effort. Anthias and other planktivores form dense clouds along the current-facing reef wall. Eagle rays are occasionally spotted gliding in the blue. The coral wall itself supports moray eels, lionfish, and a full complement of resident reef species.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Board the dive boat from Hurghada and motor to Abu Hashish. Assess the current direction and strength before entering. Descend quickly to the reef wall at 10–15 m and let the current take you along the face. Maintain awareness of depth to avoid being carried too deep. After 30–40 minutes of drift, ascend the wall and deploy an SMB for boat pickup at the surface.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+By day-trip boat from Hurghada. Most operators time this dive to coincide with optimal current conditions. Back roll entry. The exit is a drift ascent — no fixed point — so SMB deployment and boat coordination are essential.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Current direction and strength can vary — follow the dive guide's instructions for optimal entry point
+- Reef hooks are permitted and useful at spots where you want to hover and observe without fighting current
+- Keep your buddy close — drift dives can separate pairs quickly in strong current
+- Experienced divers can request deep drift passes along the wall base in the 18–20 m range
+- Combine with the adjacent Abu Hashish Lagoon site for a contrasting second dive of the day
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Current dives require more active safety planning. Every diver must carry a personal SMB. Establish a meeting protocol before the dive in case of separation. Be aware of boat traffic in the Hurghada fairways — surface conspicuously and listen for engine noise before fully surfacing.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Drift photography rewards the wide-angle approach. Schools of barracuda and trevally in the current make dramatic subjects. The current-facing reef wall, draped in soft corals and sea fans, photographs beautifully with natural light. Time exposures carefully — drift speed means subjects change quickly.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

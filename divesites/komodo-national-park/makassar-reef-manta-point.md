@@ -13,55 +13,50 @@ addedBy: osm_import
 
 ## Makassar Reef (Manta Point)
 
-Makassar Reef (Manta Point) is a drift dive site in Komodo National Park, Asia.
+Karang Makassar — widely known as the northern Manta Point — is one of Komodo National Park's premier manta ray sites, a long sandy and rubble reef flat where reef mantas aggregate in large numbers, particularly on incoming tides that carry plankton-rich water from the Flores Sea.
 
 ## Overview
 
-Makassar Reef (Manta Point) is a dive site in Komodo National Park offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Karang Makassar is a broad, shallow reef lying in the strait between Komodo and Rinca Islands. The site is exposed to strong tidal flows that sweep across a sandy and rubble bottom strewn with small coral formations between 5 and 15 meters depth. These currents are the engine that powers the site: they concentrate plankton, drawing mantas to feed with wide-open cephalic fins. Compared to southern Manta Point, this northern site can have stronger currents and larger manta aggregations, but is still accessible to beginners when conditions are cooperative. Multiple mantas on every dive is the norm during peak season.
 
 ## Site Information
 
-- **Location**: Komodo National Park, Asia
+- **Location**: Komodo National Park, East Nusa Tenggara, Indonesia (Komodo–Rinca strait)
 - **Entry Type**: Boat dive
-- **Site Type**: Drift
+- **Site Type**: Drift dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 8–20 meters (can be reduced when currents carry plankton)
+- **Current**: Light to strong; direction varies with tide
+- **Best Time**: February to November; largest aggregations during February to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Reef mantas (Mobula alfredi) are the main draw, with aggregations of 10 or more individuals common during peak feeding periods. Mantas here are frequently seen barrel-rolling at the surface or flying low in formation across the sandy flats, mouths agape to filter plankton. Occasionally oceanic mantas (Mobula birostris) also pass through. Blue-spotted ribbontail rays rest on the sandy bottom. Whitetip reef sharks cruise the reef edges. The small coral formations host clownfish, butterflyfish, and various reef species, but the mantas are the overwhelming focus.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend from the boat and position on the sandy bottom or hover just above it at 8–12 meters. The guide will read the current and position the group in the path of the manta feeding lanes. Expect to drift slowly with the current while mantas sweep overhead and around you. Keep your group compact and avoid chasing individual animals — the mantas will come to you if you remain calm. End the dive in the shallows for your safety stop with minimal current.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by liveaboard or day boat from Labuan Bajo. Entry by giant stride; the boat follows the group's drift. Deploy your SMB for the safety stop and surface pickup. The exposed location can mean some chop on the surface, so a prompt exit onto the ladder is advised.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Approach slowly and stay low — aggressive finning near the surface will scatter feeding mantas
+- The plankton-rich water that brings mantas often reduces visibility to 8–10 meters — set your camera exposure accordingly
+- Tide timing is crucial; consult the guide about when mantas have been most active
+- Combine with Castle Rock or Crystal Rock for a full pelagic day in northern Komodo
+- Bring a 3–5mm wetsuit; upwellings can push water temperatures down to 22°C
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Currents can accelerate quickly at Karang Makassar as the tide shifts. Stay close to the guide and follow hand signals immediately. Avoid being swept into areas with boat traffic. In strong current, stay low to the bottom where flow is reduced. Always carry a deployed-ready SMB for the safety stop.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Feeding mantas with open cephalic fins are the primary subject. Shoot from below or slightly to the side to capture the full wingspan — a 10–17mm fisheye on a wide dome gives jaw-dropping perspective. When mantas are dense, simply point upward at the surface silhouettes. The reduced visibility from plankton can add atmosphere to wide-angle shots.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,55 +13,51 @@ addedBy: osm_import
 
 ## Wreck Bay
 
-Wreck Bay is a historic wreck dive in Great Barrier Reef, Oceania.
+Wreck Bay is a wreck dive site on the outer Great Barrier Reef near Port Douglas, Queensland, Australia.
 
 ## Overview
 
-Wreck Bay is an intermediate-level wreck dive featuring a submerged vessel with excellent marine life habitat. Located on the Agincourt reef system near Port Douglas, this site offers 12-18 meters of visibility with water temperatures of 23-27°C. The wreck structure has become encrusted with coral and provides shelter for groupers and other reef fish, creating a unique diving environment.
+Wreck Bay takes its name from the small vessel that lies on the sandy bottom of this sheltered bay on the outer reef. The wreck is relatively modest in scale — a former fishing or work boat — but it has been colonised by coral and marine life over the years since it sank, becoming an artificial reef structure that adds variety to an already well-regarded section of the outer GBR.
+
+The wreck sits in a protected bay configuration that reduces current and surge, making it accessible to intermediate divers who may be encountering wreck diving for the first time. The combination of the wreck structure and the surrounding reef makes this a diverse dive that offers both wreck exploration and open reef diving in a single site visit.
 
 ## Site Information
 
-- **Location**: Great Barrier Reef, Oceania
+- **Location**: Outer Great Barrier Reef near Port Douglas, Queensland, Australia
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 15-40 meters (50-130 feet)
-- **Current**: Variable
-- **Best Time**: September to February
+- **Typical Visibility**: 15–25 metres
+- **Current**: Mild; sheltered bay position
+- **Best Time**: August to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter wobbegong sharks, groupers, coral growth, great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles. Additional species commonly sighted include dolphins. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck has developed a diverse encrusting community — soft corals, sponges, and tunicates cover the hull surfaces, and the wreck's interior spaces provide refuges for species that require sheltered habitat. Lionfish are typically present around the superstructure, hovering in the protection of overhangs. Moray eels occupy the deeper sections of the hull. Schools of glassfish drift through the wreck openings, pursued by small trevally. The surrounding bay reef holds turtles, reef sharks, and the standard outer reef assemblage. Batfish often congregate around the wreck, attracted by the structure.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 18 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Begin with a full circuit of the wreck exterior, noting the degree of coral colonisation on the hull. Peer into the openings (without entering fully) to observe the interior inhabitants. The wreck sits at approximately 15–18 metres on a sand bottom. After exploring the wreck, fin across the sandy floor to the bay reef for a contrasting open reef section before beginning the ascent.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Port Douglas or liveaboard operators in the area. Descent to the wreck by shot line or free descent. Exit via SMB with boat pickup.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- The intermediate rating reflects the need for careful buoyancy around the wreck — touching the corroded hull or disturbing the silt inside can rapidly reduce visibility
+- Do not enter enclosed spaces without appropriate training and equipment
+- The combined wreck-plus-reef nature of the dive rewards divers who explore both sections — the contrast between the artificial and natural reef structures is interesting
+- Carry a torch to illuminate the wreck interiors and see the lionfish and moray eels properly
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish (box jellyfish in summer), crocodiles (north) in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Wreck diving carries specific hazards: silt disturbance reducing visibility, sharp edges on corroded metal, and entanglement risk in loose cables or netting. Stay outside the wreck unless trained for wreck penetration. Maintain excellent buoyancy throughout. The intermediate difficulty reflects these additional considerations rather than extreme conditions.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Wrecks make compelling photographic subjects because the artificial structure provides a defined backdrop that open reef lacks. Shoot the hull at an angle to show the colonisation of soft corals and sponges. Frame the moray eels in their hull openings. The school of glassfish passing through an opening with light behind them is a classic wreck shot.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

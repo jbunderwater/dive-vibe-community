@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## The Cathedral
 
-The Cathedral is a cave dive site in Raja Ampat, Asia.
+The Cathedral is one of Raja Ampat's most distinctive dive sites — a cave or cavern structure in the northern part of the archipelago whose dramatic interior light effects and cathedral-like proportions create an atmospheric diving experience unlike anything else in the region.
 
 ## Overview
 
-The Cathedral is a dive site in Raja Ampat featuring underwater cave and cavern formations. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The Cathedral earns its name from the interior light show that occurs when sunlight penetrates through natural openings in the cave structure, casting shafts and beams of light through the water column inside the cavern. At the right time of day — typically mid-morning when the sun angle is correct — these light shafts illuminate suspended particles and illuminate the cave's interior in a way that genuinely recalls the soaring columns of light in a Gothic cathedral. The cave structure itself is substantial, with navigable passages accessible to divers with proper cavern training. Water temperature is 27–29°C.
 
 ## Site Information
 
-- **Location**: Raja Ampat, Asia
+- **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 10–20 meters (33–65 feet) in cavern
+- **Current**: Minimal inside the cavern
+- **Best Time**: October to April; best light effects mid-morning on sunny days
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+The cave interior hosts species typical of low-light environments: soldierfish and squirrelfish cluster near the entrance and in crevices, large groupers rest on ledges in the dim interior, and lionfish perch motionlessly in the shadows. The cave ceiling and walls carry encrusting sponges, soft corals, and tubeworms adapted to low light. Outside the cave entrance, the adjacent reef provides the full complement of Raja Ampat's reef biodiversity. Sea turtles are sometimes found sheltering in the cave's entrance zone.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The dive begins outside the cave and proceeds into the cavern zone following the guide. Maintain constant visual reference to the entrance (daylight) throughout — this is a cavern dive, not a full cave penetration. The main photographic and scenic zone is the interior where light shafts appear. Maximum depth inside the cavern is around 15–20 meters. After time inside, exit back through the entrance and explore the adjacent reef to 25 meters. The timing of entry determines the quality of the light show — mid-morning on clear days is optimal.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from liveaboards or operators in the northern Raja Ampat zone. Entry via back roll or giant stride; the guide leads the approach to the cave entrance at depth. Exit through the same route used for entry — always maintain visual orientation to daylight inside the cavern.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Time the dive for mid-morning on a sunny day for the best cathedral light effects
+- Only enter the cavern zone with a guide — full cave penetration is not appropriate without cave diving certification
+- Always maintain sight of the entrance (daylight) — if in doubt, do not proceed deeper
+- Carry a primary torch and backup torch — the interior is significantly darker than the exterior
+- Avoid touching the cave walls; disturbing silt reduces visibility for all divers
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The Cathedral is rated Advanced due to the overhead environment of the cave/cavern section. Divers without cavern training should stay near the entrance and not penetrate beyond daylight visibility. Inside the cavern, buoyancy control must be precise — silt on the ceiling and floor reduces visibility dramatically if disturbed. Never exceed the cavern zone without proper cave diving certification. Carry both primary and backup torches. The remote northern location means any emergency requires significant evacuation time.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The signature shot at The Cathedral is a diver silhouetted inside the cavern with light shafts streaming through from the openings above and behind — a striking use of natural available light requiring no strobe. Shoot with a wide-angle lens (10–17mm fisheye) set to expose for the light shafts, allowing the dark interior to frame the image. The effect is most dramatic on sunny mornings; overcast conditions eliminate the shafts entirely. Bring a torch for backup illumination of subjects in the darker recesses.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

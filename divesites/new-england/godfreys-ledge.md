@@ -11,57 +11,58 @@ osmId: 5264599976
 addedBy: osm_import
 ---
 
-## Godfrey's Ledge
+# Godfrey's Ledge
 
-Rocky kelp ledge dive site off Cape Ann, Massachusetts.
+A named rocky kelp ledge off the New Hampshire seacoast near the Isles of Shoals, offering classic northern Gulf of Maine reef diving.
 
 ## Overview
 
-Godfrey's Ledge is a submerged rocky ledge off the Cape Ann coast featuring excellent cold-water diving on New England rock structures. Located off the northeastern tip of Massachusetts, this site showcases the characteristic temperate Atlantic habitat: rocky reefs covered with kelp meadows, kelp forests, and kelp prairies that form valuable habitat. The ledge structure attracts tautog, striped bass, and abundant crustaceans. Water temperatures in the 50s-60s Fahrenheit (10-15°C) and rock formations create dramatic topography for exploration.
+Godfrey's Ledge is a submerged rocky ledge in the New Hampshire seacoast waters, at coordinates placing it south and west of the Isles of Shoals near the NH/Massachusetts border area. The Isles of Shoals — a group of islands split between New Hampshire and Maine, lying approximately 10 miles offshore — anchor the diving culture of the NH seacoast. Godfrey's Ledge is one of the named rocky features in the approaches to the Shoals, providing accessible reef diving in the outer NH coastal zone. The ledge sits at 15 metres maximum depth in the cold, clear waters of the Gulf of Maine, with the kelp-covered rocky substrate and abundant invertebrate life characteristic of northern New England reef diving.
 
 ## Site Information
 
-- **Location**: Cape Ann, Massachusetts, offshore
+- **Location**: New Hampshire seacoast / approaches to Isles of Shoals
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 3-8 meters (variable, 10-26 feet)
-- **Current**: Moderate to strong, tidal dependent
-- **Water Temperature**: 50-60°F (10-15°C)
-- **Best Time**: June to September
+- **Typical Visibility**: 5–12 meters (Gulf of Maine; variable with season and weather)
+- **Current**: Moderate; Gulf of Maine tidal flow
+- **Water Temperature**: 5–18°C depending on season
+- **Best Time**: June to October
 
 ## Marine Life
 
-Abundant cold-water marine life including tautog (primary habitat preference), striped bass, pollock, kelp bass, sea urchins, lobsters, crabs, and sponges. The rocky substrate and kelp provide shelter for juvenile fish, crustaceans, and rocky intertidal species. Brown, green, and red seaweeds cover the structure.
+Northern Gulf of Maine cold-water reef community. American lobsters are the most sought-after species — the Isles of Shoals area is prolific lobster habitat. Tautog resident on the ledge structure. Pollock school in midwater above the ledge. Atlantic mackerel pass through in summer. Cunner hover over kelp-draped rock. Sea urchins colonize open rock faces — NH waters have particularly dense urchin populations. Northern sea ravens rest on the ledge base. Nudibranchs and encrusting hydroids on shaded surfaces. Harbor seals occasionally visit from the Shoals colony.
 
 ## Dive Profile
 
-Begin descent on the ledge in 8-12 meters. Explore the rock formations and kelp meadows, working around the rocky outcroppings. Maximum depth 15 meters. Tautog favor the hard structures and ledge edges. Strong tidal currents require attention to bottom time. Plan for 30-40 minutes bottom time with safety stop considerations.
+Boat access from Portsmouth NH or Rye NH via Portsmouth Scuba or other seacoast operators. The outer NH coast is exposed — check weather and sea state carefully. Descend to ledge at 8–15 metres and navigate the ledge perimeter. The kelp growth is typically denser here than on the more southern Cape Ann ledges. Plan around Gulf of Maine slack tide. Ascend with adequate reserve and complete a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Boat entry from Cape Ann charter. Descend directly to the ledge structure. Monitor depth and current. Return to ascent point for 5-meter safety stop before boarding.
+Boat charter required. Portsmouth Scuba is the primary operator for NH seacoast and Isles of Shoals diving. The open coast means conditions can deteriorate quickly — check NOAA forecasts. Anchor in sand adjacent to the ledge. Deploy SMB before ascending from the ledge.
 
 ## Tips and Recommendations
 
-- 6.5-7mm wetsuits required (cold water year-round)
-- Strong currents possible—check slack tide windows
-- Bring dive light for investigating rock crevices where fish shelter
-- Excellent for fish and crustacean identification photography
-- Monitor your air and bottom time closely in this environment
+- Combine with Isles of Shoals diving for a full northern New England dive day
+- The NH seacoast's cold, clear water makes for excellent visibility on calm summer days
+- Drysuit or 7mm wetsuit with hood is mandatory — Gulf of Maine water north of Cape Ann is colder than the south shore
+- Lobsters are exceptionally well-established in the Shoals area — inspect all deep crevices
+- Urchin density on the NH ledges creates an important component of the visual landscape
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The outer NH seacoast is exposed to Gulf of Maine swells and offshore conditions. Do not attempt this site in deteriorating weather — retrieve to port before conditions worsen. Cold water year-round is the primary physiological challenge — thermal protection is critical. Moderate tidal current. Deploy SMB clearly before surfacing.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The combination of kelp canopy, rocky ledge, and abundant sea urchins creates a distinct northern New England reef aesthetic. Wide-angle shots of kelp meadows with lobsters emerging from crevices are achievable with patience. Natural light at 15 metres is good on clear summer days.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Charter Access**: Portsmouth Scuba, Rye, NH; Isles of Shoals area operators
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

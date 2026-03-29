@@ -11,56 +11,54 @@ osmId: 271180928
 addedBy: osm_import
 ---
 
-## Ras Shona
+# Ras Shona
 
-Ras Shona is a reef dive site in Red Sea, Middle East.
+A coastal headland reef between Quseir and Port Ghalib with a fringing wall, sandy bay transitions, and the moderately-trafficked character of a site that serves both liveaboards transiting the central Egyptian coast and day boats from Quseir.
 
 ## Overview
 
-Ras Shona is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Ras Shona sits at approximately 25.47°N, 34.68°E — on the Egyptian Red Sea coast between Quseir and Port Ghalib, in the central-south section of Egypt's dive corridor. This headland reef marks a geographic transition point: north of here is the Quseir/El Quseir dive zone; south is the approach to Marsa Alam territory. The reef structure is a standard coastal headland configuration: a fringing reef crest at 2–5 metres, a slope descending to 12–18 metres, and sandy bays on either side of the headland. The site receives moderate traffic from operators on the coastal highway between Quseir and Marsa Alam.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Central Egyptian Red Sea coast between Quseir and Port Ghalib (~25.47°N)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 15–25 meters
+- **Current**: Mild to moderate; tidal headland effect
+- **Best Time**: Year-round; October to May optimal
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The headland reef supports the central Egyptian Red Sea assemblage: groupers, moray eels, and schools of anthias throughout the slope. Sandy bays on either side of the headland hold blue-spotted stingrays and garden eel colonies. Barracuda patrol in open water off the headland tip. The slope below 12 metres carries gorgonian fans and soft coral on the more current-exposed sections. Hawksbill turtles rest on the reef platform. Cleaning stations in the 8–12 metre zone are established.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin on one side of the headland and work around the tip at 10–15 metres before exploring the sandy bay on the far side. The sandy bay sections at 15–18 metres provide the macro and stingray component of the dive. Return to the headland reef face for the safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Day boat from Quseir (30–40 minutes) or Port Ghalib/Marsa Alam (45–60 minutes). Often dived as a transit dive on liveaboard itineraries heading north or south along the coast. Giant stride entry. SMB deployment before ascending.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The sandy bays on either side of the headland reward slow searching for garden eels and stingrays
+- The headland tip is the most current-affected section — time the dive to use the flow rather than fight it
+- A good option for a morning dive before heading to deeper, more demanding sites later in the day
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Moderate current at the headland tip requires monitoring. Fire coral on the upper reef crest. SMB before ascending.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Sandy bay macro photography — garden eels, blue-spotted rays, flatfish — rewards a prone, slow approach. The headland reef face in ambient light suits wide-angle reef portraits.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

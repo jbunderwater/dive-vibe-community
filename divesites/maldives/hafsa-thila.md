@@ -13,54 +13,35 @@ addedBy: osm_import
 
 ## Hafsa Thila
 
-Hafsa Thila is a pinnacle dive site in Maldives, Asia.
+Hafsa Thila is a submerged coral pinnacle in North Ari Atoll renowned among local dive guides for its exceptional shark and fish aggregations — reportedly one of the richest thilas in the atoll for shark diversity.
 
 ## Overview
 
-Hafsa Thila is a dive site in Maldives offering rewarding diving on healthy coral reef structures . Very rich place for sharks and fishes. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Rising from the lagoon floor to within a few metres of the surface, Hafsa Thila (thila meaning submerged pinnacle in Dhivehi) creates a current-swept underwater seamount that concentrates marine life in impressive numbers. The top of the thila sits at around 5–8 metres, where the coral is alive with anthias, chromis, and damselfish, while the flanks slope steeply to 32 metres. Grey reef sharks and whitetip reef sharks are the headline attraction — multiple sharks are routinely encountered circling the deeper portions of the pinnacle, with nurse sharks resting in crevices at the base. Eagle rays and Napoleon wrasse make regular appearances, and the schools of snapper, fusilier, and batfish that swirl around the pinnacle top create a cathedral-like scene in good visibility. The thila's coral coverage is particularly noted for soft coral growth on the deeper flanks. Visibility averages 20–30 metres. Water temperature is 27–29°C.
 
 ## Site Information
 
 - **Location**: Maldives, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 32 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Depth**: Up to 32m
+- **Difficulty**: Intermediate
+- **Site Type**: Pinnacle/seamount
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Grey reef sharks, whitetip reef sharks, nurse sharks, eagle rays, Napoleon wrasse, batfish, snapper schools, fusiliers, and rich soft coral growth on the pinnacle flanks.
 
-## Dive Profile
+## Diving Conditions
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 32 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+| Condition | Details |
+|-----------|---------|
+| Visibility | 20–30m |
+| Current | Moderate (variable direction) |
+| Water Temp | 27–29°C |
+| Best Season | December–April |
 
-## Entry and Exit
+## Tips for Divers
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Descend quickly to the deeper flanks where the sharks congregate before exploring the richly coral-encrusted summit. Currents can be variable around the pinnacle, so keep close to the structure to stay in control. A safety stop at 5 metres on the thila top provides excellent photo opportunities with the reef fish life above.
 
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

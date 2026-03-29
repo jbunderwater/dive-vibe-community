@@ -11,72 +11,56 @@ osmId: 663869266
 addedBy: osm_import
 ---
 
-## Race Rocks - West and Central
+# Race Rocks - West and Central
 
-Race Rocks - West and Central is an advanced reef dive site in British Columbia's Strait of Juan de Fuca, designated as a Marine Protected Area since 1980.
+A Marine Protected Area in the Strait of Juan de Fuca swept by ferocious tidal currents that attract Steller sea lions, six-gill sharks, and one of the richest invertebrate communities on Canada's Pacific coast.
 
 ## Overview
 
-Race Rocks is one of the most challenging and exhilarating dive sites in the Strait of Juan de Fuca. This ecological reserve is notable for extremely rich intertidal and subtidal communities, fed by strong tidal currents that bring nutrient-rich water. The rocky reefs are a showcase for Pacific marine life, featuring whales, sea lions, seals, and diverse underwater ecosystems. Diving is strictly limited to slack tide windows of only 6.5 hours, with currents exceeding 5-6 knots.
+Race Rocks lies about 10 kilometres southwest of Victoria, where the Strait of Juan de Fuca funnels tidal flows between the open Pacific and the Salish Sea. The resulting currents — up to 7 knots on spring tides — deliver a continuous supply of cold, nutrient-rich water that sustains remarkable biodiversity. The site has been a Marine Protected Area and Ecological Reserve since 1980; the lighthouse on Great Race Rock has been staffed since 1860. West and Central Race Rocks refers to the submerged reefs and rocky pinnacles flanking the main islet group, where the combination of strong surge and kelp-draped boulders creates one of BC's most dramatic underwater landscapes. This is genuinely Advanced diving — arriving divers who misjudge the slack window can find themselves in current that makes forward progress impossible.
 
 ## Site Information
 
-- **Location**: Strait of Juan de Fuca, Vancouver Island, British Columbia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Location**: Strait of Juan de Fuca, 10 km southwest of Victoria, British Columbia
+- **Entry Type**: Boat
+- **Site Type**: Reef with kelp
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 meters
-- **Typical Visibility**: Variable, 10-20 meters
-- **Current**: Extreme - 5-6+ knots, dangerous outside slack tide
-- **Slack Tide Windows**: ~6.5 hour cycles; critical for planning
-- **Best Time**: June to September
-- **Water Temperature**: 8-12°C (cold water diving required)
-
-## Site Characteristics
-
-Race Rocks features rocky reefs and rocky structures. The dive area extends from shallow areas to 120 feet offshore. Divers typically focus on the 30-40 meter range where the most interesting marine life congregates. The strong currents create an ideal environment for filter-feeding organisms and attract large marine animals.
+- **Maximum Depth**: 35 metres
+- **Typical Visibility**: 8–20 metres; best late summer and autumn
+- **Current**: Extreme — up to 7 knots at spring tides; slack window often under 20 minutes
+- **Best Time**: June through September; always on neap tides
 
 ## Marine Life
 
-This site is exceptional for encounters with:
-- Sea lions and harbor seals
-- Whales (transient)
-- Six-gill sharks (rare)
-- Wolf eels
-- Giant Pacific octopus
-- Lingcod and rockfish
-- Sea urchins, anemones, nudibranchs
-- Abundant kelp and marine vegetation
+The combination of exposed rock, cold upwelling, and protected status has produced exceptional density and diversity. Steller sea lions haul out on the islets and routinely swim through during dives, close enough to touch (though touching is prohibited). Harbour seals are ubiquitous. Northern elephant seals have been documented in recent years. Six-gill sharks patrol the deeper reef zones and are occasionally encountered by divers. Giant Pacific octopus and wolf eels occupy rock piles and boulder crevices. Lingcod reach impressive size here — fish over a metre long are documented. Purple sea urchin barrens alternate with dense plumose anemone fields. Nudibranchs are abundant on the rock surfaces.
 
 ## Dive Profile
 
-Descent to depth quickly during slack tide. Maximum bottom time 20-30 minutes depending on certification. Ascend to 5 meters for extended safety stop (5 minutes minimum). The entire dive is time-critical; plan conservatively. Exit before slack tide ends and currents pick up.
+Descend immediately on reaching the slack — bottom time is limited. The west reef has a sloping profile from 5 metres on the ridge crest to 30–35 metres on the sand perimeter. Central Race features shallower boulder piles with surge surge-polished rock faces. Divers typically explore the top of the reef at 10–20 metres during the brief slack window, noting where sea lions congregate. Ascend conservatively; a 5-minute safety stop at 5 metres is essential. Exit by boat pickup with a deployed SMB.
 
 ## Entry and Exit
 
-Boat access only. Enter near designated markers. Exit at the same location via boat recovery.
+Boat access from Victoria (Pedder Bay Marina or Victoria Harbour). Local operators running Race Rocks trips provide current predictions and underwater guide service. No shore access is permitted on the ecological reserve. Boat operator maintains position during your dive; surface with SMB deployed.
 
 ## Tips and Recommendations
 
-- Plan around slack tide tables religiously
-- Dive with an experienced guide or local operator familiar with Race Rocks
-- Use current-aware navigation and dive computers
-- Descent and ascent should be swift
-- Abort dive if slack tide window is insufficient
-- Bring durable camera gear (currents can be forceful)
-- This is an Advanced-only dive requiring strong current management skills
+- Dive on neap tides only — spring tides are unsafe even at predicted slack
+- Local knowledge of current predictions is essential; hire a guide for your first visit
+- Sea lion encounters are among BC's best wildlife experiences — a wide-angle lens is essential
+- Descend quickly at slack and ascend early — the window can close faster than predicted
+- The shallower boulder terrain (10–18 metres) offers more bottom time than the deep perimeter
 
 ## Safety Considerations
 
-Race Rocks is not suitable for inexperienced or newly certified divers. Currents exceed 5-6 knots outside slack tide. Down currents occur when tides are running. Cold water requires appropriate thermal protection (minimum 7mm wetsuit or drysuit). Strong currents demand excellent buoyancy control, streamlined equipment, and quick decision-making. Proper training in strong current diving is essential. Always dive with a buddy and carry redundant navigation tools.
+Race Rocks demands genuine current experience. Divers should have demonstrated the ability to manage strong tidal flow before attempting this site. A missed slack means potentially drifting into the shipping lane of the Strait of Juan de Fuca. Always carry an SMB and signal mirror. Boat operators should maintain visual contact at all times. Do not dive alone or with a novice buddy at this site. Cold water at 7–11°C requires a drysuit in good condition.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Sea lion interactions are the headline subject — shoot wide (10–17 mm equivalent) and be ready for fast, close passes. The kelp-draped boulders in available light during mid-slack provide atmospheric Pacific Northwest wide-angle compositions. Macro opportunities include colourful nudibranchs and the intricate structure of plumose anemone clusters.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- Last Updated: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

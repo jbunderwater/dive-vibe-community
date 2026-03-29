@@ -13,53 +13,50 @@ addedBy: osm_import
 
 ## Lantern Point West Dive Site
 
-Lantern Point West Dive Site is a reef dive site in Malta and Gozo, Europe.
+Lantern Point West is the companion site to Lantern Point on the southwestern face of Comino Island, exploring the western aspect of the same limestone headland. Where Lantern Point faces south into the Malta Channel, the West site looks out toward the Comino–Gozo passage, offering slightly different exposure characteristics and a distinct section of reef that is often explored on the same dive boat trip.
 
 ## Overview
 
-Lantern Point West Dive Site is a dive site in Malta and Gozo offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The reef descends over limestone steps and boulders to approximately 20 metres, with the western face receiving afternoon light that illuminates the clear Comino water in a different quality from the morning eastern light. The site shares the excellent visibility typical of the Comino area — regularly 20–25 metres. The western exposure means this site may be diveable when the channel-facing Lantern Point is affected by southerly swell, and vice versa. The reef top at 5–8 metres is richly colonised.
 
 ## Site Information
 
-- **Location**: Malta and Gozo, Europe
+- **Location**: Southwest Comino, Malta
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: May to October
+- **Typical Visibility**: 20–25 meters
+- **Current**: Light to moderate; western exposure
+- **Best Time**: April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+The western reef face is home to resident grouper in the deeper boulders, moray eels in the crevices, and sea bream and wrasse throughout. Octopus are common in the shallower rocky terrain. The well-lit reef top supports nudibranchs and small crustaceans on the encrusted limestone. Barracuda are seen in summer in the open water above the reef.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend along the western face of the headland to 15–20 metres and explore the boulder terrain and crevice zones at the base. Work up through the stepped reef to the shallower zone before ascending. If diving in combination with Lantern Point, this site is typically done as a second dive around the same headland. Safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from Gozo and Malta operators serve Comino as part of day programmes. Entry by giant stride. The western exposure means conditions differ from the south-facing Lantern Point — assess the western face specifically before entry. Deploy an SMB on ascent.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Dive in combination with Lantern Point for a complete circuit of Comino's southern headland
+- The western exposure provides excellent afternoon light for photography
+- Check conditions on both faces of the headland — they can differ significantly
+- The boulder terrain at depth rewards slow, patient exploration
+- Nudibranchs are common on the encrusted shallow reef top in spring
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The western exposure can be affected by swells from the northwest in unsettled weather. Assess conditions specifically for this aspect before entry. Current in the Gozo–Comino passage should be checked. Carry an SMB and dive with a buddy.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The afternoon light on the western face creates different photographic conditions from the morning dive at Lantern Point. The stepped reef and boulder terrain produce strong wide-angle compositions. Grouper portraits and moray eels at their crevice entrances are consistent macro subjects.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

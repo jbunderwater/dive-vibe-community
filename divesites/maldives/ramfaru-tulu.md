@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Ramfaru Tulu
 
-Ramfaru Tulu is a reef dive site in Maldives, Asia.
+Ramfaru Tulu is a reef point or corner site — tulu means "corner" or "point" — at the edge of the Ram Faru reef structure in South Malé Atoll, where the angular geometry of the reef creates current acceleration and concentrates marine life typical of exposed Maldivian reef corners.
 
 ## Overview
 
-Ramfaru Tulu is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Reef corners (tulu) are among the most productive dive spots in the Maldives because they funnel current and bring nutrients past a single concentrated point. Ramfaru Tulu is a prime example: the reef bends sharply here, causing current to sweep both along the outer face and around into the more sheltered lagoon side, creating a junction of habitats. On the exposed corner, grey reef sharks and eagle rays ride the current, while the transition zone supports an unusually diverse fish community mixing open-water species with shelter-seeking reef fish. The coral formation around the corner is well-developed — sea fans of substantial size mark the deeper section, and hard coral coverage is dense in the upper 10 metres.
 
 ## Site Information
 
@@ -26,41 +26,23 @@ Ramfaru Tulu is a dive site in Maldives offering rewarding diving on healthy cor
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Current**: Moderate to strong at the corner, lighter on the lagoon side
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Grey reef sharks, eagle rays, sea fans, hard corals, parrotfish, grouper, snappers, fusiliers, moray eels, and a diverse mix of species drawn to the current-swept corner.
 
-## Dive Profile
+## Diving Tips
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- Position yourself at the corner point for maximum pelagic viewing — sharks and rays use the current flowing around the corner.
+- If the current is strong, shelter on the lagoon side and watch the corner from a protected position.
+- The deeper section (18–25 metres) at the corner base has the most impressive sea fans.
+- Combine with Ram Faru for a two-site trip covering both the wall and the corner.
 
-## Entry and Exit
+## Getting There
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Ramfaru Tulu is in South Malé Atoll, reached by dive boat from local resorts or from Malé, approximately 30–60 minutes by dhoni or speedboat.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

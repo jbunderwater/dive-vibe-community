@@ -13,54 +13,29 @@ addedBy: osm_import
 
 ## Fulhidoo Caves
 
-Fulhidoo Caves is a cave dive site in Maldives, Asia.
+Fulhidoo Caves is a cave and cavern diving site on the reef near Fulhidoo Island in the central Maldives, featuring a system of underwater caves, overhangs, and passages that house glassfish clouds, resting sharks, and an array of light-sensitive invertebrates.
 
 ## Overview
 
-Fulhidoo Caves is a dive site in Maldives featuring underwater cave and cavern formations. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The cave system at Fulhidoo is one of the more substantial underwater cave formations in the Maldives, a reef system punctuated by openings and passages that divers can explore in cavern mode (ambient light visible) and — for qualified cave divers — deeper penetration sections. The cavern mouths open on the reef wall at 8-15 meters, and the cave passages extend horizontally into the reef structure before opening into chambers with room for multiple divers. The cave ceilings and walls are colonised by bright orange and red encrusting sponges, feather stars, and tunicates that thrive in the low light environment, creating a vivid contrast with the white sandy cave floors below. Glassfish (silversides) pack the cavern interiors in dense, shimmering clouds, parting around divers in mesmerising formations. Nurse sharks and guitarfish rest undisturbed on the sandy floor of the larger chambers. The cave exits provide dramatic blue-water views that are a photographic highlight.
 
 ## Site Information
 
-- **Location**: Maldives, Asia
+- **Location**: Maldives (Central Atolls, near Fulhidoo Island)
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 22 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 10-25 meters (lower inside caves due to disturbed sediment)
+- **Current**: Variable on outer reef; minimal inside caves
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+Glassfish (silversides) in dense clouds, nurse sharks, guitarfish, encrusting sponges (orange and red), feather stars, tunicates, moray eels, and batfish near the cave mouths.
 
-## Dive Profile
+## Tips for Divers
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 22 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Maintain impeccable buoyancy throughout this dive — fin kicks that disturb the sandy cave floor will immediately destroy visibility inside the passages. Enter slowly and hover at neutrally buoyant height to avoid the silt. A torch is essential for appreciating the encrusting organisms on cave walls and ceilings. Do not penetrate beyond the ambient light zone unless you hold a cave diving certification. The glassfish clouds are most spectacular at the cavern mouths in natural light — position yourself at the cave entrance facing inward for the best silhouette and backlit images.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

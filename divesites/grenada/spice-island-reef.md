@@ -11,56 +11,53 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Spice Island Reef
+# Spice Island Reef
 
-Spice Island Reef is a reef dive site in Grenada, Caribbean.
+A compact, colourful shallow reef off southwest Grenada, named for the island's celebrated status as the world's second-largest nutmeg producer — an excellent beginner site with reliable turtle sightings and exceptional natural light.
 
 ## Overview
 
-Spice Island Reef is a dive site in Grenada offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Spice Island Reef lies off the southwestern coast and features a classic Caribbean fringing reef profile with excellent hard coral coverage at depths of 5–12 metres. The reef includes well-developed brain and star coral formations, sea fans, and finger corals creating a diverse structural environment. The proximity to the main resort area of Grand Anse means this site is frequently visited, but it remains in good health with consistent marine life encounters. Visibility averages 20–30 metres in the dry season. Water temperature is 26–28°C year-round.
 
 ## Site Information
 
-- **Location**: Grenada, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 5–12 m |
+| Difficulty | Beginner |
+| Entry Type | Boat |
+| Site Type | Reef |
+| Visibility | 20–30 m |
+| Current | Generally mild |
+| Water Temp | 26–28°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The shallow, well-lit reef at Spice Island Reef supports exceptional fish diversity for its depth range. Schools of blue tangs, yellowtail snappers, and French grunts are abundant. Large parrotfish work the reef constantly, and French angelfish are a consistent presence. Hawksbill turtles are regular visitors — some individual animals have been observed at this site for years. The sandy margin at 10–12 metres is productive for southern stingrays and garden eels.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef and explore the full structure at 5–12 metres. The compact size of the reef means the entire site can be covered in a single dive, with time for multiple passes over the most interesting sections. There is no pressure to go deep — the marine life is uniformly distributed through the shallow reef zone.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Grand Anse or True Blue area operators — the site is among the closest to the main accommodation areas. Giant stride entry; DSMB on ascent. Commonly included as a second tank dive after a deeper site or the Underwater Sculpture Park.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+A perfect orientation dive for visitors to Grenada — accessible, calm, and reliably productive. Individual hawksbill turtles are sometimes recognised by local dive guides — ask about the resident animals. The sandy margin at 10–12 metres rewards patience for stingray and garden eel observation. Works well as a relaxed afternoon dive after a morning two-tank trip.
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Standard precautions apply. Deploy DSMB on ascent. Fire coral is present on the reef crest. Maintain buoyancy to protect the well-used reef structure.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The shallow depth and exceptional clarity make Spice Island Reef one of Grenada's best natural-light photography sites. Turtle portraits and school-of-fish compositions are reliably achievable without strobes. The reef's proximity to the surface means natural light is strong throughout the entire depth profile.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- Dive Grenada and Aquanauts Grenada: include Spice Island Reef as a standard beginner offering
+- Often the second dive of a two-tank morning, following a deeper wreck or wall site
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

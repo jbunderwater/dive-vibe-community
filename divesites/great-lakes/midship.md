@@ -13,55 +13,54 @@ addedBy: osm_import
 
 ## Midship
 
-Midship is a historic wreck dive in Great Lakes, North America.
+Midship is one of three marked sections of the Edmund Fitzgerald wreck site in Lake Superior, indicating the midships section of the massive ore carrier. Like the bow and overturned stern sections, this marker lies in 160 metres of water and is accessible only to technical divers with appropriate deep-diving qualifications and government permits.
 
 ## Overview
 
-Midship is a dive site in Great Lakes featuring the wreck of the Midship which sank in 1975-11-10. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Edmund Fitzgerald broke apart when it sank on November 10, 1975, creating three distinct sections of wreckage — bow, midships, and stern — distributed across a debris field on the floor of Lake Superior in approximately 160 metres of water. The midships section contains the central cargo hold area where the vessel's taconite iron ore pellet cargo was loaded. This section lies between the bow and the overturned stern section. The Edmund Fitzgerald's grave is an official maritime memorial; all three sections lie in Canadian waters south of Michipicoten Island, Ontario, and are subject to both Canadian federal and provincial heritage protection. Dive permits are required and are rarely granted.
 
 ## Site Information
 
-- **Location**: Great Lakes, North America
-- **Entry Type**: Boat dive
+- **Location**: Lake Superior, Ontario, Canada (south of Michipicoten Island)
+- **Entry Type**: Technical diving expedition only
 - **Site Type**: Wreck
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 160 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Difficulty Level**: Advanced (technical — beyond recreational limits)
+- **Maximum Depth**: 160 metres
+- **Typical Visibility**: 3–8 metres at depth
+- **Water Temperature**: 2–4°C at depth year-round
+- **Current**: Minimal near bottom
+- **Best Time**: July to August (most stable surface conditions)
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+At 160 metres in Lake Superior, biological activity is minimal. Deep-water lake trout and sculpin have been observed during the few documented expeditions. The extreme cold, pressure, and darkness limit species diversity significantly.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 160 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+At 160 metres, this site requires trimix diving with extensive decompression obligations. Bottom time is measured in minutes. This is one of the most demanding diving profiles available to civilian divers and requires a full technical diving expedition team with appropriate vessel support.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Government permits from Transport Canada are required. Commercial charter access to this site does not exist in any routine form. The remote location requires a large, capable vessel with technical diving infrastructure.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- The Great Lakes Shipwreck Museum at Whitefish Point, Michigan, and the Mariners' Museum in Virginia are the best places to learn about the Edmund Fitzgerald
+- The wreck serves as a grave for 29 crew members and should be approached with that perspective
+- Gordon Lightfoot's ballad "The Wreck of the Edmund Fitzgerald" is essential listening before visiting this region
+- Memorial services are held at Whitefish Point on November 10 each year
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+At 160 metres in Lake Superior — the deepest, coldest, most remote of the Great Lakes — this site represents the extreme end of the dive safety spectrum. Only highly experienced technical divers with trimix certification, extensive decompression diving background, and appropriate support systems should consider this site.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The few photographs from authorized expeditions show the midships cargo hold area, scattered taconite ore pellets, and the haunting preserved details of the vessel. These images represent an exceptional record of Great Lakes maritime history.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

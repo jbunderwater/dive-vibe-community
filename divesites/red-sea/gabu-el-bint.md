@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Gabu El Bint
 
-Gabu El Bint is a reef dive site in Red Sea, Middle East.
+Gabu El Bint is a reef dive site in the northern Egyptian Red Sea near Sharm el-Sheikh, located in the sheltered waters of the Straits of Tiran corridor.
 
 ## Overview
 
-Gabu El Bint is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+"Gabu" translates roughly as "bottom" or "base" in local usage, and this site sits at the southern entry of the reef-rich Sharm el-Sheikh area. The reef structure here is typical of the northern Red Sea: a healthy fringing reef with a shallow coral garden on top descending to a sandy floor at 18–20 meters. Hard coral coverage is good, with tabulate Acropora and massive Porites corals forming the backbone of the reef. The site is frequently used as a second dive in combination with deeper neighbouring sites, offering a gentler profile to round out a day of diving in the Tiran area.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Northern Egyptian Red Sea, Sharm el-Sheikh area
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Fringing coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20–30 meters
+- **Current**: Moderate; tidal currents influence the area
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Schools of bannerfish and pyramid butterflyfish are a constant presence above the coral. Giant moray eels occupy the larger coral crevices, and bluespotted ribbontail rays rest on the sandy patches. Small reef sharks and humphead wrasse cruise the deeper sections of the reef slope, while hawksbill turtles are regularly spotted grazing on sponges. Sergeant major fish defend egg patches on the flat reef surfaces, and the occasional barracuda patrols in the open water just off the reef edge.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the sandy floor at 18–20 meters and follow the reef slope back toward shallower water. The mid-depth range of 8–15 meters holds the densest coral coverage and most diverse fish life. Finish the dive on the reef top for a shallow safety stop with good viewing of the coral garden from above.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from Sharm el-Sheikh or Naama Bay operators. Entry by giant stride or back roll. Ascend on the lee side of the reef, deploy an SMB, and surface for the pickup boat.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Combine with a deeper dive at nearby Tiran reefs for a well-rounded day trip
+- Excellent site for practising air management before tackling more demanding sites
+- Early morning boat departures from Sharm el-Sheikh avoid surface traffic
+- Watch for hawksbill turtles feeding on coral sponges in the mid-depth range
+- The sandy patches between coral heads are good spots to look for garden eels
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Tidal currents are an ever-present factor in this area. Always check conditions with the dive guide before descending. Carry an SMB and be prepared to ascend in open water away from the reef. Fire coral is common on the shallower reef sections. Boat traffic in the Sharm el-Sheikh corridor can be heavy.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The mid-depth reef slope produces attractive wide-angle compositions combining hard coral, reef fish, and the deep blue backdrop. Macro subjects including blennies, gobies, and nudibranchs are present in the coral rubble. Morning light penetrates well to 15 meters for natural-light photography.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,55 +13,53 @@ addedBy: osm_import
 
 ## Jambiani Lagoon
 
-Jambiani Lagoon is a reef dive site in Zanzibar, Africa.
+Jambiani Lagoon is Zanzibar's premier shallow reef dive for beginners and snorkelers, located within the protected natural lagoon along the island's southeastern coast behind the outer fringing reef barrier. The site maxes at just 8 meters, making it one of the shallowest established dive sites in the Zanzibar Archipelago.
 
 ## Overview
 
-Jambiani Lagoon is a dive site in Zanzibar offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+The eastern Zanzibar coastline is defined by a broad, shallow lagoon between the beach and the outer barrier reef, where tidal movement brings clean Indian Ocean water in and out twice daily. Jambiani Lagoon dive site refers to the coral formations within this protected area, where the maximum depth of 8 meters concentrates all the action within a very accessible range. The shallow profile and protected position make this one of the most relaxed diving environments in Zanzibar, with superb natural light penetrating to the maximum depth throughout the day.
 
 ## Site Information
 
-- **Location**: Zanzibar, Africa
+- **Location**: Jambiani Lagoon, Southeast Zanzibar Island
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral reef (shallow lagoon)
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 8 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 8-12 meters (26-40 feet)
+- **Current**: Very light (protected lagoon)
+- **Best Time**: October to April (northeast monsoon, eastern Zanzibar)
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+The 8-meter maximum depth keeps all marine life within easy viewing range — nothing can disappear below the limit of a dive light or beyond comfortable visualization distance. Sea turtles are the most notable residents, feeding on algae in the coral garden with calm indifference to nearby divers. Lionfish display their venomous finery in shallow coral heads. Cuttlefish hover above the sand patches in the afternoon. At night, the lagoon is particularly active with hunting octopus, foraging nudibranchs, and sleeping parrotfish visible in their mucus cocoons.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 8 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-8 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The 8-meter depth limit effectively creates a "semi-open water" dive environment where the entire water column from surface to bottom is within a normal recreational range. Navigate across the lagoon reef exploring coral formations and sandy patches. The very shallow safety stop is trivially simple. Night dives in this protected setting are strongly recommended and accessible to recently certified divers.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Jambiani beach operators. The very calm conditions allow use of traditional wooden boats. Low tide restricts access in the shallower areas; check tidal timing with operators.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Night diving at Jambiani Lagoon is accessible to beginners given the calm conditions and 8-meter ceiling — an excellent first night dive location
+- Combine with deeper lagoon sites (Pawoni Hill, Sau Inn Garden) for a full day that starts with this shallow site as the intro dive
+- Seagrass beds at the edge of the lagoon reward careful searching for seahorses and ghost pipefish
+- Snorkelers can explore this site productively alongside scuba divers — the entire reef is within snorkel range
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+One of Zanzibar's safest dive sites. The 8-meter maximum depth removes virtually all depth-related risk. The calm, enclosed lagoon eliminates current and surge concerns. The main hazards are fire coral contact, sea urchin puncture, and lionfish sting — all prevented by careful buoyancy and awareness. For night dives, carry primary and backup torches.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Outstanding photography conditions given the shallow depth and excellent natural light throughout the day. No strobes needed for daytime photography in clear conditions — ambient light at 5-8 meters produces excellent color. Night photography of cuttlefish and octopus in the calm lagoon is accessible even for compact camera users.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

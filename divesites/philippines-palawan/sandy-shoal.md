@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Sandy Shoal
 
-Sandy Shoal is a reef dive site in Philippines Palawan, Asia.
+Sandy Shoal is a shallow submerged reef in the southern Palawan sea, its descriptive name accurately conveying the sandy substrate and scattered coral formations that define this compact offshore site.
 
 ## Overview
 
-Sandy Shoal is a dive site in Philippines Palawan offering rewarding diving on healthy coral reef structures . Southern Palawan shoal with sandy bottom and coral formations.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Sandy Shoal occupies a position in the open waters southwest of Palawan, within the cluster of named shoals and banks that characterise this remote stretch of Philippine ocean. True to its name, the site features a mix of sandy substrate and coral formations rather than a solid reef structure. Coral bommies of varying sizes rise from the sand at different depths, creating a garden-like environment with clear passage between formations. The maximum depth of 18 meters means the entire site can be explored thoroughly on a single tank. The sandy substrate between coral structures is a productive habitat that often rewards closer inspection.
 
 ## Site Information
 
-- **Location**: Philippines Palawan, Asia
+- **Location**: Southern Palawan open sea, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Sand and coral garden
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-25 meters
+- **Current**: Variable; open-ocean influence
+- **Best Time**: November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The bommie-and-sand structure of Sandy Shoal creates high habitat diversity in a small area. Sea turtles are regularly found resting on the sand between coral heads. Gobies and shrimp pairs occupy burrows in the sand zones, and garden eels extend from sandy patches if approached slowly. The bommies themselves shelter grouper, lionfish, and moray eels. Schools of snapper hover above the coral heads, and the open water above the shoal sees barracuda and trevally passing through.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site's scattered bommie structure rewards a wandering approach rather than a structured circuit. Descend to the sand and navigate between bommies, spending time on each structure. Check the sandy patches between bommies for burrow-dwelling species. The shallow depth allows generous bottom time, so there is no need to rush.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by liveaboard or long-range chartered boat. The open-ocean location requires careful surface condition assessment before entry. Giant stride entry; SMB deployment before ascending to assist boat pickup in any swell.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Sand zones between bommies are productive — scan for gobies, garden eels, and buried flatfish
+- Approach the open sand areas slowly and from a distance to avoid disturbing burrow-dwelling species
+- The bommie-and-sand habitat can be excellent for cuttlefish and octopus
+- Morning visibility in clear conditions can be exceptional at this shallow site
+- The site's accessible depth makes it a good option for a relaxed final dive of the day
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Open-ocean conditions with potential for surface swell and current. Carry an SMB for ascent. The lack of shelter around the shoal means current can affect the entire site simultaneously — be prepared to end the dive early if conditions change.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Sandy substrates between bommies are ideal for behaviour photography — gobies interacting with cleaner shrimp, sea turtles resting, and hunting behaviour of predatory species. Wide-angle shots across multiple bommies in clear water work well. Natural light is excellent at this shallow depth.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

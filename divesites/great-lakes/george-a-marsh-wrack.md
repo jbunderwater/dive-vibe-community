@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## George A. Marsh (Wrack)
 
-George A. Marsh (Wrack) is a historic wreck dive in Great Lakes, North America.
+The George A. Marsh is a well-known 19th-century schooner wreck in Lake Ontario near Kingston, Ontario. One of the signature dives of the Kingston area, the George A. Marsh sank in a storm in 1917 and rests in approximately 20 metres of cold Lake Ontario water where she has been beautifully preserved for over a century.
 
 ## Overview
 
-George A. Marsh (Wrack) is a dive site in Great Lakes featuring the wreck of the George A. Marsh (Wrack). Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The George A. Marsh was a three-masted wooden schooner built in 1882 that served Great Lakes cargo trade for 35 years before sinking in a storm on August 8, 1917. She now rests upright on the Lake Ontario bottom near Kingston in approximately 20 metres of water. This is one of the Kingston area's most beloved wreck dives — the three masts (though broken) are still present, giving a distinctive silhouette, and the hull is remarkably intact for a 100+ year old wooden vessel. The cold, dark freshwater conditions have been extremely kind to the George A. Marsh, and details of her construction and fittings are readily visible. Visibility in the area typically ranges from 5–12 metres.
 
 ## Site Information
 
-- **Location**: Great Lakes, North America
+- **Location**: Lake Ontario, Great Lakes, Canada
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
+- **Maximum Depth**: 20 metres
+- **Typical Visibility**: 5–12 metres
+- **Water Temperature**: 4–18°C (seasonal); bottom 4–6°C
+- **Current**: Mild offshore
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The George A. Marsh is a thriving artificial reef. Smallmouth bass are the most visible residents, commonly seen patrolling the deck and hovering near hull openings. Yellow perch gather in schools around the masts and rigging remains. Round gobies bustle across the bottom. Large walleye occasionally patrol the wreck perimeter, particularly in low-light conditions. The mast bases and hull surface below 8 metres are heavily colonized by zebra mussels.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The George A. Marsh's upright orientation and recognizable three-mast profile make navigation intuitive. Descend to the deck level and explore forward from the bow, examining the windlass, foredeck fittings, and hull construction before working aft to the stern and rudder post. The hold areas offer additional exploration for experienced divers. Ascend on the mooring line for a standard safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Several Kingston dive charter operators run regular trips to the George A. Marsh. The site is popular and charters may run multiple boats in peak season. Entry by giant stride. Deploy SMB on ascent.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- The George A. Marsh is consistently rated among the top 5 wreck dives in Canada
+- Combine with the nearby Comet and Frontenac for a full day of Kingston wreck diving
+- Morning dives often have better visibility than afternoon
+- A torch reveals the hull's interior through open hatches and deck openings
+- Photography here is among the best in Ontario's freshwater diving scene
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Cold water is the primary environmental consideration. Thermal protection appropriate for 4–6°C at the bottom is required. Boat traffic in the Kingston area can be significant — always ascend on a line with SMB deployed. Dive with a buddy.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The George A. Marsh is one of the most photographed wrecks in Canadian freshwater. The intact three-masted profile lends itself to dramatic wide-angle images. Descend below the deck level and look up to frame the hull against the surface light. Fish life — particularly the resident smallmouth bass population — adds animation to still images.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

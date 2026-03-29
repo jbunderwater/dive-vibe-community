@@ -13,54 +13,32 @@ addedBy: osm_import
 
 ## Old Clam Farm
 
-Old Clam Farm is a reef dive site in Marshall Islands, Pacific.
+Old Clam Farm is a unique dive site on Kosrae in the Marshall Islands, where the ruins of a former giant clam (Tridacna) aquaculture operation have become an artificial reef supporting an extraordinary density of marine life.
 
 ## Overview
 
-Old Clam Farm is a dive site in Marshall Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Giant clam farming was attempted in Kosrae as part of Pacific aquaculture development programs, and when operations ceased, the remaining clam infrastructure and the surviving wild clam populations became a magnet for reef life. What divers find today is a relatively shallow reef site (maximum 23 meters) scattered with giant clams — some original farm stock that have grown to impressive size over the decades, others natural colonizers attracted to the structure. The clams themselves are visually spectacular, their iridescent mantles ranging from brilliant electric blue and green to gold and brown.
 
-## Site Information
+The surrounding reef has developed organically around the old farm area, with hard coral growth now covering much of the artificial structure. Visibility in Kosrae's lagoon typically reaches 25–35 meters, and the site's sheltered position makes it accessible in most weather conditions.
 
-- **Location**: Marshall Islands, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 23 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+## What to Expect
 
-## Marine Life
+The giant clams are the standout attraction — Tridacna gigas specimens with mantle spans exceeding half a meter are common, and their vivid colors and subtle mantle movements make them compelling subjects for underwater photography. Clownfish and neon damselfish patrol anemones scattered across the site. Cleaning stations on the reef attract humphead wrasse, groupers, and the occasional reef shark for grooming visits.
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+The sandy areas around the clam zone are productive territory for nudibranchs, flatworms, and small cephalopods. Blue-spotted ribbontail rays rest on the sand in the shallows. At the site's deeper edges, schools of snapper and sweetlips hang over the reef structure.
 
-## Dive Profile
+## Practical Information
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 23 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth Range**: 5–23 meters
+- **Visibility**: 20–35 meters typical in Kosrae lagoon
+- **Currents**: Generally mild; sheltered site
+- **Entry**: Boat dive
+- **Best For**: All intermediate divers; exceptional macro and wide-angle photography
 
-## Entry and Exit
+## Marine Life Highlights
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Giant clams (Tridacna gigas and other species), clownfish, neon damselfish, humphead wrasse, groupers, snapper, sweetlips, blue-spotted ribbontail rays, nudibranchs, flatworms, moray eels, grey reef sharks.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

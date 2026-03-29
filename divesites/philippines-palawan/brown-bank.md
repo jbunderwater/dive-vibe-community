@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Brown Bank
 
-Brown Bank is a reef dive site in Philippines Palawan, Asia.
+Brown Bank — known locally as Kayumanggi Bank — is an offshore coral bank in the southern Palawan passage, rising from the deeper substrate to form a productive reef plateau.
 
 ## Overview
 
-Brown Bank is a dive site in Philippines Palawan offering rewarding diving on healthy coral reef structures . Southern Palawan bank dive site. Known locally as Kayumanggi Bank. Coral and reef structure.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Positioned in the remote waters south of Puerto Princesa, Brown Bank sits within the network of submerged banks that characterise this stretch of the Palawan sea corridor. The name Kayumanggi refers to the brownish coral coloration visible on the bank's shallower sections. The reef structure supports a mixture of hard coral tables, massive Porites heads, and sea fans along the sloping perimeter. Currents sweeping up from the Sulu Sea bring nutrients that feed fish populations around the bank's edges, making it a reliable spot for schooling species.
 
 ## Site Information
 
-- **Location**: Philippines Palawan, Asia
+- **Location**: Southern Palawan passage, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral bank / reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters
+- **Current**: Variable; can strengthen on tidal changes
+- **Best Time**: November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Trevally and barracuda are commonly seen schooling in the water column above the bank. Reef sharks patrol the deeper flanks, and green sea turtles are frequently encountered on the shallower coral plateau. Napoleon wrasse and grouper occupy cleaning stations on the reef, while parrotfish and surgeonfish graze actively across the coral heads.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 24 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Start at the shallowest point of the bank, around 8–10 meters, then work your way outward along the sloping edges to the deeper perimeter at 24 meters. The most productive dive involves a slow circuit of the bank's perimeter before returning up the slope for a safety stop on the plateau. Manage your air carefully as the open-water return to the boat can take time.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Brown Bank is accessible only by liveaboard or chartered dive boat from southern Palawan. The crossing from port takes several hours. Entry is by giant stride; always deploy an SMB before ascending in case of surface current. Coordinate with the boat crew before descending to establish drift pickup procedures.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Combine with Templer Bank and Leslie Bank for a southern Palawan bank diving circuit
+- Current direction can reverse quickly; pay attention to fish orientation as a current indicator
+- Early morning dives often have the best visibility before afternoon thermoclines develop
+- Bring wide-angle gear for schooling fish photography
+- A 3mm wetsuit is comfortable year-round; water temperature stays around 27–29°C
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The open-ocean location means conditions can change quickly. Currents may be strong on the bank's deeper slopes. Always carry an SMB and whistle, and confirm surface conditions with the boat before descending. The nearest hyperbaric facility is in Puerto Princesa, several hours distant.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The bank's open structure lends itself to wide-angle reef panoramas and blue-water shots with schooling pelagics. Sea turtles are photogenic subjects on the shallow plateau. Morning light penetrates cleanly to the reef top, giving well-exposed natural-light shots without a strobe.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

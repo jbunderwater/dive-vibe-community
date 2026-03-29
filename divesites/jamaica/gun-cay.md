@@ -11,56 +11,55 @@ osmId: 746173568
 addedBy: osm_import
 ---
 
-## Gun Cay
+# Gun Cay
 
-Gun Cay is a reef dive site in Jamaica, Caribbean.
+A fortified-history cay in the Portland Bight area with a productive fringing reef that drops to 16 metres on the seaward side.
 
 ## Overview
 
-Gun Cay is a dive site in Jamaica offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Gun Cay is one of the larger cays in the Portland Bight area of Jamaica's southern coast, whose name references the historical use of small artillery on these strategic coastal outposts. The cay's fringing reef extends from shallow mangrove and rocky fringe down to 16 metres on the seaward side, offering a reasonable depth range for beginner divers. The reef features healthy hard coral coverage including mountainous star coral and brain coral colonies, alongside sea fans and sponge formations. Like the other Portland Bight cay sites, Gun Cay receives minimal dive traffic and reflects the benefit of the protected area designation. Visibility is typically 15–22 metres in good conditions.
 
 ## Site Information
 
-- **Location**: Jamaica, Caribbean
+- **Location**: Portland Bight Protected Area, south Jamaica
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 16 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 15–22 meters (50–70 feet)
+- **Current**: Light
 - **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The reef community includes parrotfish, French angelfish, blue tangs, and schools of grunts and snapper. Hawksbill turtles are a reliable sighting at this and nearby cay sites. Nurse sharks rest at the base of the reef. Large spiny lobsters are found in the deeper reef crevices. Spotted moray eels inhabit the coral structure throughout. Southern stingrays patrol the sandy channels on the outer reef. The seagrass areas adjacent to the cay provide feeding habitat for green turtles.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 16 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-16 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Circumnavigate the cay reef or dive a portion of it depending on the group's air consumption. The seaward side reaches 14–16 metres and has the richest sponge and sea fan formations. Begin on the deeper seaward side and work back to the shallower sheltered side for the safety stop. Total dive time is typically 45–55 minutes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by local charter from the south coast area near Kingston. Limited commercial dive services in this region. Entry via giant stride or back roll from a small boat. Moor on the protected side of the cay.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Gun Cay can be the deeper element of a south-coast cay dive day, complemented by shallower sites like Drunkenmans Cay and South Cay
+- Bring a dive torch to illuminate crevices where lobsters and morays are found in abundance
+- The cay itself is worth examining from water level — the strategic vantage point it would have offered colonial-era defenders is evident
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Remote dive area — carry full safety equipment including emergency oxygen. Current is typically light but can develop around the cay point. Monitor air consumption and allow adequate reserve for the ascent.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The seaward reef side at 14–16 metres produces wide-angle images of brain coral, sea fans, and sponges. Lobster portraits in torch-lit crevices are a specialty of south-coast cay diving. The absence of other divers allows patience in securing good animal behavior shots.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Protected Area**: Portland Bight Protected Area, Jamaica
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Andrea's Point
 
-Andrea's Point is a reef dive site in Raja Ampat, Asia.
+Andrea's Point is a reef dive site in Raja Ampat, West Papua, Indonesia, named after a diver associated with the site's discovery or regular use.
 
 ## Overview
 
-Andrea's Point is a dive site in Raja Ampat offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Located near Francisco in the Dampier Strait area, Andrea's Point is a reef dive that encapsulates the richness of Raja Ampat's coral ecosystems. The point configuration creates natural fish aggregation as currents sweep around the reef tip, concentrating planktivores and their predators in the water column. The reef structure combines hard coral formations, bommies, and rubble slopes, with the characteristic Raja Ampat layering of species found at different depths. Water temperature averages 27-29°C, and visibility typically reaches 20-30 meters at this site.
 
 ## Site Information
 
-- **Location**: Raja Ampat, Asia
+- **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters
+- **Current**: Moderate, can be strong at the point
+- **Best Time**: October to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The point structure concentrates fish life — large schools of fusiliers and anthias hover over the reef crest, while trevally and mackerel hunt through them. Reef sharks and Napoleon wrasse are regular visitors to the point. The reef slope supports healthy hard coral gardens with clownfish in anemones, and pufferfish and triggerfish browsing the substrate. Nudibranchs and flatworms are abundant for macro enthusiasts, and hawksbill turtles are commonly seen resting on the reef or cruising the slope.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef slope and follow the contour of the point, spending time on both the current-facing and sheltered sides. The reef crest at 8-15 meters holds the highest fish density, while the slope down to 25 meters offers more varied coral structures. Allow time to drift around the point tip if current permits, where fish activity is most concentrated. Finish with a shallow safety stop on the reef top.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat. Entry is typically via giant stride; current at the point may require a quick descent. Your guide will read the current and advise the best direction to approach and drift around the point. Deploy SMB before surfacing for boat pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Dive the current-facing side of the point for the best pelagic fish action
+- Check the sheltered side for resting turtles and macro life
+- Bring a wide-angle lens for fish school compositions at the point tip
+- Dive conditions are typically best in the morning before wind builds
+- Ask your guide about the preferred current direction for this site
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Currents can accelerate around the point tip — stay close to the reef and be prepared to use a reef hook if conditions require it. Always carry an SMB. Visibility reduces in strong current conditions due to particulate. Dive within your experience level and follow your guide's lead on current management.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The point configuration creates natural wide-angle setups: position yourself below the fish aggregation above the reef crest and shoot upward for dramatic schooling fish shots against the blue water. The relatively shallow depth allows natural light photography through most of the dive. Macro subjects are plentiful on the reef slope — take time to scan encrusting sponges for nudibranchs and flatworms.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

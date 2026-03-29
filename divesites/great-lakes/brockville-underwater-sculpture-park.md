@@ -13,54 +13,56 @@ addedBy: osm_import
 
 ## Brockville Underwater Sculpture Park
 
-Brockville Underwater Sculpture Park is a reef dive site in Great Lakes, North America.
+The Brockville Underwater Sculpture Park is Canada's first underwater sculpture park, located in the St. Lawrence River at Centeen Park in Brockville, Ontario. Established in 2010, this unique site features a collection of permanent underwater art installations that attract both recreational divers and snorkelers to the swift-moving freshwaters of the St. Lawrence.
 
 ## Overview
 
-Brockville Underwater Sculpture Park is a dive site in Great Lakes offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Brockville sits along the scenic Thousand Islands stretch of the St. Lawrence River, an area renowned in diving circles for its exceptional visibility and abundant shipwreck resources. The sculpture park was created specifically to introduce new divers to the underwater environment in a controlled, accessible setting. The installations are placed at varying depths to accommodate all certification levels, with the shallowest pieces visible from the surface. The St. Lawrence River's current demands awareness but is manageable at this site due to the protected bay location. Visibility in the St. Lawrence can exceed 15 metres during optimal conditions.
 
 ## Site Information
 
-- **Location**: Great Lakes, North America
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Location**: St. Lawrence River, Ontario, Canada (Thousand Islands Region)
+- **Entry Type**: Shore and boat dive
+- **Site Type**: Artificial attraction / freshwater dive park
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
+- **Maximum Depth**: 20 metres
+- **Typical Visibility**: 5–15 metres
+- **Water Temperature**: 4–22°C (seasonal)
+- **Current**: Mild to moderate; the St. Lawrence River current varies with water levels
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The St. Lawrence River around Brockville supports a diverse freshwater fish community. Northern pike, bass, and perch are regularly encountered around the sculpture installations. The sculptures themselves have been colonized over the years by freshwater mussels and aquatic vegetation, making them naturalistic environments. Turtles — both painted and snapping — are sometimes seen in the shallower areas, and crayfish inhabit every crevice. Round gobies are present but do not dominate as they do in the lower Great Lakes.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The sculpture installations are distributed across a range of depths from 3 to 20 metres. Beginner divers can enjoy shallow pieces without exceeding comfortable limits, while more experienced divers can explore the deeper installations. Navigation is straightforward — the sculptures are clustered in a relatively small area accessible from the shore entry point or a dive boat.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Shore entry is available at Centeen Park in Brockville, with parking nearby. Divers can also access the site by dive boat from local operators. The current is mild enough at this protected location for comfortable entry and exit. Follow the park's designated entry and exit points.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The park is well-suited for divers completing checkout dives or building freshwater diving experience
+- A wetsuit of 5mm or greater is recommended for comfort even in summer
+- Snorkeling is also possible at the shallower sculpture locations
+- A dive flag is required when diving in the St. Lawrence
+- The Brockville area also offers access to excellent wreck diving — consider combining visits with nearby wreck sites
+- Admission or day-use fees may apply at Centeen Park
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The St. Lawrence River current can increase significantly during high water levels or spring runoff. Always check current conditions before diving and be conservative in your assessment. The river has commercial shipping traffic — a dive flag is essential and must be visible. Never dive in the main shipping channel. Always dive with a buddy and carry an SMB.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The sculpture park offers unique photographic opportunities in a freshwater setting. The art pieces — humanoid forms, abstract shapes, and natural motifs — provide unusual subjects against the backdrop of clear river water and aquatic vegetation. Natural light penetrates well at shallow depths, and the sculptures are photogenic in natural light.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

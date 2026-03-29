@@ -13,53 +13,55 @@ addedBy: osm_import
 
 ## Cathedral Bermuda
 
-Cathedral Bermuda is a cave dive site in Bermuda, Atlantic.
+A spectacular underwater cavern off Bermuda's East End where shafts of light penetrate arched entrances and illuminate dramatic swim-throughs.
 
 ## Overview
 
-Cathedral Bermuda is a dive site in Bermuda featuring underwater cave and cavern formations. Located in the Atlantic region, this site offers 15-30 meters of visibility with water temperatures averaging 20-28°C.
+The Cathedral is one of Bermuda's most visually stunning dive sites, located near Gurnet Rock off the island's East End. Bermuda's volcanic rock formation has created an enormous underwater cavern punctured by multiple openings that act as natural skylights, sending dramatic columns of sunlight through the water when conditions align. Divers swim through archways and tunnels in a setting that genuinely resembles a submerged cathedral, with fluted pillars of light playing across the ceiling. One tunnel within the site is nicknamed "Devil's Throat" and adds a more challenging swim-through element for confident navigators. At a maximum depth of 18 meters, this is accessible to Intermediate divers with solid buoyancy control.
 
 ## Site Information
 
-- **Location**: Bermuda, Atlantic
+- **Location**: East End, near Gurnet Rock, Bermuda
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave / cavern / swim-throughs
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Maximum Depth**: 18 meters (60 feet)
+- **Typical Visibility**: 15–30 meters (50–100 feet)
 - **Current**: Light to moderate
-- **Best Time**: May to October
+- **Water Temperature**: 18–28°C (64–82°F)
+- **Best Time**: May–October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles, reef sharks, groupers, snappers, parrotfish, angelfish, moray eels, lobsters. Additional species commonly sighted include brain corals, sea fans, barrel sponges. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+The cave environment of the Cathedral supports a rich encrusting invertebrate community on the walls and ceiling. Large gray snappers and barracuda shelter in the cavern. French and gray angelfish are commonly seen around the entrances. Resident parrotfish and wrasse frequent the reef areas surrounding the cavern. Spiny lobster occupy crevices within the cave system. On night dives, the cavern is even more productive, with octopus and lobster becoming active.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter via one of the wider archways and allow your eyes to adjust to the reduced interior light. The cavern ceiling illuminated by natural light shafts is the primary spectacle and best photographed in morning light when sun angles are favorable. The 18-meter maximum depth allows comfortable bottom time for intermediate divers. Maintain neutral buoyancy strictly to avoid disturbing sediment on the cavern floor and reducing visibility for others.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from East End operators or central Bermuda dive operators who cover the full island. The site is buoyed under the Bermuda Dive Sites program. Entry by giant stride or back roll, descending to the reef before entering the cavern system.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Visit in the morning when sunlight angles are optimal for the light-shaft effect
+- Strict neutral buoyancy is essential — fin-kicking silt inside the cavern ruins visibility and affects others
+- Do not attempt "Devil's Throat" penetration without prior cavern diving experience
+- A wide-angle lens on any camera captures the full drama of the light-shaft environment
+- East End operators can time the dive to maximize sunlight entry angles
 
 ## Safety Considerations
 
-Be aware of boat traffic, currents, occasional swells in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Cavern diving requires reliable buoyancy skills to avoid silting conditions. Do not penetrate beyond the ambient light zone without proper cave diving training and equipment. Always maintain visual contact with the exit during cavern exploration. Strong afternoon winds can make surface conditions rough on the East End — watch weather carefully.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The Cathedral is one of Bermuda's most photographed dive sites. The columns of sunlight through the arched entrances create dramatic natural light compositions that require no flash. For interior subjects, a torch or wide-angle video light supplements the available light without destroying the ambient effect. Early morning dives in summer offer the most intense light shafts.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*

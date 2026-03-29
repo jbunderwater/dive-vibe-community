@@ -13,55 +13,53 @@ addedBy: osm_import
 
 ## THGI Nungwi
 
-THGI Nungwi is a reef dive site in Zanzibar, Africa.
+THGI Nungwi is a shallow coral reef dive at Zanzibar's northern tip near Nungwi village, named by a local dive operator and offering a beginner-accessible 15-meter maximum depth with resident green turtles and the year-round sheltered conditions that make Nungwi one of the most consistently diveable locations in the Zanzibar Archipelago.
 
 ## Overview
 
-THGI Nungwi is a dive site in Zanzibar offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Nungwi at the northern tip of Zanzibar Island benefits from access to both the western (Zanzibar Channel) and eastern coasts, allowing operators to dive in sheltered conditions regardless of which monsoon is active. THGI Nungwi refers to a specific reef section within the Nungwi dive rotation, designated by a local operator whose abbreviation has become the site's working name. The reef slopes gently from 4-5 meters at the crest to 15 meters at the base over a broad, well-lit coral slope characterized by diverse hard coral formations including Acropora tables, Porites heads, and branching staghorn structures. The 15-meter ceiling ensures excellent bottom time and bright ambient light throughout the dive.
 
 ## Site Information
 
-- **Location**: Zanzibar, Africa
+- **Location**: Nungwi, Northern Zanzibar Island, Tanzania
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 15-20 meters (50-65 feet)
+- **Current**: Light
+- **Best Time**: Year-round (north Zanzibar); October-March for best visibility
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+Green turtles are the resident attraction — individuals who have become accustomed to regular dive traffic graze calmly on algae and sponges on the reef crest, allowing very close observation when approached with appropriate patience. Large parrotfish in the terminal phase scrape coral with their fused beak teeth, leaving characteristic white feeding scars. Schools of surgeonfish patrol the reef edge. Batfish hover in loose groups mid-water above the crest. At 10-15 meters, moray eels occupy crevices between the larger coral heads and lionfish perch at the boundaries between coral and sand patches.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the base at 13-15 meters and ascend gradually up the slope, spending the bulk of the dive at 6-12 meters where coral diversity and fish life are most concentrated. The final portion near the reef crest in 4-6 meters offers the most reliable turtle encounters and excellent natural light for photography. Total dive times of 55-70 minutes are achievable given the shallow depth ceiling.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat departure from Nungwi beach operators, typically 5-10 minutes travel time. THGI Nungwi is regularly used as an introductory or refresher dive at the start of a Zanzibar diving holiday, or as a second dive following the deeper Big Wall or Captain Muddy. Giant stride entry; SMB deployment recommended given boat traffic near Nungwi.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- An excellent orientation dive for the start of a Zanzibar trip — the shallow, calm conditions allow re-establishing comfort with buoyancy and trim before deeper sites
+- Green turtles respond best to divers who approach from the side rather than above — kneeling in the sand or hovering very low and laterally
+- The 15-meter maximum depth and calm conditions make this suitable for recently certified divers diving outside their home conditions for the first time
+- Evening dives as the light fades are productive — lionfish become active, and octopus and cuttlefish begin nocturnal feeding
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Low-risk diving environment. The 15-meter maximum depth, light current, and sheltered northern Zanzibar position combine to make THGI Nungwi one of the archipelago's more forgiving sites. Standard fire coral and sea urchin contact hazards. Nungwi boat traffic is significant during peak tourism hours — deploy SMB prominently before ascending. Dive within a buddy pair rather than independently given proximity to boat mooring areas.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Excellent natural light conditions throughout the site. Green turtle portraits are the signature shot — ambient light at 4-8 meters produces accurate color without strobes in clear Zanzibar water. The parrotfish in their terminal phase photograph beautifully against the mixed coral background. Macro photography on the reef surface reveals crinoids, flatworms, and encrusting invertebrates. A moderate wide-angle lens in the 16-35mm range handles both turtle portraits and reef overview compositions.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

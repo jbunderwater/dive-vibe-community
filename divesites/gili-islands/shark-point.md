@@ -13,55 +13,54 @@ addedBy: osm_import
 
 ## Shark Point
 
-Shark Point is a wall dive site in Gili Islands, Asia.
+The Gili Islands' most dramatic dive — deep ridges dropping to 50+ m on Gili Trawangan's northwest, with blacktip and whitetip reef sharks, a sunken tugboat, and masses of green turtles.
 
 ## Overview
 
-Shark Point is a renowned dive site in Gili Islands featuring a dramatic vertical wall that drops into the deep blue . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Shark Point is located on the northwest side of Gili Trawangan, where the reef slope transitions to deep ridges and canyons that plunge beyond 50 m into the Lombok Strait. This is the most exhilarating dive site in the Gili Islands, featuring reliable encounters with both black and whitetip reef sharks along the deeper ridges, while the shallower sections between 5–12 m support enormous numbers of green turtles resting in the sea grass and coral bommies. A tugboat wreck (Glenn Nusa) was intentionally sunk near the canyons and has become home to schools of black snappers, sweetlips, and a resident whitetip reef shark. The site is always a drift dive.
 
 ## Site Information
 
-- **Location**: Gili Islands, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Location**: Northwest Gili Trawangan, Gili Islands
+- **Entry Type**: Boat dive (drift)
+- **Site Type**: Wall / Drift
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 35 m (ridges continue deeper)
+- **Typical Visibility**: 15–30 m
+- **Current**: Strong; always a drift dive
+- **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Blacktip and whitetip reef sharks cruise the canyon systems at depth. Green turtles in large numbers on the shallow reef crest at 5–12 m. The Glenn Nusa wreck hosts schools of black snappers, sweetlips, trevally, and a resident whitetip reef shark. Humpback snapper schools fill the canyon heads. Juvenile whitetip sharks shelter under coral bommies.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-35 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Begin on the deep side at 25–30 m near the canyon systems, then gradually ascend through the canyons exploring fish life. The wreck at approximately 30 m is a dramatic feature worth hovering over. Ascend via the ridge systems to the shallower area and spend time in the 5–12 m turtle zone before completing the safety stop. Current carries divers toward shore.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Gili Trawangan dive operators. The site is always a drift — enter upstream and exit wherever the current delivers you to the shallows. Coordinate closely with the boat crew on pickup point. SMB essential.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Advanced Open Water minimum; experience with strong drift diving is essential
+- The 5–12 m turtle shallows are the perfect reward for an intense deep dive
+- The Glenn Nusa wreck is a bonus feature at depth — ask your operator for its location
+- Dive on neap tides for more manageable current speeds
+- Evening dives in the shallows offer the best turtle encounters when they settle for the night
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Strong currents are constant and can accelerate suddenly. Do not fight the current — drift with it and ascend to shallower water if the current is too fast at depth. Deep ridges descend beyond recreational limits — stay aware of depth. Always carry an SMB and be prepared to surface away from the boat.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+Whitetip reef sharks resting on the ridge slopes are the signature shot. Schools of black snappers around the Glenn Nusa wreck suit wide-angle with a diver for scale. Turtle portraits in the shallow zone are the accessible highlight.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

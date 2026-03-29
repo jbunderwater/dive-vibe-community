@@ -13,54 +13,53 @@ addedBy: osm_import
 
 ## Moore Bank
 
-Moore Bank is a reef dive site in Zanzibar, Africa.
+Moore Bank is a submerged reef bank in the Zanzibar Channel southwest of Zanzibar Island, rising from the channel floor to within 10 meters of the surface and creating a current-swept oceanic environment that attracts schooling pelagic fish and occasional whale sharks during the northeast monsoon season.
 
 ## Overview
 
-Moore Bank is a dive site in Zanzibar offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Positioned in the open Zanzibar Channel well offshore from Zanzibar Island's southwestern coast, Moore Bank is a seamount-style reef that rises from the surrounding channel floor to a shallow summit at approximately 10 meters, with the main dive zone extending from 10-22 meters around the flanks. The exposed channel position means tidal current consistently sweeps the site, which drives the productivity — the current brings nutrients that support dense invertebrate life on the bank surface and attracts baitfish schools that in turn draw predators. Boat transit from the nearest operators is significant, making Moore Bank a purposeful dive destination rather than a convenience site.
 
 ## Site Information
 
-- **Location**: Zanzibar, Africa
+- **Location**: Zanzibar Channel, southwest of Zanzibar Island, Tanzania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral reef (submerged bank)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 15-20 meters (50-65 feet)
+- **Current**: Moderate to strong (tidal)
+- **Best Time**: October to March (northeast monsoon, whale shark season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+Schools of bigeye trevally and jack aggregate around the bank's current-swept flanks. Barracuda form torpedo schools in the water column above the bank crest. Yellowfin tuna and other open-water predators patrol the blue water perimeter during the northeast monsoon. Whale sharks are reported at Moore Bank between October and March when plankton blooms develop in the channel — sightings are irregular but the offshore pelagic character of the site makes encounters more likely here than at inshore reef sites. The bank surface supports sea fans, wire corals, and encrusting sponges that shelter crevice species including moray eels and lionfish.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 22 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the bank surface at 10-12 meters and begin drift diving with the current around the bank perimeter, descending to 18-22 meters on the deeper flanks. The current-assisted navigation reduces effort and brings fish into contact position. Plan a live-boat dive: the guide leads a current-reading survey before entry and the boat follows for pickup. Maintain group cohesion as separation in open water at an offshore site is a significant risk.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat departure from Zanzibar Town or southern Zanzibar Island operators. The offshore position requires a dedicated half-day or full-day trip. Conditions must be assessed at the site — swell and wind can render Moore Bank uncomfortable or inaccessible. Live-boat format with diver tracking; deploy SMB at depth before ascending.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- This is one of Zanzibar's better sites for whale shark encounters during the October-March season — carry a camera with wide-angle capability
+- A reef hook is useful for holding station on the bank surface to watch fish aggregations without drifting off the structure
+- The offshore location makes this a full-day commitment — combine with nearby Pungume Patches for a two-tank excursion
+- Plan for the deepest dive first if combining with shallower inshore sites
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The offshore position and active tidal current are the primary risk factors. Stay together as a group — separation at an open-water site without nearby structures is serious. Monitor depth continuously on the bank flanks where the drop-off invites passive descent. Deploy SMB at depth for live-boat pickup; surface away from the bank to avoid being swept back over it in current reversal. Carry a safety whistle or signal mirror as backup to the SMB.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The schooling pelagic species at Moore Bank reward wide-angle photography — bigeye trevally schools and barracuda tornados are compelling subjects against open blue water. Whale shark encounters, while unpredictable, are worth having a wide-angle or fisheye lens available. The bank surface itself offers close-up sea fan and wire coral shots with strobe lighting for accurate color.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

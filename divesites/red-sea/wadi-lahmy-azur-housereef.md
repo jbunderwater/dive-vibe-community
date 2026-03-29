@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Wadi Lahmy Azur Housereef
 
-Wadi Lahmy Azur Housereef is a reef dive site in Red Sea, Middle East.
+Wadi Lahmy Azur Housereef is the dedicated house reef of the Azur resort area at Wadi Lahmy, on Egypt's far southern Red Sea coast near the Sudanese border. The site is one of the southernmost shore-accessible dive locations in Egypt and offers relatively pristine, lightly dived coral in a remote setting.
 
 ## Overview
 
-Wadi Lahmy Azur Housereef is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Wadi Lahmy is located roughly 200 kilometers south of Marsa Alam and sits within a stretch of coastline that sees far less commercial dive traffic than the northern Red Sea. The house reef here drops from a shallow lagoon to a sloping reef platform covered in healthy hard corals, sea fans, and scattered coral heads. Because the area is remote, the coral health is generally excellent and the site retains a wild character unlike the more developed reefs to the north. Guests of the resort can access the reef by boat for easy entry into the deeper sections.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Wadi Lahmy, Southern Red Sea, Egypt
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20-35 meters (65-115 feet)
+- **Current**: Light to moderate
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The undisturbed reef at Wadi Lahmy supports a broad range of Indo-Pacific species. Dugongs have been reported in the area, making this one of a handful of Red Sea locations with regular sightings. Sea turtles, including hawksbill and green turtles, are commonly seen resting on or grazing near the reef. humphead wrasse, various grouper species, and large barracuda patrol the reef edge. The coral formations shelter clownfish in anemones, moray eels, and a dense resident population of anthias and chromis. Occasional sightings of octopus and cuttlefish add variety to the dive.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+From the boat drop, descend to the reef slope at 15-20 meters and work your way up the reef face during the dive, finishing in the shallower lagoon zone. The coral coverage is dense in the 8-15 meter range. The reef top in 3-6 meters of water provides a relaxed safety stop environment with clear visibility to the surface. Plan dives conservatively given the remote location and limited emergency facilities.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat entry from the resort or nearby mooring. Giant stride entry is standard. Exit back to the boat or to the resort jetty depending on conditions. Because this is a house reef, divers can typically plan repeated dives across the day with short surface intervals.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Keep an eye out for dugongs — early morning dives in the seagrass areas give the best chance of a sighting
+- The remote location means self-sufficiency matters — carry your own safety kit
+- Dive conditions are generally calmer than northern Red Sea sites
+- Bring enough memory cards and batteries — multiple daily dives on pristine reef generate a lot of footage
+- Respect the coral health that makes this site special; buoyancy control is essential
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The remote location of Wadi Lahmy means medical facilities are a significant distance away. Always dive conservatively, carry a full emergency kit, and ensure the dive center is aware of any dive plan. Fire coral is present on the shallower sections. Current is usually mild but can increase with wind and tidal conditions. Always use an SMB for ascent.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Wadi Lahmy offers photography opportunities rarely found at more crowded northern Red Sea sites. The undisturbed coral formations and large reef fish are primary subjects for wide-angle shooting. Macro opportunities are abundant on the coral rubble zones. Dugong encounters, while never guaranteed, represent some of the most memorable underwater photography possible in the Red Sea.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

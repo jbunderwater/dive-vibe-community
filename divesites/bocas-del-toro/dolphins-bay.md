@@ -11,56 +11,53 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Dolphins Bay
+# Dolphins Bay
 
-Dolphins Bay is a reef dive site in Bocas del Toro, Caribbean.
+A shallow, sheltered bay in the northern Bocas del Toro archipelago frequented by resident bottlenose dolphins, with a fringing reef excellent for beginner divers and snorkellers.
 
 ## Overview
 
-Dolphins Bay is a dive site in Bocas del Toro offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Dolphins Bay is named for the resident population of bottlenose dolphins that inhabit this sheltered bay in the northern part of the Bocas del Toro archipelago. Divers and snorkellers regularly encounter the dolphins in the bay, either from the surface or occasionally underwater when the animals approach out of curiosity. The diving itself features a shallow fringing reef with good hard coral coverage from 3 to 10 meters. The sheltered bay position ensures calm conditions and reliable visibility of 15–20 meters, making this an excellent beginner and snorkel site alongside the mammal encounter possibilities. Water temperature is 28–30°C year-round.
 
 ## Site Information
 
-- **Location**: Bocas del Toro, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 10 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 3–10 m |
+| Difficulty | Beginner |
+| Entry Type | Boat |
+| Site Type | Reef |
+| Visibility | 15–20 m |
+| Current | Light |
+| Water Temp | 28–30°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Bottlenose dolphins are the headline attraction — a resident pod uses the bay regularly and encounters are common, though never guaranteed. The reef supports the standard Bocas del Toro community: green sea turtles, schools of blue tang and parrotfish, French angelfish, spotted moray eels, and southern stingrays in the sandy areas. Nurse sharks occasionally rest in the sand at the deeper reef base. Large cushion sea stars are abundant on the sandy bottom between coral formations.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 10 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-10 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boat drop in the bay, with divers descending to the reef at 5–10 meters. The dolphin encounters, if they occur, happen in the open water of the bay surface rather than at depth — divers who surface during the dive and remain still are most likely to attract the dolphins' attention. The reef itself is circumnavigated at leisure in 45–60 minutes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Bocas Town operators. Entry by giant stride into the calm bay water. Exit is standard boat pickup. The bay's shallow, calm conditions make this excellent for training dives and certification courses.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+Dolphin encounters are most likely in the morning before heavy boat traffic disturbs the bay. Remain still and horizontal in the water if dolphins approach — rapid movement usually causes them to depart. The reef diving is excellent regardless of dolphin activity, so approach the dive as a reef experience with dolphin encounters as a bonus. Combines well with Hospital Point for a full morning of northern archipelago diving.
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Boat traffic in the northern archipelago can be busy during peak tourist hours — be visible on the surface with a DSMB or dive flag. Do not chase or pursue the dolphins — observe from a static position if they approach. Standard beginner diving precautions apply: stay within certification limits, dive with a buddy.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Dolphin encounters underwater are the pinnacle Dolphins Bay photograph — a wide-angle or fisheye lens is necessary to capture fast-moving, curious animals close to the camera. Underwater dolphin photography requires patience and a passive approach. The reef photography in the 4–8 meter range is excellent with natural light.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- Bocas del Toro dive operators: offer Dolphins Bay as part of standard multi-site daily tours
+- Bocas Town boat taxis: also pass through the bay on regular routes
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

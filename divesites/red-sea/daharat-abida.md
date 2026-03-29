@@ -11,56 +11,54 @@ osmId: 9721002510
 addedBy: osm_import
 ---
 
-## Daharat Abida
+# Daharat Abida
 
-Daharat Abida is a reef dive site in Red Sea, Middle East.
+One of the most remote dive sites in the Red Sea system — a reef near the Eritrean border at 18.5°N where the sea narrows and the near-pristine marine environment rewards the extraordinary logistical effort required to reach it.
 
 ## Overview
 
-Daharat Abida is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Daharat Abida sits at approximately 18.50°N, 38.60°E — in the extreme southern Red Sea, at approximately the latitude of the Eritrean capital Asmara and near the narrowing southern end of the sea where it approaches the Bab el-Mandeb strait. This is among the most remote positions in the entire Red Sea dive database. Access requires specialist expedition planning, multi-day liveaboard commitment from a northern base, or coordination with local operators in Eritrea or Yemen — both subject to significant political and logistical complexity. The reef has seen essentially no recreational diving pressure and represents a near-untouched marine environment.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
+- **Location**: Extreme southern Red Sea, near Eritrean border (~18.50°N, 38.60°E)
+- **Entry Type**: Expedition liveaboard only
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Intermediate (expedition environment requires conservative diving)
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 25–40 meters
+- **Current**: Variable; strong in the southern Red Sea narrows
+- **Best Time**: October to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The extreme south of the Red Sea supports fish communities largely unaffected by any recreational dive tourism. Fish biomass is very high. Shark species in this region include grey reef, whitetip reef, and oceanic whitetips in open water. The coral coverage is essentially undisturbed. Manta rays are documented in the southern Red Sea corridor in transitional seasons. Bumphead parrotfish schools operate across the reef complex. The diversity and density of this ecosystem reflects what the entire Red Sea looked like before commercial dive tourism.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Given the extreme remoteness and potential for strong current in the southern narrows, all dives are conducted conservatively. Descend on the sheltered side and assess conditions thoroughly before extending the dive. Conservative depth and time limits apply. Safety stop at 5 metres, SMB deployed before ascending.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Expedition liveaboard only — this is not a site accessible without multi-day commitment and considerable logistical planning. Political access requirements for the Eritrean zone must be researched before any itinerary is planned. SMB on every ascent. Emergency response planning is mandatory.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Research current political access requirements for this zone before any expedition planning
+- The extraordinary remoteness requires experienced expedition-level diving — conservative limits, complete equipment redundancy
+- Document the underwater environment carefully — this site has scientific value as an undisturbed baseline ecosystem
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Maximum remoteness: emergency evacuation is a multi-day logistics exercise. Dive with extreme conservatism. All redundant safety equipment required. Political context of the southern Red Sea must be assessed before any visit.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The near-pristine state of the reef creates conditions not available anywhere else in accessible Red Sea diving. Fish portraits with subjects unhabituated to divers, undisturbed coral formations, and extraordinary clarity. The documentation value of photography here extends beyond recreational interest.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

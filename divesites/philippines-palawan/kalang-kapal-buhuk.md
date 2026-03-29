@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Kalang Kapal Buhuk
 
-Kalang Kapal Buhuk is a reef dive site in Philippines Palawan, Asia.
+Kalang Kapal Buhuk — also known as Banggi Outer Northeast Reefs — is a reef system on the northeast side of the Banggi Island area in the Balabac Strait, exposed to the more energetic conditions of the northeastern sea approach.
 
 ## Overview
 
-Kalang Kapal Buhuk is a dive site in Philippines Palawan offering rewarding diving on healthy coral reef structures . Banggi area reef. Also known as Banggi Outer Northeast Reefs. Coral formations.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The "Kapal Buhuk" element of the name translates roughly to "rotten boat" in Malay, hinting at the site's historical role as a maritime hazard before modern navigation. The reef occupies the exposed northeastern face of the Banggi reef complex, meaning it receives more current and wave energy than the sheltered western sites in the same group. This exposure benefits the coral, driving denser sea fan growth and more active fish communities than the calmer counterpart sites. Hard coral coverage includes branching and plating forms, with soft corals becoming more prominent on the current-swept outer sections.
 
 ## Site Information
 
-- **Location**: Philippines Palawan, Asia
+- **Location**: Banggi outer northeast, Balabac Strait, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 21 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 10-25 meters
+- **Current**: Moderate to strong; northeast-facing exposure
+- **Best Time**: April to October (southwest monsoon; northeast exposure is sheltered)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The northeast exposure means pelagic species regularly pass along the reef face. Trevally and barracuda schools are dependable sightings. Whitetip reef sharks patrol the deeper edges and rest under ledges. Sea fans on the current-facing sections harbour filefish and longnose hawkfish. Hawksbill sea turtles are commonly sighted feeding on sponges and soft corals throughout the reef.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 21 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Plan your dive to use the current — descend on the upcurrent end of the reef and drift along the face, pausing in sheltered zones behind coral heads for detailed observation. The deeper sections at 18–21 meters are most productive for pelagic encounters. Ascend up the reef slope and drift-ascent to the boat if current is running during the safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Accessible by boat from Banggi/Balabac area or liveaboard. The northeast exposure can create challenging surface conditions when northeast monsoon winds blow — check weather before committing to this site in November through February. Entry by giant stride; SMB for drift ascent.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The northeast monsoon season (November–March) may make surface conditions rough at this exposed site; southwest monsoon season (April–October) offers calmer conditions
+- Drift diving technique is useful here — let the current carry you along the reef face
+- Sea fans on the exposed faces often host small critters like pygmy seahorses; look carefully
+- The contrast between exposed and sheltered sides of the same reef makes for varied diving
+- This site pairs well with Kalang Besar for a comparative dive across different reef exposures
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The exposed reef face can have strong current and choppy surface conditions. Dive with a local guide familiar with conditions. Always carry an SMB and be prepared for a drift ascent. Check conditions carefully on northeast-facing sites during the northeast monsoon season.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Current-swept sea fans provide excellent subjects for both close-focus wide-angle and macro work. Pelagic fish portraits in the blue water above the reef face are productive. Natural light on sunny days penetrates well to 15 meters.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

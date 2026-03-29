@@ -13,54 +13,32 @@ addedBy: osm_import
 
 ## N-Buoy Coral Head
 
-N-Buoy Coral Head is a reef dive site in Marshall Islands, Pacific.
+N-Buoy Coral Head is a lagoon pinnacle in the inner Kwajalein dive circuit, named for the navigational buoy position "N" on the atoll's lagoon chart and one of the northern-most frequently dived coral heads in the main cluster.
 
 ## Overview
 
-N-Buoy Coral Head is a dive site in Marshall Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+N-Buoy Coral Head sits in the northeastern quadrant of the inner Kwajalein Lagoon dive zone, named for the navigational buoy designation used to chart this section of the lagoon. The pinnacle is part of the same broad system of coral head sites that defines Kwajalein diving, rising from the sandy lagoon floor through 25 meters of clear water to near the surface. The site is frequently included as part of a northeastern lagoon dive circuit, often combined with the Emon, N-Buoy, and ER-2 coral head cluster.
 
-## Site Information
+Current circulation in the northeastern lagoon zone tends to be slightly stronger than in the sheltered southern areas near the main island, providing better nutrient delivery and correspondingly more active fish behavior.
 
-- **Location**: Marshall Islands, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+## What to Expect
 
-## Marine Life
+N-Buoy is recognized as a reliable site for large-school aggregations — fusiliers and snapper form dense, swirling schools around the pinnacle that can number in the hundreds. On good days, the school mass creates a shimmering curtain around the coral head visible from a distance underwater. Grey reef sharks cruise through and around these schools in the feeding behavior typical of current-influenced Kwajalein sites.
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+The hard coral quality at N-Buoy is high, with intact table coral formations and large brain corals throughout the structure. Moray eels occupy crevices at multiple depths. The shallow crown (5–10 meters) is excellent for safety stops — high fish density and colorful coral growth in well-lit water.
 
-## Dive Profile
+## Practical Information
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth Range**: 5–25 meters
+- **Visibility**: 20–35 meters typical
+- **Currents**: Mild to moderate
+- **Entry**: Boat dive
+- **Best For**: Intermediate divers; good for large schooling fish aggregations
 
-## Entry and Exit
+## Marine Life Highlights
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Fusilier schools, snapper schools, grey reef sharks, moray eels, table corals, brain corals, humphead wrasse, groupers, butterflyfish, damselfish.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

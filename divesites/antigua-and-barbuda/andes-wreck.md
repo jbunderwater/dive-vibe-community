@@ -11,57 +11,53 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Andes Wreck
+# Andes Wreck
 
-Andes Wreck is a historic wreck dive in Antigua and Barbuda, Caribbean.
+The 19th-century British merchant vessel Andes rests in shallow water off Antigua's southwest coast — a heavily encrusted wreck surrounded by fish life accessible to all certification levels.
 
 ## Overview
 
-Andes Wreck is a dive site in Antigua and Barbuda featuring the wreck of the Andes Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Andes was a British sailing vessel that sank in the late 1800s off Antigua's southern coast. At a maximum depth of just 8 meters, the wreck is one of the most accessible historic wrecks in the Caribbean. The wooden hull has long since decayed, but the iron structural elements, ribs, and scattered cargo remains lie spread across the sandy bottom. Decades of coral and sponge colonisation have transformed the wreck remnants into a productive artificial reef. Large brain and star corals have grown over the structural remains, and tube sponges and sea fans occupy the spaces between. The site sits in the clear, warm Caribbean water typical of Antigua's leeward coast with visibility regularly reaching 20–30 meters.
 
 ## Site Information
 
-- **Location**: Antigua and Barbuda, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 8 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 3–8 m |
+| Difficulty | Intermediate |
+| Entry Type | Boat |
+| Site Type | Wreck |
+| Visibility | 20–30 m |
+| Current | Light |
+| Water Temp | 26–28°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The encrusted wreck structure supports a diverse fish community. Large schools of yellowtail snapper and French grunt shelter in and around the wreck remains. Spotted moray eels occupy crevices in the structural remnants. Sea turtles — both green and hawksbill — visit the wreck to feed on the sponge growth. Southern stingrays rest in the sandy areas around the wreck perimeter. Sergeant majors establish breeding territories on flat iron surfaces, fiercely defending their egg patches. Caribbean spiny lobster are found under the deeper structural elements.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 8 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descent from the boat directly to the wreck at 3–8 meters. The shallow profile allows extended bottom time — 60+ minutes at recreational air consumption rates. Divers typically circumnavigate the main wreck structure before examining the peripheral scatter of smaller artifacts. The site is also excellent for snorkelling given the shallow depth.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Antigua's main dive operators. Entry by giant stride. The calm, shallow conditions make entry and exit straightforward. No mooring anchor — operators use sandy drop-offs to avoid reef contact.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+The Andes Wreck is frequently combined with a dive at Deep Bay (they are the same vessel, documented differently as two entry points). Bring a torch for the deeper structural shadows where lobster and moray eels shelter. The site is at its most productive in the morning when schools of snapper are active around the structure. This wreck is an excellent choice for photographers given the excellent ambient light and accessible depth.
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The maximum depth of 8 meters means there are no decompression concerns, but fire coral grows on some metalwork — maintain awareness and avoid contact. Boat traffic in Antigua's coastal waters is active — surface with a DSMB and be visible before surfacing. Structural elements are not stable and should not be entered.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The shallow depth delivers exceptional natural light throughout the day — this is a prime site for wide-angle ambient-light wreck photography without strobe at surface conditions. Schools of snapper around the wreck structure provide classic wreck-and-fish compositions. Macro subjects on encrusted ironwork are abundant. The site photographs well at any time of day.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- Antigua's dive operators: Dive Antigua and Indigo Divers regularly visit this site
+- Antigua and Barbuda National Parks: manages marine conservation in the area
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

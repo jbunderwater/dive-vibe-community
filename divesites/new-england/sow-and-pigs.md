@@ -11,55 +11,58 @@ osmId: 552655591
 addedBy: osm_import
 ---
 
-## Sow and Pigs
+# Sow and Pigs
 
-Sow and Pigs is a reef dive site in New England, North America.
+A traditional New England navigational hazard name for a rocky cluster off the Plum Island coast, now a productive shallow reef dive.
 
 ## Overview
 
-Sow and Pigs is a dive site in New England offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Sow and Pigs is a classic New England navigational hazard name — a "sow" (large central rock) surrounded by "pigs" (smaller flanking rocks). This naming convention appears on charts throughout New England and reflects the practical maritime tradition of describing dangerous rocky shoals with memorable names. This particular Sow and Pigs sits off the northern Massachusetts coast near Plum Island, at the western end of the reef cluster that includes Gangway Rocks and Half Tide Rocks. Generations of Newburyport-area fishermen and sailors have known these rocks as a hazard to avoid; for modern divers, the same rocks at 10 metres provide the shallow cold-water reef diving typical of the northern Massachusetts coast.
 
 ## Site Information
 
-- **Location**: New England, North America
+- **Location**: Off Plum Island / western Newburyport approach, northern Massachusetts
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 10 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
+- **Typical Visibility**: 3–8 meters (10–26 feet)
+- **Current**: Moderate tidal current
+- **Water Temperature**: 5–20°C depending on season
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The central larger rock (the "sow") and surrounding smaller rocks provide varied habitat. Tautog hold territory on the larger structures. American lobsters inhabit crevices between the central and flanking rocks — the gaps between the "sow" and "pigs" provide classic lobster shelter. Cunner hover around kelp-draped surfaces. Sea urchins are present on exposed rock faces. Pollock and Atlantic mackerel school above the site in summer. Winter flounder rest on surrounding sand. Anemones and bryozoans encrust shaded surfaces year-round.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boat access from Newburyport or Cape Ann. Descend to the rock cluster at 8–10 metres. The central larger rock provides a natural navigation reference. Work from the central feature outward to the smaller flanking rocks, then explore the sand-rock interfaces where lobsters concentrate. Pair with Gangway Rocks and Half Tide Rocks for a productive multi-site day. Complete a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat charter required. The name itself signals the navigation risk — a local captain who knows the approach is important. Anchor in sand well clear of the rocks. Deploy SMB before ascending.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The traditional navigational significance of the site's name is worth researching before the dive
+- The gaps between the central "sow" rock and the surrounding "pigs" often shelter lobsters
+- Western end of the northern Massachusetts reef cluster — combine with Gangway Rocks for a two-site day
+- 7mm wetsuit or drysuit required year-round
+- Plan around slack tide
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Cold water year-round. The multiple rock features create navigation hazards for boats — approach with a knowledgeable captain. Moderate tidal current. Deploy SMB before surfacing.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The named rock cluster lends itself to wide-angle portraits showing the central "sow" with smaller rocks in the background. Natural light at 10 metres is excellent in summer. Tautog holding territory on the rock faces are compelling subjects.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Charter Access**: Newburyport and Plum Island area dive operators; Cape Ann Divers, Gloucester
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

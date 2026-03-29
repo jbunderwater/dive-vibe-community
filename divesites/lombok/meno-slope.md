@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Meno Slope
 
-Meno Slope is a reef dive site in Lombok, Asia.
+A gentle sloping reef on the south side of Gili Meno — an approachable dive with diverse coral cover and resident turtles.
 
 ## Overview
 
-Meno Slope is a dive site in Lombok offering rewarding diving on healthy coral reef structures . source is Diveschool Notice Board - Location might have to be checked with a GPS. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Meno Slope is a gently inclining reef on the southern side of Gili Meno, offering a more relaxed alternative to the stronger current sites on the island's north and east sides. The slope runs from around 5 m down to 30 m and features a good mix of hard and soft coral formations with healthy fish populations. The moderate conditions make it a comfortable intermediate dive, and turtles are regularly sighted grazing along the reef crest. The site works well as a second or third dive of the day when a more relaxed dive profile is desired.
 
 ## Site Information
 
-- **Location**: Lombok, Asia
+- **Location**: South side of Gili Meno, Gili Islands / Lombok
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef / Slope
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 30 m
+- **Typical Visibility**: 15–22 m
+- **Current**: Mild to moderate
+- **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Green and hawksbill turtles on the reef crest. Parrotfish, triggerfish, and surgeonfish are abundant. Moray eels in coral crevices. Grouper at deeper sections. Nudibranchs and cleaner shrimps in the rubble zones. Reef sharks are occasionally sighted at the base of the slope.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to 20–25 m and explore the deeper coral formations before ascending the slope. The most productive zone for fish life is 8–18 m. Spend time on the reef crest in the shallows for turtle encounters. Complete a 3-minute safety stop before the ascent.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat from Gili Meno or Lombok operators. Entry via back roll. Mild current. SMB recommended.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Works well as a relaxed afternoon dive contrasting with stronger current morning dives
+- Search the reef crest shallows carefully for turtle activity
+- Combine with Meno Corner and Bounty Wreck for a comprehensive Gili Meno diving day
+- The deeper sections at 25–30 m are worth exploring for larger groupers and occasional sharks
+- Accessible to intermediate Open Water divers in the main 8–20 m zone
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Currents are generally mild but can increase at depth on the outer slope. Maintain depth awareness as the slope continues deeper than recreational limits. Lionfish in coral overhangs — observe without touching. Always carry an SMB.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Turtle grazing on the shallow reef crest in natural light. Fish schools on the mid-slope in natural light. The gentle slope gradient allows careful composition without fighting current.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*

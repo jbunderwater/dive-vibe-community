@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## SMS Brummer
 
-SMS Brummer is a historic wreck dive in Scapa Flow, Europe.
+A WWI German Imperial Navy mine-laying cruiser scuttled in 1919, famous for its iconic brass bridge — one of Scapa Flow's most recognizable underwater landmarks.
 
 ## Overview
 
-SMS Brummer is a dive site in Scapa Flow featuring the wreck of the SMS Brummer. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+SMS Brummer was a mine-laying cruiser built for speed rather than firepower, capable of laying mines while running at high speed to evade detection. Along with her sister ship Bremse, the Brummer participated in the German High Seas Fleet's internment at Scapa Flow following WWI. After the Armistice, she was scuttled on June 21, 1919 when Rear Admiral Ludwig von Reuter gave the secret order to scuttle the fleet. The Bremse was raised in 1929, leaving the Brummer as one of Scapa Flow's prime dive sites. Her most celebrated feature is the brass bridge — constructed of brass to avoid interfering with magnetic compasses — which remains in remarkable condition and is one of the most iconic sights in all of Scapa Flow diving. The entire wreck can be circumnavigated in a single dive, though sections have collapsed in recent years, requiring experienced navigation.
 
 ## Site Information
 
-- **Location**: Scapa Flow, Europe
+- **Location**: Scapa Flow, Orkney, Scotland
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck (light cruiser — protected scheduled monument)
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 36 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: May to October
+- **Maximum Depth**: 36 meters (118 feet)
+- **Typical Visibility**: 5–20 meters (16–66 feet) — best May and September–October
+- **Current**: Light
+- **Water Temperature**: 6–14°C (43–57°F)
+- **Best Time**: May–October
 
 ## Marine Life
 
-Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Scapa Flow wrecks support prolific cold-water communities. The Brummer carries plumose anemones, dead man's fingers corals, and various encrusting sponges across her superstructure. Conger eels occupy the interior spaces and are a regular encounter. Edible crabs and velvet swimming crabs are abundant on the wreck surfaces. Large pollack and saithe school in the water column above. Nudibranchs are common on encrusting growth.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 36 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the wreck deck and navigate toward the iconic brass bridge, which is the primary objective for most divers on the first dive. The bridge structure at approximately 20–25 meters allows extended observation. Working deeper to 36 meters reaches the keel and deeper hull sections, but manage bottom time carefully. A circumnavigation of the exterior is achievable in one dive with efficient navigation.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Stromness-based charter operators. The Brummer is a regularly dived wreck in the Scapa Flow fleet rotation. Shot line descent to the wreck. Dry suit and cold-water equipment are mandatory. SMB deployment before surfacing.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- The brass bridge is the defining feature — find it early for adequate viewing time
+- Some sections of the wreck have collapsed in recent years; navigation routes known to local guides have changed
+- Dive with a guide who has dived the Brummer recently — the collapsing structure makes accurate briefings essential
+- A dive torch reveals the quality of the brass bridge detail most effectively
+- The Brummer is best appreciated after an orientation dive on a shallower site first
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+This is a protected scheduled monument under Scottish law — removal of any artifacts is illegal. The 36-meter depth requires careful no-decompression time management in cold water where gas consumption is elevated. Recent collapses have complicated interior navigation — do not penetrate unless with an experienced local guide. Always use a shot line for ascent and descent.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The brass bridge is Scapa Flow's most photographed single feature outside the main battleships. Wide-angle shots capturing the bridge's structure and scale are the primary objective. Natural light at 25 meters is dim in Scottish waters — a powerful video light or strobe is essential. Encrusted surfaces throughout the wreck reward close-up work revealing the invertebrate communities that have colonized every surface since 1919.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*

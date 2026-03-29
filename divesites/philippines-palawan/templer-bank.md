@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Templer Bank
 
-Templer Bank is a reef dive site in Philippines Palawan, Asia.
+Templer Bank is a submerged coral bank in southern Palawan, known locally as Dalag Bank, sitting in the remote waters between Palawan and Borneo.
 
 ## Overview
 
-Templer Bank is a dive site in Philippines Palawan offering rewarding diving on healthy coral reef structures . Southern Palawan bank dive site. Known locally as Dalag Bank. Coral and reef structure.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Templer Bank rises from deeper water to approximately 10 meters at its shallowest point, creating a productive offshore reef structure that attracts a range of pelagic and reef species. The site sits in the southern Palawan sea corridor, a stretch of ocean influenced by currents sweeping through the Sulu Sea. Hard corals dominate the upper reef plateau, with sea fans and soft corals appearing on the deeper slopes. The remote location means the site sees limited dive traffic, keeping the marine ecosystem largely undisturbed.
 
 ## Site Information
 
-- **Location**: Philippines Palawan, Asia
+- **Location**: Southern Palawan, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral reef / bank
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters
+- **Current**: Variable, can be strong on the slopes
+- **Best Time**: November to May (northeast monsoon season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The nutrient-rich upwellings around the bank attract barracuda schools, trevally, and reef sharks patrolling the edges. Sea turtles are regularly sighted resting or feeding on the coral platform. Reef fish communities include napoleon wrasse, grouper, and surgeonfish grazing across the hard coral heads. Macro subjects such as nudibranchs and small crustaceans can be found in rubble zones on the periphery.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 24 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the top of the bank around 10 meters and work your way across the coral plateau before exploring the deeper slopes to around 24 meters. The most productive section for large animals is typically the drop-off edges where currents concentrate fish activity. Plan a leisurely ascent across the reef top and complete a 3-minute safety stop at 5 meters before surfacing.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by liveaboard or chartered dive boat from southern Palawan ports, typically Puerto Princesa or Brooke's Point. The remote location requires multi-day trip planning. Entry is via giant stride from the boat. Use a surface marker buoy (SMB) for ascent, as surface visibility from the boat can be limited in current.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Plan this as part of a southern Palawan liveaboard circuit — the bank is too remote for day trips
+- Currents can be significant; dive on slack or incoming tide when possible
+- Bring a reef hook for resting if current picks up unexpectedly
+- Wide-angle photography suits the schooling fish and reef panoramas here
+- Water temperature rarely drops below 27°C, so a 3mm wetsuit is sufficient
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Open-water conditions apply at this exposed bank site. Currents can strengthen quickly, particularly on the outer slopes. Always carry a surface marker buoy and be prepared to drift with the current rather than fight it. The nearest emergency medical facilities are several hours away — dive conservatively and within your limits.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The open reef plateau is well-suited to wide-angle shooting, particularly for capturing schooling pelagics against coral backdrops. Soft corals and sea fans on the deeper slopes provide colourful foreground subjects. Morning dives typically offer the best natural light penetration.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

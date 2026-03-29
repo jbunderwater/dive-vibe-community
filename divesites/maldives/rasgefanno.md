@@ -13,54 +13,21 @@ addedBy: osm_import
 
 ## Rasgefanno
 
-Rasgefanno is a reef dive site in Maldives, Asia.
+Rasgefanno is a deep outer reef site in Addu Atoll (Seenu Atoll), located in the far south of the Maldives close to the equator. The site offers a steep reef wall that plunges to well beyond recreational depths, with a pronounced overhang structure and rich pelagic activity driven by Indian Ocean upwellings.
 
-## Overview
+### Site Conditions
 
-Rasgefanno is a dive site in Maldives offering rewarding diving on healthy coral reef structures . thresher shark cleaning station on 55m depth. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+- **Depth range**: 15–40 m
+- **Typical visibility**: 20–40 m
+- **Currents**: Strong; oceanic surge common on the outer wall
+- **Best season**: December–April (northeast monsoon) for clearest water
 
-## Site Information
+### What to Expect
 
-- **Location**: Maldives, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+The upper reef plateau at 15–20 metres features hard coral gardens and scattered bommies teeming with butterflyfish, angelfish, and abundant reef chromis. Below 25 metres the wall becomes vertical, studded with large sea fans and black coral bushes. Addu Atoll's isolation gives it a distinct fish population, and pelagic species are frequently encountered along this outer exposure — grey reef sharks, silvertip sharks, and eagle rays are regular visitors. The deep outer wall occasionally yields encounters with scalloped hammerheads. Large Napoleon wrasse are unusually approachable at this site, a testament to its limited dive traffic compared to the more heavily visited northern atolls.
 
-## Marine Life
+### Tips for Divers
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Advanced divers should manage bottom time carefully on the deeper sections; the wall's gradient makes it easy to descend beyond planned depths. Addu Atoll's remoteness — accessible primarily by liveaboard or the domestic airport at Gan — means conditions are infrequently documented, so consult your dive guide's local knowledge on current direction before entry. Visibility in the 30–40 m range makes wide-angle photography of the wall highly rewarding.
 
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 40 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

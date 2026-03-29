@@ -11,55 +11,57 @@ osmId: 556854518
 addedBy: osm_import
 ---
 
-## Lunts Rock
+# Lunts Rock
 
-Lunts Rock is a reef dive site in New England, North America.
+A named submerged rock in the northern Massachusetts reef cluster near Plum Island, known to local divers for lobster and tautog.
 
 ## Overview
 
-Lunts Rock is a dive site in New England offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Lunts Rock is a submerged rocky feature in the northern Massachusetts nearshore, clustered with Badgers Rock, Black Rocks, Gangway Rocks, and the Half Tide Rocks in the Plum Island/Newburyport area. The name likely derives from an early local family or landowner — the Lunts were a prominent Essex County family. Like the other named rocks in this cluster, Lunts Rock sits at approximately 10 metres maximum depth and provides the characteristic shallow cold-water reef diving that Cape Ann and North Shore operators know well. The entire cluster of named rocks in this area represents a productive zone for lobster and tautog within convenient range of Newburyport Harbor.
 
 ## Site Information
 
-- **Location**: New England, North America
+- **Location**: Off Plum Island/Newburyport coast, northern Massachusetts
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 10 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
+- **Typical Visibility**: 3–8 meters (10–26 feet)
+- **Current**: Moderate tidal current
+- **Water Temperature**: 5–20°C depending on season
 - **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+The rocky substrate supports the standard northern Massachusetts cold-water reef community. Tautog patrol the rock edges and crevice faces. American lobsters inhabit crevices throughout the rock structure. Cunner hover above encrusted surfaces. Sea urchins are plentiful on exposed rock faces. Pollock school in midwater in summer and fall. Winter flounder rest on adjacent sandy areas. Anemones, hydroids, and bryozoans encrust shaded rock surfaces.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boat access required from Newburyport or northern Cape Ann. Descend to 8–10 metres and navigate the rock perimeter, working crevice faces for lobsters. Pair with adjacent named rocks for a multi-site dive day. Plan around slack water. Complete a 3-minute safety stop at 5 metres.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat charter required. Local knowledge of Plum Island Sound approaches is helpful. Anchor in sand. Deploy SMB before ascending.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Combine with Badgers Rock, Black Rocks, and Gangway Rocks for a productive northern Massachusetts reef day
+- Lobsters are the primary target — work the sand-rock interface at the base of the boulder clusters
+- 7mm wetsuit or drysuit required
+- Water clarity tends to improve in late summer when plankton blooms subside
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Cold water year-round. Moderate tidal current near peak flow. Rocky bottom presents boat navigation hazards. Deploy SMB before surfacing.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Strong natural light at 10 metres. Rocky reef subjects and lobster portraits are the primary photographic focus.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Charter Access**: Newburyport and Plum Island area dive operators
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

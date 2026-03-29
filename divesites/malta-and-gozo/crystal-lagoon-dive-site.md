@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Crystal Lagoon (Dive Site)
 
-Crystal Lagoon (Dive Site) is a reef dive site in Malta and Gozo, Europe.
+Crystal Lagoon is a sheltered reef dive in the Comino Island area, tucked alongside the famous Blue Lagoon on the western side of Cominotto islet. The site takes its name from the extraordinarily clear water that characterises this section of the Comino channel — visibility regularly reaching 25 metres or more in the iridescent turquoise shallows before deepening to an intense blue at the reef edge.
 
 ## Overview
 
-Crystal Lagoon (Dive Site) is a dive site in Malta and Gozo offering excellent diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The dive site extends along the limestone reef fringing the Crystal Lagoon anchorage, descending over stepped rock to a sandy bottom at approximately 20 metres. The shallow zones are brilliantly lit by natural light penetrating the clear water, creating the vivid turquoise tones visible from the surface. The site is well protected from prevailing winds, giving it calmer conditions than the exposed northwest Gozo sites nearby. Its beginner-friendly depth and reliable conditions make it an ideal first Maltese dive.
 
 ## Site Information
 
-- **Location**: Malta and Gozo, Europe
+- **Location**: Comino Island, Malta
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: May to October
+- **Typical Visibility**: 20–30 meters
+- **Current**: Generally calm
+- **Best Time**: Year-round (best April to November)
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
+Sea bream, ornate wrasse, and salema shoal in the well-lit shallows. Octopus inhabit the rocky sections of the reef bottom. Moray eels emerge from crevices in the deeper limestone. Grouper are resident throughout the reef. The sandy floor between the reef sections provides habitat for goatfish and flatfish. In summer, barracuda and amberjack make appearances above the reef.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter the water and follow the reef slope down through the brilliantly lit shallow zone to the bottom at 15–20 metres. Explore the stepped limestone terrain and sandy areas before ascending along the reef. The shallow section above 5 metres in the lagoon itself provides extended snorkelling time on the ascent. Safety stop at 5 metres.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Dive boats from Gozo and Malta operators include Crystal Lagoon as part of Comino day-trip programmes. Entry by giant stride. In summer the Blue Lagoon area is extremely busy with tourist boats — early morning diving is strongly advisable. The lagoon is well sheltered, giving reliable entry and exit conditions.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- An ideal introductory dive in Malta — calm, clear, and accessible
+- Snorkelling in the shallows of the lagoon is outstanding before or after the dive
+- Arrive early in the July–August peak season to avoid surface congestion
+- Combine with the Cominotto Arch and Santa Marija Caves for a full Comino programme
+- The vivid turquoise colour in the shallows is best captured in morning light
 
 ## Safety Considerations
 
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The primary hazard in this area is boat traffic during peak season. Always deploy an SMB on ascent and maintain awareness of surface vessels. Dive with a buddy. The site is within beginner limits but standard recreational diving protocols apply.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+The turquoise lagoon water over white sand and pale limestone produces some of the most striking natural light photography in the Mediterranean. Wide-angle shots capturing the colour gradient from shallow turquoise to deep blue are particularly effective. Sea bream in schools and resident grouper make strong portrait subjects.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

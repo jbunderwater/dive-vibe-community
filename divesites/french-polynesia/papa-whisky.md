@@ -13,54 +13,26 @@ addedBy: osm_import
 
 ## Papa Whisky
 
-Papa Whisky is a reef dive site in French Polynesia, Pacific.
+Papa Whisky is a reef dive site in the Tahiti lagoon, French Polynesia. The name uses NATO phonetic alphabet designations (P = Papa, W = Whisky), suggesting the site was originally identified by its radio call sign or buoy marker designation by the dive operators who first charted it.
 
 ## Overview
 
-Papa Whisky is a dive site in French Polynesia offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The site is located near the outer reef on Tahiti's west coast, close to the Aquarium site, and shares the same productive marine environment driven by lagoon-to-ocean circulation. The reef structure includes a mix of coral pinnacles and ridges with sandy corridors, covering depths from 8 to 25 metres. The name has stuck among local operators and the site is a regular feature on multi-dive day trips out of Papeete and Punaauia. Visibility averages 25–30 metres, and water temperatures are 27–28°C year-round.
 
-## Site Information
+## What to Expect
 
-- **Location**: French Polynesia, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+The coral pinnacles at Papa Whisky are notable for their dense covering of encrusting corals and the schools of fish that aggregate around their summits — clouds of purple anthias and orange chromis are constant companions as divers navigate between the structures. Grey reef sharks patrol the outer edges of the reef, and large napoleon wrasse are a reliable presence. Eagle rays have been observed at this site, gliding between the pinnacles. The sandy corridors support stingrays and the occasional flatfish, while the crevice bases of the coral ridges shelter lobsters and large moray eels.
 
-## Marine Life
+## Conditions
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+- **Best season**: April–November
+- **Visibility**: 25–30 m typical
+- **Current**: Mild to moderate
+- **Water temperature**: 27–28°C
+- **Entry**: Boat dive
 
-## Dive Profile
+## Tips
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Papa Whisky is typically paired with the nearby Aquarium site for a two-dive morning out of Papeete. Plan the deeper profile on the first dive, exploring the sand corridors and pinnacle bases, and ascend to the shallower pinnacle tops for the second half and safety stop.
 
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

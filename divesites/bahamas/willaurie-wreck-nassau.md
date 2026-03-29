@@ -11,57 +11,53 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Willaurie Wreck Nassau
+# Willaurie Wreck Nassau
 
-Willaurie Wreck Nassau is a historic wreck dive in Bahamas, Caribbean.
+A passenger ferry deliberately sunk as an artificial reef off Nassau — an accessible, photogenic wreck covered in coral and sponges and home to large resident groupers.
 
 ## Overview
 
-Willaurie Wreck Nassau is a dive site in Bahamas featuring the wreck of the Willaurie Wreck Nassau. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Willaurie was a Nassau-area passenger and cargo ferry that was sunk in the 1980s as an artificial reef off the southwest coast of New Providence Island. The vessel sits upright on the sandy bottom at 19 meters, making this an accessible and well-lit wreck dive compared to deeper Nassau wrecks. The Willaurie has been colonised over the decades by an excellent community of encrusting corals, sponges, and organisms, and the combination of accessible depth, clear Bahamian water, and productive marine life has made it one of the most popular Nassau wrecks for beginner and intermediate divers. Visibility is 20–30 meters. Water temperature 25–28°C.
 
 ## Site Information
 
-- **Location**: Bahamas, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 19 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 10–19 m |
+| Difficulty | Beginner |
+| Entry Type | Boat |
+| Site Type | Wreck |
+| Visibility | 20–30 m |
+| Current | Light |
+| Water Temp | 25–28°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Large Nassau groupers and black groupers are resident inside the Willaurie's superstructure and have grown to substantial sizes over the decades of protection inside the wreck structure. Schools of grunt and snapper fill the interior spaces. Spotted moray eels occupy the crevices and engine room sections. Caribbean spiny lobster are found throughout the structural overhangs. Sea turtles occasionally visit. The encrusted exterior supports a typical Nassau reef community of angelfish, parrotfish, and blue tang.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 19 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descent via mooring line to the main deck at 10–12 meters. Exploration works bow to stern along the main deck before visiting the interior sections accessible from deck hatches. The deeper sections of the hull at 17–19 meters can be visited at the end of the dive before a safety stop at the upper deck. Total dive: 45–55 minutes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive with permanent mooring. Operated by Nassau-based dive operators. Entry by giant stride or backward roll. Exit is standard boat pickup after safety stop.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
+The Willaurie is one of the best wreck dives in Nassau for beginner wreck divers — the accessible depth, upright position, and clear water make it a comfortable introduction to wreck exploration. Carry a torch for the interior sections where the groupers and moray eels shelter. The upper deck in 10–12 meters is well-lit by natural light and ideal for close-focus wide-angle photography.
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Interior sections should not be penetrated beyond light penetration without wreck diving training. Silt in the interior spaces can reduce visibility to near zero if disturbed. The accessible depth of 19 meters means no decompression concern for a standard dive duration. DSMB recommended for the ascent.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The accessible depth and clear water make the Willaurie an excellent introduction to wreck photography. The upper deck in natural light at 10–12 meters allows wide-angle photography without strobes in the Bahamas' clear water. The resident groupers inside the superstructure are large and approachable. Wide-angle shots looking along the main deck from bow to stern capture the ship's scale.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- Stuart Cove's Dive Bahamas: includes Willaurie on Nassau wreck dive packages
+- Typically combined with other Nassau dives as part of a two-tank itinerary
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

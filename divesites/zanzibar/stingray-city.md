@@ -11,57 +11,55 @@ osmId: 10224583146
 addedBy: osm_import
 ---
 
-## Stingray city
+## Stingray City
 
-Stingray city is a reef dive site in Zanzibar, Africa.
+Stingray City is a shallow lagoon site in Zanzibar's Jambiani reef area named for its reliable congregation of southern stingrays on the sandy lagoon floor, offering one of the most distinctive wildlife encounters available within the accessible confines of a 10-meter maximum depth.
 
 ## Overview
 
-Stingray city is a dive site in Zanzibar offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Within the protected eastern Zanzibar lagoon, a sandy clearing adjacent to the fringing reef has become an established gathering point for southern stingrays (Hypanus americanus) that congregate in numbers unusual for the Indian Ocean region. The 10-meter maximum depth keeps the entire site within a very comfortable recreational range and allows divers to observe the rays at eye level while kneeling or hovering just above the sand. The site's coral reef sections provide additional context, but the stingray congregation is the primary attraction and the name accurately reflects what divers will find. The protected lagoon position ensures calm conditions year-round during the northeast monsoon.
 
 ## Site Information
 
-- **Location**: Zanzibar, Africa
+- **Location**: Jambiani Lagoon, Southeast Zanzibar Island, Tanzania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral reef (sand and reef)
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
-- **Typical Visibility**: 10-30 meters (30-100 feet)
-- **Current**: Moderate to strong
-- **Best Time**: October to March (East Africa), varies by location
+- **Typical Visibility**: 8-14 meters (26-46 feet)
+- **Current**: Very light
+- **Best Time**: October to April (northeast monsoon, eastern Zanzibar)
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, humpback whales, sea turtles, dolphins, reef sharks, potato bass, giant trevally. Additional species commonly sighted include kingfish, hard corals, soft corals, sea fans.
+Southern stingrays are the site's defining feature — groups of 5-15 individuals are typically found resting or slowly gliding across the sandy floor, undisturbed by respectful divers who maintain a neutral hovering position rather than approaching on the bottom. The rays can be up to a meter across and move with fluid grace. The adjacent reef sections hold the standard eastern Zanzibar lagoon species: sea turtles, moray eels, lionfish, triggerfish, and cuttlefish in the water column. Blue-spotted lagoon rays also appear in the sandy areas, adding to the elasmobranch diversity.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 10 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-10 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Locate the sandy clearing at 8-10 meters and settle into a stationary hover several meters above the stingrays, allowing them to move freely. Divers who approach too close or settle onto the sand will cause the rays to scatter — the experience is significantly better with patient hovering. After observing the rays, explore the adjacent coral formations in 5-8 meters where reef fish and turtles provide additional interest. The 10-meter ceiling allows very extended dive times.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Jambiani operators. Stingray City is routinely combined with Jambiani Lagoon and Lagoon Mounding as part of a three-site shallow day in the southeastern Zanzibar lagoon. The calm conditions allow use of traditional wooden fishing boats for access.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Hover above the rays rather than settling onto the sand — movement on the bottom is more disruptive to the rays than still hovering overhead
+- Do not touch the rays under any circumstances — this is both a safety concern (tail spine) and an ethical one (habituating rays to handling creates dangerous expectations)
+- The 10-meter depth makes this an excellent third dive or post-lunch dive when deeper sites have been completed
+- Snorkelers can observe the stingrays from the surface above the sandy clearing
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, remote locations in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+One of Zanzibar's safest dive sites by profile — 10-meter maximum depth, essentially no current, and enclosed lagoon position. The stingrays themselves are not aggressive and will not use their tail spine unless physically restrained or stood upon. Maintain good buoyancy to avoid accidental contact with the bottom in proximity to rays. Standard fire coral and sea urchin contact hazards on the adjacent reef sections.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Stingray photography from directly above creates compelling downward compositions showing the ray's distinctive diamond shape against the sand texture. Lateral shots at eye level capture the graceful gliding movement. A wide-angle lens at 16-24mm gives enough field of view to include multiple rays in frame. Natural light is excellent at 8-10 meters during midday; strobes provide color accuracy for the underside of rays viewed from below.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

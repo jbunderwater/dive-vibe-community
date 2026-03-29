@@ -13,54 +13,55 @@ addedBy: osm_import
 
 ## Blue Hole
 
-Blue Hole is a cave dive site in Red Sea, Middle East.
+The Blue Hole at Dahab is arguably the most famous — and most notorious — dive site in the Red Sea. This natural underwater sinkhole, located just a few kilometers north of Dahab on the Sinai Peninsula, descends vertically to beyond 100 meters and is renowned in equal measure for its stunning beauty and its sobering safety history.
 
 ## Overview
 
-Blue Hole is a dive site in Red Sea featuring underwater cave and cavern formations. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The Blue Hole is a roughly circular sinkhole approximately 60 meters across, opening at the surface and dropping through a near-vertical shaft past 100 meters. A shallow underwater arch — known as "The Arch" or "The Saddle" — connects the inside of the hole to the open sea at around 52–56 meters depth, and this feature has drawn technical and deep divers from around the world, sometimes fatally. The rim of the hole sits just below the surface, and the inside walls are coated with soft and hard corals supported by the light filtering down from above. Around the outside of the hole on the reef, the wall drops away into deep blue water. The site is shore accessible and is one of the most visited dive sites in Egypt. Visibility inside the hole is typically 30–50 meters.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Location**: Red Sea, Egypt
+- **Entry Type**: Boat dive (also shore accessible)
+- **Site Type**: Cave / Sinkhole
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 100 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
+- **Maximum Depth**: 100 meters (The Arch at 52–56 m; recreational limit 40 m)
+- **Typical Visibility**: 30–50 meters (100–165 feet)
+- **Current**: Minimal inside; moderate along outer wall
 - **Best Time**: September to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+Despite the depth and exposure, the Blue Hole supports rich reef life. Inside the hole, reef fish including anthias, wrasse, and butterflyfish populate the upper sections, while the walls host coral formations to considerable depth. On the outer reef beyond the hole, the sloping wall and adjacent areas see humphead wrasse, turtles, and occasional pelagics. The sandy plateau at the top of the sinkhole rim is a reliable area for eagle rays and barracuda.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 100 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+For recreational divers, the dive plan should remain above 40 meters. Descend inside the hole and explore the interior walls and coral, staying well above The Arch. The outer reef plateau at 5–20 meters offers an entirely satisfying dive without approaching technical depths. Advanced divers may penetrate deeper, but The Arch is a technical dive requiring appropriate training, trimix gas, and specialist guides. Safety stops at 5 meters are conducted inside or at the reef edge.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Shore entry from the reef flat adjacent to the Blue Hole is possible, as is boat access. Many divers enter via the sandy beach area and wade to the sinkhole rim. Exit via the reef flat or boat.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Recreational diving inside the Blue Hole above 40 meters is stunning in its own right — do not feel pressure to approach The Arch
+- The Arch at 52–56 meters is a technical dive — not for recreational divers regardless of experience
+- Hire a reputable local guide who dives the site regularly
+- Early morning offers the best light penetration into the hole from above
+- The site is extremely popular — arrive early or on a weekday for fewer crowds
+- Never dive this site alone
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The Blue Hole has claimed a disproportionate number of diver fatalities due to narcosis, attempting The Arch beyond personal limits, and failure to monitor depth. The site demands strict personal discipline. Recreational divers must enforce a hard 40-meter limit. Technical divers should only attempt The Arch with specific training, appropriate gases, and experienced guides. Currents along the outer wall can be moderate. Always dive with a buddy and carry an SMB.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Inside the hole, shooting upward toward the circular opening above creates extraordinary ambient light silhouette photographs. Coral-covered walls with fish life make compelling wide-angle subjects. The outer reef wall and plateau around the hole also offer excellent standard reef photography.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

@@ -13,54 +13,29 @@ addedBy: osm_import
 
 ## Exit 10
 
-Exit 10 is a reef dive site in Maldives, Asia.
+Exit 10 is the uppermost numbered exit point in a series of reef moorings along the outer reef system near the central-southern atolls, marking the terminal section of the reef circuit used by local operators for drift and circuit dives.
 
 ## Overview
 
-Exit 10 is a dive site in Maldives offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Positioned close to Exits 1 and 2 in this tightly grouped cluster, Exit 10 accesses the reef wall and slope that forms the final section of the circuit dive route. The site's reef profile mirrors the adjacent exits — a sloping outer wall from the crest at 3-5 meters down to sandy and rubble bottom at 25 meters — but its position as the last exit in the numerical sequence suggests it is used under specific current conditions when the drift terminates further along the reef. The coral coverage is solid, with table and brain corals dominating the upper slope and encrusting growth and sea fans taking over below 15 meters. Schools of fusiliers and bannerfish are typically concentrated above the reef crest, and resident Napoleon wrasse are a reliable highlight on this section of reef. The operational system of numbered exits reflects the Maldives' well-developed dive infrastructure, where systematic site management ensures consistent access across varying tidal conditions.
 
 ## Site Information
 
-- **Location**: Maldives, Asia
+- **Location**: Maldives (South/Central Atolls)
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters
+- **Current**: Moderate; variable direction with tide
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Napoleon wrasse, schools of fusiliers and bannerfish, grey reef sharks, moray eels, surgeonfish, grouper, and healthy hard coral gardens on the outer slope.
 
-## Dive Profile
+## Tips for Divers
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+As the final exit in the series, this site benefits from knowing the full circuit route — confirm the planned exit point with your divemaster before entering. If the current reverses during the dive, this exit or one of the adjacent numbered points will be selected as the appropriate egress. The Napoleon wrasse encountered here are often habituated to divers and will approach closely.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

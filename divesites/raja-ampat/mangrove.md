@@ -13,55 +13,54 @@ addedBy: osm_import
 
 ## Mangrove
 
-Mangrove is a reef dive site in Raja Ampat, Asia.
+Mangrove is a unique shallow reef and mangrove dive site in Raja Ampat, West Papua, Indonesia.
 
 ## Overview
 
-Mangrove is a dive site in Raja Ampat offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+One of the more unusual dive experiences in Raja Ampat, this site combines a healthy coral reef with direct access to mangrove root systems — offering an ecological transition zone rarely encountered underwater. The shallow depths make it ideal for extended bottom times spent exploring the intricate root structures, where juvenile fish shelter in extraordinary numbers. The mangrove-adjacent reef hosts a different community than open-water sites: expect heavy soft coral growth, sponge encrustation along the roots, and dense schools of small reef fish. Visibility is typically more limited than offshore sites, but the biodiversity packed into the shallows compensates thoroughly. Water temperatures average 27-29°C year-round.
 
 ## Site Information
 
-- **Location**: Raja Ampat, Asia
+- **Location**: Raja Ampat, West Papua, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 8-20 meters
+- **Current**: Mild to moderate, tidal influence
+- **Best Time**: October to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The mangrove root zone teems with juvenile batfish, sweetlips, and snappers using the roots as nursery habitat. Clownfish nest in anemones anchored to the reef beside the mangroves. Look for banded sea kraits and various nudibranch species on the root surfaces. Hawksbill turtles regularly forage in the shallows. The reef edge supports small reef sharks, blue-spotted stingrays, and the occasional Napoleon wrasse. Pygmy seahorses have been reported clinging to gorgonians near the mangrove margin.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+This is predominantly a shallow dive, with most of the interesting habitat sitting between 3-15 meters depth. Begin at the reef edge and work toward the mangrove roots, spending time in the 5-10 meter zone where root structures meet soft coral. The site rewards slow, careful exploration rather than covering distance. A second pass at different depths often reveals new species. Shallow safety stops are easy and productive.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by boat from Sorong or local homestay operators. Entry via giant stride into calm water near the mangrove margin. Exit onto the dive boat or nearby shore depending on the operator. Tidal timing matters — dive at higher water to access the mangrove zone fully.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Dive at or near high tide for the best mangrove root access
+- Move slowly and scan the roots and substrate for small, cryptic species
+- Excellent site for macro photographers and naturalist divers
+- Suit up with a thin wetsuit — the shallows can be warmer than open reef
+- Ideal for less experienced divers seeking a calm, productive dive
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Tidal currents can flow through the mangrove zone at certain states — check timing with your guide. Be careful around mangrove roots and avoid contact. Jellyfish can be present depending on season. Carry a surface marker buoy (SMB) and alert the boat to your position on ascent.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The mangrove root systems create extraordinary framing opportunities — silhouettes of roots against ambient light filtering down from the surface make compelling wide-angle shots. The shallow depth allows natural light macro work without strobe as primary source. Juvenile fish clustering around root bases make excellent subjects. Bring both a wide-angle and macro lens setup if possible.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

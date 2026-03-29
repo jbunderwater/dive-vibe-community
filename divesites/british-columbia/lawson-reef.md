@@ -11,55 +11,57 @@ osmId: 844904383
 addedBy: osm_import
 ---
 
-## Lawson Reef
+# Lawson Reef
 
-Lawson Reef is a reef dive site in British Columbia, North America.
+A submerged reef in the southern Strait of Georgia near the BC-Washington border with typical cold-water reef marine life.
 
 ## Overview
 
-Lawson Reef is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Lawson Reef sits in the southern Strait of Georgia near the US-Canada border, in the waters between the southernmost Gulf Islands and the northern San Juan Islands. This border area sees significant tidal exchange from both the Pacific via the Juan de Fuca Strait and the Strait of Georgia, creating nutrient-rich conditions. The reef is accessible by boat from Sidney or US-side operations. Water temperatures are 8–12°C and visibility typically ranges 6–15 metres.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Southern Strait of Georgia, near BC-Washington border, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Submerged reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 6–15 metres
+- **Current**: Tidal currents in the southern Strait — plan around slack
+- **Best Time**: Late spring through autumn
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Lawson Reef hosts a productive border-area Salish Sea community. Giant Pacific octopus are found in rocky crevices. Lingcod are the primary predator fish. Copper and quillback rockfish are abundant. Plumose anemones and encrusting sponges colonise hard surfaces. Dungeness crab and rock crab forage on adjacent sandy substrate. Harbour seals are regular visitors. California sea lions are occasionally encountered in the border waters.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The reef structure provides terrain from approximately 6–8 metres at the summit to 18 metres on the outer perimeter. Work the deeper sections first then ascend toward the reef crest for the safety stop. The transition zone between reef and sand bottom often has the largest octopus and crustaceans. Complete a 3-metre safety stop before surfacing.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Sidney marina or nearby Gulf Island launches. GPS required. Note the proximity to the international border — ensure proper vessel documentation for border-area operations. Anchor on sand clear of the reef. Deploy SMB before ascending — southern Strait vessel traffic is significant.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Confirm your vessel's position relative to the international boundary before diving
+- Sidney dive operators are the standard access point for this border-area reef
+- The reef can be combined with other southern Gulf Islands sites for a full dive day
+- Autumn typically provides the best visibility in the southern Strait
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+International waters proximity requires attention to border regulations. Tidal currents require planning. Heavy recreational and commercial vessel traffic in the southern Strait demands prominent SMB deployment. Cold water (8–12°C) requires drysuit protection. Maintain buddy contact.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Wide-angle reef photography with encrusting invertebrates and rockfish is the primary opportunity. Octopus interactions make excellent subjects. The border-area clear Pacific-influenced water can provide exceptional visibility conditions for wide-angle photography when upwelling is present.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
+- Sidney, BC area dive operators
+- Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

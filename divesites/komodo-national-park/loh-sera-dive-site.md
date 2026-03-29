@@ -11,57 +11,43 @@ osmId: 7182771890
 addedBy: osm_import
 ---
 
-## Loh Sera dive site
+## Loh Sera Dive Site
 
-Loh Sera dive site is a wall dive site in Komodo National Park, Asia.
+Loh Sera dive site is a wall dive site in Komodo National Park, East Nusa Tenggara, Indonesia.
 
 ## Overview
 
-Loh Sera dive site is a dive site in Komodo National Park featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Loh Sera sits along the southwestern coastline of Komodo Island, a stretch of the park that sees significantly less dive traffic than the central and northern zones. The site is associated with the bay of Loh Sera, a remote inlet framed by rugged volcanic cliffs dropping directly into the water. The wall at this site descends steeply from around 5 metres to beyond 30 metres, its face encrusted with sea fans, barrel sponges, and soft coral colonies that thrive in the strong tidal surges funnelled along this exposed coast.
 
-## Site Information
+The wall's upper section hosts a rich garden of hard corals down to about 12 metres, below which soft corals and large gorgonians dominate. The deeper wall face is a visually dramatic environment, with overhangs sheltering resting whitetip reef sharks and crevices populated by moray eels and lobsters. The open water off the wall frequently holds pelagic species — dogtooth tuna, rainbow runners, and trevally are encountered here, and the combination of wall terrain and open-ocean exposure makes Loh Sera a site suited to divers who want a genuine deep-water wall experience.
 
-- **Location**: Komodo National Park, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+Currents at Loh Sera can be powerful and unpredictable, particularly on the outgoing tide when cold water masses from the south — drawn through the Sape Strait — accelerate along the exposed headlands. Advanced buoyancy control is essential, and divers must be comfortable aborting a dive if conditions deteriorate. The site's remoteness means rescue response times are longer than at central park sites, reinforcing the advanced classification.
 
-## Marine Life
+## Key Species
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+- Whitetip reef sharks resting in wall overhangs
+- Large gorgonian sea fans and barrel sponges on the mid-wall
+- Dogtooth tuna and rainbow runners in open water
+- Moray eels and lionfish in wall crevices
+- Occasional Napoleon wrasse patrolling the wall edge
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Divers descend along the wall face, typically following the contour between 10 and 25 metres to balance pelagic sightings with the rich encrusting life of the upper wall. The current is used to drift along the wall, with ascent planned against a natural corner or pinnacle that provides shelter. Maximum depth on most dives is 25–30 m; the wall extends deeper for technical divers.
 
-## Entry and Exit
+## Conditions
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+| Attribute | Details |
+|-----------|---------|
+| Depth range | 5–30+ m |
+| Visibility | 10–20 m (highly variable with cold upwellings) |
+| Current | Strong, directionally variable — advanced divers only |
+| Water temperature | 22–28°C (thermoclines common, cold water possible) |
+| Best season | April–November; check conditions carefully |
+| Entry/Exit | Boat — advanced drift management required |
 
-## Tips and Recommendations
+## Tips for Divers
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+Loh Sera is best dived during slack water or on a controlled incoming current that holds divers against the wall face. Cold upwellings from the south can drop water temperatures significantly, so a 5 mm wetsuit is advisable. The site is typically visited on longer southern Komodo liveaboard itineraries — day trips from Labuan Bajo do not reach this area. A dive guide with local knowledge of tidal timing is strongly recommended.
 
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

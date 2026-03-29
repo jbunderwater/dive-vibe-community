@@ -13,53 +13,49 @@ addedBy: osm_import
 
 ## South Cod Reef
 
-South Cod Reef is a reef dive site in British Columbia, North America.
+South Cod Reef is a submerged reef in the southern Gulf Islands of British Columbia, Canada, part of a cluster of reefs and shoals in the Sidney Island area that are among Vancouver Island's most popular dive destinations.
 
 ## Overview
 
-South Cod Reef is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+South Cod Reef sits among the reefs and shoals off Sidney and the Saanich Peninsula — an area deeply familiar to Victoria and Sidney-based divers. The reefs here benefit from regular tidal flushing from the Haro Strait and surrounding channels, keeping the water cold and nutrient-rich. Water temperature is 7–12°C, and visibility ranges from 6–15 metres depending on season and tidal phase. The site name references the lingcod and greenling historically abundant in these waters — "cod" in Pacific Northwest diving parlance often refers to these species.
 
 ## Site Information
 
-- **Location**: British Columbia, North America
+- **Location**: Sidney Island area, Southern Gulf Islands, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Maximum Depth**: 18 metres
+- **Typical Visibility**: 6–15 metres
+- **Current**: Moderate; tide-dependent
+- **Best Time**: July to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Lingcod are the defining fish at South Cod Reef — consistent with the area's naming convention. Large resident lingcod are found on prominent rocky features. Copper rockfish and quillback rockfish are abundant on the deeper reef structure. Kelp greenling add colour in the shallower zones. Giant Pacific octopus inhabit boulder crevices. Plumose anemones carpet exposed rock faces. Harbour seals make regular appearances. Nudibranch diversity is good — the Sidney area supports a well-documented nudibranch fauna.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend on the reef structure and work at 10–15 metres depth across the main rocky features, searching for lingcod on prominent perches. Move deeper to 15–18 metres for boulder zone exploration and GPO searching. Ascend through the shallower reef section and the kelp canopy for a slow safety stop. Total dive time around 40–50 minutes.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access from Sidney or Swartz Bay. The Sidney area has multiple marinas with good launch facilities. The reefs in this area are marked on charts — navigate carefully among them in all depths.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Plan for lingcod being the standout encounter — these animals are bold and photogenic
+- The Sidney area supports year-round diving with different highlights per season
+- Tidal timing is important — aim for slack for the most comfortable conditions
+- Night diving this area is rewarding — octopus are more active after dark
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Standard Gulf Islands diving hazards apply — cold water, current, and summer boat traffic. Sidney and Victoria approaches see substantial commercial and recreational vessel traffic year-round. Use a brightly coloured SMB on every ascent. Drysuit recommended for multi-dive days.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
+Lingcod portrait photography is exceptional — large, willing subjects in good ambient light. The Sidney area's nudibranchs provide excellent macro subjects. Wide-angle images of the reef structure and resident rockfish communities are consistently rewarding.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

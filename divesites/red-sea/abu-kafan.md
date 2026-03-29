@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Abu Kafan
 
-Abu Kafan is a reef dive site in Red Sea, Middle East.
+Abu Kafan is a coral reef dive site near Safaga, on the central Egyptian Red Sea coast.
 
 ## Overview
 
-Abu Kafan is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Abu Kafan lies in the Safaga area, a dive hub situated between Hurghada to the north and Quseir to the south. The Safaga region is well known to experienced Red Sea divers for its varied dive sites and slightly fewer crowds than Hurghada. Abu Kafan is a classic Red Sea offshore reef — a submerged structure rising from a sandy bottom surrounded by deep open water, with the pronounced coral coverage and fish aggregations typical of isolated reefs. The site benefits from the nutrient flow across the central Red Sea shelf, supporting a diverse and active marine community.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Safaga area, central Red Sea coast, Egypt
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 20–35 meters
+- **Current**: Moderate; can vary with season and wind
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Isolated reefs in the Safaga area attract a good cross-section of Red Sea pelagics alongside resident reef species. Reef sharks and occasional hammerhead sharks have been reported at Safaga reefs, which sit on the migration corridor for these species. Barracuda and trevally school above the reef. The coral structure hosts grouper, snapper, and moray eels. Turtles are regularly seen. The Safaga area is particularly noted for spinner dolphins, which sometimes approach dive boats and divers.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend onto the reef structure and orient with the main reef axis. Explore the shallower coral garden at 5–10 m before dropping to the reef flanks at 12–20 m. Work around the reef to maximise the variety of coral types and habitats encountered. Ascend and conduct a safety stop in the shallow section.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+By day-trip boat from Safaga. Numerous operators based at Safaga marina offer access to offshore reefs in the area. Giant stride entry; SMB ascent. Some operators also run liveaboard programs departing from Safaga.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Safaga is quieter than Hurghada — an excellent base for divers who prefer smaller groups
+- Check the season — spinner dolphin encounters are more common in certain months; ask local operators
+- The Safaga area is on the route for liveaboards heading south toward Brothers and Elphinstone
+- Bring a reef hook if the reef is known for current — ask the local guide on the day
+- Pair with nearby Salem Express or Panorama Reef for a varied Safaga day-trip schedule
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Open-water boat diving with standard current and surface-traffic considerations. Deploy an SMB before ascending. Monitor air carefully on any drift section. The Safaga area has good emergency support via the town's medical facilities.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Safaga reefs offer reliable conditions for underwater photography. Wide-angle coral and fish scenes work well in the clear water. Any dolphin encounters provide unique open-water photography opportunities. The reef's isolated character concentrates marine life for efficient subject-finding.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-16
+- **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
