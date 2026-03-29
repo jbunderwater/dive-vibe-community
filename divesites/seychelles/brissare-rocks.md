@@ -17,7 +17,7 @@ Brissare Rocks is a pinnacle dive site in Seychelles, Africa.
 
 ## Overview
 
-Brissare Rocks is a dive site in Seychelles offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Brissare Rocks is a submerged granite pinnacle rising from the sandy seabed near Mahé, draped in hard and soft corals and surrounded by schools of snapper and fusiliers. The site tops out around 5 meters and drops to about 12 meters, making it accessible for intermediate divers while offering reliable sightings of hawksbill turtles and small whitetip reef sharks. Currents sweeping across the pinnacle attract pelagics including giant trevally and the occasional eagle ray.
 
 ## Site Information
 

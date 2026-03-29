@@ -17,7 +17,7 @@ Pyramiden Harbor is a reef dive site in Svalbard, Arctic.
 
 ## Overview
 
-Pyramiden Harbor is a dive site in Svalbard offering rewarding diving on healthy coral reef structures. Located in the Arctic region, this site offers 10-30 meters of visibility with water temperatures averaging -1 to 8°C.
+Pyramiden Harbor lies at the abandoned Soviet coal mining settlement of Pyramiden, a ghost town on Billefjorden that was abruptly evacuated in 1998 and has been preserved by the Arctic cold ever since. The harbour infrastructure, old moorings, and rocky substrate descend to 20 meters, with kelp forests reclaiming the industrial debris and cold-water invertebrates colonizing submerged structures. Accessible by boat from Longyearbyen between May and October when the fjord is ice-free, this site combines Arctic marine life with the eerie underwater remnants of a Soviet-era settlement beneath the pyramid-shaped mountain that gives the town its name.
 
 ## Site Information
 
