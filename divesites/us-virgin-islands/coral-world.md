@@ -32,7 +32,7 @@ Coral World sits off Coki Beach on St. Thomas's northeast coast, where a shallow
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Hawksbill turtles are well accustomed to regular human presence here, making close encounters nearly guaranteed at this nursery reef adjacent to the famous Coral World marine park. Juvenile spotted drums, baby reef fish sheltering in brain coral, parrotfish, and queen angelfish represent the diverse Caribbean reef community thriving in the calm, clear water off Coki Beach.
 
 ## Dive Profile
 

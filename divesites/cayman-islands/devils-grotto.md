@@ -32,7 +32,7 @@ Devil's Grotto is a labyrinthine reef formation of interconnected caverns, tunne
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+Devil's Grotto is famous for its summer silverside schools that fill the caverns with shimmering curtains of baitfish while tarpon slash through them in dramatic feeding frenzies. Outside silverside season, glassy sweepers and soldierfish pack the darker recesses, and the surrounding reef supports green sea turtles, French angelfish, and queen parrotfish — with sun shafts through the cavern roof creating some of the Cayman Islands' most striking light-play photography.
 
 ## Dive Profile
 

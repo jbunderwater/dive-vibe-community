@@ -32,7 +32,7 @@ De Palm Slope descends along a colorful reef wall off De Palm Island, featuring 
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The intentionally sunk Cessna aircraft wreck is colonized by soft corals and serves as an artificial habitat for grouper, moray eels, and parrotfish, while nurse sharks rest on the sandy patches beside the fuselage. Sea fans, plate corals, and encrusting sponges along the natural slope attract southern stingrays and the occasional hawksbill turtle in the calm leeward conditions off De Palm Island.
 
 ## Dive Profile
 

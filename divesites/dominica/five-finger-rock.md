@@ -32,7 +32,7 @@ Five Finger Rock is formed by a massive boulder that tumbled down the mountainsi
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Spotted eagle rays are a signature sighting at Five Finger Rock, gliding past the massive elephant ear, azure vase, and yellow tube sponges that cover the boulder formation. Squirrelfish, tobacco fish, angelfish, and flounders inhabit the sponge gardens, while sea turtles and southern stingrays are regularly found on the surrounding sand at the base of the structure.
 
 ## Dive Profile
 

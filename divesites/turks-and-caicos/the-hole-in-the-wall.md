@@ -32,7 +32,7 @@ The Hole in the Wall at Northwest Point is a narrow vertical crack in the reef t
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+Lobsters and small reef fish line the walls of the vertical crack, with brittle corals providing structure in the low-light passage. On the open wall outside the feature, tube sponges, elephant ear sponges, and massive barrel sponges host Caribbean reef sharks, eagle rays, and hawksbill turtles in the high-visibility Northwest Point waters.
 
 ## Dive Profile
 

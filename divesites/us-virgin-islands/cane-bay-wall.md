@@ -32,7 +32,7 @@ Cane Bay Wall is St. Croix's most celebrated dive, a vertical coral wall that be
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The wall face is covered in black coral trees, massive barrel sponges, and branching black wire coral that shelter reef sharks, groupers, and moray eels in the deeper sections. Vast schools of creole wrasse and black durgon populate the mid-water, and the dramatic sheer drop — one of the steepest near-shore walls in the Caribbean — occasionally draws whale sharks into view in the open blue below.
 
 ## Dive Profile
 

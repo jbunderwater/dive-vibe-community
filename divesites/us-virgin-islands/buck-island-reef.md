@@ -32,7 +32,7 @@ Buck Island Reef National Monument off St. Croix's northeast coast encompasses o
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Green sea turtles — which nest on Buck Island's protected beaches — are a fixture in the water, grazing through the staghorn, brain, and elkhorn coral formations in the warm shallows. Dense aggregations of stoplight parrotfish, blue tangs, queen angelfish, and virtually every common Caribbean reef species populate the monument's protected elkhorn barrier reef, and spotted eagle rays patrol the sandy lagoon between the reef and shore.
 
 ## Dive Profile
 

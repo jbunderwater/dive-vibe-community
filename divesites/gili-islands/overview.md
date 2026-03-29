@@ -27,7 +27,7 @@ Gili Islands is a notable diving destination in the Asia region, offering 20 doc
 ### Marine Life & Environment
 
 - **Water Conditions**: Water temperatures range from 26-30°C (79-86°F) with visibility of 10-40 meters (30-130 feet). Currents are generally variable, can be very strong.
-- **Marine Biodiversity**: The waters support diverse marine ecosystems including manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish, nudibranchs, frogfish.
+- **Marine Biodiversity**: The waters support diverse marine ecosystems including sea turtles, reef sharks, seahorses, nudibranchs, cuttlefish, octopus.
 - **Conservation**: Marine protected areas help preserve the reef ecosystems and regulate diving activities.
 
 ## Additional Information

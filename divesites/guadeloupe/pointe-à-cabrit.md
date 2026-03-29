@@ -32,7 +32,7 @@ Pointe à Cabrit is a dive site within the Cousteau Reserve surrounding Pigeon I
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Protected Cousteau Reserve status has produced notably dense fish populations here, with hawksbill turtles, French angelfish, parrotfish, and diodons (porcupinefish) present in good numbers around the elkhorn and staghorn coral formations. Octopus hunt in the shallower sections, and the large barrel sponges that characterize the site shelter moray eels, cleaner shrimp, and Caribbean lobsters throughout the accessible 15-metre depth range.
 
 ## Dive Profile
 

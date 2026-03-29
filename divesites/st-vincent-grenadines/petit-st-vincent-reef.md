@@ -32,7 +32,7 @@ Petit St. Vincent Reef surrounds the private island of PSV in the southern Grena
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The long-protected reef supports attentive macro finds including spotted drum, scorpionfish, flamingo tongue snails, and frogfish nestled among the brain, elkhorn, and pillar coral heads. Hawksbill turtles and eagle rays visit regularly from the open water, and nurse sharks are commonly found resting beneath coral overhangs in the deeper sections near the gentle drop-offs.
 
 ## Dive Profile
 

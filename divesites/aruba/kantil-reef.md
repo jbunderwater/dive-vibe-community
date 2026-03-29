@@ -32,7 +32,7 @@ Kantil Reef is one of Aruba's most dramatic wall dives, where a coral-covered sl
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Eagle rays and large Caribbean reef sharks cruise the blue water off the wall edge, while green moray eels, spotted drums, and hawksbill turtles inhabit the boulder crevices and overhangs on the deeper sections. The enormous barrel sponges and sea fans provide structure for reef fish throughout the sloping coral reef, with visibility regularly hitting 25 metres in the clear southern Caribbean water.
 
 ## Dive Profile
 

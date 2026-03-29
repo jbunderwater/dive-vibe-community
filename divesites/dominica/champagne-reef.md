@@ -32,7 +32,7 @@ Champagne Reef is one of the most distinctive dive sites in the Caribbean — an
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Champagne Reef is renowned for its macro life, with seahorses clinging to coral rubble near the vent fields, octopuses hunting in the shallows, and moray eels weaving through the sponge-encrusted rock faces. Parrotfish, angelfish, and creole wrasse are abundant throughout, and the warm hydrothermal vent areas attract smaller crustaceans and unusual invertebrates not typical of standard Caribbean reefs.
 
 ## Dive Profile
 

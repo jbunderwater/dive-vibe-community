@@ -32,7 +32,7 @@ Lighthouse is a wall dive at the northeastern tip of Malapascua, directly below 
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Lighthouse is a rewarding wall for pelagic encounters, with hawksbill turtles cruising the sea fan- and crinoid-draped wall face as a near-constant presence. The exposed point draws thresher sharks from deeper water on early morning dives, particularly when current is running, and grey reef sharks and barracuda are regular mid-water visitors. Crevices in the wall shelter moray eels, lionfish, and smaller reef fish that provide macro interest between the bigger-animal sightings.
 
 ## Dive Profile
 

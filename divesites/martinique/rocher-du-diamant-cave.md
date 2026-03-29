@@ -32,7 +32,7 @@ The underwater cavern at Rocher du Diamant is a triangular cave formation cut in
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+The cavern's interior shelters moray eels, crustaceans, and glassy sweepers that congregate where light beams filter through the triangular opening, while hawksbill turtles are regular visitors to the surrounding basalt reef. Sea fans, soft corals, and sponges cover the cavern walls and adjacent reef, providing habitat for French angelfish, parrotfish, and spiny lobsters in the crevices of the volcanic rock.
 
 ## Dive Profile
 

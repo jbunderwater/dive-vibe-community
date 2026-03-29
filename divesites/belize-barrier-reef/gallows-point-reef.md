@@ -32,7 +32,7 @@ Gallows Point Reef is a five-mile section of the barrier reef located off St. Ge
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Critically endangered hawksbill sea turtles are frequently sighted here and are a key reason the site is recognized as important protected habitat. Spotted eagle rays, snappers, groupers, angelfish, and trumpetfish populate the gorgonian-draped wall and canyons, while garden eels sway from the sandy slope below and jawfish tend their burrows in the softer substrate.
 
 ## Dive Profile
 

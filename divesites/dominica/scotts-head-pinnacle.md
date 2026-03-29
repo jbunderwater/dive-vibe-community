@@ -32,7 +32,7 @@ Scotts Head Pinnacle is one of Dominica's most famous dive sites, located where 
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The Soldierfish Cave swim-through is packed with blackbar soldierfish and grunts, while the pinnacle walls are draped in deepwater sea fans, colorful gorgonians, and sponges. Hawksbill turtles, arrow crabs, peacock flounders, and spiny lobsters inhabit the crevices of the steep volcanic crater wall, and the convergence of Caribbean and Atlantic currents draws occasional larger pelagics past the site.
 
 ## Dive Profile
 

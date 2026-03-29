@@ -32,7 +32,7 @@ Malmok Reef is a shallow, protected shore dive on Aruba's western coast where a 
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The shallow nursery ground hosts neon gobies, baby trumpetfish, juvenile French angelfish, and small peacock flounders among the scattered coral heads — outstanding macro subjects in a beginner-friendly setting. Night dives add octopus and Caribbean spiny lobster emerging from the reef rubble after dark, making this one of Aruba's most productive sites for cryptic species observation.
 
 ## Dive Profile
 

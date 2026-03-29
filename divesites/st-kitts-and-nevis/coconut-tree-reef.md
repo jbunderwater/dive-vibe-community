@@ -32,7 +32,7 @@ Coconut Tree Reef is one of the largest reef structures off St. Kitts, starting 
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The large barrel coral structures and sand grottos shelter dense populations of grunts, snappers, and small groupers, with nurse sharks resting in the shallower crevices and spotted morays weaving through the deeper reef sections. Southern stingrays and eagle rays cruise the lower slope, lobsters are found under ledges throughout, and the pristine coral coverage supports hawksbill turtles and an abundance of smaller reef fish on the upper sections.
 
 ## Dive Profile
 

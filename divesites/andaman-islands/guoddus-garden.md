@@ -32,7 +32,7 @@ Guoddus Garden is a reef dive site near Havelock Island in the Andamans, featuri
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The coral garden supports the rich fish diversity typical of Ritchie's Archipelago, with grouper, angelfish, parrotfish, and batfish among the common encounters across the reef structures. Lionfish and moray eels are regularly spotted in the crevices of the coral formations, while trevally and Napoleon wrasse cruise the mid-water. With over 1,200 fish species recorded in the Andamans, careful observation of the reef often reveals nudibranchs and smaller critters alongside the larger schooling fish.
 
 ## Dive Profile
 

@@ -32,7 +32,7 @@ Coral Gardens Soufrière sits at the base of the towering Gros Piton along a ste
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The kaleidoscopic sponge garden — azure vase sponges, large barrel sponges, canary yellow boring sponge, and tan tube sponges — is alive with chromis, grunts, soldierfish, squirrelfish, and feather stars throughout the dive. Hawksbill turtles move between the sponge-covered boulders, and scorpionfish are known to lurk camouflaged among the encrusting growth on the slope's darker ledges.
 
 ## Dive Profile
 

@@ -32,7 +32,7 @@ Unawatuna Coral Reef lies within the protected bay of Unawatuna near Galle on Sr
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Hawksbill turtles are the signature encounter here, regularly seen resting on the coral or feeding on sponges in the 8–15 meter range. The fringing reef supports dense schools of chromis around coral heads, alongside resident lionfish, porcupinefish, and parrotfish grazing the shallower sections. Moray eels and scorpionfish are found tucked into reef crevices, and the coral rubble areas between heads reward patient macro photographers with nudibranchs and small crustaceans.
 
 ## Dive Profile
 

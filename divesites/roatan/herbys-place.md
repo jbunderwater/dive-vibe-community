@@ -32,7 +32,7 @@ Herby's Place sits at West Bay Point on Roatan's south shore, a reef dive that s
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Garden eels wave from sandy patches between the coral outcroppings, southern stingrays rest on the bottom, and nurse sharks shelter under coral heads throughout the reef. Sea turtles are regular visitors and hogfish patrol the mid-water, while the barrel sponges and star coral heads provide habitat for moray eels, spotted drum, and Caribbean spiny lobsters in the reef's lower sections.
 
 ## Dive Profile
 

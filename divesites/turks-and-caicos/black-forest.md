@@ -32,7 +32,7 @@ Black Forest takes its name from a dense stand of black coral — both pinnate a
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The dense stand of black coral between 21 and 27 metres is the site's defining feature, sheltering moray eels and crustaceans in its intricate branches alongside the gorgonian fans and plate corals. Sea turtles and large groupers pass the wall regularly, while schools of grunts and parrotfish work the shallower reef above the dramatic drop-off.
 
 ## Dive Profile
 

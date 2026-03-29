@@ -32,7 +32,7 @@ Cabrits Drop is a steep volcanic wall off the Cabrits Peninsula in northern Domi
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The volcanic wall and boulder swim-throughs at Cabrits attract hawksbill turtles, large feather stars, and creole wrasse in substantial numbers, while the barrel sponges and encrusting corals harbor sergeant majors and resident moray eels. Spotted eagle rays and barracuda patrol the open water off the wall face, and the cave-like spaces beneath the boulders are worth checking for lobsters and squirrelfish.
 
 ## Dive Profile
 

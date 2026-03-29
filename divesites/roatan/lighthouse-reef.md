@@ -32,7 +32,7 @@ Lighthouse Reef at West Bay is one of Roatan's most-dived sites for good reason 
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Hawksbill turtles, southern stingrays, and the occasional eagle ray are regular visitors to both the reef top and the wall face, while the sandy patches are productive for macro subjects including garden eels and small flatfish. The protected Roatan Marine Park status means reef fish populations are notably dense, with parrotfish, angelfish, blue chromis, and large barrel sponges that shelter moray eels and Caribbean lobsters throughout.
 
 ## Dive Profile
 

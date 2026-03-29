@@ -32,7 +32,7 @@ Manta's City is a shallow patch reef site within Providencia's UNESCO-protected 
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Large stony coral formations shelter schools of white snapper, sergeant majors, butterflyfish, and parrotfish, with sea turtles and nurse sharks cruising the reef edges alongside spotted eagle rays. The site's accessible depths and protected status within the Seaflower Biosphere Reserve mean the fish communities remain dense by Caribbean standards, typical of Colombia's finest reef system.
 
 ## Dive Profile
 

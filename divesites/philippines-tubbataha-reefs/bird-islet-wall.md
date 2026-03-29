@@ -32,7 +32,7 @@ Bird Islet Wall drops off the northern edge of Tubbataha's North Atoll in a shee
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Bird Islet Wall is a classic Tubbataha pelagic site, with grey reef sharks and hammerheads patrolling the blue beyond the wall and whale sharks occasionally cruising past in the Sulu Sea's famously clear water. Dense schools of trevally and barracuda work the wall edge where the current runs, while hawksbill turtles and napoleon wrasse are steady fixtures on the gorgonian-draped wall face. The pristine hard coral reef top, protected as part of the UNESCO World Heritage park, supports dense populations of reef fish with high species diversity.
 
 ## Dive Profile
 

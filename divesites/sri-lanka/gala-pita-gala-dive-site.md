@@ -32,7 +32,7 @@ Gala Pita Gala is a rocky reef shore dive near Unawatuna on Sri Lanka's south co
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Sea turtles are a reliable highlight, commonly found resting on the deeper boulders or grazing on algae and soft coral between the rock faces. The labyrinthine boulder habitat is excellent for macro species, with moray eels threading through crevices, frogfish perching camouflaged on sponge growth, and colourful nudibranchs scattered across the rock surfaces. Lionfish and scorpionfish are also present in the sheltered gaps between boulders, while small schools of chromis and anthias hover above the coral-encrusted outcrops.
 
 ## Dive Profile
 

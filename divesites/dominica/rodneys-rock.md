@@ -32,7 +32,7 @@ Rodney's Rock is Dominica's most celebrated critter dive, an outcrop north of Ji
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Rodney's Rock holds Dominica's record for seahorse sightings — up to 11 in a single dive — with batfish, frogfish, bumblebee shrimp, leaf fish, and ribbon eels in the sandy patches making it the island's premier critter dive. Spotted eagle rays and barracuda make occasional passes in the open water beyond the reef, and night dives reveal squid, lobsters, and crabs emerging from the barrel sponge and gorgonian-covered overhangs.
 
 ## Dive Profile
 

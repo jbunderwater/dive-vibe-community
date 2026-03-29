@@ -32,7 +32,7 @@ The Pinnacle on St. Croix's north shore is a dramatic geological formation on th
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Schools of yellowtail snappers and creole wrasse gather off the wall edge while jacks, permits, barracuda, and green morays inhabit the deeper spire systems and swim-throughs. Octopus and lobsters shelter in the craggy fissures between the pinnacles, and rays are regularly spotted gliding past the rock formations in the current-swept waters adjacent to Salt River Canyon.
 
 ## Dive Profile
 

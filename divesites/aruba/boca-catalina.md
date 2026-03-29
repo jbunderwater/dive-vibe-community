@@ -32,7 +32,7 @@ Boca Catalina is a sheltered bay on Aruba's calm leeward coast where a gently sl
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Green sea turtles graze on the seagrass with little concern for divers, making this one of Aruba's most reliable turtle encounter sites in the calm, shallow bay. Southern stingrays glide through the sandy lanes between coral heads, and the patch reef supports parrotfish, small angelfish, and reef fish typical of Aruba's protected western-coast shallows.
 
 ## Dive Profile
 

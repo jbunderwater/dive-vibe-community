@@ -32,7 +32,7 @@ Table Rock is a cavern and cave dive within Providencia's UNESCO Seaflower Biosp
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+Inside the cave and fissure system, spiny lobster, nurse sharks, and moray eels shelter in the low-light recesses alongside crustaceans adapted to the cave environment. On the outer reef walls at depth, sea turtles, eagle rays, schooling barracuda, and Caribbean reef sharks represent the full complement of Providencia's pristine barrier reef fauna.
 
 ## Dive Profile
 

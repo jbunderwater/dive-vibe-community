@@ -32,7 +32,7 @@ Johnson's Reef is an advanced drift dive site east of Havelock Island, where str
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Strong currents draw impressive aggregations of schooling barracuda and giant trevally over the coral-encrusted rock formations, with reef sharks patrolling the edges of the current line. Large pelagics including manta rays, eagle rays, and Napoleon wrasse cruise the nutrient-rich waters at depth, making this one of the more rewarding sites in the Havelock area for encounters with bigger species. The current-exposed reef structure also supports healthy growths of soft corals and sea fans that in turn shelter lionfish, grouper, and moray eels.
 
 ## Dive Profile
 

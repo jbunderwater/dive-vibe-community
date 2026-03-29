@@ -32,7 +32,7 @@ Anchor Point is a reef site off Kalpitiya on Sri Lanka's northwest coast, where 
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The old anchors and chain fragments scattered across the reef floor have become artificial reef structures colonised by moray eels, lionfish, and cuttlefish using the ironwork as shelter and hunting grounds. Parrotfish, grouper, and sea turtles are regular visitors to the surrounding coral outcrops, while barracuda and trevally school in the mid-water above the rocky bottom. Whale sharks have been reported in the Kalpitiya area during the November–March season when conditions bring productive waters to the outer reef.
 
 ## Dive Profile
 

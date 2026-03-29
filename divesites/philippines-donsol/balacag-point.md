@@ -32,7 +32,7 @@ Balacag Point is a shallow reef dive in the Donsol area, one of the less-explore
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Balacag Point's shallow reef community centres on the hard and soft coral garden, with damselfish, snappers, and groupers among the corals, and moray eels in the larger crevices. Hawksbill turtles and whitetip reef sharks are occasional sightings on the reef, and schools of fusiliers and anthias hover over the coral formations. The site sits close to the whale shark feeding zone in Donsol Bay, making proximity to the bay's famous butanding a notable additional draw for visitors to the area.
 
 ## Dive Profile
 

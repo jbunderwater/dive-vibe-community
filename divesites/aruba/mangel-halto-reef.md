@@ -32,7 +32,7 @@ Mangel Halto is a sheltered cove on Aruba's southeastern coast where a shore ent
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The small tugboat wreck in the lagoon is colonized with soft corals and attracts grouper, angelfish, and curious hawksbill turtles on most dives. The healthy outer reef supports parrotfish, moray eels, and spiny lobsters, and the less-trafficked southeastern location means unusually undisturbed coral coverage and calmer fish behaviour than at more popular north coast sites.
 
 ## Dive Profile
 

@@ -32,7 +32,7 @@ The Bat Cave at Buccament Bay is one of St. Vincent's most exhilarating dives: a
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+The cave environment shelters glassy sweepers, bigeye fish, and spiny lobsters that crowd the low-light interior, while a live colony of bats roosts in the cavern overhead. On the open-water exit side of the tunnel, cleaner wrasse stations, yellowtail snappers, and small parrotfish use the cave entrance as a safe refuge, and the occasional hawksbill turtle or nurse shark is spotted resting outside the passage.
 
 ## Dive Profile
 

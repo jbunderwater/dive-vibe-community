@@ -32,7 +32,7 @@ Lapus-Lapus is a submerged pinnacle rising from the sandy channel between Malapa
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Lapus-Lapus pinnacle acts as a congregation point, with schooling fusiliers, big-eye jacks, and barracuda orbiting the structure and blue-spotted ribbontail rays resting on the surrounding sand at 18 meters. Hawksbill turtles are commonly seen grazing on the hard coral-covered summit, and the current-polished surfaces harbour small nudibranchs and flatworms for macro-minded divers. When current is running across the exposed pinnacle, grey reef sharks occasionally appear in the blue at the edge of visibility.
 
 ## Dive Profile
 

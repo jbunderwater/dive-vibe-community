@@ -32,7 +32,7 @@ Bikanayos Rock (locally known as Picanayas) sits on the western face of Matinloc
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Bikanayos Rock is El Nido's best site for whitetip reef shark encounters, with the boulders' natural corridors and swim-throughs serving as regular resting spots where sharks can be observed closely at close range. Nutrient-rich currents sweeping past the exposed western face draw schooling barracuda, giant trevally, and mackerel that congregate in the eddy zones around the rock. Napoleon wrasse and hawksbill turtles are routine sightings on the surrounding reef structure.
 
 ## Dive Profile
 

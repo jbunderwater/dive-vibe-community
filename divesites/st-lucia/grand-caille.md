@@ -32,7 +32,7 @@ Grand Caille — Creole for "large reef" — is one of Soufrière's most dramati
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The wall and boulder zone host lobsters, frogfish, puffer fish, and spotted drums in the crevices, while trumpetfish, angelfish, butterflyfish, and lionfish patrol the mid-wall depths. Swarms of damselfish swirl over the shallower boulder sections, and sea turtles are regular visitors to the pristine brain coral and barrel sponge formations along the SMMA-protected wall.
 
 ## Dive Profile
 

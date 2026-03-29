@@ -32,7 +32,7 @@ Air Manis is one of Ambon Bay's top muck diving sites, located near a fishing pi
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Air Manis is one of Ambon Bay's finest muck sites, with the pier pilings and black sand slopes hosting flamboyant cuttlefish, giant frogfish, ghost pipefish, and crinoid crabs and clingfish in remarkable density. Massive schools of batfish and glassfish swirl beneath the pier structure, and mimic octopus and wonderpus are occasionally encountered working the sandy bottom. The site is consistently compared to Lembeh Strait for critter variety, and night dives here often produce different species again as nocturnal hunters emerge from the substrate.
 
 ## Dive Profile
 

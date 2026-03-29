@@ -32,7 +32,7 @@ Twin Reef is Port Barton's headline dive — two distinct parallel coral structu
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Twin Reef's hard coral sanctuary supports an abundant and approachable reef fish community, with butterflyfish, angelfish, and parrotfish crowding the healthy coral heads and clownfish defending their anemones throughout the site. Hawksbill turtles are frequently sighted on both reef structures, and the calmer current here makes them particularly relaxed and easy to observe. Deeper along the reef slope, whitetip reef sharks occasionally rest in the sandy passages between the two coral structures.
 
 ## Dive Profile
 

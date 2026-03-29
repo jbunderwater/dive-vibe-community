@@ -32,7 +32,7 @@ Mike's Reef is a structured coral formation off Aruba's western coast running fr
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Barracuda consistently hang suspended above the reef top while flamingo tongue cowries, spotted drums, and large roving parrotfish work the gorgonian forests and star coral formations. Hawksbill turtles visit the deeper sections, and the sandy channel between reef spurs is a productive area for southern stingrays in the clear western-coast conditions.
 
 ## Dive Profile
 

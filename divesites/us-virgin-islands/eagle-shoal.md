@@ -32,7 +32,7 @@ Eagle Shoal is a rarely visited gem on St. John's east end between Ram Head and 
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The Cathedral chamber and surrounding arches host dense concentrations of grunts, porkfish, spotted drums, Nassau grouper, and queen angelfish sheltering in the vibrant sponge-and-coral-encrusted structure. The open-ocean exposure draws eagle rays and sharks to the outer faces, while the protected interior tunnels and overhangs provide habitat for lobsters, moray eels, and hawksbill turtles.
 
 ## Dive Profile
 

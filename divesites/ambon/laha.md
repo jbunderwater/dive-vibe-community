@@ -32,7 +32,7 @@ Laha is a muck diving site on the northern shore of Ambon Bay near the airport r
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Laha is best known for its year-round population of flamboyant cuttlefish, which are seen regularly waddling across the volcanic black sand in their characteristic slow gait with skin rippling through vivid colour patterns. Rhinopias scorpionfish and Ambon scorpionfish are reliably present, and multiple frogfish species in various colour morphs sit motionless among the rubble across the 5–14 meter slope. Ornate ghost pipefish, ribbon eels, and diverse nudibranch species complete the exceptional macro inventory that makes this one of Ambon Bay's most productive muck sites.
 
 ## Dive Profile
 

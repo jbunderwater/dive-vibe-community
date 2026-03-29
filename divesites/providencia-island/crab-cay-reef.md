@@ -32,7 +32,7 @@ Crab Cay Reef surrounds the small crab-shaped islet within the Old Providence Mc
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Sea turtles, enormous southern stingrays, red snapper, surgeonfish, barracuda, and clownfish are encountered on virtually every dive in the crystal-clear 25-metre visibility water of this national park site. Dense fish populations — the result of consistent protection within Old Providence McBean Lagoon — mean blue tangs, parrotfish, and angelfish crowd the coral heads throughout the shallow reef.
 
 ## Dive Profile
 

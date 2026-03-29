@@ -32,7 +32,7 @@ Ka-Osting / Bantigue is a coral reef slope running along the western side of Mal
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Ka-Osting / Bantigue is a relaxed reef dive characterised by active cleaning stations where sweetlips and surgeonfish queue for attendant wrasses, providing close-up behavioural encounters at mid-depth. Sea turtles frequently rest on the coral heads here, and the sheltered position keeps the fish community relatively undisturbed and approachable. Reef fish diversity is high throughout the slope, with schools of snapper, groups of parrotfish, and nudibranchs scattered across the rubble sections.
 
 ## Dive Profile
 

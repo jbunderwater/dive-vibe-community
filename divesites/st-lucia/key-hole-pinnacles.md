@@ -32,7 +32,7 @@ Key Hole Pinnacles is one of St. Lucia's most celebrated dive sites, featuring f
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Seahorses and frogfish cling to the dense gorgonian sea fans and barrel sponges on the pinnacle faces, alongside trumpetfish, filefish, groupers, and pufferfish in the crevices. The currents channelling between the structures attract horse-eye jacks and barracuda in the open water, and the site has a remarkable reputation for rare pelagic visitors including whale sharks and ocean sunfish.
 
 ## Dive Profile
 

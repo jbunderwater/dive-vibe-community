@@ -32,7 +32,7 @@ Fairyland sits just off the rocky headland of West Pointe, south of Anse Chastan
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Large schools of horse-eye jacks, Bermuda chubs, and Creole wrasse crowd the sheltered boulder nooks, while hawksbill turtles and southern stingrays are regularly encountered in the reef's crevices. Octopuses are a notable highlight here, and the nutrient-flushed reef supports unusually vivid corals and sponges that give the site its name and provide habitat for parrotfish, chromis, and angelfish.
 
 ## Dive Profile
 

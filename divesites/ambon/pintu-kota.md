@@ -32,7 +32,7 @@ Pintu Kota, meaning "City Gate," is one of Ambon's most iconic dive sites, featu
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Pintu Kota's natural archway is draped in soft corals, sea fans, and gorgonians that shelter nudibranchs and small crustaceans along its structure, while schools of snappers, fusiliers, and jacks aggregate around the arch opening in the current. The surrounding reef slope on Ambon's south coast attracts barracuda, occasional reef sharks, and hawksbill turtles benefitting from the cleaner Indian Ocean water. The arch swim-through itself is a standout wide-angle photography subject, with sunlight shafting through the opening into the coral-lined chamber.
 
 ## Dive Profile
 

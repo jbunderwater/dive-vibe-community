@@ -32,7 +32,7 @@ Bequia's signature wall dive drops from a shallow reef top into the deep blue, d
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The vertical wall face is draped in black coral and large sponges that shelter moray eels and spiny lobsters in the deeper recesses, while large schools of creole wrasse and blue tangs fill the water column above the reef top. Hawksbill turtles are frequently seen cruising the wall, and spotted eagle rays make regular passes through the open water alongside the drop-off.
 
 ## Dive Profile
 

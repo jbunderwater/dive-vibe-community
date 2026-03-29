@@ -32,7 +32,7 @@ Bottle Reef takes its name from the rum and gin bottles discarded by soldiers st
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The volcanic sand and reef substrate makes this a standout critter site, with red-lipped batfish, flying gurnards, seahorses, frogfish, and yellowhead jawfish all reliably found here. Electric rays and peacock flounders patrol the sandy patches, while the coral growth harbors moray eels and banded coral shrimp for divers who slow down and search carefully.
 
 ## Dive Profile
 

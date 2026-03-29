@@ -32,7 +32,7 @@ Nick's Place is a deep wall dive along Providencia's barrier reef dropping to 40
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Caribbean reef sharks patrol the open blue along the wall edge while large black grouper hold at depth amid healthy Creole wrasse populations in the deeper sections. The shallower reef sections host parrotfish, moray eels, and angelfish, and sea turtles are regular visitors to the wall face in the exceptional warm, clear water of the Seaflower Biosphere Reserve.
 
 ## Dive Profile
 

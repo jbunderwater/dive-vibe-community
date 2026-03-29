@@ -32,7 +32,7 @@ The Wall at Northwest Point anchors the Northwest Point Marine National Park, wh
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Caribbean reef sharks are a near-constant presence along the wall, and horse-eye jacks — the signature fish of Northwest Point — typically circle divers during the safety stop beneath the boat. The magnificent formations of gold and purple tube sponges, elephant ear sponges, and towering barrel sponges host lobsters and moray eels, while sea turtles and eagle rays are regular throughout the drift.
 
 ## Dive Profile
 

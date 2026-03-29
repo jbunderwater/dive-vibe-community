@@ -32,7 +32,7 @@ St. Vincent's premier muck dive, Critter Corner sits in a sheltered bay near You
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The volcanic sand and eelgrass flats host an exceptional array of cryptic species including electric rays, flying gurnards, frogfish, and yellowhead jawfish — the species that define St. Vincent's "Critter Capital" reputation. Patient observers can also find rare red-banded lobsters, peacock flounders, and juvenile fish sheltering in the seagrass, making every dive a macro photographer's treasure hunt.
 
 ## Dive Profile
 

@@ -32,7 +32,7 @@ Named for an 18th-century anchor buried in its coral, Anchor Reef is consistentl
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The wall's crevices and overhangs are home to resident longsnout seahorses, frogfish, and moray eels, with black coral trees and gorgonian fans providing shelter throughout the drop-off. Hawksbill turtles are regular visitors in the shallower reef sections, while eagle rays and barracuda patrol the open blue beyond the wall edge.
 
 ## Dive Profile
 

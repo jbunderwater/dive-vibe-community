@@ -32,7 +32,7 @@ Turtle Reef is a crescent-shaped reef adjacent to turtle grass beds near Anse Ch
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Hawksbill and green turtles are a near-guarantee here, grazing on sponge growth along the pillar corals and barrel sponge structures — they are well accustomed to divers and allow very close approaches. Parrotfish, blue chromis, and damselfish populate the reef, and the deeper coral heads shelter moray eels and spiny lobsters in the calm, protected Soufrière Marine Management Area waters.
 
 ## Dive Profile
 

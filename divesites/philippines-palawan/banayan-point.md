@@ -32,7 +32,7 @@ Banayan Point at the southern tip of Matinloc Island is El Nido's go-to site for
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Banayan Point is El Nido's top site for current-driven pelagic encounters, with strong channeling currents funneling schools of dogtooth tuna, giant trevally, and Spanish mackerel past the coral-encrusted boulders. Whitetip reef sharks and grey reef sharks are regular visitors when current is running, and barracuda stack up in the eddy behind the point. The boulders themselves shelter moray eels, lionfish, and small grouper for divers who work the structure between the bigger-animal action.
 
 ## Dive Profile
 

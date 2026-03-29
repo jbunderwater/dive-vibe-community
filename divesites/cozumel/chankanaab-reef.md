@@ -32,7 +32,7 @@ Chankanaab Reef fronts the protected national park of the same name at kilometre
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Long-snout seahorses, spotted drum, and parrotfish are common throughout the shallow reef, and green and hawksbill turtles rest on the coral heads with regularity. The splendid toadfish — endemic to Cozumel — can sometimes be found in reef crevices near the national park, and the submerged cave La Quebrada shelters glassy sweepers, lobsters, and moray eels in its halocline-rich interior.
 
 ## Dive Profile
 

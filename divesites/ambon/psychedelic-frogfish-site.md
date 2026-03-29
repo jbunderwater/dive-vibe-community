@@ -32,7 +32,7 @@ The Psychedelic Frogfish Site earned its name as the location where the psychede
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+This site is the type locality for the psychedelic frogfish (Histiophryne psychedelica), a species described by science in 2009 that is found almost exclusively in Ambon Bay, bouncing along the black sand on its pectoral fins. The surrounding muck slope is rich in additional anglerfish species including hairy frogfish and painted frogfish, alongside dragonets, ribbon eels, and ornate ghost pipefish. Thorny seahorses and various nudibranch species are scattered through the sand and rubble, making every dive here a macro photography event.
 
 ## Dive Profile
 

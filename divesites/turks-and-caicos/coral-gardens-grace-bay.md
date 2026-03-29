@@ -32,7 +32,7 @@ Coral Gardens at Grace Bay — also known as Bight Reef — is the most popular 
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Green and hawksbill turtles are extremely approachable here due to regular human presence, making this one of the most reliable turtle encounter sites in the archipelago. Stoplight parrotfish, queen angelfish, Nassau grouper, and yellowtail snapper populate the hard and soft coral formations, while Caribbean spiny lobster shelter under ledges throughout the reef in the calm, shallow Princess Alexandra National Park waters.
 
 ## Dive Profile
 

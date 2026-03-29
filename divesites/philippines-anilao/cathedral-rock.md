@@ -32,7 +32,7 @@ Cathedral Rock is an artificial reef created by transplanting live corals onto t
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Cathedral Rock is celebrated for hosting roughly a quarter of all nudibranch species ever recorded in Anilao, making it one of the world's premier nudibranch dive sites. Chromodoris and Phyllidiella nudibranchs carpet the transplanted coral surfaces alongside anemones with resident clownfish, swirling schools of surgeonfish and damsels, and small frogfish tucked into the sponge-covered outcrops. Diligent macro hunters also find pygmy seahorses in the gorgonians and the occasional blue-ringed octopus in the rubble.
 
 ## Dive Profile
 

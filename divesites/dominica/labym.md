@@ -32,7 +32,7 @@ L'Abym — meaning "The Abyss" — is a legendary wall in the Soufriere Scotts H
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The wall face is encrusted with sponges and hard corals that shelter seahorses, scorpionfish, and yellow frogfish in the shallower sections, while sea turtles and solitary barracuda are regular companions along the drop. The open blue water beyond the abyss draws occasional pelagic visitors, and lobsters inhabit the sandy shelf approach at 25 feet.
 
 ## Dive Profile
 

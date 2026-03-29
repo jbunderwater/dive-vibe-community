@@ -32,7 +32,7 @@ Malapascua's Marine Protected Area covers a section of reef off the island's nor
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The no-take status of this MPA has produced notably bold, large fish — napoleon wrasse, bumphead parrotfish, and schools of big-eye trevally are routine sightings close to divers. Hawksbill sea turtles are particularly abundant here compared to adjacent unprotected reefs, and white-tip reef sharks rest on the sandy areas below the slope. The dense table and staghorn corals in the shallows shelter a rich community of damselfish, wrasse, butterflyfish, and clownfish in their anemones.
 
 ## Dive Profile
 

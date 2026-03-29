@@ -32,7 +32,7 @@ Devil's Caves on Nevis's west coast is a network of coral grottos, overhangs, an
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+Glassy sweepers pack the cavern overhangs and blue tangs patrol the open sections between grottos, while nurse sharks rest in the deeper recesses and blacktip reef sharks make occasional passes through the cave entrances. Spiny lobsters, moray eels, and small crustaceans occupy the crevices of the coral grottos, making this a site where the quantity of marine life per square metre rewards slow, careful exploration.
 
 ## Dive Profile
 

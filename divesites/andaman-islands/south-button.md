@@ -32,7 +32,7 @@ South Button sits within India's smallest national park and boasts one of the hi
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The western wall attracts schooling bigeye trevally, barracuda, surgeonfish, snapper, and Napoleon wrasse, while manta rays and devil rays visit the shallower coral garden on the eastern side. Green turtles, batfish, crocodilefish, and moray eels are regular inhabitants throughout the reef, and patient observers will find nudibranchs and octopuses among the dense table and Acropora coral formations. The protected status of South Button Island National Park contributes to the exceptional biodiversity and high coral cover at this site.
 
 ## Dive Profile
 

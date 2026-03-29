@@ -32,7 +32,7 @@ Wall Street lives up to its name with a steep wall that plunges 50-60 meters off
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Wall Street delivers consistently spectacular big-animal diving, with bumphead parrotfish congregating on the reef top almost every dive and strong currents attracting dogtooth tuna, giant trevally, and large schools of chevron barracuda along the wall face. Hammerhead sharks and whitetip reef sharks patrol mid-water, and manta rays are regularly encountered cruising past the wall. The shallower reef garden hosts healthy hard coral and a rich community of reef fish including napoleon wrasse, emperors, and sweetlips.
 
 ## Dive Profile
 

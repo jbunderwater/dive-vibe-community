@@ -32,7 +32,7 @@ Maria Island Reef lies in the waters surrounding the Maria Islands Nature Reserv
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Hawksbill and green sea turtles are drawn to the turtle grass beds and sponge-covered reef structures throughout the site, offering close and reliable encounters. Macro life is a key attraction here — peacock flounders, flying gurnards, snake eels, and seahorses are regularly reported — with the undisturbed Maria Islands Nature Reserve environment supporting unusually high diversity for a beginner-friendly depth range.
 
 ## Dive Profile
 

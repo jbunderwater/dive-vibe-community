@@ -32,7 +32,7 @@ Pinnacles at Anse Cochon ("Bay of Pigs") rises from the reef in finger-like cora
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Hawksbill turtles frequent the coral columns, and patient divers may find seahorses and flounder tucked into the crevices between the pinnacle walls. The finger formations are an active breeding ground for juvenile queen and French angelfish, with feather duster worms, sea whips, and gorgonian fans providing habitat for a diverse cast of reef species in the shallow, sheltered bay.
 
 ## Dive Profile
 

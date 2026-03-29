@@ -32,7 +32,7 @@ Catalan Rocks, also known as Mata Canyons, is a spur-and-groove reef site along 
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Nurse sharks rest under ledges in the spur-and-groove channels while spotted eagle rays cruise the sandy passages hunting queen conch. The coral spurs support healthy populations of parrotfish, angelfish, grunts, and snappers, and sea fans and barrel sponges provide habitat for moray eels, Caribbean lobsters, and the occasional hawksbill turtle grazing the reef top.
 
 ## Dive Profile
 

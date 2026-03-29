@@ -32,7 +32,7 @@ Arthur's Rock is a marine sanctuary in Bagalangit, Mabini, with a gently sloping
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Arthur's Rock is one of Anilao's premier macro sanctuaries, famous for blue-ringed octopus, multiple frogfish species, and Ambon scorpionfish tucked among the soft coral-covered outcrops. Pygmy seahorses cling to gorgonians at mid-depth, harlequin shrimp and hairy squat lobsters work the rubble patches, and an impressive diversity of nudibranchs is scattered across the reef slope down to 21 meters. The adjacent sand flats extending toward the Dead Palm muck area yield ghost pipefish and additional critters for divers willing to wander.
 
 ## Dive Profile
 

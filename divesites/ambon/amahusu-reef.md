@@ -32,7 +32,7 @@ Amahusu Reef is a fringing reef on Ambon Bay's southern shore that offers a gent
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Amahusu Reef offers a gentler macro experience than the bay's muck sites, with pygmy seahorses found in the gorgonians, ornate ghost pipefish drifting among crinoids, and ribbon eels weaving from burrows on the reef slope. Sea anemones host resident clownfish throughout the shallower sections, and damselfish, wrasse, and parrotfish form the backbone of the reef fish community. The sandy rubble patches at the base of the slope yield additional critters including nudibranchs and the occasional frogfish.
 
 ## Dive Profile
 

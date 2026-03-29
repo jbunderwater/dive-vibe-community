@@ -32,7 +32,7 @@ San Bernardino Strait is a narrow passage between the Bicol Peninsula and Samar 
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+San Bernardino Strait is one of the Philippines' premier big-animal drift sites, with the powerful current lanes delivering encounters with scalloped hammerheads, whale sharks, and thresher sharks to divers swept along the walls and drop-offs. Massive schools of barracuda and dogtooth tuna congregate in the upwellings, and giant trevally ambush the baitfish aggregations that form at the channel margins. The walls themselves carry healthy soft corals, sea fans, and schooling anthias in the nutrient-rich flow.
 
 ## Dive Profile
 

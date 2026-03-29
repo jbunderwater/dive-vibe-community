@@ -32,7 +32,7 @@ Skalahein Reef is a drift dive on Aruba's southern coast, featuring a long slopi
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Large schools of barracuda, jacks, and snapper are a constant presence on this current-fed southern coast drift dive, with the gentle flow making extended encounters easy. Filefish, bluehead wrasses, and butterflyfish populate the shallower coral sections, while deeper areas below 23 metres reveal groves of black coral and gorgonians in the excellent visibility typical of Aruba's southern reefs.
 
 ## Dive Profile
 

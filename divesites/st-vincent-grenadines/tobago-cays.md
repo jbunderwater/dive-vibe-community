@@ -32,7 +32,7 @@ Tobago Cays Marine Park protects a four-kilometer Horseshoe Reef enclosing five 
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Green and hawksbill turtles are virtually guaranteed here, grazing openly on the seagrass beds inside the Horseshoe Reef lagoon in numbers that are rare elsewhere in the Caribbean. Southern stingrays glide across the sandy patches, nurse sharks rest beneath coral heads, and the outer reef wall draws eagle rays and Caribbean reef fish including parrotfish, angelfish, and blue tangs in large numbers.
 
 ## Dive Profile
 

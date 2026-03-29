@@ -32,7 +32,7 @@ Convento Reef is a shallow patch reef dive along the inner barrier reef system o
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Schools of grunts, snappers, parrotfish, and angelfish populate the hard coral formations, while nurse sharks rest on the sandy patches beneath coral heads. The calm lagoon conditions and healthy reef coverage of the Seaflower reserve mean fish density is high, with blue tangs, trumpetfish, and occasional sea turtles completing a typical dive at this accessible patch reef.
 
 ## Dive Profile
 

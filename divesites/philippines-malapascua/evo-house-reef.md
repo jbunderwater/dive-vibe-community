@@ -32,7 +32,7 @@ Evo House Reef is the shallow fringing reef directly in front of Evolution Resor
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Evo House Reef's prime attraction is the mandarin fish mating display that takes place at dusk in the coral rubble patches, drawing guests out for a night dive specifically to witness this event. During daytime dives, the sandy rubble bottom yields frogfish sitting motionless among debris, ghost pipefish drifting near crinoids, and blue-ringed octopus tucked into crevices. Cuttlefish and squid come into the shallows after dark, adding to the nocturnal interest of this beginner-friendly site.
 
 ## Dive Profile
 

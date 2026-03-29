@@ -32,7 +32,7 @@ Hukurila Cave is a large sea cave on Ambon's south coast formed by a submerged f
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+Inside Hukurila Cave, the freshwater-saltwater halocline creates a shimmering visual effect and supports unusual crustacean and invertebrate communities, with banded coral shrimp and spiny lobsters occupying the cavern walls. The outer reef on Ambon's south coast benefits from cleaner Indian Ocean water than the bay sites, with hawksbill turtles, reef sharks, and schools of snappers and fusiliers frequenting the area around the cave entrance. Nudibranchs and soft corals colonise the rock surfaces in the transition zone where light filters into the cavern opening.
 
 ## Dive Profile
 

@@ -32,7 +32,7 @@ Ukon Denchi is a reef dive site in the Miyako Islands area of Okinawa, situated 
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The coral slopes are densely populated with scalefin fairy basslets and stocky anthias hovering above the reef, with clownfish in their anemones and nudibranchs on the encrusting growth throughout the dive. Napoleon wrasse and dogtooth tuna make occasional passes over the reef top, while the Kuroshio-influenced waters bring good plankton productivity that sustains the coral and fish diversity. The Miyako Islands' subtropical character also means encounters with sea turtles and the occasional turtle-cleaning station on the shallower sections of the reef.
 
 ## Dive Profile
 

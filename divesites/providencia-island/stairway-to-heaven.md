@@ -32,7 +32,7 @@ Stairway to Heaven is one of Providencia's most dramatic wall dives, plunging to
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Caribbean reef sharks are a near-constant presence at depth along the wall, cruising alongside eagle rays and large grouper that inhabit the shallower terraces. The wall face is colonized by black coral, sea fans, and encrusting sponges that shelter moray eels and spiny lobster, while sea turtles pass regularly through the water column in the excellent visibility characteristic of Providencia.
 
 ## Dive Profile
 

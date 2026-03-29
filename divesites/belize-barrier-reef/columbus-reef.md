@@ -32,7 +32,7 @@ Columbus Reef sits in the central Belize Barrier Reef east of Dangriga, in one o
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The pristine, lightly dived conditions here have produced healthy populations of Caribbean reef sharks, spotted eagle rays, and large Nassau groupers that are less common at busier northern sites. Dense schools of snappers and jacks work the fore-reef drop-offs while moray eels and spiny lobsters occupy the spur-and-groove channels, and sea turtles are regularly encountered on the unspoiled hard coral gardens.
 
 ## Dive Profile
 

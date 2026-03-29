@@ -32,7 +32,7 @@ Felipe's Place is named for a local dive shop owner and tops at around 10 metres
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Caribbean reef sharks and barracuda hover in the current above the terrace edges, while spiny lobster, crabs, and sea urchins populate the coral, sponge, and gorgonian-encrusted wall face. Sea turtles are reliably seen at this site, and the healthy hard and soft coral cover supports abundant parrotfish, snappers, and angelfish throughout the dive.
 
 ## Dive Profile
 

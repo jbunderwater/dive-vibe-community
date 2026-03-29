@@ -32,7 +32,7 @@ Pointe à Lézard sits at the southern end of the Cousteau Reserve near Bouillan
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The geothermally active wall supports healthy populations of Caribbean reef fish including trevally, grouper, and barracuda, with royal lobsters tucked into the rocky volcanic faults at depth. Hawksbill turtles, firefish, and French angelfish are regulars throughout the site, and the unique combination of warm vent activity and protected-reserve conditions concentrates unusual invertebrates and crustaceans around the active hydrothermal areas.
 
 ## Dive Profile
 

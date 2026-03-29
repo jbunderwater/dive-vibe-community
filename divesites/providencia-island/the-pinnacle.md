@@ -32,7 +32,7 @@ The Pinnacle is a deep wall dive along the edge of Providencia's UNESCO Seaflowe
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Caribbean reef sharks are a near-constant presence along the drop-off, cruising alongside spotted eagle rays, horse-eye jacks, and large barracuda in the exceptional 30-metre visibility. Sponges, gorgonians, and black coral on the wall face shelter moray eels and crustaceans, while sea turtles complete the full range of Providencia's celebrated barrier reef fauna.
 
 ## Dive Profile
 

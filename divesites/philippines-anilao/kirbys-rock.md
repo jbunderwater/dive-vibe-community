@@ -32,7 +32,7 @@ Kirby's Rock on the northwest tip of Tingloy Island juts out into the Verde Isla
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Kirby's Rock offers a dual character: the gorgonian- and whip-coral-draped wall harbours moray eels in crevices and clownfish in anemones on the rubble base, while the site's exposure to the Verde Island Passage brings in jacks and barracuda from open water. Crinoids in the current at the wall's upper edge shelter the pygmy seahorses and ghost pipefish that reward macro photographers, and multiple nudibranch species are distributed across the encrusted surfaces. Slack water is the best time to hunt for critters before the current picks up and shifts attention to the pelagic action.
 
 ## Dive Profile
 

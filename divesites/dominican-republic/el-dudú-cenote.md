@@ -32,7 +32,7 @@ El Dudú is a large freshwater sinkhole near Cabrera on the Dominican Republic's
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+El Dudú is a freshwater sinkhole system, so the fauna here is entirely different from coastal reefs — blind cave shrimp and freshwater fish navigate the crystal-clear tunnels, while the halocline near the entrance creates a disorienting optical layer where fresh and salt water meet. The dramatic tannic rock formations and connected air dome rather than marine life are the primary spectacle for divers exploring this 100-metre cave system.
 
 ## Dive Profile
 

@@ -32,7 +32,7 @@ Long Caye Aquarium, commonly called "The Aquarium," is a renowned shallow wall d
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The table-top reef teems with schools of Bermuda chubs, sergeant majors, and creole wrasse, while tiger groupers and black coral inhabit the wall overhangs. Hawksbill turtles are regulars throughout the site, shrimp and spiny lobster work the reef crevices, and the outstanding 25–40 metre visibility at Lighthouse Reef makes every encounter here exceptionally clear.
 
 ## Dive Profile
 

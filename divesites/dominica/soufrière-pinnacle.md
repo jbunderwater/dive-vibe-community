@@ -32,7 +32,7 @@ Soufrière Pinnacle is a series of pinnacles rising from a 25-foot shelf directl
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The sheltered bay and brilliant sponge-encrusted pinnacles attract a dense mix of reef fish including sergeant majors, creole wrasse, and angelfish, with seahorses tucked into gorgonian crevices being a regular highlight. Hawksbill turtles graze the sponge-rich walls and moray eels are common throughout, while nudibranchs and cleaning stations reward patient macro divers.
 
 ## Dive Profile
 

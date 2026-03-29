@@ -32,7 +32,7 @@ Point Guignard is a gently sloping wall in the Soufriere Scotts Head Marine Rese
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Point Guignard is a standout critter site, with seahorses on gorgonian fans, nudibranchs, and sea slugs making for exceptional macro diving along the gentle slope. Sea turtles and southern stingrays are routine sightings, moray eels occupy the numerous crevices, and the cave swim-through at 15 metres sometimes shelters resting nurse sharks and giant lobsters — which emerge in force on night dives.
 
 ## Dive Profile
 

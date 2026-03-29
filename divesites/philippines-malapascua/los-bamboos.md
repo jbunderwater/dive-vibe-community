@@ -32,7 +32,7 @@ Los Bamboos is a coral slope on the southern side of Malapascua named for the ba
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Los Bamboos is a productive reef slope for classic Visayan reef fish, with garden eels swaying in clusters across the sandy bottom at depth and burrowing gobies darting between shrimp-goby burrows. Wrasse, butterflyfish, and parrotfish dominate the mid-reef, while the rubble patches yield the occasional seahorse and small nudibranchs. Sea turtles are frequently seen resting on the coral heads in the shallower sections of the slope.
 
 ## Dive Profile
 

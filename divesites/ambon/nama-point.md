@@ -32,7 +32,7 @@ Nama Point is a rocky headland at the entrance to Ambon Bay where the steep reef
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Nama Point's exposed headland position creates the current conditions that attract schooling bannerfish, big-eye trevally, and barracuda working the point, making this one of the fishiest dives in the Ambon area. The wall carries impressive gorgonian sea fans in good condition with pygmy seahorses tucked into the fans, and crevices shelter moray eels and reef fish less common in the calmer inner bay sites. On the right tidal flow, the current brings excellent visibility and the possibility of mackerel and jacks appearing in the blue beyond the wall.
 
 ## Dive Profile
 

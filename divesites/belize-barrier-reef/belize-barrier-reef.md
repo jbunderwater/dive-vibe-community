@@ -32,7 +32,7 @@ The Belize Barrier Reef is the second-largest coral reef system in the world, st
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The shallow coral gardens support over 500 fish species, with hawksbill and green sea turtles, nurse sharks, southern stingrays, and spotted eagle rays being regular sightings among the parrotfish, angelfish, and blue tangs. Splendid toadfish — endemic to Belize — can be found in reef crevices, and large grouper and tarpon are common in the channels and deeper sections of the reef system.
 
 ## Dive Profile
 

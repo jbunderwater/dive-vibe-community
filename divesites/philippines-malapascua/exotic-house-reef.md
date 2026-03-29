@@ -32,7 +32,7 @@ Exotic House Reef is the sandy-bottomed fringing reef in front of Exotic Beach R
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Exotic House Reef is best known for its mandarin fish population — the rubble patches at 5–10 meters come alive at dusk when pairs perform their brief, vivid mating display. During the day, hairy and robust frogfish sit camouflaged on the rubble, ghost pipefish drift among crinoids, and blue-spotted ribbontail rays rest in clusters on the open sand. The seagrass patches also yield seahorses and the occasional ghost pipefish for attentive macro hunters.
 
 ## Dive Profile
 

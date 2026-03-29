@@ -32,7 +32,7 @@ This cave dive site on Sri Lanka's south coast near Unawatuna and Galle offers s
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+The cave system at 25 meters shelters crustaceans including lobsters and shrimp in the low-light recesses, alongside small reef fish and glassfish adapted to cavern conditions. Just outside the cave entrance, moray eels occupy the rocky reef crevices and scorpionfish blend into the substrate, while sea turtles are occasionally encountered resting on the surrounding reef. The cavern ceiling and walls are colonised by encrusting sponges and soft corals that support nudibranchs for macro photography.
 
 ## Dive Profile
 

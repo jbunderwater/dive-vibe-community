@@ -32,7 +32,7 @@ Deep Slope is a gently inclined coral reef running along the northern flank of M
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Deep Slope rewards slow, attentive divers with a steady stream of nudibranchs, flatworms, and small crustaceans distributed through the coral rubble along the 25-meter slope. Thresher sharks occasionally pass through in the early morning, drawn from deeper water — sightings are less predictable than at Monad Shoal but do occur. Reef fish are diverse throughout, with schools of anthias over the soft corals and the occasional sea turtle resting on the larger coral heads.
 
 ## Dive Profile
 

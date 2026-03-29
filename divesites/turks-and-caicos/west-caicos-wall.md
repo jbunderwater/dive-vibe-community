@@ -32,7 +32,7 @@ The West Caicos Wall runs the entire length of this uninhabited island within th
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Caribbean reef sharks cruise the wall on virtually every dive, making West Caicos one of the most reliable shark encounters in the archipelago, alongside spotted eagle rays and horse-eye jacks in the open water. Orange elephant ear sponges, towering barrel sponges, and dense gorgonian fans host moray eels and lobsters, while hawksbill turtles complete the roster on this pristine, remote wall system.
 
 ## Dive Profile
 

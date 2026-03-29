@@ -32,7 +32,7 @@ Hol Chan Cut is the centerpiece of the Hol Chan Marine Reserve, Belize's oldest 
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Decades of no-take protection have produced extraordinary concentrations of marine life, including dense schools of grunts, snappers, and horse-eye jacks that swirl through the cut. Spotted eagle rays, green moray eels, nurse sharks, and three species of sea turtles are reliably encountered here, and the channel's current funnels baitfish that attract larger predators including barracuda and Caribbean reef sharks.
 
 ## Dive Profile
 

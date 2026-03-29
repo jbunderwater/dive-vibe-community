@@ -32,7 +32,7 @@ Nag's Head sits at the southwestern tip of St. Kitts where the Caribbean Sea col
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Eagle rays feed in the nearby grass beds and regularly glide past the exposed volcanic boulders, while the strong tidal flow that characterizes this headland draws Caribbean reef sharks and larger pelagics to the site. Southern stingrays and hawksbill turtles are present in calmer sections, and the fire coral and sponge-encrusted boulders support moray eels and spiny lobsters in the crevices at depth.
 
 ## Dive Profile
 

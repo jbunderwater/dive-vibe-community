@@ -32,7 +32,7 @@ Dixon's Pinnacle consists of three giant underwater rock formations arranged in 
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The pinnacle tops function as active cleaning stations, drawing giant groupers, white-tip reef sharks, and manta rays to queue alongside resident cleaner wrasse. Massive schools of up to 200 barracuda and dense aggregations of snapper circle the structures, while large Napoleon wrasse, green turtles, titan triggerfish, and stingrays are permanent features of the site. The current-swept soft coral and barrel sponge coverage of the rock formations also supports schools of trevally hunting in the blue water off the pinnacles.
 
 ## Dive Profile
 

@@ -32,7 +32,7 @@ Coral Garden off St. Kitts offers a classic Caribbean reef experience on a volca
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Juvenile angelfish, moray eels, and Caribbean lobsters are regulars among the volcanic coral heads, while hawksbill turtles graze the sea fans and sponges in the calmer Caribbean-facing sections. The healthy hard and soft coral cover supports a broad mix of reef fish including blue tangs, parrotfish, and French grunts, with octopus occasionally found sheltering in reef crevices.
 
 ## Dive Profile
 

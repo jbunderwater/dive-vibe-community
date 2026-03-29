@@ -32,7 +32,7 @@ The Amphitheatre is a natural bowl-shaped recess in the wall at Northwest Point,
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Schools of horse-eye jacks circle just outside the bowl's opening, and the black coral branches on the surrounding wall often shelter seahorses clinging to the fronds. Sea whips, sponges, and colourful corals line the interior bowl walls, providing habitat for reef fish and invertebrates, while Caribbean reef sharks patrol the blue beyond the amphitheatre's rim.
 
 ## Dive Profile
 

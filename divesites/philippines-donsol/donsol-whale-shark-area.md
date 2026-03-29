@@ -32,7 +32,7 @@ Donsol Bay is considered home to one of the world's largest seasonal aggregation
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Donsol Bay hosts one of the world's largest seasonal aggregations of whale sharks (butanding), drawn by the plankton blooms where the Donsol River discharges into the bay from November through June, peaking February to April. Encounters are snorkel-only — multiple individuals are often sighted in a single session, ranging from juveniles to large adults exceeding 8 meters. Manta rays also occasionally feed in the same plankton-rich waters, and spinner dolphins are sometimes seen in the bay during peak season.
 
 ## Dive Profile
 

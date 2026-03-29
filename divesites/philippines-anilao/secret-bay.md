@@ -32,7 +32,7 @@ Secret Bay (Mainit Muck) is one of Anilao's most productive muck dives, a shallo
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Secret Bay (Mainit Muck) is one of Anilao's richest critter sites, with the geothermal black sand hosting wonderpus octopus, flamboyant cuttlefish, Coleman shrimp, and thorny seahorses as year-round residents. Frogfish in multiple colour morphs and ghost pipefish are reliably encountered along the slope, and bobbit worms emerge from burrows in the sand on night dives. After dark, squid and broadclub cuttlefish come into the shallows to hunt, rewarding divers willing to dive after sunset.
 
 ## Dive Profile
 

@@ -32,7 +32,7 @@ Salt River Canyon on St. Croix's north shore is a submerged river canyon where C
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The current-swept canyon channel funnels in eagle rays, hawksbill turtles, Caribbean reef sharks, and occasionally hammerheads, while the black coral forests starting at 12 metres shelter lobster, moray eels, and spotted drums in every crevice. Huge barrel sponges and orange elephant ear sponges drape the East and West Wall faces, creating a dense invertebrate ecosystem that rivals any wall in the US Virgin Islands.
 
 ## Dive Profile
 

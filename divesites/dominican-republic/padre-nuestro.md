@@ -32,7 +32,7 @@ Padre Nuestro is a freshwater cenote and cave system in Parque Nacional del Este
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+As a freshwater cenote, Padre Nuestro's marine life differs completely from coastal dive sites — the crystal-clear cave waters host freshwater fish, blind cave shrimp adapted to the dark passages, and endemic freshwater invertebrates rather than typical reef species. Stalactites and stalagmites are the primary visual draw, with the pristine 25°C water offering perfect visibility to appreciate the cave's extraordinary geological formations.
 
 ## Dive Profile
 

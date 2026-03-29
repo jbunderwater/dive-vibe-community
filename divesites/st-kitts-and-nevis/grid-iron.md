@@ -32,7 +32,7 @@ Grid Iron is a broad, shallow reef system on the Atlantic side of St. Kitts, ext
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The massive mountainous star coral colonies — some reaching 3–5 metres in diameter — provide reef structure that supports Caribbean reef sharks, large spiny lobsters, and hawksbill turtles at this well-documented Atlantic-side site. Parrotfish and blue tangs graze the recovering elkhorn coral stands, and long-spined sea urchins throughout the reef serve as key grazers keeping the coral healthy and algae-free.
 
 ## Dive Profile
 

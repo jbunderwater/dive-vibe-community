@@ -32,7 +32,7 @@ Amos Rock is a North Atoll landmark — named for the midnight snappers that sch
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Amos Rock is a standout shark site on the North Atoll, with grey reef sharks and whitetip reef sharks reliably patrolling the current-swept wall alongside dogtooth tuna, eagle rays, and both pickhandle and great barracuda. Napoleon wrasse are a near-constant presence at the wall top, and large schools of midnight snappers aggregate around the distinctive rock formation that gives the site its name. Night dives reveal a second life — lobsters, flatworms, ornate nudibranchs, and pygmy seahorses tucked into the gorgonian fans become the focus after dark.
 
 ## Dive Profile
 

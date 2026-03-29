@@ -32,7 +32,7 @@ Lighthouse is a large fringing coral reef circling a small white lighthouse at t
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The shallow fringing reef hosts a dense community of reef fish including angelfish, triggerfish, pufferfish, unicorn fish, and schools of humpback parrotfish, with giant clams and sea fans adding to the coral garden scenery. Lionfish are common residents tucked under ledges, while moray eels and octopuses emerge on the reef at night. This is one of the few Andaman sites open for night diving, making it particularly rewarding for spotting crustaceans and nocturnal feeders after dark.
 
 ## Dive Profile
 

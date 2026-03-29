@@ -32,7 +32,7 @@ Sombrero Island, named for its hat-shaped profile, is widely considered one of t
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Sombrero Island supports a notably diverse reef community, with hawksbill turtles and eagle rays as headline sightings alongside whitetip reef sharks patrolling the boulders and drop-offs. The staghorn gardens in the shallows are dense with damselfish, wrasse, and schooling surgeonfish, while the gorgonian-covered sections harbour pygmy seahorses, nudibranchs, and clownfish in their anemones. During full-moon current dives, large schools of jacks and barracuda sweep past the wall.
 
 ## Dive Profile
 

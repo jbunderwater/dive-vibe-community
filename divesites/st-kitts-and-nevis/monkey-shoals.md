@@ -32,7 +32,7 @@ Monkey Shoals is a roughly one-square-mile coral atoll sitting in the channel be
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Horse-eye jacks, schooling barracuda, eagle rays, and southern stingrays are regularly encountered across the atoll's multiple sub-sites, while nurse sharks, green moray eels, and large spiny lobsters take shelter under overhangs in the deeper sections. The unusual flying gurnard is a sought-after sighting here, and hawksbill turtles are present throughout — making Monkey Shoals one of the most species-rich dives in the St. Kitts area.
 
 ## Dive Profile
 

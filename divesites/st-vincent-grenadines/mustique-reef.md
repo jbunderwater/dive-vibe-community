@@ -32,7 +32,7 @@ Mustique Reef offers sloping coral terrain to around 25 meters on the Grenadines
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Hawksbill turtles and southern stingrays are regular sightings over the sandy patches between coral heads, while spotted drums and banded coral shrimp inhabit the reef's shaded recesses. Parrotfish, queen angelfish, barracuda, and moray eels are year-round residents, benefiting from the active coral restoration work that is helping revive brain coral and elkhorn formations across the site.
 
 ## Dive Profile
 

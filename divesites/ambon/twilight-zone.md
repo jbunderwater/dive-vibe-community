@@ -32,7 +32,7 @@ Twilight Zone is a deep muck site in Ambon Bay where the sandy slope extends wel
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Twilight Zone's dimly lit sand slope draws unusual macro subjects that rarely appear at shallower sites: stargazer fish buried in the sand, blue-ringed octopus in crevices, and flamboyant cuttlefish waddling across the dark substrate. Various frogfish species sit motionless among rubble, and eerie, cryptic critters emerge from the featureless sand under torch light at depth. Ghost pipefish and ornate anglerfish round out the eclectic mix that makes this one of Ambon Bay's most distinctive muck dives.
 
 ## Dive Profile
 

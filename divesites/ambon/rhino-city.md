@@ -32,7 +32,7 @@ Rhino City takes its name from the rhinopias scorpionfish species — both the w
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Rhino City is world-renowned for concentrations of weedy and paddle-flap rhinopias scorpionfish — among the most flamboyant and sought-after macro subjects in the Indo-Pacific — with multiple individuals often found on a single dive. Beyond the rhinopias, Ambon scorpionfish blend into the silty substrate alongside various frogfish species, ghost pipefish, and mimic octopus working the sandy bottom. The site consistently produces some of the most dramatic critter photography of any muck site in Indonesia.
 
 ## Dive Profile
 

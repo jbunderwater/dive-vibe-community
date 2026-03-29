@@ -32,7 +32,7 @@ French Cap Cay is an uninhabited islet roughly 6 miles south of St. Thomas, reac
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Schools of horse-eye jacks and barracuda patrol the current-swept pinnacles, while spotted eagle rays, sea turtles, and green morays are regular sightings across the three distinct depth zones. Lobsters crowd the ledges at mid-depth, octopus inhabit the boulder crevices, and the rarely seen black triggerfish makes occasional appearances in the open water around this exposed offshore islet.
 
 ## Dive Profile
 

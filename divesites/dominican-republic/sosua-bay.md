@@ -32,7 +32,7 @@ Sosua Bay is the primary dive hub on the Dominican Republic's north coast, prote
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The sheltered bay hosts a diverse range of marine life across its multiple sites — coral pinnacle gardens attract sea turtles, spotted eagle rays, and dense reef fish including parrotfish, angelfish, and snappers. The Zingara wreck at 36 metres is encrusted with corals and sponges and shelters grouper and moray eels, and humpback whales pass through the Dominican Republic's north coast on seasonal migration between January and March.
 
 ## Dive Profile
 

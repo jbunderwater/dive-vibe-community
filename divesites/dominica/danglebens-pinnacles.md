@@ -32,7 +32,7 @@ Dangleben's Pinnacles is a signature dive of the Soufriere-Scotts Head Marine Re
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The five volcanic spires are draped in Dominica's largest barrel sponges and brilliant encrusting corals that support dense reef fish populations including parrotfish, angelfish, and creole wrasse. Schooling horse-eye jacks aggregate around the pinnacles during winter months when mild currents run through, and southern stingrays rest on the sandy bottom between the spires while anemones and cleaning stations dot the shallower sections.
 
 ## Dive Profile
 

@@ -32,7 +32,7 @@ Booby Shoals sits squarely in the Narrows channel between St. Kitts and Nevis, w
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The tidal flow through the Narrows channel pumps nutrients across the shoal, fueling dense populations of French grunts, horse-eye jacks, southern stingrays, and Caribbean lobsters. Large nurse sharks shelter under deep coral ledges and Caribbean reef sharks move through when currents run strong, making this one of the best sites in the St. Kitts area for an encounter with bigger marine life in a shallow, accessible setting.
 
 ## Dive Profile
 

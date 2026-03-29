@@ -32,7 +32,7 @@ Mayreau Gardens is widely considered the most biodiverse reef system in Tobago C
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Hawksbill turtles, spotted eagle rays, and the occasional Caribbean reef shark are the headline sightings, drifting through the water column above a reef carpeted in flamingo tongues and crinoids. Clouds of creole wrasse and horse-eye jacks fill the mid-water, while parrotfish, queen angelfish, and moray eels are regular residents among the hard coral formations below.
 
 ## Dive Profile
 

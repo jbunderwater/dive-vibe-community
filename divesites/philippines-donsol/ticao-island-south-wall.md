@@ -32,7 +32,7 @@ Ticao Island's south wall faces the current-swept waters of Ticao Pass, where Pa
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Ticao Island South Wall faces the nutrient-rich Ticao Pass, drawing an exceptional mix of pelagics: reef manta rays are the signature sighting, and whale sharks, thresher sharks, and hammerheads have all been recorded at this and nearby Ticao sites. On the wall itself, moray eels, scorpionfish, and stonefish occupy the rocky substrate, while schools of barracuda and jacks work the current in the open water. Sea turtles and napoleon wrasse are routine sightings along the coral-encrusted wall face.
 
 ## Dive Profile
 

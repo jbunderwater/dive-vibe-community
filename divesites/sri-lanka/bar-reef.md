@@ -32,7 +32,7 @@ Bar Reef is Sri Lanka's largest coral reef — a 307-square-kilometer Marine San
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The shallow patch reef habitat supports an outstanding diversity of reef fish drawn from the sanctuary's 283 recorded species, with blacktip reef sharks, thick-lipped groupers, parrotfish, and angelfish among the most commonly encountered. Spinner dolphins are a frequent presence hunting through the shallows over the seagrass beds and sandstone reefs. The 156 coral species — including extensive plate coral formations — provide habitat for nudibranchs, pipefish, and smaller reef creatures across the sandy channels between reef patches.
 
 ## Dive Profile
 

@@ -32,7 +32,7 @@ Sepok Wall runs along the northwest face of Maricaban Island, where a vertical d
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Sepok Wall is one of Anilao's top macro sites, with dozens of Chromodoris nudibranch species distributed across the barrel sponges and gorgonian fans covering the wall face. Frogfish, leaf scorpionfish, twin-spot lionfish, and cryptic scorpionfish hide among the encrusted surfaces, while pygmy seahorses are reliably found in the large sea fans at mid-depth. The coral-covered bommies at the sandy base provide complementary wide-angle subjects, with moray eels, grouper, and small reef sharks occasionally patrolling the bottom.
 
 ## Dive Profile
 

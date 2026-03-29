@@ -32,7 +32,7 @@ G-Spot is an exceptional wall dive off French Cay where a bend in the wall creat
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Caribbean reef sharks are a constant presence along the wall edge, alongside spotted eagle rays, nurse sharks, and golden tail moray eels among the enormous deep-water gorgonians and massive elephant ear and barrel sponges. The nutrient-concentrating eddies created by the wall's bend support exceptional coral density, with juvenile queen triggerfish and a wide variety of reef fish in the shallower sections above the black coral field.
 
 ## Dive Profile
 

@@ -32,7 +32,7 @@ Half Moon Wall at Lighthouse Reef Atoll is widely considered one of the best wal
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Hawksbill turtles graze sponges along the wall while Caribbean reef sharks patrol the outer edge, and eagle rays make regular appearances near the sandy bottom below the drop-off. Whale sharks pass through Lighthouse Reef in April and May, and manta rays visit from August through October to feed on plankton blooms — making this wall one of the few sites in Belize where multiple pelagic species can be encountered in a single trip.
 
 ## Dive Profile
 

@@ -32,7 +32,7 @@ Dead Palm is a shallow muck dive adjacent to Arthur's Rock sanctuary, where a ge
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Dead Palm's sand-and-rubble bottom is classic Anilao muck territory, with resident frogfish in multiple colour morphs sitting motionless among the debris and pipefish threading through algae-covered rubble. Chromodoris and Phyllidiella nudibranchs are scattered across the substrate in remarkable variety, and thorny seahorses cling to hydroid branches in the shallows. Patient divers scanning slowly will also turn up ghost pipefish, mantis shrimp, and the occasional blue-ringed octopus.
 
 ## Dive Profile
 

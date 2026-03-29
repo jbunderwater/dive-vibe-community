@@ -32,7 +32,7 @@ New Guinea Reef on St. Vincent's leeward coast is celebrated for an extraordinar
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+New Guinea Reef is exceptional for black coral diversity — three species in six different colors drape the overhangs — alongside bright pink and scarlet encrusting sponges and large branching vase sponges on the sandy bottom. Small reef fish including parrotfish, chromis, and damselfish crowd the formations, while hawksbill turtles and moray eels make regular appearances among the sponge-encrusted coral columns.
 
 ## Dive Profile
 

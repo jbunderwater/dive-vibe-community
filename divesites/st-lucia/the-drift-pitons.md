@@ -32,7 +32,7 @@ The Drift at the Pitons runs along the base of Petit Piton, where prevailing cur
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Seahorses and frogfish are found clinging to the soft coral growth and sea fans along the volcanic wall, while stingrays, eagle rays, and hawksbill turtles are regularly spotted as the current sweeps divers past. The drift exposes divers to a constantly shifting panorama of marine life benefiting from the nutrient-rich Petit Piton upwellings, including dense feather duster worm colonies and schooling reef fish.
 
 ## Dive Profile
 

@@ -32,7 +32,7 @@ Cow and Calf is a pair of shallow pinnacle reefs off St. Thomas's south coast, w
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Dense schools of blue chromis and creole wrasse cloud the coral-covered pinnacles, with barracuda circling overhead and southern stingrays resting in the sandy channels between the two formations. Queen angelfish, parrotfish, and blue tangs are reef regulars at both structures, and the shallow, low-current environment makes it easy to spend extended time observing the abundant fish community.
 
 ## Dive Profile
 

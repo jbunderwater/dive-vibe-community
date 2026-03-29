@@ -32,7 +32,7 @@ La Perle is a volcanic islet 800 metres off Anse Couleuvre in the Réserve Marin
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The Dominica Channel currents aggregate impressive pelagic life — large schools of horse-eye jacks and barracuda are near-constant presences, and resident hawksbill turtles graze the wall faces alongside 68 identified fish species recorded within the reserve. The strong open-ocean conditions that make this site demanding for divers are precisely what bring reef sharks, eagle rays, and other larger species past the volcanic walls and arches.
 
 ## Dive Profile
 

@@ -32,7 +32,7 @@ Anse Chastanet Reef begins just metres from the beach in the heart of the Soufri
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Seahorses, scorpionfish, and cleaner shrimps are reliably found in the shallower reef sections, while octopus, cuttlefish, and golden spotted eels are resident alongside over 150 fish species. Hawksbill turtles are common throughout the site, and the SMMA's protection since 1995 has produced genuinely dense populations of parrotfish, grunts, and angelfish around the giant barrel sponges and black coral trees.
 
 ## Dive Profile
 

@@ -32,7 +32,7 @@ Diamond Rock — the basalt islet that the Royal Navy famously commissioned as H
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Hawksbill turtles congregate at the base of the rock in notable numbers, while gorgonian fans, soft corals, and sponges on the wall faces host moray eels, Spanish mackerel, and abundant crustaceans. The strong variable currents that make this an advanced dive bring reef sharks, barracuda, and jacks sweeping past the rocky canyons and the cathedral crack that cuts through the entire islet.
 
 ## Dive Profile
 

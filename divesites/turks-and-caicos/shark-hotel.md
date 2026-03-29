@@ -32,7 +32,7 @@ Shark Hotel at Northwest Point lives up to its name — divers descend through a
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Caribbean reef sharks are the star attraction, reliably patrolling the chimney and wall, with lemon sharks making occasional appearances alongside them. Impressive stands of pillar coral in the shallows support dense schools of grunts, snappers, and goatfish, while the deeper wall sections host lobsters, moray eels, and hawksbill turtles among the sponge and coral formations.
 
 ## Dive Profile
 

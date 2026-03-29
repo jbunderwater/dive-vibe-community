@@ -32,7 +32,7 @@ The Wall was the first dive site discovered on Havelock Island in 2004 and remai
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The wall's permanent residents include giant groupers, sweetlips, parrotfish, angelfish, moray eels, and scorpionfish sheltering in the darker crevices and cave openings. Napoleon wrasse and giant trevally are drawn in by the strong currents that sweep the channel, hunting alongside the gorgonian fans and feather stars that colonise the sheer cliff face. The gorgonian-draped slope on the calmer side offers additional encounters with reef sharks patrolling the deeper sections.
 
 ## Dive Profile
 

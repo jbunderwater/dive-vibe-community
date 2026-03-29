@@ -32,7 +32,7 @@ Tete's Place is a coral shoal close to Providencia's shoreline at 7 to 18 metres
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Dense stands of endangered pillar coral shelter large schools of grunts, snappers, squirrelfish, and moray eels over the sandy and rocky bottom, while sea turtles graze the seagrass beds nearby. Caribbean reef sharks patrol the outer reef edges, and the shallow, calm conditions mean encounters with parrotfish and angelfish are constant throughout the dive.
 
 ## Dive Profile
 

@@ -32,7 +32,7 @@ Scuba Lanka is a reef site in Trincomalee on Sri Lanka's northeast coast, an are
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The mixed hard and soft coral formations support parrotfish, oriental sweetlips, and sea turtles as year-round residents, with trevally and barracuda making regular passes above the reef. Spinner dolphins are frequently visible in the open water over the site, and Trincomalee's clear, productive waters occasionally bring pelagics in from the deeper bay. Moray eels and lionfish inhabit the reef's crevices and overhangs throughout the site's 18-meter depth range.
 
 ## Dive Profile
 

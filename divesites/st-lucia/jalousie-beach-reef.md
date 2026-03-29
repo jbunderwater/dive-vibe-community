@@ -32,7 +32,7 @@ Jalousie Beach Reef is the house reef for the Sugar Beach resort, situated in th
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Seahorses are occasionally found clinging to sea fans along the shallow reef slope, and trumpetfish, parrotfish, and sergeant majors are constant companions throughout the dive. Hawksbill turtles visit the reef regularly, and squid patrol the water column above the coral in the calm, sheltered conditions typical of the Piton bay setting.
 
 ## Dive Profile
 

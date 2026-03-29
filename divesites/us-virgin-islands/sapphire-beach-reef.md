@@ -32,7 +32,7 @@ Sapphire Beach Reef lies directly off one of St. Thomas's most protected and bea
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Hawksbill turtles move between the brain coral and sea fan formations at this shallow fringing reef, often unconcerned by divers in the protected bay. Parrotfish, wrasse, blue chromis, and small reef fish are constant throughout the dive, and the calm, clear water makes this an ideal site for observing the diverse tropical species common to St. Thomas's sheltered east-end reefs.
 
 ## Dive Profile
 

@@ -32,7 +32,7 @@ Sandy Point Reef sits within the Sandy Point National Marine Park near Brimstone
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The volcanic canyons and swim-throughs are inhabited by French angelfish, barracuda, nurse sharks, and moray eels, while hawksbill turtles graze the tube sponges and sea fans along the deeper reef sections. The five historic anchors embedded in coral fingers are a unique draw, and spiny lobsters and large groupers occupy the deeper clefts and overhangs well past 30 metres.
 
 ## Dive Profile
 

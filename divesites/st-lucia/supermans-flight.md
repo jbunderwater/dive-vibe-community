@@ -32,7 +32,7 @@ Superman's Flight is a drift dive along the submerged face of Petit Piton — na
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Southern stingrays cruise the invertebrate-covered volcanic incline while sea turtles appear regularly along the fiery red rope sponge and orange elephant ear sponge-decorated wall. The mineral-rich volcanic substrate supports exceptional fish life — including large schools of parrotfish and angelfish — and the current-driven drift exposes divers to ever-changing encounters with barracuda and reef sharks in the open water.
 
 ## Dive Profile
 
