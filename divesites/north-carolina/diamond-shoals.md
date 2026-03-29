@@ -17,7 +17,7 @@ Diamond Shoals is a reef dive site in North Carolina, North America.
 
 ## Overview
 
-Diamond Shoals is a dive site in North Carolina offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Diamond Shoals is a series of constantly shifting sandbars extending 13 kilometers from Cape Hatteras into the Atlantic, at the heart of the notorious "Graveyard of the Atlantic" where the Gulf Stream and the Labrador Current collide. Responsible for an estimated 600 shipwrecks, the shoals offer challenging conditions with strong currents, variable visibility, and cold-water upwellings. Sand tiger sharks aggregate here in large numbers during summer, and the convergence of warm and cold currents brings an unusual mix of tropical and temperate marine species to a single site.
 
 ## Site Information
 

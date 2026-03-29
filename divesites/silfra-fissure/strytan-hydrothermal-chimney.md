@@ -17,7 +17,7 @@ Strytan Hydrothermal Chimney is a pinnacle dive site in Silfra Fissure, Europe.
 
 ## Overview
 
-Strytan Hydrothermal Chimney is a dive site in Silfra Fissure offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Strytan is the only known hydrothermal chimney accessible to scuba divers, a 55-meter tall limestone cone built over 11,000 years by mineral deposits from a geothermal spring that vents 75-degree-Celsius freshwater into the cold ocean of Eyjafjordur, northern Iceland. The chimney rises from 70 meters to within 15 meters of the surface, and divers can warm their bare hands in the hot water streaming from its vents. Schools of cod and pollock swirl around the structure, while wolffish, lumpsucker fish, starry rays, anemones, and colorful nudibranchs colonize its mineral-encrusted flanks.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Ukon Denchi is a reef dive site in Okinawa, Asia.
 
 ## Overview
 
-Ukon Denchi is a dive site in Okinawa offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Ukon Denchi is a reef dive site in the Miyako Islands area of Okinawa, situated among the uplifted coral reef formations that give the surrounding sea its famous "Miyako Blue" clarity. The site features coral slopes populated with scalefin fairy basslets, stocky anthias, clownfish, and nudibranchs, with occasional visits from dogtooth tuna and Napoleon wrasse over the reef. Visibility typically ranges from 20 to 40 meters, and the warm Kuroshio Current sustains dense hard and soft coral growth year-round.
 
 ## Site Information
 

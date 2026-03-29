@@ -17,7 +17,7 @@ Tako Flats is a reef dive site in Hawaii - Maui, Pacific.
 
 ## Overview
 
-Tako Flats is a dive site in Hawaii - Maui offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Tako Flats takes its name from the Japanese word for octopus ("tako"), reflecting the abundance of day octopus, sand octopus, and white-striped octopus that shelter among the scattered coral heads here. Located near the western tip of Molokini Crater, the site features a sandy channel bordered by coral formations with some of the calmest water inside the crater. Manta rays visit to feed on fish larvae, and divers also encounter moray eels, nudibranchs, and barracuda among the rubble and coral patches.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Sita Reef is a reef dive site in Kenya Coast, Africa.
 
 ## Overview
 
-Sita Reef is a dive site in Kenya Coast offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Sita Reef is a shallow coral reef site along Kenya's Indian Ocean coastline, within the network of protected marine parks that stretch from Watamu to Malindi. The reef features hard and soft coral formations inhabited by green and hawksbill turtles, moray eels, potato bass, and schools of snapper and butterflyfish. Visibility is best from October to March when seas are calmest, and whale sharks may pass through the area between November and February.
 
 ## Site Information
 
