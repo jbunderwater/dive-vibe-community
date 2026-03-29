@@ -17,7 +17,7 @@ Mouatt Reef is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-Mouatt Reef is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Mouatt Reef sits in the southern Strait of Georgia east of Saltspring Island, in the channel separating the Gulf Islands from the BC mainland shore near the Saanich Peninsula. This area of the strait is known for its glass sponge reef communities and rich invertebrate life sustained by cold, clear Pacific waters flowing through the Gulf Islands passages. Divers can expect to find rockfish and lingcod holding on the rocky structure, along with nudibranchs, sea urchins, and anemones colonizing the reef surface.
 
 ## Site Information
 

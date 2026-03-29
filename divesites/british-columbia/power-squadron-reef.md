@@ -17,7 +17,7 @@ Power Squadron Reef is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-Power Squadron Reef is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Power Squadron Reef is a rocky reef in the northern Strait of Georgia near Hornby Island, an area celebrated for exceptional cold-water diving with good visibility and generally gentle currents. The reef to 18 metres features sculpted sandstone formations draped in plumose anemones and colourful encrusting invertebrates, with lingcod, various rockfish species, and giant Pacific octopus as the main animal highlights. The broader Hornby Island area is also known for encounters with sixgill sharks at depth and large aggregations of Steller's sea lions in winter months.
 
 ## Site Information
 

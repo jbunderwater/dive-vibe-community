@@ -17,7 +17,7 @@ Min Rock is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-Min Rock is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Min Rock is a submerged rocky reef in Discovery Passage near Quadra Island, one of the most current-swept and biologically productive marine corridors on the BC coast. The powerful tidal flows that race through the passage deliver a constant supply of nutrients, coating the rock surfaces in thick growths of plumose anemones and encrusting invertebrates, with lingcod, rockfish, and giant Pacific octopus sheltering in the structure. Diving requires careful timing around slack water, as the passage's currents can make off-slack conditions dangerous even for experienced divers.
 
 ## Site Information
 

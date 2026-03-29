@@ -17,7 +17,7 @@ Turn Rock is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-Turn Rock is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Turn Rock sits in the waters near the southern tip of the Gulf Islands, close to the BC-Washington border in the Salish Sea, where rocky reefs support an abundance of Pacific Northwest marine life. Divers can expect lingcod, multiple rockfish species, giant Pacific octopus, mosshead warbonnets, and swimming scallops on the current-fed rocky terrain, with kelp beds providing cover for greenlings and cabezon. The site is best dived at or near slack tide due to the tidal currents sweeping through this southern channel.
 
 ## Site Information
 

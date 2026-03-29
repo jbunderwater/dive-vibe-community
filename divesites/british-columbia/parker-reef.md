@@ -17,7 +17,7 @@ Parker Reef is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-Parker Reef is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Parker Reef is a kelp-draped reef near Saturna Island in the Southern Gulf Islands, where tidal currents sweeping through the Strait of Georgia concentrate nutrients and support dense marine communities. The shallow site to 12 metres features thick bull kelp canopy sheltering juvenile rockfish, lingcod, and sea perch, with nudibranchs and sea urchins scattered across the rocky substrate. The current-fed reef attracts plumose anemones and decorator crabs typical of the biodiverse Southern Gulf Islands ecosystem.
 
 ## Site Information
 

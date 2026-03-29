@@ -17,7 +17,7 @@ Templar Rock is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-Templar Rock is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Templar Rock is a rocky reef in the southern Strait of Juan de Fuca near Victoria, where cold Pacific-influenced water supports a productive community of cold-water species on the rocky structure to 18 metres. The rock faces are adorned with plumose anemones, brooding anemones, encrusting sponges, and hydrocorals characteristic of the Juan de Fuca region, with lingcod, quillback rockfish, and kelp greenlings as the prominent fish species. Giant Pacific octopus are a regular find in the crevices, and the site is best dived around slack water given the tidal complexity of the nearby strait.
 
 ## Site Information
 

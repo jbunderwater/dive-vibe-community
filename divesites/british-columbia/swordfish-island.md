@@ -17,7 +17,7 @@ Swordfish Island is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-Swordfish Island is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Swordfish Island is a historically significant dive site in the proposed Juan de Fuca National Marine Park south of Victoria, known both for a submarine cave and for the wreck of the sailing vessel Swordfish which struck the island and sank with iron hull sections now scattered across the reef at 3–15 metres. The steep rocky slopes drop from the surface at roughly 55 degrees, with pink coralline algae blanketing the shallows and giving way to fish-eating anemones, plumose anemones, sponges, and zoanthids on the deeper sections. Kelp crabs, green sea urchins, and solitary corals typical of Juan de Fuca waters are found throughout, and the wreck remnants — overgrown with encrusting life — make this an impressive and historically evocative dive.
 
 ## Site Information
 

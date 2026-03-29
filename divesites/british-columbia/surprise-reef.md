@@ -17,7 +17,7 @@ Surprise Reef is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-Surprise Reef is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Surprise Reef is a reef site off the west coast of Vancouver Island in the vicinity of Barkley Sound, an area Jacques Cousteau once recognised as one of the world's top dive destinations due to its open Pacific biology and exceptional species diversity. The reef structure to 18 metres supports colorful encrusting invertebrates rarely seen in abundance on the calmer inner coast, including bryozoans, white-spotted rose anemones, and giant mussels alongside wolf eels, lingcod, and giant Pacific octopus. Sea lions, rockfish of multiple species, and the occasional sixgill shark are all possible encounters in these productive Pacific-influenced waters.
 
 ## Site Information
 

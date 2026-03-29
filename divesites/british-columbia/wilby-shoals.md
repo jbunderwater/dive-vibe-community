@@ -17,7 +17,7 @@ Wilby Shoals is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-Wilby Shoals is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Wilby Shoals is a shallow reef on the approach to Discovery Passage near Quadra Island, lying roughly 8 km southeast of Quathiaski Cove in an area known for exceptional marine productivity. The shoals sit in waters visited by humpback whales, Chinook salmon, and sea lions, and the reef structure supports the rich invertebrate and fish life characteristic of the Discovery Islands region — lingcod, rockfish, anemones, sponges, and giant Pacific octopus. The site is in one of BC's world-class dive regions, with the full tidal energy of Discovery Passage fuelling nutrient-rich conditions.
 
 ## Site Information
 

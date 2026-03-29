@@ -17,7 +17,7 @@ White Lady (Repulse Rock) is a reef dive site in British Columbia, North America
 
 ## Overview
 
-White Lady (Repulse Rock) is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+White Lady, also known as Repulse Rock, is a reef and rock dive site in the Haro Strait area west of the Saanich Peninsula, in the tidal channels between southern Vancouver Island and the Gulf Islands. The site is known for encounters with playful harbour seals, and the rocky terrain supports the typical fauna of this region including rockfish, lingcod, giant Pacific octopus, nudibranchs, sea stars, and encrusting anemones. The Haro Strait is subject to significant tidal currents, so timing the dive to slack water is important for safe and comfortable conditions.
 
 ## Site Information
 

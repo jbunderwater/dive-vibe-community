@@ -17,7 +17,7 @@ Tusko Rock is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-Tusko Rock is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Tusko Rock is a reef dive site in the Discovery Passage area north of Quadra Island, one of the world's most celebrated cold-water diving regions, rated second only to the Red Sea by Jacques Cousteau. The site benefits from the extreme tidal flows of Discovery Passage, which deliver nutrients that fuel carpets of sea anemones, sponges, and tubeworms, while crevices hold lingcod, rockfish, red Irish lord sculpins, wolf eels, and giant Pacific octopus. Diving must be timed precisely to tidal slack, and local charter operators from Campbell River are the recommended access point.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Oregon Rock is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-Oregon Rock is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Oregon Rock is a submerged rocky reef in the Strait of Georgia offshore from central Vancouver Island, lying in the productive waters between Nanaimo and the northern Gulf Islands. The site is characteristic of this part of the strait, where cold, nutrient-rich water supports lingcod and rockfish on rocky structure, giant Pacific octopus in crevices, and nudibranchs and sea urchins across the reef surface. Visibility in this region of the Strait of Georgia is generally favorable, and the area sees lighter boat traffic than the more heavily dived southern Gulf Islands sites.
 
 ## Site Information
 

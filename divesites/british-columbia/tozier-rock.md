@@ -17,7 +17,7 @@ Tozier Rock is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-Tozier Rock is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Tozier Rock is a submerged rocky reef in the southern Gulf Islands near the Saanich Peninsula, set in the current-swept channels of the southern Strait of Georgia. The site is typical of this region's rich cold-water diving, with rockfish, lingcod, giant Pacific octopus, and harbour seals commonly encountered around the rocky structure, while the bottom is decorated with plumose anemones, sea stars, nudibranchs, and kelp. Tidal currents through the Gulf Islands channels concentrate food and marine life, making slack tide the preferred dive window.
 
 ## Site Information
 

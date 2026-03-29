@@ -17,7 +17,7 @@ Ripple Shoal is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-Ripple Shoal is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Ripple Shoal is a reef in the Discovery Islands area north of Campbell River, positioned in the famously current-swept waters of Discovery Passage where some of the fastest tidal flows in the world drive extraordinary marine productivity. The cold, oxygen-rich water sustains an abundance of colourful invertebrates that blanket every surface, including red Irish lords, giant Pacific octopus, lingcod, and dense colonies of anemones and encrusting sponges. Diving must be timed precisely to slack water, and local knowledge of tidal cycles is strongly recommended, as currents in this passage can be dangerously strong.
 
 ## Site Information
 

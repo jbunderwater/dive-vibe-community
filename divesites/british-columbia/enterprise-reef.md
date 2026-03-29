@@ -17,7 +17,7 @@ Enterprise Reef is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-Enterprise Reef is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Enterprise Reef is a rocky reef dive site in the Gulf Islands, positioned near Active Pass where tidal currents push nutrient-rich water through the southern Strait of Georgia. The reef structure supports dense colonies of plumose anemones, giant Pacific octopus, and a variety of rockfish that hold tight to the bottom, while harbor seals and sea lions are frequently encountered on the way down. Currents at this location can run strong through the pass, so planning the dive around slack water is important for safe and comfortable conditions.
 
 ## Site Information
 

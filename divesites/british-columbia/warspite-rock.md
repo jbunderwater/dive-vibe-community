@@ -17,7 +17,7 @@ Warspite Rock is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-Warspite Rock is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Warspite Rock is a reef dive site in the Discovery Passage region near Campbell River, one of the world's most productive cold-water dive areas due to its extreme tidal exchanges and resulting nutrient-rich currents. The rocky structure is decorated with the colourful invertebrate life characteristic of the passage — strawberry anemones, sponges, hydroids, and tubeworms — while crevices shelter lingcod, tiger rockfish, red Irish lord sculpins, wolf eels, and giant Pacific octopus. Diving is limited to slack tide windows and is best arranged through local Campbell River charter operators.
 
 ## Site Information
 
