@@ -17,7 +17,7 @@ Santa Marija Point is a cave dive site in Malta and Gozo, Europe.
 
 ## Overview
 
-Santa Marija Point is a dive site in Malta and Gozo featuring underwater cave and cavern formations. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Santa Marija Point sits on Comino's northern coast and offers a network of caverns and cave passages accessible by boat dive, with depths working down to around 19 metres. The clear Mediterranean water typical of the Comino area lets natural light filter into the shallower sections of the cave system, illuminating walls decorated with sponges and false corals and revealing groupers, moray eels, octopus, and nudibranchs tucked into the rock formations. The site rewards exploration with varied topography that connects open reef patches with sheltered cavern zones, making it a solid complement to the nearby Santa Marija Caves system.
 
 ## Site Information
 

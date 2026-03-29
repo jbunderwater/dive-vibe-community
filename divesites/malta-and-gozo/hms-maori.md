@@ -17,7 +17,7 @@ HMS Maori is a historic wreck dive in Malta and Gozo, Europe.
 
 ## Overview
 
-HMS Maori is a renowned dive site in Malta and Gozo featuring a historic wreck which sank in 1942-02-12 . British Tribal-class destroyer (WW2). Bow at 14m on white sand. Good training wreck for beginners; penetration not recommended due to structural instability. Abundant marine life.. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+HMS Maori is a WWII-era British Tribal-class destroyer bombed by German aircraft in Grand Harbour on 12 February 1942, then re-scuttled in Marsamxett Harbour as a dive attraction after the war broke her in two during towing. The accessible bow section rests upright at 14 metres on white sand, tilted slightly to port, with the upper structure at just 9 metres — making this Malta's shallowest and most beginner-friendly wreck. The hull is encrusted with tube worms and green weed, and shoals of salema, sea bream, and cardinal fish swarm the upper structure, while octopus, scorpionfish, moray eels, and the occasional stingray patrol the sandy seabed around it.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Table Rock is a cave dive site in Providencia Island, Caribbean.
 
 ## Overview
 
-Table Rock is a dive site in Providencia Island featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Table Rock is a cavern and cave dive within Providencia's UNESCO Seaflower Biosphere Reserve, part of the same volcanic reef system responsible for the world's third-longest barrier reef along the island's eastern coast. The cave and fissure system provides shelter for spiny lobster, moray eels, nurse sharks, and crustaceans adapted to the low-light environment, while the outer reef areas to 25 metres support the full complement of Caribbean reef species including sea turtles, eagle rays, and schooling barracuda. It is one of the more technically interesting dives on the island, combining cave exploration with the rich outer reef life that defines diving at Providencia.
 
 ## Site Information
 

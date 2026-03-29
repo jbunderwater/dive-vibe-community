@@ -17,7 +17,7 @@ The Pinnacle is a wall dive site in Providencia Island, Caribbean.
 
 ## Overview
 
-The Pinnacle is a dive site in Providencia Island featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Pinnacle is a deep wall dive along the edge of Providencia's UNESCO Seaflower Biosphere Reserve, where the volcanic island's underwater basement drops with near-vertical slopes from the barrier reef shelf into the open Caribbean. The wall is adorned with colourful sponges, gorgonians, and black coral at depth, and Caribbean reef sharks are a near-constant presence, cruising the drop-off alongside eagle rays, horse-eye jacks, and large barracuda. Visibility regularly exceeds 30 metres in the warm 27 to 29 degree water, making this one of the premier drift wall experiences on what is widely considered Colombia's finest dive destination.
 
 ## Site Information
 

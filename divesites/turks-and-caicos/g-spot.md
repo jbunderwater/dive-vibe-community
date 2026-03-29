@@ -17,7 +17,7 @@ G-Spot is a wall dive site in Turks and Caicos, Caribbean.
 
 ## Overview
 
-G-Spot is a dive site in Turks and Caicos featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+G-Spot is an exceptional wall dive off French Cay where a bend in the wall creates eddies that concentrate nutrients, feeding a cascade of enormous deep-water gorgonians, massive elephant ear sponges, barrel sponges, and a striking field of black coral that drapes down the face. Caribbean reef sharks are a constant presence, and spotted eagle rays, nurse sharks, golden tail moray eels, and juvenile queen triggerfish are among the regulars encountered along the coral-smothered wall. The site is a 45-minute boat ride from Provo in good weather, and is a flagship dive on liveaboard itineraries in the Turks and Caicos.
 
 ## Site Information
 

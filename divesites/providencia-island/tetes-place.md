@@ -17,7 +17,7 @@ Tete's Place is a reef dive site in Providencia Island, Caribbean.
 
 ## Overview
 
-Tete's Place is a dive site in Providencia Island offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Tete's Place is a coral shoal close to Providencia's shoreline at 7 to 18 metres, known for its patches of endangered pillar coral — a species rarely seen at this density elsewhere in the Caribbean — and for dense populations of schooling grunts, snappers, squirrelfish, and moray eels over a sandy and rocky bottom with seagrass sections. The site sits within the UNESCO Seaflower Biosphere Reserve and is one of the most popular dives on the island for divers of all levels, with the shallow depth and calm conditions making it equally appealing to snorkelers. Caribbean reef sharks are commonly seen on the outer edges, alongside sea turtles that graze the seagrass beds nearby.
 
 ## Site Information
 

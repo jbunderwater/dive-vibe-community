@@ -17,7 +17,7 @@ Stairway to Heaven is a wall dive site in Providencia Island, Caribbean.
 
 ## Overview
 
-Stairway to Heaven is a dive site in Providencia Island featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Stairway to Heaven is one of Providencia's most dramatic wall dives, plunging to over 50 metres along the barrier reef that skirts the island's volcanic submarine flanks within the UNESCO Seaflower Biosphere Reserve. The wall is colonised by healthy black coral, sea fans, and encrusting sponges, with Caribbean reef sharks commonly patrolling the blue water at depth while turtles, eagle rays, and large grouper inhabit the shallower terraces. The site lives up to its name on clear days when the sunlight angles down through the water column and illuminates the wall in striking relief, rewarding experienced divers with one of the most visually spectacular dives in the Colombian Caribbean.
 
 ## Site Information
 

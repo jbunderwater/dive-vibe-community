@@ -17,7 +17,7 @@ Grotta Azzurra is a cave dive site in Ustica, Europe.
 
 ## Overview
 
-Grotta Azzurra is a dive site in Ustica featuring underwater cave and cavern formations. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Grotta Azzurra is one of Ustica's most photogenic cave sites, entered through an imposing natural rock arch that floods the cavern with deep blue light when the sun angle is right. Located along the island's jagged western coast within Italy's first Marine Protected Area, the cave system connects to several neighbouring grottoes and a multitude of boulder-collapse passages that play remarkable light shows across sponge-encrusted walls. Grouper, wrasse, and damselfish are abundant in the shallows outside the entrance, making this a rewarding dive for beginners who want a true Mediterranean cave experience.
 
 ## Site Information
 

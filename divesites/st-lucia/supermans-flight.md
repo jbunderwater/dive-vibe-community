@@ -17,7 +17,7 @@ Superman's Flight is a wall dive site in St. Lucia, Caribbean.
 
 ## Overview
 
-Superman's Flight is a dive site in St. Lucia featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Superman's Flight is a drift dive along the submerged face of Petit Piton — named for the cliff used in filming Superman II and for the flying sensation as the current sweeps divers Superman-style along the wall's volcanic topography. The wall plunges to well below recreational depths and between 12–21 metres the colours are exceptional, with fiery red branching rope sponges, glowing orange elephant ear sponges, and an abundance of fish life benefiting from the mineral-rich volcanic substrate. Southern stingrays cruise the invertebrate-covered incline, sea turtles appear regularly, and the current-driven drift means you cover significant ground, making every pass along the wall different.
 
 ## Site Information
 

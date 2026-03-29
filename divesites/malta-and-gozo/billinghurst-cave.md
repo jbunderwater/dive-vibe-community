@@ -17,7 +17,7 @@ Billinghurst Cave is a cave dive site in Malta and Gozo, Europe.
 
 ## Overview
 
-Billinghurst Cave is a dive site in Malta and Gozo featuring underwater cave and cavern formations . 100m tunnel through cliff face with air pocket at end. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Billinghurst Cave — also known as the Railway Tunnel — is Gozo's most impressive true cave dive, a 130-metre tunnel that cuts clean through the cliff face on the island's wild north coast near Reqqa Point. Divers enter at around 25 metres and swim through a round passage over fine sand and loose boulders; the walls are painted with colourful sponges and false corals, and conger eels and slipper lobsters hide in the crevices. After roughly 60 metres the passage rises to a massive chamber where divers can surface in a cathedral-like air pocket with a ceiling 5 metres above the waterline — an experience unlike anything else in the Maltese islands.
 
 ## Site Information
 

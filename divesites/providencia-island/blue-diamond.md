@@ -17,7 +17,7 @@ Blue Diamond is a historic wreck dive in Providencia Island, Caribbean.
 
 ## Overview
 
-Blue Diamond is a dive site in Providencia Island featuring the wreck of the Blue Diamond. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Blue Diamond is a wreck dive within Providencia's UNESCO Seaflower Biosphere Reserve, where the remains of a sunken vessel have become encrusted with hard and soft corals and sponges, creating an artificial reef structure down to 24 metres. Groupers, snappers, soldierfish, and glassy sweepers occupy the interior spaces, while sea turtles and the occasional Caribbean reef shark cruise the surrounding reef. The warm 27 to 29 degree water and excellent visibility of the protected barrier reef system make every dive a rich experience combining wreck exploration with the biodiversity of one of the Caribbean's most intact reef ecosystems.
 
 ## Site Information
 

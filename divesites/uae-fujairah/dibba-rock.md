@@ -17,7 +17,7 @@ Dibba Rock is a wall dive site in UAE - Fujairah, Middle East.
 
 ## Overview
 
-Dibba Rock is a dive site in UAE - Fujairah featuring a dramatic vertical wall that drops into the deep blue. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Dibba Rock is a 200-metre pinnacle just off the coast of Dibba Al-Fujairah — the UAE side of the bay — where a steep wall on the seaward side gives way to a gentler coral slope and an impressive wall of table corals with spans of up to 2 metres. The site is part of the oldest marine protected area in the UAE, a no-fishing zone for over 15 years, and the density of life shows it: black-tip reef sharks patrol the deeper sections while green and hawksbill turtles cruise the shallower coral gardens alongside shoaling fusiliers, trevally, and honeycomb moray eels. Green and purple whip corals cover the outer wall, and visibility regularly exceeds 20 metres.
 
 ## Site Information
 

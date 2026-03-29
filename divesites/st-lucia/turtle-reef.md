@@ -17,7 +17,7 @@ Turtle Reef is a reef dive site in St. Lucia, Caribbean.
 
 ## Overview
 
-Turtle Reef is a dive site in St. Lucia offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Turtle Reef is a crescent-shaped reef adjacent to turtle grass beds near Anse Chastanet, and as the name suggests, encounters with hawksbill and green turtles are a near-guarantee — they are accustomed to divers and often allow a very close approach. The shallower sections from 12 metres up are studded with pillar corals and barrel sponges where hawksbill turtles graze on sponge growth, while deeper areas hold sea fans and more mature coral heads. The site is protected within the Soufrière Marine Management Area and conveniently reached on short afternoon boat trips from the Anse Chastanet dive operation.
 
 ## Site Information
 

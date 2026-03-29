@@ -17,7 +17,7 @@ The Wall at Northwest Point is a wall dive site in Turks and Caicos, Caribbean.
 
 ## Overview
 
-The Wall at Northwest Point is a dive site in Turks and Caicos featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Wall at Northwest Point anchors the Northwest Point Marine National Park, where the wall crest sits at just 10–12 metres and the face drops away into the abyss adorned with magnificent formations of gold and purple tube sponges, elephant ear sponges, and towering barrel sponges. Caribbean reef sharks are a near-constant presence along the wall, and horse-eye jacks — the signature fish of Northwest Point — often circle divers during the safety stop beneath the boat. The site combines easily with other named features at the point including The Amphitheatre, The Crack, and Coral Stairway, all offering varied topography within a single drift along the protected western coastline.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Dibba Island is a reef dive site in UAE - Fujairah, Middle East.
 
 ## Overview
 
-Dibba Island is a dive site in UAE - Fujairah offering excellent diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Dibba Island is a small rocky outcrop a short boat ride from Dibba Al-Fujairah, surrounded by colourful hard and soft coral gardens that slope to rocky ground at 15 metres, where large table corals up to 2 metres across shelter an abundance of tropical fish. The site sits within a protected marine area and is consistently excellent for sea turtle encounters — both green and hawksbill turtles frequent the site — along with blacktip reef sharks, eagle rays, honeycomb morays, and shoals of iridescent fusiliers and sergeant majors. It is also a popular night dive, with sleeping turtles lodged between rocks and corals with their polyps extended to feed.
 
 ## Site Information
 

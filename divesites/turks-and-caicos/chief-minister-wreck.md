@@ -17,7 +17,7 @@ Chief Minister Wreck is a historic wreck dive in Turks and Caicos, Caribbean.
 
 ## Overview
 
-Chief Minister Wreck is a dive site in Turks and Caicos featuring the wreck of the Chief Minister Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Chief Minister Wreck sits within the barrier reef system south of Providenciales, resting in about 20 metres on a sandy bottom and best known locally for an eel garden that has colonised the wreck structure. The protected waters of the Turks and Caicos barrier reef keep this an accessible dive with the clear Caribbean visibility typical of the archipelago. Groupers, yellowtail snappers, razorfish, and batfish inhabit the surrounding reef, and the wreck's encrusted surfaces provide shelter for the moray eels and spotted drum that have made it their home.
 
 ## Site Information
 

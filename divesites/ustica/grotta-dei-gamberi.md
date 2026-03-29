@@ -17,7 +17,7 @@ Grotta dei Gamberi is a cave dive site in Ustica, Europe.
 
 ## Overview
 
-Grotta dei Gamberi is a dive site in Ustica featuring underwater cave and cavern formations. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Grotta dei Gamberi — the Shrimp Cave — is one of the most famous cave dives in the Mediterranean, accessed via an entrance arch at 40 metres near Punta Galera, with the cave floor rising gently back up to an exit at 28 metres. The walls of the 130-metre long cavern appear to ripple with movement thanks to thousands of Parapandalo shrimps covering every surface, visible when torchlight sweeps the walls in the darkness. Outside the exit, solitary groupers, sea breams, and slipper lobsters hold station on the volcanic rock, and the site also regularly yields nudibranchs including the vivid blue Facelina coronata.
 
 ## Site Information
 

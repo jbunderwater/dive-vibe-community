@@ -17,7 +17,7 @@ Shark Hotel is a wall dive site in Turks and Caicos, Caribbean.
 
 ## Overview
 
-Shark Hotel is a dive site in Turks and Caicos featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Shark Hotel at Northwest Point lives up to its name — divers descend through a chimney in the reef and emerge onto the wall at depth, where Caribbean reef sharks patrol reliably and lemon sharks make occasional appearances. Near the mooring, enormous formations of pillar coral rise from the shallower reef sections, some of the most impressive examples in the Turks and Caicos, and schools of grunts, snappers, and goatfish work the coral heads above the wall. The combination of consistent shark activity, striking pillar coral, and a dramatic wall beginning at around 20 metres makes this one of the archipelago's most memorable dives.
 
 ## Site Information
 

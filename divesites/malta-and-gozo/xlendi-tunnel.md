@@ -17,7 +17,7 @@ Xlendi Tunnel is a cave dive site in Malta and Gozo, Europe.
 
 ## Overview
 
-Xlendi Tunnel is a dive site in Malta and Gozo featuring underwater cave and cavern formations. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Xlendi Tunnel runs approximately 70 metres through the headland on the north side of Xlendi Bay, with the entrance at just 5 metres depth, making it one of Gozo's most accessible cave experiences and a popular first foray into overhead environments. Cracks in the cave ceiling let shafts of daylight fall onto the tunnel floor, creating a stunning light-and-shadow effect, and the walls are thick with golden zoanthids, red starfish, sponges, and colourful nudibranchs including the pink Flabellina affinis. Emerging on the seaward side opens onto a reef teeming with nudibranchs and, in winter months, sheltering schools of juvenile barracuda at the cave entrance.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Black Forest is a wall dive site in Turks and Caicos, Caribbean.
 
 ## Overview
 
-Black Forest is a dive site in Turks and Caicos featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Black Forest takes its name from a dense stand of black coral — both pinnate and wire varieties — that crowds an overhang on the wall between 21 and 27 metres, complemented by healthy gorgonian sea fans and sweeping expanses of plate coral. The sheer abundance of black coral here is unusual even by Turks and Caicos standards, and the wall itself drops away into thousands of feet, making it very easy to drift deeper than intended while admiring the formations. Schools of grunts and parrotfish work the shallower reef above, sea turtles and groupers pass regularly, and the intricate nooks in the coral host moray eels and crustaceans for those who slow down to look.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ The Wall is a wall dive site in Oman, Middle East.
 
 ## Overview
 
-The Wall is a dive site in Oman featuring a dramatic vertical wall that drops into the deep blue. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The Wall is a vertical reef structure near Mirbat in Oman's Dhofar region, descending to around 24 metres along a colourful rocky face colonised by the Arabian angelfish, batfish, shoaling snappers, and large moray eels characteristic of the Salalah diving area. The site is operated out of Salalah by ABT Divers and sits near Flamingo Beach along the coastline southeast of Mirbat, where the Indo-Pacific character of the marine life makes southern Oman distinct from the Gulf of Oman diving further north. Turtles, stingrays, and cuttlefish are regular encounters along the wall, and the site is available from October to May between the annual khareef monsoon seasons.
 
 ## Site Information
 

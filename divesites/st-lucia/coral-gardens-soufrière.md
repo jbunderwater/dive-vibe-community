@@ -17,7 +17,7 @@ Coral Gardens Soufrière is a reef dive site in St. Lucia, Caribbean.
 
 ## Overview
 
-Coral Gardens Soufrière is a dive site in St. Lucia offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Coral Gardens Soufrière sits at the base of the towering Gros Piton along a steep slope that runs from 5 metres down to depths well beyond recreational limits, and the site is protected by the Soufrière Marine Management Area. The reef is carpeted with five-finger coral and a kaleidoscopic array of sponges — azure vase sponges, canary yellow boring sponge, large barrel sponges, and tan tube sponges among them — all alive with chromis, grunts, soldierfish, squirrelfish, and feather stars. On calmer days the visibility stretches to 18 metres and the current carries divers gently over the sponge garden, while a brisker flow transforms the dive into an exhilarating drift.
 
 ## Site Information
 

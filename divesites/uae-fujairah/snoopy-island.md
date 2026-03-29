@@ -17,7 +17,7 @@ Snoopy Island is a reef dive site in UAE - Fujairah, Middle East.
 
 ## Overview
 
-Snoopy Island is a dive site in UAE - Fujairah offering excellent diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Snoopy Island is a small rocky outcrop off Al Aqah beach named for its resemblance to the cartoon beagle lying on his back, accessible as a shore dive from the adjacent Sandy Beach Hotel and protected as a no-fishing marine area. Green and hawksbill turtles are among the most reliable encounters in the UAE, often resting under brain coral clusters in the late afternoon, alongside blacktip reef sharks, cuttlefish, moray eels, and stingrays across shallow coral gardens, rocky slopes, and sandy flats all within 12 metres. The combination of habitats, warm waters, and permanent marine protection has made this one of the top introductory and snorkel sites on the UAE's east coast.
 
 ## Site Information
 

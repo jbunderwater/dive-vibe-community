@@ -17,7 +17,7 @@ Grand Caille is a wall dive site in St. Lucia, Caribbean.
 
 ## Overview
 
-Grand Caille is a dive site in St. Lucia featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Grand Caille — Creole for "large reef" — is one of Soufrière's most dramatic dive sites, starting shallow among massive boulders where clouds of damselfish swirl over red, orange, and yellow corals before the terrain transitions into a sheer wall lined with deep-water gorgonians, sea whips, huge brain corals, and barrel sponges in pristine condition. Trumpetfish, angelfish, butterflyfish, and lionfish inhabit the wall's middle depths, and the site is a known location for lobsters, frogfish, puffer fish, and spotted drums. The wall drops to 30 metres within the protected Soufrière Marine Management Area, and the site is a popular choice for afternoon boat dives from the Anse Chastanet operator fleet.
 
 ## Site Information
 

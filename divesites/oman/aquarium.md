@@ -17,7 +17,7 @@ Aquarium is a wall dive site in Oman, Middle East.
 
 ## Overview
 
-Aquarium is a dive site in Oman featuring a dramatic vertical wall that drops into the deep blue. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Aquarium is widely considered the jewel of Mirbat diving near Salalah, named for the sheer density of marine life — shoals of snapper, Arabian angelfish, emperor angelfish, batfish, and anemonefish are so abundant they make the site feel like a giant fish tank the moment you descend. The reef is structured around huge colourful table corals spreading over a large area at 8 to 18 metres, with hundreds of shrimp gobies dotting the sandy channels between coral heads and some of the largest moray eels in the region hiding in deeper crevices. Situated slightly offshore, Aquarium benefits from cleaner water and exceptional visibility compared to the bay sites, with turtles, stingrays, cuttlefish, and occasional leopard sharks completing the experience from October to May.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Coral Gardens Grace Bay is a reef dive site in Turks and Caicos, Caribbean.
 
 ## Overview
 
-Coral Gardens Grace Bay is a dive site in Turks and Caicos offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Coral Gardens at Grace Bay — also known as Bight Reef — is the most popular snorkelling and shallow dive site in the Turks and Caicos, set within the Princess Alexandra National Park just steps from the beach. The single main ridge of coral extends about 107 metres into Grace Bay and tops out at just 4–6 metres, with the most impressive hard and soft corals on the deeper eastern side. Green and hawksbill turtles are regularly encountered here and are unusually approachable due to regular human presence, while stoplight parrotfish, queen angelfish, Nassau grouper, yellowtail snapper, spotted moray eels, and Caribbean spiny lobster shelter under ledges throughout the reef.
 
 ## Site Information
 

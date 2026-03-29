@@ -17,7 +17,7 @@ The Amphitheatre is a wall dive site in Turks and Caicos, Caribbean.
 
 ## Overview
 
-The Amphitheatre is a dive site in Turks and Caicos featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Amphitheatre is a natural bowl-shaped recess in the wall at Northwest Point, reached by descending to about 24 metres from the mooring and then swimming west toward the wall face. The bowl is roughly 9 metres wide with a sandy floor and walls thick with colourful sea whips, sponges, and corals — divers can hover inside and look out into the blue like watching a marine orchestra. Schools of horse-eye jacks circle just outside the bowl, and black coral branches on the surrounding wall often hide seahorses clinging to the branches.
 
 ## Site Information
 

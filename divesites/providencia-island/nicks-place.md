@@ -17,7 +17,7 @@ Nick's Place is a wall dive site in Providencia Island, Caribbean.
 
 ## Overview
 
-Nick's Place is a dive site in Providencia Island featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Nick's Place is a deep wall dive along Providencia's barrier reef dropping to 40 metres, where the volcanic island's underwater flanks descend into the open Caribbean within the UNESCO Seaflower Biosphere Reserve. The wall supports healthy Creole wrasse populations and large black grouper at depth, with parrotfish, eels, and moray eels in the shallower reef sections, and Caribbean reef sharks patrolling the blue beyond the wall face. Visibility in the warm 27 to 29 degree water can exceed 30 metres, and the site rewards advanced divers with the dramatic sense of scale characteristic of Providencia's finest barrier reef wall diving.
 
 ## Site Information
 

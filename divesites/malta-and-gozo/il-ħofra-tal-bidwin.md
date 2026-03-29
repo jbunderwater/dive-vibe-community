@@ -17,7 +17,7 @@ Il-Ħofra tal-Bidwin is a cave dive site in Malta and Gozo, Europe.
 
 ## Overview
 
-Il-Ħofra tal-Bidwin is a dive site in Malta and Gozo featuring underwater cave and cavern formations. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Il-Ħofra tal-Bidwin is a cave and cavern dive site on Gozo's southwest coast in the scenic Dwejra area, close to the former Azure Window and the Inland Sea. The site features a combination of rocky cave formations, swim-throughs, and sandy patches descending to 40 metres, with the clear Mediterranean visibility allowing natural light to illuminate the shallower sections. Walls hold a variety of sponges and false corals, and the crevices provide shelter for octopus, crabs, and the typical Gozitan reef fish community, making this a rewarding site for divers who want to explore the underwater geology of the dramatic Dwejra coastline.
 
 ## Site Information
 

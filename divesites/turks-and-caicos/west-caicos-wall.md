@@ -17,7 +17,7 @@ West Caicos Wall is a wall dive site in Turks and Caicos, Caribbean.
 
 ## Overview
 
-West Caicos Wall is a dive site in Turks and Caicos featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The West Caicos Wall runs the entire length of this uninhabited island within the West Caicos Marine National Park, widely regarded as the finest wall diving in the Turks and Caicos — sheer vertical faces plunge from 10–15 metres at the crest to well beyond recreational depths, draped in orange elephant ear sponges, towering barrel sponges, and dense gorgonian fans. Caribbean reef sharks cruise the wall on virtually every dive, and it's common to encounter spotted eagle rays, sea turtles, and horse-eye jacks in the open water beyond the drop-off. The remoteness requires a longer boat ride from Provo, but the consistently spectacular coral health and shark activity make it well worth it.
 
 ## Site Information
 

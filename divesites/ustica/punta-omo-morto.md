@@ -17,7 +17,7 @@ Punta Omo Morto is a wall dive site in Ustica, Europe.
 
 ## Overview
 
-Punta Omo Morto is a dive site in Ustica featuring a dramatic vertical wall that drops into the deep blue. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Punta Omo Morto sits beneath the island's 16th-century lighthouse, where a colourful wall of pyroclastic rock descends to around 25 metres and is colonised by gorgonians, yellow cluster anemones, and the damselfish and wrasse typical of Ustica's protected waters. At the midpoint of the wall, a wide cave opens up with a small tunnel whose walls are studded with shrimps and forkbeard, while schools of amberjack regularly cruise past in the blue just beyond the drop. The dive is straightforward enough for beginners yet rich enough to keep more experienced divers occupied, sitting on the boundary between Zones B and C of the Marine Protected Area.
 
 ## Site Information
 
