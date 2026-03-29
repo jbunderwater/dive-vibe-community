@@ -17,7 +17,7 @@ Ikkanneq is a reef dive site in Greenland, Arctic.
 
 ## Overview
 
-Ikkanneq is a dive site in Greenland offering rewarding diving on healthy coral reef structures. Located in the Arctic region, this site offers 10-30 meters of visibility with water temperatures averaging -1 to 8°C.
+Ikkanneq takes its name from the Greenlandic word for a shallow reef or underwater ledge, and sits in the waters near Ilulissat in Disko Bay, western Greenland. The rocky substrate supports trailing kelp forests, with nudibranchs, skeleton shrimp, scallops, and bristle worms inhabiting the algae-covered boulders down to 18 meters. Humpback and minke whales feed in the surrounding waters during summer, and divers may encounter harbour seals and large schools of polar cod on the reef.
 
 ## Site Information
 

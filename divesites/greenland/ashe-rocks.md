@@ -17,7 +17,7 @@ Ashe Rocks is a reef dive site in Greenland, Arctic.
 
 ## Overview
 
-Ashe Rocks is a dive site in Greenland offering rewarding diving on healthy coral reef structures. Located in the Arctic region, this site offers 10-30 meters of visibility with water temperatures averaging -1 to 8°C.
+Ashe Rocks is an exposed rocky reef formation off southern Greenland, where strong tidal currents sweep nutrient-rich water across boulder-strewn terrain down to 12 meters. The site features encrusting anemones, hydroids, and cold-water soft corals clinging to the rocks, with Atlantic wolffish, lumpfish, and shorthorn sculpin sheltering in the crevices. Water temperatures hover near freezing year-round, and shifting ice conditions make this a weather-dependent, expedition-level dive.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Nuugaatsiaap Ikkannera is a reef dive site in Greenland, Arctic.
 
 ## Overview
 
-Nuugaatsiaap Ikkannera is a dive site in Greenland offering rewarding diving on healthy coral reef structures. Located in the Arctic region, this site offers 10-30 meters of visibility with water temperatures averaging -1 to 8°C.
+Nuugaatsiaap Ikkannera is a shallow reef near the settlement of Nuugaatsiaq in northwestern Greenland, where the rocky seabed drops to 22 meters through cold, clear Arctic water. The site features kelp-covered boulders sheltering crabs, sea urchins, and Arctic fish species including polar cod and sculpin. The surrounding fjord system was reshaped by a major landslide-triggered tsunami in 2017, and the underwater topography reflects the dramatic geology of this remote Greenlandic coastline.
 
 ## Site Information
 
