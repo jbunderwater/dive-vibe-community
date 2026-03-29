@@ -17,7 +17,7 @@ Turtle Pinnacle is a pinnacle dive site in Hawaii Big Island, Pacific.
 
 ## Overview
 
-Turtle Pinnacle is a dive site in Hawaii Big Island offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Turtle Pinnacle is a renowned underwater seamount off the Kona coast that rises from the depths to within 5 meters of the surface. The pinnacle serves as a natural cleaning station for Hawaiian green sea turtles, with divers regularly encountering 5 to 10 turtles per dive as surgeonfish and wrasse nibble algae and parasites from their shells. The volcanic substrate supports diverse coral growth, and the typically light currents and excellent visibility of 45 to 60 meters make this a relaxed, rewarding dive for all certification levels.
 
 ## Site Information
 
