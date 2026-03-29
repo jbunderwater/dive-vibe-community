@@ -32,7 +32,7 @@ Goddamahagale is a shallow shore reef on Sri Lanka's west coast near Negombo, de
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Divers at this site can expect to encounter lionfish, scorpionfish, moray eels, reef octopus, and various wrasse species among the rocky formations. Green and hawksbill sea turtles are regularly spotted, along with schools of fusiliers and snappers. The coral substrate supports nudibranchs, sea stars, and hermit crabs, making it a productive site for macro photography at a relaxed pace.
 
 ## Dive Profile
 
