@@ -17,7 +17,7 @@ The Labyrinth is a reef dive site in Ningaloo Reef, Oceania.
 
 ## Overview
 
-The Labyrinth is a dive site in Ningaloo Reef offering rewarding diving on healthy coral reef structures. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+The Labyrinth is a local favourite at Lighthouse Bay on the northern tip of the Ningaloo peninsula, featuring a maze of limestone craters, swim-throughs, and channels that create one of the most interesting underwater topographies on the reef. Green turtles rest inside the caves and use a cleaning station here, while pufferfish, porcupinefish, crayfish, and octopus inhabit the passages. In season, whale sharks, humpback whales, leopard sharks, and dugongs pass through this sanctuary zone where fishing is prohibited.
 
 ## Site Information
 

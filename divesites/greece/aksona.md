@@ -17,7 +17,7 @@ Aksona is a reef dive site in Greece, Europe.
 
 ## Overview
 
-Aksona is a dive site in Greece offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Aksona is a rocky reef dive site in the Dodecanese Islands of Greece, located in the warm, clear waters between Kos and the Turkish coast. The site features Mediterranean rock formations draped with sponges, sea fans, and posidonia seagrass beds that shelter octopus, moray eels, grouper, and nudibranchs. Visibility regularly exceeds 20 meters in summer, and the area is known for sightings of amberjack, barracuda, and the occasional sea turtle.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Tavolara Island is a reef dive site in Sardinia, Europe.
 
 ## Overview
 
-Tavolara Island is a dive site in Sardinia offering rewarding diving on healthy coral reef structures . Part of marine protected area with limestone and granite formations, 16 mooring buoys, dusky groupers. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Tavolara Island sits at the heart of the Tavolara Punta Coda Cavallo Marine Protected Area, which covers 15,000 hectares of sea and 40 kilometres of coastline in northeastern Sardinia. The limestone and granite formations around the island shelter majestic dusky groupers, moray eels, barracuda, snappers, and clouds of damselfish in waters that have thrived since the area gained protection in the late 1990s. Diving is regulated across three zones with designated mooring buoys, and the biodiversity has increased dramatically under decades of marine conservation.
 
 ## Site Information
 

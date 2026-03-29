@@ -17,7 +17,7 @@ Diving Archimete is a reef dive site in Sardinia, Europe.
 
 ## Overview
 
-Diving Archimete is a dive site in Sardinia offering rewarding diving on healthy coral reef structures . Rocky reef diving site in Alghero area with rich coral and fish life. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Diving Archimete is located at Tramariglio Bay in the heart of the Capo Caccia-Isola Piana Marine Protected Area, a UNESCO-recognized area famous for its spectacular underwater and semi-submerged caves. The rocky reef sites here include the Grotta di Nereo with its labyrinth of galleries at 29-32 metres colonized by red coral and spiny lobsters, the Archi di Nereo with walls covered in sponges and sea daisies at 15-18 metres, and the Grotta della Madonnina where barracuda, amberjack, and sea bream patrol the surrounding waters.
 
 ## Site Information
 

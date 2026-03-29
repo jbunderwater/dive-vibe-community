@@ -17,7 +17,7 @@ McGrail Bank is a reef dive site in Flower Garden Banks, North America.
 
 ## Overview
 
-McGrail Bank is a dive site in Flower Garden Banks offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+McGrail Bank is a deep reef within the Flower Garden Banks National Marine Sanctuary, with the reef cap starting at around 44 meters, making it a technical diving destination. The bank is the only known coral reef dominated by blushing star coral (Stephanocoenia intersepta), with coral cover reaching 28 percent in some areas. Deeper mesophotic zones host black corals, octocorals, and dense sponge communities, while the water column attracts creolefish, grouper, snapper, and horseye jacks.
 
 ## Site Information
 

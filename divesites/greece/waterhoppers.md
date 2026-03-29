@@ -17,7 +17,7 @@ Waterhoppers is a reef dive site in Greece, Europe.
 
 ## Overview
 
-Waterhoppers is a dive site in Greece offering rewarding diving on healthy coral reef structures . Info point only. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Waterhoppers is a dive site off Rhodes in the Dodecanese Islands, situated near the operations area of the long-established Waterhoppers Diving School. The rocky Mediterranean seabed features volcanic formations, caverns, and walls with excellent visibility typical of the Aegean Sea. Divers encounter cuttlefish, octopus, grouper, nudibranchs, and an increasing number of Red Sea species including lionfish and rabbitfish that have migrated through the Suez Canal.
 
 ## Site Information
 
