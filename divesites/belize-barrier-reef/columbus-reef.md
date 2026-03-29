@@ -17,7 +17,7 @@ Columbus Reef is a reef dive site in Belize Barrier Reef, Caribbean.
 
 ## Overview
 
-Columbus Reef is a dive site in Belize Barrier Reef offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Columbus Reef sits in the central Belize Barrier Reef east of Dangriga, in one of the most pristine and least-visited stretches of the reef system. The site features well-developed spur-and-groove formations and dramatic fore-reef drop-offs where the reef wall plunges into deep blue water. Divers encounter healthy populations of reef sharks, spotted eagle rays, large groupers, and dense schools of snappers among unspoiled hard coral gardens. This section of the barrier reef sees far fewer divers than the northern cayes, making it an excellent choice for those seeking uncrowded conditions with 20-30 meters of visibility.
 
 ## Site Information
 

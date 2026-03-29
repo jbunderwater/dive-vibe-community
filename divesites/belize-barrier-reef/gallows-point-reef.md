@@ -17,7 +17,7 @@ Gallows Point Reef is a reef dive site in Belize Barrier Reef, Caribbean.
 
 ## Overview
 
-Gallows Point Reef is a dive site in Belize Barrier Reef offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Gallows Point Reef is a five-mile section of the barrier reef located off St. George's Caye near Belize City, notable for its wall formations rather than the coral canyons found further north. The dive begins over sandy flats at around 10 meters before reaching canyons formed by star, brain, and plate coral that lead to a wall dropping from about 10 meters down to a sandy slope at 33 meters. The wall is covered in gorgonian sea fans and soft corals, while the sand below hosts garden eels, jawfish, and tube worms. This site is recognized as important habitat for the critically endangered hawksbill sea turtle, with frequent sightings alongside spotted eagle rays, snappers, groupers, angelfish, and trumpetfish.
 
 ## Site Information
 

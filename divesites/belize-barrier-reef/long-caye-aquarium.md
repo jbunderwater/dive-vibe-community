@@ -17,7 +17,7 @@ Long Caye Aquarium is a reef dive site in Belize Barrier Reef, Caribbean.
 
 ## Overview
 
-Long Caye Aquarium is a dive site in Belize Barrier Reef offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Long Caye Aquarium, commonly called "The Aquarium," is a renowned shallow wall dive on the western side of Lighthouse Reef Atoll, often the third stop on Blue Hole excursions and frequently rated the highlight of the trip. The reef starts as a flat table-top formation at about 6 meters covered in clusters of brain coral, purple sea fans, and groves of sea plumes, then drops suddenly at around 11 meters into a wall that continues into deep blue water. Overhangs along the wall host tiger groupers and black coral, while the shallows teem with schools of bermuda chubs, sergeant majors, creole wrasse, and a rich variety of invertebrates including shrimp and lobster. Visibility at Lighthouse Reef is outstanding, typically 25-40 meters.
 
 ## Site Information
 

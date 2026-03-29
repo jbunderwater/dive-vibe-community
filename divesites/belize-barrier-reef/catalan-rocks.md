@@ -17,7 +17,7 @@ Catalan Rocks is a reef dive site in Belize Barrier Reef, Caribbean.
 
 ## Overview
 
-Catalan Rocks is a dive site in Belize Barrier Reef offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Catalan Rocks, also known as Mata Canyons, is a spur-and-groove reef site along the central section of the Ambergris Caye barrier reef. The site features classic canyon formations with coral fingers jutting perpendicular to the reef line, creating gullies and swim-throughs to explore at depths around 15-20 meters. Nurse sharks rest under ledges, spotted eagle rays cruise the sandy channels hunting queen conch, and the coral spurs are decorated with sea fans, brain coral, and barrel sponges. Visibility typically ranges from 20 to 30 meters with warm water year-round.
 
 ## Site Information
 
