@@ -17,7 +17,7 @@ Terceira Reef is a reef dive site in Azores, Europe.
 
 ## Overview
 
-Terceira Reef is a dive site in Azores offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Terceira Reef is a volcanic rock reef off Terceira Island, where dramatic basalt formations, lava tubes, and walls descend to depths of 40 metres. The reef is blanketed in white, red, and brown soft corals, with black coral colonies found on the deeper walls. Resident dusky groupers, barred hogfish, and scorpionfish share the site with passing schools of barracuda, Almaco jacks, and seasonal eagle rays cruising through the blue Azorean water.
 
 ## Site Information
 

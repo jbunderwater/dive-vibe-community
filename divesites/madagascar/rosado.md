@@ -17,7 +17,7 @@ Rosado is a reef dive site in Madagascar, Africa.
 
 ## Overview
 
-Rosado is a dive site in Madagascar offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Rosado is a reef dive site in the waters off Nosy Be, northwestern Madagascar, an archipelago renowned for over 400 coral species and marine fauna often endemic to Malagasy waters. The site features healthy hard and soft coral formations with gorgonian sea fans, attracting reef sharks, stingrays, schools of snappers and barracudas, and a rich assortment of nudibranchs and other macro life. Diving conditions are best from April to December with visibility of 15-30 meters and warm water temperatures of 25-30°C, with the possibility of whale shark encounters from September through December.
 
 ## Site Information
 

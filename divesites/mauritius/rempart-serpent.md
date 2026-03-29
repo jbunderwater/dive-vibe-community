@@ -17,7 +17,7 @@ Rempart Serpent is a reef dive site in Mauritius, Africa.
 
 ## Overview
 
-Rempart Serpent is a dive site in Mauritius offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Rempart Serpent (Snake Reef) is one of the quirkiest dives in Mauritius, named after a winding snake-like rock formation stretching over 100 meters at 25 meters depth off Flic en Flac. The mesmerizing blanket of seaweed draped over the formation sways in the current, resembling a slow-moving serpent. What makes this site unique in Mauritius is the extraordinary concentration of ambush predators: stonefish, scorpionfish, lionfish, and moray eels cluster along the reef in unusual density, alongside groupers and a variety of colorful butterflyfish and angelfish.
 
 ## Site Information
 

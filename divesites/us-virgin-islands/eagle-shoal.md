@@ -17,7 +17,7 @@ Eagle Shoal is a reef dive site in US Virgin Islands, Caribbean.
 
 ## Overview
 
-Eagle Shoal is a dive site in US Virgin Islands offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Eagle Shoal is a rarely visited gem on St. John's east end between Ram Head and Leduck Island, featuring a row of three long coral fingers riddled with caves, arches, tunnels, and overhangs. The highlight is "The Cathedral," a large sunlit chamber adorned with vibrant sponges and orange cup coral where underwater weddings have been held. The exposed open-ocean location means encounters with sharks and eagle rays are possible, and the protected terrain harbors exceptional fish density including schools of grunts, porkfish, spotted drums, Nassau grouper, and queen angelfish.
 
 ## Site Information
 

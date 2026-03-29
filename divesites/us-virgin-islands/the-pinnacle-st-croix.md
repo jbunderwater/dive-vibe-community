@@ -17,7 +17,7 @@ The Pinnacle (St. Croix) is a pinnacle dive site in US Virgin Islands, Caribbean
 
 ## Overview
 
-The Pinnacle (St. Croix) is a dive site in US Virgin Islands offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Pinnacle on St. Croix's north shore is a dramatic geological formation on the western edge of Salt River Canyon, where a maze of rock spires shoots up from around 29 meters to about 12 meters depth. The pinnacles are laced with swim-throughs, cuts, ledges, overhangs, and recesses, with schools of creole wrasse and yellowtail snappers gathered off the wall edge. Deeper water brings encounters with jacks, permits, barracuda, green morays, and rays gliding past the spires, while the craggy fissures shelter octopus and lobster.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ French Cap Cay is a reef dive site in US Virgin Islands, Caribbean.
 
 ## Overview
 
-French Cap Cay is a dive site in US Virgin Islands offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+French Cap Cay is an uninhabited islet roughly 6 miles south of St. Thomas, reachable only in flat-calm conditions and reserved for advanced divers due to strong currents and exposure. The site is like a small mountain rising 90 feet through the water, offering three distinct zones: a shallow sunlit cathedral chamber at 35 feet, lobster-stuffed ledges dropping to 65 feet, and current-swept pinnacles rising from 95 feet where schools of jacks and barracuda patrol. Divers encounter spotted eagle rays, green morays, octopus, sea turtles, and the rarely seen black triggerfish.
 
 ## Site Information
 

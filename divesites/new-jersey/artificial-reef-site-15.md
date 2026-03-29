@@ -17,7 +17,7 @@ Artificial Reef Site 15 is a reef dive site in New Jersey Shore, North America.
 
 ## Overview
 
-Artificial Reef Site 15 is a dive site in New Jersey Shore offering rewarding diving on healthy coral reef structures . Coordinates correspond to Cape May Artificial Reef area; NJ has 14 official reef sites, no numbered Site 15 exists. Depth range 50-75 ft at Cape May reef.. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Artificial Reef Site 15 is part of New Jersey's extensive artificial reef network, one of the most recognized programs on the entire Atlantic Coast. The Cape May area reef contains sunken Army tanks, tire units, and decommissioned subway cars that now serve as habitat for black sea bass, tautog (blackfish), porgy, and American lobster at depths of 50 to 75 feet. Visibility is typically 5-25 meters depending on season and currents, with water temperatures ranging from 7-24°C, and the best diving conditions occurring from June through October.
 
 ## Site Information
 
