@@ -17,7 +17,7 @@ Mt Irvine Wall is a wall dive site in Tobago, Caribbean.
 
 ## Overview
 
-Mt Irvine Wall is a dive site in Tobago featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Mt Irvine Wall lies just outside Mt Irvine Bay on Tobago's Caribbean coast and is a shallow rock-and-crevice reef maxing out at around 15 metres, making it ideal for beginners and experienced divers alike. The wall's canyons, cracks, and ledges shelter moray eels, spiny lobsters, octopus, and the occasional seahorse, while barrel sponges host brittlestars and barracuda cruise overhead in the surge above the coral fans.
 
 ## Site Information
 

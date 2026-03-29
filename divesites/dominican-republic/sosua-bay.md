@@ -17,7 +17,7 @@ Sosua Bay is a reef dive site in Dominican Republic, Caribbean.
 
 ## Overview
 
-Sosua Bay is a dive site in Dominican Republic offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Sosua Bay is the primary dive hub on the Dominican Republic's north coast, protected from Atlantic swell by a horseshoe-shaped bay where the wind blows offshore almost daily, keeping currents minimal and visibility consistently 15–30 metres. The bay shelters a variety of sites ranging from shallow coral-pinnacle gardens like Three Rocks and the Coral Gardens nursery restoration project to deeper wall dives along the Airport Wall with its tunnels and swim-throughs, plus the 36-metre Zingara wreck sunk as an artificial reef in 1993.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Stetson Bank is a wall dive site in Flower Garden Banks, North America.
 
 ## Overview
 
-Stetson Bank is a dive site in Flower Garden Banks featuring a dramatic vertical wall that drops into the deep blue. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Stetson Bank is the third unit of the Flower Garden Banks National Marine Sanctuary, located 75–115 miles off the Texas coast, and it stands apart from its two coral-reef siblings — instead of limestone, its crest of eroded siltstone and claystone creates a strange moonscape of sponge- and fire-coral-cloaked pinnacles jutting up from 70 feet. Unique creatures like sailfin blennies, golden-phase smooth trunkfish, and longlure frogfish make Stetson a standout fish-watching destination, with summer months bringing manta rays and the occasional whale shark.
 
 ## Site Information
 

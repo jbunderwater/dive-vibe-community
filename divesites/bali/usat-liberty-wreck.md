@@ -17,7 +17,7 @@ USAT Liberty Wreck is a historic wreck dive in Bali, Asia.
 
 ## Overview
 
-USAT Liberty Wreck is a dive site in Bali featuring the wreck of the USAT Liberty Wreck. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The USAT Liberty was a US Army cargo ship torpedoed by a Japanese submarine in January 1942 and beached at Tulamben, where it remained until the 1963 eruption of Mount Agung shook it off the beach and into the sea — now lying parallel to shore just 30 metres out, accessible without a boat. The 120-metre wreck spans 3 to 30 metres depth, its hull completely encrusted in soft corals, gorgonian fans, and sponges, with resident schools of bigeye trevally, bumphead parrotfish at night, Napoleon wrasse, and an extraordinary range of macro life making this one of the world's great shore dives.
 
 ## Site Information
 

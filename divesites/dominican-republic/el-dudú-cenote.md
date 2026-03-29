@@ -17,7 +17,7 @@ El Dudú Cenote is a cave dive site in Dominican Republic, Caribbean.
 
 ## Overview
 
-El Dudú Cenote is a dive site in Dominican Republic featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+El Dudú is a large freshwater sinkhole near Cabrera on the Dominican Republic's north coast, entered via cement stairs leading down to crystal-clear water with visibility exceeding 50 metres. The main cave tunnel stretches over 100 metres and features a halocline near the entrance, a 15-metre-tall column of dark tannic-stained rock formations, and an air dome at about 50 metres in, eventually connecting to a second entrance called Cueva de Lily through a complex system used by advanced cave divers.
 
 ## Site Information
 

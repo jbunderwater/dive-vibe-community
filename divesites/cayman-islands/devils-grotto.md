@@ -17,7 +17,7 @@ Devil's Grotto is a cave dive site in Cayman Islands, Caribbean.
 
 ## Overview
 
-Devil's Grotto is a dive site in Cayman Islands featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Devil's Grotto is a labyrinthine reef formation of interconnected caverns, tunnels, and light shafts just south of Seven Mile Beach in George Town, entered directly from shore at depths of 4–12 metres. The site is famous for its summer spectacle when massive schools of silversides fill the caverns with a shimmering silver curtain while tarpon slice through the baitfish, and the sun shafts beaming through gaps in the overhead rock create one of Grand Cayman's most photographed underwater scenes.
 
 ## Site Information
 

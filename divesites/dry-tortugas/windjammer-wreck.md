@@ -17,7 +17,7 @@ Windjammer Wreck is a historic wreck dive in Dry Tortugas, North America.
 
 ## Overview
 
-Windjammer Wreck is a dive site in Dry Tortugas featuring the wreck of the Windjammer Wreck. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Windjammer Wreck is the remains of the iron-hulled, three-masted sailing ship Avanti, built in 1875 and lost on January 22, 1907, after battling a Gulf hurricane — all 19 crew survived. The 261-foot hull rests in just 6–7 metres of water roughly 1,100 yards southwest of Loggerhead Key, its iron skeleton standing upright and well-preserved due to iron's corrosion resistance, with the wreck now colonised by stony and gorgonian corals and populated by goliath grouper, barracuda, snapper, and spiny lobster.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Chankanaab Reef is a reef dive site in Cozumel, Caribbean.
 
 ## Overview
 
-Chankanaab Reef is a dive site in Cozumel offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Chankanaab Reef fronts the protected national park of the same name at kilometre 9 on Cozumel's southern coast, offering easy shore entry directly into crystal-clear water teeming with parrotfish, angelfish, spotted drum, and long-snout seahorses in 5–12 metres. A mild northward current keeps the water refreshed and visibility consistently excellent, and for certified divers the submerged cave La Quebrada — the only shore-accessible cave dive in Cozumel — is a highlight accessed through a halocline where cool freshwater meets the sea.
 
 ## Site Information
 
