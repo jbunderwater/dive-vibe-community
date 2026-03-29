@@ -17,7 +17,7 @@ Mangel Halto Reef is a reef dive site in Aruba, Caribbean.
 
 ## Overview
 
-Mangel Halto Reef is a dive site in Aruba offering excellent diving on healthy coral reef structures . Tugboat wreck (Kappel) at 12m in lagoon area, deep drop-off beyond reef. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Mangel Halto is a sheltered cove on Aruba's southeastern coast where a shore entry leads through mangrove-fringed shallows and then out over a beautiful coral reef extending to about 12 meters, with a steep drop-off falling away beyond the outer reef edge. A small tugboat wreck rests upright in the lagoon at around 12 meters, providing a focal point covered in soft corals and attracting grouper, angelfish, and occasionally curious sea turtles. The site's relatively remote location means it sees less traffic than the popular north coast reefs, keeping the coral in particularly good condition.
 
 ## Site Information
 

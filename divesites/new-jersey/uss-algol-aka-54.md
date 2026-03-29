@@ -17,7 +17,7 @@ USS Algol (AKA-54) is a historic wreck dive in New Jersey Shore, North America.
 
 ## Overview
 
-USS Algol (AKA-54) is a dive site in New Jersey Shore featuring a historic wreck. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The USS Algol (AKA-54) was a 459-foot Arcturus-class attack cargo ship that served in both WWII and Korea before being decommissioned and intentionally sunk in 1988 as part of New Jersey's artificial reef program, lying at 45 meters about 23 miles off Manasquan Inlet. She is one of the largest vessels in the NJ reef system and sits upright with most of her superstructure intact — the cargo holds, engineering spaces, and crew quarters are accessible to qualified wreck divers willing to handle the depth. Codfish and pollock aggregate in enormous schools around the hull in cooler months, while sand tiger sharks circle the wreck from July through September.
 
 ## Site Information
 

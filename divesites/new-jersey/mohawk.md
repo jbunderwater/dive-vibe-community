@@ -17,7 +17,7 @@ Mohawk is a historic wreck dive in New Jersey Shore, North America.
 
 ## Overview
 
-Mohawk is a dive site in New Jersey Shore featuring the wreck of the Mohawk. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Mohawk was a 251-foot United States Coast Guard cutter that struck a mine in January 1942 and sank in 24 meters off the New Jersey coast, now one of the most popular recreational wreck dives in the region due to its accessible depth and dramatic history. The wreck lies heeled on her starboard side with the deck, wheelhouse, and gun mount still recognizable, draped in a thick layer of mussels, frilled anemones, and hydroids that attract dense schools of blackfish, sea bass, and pollock. Visibility can be limited to 3-5 meters in summer when the plankton blooms, but the wreck's well-preserved profile and resident lobsters make every dive worthwhile.
 
 ## Site Information
 

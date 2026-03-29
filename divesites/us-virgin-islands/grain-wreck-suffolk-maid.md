@@ -17,7 +17,7 @@ Grain Wreck (Suffolk Maid) is a historic wreck dive in US Virgin Islands, Caribb
 
 ## Overview
 
-Grain Wreck (Suffolk Maid) is a dive site in US Virgin Islands featuring the wreck of the Grain Wreck (Suffolk Maid). Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Grain Wreck, also known as the Suffolk Maid, is a 19th-century cargo vessel lying off St. Thomas in about 23 meters, broken and scattered across the bottom but with sections of hull plating and structural ribs still recognizable amid the coral growth. The wreck's age means the steel has long since become reef, with dense coral encrustation covering the remains and large groups of snapper, goatfish, and French grunts using the scattered debris as habitat. The combination of historical character, healthy fish life, and moderate depth makes it a favorite second wreck dive for operators running multi-site charters.
 
 ## Site Information
 

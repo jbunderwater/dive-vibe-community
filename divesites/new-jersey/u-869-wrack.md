@@ -17,7 +17,7 @@ U-869 (Wrack) is a historic wreck dive in New Jersey Shore, North America.
 
 ## Overview
 
-U-869 (Wrack) is a dive site in New Jersey Shore featuring the wreck of the U-869 (Wrack). Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+U-869 is one of the most historically significant and harrowing wreck dives in the world — a German Type IXC/40 U-boat lying at 73 meters, about 60 miles off the New Jersey coast, whose true identity was unknown for decades and was only confirmed by scuba divers in 1991 after a painstaking investigation that became the book Shadow Divers. The submarine lies upright and largely intact with her conning tower, deck gun, and torpedo tubes still visible, entombed in cold dark water with the remains of her 56 crew still inside. The extreme depth demands trimix, and decompression obligations of well over an hour make this an exclusively technical dive — but for those qualified, the U-869 carries an emotional weight unlike almost any other dive site on earth.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Salt River Canyon is a wall dive site in US Virgin Islands, Caribbean.
 
 ## Overview
 
-Salt River Canyon is a dive site in US Virgin Islands featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Salt River Canyon on St. Croix's north shore is a submerged river canyon where Columbus anchored in 1493, now divided into an East Wall and West Wall by a current-swept channel that drops from 15 meters at the canyon mouth to well over 60 meters into open water. The canyon walls are draped in black coral forests starting as shallow as 12 meters, along with huge barrel sponges, orange elephant ear sponges, and dense concentrations of deep-water gorgonians. Strong current at the channel opening funnels in pelagic life including eagle rays, turtles, Caribbean reef sharks, and occasionally hammerheads, while the walls themselves shelter lobster, moray eels, and spotted drums in every crevice.
 
 ## Site Information
 

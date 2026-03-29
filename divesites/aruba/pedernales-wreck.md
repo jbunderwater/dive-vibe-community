@@ -17,7 +17,7 @@ Pedernales Wreck is a historic wreck dive in Aruba, Caribbean.
 
 ## Overview
 
-Pedernales Wreck is a dive site in Aruba featuring the wreck of the Pedernales Wreck . Torpedoed by German U-boat, shallow and beginner-friendly. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Pedernales was a Standard Oil tanker torpedoed by the German submarine U-156 in February 1942 during Operation Neuland; the mid-section sank in place while the repaired bow and stern were towed away and returned to service. What remains today is the central section of the hull lying at 8 meters, completely encrusted with colorful sponges and coral, easily explored without penetration and accessible to Open Water divers. Hawksbill turtles regularly rest on the wreck and show little concern for divers, making this a reliable site for close wildlife encounters in calm, clear Caribbean water.
 
 ## Site Information
 

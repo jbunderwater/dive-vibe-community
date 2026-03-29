@@ -17,7 +17,7 @@ Andrea Doria is a historic wreck dive in New Jersey Shore, North America.
 
 ## Overview
 
-Andrea Doria is a dive site in New Jersey Shore featuring the wreck of the Andrea Doria . Technical/extreme dive; nicknamed the Mount Everest of wreck diving. 240 ft max depth, 190 ft min. Located 100 miles offshore near Nantucket.. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Andrea Doria is the most storied and dangerous wreck dive in the western Atlantic — a 697-foot Italian ocean liner that sank in July 1956 after colliding with the MS Stockholm, lying on her starboard side in 73 meters of cold water 160 miles off Nantucket, accessible only by long-range charter boat. The combination of extreme depth, cold thermoclines, strong currents, narcosis, and a significant overhead environment has earned her the title "Mount Everest of wreck diving," and more than a dozen divers have died attempting the penetration. The wreck is extensively broken down with the stern section partially collapsed, but the hull is encrusted with anemones and soft corals, and massive codfish, pollock, and ocean pout shelter in the structure alongside rare ceramic dinnerware — the famous china plates — still visible in the debris.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Great Isaac is a historic wreck dive in New Jersey Shore, North America.
 
 ## Overview
 
-Great Isaac is a dive site in New Jersey Shore featuring the wreck of the Great Isaac. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Great Isaac is a steel-hulled tugboat that sank in the late 1960s and now lies broken in two pieces in 27 meters of water off Barnegat, part of the New Jersey artificial reef system. The wreck sits upright with the bow and stern sections separated by a sand gap, both structures heavily encrusted with mussels, hydroids, and anemones that support large colonies of tautog (blackfish), cunner, and sea bass throughout the warmer months. Summer brings sand tiger sharks cruising the surrounding sand flats, and the lobsters that hide beneath the wreck structure are among the largest reported on any NJ inshore site.
 
 ## Site Information
 

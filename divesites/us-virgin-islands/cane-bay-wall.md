@@ -17,7 +17,7 @@ Cane Bay Wall is a wall dive site in US Virgin Islands, Caribbean.
 
 ## Overview
 
-Cane Bay Wall is a dive site in US Virgin Islands featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Cane Bay Wall is St. Croix's most celebrated dive, a vertical coral wall that begins in just 12 meters before dropping sheer to over 900 meters — one of the steepest near-shore drop-offs in the Caribbean. The wall face is covered in black coral trees, massive barrel sponges, and branching black wire coral, with deep-water species like black durgon, creole wrasse in vast schools, and occasional whale sharks visible in the blue at depth. The site is accessible as a shore dive from Cane Bay beach, with the reef starting right off the shoreline, making it extraordinary accessible for such a dramatic wall.
 
 ## Site Information
 

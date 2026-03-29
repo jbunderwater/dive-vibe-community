@@ -17,7 +17,7 @@ Cartanser Sr Wreck is a historic wreck dive in US Virgin Islands, Caribbean.
 
 ## Overview
 
-Cartanser Sr Wreck is a dive site in US Virgin Islands featuring the wreck of the Cartanser Sr Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Cartanser Sr. is a 190-foot steel cargo vessel intentionally sunk in 1977 off St. Thomas in the BVI's Sir Francis Drake Channel, resting upright at 14 meters — shallow enough for Open Water divers to explore the main deck and superstructure in full comfort. The wreck has been submerged long enough to develop a thick covering of coral and sponge growth, and the accessible wheelhouse and cargo holds support large populations of glassy sweepers, French grunts, and snapper. Hawksbill turtles are frequently seen resting on the deck, and the clear water and easy conditions make it a reliable site for wide-angle photography.
 
 ## Site Information
 

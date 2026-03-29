@@ -17,7 +17,7 @@ Buck Island Reef is a reef dive site in US Virgin Islands, Caribbean.
 
 ## Overview
 
-Buck Island Reef is a dive site in US Virgin Islands offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Buck Island Reef National Monument off St. Croix's northeast coast encompasses one of the finest elkhorn coral barrier reef systems in the Caribbean, where a designated underwater snorkel trail leads through massive stands of staghorn coral, brain coral, and sea fans in 3-12 meters of gin-clear water. The monument's protected status since 1961 has allowed the reef to maintain exceptional biodiversity, with dense aggregations of parrotfish, blue tangs, queen angelfish, and virtually every common Caribbean reef species visible on a single dive. Green sea turtles nesting on Buck Island's beaches are a fixture in the water, and eagle rays frequently patrol the sandy lagoon between the reef and shore.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Tolten is a historic wreck dive in New Jersey Shore, North America.
 
 ## Overview
 
-Tolten is a dive site in New Jersey Shore featuring the wreck of the Tolten. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Tolten was a Chilean cargo ship torpedoed by the German submarine U-404 in March 1942 as part of the devastating U-boat campaign along the American East Coast, sinking about 30 miles off New Jersey in 29 meters of water. The wreck lies broken but recognizable, with her boilers exposed and much of the hull structure still forming a coherent dive profile, covered in mussels and hydroids with tautog and black sea bass schooling around the debris. The Tolten is one of dozens of WWII merchant casualties accessible from New Jersey dive charters, a tangible reminder of the deadly submarine war that played out just miles from the American shoreline.
 
 ## Site Information
 

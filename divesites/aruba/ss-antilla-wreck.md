@@ -17,7 +17,7 @@ SS Antilla Wreck is a historic wreck dive in Aruba, Caribbean.
 
 ## Overview
 
-SS Antilla Wreck is a dive site in Aruba featuring a historic wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The SS Antilla is the largest shipwreck in the Caribbean, a 400-foot German freighter scuttled by her crew on May 10, 1940 rather than allow capture after Germany invaded the Netherlands. She lies on her port side on the sandy bottom off Malmok Beach at 18-27 meters, broken into several sections but still largely intact, with enormous anchor chains, a cavernous engine room, and multiple cargo holds all accessible to divers. The hull is encrusted with orange cup corals, giant barrel sponges, and vivid tube sponges, and the resident population of moray eels, grouper, hawksbill turtles, and barracuda is dense enough to guarantee wildlife encounters on every dive.
 
 ## Site Information
 
