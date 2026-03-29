@@ -17,7 +17,7 @@ Johnson's Reef is a drift dive site in Andaman Islands, Asia.
 
 ## Overview
 
-Johnson's Reef is a dive site in Andaman Islands offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Johnson's Reef is an advanced drift dive site east of Havelock Island, where strong currents sweep across coral-encrusted rock formations attracting schools of barracuda, trevally, and reef sharks. The unpredictable currents make this a challenging site suited to experienced divers, but the payoff is encounters with large pelagics including manta rays, eagle rays, and Napoleon wrasse cruising the nutrient-rich waters. Visibility ranges from 10 to 40 metres with water temperatures averaging 26-30°C during the October to May diving season.
 
 ## Site Information
 

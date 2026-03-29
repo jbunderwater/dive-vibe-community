@@ -17,7 +17,7 @@ Scotts Head Pinnacle is a pinnacle dive site in Dominica, Caribbean.
 
 ## Overview
 
-Scotts Head Pinnacle is a dive site in Dominica offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Scotts Head Pinnacle is one of Dominica's most famous dive sites, located where the Caribbean and Atlantic seas converge within the Soufriere-Scotts Head Marine Reserve. The dive begins at Swiss Cheese rock formation and its Soldierfish Cave swim-through, packed with soldierfish and grunts, before crossing to the pinnacle itself where a picturesque swim-through at 35 feet leads to a steep volcanic crater wall dropping beyond 120 feet. Walls are covered in deepwater sea fans, colorful gorgonians, and sponges, with hawksbill turtles, arrow crabs, peacock flounders, and lobsters inhabiting the many crevices.
 
 ## Site Information
 

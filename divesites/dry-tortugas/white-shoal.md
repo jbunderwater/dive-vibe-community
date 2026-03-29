@@ -17,7 +17,7 @@ White Shoal is a reef dive site in Dry Tortugas, North America.
 
 ## Overview
 
-White Shoal is a dive site in Dry Tortugas offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+White Shoal sits near the eastern boundary of Dry Tortugas National Park, marked by a navigational light tower that warns ships away from the shallow coral heads that have claimed numerous vessels over the centuries. The reef features documented colonies of star coral (Montastraea annularis) and staghorn coral (Acropora cervicornis), providing habitat for diverse reef fish among scattered historic shipwreck remains. Beyond the park boundary in 23-24 meters of water, the reef elevation changes attract open ocean species, making this a rewarding site for divers seeking both reef exploration and pelagic encounters.
 
 ## Site Information
 

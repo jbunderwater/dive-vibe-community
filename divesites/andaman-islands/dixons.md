@@ -17,7 +17,7 @@ Dixon's is a pinnacle dive site in Andaman Islands, Asia.
 
 ## Overview
 
-Dixon's is a dive site in Andaman Islands offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Dixon's Pinnacle consists of three giant underwater rock formations arranged in a triangle, rising from approximately 30 metres and covered in exquisite soft corals and large barrel sponges. Named after local Karen community diver Dickson Poayasay, the pinnacle tops serve as a busy cleaning station where giant groupers, clouds of up to 200 barracuda, white-tip reef sharks, and manta rays queue for attention from resident cleaner fish. Large Napoleon wrasse, titan triggerfish, green turtles, stingrays, and massive schools of snapper inhabit the site, making it widely regarded as one of the best dives in all of India.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Five Finger Rock is a reef dive site in Dominica, Caribbean.
 
 ## Overview
 
-Five Finger Rock is a dive site in Dominica offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Five Finger Rock is formed by a massive boulder that tumbled down the mountainside thousands of years ago into Douglas Bay near Cabrits National Park, creating a hand-like underwater formation reaching from the surface down to 27 meters. The site is known for spotted eagle ray sightings along with squirrelfish, flounders, tobacco fish, and angelfish among large elephant ear, azure vase, and yellow tube sponges. Mild currents and warm clear waters make this a popular first dive on Dominica's north coast, with sea turtles and stingrays frequently spotted on the surrounding sand.
 
 ## Site Information
 

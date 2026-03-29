@@ -17,7 +17,7 @@ Danglebens Pinnacles is a pinnacle dive site in Dominica, Caribbean.
 
 ## Overview
 
-Danglebens Pinnacles is a dive site in Dominica offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Dangleben's Pinnacles is a signature dive of the Soufriere-Scotts Head Marine Reserve, where five volcanic spires rise from depth to within 35 feet of the surface on the northern edge of the submerged Soufriere crater. The pinnacles are encrusted with some of Dominica's largest barrel sponges and explode in color with reds, yellows, purples, and pinks. Mild currents attract schooling jacks during winter months, while southern stingrays, reef fish, and an abundance of coral and anemone growth make this a favorite among local dive guides.
 
 ## Site Information
 

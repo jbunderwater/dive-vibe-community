@@ -17,7 +17,7 @@ Nose Reef is a reef dive site in Dominica, Caribbean.
 
 ## Overview
 
-Nose Reef is a dive site in Dominica offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Nose Reef is located in Dominica's central diving region, where a gentle continental shelf slope supports loads of soft corals and huge sponges. The reef starts shallow with anemones and cleaner shrimp in the critter-rich shallows, then drops sharply over the shelf edge where the open water produces surprise encounters with yellowfin tuna, schooling jacks, sea turtles, rays, and occasionally whale sharks. The proboscis-like reef protrusions extending into the blue give this site its name and make it one of Dominica's most distinctive dives.
 
 ## Site Information
 
