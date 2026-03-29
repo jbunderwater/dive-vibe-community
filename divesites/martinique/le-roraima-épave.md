@@ -17,7 +17,7 @@ Le Roraima (épave) is a historic wreck dive in Martinique, Caribbean.
 
 ## Overview
 
-Le Roraima (épave) is a dive site in Martinique featuring the wreck of the Le Roraima (épave) which sank in 1902-05-08. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Roraima was a 110-metre Canadian cargo steamship carrying potassium nitrate that burned for three days after Mount Pelée's pyroclastic surge struck Saint-Pierre on 8 May 1902, eventually sinking to rest with its bow at 36 metres and its stern at 55 metres. Jacques Cousteau nicknamed it the "White-haired Wreck" for the hair-like algae covering the calcined hull, and today the engine room, boiler, and the captain's bathroom with its original blue faience tiling remain explorable through the hull openings. Schools of barracuda, snappers, and trumpetfish animate the wreck, making this — the largest vessel in the Saint-Pierre graveyard — one of the Caribbean's most historically charged technical dives.
 
 ## Site Information
 

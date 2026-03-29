@@ -17,7 +17,7 @@ Yatouche is a historic wreck dive in Jordan - Aqaba, Middle East.
 
 ## Overview
 
-Yatouche is a dive site in Jordan - Aqaba featuring the wreck of the Yatouche. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Yatouche is a wreck dive in the Gulf of Aqaba's Red Sea waters, resting at up to 20 metres depth in the protected Aqaba Marine Park environment where visibility regularly exceeds 20 metres and water temperatures range from 22 to 30°C. The wreck has been colonised over time by the hard and soft corals, sponges, and encrusting marine life characteristic of Aqaba's artificial reef sites, providing structure for reef fish and crustaceans in an otherwise sandy environment. Aqaba's commitment to artificial reef construction — which began with the Cedar Pride sinking in 1985 — means this site benefits from the same clear Red Sea water and warm temperatures that make the area one of the world's top wreck-diving destinations.
 
 ## Site Information
 

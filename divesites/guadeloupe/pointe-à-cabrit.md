@@ -17,7 +17,7 @@ Pointe à Cabrit is a wall dive site in Guadeloupe, Caribbean.
 
 ## Overview
 
-Pointe à Cabrit is a dive site in Guadeloupe featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Pointe à Cabrit is a dive site within the Cousteau Reserve surrounding Pigeon Island — the waters that Jacques Cousteau declared one of the world's top dive areas after his 1959 Calypso expedition — featuring shallow reef terrain with elkhorn and staghorn corals, abundant reef fish, and frequent hawksbill turtle encounters. The site tops out at 15 metres, making it one of the more accessible dives in the reserve, and the protected status means fish populations are notably dense, with angelfish, parrotfish, diodons, and large barrel sponges throughout. The Cousteau Reserve was formally integrated into the Guadeloupe National Park in 2009, and mooring buoys are provided to protect the coral from anchor damage.
 
 ## Site Information
 

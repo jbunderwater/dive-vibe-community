@@ -17,7 +17,7 @@ Epave de l'Îlet Fortune is a historic wreck dive in Guadeloupe, Caribbean.
 
 ## Overview
 
-Epave de l'Îlet Fortune is a dive site in Guadeloupe featuring the wreck of the Epave de l'Îlet Fortune. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The wreck at Îlet Fortune sits at 16 metres off the Grande-Terre coast, a vessel that has become an established artificial reef in the warm Caribbean waters of Guadeloupe where visibility typically runs to 20–30 metres. The structure supports the mix of encrusting sponges, hard coral growth, and tropical reef fish — groupers, snappers, glassy sweepers, and hawksbill turtles — characteristic of Guadeloupe's wreck dives, which benefit from the island's warm leeward conditions. The manageable depth and generally calm conditions near this section of the coast make it a good intermediate wreck dive accessible from local boat operators.
 
 ## Site Information
 

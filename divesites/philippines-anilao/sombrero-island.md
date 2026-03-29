@@ -17,7 +17,7 @@ Sombrero Island is a reef dive site in Philippines Anilao, Asia.
 
 ## Overview
 
-Sombrero Island is a dive site in Philippines Anilao offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Sombrero Island, named for its hat-shaped profile, is widely considered one of the best reef dives in the entire Anilao area, encircled by a wall that drops to around 25 meters through tumbling boulders, tunnels, and small drop-offs. Soft corals and gorgonians cover nearly every surface, staghorn gardens fill the shallower sections, and eagle rays, hawksbill turtles, and reef sharks are seen regularly — during full moons, a strong current turns the dive into an exhilarating drift.
 
 ## Site Information
 

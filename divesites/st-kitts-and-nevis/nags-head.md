@@ -17,7 +17,7 @@ Nag's Head is a wall dive site in St. Kitts and Nevis, Caribbean.
 
 ## Overview
 
-Nag's Head is a dive site in St. Kitts and Nevis featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Nag's Head sits at the southwestern tip of St. Kitts where the Caribbean Sea collides with the Atlantic Ocean, creating a current-driven dive over volcanic boulders blanketed in fire coral, sponges, and jumbo sea urchins. Eagle rays feed in the nearby grass beds and frequently glide past the wall, and the strong tidal flow that can intimidate less experienced divers is exactly what brings reef sharks and larger pelagics to this exposed headland.
 
 ## Site Information
 

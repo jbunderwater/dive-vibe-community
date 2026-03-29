@@ -17,7 +17,7 @@ Hukurila Cave is a cave dive site in Ambon, Asia.
 
 ## Overview
 
-Hukurila Cave is a dive site in Ambon featuring underwater cave and cavern formations. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Hukurila Cave is a large sea cave on Ambon's south coast formed by a submerged freshwater spring discharging into the ocean, creating a dramatic halocline inside the cavern where fresh and salt water meet in shimmering, refracting layers. The cave entrance sits at around 12 meters depth with the cavern opening large enough for groups to enter without artificial light, and the mix of fresh and salt water has produced unusual biological communities compared to the open reef outside. The site is typically dived in combination with the nearby Pintu Kota arch, as the south coast's clearer Indian Ocean water makes both sites more visually rewarding than the murkier Ambon Bay.
 
 ## Site Information
 

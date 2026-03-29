@@ -17,7 +17,7 @@ Site de Plongée La Perle is a wall dive site in Martinique, Caribbean.
 
 ## Overview
 
-Site de Plongée La Perle is a dive site in Martinique featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+La Perle is a volcanic islet 800 metres off Anse Couleuvre in the Réserve Marine du Prêcheur — the northernmost dive site in Martinique — where walls, platforms, arches, and submarine faults offer multiple diving configurations between 5 and 60 metres. Exposed to the Dominica Channel, the site aggregates impressive pelagic life including schools of horse-eye jacks, barracuda, and resident hawksbill turtles, with 68 identified fish species recorded within the reserve. Strong currents are the norm here, limiting this to experienced divers, but the remote setting and sheer abundance of marine life make it one of the finest walls in the Caribbean.
 
 ## Site Information
 

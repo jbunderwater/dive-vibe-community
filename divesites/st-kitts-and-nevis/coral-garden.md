@@ -17,7 +17,7 @@ Coral Garden is a reef dive site in St. Kitts and Nevis, Caribbean.
 
 ## Overview
 
-Coral Garden is a dive site in St. Kitts and Nevis offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Coral Garden off St. Kitts offers a classic Caribbean reef experience on a volcanic substrate encrusted with hard and soft corals, sea fans, and sponges in good condition within the island's marine protected zone. Juvenile angelfish, moray eels, and Caribbean lobsters are regulars among the coral heads, and the protected Caribbean-side location keeps conditions calm and visibility reliable year-round.
 
 ## Site Information
 

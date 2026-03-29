@@ -17,7 +17,7 @@ Swan Lake Wooden Barge is a historic wreck dive in Alaska, North America.
 
 ## Overview
 
-Swan Lake Wooden Barge is a dive site in Alaska featuring the wreck of the Swan Lake Wooden Barge. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Swan Lake Wooden Barge is a deteriorating wooden vessel resting at around 14 meters in the waters near Sand Point on the Alaska Peninsula, where the cold, productive waters of the Bering Sea side of the peninsula circulate. Wooden wrecks age faster in Alaska's cold, oxygenated seawater, and the barge's decaying hull has become a complex structure of broken planking, ribs, and frames that create excellent habitat for lingcod, rockfish, and the invertebrate communities that favor sheltered substrate. The remote setting near the Shumagin Islands means this is a seldom-dived site encountered primarily by visiting divers on chartered vessels exploring the outer Alaska Peninsula coast.
 
 ## Site Information
 

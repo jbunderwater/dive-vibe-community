@@ -17,7 +17,7 @@ Dead Palm is a muck dive site in Philippines Anilao, Asia.
 
 ## Overview
 
-Dead Palm is a dive site in Philippines Anilao offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Dead Palm is a shallow muck dive adjacent to Arthur's Rock sanctuary, where a gently sloping sand-and-rubble bottom to 10 meters conceals the dense macro life that has made Anilao famous as the nudibranch capital of the world. The site is a shore-entry dive accessible directly from the beach, ideal for extended bottom time at minimal depth while hunting for resident frogfish, pipefish, and the Chromodoris and Phyllidiella nudibranchs scattered across the substrate.
 
 ## Site Information
 

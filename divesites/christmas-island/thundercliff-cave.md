@@ -17,7 +17,7 @@ Thundercliff Cave is a cave dive site in Christmas Island, Oceania.
 
 ## Overview
 
-Thundercliff Cave is a dive site in Christmas Island featuring underwater cave and cavern formations. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Thundercliff Cave is a sea cave on Christmas Island's eastern coast formed by wave action cutting into the island's volcanic basalt cliffs, creating an imposing cavern entrance that can be entered at moderate swell conditions. Inside, shafts of natural light illuminate walls draped in sponges and encrusting organisms, with cave-dwelling shrimp, moray eels, and sleeping whitetip sharks occupying the darker recesses. The exposed eastern coast means the site requires a weather window with calm southeast trade conditions, but when the seas cooperate it offers a striking combination of geological drama and concentrated marine life rarely found together.
 
 ## Site Information
 

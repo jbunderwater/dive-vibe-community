@@ -17,7 +17,7 @@ Banayan Point is a wall dive site in Philippines Palawan, Asia.
 
 ## Overview
 
-Banayan Point is a dive site in Philippines Palawan featuring a dramatic vertical wall that drops into the deep blue . Southern tip of Matinloc Island in El Nido. Excellent site for pelagic fishes with strong currents attracting tuna, jacks, and mackerels. Coral-encrusted rocks provide shelter and color.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Banayan Point at the southern tip of Matinloc Island is El Nido's go-to site for pelagic action, where strong channeling currents funnel schools of tuna, jacks, and mackerel past coral-encrusted boulders descending to 22 meters. The open-water exposure means conditions can be demanding, but divers who time it right are rewarded with the kind of fish density rarely found at the more sheltered sites further into the archipelago.
 
 ## Site Information
 

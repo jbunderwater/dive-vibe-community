@@ -17,7 +17,7 @@ Kirby's Rock is a wall dive site in Philippines Anilao, Asia.
 
 ## Overview
 
-Kirby's Rock is a dive site in Philippines Anilao featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Kirby's Rock on the northwest tip of Tingloy Island juts out into the Verde Island Passage, where a wall covered in gorgonians, whip corals, and crinoids descends from 5 meters to beyond 30 meters. Multiple moray eels occupy crevices in the wall, the rubble at the base hosts anemones with clownfish, and the exposure to open water means jacks and barracuda are regular visitors — hit slack water for the best visibility and the easiest photography.
 
 ## Site Information
 

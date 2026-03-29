@@ -17,7 +17,7 @@ Tank is a historic wreck dive in Jordan - Aqaba, Middle East.
 
 ## Overview
 
-Tank is a renowned dive site in Jordan - Aqaba featuring the wreck of the Tank. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The Tank is an American M42 Duster self-propelled anti-aircraft gun that served the Jordanian Army from 1965 to 1998 before being sunk in just 5–7 metres of water on 1 September 1999 by the Jordanian Royal Ecological Diving Society, making it one of the most accessible wreck dives in the world. Sitting on a sandy bottom only 20 metres from shore, the tank's hull is now overgrown with soft corals and sponges and shelters moray eels, shrimps, crabs, and starfish in its many crevices, with colourful reef fish schooling around the turret. The site sits just metres from the C-130 Hercules aircraft wreck, and together they represent the beginning of Aqaba's celebrated programme of deliberate artificial reef creation.
 
 ## Site Information
 

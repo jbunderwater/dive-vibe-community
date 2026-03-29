@@ -17,7 +17,7 @@ Villasimius Marine Park is a reef dive site in Sardinia, Europe.
 
 ## Overview
 
-Villasimius Marine Park is a dive site in Sardinia offering excellent diving on healthy coral reef structures . Protected marine area with Capo Carbonara, easy shallow reef, abundant fish, snorkeling friendly. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The Villasimius Marine Park encompasses the Capo Carbonara headland and surrounding waters in southeastern Sardinia, protecting granite reef formations, posidonia meadows, and a rich assemblage of Mediterranean fish species. Dusky groupers of considerable size are regularly seen here, along with barracuda, dentex, and large sea bream that have recovered in number since the park's creation. The park's shallow inner reef areas are excellent for snorkeling while the deeper granite pinnacles and the nearby dive sites around Isola dei Cavoli attract more experienced divers looking for walls and pelagic encounters.
 
 ## Site Information
 

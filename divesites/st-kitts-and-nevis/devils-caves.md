@@ -17,7 +17,7 @@ Devil's Caves is a cave dive site in St. Kitts and Nevis, Caribbean.
 
 ## Overview
 
-Devil's Caves is a dive site in St. Kitts and Nevis featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Devil's Caves on Nevis's west coast is a network of coral grottos, overhangs, and swim-throughs at a comfortable 12-meter maximum depth, ideal for divers who want the thrill of cavern exploration without committing to a technical dive. Glassy sweepers pack the overhangs, blue tang patrol the open sections, nurse sharks rest in deeper recesses, and the occasional blacktip reef shark passes through the entrance on a casual visit.
 
 ## Site Information
 

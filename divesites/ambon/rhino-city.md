@@ -17,7 +17,7 @@ Rhino City is a muck dive site in Ambon, Asia.
 
 ## Overview
 
-Rhino City is a dive site in Ambon offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Rhino City takes its name from the rhinopias scorpionfish species — both the weedy and the paddle-flap rhinopias — which are found here in unusually high concentrations on the silty slopes of inner Ambon Bay. These spectacular, flamboyant scorpionfish are among the most sought-after macro subjects in the Indo-Pacific, and the site's reputation for hosting multiple individuals on a single dive brings underwater photographers specifically from overseas. Beyond the rhinopias, the site reliably produces Ambon scorpionfish, various frogfish, ghost pipefish, and the occasional mimic octopus working the sandy substrate at 10-25 meters depth.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Diamond Rock is a wall dive site in Martinique, Caribbean.
 
 ## Overview
 
-Diamond Rock is a dive site in Martinique featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Diamond Rock — the basalt islet that the Royal Navy famously commissioned as HMS Diamond Rock in 1804 — offers some of Martinique's most dramatic underwater topography, with a wall that plummets to 40 metres, rocky canyons, and a cathedral-shaped crack that pierces the entire island from side to side starting at around 16 metres. Hawksbill turtles congregate at the base of the rock, while gorgonian fans, soft corals, and sponges cover the wall faces alongside moray eels, Spanish mackerel, and abundant crustaceans. Strong and variable currents make this a site for experienced divers, but the clear open-ocean water and sheer scale of the dive make it widely considered the finest site in Martinique.
 
 ## Site Information
 

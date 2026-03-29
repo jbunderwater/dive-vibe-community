@@ -17,7 +17,7 @@ Pointe à Lézard is a wall dive site in Guadeloupe, Caribbean.
 
 ## Overview
 
-Pointe à Lézard is a dive site in Guadeloupe featuring a dramatic vertical wall that drops into the deep blue . Gently sloping wall with barrel sponges, geothermal vents (23m), hot springs in basin, magnificent fault, royal lobsters, unique volcanic geothermal features from Bouillante. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Pointe à Lézard sits at the southern end of the Cousteau Reserve near Bouillante, and is one of the only dive sites in the Caribbean where active submarine geothermal vents bubble directly from the seabed — hot springs reaching up to 90°C emerge at 23 metres depth along the volcanic fault that underlies the entire Bouillante geothermal field. The gently sloping wall supports barrel sponges, gorgonian fans, and healthy Caribbean reef fish including firefish, trevally, grouper, and barracuda, with royal lobsters tucked into the rocky faults. The combination of volcanic geology, warm vent activity, and protected-reserve marine life makes Pointe à Lézard one of the most scientifically distinctive and visually unusual dive sites in Guadeloupe.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Biet Point is a wall dive site in Philippines Palawan, Asia.
 
 ## Overview
 
-Biet Point is a dive site in Philippines Palawan featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Biet Point (South Miniloc) is El Nido's most famous dive site, reputedly discovered by Jacques Cousteau in the 1970s, positioned between Miniloc and Simizu islands where a channel current nourishes an expansive garden of cabbage corals at around 12 meters. Large schools of yellow snappers and silver tuna hover over the triangular reef, with jacks, barracuda, squid, and cuttlefish circling in the current-enriched blue water beyond.
 
 ## Site Information
 

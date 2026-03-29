@@ -17,7 +17,7 @@ Psychedelic Frogfish Site is a muck dive site in Ambon, Asia.
 
 ## Overview
 
-Psychedelic Frogfish Site is a dive site in Ambon offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The Psychedelic Frogfish Site earned its name as the location where the psychedelic frogfish (Histiophryne psychedelica) was first discovered and described by science in 2009 — a species found almost exclusively in Ambon Bay. This small, pale frogfish with a pattern of concentric orange and white stripes bounces along the sandy bottom using its pectoral fins as legs, and Ambon Bay remains the most reliable place in the world to observe it. The surrounding black sand muck slope holds additional macro subjects including various anglerfish species, dragonets, and the abundant sand-dwelling critters that make Ambon's bay dives world-class for underwater photographers.
 
 ## Site Information
 

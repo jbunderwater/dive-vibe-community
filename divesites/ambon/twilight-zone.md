@@ -17,7 +17,7 @@ Twilight Zone is a muck dive site in Ambon, Asia.
 
 ## Overview
 
-Twilight Zone is a dive site in Ambon offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Twilight Zone is a deep muck site in Ambon Bay where the sandy slope extends well beyond 30 meters into dimly lit conditions that attract unusual deep-water critters rarely encountered at recreational depths. Blue-ringed octopus, flamboyant cuttlefish, various frogfish species, and the eerie stargazer fish are among the subjects regularly found by guides who know the slope intimately. The site's name captures the experience — a gradual descent into decreasing light where macro subjects seem to appear out of nowhere from the featureless dark sand, rewarding patient, slow-moving divers who let their eyes adjust to the muted ambient light.
 
 ## Site Information
 

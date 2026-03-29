@@ -17,7 +17,7 @@ Anchor Reef is a wall dive site in St. Vincent and the Grenadines, Caribbean.
 
 ## Overview
 
-Anchor Reef is a dive site in St. Vincent and the Grenadines featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Named for an 18th-century anchor buried in its coral, Anchor Reef is consistently voted one of the top 100 dive sites in the world and one of St. Vincent's standout experiences. The reef starts at around 9 meters and drops into a 35-meter wall festooned with gorgonians and black corals, riddled with swim-throughs and crevices where frogfish, longsnout seahorses, and moray eels take up residence.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ addedBy: osm_import
 
 ## Overview
 
-Épave de Caret is a dive site in Guadeloupe featuring the wreck of the Épave de Caret. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Épave de Caret is an old marine dredging boat deliberately sunk to produce seagrass, now lying at 2–3 metres below the surface to the west of Îlet Caret in the Grand Cul-de-Sac Marin lagoon — so shallow that the whole wreck is visible from the surface on a calm day. A rich ecosystem of algae, tropical fish, and fire corals has developed on the structure, and a second wreck reportedly lies nearby in the same lagoon; the site is typically visited as part of a guided boat tour of the Grand Cul-de-Sac Marin nature reserve. Penetration inside the wreck is prohibited as the structure is considered unsafe, but the extraordinary shallowness makes it equally accessible to snorkellers and scuba divers.
 
 ## Site Information
 

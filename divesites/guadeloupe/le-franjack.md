@@ -17,7 +17,7 @@ Le Franjack is a historic wreck dive in Guadeloupe, Caribbean.
 
 ## Overview
 
-Le Franjack is a dive site in Guadeloupe featuring the wreck of the Le Franjack which sank in 1996 . 45-meter former cargo vessel deliberately sunk 1996 as artificial reef, cleaned and safe, rests on sandy bottom at 23m, popular in Cousteau Reserve near Malendure, damaged by Hurricane Hugo 1989. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Franjack is a 45-metre former sand-transport vessel badly damaged by Hurricane Hugo in 1989 and deliberately sunk in 1996 at 23 metres on the sandy bottom of the Cousteau Reserve near Malendure, specifically cleaned and prepared as an accessible wreck dive for beginners. The engine room, kitchen, and hold are all safely penetrable, and a large green moray eel reliably inhabits the hull, with snappers, cardinals, lobsters, and green turtles — which use the wreck for nightly rest — completing the resident cast. Slow disintegration has produced a spectacular colonisation of different sponge species across the superstructure, making the Franjack one of the most colourful wreck dives in the French Caribbean.
 
 ## Site Information
 

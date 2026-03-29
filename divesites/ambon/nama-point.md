@@ -17,7 +17,7 @@ Nama Point is a wall dive site in Ambon, Asia.
 
 ## Overview
 
-Nama Point is a dive site in Ambon featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Nama Point is a rocky headland at the entrance to Ambon Bay where the steep reef wall drops through coral formations to sandy slopes below 30 meters, with stronger currents than the inner bay sites pushing nutrients along the wall and driving a richer fish community. Schooling bannerfish, barracuda, and big-eye trevally work the current at the point, while the wall itself carries impressive gorgonian sea fans and hard corals in good condition. The current exposure makes this an intermediate site that rewards divers who time the dive with the tidal flow — on the right current it becomes one of the most dramatic dives in the Ambon area.
 
 ## Site Information
 

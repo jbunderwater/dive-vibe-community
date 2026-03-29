@@ -17,7 +17,7 @@ Cathedral Rock is a reef dive site in Philippines Anilao, Asia.
 
 ## Overview
 
-Cathedral Rock is a dive site in Philippines Anilao offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Cathedral Rock is an artificial reef created by transplanting live corals onto two rocky outcrops in Bagalangit, now one of Anilao's most productive marine sanctuaries with a centrepiece cement cross blessed by Pope John Paul II. The transplanted corals have thrived, and the site now hosts roughly a quarter of all nudibranch species recorded in Anilao, alongside swirling schools of surgeonfish and damsels, anemones with clownfish, and the soft corals and sea sponges the site is named for.
 
 ## Site Information
 

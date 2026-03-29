@@ -17,7 +17,7 @@ Rocher de la Perle is a wall dive site in Martinique, Caribbean.
 
 ## Overview
 
-Rocher de la Perle is a dive site in Martinique featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Rocher de la Perle is a remote volcanic islet in the Réserve Marine du Prêcheur, rising off the wild northwest coast of Martinique near Le Prêcheur, where walls alternate with coral plateaux, arches, and submarine faults from the shallows down to 40 metres and beyond. The site sits in the Dominica Channel current, which delivers exceptional pelagic visibility and drives schools of hundreds of horse-eye jacks, barracuda, snappers, and parrotfish past the walls, with sea turtles regularly encountered. Its distance from the coast keeps it lightly dived and pristine, and the protected marine reserve status means the fish populations are notably dense compared to more accessible Martinique sites.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ F/V Lily is a historic wreck dive in Alaska, North America.
 
 ## Overview
 
-F/V Lily is a dive site in Alaska featuring the wreck of the F/V Lily. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The F/V Lily is a commercial fishing vessel lying in shallow water on the Alaska Peninsula near Cold Bay, one of the remote Bering Sea approaches where storms and unforgiving waters have claimed numerous working vessels over the decades. The wreck sits at around 15 meters on a sand and rock bottom, with the hull increasingly colonized by the cold-water invertebrate communities — anemones, sea stars, and encrusting organisms — that reclaim all submerged structures in these productive subarctic waters. The site is very remotely located and accessible only by float plane or vessel from the sparse communities of the western Alaska Peninsula.
 
 ## Site Information
 

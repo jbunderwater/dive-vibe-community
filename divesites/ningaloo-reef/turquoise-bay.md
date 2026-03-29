@@ -17,7 +17,7 @@ Turquoise Bay is a reef dive site in Ningaloo Reef, Oceania.
 
 ## Overview
 
-Turquoise Bay is a dive site in Ningaloo Reef offering excellent diving on healthy coral reef structures. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Turquoise Bay is probably the most photographed stretch of Ningaloo coast, a sweep of brilliant white sand and turquoise water at the northern end of the Cape Range National Park where the reef runs close enough to shore for a short swim from the beach. The drift snorkel from the bay's northern end sweeps divers along a coral-covered reef slope with sea turtles, reef sharks, and dense schools of reef fish in 3-6 meters of water, requiring no equipment beyond a mask and fins. Scuba divers can explore the deeper bommies and wall sections beyond the reef crest, dropping into 15-20 meters of crystalline water with visibility frequently exceeding 25 meters.
 
 ## Site Information
 

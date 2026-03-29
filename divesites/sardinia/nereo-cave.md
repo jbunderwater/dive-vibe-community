@@ -17,7 +17,7 @@ Nereo Cave is a cave dive site in Sardinia, Europe.
 
 ## Overview
 
-Nereo Cave is a dive site in Sardinia featuring underwater cave and cavern formations . Largest marine cave in Mediterranean with 10+ entrances, tunnels, air chambers; red coral walls. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Nereo Cave is widely cited as the largest marine cave in the Mediterranean, a labyrinthine system carved into the limestone cliffs of Capo Caccia with more than ten separate entrances and passages connecting at depths of 29-32 meters. The walls are draped in dense red coral colonies, yellow sponges, and sea daisies, and several chambers contain air pockets where divers can surface briefly before continuing through the tunnels. Spiny lobsters, scorpionfish, and dense schools of bream shelter inside, while the cave's multiple entrances allow natural ambient light to create dramatic beams through the water on calm mornings.
 
 ## Site Information
 

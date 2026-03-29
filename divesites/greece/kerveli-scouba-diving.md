@@ -17,7 +17,7 @@ Kerveli scouba diving is a reef dive site in Greece, Europe.
 
 ## Overview
 
-Kerveli scouba diving is a dive site in Greece offering excellent diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Kerveli Bay on the eastern coast of Samos offers some of the Aegean's clearest water, with visibility exceeding 20 metres and a craggy reef system that tops out at 22 metres and includes walls, drop-offs, small caves, and caverns that shelter a diverse range of Mediterranean species. Groupers, moray eels, octopus, sea bream, nudibranchs, and seahorses inhabit the reef structure, alongside posidonia seagrass beds, red coral, and sea fans in the deeper sections. The eastern Samos coastline is considered the finest underwater scenery on the island, and Temple Bay nearby reportedly contains ancient artefacts at 18 metres depth, offering an additional dimension to diving in this archaeologically rich corner of the Aegean.
 
 ## Site Information
 

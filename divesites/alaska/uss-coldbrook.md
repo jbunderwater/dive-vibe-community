@@ -17,7 +17,7 @@ USS Coldbrook is a historic wreck dive in Alaska, North America.
 
 ## Overview
 
-USS Coldbrook is a dive site in Alaska featuring a historic wreck. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The USS Coldbrook is a US Navy vessel that came to rest in the outer Gulf of Alaska waters near Kayak Island, in an exposed and rarely visited section of the coast between Cordova and Yakutat. The wreck sits at around 19 meters depth and represents a significant historical artifact from the mid-20th century naval presence in Alaskan waters, now colonized by the cold-water fauna characteristic of this stretch of gulf coast. The site's remoteness — far from any established dive operation — places it firmly in the category of expedition diving, accessible only to well-equipped parties willing to commit to an extended offshore voyage in unpredictable Gulf of Alaska conditions.
 
 ## Site Information
 

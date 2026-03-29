@@ -17,7 +17,7 @@ Amahusu Reef is a reef dive site in Ambon, Asia.
 
 ## Overview
 
-Amahusu Reef is a dive site in Ambon offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Amahusu Reef is a fringing reef on Ambon Bay's southern shore that offers a gentler alternative to the bay's muck diving sites, with a shallow coral garden sloping to around 14 meters over a mixed substrate of hard coral, rubble, and sandy patches. The site is reliably productive for macro subjects — pygmy seahorses, ornate ghost pipefish, and ribbon eels are regularly spotted on the reef slope — while the shallower sections carry sea anemones with resident clownfish and a variety of damselfish. The short boat ride from resort jetties on the bay and the beginner-friendly depth range make this a popular second or third dive of the day.
 
 ## Site Information
 

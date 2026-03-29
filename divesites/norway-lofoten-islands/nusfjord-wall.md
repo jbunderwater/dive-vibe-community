@@ -17,7 +17,7 @@ Nusfjord Wall is a wall dive site in Norway Lofoten Islands, Europe.
 
 ## Overview
 
-Nusfjord Wall is a dive site in Norway Lofoten Islands featuring a dramatic vertical wall that drops into the deep blue. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Nusfjord Wall descends from one of Lofoten's best-preserved historic fishing villages, a UNESCO-listed cluster of red and yellow rorbu cabins that sits directly above an underwater wall blanketed in Dahlia anemones and dead man's fingers soft corals. The wall drops steeply from a few meters depth and continues beyond 30 meters, with cold-water sponges, tube worms, and nudibranchs colonizing every surface in the near-zero-degree bottom water. Nusfjord's fjord setting gives the dive a dramatic character — towering granite peaks above the surface, an equally sheer wall below — with halibut and wolffish often found at the base.
 
 ## Site Information
 

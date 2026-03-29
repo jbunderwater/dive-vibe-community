@@ -17,7 +17,7 @@ Laha is a muck dive site in Ambon, Asia.
 
 ## Overview
 
-Laha is a dive site in Ambon offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Laha is a muck diving site on the northern shore of Ambon Bay near the airport runway, where black volcanic sand slopes provide habitat for an extraordinary density of unusual critters. Flamboyant cuttlefish are the signature attraction — they are found here year-round, waddling across the dark substrate in their characteristic slow gait — alongside rhinopias scorpionfish, Ambon scorpionfish, and multiple species of frogfish. The shallow depth of 5-14 meters means long bottom times are possible even on multiple dives, and the low visibility typical of bay muck sites is compensated by how many subjects appear within arm's reach.
 
 ## Site Information
 

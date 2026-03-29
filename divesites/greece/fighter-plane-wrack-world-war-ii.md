@@ -17,7 +17,7 @@ fighter plane wrack world war II is a historic wreck dive in Greece, Europe.
 
 ## Overview
 
-fighter plane wrack world war II is a dive site in Greece featuring the wreck of the fighter plane wrack world war II. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+This WWII fighter plane wreck lies in the shallow waters of the Aegean at just 7 metres depth, one of over 90 military aircraft and shipwrecks opened to recreational divers by the Greek Ministry of Culture and Sport. The shallow depth makes it highly accessible and offers excellent natural light for photography, and the warm Aegean summer water brings good visibility as conger eels, groupers, moray eels, and octopus have made the wreck their home. Greece's many wartime wrecks are protected heritage sites where touching or removing artefacts is strictly prohibited, preserving the historical integrity of the site for future divers.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Cedar Pride is a historic wreck dive in Jordan - Aqaba, Middle East.
 
 ## Overview
 
-Cedar Pride is a renowned dive site in Jordan - Aqaba featuring the wreck of the Cedar Pride. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The Cedar Pride is a 74-metre Spanish-built cargo vessel that caught fire in Aqaba harbour in 1982, and was then deliberately scuttled on 16 November 1985 by Prince Abdullah (now King Abdullah II) to create Jordan's first major artificial reef, coinciding with the opening of the Royal Diving Centre. The wreck lies on its port side at a maximum depth of 27 metres, with its uppermost starboard side at 10 metres, and is now densely colonised by hard and soft corals sheltering lionfish, giant frogfish, clownfish, and green turtles. A swim-through under the wreck at 26 metres and the largely intact 80-metre hull make this the centrepiece of Aqaba wreck diving and one of the Red Sea's most celebrated dives.
 
 ## Site Information
 

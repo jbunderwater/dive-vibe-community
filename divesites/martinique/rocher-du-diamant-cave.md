@@ -17,7 +17,7 @@ Rocher du Diamant Cave is a cave dive site in Martinique, Caribbean.
 
 ## Overview
 
-Rocher du Diamant Cave is a dive site in Martinique featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The underwater cavern at Rocher du Diamant is a triangular cave formation cut into the base of the famous volcanic islet, rich in sea fans and soft corals and accessible from around 16 metres depth. The cavern's interior offers dramatic light effects where beams filter through the opening, and the surrounding reef shelters hawksbill turtles, moray eels, and crustaceans in the crevices of the basalt walls. This is one of several distinct dive configurations around Diamond Rock — which also served as the Royal Navy's stone frigate HMS Diamond Rock in 1804 — making the site a mix of geological drama and Caribbean marine life.
 
 ## Site Information
 

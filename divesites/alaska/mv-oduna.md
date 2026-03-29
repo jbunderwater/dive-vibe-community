@@ -17,7 +17,7 @@ M/V Oduna is a historic wreck dive in Alaska, North America.
 
 ## Overview
 
-M/V Oduna is a dive site in Alaska featuring the wreck of the M/V Oduna which sank in 1965-11-26. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The M/V Oduna sank on 26 November 1965 near False Pass at the tip of the Alaska Peninsula, where the Bering Sea meets the North Pacific in one of the most storm-prone stretches of water in North America. The vessel now rests at around 12 meters depth, with the cold, nutrient-dense waters of the area producing heavy encrusting growth on the hull over its six decades on the seabed. Accessing the wreck requires significant logistical effort from the nearest communities of False Pass or King Cove, making it an expedition-quality dive in a remarkably wild and remote corner of Alaska's coastline.
 
 ## Site Information
 

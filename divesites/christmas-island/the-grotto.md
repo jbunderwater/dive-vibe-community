@@ -17,7 +17,7 @@ The Grotto is a cave dive site in Christmas Island, Oceania.
 
 ## Overview
 
-The Grotto is a dive site in Christmas Island featuring underwater cave and cavern formations. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+The Grotto is Christmas Island's most iconic dive, entered through a collapsed lava tube near Flying Fish Cove that opens into a large, sunlit cavern with a submerged entrance leading to open reef at around 15 meters depth. Shafts of light penetrate the cavern from the surface opening above, creating one of the most naturally photogenic dive environments in the Indian Ocean, while glassfish, cardinalfish, and small crustaceans crowd the darker alcoves. The site is accessible to intermediate divers comfortable with semi-overhead environments, and the short swim through the lava tube into open ocean is a memorable experience.
 
 ## Site Information
 

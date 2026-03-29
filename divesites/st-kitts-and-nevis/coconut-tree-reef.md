@@ -17,7 +17,7 @@ Coconut Tree Reef is a reef dive site in St. Kitts and Nevis, Caribbean.
 
 ## Overview
 
-Coconut Tree Reef is a dive site in St. Kitts and Nevis offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Coconut Tree Reef is one of the largest reef structures off St. Kitts, starting at around 12 meters and dropping to over 30 meters on a pristine slope studded with large barrel corals and widespread coral sand grottos. The reef is in excellent health, supporting dense populations of grunts, snappers, and small groupers, with spotted morays, lobsters, and rays in the lower sections and nurse sharks sheltering in the shallows.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Sepok Wall is a wall dive site in Philippines Anilao, Asia.
 
 ## Overview
 
-Sepok Wall is a dive site in Philippines Anilao featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Sepok Wall runs along the northwest face of Maricaban Island, where a vertical drop from the reef crest at 5 meters to around 27 meters is covered in barrel sponges, large gorgonian fans, and dozens of Chromodoris nudibranch species that have made this wall a favorite among Anilao's macro photographers. Frogfish, leaf fish, twin-spot lionfish, and scorpionfish hide among the encrusted surfaces, while coral-covered bommies on the sandy floor offer complementary wide-angle compositions.
 
 ## Site Information
 

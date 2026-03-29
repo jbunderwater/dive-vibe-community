@@ -17,7 +17,7 @@ Twin Reef is a reef dive site in Philippines Palawan, Asia.
 
 ## Overview
 
-Twin Reef is a dive site in Philippines Palawan offering excellent diving on healthy coral reef structures . Port Barton area. Shallow coral reef ideal for snorkeling and beginners. Excellent coral formations with butterflyfish, clownfish, and colorful reef fish.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Twin Reef is Port Barton's headline dive — two distinct parallel coral structures a short boat ride from the village, offering an impressive diversity of healthy hard corals that double as a fish sanctuary. The shallows are immediately rewarding for beginners and snorkelers, with butterflyfish, clownfish in their anemones, and schools of reef fish darting through the coral heads in very calm, uncrowded conditions.
 
 ## Site Information
 

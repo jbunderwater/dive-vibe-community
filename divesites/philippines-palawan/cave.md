@@ -17,7 +17,7 @@ Cave is a cave dive site in Philippines Palawan, Asia.
 
 ## Overview
 
-Cave is a dive site in Philippines Palawan featuring underwater cave and cavern formations . El Nido cave dive with natural passages and chambers. Advanced qualification required for cave diving.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+This El Nido cave dive on Matinloc Island draws advanced divers into natural limestone passages and chambers carved into the karst cliffs that define the area's dramatic above-water scenery. The dive descends to 30 meters through natural passages requiring proper cave or cavern certification, and the low-light interior shelters crustaceans and reef fish that have adapted to the reduced-light environment of the cavern walls.
 
 ## Site Information
 
