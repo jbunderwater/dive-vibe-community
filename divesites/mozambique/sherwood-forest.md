@@ -17,7 +17,7 @@ Sherwood Forest is a pinnacle dive site in Mozambique, Africa.
 
 ## Overview
 
-Sherwood Forest is a dive site in Mozambique offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Sherwood Forest is a distinctive pinnacle site near Tofo known for its dense thickets of black coral "trees" and sea fans that give the site its name, covering the submerged rocky structures from around 15 meters down to 30 meters in a forest-like canopy of branching organisms. Whale sharks and manta rays cruise past the site regularly, and the pinnacles shelter large aggregations of snapper, fusiliers, and batfish that orbit the structure in the current. The site sits in an area of strong seasonal upwelling, meaning nutrient levels are high, invertebrate life is exceptionally rich, and encounters with megafauna are reliably frequent.
 
 ## Site Information
 
