@@ -17,7 +17,7 @@ SS Lord Strathcona is a historic wreck dive in Newfoundland, North America.
 
 ## Overview
 
-SS Lord Strathcona is a dive site in Newfoundland featuring a historic wreck which sank in 1942. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The SS Lord Strathcona was an ore carrier sunk by U-513 during the first Bell Island U-boat attack on September 5, 1942, alongside the SS Saganaga — together representing the only enemy submarine attacks on North American soil in World War II. She rests at 37 meters in Conception Bay, her massive hull lying on the seabed with iron-ore cargo still visible in the holds, preserved by the cold, dark waters of the North Atlantic. The depth and Newfoundland's demanding water conditions make this an advanced dive, rewarding those with drysuit experience and a tolerance for near-zero temperatures with an extraordinarily evocative piece of wartime history.
 
 ## Site Information
 

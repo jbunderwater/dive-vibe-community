@@ -17,7 +17,7 @@ Smith Creek Wreck is a historic wreck dive in North Carolina, North America.
 
 ## Overview
 
-Smith Creek Wreck is a dive site in North Carolina featuring the wreck of the Smith Creek Wreck. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Smith Creek Wreck is a boat-access dive site in the estuarine waters of eastern North Carolina near the confluence of Smith Creek and the Neuse River, lying in approximately 25 metres in the sheltered inland waterway environment well away from the open Atlantic. Visibility in this Sound-adjacent setting is characteristically low compared to the offshore Graveyard of the Atlantic sites — typically just a few metres due to tannin-stained freshwater mixing and silt — but the wreck provides structural habitat for flounder, black sea bass, spadefish, and crustaceans common to North Carolina's inshore waters. The site appeals to local divers seeking an accessible freshwater-influenced wreck dive without the long offshore boat ride required by the better-known coastal wrecks.
 
 ## Site Information
 

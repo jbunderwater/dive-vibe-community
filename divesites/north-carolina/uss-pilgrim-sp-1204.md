@@ -17,7 +17,7 @@ USS Pilgrim (SP-1204) is a historic wreck dive in North Carolina, North America.
 
 ## Overview
 
-USS Pilgrim (SP-1204) is a dive site in North Carolina featuring a historic wreck which sank in 1935 . Yacht converted into Patrol Vessel in WWI, scuttled as a breakwater in 1935. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The USS Pilgrim (SP-1204) was an 1893 racing yacht built to challenge for the America's Cup — ultimately rejected as too difficult to helm — that was later converted to a US Navy patrol vessel in 1917, patrolling Pamlico Sound and Onslow Bay before decommissioning in 1919 and eventually being scuttled as a breakwater in 1935. The wreck lies in just 6 metres of water in the sheltered near-shore environment near Beaufort, accessible from shore, with the shallow depth and protected location making it one of the most benign wreck experiences on the Crystal Coast. The wooden and steel hull structure has fragmented over decades but supports local inshore marine life typical of North Carolina's estuarine coastal waters.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Exotic House Reef is a reef dive site in Philippines Malapascua, Asia.
 
 ## Overview
 
-Exotic House Reef is a dive site in Philippines Malapascua offering excellent diving on healthy coral reef structures . Dive Site. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Exotic House Reef is the sandy-bottomed fringing reef in front of Exotic Beach Resort on Malapascua's southern shore, accessible directly from the beach at any tide. The rubble and seagrass patches in 5–13 meters of water shelter a classic Visayan muck fauna — ghost pipefish, robust and hairy frogfish, and colonies of blue-spotted ribbontail rays resting on the sand. Dusk dives here are especially rewarding, as mandarin fish begin their mating ritual in the coral rubble just as the light fades.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Wall beach out 30 return 210/230 50-90' is a wall dive site in British Columbia,
 
 ## Overview
 
-Wall beach out 30 return 210/230 50-90' is a dive site in British Columbia featuring a dramatic vertical wall that drops into the deep blue. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Wall Beach is a shore entry dive at Nanoose Bay near Parksville on central Vancouver Island, where the dive plan embedded in the name — swim out on a heading of 30 degrees and return on 210 or 230 — reflects local divers' compass navigation practice to find the wall in the 15–27 metre depth range. The site is well known for sea lion encounters, particularly in the fall and winter when Steller and California sea lions gather in Nanoose Bay and frequently swim up to investigate divers. The cold, clear Strait of Georgia water delivers decent visibility, and the rocky wall structure hosts the same Pacific Northwest assemblage of wolf eels, giant Pacific octopus, and lingcod found throughout this productive stretch of Vancouver Island.
 
 ## Site Information
 

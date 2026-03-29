@@ -17,7 +17,7 @@ Yellow Bluff Reef is a wall dive site in British Columbia, North America.
 
 ## Overview
 
-Yellow Bluff Reef is a dive site in British Columbia featuring a dramatic vertical wall that drops into the deep blue. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Yellow Bluff Reef sits in the waters between the southern BC Gulf Islands and Washington State's San Juan Islands, a region where tidal exchanges through the narrow passes create productive, fast-flushed conditions that support rich cold-water marine life. The reef's wall structure descends to 30 metres in the cold, nutrient-rich Pacific waters of the Salish Sea, where encrusting growth of anemones and sponges clings to the rock face alongside lingcod, rockfish, and giant Pacific octopus typical of the southern Gulf Islands dive environment. Strong tidal currents are a feature of this part of the Strait of Georgia, and conditions should be checked carefully before the dive.
 
 ## Site Information
 

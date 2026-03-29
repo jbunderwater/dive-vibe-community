@@ -17,7 +17,7 @@ HMCS Longueuil is a historic wreck dive in British Columbia, North America.
 
 ## Overview
 
-HMCS Longueuil is a dive site in British Columbia featuring the wreck of the HMCS Longueuil. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+HMCS Longueuil was a River-class frigate commissioned in 1944 that served in the North Atlantic as a convoy escort during the final stages of World War Two, and was subsequently grounded as a breakwater at Kelsey Bay on northern Vancouver Island in the late 1940s. The site sits in Discovery Passage near the community of Kelsey Bay, where fast-moving tidal currents maintain good visibility and deliver nutrients that sustain a healthy invertebrate community across the wreck. The hull lies close to HMCS Lasalle and HMCS Runnymede, making this stretch of shoreline a rare multi-wreck dive destination in BC.
 
 ## Site Information
 

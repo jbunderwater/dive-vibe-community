@@ -17,7 +17,7 @@ Smitswinkel Bay Wrecks is a historic wreck dive in Cape Town, Africa.
 
 ## Overview
 
-Smitswinkel Bay Wrecks is a dive site in Cape Town featuring the wreck of the Smitswinkel Bay Wrecks. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Smitswinkel Bay in False Bay is legendary among Cape Town divers as the site where the South African Navy scuttled five vessels in the early 1970s to form an artificial reef: the frigates SAS Transvaal and SAS Good Hope, the trawlers MFV Oratava and MFV Princess Elizabeth, and the diamond dredger MV Rockeater. The wrecks are spread across 400 metres of sandy bay floor at depths of 22–38 metres, all densely colonised by soft corals, sea fans, sponges, and fish, and skilled navigators attempt the famous "Smits Swim" — visiting all five in a single no-decompression dive. Visibility in the bay often surpasses inshore sites on good days, and the site is predominantly a winter destination when southeast winds ease and the bay calms.
 
 ## Site Information
 

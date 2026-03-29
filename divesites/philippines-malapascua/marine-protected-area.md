@@ -17,7 +17,7 @@ Marine Protected Area is a reef dive site in Philippines Malapascua, Asia.
 
 ## Overview
 
-Marine Protected Area is a dive site in Philippines Malapascua offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Malapascua's Marine Protected Area covers a section of reef off the island's northwest corner where fishing has been restricted for years, and the difference in coral health compared to adjacent unprotected areas is immediately visible. Dense table and staghorn corals dominate the shallows, giving way to sea fans and barrel sponges as the slope descends toward 20 meters. The no-take zone makes the fish bold — napoleon wrasse, bumphead parrotfish, and schools of trevally are routine sightings, and the resident turtle population here is noticeably large.
 
 ## Site Information
 

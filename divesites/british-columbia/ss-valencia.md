@@ -17,7 +17,7 @@ SS Valencia is a historic wreck dive in British Columbia, North America.
 
 ## Overview
 
-SS Valencia is a dive site in British Columbia featuring a historic wreck which sank in 1906-04-15. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The SS Valencia was a 252-foot iron-hulled passenger steamer that struck a reef south of Pachena Point on the west coast of Vancouver Island on January 22, 1906, killing 136 people in one of the worst maritime disasters in the history of the "Graveyard of the Pacific." The bow section remains on the seabed flanked by its anchors, and the wreck has been left largely undisturbed within Pacific Rim National Park Reserve — a powerful and eerie site that has inspired ghost stories and local legends for over a century. The remote, exposed location means the dive is only feasible in ideal conditions, as the same treacherous currents and jagged rocks that caused the disaster remain very much present.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Lighthouse is a wall dive site in Philippines Malapascua, Asia.
 
 ## Overview
 
-Lighthouse is a dive site in Philippines Malapascua featuring a dramatic vertical wall that drops into the deep blue . Dive Site. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Lighthouse is a wall dive at the northeastern tip of Malapascua, directly below the old lighthouse that marks the island's windward corner. The wall drops sharply from 5 meters to beyond 30, its face encrusted with sea fans, crinoids, and rope sponges that provide a colourful backdrop for the hawksbill turtles that frequently cruise by. Current can be significant here given the exposed point, but that same current draws in thresher sharks from deeper water, making early morning dives particularly productive for pelagic encounters.
 
 ## Site Information
 

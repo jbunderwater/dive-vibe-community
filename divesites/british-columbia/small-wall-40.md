@@ -17,7 +17,7 @@ Small wall 40' is a wall dive site in British Columbia, North America.
 
 ## Overview
 
-Small wall 40' is a dive site in British Columbia featuring a dramatic vertical wall that drops into the deep blue. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Small Wall is the shallowest of the four dive zones at Madrona Point in Nanoose Bay on central Vancouver Island, maxing out at around 12 metres (40 feet) and accessible from the rocky shore via a natural trench entry point on the left side of the point. The shorter wall face is dotted with octopus dens and decorated with encrusting anemones and sea stars, making it a good choice for newer divers or a second dive after tackling the deeper Main Wall. Sea lions are frequently spotted here in the fall and winter, often approaching divers with curiosity in the cold, clear water of Nanoose Bay.
 
 ## Site Information
 

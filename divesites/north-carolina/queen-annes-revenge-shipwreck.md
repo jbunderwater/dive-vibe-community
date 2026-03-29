@@ -17,7 +17,7 @@ Queen Anne's Revenge Shipwreck is a historic wreck dive in North Carolina, North
 
 ## Overview
 
-Queen Anne's Revenge Shipwreck is a dive site in North Carolina featuring the wreck of the Queen Anne's Revenge Shipwreck which sank in 1718. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Queen Anne's Revenge was Blackbeard's flagship — the vessel he captured as the French slaver Concorde in 1717 and used to blockade Charleston harbour before deliberately running her aground at Beaufort Inlet on 10 June 1718. The wreck lies in just 9 metres of water about a mile offshore from Fort Macon State Park, and while visibility is extremely limited (typically 2–10 feet due to the tidal inlet environment), divers following a guideline can count eight intact cannon in the shifting sand and locate a large anchor rising like a ghostly marker from the bottom. Over 400,000 artefacts have been recovered from the site and are displayed at the North Carolina Maritime Museum in Beaufort, making this one of the most archaeologically significant pirate-era wrecks ever found.
 
 ## Site Information
 

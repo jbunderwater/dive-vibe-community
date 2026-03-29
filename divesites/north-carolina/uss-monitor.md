@@ -17,7 +17,7 @@ USS Monitor is a historic wreck dive in North Carolina, North America.
 
 ## Overview
 
-USS Monitor is a dive site in North Carolina featuring a historic wreck which sank in 1862-12-24. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The USS Monitor — the famous Civil War ironclad that fought the CSS Virginia in the first battle of iron warships in March 1862 — sank in a gale on 31 December 1862 and was lost for over a century before being discovered in 230 feet (70 m) of water 16 miles off Cape Hatteras in 1973. It is now protected as the first US National Marine Sanctuary ever designated, and at this depth with permit requirements and demanding current conditions it is accessible only to highly experienced technical divers. The wreck has become an extraordinary artificial reef hosting amberjack, sand tiger sharks, slipper lobsters, sea anemones, and corals, all fed by the nutrient collision of the Gulf Stream and Labrador Current — one of the most historically significant and biologically rich dive sites on the US East Coast.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Troot Pool is a historic wreck dive in Newfoundland, North America.
 
 ## Overview
 
-Troot Pool is a dive site in Newfoundland featuring the wreck of the Troot Pool. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Troot Pool is a sunken vessel resting in the cold Atlantic waters off Saint-Pierre and Miquelon, the French archipelago near the southern tip of Newfoundland. The wreck sits in around 25 meters of water and has been colonised by cold-water invertebrates — sea anemones, nudibranchs, and encrusting bryozoans cover much of the hull. Water temperatures in this region hover between 7–14°C year-round, so a drysuit is strongly recommended even during the summer diving season.
 
 ## Site Information
 

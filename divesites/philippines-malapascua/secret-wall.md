@@ -17,7 +17,7 @@ Secret Wall is a wall dive site in Philippines Malapascua, Asia.
 
 ## Overview
 
-Secret Wall is a dive site in Philippines Malapascua featuring a dramatic vertical wall that drops into the deep blue . Dive Site. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Secret Wall is a steep vertical wall on the less-frequented western side of Malapascua, dropping from the shallows down past 30 meters into open water. The wall face is draped with sea fans and soft corals, and its remoteness means it sees less traffic than Gato Island, giving it an uncrowded, raw feel. Strong currents can sweep across the wall and push pelagics close to the edge, making careful drift technique and a late-dive safety stop in the blue essential.
 
 ## Site Information
 

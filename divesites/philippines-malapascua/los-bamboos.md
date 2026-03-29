@@ -17,7 +17,7 @@ Los Bamboos is a reef dive site in Philippines Malapascua, Asia.
 
 ## Overview
 
-Los Bamboos is a dive site in Philippines Malapascua offering excellent diving on healthy coral reef structures . Dive Site. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Los Bamboos is a coral slope on the southern side of Malapascua named for the bamboo fish traps that local fishermen once set along this stretch of reef. The site descends from a shallow reef crest rich in branching corals down to a rubble and sand bottom at around 20 meters, where garden eels sway in the mild current and burrowing gobies dart between shrimp burrows. It makes an excellent second or third dive of the day when the water is at its warmest and the fish feeding activity picks up in the afternoon light.
 
 ## Site Information
 

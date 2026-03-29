@@ -17,7 +17,7 @@ addedBy: osm_import
 
 ## Overview
 
-Épave du Transpacific is a dive site in Newfoundland featuring the wreck of the Épave du Transpacific which sank in 1971-05-18. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Transpacific is a shallow shore-accessible wreck resting in just 10 meters off the coast of Saint-Pierre, sunk in May 1971 and now a popular dive site for the Saint-Pierre diving community. The vessel's shallow depth and easy shore entry make it one of the most accessible wrecks in the region, though the cold Atlantic water — rarely above 14°C in summer — still demands thermal protection. The hull has become well-colonised by cold-water invertebrates, and the shallow depth allows extended bottom times to explore the structure thoroughly.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ U-85 (Wrack) is a historic wreck dive in North Carolina, North America.
 
 ## Overview
 
-U-85 (Wrack) is a dive site in North Carolina featuring the wreck of the U-85 (Wrack). Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+U-85 holds the distinction of being the first German U-boat sunk by US naval forces in World War II — a Type VIIB submarine sent to the bottom by the destroyer USS Roper with depth charges on 14 April 1942, killing all 46 crew — and now rests on its starboard side in about 34 metres, 14 miles east of Oregon Inlet. The exposed pressure hull at the bow reveals four forward torpedo tubes, and battle damage from Roper's deck gun is visible aft of the conning tower; some torpedo tubes still contain torpedoes. The wreck is an advanced dive due to consistently strong Outer Banks currents and variable visibility, and its enigma machine — recovered by divers — now resides at the Graveyard of the Atlantic Museum in Hatteras, while the sub's hatch is displayed at Cape Hatteras Lighthouse.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ USS Huron Shipwreck is a historic wreck dive in North Carolina, North America.
 
 ## Overview
 
-USS Huron Shipwreck is a dive site in North Carolina featuring a historic wreck which sank in Nov 24 1877. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The USS Huron was an iron-hulled Navy gunboat that ran aground 250 yards off Nags Head at 1:30 am on 24 November 1877, killing 98 men in the surf — a national tragedy that directly led to Congress funding new US Lifesaving Service stations along the North Carolina coast. The wreck sits in just 9 metres of water and is North Carolina's first designated Historic Shipwreck Preserve, marked by buoys in summer with the boilers, cannonball storage racks, and the massive propeller and rudder all clearly visible to snorkellers and entry-level divers. The site lies between mileposts 11 and 12 at Nags Head and is the most accessible wreck dive on the Outer Banks, managed cooperatively by the state, the Town of Nags Head, and the US Navy.
 
 ## Site Information
 

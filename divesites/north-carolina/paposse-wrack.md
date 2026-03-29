@@ -17,7 +17,7 @@ Paposse (Wrack) is a historic wreck dive in North Carolina, North America.
 
 ## Overview
 
-Paposse (Wrack) is a dive site in North Carolina featuring the wreck of the Paposse (Wrack). Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The wreck known to divers as the "Papoose" is actually the W.E. Hutton, a 435-foot petroleum tanker torpedoed by U-124 on 19 March 1942 while carrying 65,000 barrels of heating oil — she now lies upside down in 38 metres about 36 nautical miles from shore, close enough to the Gulf Stream that visibility of 100 feet is achievable. The inverted hull creates dramatic swim-through opportunities beneath the massive structure, and the site is heavily trafficked by sand tiger sharks drawn to the wreck's dark underside; turtles, jacks, and stingrays round out the offshore marine community. The three-hour boat ride from Morehead City keeps the site relatively uncrowded despite its fame as one of North Carolina's great wreck dives.
 
 ## Site Information
 

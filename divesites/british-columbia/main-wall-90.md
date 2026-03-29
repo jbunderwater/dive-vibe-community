@@ -17,7 +17,7 @@ Main wall 90' is a wall dive site in British Columbia, North America.
 
 ## Overview
 
-Main wall 90' is a dive site in British Columbia featuring a dramatic vertical wall that drops into the deep blue. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Main Wall at Madrona Point in Nanoose Bay is considered one of the best shore dives on central Vancouver Island, dropping to around 27 metres (90 feet) along a substantial rocky wall packed with nooks and overhangs that almost guarantee encounters with wolf eels and giant Pacific octopus. The Strait of Georgia's clean, cold water delivers visibility that typically exceeds that of more southern BC dive sites, and large lingcod are frequently seen perched on ledges along the wall face. This is the deepest and most advanced of the four dive areas at Madrona Point, and most divers tackle it first when planning a multi-dive day at the site.
 
 ## Site Information
 

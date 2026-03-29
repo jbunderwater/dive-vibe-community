@@ -17,7 +17,7 @@ Indra (Wrack) is a historic wreck dive in North Carolina, North America.
 
 ## Overview
 
-Indra (Wrack) is a dive site in North Carolina featuring the wreck of the Indra (Wrack). Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The USS Indra (ARL-37) was a 330-foot landing craft repair ship that served in the Vietnam War before being transferred to North Carolina and sunk as an artificial reef on 4 August 1992, deliberately placed in just 18 metres of water only 10 miles from Beaufort Inlet to be accessible to new wreck divers. Large holes were cut in her sides before sinking and Hurricane Florence in 2018 bisected the hull, creating easy swim-through access throughout the now-open interior, which is home to barracuda, amberjack, sea bass, flounder, toadfish, and occasional sand tiger sharks. Since the 1990s the Indra has likely hosted more diver visits than any other wreck off the Outer Banks, earning affectionate nicknames like the "Indra Maru" among regulars.
 
 ## Site Information
 

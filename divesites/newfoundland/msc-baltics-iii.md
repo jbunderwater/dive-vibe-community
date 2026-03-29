@@ -17,7 +17,7 @@ MSC Baltics III is a historic wreck dive in Newfoundland, North America.
 
 ## Overview
 
-MSC Baltics III is a dive site in Newfoundland featuring the wreck of the MSC Baltics III which sank in 2025-02-15 . Grounded Feb 2025, active 2-nautical-mile exclusion zone, not currently diveable as of March 2026. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The MSC Baltics III is a large cargo vessel that grounded on the northern coast of Newfoundland in February 2025 and remains subject to an active 2-nautical-mile exclusion zone as of early 2026 while salvage and environmental response operations continue. The wreck is not currently accessible for recreational diving, and approaching the site is prohibited by Transport Canada marine notices. Divers interested in this site should monitor official Canadian Coast Guard and Transport Canada advisories for updates on the exclusion zone status before planning any visit.
 
 ## Site Information
 
