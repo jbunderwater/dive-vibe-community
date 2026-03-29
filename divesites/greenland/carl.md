@@ -17,7 +17,7 @@ Carl is a historic wreck dive in Greenland, Arctic.
 
 ## Overview
 
-Carl is a dive site in Greenland featuring the wreck of the Carl. Located in the Arctic region, this site offers 10-30 meters of visibility with water temperatures averaging -1 to 8°C.
+The Carl is a wreck dive in the extreme conditions of Greenlandic waters, resting at 40 meters in the Arctic region where year-round water temperatures hover between -1 and 8°C and a drysuit is not optional. Greenland's clear, cold Arctic water offers excellent visibility — frequently 15-25 meters — and the wreck has been colonized by the dense anemone beds, crabs, and kelp growth typical of high-latitude diving, with harbor and ringed seals occasionally investigating divers on the ascent. Access requires specialist cold-water diving experience and equipment; there are no decompression facilities in the Arctic, and emergency assistance can be several hours away.
 
 ## Site Information
 

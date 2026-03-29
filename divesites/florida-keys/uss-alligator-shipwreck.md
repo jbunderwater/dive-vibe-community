@@ -17,7 +17,7 @@ USS Alligator Shipwreck is a historic wreck dive in Florida Keys, North America.
 
 ## Overview
 
-USS Alligator Shipwreck is a dive site in Florida Keys featuring a historic wreck. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The USS Alligator was a US Navy anti-piracy schooner commissioned in 1821 that ran aground on a Florida Keys reef in November 1822 during a convoy escort mission after chasing Caribbean pirates, and was subsequently set ablaze and destroyed with gunpowder to prevent looting — her grounding named the reef. What remains in very shallow water off Islamorada consists primarily of encrusted ballast stone piles and lower hull fragments, visible to snorkellers and divers year-round on a living coral reef home to over 630 reef fish species. The identity of the wreck remains partially unresolved: a 1996 expedition suggested the site is likely a different 19th-century vessel, and NOAA continues archaeological survey work to locate the Alligator's actual remains.
 
 ## Site Information
 

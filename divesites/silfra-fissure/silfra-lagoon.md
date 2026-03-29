@@ -17,7 +17,7 @@ Silfra Lagoon is a wall dive site in Silfra Fissure, Europe.
 
 ## Overview
 
-Silfra Lagoon is a renowned dive site in Silfra Fissure featuring a dramatic vertical wall that drops into the deep blue. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Silfra Lagoon is the calm, shallow exit section of the Silfra fissure dive — a 120-metre-long pool where the crack opens into a broad, sunlit space and the dazzling neon blues and greens of the glacial water are most vivid. It is the shallowest part of the dive and the spot where the remarkable visibility, often exceeding 100 metres, is most dramatically demonstrated, with the far end of the lagoon clearly visible from the entry point. Dense mats of the famous bright green "troll hair" algae coat the bottom, the only significant plant life in the near-freezing water.
 
 ## Site Information
 

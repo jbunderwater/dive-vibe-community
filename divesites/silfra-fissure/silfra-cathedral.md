@@ -17,7 +17,7 @@ Silfra Cathedral is a wall dive site in Silfra Fissure, Europe.
 
 ## Overview
 
-Silfra Cathedral is a renowned dive site in Silfra Fissure featuring a dramatic vertical wall that drops into the deep blue. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Silfra Cathedral is the deepest and most dramatic section of the fissure — a 100-metre-long corridor where sheer lava walls drop straight down to the chasm floor, creating the sensation of floating inside a vast cathedral nave. The visibility is so complete that divers can see the full length of the corridor at once, with the deep blue of the abyss below fading into shades of vivid turquoise closer to the surface. The actual fissure drops to 63 metres at its deepest, though recreational dives are limited to 18 metres.
 
 ## Site Information
 

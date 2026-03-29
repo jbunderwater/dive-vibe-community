@@ -17,7 +17,7 @@ USNS General Hoyt S. Vandenberg is a historic wreck dive in Florida Keys, North 
 
 ## Overview
 
-USNS General Hoyt S. Vandenberg is a dive site in Florida Keys featuring the wreck of the USNS General Hoyt S. Vandenberg which sank in 2009-05-27. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Vandenberg is a 524-foot former Cold War missile-tracking ship scuttled 7 miles south of Key West on 27 May 2009, now the second-largest artificial reef in the world and voted the number one wreck dive on Earth by Scuba Diving magazine readers. She lies with the main deck at 100 feet and her tallest superstructure reaching 55–70 feet deep, with the enormous parabolic tracking dishes and radar equipment from her Apollo and Gemini missions creating extraordinary swim-through terrain for advanced divers. Goliath groupers, moray eels, barracuda, and bull sharks are regulars, and the more than 1,000 compartments reward multiple dives across different depths and certification levels.
 
 ## Site Information
 

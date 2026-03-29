@@ -17,7 +17,7 @@ M/V Transfer is a historic wreck dive in Belize Barrier Reef, Caribbean.
 
 ## Overview
 
-M/V Transfer is a dive site in Belize Barrier Reef featuring the wreck of the M/V Transfer which sank in 2005. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The M/V Transfer is a 225-foot British cargo vessel that ran aground on Lighthouse Reef Atoll on January 6, 2005 — a faulty auto-pilot directed it into the reef at night, and subsequent storm surge from Hurricane Emily pushed additional sections of the hull further onto the shallow reef structure. The wreck now sits at around 20 meters in Lighthouse Reef's characteristically clear Caribbean water, its steel hull beginning to develop the coral and sponge encrustation that will eventually transform it into a full artificial reef, already hosting groupers, snappers, and the diverse reef fish community of the Belize Barrier Reef System. The remote location at Lighthouse Reef means this wreck sees far fewer divers than mainland Belize sites, offering a quieter, more exploratory dive experience in waters with visibility regularly reaching 20-40 meters.
 
 ## Site Information
 

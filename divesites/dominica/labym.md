@@ -17,7 +17,7 @@ L'Abym is a wall dive site in Dominica, Caribbean.
 
 ## Overview
 
-L'Abym is a dive site in Dominica featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+L'Abym — meaning "The Abyss" — is a legendary wall in the Soufriere Scotts Head Marine Reserve where the vertical drop descends 1,500 feet into the deep, making it one of the most dramatic wall profiles in the Caribbean. Despite the intimidating name, the dive is approached from a sandy shelf at 25 feet with very little current, making it accessible to divers of all levels who can comfortably float 30 feet off the wall and look both up to the surface cliff and down into the bottomless blue. Seahorses, scorpionfish, turtles, solitary barracuda, and the occasional yellow frogfish in the shallows reward patient divers while the wall face itself is covered in encrusting sponges and hard corals.
 
 ## Site Information
 

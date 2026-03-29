@@ -17,7 +17,7 @@ Ticao Island South Wall is a wall dive site in Philippines Donsol, Asia.
 
 ## Overview
 
-Ticao Island South Wall is a dive site in Philippines Donsol featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Ticao Island's south wall faces the current-swept waters of Ticao Pass, where Pacific water rushing through the San Bernardino Strait carries the dense phytoplankton blooms that attract the area's celebrated pelagic visitors — reef manta rays, whale sharks, thresher sharks, and hammerheads are all recorded species at this and neighboring Ticao dive sites. The wall itself is steep and coral-encrusted, dropping to 35 meters, with moray eels, scorpionfish, and stonefish hidden in the rocky substrate alongside the surge of larger animals passing in the open water beyond the wall edge. Ticao is a 45-minute boat ride from Donsol, making it a natural pairing with whale shark snorkeling for a full multi-day visit to the Bicol region.
 
 ## Site Information
 

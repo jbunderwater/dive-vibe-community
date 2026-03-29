@@ -17,7 +17,7 @@ San Bernardino Strait is a wall dive site in Philippines Donsol, Asia.
 
 ## Overview
 
-San Bernardino Strait is a dive site in Philippines Donsol featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+San Bernardino Strait is a narrow passage between the Bicol Peninsula and Samar with tidal currents that can reach 4.5 meters per second during spring tides, funneling Pacific Ocean water into the Philippine inland seas and creating the nutrient upwelling that makes the surrounding waters one of the richest marine environments in the entire Coral Triangle. Diving the strait channels divers through walls and drop-offs where the current does the work, delivering encounters with scalloped hammerheads, whale sharks, thresher sharks, and massive schools of barracuda and tuna that congregate in the current lanes. This is advanced drift diving that demands experience with strong and unpredictable currents, but the reward in pelagic marine life is among the most spectacular in the Philippines.
 
 ## Site Information
 

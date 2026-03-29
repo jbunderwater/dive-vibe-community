@@ -17,7 +17,7 @@ Spiegel Grove is a historic wreck dive in Florida Keys, North America.
 
 ## Overview
 
-Spiegel Grove is a renowned dive site in Florida Keys featuring the wreck of the Spiegel Grove. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The USS Spiegel Grove is a 510-foot Navy landing ship lying in the Florida Keys National Marine Sanctuary off Key Largo, scuttled in 2002 and now ranked among the premier wreck dives in the United States. Hurricane Dennis in 2005 rolled the ship upright from its original listing position, and it now rests with the main deck at 70–90 feet and the bow in roughly 95 feet of water, with the mast reaching up to 60 feet. Every surface is encrusted in sponges and soft corals, Goliath groupers colonise the holds, and divers can reach into a series of purpose-cut swim-throughs without full penetration — though the sheer size means a hundred dives still won't reveal everything.
 
 ## Site Information
 

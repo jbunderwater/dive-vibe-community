@@ -17,7 +17,7 @@ Büyük Resif is a wall dive site in Turkey, Europe.
 
 ## Overview
 
-Büyük Resif is a dive site in Turkey featuring a dramatic vertical wall that drops into the deep blue . Big Reef near Bodrum, features shallow anchor area at 7m descending to wall dropping to 34m, rich marine biodiversity. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Büyük Resif (Big Reef) is one of Bodrum's signature dives — a circular underwater hill positioned between the Bodrum Peninsula and Karaada (Black Island), with a reef summit at 5 meters and a wall on the Black Island side that drops straight down from 7 to 34 meters. The wall face harbors octopuses, moray eels, spiny lobsters, and large groupers, while jacks, barracuda, and sea bream work the shallower terraced sections, and sea turtles appear as occasional visitors. Currents run regularly through the site, keeping it washed with nutrients and making it one of the most consistently productive reef dives on Turkey's Aegean coast.
 
 ## Site Information
 

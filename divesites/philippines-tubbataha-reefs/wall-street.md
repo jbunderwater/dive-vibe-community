@@ -17,7 +17,7 @@ Wall Street is a wall dive site in Philippines Tubbataha Reefs, Asia.
 
 ## Overview
 
-Wall Street is a dive site in Philippines Tubbataha Reefs featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Wall Street lives up to its name with a steep wall that plunges 50-60 meters off the North Atoll, its face blanketed in gorgonian fans, hard corals, and a colorful garden reef top beginning at just 3-5 meters where bumphead parrotfish congregate on almost every dive. Strong currents here attract dogtooth tuna, schools of barracuda, giant trevally, and regular passes by hammerhead sharks and whitetip reef sharks patrolling the wall face. Alongside the nearby Malayan Wreck and Amos Rock, this is one of the North Atoll's three standout dive sites that divers consistently rate as highlights of any Tubbataha liveaboard.
 
 ## Site Information
 

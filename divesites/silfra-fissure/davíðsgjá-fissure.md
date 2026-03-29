@@ -17,7 +17,7 @@ Davíðsgjá Fissure is a wall dive site in Silfra Fissure, Europe.
 
 ## Overview
 
-Davíðsgjá Fissure is a dive site in Silfra Fissure featuring a dramatic vertical wall that drops into the deep blue. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Davíðsgjá is a monstrous eruption fissure in Þingvallavatn Lake, about 10 minutes from Silfra and far less visited — local divers call it Silfra's darker, wilder sibling. The fissure branches into two gorges: a dark and narrow passage to one side and a wide open canyon to the other, both filled with stacked round boulders and square lava slabs of incomprehensible scale. Unlike Silfra, the top of the fissure sits 7 metres below the lake surface, which means Arctic char and trout sometimes join divers inside, and visibility — though still exceptional — is more weather-dependent than Silfra's spring-fed conditions.
 
 ## Site Information
 

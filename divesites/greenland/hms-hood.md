@@ -17,7 +17,7 @@ HMS Hood is a historic wreck dive in Greenland, Arctic.
 
 ## Overview
 
-HMS Hood is a dive site in Greenland featuring a historic wreck which sank in 1916-05-31. Located in the Arctic region, this site offers 10-30 meters of visibility with water temperatures averaging -1 to 8°C.
+HMS Hood was Britain's most famous warship when she was sunk on May 24, 1941, during the Battle of the Denmark Strait between Greenland and Iceland — hit by shells from the German battleship Bismarck, she exploded and sank in under three minutes with the loss of 1,415 crew members, leaving only three survivors. The wreck was located in July 2001 by David Mearns' expedition team lying in three sections at approximately 2,800 meters depth in the Irminger Basin — far beyond the reach of any recreational or technical diver. The site is a designated protected war grave and can only be surveyed by remotely operated vehicles; it is listed here as a marker of this extraordinary naval history in the waters classified within the Greenland destination area.
 
 ## Site Information
 

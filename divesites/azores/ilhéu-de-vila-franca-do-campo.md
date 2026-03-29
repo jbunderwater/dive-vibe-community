@@ -17,7 +17,7 @@ Ilhéu de Vila Franca do Campo is a reef dive site in Azores, Europe.
 
 ## Overview
 
-Ilhéu de Vila Franca do Campo is a dive site in Azores offering excellent diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Ilhéu de Vila Franca do Campo is a Surtseyan tuff-cone islet formed by a submarine volcanic eruption about 5,000 years ago, with a near-circular crater lagoon at its centre that has become a protected marine nature reserve since 1983. The western face features tunnels connecting the lagoon interior to the open sea, while the outer slopes offer canyons and crevices populated by dusky groupers, barred hogfish, ornate wrasses, parrotfish, moray eels, and common octopuses. The deeper outer reef at Cabeços do Ilhéu, accessible by short boat, descends to 45 metres over lava covered in black coral and Almaco jack schools — suitable only for experienced divers due to strong currents.
 
 ## Site Information
 

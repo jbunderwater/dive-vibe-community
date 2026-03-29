@@ -17,7 +17,7 @@ Lighthouse Reef is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Lighthouse Reef is a dive site in Roatán offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Lighthouse Reef at West Bay is one of Roatan's most-dived sites for good reason — the mooring sits on the reef top in around 8 meters with a sandy patch ideal for navigation training, and just a short swim delivers divers to the wall face where brain corals, sea fans, and sponge formations cascade down toward deeper water. Every dive shop in West Bay uses this site for student dives because of the gentle conditions and the productive 5-6 meter sand patches, but experienced divers also find it rewarding for its consistent macro life whether over sand or on the wall. Turtles, stingrays, and the occasional eagle ray appear regularly, and the site is fully protected within the Roatan Marine Park with mooring buoys preventing anchor damage.
 
 ## Site Information
 

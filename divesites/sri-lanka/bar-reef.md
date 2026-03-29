@@ -17,7 +17,7 @@ Bar Reef is a reef dive site in Sri Lanka, Asia.
 
 ## Overview
 
-Bar Reef is a dive site in Sri Lanka offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Bar Reef is Sri Lanka's largest coral reef — a 307-square-kilometer Marine Sanctuary off Kalpitiya on the northwest coast, composed of patch reefs of plate corals interspersed with sandstone reefs and seagrass beds, reachable by a 30-minute boat ride from shore. The sanctuary shelters 156 coral species and 283 reef fish species, including resident blacktip reef sharks, thick-lipped groupers, and pods of spinner dolphins that hunt through the shallows, with larger cetaceans also visiting the outer reef. Maximum depths reach around 20 meters, and the best diving season runs from November to early May when the northeast monsoon brings calm conditions and good visibility.
 
 ## Site Information
 

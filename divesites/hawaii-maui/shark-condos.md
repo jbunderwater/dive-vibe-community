@@ -17,7 +17,7 @@ Shark Condos is a cave dive site in Hawaii - Maui, Pacific.
 
 ## Overview
 
-Shark Condos is a dive site in Hawaii - Maui featuring underwater cave and cavern formations. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Shark Condos is the nickname for a series of lava bench formations and caves at Molokini Crater, situated near the sandy channel toward the southern edge of the crater at around 35-40 meters, where whitetip reef sharks and grey reef sharks rest undisturbed during daylight hours. The site requires solid buoyancy control given the depth and proximity to no-decompression limits, but the reward is a close look at these compact, agile sharks in their natural resting quarters wedged into the volcanic rock. Molokini's exceptional visibility — regularly 30-50 meters — means divers can often see the sharks silhouetted against the blue long before reaching the condos themselves.
 
 ## Site Information
 

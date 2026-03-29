@@ -17,7 +17,7 @@ Amos Rock is a wall dive site in Philippines Tubbataha Reefs, Asia.
 
 ## Overview
 
-Amos Rock is a dive site in Philippines Tubbataha Reefs featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Amos Rock is a North Atoll landmark — named for the midnight snappers that school around a distinctive rocky formation at 5 meters — where a coral-covered slope transitions into a wall densely packed with gorgonian fans, purple sea fans, and whip corals. Grey reef and whitetip sharks are reliably present when current is running, alongside dog-toothed tuna, eagle rays, napoleon wrasse, and both pickhandle and great barracuda patrolling the wall. Night dives reveal an entirely different world: lobsters, flatworms, nudibranchs, and pygmy seahorses tucked into the gorgonian fans make this an essential stop on any Tubbataha itinerary.
 
 ## Site Information
 

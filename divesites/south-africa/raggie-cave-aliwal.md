@@ -17,7 +17,7 @@ Raggie Cave Aliwal is a cave dive site in South Africa, Africa.
 
 ## Overview
 
-Raggie Cave Aliwal is a dive site in South Africa featuring underwater cave and cavern formations. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Raggie Cave is Aliwal Shoal's most celebrated shark dive — a large cavern on the edge of the reef at around 17 metres where ragged tooth sharks (sand tigers) gather in numbers from June through October during their annual migration north along the KwaZulu-Natal coast. Divers kneel on the sandy bottom outside the cave entrance and watch the sharks glide overhead; entry into the cave itself is not permitted when sharks are present but the sandy viewing area in front gives perfectly intimate sightlines. Along with the raggies, huge potato bass, moray eels, and vast schools of baitfish share the site, which sits within a Marine Protected Area off Umkomaas.
 
 ## Site Information
 

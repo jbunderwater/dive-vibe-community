@@ -17,7 +17,7 @@ Bird Islet Wall is a wall dive site in Philippines Tubbataha Reefs, Asia.
 
 ## Overview
 
-Bird Islet Wall is a dive site in Philippines Tubbataha Reefs featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Bird Islet Wall drops off the northern edge of Tubbataha's North Atoll in a sheer curtain draped with gorgonian fans and dense soft corals, with visibility regularly reaching 30-40 meters in the UNESCO World Heritage park's pristine Sulu Sea waters. The wall starts shallow at the reef top and plunges beyond recreational limits, drawing grey reef sharks, hammerheads, and the occasional whale shark cruising in the blue alongside schools of trevally and barracuda. This liveaboard-only site is accessible just three months a year, from mid-March to mid-June, when seas flatten and the park opens its gates.
 
 ## Site Information
 

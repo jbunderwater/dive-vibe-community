@@ -17,7 +17,7 @@ Half Moon Wall is a wall dive site in Belize Barrier Reef, Caribbean.
 
 ## Overview
 
-Half Moon Wall is a dive site in Belize Barrier Reef featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Half Moon Wall at Lighthouse Reef Atoll is widely considered one of the best wall dives in Belize — a gentle sandy slope leads to a staghorn coral barrier at 12-15 meters, then narrows tunnels and gaps in the living coral give way to the open seaward face of the wall, draped in brilliant yellow and blue sponges, gorgonian sea fans, and giant barrel sponges dropping to depths well beyond recreational limits. Hawksbill turtles graze on sponges along the wall while Caribbean reef sharks patrol the outer edge, and eagle rays appear with enough regularity that local guides treat a sighting as routine rather than exceptional. Mantas come to feed on the plankton blooms from August through October, and whale sharks pass Lighthouse Reef during April and May, making timing a visit during these windows an opportunity for multiple pelagic encounters at a single site.
 
 ## Site Information
 

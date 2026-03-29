@@ -17,7 +17,7 @@ MV Mars is a historic wreck dive in Andaman Islands, Asia.
 
 ## Overview
 
-MV Mars is a dive site in Andaman Islands featuring a historic wreck. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The MV Mars is the wreck of a small wooden Burmese rice-transport vessel that sank in 2006 and now rests upright on a sandy bottom off Havelock Island at 25–30 metres, slightly tilted to port with the wheelhouse roof rising to 7 metres. The hull is encrusted in soft corals and sponges and attracts groupers, barracuda, snappers, fusiliers, and the occasional shark, while the smaller recesses host seahorses, crocodile fish, and scorpionfish. Best visited between November and May when visibility peaks at 15–30 metres; this is an advanced dive due to its depth.
 
 ## Site Information
 

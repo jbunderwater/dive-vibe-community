@@ -17,7 +17,7 @@ MV Primrose is a historic wreck dive in Andaman Islands, Asia.
 
 ## Overview
 
-MV Primrose is a dive site in Andaman Islands featuring a historic wreck which sank in 1981-08-02 . Protected site near North Sentinel Island. Diving prohibited per Indian regulations protecting indigenous population.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The MV Primrose was a 16,000-ton freighter that ran aground on a reef off North Sentinel Island on 2 August 1981 during a monsoon storm, triggering a days-long standoff as the Sentinelese emerged from the jungle armed with bows and spears while the crew radioed for help with improvised weapons. The Sentinelese later salvaged iron from the wreck to forge into arrowheads, one of the few documented instances of their using outside materials. The wreck remains visible on satellite imagery but is strictly off-limits under the Andaman and Nicobar Islands Protection of Aboriginal Tribes Regulation; no approach within five kilometres of North Sentinel Island is permitted and the Indian Navy patrols the area to enforce the exclusion zone.
 
 ## Site Information
 

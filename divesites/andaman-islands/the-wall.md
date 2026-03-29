@@ -17,7 +17,7 @@ The Wall is a wall dive site in Andaman Islands, Asia.
 
 ## Overview
 
-The Wall is a dive site in Andaman Islands featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The Wall was the first dive site discovered on Havelock Island in 2004 and remains its most famous — a vertical drop-off that plunges from 10 metres down to 55 metres at the channel between Havelock and Peel Islands, with one side a sheer cliff face and the other a 60-degree slope covered in gorgonian fans. The wall is alive with hydroids, feather stars, soft corals, and dark caves, hosting giant groupers, sweetlips, parrotfish, angelfish, moray eels, and scorpionfish as permanent residents, with Napoleon wrasse and giant trevally drawn in by the medium to strong currents that make this best suited to experienced divers. The shallower sloping side is accessible to beginners with an instructor.
 
 ## Site Information
 

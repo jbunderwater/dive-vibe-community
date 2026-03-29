@@ -17,7 +17,7 @@ Hoi Siong No. 6 Wreck is a historic wreck dive in Mauritius, Africa.
 
 ## Overview
 
-Hoi Siong No. 6 Wreck is a dive site in Mauritius featuring the wreck of the Hoi Siong No. 6 Wreck. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+The Hoi Siong No. 6 is a former fishing vessel deliberately sunk in 2003 as an artificial reef off Île aux Bénitiers in Le Morne, a collaborative project between the Mauritius Marine Conservation Society and the Mauritius Oceanographic Institute. The 44-metre hull now sits upright on a sandy bottom at 27–29 metres, completely encrusted in corals and sponges, and is home to barracuda, tuna, lionfish, and butterflyfish. A small opening on the right-hand side of the wreck can be explored by divers, and the site is accessible to all certification levels given its relatively sheltered position.
 
 ## Site Information
 

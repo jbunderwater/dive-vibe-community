@@ -17,7 +17,7 @@ Arcos da Caloura is a cave dive site in Azores, Europe.
 
 ## Overview
 
-Arcos da Caloura is a dive site in Azores featuring underwater cave and cavern formations. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Arcos da Caloura is a cave and arch system on the south coast of São Miguel, a geosite within the Azores UNESCO Global Geopark, where a large cave at 16 metres is entered through one of four light-filled openings and the ceiling is covered in dozens of nudibranch species. Inside, schools of large white trevally and resident dusky groupers (Epinephelus marginatus) cruise the cavern while several species of moray eels and common octopuses occupy the surrounding lava rock crevices outside. The site is suitable for divers of all experience levels and can also be entered from shore, with the adjacent lava flows extending to 40 metres for those wanting a deeper profile.
 
 ## Site Information
 

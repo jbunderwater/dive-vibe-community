@@ -17,7 +17,7 @@ Ave Maria Rock is a wall dive site in Seychelles, Africa.
 
 ## Overview
 
-Ave Maria Rock is a dive site in Seychelles featuring a dramatic vertical wall that drops into the deep blue. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Ave Maria Rock is a small granite island in the channel between Praslin and La Digue, ringed by craggy underwater boulders that form canyons, crevices, and swim-throughs blanketed in swaying soft coral. The site is considered one of the Inner Islands' best accessible reef dives, with resident hawksbill turtles, whitetip reef sharks, eagle rays, and large schools of bumphead parrotfish among the regulars, and octopus and lobster tucked into the rock crevices. Maximum depth is around 20 metres and current is generally mild, making it a popular pick for divers of all levels operating out of Praslin or La Digue.
 
 ## Site Information
 

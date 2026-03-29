@@ -17,7 +17,7 @@ Cave dive site is a cave dive site in Sri Lanka, Asia.
 
 ## Overview
 
-Cave dive site is a dive site in Sri Lanka featuring underwater cave and cavern formations. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+This cave dive site on Sri Lanka's south coast near Unawatuna and Galle offers shore-accessible cavern diving in the warm Indian Ocean, with the cave systems at around 25 meters providing shelter to crustaceans, small reef fish, and the specialized species adapted to low-light conditions. Sri Lanka's southern diving corridor around Galle and Unawatuna has 16 dive sites ranging from 6 to 32 meters, and the cave formations here are among the more adventurous options in a region better known for its proliferation of accessible wrecks. Strong current can develop at the cave entrance, so timing the dive with tidal conditions is important for a comfortable experience.
 
 ## Site Information
 

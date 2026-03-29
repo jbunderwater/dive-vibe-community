@@ -17,7 +17,7 @@ Conch dive site is a historic wreck dive in Sri Lanka, Asia.
 
 ## Overview
 
-Conch dive site is a dive site in Sri Lanka featuring the wreck of the Conch dive site. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The SS Conch is a 3,555-ton British steam tanker — one of the world's first oil tankers, built in 1892 — that struck the Akkurala rock near Hikkaduwa on June 2, 1903, broke in two, and came to rest at around 22 meters against the rocky bottom. The wreck is well-preserved by Sri Lankan standards, and penetration into the cabins is possible, which are populated by cave-dwellers, while the exterior hull surfaces host groupers, napoleon wrasse, and abundant reef fish that consistently surprise divers who underestimate this site. Rocky visibility is stable at this site, and the SS Conch is considered a must-do for wreck enthusiasts diving the Hikkaduwa area.
 
 ## Site Information
 

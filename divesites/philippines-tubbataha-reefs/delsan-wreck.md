@@ -17,7 +17,7 @@ Delsan Wreck is a historic wreck dive in Philippines Tubbataha Reefs, Asia.
 
 ## Overview
 
-Delsan Wreck is a dive site in Philippines Tubbataha Reefs featuring the wreck of the Delsan Wreck. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The Delsan Wreck sits on the southeastern edge of Tubbataha's South Atoll, the hull now mostly submerged with the massive engine still intact and transformed into thriving coral reef — divers describe this as their "Disneyland" dive for good reason. A dramatic feature called "The Cut," a 30-meter-deep crevasse in the reef, funnels current that sweeps in grey reef sharks, schools of barracuda, tuna, and the occasional tiger shark hunting the schools of fish that pack the V-shaped channel. Visibility runs 30-45 meters during the season, and bumphead parrotfish are a near-guarantee on most dives here.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Balacag Point is a reef dive site in Philippines Donsol, Asia.
 
 ## Overview
 
-Balacag Point is a dive site in Philippines Donsol offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Balacag Point is a shallow reef dive in the Donsol area, one of the less-explored sites in the region's reef system that descends to around 12 meters over hard and soft coral gardens typical of the Bicol coast. The site offers accessible conditions for newer divers and a close-up look at the reef fish community — damselfish, snappers, groupers, and moray eels among the corals — in an area whose deeper and more current-exposed sites attract the whale sharks and manta rays Donsol is world-famous for. Proximity to the whale shark aggregation area makes Donsol a worthwhile base for divers who want to combine reef diving with the bay's more dramatic snorkeling encounters.
 
 ## Site Information
 
