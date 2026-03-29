@@ -32,7 +32,7 @@ The USS Monitor — the famous Civil War ironclad that fought the CSS Virginia i
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Monitor has become a thriving artificial reef at depth, with large amberjack and sand tiger sharks being the most notable species regularly documented by NOAA research divers around the turret and hull. Slipper lobsters, sea anemones, black sea bass, and encrusting corals colonise the ironwork, fed by the nutrient-rich collision of the Gulf Stream and the cold Labrador Current. At 70 metres the site is accessible only to technical divers, but the biologically rich Cape Hatteras convergence zone means deep-water Atlantic diversity is exceptional here.
 
 ## Dive Profile
 

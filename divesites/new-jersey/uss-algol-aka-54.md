@@ -32,7 +32,7 @@ The USS Algol (AKA-54) was a 459-foot Arcturus-class attack cargo ship that serv
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Sand tiger sharks circle the Algol's hull from July through September, making it one of the most reliable sand tiger encounters on the New Jersey wreck circuit. Tautog and black sea bass are resident year-round in the cargo holds and superstructure, while large lobsters shelter under the hull plating and enormous schools of pollock and codfish aggregate around the ship in cooler months. Blue sharks and the occasional ocean sunfish are sighted in the water column during summer passages.
 
 ## Dive Profile
 

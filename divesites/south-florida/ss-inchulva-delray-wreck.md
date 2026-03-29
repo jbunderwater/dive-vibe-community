@@ -32,7 +32,7 @@ Historic 1903 steamship wreck resting in 25 feet (7.6m) of water approximately 1
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Tarpon are a signature species at the Inchulva, with large schools regularly hovering in the water column above the boiler field in the calm, shallow conditions. Yellowtail snapper, hogfish, and parrotfish work the encrusted boiler debris, while nurse sharks rest on the sandy bottom amid the scattered ironwork. Spiny lobster and green moray eels are found throughout the wreck site, and southern stingrays glide across the sand between the boiler sections.
 
 ## Dive Profile
 
@@ -53,7 +53,7 @@ Enter from the shore following established entry points. Check conditions before
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of surge, surface boat traffic, and variable visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 

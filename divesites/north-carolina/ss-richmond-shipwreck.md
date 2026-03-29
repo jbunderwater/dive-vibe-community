@@ -32,7 +32,7 @@ The SS Richmond was formerly the Confederate blockade runner Blenheim — a Brit
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The very shallow, sound-side setting hosts an inshore community of sheepshead and black sea bass picking invertebrates from the encrusted iron machinery, alongside Atlantic spadefish and occasional triggerfish. Blue crabs and fiddler crabs are abundant around the exposed paddle wheel and engine components, and mullet school through the area in season. The calm, clear-bottomed shallows also make this a good spot to observe loggerhead sea turtles moving through Pamlico Sound in summer.
 
 ## Dive Profile
 

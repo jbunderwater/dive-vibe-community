@@ -32,7 +32,7 @@ The SS Kyle is a 1913-built Clyde-side steamship that ran aground at Harbour Gra
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The shallow hull of the SS Kyle is encrusted with horse mussels, sea urchins, and cold-water anemones, with cunner and Atlantic cod sheltering around the rusting steel plates. Sea ravens and shorthorn sculpin are frequently spotted tucked into crevices along the wreck's lower hull, and the barnacle-covered superstructure provides ideal macro subjects including northern lobster and sea stars.
 
 ## Dive Profile
 

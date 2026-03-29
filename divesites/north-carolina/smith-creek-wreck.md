@@ -32,7 +32,7 @@ The Smith Creek Wreck is a boat-access dive site in the estuarine waters of east
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The brackish, tannin-rich waters of this Sound-adjacent wreck harbour species typical of North Carolina's inshore estuarine environment — flounder, black sea bass, sheepshead, and Atlantic croaker are the most commonly encountered fish. Blue crabs, oysters, and small crustaceans colonise the encrusted hull surfaces, and the site occasionally attracts striped bass during cooler months. Visibility is limited by suspended sediment and fresh-water mixing, so encounters are generally at close range.
 
 ## Dive Profile
 

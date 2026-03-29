@@ -32,7 +32,7 @@ Queen Anne's Revenge was Blackbeard's flagship — the vessel he captured as the
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The turbid tidal inlet environment limits visibility severely, but the cannon and anchors attract sheepshead and black sea bass picking barnacles and invertebrates from the ironwork. Atlantic spadefish are common at the site in summer, and blue crabs and Gulf Stream-carried tropical reef fish occasionally shelter around the scattered artefacts. Loggerhead sea turtles pass through Beaufort Inlet regularly and may be encountered during boat transit to and from the site.
 
 ## Dive Profile
 

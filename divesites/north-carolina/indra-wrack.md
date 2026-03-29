@@ -32,7 +32,7 @@ The USS Indra (ARL-37) was a 330-foot landing craft repair ship that served in t
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Indra is one of North Carolina's most reliably fish-rich wrecks — large schools of Atlantic spadefish, amberjack, and barracuda hover over the superstructure, while sand tiger sharks frequently patrol the open hull sections created when Hurricane Florence split the ship. Black sea bass, sheepshead, and moray eels occupy the darker interior spaces, and loggerhead sea turtles are common visitors on the mooring line. The wreck's close proximity to Beaufort Inlet means Gulf Stream influence brings good clarity and warm-water species in summer.
 
 ## Dive Profile
 

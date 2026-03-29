@@ -32,7 +32,7 @@ The USS Pilgrim (SP-1204) was an 1893 racing yacht built to challenge for the Am
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The shallow, sheltered conditions of this estuarine wreck support typical North Carolina inshore species including sheepshead, black sea bass, tautog, and spadefish congregating around the hull remnants. Flounder and Atlantic croaker patrol the sandy bottom alongside the structure, and blue crabs and small invertebrates colonise the encrusted ironwork. The protected near-shore environment also attracts juvenile fish species using the wreck as nursery habitat.
 
 ## Dive Profile
 

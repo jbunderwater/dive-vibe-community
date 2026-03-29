@@ -32,7 +32,7 @@ The SS Rose Castle was a Canadian ore carrier torpedoed by German submarine U-51
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+At nearly 50 meters, the Rose Castle's hull lies in perpetual cold and darkness that favours Atlantic wolffish, ocean pout, and large Atlantic cod using the intact superstructure as shelter. Cold-water corals, sea cucumbers, and northern lobster colonise the wreck's surfaces, and Greenland sharks are a genuine possibility at this depth in Conception Bay's frigid waters.
 
 ## Dive Profile
 

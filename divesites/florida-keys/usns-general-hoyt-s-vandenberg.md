@@ -32,7 +32,7 @@ The Vandenberg is a 524-foot former Cold War missile-tracking ship scuttled 7 mi
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Goliath grouper have claimed the Vandenberg's cavernous holds and machinery spaces as their own, with some individuals exceeding 400 pounds and showing no fear of divers. The tracking dishes and upper superstructure are blanketed in colorful encrusting sponges and soft corals, attracting hogfish, mutton snapper, queen angelfish, and large green moray eels. Bull sharks and nurse sharks are regularly encountered along the hull, and loggerhead sea turtles are frequently spotted resting on the deck structures.
 
 ## Dive Profile
 
@@ -53,7 +53,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of surge, boat traffic, and variable visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 

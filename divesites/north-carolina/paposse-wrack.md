@@ -32,7 +32,7 @@ The wreck known to divers as the "Papoose" is actually the W.E. Hutton, a 435-fo
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Papoose (W.E. Hutton) is one of North Carolina's premier sand tiger shark sites — large individuals circle the inverted hull's shadowed underside throughout the dive season. Gulf Stream proximity also brings impressive pelagic action: schools of amberjack and barracuda sweep the wreck's exterior, Atlantic spadefish form dense clouds above the hull, and loggerhead sea turtles and occasional manta rays are spotted in the blue water surrounding the site.
 
 ## Dive Profile
 

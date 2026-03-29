@@ -32,7 +32,7 @@ The USS Huron was an iron-hulled Navy gunboat that ran aground 250 yards off Nag
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The USS Huron's iron hull and exposed machinery attract sheepshead, black sea bass, tautog, and spadefish that shelter around the boilers and propeller. Flounder and Atlantic croaker cruise the sandy bottom, while loggerhead sea turtles are occasional visitors in summer months. The shallow nearshore location makes this a productive snorkelling and entry-level dive for observing coastal Atlantic species.
 
 ## Dive Profile
 

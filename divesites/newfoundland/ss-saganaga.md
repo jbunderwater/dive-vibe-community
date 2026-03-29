@@ -32,7 +32,7 @@ The SS Saganaga was the first vessel sunk in the Bell Island U-boat attacks of S
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Atlantic cod and shorthorn sculpin are common throughout the Saganaga's superstructure, with ocean pout and sea ravens occupying shadowed recesses in the hull. The iron-ore holds have accumulated dense colonies of sea cucumbers, northern lobster, and cold-water corals, and the surrounding Conception Bay waters are known haunts for Greenland sharks.
 
 ## Dive Profile
 

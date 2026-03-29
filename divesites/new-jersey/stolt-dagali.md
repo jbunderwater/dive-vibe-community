@@ -32,7 +32,7 @@ The Stolt Dagali was a Norwegian tanker cut in half by the ocean liner SS Shalom
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Codfish, pollock, and black sea bass school heavily around the intact stern section, with tautog and cunner working the mussel-encrusted hull plates at closer range. The open cut end of the tanker provides dramatic penetration opportunities and harbors large American lobsters, making this one of the more productive lobster dives in the region. Sand tiger sharks are a regular summer presence, and blue sharks are frequently spotted circling in the water column above the wreck.
 
 ## Dive Profile
 

@@ -32,7 +32,7 @@ The HMT Bedfordshire was a British armed trawler torpedoed by U-558 on 11 May 19
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Bedfordshire's three scattered hull sections are colonised by sheepshead, black sea bass, and tautog working the encrusted metal framework and exposed machinery. Amberjack and Atlantic spadefish school above the wreck in summer, and the Gulf Stream influence occasionally draws barracuda and triggerfish into the area. Sand tiger sharks are periodically sighted patrolling the site, particularly in late summer when water temperatures are at their peak.
 
 ## Dive Profile
 

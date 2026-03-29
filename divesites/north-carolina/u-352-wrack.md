@@ -32,7 +32,7 @@ U-352 is one of the most celebrated dive sites on the US East Coast — a 218-fo
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+U-352 is famous for its resident sand tiger sharks — up to three large individuals are regularly seen cruising low along the hull, utterly indifferent to divers. Dense schools of Atlantic spadefish and amberjack hover over the conning tower, barracuda patrol the stern, and black sea bass and sheepshead occupy the lower hull sections along with the occasional moray eel. The wreck's offshore Gulf Stream position delivers warm, clear water in summer, making close-up encounters with the sharks a near-certainty on calm weather days.
 
 ## Dive Profile
 

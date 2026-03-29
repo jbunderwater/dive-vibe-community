@@ -32,7 +32,7 @@ The S.S. Ilex is a very shallow shore-accessible wreck resting in just 5 meters 
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The very shallow depth floods the Ilex with enough light to reveal a rich covering of sea urchins, horse mussels, and cold-water anemones across the hull. Cunner dart through the structure, while sea ravens, lumpfish, and shorthorn sculpin rest motionless on the encrusted steel — the wreck's compact size makes thorough exploration of this intertidal ecosystem easy in a single dive.
 
 ## Dive Profile
 

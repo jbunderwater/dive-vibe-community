@@ -32,7 +32,7 @@ Historic 1900 cargo steamship wreck resting in 16-31 feet (5-9.5m) of water sout
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The scattered wreckage on the reef ledge hosts a thriving community of yellowtail snapper, hogfish, and parrotfish weaving through the debris and encrusting coral. Nurse sharks are commonly found resting against the hull sections, and spiny lobster tuck into every available gap in the boiler rubble and scattered ironwork. Green moray eels and barracuda are reliable sightings, and angelfish and sergeant majors are ever-present in the clear, shallow water.
 
 ## Dive Profile
 
@@ -53,7 +53,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of surge, surface boat traffic, and variable visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 

@@ -32,7 +32,7 @@ The MSC Baltics III is a large cargo vessel that grounded on the northern coast 
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Once accessible, the wreck's steel surfaces will likely attract the cold-water species typical of Newfoundland's northern coast — Atlantic cod, cunner, sea ravens, and shorthorn sculpin among the encrusting invertebrates. Northern lobster, snow crab, sea urchins, and cold-water anemones are expected to colonise the hull over time, as they do on established wrecks throughout the region.
 
 ## Dive Profile
 

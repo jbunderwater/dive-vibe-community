@@ -32,7 +32,7 @@ The USCGC Duane is a 327-foot Treasury-class US Coast Guard cutter intentionally
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Duane is famous for its resident population of massive goliath grouper that congregate in the holds and around the props, often approaching divers closely. Large schools of barracuda and permit patrol the upper structure alongside hawksbill turtles, while green moray eels and spiny lobster occupy the lower decks and darker recesses. Bull sharks and spotted eagle rays are occasional visitors in the open water surrounding the wreck.
 
 ## Dive Profile
 
@@ -53,7 +53,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of surge, boat traffic, and variable visibility in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 

@@ -32,7 +32,7 @@ The Windjammer Wreck is the remains of the iron-hulled, three-masted sailing shi
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Goliath grouper are the signature species of the Windjammer, with several large individuals resident among the iron ribs and keel of the Avanti — an unforgettable encounter given the shallow, clear water. Yellowtail snapper and mutton snapper school around the gorgonian-encrusted hull framework, and spiny lobster are plentiful in the structure's recesses. Nurse sharks rest on the sandy bottom alongside the wreck, and green sea turtles are regularly sighted grazing on the surrounding reef.
 
 ## Dive Profile
 
@@ -53,7 +53,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of surge, surface boat traffic, and variable visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 

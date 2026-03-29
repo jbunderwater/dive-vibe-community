@@ -32,7 +32,7 @@ U-85 holds the distinction of being the first German U-boat sunk by US naval for
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The U-85's exposed pressure hull and open torpedo bays draw sand tiger sharks that patrol the length of the submarine in the strong Outer Banks current. Amberjack and Atlantic spadefish school above the conning tower, while black sea bass and moray eels inhabit the lower sections of the hull. The offshore location in the mixing zone of the Gulf Stream means visibility and species diversity vary considerably with season and current direction.
 
 ## Dive Profile
 

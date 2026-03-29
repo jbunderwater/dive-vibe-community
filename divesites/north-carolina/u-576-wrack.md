@@ -32,7 +32,7 @@ U-576 was lost on 15 July 1942 in a rare convoy battle off Cape Hatteras: after 
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+At 210 metres this site is far beyond recreational diving limits and is protected as a war grave, but NOAA research dives have documented that the intact wreck and adjacent SS Bluefields support a deepwater Atlantic community including grouper, black sea bass, and various sharks using the debris field as structure. The surrounding seafloor off Cape Hatteras, where the Gulf Stream meets the cold Labrador Current, is one of the most biologically productive areas of the US Atlantic coast. This site is closed to recreational diving and is managed exclusively by NOAA under the Monitor National Marine Sanctuary.
 
 ## Dive Profile
 

@@ -32,7 +32,7 @@ Le Muscadin is a French fishing vessel that sank in the waters around Saint-Pier
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Muscadin's steel hull is draped with cold-water anemones, sea stars, and encrusting bryozoans, with Atlantic cod and cunner patrolling the structure alongside inquisitive ocean pout. Northern lobster and snow crab are common beneath hull plates, and the macro life — nudibranchs, sea urchins, and sea cucumbers — rewards patient photographers willing to work in the near-freezing Saint-Pierre waters.
 
 ## Dive Profile
 

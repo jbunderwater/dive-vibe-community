@@ -32,7 +32,7 @@ The Great Isaac is a steel-hulled tugboat that sank in the late 1960s and now li
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Large tautog (blackfish), cunner, and black sea bass are resident around both wreck sections throughout the warmer months, drawn to the thick mussel and anemone encrustation on the hull. Sand tiger sharks cruise the sandy flats between the two pieces from July through September, making this one of the more reliable inshore sand tiger encounters in New Jersey. American lobsters — reported among the largest on any NJ inshore wreck — are found beneath both hull sections and in the gap between them.
 
 ## Dive Profile
 

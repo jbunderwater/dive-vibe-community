@@ -32,7 +32,7 @@ The Transpacific is a shallow shore-accessible wreck resting in just 10 meters o
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Transpacific's well-colonised hull hosts dense clusters of cold-water anemones, sea urchins, and horse mussels, with cunner and Atlantic cod moving freely through the structure. Northern lobster shelter beneath hull plating, and sea ravens and winter flounder are regularly encountered on the sandy seabed around the wreck's base.
 
 ## Dive Profile
 

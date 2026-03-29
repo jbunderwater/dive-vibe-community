@@ -32,7 +32,7 @@ The Aeolus was a 409-foot cable repair ship deliberately sunk as an artificial r
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Aeolus is renowned as North Carolina's best shark dive — the cable storage compartments are a favoured lounge for sand tiger sharks, with a dozen or more individuals resident during peak summer season, cruising at arm's length from divers. Dense schools of amberjack and barracuda sweep the exterior alongside Atlantic spadefish and triggerfish, while grouper, black sea bass, and moray eels occupy the lower wreck sections. The clear Gulf Stream–influenced water and exceptional shark activity make this one of the most spectacular marine life encounters on the US East Coast.
 
 ## Dive Profile
 

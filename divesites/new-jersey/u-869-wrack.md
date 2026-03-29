@@ -32,7 +32,7 @@ U-869 is one of the most historically significant and harrowing wreck dives in t
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+At 73 meters the U-869 hosts cold-water Atlantic species adapted to the dark and depth, including ocean pout, monkfish, and sea ravens resting on the sandy bottom around the hull. Large codfish and pollock school in the thermoclines above the wreck, and blue sharks are frequently encountered during the long decompression ascents. Starfish, sea urchins, and encrusting anemones coat the steel surfaces of the conning tower and pressure hull.
 
 ## Dive Profile
 

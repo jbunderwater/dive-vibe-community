@@ -32,7 +32,7 @@ The Tolten was a Chilean cargo ship torpedoed by the German submarine U-404 in M
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Tolten's mussel-covered boilers and hull debris attract dense aggregations of tautog (blackfish) and black sea bass, which are present throughout the warmer months. Cunner and bergall dart through the encrusted ironwork alongside scup, while American lobsters tuck into the recesses beneath broken hull plates. Sand tiger sharks occasionally patrol the wreck site in summer, and sea ravens are commonly spotted resting on the surrounding sand.
 
 ## Dive Profile
 

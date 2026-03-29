@@ -32,7 +32,7 @@ The SS Lord Strathcona was an ore carrier sunk by U-513 during the first Bell Is
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The cold, dark depths of Conception Bay surrounding the Lord Strathcona support Atlantic cod, ocean pout, and Atlantic wolffish sheltering within the hull's recesses. The iron-ore-laden holds are colonised by cold-water corals, sea cucumbers, and dense populations of northern lobster, while Greenland sharks are occasional visitors patrolling the deeper sections of the wreck.
 
 ## Dive Profile
 

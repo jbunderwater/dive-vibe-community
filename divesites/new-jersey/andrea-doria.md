@@ -32,7 +32,7 @@ The Andrea Doria is the most storied and dangerous wreck dive in the western Atl
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Massive codfish and pollock shelter in the collapsed hull structure, and ocean pout are frequently seen weaving through the anemone-covered debris. Blue sharks are common in the water column during the long decompression stops, and the occasional ocean sunfish is spotted in summer. Starfish and dense communities of encrusting anemones and soft corals carpet the ship's exterior surfaces, providing a vivid backdrop to this legendary Atlantic wreck.
 
 ## Dive Profile
 

@@ -32,7 +32,7 @@ Texas Tower #4 was one of three offshore radar platforms built in the late 1950s
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The massive steel debris field acts as a deep-water artificial reef, drawing codfish and pollock in large schools around the collapsed platform legs and scattered deck sections. Monkfish, sea ravens, and ocean pout are commonly seen on the sand between wreckage components, and large lobsters inhabit the deeper recesses of the structure. Blue sharks are a regular sighting in the water column, particularly during the long staged decompression ascents required at this depth.
 
 ## Dive Profile
 

@@ -32,7 +32,7 @@ The Sea King was an early 20th-century vessel that wrecked off Barnegat Light an
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The shallow nearshore zone around the Sea King's remains attracts tautog (blackfish) and black sea bass that shelter around the exposed iron hull sections during warmer months. Fluke (summer flounder) cruise the sandy bottom adjacent to the wreck structure, and cunner and bergall are commonly seen picking through the encrusted metal. Starfish and mussels colonize whatever ironwork remains exposed above the sand.
 
 ## Dive Profile
 

@@ -32,7 +32,7 @@ The Mohawk was a 251-foot United States Coast Guard cutter that struck a mine in
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Mohawk is one of the best tautog (blackfish) dives in New Jersey, with large individuals resident year-round among the mussel-covered hull and frilled anemone gardens that coat the tilted decks. Black sea bass and pollock school in the water column above the wreck, while American lobsters — some impressively sized — are reliably found tucked under plating and in the gun mount base. Scup and cunner round out the resident fish community throughout the summer season.
 
 ## Dive Profile
 

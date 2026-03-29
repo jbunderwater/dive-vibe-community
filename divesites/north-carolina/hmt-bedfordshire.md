@@ -32,7 +32,7 @@ The HMT Bedfordshire was a Royal Navy armed trawler operating out of Morehead Ci
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Bedfordshire's low, scattered sections host sheepshead and black sea bass along the encrusted I-beams and deck plates, with amberjack and barracuda regularly patrolling the site at mid-water. The offshore Gulf Stream influence occasionally brings Atlantic spadefish and triggerfish in summer, while sand tiger sharks are sometimes observed passing through the area. The intact depth charges on the seafloor make for striking photographic subjects alongside the reef communities that have established themselves over decades.
 
 ## Dive Profile
 

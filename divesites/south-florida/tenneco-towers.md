@@ -32,7 +32,7 @@ Fort Lauderdale's largest artificial reef complex consisting of five decommissio
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Tenneco Towers platforms are festooned with dense soft coral growth and host an impressive diversity of South Florida reef fish, including large barracuda, hogfish, queen angelfish, and yellowtail snapper schooling around the steel legs. Bull sharks and nurse sharks are regular visitors to the deeper platform towers, and spotted eagle rays and southern stingrays are frequently seen patrolling the sandy bottom between structures. Goliath grouper have colonized the lower sections of several towers, making this one of the more reliable goliath encounters in Broward County.
 
 ## Dive Profile
 
@@ -53,7 +53,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of surge, surface boat traffic, and variable visibility in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
