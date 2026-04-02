@@ -1,31 +1,31 @@
 ---
-name: Pamir Wreck
-lat: 13.1
-lng: -59.615
-difficulty: Intermediate
-maxDepth: 14
+name: SS Stavronikita
+lat: 13.18
+lng: -59.642
+difficulty: Advanced
+maxDepth: 36
 entryType: boat
 siteType: wreck
 ref: null
-osmId: null
+osmId: 13461568301
 addedBy: osm_import
 ---
 
-## Pamir Wreck
+## SS Stavronikita
 
-Pamir Wreck is a historic wreck dive in Barbados, Caribbean.
+SS Stavronikita is a historic wreck dive in Barbados, Caribbean.
 
 ## Overview
 
-Pamir Wreck is a dive site in Barbados featuring the wreck of the Pamir Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+SS Stavronikita is a dive site in Barbados featuring a historic wreck which sank in 1978. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
 - **Location**: Barbados, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 14 meters
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 36 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter groupers, snappers, soldierfish, gla
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 14 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 36 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -53,7 +53,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 

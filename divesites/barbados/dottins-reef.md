@@ -11,53 +11,56 @@ osmId: null
 addedBy: osm_import
 ---
 
-# Dottin's Reef
+## Dottin's Reef
 
-One of Barbados's most popular and productive west coast reef dives — a broad, sloping fringing reef in the calm Caribbean waters north of Bridgetown, with reliable turtle encounters and a classic Barbadian reef fish community in the island's characteristically clear conditions.
+Dottin's Reef is a reef dive site in Barbados, Caribbean.
 
 ## Overview
 
-Dottin's Reef is a well-developed section of Barbados's west coast fringing reef system, lying in the sheltered Caribbean waters off the parish of St. James. The reef slopes gently from a crest at around 5 metres to a sandy base at 15 metres, providing a straightforward and accessible dive profile. The site is characterised by the healthy hard coral coverage — brain, star, and elkhorn coral formations — that is a signature of Barbados's protected west coast. Visibility averages 15–25 metres. Water temperature is 26–28°C year-round. The site is operated by most west coast dive operators as a standard beginner and intermediate dive destination.
+Dottin's Reef is a dive site in Barbados offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-| Detail | Value |
-|--------|-------|
-| Depth Range | 5–15 m |
-| Difficulty | Beginner |
-| Entry Type | Boat |
-| Site Type | Reef |
-| Visibility | 15–25 m |
-| Current | Light |
-| Water Temp | 26–28°C |
+- **Location**: Barbados, Caribbean
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 15 meters
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Dottin's Reef supports a classic Caribbean fringing reef community with above-average turtle encounter rates. Hawksbill turtles are virtually guaranteed — the west coast resident population is significant and individual animals patrol specific reef sections. Large parrotfish, French angelfish, and queen triggerfish are abundant. Schools of blue tang sweep the reef crest. Caribbean spiny lobster shelter under reef overhangs. Southern stingrays traverse the sandy base. Barracuda patrol the open water above the reef.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-Descent to the reef crest at 5 metres and follow the gentle slope to the sandy base at 15 metres. Navigate east or west along the reef, spending time at both the crest and the deeper sections. The turtle encounters typically occur throughout the depth range wherever sponge growth is densest. Safety stop at the reef crest.
+The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Boat dive from west coast operators based at Bridgetown or St. James. Giant stride or backward roll entry. DSMB recommended. Commonly paired with a Carlisle Bay wreck dive for a two-tank day.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-Dottin's Reef is an excellent orientation site for visitors to Barbados — the conditions are consistently calm, the depth is manageable, and the turtle encounters almost always happen. Early morning dives offer the best light and calmest sea surface. Ask the dive guide about individual turtle behaviour — experienced guides at some operators know the resident animals personally.
+- Excellent site for newer divers — calm conditions and easy navigation
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
-The site is forgiving and well-suited to beginners. DSMB recommended for the open-water ascent. Fire coral is present on some reef sections — maintain buoyancy. Boat traffic on the west coast is active.
+Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Dottin's Reef's clear water, shallow depth, and reliable turtle encounters make it one of Barbados's best natural-light photography sites. Turtle portraits in the 5–10 metre zone in morning light are the defining images. School-of-fish compositions and parrotfish grazing shots are also excellent subjects.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ## Additional Resources
 
-- Heatwave Water Sports and Barbados Blue: regularly operate Dottin's Reef as a standard west coast dive
-- Commonly paired with the Stavronikita for a two-tank morning
+- **Last Updated**: 2026-04-02
 
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-02.*

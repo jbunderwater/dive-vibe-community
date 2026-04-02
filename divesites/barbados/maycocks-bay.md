@@ -1,9 +1,9 @@
 ---
-name: Shark Bank Barbados
-lat: 13.15
-lng: -59.605
+name: Maycocks Bay
+lat: 13.2925
+lng: -59.6632
 difficulty: Advanced
-maxDepth: 43
+maxDepth: 38
 entryType: boat
 siteType: reef
 ref: null
@@ -11,13 +11,13 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Shark Bank Barbados
+## Maycocks Bay
 
-Shark Bank Barbados is a reef dive site in Barbados, Caribbean.
+Maycocks Bay is a reef dive site in Barbados, Caribbean.
 
 ## Overview
 
-Shark Bank Barbados is a dive site in Barbados offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Maycocks Bay is a dive site in Barbados offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ Shark Bank Barbados is a dive site in Barbados offering rewarding diving on heal
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 43 meters
+- **Maximum Depth**: 38 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter sea turtles (green, hawksbill), sout
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 43 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 38 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
