@@ -11,57 +11,53 @@ osmId: 7075601814
 addedBy: osm_import
 ---
 
-## Eillon
+# Eillon
 
-Eillon is a historic wreck dive in Barbados, Caribbean.
+A mid-depth boat-accessible wreck in Carlisle Bay — lying slightly deeper than the standard shore-dived cluster, the Eillon adds a more substantial wreck diving experience to the bay's exceptional range of accessible artificial reefs.
 
 ## Overview
 
-Eillon is a dive site in Barbados featuring the wreck of the Eillon. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Eillon is a vessel lying at 17 metres in Carlisle Bay off Barbados's west coast, positioned slightly further offshore than the shallower shore-accessible wrecks and typically visited by dive boat rather than as a shore dive. The additional depth compared to the Berwyn and Eilon allows more substantial coral and sponge colonisation — the hull surfaces carry a richer encrustation and the fish community is correspondingly more diverse. The vessel sits upright on a sandy bottom and offers accessible exterior exploration and some partially open interior sections. Visibility averages 15–25 metres. Water temperature is 26–28°C.
 
 ## Site Information
 
-- **Location**: Barbados, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 17 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 8–17 m |
+| Difficulty | Beginner |
+| Entry Type | Boat |
+| Site Type | Wreck |
+| Visibility | 15–25 m |
+| Current | Very light |
+| Water Temp | 26–28°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Eillon's 17-metre depth gives it a richer encrustation than the very shallow Carlisle Bay wrecks. Large schools of glassy sweepers fill the partially enclosed sections. Spotted moray eels and green morays occupy crevices throughout the hull. Hawksbill turtles visit the wreck — Carlisle Bay's turtle population is resident and reliable. Southern stingrays rest on the sandy floor. The exterior hull carries sponge growth and encrusting corals in the 10–17 metre zone.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 17 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descent via dive boat mooring or line to the wreck deck at 8–10 metres. Explore the deck and superstructure before descending to the sandy base at 17 metres. The wreck's full length can be covered in a relaxed bow-to-stern circuit. Safety stop at the deck level before ascending to the boat.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Carlisle Bay operators. Giant stride or backward roll entry. DSMB recommended for the ascent.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
+The Eillon's 17-metre depth makes it a natural second dive after the shallower Berwyn or Carlisle Bay Eilon wrecks, adding depth variety to a multi-wreck Carlisle Bay day. The boat approach gives access to the mooring line for a controlled descent. Carry a torch for the more sheltered interior sections.
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Standard wreck diving precautions apply. Do not penetrate enclosed sections without wreck training. DSMB required. Fire coral is present on some hull sections.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+At 17 metres in Carlisle Bay's clear water, the Eillon offers good natural light for hull and deck photography in morning conditions. The moray residents, school-of-fish compositions, and turtle encounters over the wreck are the main subjects.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-02
+- Barbados Blue and Heatwave Water Sports: boat access to the Eillon as part of Carlisle Bay wreck packages
+- Best combined with the shallower bay wrecks for a full Carlisle Bay wreck diving day
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-02.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

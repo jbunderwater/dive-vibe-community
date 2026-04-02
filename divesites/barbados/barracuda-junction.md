@@ -8,58 +8,43 @@ entryType: boat
 siteType: drift
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: scubadiving_bb_corroboration
 ---
 
-## Barracuda Junction
+# Barracuda Junction
 
-Barracuda Junction is a drift dive site in Barbados, Caribbean.
+A drift dive named for the large schools of barracuda that patrol the reef, with a dramatic drop-off past recreational limits
 
 ## Overview
-
-Barracuda Junction is a dive site in Barbados offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Barracuda Junction earns its name from the impressive schools of great barracuda that regularly aggregate at this site. Located on the west coast reef system south of Holetown, the dive is typically conducted as a drift along the reef edge at 18-24 meters. The reef here slopes away into deeper water past recreational limits, creating a dramatic wall-like effect where pelagic species patrol. Healthy corals and unusually-shaped sponges add visual interest to what is one of Barbados' more exciting reef dives.
 
 ## Site Information
-
-- **Location**: Barbados, Caribbean
+- **Location**: West coast, south of Holetown near Dottin's Reef cluster
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 20-30 meters (65-100 feet)
+- **Current**: Moderate (drift dive)
+- **Best Time**: December to April (calmest seas, best visibility)
 
 ## Marine Life
-
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The star attraction is the large school of great barracuda that gives the site its name — they congregate in impressive numbers along the reef edge and are a reliable sighting. Schools of baitfish also swirl here, attracting the barracuda and other predators. The reef itself supports colorful corals with unusually-shaped barrel and tube sponges. Hawksbill turtles, jacks, and assorted reef fish round out the cast. The deep drop-off occasionally produces sightings of larger pelagic species.
 
 ## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 24 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Typically dived as a drift at 18-24 meters along the reef edge. The reef slopes down past recreational limits on the seaward side, creating an exciting wall-like profile. Stay at your planned depth and let the current carry you along the reef. The boat follows divers' bubbles for pickup. Most of the barracuda action occurs at the reef edge around 20 meters.
 
 ## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Holetown operators. Negative entry recommended to reach the reef edge quickly in current. Deploy SMB at end of dive for boat pickup. Often paired with Little Sandy Lane or Dottin's Reef.
 
 ## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- The barracuda school is most impressive when viewed from below, silhouetted against the surface
+- Watch your depth — the reef edge drops away enticingly past recreational limits
+- Carry an SMB — essential for drift dive boat pickup
+- Schools of baitfish attract the barracuda, so follow the action
 
 ## Safety Considerations
-
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-02
+Moderate current requires drift diving experience. The drop-off past recreational depth limits demands careful depth awareness — it's easy to drift deeper without noticing. Maintain visual contact with dive buddies and the group. Always carry and deploy an SMB for pickup.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-02.*
+*This dive site information was compiled from DiveAdvisor, DIVEIN, Active Caribbean Travel, Reefers & Wreckers, and Girls That Scuba. Last updated 2026-04-02.*

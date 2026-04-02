@@ -11,55 +11,53 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Shark Bank Barbados
+# Shark Bank Barbados
 
-Shark Bank Barbados is a reef dive site in Barbados, Caribbean.
+Barbados's premier advanced pelagic dive — an offshore rocky reef pinnacle at 30–43 metres off the west coast where Caribbean reef sharks, schooling pelagics, and large open-ocean species congregate in numbers rarely matched at inshore Barbadian sites.
 
 ## Overview
 
-Shark Bank Barbados is a dive site in Barbados offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Shark Bank is an offshore submerged reef system lying approximately 3 kilometres off Barbados's west coast in 30–43 metres of water. The bank rises from the surrounding seabed to form a rocky reef structure that concentrates marine life in open-ocean water. The site is Barbados's best opportunity for Caribbean reef shark encounters and draws schooling pelagics and large open-ocean species that are not seen at the island's shallower inshore sites. The offshore position brings clearer, blue water with exceptional visibility that frequently exceeds 30 metres. Water temperature is 26–28°C. This is an advanced site requiring comfort with depth, open-water conditions, and the experience to manage encounters with large marine life.
 
 ## Site Information
 
-- **Location**: Barbados, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 43 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 20–43 m |
+| Difficulty | Advanced |
+| Entry Type | Boat |
+| Site Type | Reef |
+| Visibility | 25–35 m |
+| Current | Light to moderate |
+| Water Temp | 26–28°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Caribbean reef sharks are the signature species at Shark Bank — multiple individuals patrol the reef and open water, and the encounter rate is among the highest in Barbados. Large schools of horse-eye jacks and bar jacks sweep through the site. Spotted eagle rays and southern stingrays cruise the sandy sections at the base of the bank. Large Atlantic spadefish congregate in the water column above the reef. Barracuda lurk throughout. The rocky reef surface carries sponge encrustation, black coral at depth, and sea fans that increase in size with depth.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 43 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descent to the top of the bank structure at approximately 20 metres, then work the deeper sections to 30–35 metres maximum for the shark and pelagic activity. Bottom time at depth is limited by NDL constraints — plan carefully and ascend to the shallower sections of the bank for the remainder of the dive. Deploy DSMB for the open-water ascent.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from west coast Barbados operators — the offshore position requires a 15–25 minute boat run. Entry by backward roll. DSMB required for open-water ascent; live-boat pickup may be standard depending on conditions.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+Shark Bank is best dived early morning in calm conditions when the crossing is most comfortable and the sharks are most active. The site demands advanced diver experience — particularly comfort with open-water ascents and depth management at 30+ metres. Plan the deepest section first and ascend conservatively. The shark activity varies by season — check with operators for current encounter rates.
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+Maximum depth of 43 metres exceeds recreational dive limits for most standard certifications — 30 metres is the practical recreational maximum for this site. Do not exceed planned depth. DSMB required for all ascents in open water. The offshore position means incident response is more complex than at inshore sites. Minimum Advanced Open Water certification recommended.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Shark Bank is Barbados's best wide-angle pelagic photography site. Caribbean reef shark portraits, schooling jack formations against open-ocean blue water, and eagle ray passes are the defining images. The exceptional offshore clarity delivers colour and sharpness unavailable at the more turbid inshore sites.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-02
+- Heatwave Water Sports: regularly operates Shark Bank trips for advanced divers
+- Coral Isle Divers (Barbados): offers Shark Bank on request for groups of advanced divers
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-02.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

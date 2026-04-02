@@ -8,60 +8,45 @@ entryType: boat
 siteType: wreck
 ref: null
 osmId: 13461568301
-addedBy: osm_import
+addedBy: extended_overpass
 ---
 
-## SS Stavronikita
+# SS Stavronikita
 
-SS Stavronikita is a historic wreck dive in Barbados, Caribbean.
+A 111-meter Greek freighter sitting bolt upright in 36 meters of water, widely rated as one of the top ten wreck dives in the world and arguably the Caribbean's number one wreck dive
 
 ## Overview
-
-SS Stavronikita is a dive site in Barbados featuring a historic wreck which sank in 1978. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The SS Stavronikita — known locally as "The Stav" — is a 365-foot (111m) Greek cargo freighter that caught fire in 1976 while carrying a load of cement. After salvage operations stripped the ship of all recoverable machinery and brass, the vessel was deliberately sunk in November 1978 to create an artificial reef. She settled upright on a sandy bottom at about 36 meters, with her forward mast reaching to within 6 meters of the surface and the main deck sitting at 18-24 meters. The wreck is in remarkable condition, offering huge corridors, cargo holds, and cabins waiting to be explored. Multiple dive operators and publications rate it among the top ten wreck dives worldwide.
 
 ## Site Information
-
-- **Location**: Barbados, Caribbean
+- **Location**: West coast, offshore from Folkestone Marine Park near Holetown
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 36 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Typical Visibility**: 20-30+ meters (65-100+ feet)
 - **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Best Time**: December to April (calmest seas, best visibility)
 
 ## Marine Life
-
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Decades of submersion have transformed the Stavronikita into a thriving artificial reef. The hull, masts, and superstructure are coated in sponges, corals, and hydroids. Large groupers inhabit the cargo holds, while schools of snappers and grunts swirl around the superstructure. Barracuda patrol the upper decks. Hawksbill turtles are regularly spotted resting on the wreck, and eagle rays pass by in the water column. The wreck attracts an exceptional density and variety of marine life for a Caribbean dive site.
 
 ## Dive Profile
-
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 36 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Most operators run two-level dives on the Stav. Advanced divers descend to the main deck at 18-24 meters and explore the corridors, cargo holds, bridge, and cabins before ascending along the superstructure. The prop sits at around 36 meters — the deepest point. The forward mast rises to just 6 meters from the surface, making it an excellent safety stop location. Less experienced divers can explore the upper superstructure and masts without going below 18 meters. Bottom time at depth is limited — plan for 20-25 minutes at the deeper sections before beginning your ascent.
 
 ## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Holetown operators — the wreck sits just offshore from Folkestone Marine Park. Short boat ride of 5-10 minutes. Usually offered as the first (deeper) dive of a two-tank trip, paired with a shallower reef or the Lord Combermere wreck.
 
 ## Tips and Recommendations
-
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Book with an operator who offers multilevel dive plans to maximize your time on the wreck
+- The bridge and cargo holds are the most impressive features — prioritize these
+- A torch is essential for illuminating interiors and the incredible sponge and coral growth
+- Advanced divers should not miss the stern section where the prop sits at 36 meters
+- The mast makes an excellent safety stop — spend your decompression time watching the fish life around the rigging
+- Often combined with Carlisle Bay wrecks or Lord Combermere for wreck-focused dive days
 
 ## Safety Considerations
-
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-02
+Deep wreck dive requiring careful air management and depth awareness. Do not attempt penetration without proper wreck diving certification and equipment. The deck at 18-24 meters allows limited bottom time even for advanced divers. Silt can reduce visibility inside the wreck quickly — maintain excellent buoyancy. Plan a slow ascent with a safety stop at the mast.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-02.*
+*This dive site information was compiled from OSM node 13461568301, Reefers & Wreckers, Dive Hightide, Barbados Blue, divernet.com, and barbados.org. Last updated 2026-04-02.*

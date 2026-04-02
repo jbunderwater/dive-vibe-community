@@ -8,59 +8,43 @@ entryType: boat
 siteType: reef
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: scubadiving_bb_corroboration
 ---
 
-## Fisherman's
+# Fisherman's
 
-Fisherman's is a reef dive site in Barbados, Caribbean.
+A sandy bottom dive with isolated coral heads, offering a different profile to the barrier reef sites and known for stingray encounters
 
 ## Overview
-
-Fisherman's is a dive site in Barbados offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Fisherman's provides a contrast to Barbados' typical barrier reef dives. Located on the west coast between Holetown and the SS Stavronikita wreck site, it features a large flat sandy area scattered with isolated coral heads rather than continuous reef. This open topography makes it excellent for spotting rays and bottom-dwelling species that are harder to find on the reef sites. The relaxed depth and calm conditions make it suitable for all experience levels.
 
 ## Site Information
-
-- **Location**: Barbados, Caribbean
+- **Location**: West coast, between Holetown and the Stavronikita wreck area
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 15-25 meters (50-80 feet)
+- **Current**: Light
+- **Best Time**: Year-round; calmest December to April
 
 ## Marine Life
-
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The sandy bottom is prime territory for southern stingrays, which are frequently spotted resting between coral heads or gliding across the sand. Peacock flounders camouflage themselves on the sandy patches — look carefully for their outline. Moray eels inhabit the coral heads, and parrotfish graze along their edges. Schools of tropical fish congregate around each coral formation, creating small oases of activity across the sandy expanse. Spotted drum and trumpetfish are also regulars.
 
 ## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+A straightforward dive navigating between coral heads across the sandy bottom. Maximum depth around 18 meters. The open layout makes navigation easy and allows divers to move between coral formations at their own pace. Excellent bottom time available at this moderate depth.
 
 ## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Holetown or Bridgetown operators. Often paired with deeper reef dives or the nearby Stavronikita wreck for two-tank trips.
 
 ## Tips and Recommendations
-
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Scan the sandy areas carefully for camouflaged peacock flounders and resting stingrays
+- Each coral head is a miniature ecosystem worth exploring — don't rush between them
+- Good site for macro photography on the coral heads
+- The open sand between formations can make for dramatic wide-angle silhouette shots
 
 ## Safety Considerations
-
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-02
+One of Barbados' most relaxed dive sites. Light currents and moderate depth make it very manageable. Standard boat dive safety applies.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-02.*
+*This dive site information was compiled from Reefers & Wreckers, barbados.org, Wikivoyage, and Barbados Blue. Last updated 2026-04-02.*

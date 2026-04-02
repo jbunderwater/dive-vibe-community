@@ -11,57 +11,53 @@ osmId: 7075601815
 addedBy: osm_import
 ---
 
-## Bajan Queen
+# Bajan Queen
 
-Bajan Queen is a historic wreck dive in Barbados, Caribbean.
+A purpose-sunk Barbadian vessel in Carlisle Bay — one of the newer artificial reef additions to the bay's famous wreck cluster, lying at 11 metres with the accessible depth and protected west coast conditions that define Barbados's entry-level wreck diving.
 
 ## Overview
 
-Bajan Queen is a dive site in Barbados featuring the wreck of the Bajan Queen. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Bajan Queen was a vessel deliberately sunk to add to Carlisle Bay's expanding artificial reef wreck cluster off Barbados's west coast. The vessel rests at 11 metres in the sheltered bay south of Bridgetown, close to the other Carlisle Bay wrecks and within reach of the established dive infrastructure serving the area. As one of the more recently sunk vessels in the cluster, the marine colonisation is active and visible — earlier stages of encrustation and the initial fish community establishment are apparent. The site benefits from Carlisle Bay's famously calm and clear conditions. Visibility averages 15–20 metres. Water temperature is 26–28°C year-round.
 
 ## Site Information
 
-- **Location**: Barbados, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 11 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 4–11 m |
+| Difficulty | Beginner |
+| Entry Type | Boat |
+| Site Type | Wreck |
+| Visibility | 15–20 m |
+| Current | Very light |
+| Water Temp | 26–28°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Bajan Queen's community reflects the wreck's position in the Carlisle Bay ecosystem. Hawksbill turtles are reliably present in the bay and visit all the wrecks. Schools of French grunts and sergeant majors occupy the deck and superstructure. Caribbean reef octopus are common in the hull exterior crevices. Southern stingrays rest on the surrounding sandy bottom. As the encrustation matures, the resident moray and lobster population is expected to increase.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 11 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Boat descent to the wreck top at 4–6 metres and circumnavigation at deck level before dropping to the sandy base at 11 metres. The compact vessel can be fully explored in a single dive. Combine with adjacent bay wrecks on a multi-wreck boat tour.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Carlisle Bay operators. Giant stride or backward roll entry. DSMB recommended.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
+The Bajan Queen is best experienced as part of a multi-wreck Carlisle Bay tour rather than as a sole destination — the bay's other wrecks (Stavronikita, Friars Craig, the Eilon cluster) offer the full context for the bay's exceptional wreck diving. Good site for night diving — the wreck fish community is more visible and active after dark.
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The site is straightforward at 11 metres in calm bay conditions. Fire coral is present. DSMB required. Be alert for boat traffic in the active Carlisle Bay area.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The accessible depth and calm bay conditions make the Bajan Queen suitable for natural-light photography. The encrusted hull surfaces, turtle encounters, and resident fish compositions are the main subjects. Good conditions for practising close-focus wide-angle technique.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-02
+- Barbados Blue and Heatwave Water Sports: include the Bajan Queen on Carlisle Bay wreck tours
+- Best combined with the established Carlisle Bay wreck cluster for a full wreck diving day
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-02.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

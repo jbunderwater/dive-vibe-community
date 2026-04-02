@@ -11,55 +11,53 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Bell Buoy Reef
+# Bell Buoy Reef
 
-Bell Buoy Reef is a reef dive site in Barbados, Caribbean.
+A deeper intermediate reef off Barbados's southwest coast — named for the channel marker buoy above the site, with sponge-dominated terrain at depth, regular reef shark activity, and the expansive visibility of the open Caribbean west coast.
 
 ## Overview
 
-Bell Buoy Reef is a dive site in Barbados offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Bell Buoy Reef is located off the southwest coast of Barbados in the area where the island's fringing reef system gives way to the more open Caribbean basin. The site is named for the navigation bell buoy that marks the area. The reef descends to 22 metres, with a character that shifts from hard coral-dominated shallows to sponge and gorgonian terrain at depth. The southwest coast position gives the site exposure to slightly stronger current than the more sheltered north coast sites, which drives the productivity of the deeper sponge community. Visibility averages 20–30 metres. Water temperature is 26–28°C.
 
 ## Site Information
 
-- **Location**: Barbados, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+| Detail | Value |
+|--------|-------|
+| Depth Range | 8–22 m |
+| Difficulty | Intermediate |
+| Entry Type | Boat |
+| Site Type | Reef |
+| Visibility | 20–30 m |
+| Current | Light to moderate |
+| Water Temp | 26–28°C |
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Bell Buoy Reef's deeper character brings a different species mix from the shallower west coast sites. Caribbean reef sharks are reliably present, particularly in the 15–22 metre zone. Schools of horse-eye jacks sweep through the current lanes. Spotted eagle rays pass at the reef edge. Large groupers occupy deeper overhangs and sponge formations. The encrusted barrel sponges at 18–22 metres host bigeye fish communities. Hawksbill turtles patrol the upper reef sections.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 22 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descent to the reef top at 8–10 metres and assess current conditions. Follow the slope to 18–22 metres for the shark and pelagic activity zone, then ascend through the productive mid-reef at 12–18 metres. Safety stop on the shallow reef crest. Plan descent early to maximise bottom time at depth within NDL limits.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Bridgetown-area and southwest coast operators. Giant stride entry; DSMB required for the ascent. Often combined with Carlisle Bay wrecks for a varied two-tank dive day.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+The southwest position of Bell Buoy Reef gives it stronger current potential than the north coast sites — time dives with the operator's guidance on tidal conditions. The deeper 18–22 metre zone is the most productive for shark and pelagic encounters — plan to spend the early part of the dive here before ascending.
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Monitor NDL limits at 22 metres. Current can run on the exposed southwest side — if conditions strengthen, ascend to the shallower sections. DSMB required. This site is more demanding than the standard beginner west coast reef dives.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Bell Buoy Reef's deeper character and shark activity offer intermediate and advanced photography subjects not available at the shallower west coast sites. Caribbean reef shark portraits against the sponge terrain, eagle ray passes in open water, and close-focus barrel sponge compositions are the defining subjects.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-02
+- Heatwave Water Sports and Coral Isle Divers: offer Bell Buoy Reef on intermediate dive programs
+- Best combined with the Stavronikita or Carlisle Bay wrecks for a full south coast dive day
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-02.*
+*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*

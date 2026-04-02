@@ -50,7 +50,7 @@ The Overpass scraper defaults `site_type=reef` for any site without explicit tag
 - Wreck sites without "wreck" in the name scraped as "reef"
 - Surf breaks (Oahu) scraped as dive sites
 
-**Validation source**: Use ScubaBoard forums (scubaboard.com), dive operator sites, and structured dive databases. See `/validate-sites` command.
+**Validation source**: Use local dive operator websites (highest priority for site-specific details), ScubaBoard forums (scubaboard.com), and structured dive databases. Local operators list dive sites with accurate depths, conditions, and marine life descriptions that generic databases lack. See `/validate-sites` command.
 
 ### 4. Data Integrity
 - Every site must have: `name` (non-empty), `lat` (-90 to 90), `lon` (-180 to 180), `difficulty` (not None)
@@ -79,14 +79,15 @@ Use the `/add-destinations` slash command for the full agentic workflow, or foll
 4. Run quality checks (`/quality-check`)
 5. Gap-fill if < 8 sites with curated data
 6. **Validate site types and descriptions** (`/validate-sites`) — research each site against ScubaBoard and dive forums, update both JSON data and markdown descriptions
-7. Run `python3 scripts/generate_sites.py` to generate markdown (first time only)
-8. Run `python3 scripts/sync_sites.py <slug>` after any osm_clean data changes to sync frontmatter + index.json
+7. Run `python3 scripts/generate_sites.py` to generate markdown (**first time only** — NEVER re-run on destinations with existing hand-curated descriptions, as it overwrites all markdown with generic template text)
+8. Run `python3 scripts/sync_sites.py <slug>` after any osm_clean data changes to sync frontmatter + index.json (safe — only updates frontmatter fields, preserves description content)
 
 ## Agentic Research Pattern
 
 For site validation and destination research, use parallel agents:
 - Launch web search agents for groups of 5-10 sites at a time
 - Use Perplexity MCP tools (`perplexity_ask`, `perplexity_research`) for detailed site research
+- **Local dive operator websites**: Search for dive operators/shops in the destination area and scrape their dive site listings. These are often the best source of site-specific details (depths, marine life, conditions, site descriptions) that aren't available elsewhere. Search for `"[destination] dive operator"`, `"[destination] scuba diving"`, `"[destination] dive sites"` and look for operator pages with dive site listings.
 - Primary source: `site:scubaboard.com "[site name]" "[destination]" dive`
 - Secondary: dive operator sites, DiveAdvisor, Wannadive, PADI Travel
 - Always validate the destination's overall diving character BEFORE individual sites
