@@ -240,5 +240,125 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass"
     }
+  },
+  {
+    "name": "Maycocks Bay",
+    "lat": 13.2925,
+    "lon": -59.6595,
+    "depth": 38,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "barbados.org, Reefers & Wreckers, DiveAdvisor, DIVEIN - Northernmost west coast reef, finger reef formations with elephant ear sponges, barracuda, rays",
+    "tags": {
+      "source": "curated",
+      "addedBy": "scubadiving_bb_corroboration"
+    }
+  },
+  {
+    "name": "Spawnee",
+    "lat": 13.2273,
+    "lon": -59.6523,
+    "depth": 21,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "barbados.org, Reefers & Wreckers, Wikivoyage, BarbadosByMap - Shallow reef near Weston, Caribbean reef squid, popular second dive",
+    "tags": {
+      "source": "curated",
+      "addedBy": "scubadiving_bb_corroboration"
+    }
+  },
+  {
+    "name": "Tropicana",
+    "lat": 13.240,
+    "lon": -59.650,
+    "depth": 24,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "Dive Hightide, Reefers & Wreckers, Active Caribbean Travel, DIVEIN - Multilevel reef with rare nurse sharks, excellent visibility",
+    "tags": {
+      "source": "curated",
+      "addedBy": "scubadiving_bb_corroboration"
+    }
+  },
+  {
+    "name": "Whitegates",
+    "lat": 13.235,
+    "lon": -59.650,
+    "depth": 24,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "Dive Hightide, Reefers & Wreckers, Active Caribbean Travel, DIVEIN - Barrier reef south of Tropicana, Hawksbill turtles, barracuda",
+    "tags": {
+      "source": "curated",
+      "addedBy": "scubadiving_bb_corroboration"
+    }
+  },
+  {
+    "name": "Fisherman's",
+    "lat": 13.1836,
+    "lon": -59.6463,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "barbados.org, Reefers & Wreckers, Wikivoyage, Barbados Blue - Sandy area with coral heads, stingrays, peacock flounders",
+    "tags": {
+      "source": "curated",
+      "addedBy": "scubadiving_bb_corroboration"
+    }
+  },
+  {
+    "name": "Little Sandy Lane",
+    "lat": 13.175,
+    "lon": -59.646,
+    "depth": 24,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "Wikivoyage, DiveAdvisor, Active Caribbean Travel, Maduro Dive - Named after Sandy Lane Hotel, multilevel reef, large schools of tropicals",
+    "tags": {
+      "source": "curated",
+      "addedBy": "scubadiving_bb_corroboration"
+    }
+  },
+  {
+    "name": "Barracuda Junction",
+    "lat": 13.172,
+    "lon": -59.646,
+    "depth": 24,
+    "site_type": "drift",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "DiveAdvisor, DIVEIN, Active Caribbean Travel, Girls That Scuba - Drift dive with large barracuda schools, reef slopes past recreational limits",
+    "tags": {
+      "source": "curated",
+      "addedBy": "scubadiving_bb_corroboration"
+    }
+  },
+  {
+    "name": "Lord Combermere",
+    "lat": 13.1351,
+    "lon": -59.6405,
+    "depth": 12,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "barbados.org, Dive Hightide, Reefers & Wreckers, Wikivoyage, NUMA - Water carrier scuttled 1960s near Batt's Rock, coral-encrusted",
+    "tags": {
+      "source": "curated",
+      "addedBy": "scubadiving_bb_corroboration"
+    }
   }
 ]

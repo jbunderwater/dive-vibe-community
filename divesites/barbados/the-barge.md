@@ -11,53 +11,57 @@ osmId: 13461587401
 addedBy: osm_import
 ---
 
-# The Barge
+## The Barge
 
-An ultra-shallow wreck dive off the north Barbados coast — a construction or work barge lying in just 4 metres of water, offering a pure snorkel and beginner experience in the clear Caribbean water with above-average fish life drawn to the artificial structure.
+The Barge is a historic wreck dive in Barbados, Caribbean.
 
 ## Overview
 
-The Barge is a decommissioned work barge that was sunk or grounded in 4 metres of water off the north coast of Barbados, creating an incidental artificial reef in the shallow inshore zone. The wreck's extreme shallowness makes it more of a snorkel and introductory dive site than a conventional dive destination — the entire structure is visible from the surface and accessible to non-divers. The barge has accumulated a productive encrustation and the fish community that has established around it is noticeably denser than on the bare sandy bottom nearby. The calm north coast water gives consistent conditions. Visibility averages 15–20 metres. Water temperature is 26–28°C.
+The Barge is a dive site in Barbados featuring the wreck of the The Barge. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-| Detail | Value |
-|--------|-------|
-| Depth Range | 1–4 m |
-| Difficulty | Beginner |
-| Entry Type | Boat |
-| Site Type | Wreck |
-| Visibility | 15–20 m |
-| Current | Light |
-| Water Temp | 26–28°C |
+- **Location**: Barbados, Caribbean
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 4 meters
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-The barge structure has attracted a typical shallow-water Caribbean community. Schools of sergeant majors and French grunts occupy the structure. Large parrotfish graze the encrusted surfaces. Hawksbill turtles are occasional visitors along this section of coast. The sandy surrounding area hosts southern stingrays and small schools of squid that are sometimes visible in the clear shallow water.
+Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-Boat entry into shallow water adjacent to the barge. The entire structure is at 1–4 metres and accessible by free diving and snorkelling as well as scuba. The dive is more of an extended snorkel/shallow scuba with exploration of the barge exterior and the surrounding sandy bottom. The unlimited depth allows extensive time on the structure.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 4 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
-Boat dive from north Barbados area operators. The barge is typically visited as an add-on to a nearby deeper dive or as a dedicated beginner/snorkel experience. Giant stride or backward roll entry.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-The Barge is best appreciated as a snorkel experience or as an orientation/checkout dive for total beginners rather than as a dive in its own right. Combine with a deeper nearby site for a two-tank day that gives more range. The extremely shallow depth makes this an excellent location for practising buoyancy and underwater photography without depth pressure.
+- Excellent site for newer divers — calm conditions and easy navigation
+- Bring a dive torch to illuminate wreck interiors and dark overhangs
+- Maintain proper buoyancy to avoid disturbing silt inside the wreck
+- Do not attempt penetration without proper training and equipment
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
 
 ## Safety Considerations
 
-The extreme shallowness creates no decompression risk but means any boat above is very close — be aware of vessel position before surfacing. The boat operator must remain alert during the dive. Fire coral may be present on the barge surfaces.
+Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-The ultra-shallow depth and good visibility make The Barge a natural-light photography location without any strobes needed. Sergeant major egg-guarding behaviour, parrotfish grazing on the barge, and the barge structure in the clear blue water are the main subjects.
+The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
 
 ## Additional Resources
 
-- North Barbados dive operators: include The Barge on snorkel and beginner dive programs
-- Best combined with a north coast reef dive for a varied two-tank day
+- **Last Updated**: 2026-04-02
 
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-02.*
