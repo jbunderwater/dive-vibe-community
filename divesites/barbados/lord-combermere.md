@@ -8,60 +8,44 @@ entryType: boat
 siteType: wreck
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: scubadiving_bb_corroboration
 ---
 
-## Lord Combermere
+# Lord Combermere
 
-Lord Combermere is a historic wreck dive in Barbados, Caribbean.
+A shallow coral-encrusted barge wreck near Batt's Rock, named after a former Governor of Barbados and ideal for beginners
 
 ## Overview
-
-Lord Combermere is a dive site in Barbados featuring the wreck of the Lord Combermere. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Lord Combermere is a small barge that once carried water and supplies to cargo vessels before Bridgetown Harbour was built. Scuttled in the early 1960s near Batt's Rock on the west coast, the wreck now sits in just 12 meters of water surrounded by fringing coral reef. Decades of submersion have transformed it into a thriving artificial reef, encrusted with corals and sponges. Its shallow depth and calm conditions make it one of Barbados' best beginner wreck dives and a popular choice for refresher dives. The wreck is named after Stapleton Cotton, 1st Viscount Combermere, a former Governor of Barbados. It is also one of the main underwater attractions viewed from the Atlantis Submarine tour.
 
 ## Site Information
-
-- **Location**: Barbados, Caribbean
+- **Location**: West coast, near Batt's Rock between Bridgetown and Holetown
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 15-25 meters (50-80 feet)
+- **Current**: Light
+- **Best Time**: Year-round; calmest December to April
 
 ## Marine Life
-
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck structure provides excellent habitat for reef fish. Groupers, snappers, and soldierfish shelter in and around the hull. The coral and sponge growth covering the wreck attracts parrotfish and angelfish. Glassy sweepers form clouds inside shaded areas of the hull. The surrounding sand and reef areas often yield turtle sightings, and moray eels inhabit crevices in the wreck structure.
 
 ## Dive Profile
-
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 12 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the wreck at around 12 meters. The small size of the barge means the entire wreck can be explored in a single dive with time to spare for the surrounding reef. The shallow depth allows extended bottom time — often 45-60+ minutes. Excellent as a confidence-building wreck dive before tackling deeper wrecks like the SS Stavronikita.
 
 ## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Bridgetown or Holetown operators. Short boat ride from most west coast departure points. Often combined with reef dives or the Stavronikita for a two-tank trip.
 
 ## Tips and Recommendations
-
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
+- A great first wreck dive or warm-up before the deeper Stavronikita
+- Bring a torch to peer into the hull sections and illuminate marine life
+- The surrounding reef is worth exploring after completing the wreck circuit
+- Look for the Atlantis Submarine passing by — it regularly visits this site
+- Extended bottom time possible at this depth, so take your time
 
 ## Safety Considerations
-
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-02
+Very accessible wreck dive. Shallow depth and calm conditions pose minimal risk. Avoid entering confined spaces without wreck diving training. Be aware of the occasional Atlantis Submarine passing nearby.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-02.*
+*This dive site information was compiled from barbados.org, Dive Hightide, Reefers & Wreckers, Wikivoyage, NUMA, and Barbados Blue. Last updated 2026-04-02.*

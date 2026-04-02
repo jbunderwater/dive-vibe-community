@@ -8,58 +8,43 @@ entryType: boat
 siteType: reef
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: scubadiving_bb_corroboration
 ---
 
-## Little Sandy Lane
+# Little Sandy Lane
 
-Little Sandy Lane is a reef dive site in Barbados, Caribbean.
+A west coast fringing reef named after the famous Sandy Lane Hotel, offering large schools of tropicals and multilevel diving
 
 ## Overview
-
-Little Sandy Lane is a dive site in Barbados offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Little Sandy Lane takes its name from the iconic Sandy Lane Hotel that sits on the coast directly above. Part of a cluster of reef sites south of Holetown — along with Dottin's Reef and Barracuda Junction — it sits on Barbados' west coast fringing reef system. The site is known for large schools of tropical fish and a varied reef profile that rewards multilevel exploration. Calm, relatively shallow waters make it a versatile site for intermediate divers.
 
 ## Site Information
-
-- **Location**: Barbados, Caribbean
+- **Location**: West coast, offshore from Sandy Lane Hotel south of Holetown
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Typical Visibility**: 20-30 meters (65-100 feet)
 - **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Best Time**: December to April (calmest seas)
 
 ## Marine Life
-
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The site is characterized by large schools of tropical fish — creole wrasse, blue tangs, sergeant majors — that swirl around the reef in impressive numbers. Hawksbill turtles frequent the area, and barracuda are commonly spotted patrolling the reef edges. The coral formations support butterflyfish, angelfish, and parrotfish. Moray eels shelter in reef crevices, and cleaner stations attract fish queuing for service.
 
 ## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 24 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The reef offers a range of depths from 12 to 24 meters, making it well-suited to multilevel dive profiles. Work the shallower reef top first, then descend along the reef slope to explore the deeper sections. The varied topography keeps the dive interesting throughout, with overhangs, crevices, and coral mounds at different levels.
 
 ## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Holetown operators. Part of a cluster with Dottin's Reef and Barracuda Junction, so operators often combine these sites for two-tank trips.
 
 ## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- The multilevel profile makes this ideal for optimizing bottom time
+- Named after the landmark hotel — makes for a good reference point on the boat ride out
+- Combine with Dottin's Reef or Barracuda Junction for a varied two-tank experience
+- Good visibility makes this a reliable photography site
 
 ## Safety Considerations
-
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-02
+Standard west coast reef dive. Moderate currents possible on the outer reef edge. Monitor depth at the deeper sections. Carry an SMB for boat pickup.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-02.*
+*This dive site information was compiled from Wikivoyage, DiveAdvisor, Active Caribbean Travel, Reefers & Wreckers, and Maduro Dive. Last updated 2026-04-02.*

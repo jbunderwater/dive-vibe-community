@@ -8,58 +8,43 @@ entryType: boat
 siteType: reef
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: scubadiving_bb_corroboration
 ---
 
-## Tropicana
+# Tropicana
 
-Tropicana is a reef dive site in Barbados, Caribbean.
+A fantastic multilevel reef on the west coast barrier system, one of the rare Barbados sites where nurse sharks are encountered
 
 ## Overview
-
-Tropicana is a dive site in Barbados offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Tropicana is one of Barbados' standout reef dives, located on the offshore barrier reef along the west coast. The site features a long reef approximately 15-30 meters wide with pronounced ledges that create an excellent multilevel dive profile. It is one of very few sites in Barbados where nurse sharks have been spotted — a rare occurrence in the island's southern Caribbean waters. Typically dived as a drift, Tropicana offers excellent visibility and rich marine life throughout its depth range.
 
 ## Site Information
-
-- **Location**: Barbados, Caribbean
+- **Location**: West coast, offshore barrier reef between Weston and Holetown
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 20-30+ meters (65-100+ feet)
+- **Current**: Light to moderate (typically a drift dive)
+- **Best Time**: December to April (calmest seas, best visibility)
 
 ## Marine Life
-
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The headline attraction is the possibility of nurse shark sightings beneath the reef ledges — almost unheard of elsewhere in southern Barbados. Beyond this, the reef supports hawksbill turtles, cleaner shrimp, anemones, and large schools of tropical fish. Coral coverage is healthy with both hard and soft species, sea fans, and colorful sponges lining the ledges. The fringing reef structure creates a rich habitat for a wide variety of reef fish.
 
 ## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 24 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef top and work through the multilevel ledge system. The reef ranges from around 18 meters to 24 meters, with some ledges extending to 30 meters. The multilevel profile makes it particularly good for computer divers who can optimize bottom time across different depth levels. Typically done as a gentle drift along the reef's length.
 
 ## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Speightstown or Holetown operators. Usually paired with Whitegates or Spawnee for a two-tank trip.
 
 ## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Check under the reef ledges for resting nurse sharks
+- The multilevel profile is ideal for optimizing no-decompression time
+- Excellent visibility makes this a top photography site
+- Drift direction depends on current — follow the divemaster's briefing
 
 ## Safety Considerations
-
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-02
+Moderate currents are common as this is typically a drift dive. Maintain visual contact with the group and carry an SMB. The ledges drop below recreational limits at the reef edges, so monitor depth carefully.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-02.*
+*This dive site information was compiled from Reefers & Wreckers, Dive Hightide, Active Caribbean Travel, DIVEIN, and Girls That Scuba. Last updated 2026-04-02.*

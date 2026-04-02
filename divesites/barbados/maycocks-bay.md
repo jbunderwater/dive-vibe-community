@@ -8,58 +8,43 @@ entryType: boat
 siteType: reef
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: scubadiving_bb_corroboration
 ---
 
-## Maycocks Bay
+# Maycocks Bay
 
-Maycocks Bay is a reef dive site in Barbados, Caribbean.
+The northernmost dive site on Barbados' west coast, featuring exceptional finger reef formations separated by corridors of white sand
 
 ## Overview
-
-Maycocks Bay is a dive site in Barbados offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Maycocks Bay is one of Barbados' most impressive reef dives, located off the island's northwest coast near Speightstown. The reef runs east to west — an unusual orientation for the west coast — creating a series of large coral formations separated by corridors of white sand. The site slopes from around 15 meters at the reef top down to 38 meters, offering a dramatic multilevel profile. Strong currents can develop here, making it best suited for experienced divers.
 
 ## Site Information
-
-- **Location**: Barbados, Caribbean
+- **Location**: Northwest coast, off Maycocks Bay near Speightstown
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 38 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Current**: Moderate to strong
+- **Best Time**: December to April (calmest seas)
 
 ## Marine Life
-
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The finger reef formations attract impressive marine life. Large schools of Bermuda chub patrol the sand corridors, while barracuda cruise the reef edges. Southern stingrays and eagle rays are regularly spotted gliding over the sandy channels between reef fingers. The coral structures feature large orange elephant ear sponges, sea fans, and healthy brain coral. Parrotfish, angelfish, and hawksbill turtles are common residents.
 
 ## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 38 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef top at approximately 15 meters and explore the finger formations, working through the sand corridors between them. The reef slopes gradually to 38 meters on its deeper edges. Most of the action occurs between 15-25 meters where the reef structure is densest. Allow adequate bottom time planning for the depth and plan a gradual ascent through the shallower reef sections.
 
 ## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Speightstown-based operators including Reefers & Wreckers. The site is the furthest north of the regular west coast dive sites, so expect a longer boat ride from operators based in Holetown or Bridgetown.
 
 ## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Best dived on calm days when currents are manageable
+- The sand corridors between reef fingers are excellent for spotting rays
+- Look for orange elephant ear sponges on the deeper reef sections
+- Often paired with Brightledge or Spawnee as a two-tank dive
 
 ## Safety Considerations
-
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-02
+Currents can be strong and unpredictable at this exposed northern site. Depth reaches recreational limits, so monitor air supply carefully. Always carry an SMB for drift scenarios. Not recommended for inexperienced divers.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-02.*
+*This dive site information was compiled from Reefers & Wreckers, Dive Hightide, DiveAdvisor, barbados.org, and DIVEIN. Last updated 2026-04-02.*

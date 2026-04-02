@@ -8,58 +8,43 @@ entryType: boat
 siteType: reef
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: scubadiving_bb_corroboration
 ---
 
-## Whitegates
+# Whitegates
 
-Whitegates is a reef dive site in Barbados, Caribbean.
+A relaxed barrier reef dive south of Tropicana, popular for large hawksbill turtle encounters and predatory fish at the reef edge
 
 ## Overview
-
-Whitegates is a dive site in Barbados offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Whitegates sits on the same offshore barrier reef system as Tropicana, just to its south along Barbados' west coast. The site offers a similar depth profile to its neighbor but with a distinctly more relaxed atmosphere — operators describe it as feeling like diving through a marine aquarium. The reef edge is a particular highlight, where predatory species patrol and large hawksbill turtles are regularly encountered. Schooling tropicals are abundant throughout.
 
 ## Site Information
-
-- **Location**: Barbados, Caribbean
+- **Location**: West coast, offshore barrier reef south of Tropicana
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Typical Visibility**: 20-30 meters (65-100 feet)
 - **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Best Time**: December to April (calmest seas)
 
 ## Marine Life
-
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Whitegates is particularly known for its large hawksbill turtles, which graze on the reef and are often approachable. Schools of blackjacks and barracuda patrol the reef edge, feeding on smaller fish that shelter in the coral. The reef interior hosts dense schools of tropicals — blue tangs, sergeant majors, creole wrasse — creating a vivid, aquarium-like scene. Parrotfish, angelfish, and butterflyfish are also common.
 
 ## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 24 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+A comfortable reef dive with depths ranging from 15 to 24 meters. The reef structure is continuous with Tropicana's, so conditions are similar. Work along the reef edge to spot larger pelagic species, then explore the interior coral gardens for tropical fish and turtle encounters. The gentle profile allows generous bottom time.
 
 ## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from west coast operators. Frequently paired with Tropicana or Spawnee for two-tank trips.
 
 ## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Spend time at the reef edge where barracuda and blackjacks congregate
+- Hawksbill turtles here are accustomed to divers — maintain distance but they often stay close
+- Great site for wide-angle photography of schooling fish
+- Similar depth to Tropicana, so plan air management accordingly for two-tank trips
 
 ## Safety Considerations
-
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-02
+Standard barrier reef dive safety. Moderate currents possible. Maintain awareness of depth at the reef edge where it slopes deeper. Carry an SMB for boat pickup.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-02.*
+*This dive site information was compiled from Reefers & Wreckers, Dive Hightide, Active Caribbean Travel, and DIVEIN. Last updated 2026-04-02.*
