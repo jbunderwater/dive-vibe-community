@@ -1,6 +1,6 @@
 ---
 name: Barracuda Junction
-lat: 13.172
+lat: 13.163
 lng: -59.646
 difficulty: Intermediate
 maxDepth: 24

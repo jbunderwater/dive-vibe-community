@@ -1,7 +1,7 @@
 ---
 name: Carlisle Bay - Ce-Trek
-lat: 13.088
-lng: -59.622
+lat: 13.0864
+lng: -59.6117
 difficulty: Beginner
 maxDepth: 12
 entryType: shore

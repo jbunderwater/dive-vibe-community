@@ -1,7 +1,7 @@
 ---
 name: Little Sandy Lane
-lat: 13.175
-lng: -59.646
+lat: 13.172
+lng: -59.647
 difficulty: Intermediate
 maxDepth: 24
 entryType: boat

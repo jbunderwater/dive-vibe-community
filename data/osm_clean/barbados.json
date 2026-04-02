@@ -1,23 +1,29 @@
 [
   {
-    "name": "Stavronikita Wreck",
-    "lat": 13.095,
-    "lon": -59.62,
-    "depth": 40,
+    "name": "SS Stavronikita",
+    "lat": 13.18,
+    "lon": -59.642,
+    "osm_id": 13461568301,
+    "osm_type": "node",
+    "depth": 36,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "divernet.com, adrex.com - Greek freighter sunk 1976, 365ft vessel",
+    "validation_source": "OSM node 13461568301, divernet.com, scubadiving.bb - Greek freighter sunk 1978, 111m vessel, mast at 6m, deck at 18-24m, rated top 10 wreck dive worldwide",
     "tags": {
-      "source": "curated",
-      "addedBy": "fill_caribbean"
+      "historic": "wreck",
+      "name": "SS Stavronikita",
+      "seamark:type": "wreck",
+      "wreck:date_sunk": "1978",
+      "source": "osm_extended",
+      "addedBy": "extended_overpass"
     }
   },
   {
     "name": "Carlisle Bay - Berwyn",
-    "lat": 13.085,
-    "lon": -59.625,
+    "lat": 13.0859,
+    "lon": -59.6116,
     "depth": 8,
     "site_type": "wreck",
     "entry_type": "shore",
@@ -31,24 +37,9 @@
   },
   {
     "name": "Carlisle Bay - Ce-Trek",
-    "lat": 13.088,
-    "lon": -59.622,
+    "lat": 13.0864,
+    "lon": -59.6117,
     "depth": 12,
-    "site_type": "wreck",
-    "entry_type": "shore",
-    "difficulty": "Beginner",
-    "validated": true,
-    "validation_source": "barbados.org, divernet.com - Carlisle Bay wreck trail, WWII era",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_caribbean"
-    }
-  },
-  {
-    "name": "Carlisle Bay - Eilon",
-    "lat": 13.09,
-    "lon": -59.618,
-    "depth": 10,
     "site_type": "wreck",
     "entry_type": "shore",
     "difficulty": "Beginner",

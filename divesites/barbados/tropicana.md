@@ -1,7 +1,7 @@
 ---
 name: Tropicana
-lat: 13.24
-lng: -59.65
+lat: 13.219
+lng: -59.648
 difficulty: Intermediate
 maxDepth: 24
 entryType: boat

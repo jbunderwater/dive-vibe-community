@@ -1,7 +1,7 @@
 ---
 name: Whitegates
-lat: 13.235
-lng: -59.65
+lat: 13.21
+lng: -59.649
 difficulty: Intermediate
 maxDepth: 24
 entryType: boat

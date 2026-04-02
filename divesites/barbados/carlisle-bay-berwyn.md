@@ -1,7 +1,7 @@
 ---
 name: Carlisle Bay - Berwyn
-lat: 13.085
-lng: -59.625
+lat: 13.0859
+lng: -59.6116
 difficulty: Beginner
 maxDepth: 8
 entryType: shore

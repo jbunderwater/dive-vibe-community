@@ -1,7 +1,7 @@
 ---
 name: Maycocks Bay
 lat: 13.2925
-lng: -59.6595
+lng: -59.6632
 difficulty: Advanced
 maxDepth: 38
 entryType: boat
