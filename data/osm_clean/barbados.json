@@ -244,7 +244,7 @@
   {
     "name": "Maycocks Bay",
     "lat": 13.2925,
-    "lon": -59.6595,
+    "lon": -59.6632,
     "depth": 38,
     "site_type": "reef",
     "entry_type": "boat",
@@ -273,8 +273,8 @@
   },
   {
     "name": "Tropicana",
-    "lat": 13.240,
-    "lon": -59.650,
+    "lat": 13.2190,
+    "lon": -59.6480,
     "depth": 24,
     "site_type": "reef",
     "entry_type": "boat",
@@ -288,8 +288,8 @@
   },
   {
     "name": "Whitegates",
-    "lat": 13.235,
-    "lon": -59.650,
+    "lat": 13.2100,
+    "lon": -59.6490,
     "depth": 24,
     "site_type": "reef",
     "entry_type": "boat",
@@ -318,8 +318,8 @@
   },
   {
     "name": "Little Sandy Lane",
-    "lat": 13.175,
-    "lon": -59.646,
+    "lat": 13.1720,
+    "lon": -59.6470,
     "depth": 24,
     "site_type": "reef",
     "entry_type": "boat",
@@ -333,8 +333,8 @@
   },
   {
     "name": "Barracuda Junction",
-    "lat": 13.172,
-    "lon": -59.646,
+    "lat": 13.1630,
+    "lon": -59.6460,
     "depth": 24,
     "site_type": "drift",
     "entry_type": "boat",
