@@ -17,7 +17,7 @@ Scuba Marmaids is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Scuba Marmaids is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Scuba Marmaids is a playfully named RMP mooring in the Sandy Bay area. The site provides access to the characteristic wall dive profile of this stretch of reef, where the drop-off is decorated with purple tube sponges and orange elephant ear sponges. Trumpetfish use their camouflage among the sea rods, and peacock flounders lie on the sandy patches near the reef base. Individual published details on this site are limited, but the Sandy Bay wall conditions here are reliable. Visibility ranges from 20 to 40 meters, with water temperatures between 26 and 29 degrees Celsius.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Hole In The Wallet is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Hole In The Wallet is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Hole in the Wallet is a humorously named RMP donor mooring along the Sandy Bay wall, a nod to the cost of naming a dive site through the marine park program. The site sits on a section of reef where sand channels cut through the coral formations before the wall drops off. Groupers and hogfish patrol the sand channels, and Caribbean reef sharks are occasionally sighted in the deeper water off the wall. Visibility typically ranges from 20 to 40 meters, with water temperatures between 26 and 29 degrees Celsius.
 
 ## Site Information
 

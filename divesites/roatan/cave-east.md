@@ -17,7 +17,7 @@ Cave East is a cave dive site in Roatán, Caribbean.
 
 ## Overview
 
-Cave East is a dive site in Roatán featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Cave East provides access to cavern formations on the eastern end of a cave system within the Sandy Bay reef wall. The site features swim-throughs and overhangs where ambient light creates dramatic effects, and resident marine life includes copper sweepers, lobsters, and the occasional resting nurse shark. The surrounding wall supports healthy gorgonian growth and encrusting sponges. Visibility typically ranges from 20 to 40 meters, with water temperatures between 26 and 29 degrees Celsius.
 
 ## Site Information
 

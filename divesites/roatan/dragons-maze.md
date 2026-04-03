@@ -17,7 +17,7 @@ Dragons Maze is a cave dive site in Roatán, Caribbean.
 
 ## Overview
 
-Dragons Maze is a dive site in Roatán featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Dragons Maze lives up to its name with labyrinthine passages and cavern formations carved into the reef wall. The winding tunnels and interconnected chambers create an engaging navigation challenge, with multiple routes through the structure that open onto the wall face. Silversides and glassy sweepers congregate inside the darker recesses, while the exterior reef is draped in sea fans and rope sponges. Published details on this site are limited, but the cave terrain makes it a distinctive dive along the Sandy Bay corridor. Visibility is generally 20 to 40 meters, with water temperatures from 26 to 29 degrees Celsius.
 
 ## Site Information
 

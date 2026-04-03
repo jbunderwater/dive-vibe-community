@@ -17,7 +17,7 @@ William's Playground is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-William's Playground is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+William's Playground lies west of the Anthony's Key Resort channel and has been described as a hidden gem that barely appears on the typical Roatan dive map. Black groupers lurk in the reef structure, blue tangs school above the coral, and seahorses have been reported clinging to gorgonians in the shallows. The wall drops off into deep blue water beyond the reef crest, following the same continuous barrier reef that defines Sandy Bay's western shore. Visibility is generally 20 to 40 meters, with water temperatures between 26 and 29 degrees Celsius.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Cave West is a cave dive site in Roatán, Caribbean.
 
 ## Overview
 
-Cave West is a dive site in Roatán featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Cave West marks the western access point to the same cavern system as Cave East, offering a different perspective on the interconnected tunnels and overhangs carved into the reef wall. Divers entering from this side encounter large sea fan gardens on the exterior wall before ducking into the formations. Juvenile fish shelter inside the cavern openings, and the walls are encrusted with colorful sponges and hydroids. Visibility is typically 20 to 40 meters, with water temperatures between 26 and 29 degrees Celsius.
 
 ## Site Information
 

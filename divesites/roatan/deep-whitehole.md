@@ -17,7 +17,7 @@ Deep Whitehole is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Deep Whitehole is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Deep Whitehole provides access to the deeper sections of the White Hole site complex, where the wall plunges well beyond 120 feet into open blue water. This advanced-rated profile takes divers past the plateau and coral formations of the shallower White Hole mooring and out along the vertical wall face, where barrel sponges, black coral, and deep-water gorgonians cling to the limestone. Pelagic species including eagle rays are more commonly spotted at depth. Visibility runs 20 to 40 meters, with water temperatures between 26 and 29 degrees Celsius.
 
 ## Site Information
 

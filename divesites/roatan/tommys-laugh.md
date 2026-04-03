@@ -17,7 +17,7 @@ Tommy's Laugh is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Tommy's Laugh is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Tommy's Laugh is a donor-named RMP mooring on the Sandy Bay wall. The site is situated along a section of reef where the wall is punctuated with small crevices and overhangs that shelter spotted lobsters and channel-clinging crabs. Above the wall edge, schools of creole wrasse and blue chromis fill the water column, and the occasional southern stingray glides across the sand flats near the mooring. Visibility typically ranges from 20 to 40 meters, with water temperatures between 26 and 29 degrees Celsius.
 
 ## Site Information
 

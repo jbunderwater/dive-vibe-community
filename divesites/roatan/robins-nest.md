@@ -17,7 +17,7 @@ Robin's Nest is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Robin's Nest is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Robin's Nest is a donor-named RMP mooring along the Sandy Bay barrier reef wall. The reef crest here is topped with healthy elkhorn coral and fire coral, transitioning to a sponge-covered wall below 12 meters. Fairy basslets add purple accents along the wall face, and yellowtail snappers school in loose formations off the edge. Published information specific to this mooring is limited, but conditions are consistent with the Sandy Bay corridor. Visibility runs 20 to 40 meters, with water temperatures from 26 to 29 degrees Celsius.
 
 ## Site Information
 

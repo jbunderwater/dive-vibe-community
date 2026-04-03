@@ -17,7 +17,7 @@ Dorothy's Dance is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Dorothy's Dance is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Dorothy's Dance is a donor-named mooring on the Sandy Bay wall. Published information specific to this site is limited, but the location sits along a stretch of reef known for its intact hard coral formations and large sponge growth. The wall drops away below 10 to 15 meters, and divers commonly encounter creole wrasse, blue tangs, and yellowtail snappers schooling above the reef crest. Green sea turtles rest on the sandy ledges between dives. Visibility typically ranges from 20 to 40 meters, with water temperatures between 26 and 29 degrees Celsius.
 
 ## Site Information
 

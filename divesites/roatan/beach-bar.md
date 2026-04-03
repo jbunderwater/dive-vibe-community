@@ -17,7 +17,7 @@ Beach Bar is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Beach Bar is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Beach Bar is an RMP mooring along the Sandy Bay reef, positioned where the shallow reef flat meets the wall. Individual published details on this specific site are limited, but the location offers easy access to both the reef top for macro subjects and the wall for larger marine life. Sea fans wave in the gentle current along the drop-off, and green sea turtles are regular visitors to the area. Visibility typically ranges from 20 to 40 meters, with water temperatures between 26 and 29 degrees Celsius.
 
 ## Site Information
 

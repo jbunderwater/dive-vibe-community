@@ -17,7 +17,7 @@ Cisnero's Point is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Cisnero's Point is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Cisnero's Point marks a promontory along the Sandy Bay wall where currents sweep nutrients along the reef, supporting prolific sponge and coral growth. The wall here starts shallow and drops steeply, with large barrel sponges anchored along the edge and sea whips extending into the current. Green sea turtles, eagle rays, and schools of horse-eye jacks frequent the area. Visibility is typically 20 to 40 meters, with water temperatures from 26 to 29 degrees Celsius.
 
 ## Site Information
 

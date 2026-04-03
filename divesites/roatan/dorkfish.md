@@ -17,7 +17,7 @@ Dorkfish is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Dorkfish is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Dorkfish is an RMP mooring along the Sandy Bay wall with a name that hints at the lighthearted spirit of Roatan's dive community. The site provides access to the barrier reef wall where healthy elkhorn and staghorn corals top the crest, and the vertical face below is covered in orange sponges and deep-water gorgonians. Trumpetfish hang vertically among the sea rods, and barracuda patrol the blue water off the wall. Visibility is generally 20 to 40 meters, with water temperatures from 26 to 29 degrees Celsius.
 
 ## Site Information
 

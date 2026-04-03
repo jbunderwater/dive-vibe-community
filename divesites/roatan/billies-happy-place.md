@@ -17,7 +17,7 @@ Billie's Happy Place is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Billie's Happy Place is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Billie's Happy Place is a donor-named RMP mooring along the Sandy Bay wall. The reef here supports dense hard coral cover on the crest, giving way to sponge-encrusted vertical wall below 15 meters. Spotted drumfish and flamingo tongue snails can be found among the gorgonians, while larger residents including Nassau groupers occupy the ledges and overhangs. Visibility is typically 20 to 40 meters, with water temperatures from 26 to 29 degrees Celsius.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Baby Stan Steinberg is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Baby Stan Steinberg is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Baby Stan Steinberg is an RMP donor mooring in the Sandy Bay area of Roatan's barrier reef. Individual published information on this site is limited, but divers here enjoy the characteristic Sandy Bay wall profile: a reef crest leading to a vertical drop-off festooned with gorgonian sea fans, tube sponges, and healthy hard coral. Eagle rays glide along the wall, and moray eels peer from crevices in the reef structure. Visibility runs 20 to 40 meters, with water temperatures from 26 to 29 degrees Celsius.
 
 ## Site Information
 

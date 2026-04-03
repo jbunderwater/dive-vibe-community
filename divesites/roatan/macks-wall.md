@@ -17,7 +17,7 @@ Mack's Wall is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Mack's Wall is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Mack's Wall is a wall dive along the Sandy Bay section of Roatan's continuous barrier reef. The wall begins at around 10 to 15 meters and drops vertically into deep water, its face covered with large barrel sponges, orange elephant ear sponges, and purple tube sponges interspersed among sea fans. Eagle rays and green sea turtles pass along the wall edge, and groupers hold station near overhangs. Visibility is typically 20 to 40 meters, with water temperatures from 26 to 29 degrees Celsius.
 
 ## Site Information
 

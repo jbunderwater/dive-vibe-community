@@ -17,7 +17,7 @@ Angie's is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Angie's is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Angie's is a Roatan Marine Park mooring along the Sandy Bay wall, one of many donor-named sites established to support reef conservation. The wall drops away from a reef crest at around 10 to 15 meters, its face draped with purple sea fans and massive barrel sponges. Creole wrasse swirl in loose aggregations above the wall edge, and green sea turtles are frequently spotted grazing on the reef flat. Visibility typically ranges from 20 to 40 meters, with water temperatures between 26 and 29 degrees Celsius.
 
 ## Site Information
 

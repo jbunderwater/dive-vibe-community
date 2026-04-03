@@ -17,7 +17,7 @@ The Cave is a cave dive site in Roatán, Caribbean.
 
 ## Overview
 
-The Cave is a dive site in Roatán featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Cave is one of the more prominent cavern sites along the Sandy Bay reef wall, featuring a sizable overhang or enclosed formation that gives the site its straightforward name. Inside, divers find resident glassy sweepers schooling in the filtered light, along with lobsters and crabs tucked into crevices. The cave walls are encrusted with colorful sponges and encrusting corals. Outside, the reef wall provides the usual Sandy Bay wall scenery of sea fans, barrel sponges, and passing eagle rays. Visibility runs 20 to 40 meters, with water temperatures between 26 and 29 degrees Celsius.
 
 ## Site Information
 

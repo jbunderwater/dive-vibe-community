@@ -17,7 +17,7 @@ Barry's Corner is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Barry's Corner is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Barry's Corner is an RMP mooring situated along the Sandy Bay wall corridor. The site features the typical Roatan wall profile, with a shallow reef zone transitioning to a near-vertical drop-off. Barrel sponges and orange elephant ear sponges add color to the wall face, while schools of blue chromis and creole wrasse fill the water column above. Groupers hold position under ledges, and the occasional eagle ray cruises past in open water. Visibility is generally 20 to 40 meters, with water temperatures between 26 and 29 degrees Celsius.
 
 ## Site Information
 

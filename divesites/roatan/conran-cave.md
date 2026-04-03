@@ -17,7 +17,7 @@ Conran Cave is a cave dive site in Roatán, Caribbean.
 
 ## Overview
 
-Conran Cave is a dive site in Roatán featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Conran Cave is one of several named cave and cavern sites along the Sandy Bay stretch of reef, where the limestone wall has eroded into overhangs, tunnels, and enclosed formations. Divers can explore the cavern areas where shafts of light penetrate from above, illuminating resident glassy sweepers and copper sweepers inside. The surrounding reef wall supports healthy gorgonians and sponge colonies. Visibility is typically 20 to 40 meters outside the formations, with water temperatures between 26 and 29 degrees Celsius.
 
 ## Site Information
 

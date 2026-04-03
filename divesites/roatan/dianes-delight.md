@@ -17,7 +17,7 @@ Diane's Delight is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Diane's Delight is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Diane's Delight is a donor-named RMP mooring along the Sandy Bay wall, where the reef profile features a gentle slope transitioning to a vertical face below 12 meters. Tube sponges in shades of purple and gray punctuate the wall, and queen angelfish and rock beauties add color among the coral heads. Moray eels occupy holes in the reef, and cleaning stations attract a variety of fish species. Visibility runs 20 to 40 meters, with water temperatures between 26 and 29 degrees Celsius.
 
 ## Site Information
 

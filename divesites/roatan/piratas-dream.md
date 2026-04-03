@@ -17,7 +17,7 @@ Pirata's Dream is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Pirata's Dream is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Pirata's Dream holds the distinction of being the first donor-named Roatan Marine Park dive site, named after "Pirata" the dog, with a commemorative plaque installed at 30 feet. The dive begins with a scenic swim-through starting at 30 feet that descends toward the wall at 70 feet, opening onto a canyon platform at 40 feet. Eagle rays cruise along the wall edge, green sea turtles feed on the reef flat, and smaller residents including trumpetfish, jawfish, neck crabs, and decorator crabs populate the coral heads and sandy patches. Suitable for beginner to intermediate divers, with visibility typically ranging from 20 to 40 meters and water temperatures between 26 and 29 degrees Celsius.
 
 ## Site Information
 

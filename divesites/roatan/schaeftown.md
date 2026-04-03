@@ -17,7 +17,7 @@ Schaeftown is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Schaeftown is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Schaeftown is an RMP donor mooring on the Sandy Bay wall, named through the Roatan Marine Park program. The wall drops from a reef crest at approximately 10 meters, with large sea fans oriented perpendicular to the prevailing current. Hawksbill turtles feed on sponges along the wall face, and horse-eye jacks occasionally pass through in small schools. The reef top offers macro opportunities with arrow crabs, banded coral shrimp, and Christmas tree worms visible in the hard coral. Visibility is typically 20 to 40 meters, with water temperatures between 26 and 29 degrees Celsius.
 
 ## Site Information
 

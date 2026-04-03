@@ -17,7 +17,7 @@ Dylan's Spot is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Dylan's Spot is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Dylan's Spot is a donor-named RMP mooring along the Sandy Bay reef, where the shallow coral garden gives way to the wall at around 12 meters. Parrotfish and surgeonfish graze on the reef top, while the wall face hosts azure vase sponges and branching gorgonians. Spotted eagle rays are sometimes seen cruising in the blue beyond the wall edge. Individual site details are limited, but the overall Sandy Bay conditions apply: visibility from 20 to 40 meters and water temperatures between 26 and 29 degrees Celsius.
 
 ## Site Information
 

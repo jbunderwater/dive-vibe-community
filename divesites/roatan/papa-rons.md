@@ -17,7 +17,7 @@ Papa Rons is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Papa Rons is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Papa Rons is an RMP mooring along the Sandy Bay wall, one of the donor-named sites supporting Roatan Marine Park reef conservation. The wall begins at roughly 12 meters and descends vertically, its face covered with rope sponges, sea plumes, and encrusting star corals. Moray eels peer from holes in the wall, and schools of creole wrasse form shimmering clouds above the drop-off. Eagle rays occasionally sweep through on their way along the wall. Visibility runs 20 to 40 meters, with water temperatures between 26 and 29 degrees Celsius.
 
 ## Site Information
 

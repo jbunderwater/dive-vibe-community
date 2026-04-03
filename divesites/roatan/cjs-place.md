@@ -17,7 +17,7 @@ Cj's Place is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Cj's Place is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+CJ's Place is a Roatan Marine Park memorial mooring dedicated to CJ Simmons, who passed away at the age of 24. The site sits along the Sandy Bay wall, where the reef crest gives way to a vertical drop-off decorated with tube sponges, sea fans, and encrusting corals. Creole wrasse and chromis hover above the wall edge, while moray eels and lobsters shelter in crevices below. Visibility typically ranges from 20 to 40 meters, with water temperatures between 26 and 29 degrees Celsius.
 
 ## Site Information
 

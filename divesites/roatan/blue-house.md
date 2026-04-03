@@ -17,7 +17,7 @@ Blue House is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Blue House is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Blue House is an RMP mooring in the Sandy Bay area, named through the Roatan Marine Park donor program. The wall at this site is decorated with azure vase sponges and lavender rope sponges among the sea fans, creating a colorful backdrop against the deep blue. Schools of yellowtail snappers pass along the wall edge, and hawksbill turtles are occasionally sighted feeding on sponges. Published details specific to this mooring are limited. Visibility runs 20 to 40 meters, with water temperatures between 26 and 29 degrees Celsius.
 
 ## Site Information
 

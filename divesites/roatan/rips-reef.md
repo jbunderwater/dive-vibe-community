@@ -17,7 +17,7 @@ Rip's Reef is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Rip's Reef is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Rip's Reef is a Roatan Marine Park mooring in the Sandy Bay area. The shallow reef zone features scattered coral heads of brain coral and mountainous star coral, leading to the wall edge where dense gorgonian growth begins. Southern stingrays rest on the sand between coral formations, and schools of blue tang move across the reef top. The wall below supports barrel sponges and black coral at depth. Visibility is typically 20 to 40 meters, with water temperatures between 26 and 29 degrees Celsius.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Boss Cave is a cave dive site in Roatán, Caribbean.
 
 ## Overview
 
-Boss Cave is a dive site in Roatán featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Boss Cave features cavern and overhang formations within the Sandy Bay reef wall, offering sheltered swim-throughs where light filters in from above. Glassy sweepers and silversides congregate in the darker recesses, and nurse sharks have been known to rest under the larger overhangs. Outside the formations, the reef wall is covered with sea fans, tube sponges, and healthy star coral colonies. Visibility is generally 20 to 40 meters, with water temperatures from 26 to 29 degrees Celsius.
 
 ## Site Information
 

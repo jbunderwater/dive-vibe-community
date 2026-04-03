@@ -17,7 +17,7 @@ Drury's Dilema is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Drury's Dilema is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Drury's Dilema is an RMP mooring in the Sandy Bay area, its playful name reflecting the personal touch of Roatan's donor mooring program. The wall here follows the continuous barrier reef profile, with a shallow reef zone of brain corals and star corals leading to a drop-off adorned with gorgonians and massive barrel sponges. Eagle rays pass through the deeper sections, and schools of Bermuda chub gather near the reef crest. Visibility runs 20 to 40 meters, with water temperatures from 26 to 29 degrees Celsius.
 
 ## Site Information
 

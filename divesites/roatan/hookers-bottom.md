@@ -17,7 +17,7 @@ Hookers Bottom is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Hookers Bottom is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Hookers Bottom is a Roatan Marine Park mooring positioned between the Bear's Den and Spooky Channel areas along the Sandy Bay wall. The reef here features a sandy bottom zone before the wall drops away, with scattered coral heads and sponge formations rising from the substrate. Groupers and moray eels inhabit the overhangs, while southern stingrays occasionally rest on the sand flats. Visibility typically ranges from 20 to 40 meters, with water temperatures between 26 and 29 degrees Celsius.
 
 ## Site Information
 

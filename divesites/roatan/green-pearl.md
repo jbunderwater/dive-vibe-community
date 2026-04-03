@@ -17,7 +17,7 @@ Green Pearl is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Green Pearl is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Green Pearl packs multiple reef environments into a single dive, with sand channels, wall sections, swim-throughs, and a large plateau "pond" area that opens up beyond the first reef barrier. The variety of terrain supports an equally diverse cast of marine life: jawfish hover above their burrows in the sand flats, flounders lie camouflaged on the bottom, and green sea turtles and southern stingrays patrol the shallows. Cleaning stations along the reef attract fish of all sizes. The site accommodates all certification levels and offers visibility between 20 and 40 meters, with water temperatures from 26 to 29 degrees Celsius.
 
 ## Site Information
 

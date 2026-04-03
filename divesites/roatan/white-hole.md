@@ -17,7 +17,7 @@ White Hole is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-White Hole is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+White Hole takes its name from a distinctive circular patch of bright white sand at 35 feet, surrounded by impressive coral heads. A plateau extends to 60 feet before the wall drops away beyond 120 feet. The site is famous for its "domesticated" large groupers, some measuring 3 to 4 feet, that regularly approach divers without hesitation. White Hole also makes an excellent night dive, when the sand patch becomes a stage for nocturnal hunters. Rated intermediate to advanced, with visibility typically 20 to 40 meters and water temperatures between 26 and 29 degrees Celsius.
 
 ## Site Information
 

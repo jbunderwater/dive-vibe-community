@@ -17,7 +17,7 @@ Candelas Zen is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Candelas Zen is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Candelas Zen sits adjacent to the Anthony's Key Resort channel in Sandy Bay and has been adopted by Sun Divers as part of the PADI AWARE Adopt the Blue conservation program. The site has been affected by community runoff, and regular cleanup dives are organized here to maintain reef health. Beyond its conservation significance, the mooring provides access to typical Sandy Bay wall terrain with hard corals, sponge growth, and resident reef fish. Visibility varies from 20 to 40 meters depending on conditions, with water temperatures between 26 and 29 degrees Celsius.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Training Site is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Training Site is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Training Site serves as a dedicated shallow-water area in the Sandy Bay zone, ideal for open water training dives and skills practice. The sandy bottom with scattered coral heads provides a controlled environment at manageable depths, while still offering genuine reef life including juvenile fish, sea urchins, and small crustaceans among the coral rubble. More experienced divers can venture toward the nearby wall for additional exploration. Visibility is generally 20 to 40 meters, with water temperatures from 26 to 29 degrees Celsius.
 
 ## Site Information
 
