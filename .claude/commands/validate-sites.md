@@ -51,16 +51,21 @@ Files to update:
 
 Steps:
 1. Read data/osm_clean/{slug}.json to get the full site list
-2. Research the destination's overall diving character using perplexity_ask
-3. For each site (or batch of 5-10 for large destinations):
-   a. Research using perplexity_ask: "[site name] [destination] dive site type depth"
-   b. Update site_type, depth, difficulty, entry_type in the JSON
-   c. Add tags: validated="true", validation_source="[url or source name]"
-   d. Read the corresponding markdown file
-   e. Rewrite generic template text with site-specific researched content
-4. Write updated JSON back to data/osm_clean/{slug}.json
-5. Run: python3 scripts/sync_sites.py {slug}
-6. Return a summary of all changes made
+2. Search for local dive shops/operators at the destination (WebSearch for
+   "[destination] dive shop", "[destination] dive operator", "[destination] scuba diving").
+   Find their dive site listing pages and WebFetch them. Extract site names,
+   descriptions, depths, types, and marine life. Cross-reference against our site list.
+3. Research the destination's overall diving character using perplexity_ask
+4. For each site (or batch of 5-10 for large destinations):
+   a. Check if dive shop scraping already provided details for this site
+   b. If not, research using perplexity_ask: "[site name] [destination] dive site type depth"
+   c. Update site_type, depth, difficulty, entry_type in the JSON
+   d. Add tags: validated="true", validation_source="[url or source name]"
+   e. Read the corresponding markdown file
+   f. Rewrite generic template text with site-specific researched content
+5. Write updated JSON back to data/osm_clean/{slug}.json
+6. Run: python3 scripts/sync_sites.py {slug}
+7. Return a summary of all changes made
 ```
 
 ### Agent Model Selection
@@ -84,8 +89,8 @@ Use `model: "sonnet"` for the sub-agents — fast enough for research + editing 
 
 ### Priority Sources
 
-1. **ScubaBoard forums** (scubaboard.com) — largest scuba diving forum. Search for site reports and dive logs.
-2. **Dive operator sites** — local operators have the best site-by-site descriptions
+1. **Local dive shop/operator websites** (highest priority) — search for dive shops at the destination, then scrape their dive site listing pages. See "Dive Shop Scraping" below.
+2. **ScubaBoard forums** (scubaboard.com) — largest scuba diving forum. Search for site reports and dive logs.
 3. **Dedicated wreck/dive databases** — e.g., scapaflowwrecks.com, divernet.com for wrecks
 4. **DiveAdvisor / Wannadive / PADI Travel** — structured dive site databases
 5. **Wikipedia / Wikidata** — for wrecks, marine parks, and well-documented sites
@@ -121,14 +126,28 @@ For each site, gather as much of this as possible:
    - What should divers know about entry/exit? (specific conditions, landmarks)
    - Any history? (wreck stories, naming origin, significance)
 
+### Dive Shop Scraping
+
+Before researching individual sites, find and scrape local dive shop websites for the destination. This often provides the most detailed, accurate information for many sites at once.
+
+1. **Find dive shops**: WebSearch for `"[destination] dive shop"`, `"[destination] dive operator"`, `"[destination] scuba diving"`, `"[destination] dive center"`. Also search in local languages (e.g., `"[destination] centre de plongée"` for French areas).
+2. **Find their dive site pages**: Visit each shop's homepage and look for "Dive Sites", "Our Sites", "Where We Dive" pages. Common URL patterns: `/dive-sites`, `/sites`, `/diving`, `/our-dives`.
+3. **Fetch site listings**: Use WebFetch to load the dive site pages. Extract: site names, descriptions, depths, types, difficulty, marine life.
+4. **Cross-reference**: Match extracted site names against `data/osm_clean/{slug}.json`. Names may vary slightly — use fuzzy matching.
+5. **Bulk update**: Use the descriptions to correct site_type, depth, difficulty, and to rewrite markdown descriptions. One good shop page can validate 20+ sites at once.
+
+Multiple shops in the same area often list the same sites — cross-referencing confirms accuracy. Dive shops won't have GPS coordinates, but their descriptions are the best source for site types, depths, and what divers actually experience.
+
 ### Research Process (Per Destination)
 
-1. **Destination-level research first**: Search for the overall diving character.
+1. **Dive shop scraping first**: Find and scrape 2-3 local dive operator websites for the destination (see "Dive Shop Scraping" above). This provides a foundation of site-specific details before individual research.
+
+2. **Destination-level research**: Search for the overall diving character.
    - `"[destination] diving" site:scubaboard.com`
    - `"[destination] dive sites" types wall reef wreck`
    - This tells you what the area is known for before examining individual sites.
 
-2. **Research sites in batches of 5-10**: For each batch:
+3. **Research remaining sites in batches of 5-10**: For sites not covered by dive shop pages:
    - Search: `"[site name]" "[destination]" dive`
    - Look for: wall, drop-off, pinnacle, wreck, cave, cavern, muck, drift, channel, pass, current
    - Read forum threads and operator descriptions for site-specific details

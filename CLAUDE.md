@@ -87,12 +87,29 @@ Use the `/add-destinations` slash command for the full agentic workflow, or foll
 For site validation and destination research, use parallel agents:
 - Launch web search agents for groups of 5-10 sites at a time
 - Use Perplexity MCP tools (`perplexity_ask`, `perplexity_research`) for detailed site research
-- **Local dive operator websites**: Search for dive operators/shops in the destination area and scrape their dive site listings. These are often the best source of site-specific details (depths, marine life, conditions, site descriptions) that aren't available elsewhere. Search for `"[destination] dive operator"`, `"[destination] scuba diving"`, `"[destination] dive sites"` and look for operator pages with dive site listings.
+- **Dive shop website scraping** (highest priority source — see pattern below)
 - Primary source: `site:scubaboard.com "[site name]" "[destination]" dive`
 - Secondary: dive operator sites, DiveAdvisor, Wannadive, PADI Travel
 - Always validate the destination's overall diving character BEFORE individual sites
 - Cold-water destinations: minimum Intermediate difficulty
 - Remote liveaboard destinations: minimum Advanced difficulty
+
+### Dive Shop Website Scraping
+
+Local dive shops and operators are the single best source for dive site descriptions. They list their dive sites with accurate depths, conditions, marine life, and site-specific details that generic databases lack. They typically won't have GPS coordinates, but their descriptions are invaluable for updating site types, depths, difficulty, and markdown content.
+
+**Process:**
+1. **Search for dive shops**: WebSearch for `"[destination] dive shop"`, `"[destination] dive operator"`, `"[destination] scuba diving"`, `"[destination] dive center"`
+2. **Find their dive site pages**: Most dive shops have a "Dive Sites", "Our Sites", or "Where We Dive" page. Look for links like `/dive-sites`, `/sites`, `/diving`, `/our-dives` on their homepage.
+3. **Fetch and extract**: Use WebFetch to load each dive shop's dive site listing page. Extract site names, descriptions, depths, site types, difficulty levels, and marine life mentions.
+4. **Cross-reference with our data**: Match dive shop site names against existing sites in `data/osm_clean/{slug}.json`. Site names may differ slightly (e.g., "The Cathedral" vs "Cathedral"), so use fuzzy matching.
+5. **Update from findings**: Use the descriptions to correct site_type, depth, difficulty, and to rewrite generic markdown descriptions with site-specific content.
+
+**Tips:**
+- Search in the local language too (e.g., `"[destination] centre de plongée"` for French-speaking destinations)
+- Many shops list 20-40 dive sites with individual descriptions — one good shop page can validate half a destination
+- If a shop's site listing page links to individual site pages, fetch those too for more detail
+- Multiple shops in the same area often list the same sites — cross-referencing confirms accuracy
 
 ### Data + Description Update Flow
 
