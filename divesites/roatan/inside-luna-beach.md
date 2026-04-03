@@ -17,7 +17,7 @@ Inside Luna Beach is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Inside Luna Beach is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Inside Luna Beach is a shore-accessible shallow reef site tucked inside the West End's protected coastline, offering easy entry and calm conditions year-round. The reef here is a patchwork of coral heads separated by sand channels, and the shallow depth means sunlight floods the bottom, supporting vigorous coral growth and dense schools of reef fish. Sergeant majors swarm in the shallows while stoplight parrotfish crunch on the coral below. The site is a popular choice for night dives, when octopuses emerge to hunt and basket starfish unfurl their arms to feed in the current. With a maximum depth of around 10 meters, it suits beginners and is one of the most accessible dives in West End.
 
 ## Site Information
 

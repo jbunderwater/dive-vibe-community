@@ -17,7 +17,7 @@ Dennis's Dropoff is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Dennis's Dropoff is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Dennis's Dropoff is a wall dive in the Half Moon Bay corridor where the reef edge breaks sharply into a steep descent, creating one of the more pronounced drop-offs in this section. The wall plunges to 30 meters at the mooring point and continues well beyond, with the upper face decorated in sheet corals and star coral colonies that step down in terraces before the true vertical begins. Black groupers, among the largest predators on the reef, are occasionally seen here, along with great barracuda holding station in the water column. Wire coral spirals extend from the wall at depth, and the overall profile rewards divers who take time to inspect the wall face closely rather than simply dropping along it.
 
 ## Site Information
 

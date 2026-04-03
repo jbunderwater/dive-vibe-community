@@ -17,7 +17,7 @@ Triple D is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Triple D is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Triple D is a Roatan Marine Park mooring site along the West End wall, where the Mesoamerican Barrier Reef creates one of the Caribbean's most impressive vertical drop-offs. The wall face here is adorned with barrel sponges, sea fans, and gorgonians that extend outward to filter nutrients from the passing current. Eagle rays frequently cruise along the wall, with reef sharks and large groupers patrolling the deeper sections. The wall typically starts at 10-15 meters and drops well beyond recreational limits, giving divers the sensation of floating beside a living cliff. Visibility averages 20-40 meters, and the site is accessible to intermediate divers with good buoyancy skills.
 
 ## Site Information
 

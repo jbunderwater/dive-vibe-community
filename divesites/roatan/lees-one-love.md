@@ -17,7 +17,7 @@ Lee's One Love is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Lee's One Love is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Lee's One Love sits at the eastern edge of the Half Moon Bay corridor, where the wall system continues its march along Roatan's north shore toward Sandy Bay. The name reflects the laid-back spirit of West End's diving culture, and the site delivers a mellow wall dive with consistent marine life. Large brain corals anchor the reef crest, some exceeding a meter in diameter, and the wall face supports dense colonies of yellow pencil coral and deepwater sea plumes. Coney and graysby groupers are common along the upper wall, often changing color as divers approach, and the blue water beyond occasionally produces a passing eagle ray or Caribbean reef shark. Visibility here runs 20-35 meters on most days.
 
 ## Site Information
 

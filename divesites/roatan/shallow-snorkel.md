@@ -17,7 +17,7 @@ Shallow Snorkel is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Shallow Snorkel is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Shallow Snorkel is exactly what the name promises: a very shallow reef area in the West End designed for snorkeling and introductory diving in just a few meters of water. The reef here is alive with the colorful activity of damselfish, wrasses, and juvenile angelfish darting among the coral heads. Sea fans and soft corals provide cover for arrow crabs and banded coral shrimp, while the sandy gaps between formations are home to garden eels and the occasional peacock flounder. Shore entry makes access simple, and the calm, protected waters mean conditions are suitable even on days when the outer wall sites see current or surge.
 
 ## Site Information
 

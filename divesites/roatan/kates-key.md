@@ -17,7 +17,7 @@ Kate's Key is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Kate's Key is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Kate's Key occupies a section of the Half Moon Bay corridor near the boundary with West End, where the reef begins to develop the canyon-cut topography that characterizes this stretch of coastline. The wall profile includes several notches and indentations that create mini swim-throughs for adventurous divers. Yellowmouth groupers hold territory along the reef crest, and the sandy areas near the mooring support colonies of garden eels that retreat into their burrows as divers approach. Visibility is typically strong at 25-35 meters, and the moderate depth range makes this an accessible wall dive for certified open water divers looking to build wall diving experience.
 
 ## Site Information
 

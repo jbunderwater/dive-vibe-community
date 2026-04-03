@@ -17,7 +17,7 @@ Al's Garden is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Al's Garden is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Al's Garden is another of the "garden" sites near the West End-Half Moon Bay boundary, offering a shallow reef experience focused on healthy coral formations rather than dramatic wall diving. At 15 meters maximum depth, the site features a well-developed reef with mountainous star coral, large brain corals, and prolific gorgonian growth. Banded butterflyfish move in pairs through the formations, and tiny secretary blennies peer from holes in the coral no larger than a pencil. The site is excellent for macro photography, with flamingo tongues, Christmas tree worms, and social feather duster worms providing compelling subjects against the colorful reef backdrop.
 
 ## Site Information
 

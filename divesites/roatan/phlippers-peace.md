@@ -17,7 +17,7 @@ Phlipper's Peace is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Phlipper's Peace is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Phlipper's Peace is a Roatan Marine Park mooring site along the West End wall, offering the kind of tranquil wall diving that its name suggests. The reef crest transitions smoothly to a wall face lush with gorgonians and deepwater sea plumes, and the overall profile is gentle enough for intermediate divers to feel comfortable while still providing depth for more experienced visitors. Hogfish root through the sandy patches on the reef top, and a resident green turtle is frequently seen feeding near the mooring. The wall's orientation catches good light in the morning hours, making this a favorite among underwater photographers looking for illuminated sponge and coral portraits.
 
 ## Site Information
 

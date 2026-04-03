@@ -17,7 +17,7 @@ Zig Zag is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Zig Zag is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Zig Zag takes its name from the angular, switchback pattern of the wall face at this section of the Half Moon Bay corridor. Rather than a straight drop, the wall steps back and forth, creating corners and alcoves that reward exploration. Each turn reveals new growth patterns, from fields of whip corals extending into the current to dense clusters of tube sponges growing in sheltered nooks. Turtles use the zig-zag contours to navigate between feeding areas, and divers can work the angles to find green morays tucked into the turns. The varied orientation of the wall means that different sections catch light at different times, and afternoon dives can be particularly atmospheric as the sun angles shift.
 
 ## Site Information
 

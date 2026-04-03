@@ -17,7 +17,7 @@ Rocktopus Reef is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Rocktopus Reef is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Rocktopus Reef sits in the Half Moon Bay corridor where the reef structure is characterized by rocky formations, swim-throughs, and the canyon features typical of this section of coast. The playful name hints at the octopus sightings that are possible here, as the complex terrain of rocks and coral provides ideal denning habitat. The reef extends to around 18 meters, with hard corals building atop volcanic rock to create a layered structure full of hiding spots for lobsters, moray eels, and spotted scorpionfish. Schools of Creole wrasse and blue chromis hover above the reef in the water column, and the site's intermediate depth allows for long, unhurried dives.
 
 ## Site Information
 

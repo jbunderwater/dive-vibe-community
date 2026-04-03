@@ -17,7 +17,7 @@ Happily Ever After is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Happily Ever After is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Happily Ever After is a Roatan Marine Park mooring site in the Half Moon Bay corridor where the wall diving takes on a storybook quality in the right conditions. When visibility peaks above 30 meters and the morning light catches the wall, the sponges and corals glow with saturated color against the deep blue backdrop. The wall face supports a healthy population of longsnout seahorses clinging to gorgonian branches, though finding them requires a sharp eye and slow movement. Large schools of blue tangs sweep along the wall during feeding aggregations, and queen triggerfish forage along the reef crest. The combination of wall scenery and reliably good conditions makes this site a favorite repeat dive for guests at nearby resorts.
 
 ## Site Information
 

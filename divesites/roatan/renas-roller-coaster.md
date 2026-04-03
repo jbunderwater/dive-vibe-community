@@ -17,7 +17,7 @@ Rena's Roller Coaster is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Rena's Roller Coaster is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Rena's Roller Coaster earns its name from the undulating wall profile that takes divers on a ride of ascending and descending contours along the reef face. The wall here dips and rises as canyons and buttresses alternate, creating a rolling topography that is unlike the flat vertical walls found elsewhere along the coast. Swim-throughs connect some of the deeper canyons, and the varied depths mean that marine life is distributed across multiple levels. Barrel sponges anchor the wall at depth, while the canyon walls support encrusting organisms and small gorgonians. The roller-coaster profile keeps the dive engaging from descent to ascent, with new features appearing around every bend.
 
 ## Site Information
 

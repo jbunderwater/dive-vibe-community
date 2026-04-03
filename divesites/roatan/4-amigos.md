@@ -17,7 +17,7 @@ addedBy: osm_import
 
 ## Overview
 
-4 Amigos is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+4 Amigos is a Roatan Marine Park mooring site near the boundary between the West End wall and the Half Moon Bay corridor. The site takes its name from four prominent coral formations or sponge structures that serve as landmarks along the wall. Divers descend past the reef crest to find a wall face rich with azure vase sponges, yellow tube sponges, and deepwater sea fans. Schooling Bermuda chub pass through the water column above the wall, and the crevices shelter chain moray eels and banded coral shrimp. The site's position at the corridor junction means it occasionally benefits from converging currents that concentrate plankton and attract feeding fish.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Addie's Garden is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Addie's Garden is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Addie's Garden sits near the transition zone between West End and the Half Moon Bay corridor, where the shallow reef supports a garden-like expanse of soft corals, sea plumes, and gorgonians. The site is beginner-friendly at just 15 meters maximum depth, and the "garden" character is well-earned: dense fields of sea rods and sea whips sway in the gentle current, creating a meadow effect that distinguishes this site from the starker wall dives nearby. Juvenile French angelfish with their striking blue-and-yellow striped pattern are common here, along with smooth trunkfish and scrawled filefish browsing among the gorgonians. A relaxing dive that rewards patience and a slow pace.
 
 ## Site Information
 

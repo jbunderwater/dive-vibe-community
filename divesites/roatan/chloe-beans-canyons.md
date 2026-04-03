@@ -17,7 +17,7 @@ Chloe Bean's Canyons is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Chloe Bean's Canyons is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Chloe Bean's Canyons is a wall site in the Half Moon Bay corridor distinguished by its deep canyon formations that cut perpendicular to the wall face. These canyons funnel divers through narrow passages where the walls on either side rise above head height, covered in sponges and soft corals that thrive in the shaded conditions. Silversides often fill the canyons during summer months, and the narrower passages create dramatic lighting effects as sunlight penetrates from above. The canyons open onto the main wall face where the full panorama of the drop-off unfolds, with large pelagics occasionally passing in the blue water. It is one of the more topographically interesting dives in this section of the reef.
 
 ## Site Information
 

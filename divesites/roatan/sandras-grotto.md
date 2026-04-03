@@ -17,7 +17,7 @@ Sandra's Grotto is a cave dive site in Roatán, Caribbean.
 
 ## Overview
 
-Sandra's Grotto is a dive site in Roatán featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Sandra's Grotto is a cave and cavern site along the West End wall that offers overhead environments for divers with appropriate training. The grotto formations include swim-through passages where light filters in from multiple openings, creating atmospheric shafts of blue illumination. Glassy sweepers congregate in the darker recesses, their reflective bodies catching any available light, and copper sweepers pack into tighter spaces by the thousands. The walls inside the cavern are encrusted with tubastrea cup corals that open at night but can sometimes be seen feeding during the day in the shaded interior. Outside the grotto, the wall drops away with the typical West End profile of sponges and gorgonians.
 
 ## Site Information
 

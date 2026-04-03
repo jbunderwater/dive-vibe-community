@@ -17,7 +17,7 @@ Herby's Place is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Herby's Place is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Herby's Place is a shore-accessible reef site at the eastern boundary of the Half Moon Bay corridor, where the shallow reef provides easy diving and snorkeling in calm, protected waters. At 18 meters maximum depth, the site offers a mix of coral gardens and sandy patches that support a diverse community of reef inhabitants. Foureye butterflyfish and spotfin butterflyfish pick at the coral, while juvenile yellowtail damselfish, bright blue with orange spots, dart between the branches of staghorn coral. The shore entry and shallow profile make Herby's Place ideal for extended dives, night dives, and any time conditions on the deeper wall sites make the shallows a more appealing option.
 
 ## Site Information
 

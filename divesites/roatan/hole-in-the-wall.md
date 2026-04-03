@@ -17,7 +17,7 @@ Hole In The Wall is a cave dive site in Roatán, Caribbean.
 
 ## Overview
 
-Hole In The Wall is a dive site in Roatán featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Hole In The Wall is one of Roatan's most distinctive dive sites, centered on a sand chute tunnel that begins at 40 feet and exits through the wall face at 100 feet, creating an unforgettable passage from the inner reef to the open ocean. The surrounding reef has a "Swiss cheese" character, riddled with caverns, swim-throughs, and irregular formations that make every dive here feel like an exploration. Eagle rays and sea turtles are regular visitors, and during certain seasons, clouds of silversides fill the openings in the reef, creating shimmering curtains of silver. The site accommodates all levels with a graduated challenge: beginners can enjoy the shallow reef, while advanced divers can navigate the deeper passages and exit onto the wall.
 
 ## Site Information
 

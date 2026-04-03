@@ -17,7 +17,7 @@ Fish Den is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Fish Den is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Fish Den lives up to its name as a site where the reef structure concentrates an unusual density of fish life in a relatively compact area. Located in the Half Moon Bay corridor at a beginner-friendly 15 meters, the site features coral heads and rocky formations that create den-like recesses packed with squirrelfish, glass-eye snappers, and grunts during the day. Schools of smallmouth grunts stack up in the shadows of larger formations, their yellow stripes creating a distinctive pattern. The sandy areas between coral heads are productive territory for jawfish and razorfish, and the overall fish density makes this one of the more rewarding shallow dives in the corridor for those who enjoy cataloguing species.
 
 ## Site Information
 

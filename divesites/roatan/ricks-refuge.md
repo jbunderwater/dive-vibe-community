@@ -17,7 +17,7 @@ Rick's Refuge is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Rick's Refuge is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Rick's Refuge is a Roatan Marine Park mooring site in the Half Moon Bay corridor that offers a sense of seclusion along a well-developed section of wall. The reef top is broad and healthy, with stands of elkhorn coral fragments and dense gorgonian gardens providing cover for juvenile fish and invertebrates. The wall itself features several deep undercuts where nurse sharks rest during the day, their gray forms visible in the shadows to observant divers. Spotted eagle rays make regular passes along this stretch, and the wall's encrusting sponges in red, orange, and purple create a vivid backdrop. The moderate depth and typically calm conditions make it a reliable choice when other sites may be affected by current or surge.
 
 ## Site Information
 
