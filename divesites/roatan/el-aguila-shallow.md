@@ -2,8 +2,8 @@
 name: El Aguila Shallow
 lat: 16.3274381
 lng: -86.5782163
-difficulty: Intermediate
-maxDepth: 15
+difficulty: Beginner
+maxDepth: 4
 entryType: boat
 siteType: wreck
 ref: null
@@ -24,8 +24,8 @@ El Aguila Shallow is a dive site in Roatán featuring the wreck of the El Aguila
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 15 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 4 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

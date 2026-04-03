@@ -1044,7 +1044,7 @@
     "name": "Diane's Dream",
     "lat": 16.300355,
     "lon": -86.599879,
-    "depth": 21,
+    "depth": 24,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1052,7 +1052,8 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
@@ -1074,7 +1075,7 @@
     "name": "Phlipper's Peace",
     "lat": 16.3010805,
     "lon": -86.5995986,
-    "depth": 21,
+    "depth": 24,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1082,7 +1083,8 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
@@ -1121,7 +1123,7 @@
     "name": "Angus's Aquarium",
     "lat": 16.301813,
     "lon": -86.598984,
-    "depth": 21,
+    "depth": 24,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1129,7 +1131,8 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
@@ -1152,7 +1155,7 @@
     "name": "Ocean Groove",
     "lat": 16.3023443,
     "lon": -86.5989738,
-    "depth": 21,
+    "depth": 24,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1160,7 +1163,8 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
@@ -1255,7 +1259,8 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
@@ -1286,7 +1291,8 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
@@ -1388,7 +1394,7 @@
     "name": "Lara's Rainbows",
     "lat": 16.310548,
     "lon": -86.595506,
-    "depth": 21,
+    "depth": 27,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1396,7 +1402,8 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
@@ -1418,7 +1425,7 @@
     "name": "Glory To Ukraine",
     "lat": 16.311392,
     "lon": -86.594771,
-    "depth": 21,
+    "depth": 27,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1426,7 +1433,8 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
@@ -1449,7 +1457,7 @@
     "name": "The Wife",
     "lat": 16.31235,
     "lon": -86.5939277,
-    "depth": 21,
+    "depth": 27,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1457,14 +1465,15 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
     "name": "Gerri's Gem",
     "lat": 16.31278,
     "lon": -86.59357,
-    "depth": 21,
+    "depth": 27,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1472,7 +1481,8 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
@@ -2041,24 +2051,8 @@
     "name": "Dos Anguilas",
     "lat": 16.328039,
     "lon": -86.57841,
-    "depth": 30,
-    "site_type": "wreck",
-    "entry_type": "boat",
-    "difficulty": "Advanced",
-    "tags": {
-      "source": "rmp_gps_map",
-      "addedBy": "roatan_marine_park_map_2026",
-      "coordinate_source": "rmp_gps_map_2026",
-      "validated": true,
-      "validation_source": "coconuttreedivers.com, roatan-octopusdiveschool.com"
-    }
-  },
-  {
-    "name": "El Aguila Shallow",
-    "lat": 16.3274381,
-    "lon": -86.5782163,
-    "depth": 15,
-    "site_type": "wreck",
+    "depth": 21,
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -2066,7 +2060,23 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "coconuttreedivers.com, roatan-octopusdiveschool.com"
+      "validation_source": "scubaboard_research, roatan_marine_park_data"
+    }
+  },
+  {
+    "name": "El Aguila Shallow",
+    "lat": 16.3274381,
+    "lon": -86.5782163,
+    "depth": 4,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": true,
+      "validation_source": "scubaboard_research, roatan_dive_operators"
     }
   },
   {
@@ -2444,7 +2454,7 @@
     "name": "White Hole",
     "lat": 16.3376343,
     "lon": -86.5664089,
-    "depth": 27,
+    "depth": 36,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -2453,7 +2463,7 @@
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
       "validated": true,
-      "validation_source": "roatan_dive_operators"
+      "validation_source": "scubaboard_research, roatansplashinn.com"
     }
   },
   {
