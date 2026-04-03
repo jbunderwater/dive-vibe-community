@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Aguila
 
-Aguila is a historic wreck dive in Roatán, Caribbean.
+Aguila is a wreck dive site in Roatán, Caribbean.
 
 ## Overview
 
-Aguila is a dive site in Roatán featuring the wreck of the Aguila. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Aguila is a dive site in Roatán featuring a historic wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -32,11 +32,11 @@ Aguila is a dive site in Roatán featuring the wreck of the Aguila. Located in t
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Divers at this site can expect to encounter groupers, snappers, glassy sweepers, and barracuda that have colonized the wreck structure. Soft corals, sponges, and hydroids encrust the hull surfaces, while garden eels inhabit the surrounding sand flats. The artificial reef attracts both resident and transient species including moray eels and stingrays.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 30 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 24 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 

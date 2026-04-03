@@ -17,7 +17,7 @@ Herby's Place is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Herby's Place is a dive site in Roatán offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Herby's Place is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -32,11 +32,11 @@ Herby's Place is a dive site in Roatán offering excellent diving on healthy cor
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, parrotfish, angelfish (queen, French, grey), and blue tangs. Additional species commonly sighted include trumpetfish, yellowtail snapper, sergeant majors, damselfish, and cleaning stations with gobies and shrimp. The reef structure provides habitat for a diverse community of tropical fish and invertebrates.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers a gentle reef terrain suitable for relaxed exploration. Begin your dive along the reef top and navigate through coral formations and sandy patches. The most abundant marine life is typically found between 5-18 meters. Take your time to explore cleaning stations and look for camouflaged creatures in the sand.
 
 ## Entry and Exit
 

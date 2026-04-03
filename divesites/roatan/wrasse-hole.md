@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Wrasse Hole
 
-Wrasse Hole is a wall dive site in Roatán, Caribbean.
+Wrasse Hole is a drift dive site in Roatán, Caribbean.
 
 ## Overview
 
-Wrasse Hole is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Wrasse Hole is a dive site in Roatán offering exciting drift diving with currents carrying divers along the reef. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -32,11 +32,11 @@ Wrasse Hole is a dive site in Roatán featuring a dramatic vertical wall that dr
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Divers at this site can expect to encounter sea turtles, eagle rays, barracuda, and schools of jacks riding the current. The drift brings nutrient-rich water attracting reef sharks, large groupers, and schooling fish. Look for moray eels and lobsters tucked into the reef as you glide past.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-21 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Enter the water up-current and allow the flow to carry you along the reef. Stay close to the wall or reef structure and use it for reference. Your dive guide will manage the drift direction and boat pickup location. Deploy a surface marker buoy (SMB) during your safety stop.
 
 ## Entry and Exit
 
@@ -44,8 +44,8 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
+- Carry a surface marker buoy (SMB) and know how to deploy it
+- Stay with your group and follow your guide's signals about the current
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
@@ -57,7 +57,7 @@ Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+Drift dives offer unique opportunities to photograph marine life in motion. Wide-angle shots of schooling fish and passing pelagics work well. Shoot into the current to capture marine life facing you.
 
 ## Additional Resources
 

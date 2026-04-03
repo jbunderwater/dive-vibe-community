@@ -32,11 +32,11 @@ Sandra's Grotto is a dive site in Roatán featuring underwater cave and cavern f
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+Divers at this site can expect to encounter glassy sweepers, lobsters, crabs, and small fish sheltering in the overhangs. The cave environment attracts species adapted to low-light conditions including soldierfish, squirrelfish, and spotted drum. Outside the cave entrance, look for groupers, moray eels, and coral formations framing the opening.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Approach the cave entrance carefully and assess conditions before entering. Maintain excellent buoyancy to avoid disturbing sediment. Follow the cave walls and always keep the entrance in sight unless properly trained for overhead environments. Exit the same way you entered.
 
 ## Entry and Exit
 

@@ -17,7 +17,7 @@ Boba's Bommie is a pinnacle dive site in Roatán, Caribbean.
 
 ## Overview
 
-Boba's Bommie is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Boba's Bommie is a dive site in Roatán featuring an underwater pinnacle rising from the depths. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -32,11 +32,11 @@ Boba's Bommie is a dive site in Roatán offering rewarding diving on healthy cor
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Divers at this site can expect to encounter schooling fish concentrated around the pinnacle, including jacks, snapper, and creole wrasse. The structure attracts larger visitors including eagle rays, barracuda, and reef sharks. Barrel sponges, sea fans, and soft corals adorn the pinnacle walls.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 21 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the pinnacle and explore around its circumference at varying depths. The most abundant marine life congregates on the current-facing side. Maintain good buoyancy and watch for currents that may increase around the structure.
 
 ## Entry and Exit
 

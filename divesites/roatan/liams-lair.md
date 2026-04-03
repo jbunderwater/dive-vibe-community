@@ -32,7 +32,7 @@ Liams Lair is a dive site in Roatán featuring a dramatic vertical wall that dro
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), spotted eagle rays, southern stingrays, reef sharks, barracuda, and large schools of creole wrasse. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters, and barrel sponges. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 

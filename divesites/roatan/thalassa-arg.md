@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Thalassa Arg
 
-Thalassa Arg is a historic wreck dive in Roatán, Caribbean.
+Thalassa Arg is a wreck dive site in Roatán, Caribbean.
 
 ## Overview
 
-Thalassa Arg is a dive site in Roatán featuring the wreck of the Thalassa Arg. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Thalassa Arg is a dive site in Roatán featuring a historic wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Thalassa Arg is a dive site in Roatán featuring the wreck of the Thalassa Arg. 
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Divers at this site can expect to encounter groupers, snappers, glassy sweepers, and barracuda that have colonized the wreck structure. Soft corals, sponges, and hydroids encrust the hull surfaces, while garden eels inhabit the surrounding sand flats. The artificial reef attracts both resident and transient species including moray eels and stingrays.
 
 ## Dive Profile
 

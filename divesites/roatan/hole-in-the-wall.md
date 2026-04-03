@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Hole In The Wall
 
-Hole In The Wall is a wall dive site in Roatán, Caribbean.
+Hole In The Wall is a cave dive site in Roatán, Caribbean.
 
 ## Overview
 
-Hole In The Wall is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Hole In The Wall is a dive site in Roatán featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -32,11 +32,11 @@ Hole In The Wall is a dive site in Roatán featuring a dramatic vertical wall th
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Divers at this site can expect to encounter glassy sweepers, lobsters, crabs, and small fish sheltering in the overhangs. The cave environment attracts species adapted to low-light conditions including soldierfish, squirrelfish, and spotted drum. Outside the cave entrance, look for groupers, moray eels, and coral formations framing the opening.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-21 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Approach the cave entrance carefully and assess conditions before entering. Maintain excellent buoyancy to avoid disturbing sediment. Follow the cave walls and always keep the entrance in sight unless properly trained for overhead environments. Exit the same way you entered.
 
 ## Entry and Exit
 
@@ -57,7 +57,7 @@ Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+The interplay of light and shadow at cave entrances creates dramatic wide-angle shots. Use a torch to illuminate interior details and bring out colors. Silhouette shots of divers in the entrance are particularly striking.
 
 ## Additional Resources
 

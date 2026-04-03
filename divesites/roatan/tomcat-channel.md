@@ -17,7 +17,7 @@ Tomcat Channel is a drift dive site in Roatán, Caribbean.
 
 ## Overview
 
-Tomcat Channel is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Tomcat Channel is a dive site in Roatán offering exciting drift diving with currents carrying divers along the reef. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -32,11 +32,11 @@ Tomcat Channel is a dive site in Roatán offering rewarding diving on healthy co
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Divers at this site can expect to encounter sea turtles, eagle rays, barracuda, and schools of jacks riding the current. The drift brings nutrient-rich water attracting reef sharks, large groupers, and schooling fish. Look for moray eels and lobsters tucked into the reef as you glide past.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 21 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter the water up-current and allow the flow to carry you along the reef. Stay close to the wall or reef structure and use it for reference. Your dive guide will manage the drift direction and boat pickup location. Deploy a surface marker buoy (SMB) during your safety stop.
 
 ## Entry and Exit
 

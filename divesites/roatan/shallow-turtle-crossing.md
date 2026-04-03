@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Shallow Turtle Crossing
 
-Shallow Turtle Crossing is a wall dive site in Roatán, Caribbean.
+Shallow Turtle Crossing is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Shallow Turtle Crossing is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Shallow Turtle Crossing is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -32,11 +32,11 @@ Shallow Turtle Crossing is a dive site in Roatán featuring a dramatic vertical 
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, parrotfish, angelfish (queen, French, grey), and blue tangs. Additional species commonly sighted include trumpetfish, yellowtail snapper, sergeant majors, damselfish, and cleaning stations with gobies and shrimp. The reef structure provides habitat for a diverse community of tropical fish and invertebrates.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-12 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+The site offers a gentle reef terrain suitable for relaxed exploration. Begin your dive along the reef top and navigate through coral formations and sandy patches. The most abundant marine life is typically found between 5-18 meters. Take your time to explore cleaning stations and look for camouflaged creatures in the sand.
 
 ## Entry and Exit
 
@@ -45,8 +45,8 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 ## Tips and Recommendations
 
 - Excellent site for newer divers — calm conditions and easy navigation
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
+- Explore sandy patches between coral heads for camouflaged creatures
+- Look for cleaning stations where small fish and shrimp service larger visitors
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
@@ -57,7 +57,7 @@ Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+The colorful reef structures offer excellent macro photography opportunities. Look for small critters hiding among coral heads and anemones. Wide-angle shots work well to capture the vibrant reef landscape and schooling fish.
 
 ## Additional Resources
 

@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Sea Angel I
 
-Sea Angel I is a historic wreck dive in Roatán, Caribbean.
+Sea Angel I is a wreck dive site in Roatán, Caribbean.
 
 ## Overview
 
-Sea Angel I is a dive site in Roatán featuring the wreck of the Sea Angel I. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Sea Angel I is a dive site in Roatán featuring a historic wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Sea Angel I is a dive site in Roatán featuring the wreck of the Sea Angel I. Lo
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Divers at this site can expect to encounter groupers, snappers, glassy sweepers, and barracuda that have colonized the wreck structure. Soft corals, sponges, and hydroids encrust the hull surfaces, while garden eels inhabit the surrounding sand flats. The artificial reef attracts both resident and transient species including moray eels and stingrays.
 
 ## Dive Profile
 

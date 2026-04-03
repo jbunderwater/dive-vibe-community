@@ -13,11 +13,11 @@ addedBy: osm_import
 
 ## Pillar Coral
 
-Pillar Coral is a wall dive site in Roatán, Caribbean.
+Pillar Coral is a pinnacle dive site in Roatán, Caribbean.
 
 ## Overview
 
-Pillar Coral is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Pillar Coral is a dive site in Roatán featuring an underwater pinnacle rising from the depths. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -32,11 +32,11 @@ Pillar Coral is a dive site in Roatán featuring a dramatic vertical wall that d
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Divers at this site can expect to encounter schooling fish concentrated around the pinnacle, including jacks, snapper, and creole wrasse. The structure attracts larger visitors including eagle rays, barracuda, and reef sharks. Barrel sponges, sea fans, and soft corals adorn the pinnacle walls.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-21 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Descend to the pinnacle and explore around its circumference at varying depths. The most abundant marine life congregates on the current-facing side. Maintain good buoyancy and watch for currents that may increase around the structure.
 
 ## Entry and Exit
 
@@ -44,8 +44,8 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
+- Circle the pinnacle at different depths to see different marine life communities
+- Watch for currents that can be stronger around exposed structures
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
@@ -57,7 +57,7 @@ Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+The pinnacle offers excellent wide-angle opportunities with schooling fish and dramatic structure. Shoot upward toward the surface for dramatic silhouettes. Macro subjects cluster in crevices on the lee side.
 
 ## Additional Resources
 
