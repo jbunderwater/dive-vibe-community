@@ -1,7 +1,7 @@
 ---
 name: Butcher Bank
-lat: 16.265
-lng: -86.51
+lat: 16.2786067
+lng: -86.6042216
 difficulty: Intermediate
 maxDepth: 37
 entryType: boat
@@ -23,7 +23,7 @@ Butcher Bank is an offshore reef structure located southeast of Roatán, rising 
 
 - **Location**: Offshore southeast of Roatán, Bay Islands, Honduras (open water crossing required)
 - **Entry Type**: Boat dive
-- **Site Type**: Offshore reef bank / seamount
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 37 meters
 - **Typical Visibility**: 25–35 meters (80–115 feet)

@@ -23,7 +23,7 @@ Blue Channel is a tidal cut through the northern reef system of Roatán that cre
 
 - **Location**: North coast of Roatán, Bay Islands, Honduras
 - **Entry Type**: Boat dive
-- **Site Type**: Drift dive through tidal channel
+- **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 14 meters
 - **Typical Visibility**: 20–25 meters (65–80 feet)

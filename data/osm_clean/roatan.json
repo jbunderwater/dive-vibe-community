@@ -1,17 +1,993 @@
 [
   {
-    "name": "Mary's Place",
-    "lat": 16.285,
-    "lon": -86.555,
-    "depth": 36,
+    "name": "Dustin's Dropoff",
+    "lat": 16.265455,
+    "lon": -86.605266,
+    "depth": 21,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Advanced",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Fiascos In Paradise",
+    "lat": 16.28705,
+    "lon": -86.605229,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Marie's Kitchen",
+    "lat": 16.266286,
+    "lon": -86.604867,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Fun With Dick And Jane",
+    "lat": 16.282089,
+    "lon": -86.604845,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Manic Munday",
+    "lat": 16.284714,
+    "lon": -86.604703,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Sondra's Surprise",
+    "lat": 16.283021,
+    "lon": -86.604696,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Maddera Reef",
+    "lat": 16.28978,
+    "lon": -86.60454,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Tabyannas",
+    "lat": 16.2841958,
+    "lon": -86.6045397,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Jumpin Jack",
+    "lat": 16.2813119,
+    "lon": -86.6044316,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Singledivers.com 2018",
+    "lat": 16.267071,
+    "lon": -86.604404,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Alice's Wonderland",
+    "lat": 16.288851,
+    "lon": -86.604384,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Jack's Place",
+    "lat": 16.2803388,
+    "lon": -86.6043584,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "3 Brothers",
+    "lat": 16.2908213,
+    "lon": -86.6042585,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Butcher Bank",
+    "lat": 16.2786067,
+    "lon": -86.6042216,
+    "depth": 37,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "scubaboard_research, roatan-diving.com, dive_operator_sites"
+      "validation_source": "scubaboard_research, padi.com, dive_operator_sites",
+      "coordinate_source": "rmp_gps_map_2026"
+    }
+  },
+  {
+    "name": "Pop N Bubbles",
+    "lat": 16.276545,
+    "lon": -86.604156,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Michelle Sharpe's Smile",
+    "lat": 16.26763,
+    "lon": -86.60408,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Puncher's Paradise",
+    "lat": 16.2856462,
+    "lon": -86.6038198,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Deep Turtle Crossing",
+    "lat": 16.2935103,
+    "lon": -86.6037298,
+    "depth": 35,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Patrick's Stash",
+    "lat": 16.294377,
+    "lon": -86.603728,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Deep Seaquest",
+    "lat": 16.28713,
+    "lon": -86.60368,
+    "depth": 35,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Marilyn's Mystery",
+    "lat": 16.26812,
+    "lon": -86.603663,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Bluemoonshine",
+    "lat": 16.2921576,
+    "lon": -86.6036262,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Eddie's Trifecta",
+    "lat": 16.282547,
+    "lon": -86.603595,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Quarantine Buddies",
+    "lat": 16.287817,
+    "lon": -86.603538,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Zoe's Midnight Garden",
+    "lat": 16.281132,
+    "lon": -86.603514,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Chloe's Coral",
+    "lat": 16.2770903,
+    "lon": -86.6034941,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Pubudu's Playground",
+    "lat": 16.284745,
+    "lon": -86.603307,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "John Gow's Gallows",
+    "lat": 16.279942,
+    "lon": -86.603292,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Kab's Zen Garden",
+    "lat": 16.283421,
+    "lon": -86.603241,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Buca Quay",
+    "lat": 16.2690328,
+    "lon": -86.6031793,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Bill Perkin's Peace",
+    "lat": 16.2788233,
+    "lon": -86.6029453,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Tommy's Pit Stop",
+    "lat": 16.26964,
+    "lon": -86.602941,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Singledivers 2022",
+    "lat": 16.277882,
+    "lon": -86.602894,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Black Rock",
+    "lat": 16.27033,
+    "lon": -86.602877,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Corrale's Coral Reef",
+    "lat": 16.27663,
+    "lon": -86.60277,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Queen B",
+    "lat": 16.28714,
+    "lon": -86.60273,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Dorte's Escape",
+    "lat": 16.288055,
+    "lon": -86.602711,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Patti's Paradise",
+    "lat": 16.2899598,
+    "lon": -86.602682,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Kaylee's Daydream",
+    "lat": 16.274678,
+    "lon": -86.602665,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Rothschild's Mistresses",
+    "lat": 16.2888996,
+    "lon": -86.6026392,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Temptation",
+    "lat": 16.27396,
+    "lon": -86.602604,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Kristin's Krystal Clear",
+    "lat": 16.291771,
+    "lon": -86.602598,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Shallow Seaquest",
+    "lat": 16.290749,
+    "lon": -86.602593,
+    "depth": 12,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Shallow Turtle Crossing",
+    "lat": 16.2928033,
+    "lon": -86.6025868,
+    "depth": 12,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Mickeys",
+    "lat": 16.2972915,
+    "lon": -86.6025205,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Dona Cleta",
+    "lat": 16.270955,
+    "lon": -86.602393,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Dada's Spot",
+    "lat": 16.272038,
+    "lon": -86.602302,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Joe Wagners Dew Drop",
+    "lat": 16.273154,
+    "lon": -86.6023,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Dara's Dream",
+    "lat": 16.293418,
+    "lon": -86.602299,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Boba's Bommie",
+    "lat": 16.273565,
+    "lon": -86.602252,
+    "depth": 21,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Sno 2",
+    "lat": 16.270411,
+    "lon": -86.602243,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Weebo's Way",
+    "lat": 16.270217,
+    "lon": -86.60221,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Mandys Eel Garden",
+    "lat": 16.272472,
+    "lon": -86.602129,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Willies Wonder",
+    "lat": 16.27142,
+    "lon": -86.602122,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "The Chief's Quarters",
+    "lat": 16.2943301,
+    "lon": -86.6021079,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Sno 1",
+    "lat": 16.270862,
+    "lon": -86.602011,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Boris, Moose & Squirrel",
+    "lat": 16.298475,
+    "lon": -86.601906,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "The Bucks Stop Here",
+    "lat": 16.29655,
+    "lon": -86.6019,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Janie's Garden",
+    "lat": 16.26484,
+    "lon": -86.6017,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Blatt's Bank",
+    "lat": 16.299267,
+    "lon": -86.601404,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Todd's Last Dance",
+    "lat": 16.26623,
+    "lon": -86.60138,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Bikini Bottom",
+    "lat": 16.2978338,
+    "lon": -86.6009128,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "The Bight",
+    "lat": 16.2983741,
+    "lon": -86.6005225,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Haller Deep",
+    "lat": 16.30065,
+    "lon": -86.60051,
+    "depth": 35,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Luna Snorkel",
+    "lat": 16.2930553,
+    "lon": -86.6004535,
+    "depth": 12,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Chris Fisher",
+    "lat": 16.299779,
+    "lon": -86.600198,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
     }
   },
   {
@@ -30,6 +1006,532 @@
     }
   },
   {
+    "name": "Salt Life Point",
+    "lat": 16.266093,
+    "lon": -86.599961,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Diane's Dream",
+    "lat": 16.300355,
+    "lon": -86.599879,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Rino Phores",
+    "lat": 16.26659,
+    "lon": -86.5998,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Phlipper's Peace",
+    "lat": 16.3010805,
+    "lon": -86.5995986,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Inside Luna Beach",
+    "lat": 16.29568,
+    "lon": -86.599589,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Sandra's Grotto",
+    "lat": 16.267303,
+    "lon": -86.599036,
+    "depth": 25,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Angus's Aquarium",
+    "lat": 16.301813,
+    "lon": -86.598984,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Mb's Wall",
+    "lat": 16.303215,
+    "lon": -86.598975,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Ocean Groove",
+    "lat": 16.3023443,
+    "lon": -86.5989738,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Inside Blue 2",
+    "lat": 16.298462,
+    "lon": -86.598512,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Inside Blue 1",
+    "lat": 16.298331,
+    "lon": -86.59847,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Shallow El Aquario",
+    "lat": 16.302203,
+    "lon": -86.598229,
+    "depth": 12,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Shallow Snorkel",
+    "lat": 16.302462,
+    "lon": -86.598182,
+    "depth": 12,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Inside Blue 3",
+    "lat": 16.298556,
+    "lon": -86.598141,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Saaya's",
+    "lat": 16.302754,
+    "lon": -86.598121,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Inside Blue 4",
+    "lat": 16.29864,
+    "lon": -86.597759,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Mr Bill's Happy Place",
+    "lat": 16.2982,
+    "lon": -86.59772,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Lighthouse Reef",
+    "lat": 16.3047352,
+    "lon": -86.5976975,
+    "depth": 39,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations",
+      "validated": true,
+      "validation_source": "roatansplashinn.com, dive_operator_sites, lesfruitsdemer.org",
+      "coordinate_source": "rmp_gps_map_2026"
+    }
+  },
+  {
+    "name": "Dixies",
+    "lat": 16.306459,
+    "lon": -86.59742,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Moonlight",
+    "lat": 16.3054615,
+    "lon": -86.5974145,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Triple D",
+    "lat": 16.269071,
+    "lon": -86.596963,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Vern's Dropoff",
+    "lat": 16.30919,
+    "lon": -86.596117,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Cocolobo",
+    "lat": 16.309935,
+    "lon": -86.595757,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Lara's Rainbows",
+    "lat": 16.310548,
+    "lon": -86.595506,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "4 Amigos",
+    "lat": 16.26995,
+    "lon": -86.59542,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Glory To Ukraine",
+    "lat": 16.311392,
+    "lon": -86.594771,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Addie's Garden",
+    "lat": 16.27105,
+    "lon": -86.59428,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "The Wife",
+    "lat": 16.31235,
+    "lon": -86.5939277,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Gerri's Gem",
+    "lat": 16.31278,
+    "lon": -86.59357,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Al's Garden",
+    "lat": 16.272009,
+    "lon": -86.593227,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Hole In The Wall",
+    "lat": 16.3138371,
+    "lon": -86.5917933,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Kate's Key",
+    "lat": 16.273226,
+    "lon": -86.591743,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Rocktopus Reef",
+    "lat": 16.314692,
+    "lon": -86.591051,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Rena's Roller Coaster",
+    "lat": 16.31523,
+    "lon": -86.59076,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Chloe Bean's Canyons",
+    "lat": 16.315824,
+    "lon": -86.590367,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
     "name": "Blue Channel",
     "lat": 16.31,
     "lon": -86.59,
@@ -45,18 +1547,123 @@
     }
   },
   {
-    "name": "El Aguila Wreck",
-    "lat": 16.27,
-    "lon": -86.53,
-    "depth": 33,
-    "site_type": "wreck",
+    "name": "Zig Zag",
+    "lat": 16.3163495,
+    "lon": -86.5898168,
+    "depth": 21,
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Advanced",
+    "difficulty": "Intermediate",
     "tags": {
-      "source": "curated",
-      "addedBy": "fill_new_destinations",
-      "validated": true,
-      "validation_source": "scubaboard_research, anthonyskey.com, dreamwrecks.com, padi.com"
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Happy Jack's Wall",
+    "lat": 16.316874,
+    "lon": -86.589624,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Fish Den",
+    "lat": 16.3173329,
+    "lon": -86.5887143,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Aaron's Backyard",
+    "lat": 16.27589,
+    "lon": -86.58821,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Happily Ever After",
+    "lat": 16.3183916,
+    "lon": -86.5877642,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Dennis's Dropoff",
+    "lat": 16.3197479,
+    "lon": -86.5865508,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Rick's Refuge",
+    "lat": 16.32043,
+    "lon": -86.5863,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Lee's One Love",
+    "lat": 16.320943,
+    "lon": -86.585727,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
     }
   },
   {
@@ -76,63 +1683,229 @@
     "depth_max": 15
   },
   {
-    "name": "Bear's Den",
-    "lat": 16.29,
-    "lon": -86.545,
-    "depth": 30,
+    "name": "Robin's Nest",
+    "lat": 16.321436,
+    "lon": -86.58484,
+    "depth": 21,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "source": "curated",
-      "addedBy": "fill_new_destinations",
-      "validated": true,
-      "validation_source": "padi.com, dive-the-world.com, dive_operator_sites"
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
     }
   },
   {
-    "name": "Spooky Channel",
-    "lat": 16.3,
-    "lon": -86.57,
-    "depth": 29,
+    "name": "Cave West",
+    "lat": 16.27891,
+    "lon": -86.5845,
+    "depth": 25,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
-      "source": "curated",
-      "addedBy": "fill_new_destinations",
-      "validated": true,
-      "validation_source": "scubaboard_research, roatan-diving.com, padi.com, sundiversroatan"
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
     }
   },
   {
-    "name": "Texas",
-    "lat": 16.275,
-    "lon": -86.52,
-    "depth": 18,
-    "site_type": "reef",
+    "name": "Dorkfish",
+    "lat": 16.3222911,
+    "lon": -86.584285,
+    "depth": 21,
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
-      "source": "curated",
-      "addedBy": "fill_new_destinations",
-      "validated": true,
-      "validation_source": "roatan-diving.com, dive_operator_sites, divescover"
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
     }
   },
   {
-    "name": "Calvin's Crack",
-    "lat": 16.295,
-    "lon": -86.56,
-    "depth": 35,
-    "site_type": "wall",
+    "name": "Boss Cave",
+    "lat": 16.27958,
+    "lon": -86.58428,
+    "depth": 25,
+    "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Advanced",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "The Cave",
+    "lat": 16.2798279,
+    "lon": -86.5836806,
+    "depth": 25,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Hole In The Wallet",
+    "lat": 16.3228377,
+    "lon": -86.5836494,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Cave East",
+    "lat": 16.28034,
+    "lon": -86.58299,
+    "depth": 25,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Diane's Delight",
+    "lat": 16.324678,
+    "lon": -86.582941,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Overheat Reef",
+    "lat": 16.3233846,
+    "lon": -86.5829402,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "scubaboard_research, dive_operator_sites, honduras.greatestdivesites.com"
+      "validation_source": "roatansplashinn.com, dive_operator_sites, ikelite.com",
+      "coordinate_source": "rmp_gps_map_2026"
+    }
+  },
+  {
+    "name": "Scuba Marmaids",
+    "lat": 16.324043,
+    "lon": -86.582455,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Schaeftown",
+    "lat": 16.3252103,
+    "lon": -86.5822946,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Forever Yours",
+    "lat": 16.3244785,
+    "lon": -86.5820856,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Pirata's Dream",
+    "lat": 16.32568,
+    "lon": -86.58165,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Pillar Coral",
+    "lat": 16.3262758,
+    "lon": -86.5808595,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Drury's Dilema",
+    "lat": 16.3271432,
+    "lon": -86.5803201,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
     }
   },
   {
@@ -151,33 +1924,1027 @@
     }
   },
   {
-    "name": "Overheat Reef",
-    "lat": 16.308,
-    "lon": -86.575,
-    "depth": 15,
-    "site_type": "reef",
+    "name": "Kristi's Cove",
+    "lat": 16.282985,
+    "lon": -86.579822,
+    "depth": 21,
+    "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Billie's Happy Place",
+    "lat": 16.326832,
+    "lon": -86.579525,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "El Aguila Wreck",
+    "lat": 16.3275054,
+    "lon": -86.5790357,
+    "depth": 33,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "roatansplashinn.com, dive_operator_sites, ikelite.com"
+      "validation_source": "scubaboard_research, anthonyskey.com, dreamwrecks.com, padi.com",
+      "coordinate_source": "rmp_gps_map_2026"
     }
   },
   {
-    "name": "Butcher Bank",
-    "lat": 16.265,
-    "lon": -86.51,
-    "depth": 37,
-    "site_type": "reef",
+    "name": "Aguila",
+    "lat": 16.327251,
+    "lon": -86.578624,
+    "depth": 30,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Dos Anguilas",
+    "lat": 16.328039,
+    "lon": -86.57841,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "El Aguila Shallow",
+    "lat": 16.3274381,
+    "lon": -86.5782163,
+    "depth": 12,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Summer's Bliss",
+    "lat": 16.328806,
+    "lon": -86.577522,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Rip's Reef",
+    "lat": 16.327696,
+    "lon": -86.577511,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Cisnero's Point",
+    "lat": 16.28541,
+    "lon": -86.57747,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Barry's Corner",
+    "lat": 16.329188,
+    "lon": -86.577168,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Tommy's Laugh",
+    "lat": 16.3280193,
+    "lon": -86.5767606,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "William's Playground",
+    "lat": 16.32862,
+    "lon": -86.576511,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Conran Cave",
+    "lat": 16.33205,
+    "lon": -86.57424,
+    "depth": 25,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Blue House",
+    "lat": 16.2882036,
+    "lon": -86.5739041,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Training Site",
+    "lat": 16.288481,
+    "lon": -86.573463,
+    "depth": 12,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Candelas Zen",
+    "lat": 16.331776,
+    "lon": -86.572707,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Nelson's Nest",
+    "lat": 16.332498,
+    "lon": -86.572263,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Mack's Wall",
+    "lat": 16.333345,
+    "lon": -86.5720594,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Beach Bar",
+    "lat": 16.289955,
+    "lon": -86.571766,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Zack's Patch",
+    "lat": 16.3340936,
+    "lon": -86.5716638,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Green Pearl",
+    "lat": 16.334912,
+    "lon": -86.571379,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Hookers Bottom",
+    "lat": 16.33592,
+    "lon": -86.57088,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Baby Stan Steinberg",
+    "lat": 16.335639,
+    "lon": -86.570261,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Papa Rons",
+    "lat": 16.291173,
+    "lon": -86.569675,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Bear's Den",
+    "lat": 16.3368125,
+    "lon": -86.5688637,
+    "depth": 30,
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "scubaboard_research, padi.com, dive_operator_sites"
+      "validation_source": "padi.com, dive-the-world.com, dive_operator_sites",
+      "coordinate_source": "rmp_gps_map_2026"
+    }
+  },
+  {
+    "name": "Angie's",
+    "lat": 16.2927,
+    "lon": -86.56806,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Cj's Place",
+    "lat": 16.337387,
+    "lon": -86.568013,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Deep Whitehole",
+    "lat": 16.337691,
+    "lon": -86.567208,
+    "depth": 35,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Dragons Maze",
+    "lat": 16.337145,
+    "lon": -86.567038,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "The Church",
+    "lat": 16.2937998,
+    "lon": -86.5667654,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "White Hole",
+    "lat": 16.3376343,
+    "lon": -86.5664089,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Dorothy's Dance",
+    "lat": 16.33832,
+    "lon": -86.565825,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Dylan's Spot",
+    "lat": 16.3391,
+    "lon": -86.56502,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Spooky Channel",
+    "lat": 16.3393987,
+    "lon": -86.5644513,
+    "depth": 29,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations",
+      "validated": true,
+      "validation_source": "scubaboard_research, roatan-diving.com, padi.com, sundiversroatan",
+      "coordinate_source": "rmp_gps_map_2026"
+    }
+  },
+  {
+    "name": "Uncle Jim's Pool",
+    "lat": 16.33999,
+    "lon": -86.56384,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Zambito's Happy Hour",
+    "lat": 16.340617,
+    "lon": -86.562823,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Richard's Realm",
+    "lat": 16.33784,
+    "lon": -86.56272,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Wrasse Hole",
+    "lat": 16.3405283,
+    "lon": -86.5618628,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Barry's Reef",
+    "lat": 16.3417867,
+    "lon": -86.5613468,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Deja-Vu",
+    "lat": 16.3421769,
+    "lon": -86.5602409,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Mr Charlie's Reef",
+    "lat": 16.343164,
+    "lon": -86.560005,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Calvin's Crack",
+    "lat": 16.295,
+    "lon": -86.56,
+    "depth": 35,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations",
+      "validated": true,
+      "validation_source": "scubaboard_research, dive_operator_sites, honduras.greatestdivesites.com"
+    }
+  },
+  {
+    "name": "Markita's Reef",
+    "lat": 16.3436096,
+    "lon": -86.5588673,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Tranquility Base",
+    "lat": 16.300253,
+    "lon": -86.558865,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Consuelo's",
+    "lat": 16.344457,
+    "lon": -86.558613,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Free Gordon Tour",
+    "lat": 16.34439,
+    "lon": -86.55805,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "International Diver",
+    "lat": 16.345032,
+    "lon": -86.557044,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Pisces Rising",
+    "lat": 16.345306,
+    "lon": -86.556478,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Lynns Arena",
+    "lat": 16.3457544,
+    "lon": -86.5557879,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Mcfield's Field",
+    "lat": 16.30389,
+    "lon": -86.55544,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Ellis Family",
+    "lat": 16.34627,
+    "lon": -86.555179,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Mary's Place",
+    "lat": 16.285,
+    "lon": -86.555,
+    "depth": 36,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations",
+      "validated": true,
+      "validation_source": "scubaboard_research, roatan-diving.com, dive_operator_sites"
+    }
+  },
+  {
+    "name": "Rockie's Reef",
+    "lat": 16.3469071,
+    "lon": -86.5541533,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Tortuga Terrace",
+    "lat": 16.34749,
+    "lon": -86.55331,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Milt's Heavenly Dive",
+    "lat": 16.348176,
+    "lon": -86.55257,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Mora Channel",
+    "lat": 16.3490149,
+    "lon": -86.5514192,
+    "depth": 21,
+    "site_type": "drift",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Shang Ying",
+    "lat": 16.346531,
+    "lon": -86.550669,
+    "depth": 30,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Eshanthika's Beloveds",
+    "lat": 16.349718,
+    "lon": -86.550345,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Divey Mcdive Face",
+    "lat": 16.34745,
+    "lon": -86.54952,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Havey's Hideaway",
+    "lat": 16.3499356,
+    "lon": -86.5494252,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Captain Ron's Hideaway",
+    "lat": 16.350207,
+    "lon": -86.548388,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Yaeger Bomi",
+    "lat": 16.351057,
+    "lon": -86.546908,
+    "depth": 21,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Christopher's Coral",
+    "lat": 16.350958,
+    "lon": -86.545476,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Odyssey Stern",
+    "lat": 16.351786,
+    "lon": -86.544552,
+    "depth": 30,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Odyssey Wreck",
+    "lat": 16.352272,
+    "lon": -86.544293,
+    "depth": 33,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations",
+      "validated": true,
+      "validation_source": "scubaboard_research, anthonyskey.com, dreamwrecks.com, roatantourismbureau.com",
+      "coordinate_source": "rmp_gps_map_2026"
+    }
+  },
+  {
+    "name": "Lyonfish Reef",
+    "lat": 16.351053,
+    "lon": -86.544242,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Tomcat Channel",
+    "lat": 16.3518139,
+    "lon": -86.5429356,
+    "depth": 21,
+    "site_type": "drift",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Nellie Bean",
+    "lat": 16.353612,
+    "lon": -86.540277,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
     }
   },
   {
@@ -196,33 +2963,48 @@
     }
   },
   {
-    "name": "Lighthouse Reef",
-    "lat": 16.325,
-    "lon": -86.595,
-    "depth": 39,
-    "site_type": "reef",
-    "entry_type": "shore",
-    "difficulty": "Beginner",
+    "name": "Cindy's Slipper",
+    "lat": 16.354075,
+    "lon": -86.53931,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
-      "source": "curated",
-      "addedBy": "fill_new_destinations",
-      "validated": true,
-      "validation_source": "roatansplashinn.com, dive_operator_sites, lesfruitsdemer.org"
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
     }
   },
   {
-    "name": "Odyssey Wreck",
-    "lat": 16.26,
-    "lon": -86.5,
-    "depth": 33,
-    "site_type": "wreck",
+    "name": "B-S Deep",
+    "lat": 16.3546406,
+    "lon": -86.5381568,
+    "depth": 35,
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
-      "source": "curated",
-      "addedBy": "fill_new_destinations",
-      "validated": true,
-      "validation_source": "scubaboard_research, anthonyskey.com, dreamwrecks.com, roatantourismbureau.com"
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Peanut's Point",
+    "lat": 16.355773,
+    "lon": -86.536984,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
     }
   },
   {
@@ -247,6 +3029,246 @@
       "addedBy": "extended_overpass",
       "validated": true,
       "validation_source": "openstreetmap_wreck_data"
+    }
+  },
+  {
+    "name": "Wicked Pissa",
+    "lat": 16.3563677,
+    "lon": -86.5351919,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Ritchey's Reef",
+    "lat": 16.357737,
+    "lon": -86.533644,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Jack's Bar",
+    "lat": 16.35469,
+    "lon": -86.53341,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Spencer's Rose Garden",
+    "lat": 16.3582609,
+    "lon": -86.5316475,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Lucille's Ledge",
+    "lat": 16.35973,
+    "lon": -86.53091,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Lambie Pie",
+    "lat": 16.3600406,
+    "lon": -86.5297888,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Liams Lair",
+    "lat": 16.360784,
+    "lon": -86.527946,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "V's View",
+    "lat": 16.361217,
+    "lon": -86.526673,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Man Of War",
+    "lat": 16.362533,
+    "lon": -86.523102,
+    "depth": 30,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Thalassa Arg",
+    "lat": 16.363386,
+    "lon": -86.520977,
+    "depth": 30,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Texas",
+    "lat": 16.275,
+    "lon": -86.52,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_new_destinations",
+      "validated": true,
+      "validation_source": "roatan-diving.com, dive_operator_sites, divescover"
+    }
+  },
+  {
+    "name": "Leo's Den",
+    "lat": 16.363444,
+    "lon": -86.518296,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Big Surprise",
+    "lat": 16.364848,
+    "lon": -86.515952,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Bella Bean",
+    "lat": 16.36576,
+    "lon": -86.51403,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Bella Blue",
+    "lat": 16.3664,
+    "lon": -86.51344,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
+    }
+  },
+  {
+    "name": "Hottest Sparrow",
+    "lat": 16.3674225,
+    "lon": -86.5109355,
+    "depth": 21,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": false
     }
   },
   {

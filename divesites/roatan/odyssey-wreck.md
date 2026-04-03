@@ -1,7 +1,7 @@
 ---
 name: Odyssey Wreck
-lat: 16.26
-lng: -86.5
+lat: 16.352272
+lng: -86.544293
 difficulty: Advanced
 maxDepth: 33
 entryType: boat
@@ -25,7 +25,7 @@ The Odyssey is a 73-meter container ship that was deliberately scuttled off the 
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 33 meters (upper deck at 18–20 meters)
+- **Maximum Depth**: 33 meters
 - **Typical Visibility**: 25–35 meters (80–115 feet)
 - **Current**: Light to moderate; can be stronger on the south wall
 - **Best Time**: Year-round; best conditions December to April

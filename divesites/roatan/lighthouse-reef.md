@@ -1,7 +1,7 @@
 ---
 name: Lighthouse Reef
-lat: 16.325
-lng: -86.595
+lat: 16.3047352
+lng: -86.5976975
 difficulty: Beginner
 maxDepth: 39
 entryType: shore

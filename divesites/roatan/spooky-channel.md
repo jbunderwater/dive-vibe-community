@@ -1,7 +1,7 @@
 ---
 name: Spooky Channel
-lat: 16.3
-lng: -86.57
+lat: 16.3393987
+lng: -86.5644513
 difficulty: Advanced
 maxDepth: 29
 entryType: boat
@@ -23,7 +23,7 @@ Spooky Channel earns its name from the atmospheric, twilight-like conditions ins
 
 - **Location**: North coast of Roatán, Bay Islands, Honduras
 - **Entry Type**: Boat dive
-- **Site Type**: Canyon, cavern, and swim-through system
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 29 meters
 - **Typical Visibility**: 20–28 meters (65–90 feet)

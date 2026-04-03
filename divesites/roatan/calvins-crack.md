@@ -23,7 +23,7 @@ Calvin's Crack is a wall dive site on the south side of Roatán, featuring a ver
 
 - **Location**: Southwest coast of Roatán, Bay Islands, Honduras
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive with crack/fissure
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 25–35 meters (80–115 feet)
