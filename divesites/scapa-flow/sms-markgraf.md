@@ -17,15 +17,15 @@ Scapa Flow's most technically demanding and most dramatic battleship — the dee
 
 ## Overview
 
-SMS Markgraf is the deepest of the three remaining König-class battleships and widely regarded as Scapa Flow's most involved dive. She lies almost completely inverted — overturned to an even greater degree than the Kronprinz Wilhelm and König — with her enormous bow rising sheer from the seabed in a defining vertical profile described by dive guides as one of the iconic images in the world of wreck diving. At the stern, the twin rudders rise upright approximately 3.5 meters in height, a second signature image of Scapa Flow photography. These rudders have survived both the 1919 scuttling and all subsequent salvage operations intact. The scale and well-preserved features of the Markgraf, combined with its depth and complexity, make it the pinnacle of the Scapa Fleet diving progression — typically saved for the final days of a liveaboard week after divers have mastered the other battleships.
+SMS Markgraf is the deepest of the three remaining König-class battleships and widely regarded as Scapa Flow's most impressive dive — described as "probably one of the most impressive dives" in the Flow. She lies almost completely inverted on her port side with her starboard underside still exposed, her enormous bow rising sheer from the seabed in a defining vertical profile — one of the iconic images in the world of wreck diving. The bow descends to 47 meters while the shallowest point rises to 24 meters. At the stern, the twin rudders stand upright approximately 3.5 meters in height — Scapa Flow's most iconic underwater image. These rudders have survived both the 1919 scuttling and all subsequent salvage operations intact. The Markgraf's captain is buried at the Lyness Naval Cemetery on Hoy. The scale and well-preserved features of the Markgraf, combined with its depth and complexity, make it the pinnacle of the Scapa Fleet diving progression — typically saved for the final days of a liveaboard week.
 
 ## Site Information
 
 - **Location**: Scapa Flow, Orkney, Scotland
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck (battleship — protected scheduled monument and war grave)
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 47 meters (154 feet)
+- **Maximum Depth**: 47 meters
 - **Typical Visibility**: 5–15 meters (16–50 feet) — best May and September–October
 - **Current**: Light
 - **Water Temperature**: 6–14°C (43–57°F)
@@ -49,11 +49,11 @@ Boat dive from Stromness Advanced operators experienced with this specific wreck
 - The bow rising sheer from the seabed is one of the world's great wreck images — plan specifically to photograph it
 - The twin stern rudders are the second defining feature — find them on a dedicated dive
 - At 47 meters, bottom time is severely limited without nitrox — use it
-- A Scapa Flow specialist guide who knows the Markgraf's current state is essential
+- A diving permit from Orkney Islands Council Harbours Department is required
 
 ## Safety Considerations
 
-This is a war grave and a protected scheduled monument — the most absolute protections apply. The 47-meter depth is beyond what many recreational divers are prepared for in cold water. Gas consumption at 6°C and at 47 meters simultaneously creates genuinely challenging conditions. Plan all gas turns conservatively. The Markgraf requires honest self-assessment — if you are not fully comfortable at 42 meters in cold water, do not dive this wreck. No artifact contact or removal.
+This is a protected scheduled monument under the Protection of Wrecks Act 1973. The 47-meter depth is beyond what many recreational divers are prepared for in cold water. Gas consumption at 6°C and at 47 meters simultaneously creates genuinely challenging conditions. Plan all gas turns conservatively. The Markgraf requires honest self-assessment — if you are not fully comfortable at 42 meters in cold water, do not dive this wreck. No artifact contact or removal. A diving permit from Orkney Islands Council Harbours Department is required.
 
 ## Photography
 
@@ -61,7 +61,9 @@ The SMS Markgraf provides Scapa Flow's most dramatic photography. The sheer bow 
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-28
+- **Last Updated**: 2026-04-03
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
+## Sources
+
+- [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/)
+- [Scapa Flow Dive Sites — scapa-flow.co.uk](https://www.scapa-flow.co.uk/dive-site)

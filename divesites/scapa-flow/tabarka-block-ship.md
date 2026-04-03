@@ -17,15 +17,15 @@ A tidal Scapa Flow blockship lying upside-down in 12 meters in Burra Sound's pow
 
 ## Overview
 
-The Tabarka began life as SS Pollux in 1909, was renamed SS Tabarka in 1931, and was requisitioned in July 1940 during WWII. She was first sunk as a blockship in Kirk Sound in 1941 — the same passage that German submarine U-47 had used to penetrate Scapa Flow in October 1939, sinking HMS Royal Oak with the loss of 833 lives. Raised and moved in 1944, the Tabarka was re-sunk in Burra Sound as an additional blocking measure. She now lies upside-down in 12–15 meters of water, and is regularly asked for by name by Scapa Flow repeat visitors who regard her as a highlight of the blockship dives. Her propeller remains fully intact and is her most admired feature. Like all Burra Sound diving, the Tabarka can only be dived during the brief slack tide window — a negative entry is required to reach the wreck before current resumes.
+The Tabarka began life as SS Pollux, built in Rotterdam in 1909. She was renamed SS Tabarka in 1931 and requisitioned during WWII. She was sunk as a blockship in Burra Sound on July 27, 1944. She now lies completely upside-down in 12 meters of water, with numerous points of access into the hull. The Tabarka is described as a "big big favourite" by local dive operators and is always asked for by name by Scapa Flow repeat visitors. Her intact propeller remains her most admired feature. Like all Burra Sound diving, the Tabarka can only be dived during the brief slack tide window — tidal water means precise timing is essential.
 
 ## Site Information
 
 - **Location**: Burra Sound, Scapa Flow, Orkney, Scotland
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck (blockship)
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 12 meters (40 feet)
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 8–25 meters (26–82 feet) — excellent during tidal flow, limited at full slack
 - **Current**: Extreme — slack tide only, negative entry required
 - **Water Temperature**: 6–14°C (43–57°F)
@@ -61,7 +61,9 @@ The Tabarka's intact propeller in the clear tidal water is one of Scapa Flow's m
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-28
+- **Last Updated**: 2026-04-03
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
+## Sources
+
+- [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/)
+- [Scapa Flow Dive Sites — scapa-flow.co.uk](https://www.scapa-flow.co.uk/dive-site)

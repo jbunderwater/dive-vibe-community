@@ -13,19 +13,19 @@ addedBy: osm_import
 
 ## SMS Dresden
 
-A Scapa Flow light cruiser completed just before WWI's end, inclined at an angle that creates a natural multi-level dive profile from a shakedown shallow section down to 38 meters.
+A Scapa Flow light cruiser lying on her port side — bow at 23 meters, stern at 38 meters — described as a "fantastic dive for all levels" and a popular first German fleet dive of the week.
 
 ## Overview
 
-SMS Dresden was completed in 1917 and commissioned into the German Imperial High Seas Fleet in 1918, serving for only a brief period before the end of WWI. Like her fleet companions, she was interned at Scapa Flow and scuttled on June 21, 1919. Her orientation — inclined at an angle on the seabed — naturally creates a multi-level dive experience: the shallower bow section allows conservative shakedown profiles while the deeper stern section appeals to more experienced divers. This makes the Dresden a popular choice for the first dive of a Scapa Flow week, allowing divers to acclimatize to the cold water and dry suit conditions before committing to the deeper penetrations of the larger battleships. The wreck has retained her shape remarkably well and preserves many original interior features that provide insight into life aboard a WWI Imperial German warship.
+SMS Dresden was completed in 1917 and commissioned into the German Imperial High Seas Fleet in 1918, serving for only a brief period before the end of WWI. Like her fleet companions, she was interned at Scapa Flow and scuttled on June 21, 1919. She lies on her port side with the bow at 23 meters and the stern at 38 meters, with the hull rising to 20–22 meters from the surface. This orientation naturally creates a multi-level dive experience: the shallower bow section allows conservative acclimatization profiles while the deeper stern appeals to more experienced divers. This makes the Dresden a popular choice for the first German fleet dive of a Scapa Flow week, allowing divers to adjust to the cold water and dry suit conditions before committing to the deeper battleships. The wreck has retained her shape remarkably well and preserves many original interior features that provide insight into life aboard a WWI Imperial German warship.
 
 ## Site Information
 
 - **Location**: Scapa Flow, Orkney, Scotland
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck (light cruiser — protected scheduled monument)
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 38 meters (125 feet)
+- **Maximum Depth**: 38 meters
 - **Typical Visibility**: 5–20 meters (16–66 feet) — best May and September–October
 - **Current**: Light
 - **Water Temperature**: 6–14°C (43–57°F)
@@ -48,7 +48,7 @@ Boat dive from Stromness-based operators. The Dresden is often chosen as the fir
 - The Dresden is the recommended first German fleet dive for acclimatizing to Scapa conditions
 - Use the bow section to calibrate dry suit buoyancy before working deeper
 - The preserved interior features visible through openings provide compelling historical detail
-- Experienced divers and local guides regularly discover new areas of interest as they learn the wreck's layout
+- Experienced divers regularly discover new areas of interest as they learn the wreck's layout
 - Return dives on the Dresden often reveal features completely missed on the first visit
 
 ## Safety Considerations
@@ -61,7 +61,9 @@ The Dresden's preserved interior details visible through hull openings are uniqu
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-28
+- **Last Updated**: 2026-04-03
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
+## Sources
+
+- [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/)
+- [Scapa Flow Dive Sites — scapa-flow.co.uk](https://www.scapa-flow.co.uk/dive-site)

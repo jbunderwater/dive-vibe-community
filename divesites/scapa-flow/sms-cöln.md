@@ -17,15 +17,15 @@ The most intact of Scapa Flow's four remaining German light cruisers — a Köni
 
 ## Overview
 
-SMS Cöln is the best-preserved of the four German light cruisers remaining in Scapa Flow, with many prominent structural features still visible and an orientation that makes navigation comprehensible even for intermediate wreck divers. She lies on her starboard side with that side resting in 36 meters of water while the port side rises to a shallowest point of 22 meters. Her bow points roughly north, providing a clear navigational reference throughout the dive. The Cöln was named for the German city of Cologne and was part of the High Seas Fleet interned at Scapa Flow after WWI. She is a protected scheduled monument. The ship's graceful lines noted by dive site guides — described as conveying a "living museum in the sea" quality — make her an emotionally resonant dive beyond just the wreck structure itself.
+SMS Cöln is the best-preserved of the four German light cruisers remaining in Scapa Flow, with many prominent structural features still visible and an orientation that makes navigation comprehensible even for intermediate wreck divers. She lies on her starboard side with that side resting in 34–36 meters of water while the port side rises to a shallowest point of 22 meters, where the shotline is typically tied at a lifeboat davit. Her bow points roughly north, providing a clear navigational reference throughout the dive. The Cöln was named for the German city of Cologne and was part of the High Seas Fleet interned at Scapa Flow after WWI. She is in very good condition with lots of marine life and very little current, making her one of the easiest German fleet dives — typically chosen as the first dive of a Scapa week. She is a protected scheduled monument. The Cöln's bell is displayed at the Scapa Flow Visitor Centre at Lyness. The wreck is owned by Orkney Islands Council.
 
 ## Site Information
 
 - **Location**: Scapa Flow, Orkney, Scotland
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck (light cruiser — protected scheduled monument)
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 36 meters (118 feet)
+- **Maximum Depth**: 36 meters
 - **Typical Visibility**: 5–20 meters (16–66 feet) — best May and September–October
 - **Current**: Light
 - **Water Temperature**: 6–14°C (43–57°F)
@@ -37,7 +37,7 @@ The SMS Cöln's well-preserved structure provides excellent habitat for Scapa Fl
 
 ## Dive Profile
 
-Descend to the shallowest point of the wreck (port side at 22 meters) and work systematically along the hull before dropping to the 36-meter starboard-side deck. The clear bow-pointing-north orientation makes it easy to maintain positional awareness. The deck features and superstructure details are best explored in the 22–30 meter range. Deeper penetration should be reserved for experienced wreck divers with local guide knowledge.
+Descend to the shallowest point of the wreck (port side at 22 meters) and work systematically along the hull before dropping to the 36-meter starboard-side deck. The clear bow-pointing-north orientation makes it easy to maintain positional awareness. The deck features and superstructure details are best explored in the 22–30 meter range. Deeper penetration should be reserved for experienced wreck divers.
 
 ## Entry and Exit
 
@@ -61,7 +61,9 @@ The SMS Cöln is considered Scapa Flow's most photogenic light cruiser for wide-
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-28
+- **Last Updated**: 2026-04-03
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
+## Sources
+
+- [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/)
+- [Scapa Flow Dive Sites — scapa-flow.co.uk](https://www.scapa-flow.co.uk/dive-site)
