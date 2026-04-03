@@ -17,7 +17,7 @@ Pillar Coral is a pinnacle dive site in Roatán, Caribbean.
 
 ## Overview
 
-Pillar Coral is a dive site in Roatán featuring an underwater pinnacle rising from the depths. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Pillar Coral takes its name from a distinctive coral pinnacle that juts off the wall at approximately 27 meters (90 feet). The site works well as a drift dive between Overheat Reef and the El Aguila wreck, with swim-throughs, chimneys, and channels cutting through the reef structure along the way. Eagle rays are commonly seen gliding through the deeper water, while moray eels shelter in the overhangs. Rated Intermediate to Advanced, this site rewards experienced divers with 20 to 40 meters of visibility and water temperatures averaging 26 to 29 degrees Celsius.
 
 ## Site Information
 

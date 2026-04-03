@@ -17,7 +17,7 @@ Aguila is a wreck dive site in Roatán, Caribbean.
 
 ## Overview
 
-Aguila is a dive site in Roatán featuring a historic wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Aguila serves as an alternate mooring for the El Aguila wreck complex, providing access to one of three sections of a 220-foot cargo vessel intentionally sunk in 1997. Hurricane Mitch broke the ship apart in 1998, scattering wreckage across the sandy bottom near Sandy Bay. The hull surfaces are now heavily encrusted with sponges and soft corals, and divers regularly encounter garden eels in the surrounding sand flats, along with resident groupers and moray eels tucked into the structure. Visibility typically ranges from 20 to 40 meters, with water temperatures between 26 and 29 degrees Celsius.
 
 ## Site Information
 

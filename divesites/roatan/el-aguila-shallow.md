@@ -17,7 +17,7 @@ El Aguila Shallow is a wreck dive site in Roatán, Caribbean.
 
 ## Overview
 
-El Aguila Shallow is a dive site in Roatán featuring a historic wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+El Aguila Shallow covers the shallowest section of the El Aguila wreck complex, sitting at just 4 meters depth. The mast and upper wreck structure here are accessible to beginners and even snorkelers, making it one of the most approachable wreck dives on the island. Years of marine growth have transformed the steel into a living reef, thickly encrusted with sponges, soft corals, and colorful blennies darting between crevices. Visibility is typically 20 to 40 meters, with warm Caribbean water averaging 26 to 29 degrees Celsius.
 
 ## Site Information
 

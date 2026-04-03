@@ -17,7 +17,7 @@ Dos Anguilas is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Dos Anguilas is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Dos Anguilas is a wall dive near the El Aguila wreck area, and its name -- meaning "two eels" in Spanish -- hints at the moray eels frequently spotted along this stretch of reef. It was one of 22 new Roatan Marine Park dive sites added in 2022, expanding the network of protected moorings along the south shore. The wall here descends from a shallow reef crest into deeper water, with gorgonians, barrel sponges, and sea fans adorning the vertical face. Expect 20 to 40 meters of visibility and water temperatures of 26 to 29 degrees Celsius.
 
 ## Site Information
 
