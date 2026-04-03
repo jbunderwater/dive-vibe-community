@@ -2,8 +2,8 @@
 name: Shang Ying
 lat: 16.346531
 lng: -86.550669
-difficulty: Advanced
-maxDepth: 30
+difficulty: Intermediate
+maxDepth: 25
 entryType: boat
 siteType: wreck
 ref: null
@@ -24,8 +24,8 @@ Shang Ying is a dive site in Roatán featuring the wreck of the Shang Ying. Loca
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

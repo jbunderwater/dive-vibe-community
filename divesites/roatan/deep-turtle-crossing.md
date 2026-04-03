@@ -2,8 +2,8 @@
 name: Deep Turtle Crossing
 lat: 16.2935103
 lng: -86.6037298
-difficulty: Advanced
-maxDepth: 35
+difficulty: Intermediate
+maxDepth: 36
 entryType: boat
 siteType: wall
 ref: null
@@ -24,8 +24,8 @@ Deep Turtle Crossing is a dive site in Roatán featuring a dramatic vertical wal
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 meters
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 36 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

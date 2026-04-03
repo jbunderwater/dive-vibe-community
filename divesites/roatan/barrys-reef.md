@@ -3,9 +3,9 @@ name: Barry's Reef
 lat: 16.3417867
 lng: -86.5613468
 difficulty: Intermediate
-maxDepth: 21
+maxDepth: 18
 entryType: boat
-siteType: wall
+siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,9 +23,9 @@ Barry's Reef is a dive site in Roatán featuring a dramatic vertical wall that d
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 21 meters
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

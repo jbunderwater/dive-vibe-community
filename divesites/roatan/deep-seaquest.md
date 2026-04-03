@@ -2,10 +2,10 @@
 name: Deep Seaquest
 lat: 16.28713
 lng: -86.60368
-difficulty: Advanced
-maxDepth: 35
+difficulty: Intermediate
+maxDepth: 24
 entryType: boat
-siteType: wall
+siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,9 +23,9 @@ Deep Seaquest is a dive site in Roatán featuring a dramatic vertical wall that 
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 meters
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 24 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

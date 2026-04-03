@@ -2,10 +2,10 @@
 name: Pirata's Dream
 lat: 16.32568
 lng: -86.58165
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 21
 entryType: boat
-siteType: wall
+siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,8 +23,8 @@ Pirata's Dream is a dive site in Roatán featuring a dramatic vertical wall that
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
+- **Site Type**: Coral reef
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 21 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate

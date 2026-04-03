@@ -3,9 +3,9 @@ name: Training Site
 lat: 16.288481
 lng: -86.573463
 difficulty: Beginner
-maxDepth: 12
-entryType: boat
-siteType: wall
+maxDepth: 10
+entryType: shore
+siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
@@ -22,10 +22,10 @@ Training Site is a dive site in Roatán featuring a dramatic vertical wall that 
 ## Site Information
 
 - **Location**: Roatán, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
+- **Maximum Depth**: 10 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

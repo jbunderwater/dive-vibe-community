@@ -3,7 +3,7 @@ name: Dennis's Dropoff
 lat: 16.3197479
 lng: -86.5865508
 difficulty: Intermediate
-maxDepth: 21
+maxDepth: 30
 entryType: boat
 siteType: wall
 ref: null
@@ -25,7 +25,7 @@ Dennis's Dropoff is a dive site in Roatán featuring a dramatic vertical wall th
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 21 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

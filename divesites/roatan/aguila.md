@@ -2,8 +2,8 @@
 name: Aguila
 lat: 16.327251
 lng: -86.578624
-difficulty: Advanced
-maxDepth: 30
+difficulty: Intermediate
+maxDepth: 24
 entryType: boat
 siteType: wreck
 ref: null
@@ -24,8 +24,8 @@ Aguila is a dive site in Roatán featuring the wreck of the Aguila. Located in t
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 24 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

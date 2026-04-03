@@ -2,10 +2,10 @@
 name: Bikini Bottom
 lat: 16.2978338
 lng: -86.6009128
-difficulty: Intermediate
-maxDepth: 21
+difficulty: Beginner
+maxDepth: 12
 entryType: boat
-siteType: wall
+siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,9 +23,9 @@ Bikini Bottom is a dive site in Roatán featuring a dramatic vertical wall that 
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 21 meters
+- **Site Type**: Coral reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

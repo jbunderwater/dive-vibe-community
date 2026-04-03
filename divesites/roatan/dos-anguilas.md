@@ -2,10 +2,10 @@
 name: Dos Anguilas
 lat: 16.328039
 lng: -86.57841
-difficulty: Intermediate
-maxDepth: 21
+difficulty: Advanced
+maxDepth: 30
 entryType: boat
-siteType: wall
+siteType: wreck
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,9 +23,9 @@ Dos Anguilas is a dive site in Roatán featuring a dramatic vertical wall that d
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 21 meters
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

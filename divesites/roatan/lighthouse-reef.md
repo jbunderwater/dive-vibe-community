@@ -2,10 +2,10 @@
 name: Lighthouse Reef
 lat: 16.3047352
 lng: -86.5976975
-difficulty: Beginner
-maxDepth: 39
-entryType: shore
-siteType: reef
+difficulty: Intermediate
+maxDepth: 30
+entryType: boat
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -22,10 +22,10 @@ Lighthouse Reef is a dive site in Roatán offering excellent diving on healthy c
 ## Site Information
 
 - **Location**: Roatán, Caribbean
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 39 meters
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

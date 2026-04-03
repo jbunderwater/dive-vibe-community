@@ -3,9 +3,9 @@ name: Luna Snorkel
 lat: 16.2930553
 lng: -86.6004535
 difficulty: Beginner
-maxDepth: 12
-entryType: boat
-siteType: wall
+maxDepth: 6
+entryType: shore
+siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
@@ -22,10 +22,10 @@ Luna Snorkel is a dive site in Roatán featuring a dramatic vertical wall that d
 ## Site Information
 
 - **Location**: Roatán, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
+- **Maximum Depth**: 6 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

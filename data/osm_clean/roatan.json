@@ -3,7 +3,7 @@
     "name": "Dustin's Dropoff",
     "lat": 16.265455,
     "lon": -86.605266,
-    "depth": 21,
+    "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -11,7 +11,8 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
@@ -93,15 +94,16 @@
     "name": "Maddera Reef",
     "lat": 16.28978,
     "lon": -86.60454,
-    "depth": 21,
-    "site_type": "wall",
+    "depth": 15,
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
@@ -259,15 +261,16 @@
     "name": "Deep Turtle Crossing",
     "lat": 16.2935103,
     "lon": -86.6037298,
-    "depth": 35,
+    "depth": 36,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Advanced",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "coconuttreedivers.com, roatansplashinn.com"
     }
   },
   {
@@ -289,15 +292,16 @@
     "name": "Deep Seaquest",
     "lat": 16.28713,
     "lon": -86.60368,
-    "depth": 35,
-    "site_type": "wall",
+    "depth": 24,
+    "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Advanced",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "coconuttreedivers.com, sundiversroatan.com, roatandivers.com"
     }
   },
   {
@@ -379,15 +383,16 @@
     "name": "Chloe's Coral",
     "lat": 16.2770903,
     "lon": -86.6034941,
-    "depth": 21,
-    "site_type": "wall",
+    "depth": 15,
+    "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
@@ -424,15 +429,16 @@
     "name": "Kab's Zen Garden",
     "lat": 16.283421,
     "lon": -86.603241,
-    "depth": 21,
-    "site_type": "wall",
+    "depth": 15,
+    "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators, geographic_name"
     }
   },
   {
@@ -499,7 +505,7 @@
     "name": "Black Rock",
     "lat": 16.27033,
     "lon": -86.602877,
-    "depth": 21,
+    "depth": 24,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -507,22 +513,24 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "coconuttreedivers.com, roatansplashinn.com"
     }
   },
   {
     "name": "Corrale's Coral Reef",
     "lat": 16.27663,
     "lon": -86.60277,
-    "depth": 21,
-    "site_type": "wall",
+    "depth": 15,
+    "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
@@ -635,29 +643,31 @@
     "lat": 16.290749,
     "lon": -86.602593,
     "depth": 12,
-    "site_type": "wall",
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "coconuttreedivers.com, sundiversroatan.com"
     }
   },
   {
     "name": "Shallow Turtle Crossing",
     "lat": 16.2928033,
     "lon": -86.6025868,
-    "depth": 12,
-    "site_type": "wall",
+    "depth": 14,
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "coconuttreedivers.com, roatansplashinn.com"
     }
   },
   {
@@ -747,7 +757,8 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators, geographic_name"
     }
   },
   {
@@ -784,15 +795,16 @@
     "name": "Mandys Eel Garden",
     "lat": 16.272472,
     "lon": -86.602129,
-    "depth": 21,
-    "site_type": "wall",
+    "depth": 20,
+    "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "coconuttreedivers.com, sundiversroatan.com, roatan-octopusdiveschool.com"
     }
   },
   {
@@ -814,15 +826,16 @@
     "name": "The Chief's Quarters",
     "lat": 16.2943301,
     "lon": -86.6021079,
-    "depth": 21,
-    "site_type": "wall",
+    "depth": 15,
+    "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "sundiversroatan.com, roatandivers.com"
     }
   },
   {
@@ -874,30 +887,32 @@
     "name": "Janie's Garden",
     "lat": 16.26484,
     "lon": -86.6017,
-    "depth": 21,
-    "site_type": "wall",
+    "depth": 15,
+    "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators, geographic_name"
     }
   },
   {
     "name": "Blatt's Bank",
     "lat": 16.299267,
     "lon": -86.601404,
-    "depth": 21,
-    "site_type": "wall",
+    "depth": 15,
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
@@ -919,30 +934,32 @@
     "name": "Bikini Bottom",
     "lat": 16.2978338,
     "lon": -86.6009128,
-    "depth": 21,
-    "site_type": "wall",
+    "depth": 12,
+    "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
     "name": "The Bight",
     "lat": 16.2983741,
     "lon": -86.6005225,
-    "depth": 21,
-    "site_type": "wall",
+    "depth": 12,
+    "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
@@ -957,37 +974,40 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
     "name": "Luna Snorkel",
     "lat": 16.2930553,
     "lon": -86.6004535,
-    "depth": 12,
-    "site_type": "wall",
-    "entry_type": "boat",
+    "depth": 6,
+    "site_type": "reef",
+    "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators, geographic_name"
     }
   },
   {
     "name": "Chris Fisher",
     "lat": 16.299779,
     "lon": -86.600198,
-    "depth": 21,
-    "site_type": "wall",
+    "depth": 15,
+    "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatandivers.com"
     }
   },
   {
@@ -1069,22 +1089,23 @@
     "name": "Inside Luna Beach",
     "lat": 16.29568,
     "lon": -86.599589,
-    "depth": 21,
-    "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "depth": 10,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators, geographic_name"
     }
   },
   {
     "name": "Sandra's Grotto",
     "lat": 16.267303,
     "lon": -86.599036,
-    "depth": 25,
+    "depth": 22,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -1092,7 +1113,8 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators, geographic_name"
     }
   },
   {
@@ -1114,7 +1136,7 @@
     "name": "Mb's Wall",
     "lat": 16.303215,
     "lon": -86.598975,
-    "depth": 21,
+    "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1122,7 +1144,8 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
@@ -1144,75 +1167,80 @@
     "name": "Inside Blue 2",
     "lat": 16.298462,
     "lon": -86.598512,
-    "depth": 21,
-    "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "depth": 10,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
     "name": "Inside Blue 1",
     "lat": 16.298331,
     "lon": -86.59847,
-    "depth": 21,
-    "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "depth": 10,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
     "name": "Shallow El Aquario",
     "lat": 16.302203,
     "lon": -86.598229,
-    "depth": 12,
-    "site_type": "wall",
+    "depth": 10,
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatandivers.com"
     }
   },
   {
     "name": "Shallow Snorkel",
     "lat": 16.302462,
     "lon": -86.598182,
-    "depth": 12,
-    "site_type": "wall",
-    "entry_type": "boat",
+    "depth": 6,
+    "site_type": "reef",
+    "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators, geographic_name"
     }
   },
   {
     "name": "Inside Blue 3",
     "lat": 16.298556,
     "lon": -86.598141,
-    "depth": 21,
-    "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "depth": 10,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
@@ -1234,15 +1262,16 @@
     "name": "Inside Blue 4",
     "lat": 16.29864,
     "lon": -86.597759,
-    "depth": 21,
-    "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "depth": 10,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
@@ -1264,15 +1293,15 @@
     "name": "Lighthouse Reef",
     "lat": 16.3047352,
     "lon": -86.5976975,
-    "depth": 39,
-    "site_type": "reef",
-    "entry_type": "shore",
-    "difficulty": "Beginner",
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "roatansplashinn.com, dive_operator_sites, lesfruitsdemer.org",
+      "validation_source": "coconuttreedivers.com, roatandivers.com",
       "coordinate_source": "rmp_gps_map_2026"
     }
   },
@@ -1280,7 +1309,7 @@
     "name": "Dixies",
     "lat": 16.306459,
     "lon": -86.59742,
-    "depth": 21,
+    "depth": 27,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1288,14 +1317,15 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "coconuttreedivers.com, roatandivers.com"
     }
   },
   {
     "name": "Moonlight",
     "lat": 16.3054615,
     "lon": -86.5974145,
-    "depth": 21,
+    "depth": 24,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1303,7 +1333,8 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "coconuttreedivers.com, roatandivers.com"
     }
   },
   {
@@ -1325,7 +1356,7 @@
     "name": "Vern's Dropoff",
     "lat": 16.30919,
     "lon": -86.596117,
-    "depth": 21,
+    "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1333,14 +1364,15 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatandivers.com"
     }
   },
   {
     "name": "Cocolobo",
     "lat": 16.309935,
     "lon": -86.595757,
-    "depth": 21,
+    "depth": 27,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1348,7 +1380,8 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
@@ -1400,15 +1433,16 @@
     "name": "Addie's Garden",
     "lat": 16.27105,
     "lon": -86.59428,
-    "depth": 21,
-    "site_type": "wall",
+    "depth": 15,
+    "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators, geographic_name"
     }
   },
   {
@@ -1445,30 +1479,32 @@
     "name": "Al's Garden",
     "lat": 16.272009,
     "lon": -86.593227,
-    "depth": 21,
-    "site_type": "wall",
+    "depth": 15,
+    "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators, geographic_name"
     }
   },
   {
     "name": "Hole In The Wall",
     "lat": 16.3138371,
     "lon": -86.5917933,
-    "depth": 21,
-    "site_type": "wall",
+    "depth": 40,
+    "site_type": "cave",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "coconuttreedivers.com, roatansplashinn.com"
     }
   },
   {
@@ -1490,22 +1526,23 @@
     "name": "Rocktopus Reef",
     "lat": 16.314692,
     "lon": -86.591051,
-    "depth": 21,
-    "site_type": "wall",
+    "depth": 18,
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
     "name": "Rena's Roller Coaster",
     "lat": 16.31523,
     "lon": -86.59076,
-    "depth": 21,
+    "depth": 27,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1513,7 +1550,8 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
@@ -1550,7 +1588,7 @@
     "name": "Zig Zag",
     "lat": 16.3163495,
     "lon": -86.5898168,
-    "depth": 21,
+    "depth": 27,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1558,14 +1596,15 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
     "name": "Happy Jack's Wall",
     "lat": 16.316874,
     "lon": -86.589624,
-    "depth": 21,
+    "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1573,22 +1612,24 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
     "name": "Fish Den",
     "lat": 16.3173329,
     "lon": -86.5887143,
-    "depth": 21,
-    "site_type": "wall",
+    "depth": 15,
+    "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "coconuttreedivers.com, sundiversroatan.com"
     }
   },
   {
@@ -1625,7 +1666,7 @@
     "name": "Dennis's Dropoff",
     "lat": 16.3197479,
     "lon": -86.5865508,
-    "depth": 21,
+    "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1633,7 +1674,8 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatandivers.com"
     }
   },
   {
@@ -1701,7 +1743,7 @@
     "name": "Cave West",
     "lat": 16.27891,
     "lon": -86.5845,
-    "depth": 25,
+    "depth": 22,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -1709,14 +1751,15 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators, geographic_name"
     }
   },
   {
     "name": "Dorkfish",
     "lat": 16.3222911,
     "lon": -86.584285,
-    "depth": 21,
+    "depth": 24,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1724,7 +1767,8 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
@@ -1739,7 +1783,8 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators, geographic_name"
     }
   },
   {
@@ -1754,14 +1799,15 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators, geographic_name"
     }
   },
   {
     "name": "Hole In The Wallet",
     "lat": 16.3228377,
     "lon": -86.5836494,
-    "depth": 21,
+    "depth": 27,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1769,14 +1815,15 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
     "name": "Cave East",
     "lat": 16.28034,
     "lon": -86.58299,
-    "depth": 25,
+    "depth": 22,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -1784,7 +1831,8 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators, geographic_name"
     }
   },
   {
@@ -1822,7 +1870,7 @@
     "name": "Scuba Marmaids",
     "lat": 16.324043,
     "lon": -86.582455,
-    "depth": 21,
+    "depth": 24,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1830,7 +1878,8 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
@@ -1852,7 +1901,7 @@
     "name": "Forever Yours",
     "lat": 16.3244785,
     "lon": -86.5820856,
-    "depth": 21,
+    "depth": 24,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -1860,7 +1909,8 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
@@ -1868,29 +1918,31 @@
     "lat": 16.32568,
     "lon": -86.58165,
     "depth": 21,
-    "site_type": "wall",
+    "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "coconuttreedivers.com, roatan-octopusdiveschool.com"
     }
   },
   {
     "name": "Pillar Coral",
     "lat": 16.3262758,
     "lon": -86.5808595,
-    "depth": 21,
-    "site_type": "wall",
+    "depth": 27,
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "coconuttreedivers.com"
     }
   },
   {
@@ -1973,6 +2025,22 @@
     "name": "Aguila",
     "lat": 16.327251,
     "lon": -86.578624,
+    "depth": 24,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_gps_map",
+      "addedBy": "roatan_marine_park_map_2026",
+      "coordinate_source": "rmp_gps_map_2026",
+      "validated": true,
+      "validation_source": "coconuttreedivers.com, roatan-octopusdiveschool.com"
+    }
+  },
+  {
+    "name": "Dos Anguilas",
+    "lat": 16.328039,
+    "lon": -86.57841,
     "depth": 30,
     "site_type": "wreck",
     "entry_type": "boat",
@@ -1981,37 +2049,24 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
-    }
-  },
-  {
-    "name": "Dos Anguilas",
-    "lat": 16.328039,
-    "lon": -86.57841,
-    "depth": 21,
-    "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "source": "rmp_gps_map",
-      "addedBy": "roatan_marine_park_map_2026",
-      "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "coconuttreedivers.com, roatan-octopusdiveschool.com"
     }
   },
   {
     "name": "El Aguila Shallow",
     "lat": 16.3274381,
     "lon": -86.5782163,
-    "depth": 12,
+    "depth": 15,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "coconuttreedivers.com, roatan-octopusdiveschool.com"
     }
   },
   {
@@ -2033,15 +2088,16 @@
     "name": "Rip's Reef",
     "lat": 16.327696,
     "lon": -86.577511,
-    "depth": 21,
-    "site_type": "wall",
+    "depth": 18,
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
@@ -2116,7 +2172,8 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators, geographic_name"
     }
   },
   {
@@ -2138,15 +2195,16 @@
     "name": "Training Site",
     "lat": 16.288481,
     "lon": -86.573463,
-    "depth": 12,
-    "site_type": "wall",
-    "entry_type": "boat",
+    "depth": 10,
+    "site_type": "reef",
+    "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
@@ -2183,7 +2241,7 @@
     "name": "Mack's Wall",
     "lat": 16.333345,
     "lon": -86.5720594,
-    "depth": 21,
+    "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -2191,7 +2249,8 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
@@ -2213,45 +2272,48 @@
     "name": "Zack's Patch",
     "lat": 16.3340936,
     "lon": -86.5716638,
-    "depth": 21,
-    "site_type": "wall",
+    "depth": 15,
+    "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatandivers.com"
     }
   },
   {
     "name": "Green Pearl",
     "lat": 16.334912,
     "lon": -86.571379,
-    "depth": 21,
-    "site_type": "wall",
+    "depth": 18,
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "coconuttreedivers.com, roatan-octopusdiveschool.com, roatandivers.com"
     }
   },
   {
     "name": "Hookers Bottom",
     "lat": 16.33592,
     "lon": -86.57088,
-    "depth": 21,
-    "site_type": "wall",
+    "depth": 15,
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
@@ -2288,15 +2350,15 @@
     "name": "Bear's Den",
     "lat": 16.3368125,
     "lon": -86.5688637,
-    "depth": 30,
-    "site_type": "wall",
+    "depth": 20,
+    "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "padi.com, dive-the-world.com, dive_operator_sites",
+      "validation_source": "coconuttreedivers.com, roatansplashinn.com, roatan-octopusdiveschool.com",
       "coordinate_source": "rmp_gps_map_2026"
     }
   },
@@ -2342,29 +2404,31 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
     "name": "Dragons Maze",
     "lat": 16.337145,
     "lon": -86.567038,
-    "depth": 21,
-    "site_type": "wall",
+    "depth": 25,
+    "site_type": "cave",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators, geographic_name"
     }
   },
   {
     "name": "The Church",
     "lat": 16.2937998,
     "lon": -86.5667654,
-    "depth": 21,
+    "depth": 27,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -2372,14 +2436,15 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
     "name": "White Hole",
     "lat": 16.3376343,
     "lon": -86.5664089,
-    "depth": 21,
+    "depth": 27,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -2387,7 +2452,8 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
@@ -2424,7 +2490,7 @@
     "name": "Spooky Channel",
     "lat": 16.3393987,
     "lon": -86.5644513,
-    "depth": 29,
+    "depth": 27,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -2432,7 +2498,7 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "scubaboard_research, roatan-diving.com, padi.com, sundiversroatan",
+      "validation_source": "coconuttreedivers.com, roatan-octopusdiveschool.com, roatandivers.com",
       "coordinate_source": "rmp_gps_map_2026"
     }
   },
@@ -2486,29 +2552,31 @@
     "lat": 16.3405283,
     "lon": -86.5618628,
     "depth": 21,
-    "site_type": "wall",
+    "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
     "name": "Barry's Reef",
     "lat": 16.3417867,
     "lon": -86.5613468,
-    "depth": 21,
-    "site_type": "wall",
+    "depth": 18,
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
@@ -2530,15 +2598,16 @@
     "name": "Mr Charlie's Reef",
     "lat": 16.343164,
     "lon": -86.560005,
-    "depth": 21,
-    "site_type": "wall",
+    "depth": 18,
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
@@ -2560,22 +2629,23 @@
     "name": "Markita's Reef",
     "lat": 16.3436096,
     "lon": -86.5588673,
-    "depth": 21,
-    "site_type": "wall",
+    "depth": 18,
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
     "name": "Tranquility Base",
     "lat": 16.300253,
     "lon": -86.558865,
-    "depth": 21,
+    "depth": 24,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -2583,7 +2653,8 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
@@ -2620,7 +2691,7 @@
     "name": "International Diver",
     "lat": 16.345032,
     "lon": -86.557044,
-    "depth": 21,
+    "depth": 27,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -2628,7 +2699,8 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
@@ -2665,7 +2737,7 @@
     "name": "Mcfield's Field",
     "lat": 16.30389,
     "lon": -86.55544,
-    "depth": 21,
+    "depth": 24,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -2673,7 +2745,8 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
@@ -2710,30 +2783,32 @@
     "name": "Rockie's Reef",
     "lat": 16.3469071,
     "lon": -86.5541533,
-    "depth": 21,
-    "site_type": "wall",
+    "depth": 18,
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
     "name": "Tortuga Terrace",
     "lat": 16.34749,
     "lon": -86.55331,
-    "depth": 21,
-    "site_type": "wall",
+    "depth": 18,
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
@@ -2763,22 +2838,24 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators, geographic_name"
     }
   },
   {
     "name": "Shang Ying",
     "lat": 16.346531,
     "lon": -86.550669,
-    "depth": 30,
+    "depth": 25,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Advanced",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
@@ -2853,22 +2930,24 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators, geographic_name"
     }
   },
   {
     "name": "Christopher's Coral",
     "lat": 16.350958,
     "lon": -86.545476,
-    "depth": 21,
-    "site_type": "wall",
+    "depth": 15,
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
@@ -2883,7 +2962,8 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "coconuttreedivers.com, roatan-octopusdiveschool.com"
     }
   },
   {
@@ -2906,15 +2986,16 @@
     "name": "Lyonfish Reef",
     "lat": 16.351053,
     "lon": -86.544242,
-    "depth": 21,
-    "site_type": "wall",
+    "depth": 15,
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
@@ -2929,7 +3010,8 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators, geographic_name"
     }
   },
   {
@@ -2989,7 +3071,8 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
@@ -3050,15 +3133,16 @@
     "name": "Ritchey's Reef",
     "lat": 16.357737,
     "lon": -86.533644,
-    "depth": 21,
-    "site_type": "wall",
+    "depth": 18,
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
@@ -3080,22 +3164,23 @@
     "name": "Spencer's Rose Garden",
     "lat": 16.3582609,
     "lon": -86.5316475,
-    "depth": 21,
-    "site_type": "wall",
+    "depth": 18,
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators, geographic_name"
     }
   },
   {
     "name": "Lucille's Ledge",
     "lat": 16.35973,
     "lon": -86.53091,
-    "depth": 21,
+    "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -3103,7 +3188,8 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators, geographic_name"
     }
   },
   {
@@ -3163,7 +3249,8 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {
@@ -3178,7 +3265,8 @@
       "source": "rmp_gps_map",
       "addedBy": "roatan_marine_park_map_2026",
       "coordinate_source": "rmp_gps_map_2026",
-      "validated": false
+      "validated": true,
+      "validation_source": "roatan_dive_operators"
     }
   },
   {

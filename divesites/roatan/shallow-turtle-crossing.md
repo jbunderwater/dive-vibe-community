@@ -3,9 +3,9 @@ name: Shallow Turtle Crossing
 lat: 16.2928033
 lng: -86.6025868
 difficulty: Beginner
-maxDepth: 12
+maxDepth: 14
 entryType: boat
-siteType: wall
+siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,9 +23,9 @@ Shallow Turtle Crossing is a dive site in Roatán featuring a dramatic vertical 
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
+- **Maximum Depth**: 14 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

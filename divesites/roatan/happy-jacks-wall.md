@@ -3,7 +3,7 @@ name: Happy Jack's Wall
 lat: 16.316874
 lng: -86.589624
 difficulty: Intermediate
-maxDepth: 21
+maxDepth: 30
 entryType: boat
 siteType: wall
 ref: null
@@ -25,7 +25,7 @@ Happy Jack's Wall is a dive site in Roatán featuring a dramatic vertical wall t
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 21 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

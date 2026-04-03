@@ -3,7 +3,7 @@ name: Cave East
 lat: 16.28034
 lng: -86.58299
 difficulty: Advanced
-maxDepth: 25
+maxDepth: 22
 entryType: boat
 siteType: cave
 ref: null
@@ -25,7 +25,7 @@ Cave East is a dive site in Roatán featuring underwater cave and cavern formati
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 22 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

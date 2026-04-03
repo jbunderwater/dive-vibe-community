@@ -2,10 +2,10 @@
 name: Hole In The Wall
 lat: 16.3138371
 lng: -86.5917933
-difficulty: Intermediate
-maxDepth: 21
+difficulty: Advanced
+maxDepth: 40
 entryType: boat
-siteType: wall
+siteType: cave
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,9 +23,9 @@ Hole In The Wall is a dive site in Roatán featuring a dramatic vertical wall th
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 21 meters
+- **Site Type**: Cave/cavern
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

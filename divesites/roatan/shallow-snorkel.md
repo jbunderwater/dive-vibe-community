@@ -3,9 +3,9 @@ name: Shallow Snorkel
 lat: 16.302462
 lng: -86.598182
 difficulty: Beginner
-maxDepth: 12
-entryType: boat
-siteType: wall
+maxDepth: 6
+entryType: shore
+siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
@@ -22,10 +22,10 @@ Shallow Snorkel is a dive site in Roatán featuring a dramatic vertical wall tha
 ## Site Information
 
 - **Location**: Roatán, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters
+- **Maximum Depth**: 6 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

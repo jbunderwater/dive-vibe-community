@@ -3,9 +3,9 @@ name: Pillar Coral
 lat: 16.3262758
 lng: -86.5808595
 difficulty: Intermediate
-maxDepth: 21
+maxDepth: 27
 entryType: boat
-siteType: wall
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,9 +23,9 @@ Pillar Coral is a dive site in Roatán featuring a dramatic vertical wall that d
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 21 meters
+- **Maximum Depth**: 27 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

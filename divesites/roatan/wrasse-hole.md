@@ -5,7 +5,7 @@ lng: -86.5618628
 difficulty: Intermediate
 maxDepth: 21
 entryType: boat
-siteType: wall
+siteType: drift
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,7 +23,7 @@ Wrasse Hole is a dive site in Roatán featuring a dramatic vertical wall that dr
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 21 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
