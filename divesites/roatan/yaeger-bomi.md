@@ -17,7 +17,7 @@ Yaeger Bomi is a pinnacle dive site in Roatán, Caribbean.
 
 ## Overview
 
-Yaeger Bomi is a dive site in Roatán featuring an underwater pinnacle rising from the depths. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Yaeger Bomi is a Roatan Marine Park mooring site positioned along the continuous Mesoamerican Barrier Reef on Roatan's south coast. While published details specific to this site are limited, the reef here maintains the healthy coral coverage characteristic of Roatan's protected marine areas. Divers can explore the wall with its barrel sponges and gorgonians while watching for eagle rays, reef sharks, and large groupers. Cleaning stations on the reef top attract diverse fish species. Visibility typically ranges 20-40 meters.
 
 ## Site Information
 

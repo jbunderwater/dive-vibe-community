@@ -17,7 +17,7 @@ Shang Ying is a wreck dive site in Roatán, Caribbean.
 
 ## Overview
 
-Shang Ying is a dive site in Roatán featuring a historic wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Shang Ying is a wreck dive registered in the Roatan Marine Park database. While detailed published diving information about this wreck is limited, the name suggests a vessel of Asian origin. The wreck sits along Roatan's south coast reef system at approximately 25 meters depth. As with other artificial reefs in Roatan's waters, the wreck structure likely hosts encrusting corals and sponges, with resident groupers, moray eels, and schooling fish sheltering in and around the hull. Visibility in this area typically ranges 20-40 meters.
 
 ## Site Information
 

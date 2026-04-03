@@ -17,7 +17,7 @@ Christopher's Coral is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Christopher's Coral is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Christopher's Coral is a Roatan Marine Park mooring site positioned along the continuous Mesoamerican Barrier Reef on Roatan's south coast. While published details specific to this site are limited, the reef here maintains the healthy coral coverage characteristic of Roatan's protected marine areas. Divers can explore the wall with its barrel sponges and gorgonians while watching for eagle rays, reef sharks, and large groupers. Cleaning stations on the reef top attract diverse fish species. Visibility typically ranges 20-40 meters.
 
 ## Site Information
 

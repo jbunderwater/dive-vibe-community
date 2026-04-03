@@ -17,7 +17,7 @@ Bella Bean is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Bella Bean is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Bella Bean is a Roatan Marine Park mooring site near Blue Harbor, dedicated in memory of Bella, a 13-year-old Cavapoo who passed away in August 2020. The site sits along Roatan's eastern barrier reef, a less-trafficked section offering pristine coral conditions. The wall features healthy hard corals, barrel sponges, and sea fans, with green sea turtles, eagle rays, and groupers commonly sighted. This quieter stretch of reef provides a more secluded diving experience than the busier western sites. Visibility averages 20-40 meters.
 
 ## Site Information
 

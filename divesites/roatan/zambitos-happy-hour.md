@@ -17,7 +17,7 @@ Zambito's Happy Hour is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Zambito's Happy Hour is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Zambito's Happy Hour is part of the Roatan Marine Park's network of named mooring sites along the eastern barrier reef. While specific published information about this site is limited, the less-visited eastern corridor offers pristine reef conditions with excellent coral health. The wall is decorated with colorful sponges, sea fans, and soft corals. Green sea turtles, southern stingrays, and schools of snapper are commonly encountered. Visibility averages 20-40 meters with warm Caribbean water temperatures of 26-29°C.
 
 ## Site Information
 

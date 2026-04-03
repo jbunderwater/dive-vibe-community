@@ -17,7 +17,7 @@ Mcfield's Field is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Mcfield's Field is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+McField's Field is a Roatan Marine Park mooring site in the Sandy Bay area along the south coast barrier reef. While individual published diving details are limited, the site sits within the productive Sandy Bay wall corridor where the reef features abundant soft and hard corals. Eagle rays cruise along the wall, green sea turtles rest on the reef top, and moray eels shelter in the crevices. The nearby Spooky Channel and Lawson Rock landmarks anchor this section of reef. Visibility averages 20-40 meters.
 
 ## Site Information
 

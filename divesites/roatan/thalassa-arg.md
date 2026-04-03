@@ -17,7 +17,7 @@ Thalassa Arg is a wreck dive site in Roatán, Caribbean.
 
 ## Overview
 
-Thalassa Arg is a dive site in Roatán featuring a historic wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Thalassa Arg is a wreck dive registered in the Roatan Marine Park database. The name suggests a vessel of Argentine registry, though detailed published information about its history and current diving conditions is limited. Located along Roatan's eastern reef at approximately 30 meters depth, the wreck has become an artificial reef habitat attracting marine life. As with other Roatan wreck sites, divers can expect to find encrusting corals and sponges on hull surfaces, with groupers, barracuda, and moray eels in residence. Advanced certification recommended.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Man Of War is a wreck dive site in Roatán, Caribbean.
 
 ## Overview
 
-Man Of War is a dive site in Roatán featuring a historic wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Man of War is a wreck dive registered in the Roatan Marine Park database. The name suggests a historically significant or military-associated vessel, though detailed published information about the wreck's history and diving conditions is limited. Located along Roatan's eastern barrier reef at approximately 30 meters depth, the wreck structure provides artificial reef habitat for marine life including groupers, snappers, and moray eels. Soft corals and sponges encrust the hull surfaces. Advanced certification recommended.
 
 ## Site Information
 

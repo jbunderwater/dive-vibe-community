@@ -17,7 +17,7 @@ Liams Lair is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Liams Lair is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Liams Lair is a Roatan Marine Park named dive site along the eastern section of Roatan's barrier reef. While detailed published information about this specific site is limited, it occupies a quieter stretch of reef where dive boats are less frequent and marine life is undisturbed. The wall features healthy coral formations with sponges and sea fans. Divers in this area commonly see hawksbill and green sea turtles, eagle rays, large groupers, and schools of tropical reef fish. Visibility typically averages 20-40 meters.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Lyonfish Reef is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Lyonfish Reef is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Lyonfish Reef is a Roatan Marine Park mooring site along the barrier reef east of Sandy Bay. The name references the lionfish — an invasive Indo-Pacific species that has colonized Caribbean reefs since the early 2000s. Roatan dive operators actively manage lionfish populations through organized removal dives, and this site may serve as one such management area. Beyond the lionfish context, the reef features healthy coral formations with the diverse tropical marine life typical of Roatan's south coast. Visibility ranges 20-40 meters.
 
 ## Site Information
 

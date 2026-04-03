@@ -17,7 +17,7 @@ Havey's Hideaway is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Havey's Hideaway is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Havey's Hideaway is a Roatan Marine Park mooring site along the barrier reef east of Sandy Bay. While specific diving descriptions for this site are not widely published, the eastern reef corridor offers excellent wall diving on healthy coral formations. Large barrel sponges and gorgonian sea fans decorate the wall face, with moray eels sheltering in crevices and schools of creole wrasse streaming past in the current. Sea turtles are commonly sighted on the reef top. Visibility ranges 20-40 meters.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Leo's Den is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Leo's Den is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Leo's Den is a Roatan Marine Park mooring site along Roatan's south coast reef system. While individual diving descriptions are not widely available, this section of the barrier reef features the dramatic wall diving that Roatan is famous for. The reef top at 10-15 meters gives way to a wall dropping well beyond recreational limits, with barrel sponges, sea fans, and gorgonians along the face. Eagle rays and sea turtles are regular visitors, with groupers and moray eels in the wall's crevices. Visibility ranges 20-40 meters.
 
 ## Site Information
 

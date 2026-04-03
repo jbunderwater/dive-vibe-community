@@ -17,7 +17,7 @@ Wicked Pissa is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Wicked Pissa is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Wicked Pissa is a Roatan Marine Park named dive site along Roatan's eastern barrier reef, part of the park's conservation-funded mooring network. While individual documentation is limited, this section of the reef sees fewer divers than the popular West End area, offering a more secluded experience. The wall features abundant soft corals, sea fans, and encrusting sponges. Marine life includes green sea turtles, spotted eagle rays, Nassau groupers, and barracuda. Water temperatures remain a comfortable 26-29°C throughout the year.
 
 ## Site Information
 

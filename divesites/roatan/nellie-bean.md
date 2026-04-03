@@ -17,7 +17,7 @@ Nellie Bean is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Nellie Bean is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Nellie Bean is a Roatan Marine Park mooring site in the Sandy Bay area, dedicated by Lisa and Sean Lacey in memory of their beloved cat Nellie. While individual published diving information for this site is limited, it sits along the barrier reef where healthy coral formations provide habitat for diverse tropical marine life. Divers typically encounter sea turtles, parrotfish, angelfish, and schools of blue tangs among the coral heads and sandy patches. Visibility ranges 20-40 meters.
 
 ## Site Information
 

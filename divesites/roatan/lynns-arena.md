@@ -17,7 +17,7 @@ Lynns Arena is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Lynns Arena is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Lynns Arena is a Roatan Marine Park mooring site along the eastern section of the south coast barrier reef. While individual published information about this site is limited, it sits within the less-trafficked eastern corridor where the reef is notably pristine. The wall drops from a coral-covered reef top into the deep blue, adorned with barrel sponges, sea fans, and healthy hard corals. Divers typically encounter sea turtles, eagle rays, and groupers. Visibility averages 20-40 meters with water temperatures of 26-29°C year-round.
 
 ## Site Information
 

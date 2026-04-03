@@ -17,7 +17,7 @@ Bella Blue is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Bella Blue is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Bella Blue is a Roatan Marine Park mooring site adjacent to Bella Bean along Roatan's eastern barrier reef near Blue Harbor. While individual published information is limited, this stretch of the reef is notably less visited than the popular West End corridor, offering more pristine conditions. The wall drops from a shallow reef top adorned with sea fans and gorgonians into the deep blue. Divers can expect encounters with sea turtles, eagle rays, and large groupers in an uncrowded setting. Visibility typically ranges 20-40 meters.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Consuelo's is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Consuelo's is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Consuelo's is a Roatan Marine Park mooring site located in front of Lawson Rock in Sandy Bay. Named by Mary and David Casement to honor their beloved Dive Master, it was added to the park's registry in 2022. The site sits along the barrier reef wall where healthy coral formations and sponge gardens create a vibrant underwater landscape. Divers in this area typically encounter eagle rays along the wall, green sea turtles on the reef top, and schools of creole wrasse in the blue water beyond. Visibility ranges from 20 to 40 meters.
 
 ## Site Information
 

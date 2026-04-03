@@ -17,7 +17,7 @@ Markita's Reef is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Markita's Reef is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Markita's Reef is a Roatan Marine Park mooring site along the eastern section of the barrier reef. While individual documentation is limited, this named reef site sits in a less-trafficked area of Roatan's south coast where the coral formations are healthy and diverse. The reef supports colorful tropical fish including parrotfish, angelfish, blue tangs, and trumpetfish, with cleaning stations where gobies and shrimp attend larger fish. Sea turtles and eagle rays are regular visitors. Visibility ranges 20-40 meters.
 
 ## Site Information
 

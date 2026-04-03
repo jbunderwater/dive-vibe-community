@@ -17,7 +17,7 @@ Barry's Reef is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Barry's Reef is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Barry's Reef is a Roatan Marine Park mooring site along the barrier reef between Sandy Bay and French Harbour. While individual published details are limited, this section of the reef offers wall and reef diving with healthy coral formations. The wall is decorated with barrel sponges, sea fans, and gorgonians, providing habitat for eagle rays, green sea turtles, groupers, and schools of creole wrasse. Visibility typically ranges 20-40 meters with warm Caribbean water temperatures.
 
 ## Site Information
 

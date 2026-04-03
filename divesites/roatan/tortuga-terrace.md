@@ -17,7 +17,7 @@ Tortuga Terrace is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Tortuga Terrace is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Tortuga Terrace is a Roatan Marine Park mooring site on the south coast barrier reef between Sandy Bay and the eastern end of the island. While specific published details about this site are limited, the continuous reef wall here offers classic Roatan wall diving — a shallow reef crest transitioning to a vertical wall adorned with barrel sponges, gorgonians, and encrusting corals. Marine life includes eagle rays cruising the blue water, sea turtles grazing on the reef, and moray eels peering from dark overhangs. Visibility ranges 20-40 meters.
 
 ## Site Information
 

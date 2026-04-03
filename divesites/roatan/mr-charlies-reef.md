@@ -17,7 +17,7 @@ Mr Charlie's Reef is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Mr Charlie's Reef is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Mr Charlie's Reef is a Roatan Marine Park mooring site along the south coast barrier reef. While specific published information about this site is limited, it sits within a productive stretch of reef wall where divers can expect healthy coral growth and diverse marine life. Barrel sponges and sea fans adorn the wall face, with groupers at cleaning stations, moray eels in crevices, and eagle rays cruising past in the blue water. Visibility averages 20-40 meters.
 
 ## Site Information
 

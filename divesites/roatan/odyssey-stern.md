@@ -17,7 +17,7 @@ Odyssey Stern is a wreck dive site in Roatán, Caribbean.
 
 ## Overview
 
-Odyssey Stern is a dive site in Roatán featuring a historic wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Odyssey Stern provides access to the stern section of the Odyssey wreck — Roatan's largest shipwreck at 300 feet long. The 91-meter cargo freighter was intentionally sunk in 2002 after a devastating fire. The stern section is tilted to starboard, with holes cut into the hull for diver entry. Interior exploration reveals multi-level stairwells and cargo holds. Marine life includes large groupers, barracuda, green moray eels, glassy sweepers, and soft corals encrusting the hull. Advanced certification recommended; wreck diver certification advised for penetration. Visibility at depth typically ranges 20-30 meters.
 
 ## Site Information
 

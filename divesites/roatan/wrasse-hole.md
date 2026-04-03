@@ -17,7 +17,7 @@ Wrasse Hole is a drift dive site in Roatán, Caribbean.
 
 ## Overview
 
-Wrasse Hole is a dive site in Roatán offering exciting drift diving with currents carrying divers along the reef. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Wrasse Hole is a drift dive site along Roatan's south coast barrier reef. As the name suggests, this site is known for concentrations of wrasse species riding the current along the reef wall. The drift carries divers past healthy coral formations adorned with barrel sponges and gorgonians, with opportunities to spot eagle rays, groupers, and moray eels tucked into wall crevices. Visibility typically ranges 20-40 meters with warm Caribbean water temperatures of 26-29°C.
 
 ## Site Information
 

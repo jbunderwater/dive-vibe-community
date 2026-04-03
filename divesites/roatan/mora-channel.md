@@ -17,7 +17,7 @@ Mora Channel is a drift dive site in Roatán, Caribbean.
 
 ## Overview
 
-Mora Channel is a dive site in Roatán offering exciting drift diving with currents carrying divers along the reef. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Mora Channel is a drift dive site featuring a channel formation along Roatan's barrier reef near Sandy Bay. The channel creates natural current flow that carries divers along the reef, past coral formations and sponge gardens. While detailed published descriptions of this specific channel are limited, drift sites along this section of Roatan's reef typically offer encounters with sea turtles, eagle rays, barracuda, and schools of jacks riding the current. Visibility averages 20-40 meters.
 
 ## Site Information
 
