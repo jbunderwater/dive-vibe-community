@@ -3,7 +3,7 @@ name: Rick's Refuge
 lat: 16.32043
 lng: -86.5863
 difficulty: Intermediate
-maxDepth: 21
+maxDepth: 24
 entryType: boat
 siteType: wall
 ref: null
@@ -25,7 +25,7 @@ Rick's Refuge is a dive site in Roatán featuring a dramatic vertical wall that 
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 21 meters
+- **Maximum Depth**: 24 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

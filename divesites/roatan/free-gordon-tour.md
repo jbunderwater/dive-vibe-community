@@ -3,7 +3,7 @@ name: Free Gordon Tour
 lat: 16.34439
 lng: -86.55805
 difficulty: Intermediate
-maxDepth: 21
+maxDepth: 24
 entryType: boat
 siteType: wall
 ref: null
@@ -25,7 +25,7 @@ Free Gordon Tour is a dive site in Roatán featuring a dramatic vertical wall th
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 21 meters
+- **Maximum Depth**: 24 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

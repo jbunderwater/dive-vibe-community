@@ -2,10 +2,10 @@
 name: Boris, Moose & Squirrel
 lat: 16.298475
 lng: -86.601906
-difficulty: Intermediate
-maxDepth: 21
+difficulty: Beginner
+maxDepth: 18
 entryType: boat
-siteType: wall
+siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,9 +23,9 @@ Boris, Moose & Squirrel is a dive site in Roatán featuring a dramatic vertical 
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 21 meters
+- **Site Type**: Coral reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

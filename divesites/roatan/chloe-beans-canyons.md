@@ -3,7 +3,7 @@ name: Chloe Bean's Canyons
 lat: 16.315824
 lng: -86.590367
 difficulty: Intermediate
-maxDepth: 21
+maxDepth: 27
 entryType: boat
 siteType: wall
 ref: null
@@ -25,7 +25,7 @@ Chloe Bean's Canyons is a dive site in Roatán featuring a dramatic vertical wal
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 21 meters
+- **Maximum Depth**: 27 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

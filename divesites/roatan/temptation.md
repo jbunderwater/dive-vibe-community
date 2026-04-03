@@ -3,7 +3,7 @@ name: Temptation
 lat: 16.27396
 lng: -86.602604
 difficulty: Intermediate
-maxDepth: 21
+maxDepth: 18
 entryType: boat
 siteType: wall
 ref: null
@@ -25,7 +25,7 @@ Temptation is a dive site in Roatán featuring a dramatic vertical wall that dro
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 21 meters
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

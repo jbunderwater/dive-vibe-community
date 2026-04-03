@@ -2,10 +2,10 @@
 name: Fun With Dick And Jane
 lat: 16.282089
 lng: -86.604845
-difficulty: Intermediate
-maxDepth: 21
+difficulty: Beginner
+maxDepth: 18
 entryType: boat
-siteType: wall
+siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,9 +23,9 @@ Fun With Dick And Jane is a dive site in Roatán featuring a dramatic vertical w
 
 - **Location**: Roatán, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 21 meters
+- **Site Type**: Coral reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

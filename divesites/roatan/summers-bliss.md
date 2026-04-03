@@ -3,7 +3,7 @@ name: Summer's Bliss
 lat: 16.328806
 lng: -86.577522
 difficulty: Intermediate
-maxDepth: 21
+maxDepth: 27
 entryType: boat
 siteType: wall
 ref: null
@@ -25,7 +25,7 @@ Summer's Bliss is a dive site in Roatán featuring a dramatic vertical wall that
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 21 meters
+- **Maximum Depth**: 27 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)

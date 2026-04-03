@@ -3,7 +3,7 @@ name: Todd's Last Dance
 lat: 16.26623
 lng: -86.60138
 difficulty: Intermediate
-maxDepth: 21
+maxDepth: 18
 entryType: boat
 siteType: wall
 ref: null
@@ -25,7 +25,7 @@ Todd's Last Dance is a dive site in Roatán featuring a dramatic vertical wall t
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 21 meters
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
