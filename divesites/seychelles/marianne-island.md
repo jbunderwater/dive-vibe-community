@@ -17,7 +17,7 @@ Marianne Island is a pinnacle dive site in Seychelles, Africa.
 
 ## Overview
 
-Marianne Island is a dive site in Seychelles offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+South Marianne is considered the finest dive in the Seychelles' Inner Islands — a site with stunning granite pinnacles, canyons, and dramatic drop-offs that draw grey reef shark aggregations, manta rays, eagle rays, and occasional whale sharks. Strong currents running past the island's southern tip push in large pelagics including yellowfin tuna and rainbow runners that rarely appear at calmer inner sites. The site is best suited to experienced divers who can handle the current, and is accessed by boat from Praslin or La Digue, with the calm season of March–May and October–November offering the best conditions and visibility.
 
 ## Site Information
 

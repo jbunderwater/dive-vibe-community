@@ -17,7 +17,7 @@ Devil's Caves is a cave dive site in St. Kitts and Nevis, Caribbean.
 
 ## Overview
 
-Devil's Caves is a dive site in St. Kitts and Nevis featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Devil's Caves on Nevis's west coast is a network of coral grottos, overhangs, and swim-throughs at a comfortable 12-meter maximum depth, ideal for divers who want the thrill of cavern exploration without committing to a technical dive. Glassy sweepers pack the overhangs, blue tang patrol the open sections, nurse sharks rest in deeper recesses, and the occasional blacktip reef shark passes through the entrance on a casual visit.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Devil's Caves is a dive site in St. Kitts and Nevis featuring underwater cave an
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+Glassy sweepers pack the cavern overhangs and blue tangs patrol the open sections between grottos, while nurse sharks rest in the deeper recesses and blacktip reef sharks make occasional passes through the cave entrances. Spiny lobsters, moray eels, and small crustaceans occupy the crevices of the coral grottos, making this a site where the quantity of marine life per square metre rewards slow, careful exploration.
 
 ## Dive Profile
 

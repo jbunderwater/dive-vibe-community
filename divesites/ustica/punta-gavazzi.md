@@ -17,7 +17,7 @@ Punta Gavazzi is a reef dive site in Ustica, Europe.
 
 ## Overview
 
-Punta Gavazzi is a dive site in Ustica offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Punta Gavazzi is a unique archaeological dive site on the southern tip of Ustica, Italy's oldest Marine Protected Area established in 1986. A signposted underwater museum trail leads divers past Roman and Byzantine anchor stocks, pre-Roman amphorae from ancient shipwrecks, and thematic information panels at a maximum depth of 12-20 metres. The volcanic black lava rock seabed provides a striking backdrop, and the nearby Grotta dei Gamberi adds a natural cave exploration element to this historically rich dive.
 
 ## Site Information
 

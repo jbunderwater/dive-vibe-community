@@ -17,7 +17,7 @@ Musgrave Rock is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-Musgrave Rock is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Musgrave Rock is a rocky outcrop in Satellite Channel off the southwest coast of Saltspring Island, a passage linking Saanich Inlet to the wider Gulf Islands. The site sits near Musgrave Point at the southern end of Saltspring, where tidal currents through the channel support a diverse assemblage of plumose anemones, rockfish, and giant Pacific octopus on the rocky substrate. Harbor seals are common in the area, and the cold, clear water of the channel provides good visibility for exploring the reef structure.
 
 ## Site Information
 

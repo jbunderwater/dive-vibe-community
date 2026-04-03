@@ -17,7 +17,7 @@ Le Grande Bleu is a reef dive site in Greece, Europe.
 
 ## Overview
 
-Le Grande Bleu is a dive site in Greece offering excellent diving on healthy coral reef structures . diving boat scenes of the movie The Big Blue in front of Manganari and/or Tris Klisies bay. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Le Grande Bleu is a reef dive site off Ios in the Cyclades, near Manganari Bay — the very location used to film the childhood scenes of Luc Besson's cult 1988 freediving film "The Big Blue," where the director himself had spent part of his childhood. The clear Aegean water and volcanic reef topography of Ios descend to 20 metres, with groupers, moray eels, octopus, barracuda, sea bream, and posidonia seagrass beds providing a distinctly Mediterranean underwater character. The Cyclades offer some of the Aegean's warmest and most transparent summer diving, and the film connection draws divers to what is otherwise an unspoiled and lightly dived corner of the island group.
 
 ## Site Information
 

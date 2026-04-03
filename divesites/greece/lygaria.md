@@ -17,7 +17,7 @@ Lygaria is a reef dive site in Greece, Europe.
 
 ## Overview
 
-Lygaria is a dive site in Greece offering excellent diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Lygaria reef wraps around a small peninsula on Crete's north coast near Agia Pelagia, offering a dive that descends in steps — 6 metres, 12 metres, 18 metres — to a maximum of 24 metres at the northwest corner, with a signature swim-through tunnel entered at 14 metres and exiting at 8 metres where moray eels, crabs, scorpionfish, and seasonal lobsters shelter in the rocky passage. Schools of damselfish and various sea bream work the upper reef, while groupers, anemones, nudibranchs, and octopus are found in the holes and crevices throughout; notably, three WWII bombs lie undisturbed at 11 metres just before the safety stop point. The accessible shore-based location and diverse marine life make Lygaria one of the most popular guided reef dives on Crete.
 
 ## Site Information
 

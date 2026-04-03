@@ -17,7 +17,7 @@ USNS General Hoyt S. Vandenberg is a historic wreck dive in Florida Keys, North 
 
 ## Overview
 
-USNS General Hoyt S. Vandenberg is a dive site in Florida Keys featuring the wreck of the USNS General Hoyt S. Vandenberg which sank in 2009-05-27. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Vandenberg is a 524-foot former Cold War missile-tracking ship scuttled 7 miles south of Key West on 27 May 2009, now the second-largest artificial reef in the world and voted the number one wreck dive on Earth by Scuba Diving magazine readers. She lies with the main deck at 100 feet and her tallest superstructure reaching 55–70 feet deep, with the enormous parabolic tracking dishes and radar equipment from her Apollo and Gemini missions creating extraordinary swim-through terrain for advanced divers. Goliath groupers, moray eels, barracuda, and bull sharks are regulars, and the more than 1,000 compartments reward multiple dives across different depths and certification levels.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ USNS General Hoyt S. Vandenberg is a dive site in Florida Keys featuring the wre
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Goliath grouper have claimed the Vandenberg's cavernous holds and machinery spaces as their own, with some individuals exceeding 400 pounds and showing no fear of divers. The tracking dishes and upper superstructure are blanketed in colorful encrusting sponges and soft corals, attracting hogfish, mutton snapper, queen angelfish, and large green moray eels. Bull sharks and nurse sharks are regularly encountered along the hull, and loggerhead sea turtles are frequently spotted resting on the deck structures.
 
 ## Dive Profile
 
@@ -53,7 +53,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of surge, boat traffic, and variable visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 

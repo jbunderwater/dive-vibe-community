@@ -17,7 +17,7 @@ Willis Point is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-Willis Point is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Willis Point is a well-known shore dive on the west side of Saanich Inlet near Victoria, featuring a shallow rocky slope that drops into a sheer wall plunging to over 30 meters. The wall is densely covered in life — large rockfish, lingcod, giant Pacific octopus, decorated warbonnets, nudibranchs, and fragile cloud sponges (glass sponges) that must not be touched as they are slow-growing and easily destroyed. Bluntnose sixgill sharks are occasionally spotted at depth, and current in the inlet is typically mild, making this one of Victoria's most accessible and rewarding wall dives.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Lighthouse is a reef dive site in Andaman Islands, Asia.
 
 ## Overview
 
-Lighthouse is a dive site in Andaman Islands offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Lighthouse is a large fringing coral reef circling a small white lighthouse at the entrance to Havelock Island's jetty channel, one of the island's most popular and accessible sites with a sloping reef running from 3 to 23 metres on a sandy bottom. The site is crowded with fan corals, cauliflower coral, staghorn coral, barrel sponges, and sea fans, hosting giant clams, angelfish, lionfish, triggerfish, pufferfish, unicorn fish, and the chance of encountering humpback parrotfish in large groups. One of very few sites in the Andamans open for night diving, Lighthouse is equally vivid after dark when octopuses and lobsters emerge from the reef.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Lighthouse is a dive site in Andaman Islands offering excellent diving on health
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The shallow fringing reef hosts a dense community of reef fish including angelfish, triggerfish, pufferfish, unicorn fish, and schools of humpback parrotfish, with giant clams and sea fans adding to the coral garden scenery. Lionfish are common residents tucked under ledges, while moray eels and octopuses emerge on the reef at night. This is one of the few Andaman sites open for night diving, making it particularly rewarding for spotting crustaceans and nocturnal feeders after dark.
 
 ## Dive Profile
 

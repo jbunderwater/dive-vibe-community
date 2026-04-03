@@ -17,7 +17,7 @@ Partridge Point is a wall dive site in Cape Town, Africa.
 
 ## Overview
 
-Partridge Point is a dive site in Cape Town featuring a dramatic vertical wall that drops into the deep blue. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Partridge Point, on the False Bay coast near Miller's Point, is considered second only to Castle Rocks among Cape Peninsula dive sites for fish variety and abundance — a complex reef of granite boulders, low outcrops, overhangs, and swim-throughs descending to 26 metres on sand, all draped in dense Cape kelp and heavy invertebrate cover. Large shoals of Hottentot sea bream and Fransmadam fill the water column while Roman, Two-tone Fingerfin, Galjoen, and klipfish work the reef; the resident Cape fur seal colony at Seal Rock will often peel off to dart through the kelp alongside divers and steal the show. The site is almost exclusively accessed by boat from Miller's Point, sits within the Table Mountain National Park MPA, and is best dived after a northwesterly wind when conditions settle on the False Bay shore.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Equator is a historic wreck dive in California Channel Islands, North America.
 
 ## Overview
 
-Equator is a dive site in California Channel Islands featuring the wreck of the Equator. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Equator is a 19th-century wooden-hulled brigantine that wrecked on the rocks off Anacapa Island, one of the oldest shipwrecks in the Channel Islands and notable for its well-preserved bronze and iron hardware visible among the kelp-covered debris field. The site sits in shallow water around 12 meters and is frequently visited by the California sea lions that haul out on Anacapa's rocky shores, often swooping through the wreckage in playful spirals. The surrounding kelp forest adds atmosphere to the dive, with garibaldi and sheephead patrolling the amber fronds above the scattered hull remains.
 
 ## Site Information
 

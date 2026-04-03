@@ -17,7 +17,7 @@ Three Rocks is a pinnacle dive site in UAE - Fujairah, Middle East.
 
 ## Overview
 
-Three Rocks is a dive site in UAE - Fujairah offering excellent diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Three Rocks — also known as Sharm Rocks or the Three Sisters — is a trio of coral-encrusted pinnacles about 20 minutes by boat from Khor Fakkan, spanning roughly 150 metres in length with a fourth submerged rock beyond for more adventurous dives. The shallow depth of 5 to 14 metres makes it one of Fujairah's most accessible sites, with ledges and sandy channels between the pinnacles providing habitat for turtles, cuttlefish, pufferfish, bannerfish, and shoaling fusiliers. The protected status of the surrounding marine area has allowed marine life to thrive, and friendly jawfish are a notable highlight for macro photographers.
 
 ## Site Information
 

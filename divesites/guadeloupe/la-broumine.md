@@ -17,7 +17,7 @@ La Broumine is a historic wreck dive in Guadeloupe, Caribbean.
 
 ## Overview
 
-La Broumine is a dive site in Guadeloupe featuring the wreck of the La Broumine. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+La Broumine is a wreck dive site in the waters of Guadeloupe, resting at 18 metres in the Caribbean Sea, where the warm clear water and coral-encrusted hull support the kind of reef fish community typical of the island's leeward dive sites — groupers, snappers, hawksbill turtles, and southern stingrays among the regular inhabitants. Guadeloupe's diving is centred on the west coast of Basse-Terre, which benefits from volcanic Caribbean seabed topography and the warm nutrient-rich waters between the island and its neighbours. The accessible depth and protected Caribbean conditions make this a solid intermediate wreck dive within Guadeloupe's rich diving scene.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Aasiaat Nugguat is a reef dive site in Greenland, Arctic.
 
 ## Overview
 
-Aasiaat Nugguat is a dive site in Greenland offering rewarding diving on healthy coral reef structures. Located in the Arctic region, this site offers 10-30 meters of visibility with water temperatures averaging -1 to 8°C.
+Aasiaat Nugguat is a reef site near the town of Aasiaat, a prime whale-watching hub just south of Disko Bay where humpback, minke, and fin whales congregate each summer to feed on krill and small fish. The underwater terrain features rocky outcrops and trailing kelp forests descending to 20 meters, with red sea cucumbers, scallops, crabs, and Arctic fish species inhabiting the cold, nutrient-rich water. Visibility can be excellent during calm conditions, and the site offers a rare chance to dive in waters actively used as a feeding ground by large cetaceans.
 
 ## Site Information
 

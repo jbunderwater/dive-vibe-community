@@ -17,7 +17,7 @@ Reay Island is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-Reay Island is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Reay Island is a small island in the southern Gulf Islands east of the Saanich Peninsula, offering boat-access reef diving in waters that are remarkably clear in winter and known for exceptional cold-water marine life. The reef descends to 18 metres with rocky structures colonised by plumose anemones, cloud sponge, nudibranchs, and decorator crabs, with giant Pacific octopus a highlight of any dive here. Rockfish, lingcod, and kelp greenlings are common throughout, and harbour seals frequently investigate divers at this quiet and relatively uncrowded site.
 
 ## Site Information
 

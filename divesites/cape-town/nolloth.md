@@ -17,7 +17,7 @@ Nolloth is a historic wreck dive in Cape Town, Africa.
 
 ## Overview
 
-Nolloth is a dive site in Cape Town featuring the wreck of the Nolloth. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+The MV Nolloth was a Dutch coastal freighter carrying liquor that struck Albatross Rock off Olifantsbos in April 1965; the captain deliberately ran her aground to save the crew, and much of the steel hull remains visible on the beach within the Cape Point section of Table Mountain National Park. The wreck sits in the surge zone at 3–5 metres, barely awash at high tide and fully exposed to the Atlantic swell, which limits diving to genuinely flat conditions but rewards entry with dense kelp growth and cold-water invertebrate life clinging to the rusting plates. The site is most often combined with the nearby Thomas T. Tucker wreck as part of the Olifantsbos Shipwreck Trail.
 
 ## Site Information
 

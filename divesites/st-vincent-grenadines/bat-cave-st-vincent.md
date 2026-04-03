@@ -17,7 +17,7 @@ Bat Cave (St. Vincent) is a cave dive site in St. Vincent and the Grenadines, Ca
 
 ## Overview
 
-Bat Cave (St. Vincent) is a dive site in St. Vincent and the Grenadines featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Bat Cave at Buccament Bay is one of St. Vincent's most exhilarating dives: a surface swim leads into a darkened cavern home to hundreds of bats, then you submerge and drop down a four-foot-wide chasm some 15 meters deep before exiting through a narrow passage into open water on the other side of the headland. The cave is shallow and the swim-through is short, but the combination of the live bat colony overhead and the brilliant blue light at the tunnel's end makes it a bucket-list dive on the island.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Bat Cave (St. Vincent) is a dive site in St. Vincent and the Grenadines featurin
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+The cave environment shelters glassy sweepers, bigeye fish, and spiny lobsters that crowd the low-light interior, while a live colony of bats roosts in the cavern overhead. On the open-water exit side of the tunnel, cleaner wrasse stations, yellowtail snappers, and small parrotfish use the cave entrance as a safe refuge, and the occasional hawksbill turtle or nurse shark is spotted resting outside the passage.
 
 ## Dive Profile
 

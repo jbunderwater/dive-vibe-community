@@ -17,7 +17,7 @@ Donsol Whale Shark Area is a snorkel dive site in Philippines Donsol, Asia.
 
 ## Overview
 
-Donsol Whale Shark Area is a dive site in Philippines Donsol offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Donsol Bay is considered home to one of the world's largest seasonal aggregations of whale sharks (locally called butanding), drawn to the plankton-rich waters where Donsol River feeds into the bay from November through June, with February to April being peak season. Interaction here is snorkel-only — scuba diving with the whale sharks is not permitted — with certified Butanding Interaction Officers (BIOs) briefing visitors on responsible protocols and guiding outrigger boats through the feeding area. This is widely recognized as one of the world's most ethical whale shark encounters, pioneered with WWF Philippines support after the community chose ecotourism over shark hunting following a 1998 discovery of the aggregation.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Donsol Whale Shark Area is a dive site in Philippines Donsol offering excellent 
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Donsol Bay hosts one of the world's largest seasonal aggregations of whale sharks (butanding), drawn by the plankton blooms where the Donsol River discharges into the bay from November through June, peaking February to April. Encounters are snorkel-only — multiple individuals are often sighted in a single session, ranging from juveniles to large adults exceeding 8 meters. Manta rays also occasionally feed in the same plankton-rich waters, and spinner dolphins are sometimes seen in the bay during peak season.
 
 ## Dive Profile
 

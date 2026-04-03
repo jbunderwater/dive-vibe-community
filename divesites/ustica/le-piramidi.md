@@ -17,7 +17,7 @@ Le Piramidi is a pinnacle dive site in Ustica, Europe.
 
 ## Overview
 
-Le Piramidi is a dive site in Ustica offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Le Piramidi is a dramatic seamount on the west coast of Ustica near Punta Spalmatore, where enormous pyramid-shaped volcanic boulders rise from 50 metres to within 5 metres of the surface. Divers navigate vertical chimneys decorated with yellow cluster anemones and colourful sponges, passing resting dusky groupers before reaching the enchanting Grotta dei Cirri, a cave with panoramic openings on two sides inhabited by unicorn shrimps. The outer walls are adorned with orange madrepore, yellow gorgonians, and large lobsters hiding in crevices along the drop-off.
 
 ## Site Information
 

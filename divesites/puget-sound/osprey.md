@@ -17,7 +17,7 @@ Osprey is a historic wreck dive in Puget Sound, North America.
 
 ## Overview
 
-Osprey is a dive site in Puget Sound featuring the wreck of the Osprey which sank in 2018-12-20. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Osprey is a relatively recent Puget Sound wreck, sinking in December 2018 in the northern Sound near Orcas Island in about 18 meters of water — young enough that marine colonization is still actively progressing, offering divers an interesting study in how Pacific Northwest invertebrates and fish rapidly claim new structure. Rockfish and lingcod have already staked out the wreck as territory, and the cold, nutrient-rich waters around the San Juan Islands support the dense anemone growth and colorful invertebrate communities that are characteristic of northern Puget Sound diving. Tidal current is a significant factor in the northern Sound, and diving this site within an hour of slack water makes for far more comfortable conditions than fighting the strong ebb or flood.
 
 ## Site Information
 

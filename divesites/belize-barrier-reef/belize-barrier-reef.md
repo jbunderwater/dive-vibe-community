@@ -17,7 +17,7 @@ Belize Barrier Reef is a reef dive site in Belize Barrier Reef, Caribbean.
 
 ## Overview
 
-Belize Barrier Reef is a dive site in Belize Barrier Reef offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Belize Barrier Reef is the second-largest coral reef system in the world, stretching 300 kilometers along the entire Belizean coastline and designated a UNESCO World Heritage Site in 1996. This general reef dive accesses the inner barrier reef near the cayes, where shallow coral gardens at 5-15 meters host more than 500 fish species, 60 types of coral, and 350 mollusc species. Divers regularly encounter hawksbill and green sea turtles, nurse sharks, southern stingrays, spotted eagle rays, and dense schools of reef fish including parrotfish, angelfish, and blue tangs. The calm, warm waters averaging 27-30 degrees Celsius make this an accessible dive for all certification levels.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Belize Barrier Reef is a dive site in Belize Barrier Reef offering rewarding div
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The shallow coral gardens support over 500 fish species, with hawksbill and green sea turtles, nurse sharks, southern stingrays, and spotted eagle rays being regular sightings among the parrotfish, angelfish, and blue tangs. Splendid toadfish — endemic to Belize — can be found in reef crevices, and large grouper and tarpon are common in the channels and deeper sections of the reef system.
 
 ## Dive Profile
 

@@ -17,7 +17,7 @@ Phyllisia Shipwreck is a historic wreck dive in Cape Town, Africa.
 
 ## Overview
 
-Phyllisia Shipwreck is a dive site in Cape Town featuring the wreck of the Phyllisia Shipwreck. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+The FV Phyllisia was a steam trawler that struck the shore at Hoek van Bobbejaan on the wild Atlantic coast of the Cape Point reserve on 3 May 1968, coming to rest on the outermost point of the headland where the hull, now the same orange-brown as the surrounding rocks, remains visible at low tide. The wreck lies in very shallow water of 3–5 metres directly on the exposed rocks, subject to full Atlantic swell and only rarely diveable — most visitors encounter it on foot via the 5-kilometre Phyllisia Circuit trail from the Gifkommetjie parking area. When conditions are exceptionally calm, the cold-water kelp communities and surge-adapted invertebrates that have colonised the broken hull make for a raw, dramatic dive at the edge of the Cape Peninsula.
 
 ## Site Information
 

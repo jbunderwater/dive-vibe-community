@@ -17,7 +17,7 @@ Longyearbyen Pier is a reef dive site in Svalbard, Arctic.
 
 ## Overview
 
-Longyearbyen Pier is a dive site in Svalbard offering rewarding diving on healthy coral reef structures. Located in the Arctic region, this site offers 10-30 meters of visibility with water temperatures averaging -1 to 8°C.
+Longyearbyen Pier is the most accessible dive site in Svalbard, located in Adventfjorden at the main settlement and launching point for Arctic expeditions. The pier pilings and rocky harbour floor to 12 meters are colonized by kelp, anemones, and hydroids, while the shallows attract polar cod, sculpin, and sea snails. The local Longyearbyen Diving Club begins its season around the turn of May and June when water temperatures hover around 1 degree Celsius, and divers may spot thick-billed murres and black guillemots actively foraging underwater near the harbour lights.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Biet Point is a wall dive site in Philippines Palawan, Asia.
 
 ## Overview
 
-Biet Point is a dive site in Philippines Palawan featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Biet Point (South Miniloc) is El Nido's most famous dive site, reputedly discovered by Jacques Cousteau in the 1970s, positioned between Miniloc and Simizu islands where a channel current nourishes an expansive garden of cabbage corals at around 12 meters. Large schools of yellow snappers and silver tuna hover over the triangular reef, with jacks, barracuda, squid, and cuttlefish circling in the current-enriched blue water beyond.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Biet Point is a dive site in Philippines Palawan featuring a dramatic vertical w
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Biet Point is famous for the large schools of yellow snappers and silver tuna that hover over the cabbage coral garden at 12 meters — one of El Nido's most photogenic fish congregations. Jacks, barracuda, squid, and broadclub cuttlefish circle in the current-enriched blue water beyond the reef, and whitetip reef sharks are regularly seen resting in the boulders below. The lush cabbage coral beds also shelter hawksbill turtles and a variety of reef fish including parrotfish and angelfish.
 
 ## Dive Profile
 

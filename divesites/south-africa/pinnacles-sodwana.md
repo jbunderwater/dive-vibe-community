@@ -17,7 +17,7 @@ Pinnacles Sodwana is a pinnacle dive site in South Africa, Africa.
 
 ## Overview
 
-Pinnacles Sodwana is a dive site in South Africa offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Pinnacles is a shallow reef site at Sodwana Bay where coral heads and rocky outcrops rise to within a few meters of the surface, creating a complex three-dimensional habitat at a maximum depth of around 15 meters. The site is particularly good for macro life — juvenile fish sheltering in coral heads, nudibranchs on the rocky substrate, and flatworms — alongside the larger reef fish and turtles characteristic of the iSimangaliso Marine Reserve. Its shallow profile and typically calm conditions inside the bay make it a reliable choice when offshore reefs are affected by swell.
 
 ## Site Information
 

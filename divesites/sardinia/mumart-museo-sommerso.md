@@ -17,7 +17,7 @@ MuMart (museo sommerso) is a reef dive site in Sardinia, Europe.
 
 ## Overview
 
-MuMart (museo sommerso) is a dive site in Sardinia offering excellent diving on healthy coral reef structures . Underwater art museum with contemporary sculptures anchored on sandy seabed. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+MuMart is Sardinia's underwater art museum, a collection of contemporary sculptures installed on the sandy seabed off the Gallura coast that functions simultaneously as an artificial reef and a gallery. The steel and concrete works are anchored at 5-10 meters depth, accessible to snorkelers and beginner divers, and have already begun accumulating sea grass, sponges, and small fish communities since their installation. The unusual combination of art and marine life makes this a photogenic site unlike anything else in the Mediterranean.
 
 ## Site Information
 

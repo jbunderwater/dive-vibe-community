@@ -17,7 +17,7 @@ Hukurila Cave is a cave dive site in Ambon, Asia.
 
 ## Overview
 
-Hukurila Cave is a dive site in Ambon featuring underwater cave and cavern formations. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Hukurila Cave is a large sea cave on Ambon's south coast formed by a submerged freshwater spring discharging into the ocean, creating a dramatic halocline inside the cavern where fresh and salt water meet in shimmering, refracting layers. The cave entrance sits at around 12 meters depth with the cavern opening large enough for groups to enter without artificial light, and the mix of fresh and salt water has produced unusual biological communities compared to the open reef outside. The site is typically dived in combination with the nearby Pintu Kota arch, as the south coast's clearer Indian Ocean water makes both sites more visually rewarding than the murkier Ambon Bay.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Hukurila Cave is a dive site in Ambon featuring underwater cave and cavern forma
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+Inside Hukurila Cave, the freshwater-saltwater halocline creates a shimmering visual effect and supports unusual crustacean and invertebrate communities, with banded coral shrimp and spiny lobsters occupying the cavern walls. The outer reef on Ambon's south coast benefits from cleaner Indian Ocean water than the bay sites, with hawksbill turtles, reef sharks, and schools of snappers and fusiliers frequenting the area around the cave entrance. Nudibranchs and soft corals colonise the rock surfaces in the transition zone where light filters into the cavern opening.
 
 ## Dive Profile
 

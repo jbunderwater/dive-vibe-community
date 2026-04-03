@@ -17,7 +17,7 @@ ABT Salalah is a historic wreck dive in Oman, Middle East.
 
 ## Overview
 
-ABT Salalah is a dive site in Oman featuring the wreck of the ABT Salalah. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+ABT Salalah is a wreck dive operated by ABT Divers in the Salalah area of Oman's Dhofar region, where the Mirbat coastline hosts multiple submerged vessel remains that have become productive artificial reefs in 15 to 25 metres of water. The structure is colonised by the dense schools of schooling grunts, sweetlips, and sweepers typical of Mirbat wrecks, which form thick swarms completely unfazed by divers, alongside moray eels, groupers, and lionfish in the metal recesses. The site is accessible from October to May between the annual khareef monsoon seasons, when the Dhofar coast offers some of the most unusual diving in Oman — reef fish, kelp forests, dolphins, and even humpback whales in the surrounding waters.
 
 ## Site Information
 

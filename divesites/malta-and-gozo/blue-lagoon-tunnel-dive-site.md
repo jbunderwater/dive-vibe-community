@@ -17,7 +17,7 @@ Blue Lagoon Tunnel Dive Site is a cave dive site in Malta and Gozo, Europe.
 
 ## Overview
 
-Blue Lagoon Tunnel Dive Site is a dive site in Malta and Gozo featuring underwater cave and cavern formations. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The Blue Lagoon Tunnel on Comino is a 30-metre natural tunnel cut through the rock on the western side of Crystal Lagoon, sitting at a maximum depth of just 12 metres in the notoriously clear water between Comino and the tiny islet of Cominotto. The shallow, sheltered site suits all levels and combines naturally with reef exploration along the boulders outside the lagoon, where large schools of saddled seabreams, wrasse, and damselfish congregate and the sandy patches harbour red mullet and flying gurnards. Wide-eyed flounder and occasional stingrays rest on the sandy beds while divers pick their way between the colourful sponge-encrusted drop-offs lining the lagoon's edges.
 
 ## Site Information
 

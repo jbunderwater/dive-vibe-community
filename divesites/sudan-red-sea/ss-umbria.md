@@ -17,7 +17,7 @@ SS Umbria is a historic wreck dive in Sudan Red Sea, Middle East.
 
 ## Overview
 
-SS Umbria is a dive site in Sudan Red Sea featuring a historic wreck which sank in 9 June 1940. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The SS Umbria is one of the finest wreck dives in the world — an Italian cargo ship scuttled by her own captain on June 10, 1940 at Wingate Reef near Port Sudan, moments after he heard Italy had entered WWII, to prevent her cargo of 360,000 bombs from being seized by the British. She lies on her port side in 4–38 metres of water with her secret wartime cargo still intact in the holds, the FIAT automobiles still on the car deck, and her engine room, kitchen, and dining room all accessible and encrusted in soft corals, crinoids, and surrounded by dense schools of sweepers and snapper.
 
 ## Site Information
 

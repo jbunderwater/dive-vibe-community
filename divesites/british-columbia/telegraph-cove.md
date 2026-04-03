@@ -17,7 +17,7 @@ Telegraph Cove is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-Telegraph Cove is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Telegraph Cove is a calm, shore-accessible muck dive in the Cadboro Bay area of Victoria, offering sheltered and shallow diving to around 15 metres on a sediment bottom interspersed with eelgrass beds and scattered rubble patches. The gentle conditions and easy entry make it well-suited for macro hunting, with nudibranchs, small flatfish, shrimp, and occasional giant Pacific octopus among the typical finds. Currents can develop further offshore, but the inner bay area provides a low-stress environment ideal for photography and leisurely exploration of Victoria's more sediment-rich subtidal habitats.
 
 ## Site Information
 

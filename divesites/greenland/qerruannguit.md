@@ -17,7 +17,7 @@ Qerruannguit is a reef dive site in Greenland, Arctic.
 
 ## Overview
 
-Qerruannguit is a dive site in Greenland offering rewarding diving on healthy coral reef structures. Located in the Arctic region, this site offers 10-30 meters of visibility with water temperatures averaging -1 to 8°C.
+Qerruannguit is a rocky reef site in the Disko Bay region of western Greenland, where granite boulders and ledges descend to 16 meters in near-freezing water. The substrate supports trailing cold-water kelp, soft corals, and dense colonies of sea anemones, with nudibranchs, starfish, and sea cucumbers visible among the rocks. Icebergs calved from the Ilulissat Icefjord frequently drift through the area, creating a constantly shifting backdrop and occasional ice diving opportunities.
 
 ## Site Information
 

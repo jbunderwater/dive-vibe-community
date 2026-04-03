@@ -17,7 +17,7 @@ P31 - Patrol Boat is a historic wreck dive in Malta and Gozo, Europe.
 
 ## Overview
 
-P31 - Patrol Boat is a dive site in Malta and Gozo featuring the wreck of the P31 - Patrol Boat which sank in 2009-08-25. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The P31 is a 52-metre former East German Kondor I class minesweeper that was purchased by Malta in 1992, served as a coastal patrol vessel, and was deliberately scuttled off Comino in August 2009 as an artificial reef. The wreck lies almost upright on white sand at 18–20 metres with the top of the superstructure at just 7 metres, making the entire vessel visible on descent — visibility here regularly exceeds 20 metres thanks to the nearby Blue Lagoon. The hold shelters a large resident moray eel, saddled seabreams crowd the exterior, and scorpionfish and octopus hide in the silted-up corners; the open, hazard-free layout makes safe penetration from stern to bow achievable even for Open Water-certified divers.
 
 ## Site Information
 

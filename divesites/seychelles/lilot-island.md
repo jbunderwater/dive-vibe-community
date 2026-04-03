@@ -17,7 +17,7 @@ L'Ilot Island is a reef dive site in Seychelles, Africa.
 
 ## Overview
 
-L'Ilot Island is a dive site in Seychelles offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+L'Ilot is a small island just off Mahé's Beau Vallon coast, surrounded by enormous granite rocks covered in soft corals, sponges, and a diverse mix of reef fish — schools of big-eye snappers, batfish, and barracuda crowd the site alongside resident hawksbill turtles and whitetip reef sharks. The site features good swim-throughs and is well-suited to underwater photography, with caverns that harbour soldierfish and squirrelfish and outside walls alive with marine life. Depths average around 20 metres with visibility up to 30 metres, and the site is suitable for all levels and can also be dived at night.
 
 ## Site Information
 

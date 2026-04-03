@@ -17,7 +17,7 @@ La Palud is a reef dive site in Port-Cros, Europe.
 
 ## Overview
 
-La Palud is a dive site in Port-Cros offering excellent diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+La Palud is the most celebrated site in Port-Cros National Park — Europe's oldest marine park, established in 1963 — and features a marked 1 km underwater trail through posidonia meadows, rocky drop-offs, and sandy banks at depths up to 12 metres. Decades of strict protection have produced an extraordinary "reserve effect": brown meagre and dusky groupers approach divers at snorkelling depth, sea bream and oblades swim directly at camera lenses, and the bay functions as a genuine open-water aquarium teeming with 180 species of fish.
 
 ## Site Information
 

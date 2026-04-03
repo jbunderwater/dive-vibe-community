@@ -17,7 +17,7 @@ Nonooa Rock is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-Nonooa Rock is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Nonooa Rock is a submerged rocky reef in the Strait of Georgia offshore from the Nanaimo area, lying in waters that are among the most biodiverse in the northeast Pacific. The Strait of Georgia's cold, clear water sustains abundant marine life on rocky structures like this one, including lingcod, multiple rockfish species, nudibranchs, and plumose anemones, with giant Pacific octopus frequently found in crevices at depth. Visibility in this part of the strait can be exceptional outside of spring plankton bloom periods, making it a rewarding boat dive for divers based in the central Vancouver Island region.
 
 ## Site Information
 

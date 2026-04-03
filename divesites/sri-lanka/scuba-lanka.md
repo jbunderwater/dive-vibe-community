@@ -17,7 +17,7 @@ Scuba Lanka is a reef dive site in Sri Lanka, Asia.
 
 ## Overview
 
-Scuba Lanka is a dive site in Sri Lanka offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Scuba Lanka is a reef site in Trincomalee on Sri Lanka's northeast coast, an area known for some of the island's best diving due to the clear, warm Indian Ocean waters and the concentration of shipwrecks and coral reefs within easy reach of the harbour. The site offers a mix of hard and soft coral formations down to about 18 meters, with resident parrotfish, oriental sweetlips, and sea turtles, as well as frequent visits from spinner dolphins in the open water above the reef. Trincomalee's natural deep-water bay protects the area from the worst of the monsoon, making diving viable for more of the year than on the southwest coast.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Scuba Lanka is a dive site in Sri Lanka offering rewarding diving on healthy cor
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The mixed hard and soft coral formations support parrotfish, oriental sweetlips, and sea turtles as year-round residents, with trevally and barracuda making regular passes above the reef. Spinner dolphins are frequently visible in the open water over the site, and Trincomalee's clear, productive waters occasionally bring pelagics in from the deeper bay. Moray eels and lionfish inhabit the reef's crevices and overhangs throughout the site's 18-meter depth range.
 
 ## Dive Profile
 

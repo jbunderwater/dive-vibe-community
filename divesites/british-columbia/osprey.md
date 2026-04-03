@@ -17,7 +17,7 @@ Osprey is a historic wreck dive in British Columbia, North America.
 
 ## Overview
 
-Osprey is a dive site in British Columbia featuring the wreck of the Osprey which sank in 2018-12-20. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Osprey is a relatively recent wreck that sank in December 2018 in the waters near the southern Gulf Islands of British Columbia, an area known for its cold, clear Pacific diving with strong tidal passages between the islands. Sitting at depths to 28 metres in a region where tidal currents regularly flush nutrients through the channels, the Osprey has developed a growing population of marine life on its hull typical of BC's cold-water wrecks — rockfish, lingcod, giant Pacific octopus, and dense invertebrate growth including plumose anemones. The site requires boat access in waters where drift conditions can vary significantly with the tide.
 
 ## Site Information
 

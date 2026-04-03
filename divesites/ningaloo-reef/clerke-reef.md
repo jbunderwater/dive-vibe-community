@@ -17,7 +17,7 @@ Clerke Reef is a reef dive site in Ningaloo Reef, Oceania.
 
 ## Overview
 
-Clerke Reef is a dive site in Ningaloo Reef offering rewarding diving on healthy coral reef structures. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Clerke Reef is part of the remote Rowley Shoals chain, rising from 390 metres depth approximately 260 kilometres off Broome in Western Australia. The atoll features spectacular wall diving along outer reef sections with visibility regularly reaching 50 metres, where divers encounter grey reef sharks, giant potato cod, Maori wrasse, and over 230 coral species. The sheltered lagoon harbours calm, shallow dive sites like The Aquarium and Blue Lagoon, while advanced sites such as Jimmy Goes to China offer dramatic 40-metre walls patrolled by sharks and pelagics.
 
 ## Site Information
 

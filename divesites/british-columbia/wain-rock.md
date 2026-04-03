@@ -17,7 +17,7 @@ Wain Rock is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-Wain Rock is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Wain Rock is a rocky reef dive site in the southern Gulf Islands near Sidney and the Saanich Peninsula, in the current-swept channels between Vancouver Island and the Gulf Islands. The reef is typical of this productive region, with rockfish, lingcod, giant Pacific octopus, harbour seals, sea stars, nudibranchs, and anemones exploiting the tidal upwellings that make the Strait of Georgia one of the most species-rich cold-water seas in the world. Boat access and slack tide planning are both important for a comfortable dive.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ West Caicos Wall is a wall dive site in Turks and Caicos, Caribbean.
 
 ## Overview
 
-West Caicos Wall is a dive site in Turks and Caicos featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The West Caicos Wall runs the entire length of this uninhabited island within the West Caicos Marine National Park, widely regarded as the finest wall diving in the Turks and Caicos — sheer vertical faces plunge from 10–15 metres at the crest to well beyond recreational depths, draped in orange elephant ear sponges, towering barrel sponges, and dense gorgonian fans. Caribbean reef sharks cruise the wall on virtually every dive, and it's common to encounter spotted eagle rays, sea turtles, and horse-eye jacks in the open water beyond the drop-off. The remoteness requires a longer boat ride from Provo, but the consistently spectacular coral health and shark activity make it well worth it.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ West Caicos Wall is a dive site in Turks and Caicos featuring a dramatic vertica
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Caribbean reef sharks cruise the wall on virtually every dive, making West Caicos one of the most reliable shark encounters in the archipelago, alongside spotted eagle rays and horse-eye jacks in the open water. Orange elephant ear sponges, towering barrel sponges, and dense gorgonian fans host moray eels and lobsters, while hawksbill turtles complete the roster on this pristine, remote wall system.
 
 ## Dive Profile
 

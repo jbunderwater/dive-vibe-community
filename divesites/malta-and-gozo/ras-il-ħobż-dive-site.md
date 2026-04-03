@@ -17,7 +17,7 @@ Ras il-Ħobż (Dive Site) is a pinnacle dive site in Malta and Gozo, Europe.
 
 ## Overview
 
-Ras il-Ħobż (Dive Site) is a dive site in Malta and Gozo offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Ras il-Ħobż is a dramatic headland on Gozo's southern coast where vertical limestone walls plunge from the surface to well beyond recreational depth limits, making it one of the island's most serious pinnacle and wall dives. Large aggregations of amberjack and barracuda patrol the open water around the point, while big grouper lurk in the deep crevices and cave systems along the cliff face. The site's exposed position means it requires calm sea conditions, but on good days the visibility exceeds 30 meters and the sheer scale of the underwater topography is exceptional.
 
 ## Site Information
 

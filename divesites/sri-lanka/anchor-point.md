@@ -17,7 +17,7 @@ Anchor Point is a reef dive site in Sri Lanka, Asia.
 
 ## Overview
 
-Anchor Point is a dive site in Sri Lanka offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Anchor Point is a reef site off Kalpitiya on Sri Lanka's northwest coast, where a rugged rocky bottom studded with coral outcrops drops to about 20 meters in the warm Palk Strait waters. The site takes its name from the numerous old anchors and anchor chain fragments scattered across the reef floor — remnants of the historic spice trade and colonial shipping that passed through these waters — providing artificial reef habitat for moray eels, lionfish, and cuttlefish. Kalpitiya is also known for large aggregations of spinner dolphins offshore, and whale sharks have been reported in the area during the November–March season.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Anchor Point is a dive site in Sri Lanka offering rewarding diving on healthy co
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The old anchors and chain fragments scattered across the reef floor have become artificial reef structures colonised by moray eels, lionfish, and cuttlefish using the ironwork as shelter and hunting grounds. Parrotfish, grouper, and sea turtles are regular visitors to the surrounding coral outcrops, while barracuda and trevally school in the mid-water above the rocky bottom. Whale sharks have been reported in the Kalpitiya area during the November–March season when conditions bring productive waters to the outer reef.
 
 ## Dive Profile
 

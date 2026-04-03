@@ -17,7 +17,7 @@ Shimoni Caves Reef is a cave dive site in Kenya Coast, Africa.
 
 ## Overview
 
-Shimoni Caves Reef is a dive site in Kenya Coast featuring underwater cave and cavern formations. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Shimoni Caves Reef sits in the protected waters of Kisite-Mpunguti Marine National Park near the southern Kenyan border, where dive sites range from 2 meters to over 30 meters and the reef has been recognized by the Marine Conservation Institute as a Blue Park for its exceptional conservation. Divers here navigate through coral cavern formations and along the reef walls teeming with parrotfish, triggerfish, moray eels, and groupers, with large stingrays and reef sharks frequently sighted — and humpback whales and whale sharks passing through seasonally between July and October. The best diving is during the northeast monsoon season from November to March when visibility and conditions are at their peak.
 
 ## Site Information
 

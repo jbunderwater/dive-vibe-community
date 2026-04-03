@@ -17,7 +17,7 @@ Het Huis te Kraaienstjin is a historic wreck dive in Cape Town, Africa.
 
 ## Overview
 
-Het Huis te Kraaienstjin is a dive site in Cape Town featuring the wreck of the Het Huis te Kraaienstjin. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Het Huis te Kraaienstein is South Africa's oldest known shipwreck — a Dutch East India Company vessel built in 1697 that struck the rocks at Oudekraal in thick mist on 27 May 1698 on her maiden outward voyage, carrying 57,000 silver pieces-of-eight of which three chests mysteriously disappeared. The fragmented wreck lies among granite corestone boulders in shallow water at 5–12 metres, and divers can find two heavily encrusted bronze cannon about 3 metres long lying in a V-formation at the southern end of a boulder gap, along with a large iron anchor partly buried in the sand nearby; another anchor thought to be from this wreck sits near Justin's Caves to the north. The site is sheltered from southwest swell, best dived in summer after southeast winds, and sits within the Karbonkelberg Marine Protected Area requiring a TMNP permit.
 
 ## Site Information
 

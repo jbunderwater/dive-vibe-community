@@ -17,7 +17,7 @@ The Hole in the Wall is a cave dive site in Turks and Caicos, Caribbean.
 
 ## Overview
 
-The Hole in the Wall is a dive site in Turks and Caicos featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Hole in the Wall at Northwest Point is a narrow vertical crack in the reef that drops from 17 metres and exits onto the face of the wall at around 27 metres — a one-at-a-time squeeze that delivers divers from the shallow reef directly to the edge of the abyss. Inside the crack, brittle corals, lobsters, and schools of small reef fish line the walls, and the sensation of sliding from the reef into open wall at depth is described by divers as unlike anything else in the Turks and Caicos. The surrounding Northwest Point wall supports tube sponges, elephant ear sponges, massive barrel sponges, reef sharks, eagle rays, and turtles, making the site a full dive even outside the main feature.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ The Hole in the Wall is a dive site in Turks and Caicos featuring underwater cav
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+Lobsters and small reef fish line the walls of the vertical crack, with brittle corals providing structure in the low-light passage. On the open wall outside the feature, tube sponges, elephant ear sponges, and massive barrel sponges host Caribbean reef sharks, eagle rays, and hawksbill turtles in the high-visibility Northwest Point waters.
 
 ## Dive Profile
 

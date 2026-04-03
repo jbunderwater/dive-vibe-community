@@ -17,7 +17,7 @@ Inchcape 2 is a historic wreck dive in UAE - Fujairah, Middle East.
 
 ## Overview
 
-Inchcape 2 is a dive site in UAE - Fujairah featuring the wreck of the Inchcape 2. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Inchcape 2 is the larger of the two Inchcape wrecks, a former crew-and-supply vessel that was donated by Inchcape Shipping Services and sunk in April 2002 opposite Martini Wall at a depth of 17 to 24 metres. Cyclone Gonu in 2007 stripped the wheelhouse clean away, earning the hull its nickname "the big metal canoe," but this has only made the wreck more photogenic — bright yellow, pink, and purple corals coat every surface, and nudibranchs are found in such variety that at least 20 new species have been recorded here. The wreck is large enough for 20 metres of safe penetration dives and is constantly changing, with every visit revealing different shoals of fusiliers, chromis, pufferfish, and scorpionfish.
 
 ## Site Information
 

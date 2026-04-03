@@ -17,7 +17,7 @@ Tantabiddi is a reef dive site in Ningaloo Reef, Oceania.
 
 ## Overview
 
-Tantabiddi is a dive site in Ningaloo Reef offering excellent diving on healthy coral reef structures. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Tantabiddi is the main boat ramp and reef access point on the outer northern section of Ningaloo Marine Park, used as the departure point for whale shark tours from March through July when the aggregation is at its peak. The reef at Tantabiddi itself features a shallow channel through the reef crest leading to coral bommies and sandy channels where sea turtles, reef sharks, and rays are regularly encountered on standard dive trips. The Tantabiddi reef passage has historically provided some of the most reliable big-animal encounters at Ningaloo, with manta rays seasonally feeding in the current-swept channel.
 
 ## Site Information
 

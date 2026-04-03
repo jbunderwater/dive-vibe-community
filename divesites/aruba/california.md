@@ -17,7 +17,7 @@ California is a historic wreck dive in Aruba, Caribbean.
 
 ## Overview
 
-California is a dive site in Aruba featuring the wreck of the California which sank in September 23rd, 1891 . North coast, shallow 14m but strong currents and rough seas, advanced wreck divers only, infrequently dived. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The California is a 19th-century sailing ship that wrecked on Aruba's exposed northern shore in 1891, now lying in about 14 meters of water with her iron-ribbed hull frame largely intact and encrusted with hard corals and sponges. This coast faces the full force of the Atlantic tradewinds, generating surge and occasionally heavy current that keeps most diveboats away, making it one of Aruba's least-visited wrecks despite its historical character. Those who time a calm-day visit are rewarded with solitude and prolific marine life — large parrotfish, barracuda, and nurse sharks patrol the broken hull, which has had more than a century to accumulate coral growth.
 
 ## Site Information
 

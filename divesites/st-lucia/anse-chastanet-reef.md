@@ -17,7 +17,7 @@ Anse Chastanet Reef is a reef dive site in St. Lucia, Caribbean.
 
 ## Overview
 
-Anse Chastanet Reef is a dive site in St. Lucia offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Anse Chastanet Reef begins just metres from the beach in the heart of the Soufrière Marine Management Area and is consistently rated among the top shore dives in the entire Caribbean by Scuba Diving Magazine readers. The reef hosts over 150 fish species along with an impressive variety of sponges — gigantic barrel sponges, purple vase sponges, black coral trees, and dense gorgonian fans — and seahorses, scorpionfish, and cleaner shrimps are reliably found in the shallower sections. The protection of the SMMA since 1995 has produced a genuinely healthy reef with resident sea turtles, octopus, cuttlefish, and golden spotted eels alongside the colourful schools of parrotfish, grunts, and angelfish.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Anse Chastanet Reef is a dive site in St. Lucia offering excellent diving on hea
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Seahorses, scorpionfish, and cleaner shrimps are reliably found in the shallower reef sections, while octopus, cuttlefish, and golden spotted eels are resident alongside over 150 fish species. Hawksbill turtles are common throughout the site, and the SMMA's protection since 1995 has produced genuinely dense populations of parrotfish, grunts, and angelfish around the giant barrel sponges and black coral trees.
 
 ## Dive Profile
 

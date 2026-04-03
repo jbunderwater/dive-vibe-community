@@ -17,7 +17,7 @@ OY-ADH Blue Cheese is a historic wreck dive in Greenland, Arctic.
 
 ## Overview
 
-OY-ADH Blue Cheese is a dive site in Greenland featuring the wreck of the OY-ADH Blue Cheese. Located in the Arctic region, this site offers 10-30 meters of visibility with water temperatures averaging -1 to 8°C.
+OY-ADH Blue Cheese is an aircraft wreck in the waters of northeastern Greenland — one of Greenland's niche and seldom-dived underwater sites accessible only during the narrow June-September diving window when ice conditions permit. The wreck rests at 35 meters in Arctic water temperatures of -1 to 8°C, requiring full drysuit equipment and cold-water diving proficiency; the reward is the exceptional clarity of Greenlandic water, often 15-25 meters visibility, and the eerie atmosphere of exploring an aircraft in one of the world's most remote and pristine diving environments. Greenland diving is primarily organized through specialist operators, and any visit to this site requires careful logistical planning given the complete absence of diving support infrastructure in the region.
 
 ## Site Information
 

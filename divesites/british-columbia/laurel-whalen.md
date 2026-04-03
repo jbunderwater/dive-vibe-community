@@ -17,7 +17,7 @@ Laurel Whalen is a historic wreck dive in British Columbia, North America.
 
 ## Overview
 
-Laurel Whalen is a dive site in British Columbia featuring the wreck of the Laurel Whalen which sank in August 19th 1936 . Early 1900s schooner sunk as part of a breakwater. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Laurel Whalen was a wood-hulled auxiliary schooner built in 1917 that became the very first vessel deliberately scuttled at Royston when it was sunk on August 20, 1936, starting what would eventually become a 14-ship breakwater protecting the Comox Logging Company's booming grounds near Comox on Vancouver Island. The Royston Wrecks collection grew over the following 25 years and is now a registered provincial archaeological site protected under the BC Heritage Conservation Act. The wooden hull structure of Laurel Whalen has deteriorated significantly over the decades but still provides a framework for marine life, including anemones, nudibranchs, and rockfish drawn to the complex substrate.
 
 ## Site Information
 

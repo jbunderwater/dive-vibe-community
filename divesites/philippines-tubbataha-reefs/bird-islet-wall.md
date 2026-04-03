@@ -17,7 +17,7 @@ Bird Islet Wall is a wall dive site in Philippines Tubbataha Reefs, Asia.
 
 ## Overview
 
-Bird Islet Wall is a dive site in Philippines Tubbataha Reefs featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Bird Islet Wall drops off the northern edge of Tubbataha's North Atoll in a sheer curtain draped with gorgonian fans and dense soft corals, with visibility regularly reaching 30-40 meters in the UNESCO World Heritage park's pristine Sulu Sea waters. The wall starts shallow at the reef top and plunges beyond recreational limits, drawing grey reef sharks, hammerheads, and the occasional whale shark cruising in the blue alongside schools of trevally and barracuda. This liveaboard-only site is accessible just three months a year, from mid-March to mid-June, when seas flatten and the park opens its gates.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Bird Islet Wall is a dive site in Philippines Tubbataha Reefs featuring a dramat
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Bird Islet Wall is a classic Tubbataha pelagic site, with grey reef sharks and hammerheads patrolling the blue beyond the wall and whale sharks occasionally cruising past in the Sulu Sea's famously clear water. Dense schools of trevally and barracuda work the wall edge where the current runs, while hawksbill turtles and napoleon wrasse are steady fixtures on the gorgonian-draped wall face. The pristine hard coral reef top, protected as part of the UNESCO World Heritage park, supports dense populations of reef fish with high species diversity.
 
 ## Dive Profile
 

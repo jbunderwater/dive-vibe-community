@@ -17,7 +17,7 @@ S. F. Tolmie is a historic wreck dive in British Columbia, North America.
 
 ## Overview
 
-S. F. Tolmie is a dive site in British Columbia featuring the wreck of the S. F. Tolmie which sank in 1944-12-27. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The S.F. Tolmie was a 235-foot four-masted barquentine built in Victoria in 1921 and named after Simon Fraser Tolmie, the 21st Premier of British Columbia. On December 27, 1944, gale-force winds broke the ship free from its moorings in Victoria Harbour and drove it aground near Harrison Island, where the hull was eventually lost. The wooden structure has largely dissolved over the decades, leaving behind scattered metal fittings and frames lying at 9–12 metres depth, with the whole scattered site covered in the rich marine growth typical of BC's cold-water environments near Victoria.
 
 ## Site Information
 

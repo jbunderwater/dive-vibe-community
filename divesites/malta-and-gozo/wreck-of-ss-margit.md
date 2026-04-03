@@ -17,7 +17,7 @@ Wreck of SS Margit is a historic wreck dive in Malta and Gozo, Europe.
 
 ## Overview
 
-Wreck of SS Margit is a dive site in Malta and Gozo featuring a historic wreck which sank in 1941-04-19. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The SS Margit was a 105-metre Italian passenger ship built in 1912 that was hit by German bombers while moored in Kalkara Creek on 19 April 1941, sinking to the silty harbour bottom at 22 metres on her port side. The scale of the wreck is impressive — roughly 100 metres of hull to explore — and large groupers, conger eels, and other fish shelter throughout the broken structure, though harbour visibility is typically poor by Maltese standards. This is a boat-access dive for intermediate divers who appreciate wartime history and don't mind trading crystal clarity for a genuinely large and atmospheric wreck.
 
 ## Site Information
 

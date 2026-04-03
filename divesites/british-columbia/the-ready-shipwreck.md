@@ -17,7 +17,7 @@ The Ready Shipwreck is a historic wreck dive in British Columbia, North America.
 
 ## Overview
 
-The Ready Shipwreck is a dive site in British Columbia featuring the wreck of the The Ready Shipwreck . Popular scuba and freediving site. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Ready lies at the base of old pilings at Britannia Beach in Howe Sound, just south of Squamish on the Sea-to-Sky Highway, and is the first of three wrecks that can be visited in sequence at this shore entry site. The wreck sits in 9–15 metres of water and shares the dive with a second unidentified wreck directly beneath it, and the Cape Swain wreck nearby — making it possible to visit all three on a single tank at high-tide slack. Howe Sound marine life surrounds the structure: plumose anemones, lingcod, rockfish, flatfish, nudibranchs, and octopus are all commonly seen in the cold, silty-bottomed waters of this fjord.
 
 ## Site Information
 

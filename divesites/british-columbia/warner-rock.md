@@ -17,7 +17,7 @@ Warner Rock is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-Warner Rock is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Warner Rock is a rocky reef dive site in Barkley Sound, a world-class cold-water destination on the west coast of Vancouver Island where Pacific Ocean influence produces exceptionally diverse marine communities. Divers can expect encounters with giant Pacific octopus, wolf eels, lingcod, a wide variety of rockfish species, sea lions, and dense invertebrate life including plumose anemones, sea pens, and nudibranchs found in fewer numbers along BC's more sheltered east coast. The site requires a drysuit and live-boat support, and is best accessed through local Barkley Sound operators.
 
 ## Site Information
 

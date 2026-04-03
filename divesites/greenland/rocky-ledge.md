@@ -17,7 +17,7 @@ Rocky Ledge is a reef dive site in Greenland, Arctic.
 
 ## Overview
 
-Rocky Ledge is a dive site in Greenland offering rewarding diving on healthy coral reef structures. Located in the Arctic region, this site offers 10-30 meters of visibility with water temperatures averaging -1 to 8°C.
+Rocky Ledge is a stepped granite reef formation off western Greenland, where a series of rocky shelves drops to 15 meters in exceptionally clear Arctic water. The ledges are encrusted with hydroids, sea squirts, and cold-water anemones, while lumpfish, Atlantic wolffish, and shorthorn sculpin patrol the crevices between boulders. Strong tidal currents can sweep across the exposed reef, bringing plankton-rich water that supports dense populations of amphipods, scallops, and bristle worms in the kelp below.
 
 ## Site Information
 

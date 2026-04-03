@@ -17,7 +17,7 @@ Grebe is a historic wreck dive in Alaska, North America.
 
 ## Overview
 
-Grebe is a dive site in Alaska featuring the wreck of the Grebe. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Grebe is a sunken vessel resting in Prince William Sound near Cordova, part of a cluster of wreck dive sites in this productive, glacier-framed inlet of the Gulf of Alaska. The wreck lies at around 15 meters depth and has become home to lingcod, rockfish, and the typical cold-water invertebrate community of the Sound, with plumose anemones and sea stars colonizing the hull structure. Prince William Sound's water temperatures average 8-14 degrees C in summer, requiring full drysuit gear, and the Sound's exceptional scenery — tidewater glaciers, sea otters, and humpback whales visible from the surface — adds a memorable dimension to every dive day.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ USCGC Tiger is a historic wreck dive in Puget Sound, North America.
 
 ## Overview
 
-USCGC Tiger is a dive site in Puget Sound featuring the wreck of the USCGC Tiger. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The USCGC Tiger is a 125-foot former Coast Guard cutter with a WWII history — she was patrolling off Barber's Point on December 7, 1941, earning a Battle Star for Pearl Harbor — later decommissioned and eventually used as a floating hull in Tacoma before finding her final resting place in Puget Sound at 18 meters. The wreck now provides structure in an otherwise open-water environment and has attracted lingcod, cabezon, rockfish, and the occasional wolf eel to its encrusted hull, with visibility in Puget Sound typically ranging from 5-15 meters depending on conditions and season. Cold water between 7-12°C year-round means a drysuit is strongly recommended, and tidal current timing is essential for a comfortable dive.
 
 ## Site Information
 

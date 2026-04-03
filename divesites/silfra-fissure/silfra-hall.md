@@ -17,7 +17,7 @@ Silfra Hall is a wall dive site in Silfra Fissure, Europe.
 
 ## Overview
 
-Silfra Hall is a renowned dive site in Silfra Fissure featuring a dramatic vertical wall that drops into the deep blue. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Silfra Hall is the widest section of the Silfra fissure, where the tectonic crack opens up after the narrow Big Crack entry and towering lava walls rise on either side. The increased space makes the extraordinary visibility — often beyond 100 metres — especially apparent here, with sunlight filtering down through the 2–4°C glacial water and illuminating the electric blues and greens of the underwater landscape. The Hall contains a complex of cave systems dropping to 45 metres, though guided dives stay within recreational depth limits of 18 metres.
 
 ## Site Information
 

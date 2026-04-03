@@ -17,7 +17,7 @@ Reqqa Point is a wall dive site in Malta and Gozo, Europe.
 
 ## Overview
 
-Reqqa Point is a dive site in Malta and Gozo featuring a dramatic vertical wall that drops into the deep blue . Dramatic wall drop-off. Reef drops to 17-25m to the west, 60m+ to the east. Deep chimney 'Reqqa bottle' at 58m.. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Reqqa Point on Gozo's remote north coast is widely considered the island's premier wall dive — the reef crest sits at 17 metres to the west and drops to over 60 metres to the east, and the vertical face is covered in gorgonians, sea fans, and colourful sponges that reward divers at every depth. Large groupers, Dentex, hunting barracuda, and rays are regularly seen cruising the blue water off the wall, while Tompot blennies, nudibranchs, and shrimps hide in the rock fissures. Technical divers seek out the legendary "Reqqa Bottle," a deep chimney with its entrance at 58 metres and exit at 35 metres, but shallower chimneys between 6 and 17 metres offer the same dramatic experience within recreational limits.
 
 ## Site Information
 

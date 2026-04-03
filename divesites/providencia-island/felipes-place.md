@@ -17,7 +17,7 @@ Felipe's Place is a wall dive site in Providencia Island, Caribbean.
 
 ## Overview
 
-Felipe's Place is a dive site in Providencia Island featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Felipe's Place is named for a local dive shop owner and tops at around 10 metres before the wall and terraces descend to 25 metres, covered in a colourful variety of hard and soft corals, sponges, gorgonians, and black coral that reflects the exceptional health of Providencia's UNESCO Seaflower barrier reef system. The site is accessible to intermediate divers and reliably delivers encounters with crabs, spiny lobster, sea urchins, sea turtles, and Caribbean reef sharks, with barracuda frequently hovering in the current above the terrace edges. It is one of the most consistently rewarding dives on the island for those wanting full barrier reef exposure without the depths of the more advanced wall sites.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Felipe's Place is a dive site in Providencia Island featuring a dramatic vertica
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Caribbean reef sharks and barracuda hover in the current above the terrace edges, while spiny lobster, crabs, and sea urchins populate the coral, sponge, and gorgonian-encrusted wall face. Sea turtles are reliably seen at this site, and the healthy hard and soft coral cover supports abundant parrotfish, snappers, and angelfish throughout the dive.
 
 ## Dive Profile
 

@@ -17,7 +17,7 @@ East Flower Garden Bank is a reef dive site in Flower Garden Banks, North Americ
 
 ## Overview
 
-East Flower Garden Bank is a dive site in Flower Garden Banks offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+East Flower Garden Bank sits atop a salt dome 100 nautical miles off Galveston, Texas, supporting the northernmost coral reef on the North American continental shelf. Coral covers more than 50 percent of the reef cap down to about 30 meters, dominated by massive brain and star coral formations, making it one of the healthiest reef systems in the Western Hemisphere. Resident manta rays, loggerhead sea turtles, and nurse sharks patrol the sand channels, while scalloped hammerhead sharks school here in winter and whale sharks pass through during summer months.
 
 ## Site Information
 

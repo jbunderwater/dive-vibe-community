@@ -17,7 +17,7 @@ West Flower Garden Bank is a reef dive site in Flower Garden Banks, North Americ
 
 ## Overview
 
-West Flower Garden Bank is a dive site in Flower Garden Banks offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+West Flower Garden Bank is an underwater mountain 100 nautical miles offshore in the Gulf of Mexico, renowned as one of the best sites in the sanctuary for manta ray encounters. The 100-acre reef plateau boasts over 50 percent coral cover with massive boulder-shaped brain and star corals, and visibility can exceed 30 meters in summer. Spotted eagle rays school here in winter, whale sharks visit from July through September, and the August full moon triggers a spectacular mass coral spawning event.
 
 ## Site Information
 

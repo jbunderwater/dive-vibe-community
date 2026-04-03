@@ -17,7 +17,7 @@ Japanese Ship Wreck is a historic wreck dive in Philippines Malapascua, Asia.
 
 ## Overview
 
-Japanese Ship Wreck is a dive site in Philippines Malapascua featuring the wreck of the Japanese Ship Wreck. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The Japanese Ship Wreck is a WWII-era vessel lying in the passage between Malapascua and Leyte, its hull heavily colonised by soft corals and encrusting sponges that make every surface glow orange and pink under torch light. The wreck sits with its shallowest decks around 18 meters and the keel touching 33 meters, giving intermediate divers a manageable bottom time before ascending to pick through the superstructure. Schools of batfish hover over the bow, and lionfish are almost always lurking in the shadowed doorways and cargo holds.
 
 ## Site Information
 

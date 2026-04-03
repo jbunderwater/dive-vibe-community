@@ -17,7 +17,7 @@ Cabrits Drop is a wall dive site in Dominica, Caribbean.
 
 ## Overview
 
-Cabrits Drop is a dive site in Dominica featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Cabrits Drop is a steep volcanic wall off the Cabrits Peninsula in northern Dominica, within the Cabrits National Park Marine Section, where the slope begins at 8 metres and drops dramatically to 25–30 metres on a sandy bottom carpeted with large barrel sponges and hard corals. The headland provides good shelter from current, visibility is generally strong, and enormous feather stars and pink and purple sponges give the site a photogenic quality typical of Dominica's volcanic north. Huge boulders that slid from the peninsula into the sea have created cave-like swim-throughs in the shallower sections, and the site is a short boat ride from the historic Prince Rupert Bay.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Cabrits Drop is a dive site in Dominica featuring a dramatic vertical wall that 
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The volcanic wall and boulder swim-throughs at Cabrits attract hawksbill turtles, large feather stars, and creole wrasse in substantial numbers, while the barrel sponges and encrusting corals harbor sergeant majors and resident moray eels. Spotted eagle rays and barracuda patrol the open water off the wall face, and the cave-like spaces beneath the boulders are worth checking for lobsters and squirrelfish.
 
 ## Dive Profile
 

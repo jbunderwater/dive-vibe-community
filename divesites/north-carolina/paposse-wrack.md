@@ -17,7 +17,7 @@ Paposse (Wrack) is a historic wreck dive in North Carolina, North America.
 
 ## Overview
 
-Paposse (Wrack) is a dive site in North Carolina featuring the wreck of the Paposse (Wrack). Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The wreck known to divers as the "Papoose" is actually the W.E. Hutton, a 435-foot petroleum tanker torpedoed by U-124 on 19 March 1942 while carrying 65,000 barrels of heating oil — she now lies upside down in 38 metres about 36 nautical miles from shore, close enough to the Gulf Stream that visibility of 100 feet is achievable. The inverted hull creates dramatic swim-through opportunities beneath the massive structure, and the site is heavily trafficked by sand tiger sharks drawn to the wreck's dark underside; turtles, jacks, and stingrays round out the offshore marine community. The three-hour boat ride from Morehead City keeps the site relatively uncrowded despite its fame as one of North Carolina's great wreck dives.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Paposse (Wrack) is a dive site in North Carolina featuring the wreck of the Papo
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Papoose (W.E. Hutton) is one of North Carolina's premier sand tiger shark sites — large individuals circle the inverted hull's shadowed underside throughout the dive season. Gulf Stream proximity also brings impressive pelagic action: schools of amberjack and barracuda sweep the wreck's exterior, Atlantic spadefish form dense clouds above the hull, and loggerhead sea turtles and occasional manta rays are spotted in the blue water surrounding the site.
 
 ## Dive Profile
 

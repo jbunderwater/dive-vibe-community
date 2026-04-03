@@ -17,7 +17,7 @@ Nahoon Wreck is a historic wreck dive in Martinique, Caribbean.
 
 ## Overview
 
-Nahoon Wreck is a dive site in Martinique featuring the wreck of the Nahoon Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Nahoon was a steel-hulled three-masted schooner built in 1911, originally used as a buoy-tender in the North Sea before spending decades in the Caribbean, and was deliberately sunk in 1993 off Les Anses d'Arlet as an artificial reef by local dive centres. The wreck lies at 35 metres with its steering wheel impressively preserved and still mobile, its engine room and holds accessible to exploration, and a large green moray eel that regularly patrols the hull alongside snappers that spawn near the masts and lobsters sheltering in the keel. Despite its relatively recent sinking, the Nahoon has become one of Martinique's most rewarding wreck dives, the structure thickly colonised by sponges and coral.
 
 ## Site Information
 

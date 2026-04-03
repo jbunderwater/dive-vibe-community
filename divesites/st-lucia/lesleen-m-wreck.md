@@ -17,7 +17,7 @@ Lesleen M Wreck is a historic wreck dive in St. Lucia, Caribbean.
 
 ## Overview
 
-Lesleen M Wreck is a dive site in St. Lucia featuring the wreck of the Lesleen M Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Lesleen M is a 50-metre freighter deliberately sunk by St. Lucia's Department of Fisheries in 1986, and it has become one of the island's most-dived wrecks — resting on an even keel on the sandy floor of Anse Cochon at 18 metres with the deck at just 9 metres. The hull is blanketed in deep sea fans, sponges, and hydroids, providing nursery habitat for queen and French angelfish, and a famously large green moray eel has lived at the bow for years, greeting nearly every group that passes. Hawksbill turtles visit regularly, lobsters shelter in the darker corners, and the open, upright layout makes safe exploration of the cargo hold accessible even for newly certified divers.
 
 ## Site Information
 

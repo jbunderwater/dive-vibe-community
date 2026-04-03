@@ -17,7 +17,7 @@ Stolt Dagali is a historic wreck dive in New Jersey Shore, North America.
 
 ## Overview
 
-Stolt Dagali is a dive site in New Jersey Shore featuring the wreck of the Stolt Dagali. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Stolt Dagali was a Norwegian tanker cut in half by the ocean liner SS Shalom on Thanksgiving night 1964, with the stern section sinking immediately while the bow remained afloat and was towed to port — a collision 60 miles southeast of New York that killed 19 crew. The stern section, about 225 feet long, now lies at 40 meters in a relatively intact state with the cut end open and explorable, one of the more dramatic penetration opportunities in the New Jersey region. Codfish, pollock, and black sea bass school around the structure in summer, while large lobsters are a reliable find under the stern overhang.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Stolt Dagali is a dive site in New Jersey Shore featuring the wreck of the Stolt
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Codfish, pollock, and black sea bass school heavily around the intact stern section, with tautog and cunner working the mussel-encrusted hull plates at closer range. The open cut end of the tanker provides dramatic penetration opportunities and harbors large American lobsters, making this one of the more productive lobster dives in the region. Sand tiger sharks are a regular summer presence, and blue sharks are frequently spotted circling in the water column above the wreck.
 
 ## Dive Profile
 

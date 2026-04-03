@@ -17,7 +17,7 @@ Toucari Bay is a reef dive site in Dominica, Caribbean.
 
 ## Overview
 
-Toucari Bay is a dive site in Dominica offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Toucari Bay features one of Dominica's healthiest reef systems, with a honeycomb of coral archways, swim-throughs, and cavern tunnels whose ceilings are encrusted with hard corals. Volcanic fumaroles release streams of bubbles from the sandy ocean floor, creating a champagne-like effect unique to Dominica's volcanic geology. The shallow caves at 10 meters harbor blackbar soldierfish and glasseye sweepers, while the reef drops to 33 meters where schools of mahogany snapper, frogfish, and electric rays can be found among spectacular sponge and coral formations.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Toucari Bay is a dive site in Dominica offering rewarding diving on healthy cora
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The shallow caves at 10 meters shelter blackbar soldierfish and glasseye sweepers, while frogfish and electric rays are found among the sponge and coral formations on the deeper reef. Schooling mahogany snapper patrol the coral archways, and volcanic fumaroles provide warm micro-habitats that attract unusual invertebrates and crustaceans not typically found on standard Caribbean reefs.
 
 ## Dive Profile
 

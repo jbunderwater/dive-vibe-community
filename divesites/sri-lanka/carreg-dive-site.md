@@ -17,7 +17,7 @@ Carreg dive site is a historic wreck dive in Sri Lanka, Asia.
 
 ## Overview
 
-Carreg dive site is a dive site in Sri Lanka featuring the wreck of the Carreg dive site. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The Carreg wreck lies off Sri Lanka's southwest coast near Hikkaduwa, a compact wreck site in around 15 meters of water that has become thoroughly colonized by reef life in the warm Indian Ocean. The wreck is penetrable and shelters cave-dwelling species in its cabins, while groupers, napoleon wrasse, angelfish, and queen triggerfish patrol the exterior surfaces, which are encrusted with hard and soft corals. Sri Lanka's position along historic Indian Ocean trade routes makes the surrounding waters some of the most wreck-dense in the region, with this site offering accessible conditions suitable for intermediate divers and above.
 
 ## Site Information
 

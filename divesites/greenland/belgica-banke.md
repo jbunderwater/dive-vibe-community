@@ -17,7 +17,7 @@ Belgica Banke is a reef dive site in Greenland, Arctic.
 
 ## Overview
 
-Belgica Banke is a dive site in Greenland offering rewarding diving on healthy coral reef structures. Located in the Arctic region, this site offers 10-30 meters of visibility with water temperatures averaging -1 to 8°C.
+Belgica Banke is a submarine bank on the northeast Greenland continental shelf at approximately 79 degrees north, named after the historic Belgian polar vessel Belgica. Scientific surveys have recorded 88 invertebrate taxa here, including dense colonies of bryozoans, foraminiferans, and polychaetes encrusting drop stones on the seabed, along with sponges, molluscs, and cold-water arthropods. This extremely remote, ice-covered site sits beneath the East Greenland Current and is accessible only by expedition vessel during brief summer windows when the fast ice retreats.
 
 ## Site Information
 

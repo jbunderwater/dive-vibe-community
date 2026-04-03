@@ -17,7 +17,7 @@ Peck Reef is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-Peck Reef is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Peck Reef is a rocky reef in the southern Gulf Islands between Salt Spring Island and the Saanich Peninsula, positioned in tidally active waters where strong flows through nearby passages concentrate marine life on current-fed structures. The reef to 18 metres hosts dense colonies of plumose anemones, decorator crabs, nudibranchs, and shrimp, with lingcod and multiple rockfish species holding station on prominent rocky outcrops. Giant Pacific octopus den in the reef's deeper crevices, and most of the abundant invertebrate life is concentrated in the shallower sections where natural light and nutrients sustain a thriving cold-water community.
 
 ## Site Information
 

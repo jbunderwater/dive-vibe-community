@@ -17,7 +17,7 @@ Photographer's Reef is a reef dive site in Cape Town, Africa.
 
 ## Overview
 
-Photographer's Reef is a dive site in Cape Town offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Photographer's Reef — also known as JJM Reef — is a compact granite corestone pinnacle near Seaforth in Simon's Town, sitting about 300 metres offshore on the False Bay coast and rising from 13 metres on the sandy base to a flat top at 3 metres. The topography is densely varied for its size: crevices, bowls, overhangs, caves, and swim-throughs on all faces, all encrusted with the colourful cold-water invertebrate communities — sponges, sea fans, anemones — fed by the Benguela Current. The remote position in open water means the site sees few divers, rewarding those who make the swim with a pristine reef and wide-angle photography potential that justifies the name.
 
 ## Site Information
 

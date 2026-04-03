@@ -17,7 +17,7 @@ SS Saganaga is a historic wreck dive in Newfoundland, North America.
 
 ## Overview
 
-SS Saganaga is a dive site in Newfoundland featuring a historic wreck which sank in 1942. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The SS Saganaga was the first vessel sunk in the Bell Island U-boat attacks of September 5, 1942, when U-513 torpedoed two ore carriers in quick succession in Conception Bay — the only German submarine attack on North American soil during World War II. She lies at around 30 meters in Conception Bay, her iron-ore cargo still in the holds and her superstructure providing a haunt for cod, sculpins, and Greenland sharks that frequent these cold waters. The site is part of a designated National Historic Site alongside the other Bell Island wrecks, lending the dive a solemn historical significance beyond its cold-water wreck diving appeal.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ SS Saganaga is a dive site in Newfoundland featuring a historic wreck which sank
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Atlantic cod and shorthorn sculpin are common throughout the Saganaga's superstructure, with ocean pout and sea ravens occupying shadowed recesses in the hull. The iron-ore holds have accumulated dense colonies of sea cucumbers, northern lobster, and cold-water corals, and the surrounding Conception Bay waters are known haunts for Greenland sharks.
 
 ## Dive Profile
 

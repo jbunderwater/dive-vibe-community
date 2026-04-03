@@ -17,7 +17,7 @@ Bikanayos Rock is a wall dive site in Philippines Palawan, Asia.
 
 ## Overview
 
-Bikanayos Rock is a dive site in Philippines Palawan featuring a dramatic vertical wall that drops into the deep blue . Matinloc Island site (Picanayas) with large boulders attracting whitetip sharks. Pelagics commonly observed. Strong currents bring robust marine life.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Bikanayos Rock (locally known as Picanayas) sits on the western face of Matinloc Island in El Nido, where huge boulders create natural corridors and swim-throughs that whitetip reef sharks use as resting spots. Nutrient-rich currents sweeping past the exposed rock draw barracuda, trevally, and other pelagics, making this one of the best sites on Matinloc for an encounter with larger open-water species.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Bikanayos Rock is a dive site in Philippines Palawan featuring a dramatic vertic
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Bikanayos Rock is El Nido's best site for whitetip reef shark encounters, with the boulders' natural corridors and swim-throughs serving as regular resting spots where sharks can be observed closely at close range. Nutrient-rich currents sweeping past the exposed western face draw schooling barracuda, giant trevally, and mackerel that congregate in the eddy zones around the rock. Napoleon wrasse and hawksbill turtles are routine sightings on the surrounding reef structure.
 
 ## Dive Profile
 

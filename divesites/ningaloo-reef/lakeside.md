@@ -17,7 +17,7 @@ Lakeside is a reef dive site in Ningaloo Reef, Oceania.
 
 ## Overview
 
-Lakeside is a dive site in Ningaloo Reef offering excellent diving on healthy coral reef structures. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Lakeside is a sheltered lagoon dive at the inner edge of Ningaloo Reef, where a natural channel through the reef crest creates a gentle drift into calm, crystal-clear water over coral gardens and rubble slopes. The shallow platform is favored by sea turtles, which are almost guaranteed on any dive here, along with wobbegong sharks resting flat on the substrate and thick-lipped wrasse working over the coral. On the right tide, the current through the channel creates an effortless drift past formations of staghorn and plate coral in water warm enough for a wetsuit alone in the peak summer months.
 
 ## Site Information
 

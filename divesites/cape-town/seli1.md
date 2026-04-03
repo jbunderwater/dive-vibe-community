@@ -17,7 +17,7 @@ SELI1 is a historic wreck dive in Cape Town, Africa.
 
 ## Overview
 
-SELI1 is a dive site in Cape Town featuring the wreck of the SELI1. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+The MV Seli 1 was a Turkish bulk carrier that was driven aground off Bloubergstrand in Table Bay on 8 September 2009 after suffering engine failure and a snapped anchor chain in strong westerly conditions, creating one of Cape Town's most dramatic modern shipwrecks. The superstructure was eventually demolished and blown up, but the submerged remains lie on sand at up to 20 metres, and during low tide sections rise to within a metre of the surface, making navigation around the shallow debris field genuinely challenging. The wreck now functions as an artificial reef with encrusting invertebrate growth attracting fish, and its position off Bloubergstrand — with the Table Mountain panorama visible on clear days — makes it one of Cape Town's more atmospheric wreck dives.
 
 ## Site Information
 

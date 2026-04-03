@@ -17,7 +17,7 @@ Sandy Point Reef is a reef dive site in St. Kitts and Nevis, Caribbean.
 
 ## Overview
 
-Sandy Point Reef is a dive site in St. Kitts and Nevis offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Sandy Point Reef sits within the Sandy Point National Marine Park near Brimstone Hill and is considered one of the best reef dives on St. Kitts. The site features deep coral canyons and swim-throughs with volcanic ridges and clefts covered in brain coral, star coral, tube sponges, and sea fans, with the reef face dropping well past 30 meters. Divers explore at least five historic anchors embedded in coral fingers — dropped during 17th and 18th century skirmishes between French, English, and Spanish fleets — while angelfish, moray eels, barracuda, nurse sharks, and hawksbill turtles move through the surrounding reef.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Sandy Point Reef is a dive site in St. Kitts and Nevis offering rewarding diving
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The volcanic canyons and swim-throughs are inhabited by French angelfish, barracuda, nurse sharks, and moray eels, while hawksbill turtles graze the tube sponges and sea fans along the deeper reef sections. The five historic anchors embedded in coral fingers are a unique draw, and spiny lobsters and large groupers occupy the deeper clefts and overhangs well past 30 metres.
 
 ## Dive Profile
 

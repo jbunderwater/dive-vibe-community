@@ -17,7 +17,7 @@ Clan Stewart is a historic wreck dive in Cape Town, Africa.
 
 ## Overview
 
-Clan Stewart is a dive site in Cape Town featuring the wreck of the Clan Stewart. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+The SS Clan Stuart was a 3,500-ton British turret steamer that ran aground at Mackerel Bay, Simon's Town, on 21 November 1914 after dragging its anchor in a fierce southeast gale while carrying a cargo of coal — the rusted engine block still protrudes above the waterline today. This shallow shore dive sits at just 6–9 metres in the Benguela's cold, clear water, where sunlight penetrates to illuminate a hull blanketed in red bait, coralline algae, bryozoans, and nudibranchs. A section of angled port-side plating forms a distinctive low swim-through, and the site sits within the Table Mountain National Park Marine Protected Area, where great white sharks have been sighted on several occasions.
 
 ## Site Information
 

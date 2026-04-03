@@ -17,7 +17,7 @@ Conception Island is a wall dive site in Seychelles, Africa.
 
 ## Overview
 
-Conception Island is a dive site in Seychelles featuring a dramatic vertical wall that drops into the deep blue. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Conception Island sits 2 km west of Mahé and is one of the most exposed and current-swept dive sites in the Inner Islands, with strong currents that attract regular visits from schooling eagle rays, whale sharks, and squadrons of barracuda. The southern point features steep walls, deeply incised gullies, and granite boulder swim-throughs, while the western side forms a natural arena where the shelving sandy bottom at 30 metres collects large pelagics swept in by the currents. Sea turtles, reef sharks, stingrays, and humphead parrotfish are regularly reported, making this an outstanding site for experienced divers comfortable in exposed conditions.
 
 ## Site Information
 

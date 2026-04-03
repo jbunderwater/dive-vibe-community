@@ -29,7 +29,7 @@ The Bahamas is one of the world's premier dive destinations, offering 14 documen
 ### Marine Life & Environment
 
 - **Water Conditions**: Water temperatures range from 26-29°C (79-84°F) with visibility of 20-40 meters (65-130 feet). Currents are generally light to moderate.
-- **Marine Biodiversity**: The waters support diverse marine ecosystems including sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish, blue tangs, trumpetfish.
+- **Marine Biodiversity**: The waters support diverse marine ecosystems including tiger sharks, hammerhead sharks, Caribbean reef sharks, dolphins, grouper, sea turtles.
 - **Conservation**: Marine protected areas help preserve the reef ecosystems and regulate diving activities.
 
 ## Additional Information

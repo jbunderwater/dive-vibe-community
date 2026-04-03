@@ -17,7 +17,7 @@ Critter Corner is a muck dive site in St. Vincent and the Grenadines, Caribbean.
 
 ## Overview
 
-Critter Corner is a dive site in St. Vincent and the Grenadines offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+St. Vincent's premier muck dive, Critter Corner sits in a sheltered bay near Young Island where volcanic sand and eelgrass host an improbable menagerie of cryptic species — electric rays, flying gurnards, frogfish, yellowhead jawfish, and rare red-banded lobsters reward the slow and observant diver. It is the flagship site for SVG's reputation as the "Critter Capital of the Caribbean," and is best dived with a local guide like Bill Tewes who has spent thousands of dives learning its secrets.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Critter Corner is a dive site in St. Vincent and the Grenadines offering excelle
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The volcanic sand and eelgrass flats host an exceptional array of cryptic species including electric rays, flying gurnards, frogfish, and yellowhead jawfish — the species that define St. Vincent's "Critter Capital" reputation. Patient observers can also find rare red-banded lobsters, peacock flounders, and juvenile fish sheltering in the seagrass, making every dive a macro photographer's treasure hunt.
 
 ## Dive Profile
 

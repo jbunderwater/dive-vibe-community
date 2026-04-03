@@ -17,7 +17,7 @@ Bundegi Reef is a reef dive site in Ningaloo Reef, Oceania.
 
 ## Overview
 
-Bundegi Reef is a dive site in Ningaloo Reef offering excellent diving on healthy coral reef structures. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Bundegi Reef sits in the sheltered waters of Exmouth Gulf at the northern end of Ningaloo Marine Park, forming one of the most accessible snorkel and dive reefs along this stretch of coast. The fringing reef is home to sea turtles, bumphead parrotfish, and schools of reef fish in the shallow coral gardens, while leopard sharks and cowtail rays are frequently encountered resting on the sandy patches between coral heads. Being inside the gulf rather than on the exposed outer reef, Bundegi offers calm, reliable conditions year-round that make it well suited to beginners and families.
 
 ## Site Information
 

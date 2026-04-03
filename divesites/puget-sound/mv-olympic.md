@@ -17,7 +17,7 @@ MV Olympic is a historic wreck dive in Puget Sound, North America.
 
 ## Overview
 
-MV Olympic is a dive site in Puget Sound featuring a historic wreck. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The MV Olympic rests at 15 meters off the Steilacoom area of Puget Sound, one of several wrecks accessible from this stretch of shoreline that is well known among local divers for wreck diving opportunities in shallow, manageable depths. The hull has accumulated a rich coating of Pacific Northwest invertebrates — anemones, nudibranchs, and plumose sea anemones in characteristic orange and white — while lingcod and cabezon stake out territories among the structure. Steilacoom's wrecks cluster close together, making it possible to explore multiple sites on a single dive from the shoreline at Saltar's Point Park nearby.
 
 ## Site Information
 

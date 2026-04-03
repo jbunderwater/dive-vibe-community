@@ -17,7 +17,7 @@ Reef's End is a reef dive site in Hawaii - Maui, Pacific.
 
 ## Overview
 
-Reef's End is a dive site in Hawaii - Maui offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Reef's End marks the tip of Molokini Crater's submerged rim, where the crescent-shaped reef extends underwater for roughly 200 yards before dropping off into open ocean. Visibility here routinely reaches 30 to 60 meters, and a resident colony of garden eels occupies the sandy point alongside schools of damselfish and pyramid butterflyfish feeding on plankton carried by the current. Whitetip reef sharks, large lobsters, giant trevally, and occasional manta rays frequent the deeper shelves near the drop-off.
 
 ## Site Information
 

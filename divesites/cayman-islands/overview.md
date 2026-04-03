@@ -28,7 +28,7 @@ Cayman Islands is a premier diving destination in the Caribbean region, offering
 ### Marine Life & Environment
 
 - **Water Conditions**: Water temperatures range from 26-29°C (79-84°F) with visibility of 20-40 meters (65-130 feet). Currents are generally light to moderate.
-- **Marine Biodiversity**: The waters support diverse marine ecosystems including sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish, blue tangs, trumpetfish.
+- **Marine Biodiversity**: The waters support diverse marine ecosystems including southern stingrays, tarpon, silversides, sea turtles, grouper, eagle rays.
 - **Conservation**: Marine protected areas help preserve the reef ecosystems and regulate diving activities.
 
 ## Additional Information

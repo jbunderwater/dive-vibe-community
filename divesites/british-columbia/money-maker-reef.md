@@ -17,7 +17,7 @@ Money Maker Reef is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-Money Maker Reef is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Money Maker Reef is a rocky reef site in the Gulf Islands, lying in the southern Strait of Georgia in the waters between Saltspring Island and the Saanich Peninsula. The reef attracts concentrations of lingcod and rockfish that hold on the rocky structure, along with giant Pacific octopus, nudibranchs, and plumose anemones thriving in the cold, nutrient-rich water. Tidal currents in this area of the Gulf Islands can be variable, so checking conditions before descending is advisable.
 
 ## Site Information
 

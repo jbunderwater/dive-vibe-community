@@ -17,7 +17,7 @@ Tattenham Ledge is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-Tattenham Ledge is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Tattenham Ledge is a reef dive in Howe Sound, North America's southernmost fjord, which stretches from Squamish down to the Strait of Georgia and offers a wide range of dive environments including deep walls, shallow bays, and ledge dives like this one. The ledge structure descends to 18 metres and typically features a rich community of plumose anemones, hydroids, nudibranchs, and encrusting sponges sustained by the tidal flows that funnel through the sound. Lingcod, rockfish, and giant Pacific octopus are the main animal highlights, and visibility is generally best in late autumn and winter when plankton blooms subside.
 
 ## Site Information
 

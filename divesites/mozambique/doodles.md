@@ -17,7 +17,7 @@ Doodles is a reef dive site in Mozambique, Africa.
 
 ## Overview
 
-Doodles is a dive site in Mozambique offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Doodles is a reef dive in Ponta Bay near Ponta Malongane, descending to 16 meters over a site characterized by caves and sinkholes that harbor Potato Bass, frogfish, dusky sweepers, lionfish, and cleaner shrimp — an approachable dive for Open Water certified divers looking to explore the varied terrain of southern Mozambique's reefs. The sites at Ponta Malongane are a short boat ride from shore through the surf, with Doodles, Paradise, and Checkers among the cluster of nearby reefs in this relatively unexplored stretch of coastline north of Ponta do Ouro. The broader Ponta Malongane reef system sees regular encounters with dolphins, humpback whales (July-November), sea turtles, and on occasion the whale sharks that frequent southern Mozambican waters.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Nama Point is a wall dive site in Ambon, Asia.
 
 ## Overview
 
-Nama Point is a dive site in Ambon featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Nama Point is a rocky headland at the entrance to Ambon Bay where the steep reef wall drops through coral formations to sandy slopes below 30 meters, with stronger currents than the inner bay sites pushing nutrients along the wall and driving a richer fish community. Schooling bannerfish, barracuda, and big-eye trevally work the current at the point, while the wall itself carries impressive gorgonian sea fans and hard corals in good condition. The current exposure makes this an intermediate site that rewards divers who time the dive with the tidal flow — on the right current it becomes one of the most dramatic dives in the Ambon area.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Nama Point is a dive site in Ambon featuring a dramatic vertical wall that drops
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Nama Point's exposed headland position creates the current conditions that attract schooling bannerfish, big-eye trevally, and barracuda working the point, making this one of the fishiest dives in the Ambon area. The wall carries impressive gorgonian sea fans in good condition with pygmy seahorses tucked into the fans, and crevices shelter moray eels and reef fish less common in the calmer inner bay sites. On the right tidal flow, the current brings excellent visibility and the possibility of mackerel and jacks appearing in the blue beyond the wall.
 
 ## Dive Profile
 

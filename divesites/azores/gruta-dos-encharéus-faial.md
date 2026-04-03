@@ -17,7 +17,7 @@ Gruta dos Encharéus Faial is a cave dive site in Azores, Europe.
 
 ## Overview
 
-Gruta dos Encharéus Faial is a dive site in Azores featuring underwater cave and cavern formations. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Gruta dos Encharéus is a cave dive on the slope of Faial's Guia Hill with a crack-shaped entrance at 35 metres leading to a high, narrow corridor about one metre wide and 25 metres long, opening into a large cavern — considered one of the best cave dives in the Azores and recommended only for cave-certified divers due to its depth and confined geometry. Inside the cavern, large conger eels occupy the shadowed recesses alongside clouds of narwal shrimp and nudibranchs, while the occasional Almaco jack school pauses at the entrance. The cave is named after the local enchareús fish (Pseudocaranx dentex) that schooled here historically; nearby Baixa da Feteira outside the cave offers dense schools of barracuda and multiple species of moray eels for non-cave divers.
 
 ## Site Information
 

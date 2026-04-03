@@ -17,7 +17,7 @@ Del Rio is a historic wreck dive in California Channel Islands, North America.
 
 ## Overview
 
-Del Rio is a dive site in California Channel Islands featuring the wreck of the Del Rio. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Del Rio is a steam schooner that wrecked off Anacapa Island, her remains resting in a shallow kelp-fringed rocky area at around 12 meters with sections of hull, machinery, and boiler scattered across the reef. The shallow depth and proximity to Anacapa's sea lion colony make it a lively dive — it's common to have inquisitive California sea lions weaving between divers while garibaldi flash orange against the kelp fronds above. Visibility here can be exceptional on calm summer days, reaching 20 meters or more in the clear Channel Islands water.
 
 ## Site Information
 

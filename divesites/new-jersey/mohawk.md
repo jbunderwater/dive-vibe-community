@@ -17,7 +17,7 @@ Mohawk is a historic wreck dive in New Jersey Shore, North America.
 
 ## Overview
 
-Mohawk is a dive site in New Jersey Shore featuring the wreck of the Mohawk. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Mohawk was a 251-foot United States Coast Guard cutter that struck a mine in January 1942 and sank in 24 meters off the New Jersey coast, now one of the most popular recreational wreck dives in the region due to its accessible depth and dramatic history. The wreck lies heeled on her starboard side with the deck, wheelhouse, and gun mount still recognizable, draped in a thick layer of mussels, frilled anemones, and hydroids that attract dense schools of blackfish, sea bass, and pollock. Visibility can be limited to 3-5 meters in summer when the plankton blooms, but the wreck's well-preserved profile and resident lobsters make every dive worthwhile.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Mohawk is a dive site in New Jersey Shore featuring the wreck of the Mohawk. Loc
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Mohawk is one of the best tautog (blackfish) dives in New Jersey, with large individuals resident year-round among the mussel-covered hull and frilled anemone gardens that coat the tilted decks. Black sea bass and pollock school in the water column above the wreck, while American lobsters — some impressively sized — are reliably found tucked under plating and in the gun mount base. Scup and cunner round out the resident fish community throughout the summer season.
 
 ## Dive Profile
 

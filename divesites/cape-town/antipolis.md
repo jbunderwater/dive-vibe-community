@@ -17,7 +17,7 @@ Antipolis is a historic wreck dive in Cape Town, Africa.
 
 ## Overview
 
-Antipolis is a dive site in Cape Town featuring the wreck of the Antipolis. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+The MV Antipolis was a 25,000-ton Greek oil tanker that ran aground at Oudekraal on the Atlantic seaboard in July 1977 after its tow cable snagged during a northwesterly gale while being towed to scrapyards in the Far East — the companion tanker Romelia grounded simultaneously at Llandudno. Cut down to waterline level after the stranding, the Antipolis now forms a shallow shore dive at 5–15 metres, its massive steel sections surrounded by dense Cape kelp forest and peppered with large west coast rock lobsters sheltering in the boiler and pump rooms, while sunlight on calm days filters through the turquoise water to illuminate the partially intact engine room. Entry is over a boulder beach — the most challenging part of the dive — and offshore winds can make the return swim strenuous, so conditions must be checked carefully.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ San Bernardino Strait is a wall dive site in Philippines Donsol, Asia.
 
 ## Overview
 
-San Bernardino Strait is a dive site in Philippines Donsol featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+San Bernardino Strait is a narrow passage between the Bicol Peninsula and Samar with tidal currents that can reach 4.5 meters per second during spring tides, funneling Pacific Ocean water into the Philippine inland seas and creating the nutrient upwelling that makes the surrounding waters one of the richest marine environments in the entire Coral Triangle. Diving the strait channels divers through walls and drop-offs where the current does the work, delivering encounters with scalloped hammerheads, whale sharks, thresher sharks, and massive schools of barracuda and tuna that congregate in the current lanes. This is advanced drift diving that demands experience with strong and unpredictable currents, but the reward in pelagic marine life is among the most spectacular in the Philippines.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ San Bernardino Strait is a dive site in Philippines Donsol featuring a dramatic 
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+San Bernardino Strait is one of the Philippines' premier big-animal drift sites, with the powerful current lanes delivering encounters with scalloped hammerheads, whale sharks, and thresher sharks to divers swept along the walls and drop-offs. Massive schools of barracuda and dogtooth tuna congregate in the upwellings, and giant trevally ambush the baitfish aggregations that form at the channel margins. The walls themselves carry healthy soft corals, sea fans, and schooling anthias in the nutrient-rich flow.
 
 ## Dive Profile
 

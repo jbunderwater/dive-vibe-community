@@ -17,7 +17,7 @@ Mouat Reef is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-Mouat Reef is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Mouat Reef lies in Haro Strait south of Saltspring Island, a heavily tidal channel that separates the Canadian Gulf Islands from the American San Juan Islands. The currents sweeping through the strait feed the reef's marine life, including plumose anemones, sea stars, lingcod, and rockfish on the rocky substrate, with giant Pacific octopus a reliable find in deeper crevices. Haro Strait is one of the busiest whale-watching corridors in the region, and orcas and harbor seals are commonly seen on the surface near dive sites here.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Goldenhorn is a historic wreck dive in California Channel Islands, North America
 
 ## Overview
 
-Goldenhorn is a dive site in California Channel Islands featuring the wreck of the Goldenhorn. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Goldenhorn was a German four-masted sailing barque that ran onto the rocks at Point Conception in 1896, and her remains now lie scattered across a shallow rocky reef off Santa Rosa Island at around 9 meters. The wreck site is surrounded by giant kelp forests typical of the northern Channel Islands, and the iron hull sections have become artificial reef — thickly encrusted with purple sea urchins, orange garibaldi, and clusters of invertebrates that attract the kelp bass and lingcod common here. Swell and surge are the primary hazards at this shallow, exposed site; glassy conditions are essential for a comfortable dive.
 
 ## Site Information
 

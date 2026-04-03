@@ -17,7 +17,7 @@ SS Richmond Shipwreck is a historic wreck dive in North Carolina, North America.
 
 ## Overview
 
-SS Richmond Shipwreck is a dive site in North Carolina featuring a historic wreck . The SS Richmond was formerly the blockade runner Blenheim, built in 1848 by the firm of Tod and MacGregor, in Glasgow, Scotland.. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The SS Richmond was formerly the Confederate blockade runner Blenheim — a British-built steamer that successfully ran the Union blockade into Wilmington four times before being captured after Fort Fisher fell in January 1865, then renamed Richmond and pressed into commercial service before running aground near Salvo on Hatteras Island on 25 January 1866 after a faulty compass sent her off course. The wreck lies in very shallow water of 3–5 metres on the Outer Banks shoreline, with the steeple steam engine — a distinctive British design that helped confirm the vessel's true identity after decades of misidentification as the Pocahontas — and a section of paddle wheel visible from the beach. The site sits in the protected Pamlico Sound–facing shallows near Salvo and offers an accessible, historically layered experience combining Civil War blockade-running history with the coastal archaeology of the Outer Banks.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ SS Richmond Shipwreck is a dive site in North Carolina featuring a historic wrec
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The very shallow, sound-side setting hosts an inshore community of sheepshead and black sea bass picking invertebrates from the encrusted iron machinery, alongside Atlantic spadefish and occasional triggerfish. Blue crabs and fiddler crabs are abundant around the exposed paddle wheel and engine components, and mullet school through the area in season. The calm, clear-bottomed shallows also make this a good spot to observe loggerhead sea turtles moving through Pamlico Sound in summer.
 
 ## Dive Profile
 

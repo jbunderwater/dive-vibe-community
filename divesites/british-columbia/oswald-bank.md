@@ -17,7 +17,7 @@ Oswald Bank is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-Oswald Bank is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Oswald Bank is a submerged bank in Malaspina Strait north of Powell River on BC's Sunshine Coast, in the upper reaches of the Salish Sea where the strait narrows between the mainland and Texada Island. The cold, clear waters of this area sustain rockfish, lingcod, giant Pacific octopus, and colorful invertebrate assemblages including sea cucumbers and rock scallops on the bank's rocky terrain. This part of the Sunshine Coast is dived mainly by local operators based in Powell River, and the site benefits from excellent water clarity and relatively light recreational diving pressure.
 
 ## Site Information
 

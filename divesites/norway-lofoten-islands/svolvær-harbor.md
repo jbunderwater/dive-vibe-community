@@ -17,7 +17,7 @@ Svolvær Harbor is a reef dive site in Norway Lofoten Islands, Europe.
 
 ## Overview
 
-Svolvær Harbor is a dive site in Norway Lofoten Islands offering excellent diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Svolvær Harbor offers a convenient introduction to Arctic diving in the Lofoten's administrative center, where the pier pilings and rocky harbor walls carry a thick coating of anemones, sea squirts, and encrusting organisms despite the traffic above. Lumpfish, edible crab, and sea scorpion are commonly encountered among the kelp beds near the harbor entrance, and the site is frequently used by local dive operators for orientation and night dives. Visibility inside the harbor is lower than exposed outer sites — typically 5-10 meters — but the sheltered conditions and easy entry make it an approachable first dive in the Lofoten system.
 
 ## Site Information
 

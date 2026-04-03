@@ -17,7 +17,7 @@ Fort Langley Wreck is a historic wreck dive in British Columbia, North America.
 
 ## Overview
 
-Fort Langley Wreck is a dive site in British Columbia featuring the wreck of the Fort Langley Wreck. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Fort Langley Wreck sits in the waters of Howe Sound near Sechelt on BC's Sunshine Coast, a fjord known for some of the most productive cold-water diving on the Pacific coast. The wreck rests at depths to 28 metres and has become an artificial reef structure covered in the orange and white plumose anemones typical of Howe Sound dive sites. Wolf eels, giant Pacific octopus, and clouds of rockfish are commonly encountered around the hull, which breaks up the otherwise silty bottom of this protected inlet.
 
 ## Site Information
 

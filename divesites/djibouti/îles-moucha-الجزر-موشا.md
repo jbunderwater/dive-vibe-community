@@ -17,7 +17,7 @@ addedBy: osm_import
 
 ## Overview
 
-Îles Moucha الجزر موشا is a dive site in Djibouti offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+The Moucha Islands archipelago forms Djibouti's first designated marine protected area in the Gulf of Tadjoura, where fast-moving nutrient-rich currents support flourishing reef systems. Visibility ranges from 15 to 30 meters across multiple dive sites including Dolphin Reef, where divers may swim alongside dolphins, and shallow coral gardens perfect for observing butterflyfish, angelfish, and parrotfish. Sea turtles and rays are common visitors, and the gentle currents at most sites provide ideal conditions for relaxed dives and underwater photography.
 
 ## Site Information
 

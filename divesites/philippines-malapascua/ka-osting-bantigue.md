@@ -17,7 +17,7 @@ Ka-Osting / Bantigue is a reef dive site in Philippines Malapascua, Asia.
 
 ## Overview
 
-Ka-Osting / Bantigue is a dive site in Philippines Malapascua offering excellent diving on healthy coral reef structures . Dive Site. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Ka-Osting / Bantigue is a coral reef slope running along the western side of Malapascua, named after a local fisherman and the small barangay nearby. The reef descends gradually from the shallows to about 22 meters and is lined with hard coral formations interspersed with cleaning stations where sweetlips and surgeonfish queue up for attendant wrasses. Sea turtles frequently rest on the coral heads here, and the site's relatively sheltered position makes it a dependable dive when northeast winds stir up conditions elsewhere.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Ka-Osting / Bantigue is a dive site in Philippines Malapascua offering excellent
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Ka-Osting / Bantigue is a relaxed reef dive characterised by active cleaning stations where sweetlips and surgeonfish queue for attendant wrasses, providing close-up behavioural encounters at mid-depth. Sea turtles frequently rest on the coral heads here, and the sheltered position keeps the fish community relatively undisturbed and approachable. Reef fish diversity is high throughout the slope, with schools of snapper, groups of parrotfish, and nudibranchs scattered across the rubble sections.
 
 ## Dive Profile
 

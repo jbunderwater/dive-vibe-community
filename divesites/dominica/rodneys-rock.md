@@ -17,7 +17,7 @@ Rodney's Rock is a reef dive site in Dominica, Caribbean.
 
 ## Overview
 
-Rodney's Rock is a dive site in Dominica offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Rodney's Rock is Dominica's most celebrated critter dive, an outcrop north of Jimmit where the vertical faces are carpeted with enormous barrel sponges, gorgonians, and hydroids and the rocky overhangs shelter an extraordinary density of small species. The site holds the record of 11 seahorses sighted in a single dive, along with batfish, bumblebee shrimp, leaf fish, frogfish, shortnose batfish, and ribbon eels in the sandy patches — while spotted eagle rays and squadrons of barracuda make the occasional pass in the blue water beyond the reef. Excellent for night diving when squid, lobsters, and crabs come out in full force.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Rodney's Rock is a dive site in Dominica offering excellent diving on healthy co
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Rodney's Rock holds Dominica's record for seahorse sightings — up to 11 in a single dive — with batfish, frogfish, bumblebee shrimp, leaf fish, and ribbon eels in the sandy patches making it the island's premier critter dive. Spotted eagle rays and barracuda make occasional passes in the open water beyond the reef, and night dives reveal squid, lobsters, and crabs emerging from the barrel sponge and gorgonian-covered overhangs.
 
 ## Dive Profile
 

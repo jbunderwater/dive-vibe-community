@@ -29,7 +29,7 @@ Bali is a premier diving destination in the Asia region, offering 32 documented 
 ### Marine Life & Environment
 
 - **Water Conditions**: Water temperatures range from 26-30°C (79-86°F) with visibility of 10-40 meters (30-130 feet). Currents are generally variable, can be very strong.
-- **Marine Biodiversity**: The waters support diverse marine ecosystems including manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish, nudibranchs, frogfish.
+- **Marine Biodiversity**: The waters support diverse marine ecosystems including mola mola (ocean sunfish), manta rays, reef sharks, sea turtles, pygmy seahorses, ghost pipefish, nudibranchs, frogfish.
 - **Conservation**: Marine protected areas help preserve the reef ecosystems and regulate diving activities.
 
 ## Additional Information

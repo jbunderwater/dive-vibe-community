@@ -17,7 +17,7 @@ West White Beach is a cave dive site in Christmas Island, Oceania.
 
 ## Overview
 
-West White Beach is a dive site in Christmas Island featuring underwater cave and cavern formations. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+West White Beach is a small, sheltered bay on Christmas Island's calmer western coast where the reef slopes away from the beach into clear water over a mixed coral and rubble substrate popular with sea turtles and ray species. Whale sharks pass through the shallower water here during the annual spawning aggregation of Christmas Island's red crabs — typically October to November — when nutrient runoff from the land concentrates zooplankton that attracts both the whale sharks and the large trevally that accompany them. Outside the aggregation season, the site functions as a reliable, easy shore dive with consistent conditions and good all-round reef fish diversity.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ D/S General Suworow is a historic wreck dive in Norway Lofoten Islands, Europe.
 
 ## Overview
 
-D/S General Suworow is a dive site in Norway Lofoten Islands featuring the wreck of the D/S General Suworow which sank in 1919-08-05. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The D/S General Suworow is a steamship that went down in Vestfjorden on 5 August 1919 and now rests at around 40 meters depth in the cold, clear waters north of Bodø. The wreck is largely intact and heavily colonized by anemones, dead man's fingers, and encrusting soft corals that give the hull a colorful, ghost-ship appearance in the low ambient light of Arctic waters. Wolffish occupy the darker recesses, and the visibility in Vestfjorden is typically excellent, often reaching 20-30 meters, making this one of the more rewarding historical wreck dives accessible from the Lofoten area.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Kantil Reef is a wall dive site in Aruba, Caribbean.
 
 ## Overview
 
-Kantil Reef is a dive site in Aruba featuring a dramatic vertical wall that drops into the deep blue . Dramatic drop-off with giant boulders, hard/soft corals, visibility 25-27m, good for photography. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Kantil Reef is one of Aruba's most dramatic wall dives, where a coral-covered slope gives way to a sheer vertical drop defined by enormous barrel sponges, sea fans, and scattered boulder corals tumbled at the base of the wall. Depths range from about 10 meters on the top of the structure down to well beyond 27 meters, with visibility regularly hitting 25 meters or more in the clear southern Caribbean water. Eagle rays and large Caribbean reef sharks cruise the blue water off the wall edge, while crevices in the boulders shelter green morays, spotted drums, and hawksbill turtles.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Kantil Reef is a dive site in Aruba featuring a dramatic vertical wall that drop
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Eagle rays and large Caribbean reef sharks cruise the blue water off the wall edge, while green moray eels, spotted drums, and hawksbill turtles inhabit the boulder crevices and overhangs on the deeper sections. The enormous barrel sponges and sea fans provide structure for reef fish throughout the sloping coral reef, with visibility regularly hitting 25 metres in the clear southern Caribbean water.
 
 ## Dive Profile
 

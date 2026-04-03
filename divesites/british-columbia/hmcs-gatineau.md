@@ -17,7 +17,7 @@ HMCS Gatineau is a historic wreck dive in British Columbia, North America.
 
 ## Overview
 
-HMCS Gatineau is a dive site in British Columbia featuring the wreck of the HMCS Gatineau which sank in 1948 . WWII destroyer sunk as part of breakwater. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+HMCS Gatineau was originally built for the Royal Navy as HMS Express in 1934 and served with distinction in World War Two, including evacuating 3,500 troops from Dunkirk and participating in the D-Day landings — it was later transferred to the Royal Canadian Navy and helped sink the German submarine U-744 in 1944. After the war, the destroyer was scuttled in 1948 as part of the Royston Wrecks breakwater near Comox on Vancouver Island, where it now lies among 14 other historic vessels on the ocean floor. The Royston Wrecks collection is a registered BC provincial archaeological site, and the deteriorating steel hull attracts rockfish, lingcod, and encrusting invertebrates across its structure.
 
 ## Site Information
 

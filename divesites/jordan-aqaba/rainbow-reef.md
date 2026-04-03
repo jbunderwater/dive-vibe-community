@@ -17,7 +17,7 @@ Rainbow reef is a reef dive site in Jordan - Aqaba, Middle East.
 
 ## Overview
 
-Rainbow reef is a dive site in Jordan - Aqaba offering excellent diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Rainbow Reef takes its name from the arc shape of the reef, which runs from 6 metres down to 18 metres along a northern wall that was reinforced as an artificial reef to protect four telecommunications cables laid between Jordan and Egypt in 1996. During the day the reef hosts parrotfish, butterflyfish, wrasse, scorpionfish, and eagle rays, but it really comes alive at night when Spanish dancers, feather stars in every colour, lobsters, and actively hunting lionfish and moray eels emerge across the reef. The easily navigable layout and reliable marine life make this one of Aqaba's best-regarded night dive sites.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Secca del Papa is a pinnacle dive site in Sardinia, Europe.
 
 ## Overview
 
-Secca del Papa is a dive site in Sardinia offering rewarding diving on healthy coral reef structures . Magnificent shoal split by sandy channel, top 15-24m, banks of snappers, groupers, barracuda; current present. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Secca del Papa is widely regarded as one of the top 10 dive sites in the entire Mediterranean, located 300 metres east of Punta del Papa at Tavolara Island. Three submarine pinnacles rise from 42 metres, with the shallowest reaching 15 metres, split by a sandy channel into Papa 1 and Papa 2. Clouds of damselfish part for voracious amberjack, while large dusky groupers and barracuda patrol the walls adorned with red, yellow, and rare bicolour paramuricea gorgonians. Currents are always present and sometimes strong, and Nitrox 32 is recommended for the average depth of 30 metres.
 
 ## Site Information
 

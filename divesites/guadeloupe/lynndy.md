@@ -17,7 +17,7 @@ Lynndy is a historic wreck dive in Guadeloupe, Caribbean.
 
 ## Overview
 
-Lynndy is a dive site in Guadeloupe featuring the wreck of the Lynndy. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Lynndy is a shallow wreck resting at 15 metres in the waters off southern Basse-Terre, Guadeloupe, where the wreck structure provides artificial reef habitat in warm Caribbean waters typical of the island's leeward coast. The hull supports encrusting sponges, hard coral growth, and resident reef fish including groupers, snappers, and glassy sweepers, with hawksbill turtles visiting the site as they do throughout Guadeloupe's protected waters. The accessible depth and beginner-friendly conditions make this a good introduction to Guadeloupe wreck diving for divers working their way up to the deeper reserve wrecks at Malendure.
 
 ## Site Information
 

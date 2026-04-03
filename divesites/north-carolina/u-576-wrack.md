@@ -17,7 +17,7 @@ U-576 (Wrack) is a historic wreck dive in North Carolina, North America.
 
 ## Overview
 
-U-576 (Wrack) is a dive site in North Carolina featuring the wreck of the U-576 (Wrack). Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+U-576 was lost on 15 July 1942 in a rare convoy battle off Cape Hatteras: after torpedoing several ships in a 19-vessel convoy, the damaged submarine surfaced in the middle of the convoy and was simultaneously attacked by two US Navy Kingfisher aircraft dropping depth charges and a merchant ship firing its deck gun, sinking her with all 45 crew within minutes. NOAA discovered both U-576 and the freighter SS Bluefields she had sunk in 2014, lying about 240 yards apart in approximately 700 feet of water — making this the only known US site where archaeologically preserved convoy battle remains from both sides rest so close together. The depth places it well beyond recreational diving and it is protected as an international war grave, but it is a significant managed site within the Monitor National Marine Sanctuary's broader protection zone.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ U-576 (Wrack) is a dive site in North Carolina featuring the wreck of the U-576 
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+At 210 metres this site is far beyond recreational diving limits and is protected as a war grave, but NOAA research dives have documented that the intact wreck and adjacent SS Bluefields support a deepwater Atlantic community including grouper, black sea bass, and various sharks using the debris field as structure. The surrounding seafloor off Cape Hatteras, where the Gulf Stream meets the cold Labrador Current, is one of the most biologically productive areas of the US Atlantic coast. This site is closed to recreational diving and is managed exclusively by NOAA under the Monitor National Marine Sanctuary.
 
 ## Dive Profile
 

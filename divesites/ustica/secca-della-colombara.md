@@ -17,7 +17,7 @@ Secca della Colombara is a seamount dive site in Ustica, Europe.
 
 ## Overview
 
-Secca della Colombara is a dive site in Ustica offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Secca della Colombara is considered one of the most beautiful dives in the entire Mediterranean, located on a remnant volcanic cone three miles off Ustica's northeastern coast. The shoal rises from 50 metres to just 3 metres at the top, where a vertical wall of columnar basalt drops dramatically to a 30-metre plateau. Large dusky groupers and striped groupers occupy the seabed while clouds of barracuda form brilliant circling formations that explode apart when huge amberjack charge through, and occasional tuna cruise past in the blue.
 
 ## Site Information
 

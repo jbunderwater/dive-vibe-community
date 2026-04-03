@@ -17,7 +17,7 @@ Tumbo Reef is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-Tumbo Reef is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Tumbo Reef lies off the eastern tip of Tumbo Island in the southern Gulf Islands, near Saturna Island and Reef Harbour — an area noted for abalone, unusual invertebrates, and some of the clearest waters in the Strait of Georgia. The reef sits close to the BC-Washington border in a zone frequented by orcas, and divers can expect lingcod, rockfish, Dungeness crabs, sea urchins, and dense anemone growth on the rocky structure. Access is by boat from Saturna or nearby islands, and conditions can be affected by weather exposure from the Georgia Strait.
 
 ## Site Information
 

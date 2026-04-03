@@ -17,7 +17,7 @@ Bedfordshire (Wrack) is a historic wreck dive in North Carolina, North America.
 
 ## Overview
 
-Bedfordshire (Wrack) is a dive site in North Carolina featuring the wreck of the Bedfordshire (Wrack). Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The HMT Bedfordshire was a British armed trawler torpedoed by U-558 on 11 May 1942 with the loss of all 37 crew, and its remains lie in three sections in 32 metres of water about 25 miles southeast of Beaufort Inlet — a genuine WWII war grave that has been listed on the National Register of Historic Places and formally declared a British War Memorial. The hull is low and scattered — the highest point barely four feet off the sand — with I-beams, deck plates, machinery, and six depth charges still visible in the sediment, and the site typically offers visibility of 40–70 feet thanks to its offshore Gulf Stream position. The four crew members who washed ashore on Ocracoke Island are buried in the British Cemetery there, maintained to this day by the US Coast Guard, giving the dive an unusual weight of history and commemoration.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Bedfordshire (Wrack) is a dive site in North Carolina featuring the wreck of the
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Bedfordshire's three scattered hull sections are colonised by sheepshead, black sea bass, and tautog working the encrusted metal framework and exposed machinery. Amberjack and Atlantic spadefish school above the wreck in summer, and the Gulf Stream influence occasionally draws barracuda and triggerfish into the area. Sand tiger sharks are periodically sighted patrolling the site, particularly in late summer when water temperatures are at their peak.
 
 ## Dive Profile
 

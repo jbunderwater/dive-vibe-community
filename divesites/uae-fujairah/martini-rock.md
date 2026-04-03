@@ -17,7 +17,7 @@ Martini Rock is a pinnacle dive site in UAE - Fujairah, Middle East.
 
 ## Overview
 
-Martini Rock is a dive site in UAE - Fujairah offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Martini Rock is named for the martini-glass profile of its two underwater pinnacles, located just 10 minutes by boat from Khor Fakkan. The rock stretches roughly 160 meters in length and is draped in vibrant orange, purple, and yellow Dendronephthya soft corals and green-blue whip corals. Shoaling Arabian mackerel, trevally, and fusiliers circle the pinnacles, while the sandy gullies between the rocks harbor gobies with their partner shrimp, blue-spotted rays, cuttlefish, seahorses, and a variety of nudibranchs.
 
 ## Site Information
 

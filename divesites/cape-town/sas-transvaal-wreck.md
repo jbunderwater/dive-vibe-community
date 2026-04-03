@@ -17,7 +17,7 @@ SAS Transvaal Wreck is a historic wreck dive in Cape Town, Africa.
 
 ## Overview
 
-SAS Transvaal Wreck is a dive site in Cape Town featuring the wreck of the SAS Transvaal Wreck. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+The SAS Transvaal is the northernmost of five warships and trawlers scuttled by the South African Navy in Smitswinkel Bay, False Bay, in the early 1970s to create an artificial reef — together forming one of the most legendary wreck dive collections in southern Africa. This ex-Royal Navy Loch-class frigate lies upright on a flat sand bottom at 34 metres, its collapsing hull and fallen mast now coated in soft corals, sponges, and sea anemones, with dense fish life sheltering in the fractured deck sections and superstructure. Visibility in the bay often exceeds that of shallower inshore sites, reaching 10–20 metres on good days, and the site is best dived in winter when southeast winds relent and the bay settles.
 
 ## Site Information
 

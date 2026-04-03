@@ -17,7 +17,7 @@ Guinjata Bay Reef is a reef dive site in Mozambique, Africa.
 
 ## Overview
 
-Guinjata Bay Reef is a dive site in Mozambique offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Guinjata Bay Reef lies just south of Inhambane in one of Mozambique's top diving areas, where the inshore reefs reach a maximum depth of around 14 meters and provide approachable conditions for newer divers in the warm Indian Ocean. The reefs here are the gateway to a region world-famous for its whale shark encounters during the October-February Mozambique summer, and the bay's resident reef fish, nudibranchs, and mantis shrimp reward slower, observational dives. The wider Guinjata Bay area also includes access to the celebrated Manta Reef, where oceanic manta rays gather for cleaning and feeding within comfortable boat range of the bay.
 
 ## Site Information
 

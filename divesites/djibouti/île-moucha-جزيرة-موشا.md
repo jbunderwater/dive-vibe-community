@@ -17,7 +17,7 @@ addedBy: osm_import
 
 ## Overview
 
-Île Moucha جزيرة موشا is a dive site in Djibouti offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Moucha Island is a coral island in the Gulf of Tadjoura offering dive sites ranging from shallow coral gardens for beginners to deeper walls and drop-offs for experienced divers. Notable sites around the island include The Aquarium, known for calm waters and colorful reef fish, and Coral Gardens with intricate hard coral formations. The nearby wreck of Le Faon (MV Priamos), a 135-meter sunken cargo ship at 10-30 meters depth, has become an artificial reef encrusted with corals and sponges, attracting snappers, lionfish, and moray eels.
 
 ## Site Information
 

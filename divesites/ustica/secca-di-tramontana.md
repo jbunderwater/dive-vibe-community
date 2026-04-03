@@ -17,7 +17,7 @@ Secca di Tramontana is a seamount dive site in Ustica, Europe.
 
 ## Overview
 
-Secca di Tramontana is a dive site in Ustica offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Secca di Tramontana is a volcanic pinnacle on the northern side of Ustica, rising from depth to within reach of advanced divers in Italy's oldest Marine Protected Area. The basalt formations typical of Ustica's volcanic origin create walls and overhangs colonized by gorgonians, sponges, and orange madrepore, while the open-water location attracts barracuda, amberjack, groupers, and occasional pelagic visitors. Strong currents can sweep across this exposed northern shoal, rewarding experienced divers with exceptional visibility and marine life density.
 
 ## Site Information
 

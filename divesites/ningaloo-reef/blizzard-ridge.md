@@ -17,7 +17,7 @@ Blizzard Ridge is a reef dive site in Ningaloo Reef, Oceania.
 
 ## Overview
 
-Blizzard Ridge is a dive site in Ningaloo Reef offering rewarding diving on healthy coral reef structures. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Blizzard Ridge is a coral ridge at Lighthouse Bay that earned its name from the blizzard-like swirls of schooling reef fish that engulf divers on calm days. The ridge features numerous crevices, caves, and overhangs at 12-15 metres depth, sheltering reef sharks, giant moray eels, large groupers, olive-headed sea snakes, and whitetip reef sharks. Located within the Ningaloo sanctuary zone where fishing and anchoring are prohibited, the site also hosts leopard sharks, porcupine rays, and seasonal visits from manta rays and whale sharks.
 
 ## Site Information
 

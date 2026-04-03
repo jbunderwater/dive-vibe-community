@@ -17,7 +17,7 @@ Spring Bay is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-Spring Bay is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Spring Bay is a muck dive site near Victoria in the Cadboro Bay area, offering sheltered, shallow diving to around 15 metres on a sandy and silty bottom well-suited to finding small cryptic creatures. The soft substrate hosts a variety of nudibranchs, shrimp, tiny flatfish, and burrowing invertebrates, with giant Pacific octopus dens found on any rock or rubble patches along the bottom. Conditions are generally calm and the site is accessible year-round, making it a popular choice for macro photography and for divers looking to explore the quieter, more sediment-rich habitats of the Victoria area.
 
 ## Site Information
 

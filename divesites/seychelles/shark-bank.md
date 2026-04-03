@@ -17,7 +17,7 @@ Shark Bank is a pinnacle dive site in Seychelles, Africa.
 
 ## Overview
 
-Shark Bank is a dive site in Seychelles offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Shark Bank is one of the Seychelles' most celebrated offshore pinnacles, rising from around 30 meters to within 10 meters of the surface roughly 5 km west of Mahé. The site earns its name from the large aggregations of nurse sharks, grey reef sharks, and hammerheads that congregate at depth, along with resident Napoleon wrasse and large schools of barracuda. Whale shark sightings are common here between October and March, drawn by the upwellings of nutrient-rich water that make this a blue-water spectacle.
 
 ## Site Information
 

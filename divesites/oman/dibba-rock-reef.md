@@ -17,7 +17,7 @@ Dibba Rock Reef is a reef dive site in Oman, Middle East.
 
 ## Overview
 
-Dibba Rock Reef is a dive site in Oman offering excellent diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Dibba Rock Reef sits on the Oman side of the bay near the town of Dibba at the southern end of the Musandam Peninsula, where the rocky reef slopes to 18 metres and is draped in green and purple whip corals, raspberry corals, and brain coral formations typical of this corner of the Gulf of Oman. Hawksbill and green turtles are regular residents along the reef, joined by clownfish, parrotfish, butterflyfish, and occasional spotted eagle rays and blacktip reef sharks, with visibility often reaching 20 to 30 metres in the calm winter months. The site is accessible from dive operators based on both the UAE and Oman sides of the bay, making it one of the most convenient reef dives in the region.
 
 ## Site Information
 

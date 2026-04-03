@@ -17,7 +17,7 @@ Flying Fish Cove is a reef dive site in Christmas Island, Oceania.
 
 ## Overview
 
-Flying Fish Cove is a dive site in Christmas Island offering excellent diving on healthy coral reef structures. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Flying Fish Cove is Christmas Island's main settlement and the island's most accessible dive site, with direct shore entry from the jetty area into a bay that descends over coral rubble and reef slopes to around 25 meters. Despite the port activity above, marine life here is surprisingly rich, with sea turtles, reef sharks, and large schools of trevally regularly seen at the edge of the bay's coral formations. The cave system known as The Grotto is also entered from this area, making Flying Fish Cove the base for much of the island's dive tourism.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Pinnacles Ponta is a pinnacle dive site in Mozambique, Africa.
 
 ## Overview
 
-Pinnacles Ponta is a dive site in Mozambique offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Pinnacles Ponta is a cluster of submerged coral pinnacles off Ponta do Ouro in southern Mozambique, rising from sandy substrate to around 12 meters beneath the surface, creating complex topography draped in sea fans, soft corals, and encrusting sponges down to 35 meters. Resident potato bass and grouper hold station around the pinnacle bases, while ragged-tooth sharks (sand tigers) are regularly spotted resting in the deeper gullies between October and March during their annual aggregation at Ponta. Strong currents sweep past the structures and bring in nutrient-rich water that supports the dense invertebrate life coating every surface.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Blue Bay Marine Park is a reef dive site in Mauritius, Africa.
 
 ## Overview
 
-Blue Bay Marine Park is a dive site in Mauritius offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Blue Bay Marine Park is a 353-hectare protected lagoon on the southeast coast of Mauritius, designated a Ramsar Wetland site in 2008 and home to 38 coral species including a massive brain coral estimated to be over 1,000 years old with a five-metre diameter. The average depth is just 2–3 metres in the lagoon, making it exceptional for snorkelling, with 72 documented fish species including butterflyfish, parrotfish, and surgeonfish, plus resident green turtles and occasional moray eels and octopuses. The most pristine sections can only be accessed by guided boat tour, and strict no-touch rules protect the ancient coral formations.
 
 ## Site Information
 

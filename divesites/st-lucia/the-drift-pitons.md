@@ -17,7 +17,7 @@ The Drift (Pitons) is a drift dive site in St. Lucia, Caribbean.
 
 ## Overview
 
-The Drift (Pitons) is a dive site in St. Lucia offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Drift at the Pitons runs along the base of Petit Piton, where prevailing currents sweep divers along a dramatic volcanic wall that drops from about 3 meters at the surface into depths well beyond recreational limits. When current is running, divers simply go with the flow past dense soft coral growth, sea fans, and feather duster worms, with turtles, seahorses, frogfish, stingrays, and eagle rays all regularly spotted along the wall. The site is rated Advanced due to the unpredictable current strength; conditions change with the season and divers are advised to carry a surface marker buoy and conduct the dive as a one-way drift with pickup at the end.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ The Drift (Pitons) is a dive site in St. Lucia offering rewarding diving on heal
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Seahorses and frogfish are found clinging to the soft coral growth and sea fans along the volcanic wall, while stingrays, eagle rays, and hawksbill turtles are regularly spotted as the current sweeps divers past. The drift exposes divers to a constantly shifting panorama of marine life benefiting from the nutrient-rich Petit Piton upwellings, including dense feather duster worm colonies and schooling reef fish.
 
 ## Dive Profile
 

@@ -17,7 +17,7 @@ Krystal Toy is a historic wreck dive in Martinique, Caribbean.
 
 ## Overview
 
-Krystal Toy is a dive site in Martinique featuring the wreck of the Krystal Toy. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Krystal Toy is a steel yacht wreck resting on the seabed at around 30 metres in the waters off southern Martinique, its hull now blanketed in spectacular soft and hard coral growth. Sergeant fish, damselfish, angelfish, and wrasse school around the structure, and the dark recesses of the wreck shelter smaller critters and crustaceans that reward patient divers who take time to look closely. Martinique's volcanic Caribbean coastline gives the site the clear blue water and warm temperatures typical of the island's leeward dive sites.
 
 ## Site Information
 

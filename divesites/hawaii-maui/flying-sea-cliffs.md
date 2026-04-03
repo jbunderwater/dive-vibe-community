@@ -17,7 +17,7 @@ Flying Sea Cliffs is a wall dive site in Hawaii - Maui, Pacific.
 
 ## Overview
 
-Flying Sea Cliffs is a dive site in Hawaii - Maui featuring a dramatic vertical wall that drops into the deep blue. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Flying Sea Cliffs is located on the outer, ocean-facing back wall of Molokini Crater, where the dive begins on a shelf around 15 meters before an undercut lip drops vertically to the crater floor 40 meters below — the underside of the shelf alive with tube corals and red sponges that burst into color under torch light. Distinctive ledges and shelves break up the sheer wall face, providing habitat for resident moray eels (including dragon and snowflake eels), shark ledges, and cauliflower coral formations that glow in the sunlight on the shallow sections. This is a signature "seafari" site on the back wall of Molokini, accessible only to experienced divers due to its depth, exposed position, and the strong currents that can run along the outer crater face.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ South Bedford Island is a historic wreck dive in British Columbia, North America
 
 ## Overview
 
-South Bedford Island is a dive site in British Columbia featuring the wreck of the South Bedford Island. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+South Bedford Island lies in the Race Rocks area off the southern tip of Vancouver Island, in a stretch of water where tidal currents through Juan de Fuca Strait create productive cold-water diving conditions. The site is in the vicinity of several historically significant wrecks in this well-dived region, and the rocky reef structure drops to 28 metres, supporting dense populations of rockfish, lingcod, giant Pacific octopus, and colorful invertebrates typical of the strong-current environments of southern Vancouver Island. Boat access is required and current timing is important, as the tidal flows through Race Rocks can be substantial.
 
 ## Site Information
 

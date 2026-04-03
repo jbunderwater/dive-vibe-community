@@ -17,7 +17,7 @@ Molasses Reef is a reef dive site in Florida Keys, North America.
 
 ## Overview
 
-Molasses Reef is a dive site in Florida Keys offering excellent diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Molasses Reef is the most frequently visited reef dive in the Upper Keys and arguably the most dived reef in the world, a classic outer reef system located 6 miles southeast of Key Largo within the Florida Keys National Marine Sanctuary. The well-defined spur and groove topography runs from 6 feet near the crest down to over 90 feet at the outer ledges, with elkhorn corals, towering brain corals, sea fans, and enormous barrel sponges providing habitat for over 600 species of marine life including sea turtles, nurse sharks, and large schools of snapper and grunt. Eagle Ray Alley along the reef edge offers reliable ray sightings, and a large mechanical winch from the 1887 wreck of the schooner Slobadana adds historical interest at buoy seven.
 
 ## Site Information
 

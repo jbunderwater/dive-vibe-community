@@ -17,7 +17,7 @@ Inchcape 1 is a historic wreck dive in UAE - Fujairah, Middle East.
 
 ## Overview
 
-Inchcape 1 is a dive site in UAE - Fujairah featuring the wreck of the Inchcape 1. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Inchcape 1 is a former supply vessel for Inchcape Shipping Services that was deliberately sunk in December 2001 off Al Aqah to create an artificial reef, sitting upright on a sandy bottom at 30 metres and now smothered in candy-coloured pink and purple Dendronephthya soft corals. The bow is particularly spectacular, with the entire structure so thick with marine growth you have to brush life aside to see the metal underneath, and two resident honeycomb moray eels known locally as Fred and Wilma occupy the wheel area alongside seahorses and, in summer, frogfish. Trevally and jack patrol above the wreck hunting the resident school of yellow snappers while cardinalfish shelter in the remaining wheelhouse — it was moved 50 metres by Cyclone Gonu in 2007, which also ripped off the wheelhouse.
 
 ## Site Information
 

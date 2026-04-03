@@ -17,7 +17,7 @@ East Wall is a wall dive site in British Columbia, North America.
 
 ## Overview
 
-East Wall is a dive site in British Columbia featuring a dramatic vertical wall that drops into the deep blue. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+East Wall is one of the wall sections at Madrona Point in Nanoose Bay on central Vancouver Island, a dive area widely regarded as one of the best shore diving locations in the region. The Strait of Georgia's cold, nutrient-rich currents deliver excellent visibility here — typically better than at Vancouver-area sites — and the rocky wall supports dense populations of lingcod, wolf eels, giant Pacific octopus, and numerous rockfish species. A boat dive that drops divers directly onto the wall face offers efficient use of bottom time along ledges and overhangs covered in plumose anemones and white encrusting sponges.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Arta Beach Reef is a reef dive site in Djibouti, Africa.
 
 ## Overview
 
-Arta Beach Reef is a dive site in Djibouti offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Arta Beach Reef was reputedly one of Jacques Cousteau's favourite dive locations, sitting at the confluence of Red Sea and Indian Ocean ecosystems on the Gulf of Tadjoura just east of Djibouti City. The site features underwater cliffs with schools of barracuda, a resident population of green turtles, and accessible coral formations that make it suitable for novice divers. From November to February, concentrations of plankton draw feeding whale sharks to the surface just offshore — one of the most reliable and accessible whale shark encounters in the world.
 
 ## Site Information
 

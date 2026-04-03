@@ -17,7 +17,7 @@ The Car Cemetery is a historic wreck dive in UAE - Fujairah, Middle East.
 
 ## Overview
 
-The Car Cemetery is a dive site in UAE - Fujairah featuring the wreck of the The Car Cemetery. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The Car Cemetery is an artificial reef created in 1988 when around 200 vehicles — cars and trucks — were deliberately submerged roughly four nautical miles from Khor Fakkan port at 17 metres depth, creating a sprawling underwater scrapyard ideal for macro diving. Cyclone Gonu in 2007 reduced the number of recognisable vehicles to around 50, but the remaining chassis, tyres, and fenders are now blanketed in growth and colonised by undulated moray eels, lionfish, Arabian boxfish, pufferfish, snappers, and barracuda. The site requires good buoyancy control as sediment near the wadi entrance can reduce visibility to near zero, but patient divers are rewarded with some of the most unusual subjects on Fujairah's east coast.
 
 ## Site Information
 

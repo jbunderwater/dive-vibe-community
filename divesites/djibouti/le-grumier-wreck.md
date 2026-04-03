@@ -17,7 +17,7 @@ Le Grumier Wreck is a historic wreck dive in Djibouti, Africa.
 
 ## Overview
 
-Le Grumier Wreck is a dive site in Djibouti featuring the wreck of the Le Grumier Wreck. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Le Grumier is a cargo wreck resting on its port side near Moucha Island in the Gulf of Tadjoura, at depths of 10–28 metres — close enough to Djibouti City to be accessible as a day dive. The wreck has been fully colonised by hard and soft corals and sponges since sinking, providing habitat for snappers, lionfish, moray eels, and nudibranchs, with a crack in the hull behind the bridge offering a swim-through passage from one side to the other. The naturally low visibility typical of the plankton-rich Tadjoura waters adds an atmospheric quality to the dive that experienced wreck divers often appreciate.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Isfjorden Kelp Forest is a reef dive site in Svalbard, Arctic.
 
 ## Overview
 
-Isfjorden Kelp Forest is a dive site in Svalbard offering rewarding diving on healthy coral reef structures. Located in the Arctic region, this site offers 10-30 meters of visibility with water temperatures averaging -1 to 8°C.
+Isfjorden Kelp Forest is situated in Svalbard's second-longest fjord, where thick stands of Laminaria digitata, sugar kelp, and winged kelp form an underwater canopy in relatively shallow water down to 15 meters. These kelp forests have been expanding in recent decades as sea ice retreats, and they host a rich invertebrate community of mussels, shrimp, crabs, sea urchins, and bivalves that attract foraging seals and walruses. Divers entering the canopy encounter planktonic life including sea angels, pulsing jellies, and amphipods drifting among the kelp blades in water temperatures of 2-5 degrees Celsius.
 
 ## Site Information
 

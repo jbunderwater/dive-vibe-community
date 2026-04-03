@@ -17,7 +17,7 @@ Maelstrom Wall is a wall dive site in Norway Lofoten Islands, Europe.
 
 ## Overview
 
-Maelstrom Wall is a dive site in Norway Lofoten Islands featuring a dramatic vertical wall that drops into the deep blue. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Maelstrom Wall sits near the Moskstraumen — one of the strongest tidal current systems in the world — on the western tip of the Lofoten chain, where tidal exchange between the Norwegian Sea and the outer fjords creates exceptional nutrient delivery to a sheer underwater wall. The current drives enormous abundance: the wall face is plastered in anemone colonies, soft corals, and sponges, and cod, saithe, and halibut aggregate in the current-fed water column. This is an advanced dive requiring expert timing at slack water, with conditions reverting to unswimmable within minutes of the tidal turn.
 
 ## Site Information
 

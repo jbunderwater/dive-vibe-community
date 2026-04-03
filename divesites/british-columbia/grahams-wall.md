@@ -17,7 +17,7 @@ Graham`s Wall is a wall dive site in British Columbia, North America.
 
 ## Overview
 
-Graham`s Wall is a dive site in British Columbia featuring a dramatic vertical wall that drops into the deep blue. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Graham's Wall is a boat-access wall dive in the southern Gulf Islands near Portland Island, in the same cluster of sites that includes the G.B. Church wreck nearby. The wall drops into the tidal passages that sweep cold, food-rich water through the Gulf Islands, feeding dense communities of plumose anemones, tube worms, and sea stars along the vertical rock face. Strong tidal currents can run through this area, so timing dives around slack water is important, and the cold, clear conditions suit divers looking for sea stars, nudibranchs, lingcod perched on ledges, and the occasional wolf eel in a crevice.
 
 ## Site Information
 

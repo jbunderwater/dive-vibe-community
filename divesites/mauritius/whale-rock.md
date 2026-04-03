@@ -17,7 +17,7 @@ Whale Rock is a pinnacle dive site in Mauritius, Africa.
 
 ## Overview
 
-Whale Rock is a dive site in Mauritius offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Whale Rock is a large submerged pinnacle off the coast of Mauritius, with jagged rocks rising from the ocean bed to about 12 meters and maximum depths reaching 32-38 meters. The pinnacle features arches, swim-throughs, tunnels, and canyons covered in hard and soft coral, providing hiding zones for well-camouflaged stonefish and scorpionfish. At shallower depths divers find clownfish, wrasses, parrotfish, triggerfish, and moray eels, while deeper exploration may reveal small sharks, large pufferfish, and leopard moray eels, with occasional hammerhead shark sightings making this one of the top dive sites in Mauritius.
 
 ## Site Information
 

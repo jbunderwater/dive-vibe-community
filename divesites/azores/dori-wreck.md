@@ -17,7 +17,7 @@ Dori Wreck is a historic wreck dive in Azores, Europe.
 
 ## Overview
 
-Dori Wreck is a dive site in Azores featuring the wreck of the Dori Wreck. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The Dori was a 130-metre WWII Liberty Ship (SS Thomas Donaldson) that participated in Operation Overlord before sinking off Ponta Delgada on 16 January 1964 while carrying a cargo of steel coils — she now rests just 5 minutes from the harbour in a designated underwater archaeological park and no-take zone. With the stern at 9 metres and the bow at 20 metres, this is an unusually accessible wreck open to Open Water divers, and the intact stern section is constantly surrounded by clouds of Moroccan white seabream, Almaco jacks, and yellowmouth barracudas. Moray eels, octopuses, and nudibranchs inhabit the hundreds of pipes and metal structures throughout the hull, and dolphins occasionally visit from the adjacent bay.
 
 ## Site Information
 

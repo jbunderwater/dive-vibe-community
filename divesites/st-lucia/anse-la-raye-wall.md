@@ -17,7 +17,7 @@ Anse La Raye Wall is a wall dive site in St. Lucia, Caribbean.
 
 ## Overview
 
-Anse La Raye Wall is a dive site in St. Lucia featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Anse La Raye Wall — named for the "Bay of Rays" village above — is one of the most colourful wall dives in the Caribbean, with a sheer face starting at 18 metres and dropping to 34 metres, painted with iridescent purple vase sponges, barrel sponges, gorgonian fans, sea whips, and vibrant fire coral in the shallows. Stingrays and spotted eagle rays are the signature sighting here, with turtles reportedly more common at this site than anywhere else in the Soufrière area, alongside Bermuda chubs, spotted drums, and jacks working the wall. The depth and potential current mean nitrox and an advanced certification are recommended, but the reward is one of the most photogenic wall dives in the Windward Islands.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Anse La Raye Wall is a dive site in St. Lucia featuring a dramatic vertical wall
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Stingrays and spotted eagle rays are the signature sightings at this site — the village name means "Bay of Rays" for good reason — while hawksbill and green turtles are reportedly more common here than anywhere else in the Soufrière area. Bermuda chubs, spotted drums, and horse-eye jacks work the brilliantly coloured wall of iridescent purple vase sponges, gorgonian fans, and fire coral, with moray eels lurking in the deeper crevices.
 
 ## Dive Profile
 

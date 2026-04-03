@@ -17,7 +17,7 @@ Arashi Reef is a reef dive site in Aruba, Caribbean.
 
 ## Overview
 
-Arashi Reef is a dive site in Aruba offering excellent diving on healthy coral reef structures . Sunken Lockheed Lodestar plane scattered at 35ft (11m), colorful young reef with turtle cleaning station. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Arashi is a shallow reef at Aruba's northwestern tip where the wreckage of a Lockheed Lodestar aircraft lies scattered across the sandy bottom at 11 meters, its fuselage sections colonized by encrusting corals and surrounded by dense schools of blue tang and sergeant majors. The site is one of Aruba's most reliable spots for green and hawksbill turtle sightings — a dedicated cleaning station brings them repeatedly to the same coral heads, where small wrasses tend to their shells. Calm, protected conditions and excellent visibility make this a go-to for beginners and for snorkelers working alongside divers.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Arashi Reef is a dive site in Aruba offering excellent diving on healthy coral r
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Green and hawksbill turtles are among the most reliable sightings in Aruba here, drawn repeatedly to a dedicated cleaning station where small wrasses tend to their shells. The Lockheed Lodestar aircraft wreck at 11 metres is surrounded by dense schools of blue tang and sergeant majors, while parrotfish, angelfish, and barracuda round out the diverse reef community in the calm, protected northwestern tip conditions.
 
 ## Dive Profile
 

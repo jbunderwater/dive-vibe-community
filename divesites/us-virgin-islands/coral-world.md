@@ -17,7 +17,7 @@ Coral World is a reef dive site in US Virgin Islands, Caribbean.
 
 ## Overview
 
-Coral World is a dive site in US Virgin Islands offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Coral World sits off Coki Beach on St. Thomas's northeast coast, where a shallow fringing reef extends from the famous marine park shoreline into 6 meters of typically calm, clear Caribbean water ideal for beginner divers. The reef here is a nursery for dozens of Caribbean species, including juvenile spotted drums, baby reef fish sheltering in brain coral, and hawksbill turtles that have become accustomed to regular human presence from the adjacent marine park. The site pairs well with a surface interval at Coki Beach, one of St. Thomas's most colorful and sheltered snorkeling beaches.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Coral World is a dive site in US Virgin Islands offering excellent diving on hea
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Hawksbill turtles are well accustomed to regular human presence here, making close encounters nearly guaranteed at this nursery reef adjacent to the famous Coral World marine park. Juvenile spotted drums, baby reef fish sheltering in brain coral, parrotfish, and queen angelfish represent the diverse Caribbean reef community thriving in the calm, clear water off Coki Beach.
 
 ## Dive Profile
 

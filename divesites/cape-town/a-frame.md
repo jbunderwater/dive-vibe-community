@@ -17,7 +17,7 @@ A-Frame is a reef dive site in Cape Town, Africa.
 
 ## Overview
 
-A-Frame is a dive site in Cape Town offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+A-Frame is one of the most popular shore dives on the False Bay side of the Cape Peninsula, a granite corestone reef near Oatlands Point in Simon's Town that descends from a flat rocky entry plateau through kelp forest and large boulders to about 12 metres. The site's hallmark is a series of swim-throughs and overhangs packed with colourful anemones, sponges, crinoids, and feather stars, with resident octopus, cuttlefish, big Red Romans, shy sharks, and Hottentot sea bream working the reef; summer months bring eagle rays and short-tail stingrays gliding over the sandy patches. Cold Benguela water keeps temperatures at 10–14°C year-round, and the sheltered position makes it a reliable winter dive when the Atlantic seaboard sites are closed out.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Cave dive site is a cave dive site in Sri Lanka, Asia.
 
 ## Overview
 
-Cave dive site is a dive site in Sri Lanka featuring underwater cave and cavern formations. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+This cave dive site on Sri Lanka's south coast near Unawatuna and Galle offers shore-accessible cavern diving in the warm Indian Ocean, with the cave systems at around 25 meters providing shelter to crustaceans, small reef fish, and the specialized species adapted to low-light conditions. Sri Lanka's southern diving corridor around Galle and Unawatuna has 16 dive sites ranging from 6 to 32 meters, and the cave formations here are among the more adventurous options in a region better known for its proliferation of accessible wrecks. Strong current can develop at the cave entrance, so timing the dive with tidal conditions is important for a comfortable experience.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Cave dive site is a dive site in Sri Lanka featuring underwater cave and cavern 
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+The cave system at 25 meters shelters crustaceans including lobsters and shrimp in the low-light recesses, alongside small reef fish and glassfish adapted to cavern conditions. Just outside the cave entrance, moray eels occupy the rocky reef crevices and scorpionfish blend into the substrate, while sea turtles are occasionally encountered resting on the surrounding reef. The cavern ceiling and walls are colonised by encrusting sponges and soft corals that support nudibranchs for macro photography.
 
 ## Dive Profile
 

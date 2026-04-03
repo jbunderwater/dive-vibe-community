@@ -17,7 +17,7 @@ South Button is a reef dive site in Andaman Islands, Asia.
 
 ## Overview
 
-South Button is a dive site in Andaman Islands offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+South Button sits within India's smallest national park and boasts one of the highest concentrations of coral species in the world, with dense table corals and Acropora formations covering the shallows. The western side drops along a small wall to 25 metres where barracuda, bigeye trevally, surgeonfish, schooling snapper, and Napoleon wrasse patrol, while the eastern side features a coral garden at around 12 metres frequented by devil rays, manta rays, and the occasional leopard shark. Green turtles, batfish, crocodilefish, nudibranchs, moray eels, and octopuses are regular inhabitants of this pristine and protected reef system.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ South Button is a dive site in Andaman Islands offering rewarding diving on heal
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The western wall attracts schooling bigeye trevally, barracuda, surgeonfish, snapper, and Napoleon wrasse, while manta rays and devil rays visit the shallower coral garden on the eastern side. Green turtles, batfish, crocodilefish, and moray eels are regular inhabitants throughout the reef, and patient observers will find nudibranchs and octopuses among the dense table and Acropora coral formations. The protected status of South Button Island National Park contributes to the exceptional biodiversity and high coral cover at this site.
 
 ## Dive Profile
 

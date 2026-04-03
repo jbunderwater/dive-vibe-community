@@ -17,7 +17,7 @@ Oyster Stacks is a reef dive site in Ningaloo Reef, Oceania.
 
 ## Overview
 
-Oyster Stacks is a dive site in Ningaloo Reef offering excellent diving on healthy coral reef structures. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Oyster Stacks is a well-known snorkel and dive site just south of Coral Bay, named for the fossilized oyster formations that create a distinctive topography of low ridges and crevices running parallel to the shore. The site is particularly valued for its high density of resident marine life in very shallow water — green and loggerhead turtles feed on the seagrass beds, reef sharks cruise the rubble margins, and the coral garden between the stacks shelters pufferfish, blue-spotted rays, and a wide variety of wrasse and parrotfish. Entry directly off the beach makes this one of the most convenient reef dives on the Ningaloo coast.
 
 ## Site Information
 

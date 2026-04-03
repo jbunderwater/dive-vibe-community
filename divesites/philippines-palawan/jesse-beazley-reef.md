@@ -17,7 +17,7 @@ Jesse Beazley Reef is a wall dive site in Philippines Palawan, Asia.
 
 ## Overview
 
-Jesse Beazley Reef is a dive site in Philippines Palawan featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Jesse Beazley Reef is the northernmost and smallest of the three reef structures in Tubbataha Reefs Natural Park, a UNESCO World Heritage Site accessible only by liveaboard from Puerto Princesa between March and June. The mushroom-shaped structure starts at 7 meters and drops below recreational limits, with fast, unpredictable currents feeding large branching hard corals and drawing grey reef sharks, whitetip reef sharks, hammerheads, barracuda, and Spanish mackerel.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Jesse Beazley Reef is a dive site in Philippines Palawan featuring a dramatic ve
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Jesse Beazley Reef is a shark aggregation hotspot within Tubbataha Natural Park, with grey reef sharks and whitetip reef sharks patrolling the mushroom-shaped structure and hammerheads occasionally visible in the blue. Fast currents sweeping the exposed reef carry dense schools of barracuda, Spanish mackerel, and big-eye jacks, while the branching hard corals on the structure itself host a diverse reef fish community. Napoleon wrasse are a near-constant presence on this remote Coral Triangle reef.
 
 ## Dive Profile
 

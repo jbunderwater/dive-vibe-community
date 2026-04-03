@@ -17,7 +17,7 @@ Verbeke Reef is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-Verbeke Reef is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Verbeke Reef is a rocky reef dive site in Barkley Sound on the west coast of Vancouver Island, in a region where the open Pacific Ocean directly influences biology and produces some of BC's most diverse marine life. Divers regularly encounter giant Pacific octopus, wolf eels, lingcod, sea lions, and a variety of rockfish species, along with dense invertebrate growth including staghorn bryozoans, plumose anemones, and nudibranchs rarely found on the sheltered east coast of the island. The site is accessed by boat and requires a drysuit given Barkley Sound's cold Pacific water temperatures.
 
 ## Site Information
 

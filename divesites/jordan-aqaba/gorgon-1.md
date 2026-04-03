@@ -17,7 +17,7 @@ Gorgon 1 is a reef dive site in Jordan - Aqaba, Middle East.
 
 ## Overview
 
-Gorgon 1 is a dive site in Jordan - Aqaba offering excellent diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Gorgon 1 gets its name from the enormous gorgonian sea fan at 16 metres that waves over a trio of pinnacles, each rising from 18 metres up to the surface and hosting its own distinct cleaning stations packed with shrimps, moray eels, glassfish, and anthias. Sea turtles cruise between the pinnacles throughout the dive, and a massive cabbage coral at the base of the third pinnacle shelters numerous reef fish including a resident large yellowmouth moray. The shallow depths, calm conditions, and reliable turtle sightings make this one of the most consistently rewarding beginner-to-intermediate dives in Aqaba's portion of the Red Sea.
 
 ## Site Information
 

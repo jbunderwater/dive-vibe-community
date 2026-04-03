@@ -17,7 +17,7 @@ Grotta della Pastizza is a cave dive site in Ustica, Europe.
 
 ## Overview
 
-Grotta della Pastizza is a dive site in Ustica featuring underwater cave and cavern formations. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Grotta della Pastizza is a communicating system of caves near Ustica's harbour, named for a pastry-shaped surface rock, where divers can actually surface inside a vast 83-metre long cavern and remove their masks in a cathedral-like air chamber that holds a small statue of the island's patron saint. The approach follows a colourful wall of astroides, sea daisies, and sponges that glows in red, yellow, and orange before leading into the two cave chambers connected by a low, wide tunnel. Outside the cave, posidonia meadows shelter pipefish and nudibranchs, lone amberjack cruise the rock, and the site is also a favourite for night diving when eels, octopuses, and cuttlefish are active.
 
 ## Site Information
 

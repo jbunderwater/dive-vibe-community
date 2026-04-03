@@ -17,7 +17,7 @@ McKenzie Bright is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-McKenzie Bright is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+McKenzie Bight is a highly regarded dive site on the southeast shore of Saanich Inlet, located within Gowlland Tod Provincial Park near Willis Point on Vancouver Island. An underwater wall drops from around 9 meters down to over 36 meters, draped in plumose anemones, sponges, and encrusting invertebrates, and the site is one of the few places in BC where sixgill sharks are reliably spotted in summer months at depths around 30 meters. Visibility can be reduced by plankton blooms in spring, but the site offers excellent diving through much of the year.
 
 ## Site Information
 

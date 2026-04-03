@@ -17,7 +17,7 @@ Maverick Wreck is a historic wreck dive in Tobago, Caribbean.
 
 ## Overview
 
-Maverick Wreck is a dive site in Tobago featuring the wreck of the Maverick Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The M.V. Maverick is a 185-foot former inter-island ferry deliberately sunk in 1996 to create an artificial reef, now resting upright on a flat sandy bottom at 30 metres with the top of the wreck at 15 metres. Large schools of Creole wrasse, striped grunts, and mangrove snappers swirl around the fan-coral-encrusted superstructure, while a resident great barracuda and visiting Cobia make the site one of Tobago's most compelling wreck dives.
 
 ## Site Information
 

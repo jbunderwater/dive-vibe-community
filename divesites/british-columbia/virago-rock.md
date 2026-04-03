@@ -17,7 +17,7 @@ Virago Rock is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-Virago Rock is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Virago Rock sits in the swift tidal currents of Porlier Pass in the Strait of Georgia and is best known as the resting place of the steam tug Point Grey, a 105-foot steel tugboat that ran aground in 1949 and now lies inverted on the seafloor blending into the surrounding kelp forest. The wreck and adjacent rock structure host large lingcod, Puget Sound king crabs, and a variety of invertebrate life including sea urchins and encrusting sponges, while Porlier Pass itself is recognized as one of the richest dive channels in the Gulf Islands. Diving must be timed to slack tide as currents through the pass can be extremely strong.
 
 ## Site Information
 

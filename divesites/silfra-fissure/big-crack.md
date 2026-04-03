@@ -17,7 +17,7 @@ Big Crack is a wall dive site in Silfra Fissure, Europe.
 
 ## Overview
 
-Big Crack is a dive site in Silfra Fissure featuring a dramatic vertical wall that drops into the deep blue. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The Big Crack is the narrowest section of the Silfra fissure, a tight corridor of dark lava rock where the North American and Eurasian tectonic plates come closest together — close enough to reach out and touch the walls of both continents simultaneously. This is where the famous "dive between the continents" photograph is taken, with divers squeezing through the passage before the fissure opens into the wider Silfra Hall. Water temperature stays at a constant 2–4°C, making this a dry suit-only site with visibility exceeding 100 metres.
 
 ## Site Information
 

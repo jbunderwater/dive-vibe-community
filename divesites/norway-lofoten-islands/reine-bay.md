@@ -17,7 +17,7 @@ Reine Bay is a reef dive site in Norway Lofoten Islands, Europe.
 
 ## Overview
 
-Reine Bay is a dive site in Norway Lofoten Islands offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Reine Bay offers Arctic diving beneath the dramatic granite peaks of Moskenesøya island in the Lofoten archipelago. The bay's cold, clear waters host dense kelp forests, anemone-covered walls, and the well-preserved wreck of the MS Hadsel, a passenger steamer that sank near Reine in 1958. Halibut, cod, wolffish, and starfish are common residents, while orcas and minke whales frequent the surrounding waters during autumn and winter months.
 
 ## Site Information
 

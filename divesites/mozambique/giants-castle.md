@@ -17,7 +17,7 @@ Giants Castle is a wall dive site in Mozambique, Africa.
 
 ## Overview
 
-Giants Castle is a dive site in Mozambique featuring a dramatic vertical wall that drops into the deep blue. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Giants Castle is a wall dive in southern Mozambique's Manta Coast region, dropping to 30 meters along a reef face where the name reflects both the dramatic scale of the structure and the large marine life drawn to these Indian Ocean waters — Zambezi sharks, hammerheads, potato bass, and manta rays are all recorded at Manta Coast sites. The wall and its surrounding reef community support the rich biodiversity characteristic of southern Mozambique, where the Agulhas Current and seasonal nutrient upwelling keep the water productive year-round, fueling both the coral growth and the density of fish life. This is an advanced site suited to divers comfortable with the possibility of current and encounters with large, confident shark species.
 
 ## Site Information
 

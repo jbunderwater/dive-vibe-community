@@ -17,7 +17,7 @@ Tafelberg Reef is a reef dive site in Cape Town, Africa.
 
 ## Overview
 
-Tafelberg Reef is a dive site in Cape Town offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Tafelberg Reef is a broad rocky reef system in Table Bay dropping to around 30 meters, notable for the extraordinary density of cold-water invertebrate life that coats every surface in the Benguela Current's nutrient soup. Colourful nudibranch species, basket stars, brittle stars, and large sea anemones pack the reef alongside cape rock lobster and pyjama sharks resting in the crevices. The site's position in Table Bay means visibility varies considerably with swell and wind, but calm summer days can offer crystal-clear conditions through the kelp forest down to depth.
 
 ## Site Information
 

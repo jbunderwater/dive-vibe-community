@@ -17,7 +17,7 @@ Two Mile Reef Ponta is a reef dive site in Mozambique, Africa.
 
 ## Overview
 
-Two Mile Reef Ponta is a dive site in Mozambique offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Two Mile Reef stretches for nearly three kilometres parallel to the coast at Ponta do Ouro, an extensive shallow coral reef that tops out at 5 meters and drops to around 18 meters, making it one of the most accessible and diveable reef systems in southern Mozambique. The reef is a nursery habitat for juvenile reef fish and provides shelter for moray eels, hawksbill turtles, and dense schools of fusiliers and glassfish hovering above the coral heads. Ragged-tooth sharks are commonly seen patrolling the sandy channels between the reef sections during their winter aggregation from June through October.
 
 ## Site Information
 

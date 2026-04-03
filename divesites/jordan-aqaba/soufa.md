@@ -17,7 +17,7 @@ Soufa is a historic wreck dive in Jordan - Aqaba, Middle East.
 
 ## Overview
 
-Soufa is a dive site in Jordan - Aqaba featuring the wreck of the Soufa. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The Soufa (also known as Satil) is a 46-metre Israeli Navy missile boat decommissioned and sunk in the northern Gulf of Aqaba as an artificial reef in 1993, sitting upright with its bow facing north and the deck at 18–21 metres and maximum depth of around 25–30 metres. The wreck is accessible for interior exploration through the former deck cannon position and into the command bridge and engine room, where emperor angelfish, pipefish, Red Sea fusiliers, glassfish, lionfish, and moray eels have thoroughly colonised the hull. The vessel's backstory is remarkable — it was one of six gunboats secretly sailed from Cherbourg to Israel on Christmas Eve 1969 during a French arms embargo.
 
 ## Site Information
 

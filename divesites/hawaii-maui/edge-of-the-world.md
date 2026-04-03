@@ -17,7 +17,7 @@ Edge of the World is a wall dive site in Hawaii - Maui, Pacific.
 
 ## Overview
 
-Edge of the World is a dive site in Hawaii - Maui featuring a dramatic vertical wall that drops into the deep blue. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Edge of the World occupies the outermost corner of Molokini's back wall where the cliff face drops into permanent shadow, descending in a series of hanging shelves to beyond 75 meters — the wall so vertical and sheer that looking down from the edge gives a true sensation of standing at the brink of an abyss. Reef fish and corals remain present, but the real draw is open-ocean encounters: sharks, eagle rays, and occasional large pelagics drawn to the nutrient-rich waters that upwell against the crater's outer face. This is an advanced drift dive done with a live boat that follows divers' bubbles and surface markers, and conditions here can change quickly depending on swell and current.
 
 ## Site Information
 

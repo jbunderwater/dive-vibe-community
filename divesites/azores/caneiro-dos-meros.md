@@ -17,7 +17,7 @@ Caneiro dos Meros is a wall dive site in Azores, Europe.
 
 ## Overview
 
-Caneiro dos Meros is a dive site in Azores featuring a dramatic vertical wall that drops into the deep blue. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Caneiro dos Meros (the Dusky Grouper Passageway) off Corvo Island is the only voluntary marine reserve in the Azores — an agreement between local fishermen and divers established over a decade ago to protect an extraordinary population of friendly, curious dusky groupers (Epinephelus marginatus) that exceed one metre in length and readily approach divers. More than a dozen individual groupers can be encountered on a single dive here, the highest concentration in the archipelago, and because fishing is prohibited the entire site teems with barred hogfish, Almaco jacks, white trevallies, and yellowmouth barracudas. The dive runs along lava ravines at 18–25 metres before the wall drops to a sandy floor at 40–45 metres; only experienced divers should attempt the deeper sections due to the depth involved.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Santa Marija Caves (Dive Site) is a cave dive site in Malta and Gozo, Europe.
 
 ## Overview
 
-Santa Marija Caves (Dive Site) is a dive site in Malta and Gozo featuring underwater cave and cavern formations. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The Santa Marija Caves on Comino's north coast form one of the Maltese Islands' most spectacular cave systems — at least ten individual caves connected by swim-throughs, arches, and a Z-shaped passage that zigzags through the headland. Most of the system sits between 7 and 19 metres and stays well within the light zone, with sunlight streaming down through cracks in the cave roofs and playing off sandy floors. A resident school of silver sea bream greets divers at the cave entrances, while the darker recesses shelter damselfish, moray eels, spiny lobsters, octopus, and nudibranchs.
 
 ## Site Information
 

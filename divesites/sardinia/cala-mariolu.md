@@ -17,7 +17,7 @@ Cala Mariolu is a cave dive site in Sardinia, Europe.
 
 ## Overview
 
-Cala Mariolu is a dive site in Sardinia featuring underwater cave and cavern formations . Sheltered cove with dramatic south wall featuring caves and tunnels, crystal clear waters. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Cala Mariolu is a protected cove on the Gulf of Orosei whose steep limestone walls continue below the waterline as cave-riddled cliffs with visibility frequently exceeding 30 meters. The south wall is the main feature — a sheer face pocked with caverns and narrow tunnels that divers can thread through, while red gorgonians and sponges colonize the shadowed overhangs. Grouper are common residents around the cave entrances, and the cove's remoteness from road access keeps diver numbers low enough for a genuinely undisturbed experience.
 
 ## Site Information
 

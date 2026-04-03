@@ -17,7 +17,7 @@ The Back Side is a wall dive site in Hawaii - Maui, Pacific.
 
 ## Overview
 
-The Back Side is a dive site in Hawaii - Maui featuring a dramatic vertical wall that drops into the deep blue. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The Back Side refers to the outer, ocean-facing wall of Molokini Crater, where the sheer underwater cliff plunges to 100 meters into the open Pacific — an advanced drift dive that follows the wall face draped with black coral forests harboring pipefish and long-nose hawkfish. Slipper lobsters, eagle rays, moray eels, and whitetip reef sharks are reliable sightings along the wall, while the exposed position means manta rays, spinner dolphins, and humpback whales in season occasionally appear from the blue. This is a live boat dive with no mooring, requiring divers to use surface markers and drift with the current along one of Maui's most dramatic and photogenic underwater environments.
 
 ## Site Information
 
