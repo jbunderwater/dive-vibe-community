@@ -17,7 +17,7 @@ Moonlight is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Moonlight is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Moonlight forms part of a classic West End drift sequence that connects with Dixie's and Vern's Drop Off, allowing divers to travel along one of Roatan's longest continuous wall sections in a single dive. The wall here slopes into the abyss with overhangs and ledges where hawksbill turtles rest and nurse sharks tuck themselves into the shadows. Barrel sponges grow to impressive sizes along the wall face, and the drift current carries divers past fields of deepwater sea fans. When conditions align, the three-site drift offers a sustained journey through some of the West End's finest underwater scenery.
 
 ## Site Information
 

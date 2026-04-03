@@ -17,7 +17,7 @@ Shallow Turtle Crossing is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Shallow Turtle Crossing is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Shallow Turtle Crossing occupies the first of two sandy plateaus at around 6 meters depth, situated between West End and West Bay along Roatan's reef corridor. Coral channels weave between the sand flats, creating natural pathways for the abundant turtles that give this site its name. Eels, lobsters, sergeant majors, flounders, and jawfish populate the reef and sand interfaces. The shallow depth of 14 meters maximum and typically calm conditions make this an accessible dive for beginners, with visibility averaging 20-30 meters in the warm Caribbean water.
 
 ## Site Information
 

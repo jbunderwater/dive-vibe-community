@@ -17,7 +17,7 @@ Saaya's is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Saaya's is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Saaya's is a beautiful shallow site in the West End that has been adopted by Sun Divers for ongoing conservation monitoring, making it one of the better-documented reefs in the area. The site offers a gentle introduction to Roatan's reef system, with healthy hard coral formations in the shallows giving way to the wall further out. Trumpet fish hover vertically among the gorgonians, trying to blend in with the sea rods, while pairs of banded butterflyfish pick at the coral. The conservation focus means the reef here is well-maintained and shows strong coral growth compared to less-monitored sites along the coast.
 
 ## Site Information
 

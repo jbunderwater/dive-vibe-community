@@ -17,7 +17,7 @@ Buca Quay is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Buca Quay is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Buca Quay is the official Roatan Marine Park designation for the section of wall near West End, offering a dramatic wall drift dive with considerable variety. The wall begins at roughly 6 meters and drops away to 27 meters and beyond, carved with side canyons, chutes, and sand falls that create an intricate underwater landscape. Currents here can come from multiple directions, requiring intermediate-level experience and awareness. Atlantic spadefish, permits, crevalle jacks, and spotted eagle rays patrol the wall face, making this one of the more dynamic dives in the West Bay to West End corridor.
 
 ## Site Information
 

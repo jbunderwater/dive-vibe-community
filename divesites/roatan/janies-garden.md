@@ -17,7 +17,7 @@ Janie's Garden is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Janie's Garden is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Located on the West Bay reef between West End and West Bay, Janie's Garden is a Roatan Marine Park mooring site named through the park's conservation donation program. Published details specific to this site are limited, though the surrounding reef offers sandy plateaus and coral outcrops typical of this corridor at 15 meters depth. Queen angelfish, French angelfish, and grey angelfish are frequently spotted alongside parrotfish, wrasses, and the occasional barracuda. Sea turtles and stingrays round out the marine life, with 20-30 meters of visibility and warm 26-29 degree Celsius water.
 
 ## Site Information
 

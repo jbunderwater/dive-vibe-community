@@ -17,7 +17,7 @@ Lighthouse Reef is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Lighthouse Reef is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Lighthouse Reef presents one of the West End corridor's most dramatic sheer drop-offs, with a large crevice cutting deep into the reef structure. Visibility here can be extraordinary, sometimes exceeding 200 feet on calm days, revealing the full scale of the vertical wall plummeting into indigo depths. Divers regularly encounter mating giant puffers, dense schools of blue tangs streaming along the wall face, and French angelfish feeding among the sponges. Giant green moray eels lurk in the crevices while eagle rays make sweeping passes along the wall. Currents can build in strength here, so awareness of conditions is important before descending.
 
 ## Site Information
 

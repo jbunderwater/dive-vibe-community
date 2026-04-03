@@ -17,7 +17,7 @@ addedBy: osm_import
 
 ## Overview
 
-3 Brothers is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+3 Brothers sits halfway between West Bay and West End along Roatan's southwest reef corridor, making it a convenient stop for dive boats working this stretch of coast. The reef structure here supports healthy populations of grouper, with multiple species found around the coral formations. Sea turtles are regular visitors, often spotted grazing on sponges or resting under ledges. At a maximum depth of 15 meters, the site offers a comfortable dive suitable for all certification levels with typical West Bay visibility of 20-30 meters.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Dustin's Dropoff is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Dustin's Dropoff is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Dustin's Dropoff is a Roatan Marine Park mooring site on the West Bay reef, part of the park's network of named dive sites funded through conservation donations. While individual documentation for this site is limited, it sits along the shallow reef corridor between West End and West Bay where healthy coral heads and sandy patches create a gentle underwater landscape at 30 meters depth. Divers in this area typically encounter sea turtles, southern stingrays, and colorful reef fish including parrotfish and blue tangs. Visibility averages 20-30 meters with water temperatures of 26-29 degrees Celsius year-round.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Patti's Paradise is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Patti's Paradise is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Patti's Paradise belongs to the Roatan Marine Park's network of named mooring sites along the West Bay reef, funded through the park's conservation program. While site-specific details are not widely available, the reef in this area features a gradual slope with healthy coral structures and sandy intervals reaching 18 meters depth. Trumpetfish hover near sea fans, parrotfish graze on the coral, and sea turtles glide between the formations. Caribbean conditions deliver 20-30 meters of visibility and water temperatures of 26-29 degrees Celsius throughout the year.
 
 ## Site Information
 

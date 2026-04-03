@@ -17,7 +17,7 @@ Angus's Aquarium is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Angus's Aquarium is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Angus's Aquarium is a shallow reef site in the West End that lives up to its name with a concentration of marine life in an easily accessible setting. The site has been adopted by Roatan Divers for monthly Dive Against Debris cleanup activities, helping maintain the health of the reef. Snorkelers and new divers can explore the coral heads in calm, clear water while spotting parrotfish, juvenile angelfish, damselfish, and the occasional seahorse tucked among the coral branches. The protected shallows make this one of the West End's most relaxed dive sites, ideal for training dives or a leisurely afternoon underwater.
 
 ## Site Information
 

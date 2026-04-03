@@ -17,7 +17,7 @@ Inside Blue 4 is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Inside Blue 4 is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Inside Blue 4 is the outermost of the four Blue Channel mooring sites, positioned closest to where the inner reef transitions toward the deeper wall system. This proximity to the channel edge means slightly more current and a chance of seeing larger visitors, including nurse sharks resting under ledges and hawksbill turtles navigating between the shallows and the wall. The coral coverage is dense, with pillar coral colonies and boulder star coral creating a complex three-dimensional reef. Squirrelfish and soldierfish hide in the darker recesses, emerging at dusk when the reef transforms for night diving.
 
 ## Site Information
 

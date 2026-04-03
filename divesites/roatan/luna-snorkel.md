@@ -17,7 +17,7 @@ Luna Snorkel is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Luna Snorkel is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Named through the Roatan Marine Park's conservation program, Luna Snorkel is a mooring site on the West Bay reef shelf. Specific details about this particular dive are limited in published sources, but the area offers a relaxed reef environment with scattered coral formations and sandy channels at 6 meters depth. Southern stingrays often rest on the sand between dives, and hawksbill turtles visit the reef to feed on sponges. Schools of blue tangs and sergeant majors add movement and color, with visibility typically between 20 and 30 meters.
 
 ## Site Information
 

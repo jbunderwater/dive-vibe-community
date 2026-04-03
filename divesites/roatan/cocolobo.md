@@ -17,7 +17,7 @@ Cocolobo is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Cocolobo is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Cocolobo sits along the continuous West End wall system where the Mesoamerican Barrier Reef traces Roatan's northern coast. The wall here is richly textured with deep crevices sheltering green moray eels and spiny lobsters, while the face itself is covered in a mosaic of encrusting sponges in vivid reds and purples. Creole wrasse form dense aggregations above the wall edge, and divers occasionally spot Caribbean reef sharks patrolling the blue water just off the drop-off. With visibility commonly reaching 30 meters or more, the sense of depth along the wall is striking.
 
 ## Site Information
 

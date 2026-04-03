@@ -17,7 +17,7 @@ Singledivers.com 2018 is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Singledivers.com 2018 is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Singledivers.com 2018 is a Roatan Marine Park mooring site donated through the singledivers.com dive community, reflecting the online community's commitment to reef conservation in Roatan. Located along the West Bay reef corridor at a maximum depth of 12 meters, the site offers gentle reef terrain with coral heads separated by sandy patches. Typical marine life includes sea turtles, southern stingrays, parrotfish, and the colorful assortment of reef fish found throughout this stretch of coast. Visibility ranges from 20-30 meters with water temperatures of 26-29 degrees Celsius year-round.
 
 ## Site Information
 

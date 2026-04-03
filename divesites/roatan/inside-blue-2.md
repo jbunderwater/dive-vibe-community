@@ -17,7 +17,7 @@ Inside Blue 2 is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Inside Blue 2 is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Inside Blue 2 sits adjacent to its numbered companions within the Blue Channel, offering shallow reef diving in the sheltered waters between the shore and the outer wall. Brain corals and star corals dominate the reef structure here, interspersed with sea plumes that sway in the gentle current. Cleaning stations attract Nassau groupers and tiger groupers who hold still while cleaner shrimp and gobies work over their gills. The calm conditions and shallow depth make Inside Blue 2 particularly popular for training dives, though experienced divers will find plenty of macro subjects to occupy a slow, observant dive.
 
 ## Site Information
 

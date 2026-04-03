@@ -17,7 +17,7 @@ Deep Seaquest is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Deep Seaquest is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Deep Seaquest is the deeper extension of the Sea Quest complex, reaching 24 meters along sandy plateaus interspersed with patch reef formations. Like its shallower counterpart, the site benefits from proximity to Roatan Marine Park's coral nursery and its 'coral trees' nurturing new coral growth. Macro enthusiasts will find seahorses, pipe horses, and pistol shrimp tucked into corkscrew anemones, while the deeper profile brings encounters with eagle rays and larger stingrays patrolling the sand channels. The intermediate depth rating reflects the additional depth and occasional currents along this section of the reef.
 
 ## Site Information
 

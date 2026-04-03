@@ -17,7 +17,7 @@ Todd's Last Dance is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Todd's Last Dance is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Todd's Last Dance is a named mooring site within the Roatan Marine Park system, part of the conservation network that protects the West Bay reef corridor. Specific information about this individual location is limited, but the site sits on the reef shelf where coral formations and sandy areas create a varied seascape at depths to 18 meters. Blue tangs, yellowtail snapper, and parrotfish move among the corals while southern stingrays rest on the sandy bottom. Visibility averages 20-30 meters in the clear Caribbean water, with temperatures holding steady at 26-29 degrees Celsius.
 
 ## Site Information
 

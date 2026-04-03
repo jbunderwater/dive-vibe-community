@@ -17,7 +17,7 @@ Vern's Dropoff is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Vern's Dropoff is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Vern's Drop Off completes the popular drift sequence with Moonlight and Dixie's, serving as the final stretch of a wall dive that ranks among the West End's most requested. The drop-off here is steep and clean, falling away beneath overhanging coral heads where yellowtail snappers gather in loose schools. Divers drifting in from Moonlight arrive along a wall decorated with purple tube sponges and orange encrusting sponges, with the occasional reef shark cruising the deeper water. The current that makes the drift possible also brings nutrients that keep the wall alive with color and movement.
 
 ## Site Information
 

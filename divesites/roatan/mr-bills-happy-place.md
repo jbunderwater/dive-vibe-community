@@ -17,7 +17,7 @@ Mr Bill's Happy Place is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Mr Bill's Happy Place is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Mr Bill's Happy Place is located inside the Blue Channel area and was named in memory of Bill Larson, a beloved member of the Roatan diving community. The site offers a mix of shallow reef terrain and access to the wall, with coral gardens giving way to the deeper structure. Friendly groupers are a hallmark of this area, often approaching divers with curiosity. The reef is decorated with azure vase sponges and branching gorgonians, and the proximity to the channel means nutrient-rich water supports robust coral growth. It serves as both a standalone dive and a starting point for explorations toward the outer wall.
 
 ## Site Information
 

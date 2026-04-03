@@ -17,7 +17,7 @@ Rino Phores is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Rino Phores is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Rino Phores is a shallow reef site in the West End corridor, and the playful name nods to the rhinophores of nudibranchs, those sensory organs that make sea slugs such prized finds for macro photographers. The reef here tops out at around 12 meters, with scattered coral heads and sponge formations creating habitat for the small creatures that reward a slow, observant approach. Flamingo tongues browse on sea fans, Christmas tree worms dot the brain corals, and patient divers may find lettuce sea slugs or the occasional goldentail moray peering from a crevice. The site's shallow depth allows for extended bottom times and makes it an ideal second dive or macro photography session.
 
 ## Site Information
 

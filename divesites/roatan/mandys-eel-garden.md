@@ -17,7 +17,7 @@ Mandys Eel Garden is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Mandys Eel Garden is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Mandy's Eel Garden is accessible as a shore dive directly off West Bay Beach near Infinity Bay Resort, making it one of the few walk-in dive options in this area. The site is named for its resident garden eel colonies that dot the sandy bottom, swaying in the current before retreating into their burrows as divers approach. Two swim-throughs add topographical interest, and the macro life is outstanding: chain morays, green morays, turtles, peacock flounder, squid, octopi, seahorses, pipefish, and mantis shrimp have all been documented here. Early morning dives tend to offer the best conditions and most active marine life before the beach activity picks up.
 
 ## Site Information
 

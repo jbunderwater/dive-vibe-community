@@ -17,7 +17,7 @@ Temptation is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Temptation is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Temptation is a wall dive site in the West Bay area, positioned near Black Rock and Mandy's Eel Garden along Roatan's southwest coast. An active dive mooring marks the site, which features wall terrain dropping to 18 meters with typical West Bay marine life patrolling the reef face. The proximity to The Point complex means currents can vary, contributing to the intermediate difficulty rating. Visibility in this area generally ranges from 20-30 meters with warm water temperatures year-round.
 
 ## Site Information
 

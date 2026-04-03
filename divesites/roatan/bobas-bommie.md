@@ -17,7 +17,7 @@ Boba's Bommie is a pinnacle dive site in Roatán, Caribbean.
 
 ## Overview
 
-Boba's Bommie is a dive site in Roatán featuring an underwater pinnacle rising from the depths. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Situated along the West Bay reef corridor, Boba's Bommie is a Roatan Marine Park mooring site established through the park's dive site naming program. While dedicated documentation for this particular site is limited, the reef here follows the pattern of the wider West Bay area with coral heads separated by sandy patches and a gentle profile reaching 21 meters. Angelfish, parrotfish, trumpetfish, and sergeant majors populate the reef, with sea turtles and stingrays making regular appearances across the sand flats. Expect visibility of 20-30 meters and water temperatures between 26 and 29 degrees Celsius.
 
 ## Site Information
 

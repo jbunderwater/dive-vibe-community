@@ -17,7 +17,7 @@ Glory To Ukraine is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Glory To Ukraine is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Glory To Ukraine is a Roatan Marine Park mooring site along the wall between West End and Half Moon Bay, named in a show of solidarity by the local diving community. The wall profile here is classic West End: a reef crest at around 12 meters dropping vertically past recreational depths, with massive barrel sponges punctuating the face at regular intervals. Deepwater sea fans spread wide to filter the passing current, and schooling creole wrasse form shimmering clouds above the wall edge. The site offers good chances of spotting eagle rays cruising the drop-off, particularly during morning dives when the light angle illuminates the wall face.
 
 ## Site Information
 

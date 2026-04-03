@@ -17,7 +17,7 @@ Corrale's Coral Reef is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Corrale's Coral Reef is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+As part of the Roatan Marine Park mooring system, Corrale's Coral Reef sits along the productive reef corridor stretching between West End and West Bay. Detailed descriptions specific to this mooring are limited, but the site shares the gentle reef topography of the West Bay shelf, with coral heads and sandy patches providing diverse habitat at 15 meters depth. Sergeant majors, damselfish, and blue chromis swarm the shallower sections, while larger visitors like sea turtles and southern stingrays patrol the sand channels. Visibility ranges from 20 to 30 meters with warm water year-round.
 
 ## Site Information
 

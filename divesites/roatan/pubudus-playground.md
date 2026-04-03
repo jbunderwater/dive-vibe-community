@@ -17,7 +17,7 @@ Pubudu's Playground is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Pubudu's Playground is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Pubudu's Playground is a Roatan Marine Park mooring along the West Bay reef, established through the park's donor naming initiative that supports marine conservation. Individual site documentation is limited, but this stretch of reef features the characteristic West Bay landscape of coral gardens and sandy clearings at depths down to 18 meters. Cleaning stations attract a variety of reef fish including gobies and juvenile wrasses, while sea turtles and stingrays are frequent visitors to the sandy areas. Divers can expect 20-30 meters of visibility and water temperatures between 26 and 29 degrees Celsius.
 
 ## Site Information
 

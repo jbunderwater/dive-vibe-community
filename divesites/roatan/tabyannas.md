@@ -17,7 +17,7 @@ Tabyannas is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Tabyannas is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Tabyannas, also known as "Herbie's Fantasy" or "Herbie's Place," is a shallow sandy-bottom reef site situated along the West Bay corridor at around 12 meters depth. The site is particularly well-suited for underwater photographers, with a sandy substrate and scattered coral formations that create natural frames and backdrops. Visibility consistently averages 22-24 meters, and the gentle conditions make it an ideal choice for beginners and those looking for a relaxed dive. Reef fish congregate around the coral heads while stingrays and turtles patrol the sandy areas between them.
 
 ## Site Information
 

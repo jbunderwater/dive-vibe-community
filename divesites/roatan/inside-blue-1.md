@@ -17,7 +17,7 @@ Inside Blue 1 is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Inside Blue 1 is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Inside Blue 1 is the first of four mooring sites positioned inside the Blue Channel area, where the shallow reef creates a protected environment rich with marine life. The sandy bottom and scattered coral heads provide habitat for garden eels, southern stingrays, and juvenile barracuda. Being inside the channel means conditions are typically calm, making this an excellent site for newer divers and night diving. Octopuses emerge from their dens in the rubble zone, and yellowhead jawfish can be spotted hovering above their burrows in the sand patches between coral formations.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Marilyn's Mystery is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Marilyn's Mystery is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Marilyn's Mystery is one of the Roatan Marine Park's named dive moorings along the West Bay reef, supported by the park's donor-funded conservation program. Individual details for this site are not widely published, but it shares the characteristics of the broader West Bay corridor: a gentle reef with coral gardens and sandy channels at 18 meters maximum depth. Green and hawksbill turtles, southern stingrays, parrotfish, and blue tangs are among the regular inhabitants. Visibility typically sits between 20 and 30 meters, with year-round water temperatures of 26-29 degrees Celsius.
 
 ## Site Information
 

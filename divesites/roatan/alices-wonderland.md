@@ -17,7 +17,7 @@ Alice's Wonderland is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Alice's Wonderland is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Alice's Wonderland is a reef dive situated in the West Bay area alongside well-known sites like Tabyana, Sea Quest, and Turtle Crossing. The shallow reef here features a mix of coral heads and sandy patches at depths reaching 15 meters, creating a varied underwater landscape suitable for divers of all levels. Sea turtles, reef fish, and stingrays are common sights along this section of the reef corridor. Visibility averages 20-30 meters in the warm Caribbean water, making for pleasant and relaxed diving conditions.
 
 ## Site Information
 

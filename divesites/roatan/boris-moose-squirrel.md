@@ -17,7 +17,7 @@ Boris, Moose & Squirrel is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Boris, Moose & Squirrel is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Boris, Moose & Squirrel is a named mooring site within the Roatan Marine Park system, part of the conservation network that protects the West Bay reef corridor. Specific information about this individual location is limited, but the site sits on the reef shelf where coral formations and sandy areas create a varied seascape at depths to 18 meters. Blue tangs, yellowtail snapper, and parrotfish move among the corals while southern stingrays rest on the sandy bottom. Visibility averages 20-30 meters in the clear Caribbean water, with temperatures holding steady at 26-29 degrees Celsius.
 
 ## Site Information
 

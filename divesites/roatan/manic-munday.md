@@ -17,7 +17,7 @@ Manic Munday is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Manic Munday is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Manic Munday is part of the Roatan Marine Park mooring system along the West Bay reef corridor, established through the park's conservation-focused naming program. Specific published information about this individual site is limited, but the surrounding reef environment features scattered coral formations rising from sandy flats at depths reaching 18 meters. Southern stingrays, hawksbill turtles, and schools of sergeant majors are commonly spotted along this stretch, with cleaning stations drawing a steady flow of reef fish. Caribbean visibility of 20-30 meters and warm water temperatures of 26-29 degrees Celsius make for comfortable diving conditions.
 
 ## Site Information
 

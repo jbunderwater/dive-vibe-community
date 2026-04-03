@@ -17,7 +17,7 @@ Dona Cleta is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Dona Cleta is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Dona Cleta forms part of the Roatan Marine Park's named dive site network on the West Bay reef, where conservation moorings protect the reef from anchor damage. While there is limited individual documentation for this site, it occupies the shallow reef platform between West End and West Bay at depths to 18 meters. Coral heads rise from sandy substrate, providing shelter for lobsters, moray eels, and a colorful array of reef fish including angelfish and butterflyfish. Visibility of 20-30 meters and 26-29 degree Celsius water temperatures are standard for this area.
 
 ## Site Information
 

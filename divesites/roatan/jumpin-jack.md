@@ -17,7 +17,7 @@ Jumpin Jack is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Jumpin Jack is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Jumpin Jack is a shallow reef site on the West Bay corridor where divers are greeted by an explosion of color across the coral formations. Trip reports consistently describe the reef as displaying vibrant reds, blues, yellows, purples, and pinks, reflecting the exceptional health of both hard and soft corals at this location. The shallow profile at 15 meters maximum makes it accessible for beginners while still offering plenty to explore for experienced divers. Warm Caribbean water and visibility averaging 20-30 meters create ideal conditions for appreciating the full spectrum of reef color.
 
 ## Site Information
 

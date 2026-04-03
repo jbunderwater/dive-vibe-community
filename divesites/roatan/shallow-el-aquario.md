@@ -17,7 +17,7 @@ Shallow El Aquario is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Shallow El Aquario is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Shallow El Aquario is the upper section of the El Aquario dive site, where the reef flat offers easy, calm diving before the deeper site's 150-foot vertical wall transitions to a 45-degree slope below. In the shallows, large groupers move confidently among the coral heads, accustomed to divers, and sea turtles graze on the algae-covered surfaces. This section is perfect for new divers and snorkelers who want to experience the marine life density of the West End without committing to the deeper wall. Juvenile fish use the coral thickets as nursery habitat, and the diversity of small reef species here can keep a patient observer busy for an entire dive.
 
 ## Site Information
 

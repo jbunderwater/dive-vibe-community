@@ -17,7 +17,7 @@ Deep Turtle Crossing is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Deep Turtle Crossing is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Deep Turtle Crossing extends from the second sandy plateau at around 14 meters down to the wall, which drops away to 36 meters and beyond. Coral channels from the shallows lead to the wall edge, where the reef gives way to a dramatic vertical drop reaching 36-45 meters. Turtles remain abundant at depth, joined by eels, lobsters, and a diverse community of reef fish including flounders and jawfish in the sandy areas. The wall section and greater depth earn this site an intermediate difficulty rating, with currents occasionally picking up along the drop-off.
 
 ## Site Information
 

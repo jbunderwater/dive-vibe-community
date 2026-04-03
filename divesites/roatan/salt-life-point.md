@@ -17,7 +17,7 @@ Salt Life Point is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Salt Life Point is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Salt Life Point is a Roatan Marine Park mooring site at the southern end of the West End wall corridor, where the barrier reef wall runs close to shore. The wall starts at a comfortable depth and plunges steeply, its face decorated with rope sponges, deepwater gorgonians, and clusters of orange cup coral in the shadowed overhangs. Schooling horse-eye jacks pass through regularly, their silvery bodies reflecting the available light. Divers exploring the wall's upper sections will find cleaning stations attended by neon gobies, while French angelfish and rock beauties forage along the reef crest. Conditions here tend to be calm, with visibility averaging 25-35 meters.
 
 ## Site Information
 

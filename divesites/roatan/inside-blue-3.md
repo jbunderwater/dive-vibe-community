@@ -17,7 +17,7 @@ Inside Blue 3 is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Inside Blue 3 is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Inside Blue 3 continues the series of mooring sites within the Blue Channel, each offering a slightly different perspective on this protected inner reef. Elkhorn coral remnants and healthy stands of staghorn coral distinguish this section, providing cover for schools of yellowtail snapper and blue tang. The sandy gaps between reef patches are worth careful inspection, as peacock flounders lie camouflaged on the bottom and lettuce sea slugs browse on the algae. With a maximum depth of around 10 meters, air consumption is low and dive times stretch comfortably past an hour.
 
 ## Site Information
 

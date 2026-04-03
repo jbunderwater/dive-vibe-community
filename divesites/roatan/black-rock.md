@@ -17,7 +17,7 @@ Black Rock is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Black Rock is a dive site in Roatán featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Black Rock forms part of 'The Point' complex at Roatan's southwest tip, where the reef structure supports impressive stands of black coral colonies, barrel sponges, and sea fans. The wall drops to 24 meters with the deeper sections harboring barracudas, triggerfish, nurse sharks, and stingrays cruising along the reef face. During the right season, whale sharks have been spotted passing through these waters, adding a pelagic element to what is already one of the more diverse dives in the area. The intermediate rating reflects both the depth and the occasional currents that sweep around the point.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Zoe's Midnight Garden is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Zoe's Midnight Garden is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Zoe's Midnight Garden is a shallow reef site along the West Bay corridor that has become particularly popular as a night diving destination. The site takes on a different character after dark, when nocturnal creatures emerge and daytime species settle into the reef. Flamingo tongue snails have been spotted on the sea fans here, along with the usual cast of reef fish during daylight hours. At 15 meters maximum depth, the gentle terrain and calm conditions make it suitable for both day and night dives, with visibility typically reaching 20-30 meters.
 
 ## Site Information
 

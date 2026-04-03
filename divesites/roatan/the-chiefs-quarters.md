@@ -17,7 +17,7 @@ The Chief's Quarters is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-The Chief's Quarters is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Chief's Quarters is a memorial dive site dedicated to Richard "The Chief" Canaan, a 22-year US Navy veteran who was deeply connected to Roatan's diving community. The site serves as an active coral restoration project, with over 340 fragments of elkhorn and staghorn coral planted here as part of reef recovery efforts. Hawksbill turtles frequent the area, drawn to the growing coral structures, and the site has become popular for night dives where bioluminescence can be observed in the water column. At 15 meters maximum depth, it offers a meaningful dive that combines conservation with memorable underwater encounters.
 
 ## Site Information
 

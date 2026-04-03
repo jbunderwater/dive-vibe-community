@@ -17,7 +17,7 @@ Kaylee's Daydream is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Kaylee's Daydream is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Roatan Marine Park mooring at Kaylee's Daydream marks a dive site along the West Bay reef corridor, named through the park's conservation donation program. Though specific published information about this site is scarce, the reef here features a gentle profile with coral formations and sand flats extending to 18 meters. Parrotfish, blue tangs, and yellowtail snapper inhabit the coral structures, with sea turtles frequently observed foraging among the sponges. Clear Caribbean water provides 20-30 meters of visibility, and temperatures remain a comfortable 26-29 degrees Celsius.
 
 ## Site Information
 

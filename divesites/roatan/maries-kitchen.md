@@ -17,7 +17,7 @@ Marie's Kitchen is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Marie's Kitchen is a dive site in Roatán offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Marie's Kitchen takes its place among the Roatan Marine Park's collection of named mooring sites that dot the West Bay reef between West End and West Bay Beach. Though detailed site-specific information is scarce, this section of reef offers a gentle slope with coral heads interspersed across sandy substrate at depths down to 18 meters. Parrotfish, angelfish, and trumpetfish navigate the coral structures while sea turtles cruise overhead. Warm Caribbean water averaging 26-29 degrees Celsius and visibility of 20-30 meters are the norm here.
 
 ## Site Information
 
