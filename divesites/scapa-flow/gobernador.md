@@ -17,15 +17,15 @@ A Scapa Flow blockship in the tidal narrows of Burra Sound, encrusted with cold-
 
 ## Overview
 
-The Gobernador is one of Scapa Flow's blockships — vessels deliberately sunk to obstruct the narrow sounds around the anchorage, preventing enemy submarine access to the Fleet's mooring ground. The blockships were sunk in the restricted tidal waterways including Burra Sound, where swift currents make diving possible only around the brief slack tide period. The Gobernador lies in 16 meters of water in the powerful Burra Sound narrows, and like the other blockships, has developed an exceptional cold-water invertebrate community as a result of the tidal nutrient delivery. The strong tidal flow that restricts diving also feeds the anemones, hydroids, and soft corals that encrust every surface of the wreck, creating some of the most spectacular cold-water invertebrate photography in the United Kingdom.
+The Gobernador Bories (often shortened to Gobernador) was built in West Hartlepool in 1882 and sunk as a blockship on October 12, 1914, during WWI — one of the earliest blockships placed in Scapa Flow's approaches. She lies in approximately 15 meters of very clear, tidal water in Burra Sound's powerful current. The bows, mid-ships, and stern of the ship are all still relatively intact, making her one of the best-preserved blockships. She is described as an "excellent shallow second dive" by local operators. Like the other blockships, she can only be dived during slack water. The strong tidal flow that restricts diving also feeds the anemones, hydroids, and soft corals that encrust every surface of the wreck, creating some of the most spectacular cold-water invertebrate photography in the United Kingdom.
 
 ## Site Information
 
 - **Location**: Burra Sound, Scapa Flow, Orkney, Scotland
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck (blockship)
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 16 meters (52 feet)
+- **Maximum Depth**: 16 meters
 - **Typical Visibility**: 8–20 meters (26–66 feet) — variable with tidal phase
 - **Current**: Very strong — slack tide only
 - **Water Temperature**: 6–14°C (43–57°F)
@@ -53,7 +53,7 @@ Expert local skipper mandatory for safe Burra Sound diving. A negative entry to 
 
 ## Safety Considerations
 
-Burra Sound diving is the most technically demanding diving in Scapa Flow due to the extreme tidal currents. Diving outside the slack window is extremely dangerous. A missed shot line on ascent in the current can result in a rapidly drifting diver unable to return to the boat. Experienced guide, negative entry, and absolute current awareness are mandatory. This is not a site for Scapa Flow beginners — complete the German fleet dives first.
+Burra Sound diving is the most technically demanding diving in Scapa Flow due to the extreme tidal currents. Diving outside the slack window is extremely dangerous. A missed shot line on ascent in the current can result in a rapidly drifting diver unable to return to the boat. Experienced buddy team, negative entry, and absolute current awareness are mandatory. This is not a site for Scapa Flow beginners — complete the German fleet dives first.
 
 ## Photography
 
@@ -61,7 +61,9 @@ The Gobernador's exceptional invertebrate coverage — denser than most of the G
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-28
+- **Last Updated**: 2026-04-03
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
+## Sources
+
+- [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/)
+- [Scapa Flow Dive Sites — scapa-flow.co.uk](https://www.scapa-flow.co.uk/dive-site)
