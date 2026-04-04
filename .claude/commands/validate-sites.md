@@ -63,6 +63,7 @@ Steps:
    d. Add tags: validated="true", validation_source="[url or source name]"
    e. Read the corresponding markdown file
    f. Rewrite generic template text with site-specific researched content
+   g. Update the markdown footer to credit the actual sources used (see "Source Attribution" below)
 5. Write updated JSON back to data/osm_clean/{slug}.json
 6. Run: python3 scripts/sync_sites.py {slug}
 7. Return a summary of all changes made
@@ -194,6 +195,39 @@ When updating markdown, follow these rules:
 - **Don't fabricate**: Only write what your research supports. If you can't find specific marine life info for a site, keep the regional defaults rather than making things up.
 - **Match existing tone**: Write like the Bonaire files — informative, specific, conversational but professional. No marketing language.
 
+### Source Attribution (REQUIRED)
+
+Every research-updated markdown file MUST credit the specific sources that informed its content. This serves two purposes: readers can verify claims, and future editors know what was actually researched vs. generated.
+
+**In the markdown footer**, replace generic attribution like "compiled from OpenStreetMap data and regional diving knowledge" with the actual sources used. Format:
+
+```
+---
+*Sources: [Source Name 1](URL), [Source Name 2](URL), [Source Name 3](URL). Last updated YYYY-MM-DD.*
+```
+
+Examples:
+```
+*Sources: [Buddy Dive Bonaire](https://buddydive.com/hilma-hooker/), [ScubaBoard](https://scubaboard.com/community/threads/mapping-the-hilma-hooker.277516/), [Wikipedia](https://en.wikipedia.org/wiki/Hilma_Hooker). Last updated 2026-04-04.*
+```
+
+```
+*Sources: [Roatan Divers](https://roatandivers.com/dive-sites/), [Coconut Tree Divers](https://coconuttreedivers.com/roatan-dive-sites/). Last updated 2026-04-04.*
+```
+
+**Rules:**
+- List every source that contributed specific facts to the description (dive shop pages, forum threads, Wikipedia articles, dive databases)
+- Use the site/organization name as link text, not raw URLs
+- If a dive shop page was the primary source for multiple sites in a destination, credit it on each site it informed
+- If no specific source was found and the description uses only regional/geographic defaults, say so: `*Description based on regional diving characteristics. No site-specific sources found. Last updated YYYY-MM-DD.*`
+- Never write "compiled from OpenStreetMap data and regional diving knowledge" — this is meaningless attribution that tells readers nothing
+- The `validation_source` tag in the JSON should contain the domain names (e.g., "buddydive.com,scubaboard.com,wikipedia.org") for quick reference
+
+**In the JSON `validation_source` tag**, list the domain names of sources consulted, comma-separated:
+```json
+"validation_source": "buddydive.com,scubaboard.com,wikipedia.org"
+```
+
 ### Anti-Hallucination Rules (CRITICAL)
 
 AI-generated dive site descriptions are prone to fabricating plausible-sounding but incorrect details. These rules MUST be followed:
@@ -255,7 +289,7 @@ Unresolved (no source found): N sites
 - This is a SLOW process due to web searches. Plan for ~2-5 minutes per destination depending on size.
 - Focus on destinations with >80% reef tags first — most likely to have misclassifications.
 - For destinations that genuinely ARE reef diving (e.g., Great Barrier Reef), a high reef percentage is correct. Confirm at the destination level first.
-- Always cite your source — note it in the validation_source tag.
+- Always cite your sources — both in the JSON validation_source tag AND in the markdown footer with clickable links.
 - After ALL changes (both JSON and markdown), run `python3 scripts/sync_sites.py <slug>` to ensure frontmatter stays consistent.
 - Cold-water destinations (Norway, Greenland, Svalbard, Great Lakes, etc.): minimum Intermediate difficulty.
 - Remote liveaboard destinations (Socorro, Cocos, Tubbataha): minimum Advanced difficulty.

@@ -126,8 +126,16 @@ Local dive shops and operators are the single best source for dive site descript
 ### Data + Description Update Flow
 
 When validating a destination, agents must update **three things**:
-1. **`data/osm_clean/{slug}.json`** — site_type, difficulty, depth, entry_type, validation tags
-2. **`divesites/{slug}/*.md`** — rewrite generic template descriptions with site-specific content from research (see quality standard in `/validate-sites` command)
+1. **`data/osm_clean/{slug}.json`** — site_type, difficulty, depth, entry_type, validation tags (including `validation_source` with domain names)
+2. **`divesites/{slug}/*.md`** — rewrite generic template descriptions with site-specific content from research, and **credit sources in the footer** (see Source Attribution in `/validate-sites` command)
 3. **Run `python3 scripts/sync_sites.py <slug>`** — propagates frontmatter fields from osm_clean to markdown files and rebuilds index.json
 
 The quality standard for descriptions is the hand-curated Bonaire/Curaçao files. Generic template text like "rewarding diving on healthy coral reef structures" must be replaced with specific, researched content when information is available.
+
+### Source Attribution (REQUIRED)
+
+Every research-updated markdown file must credit the actual sources used — not generic "compiled from regional diving knowledge" filler. The markdown footer format is:
+```
+*Sources: [Source Name](URL), [Source Name](URL). Last updated YYYY-MM-DD.*
+```
+If no site-specific source was found, say so explicitly: `*Description based on regional diving characteristics. No site-specific sources found.*`
