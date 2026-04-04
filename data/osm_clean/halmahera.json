@@ -1,1 +1,136 @@
-[]
+[
+  {
+    "name": "USS PT-371",
+    "lat": 2.0917,
+    "lon": 127.8305,
+    "depth": 15,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "osm_id": 2144506344,
+    "tags": {
+      "source": "osm_extended",
+      "historic": "wreck"
+    }
+  },
+  {
+    "name": "Tosei Maru",
+    "lat": 1.1452,
+    "lon": 127.8332,
+    "depth": 20,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "osm_id": 20315906,
+    "tags": {
+      "source": "osm_extended",
+      "historic": "wreck",
+      "wreck:date_sunk": "1941-12-12"
+    }
+  },
+  {
+    "name": "Pasirtidore Reef",
+    "lat": 0.3174,
+    "lon": 127.9902,
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "osm_id": 1337350916,
+    "tags": {
+      "source": "osm_extended",
+      "natural": "reef"
+    }
+  },
+  {
+    "name": "Widi Islands Wall",
+    "lat": 0.45,
+    "lon": 127.85,
+    "depth": 40,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Ternate Volcano Wall",
+    "lat": 0.78,
+    "lon": 127.37,
+    "depth": 35,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Tidore Reef",
+    "lat": 0.67,
+    "lon": 127.4,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Dodinga Bay",
+    "lat": 0.85,
+    "lon": 127.55,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Galela Bay",
+    "lat": 1.82,
+    "lon": 127.85,
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Jailolo Strait",
+    "lat": 0.95,
+    "lon": 127.45,
+    "depth": 30,
+    "site_type": "drift",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Tobelo Reef",
+    "lat": 1.73,
+    "lon": 128.02,
+    "depth": 22,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  }
+]

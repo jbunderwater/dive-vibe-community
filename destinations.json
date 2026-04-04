@@ -2711,19 +2711,19 @@
     "region": "Asia",
     "center": [
       -8.25,
-      117.5
+      118.3
     ],
     "bounds": [
       [
-        -8.6,
-        117.0
+        -8.7,
+        117.4
       ],
       [
         -8.0,
-        118.5
+        119.2
       ]
     ],
-    "description": "Wild and remote Indonesian diving with Moyo Island's pristine reefs, Satonda's volcanic crater lake, and manta encounters at Gili Banta in the Komodo corridor.",
+    "description": "Indonesia's north Sumbawa coast with whale shark encounters in Saleh Bay, dramatic walls around Moyo Island marine park, volcanic geothermal vents at Sangeang Island, and sheltered muck diving at Satonda's sunken caldera.",
     "overviewFile": "overview.md",
     "countryCode": "ID"
   },

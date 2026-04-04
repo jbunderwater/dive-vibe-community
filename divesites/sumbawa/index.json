@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Angel Reef",
+    "filename": "angel-reef.md",
+    "lat": -8.22,
+    "lng": 117.58,
+    "difficulty": "Advanced",
+    "maxDepth": 50,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Panjang Reef",
+    "filename": "panjang-reef.md",
+    "lat": -8.24,
+    "lng": 117.6,
+    "difficulty": "Advanced",
+    "maxDepth": 50,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Sumbawa Wall",
+    "filename": "sumbawa-wall.md",
+    "lat": -8.2,
+    "lng": 117.55,
+    "difficulty": "Intermediate",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Whale Shark Point",
+    "filename": "whale-shark-point.md",
+    "lat": -8.49,
+    "lng": 117.82,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Satonda Bay",
+    "filename": "satonda-bay.md",
+    "lat": -8.117,
+    "lng": 117.749,
+    "difficulty": "Intermediate",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "muck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Hot Rocks",
+    "filename": "hot-rocks.md",
+    "lat": -8.2,
+    "lng": 119.07,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "muck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Bonto Reef",
+    "filename": "bonto-reef.md",
+    "lat": -8.19,
+    "lng": 119.05,
+    "difficulty": "Intermediate",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Mentjeng Wall",
+    "filename": "mentjeng-wall.md",
+    "lat": -8.21,
+    "lng": 119.08,
+    "difficulty": "Advanced",
+    "maxDepth": 35,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Black Magic",
+    "filename": "black-magic.md",
+    "lat": -8.18,
+    "lng": 119.06,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "muck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Copycat",
+    "filename": "copycat.md",
+    "lat": -8.22,
+    "lng": 119.09,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "muck",
+    "ref": "",
+    "osmId": null
+  }
+]

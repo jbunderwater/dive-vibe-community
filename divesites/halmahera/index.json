@@ -1,0 +1,122 @@
+[
+  {
+    "name": "USS PT-371",
+    "filename": "uss-pt-371.md",
+    "lat": 2.0917,
+    "lng": 127.8305,
+    "difficulty": "Intermediate",
+    "maxDepth": 15,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 2144506344
+  },
+  {
+    "name": "Tosei Maru",
+    "filename": "tosei-maru.md",
+    "lat": 1.1452,
+    "lng": 127.8332,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": 20315906
+  },
+  {
+    "name": "Pasirtidore Reef",
+    "filename": "pasirtidore-reef.md",
+    "lat": 0.3174,
+    "lng": 127.9902,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 1337350916
+  },
+  {
+    "name": "Widi Islands Wall",
+    "filename": "widi-islands-wall.md",
+    "lat": 0.45,
+    "lng": 127.85,
+    "difficulty": "Advanced",
+    "maxDepth": 40,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Ternate Volcano Wall",
+    "filename": "ternate-volcano-wall.md",
+    "lat": 0.78,
+    "lng": 127.37,
+    "difficulty": "Advanced",
+    "maxDepth": 35,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Tidore Reef",
+    "filename": "tidore-reef.md",
+    "lat": 0.67,
+    "lng": 127.4,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Dodinga Bay",
+    "filename": "dodinga-bay.md",
+    "lat": 0.85,
+    "lng": 127.55,
+    "difficulty": "Beginner",
+    "maxDepth": 18,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Galela Bay",
+    "filename": "galela-bay.md",
+    "lat": 1.82,
+    "lng": 127.85,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Jailolo Strait",
+    "filename": "jailolo-strait.md",
+    "lat": 0.95,
+    "lng": 127.45,
+    "difficulty": "Advanced",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "drift",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Tobelo Reef",
+    "filename": "tobelo-reef.md",
+    "lat": 1.73,
+    "lng": 128.02,
+    "difficulty": "Intermediate",
+    "maxDepth": 22,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  }
+]

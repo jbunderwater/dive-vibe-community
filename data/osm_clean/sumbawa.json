@@ -1,1 +1,132 @@
-[]
+[
+  {
+    "name": "Angel Reef",
+    "lat": -8.22,
+    "lon": 117.58,
+    "depth": 50,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Panjang Reef",
+    "lat": -8.24,
+    "lon": 117.6,
+    "depth": 50,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Sumbawa Wall",
+    "lat": -8.2,
+    "lon": 117.55,
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Whale Shark Point",
+    "lat": -8.49,
+    "lon": 117.82,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Satonda Bay",
+    "lat": -8.117,
+    "lon": 117.749,
+    "depth": 30,
+    "site_type": "muck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Hot Rocks",
+    "lat": -8.2,
+    "lon": 119.07,
+    "depth": 25,
+    "site_type": "muck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Bonto Reef",
+    "lat": -8.19,
+    "lon": 119.05,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Mentjeng Wall",
+    "lat": -8.21,
+    "lon": 119.08,
+    "depth": 35,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Black Magic",
+    "lat": -8.18,
+    "lon": 119.06,
+    "depth": 25,
+    "site_type": "muck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Copycat",
+    "lat": -8.22,
+    "lon": 119.09,
+    "depth": 20,
+    "site_type": "muck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  }
+]

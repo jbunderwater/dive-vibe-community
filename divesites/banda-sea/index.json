@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Batu Kapal",
+    "filename": "batu-kapal.md",
+    "lat": -4.53,
+    "lng": 129.88,
+    "difficulty": "Advanced",
+    "maxDepth": 40,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Pulau Hatta",
+    "filename": "pulau-hatta.md",
+    "lat": -4.58,
+    "lng": 129.74,
+    "difficulty": "Advanced",
+    "maxDepth": 35,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Pulau Ai",
+    "filename": "pulau-ai.md",
+    "lat": -4.53,
+    "lng": 129.77,
+    "difficulty": "Intermediate",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Banda Neira Jetty",
+    "filename": "banda-neira-jetty.md",
+    "lat": -4.525,
+    "lng": 129.896,
+    "difficulty": "Beginner",
+    "maxDepth": 15,
+    "entryType": "shore",
+    "siteType": "muck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Lava Flow",
+    "filename": "lava-flow.md",
+    "lat": -4.5,
+    "lng": 129.87,
+    "difficulty": "Intermediate",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Gunung Api Wall",
+    "filename": "gunung-api-wall.md",
+    "lat": -4.49,
+    "lng": 129.87,
+    "difficulty": "Advanced",
+    "maxDepth": 40,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Mandarin City",
+    "filename": "mandarin-city.md",
+    "lat": -4.52,
+    "lng": 129.9,
+    "difficulty": "Beginner",
+    "maxDepth": 12,
+    "entryType": "boat",
+    "siteType": "muck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Sonegat",
+    "filename": "sonegat.md",
+    "lat": -4.55,
+    "lng": 129.92,
+    "difficulty": "Intermediate",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Pohon Miring",
+    "filename": "pohon-miring.md",
+    "lat": -4.56,
+    "lng": 129.85,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Keraka",
+    "filename": "keraka.md",
+    "lat": -4.6,
+    "lng": 129.73,
+    "difficulty": "Advanced",
+    "maxDepth": 35,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  }
+]

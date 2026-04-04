@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Manta Point",
+    "filename": "manta-point.md",
+    "lat": 2.085,
+    "lng": 118.24,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Manta Run",
+    "filename": "manta-run.md",
+    "lat": 2.08,
+    "lng": 118.235,
+    "difficulty": "Intermediate",
+    "maxDepth": 18,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Sangalaki Lighthouse",
+    "filename": "sangalaki-lighthouse.md",
+    "lat": 2.09,
+    "lng": 118.25,
+    "difficulty": "Beginner",
+    "maxDepth": 15,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Kakaban Jellyfish Lake",
+    "filename": "kakaban-jellyfish-lake.md",
+    "lat": 2.15,
+    "lng": 118.55,
+    "difficulty": "Beginner",
+    "maxDepth": 5,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Kakaban Wall",
+    "filename": "kakaban-wall.md",
+    "lat": 2.14,
+    "lng": 118.54,
+    "difficulty": "Advanced",
+    "maxDepth": 35,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Maratua Channel",
+    "filename": "maratua-channel.md",
+    "lat": 2.22,
+    "lng": 118.62,
+    "difficulty": "Advanced",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "drift",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Big Fish Country",
+    "filename": "big-fish-country.md",
+    "lat": 2.2,
+    "lng": 118.6,
+    "difficulty": "Advanced",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Turtle Traffic",
+    "filename": "turtle-traffic.md",
+    "lat": 2.28,
+    "lng": 118.25,
+    "difficulty": "Beginner",
+    "maxDepth": 15,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Coral Garden Derawan",
+    "filename": "coral-garden-derawan.md",
+    "lat": 2.29,
+    "lng": 118.26,
+    "difficulty": "Beginner",
+    "maxDepth": 12,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Blue Trigger Wall",
+    "filename": "blue-trigger-wall.md",
+    "lat": 2.16,
+    "lng": 118.56,
+    "difficulty": "Advanced",
+    "maxDepth": 35,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  }
+]
