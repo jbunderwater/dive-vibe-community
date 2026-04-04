@@ -2704,5 +2704,93 @@
     "description": "Cold Atlantic waters rich in maritime history, with WWII convoy wrecks, the Halifax Explosion aftermath, seal colonies, and the nutrient-rich Bay of Fundy with its extreme tides.",
     "overviewFile": "overview.md",
     "countryCode": "CA"
+  },
+  {
+    "name": "Sumbawa",
+    "slug": "sumbawa",
+    "region": "Asia",
+    "center": [
+      -8.25,
+      117.5
+    ],
+    "bounds": [
+      [
+        -8.6,
+        117.0
+      ],
+      [
+        -8.0,
+        118.5
+      ]
+    ],
+    "description": "Wild and remote Indonesian diving with Moyo Island's pristine reefs, Satonda's volcanic crater lake, and manta encounters at Gili Banta in the Komodo corridor.",
+    "overviewFile": "overview.md",
+    "countryCode": "ID"
+  },
+  {
+    "name": "Banda Sea",
+    "slug": "banda-sea",
+    "region": "Asia",
+    "center": [
+      -4.52,
+      129.9
+    ],
+    "bounds": [
+      [
+        -4.7,
+        129.6
+      ],
+      [
+        -4.3,
+        130.1
+      ]
+    ],
+    "description": "Historic spice island archipelago with pristine walls, WWII wrecks, hammerhead sharks, and volcanic underwater topography in one of Indonesia's most remote diving frontiers.",
+    "overviewFile": "overview.md",
+    "countryCode": "ID"
+  },
+  {
+    "name": "Halmahera",
+    "slug": "halmahera",
+    "region": "Asia",
+    "center": [
+      1.0,
+      128.0
+    ],
+    "bounds": [
+      [
+        -0.5,
+        127.0
+      ],
+      [
+        2.5,
+        129.0
+      ]
+    ],
+    "description": "North Maluku's unexplored diving frontier with WWII wrecks, vibrant soft coral walls, whale shark encounters, and the unique marine biodiversity of the Halmahera Sea.",
+    "overviewFile": "overview.md",
+    "countryCode": "ID"
+  },
+  {
+    "name": "Sangalaki (Derawan Islands)",
+    "slug": "sangalaki",
+    "region": "Asia",
+    "center": [
+      2.08,
+      118.4
+    ],
+    "bounds": [
+      [
+        1.9,
+        118.1
+      ],
+      [
+        2.35,
+        118.7
+      ]
+    ],
+    "description": "East Kalimantan's Derawan archipelago with manta ray cleaning stations at Sangalaki, Kakaban's stingless jellyfish lake, and pristine coral walls at Maratua atoll.",
+    "overviewFile": "overview.md",
+    "countryCode": "ID"
   }
 ]
