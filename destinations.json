@@ -2776,20 +2776,20 @@
     "slug": "sangalaki",
     "region": "Asia",
     "center": [
-      2.08,
-      118.4
+      2.19,
+      118.44
     ],
     "bounds": [
       [
-        1.9,
-        118.1
+        2.05,
+        118.18
       ],
       [
-        2.35,
-        118.7
+        2.38,
+        118.68
       ]
     ],
-    "description": "East Kalimantan's Derawan archipelago with manta ray cleaning stations at Sangalaki, Kakaban's stingless jellyfish lake, and pristine coral walls at Maratua atoll.",
+    "description": "Indonesia's manta ray capital with resident mantas at Sangalaki, the world's only accessible saltwater jellyfish lake at Kakaban, big fish drift dives at Maratua atoll, and macro-rich muck diving at Derawan.",
     "overviewFile": "overview.md",
     "countryCode": "ID"
   }
