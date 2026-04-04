@@ -22,7 +22,7 @@ West End Wall is the main wall dive site for the West End dive community, runnin
 ## Site Information
 
 - **Location**: West End Village, northwest Roatán, Bay Islands, Honduras
-- **Entry Type**: Boat dive (some sections accessible by shore entry from West End)
+- **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters

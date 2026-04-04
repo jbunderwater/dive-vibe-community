@@ -1,11 +1,11 @@
 ---
 name: Bear's Den
-lat: 16.29
-lng: -86.545
+lat: 16.3368125
+lng: -86.5688637
 difficulty: Intermediate
-maxDepth: 30
+maxDepth: 20
 entryType: boat
-siteType: wall
+siteType: cave
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,9 +23,9 @@ Bear's Den is a wall dive site on the southern coast of Roatán, named for the l
 
 - **Location**: South coast of Roatán, Bay Islands, Honduras
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive with overhang
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25–30 meters (80–100 feet)
 - **Current**: Light to moderate on the south wall
 - **Best Time**: Year-round

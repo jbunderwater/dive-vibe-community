@@ -82,6 +82,18 @@ Use the `/add-destinations` slash command for the full agentic workflow, or foll
 7. Run `python3 scripts/generate_sites.py` to generate markdown (**first time only** — NEVER re-run on destinations with existing hand-curated descriptions, as it overwrites all markdown with generic template text)
 8. Run `python3 scripts/sync_sites.py <slug>` after any osm_clean data changes to sync frontmatter + index.json (safe — only updates frontmatter fields, preserves description content)
 
+## Anti-Hallucination Policy (CRITICAL)
+
+AI-generated descriptions are the highest-risk area for data quality. These rules apply to ALL site descriptions:
+
+1. **Never fabricate historical facts.** No invented dates, dimensions, tonnage, vessel names, or sinking narratives. Require 2+ independent sources for any historical claim. Wreck histories are the #1 hallucination risk.
+2. **Never fabricate marine life.** Only attribute species to a site if a source confirms sightings at that specific site. Do not pad descriptions with regional species lists presented as site-specific.
+3. **Never claim wreck penetration is "safe."** Always note it requires proper training and equipment.
+4. **Flag uncertainty.** When sources conflict, note the discrepancy. "Sources report depths between 28-34 meters" is better than picking one number.
+5. **Verify access claims.** Do not guess shore vs. boat, distance from shore, or typical conditions without source confirmation.
+6. **No "mysterious circumstances" filler.** Either state verified facts or explicitly acknowledge what is unknown.
+7. **Cross-reference wreck data.** Ship name, build date, length, tonnage, sinking cause — each must appear in 2+ sources before inclusion.
+
 ## Agentic Research Pattern
 
 For site validation and destination research, use parallel agents:
@@ -114,8 +126,16 @@ Local dive shops and operators are the single best source for dive site descript
 ### Data + Description Update Flow
 
 When validating a destination, agents must update **three things**:
-1. **`data/osm_clean/{slug}.json`** — site_type, difficulty, depth, entry_type, validation tags
-2. **`divesites/{slug}/*.md`** — rewrite generic template descriptions with site-specific content from research (see quality standard in `/validate-sites` command)
+1. **`data/osm_clean/{slug}.json`** — site_type, difficulty, depth, entry_type, validation tags (including `validation_source` with domain names)
+2. **`divesites/{slug}/*.md`** — rewrite generic template descriptions with site-specific content from research, and **credit sources in the footer** (see Source Attribution in `/validate-sites` command)
 3. **Run `python3 scripts/sync_sites.py <slug>`** — propagates frontmatter fields from osm_clean to markdown files and rebuilds index.json
 
 The quality standard for descriptions is the hand-curated Bonaire/Curaçao files. Generic template text like "rewarding diving on healthy coral reef structures" must be replaced with specific, researched content when information is available.
+
+### Source Attribution (REQUIRED)
+
+Every research-updated markdown file must credit the actual sources used — not generic "compiled from regional diving knowledge" filler. The markdown footer format is:
+```
+*Sources: [Source Name](URL), [Source Name](URL). Last updated YYYY-MM-DD.*
+```
+If no site-specific source was found, say so explicitly: `*Description based on regional diving characteristics. No site-specific sources found.*`

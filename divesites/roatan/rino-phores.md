@@ -1,0 +1,67 @@
+---
+name: Rino Phores
+lat: 16.26659
+lng: -86.5998
+difficulty: Intermediate
+maxDepth: 12
+entryType: boat
+siteType: reef
+ref: null
+osmId: null
+addedBy: osm_import
+---
+
+## Rino Phores
+
+Rino Phores is a reef dive site in Roatán, Caribbean.
+
+## Overview
+
+Rino Phores is a shallow reef site in the West End corridor, and the playful name nods to the rhinophores of nudibranchs, those sensory organs that make sea slugs such prized finds for macro photographers. The reef here tops out at around 12 meters, with scattered coral heads and sponge formations creating habitat for the small creatures that reward a slow, observant approach. Flamingo tongues browse on sea fans, Christmas tree worms dot the brain corals, and patient divers may find lettuce sea slugs or the occasional goldentail moray peering from a crevice. The site's shallow depth allows for extended bottom times and makes it an ideal second dive or macro photography session.
+
+## Site Information
+
+- **Location**: Roatán, Caribbean
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 12 meters
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
+
+## Marine Life
+
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, parrotfish, angelfish (queen, French, grey), and blue tangs. Additional species commonly sighted include trumpetfish, yellowtail snapper, sergeant majors, damselfish, and cleaning stations with gobies and shrimp. The reef structure provides habitat for a diverse community of tropical fish and invertebrates.
+
+## Dive Profile
+
+The site offers a gentle reef terrain suitable for relaxed exploration. Begin your dive along the reef top and navigate through coral formations and sandy patches. The most abundant marine life is typically found between 5-18 meters. Take your time to explore cleaning stations and look for camouflaged creatures in the sand.
+
+## Entry and Exit
+
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+
+## Tips and Recommendations
+
+- Explore sandy patches between coral heads for camouflaged creatures
+- Look for cleaning stations where small fish and shrimp service larger visitors
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+
+## Safety Considerations
+
+Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+
+## Photography
+
+The colorful reef structures offer excellent macro photography opportunities. Look for small critters hiding among coral heads and anemones. Wide-angle shots work well to capture the vibrant reef landscape and schooling fish.
+
+## Additional Resources
+
+- **Last Updated**: 2026-04-03
+
+---
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-03.*

@@ -1,11 +1,11 @@
 ---
 name: Lighthouse Reef
-lat: 16.325
-lng: -86.595
-difficulty: Beginner
-maxDepth: 39
-entryType: shore
-siteType: reef
+lat: 16.3047352
+lng: -86.5976975
+difficulty: Intermediate
+maxDepth: 30
+entryType: boat
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Lighthouse Reef
 
-Lighthouse Reef is a reef dive site in Roatán, Caribbean.
+Lighthouse Reef is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
@@ -22,10 +22,10 @@ Lighthouse Reef at West Bay is one of Roatan's most-dived sites for good reason 
 ## Site Information
 
 - **Location**: Roatán, Caribbean
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 39 meters
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Light to moderate
 - **Best Time**: December to April (dry season)
@@ -36,7 +36,7 @@ Hawksbill turtles, southern stingrays, and the occasional eagle ray are regular 
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 39 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 

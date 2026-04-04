@@ -23,9 +23,9 @@ Mary's Place is widely considered Roatán's signature dive and one of the most c
 
 - **Location**: Southwest Roatán, near French Harbour, Honduras
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive with canyon/fissure system
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 36 meters (canyon system starts at 6 meters)
+- **Maximum Depth**: 36 meters
 - **Typical Visibility**: 25–35 meters (80–115 feet)
 - **Current**: Light to moderate; can funnel through the fissures
 - **Best Time**: Year-round; Roatán's visibility and conditions are excellent throughout the year

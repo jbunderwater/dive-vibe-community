@@ -17,7 +17,7 @@ Half Moon Bay Wall is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Half Moon Bay Wall is located directly off the beach at West End, with the boat ride taking barely a minute, yet the site delivers a full-on Caribbean wall experience — a semicircular drop-off starting around 5 meters where flamingo tongues, orange elephant-ear sponges, black coral, and gorgonian sea fans line the wall face as it plunges past sport diving limits. Moray eels and lobsters work the crevices, hawksbill turtles routinely appear to graze on sponges, and a tunnel further along the reef is one of Roatan's most reliable spots to find eagle rays. Juvenile filefish and spotted drums shelter in the shallower nursery areas near the base of the wall, and large barracuda frequently hang stationary in the blue at the drop-off edge.
+Half Moon Bay Wall rises nearly directly offshore from the beach at West End, where a shallow reef beginning at around 15 feet gives way to a beautiful semicircular wall plunging past 150 feet into the blue. A tunnel at 60 feet opens onto the wall face at 70 feet, and this passage is arguably the best place on Roatan to encounter eagle rays gliding along the drop-off. The wall is draped in gorgonians and orange elephant ear sponges, with flamingo tongue snails clinging to the sea fans. Grouper patrol the reef crest while blue chromis and creole wrasse swirl above the wall edge. Multiple moorings serve this site, making it accessible to divers of all levels who want a taste of Roatan's signature wall diving without a long boat ride.
 
 ## Site Information
 

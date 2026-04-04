@@ -158,12 +158,18 @@
       "wreck:date_commissioned": "1951",
       "wreck:date_sunk": "1984-09-12",
       "wreck:depth": "30m",
-      "wreck:gross_tonnage": "1027",
+      "wreck:gross_tonnage": "691",
+      "wreck:dwt": "1025",
       "wreck:length": "236",
+      "wreck:beam": "36",
+      "wreck:built": "Van der Giessen de Noord, Netherlands",
+      "wreck:original_name": "Midsland",
+      "wreck:cause": "hull_deterioration",
+      "wreck:cargo": "marijuana",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "wikipedia,scubadiving.com,scubaboard,buddydive.com"
     },
     "depth_max": 30
   },

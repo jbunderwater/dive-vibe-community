@@ -3,9 +3,9 @@ name: Whale Shark Bagan
 lat: -3.8
 lng: 134.12
 difficulty: Intermediate
-maxDepth: 10
+maxDepth: 20
 entryType: boat
-siteType: reef
+siteType: drift
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,57 +13,57 @@ addedBy: osm_import
 
 ## Whale Shark Bagan
 
-Whale Shark Bagan is Triton Bay's most iconic experience — a traditional Indonesian fishing platform (bagan) where juvenile whale sharks gather to feed on the anchovies that spill from the nets, offering one of the most reliable whale shark encounters on Earth.
+The Kaimana Bay whale shark bagan is one of several whale shark–bagan sites across Indonesia, but stands apart as the one where divers encounter not only juveniles but also full-sized adult whale sharks feeding alongside the fishing platforms.
 
 ## Overview
 
-This site centers on a bagan, a lift-net fishing platform anchored in the sheltered waters of Triton Bay, West Papua, Indonesia. Local fishermen have worked these platforms for generations, and juvenile whale sharks — typically 3 to 5 meters in length — have learned to associate the bagans with easy meals of small baitfish. Unlike pelagic whale shark encounters elsewhere, these sharks remain in a predictable location, often circling just below the surface for extended periods. Encounter rates reach 60 to 70 percent on liveaboard itineraries, with the best results during new moon phases when the bagan lanterns draw the densest concentrations of anchovies. The surrounding shallow reef to 10 meters hosts its own healthy community of reef fish, but the whale sharks are the undisputed draw.
+This site centers on a bagan — a traditional Indonesian lift-net fishing platform — anchored in the open blue water of Kaimana Bay, outside the Triton Bay area proper. The bagan sits over deep water on the seaward side of the bay, far from the shallow reefs and coral gardens that characterize Triton Bay's other dive sites. Local fishermen have worked these platforms for generations, and whale sharks have learned to associate the bagans with easy meals of small baitfish spilling from the nets. Indonesia has several whale shark bagan sites — Cenderawasih Bay, Tali Sayang (Sangalaki), and Saleh Bay (Sumbawa) among them — but the Kaimana Bay bagan is unique in that divers regularly encounter adult whale sharks here, not just the juveniles typical of other locations. Multiple individuals may be present simultaneously, circling below the platform and rising to feed at the surface.
 
 ## Site Information
 
-- **Location**: Triton Bay, West Papua, Indonesia
+- **Location**: Kaimana Bay, West Papua, Indonesia (outside Triton Bay proper)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 10 meters
-- **Typical Visibility**: 5-20 meters (can be reduced by baitfish clouds)
+- **Maximum Depth**: 20 meters
+- **Typical Visibility**: 5–20 meters (reduced by baitfish clouds and plankton-rich water)
 - **Current**: Generally mild near the bagan
-- **Water Temperature**: 27-30°C (81-86°F)
+- **Water Temperature**: 27–30°C (81–86°F)
 - **Best Time**: October to April; new moon phases maximize baitfish density
 
 ## Marine Life
 
-The principal attraction is juvenile whale sharks (Rhincodon typus), present year-round but most reliably October through April. Multiple individuals — sometimes three or four simultaneously — may circle the bagan, rising to the surface to gulp anchovies. The shallow reef surrounding the platform supports schools of glassfish, batfish, trevally, and golden spadefish. Wobbegong sharks and leopard sharks are sometimes found resting on the sandy bottom beneath the bagan structure. The nutrient-rich waters of Triton Bay mean even the reef fringing the bagan area is alive with soft corals and schooling reef fish.
+The draw is whale sharks (Rhincodon typus) — both juveniles and adults, which distinguishes this site from other Indonesian bagan encounters. Multiple individuals may circle the platform simultaneously, mouths agape, filtering anchovies and baitfish from the water column. The open blue-water setting means the surrounding ecosystem is pelagic in character — expect schooling baitfish, trevally, and other open-water species drawn to the bagan's fish aggregation effect. This is not a reef site: there is no coral, no sandy bottom at recreational depth, and no reef-associated species like wobbegong sharks, which inhabit the shallow reef environments found elsewhere in the Triton Bay region.
 
 ## Dive Profile
 
-Snorkeling or shallow scuba diving around the bagan is the standard approach. Most encounters occur at 0 to 5 meters, where the whale sharks feed at and just below the surface. Descend slowly to avoid startling the sharks; they are accustomed to humans but respond poorly to sudden movements or noise. The sandy bottom sits at approximately 8 to 10 meters. Divers often hover neutrally buoyant in mid-water, watching the sharks circle overhead. Bottom time is rarely the limiting factor — most guests will want extended surface intervals between entries to maximize time in the water with the animals.
+Snorkeling or shallow scuba diving around the bagan is the standard approach. Most whale shark encounters occur between 0 and 10 meters, where the animals feed at and just below the surface. The water beneath the bagan is deep open ocean — there is no reef or bottom to explore at recreational depth. Divers typically hover in mid-water, watching the sharks circle and feed. Descend slowly and avoid sudden movements; the sharks are accustomed to humans but may move off if startled. Bottom time is rarely the limiting factor — most divers take multiple entries with extended surface intervals to maximize time with the animals.
 
 ## Entry and Exit
 
-All access is by liveaboard vessel or day-boat from local operators in the Triton Bay area. Entry is by gentle water entry — avoid loud splashes that may disturb the whale sharks. Fins are recommended but should be used gently around the animals. Divers exit via the dive ladder or tender boat on the guide's signal.
+All access is by liveaboard vessel or day-boat from Kaimana. Entry is by gentle water entry from the tender — avoid loud splashes that may disturb the whale sharks. Exit via the dive ladder or tender boat on the guide's signal.
 
 ## Tips and Recommendations
 
 - Visit during new moon phases for the highest baitfish concentrations and best whale shark activity
-- Avoid touching the whale sharks — they are wild animals and physical contact is discouraged by local operators and Indonesian law
+- Avoid touching the whale sharks — physical contact is discouraged by local operators and Indonesian law
 - Keep noise to a minimum during entry and while in the water
-- A wide-angle or fisheye lens is ideal; the encounters are very close-range
-- Bring a GoPro or video camera — the surface interaction footage is extraordinary
+- A wide-angle or fisheye lens is essential; encounters are very close-range in the shallow water column
+- Bring a GoPro or video camera — the surface feeding footage is extraordinary
 - Be patient: whale sharks may move off briefly before returning; wait quietly in the water
-- Combine this dive with an afternoon reef dive to experience Triton Bay's soft coral biodiversity
+- This is an open-water blue site — don't expect reef, coral, or bottom features
 
 ## Safety Considerations
 
-Conditions near the bagan are generally calm and currents mild, making this one of Triton Bay's more forgiving sites. However, divers should remain aware of the vessel's position and any other boats in the area. Maintain a respectful distance from the whale sharks — a tail strike from a 4-meter shark is a serious hazard. Do not position yourself directly in front of a feeding shark's mouth. Always carry an SMB for any open-water ascent.
+Conditions near the bagan are generally calm with mild currents. However, this is open blue water over significant depth — maintain awareness of your position relative to the boat and bagan at all times. Keep a respectful distance from the whale sharks; a tail strike from an adult shark is a serious hazard. Do not position yourself directly in front of a feeding shark's mouth. Always carry an SMB for surface signaling.
 
 ## Photography
 
-Whale Shark Bagan is one of the world's great underwater photography sites. The clear, shallow water and cooperative sharks make it ideal for wide-angle shots showing the full body of the animal. Early morning light provides the best natural illumination through the surface. Backlit shots with the bagan structure in the frame provide dramatic context. For video, the feeding behavior at the surface — mouth wide open, baitfish scattering — is among the most spectacular sequences available to underwater filmmakers anywhere in the Indo-Pacific.
+The Kaimana Bay bagan offers extraordinary whale shark photography. The shallow, close-range encounters are ideal for wide-angle and fisheye shots showing the full body of the animal against the blue water. Backlit shots with the bagan structure silhouetted above provide dramatic context. Adult whale sharks at this site give a sense of scale rarely captured at other bagan locations. For video, the surface feeding behavior — mouth wide open, baitfish scattering — is among the most spectacular sequences available to underwater filmmakers anywhere in the Indo-Pacific.
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-28
+- **Last Updated**: 2026-04-04
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*This dive site information was updated with firsthand diver corrections and cross-referenced against regional liveaboard operator sources. Last updated 2026-04-04.*

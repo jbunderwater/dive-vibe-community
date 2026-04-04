@@ -1,0 +1,67 @@
+---
+name: Odyssey Stern
+lat: 16.351786
+lng: -86.544552
+difficulty: Advanced
+maxDepth: 30
+entryType: boat
+siteType: wreck
+ref: null
+osmId: null
+addedBy: osm_import
+---
+
+## Odyssey Stern
+
+Odyssey Stern is a wreck dive site in Roatán, Caribbean.
+
+## Overview
+
+Odyssey Stern provides access to the stern section of the Odyssey wreck — Roatan's largest shipwreck at 300 feet long. The 91-meter cargo freighter was intentionally sunk in 2002 after a devastating fire. The stern section is tilted to starboard, with holes cut into the hull for diver entry. Interior exploration reveals multi-level stairwells and cargo holds. Marine life includes large groupers, barracuda, green moray eels, glassy sweepers, and soft corals encrusting the hull. Advanced certification recommended; wreck diver certification advised for penetration. Visibility at depth typically ranges 20-30 meters.
+
+## Site Information
+
+- **Location**: Roatán, Caribbean
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
+
+## Marine Life
+
+Divers at this site can expect to encounter groupers, snappers, glassy sweepers, and barracuda that have colonized the wreck structure. Soft corals, sponges, and hydroids encrust the hull surfaces, while garden eels inhabit the surrounding sand flats. The artificial reef attracts both resident and transient species including moray eels and stingrays.
+
+## Dive Profile
+
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 30 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+
+## Entry and Exit
+
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+
+## Tips and Recommendations
+
+- Bring a dive torch to illuminate wreck interiors and dark overhangs
+- Maintain proper buoyancy to avoid disturbing silt inside the wreck
+- Do not attempt penetration without proper training and equipment
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+
+## Safety Considerations
+
+Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+
+## Photography
+
+The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+
+## Additional Resources
+
+- **Last Updated**: 2026-04-03
+
+---
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-03.*

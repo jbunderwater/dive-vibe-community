@@ -1,7 +1,7 @@
 ---
 name: El Aguila Wreck
-lat: 16.27
-lng: -86.53
+lat: 16.3275054
+lng: -86.5790357
 difficulty: Advanced
 maxDepth: 33
 entryType: boat
@@ -23,9 +23,9 @@ The El Aguila (Spanish for "The Eagle") is a 50-meter steel shrimp boat that was
 
 - **Location**: Southwest coast of Roatán, Bay Islands, Honduras
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive (broken into three sections)
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 33 meters (stern section); bow section at 14–18 meters
+- **Maximum Depth**: 33 meters
 - **Typical Visibility**: 25–35 meters (80–115 feet)
 - **Current**: Light to moderate on the south wall
 - **Best Time**: Year-round; best visibility December to April

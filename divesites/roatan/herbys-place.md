@@ -36,7 +36,7 @@ Garden eels wave from sandy patches between the coral outcroppings, southern sti
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers a gentle reef terrain suitable for relaxed exploration. Begin your dive along the reef top and navigate through coral formations and sandy patches. The most abundant marine life is typically found between 5-18 meters. Take your time to explore cleaning stations and look for camouflaged creatures in the sand.
 
 ## Entry and Exit
 

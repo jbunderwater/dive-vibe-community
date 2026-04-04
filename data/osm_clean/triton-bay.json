@@ -51,16 +51,16 @@
     "name": "Whale Shark Bagan",
     "lat": -3.8,
     "lon": 134.12,
-    "depth": 10,
-    "site_type": "reef",
+    "depth": 20,
+    "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "web_research",
-      "character": "baited fishing platform, whale shark encounters 60-70% success rate, anchovies attract giants",
+      "validation_source": "user_firsthand,web_research",
+      "character": "open blue water bagan fishing platform in Kaimana Bay, whale shark encounters including adults and juveniles",
       "seasonal": "October to April, best at new moon"
     }
   },

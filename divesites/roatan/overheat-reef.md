@@ -1,7 +1,7 @@
 ---
 name: Overheat Reef
-lat: 16.308
-lng: -86.575
+lat: 16.3233846
+lng: -86.5829402
 difficulty: Beginner
 maxDepth: 15
 entryType: boat
