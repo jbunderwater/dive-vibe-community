@@ -22,8 +22,8 @@ The Ada K. Damon was a small wooden coastal schooner wrecked on December 25, 190
 ## Site Information
 
 - **Location**: Crane Beach, Ipswich, Massachusetts (base of Steep Hill)
-- **Entry Type**: Beach (wading/snorkeling at low tide)
-- **Site Type**: Wreck
+- **Entry Type**: beach
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 2 meters
 - **Typical Visibility**: 1–3 meters (tide-dependent; best at dead low)
@@ -67,4 +67,4 @@ The exposed hull timbers, partially silted and encrusted, make excellent documen
 - **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*

@@ -23,7 +23,7 @@ Bass Rock is a submerged ledge system located off Crane Beach near the mouth of 
 
 - **Location**: Off Crane Beach, Ipswich, Massachusetts (northern Ipswich Bay)
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck and rocky reef
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 4–10 meters (variable with tidal state)
@@ -65,4 +65,4 @@ The combination of ledge topography and wreck debris provides varied photographi
 - **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*

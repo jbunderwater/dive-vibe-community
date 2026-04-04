@@ -22,9 +22,9 @@ At this latitude — barely north of the Sudanese border — Isar Island sits in
 ## Site Information
 
 - **Location**: Extreme southern Egyptian Red Sea, near Sudanese/Eritrean border
-- **Entry Type**: Boat dive (extended expedition liveaboard only)
-- **Site Type**: Island fringing reef
-- **Difficulty Level**: Intermediate (advanced conditions possible)
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25–40 meters
 - **Current**: Variable; can be strong in open-ocean conditions
@@ -59,4 +59,4 @@ This is among the most remote dive sites in the Egyptian Red Sea. The nearest me
 The pristine reefs and abundant wildlife of extreme southern Red Sea sites like Isar Island provide photography opportunities unavailable at more accessible locations. Exceptional visibility, undisturbed fish populations, and potential pelagic encounters make this one of the finest wide-angle photography opportunities in the region. Bring backup equipment — service is unavailable.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

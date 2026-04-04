@@ -59,4 +59,4 @@ Light House is one of the safest entry-level dives in Dahab, but standard precau
 The combination of clear water, abundant marine life, and manageable depth makes Light House one of Dahab's best photography sites. Clownfish and anemone subjects are plentiful. Macro work on the encrusted slope rewards patience. humphead wrasse portraits require a wide-angle lens and slow approach. Night photography at this site yields cuttlefish, octopus, and sleeping parrotfish subjects.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

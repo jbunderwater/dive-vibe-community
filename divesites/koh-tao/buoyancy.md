@@ -23,9 +23,9 @@ Buoyancy World (locally called Buoyancy) was purpose-built by Koh Tao's dive cen
 
 - **Location**: North of Twins, near Koh Nang Yuan, Koh Tao
 - **Entry Type**: Boat dive
-- **Site Type**: Artificial Reef / Training
+- **Site Type**: Artificial_reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 m
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: 10–18 m
 - **Current**: Minimal
 - **Best Time**: Year-round
@@ -58,9 +58,5 @@ Conditions are consistently calm and suitable for the most inexperienced divers.
 
 The giant octopus sculpture makes a quirky wide-angle subject with a diver in the frame. Coral nursery frames provide context shots showing reef restoration in progress. The clean sandy bottom and bright natural light produce well-exposed images for beginner underwater photographers.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Koh Tao Complete Guide - Best Dive Sites](https://www.kohtaocompleteguide.com/diving/koh-tao-dive-sites/), [Sairee Cottage Diving - Koh Tao Dive Sites Complete Guide](https://www.saireecottagediving.com/koh-tao-dive-sites-complete-guide-to-26-incredible-locations/), [Big Blue Diving Koh Tao](https://www.bigbluediving.com/), [PADI - Diving in Koh Tao](https://www.padi.com/diving-in/koh-tao/), [Dive Happy - Koh Tao Dive Sites Guide](https://divehappy.com/). Last updated 2026-04-04.*

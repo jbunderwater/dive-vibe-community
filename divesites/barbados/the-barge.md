@@ -60,4 +60,5 @@ The ultra-shallow depth and good visibility make The Barge a natural-light photo
 - North Barbados dive operators: include The Barge on snorkel and beginner dive programs
 - Best combined with a north coast reef dive for a varied two-tank day
 
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: wanderlusters.com, sandals.com - Naval Landing Barge, 12ft depth (3.6m), shallowest Carlisle Bay wreck, good for macro photography. Last updated 2026-03-28.*

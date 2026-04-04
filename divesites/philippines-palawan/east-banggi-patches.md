@@ -23,7 +23,7 @@ The "patches" designation refers to the site's structure: rather than a single c
 
 - **Location**: East of Banggi Island, Balabac Strait, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Coral patch reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 19 meters
 - **Typical Visibility**: 10-20 meters
@@ -58,9 +58,5 @@ The open-water nature of the Balabac Strait means conditions can change quickly.
 
 Multiple small coral structures offer excellent variety in a single dive. Bommie-top fish portraits, wide-angle inter-patch shots with sand and coral in frame, and macro searches in the rubble zones all make this a photographically productive site.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Diving Squad Palawan Guide](https://www.divingsquad.com/philippines-diving/palawan/), [Scuba Tech Philippines - Coron Wrecks](https://scubatechphilippines.com/scuba_blog/the-shipwrecks-of-coron-wreck-diving-philippines/), [Pirate Coron Dive Sites](https://piratescoron.com/dive-sites/), [DIVE Magazine - Wrecks of Coron Bay](https://divemagazine.com/scuba-diving-travel/wrecks-of-coron-bay-philippines), [ZuBlu - Scuba Diving Coron Palawan](https://www.zubludiving.com/destination/philippines/palawan/coron). Last updated 2026-04-04.*

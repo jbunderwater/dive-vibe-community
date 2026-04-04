@@ -22,8 +22,8 @@ Intentionally sunk wrecks in the Red Sea are typically prepared with openings cu
 ## Site Information
 
 - **Location**: Marsa Alam area, southern Red Sea, Egypt
-- **Entry Type**: Boat dive (day boat or liveaboard)
-- **Site Type**: Wreck
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)
@@ -58,4 +58,4 @@ Penetration of intentionally sunk wrecks should only be undertaken by trained wr
 The combination of colorful coral growth and the stark geometry of the steel hull makes the Legend an excellent photography site. Natural light filtering through open deck structures creates dramatic light shafts in the interior. The soft coral growth in orange and purple tones on the exterior shoots beautifully with a strobe against the blue water background.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

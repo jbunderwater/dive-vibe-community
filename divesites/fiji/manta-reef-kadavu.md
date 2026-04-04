@@ -58,9 +58,5 @@ The dive profile — hovering at 18–22 meters for extended periods while watch
 
 Manta rays are among the most photogenic subjects in diving and Kadavu's relaxed station mantas are exceptionally approachable. Wide-angle shooting at 10–17mm captures full manta silhouettes against the blue water above. Shoot upward from the rubble at the station level to frame mantas against the light surface — this is the classic manta portrait. For detail shots, focus on the cephalic fins unfurling as the manta banks, and on the spotted patterning on the ventral surface (which individual researchers use for ID). Avoid strobe light on approaching mantas — the sudden flash can redirect their circuit. Use ambient light or minimal fill flash.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [NAI'A Liveaboard - Fiji Dive Sites](https://www.naia.com.fj/fiji/dive-sites/), [Dive the World - Fiji](https://www.dive-the-world.com/diving-sites-fiji.php), [Bluewater Dive Travel - Fiji](https://www.bluewaterdivetravel.com/destination/fiji-diving), [PADI - Diving in Fiji](https://www.padi.com/diving-in/fiji/), [Waterlust Fiji Reef Guide](https://www.waterlustfiji.com/guide-to-fiji-diving). Last updated 2026-04-04.*

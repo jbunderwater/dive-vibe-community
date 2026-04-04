@@ -58,4 +58,4 @@ Current strength at the point can be variable and increases with tidal cycles. I
 The reef point is ideal for wide-angle fish portraits — humphead wrasse will often pose for photographs. The dense school aggregations at the tip create impressive wide-angle opportunities. Coral heads in the shallows have good color and detail for reef macro and close-focus wide-angle work. Shoot toward the blue water off the point for silhouette schooling fish images.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

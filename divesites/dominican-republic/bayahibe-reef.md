@@ -58,9 +58,5 @@ Minimal hazards. Fire coral is present on the reef structure — avoid contact. 
 
 Excellent ambient-light photography given the shallow, clear conditions. The colorful fish community — angelfish, parrotfish, and anthias — provides vibrant subjects in natural light. Wide-angle shots of the reef structure look particularly compelling from below looking up through the water column. Sea turtle encounters are the highlight.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: PADI, Scuba Diving Mag, Bayahibe operators. Last updated 2026-03-28.*

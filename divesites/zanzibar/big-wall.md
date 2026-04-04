@@ -25,7 +25,7 @@ The wall at this site descends from a reef crest at 5-8 meters to 20 meters at t
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters (wall continues deeper)
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)
 - **Current**: Moderate to strong
 - **Best Time**: October to March (northeast monsoon)
@@ -57,9 +57,5 @@ Wall dive depth discipline is critical. The wall continues below 20 meters and t
 
 Big Wall is one of East Africa's top photography walls. The colorful soft coral growth at 15-20 meters rewards strobe-lit close-up photography, while wide-angle shots along the wall face with rays or sharks in the frame produce dramatic images. An ultra-wide or fisheye lens at the 10-20mm range is the recommended setup.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Diving in Zanzibar - Nungwi Dive Center](https://www.divinginzanzibar.com/dive-sites-map/), [PADI - Diving in Zanzibar](https://www.padi.com/diving-in/zanzibar/), [PADI - Top Dive Sites Zanzibar](https://www.padi.com/dive-sites/zanzibar/), [Bluewater Dive Travel - Zanzibar](https://www.bluewaterdivetravel.com/destination/diving-zanzibar-tanzania-kenya), [One Ocean Zanzibar](https://zanzibaroneocean.com/). Last updated 2026-04-04.*

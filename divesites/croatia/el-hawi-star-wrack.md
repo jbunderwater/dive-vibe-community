@@ -24,7 +24,7 @@ The wreck lies on a sloping sandy and rocky bottom at approximately 35–42 metr
 - **Location**: Kvarner Bay, Northern Croatia
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate (upper limit — Nitrox recommended)
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 42 meters
 - **Typical Visibility**: 10–20 meters
 - **Current**: Light, occasionally stronger on the surface
@@ -59,4 +59,4 @@ The 42-metre maximum depth requires disciplined gas management and awareness of 
 The deeper section of the hull, with its large encrusted surfaces and structural features illuminated by torch, provides dramatic wide-angle compositions. The superstructure area at 30–35 metres receives enough ambient light for colourful shots using a strobe to fill shadows.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*

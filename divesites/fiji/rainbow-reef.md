@@ -58,9 +58,5 @@ Current can accelerate rapidly as tides turn in the strait, particularly around 
 
 Rainbow Reef rewards wide-angle photography for the sweeping soft coral vistas, but carries exceptional macro subjects for those willing to slow down. The challenge is the current: shooting wide-angle requires positioning yourself with the current at your back to avoid swimming against it while composing. A fisheye lens on a compact system works well for close-focus wide-angle shots of coral heads teeming with anthias. Macro shooters should focus on nudibranchs, hairy squat lobsters, and the Coleman shrimp pairs that inhabit fire urchins in the rubble zones.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [NAI'A Liveaboard - Fiji Dive Sites](https://www.naia.com.fj/fiji/dive-sites/), [Dive the World - Fiji](https://www.dive-the-world.com/diving-sites-fiji.php), [Bluewater Dive Travel - Fiji](https://www.bluewaterdivetravel.com/destination/fiji-diving), [PADI - Diving in Fiji](https://www.padi.com/diving-in/fiji/), [Waterlust Fiji Reef Guide](https://www.waterlustfiji.com/guide-to-fiji-diving). Last updated 2026-04-04.*

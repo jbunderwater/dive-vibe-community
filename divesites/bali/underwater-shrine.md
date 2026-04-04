@@ -23,9 +23,9 @@ The Underwater Shrine sits in Jemeluk Bay near Amed, where a traditional Balines
 
 - **Location**: Jemeluk Bay, Amed, northeast Bali
 - **Entry Type**: Boat dive
-- **Site Type**: Reef / Feature
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 29 m
+- **Maximum Depth**: 29 meters
 - **Typical Visibility**: 15–25 m
 - **Current**: Variable; generally mild inside the bay
 - **Best Time**: April to November
@@ -58,9 +58,5 @@ Be cautious of boat traffic near the surface buoy when ascending. Maintain good 
 
 The shrine with batfish hovering beneath it is the signature subject of Jemeluk Bay. Wide-angle captures the full scene with the structure and fish together. Macro photographers will find clownfish, nudibranchs, and critters on the surrounding reef corals. The mackerel schools can produce stunning wide-angle action shots.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Aquamarine Diving - Bali Dive Sites](https://www.aquamarinediving.com/bali-diving/dive-sites/), [Dive The World - Bali Indonesia](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [Bluewater Dive Travel - Bali Diving](https://www.bluewaterdivetravel.com/destination/bali-diving), [World Adventure Divers - Best Dive Sites Bali](https://worldadventuredivers.com/best-dive-sites-bali/), [Neptune Scuba Diving - Scuba Diving Bali](https://neptunescubadiving.com/scuba-diving-bali/), [Dive The World - Bali](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [PADI - Diving in Bali](https://www.padi.com/diving-in/bali/). Last updated 2026-04-04.*

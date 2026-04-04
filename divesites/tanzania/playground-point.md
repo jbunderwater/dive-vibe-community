@@ -23,7 +23,7 @@ The Tanzanian shore of Lake Malawi sees a small fraction of the dive traffic tha
 
 - **Location**: Lake Malawi / Lake Nyasa, southern Tanzania (near Mbamba Bay)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef (rocky reef, Lake Malawi cichlid habitat)
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
 - **Typical Visibility**: 15-20 meters (50-65 feet)
@@ -57,9 +57,5 @@ Standard freshwater lake diving safety applies. The high-altitude position of La
 
 The freshwater cichlid photography at Lake Malawi has produced some of the most distinctive underwater natural history images in the world. Playground Point's varied rocky structure and potentially underphotographed species community offers genuine discovery photography opportunities for patient, knowledgeable divers.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*

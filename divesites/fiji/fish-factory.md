@@ -58,9 +58,5 @@ Current management is the primary challenge at Fish Factory. The shallow depth (
 
 Fish Factory is made for wide-angle schooling fish photography. The combination of dense barracuda or trevally schools with the wall structure and current allows for tightly composed images of thousands of fish in formation. Position yourself below a barracuda school and shoot upward with a fisheye for the tornado shot — schools at Fish Factory often form this configuration naturally. For shark-and-school images, use a fast shutter speed (1/200 or faster) to freeze motion and shoot toward the light to silhouette the subjects. Video divers will find the site compelling — 60fps shooting captures the fluid school movements in satisfying slow motion.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [NAI'A Liveaboard - Fiji Dive Sites](https://www.naia.com.fj/fiji/dive-sites/), [Dive the World - Fiji](https://www.dive-the-world.com/diving-sites-fiji.php), [Bluewater Dive Travel - Fiji](https://www.bluewaterdivetravel.com/destination/fiji-diving), [PADI - Diving in Fiji](https://www.padi.com/diving-in/fiji/), [Waterlust Fiji Reef Guide](https://www.waterlustfiji.com/guide-to-fiji-diving). Last updated 2026-04-04.*

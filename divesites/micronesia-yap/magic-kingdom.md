@@ -50,8 +50,5 @@ Magic Kingdom is a relatively easy dive with light currents and moderate depths.
 ## Photography
 For mandarin fish, a macro lens (60mm or 100mm) is essential. The fish are tiny (5-6 cm) and their mating rise lasts only seconds, requiring fast reflexes and prefocused shots. Use a snoot or low-power strobe to avoid overwhelming the small subjects. During daylight, both macro and close-up wide-angle work well on the diverse reef. The nudibranchs and shrimp provide colorful macro subjects against clean backgrounds. For the reef itself, a fisheye or wide-angle with a diver model captures the garden atmosphere. Patience and slow movement produce the best results at this site.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Visit Yap - Dive Sites](https://visityap.com/dive_sites.php), [Manta Ray Bay Resort - Dive Sites](https://mantaray.com/sites/), [Bluewater Dive Travel - Yap](https://www.bluewaterdivetravel.com/destination/yap-diving), [PADI - Diving in Yap](https://www.padi.com/diving-in/yap/), [Ikelite - Insider Guide to Diving Yap](https://www.ikelite.com/blogs/features/an-insiders-guide-to-diving-yap-micronesia). Last updated 2026-04-04.*

@@ -57,9 +57,5 @@ Boat traffic is present in the wider Dar es Salaam approach channels — always 
 
 Bedford Bank offers a range of subjects at different depth zones. Wide-angle reef scenes with abundant fish work well at 8-15 meters, while macro shots of encrusting reef organisms are productive across all depths. The sea turtle encounters often allow close approaches, making this a good site for underwater portraits.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*

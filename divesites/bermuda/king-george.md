@@ -23,9 +23,9 @@ The King George is one of Bermuda's many historic shipwrecks positioned along th
 
 - **Location**: Outer reef system, Bermuda
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters (60 feet)
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15–30 meters (50–100 feet)
 - **Current**: Light to moderate
 - **Water Temperature**: 18–28°C (64–82°F)
@@ -59,9 +59,5 @@ Intermediate depth and offshore location are the primary considerations. Moderat
 
 Coral-encrusted wreck structures provide rich photographic subjects. The combination of structural remains and natural reef fish creates layered compositions. Bermuda's characteristically clear water allows natural light photography at 18 meters, with minimal color filtration. A strobe or video light enhances the coral colors on the wreck surfaces.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Go To Bermuda - Top Dive Sites](https://www.gotobermuda.com/plan/inspiration/article/top-dive-sites-in-bermuda), [Go To Bermuda - Bermuda Shipwrecks](https://www.gotobermuda.com/plan/inspiration/article/dive-into-bermuda-shipwrecks), [Scuba Diving Magazine - Guide to Scuba Diving Bermuda](https://www.scubadiving.com/guide-to-scuba-diving-bermuda), [Blue Water Divers Bermuda - Shipwrecks](https://www.divebermuda.com/shipwrecks/), [Bermuda Attractions - Famous Shipwrecks and Dive Sites](https://www.bermuda-attractions.com/bermuda_000045.htm). Last updated 2026-04-04.*

@@ -57,9 +57,5 @@ The offshore location requires attention to weather windows. Do not dive if wind
 
 The varied coral architecture and diverse fish life support both macro and wide-angle photography. Branching Acropora coral gardens in the 5-10 meter zone photograph well in ambient light with a compact camera. At depth, wider glass and strobes will bring out the colors of the sea fans and encrusting corals.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*

@@ -52,3 +52,6 @@ Access is entirely by boat from Puerto Vallarta, approximately 45 minutes each w
 - The sunken pangas give beginner divers a concrete objective and an introduction to wreck/structure diving at low depth
 - Combine the dive with a beach break at the private beach club for a full-day excursion — Las Caletas is a destination as well as a dive site
 - Morning departures allow best light penetration to the sandy bottom areas where garden eels are most visible
+
+---
+*Sources: [Boca Divers - Puerto Vallarta Dive Sites](https://www.bocadivers.net/BocaDivers/divesites.htm), [PADI - Diving in Puerto Vallarta](https://www.padi.com/diving-in/mexico/puerto-vallarta/), [PADI - Top Dive Sites in Puerto Vallarta](https://www.padi.com/dive-sites/mexico/puerto-vallarta/), [Vallarta by Owner - Best Scuba Diving in Puerto Vallarta](https://vallartabyowner.com/scuba/), [Dressel Divers - Puerto Vallarta Scuba Diving](https://www.dresseldivers.com/dive/mexico/puerto-vallarta-scuba-diving/). Last updated 2026-04-04.*

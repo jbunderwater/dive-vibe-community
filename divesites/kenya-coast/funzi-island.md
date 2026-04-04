@@ -57,9 +57,5 @@ Low-risk site overall. The 16-meter depth, light current, and protected bay posi
 
 The less-pressured reef community at Funzi means more natural fish behavior for photography — longer observation windows before subjects retreat. The mangrove-to-reef transition offers unique above- and below-water documentary photography opportunities. Dolphin sightings during the surface transit are worth having a camera ready for even before entering the water.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Aqua Ventures Watamu - Dive in Kenya](https://www.diveinkenya.com/), [SCUBA Travel - Kenya Diving](https://www.scubatravel.co.uk/africa/diving-kenya.html), [PADI - Diving in Kenya](https://www.padi.com/diving-in/kenya/), [Ocean Tribe - Scuba Diving Diani Kenya](https://oceantribe.co/), [African Mecca Safaris - Kenya Diving Guide](https://www.africanmeccasafaris.com/travel-guide/kenya/trip-ideas/beach/scuba-diving). Last updated 2026-04-04.*

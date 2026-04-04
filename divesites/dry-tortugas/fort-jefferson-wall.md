@@ -61,9 +61,5 @@ This is one of the safest dives in Dry Tortugas. The shallow depth (under 5 mete
 
 The reef squid are exceptional photography subjects — their intelligence, hunting behavior, and color changes are fascinating. The shallow depth and excellent visibility preserve colors. The wall structure frames composition. Nurse sharks provide wildlife photography opportunities. Fish behavior is easily observed and photographed in the shallow water. Macro work on corals, squid, and reef fish detail is highly rewarding.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [Florida Scuba Diving - Dry Tortugas Guide](https://www.florida-scubadiving.com/dive-the-dry-tortugas-key-west-guide-tips/), [NPS Dry Tortugas Diving](https://www.nps.gov/drto/planyourvisit/swimming-snorkeling-and-diving.htm), [Florida Keys Vacation - Dry Tortugas Diving](https://www.florida-keys-vacation.com/Dry-Tortugas-Diving.html), [Incredible Adventures Dry Tortugas](https://www.incredible-adventures.com/dry-tortugas-diving.html), [Finz Dive Center](https://finzdivecenter.com/dives/tortugas/). Last updated 2026-04-04.*

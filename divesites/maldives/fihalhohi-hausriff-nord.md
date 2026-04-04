@@ -38,4 +38,4 @@ Hawksbill turtles, large parrotfish, surgeonfish, grouper, bannerfish, pufferfis
 The north section is the go-to recommendation for first dives in the Maldives at this resort, offering calm conditions and reliable turtle encounters in a forgiving depth range. Night dives here are excellent — the reef transforms with active octopus and shrimp visible in torchlight. Connect southward along the reef for a longer circuit to the main Hausriff section.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

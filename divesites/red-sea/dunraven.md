@@ -23,7 +23,7 @@ The Dunraven was a 75-metre British steamship built in 1873 and engaged in trade
 
 - **Location**: Red Sea, Egypt (Sha'ab Mahmoud / Beacon Rock, Straits of Gubal)
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)
@@ -59,4 +59,4 @@ The stern swim-through is a confined space; divers with poor buoyancy should pra
 The Dunraven is among the most photogenic wrecks in the Red Sea. The stern swim-through with sunlight beams streaming through gaps in the hull is an iconic Red Sea image. A wide-angle lens captures the sweep of the inverted hull; a torch or video light will bring out the colours of the soft corals and sweeper schools in the cavern interior. Macro photographers will find nudibranchs, flatworms, and commensal shrimp throughout the encrusted plates.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

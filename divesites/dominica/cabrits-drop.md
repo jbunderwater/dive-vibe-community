@@ -59,9 +59,5 @@ Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your
 
 Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [Dive Dominica - Dive Sites](https://divedominica.com/dominica-dive-sites/), [Cabrits Dive Center - Diving in Dominica](https://cabritsdive.com/diving-in-dominica/), [Carib Dive Guide - Dominica](http://www.caribdiveguide.com/dominica.htm), [PADI - Diving in Dominica](https://www.padi.com/diving-in/dominica/), [A Virtual Dominica - Dive Sites](https://www.avirtualdominica.com/project/dive-sites/). Last updated 2026-04-04.*

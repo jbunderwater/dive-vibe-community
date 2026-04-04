@@ -36,14 +36,5 @@ UAE - Fujairah is a notable diving destination in the Middle East region with de
 - **Language**: Arabic, English
 - **Safety**: Always dive within certification limits. Be aware of strong currents, fire coral, lionfish stings. Verify the location of the nearest hyperbaric chamber before diving.
 
-## Sources
-
-- OpenStreetMap dive site data and community contributions
-- Regional diving guides and operator information
-- Marine conservation organization reports
-- Local tourism board resources
-
 ---
-
-*Last updated: March 2026*
-*Compiled from OpenStreetMap data, regional diving knowledge, and authoritative marine sources*
+*Sources: [Al Boom Diving - Fujairah](https://www.alboomdiving.com/en/fujairah-diving-trip), [PADI - Top Dive Sites in Fujairah](https://www.padi.com/dive-sites/fujairah/), [Freestyle Divers - Fujairah Dive Sites](http://freestyledivers.me/uae-dive-sites/fujairah-dive-sites/), [Chloe Blue Scuba - Beginner Guide to Fujairah](https://www.chloebluescubadiving.com/post/a-beginner-s-guide-to-scuba-diving-in-fujairah), [Divers Down UAE - Pleasure Diving Fujairah](https://www.diversdownuae.com/pleasure-diving-fujeirah/). Last updated 2026-04-04.*

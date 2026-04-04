@@ -22,7 +22,7 @@ Shaab Nakari is located approximately 5 kilometres offshore from Marsa Nakari, a
 ## Site Information
 
 - **Location**: Offshore Marsa Nakari, 18 km south of Marsa Alam, southern Egyptian Red Sea
-- **Entry Type**: Boat dive (day trip from Marsa Alam or Marsa Nakari)
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
@@ -58,9 +58,5 @@ Currents on the east and west faces of the reef can be stronger than on the prot
 
 Shaab Nakari's combination of macro and wide-angle subjects makes it a versatile photography site. Ghost shrimp and nudibranch portraits in the reef crevices reward macro technique. The northwest wall coral gardens at 10–15 metres in good morning light are excellent ambient wide-angle subjects. Eagle ray portraits crossing the sandy western section are available in the 15–20 metre zone. Spinner dolphin encounters in the lagoon — if timed correctly — offer natural-light wide-angle photography in shallow water.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

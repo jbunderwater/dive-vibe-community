@@ -23,9 +23,9 @@ Entertainment Reef sits in the southern Strait of Georgia southeast of the Gulf 
 
 - **Location**: Southern Strait of Georgia, Gulf Islands area, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Submerged reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres
 - **Current**: Moderate tidal currents — plan around slack
 - **Best Time**: Late spring through autumn
@@ -57,11 +57,8 @@ Tidal currents in the southern Gulf Islands can be significant. Plan dives aroun
 
 Schools of black rockfish photographed from below against a backlit surface create striking silhouette images. The reef structure draped with plumose anemones and coloured sponges provides rich wide-angle backgrounds. Macro photography on sponge and bryozoan surfaces reveals diverse nudibranch fauna.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
 - Sidney area dive charters and operators
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

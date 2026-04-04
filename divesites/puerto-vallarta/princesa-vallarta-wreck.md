@@ -52,3 +52,6 @@ Access by dive boat from the Puerto Vallarta marina. Giant stride entry; ascent 
 - The auxiliary boats scattered around the site are worth exploring independently; each has developed its own micro-community
 - Nudibranchs are most concentrated on the sheltered sides of hull structures — work slowly along the surfaces
 - Advanced certification and recent deep-dive experience are recommended before attempting penetration of the main wreck
+
+---
+*Sources: [Boca Divers - Puerto Vallarta Dive Sites](https://www.bocadivers.net/BocaDivers/divesites.htm), [PADI - Diving in Puerto Vallarta](https://www.padi.com/diving-in/mexico/puerto-vallarta/), [PADI - Top Dive Sites in Puerto Vallarta](https://www.padi.com/dive-sites/mexico/puerto-vallarta/), [Vallarta by Owner - Best Scuba Diving in Puerto Vallarta](https://vallartabyowner.com/scuba/), [Dressel Divers - Puerto Vallarta Scuba Diving](https://www.dresseldivers.com/dive/mexico/puerto-vallarta-scuba-diving/). Last updated 2026-04-04.*

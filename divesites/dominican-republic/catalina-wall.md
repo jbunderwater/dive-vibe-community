@@ -58,9 +58,5 @@ Current can run along the wall face, particularly on the eastern tip. Establish 
 
 Catalina Wall is a wide-angle photographer's site. Frame the wall face with divers descending through shafts of light for dramatic perspective shots. Hawksbill turtles are approachable and patient subjects. Eagle rays in the blue water require a fast shutter and wide lens. Macro opportunities on the wall face include flamingo tongues on sea fans, Christmas tree worms in coral heads, and nudibranch species in crevices.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: PADI, Dressel Divers, ScubaCaribe. Last updated 2026-03-28.*

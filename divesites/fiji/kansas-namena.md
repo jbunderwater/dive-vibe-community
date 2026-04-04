@@ -58,9 +58,5 @@ Kansas presents the same general considerations as other Namena sites: open-wate
 
 Kansas is arguably Fiji's best wide-angle reef photography site. The soft coral pinnacles are dense enough to fill an entire frame, and the blue water between bommies creates natural framing for images of the reef structure. Shoot from below pinnacle tops at 10–15 meters with a diver positioned above the coral, lit by the surface light — this is the quintessential Fiji soft coral portrait. For macro work, the pinnacle faces host nudibranchs, flatworms, and (with luck) pygmy seahorses in the gorgonian fans. Shoot in RAW to capture the full dynamic range of the blue ambient light against the orange coral — JPEG processing often clips the blues.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [NAI'A Liveaboard - Fiji Dive Sites](https://www.naia.com.fj/fiji/dive-sites/), [Dive the World - Fiji](https://www.dive-the-world.com/diving-sites-fiji.php), [Bluewater Dive Travel - Fiji](https://www.bluewaterdivetravel.com/destination/fiji-diving), [PADI - Diving in Fiji](https://www.padi.com/diving-in/fiji/), [Waterlust Fiji Reef Guide](https://www.waterlustfiji.com/guide-to-fiji-diving). Last updated 2026-04-04.*

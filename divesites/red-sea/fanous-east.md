@@ -57,9 +57,5 @@ Conditions are generally benign — this is one of Hurghada's calmer sites. Prim
 
 Clownfish-in-anemone portraits are the signature subject at Fanous East — the multiple anemone colonies provide many opportunities for different compositions. The sandy bowl macro work suits a beginner photographer learning reef photography fundamentals. The shallow reef crest in good ambient light is excellent for natural-light fish portraits.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

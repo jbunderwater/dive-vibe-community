@@ -23,7 +23,7 @@ The reef at Krivica descends over limestone rock to approximately 25 metres, wit
 
 - **Location**: Northern Dalmatian Coast (Pag area), Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–20 meters
@@ -58,4 +58,4 @@ Standard intermediate parameters. Carry an SMB for surfacing in the open water. 
 Excellent visibility makes this a productive wide-angle site. The Posidonia meadows offer intimate macro opportunities with seahorses and pipefish in the shallows. Resident grouper and the open reef landscape with clear blue water are reliable wide-angle subjects.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*

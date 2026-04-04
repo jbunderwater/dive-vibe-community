@@ -37,8 +37,5 @@ New Jersey offers some of the most historically rich and challenging wreck divin
 - **Safety Considerations:** Cold water, strong currents, depth, and distance from shore make NJ wreck diving demanding. Advanced open water minimum; dry suit experience strongly recommended. Never exceed planned depth or bottom time on deep offshore wrecks.
 - **Conservation:** Many wrecks are protected as historic sites; artifact removal is prohibited on designated sites including U-869 and USS San Diego
 
-## Sources
-- [njscuba.net](https://njscuba.net/dive-sites/) — comprehensive NJ dive site database
-- [NJ Monthly — Shipwreck Diving](https://njmonthly.com/articles/jersey-shore/shipwreck-diving/)
-- [Scuba Diving Magazine — Wreck Valley](https://www.scubadiving.com/travel/northeast/wreck-valley-new-york-new-jersey)
-- NJDEP Division of Fish & Wildlife Artificial Reef Program
+---
+*Sources: [njscuba.net](https://njscuba.net/dive-sites/), [NJ Monthly — Shipwreck Diving](https://njmonthly.com/articles/jersey-shore/shipwreck-diving/), [Scuba Diving Magazine — Wreck Valley](https://www.scubadiving.com/travel/northeast/wreck-valley-new-york-new-jersey), NJDEP Division of Fish & Wildlife Artificial Reef Program. Last updated 2026-04-04.*

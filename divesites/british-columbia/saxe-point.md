@@ -23,9 +23,9 @@ Saxe Point Park sits at the confluence of tidal flows in the Strait of Juan de F
 
 - **Location**: Esquimalt, Victoria area, British Columbia, Canada
 - **Entry Type**: Shore entry
-- **Site Type**: Wall / rocky reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 metres
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 6–15 metres
 - **Current**: Variable; can be strong on outer points
 - **Best Time**: August to November for visibility
@@ -58,4 +58,4 @@ This is an advanced site due to depth potential, currents on the exposed face, a
 Wolf eel portraiture is the headline photo opportunity — the resident animals at Saxe Point are photogenic and used to camera lights. Plumose anemone wall shots with wide-angle lenses are spectacular. Nudibranchs require a macro setup but are plentiful on kelp stipes and encrusted rock.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

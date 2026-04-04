@@ -22,7 +22,7 @@ Maheleg is a classic offshore Red Sea reef — a submerged platform or atoll str
 ## Site Information
 
 - **Location**: Central Red Sea, Egypt (offshore reef, approximately 25.90°N, 34.41°E)
-- **Entry Type**: Boat dive (liveaboard access)
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
@@ -58,4 +58,4 @@ Offshore Red Sea reefs require full diver self-sufficiency. Currents can be vari
 Clear water and strong fish populations make Maheleg a productive photography destination for intermediate reef and pelagic subjects. Wide-angle reef scenes with fish in the frame shoot beautifully in clear offshore water. Shark encounters require a large dome port and shooting toward the light to avoid silhouetting. Macro subjects are plentiful in the reef crevices and sandy margin.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

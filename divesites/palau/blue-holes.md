@@ -50,8 +50,5 @@ Although classified as a cavern rather than a true cave dive, divers should be c
 ## Photography
 Blue Holes is one of Palau's premier underwater photography sites. The sunbeam effect through the four holes is best captured with a wide-angle or fisheye lens, exposing for the ambient light and using a slow shutter speed. Position yourself near the cavern floor looking up for the most dramatic beam shots. A diver silhouetted in one of the holes adds compelling scale. On the outer wall, wide-angle is essential for capturing the reef topography and passing pelagics.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Palau Dive Adventures](https://palaudiveadventures.com/best-dive-sites-palau/), [Bluewater Dive Travel - Palau](https://www.bluewaterdivetravel.com/destination/palau-diving), [Dive the World - Palau](https://www.dive-the-world.com/diving-sites-palau.php), [PADI - Diving in Palau](https://www.padi.com/diving-in/palau/), [Pristine Paradise Palau](https://pristineparadisepalau.com/dive-palau/). Last updated 2026-04-04.*

@@ -22,7 +22,7 @@ Shaab Ini sits at approximately 24.22°N, 35.60°E in the Fury Shoals complex of
 ## Site Information
 
 - **Location**: Fury Shoals complex, south of Marsa Alam, southern Egyptian Red Sea (~24.22°N)
-- **Entry Type**: Boat dive (day trip from Marsa Alam or liveaboard)
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
@@ -57,9 +57,5 @@ Current on the outer slope can be moderate — assess before extending the dive 
 
 The pristine hard coral gardens of Shaab Ini — coral tables, brain corals, and gorgonian fans in excellent condition — are outstanding wide-angle subjects in the clear Fury Shoals water. Grey reef shark portraits at the outer slope provide the signature pelagic image. The undisturbed nature of the reef allows closer approach than mainstream Marsa Alam sites.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

@@ -61,4 +61,4 @@ The 40 meter maximum depth approaches the limit of recreational diving, and the 
 Wide-angle photography excels at this site — frame the wall face with sea fans in the foreground against the open blue water column behind. Shooting upward along the wall toward the light creates dramatic perspective shots showing the wall's height and the silhouettes of reef sharks in the blue. Macro subjects include hawkfish on sea fans, wire coral gobies, and nudibranchs on encrusting sponges.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Tonga Tourism - Diving Guide](https://tongatourism.travel/diving/), [Tonga Pocket Guide - Dive Sites](https://tongapocketguide.com/10-best-dive-sites-in-tonga/), [Diving Tonga](https://www.divingtonga.com/), [Bluewater Dive Travel - Tonga](https://www.bluewaterdivetravel.com/destination/tonga-diving), [PADI - Diving in Tonga](https://www.padi.com/diving-in/tonga/). Last updated 2026-04-04.*

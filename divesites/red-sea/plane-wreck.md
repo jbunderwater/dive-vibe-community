@@ -23,7 +23,7 @@ The wreck sits at a maximum depth of around 30 meters on a sand slope descending
 
 - **Location**: Red Sea, Egypt (Ras Muhammad National Park, Sinai)
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-35 meters (65-115 feet)
@@ -58,4 +58,4 @@ The maximum depth of 30 meters reduces no-decompression bottom time significantl
 The encrusted aircraft structure provides unique photographic subjects unlike standard reef photography. Wide-angle shots showing the wing span or fuselage silhouette with reef fish and blue water in the background are striking. Detail shots of the encrusting corals and sponges reveal the transformation of the metal into a reef ecosystem. Torch-lit interior details through openings in the fuselage make atmospheric images.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

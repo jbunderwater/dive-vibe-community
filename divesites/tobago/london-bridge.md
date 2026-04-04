@@ -23,7 +23,7 @@ Located in the Speyside dive corridor on Tobago's northeast coast, London Bridge
 
 - **Location**: Speyside, northeast Tobago
 - **Entry Type**: Boat dive
-- **Site Type**: Rock arch / reef
+- **Site Type**: Rock_formation
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20–30 meters
@@ -58,4 +58,4 @@ Current at Speyside sites is variable and can intensify with tidal flow. Carry a
 The arch is one of Tobago's most photographed natural features. Wide-angle shots through the arch — framing the blue water beyond and divers passing through — are the signature images. Nurse sharks beneath the arch provide dramatic subjects, and the encrusting life on the arch walls rewards macro photographers. Morning dives deliver the best ambient light angle into the arch interior.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: visittobago.gov.tt, justgottadive.com - natural arch, strong current/surge. Last updated 2026-03-28.*

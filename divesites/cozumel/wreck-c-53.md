@@ -23,9 +23,9 @@ The Felipe Xicoténcatl (hull number C-53) is a former United States Navy Admira
 
 - **Location**: Northwest Cozumel, Quintana Roo, Mexico
 - **Entry Type**: Boat dive
-- **Site Type**: Intentionally sunk wreck (Admirable-class minesweeper)
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 24 meters (80 feet) — the keel rests at this depth
+- **Maximum Depth**: 24 meters
 - **Typical Visibility**: 20–35 meters (65–115 feet)
 - **Current**: Typically mild; can increase in afternoon
 - **Best Time**: November to April; accessible year-round
@@ -58,9 +58,5 @@ Wreck penetration without proper training carries serious risk; the interior of 
 
 The C-53 rewards both wide-angle and macro approaches. The full-hull exterior shot from the sand looking up at the silhouette is a classic Cozumel wreck image requiring a fisheye or ultra-wide lens. The glassy sweeper schools in the hold create extraordinary backlit images when light enters from exterior openings. For macro, the encrusted hull surfaces are rich with flamingo tongues, nudibranchs, and encrusting sponge patterns.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [The Reefs of Cozumel - Reef Guide](https://www.reefsofcozumel.com/reefguide.html), [Cozumel Scuba - Dive Sites](https://cozumelscuba.com/cozumel-dive-sites/), [Blue Note Scuba - Cozumel Dive Sites](https://www.bluenotescuba.com/cozumel-dive-sites), [Sand Dollar Sports - Cozumel Dive Sites](https://sanddollarsports.com/activities/cozumel-dive-sites/), [Pro Dive International - Divers Guide to Cozumel](https://www.prodiveinternational.com/diving/mexico/cozumel/). Last updated 2026-04-04.*

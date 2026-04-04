@@ -23,7 +23,7 @@ The "muck" classification at Koala Reef indicates a substrate dominated by sand,
 
 - **Location**: Anilao, Batangas, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Muck
+- **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 5-15 meters (often reduced in muck)
@@ -58,9 +58,5 @@ Muck sites typically have good conditions — little current, manageable depth, 
 
 Anilao muck photography is world-class. The primary subjects — frogfish, nudibranchs, flatworms, cuttlefish, and octopus — reward close-focus macro setups. Reduced natural light on the muck substrate often requires strobe use even in daytime. The Anilao muck site experience is considered the ultimate macro photography challenge by many professional underwater photographers.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive Philippines Anilao Dive Sites](https://www.divephilippines.com.ph/anilao-batangas-dive-sites/), [Bluewater Dive Travel Anilao](https://www.bluewaterdivetravel.com/destination/anilao-diving), [Solitude World Anilao Dive Sites](https://solitude.world/dive-sites-anilao-batangas-the-philippines/), [Buceo Anilao](https://buceoanilao.com/), [Diving Squad Anilao Guide](https://www.divingsquad.com/philippines-diving/batangas-anilao/). Last updated 2026-04-04.*

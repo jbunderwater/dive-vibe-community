@@ -48,4 +48,4 @@ Boat dive from Bridgetown or Holetown operators. Short boat ride from most west 
 Very accessible wreck dive. Shallow depth and calm conditions pose minimal risk. Avoid entering confined spaces without wreck diving training. Be aware of the occasional Atlantis Submarine passing nearby.
 
 ---
-*This dive site information was compiled from barbados.org, Dive Hightide, Reefers & Wreckers, Wikivoyage, NUMA, and Barbados Blue. Last updated 2026-04-02.*
+*Sources: barbados.org, Dive Hightide, Reefers & Wreckers, Wikivoyage, NUMA, Barbados Blue, NUMA - Water carrier scuttled 1960s near Batt's Rock, coral-encrusted. Last updated 2026-04-02.*

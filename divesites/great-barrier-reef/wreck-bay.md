@@ -60,4 +60,4 @@ Wreck diving carries specific hazards: silt disturbance reducing visibility, sha
 Wrecks make compelling photographic subjects because the artificial structure provides a defined backdrop that open reef lacks. Shoot the hull at an angle to show the colonisation of soft corals and sponges. Frame the moray eels in their hull openings. The school of glassfish passing through an opening with light behind them is a classic wreck shot.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Great Barrier Reef Marine Park Authority](https://greatbarrierreef.org/reef-experiences/diving-the-reef/), [Pro Dive Cairns - Dive Sites](https://prodivecairns.com/divesites.html), [PADI - Diving the Great Barrier Reef](https://www.padi.com/diving-in/great-barrier-reef/), [Divezone - Great Barrier Reef](https://divezone.net/diving/great-barrier-reef), [Divernet - Southern Great Barrier Reef Guide](https://divernet.com/scuba-diving/southern-great-barrier-reef-australia-guide/). Last updated 2026-04-04.*

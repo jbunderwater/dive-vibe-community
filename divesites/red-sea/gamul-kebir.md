@@ -23,7 +23,7 @@ The Gamul reefs are a popular destination for Hurghada-based day boats, with Gam
 
 - **Location**: Offshore northern Egyptian Red Sea, between Hurghada and El Gouna
 - **Entry Type**: Boat dive
-- **Site Type**: Offshore platform reef with sloping wall
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters
@@ -59,4 +59,4 @@ The exposed eastern face can experience strong tidal flow. Be cautious of uninte
 The outer wall provides dramatic wide-angle backdrops with deep blue water and sloping reef. humphead wrasse and barracuda make striking subjects. The sheltered northern section of the reef top offers colourful macro photography among the coral heads.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

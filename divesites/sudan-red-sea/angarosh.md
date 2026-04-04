@@ -22,10 +22,10 @@ Angarosh — meaning "mother of sharks" in Arabic — lives up to its name. The 
 ## Site Information
 
 - **Location**: Offshore northern Sudan Red Sea, ~70 km north of Port Sudan
-- **Entry Type**: Boat dive (liveaboard only)
+- **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters (recreational limit; walls descend far deeper)
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Moderate to strong
 - **Best Time**: September to May (hammerheads most reliably October to April)
@@ -59,9 +59,5 @@ Strong currents require good buoyancy control and situational awareness at all t
 
 Angarosh is one of the Red Sea's iconic wide-angle photography locations. Hammerhead schools at the wall edge create opportunities for silhouette and school shots using natural backlighting from above. For close-up reef life, the wall face between 5-15 meters offers colourful soft corals and anthias clouds against the blue water backdrop.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*

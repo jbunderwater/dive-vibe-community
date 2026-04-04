@@ -36,14 +36,5 @@ California Channel Islands is a notable diving destination in the North America 
 - **Language**: English
 - **Safety**: Always dive within certification limits. Be aware of cold water, surge, limited visibility. Verify the location of the nearest hyperbaric chamber before diving.
 
-## Sources
-
-- OpenStreetMap dive site data and community contributions
-- Regional diving guides and operator information
-- Marine conservation organization reports
-- Local tourism board resources
-
 ---
-
-*Last updated: March 2026*
-*Compiled from OpenStreetMap data, regional diving knowledge, and authoritative marine sources*
+*Sources: [NPS - Channel Islands Diving and Snorkeling](https://www.nps.gov/chis/planyourvisit/diving.htm), [Scuba Diving Magazine - Guide to Channel Islands National Marine Sanctuary](https://www.scubadiving.com/guide-diving-channel-islands-national-marine-sanctuary), [Channel Islands Dive Adventures](https://channelislandsdiveadventures.com/california-channel-islands-diving/), [Dive Guide Channel Islands](https://www.diveguideschannelislands.com/), [Underwater Photography Guide - Channel Islands](https://www.uwphotographyguide.com/channel-islands-diving). Last updated 2026-04-04.*

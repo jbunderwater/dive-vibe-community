@@ -60,4 +60,5 @@ The accessible reef in clear conditions offers natural-light photography for the
 - Barbados Blue and local south coast operators: can advise on Coconut Court conditions and access
 - Conditions here are more variable than the west coast — always check before diving
 
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: barbados.org - Beginner-friendly shore reef. Last updated 2026-03-28.*

@@ -23,9 +23,9 @@ Russell Reef lies in the outer Gulf Islands near the Strait of Georgia, exposed 
 
 - **Location**: Northern Gulf Islands, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres
 - **Current**: Can be moderate to strong; time to slack
 - **Best Time**: July to October
@@ -58,4 +58,4 @@ Current is the primary hazard at Russell Reef. A strong ebb or flood can make th
 Lingcod and rockfish portrait photography are the standout opportunities. The dense plumose anemone coverage on vertical rock faces makes compelling wide-angle images with a diver silhouette. Macro subjects are abundant on encrusted rubble between the boulders.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

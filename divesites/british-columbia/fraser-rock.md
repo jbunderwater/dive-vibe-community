@@ -23,9 +23,9 @@ Fraser Rock rises from the cold, nutrient-rich waters of Howe Sound, offering an
 
 - **Location**: Howe Sound, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 6-15 metres
 - **Water Temperature**: 7-12°C year-round (drysuit recommended)
 - **Current**: Moderate to strong — dive at slack water
@@ -60,4 +60,4 @@ Cold water, boat traffic, and tidal currents are the primary hazards at Fraser R
 Fraser Rock offers strong macro and wide-angle opportunities. GPO encounters are a highlight — approach slowly and avoid touching the animal. Wolf eel portraits reward patient divers with lights. Plumose anemone gardens and encrusting sponges photograph well in the 8-15 metre zone. Early morning dives in calm conditions give the cleanest natural light.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

@@ -58,9 +58,5 @@ Tidal currents in the mangrove zone can be variable. Maintain awareness of depth
 
 Mangrove and Slope offers two very different photographic environments in a single dive. Wide-angle shots through mangrove roots with filtered light from above are atmospheric and distinctive. The reef slope provides classic Raja Ampat reef scenic photography. Macro work spans both zones: juvenile fish portraits in the roots and nudibranch/flatworm subjects on the encrusting growth of the slope. This is one of the more versatile photographic sites in the Gam area.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*

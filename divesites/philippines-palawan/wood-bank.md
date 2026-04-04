@@ -23,7 +23,7 @@ Sitting in the open sea south of Puerto Princesa, Wood Bank rises to approximate
 
 - **Location**: Southern Palawan sea, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Coral bank / reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 23 meters
 - **Typical Visibility**: 15-30 meters
@@ -58,9 +58,5 @@ Open-ocean bank diving with significant distance from emergency services. Carry 
 
 Clear water conditions at this rarely dived bank make photography rewarding. Wide-angle shots of the reef panorama and blue-water pelagic encounters are the highlights. Sea fan details on the deeper slopes provide colour on otherwise blue-dominated images.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Diving Squad Palawan Guide](https://www.divingsquad.com/philippines-diving/palawan/), [Scuba Tech Philippines - Coron Wrecks](https://scubatechphilippines.com/scuba_blog/the-shipwrecks-of-coron-wreck-diving-philippines/), [Pirate Coron Dive Sites](https://piratescoron.com/dive-sites/), [DIVE Magazine - Wrecks of Coron Bay](https://divemagazine.com/scuba-diving-travel/wrecks-of-coron-bay-philippines), [ZuBlu - Scuba Diving Coron Palawan](https://www.zubludiving.com/destination/philippines/palawan/coron). Last updated 2026-04-04.*

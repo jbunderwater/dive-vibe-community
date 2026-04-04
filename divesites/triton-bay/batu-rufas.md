@@ -59,9 +59,5 @@ Batu Rufas is a manageable site for intermediate divers, but the variable curren
 
 Batu Rufas rewards patient macro photography. The combination of nudibranchs, soft coral critters, and mantis shrimp on the sand provides a full day's worth of macro subjects. For wide-angle, the upper reef at 8 to 12 meters offers dense, colorful compositions that benefit from a rectilinear wide-angle or fisheye lens and twin strobes. Morning dives provide the best ambient light penetration; afternoon dives give softer, warmer light. The sandy channels at depth, photographed with a wide lens close to the substrate, reveal interesting behavioral subjects in natural, contextual compositions.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Triton Bay Divers Resort](https://tritonbaydivers.com/), [ZuBlu Scuba Diving in Triton Bay](https://www.zubludiving.com/destination/indonesia/west-papua/triton-bay), [Scuba Diving Magazine Triton Bay Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-triton-bay-indonesia), [Dive the World Triton Bay](https://www.dive-the-world.com/diving-sites-indonesia-triton-bay.php), [Merapi Tours Triton Bay Dive Sites](https://www.merapitours.com/indonesia/papua/triton-bay-dive-sites). Last updated 2026-04-04.*

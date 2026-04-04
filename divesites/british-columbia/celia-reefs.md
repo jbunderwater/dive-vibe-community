@@ -23,9 +23,9 @@ Celia Reefs is a complex of submerged reef structures in the central Gulf Island
 
 - **Location**: Gulf Islands, central Strait of Georgia / Haro Strait area, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Submerged reef complex
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres
 - **Current**: Moderate tidal currents — plan around slack
 - **Best Time**: Late spring through autumn
@@ -57,11 +57,8 @@ Moderate currents are present throughout the Gulf Islands. Time dives to slack t
 
 Multiple reef structures provide varied photographic compositions. Wide-angle shots of reef pinnacles draped in anemones and sponges are highly effective. Macro photographers will find exceptional nudibranch diversity. Octopus den photography requires patience — respect the animal's space and wait for it to emerge naturally.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
 - Sidney and Salt Spring Island dive operators
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

@@ -58,9 +58,5 @@ Be aware of strong currents, jellyfish, remote locations in this area. Dive with
 
 This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [Scuba Diving Magazine - Seychelles Guide](https://www.scubadiving.com/diving-paradise-guide-scuba-diving-seychelles), [Divezone - Seychelles Dive Sites](https://divezone.net/diving/seychelles), [Bluewater Dive Travel - Seychelles](https://www.bluewaterdivetravel.com/destination/seychelles-diving), [PADI - Diving in Seychelles](https://www.padi.com/diving-in/seychelles/), [SCUBA Travel - Seychelles Diving](https://www.scubatravel.co.uk/pacific/seychelles-diving.html). Last updated 2026-04-04.*

@@ -50,8 +50,5 @@ Currents through the channel can be stronger than expected, particularly on spri
 ## Photography
 This is one of the world's best sites for manta ray photography. A wide-angle or fisheye lens is essential. Shoot upward as mantas pass overhead for dramatic belly shots against the blue water. If a manta hovers at the cleaning station, a close-focus wide-angle setup captures both the manta and the cleaner wrasses in frame. Patience yields the best shots -- stay in position and let the mantas come to you. Strobes help fill in shadows on overcast days but are not always necessary given the shallow depth and sandy bottom reflecting ambient light.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Palau Dive Adventures](https://palaudiveadventures.com/best-dive-sites-palau/), [Bluewater Dive Travel - Palau](https://www.bluewaterdivetravel.com/destination/palau-diving), [Dive the World - Palau](https://www.dive-the-world.com/diving-sites-palau.php), [PADI - Diving in Palau](https://www.padi.com/diving-in/palau/), [Pristine Paradise Palau](https://pristineparadisepalau.com/dive-palau/). Last updated 2026-04-04.*

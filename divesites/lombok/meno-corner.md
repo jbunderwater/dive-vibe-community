@@ -22,10 +22,10 @@ Meno Corner is located at the northeastern tip of Gili Meno and is one of the be
 ## Site Information
 
 - **Location**: Northeast tip of Gili Meno, Gili Islands / Lombok
-- **Entry Type**: Boat dive (drift)
-- **Site Type**: Drift / Reef / Pinnacle
+- **Entry Type**: Boat dive
+- **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 m
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 m
 - **Current**: Moderate; can be strong on the corner
 - **Best Time**: May to October
@@ -58,9 +58,5 @@ Current at the corner can be strong, particularly on spring tides. Stay close to
 
 Sea turtle encounters in sea grass with natural light are accessible wide-angle subjects. Multiple turtles together on the reef slope produce compelling images. The pinnacle with its coral coverage suits wide-angle with strobes at depth.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*

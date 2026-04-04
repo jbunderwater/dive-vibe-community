@@ -22,7 +22,7 @@ Al Fahal North occupies the northern tip of the Al Fahal reef at approximately 2
 ## Site Information
 
 - **Location**: Al Fahal reef, northern tip, southern Saudi Red Sea (~22.31°N, 38.97°E)
-- **Entry Type**: Boat dive (specialist regional operator or permitted liveaboard)
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
@@ -56,9 +56,5 @@ Converging current at the tip requires careful positioning. Do not drift away fr
 
 Hammerhead and grey reef shark shots at the northern tip require wide-angle positioning with the current carrying subjects past the camera. Dense school portraits in the convergent current zone produce compelling aggregation shots.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

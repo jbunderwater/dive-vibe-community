@@ -22,8 +22,8 @@ Thomas Reef is the second reef encountered when travelling north through the Str
 ## Site Information
 
 - **Location**: Straits of Tiran, northern Egyptian Red Sea (between Sinai and Tiran Island)
-- **Entry Type**: Boat dive (day trip from Sharm el-Sheikh)
-- **Site Type**: Wall dive with arches
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20–35 meters
@@ -58,9 +58,5 @@ Thomas Reef has no fixed moorings, making drift dive discipline essential. Curre
 
 Thomas Reef rewards patient close-focus wide-angle photography on the gorgonian-covered eastern wall. The soft coral formations and anemone fields provide rich reef portraits. The Three Arches, while challenging to photograph due to depth and current, offer dramatic structural compositions when light angles cooperate. Nudibranchs and hawkfish in the gorgonians reward macro technique. Schooling fusiliers and anthias against the deep blue background are accessible throughout the dive.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

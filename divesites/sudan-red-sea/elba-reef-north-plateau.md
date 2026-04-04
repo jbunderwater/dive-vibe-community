@@ -22,10 +22,10 @@ Elba Reef is a rarely-visited triangle-shaped reef system at the northern bounda
 ## Site Information
 
 - **Location**: Elba Reef, Egypt-Sudan border (Halaib Triangle)
-- **Entry Type**: Boat dive (liveaboard)
-- **Site Type**: Wall dive / plateau
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 33 meters (plateau edge; drops to 45m+ beyond)
+- **Maximum Depth**: 33 meters
 - **Typical Visibility**: 25-40+ meters (80-130+ feet)
 - **Current**: Moderate to strong
 - **Best Time**: March to November
@@ -58,9 +58,5 @@ The depth profile of the North Plateau makes this an advanced dive. Nitrogen nar
 
 The massive sea fan formations at 25-30 metres are the definitive photography subjects — wide-angle shots from below looking up through the fans with blue water above create extraordinary images. Grey reef shark portraits at the plateau edge in clear blue water are achievable with patience and stillness. Macro subjects abound on the sea fan surfaces.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*

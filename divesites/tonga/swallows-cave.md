@@ -61,4 +61,4 @@ The cave is well-lit and has no restrictions on air supply for a simple in-and-o
 Swallows Cave is one of the most photogenic dive sites in the South Pacific. Wide-angle lenses capture the dramatic light-shaft effect as sunlight enters the mouth of the cave. Shooting upward toward the entrance from 5–8 meters yields silhouette compositions of the cave arch with diver scale. Macro subjects include nudibranchs, crustaceans, and encrusting sponges on the cave walls. A red filter or strobes are needed to restore color in the cave's interior sections.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Tonga Tourism - Diving Guide](https://tongatourism.travel/diving/), [Tonga Pocket Guide - Dive Sites](https://tongapocketguide.com/10-best-dive-sites-in-tonga/), [Diving Tonga](https://www.divingtonga.com/), [Bluewater Dive Travel - Tonga](https://www.bluewaterdivetravel.com/destination/tonga-diving), [PADI - Diving in Tonga](https://www.padi.com/diving-in/tonga/). Last updated 2026-04-04.*

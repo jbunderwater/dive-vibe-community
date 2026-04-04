@@ -59,9 +59,5 @@ Currents at Little Komodo can intensify quickly as tidal flow changes. Stay with
 
 Little Komodo is consistently cited in liveaboard trip reports as one of the top wide-angle soft coral photography sites in West Papua. The combination of densely colonized boulders, rich ambient light, and schooling anthias creates compositions that are difficult to replicate elsewhere. Shoot upward from the sand channels between boulders for dramatic silhouette frames. For macro work, a 60mm or 100mm lens will reveal the seahorses, nudibranchs, and tiny crustaceans hidden throughout the coral structure.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Triton Bay Divers Resort](https://tritonbaydivers.com/), [ZuBlu Scuba Diving in Triton Bay](https://www.zubludiving.com/destination/indonesia/west-papua/triton-bay), [Scuba Diving Magazine Triton Bay Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-triton-bay-indonesia), [Dive the World Triton Bay](https://www.dive-the-world.com/diving-sites-indonesia-triton-bay.php), [Merapi Tours Triton Bay Dive Sites](https://www.merapitours.com/indonesia/papua/triton-bay-dive-sites). Last updated 2026-04-04.*

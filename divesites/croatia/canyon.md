@@ -23,7 +23,7 @@ The site consists of rocky wall faces, narrow canyon-like channels, and broken t
 
 - **Location**: Cres/Lošinj area, Kvarner, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Wall/canyon
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–20 meters
@@ -59,4 +59,4 @@ The canyon topography can be disorienting for less experienced divers — mainta
 The canyon walls draped with red and orange sponges make exceptional wide-angle subjects with a diver for scale. Deep crevice openings framed by colourful encrustation are classic compositions. Macro subjects on the sponge-covered walls reward close inspection.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*

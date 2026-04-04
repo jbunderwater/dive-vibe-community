@@ -60,4 +60,4 @@ The enclosed passages could cause navigation confusion — always maintain a men
 The Labyrinth's narrow passages create dramatic perspective shots — wide-angle images looking down a coral corridor are visually striking. The wobbegong sharks in the dead-ends are excellent subjects if approached carefully. Juvenile fish portraits reward a macro lens in the inner passages.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Great Barrier Reef Marine Park Authority](https://greatbarrierreef.org/reef-experiences/diving-the-reef/), [Pro Dive Cairns - Dive Sites](https://prodivecairns.com/divesites.html), [PADI - Diving the Great Barrier Reef](https://www.padi.com/diving-in/great-barrier-reef/), [Divezone - Great Barrier Reef](https://divezone.net/diving/great-barrier-reef), [Divernet - Southern Great Barrier Reef Guide](https://divernet.com/scuba-diving/southern-great-barrier-reef-australia-guide/). Last updated 2026-04-04.*

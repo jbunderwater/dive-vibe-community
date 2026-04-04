@@ -23,9 +23,9 @@ Cluster Rocks is a collection of rocky underwater outcrops in the Strait of Geor
 
 - **Location**: Strait of Georgia, Nanaimo area near Gabriola Island, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef cluster
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres
 - **Current**: Tidal currents in the Nanaimo area — plan around slack
 - **Best Time**: Late spring through autumn
@@ -57,11 +57,8 @@ Tidal currents in the Nanaimo area require careful timing. The proximity to the 
 
 Multiple rocks create varied photographic opportunities in a single dive day. Wide-angle shots of wolf eels in den entrances are a classic Pacific Northwest subject. Octopus on open rock with sponge backgrounds are striking compositions. Macro photography on encrusting sponges yields nudibranchs, sea spiders, and colonial tunicates. Bring both wide-angle and macro gear.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
 - Nanaimo dive shops and charters for current conditions
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

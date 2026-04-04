@@ -50,8 +50,5 @@ Though more sheltered than Barracuda Point or South Point, currents can still pi
 ## Photography
 For day dives, the resting whitetip sharks on sandy ledges are excellent subjects for wide-angle compositions with natural light. Night photography is the real highlight — hunting whitetips, active moray eels, and the dramatic torch-lit wall create powerful images. A video light or focus light is essential for night work. Macro subjects including nudibranchs and crustaceans emerge at night along the wall crevices.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Scuba Junkie Complete Guide to Diving Sipadan](https://www.scuba-junkie.com/complete-guide-dive-sipadan-island/), [PADI Blog Diving Sipadan](https://blog.padi.com/everything-you-need-to-know-about-diving-sipadan/), [Dive The World Sipadan](https://www.dive-the-world.com/diving-sites-malaysia-sipadan-island.php), [Bluewater Dive Travel Sipadan](https://www.bluewaterdivetravel.com/destination/sipadan-diving), [SSI Guide to Diving Sipadan](https://www.divessi.com/en/blog/guide-to-scuba-diving-in-sipadan-9852.html). Last updated 2026-04-04.*

@@ -23,7 +23,7 @@ The Xlendi rests at 30–44 metres, with the main deck accessible at 30 metres a
 
 - **Location**: North Malta, Malta
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 44 meters
 - **Typical Visibility**: 20–25 meters
@@ -59,4 +59,4 @@ At 44 metres maximum depth, this wreck pushes the advanced recreational diving l
 26 years of marine growth on the Xlendi's hull creates a spectacular encrusted subject. The large resident grouper are among Malta's most reliably photographed large fish subjects. Interior shots require a torch and careful buoyancy. The upward-looking bow shot with the vessel silhouetted against blue water is a classic composition.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [Atlantis Gozo Dive Sites](https://www.atlantisgozo.com/dive-sites/), [PADI Diving in Malta](https://www.padi.com/diving-in/malta/), [SCUBA Travel Malta Guide](https://www.scubatravel.co.uk/europe/malta-dive-in.html), [Dive Malta-Gozo](https://divemalta-gozo.com/diving-in-gozo/). Last updated 2026-04-04.*

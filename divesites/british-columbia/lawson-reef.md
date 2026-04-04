@@ -23,9 +23,9 @@ Lawson Reef sits in the southern Strait of Georgia near the US-Canada border, in
 
 - **Location**: Southern Strait of Georgia, near BC-Washington border, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Submerged reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 6–15 metres
 - **Current**: Tidal currents in the southern Strait — plan around slack
 - **Best Time**: Late spring through autumn
@@ -57,11 +57,8 @@ International waters proximity requires attention to border regulations. Tidal c
 
 Wide-angle reef photography with encrusting invertebrates and rockfish is the primary opportunity. Octopus interactions make excellent subjects. The border-area clear Pacific-influenced water can provide exceptional visibility conditions for wide-angle photography when upwelling is present.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
 - Sidney, BC area dive operators
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

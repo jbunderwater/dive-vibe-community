@@ -23,9 +23,9 @@ Mixing Bowl marks the eastern terminus of Bloody Bay Wall where it meets Jackson
 
 - **Location**: Eastern Bloody Bay Wall / Jackson Bight junction, North Shore, Little Cayman
 - **Entry Type**: Boat dive
-- **Site Type**: Wall / canyon / swim-throughs
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters (82 feet)
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 25–40 meters (82–130 feet)
 - **Current**: Light to moderate
 - **Water Temperature**: 26–29°C (79–84°F)
@@ -59,9 +59,5 @@ The tunnel and swim-through elements require good buoyancy control to avoid silt
 
 The combination of wall and tunnel environments provides varied photographic opportunities. Tarpon in the tunnel interiors create dramatic ambient light portraits. Wide-angle compositions of the wall junction with sea fan frames are distinctive. The junction between the vertical wall and horizontal canyon topography is an unusual landscape rarely found elsewhere. Strobe lighting for tunnel subjects balances the dark interior with the brighter ambient exterior.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Visit Cayman Islands - Diving Guide](https://www.visitcaymanislands.com/en-us/things-to-do/diving), [Scuba Diving Magazine - Divers Guide to Cayman Islands](https://www.scubadiving.com/divers-guide-to-cayman-islands), [Bluewater Dive Travel - Cayman Islands Diving](https://www.bluewaterdivetravel.com/destination/cayman-islands-diving), [Visit Cayman Islands - 365 Dive Sites](https://www.visitcaymanislands.com/en-us/things-to-do/diving/365-dive-sites), [Ocean Frontiers - Cayman Islands Dive Center](https://www.oceanfrontiers.com/). Last updated 2026-04-04.*

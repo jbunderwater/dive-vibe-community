@@ -50,8 +50,5 @@ Current conditions are generally more moderate than at the island's exposed poin
 ## Photography
 This is Sipadan's premier photography site. Wide-angle is essential for capturing the scale of the gorgonian fans and soft coral cascades — position a diver or turtle in the frame for scale against the wall. Close-focus wide-angle works beautifully for individual coral heads with the blue water background. Macro photographers can search the gorgonians for pygmy seahorses and the crinoids for commensal shrimp. The depth of the best coral displays (20-30m) means artificial light from strobes is critical to bring out the vivid reds and oranges that are lost to water colour absorption.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Scuba Junkie Complete Guide to Diving Sipadan](https://www.scuba-junkie.com/complete-guide-dive-sipadan-island/), [PADI Blog Diving Sipadan](https://blog.padi.com/everything-you-need-to-know-about-diving-sipadan/), [Dive The World Sipadan](https://www.dive-the-world.com/diving-sites-malaysia-sipadan-island.php), [Bluewater Dive Travel Sipadan](https://www.bluewaterdivetravel.com/destination/sipadan-diving), [SSI Guide to Diving Sipadan](https://www.divessi.com/en/blog/guide-to-scuba-diving-in-sipadan-9852.html). Last updated 2026-04-04.*

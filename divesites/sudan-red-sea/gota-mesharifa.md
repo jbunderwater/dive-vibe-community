@@ -22,10 +22,10 @@ Gota Mesharifa is a submerged pinnacle and wall dive in the Angarosh cluster of 
 ## Site Information
 
 - **Location**: Northern Sudan Red Sea, Angarosh reef cluster
-- **Entry Type**: Boat dive (liveaboard)
-- **Site Type**: Wall dive / pinnacle
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters (pinnacle top; walls descend deeper)
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Moderate to strong
 - **Best Time**: October to May
@@ -58,9 +58,5 @@ The isolated position in deep water means currents can be strong and directional
 
 Pinnacle dives offer distinctive photography opportunities — circling the structure with a wide-angle lens captures the scale of the formation against the blue water column. Fish schooling around the pinnacle top photograph well in natural light from above. Close-focus reef details on the coral-covered pinnacle summit reward macro setups.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*

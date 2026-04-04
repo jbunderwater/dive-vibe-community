@@ -23,9 +23,9 @@ Manta Bay is situated near the iconic Broken Beach (Pasih Uug) on the northwest 
 
 - **Location**: Northwest Nusa Penida, near Broken Beach
 - **Entry Type**: Boat dive
-- **Site Type**: Reef / Cleaning Station
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 m
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10–20 m
 - **Current**: Moderate; less exposed than Manta Point
 - **Best Time**: April to October
@@ -58,9 +58,5 @@ Currents are less intense than Manta Point but can still be significant. Be awar
 
 Wide-angle lenses capture manta rays circling over the coral bommies. The shallower, brighter conditions at Manta Bay often produce better-lit shots than the deeper site. Capture belly patterns to contribute to manta ID research programs run by local conservation organisations.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Aquamarine Diving - Bali Dive Sites](https://www.aquamarinediving.com/bali-diving/dive-sites/), [Dive The World - Bali Indonesia](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [Bluewater Dive Travel - Bali Diving](https://www.bluewaterdivetravel.com/destination/bali-diving), [World Adventure Divers - Best Dive Sites Bali](https://worldadventuredivers.com/best-dive-sites-bali/), [Neptune Scuba Diving - Scuba Diving Bali](https://neptunescubadiving.com/scuba-diving-bali/), [Dive The World - Bali](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [PADI - Diving in Bali](https://www.padi.com/diving-in/bali/). Last updated 2026-04-04.*

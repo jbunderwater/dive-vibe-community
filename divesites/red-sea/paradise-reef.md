@@ -58,4 +58,4 @@ Despite the easy conditions, fire coral is present on the reef top and should no
 The shallow depth and excellent natural light make Paradise Reef one of the best photography reefs in the Marsa Alam area. Wide-angle reef photography with natural light is highly effective throughout the morning. Turtle portraits are an obvious highlight — use a rectilinear wide-angle lens and approach from the side to capture the turtle against the reef background. Macro opportunities include clownfish in anemones, small gobies on coral rubble, and scorpionfish camouflage details.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

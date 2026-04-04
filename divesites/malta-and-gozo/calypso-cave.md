@@ -60,4 +60,4 @@ Maintain orientation to the cave entrance throughout. Never venture beyond the n
 The cave entrance framed against the vivid blue Gozo water creates a compelling wide-angle composition. The interplay of natural light and shadow inside the cavern produces atmospheric shots. A torch is needed to illuminate the encrusted walls and any resident crustaceans.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [Atlantis Gozo Dive Sites](https://www.atlantisgozo.com/dive-sites/), [PADI Diving in Malta](https://www.padi.com/diving-in/malta/), [SCUBA Travel Malta Guide](https://www.scubatravel.co.uk/europe/malta-dive-in.html), [Dive Malta-Gozo](https://divemalta-gozo.com/diving-in-gozo/). Last updated 2026-04-04.*

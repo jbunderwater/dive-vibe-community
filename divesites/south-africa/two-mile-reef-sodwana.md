@@ -22,10 +22,10 @@ Two Mile Reef is the closest and most frequently dived reef system at Sodwana Ba
 ## Site Information
 
 - **Location**: Sodwana Bay, KwaZulu-Natal, South Africa
-- **Entry Type**: Boat dive (RIB launch through surf)
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 metres
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10–20 metres (33–65 feet)
 - **Current**: Light to moderate; can strengthen with tidal flow
 - **Best Time**: October to April for calmest seas and best visibility
@@ -58,9 +58,5 @@ The surf launch is the main hazard at Sodwana — remain seated until the skippe
 
 Two Mile Reef is one of southern Africa's premier underwater photography destinations. Wide-angle lenses capture the coral gardens, large potato bass, and passing pelagics. Macro subjects — including nudibranch species not found elsewhere in the Indian Ocean — are abundant in the coral rubble and sea fans. Morning light penetrates the water best before 11:00. Photographers hunting whale sharks should note that surface snorkelling with these animals is typically more productive than diver approaches.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [SCUBA Travel - Diving South Africa](https://www.scubatravel.co.uk/africa/diving-south-africa.html), [Bluewater Dive Travel - South Africa](https://www.bluewaterdivetravel.com/destination/south-africa-diving), [Coral Divers Sodwana Bay](https://coraldivers.co.za/), [PADI - Diving Sodwana Bay](https://www.padi.com/diving-in/south-africa/sodwana-bay/), [Ikelite - Aliwal Shoal Guide](https://www.ikelite.com/blogs/features/an-insiders-guide-to-diving-aliwal-shoal-south-africa). Last updated 2026-04-04.*

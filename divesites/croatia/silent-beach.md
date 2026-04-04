@@ -23,7 +23,7 @@ The cove at Silent Beach provides access to a rocky reef descending to approxima
 
 - **Location**: Northern Krk Island, Kvarner, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–20 meters
@@ -59,4 +59,4 @@ The sheltered bay provides some of the most benign diving conditions in the Kvar
 The calm, clear conditions make this one of the best photography sites in the Krk Island area. Unhurried, quiet diving reveals marine life at close range. The sandy-bottom sections create bright, open frames for fish portraits. Macro subjects on the reef surfaces can be approached without disturbance.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*

@@ -58,9 +58,5 @@ Current at the promontory tip requires experience managing drift. Do not attempt
 
 The exceptional visibility of Les Saintes makes Pointe du Gouvernail an outstanding photography site. Wide-angle shots along the wall face with the promontory topography visible in the background. Reef shark encounters in clear, blue-green water are dramatic subjects in this visibility. The wall face's sea fan coverage makes compelling foreground framing for wide-angle compositions.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*

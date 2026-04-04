@@ -22,10 +22,10 @@ Meno Wall runs along the channel between Gili Trawangan and Gili Meno, descendin
 ## Site Information
 
 - **Location**: Channel between Gili Trawangan and Gili Meno, Gili Islands / Lombok
-- **Entry Type**: Boat dive (drift)
-- **Site Type**: Wall / Drift
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 m
+- **Maximum Depth**: 22 meters
 - **Typical Visibility**: 15–25 m
 - **Current**: Moderate; carries divers along the wall comfortably
 - **Best Time**: May to October
@@ -58,9 +58,5 @@ Drift current can accelerate occasionally. Ascend to the shallower wall if curre
 
 Night dive photography reveals fully coloured lobsters and shrimps illuminated by torch and strobe. Day dives suit wide-angle for the soft coral wall and passing turtles. Pygmy seahorses require macro lens and patience to locate in gorgonian polyps.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*

@@ -58,9 +58,5 @@ The current in Blue Channel is the primary safety consideration. Drift diving re
 
 Drift dive photography is dynamic — compositions come to you rather than you positioning for them. Keep your camera ready and shoot continuously as subjects pass. Sea fans fully extended in the current make vivid wide-angle subjects. Fish schools stationing in the flow photograph well from a slight downstream angle. The challenge is stabilizing your camera in the flow — brace lightly against the channel wall edge.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-04-04.*

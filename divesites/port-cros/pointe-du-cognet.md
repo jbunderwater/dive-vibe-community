@@ -23,9 +23,9 @@ La Pointe du Cognet is a headland on the southern coast of Île de Port-Cros, in
 
 - **Location**: Southern coast of Île de Port-Cros, Port-Cros National Park, France
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky headland / reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 metres
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10–25 metres
 - **Water Temperature**: 13–25°C
 - **Current**: Light; increases on exposed headland face
@@ -58,9 +58,5 @@ Standard park intermediate conditions. The exposed face of the headland requires
 
 Grouper portraits near the rocky headland structure are the photographic highlight. The Posidonia meadow provides excellent macro subjects (cuttlefish, seahorses). Gorgonian fans on the deeper rock faces photograph well wide-angle with a strobe. Natural light is productive in the upper 15 metres.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [CaPel - Port-Cros National Park Dive Sites](https://capel.portcros-parcnational.fr/en/ou-plonger/), [Parc national de Port-Cros - Plongée](https://www.portcros-parcnational.fr/fr/des-decouvertes/une-destination-dexception/la-mer-et-les-fonds-marins/plongee), [World Adventure Divers - Port-Cros](https://worldadventuredivers.com/port-cros-national-park/), [Lavandou Plongée - Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [European Diving School - Port-Cros](https://www.europeandiving.com/hyeres/diving-area/port-cros.html). Last updated 2026-04-04.*

@@ -60,4 +60,5 @@ The step-terrace structure is visually distinctive — a wide-angle shot looking
 - STENAPA: stenapafoundation.com — Sint Eustatius Marine Park dive site information
 - Golden Rock Dive Center: guided dives at The Ledges and throughout Statia's marine park
 
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: Golden Rock Resort, STENAPA Marine Park. Last updated 2026-03-28.*

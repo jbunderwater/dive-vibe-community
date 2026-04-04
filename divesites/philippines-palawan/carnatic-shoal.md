@@ -23,7 +23,7 @@ The shoal lies in the open sea south of Palawan's main island, sitting in water 
 
 - **Location**: Southern Palawan sea, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Coral shoal / reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 17 meters
 - **Typical Visibility**: 15-25 meters
@@ -58,9 +58,5 @@ Although shallow, the open-ocean location requires careful navigation and attent
 
 The bright water and shallow depth make this a photographer's delight. Natural light reaches the reef floor throughout the day. Wide-angle shots of reef fish schools and coral formations work well, and the relatively undisturbed nature of the reef makes for clean, uncluttered imagery.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Diving Squad Palawan Guide](https://www.divingsquad.com/philippines-diving/palawan/), [Scuba Tech Philippines - Coron Wrecks](https://scubatechphilippines.com/scuba_blog/the-shipwrecks-of-coron-wreck-diving-philippines/), [Pirate Coron Dive Sites](https://piratescoron.com/dive-sites/), [DIVE Magazine - Wrecks of Coron Bay](https://divemagazine.com/scuba-diving-travel/wrecks-of-coron-bay-philippines), [ZuBlu - Scuba Diving Coron Palawan](https://www.zubludiving.com/destination/philippines/palawan/coron). Last updated 2026-04-04.*

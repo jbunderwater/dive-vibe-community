@@ -23,9 +23,9 @@ Yucab Reef is one of Cozumel's most beginner-friendly sites, located along the c
 
 - **Location**: Central leeward coast, Cozumel, Quintana Roo, Mexico
 - **Entry Type**: Boat dive
-- **Site Type**: Coral heads on sandy substrate
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 meters (50 feet)
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: 20–35 meters (65–115 feet)
 - **Current**: Light to mild northward drift
 - **Best Time**: Year-round; diveable in nearly all conditions given the sheltered leeward location
@@ -64,4 +64,4 @@ Yucab's isolated coral heads against white sand create classic Caribbean wide-an
 - **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [The Reefs of Cozumel - Reef Guide](https://www.reefsofcozumel.com/reefguide.html), [Cozumel Scuba - Dive Sites](https://cozumelscuba.com/cozumel-dive-sites/), [Blue Note Scuba - Cozumel Dive Sites](https://www.bluenotescuba.com/cozumel-dive-sites), [Sand Dollar Sports - Cozumel Dive Sites](https://sanddollarsports.com/activities/cozumel-dive-sites/), [Pro Dive International - Divers Guide to Cozumel](https://www.prodiveinternational.com/diving/mexico/cozumel/). Last updated 2026-04-04.*

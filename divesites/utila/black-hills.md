@@ -23,9 +23,9 @@ Black Hills takes its name from the dark volcanic rock formations that rise from
 
 - **Location**: Eastern Utila, Bay Islands, Honduras
 - **Entry Type**: Boat dive
-- **Site Type**: Volcanic seamount formations
+- **Site Type**: Seamount
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 45 meters (most productive diving at 15–30 meters)
+- **Maximum Depth**: 45 meters
 - **Typical Visibility**: 25–35 meters (80–115 feet)
 - **Current**: Moderate; the exposed eastern location creates variable conditions
 - **Best Time**: Year-round; calmer conditions April to September; whale shark season March–May
@@ -58,9 +58,5 @@ Exposed offshore site requiring good weather conditions. Current can be strong, 
 
 Black Hills offers Utila's most dramatic underwater landscape photography. The dark volcanic rock against blue water creates striking contrast. Whale shark photography here in clear water with the formation visible in the background is exceptional. Wide-angle shots of the formation with divers above and the blue water column visible below convey the site's scale perfectly. Eagle rays and jack schools over the summit are excellent subjects.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Utila Dive Center](https://utiladivecenter.com/), [Utila Cays Diving - Dive Sites](https://utilacaysdiving.com/dive-with-us/dive-sites/), [Alton's Dive Center Utila](https://diveinutila.com/), [World Adventure Divers - 10 Reasons to Dive Utila](https://worldadventuredivers.com/diving-utila/), [ZuBlu - Scuba Diving in Utila](https://www.zubludiving.com/destination/honduras/bay-islands/utila). Last updated 2026-04-04.*

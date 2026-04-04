@@ -23,9 +23,9 @@ Wimble Rocks is a cluster of submerged rocky formations in the outer approaches 
 
 - **Location**: Outer Ketchikan area, Southeast Alaska
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef cluster
+- **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 23 meters (75 feet)
+- **Maximum Depth**: 23 meters
 - **Typical Visibility**: 8–18 meters (26–60 feet)
 - **Current**: Strong — slack tide required
 - **Water Temperature**: 6–12°C (43–54°F)
@@ -59,9 +59,5 @@ Current management remains the primary concern, even at this shallower cluster. 
 
 The multi-rock structure of Wimble Rocks gives photographers the opportunity to switch between close-focus invertebrate compositions and broader reef scenes across a single dive. Anemone colonies and sea stars are excellent subjects in ambient light supplemented by a strobe. Lingcod on encrusted rock faces are a classic Pacific Northwest diving image.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Dive Alaska - Anchorage Dive Operator](https://divealaska.net/), [Scuba Diving Magazine - Where to Go Scuba Diving in Alaska](https://www.scubadiving.com/where-to-go-scuba-diving-in-alaska), [Scuba Diving Magazine - Mountain Point Ketchikan](https://www.scubadiving.com/diving-alaskas-mountain-point), [Bluewater Dive Travel - Best Scuba Diving in Alaska](https://www.bluewaterdivetravel.com/destination/alaska-diving), [SSI - Scuba Diving in Alaska Guide](https://www.divessi.com/en/blog/scuba-diving-in-alaska-10373.html). Last updated 2026-04-04.*

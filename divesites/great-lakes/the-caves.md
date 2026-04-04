@@ -23,9 +23,9 @@ Georgian Bay's rocky Bruce Peninsula shoreline is characterized by dramatic lime
 
 - **Location**: Georgian Bay, Lake Huron, Fathom Five National Marine Park, Ontario, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 6 metres
+- **Maximum Depth**: 6 meters
 - **Typical Visibility**: 10–20 metres
 - **Water Temperature**: 10–18°C in summer at this shallow depth
 - **Current**: Minimal in Tobermory area
@@ -59,9 +59,5 @@ This is a genuinely beginner-safe site — shallow, calm, and well-lit. The cave
 
 The Caves is outstanding for photography — natural light at 6 metres in Georgian Bay's exceptional clarity illuminates the limestone architecture beautifully. The play of light and shadow in the cave openings creates dramatic compositions. Macro photography of freshwater sponges, crayfish, and limestone encrusting organisms is rewarding. Wide-angle shots of the cave entrance with a diver silhouetted inside are iconic subjects.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Michigan.org - Dive Michigan Shipwrecks Underwater Preserves](https://www.michigan.org/article/trip-idea/dive-michigan-shipwrecks-these-underwater-preserves), [Great Lakes Shipwreck Preservation Society - Dive Sites](https://glsps.clubexpress.com/DiveSites), [Scuba Diving Magazine - Great Lakes Shipwrecks](https://www.scubadiving.com/great-lakes-shipwrecks-like-youve-never-seen-them-before), [Gear Patrol - Guide to Wreck Diving the Great Lakes](https://www.gearpatrol.com/archive/a162066/great-lakes-wreck-diving-guide/), [Shipwreck Explorers - Wisconsin Scuba Diving](https://www.shipwreckexplorers.com/). Last updated 2026-04-04.*

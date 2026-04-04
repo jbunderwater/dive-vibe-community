@@ -47,4 +47,4 @@ Boat dive from Holetown operators. Part of a cluster with Dottin's Reef and Barr
 Standard west coast reef dive. Moderate currents possible on the outer reef edge. Monitor depth at the deeper sections. Carry an SMB for boat pickup.
 
 ---
-*This dive site information was compiled from Wikivoyage, DiveAdvisor, Active Caribbean Travel, Reefers & Wreckers, and Maduro Dive. Last updated 2026-04-02.*
+*Sources: Wikivoyage, DiveAdvisor, Active Caribbean Travel, Reefers & Wreckers, Maduro Dive, Maduro Dive - Named after Sandy Lane Hotel, multilevel reef, large schools of tropicals. Last updated 2026-04-02.*

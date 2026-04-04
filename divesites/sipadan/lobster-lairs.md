@@ -50,8 +50,5 @@ Current conditions are generally moderate, making this one of Sipadan's more rel
 ## Photography
 Macro is the primary discipline here. A macro lens will find lobster portraits, moray eel close-ups, nudibranch details, and octopus behaviour shots. Night photography is particularly rewarding — hunting octopuses changing colour, cuttlefish displays, and lobsters emerging from their lairs are all strong subjects. Use a snoot or focused strobe to isolate subjects against the dark wall background. Wide-angle can capture the wall structure with its many holes and overhangs, particularly with a diver's torch beam illuminating a crevice.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Scuba Junkie Complete Guide to Diving Sipadan](https://www.scuba-junkie.com/complete-guide-dive-sipadan-island/), [PADI Blog Diving Sipadan](https://blog.padi.com/everything-you-need-to-know-about-diving-sipadan/), [Dive The World Sipadan](https://www.dive-the-world.com/diving-sites-malaysia-sipadan-island.php), [Bluewater Dive Travel Sipadan](https://www.bluewaterdivetravel.com/destination/sipadan-diving), [SSI Guide to Diving Sipadan](https://www.divessi.com/en/blog/guide-to-scuba-diving-in-sipadan-9852.html). Last updated 2026-04-04.*

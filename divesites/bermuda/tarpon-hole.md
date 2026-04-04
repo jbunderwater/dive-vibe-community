@@ -23,9 +23,9 @@ Tarpon Hole is among the newer formally buoyed dive sites in Bermuda's extensive
 
 - **Location**: South Shore near Elbow Beach, Bermuda
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 17 meters (55 feet)
+- **Maximum Depth**: 17 meters
 - **Typical Visibility**: 15–30 meters (50–100 feet)
 - **Current**: Light
 - **Water Temperature**: 18–28°C (64–82°F)
@@ -59,9 +59,5 @@ The combination of arches and channels means divers can briefly lose visual cont
 
 The coral arches are natural photographic frames for wide-angle compositions with fish or divers silhouetted against the light. Jack schools in Bermuda's clear water create impressive ambient light images. Close focus on the coral arch structure details reveals encrusting invertebrates and resident blennies. Morning sun angles illuminate the arch interiors most dramatically.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Go To Bermuda - Top Dive Sites](https://www.gotobermuda.com/plan/inspiration/article/top-dive-sites-in-bermuda), [Go To Bermuda - Bermuda Shipwrecks](https://www.gotobermuda.com/plan/inspiration/article/dive-into-bermuda-shipwrecks), [Scuba Diving Magazine - Guide to Scuba Diving Bermuda](https://www.scubadiving.com/guide-to-scuba-diving-bermuda), [Blue Water Divers Bermuda - Shipwrecks](https://www.divebermuda.com/shipwrecks/), [Bermuda Attractions - Famous Shipwrecks and Dive Sites](https://www.bermuda-attractions.com/bermuda_000045.htm). Last updated 2026-04-04.*

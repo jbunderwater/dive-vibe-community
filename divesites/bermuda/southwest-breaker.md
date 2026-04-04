@@ -23,9 +23,9 @@ The Southwest Breaker sits on Bermuda's outer reef perimeter at the southwest ex
 
 - **Location**: Southwest outer reef, Bermuda
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 9 meters (30 feet)
+- **Maximum Depth**: 9 meters
 - **Typical Visibility**: 20–40 meters (65–130 feet)
 - **Current**: Light to moderate
 - **Water Temperature**: 18–28°C (64–82°F)
@@ -59,9 +59,5 @@ The Southwest Breaker's offshore location exposes it to Atlantic swell more than
 
 Excellent visibility at this outer reef site makes it ideal for natural light photography throughout the water column. Coral formations, sea fans, and the reef crest in shallow water photograph beautifully with sunlight. Angelfish and turtle encounters reward patient positioning with natural light compositions. A strobe enhances the fire coral and encrusting invertebrate colors in deeper sections.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Go To Bermuda - Top Dive Sites](https://www.gotobermuda.com/plan/inspiration/article/top-dive-sites-in-bermuda), [Go To Bermuda - Bermuda Shipwrecks](https://www.gotobermuda.com/plan/inspiration/article/dive-into-bermuda-shipwrecks), [Scuba Diving Magazine - Guide to Scuba Diving Bermuda](https://www.scubadiving.com/guide-to-scuba-diving-bermuda), [Blue Water Divers Bermuda - Shipwrecks](https://www.divebermuda.com/shipwrecks/), [Bermuda Attractions - Famous Shipwrecks and Dive Sites](https://www.bermuda-attractions.com/bermuda_000045.htm). Last updated 2026-04-04.*

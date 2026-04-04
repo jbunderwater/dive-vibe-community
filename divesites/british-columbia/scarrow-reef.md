@@ -23,9 +23,9 @@ Scarrow Reef occupies a position in the central Gulf Islands between Galiano Isl
 
 - **Location**: Central Gulf Islands, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 6–15 metres
 - **Current**: Moderate; tide-dependent
 - **Best Time**: July to October
@@ -58,4 +58,4 @@ Current around exposed reefs in the Gulf Islands can build quickly. Do not dive 
 Copper and quillback rockfish are cooperative subjects for portrait photography. Wide-angle images of plumose anemone fields are consistently productive. Macro photography on encrusted surfaces rewards patient divers — look for nudibranchs, tube worms, and encrusting bryozoans.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

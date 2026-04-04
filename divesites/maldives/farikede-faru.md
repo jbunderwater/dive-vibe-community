@@ -38,4 +38,4 @@ Thresher sharks (cleaning station behaviour), oceanic manta rays, whale sharks, 
 Early morning (first light) dives offer the best chance of thresher shark encounters at the cleaning stations. Descend quickly to 25-35 meters along the wall and position yourself calmly near a known cleaning station — patience and stillness are critical, as thrashers are shy and will abort the cleaning if divers approach aggressively. The outer blue water beyond the wall edge is where whale sharks and mantas are spotted. This site requires strong buoyancy control and experience managing deep dives in current.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

@@ -23,7 +23,7 @@ The Blue Belt sank in the shallow waters north of Sanganeb reef and lies on its 
 
 - **Location**: Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25–40 meters (82–130 feet)
@@ -58,9 +58,5 @@ Sudan diving requires full liveaboard logistics and experienced guides. The wrec
 
 Blue Belt offers some of the Red Sea's most dramatic wildlife photography. The barracuda tornado against the blue water background is an iconic subject. Wide-angle shots from beneath the school looking up toward the surface create stunning compositions. Wreck interior photography with torch-illuminated soft coral details provides atmospheric close-up work.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

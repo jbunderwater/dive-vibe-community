@@ -81,9 +81,9 @@ The Kohala Coast requires better buoyancy and navigation skills than typical Kon
 
 If you're bored with standard reef diving and want to experience Hawaii's unique volcanic diving character, the Kohala Coast delivers. The dramatic geology, unique species, and less-crowded conditions make this an excellent choice for intermediate divers seeking adventure beyond typical resort dives.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
 
 ---
 *This dive site information was researched from PADI Kohala diving guides, lava tube diving resources, and Kohala Divers operator information. Last updated 2026-03-16.*
+
+---
+*Sources: [Scuba Diving Magazine - Ultimate Guide to Big Island](https://www.scubadiving.com/ultimate-guide-to-scuba-diving-hawaiis-big-island), [Kona Honu Divers - Big Island Scuba Diving Guide](https://konahonudivers.com/big-island-scuba-diving-130/), [Big Island Divers](https://bigislanddivers.com/), [PADI - Big Island Dive Sites](https://blog.padi.com/7-top-dive-sites-around-hawaiis-big-island/), [Kohala Divers - Big Island Scuba Diving](https://www.kohaladivers.com/). Last updated 2026-04-04.*

@@ -23,7 +23,7 @@ The Astron is a cargo vessel wreck located in the waters near Samaná Bay on the
 
 - **Location**: Near Samaná Bay, northeastern Dominican Republic
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 16 meters
 - **Typical Visibility**: 15–20 meters (50–65 feet)
@@ -58,9 +58,5 @@ Beginner-friendly but observe wreck safety basics: do not enter enclosed spaces 
 
 The Astron's encrusted surfaces are excellent for both wide-angle and macro photography. Wide-angle: shoot along the hull with ambient light and a diver for perspective. Macro: the hull encrustation hosts fire worms, Christmas tree worms, and nudibranchs that reward a close look. Grouper portraits near the bow section are a signature shot.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: Wikipedia, DiveSSI, Divebooker, Dominican Divers. Last updated 2026-03-28.*

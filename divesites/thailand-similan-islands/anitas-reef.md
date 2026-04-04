@@ -58,9 +58,5 @@ Anita's Reef is among the more forgiving sites in the Similans. Current is rarel
 
 A versatile site for both wide-angle and macro. Hard coral tableaux with ambient light make strong wide-angle subjects in the 8–15 m range. Cuttlefish portraits — especially close-focus images emphasising the iridescent chromatophore patterns — are a highlight. Frogfish on sponges require a 60mm or 100mm macro. Turtle sightings at close range in good ambient light are best shot without strobe to preserve the natural colour balance of the warm-lit shallow reef.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Similan Dive Guide](https://www.similandiveguide.com/), [Sunrise Divers - Similan Islands Dive Sites](https://www.sunrise-divers.com/dive-sites/similan-islands/), [Dive The World Thailand - Similan Islands](https://www.divetheworldthailand.com/similan-islands-diving-sites.php), [Sea Bees Diving - Scuba Diving Similans](https://sea-bees.com/scuba-diving-similans/), [Dive Happy - Diving Similan Islands Guide](https://divehappy.com/diving-similan-islands-quick-guide/). Last updated 2026-04-04.*

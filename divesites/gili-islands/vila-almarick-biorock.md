@@ -23,9 +23,9 @@ Vila Almarick Biorock is one of the northernmost structures in the east coast Gi
 
 - **Location**: East coast Gili Trawangan, Gili Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Artificial Reef / Biorock
+- **Site Type**: Artificial
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 m
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: 15–20 m
 - **Current**: Minimal
 - **Best Time**: Year-round
@@ -58,9 +58,5 @@ Standard artificial reef precautions apply — maintain buoyancy, do not touch t
 
 Each Biorock structure in the cluster has slightly different character — compare them photographically. Turtle and fish portraits against the coral-covered geometry suit wide-angle close-focus. The shallower position here allows natural light photography without strobe for the upper structure sections.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Manta Dive Gili Islands](https://manta-dive.com/diving-gili-trawangan/gili-dive-sites/), [Gili Divers Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [PADI Gili Islands](https://www.padi.com/diving-in/indonesia/gili-islands/), [Manta Dive Gili Air](https://manta-dive-giliair.com/gili-islands-dive-sites), [Terumbu Divers Gili Sites](https://terumbudivers.com/fun-dives-2/dive-sites-gili-islands-lombok/). Last updated 2026-04-04.*

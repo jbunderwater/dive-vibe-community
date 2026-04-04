@@ -23,9 +23,9 @@ The Augustin Fresnel II is a 53-meter Canadian lighthouse ship (lightvessel) tha
 
 - **Location**: Cousteau Reserve, Bouillante, Basse-Terre, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
-- **Difficulty Level**: Advanced (CMAS** / AOW equivalent minimum)
-- **Maximum Depth**: 28–33 meters (Cyclone Dean shifted the wreck to deeper water)
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 28 meters
 - **Typical Visibility**: 20–30 meters (65–100 feet)
 - **Current**: Light to moderate in the Cousteau Reserve area
 - **Best Time**: Year-round from Bouillante; best visibility November to May
@@ -58,9 +58,5 @@ Advanced dive requiring careful gas management at 28–33 meters. Narcosis can b
 
 The Augustin Fresnel II is a spectacular wreck photography subject. The large scale of the vessel allows impressive wide-angle compositions — shoot from the sandy seabed with the hull towering above. Sponge encrustation in orange and red against the hull steel makes vibrant color photography. Turtle encounters on the superstructure in the early morning are extraordinary. A strobe or video light system is needed to illuminate the interior and deep hull sections.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*

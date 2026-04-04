@@ -60,4 +60,5 @@ Cannon lying in the sand with coral and sponge growth are the defining images of
 - STENAPA: stenapafoundation.com — archaeological site protection information
 - SECAR: St. Eustatius Center for Archaeological Research — published research on Double Wreck
 
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: PADI, Golden Rock Resort, historical 1700s wrecks. Last updated 2026-03-28.*

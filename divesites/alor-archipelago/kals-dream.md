@@ -57,9 +57,5 @@ This is an advanced dive requiring comfort with strong multi-directional current
 
 The pinnacle is among the best wide-angle sites in Alor. A fisheye or ultra-wide lens captures the scale of the structure with the open blue behind it. Hammerhead and shark photography requires patience and a camera preset for fast-moving subjects in variable light — these animals will not pause for posed shots. The gorgonian fans on the sheltered face are excellent for macro work after the pelagic action slows, with pygmy seahorses rewarding patient searching.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Alami Alor Dive Resort Diving](https://www.alamialor.com/diving-snorkeling/scuba-diving/), [Alor Divers Resort](https://www.alor-divers.com/), [ZuBlu Scuba Diving in Alor](https://www.zubludiving.com/destination/indonesia/nusa-tenggara/alor), [Solitude World Alor Diving Guide](https://solitude.world/alor-diving-guide/), [Dive the World Alor](https://www.dive-the-world.com/diving-sites-indonesia-alor.php). Last updated 2026-04-04.*

@@ -23,7 +23,7 @@ The dive site extends along the limestone reef fringing the Crystal Lagoon ancho
 
 - **Location**: Comino Island, Malta
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters
@@ -59,4 +59,4 @@ The primary hazard in this area is boat traffic during peak season. Always deplo
 The turquoise lagoon water over white sand and pale limestone produces some of the most striking natural light photography in the Mediterranean. Wide-angle shots capturing the colour gradient from shallow turquoise to deep blue are particularly effective. Sea bream in schools and resident grouper make strong portrait subjects.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [Atlantis Gozo Dive Sites](https://www.atlantisgozo.com/dive-sites/), [PADI Diving in Malta](https://www.padi.com/diving-in/malta/), [SCUBA Travel Malta Guide](https://www.scubatravel.co.uk/europe/malta-dive-in.html), [Dive Malta-Gozo](https://divemalta-gozo.com/diving-in-gozo/). Last updated 2026-04-04.*

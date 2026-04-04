@@ -23,9 +23,9 @@ Juanitas Rock is a submerged rocky pinnacle in Saratoga Passage, the channel run
 
 - **Location**: Saratoga Passage, west of Whidbey Island, Puget Sound, Washington
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky pinnacle / reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 21 metres
+- **Maximum Depth**: 21 meters
 - **Typical Visibility**: 6–12 metres
 - **Water Temperature**: 8–12°C
 - **Current**: Moderate tidal
@@ -58,9 +58,5 @@ Cold water requires appropriate dry suit equipment. Saratoga Passage has commerc
 
 The octopus dens and wolf eel encounters make Juanitas Rock productive for close-focus wide-angle photography. The pinnacle structure, shot from the sandy base looking upward, provides scale. Macro work on the encrusted rock faces is detailed and colourful with artificial lighting.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Washington Dept of Fish & Wildlife - Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [PNW Scuba - Pacific Northwest Dive Site Maps](https://www.pnwscuba.com/Pacific-Northwest-Dive-Sites/Maps), [Emerald Diving - Puget Sound Dive Sites](https://www.emeralddiving.com/local_sites_jf.html), [Scuba Diving Magazine - Seattle & Puget Sound](https://www.scubadiving.com/drive-and-dive-seattle-puget-sound), [UnderSea Adventures - Puget Sound Diving Charters](https://www.underseaadventures.net/puget-sound.htm). Last updated 2026-04-04.*

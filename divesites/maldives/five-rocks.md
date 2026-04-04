@@ -38,4 +38,4 @@ Schooling reef fish (fusiliers, snapper, surgeonfish), moray eels, grouper, gard
 Plan to circumnavigate all five structures during the dive, exploring the sandy channels between them as well as the rocks themselves. Bring a torch for the tunnels and overhangs — the shadow zones between the rocks often contain the most concentrated critter life. The sandy base is worth a slow pass for sand-dwelling species. The formation lends itself to a circular route finishing on the largest central rock for the safety stop.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

@@ -22,10 +22,10 @@ Palancar Reef is Cozumel's crown jewel — a sprawling reef system stretching se
 ## Site Information
 
 - **Location**: Southwest Cozumel, Quintana Roo, Mexico
-- **Entry Type**: Boat dive (mooring buoys throughout)
-- **Site Type**: Coral reef (spur-and-groove with caves and canyons)
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters (100 feet)
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 25–40 meters (80–130 feet)
 - **Current**: Moderate north-to-south drift — the site is designed for drift diving
 - **Best Time**: November to April for calmest seas; diving is excellent year-round
@@ -64,4 +64,4 @@ Palancar is one of the world's top wide-angle reef photography destinations. The
 - **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [The Reefs of Cozumel - Reef Guide](https://www.reefsofcozumel.com/reefguide.html), [Cozumel Scuba - Dive Sites](https://cozumelscuba.com/cozumel-dive-sites/), [Blue Note Scuba - Cozumel Dive Sites](https://www.bluenotescuba.com/cozumel-dive-sites), [Sand Dollar Sports - Cozumel Dive Sites](https://sanddollarsports.com/activities/cozumel-dive-sites/), [Pro Dive International - Divers Guide to Cozumel](https://www.prodiveinternational.com/diving/mexico/cozumel/). Last updated 2026-04-04.*

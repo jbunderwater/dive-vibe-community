@@ -23,9 +23,9 @@ Sleeper Rock sits in the waters west of Victoria, close to the broader Strait of
 
 - **Location**: Victoria area, Strait of Juan de Fuca approaches, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres
 - **Current**: Moderate to strong; time to slack
 - **Best Time**: July to October
@@ -58,4 +58,4 @@ More exposed Pacific influence means conditions can change faster than in shelte
 The improved visibility in this area makes wide-angle photography particularly effective. Lingcod and rockfish portraits in clear water with good ambient light are excellent. Plumose anemone walls with Pacific clarity create compelling images.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

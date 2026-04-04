@@ -59,11 +59,8 @@ Be aware of cold water, variable currents, and moderate-to-strong surge in this 
 
 This site offers opportunities for marine life and geological photography. Atlantic kelp, colorful crustaceans, and sometimes seals provide diverse subjects. Natural light conditions are typically best during morning hours.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
 - **Water Type**: Cold Atlantic
 - **Region**: Nova Scotia
 
 ---
-*This dive site information was compiled from OpenStreetMap data, regional diving knowledge, and Atlantic marine research. Last updated 2026-03-16.*
+*Sources: [East Coast Scuba & Watersports](https://www.eastcoastscuba.com/dive-nova-scotia), [Nova Scotia Shipwreck Mapping Project](https://nsshipwrecks.ca/shipwrecks/), [Wreckhunter - Nova Scotia](https://wreckhunter.net/novascotia.htm), [ScubaBoard - Nova Scotia Diving](https://scubaboard.com/community/threads/nova-scotia-diving-recommendations-needed.345208/), [PADI Dive Sites - Nova Scotia](https://www.padi.com/dive-sites/nova-scotia/). Last updated 2026-04-04.*

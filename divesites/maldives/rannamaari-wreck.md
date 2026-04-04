@@ -30,4 +30,5 @@ The superstructure and hull plating are densely colonised with encrusting soft c
 
 Advanced certification and wreck diving experience are recommended before attempting penetration of the deeper hull sections. Penetration requires a torch and wreck buoyancy skills; silt disturbance reduces visibility rapidly inside the vessel. A nitrox fill extends bottom time on the shallower sections of the wreck without incurring decompression obligations.
 
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

@@ -23,9 +23,9 @@ Client Reefs lie in the productive waters near the Alaska–British Columbia bor
 
 - **Location**: Chatham Sound area, Southeast Alaska near Prince Rupert
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters (82 feet)
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 8–18 meters (26–60 feet)
 - **Current**: Moderate to strong — slack tide required
 - **Water Temperature**: 6–12°C (43–54°F)
@@ -59,9 +59,5 @@ Remoteness is the primary consideration at Client Reefs. Boat breakdown or weath
 
 The dense anemone colonies and colorful encrusting invertebrates make Client Reefs excellent for wide-angle reef photography. Macro photographers will find nudibranchs and small crustaceans among the bryozoan mats. Strobes are essential to reveal the red and orange tones otherwise lost at depth.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Dive Alaska - Anchorage Dive Operator](https://divealaska.net/), [Scuba Diving Magazine - Where to Go Scuba Diving in Alaska](https://www.scubadiving.com/where-to-go-scuba-diving-in-alaska), [Scuba Diving Magazine - Mountain Point Ketchikan](https://www.scubadiving.com/diving-alaskas-mountain-point), [Bluewater Dive Travel - Best Scuba Diving in Alaska](https://www.bluewaterdivetravel.com/destination/alaska-diving), [SSI - Scuba Diving in Alaska Guide](https://www.divessi.com/en/blog/scuba-diving-in-alaska-10373.html). Last updated 2026-04-04.*

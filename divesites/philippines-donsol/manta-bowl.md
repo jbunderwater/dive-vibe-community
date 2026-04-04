@@ -23,7 +23,7 @@ The name Manta Bowl refers to the site's bowl-like topography — a depression i
 
 - **Location**: Donsol, Sorsogon, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Muck / open bottom
+- **Site Type**: Muck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 23 meters
 - **Typical Visibility**: 5-20 meters (highly variable)
@@ -58,9 +58,5 @@ Manta ray encounters require disciplined behaviour to avoid disrupting the anima
 
 Manta ray photography at a feeding site is among the most rewarding underwater wildlife photography experiences possible. Wide-angle lenses (14–28mm equivalent on full frame) capture the mantas' wingspan in the context of the feeding environment. Shoot upward against the light for dynamic silhouette images.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Thresher Shark Divers Donsol Packages](https://thresher-shark-divers.com/collections/donsol-whale-shark-and-manta-packages), [RUSHKULT Whale Sharks Donsol](https://rushkult.com/eng/scubamagazine/whale-sharks-donsol-philippines/), [Shark Diving Philippines - Whale Sharks of Donsol](https://sharkdivingphilippines.com/whale-sharks-of-donsol/), [Guide to the Philippines Whale Sharks](https://guidetothephilippines.ph/articles/what-to-experience/whale-sharks-tours-philippines), [We Are Travel Girls Donsol Philippines](https://wearetravelgirls.com/donsol-philippines-whale-sharks/). Last updated 2026-04-04.*

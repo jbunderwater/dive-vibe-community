@@ -59,4 +59,4 @@ While generally calm, light currents can run along the reef edges. Maintain awar
 Pantai Merah is one of Komodo's best topside-and-underwater photography destinations. Above water, the pink sand framed by rust-red hills is spectacular. Below, the well-lit shallows with their diverse critter life make excellent macro and wide-angle subjects. The shallow depth and good light create clean backgrounds for nudibranch portraits. The beach and reef in the same frame from a drone or snorkel-level angle is iconic.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive Komodo - Dive Sites](https://divekomodo.com/dive-sites-komodo/), [Dragon Dive Komodo - Top 10 Dive Sites](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [World Adventure Divers - Diving in Komodo](https://worldadventuredivers.com/diving-in-komodo/), [Dive Komodo National Park](https://divekomodonationalpark.com/), [Blue Marlin Dive - Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/). Last updated 2026-04-04.*

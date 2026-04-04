@@ -58,9 +58,5 @@ Open to all ages and swimming abilities. No diving certification needed. Entry v
 
 Surface cage diving prioritizes safety with secure cage construction, professional guide supervision, and no decompression or equalization requirements. Great whites are naturally cautious apex predators; cage encounters are conducted safely. Hypothermia risk in cold 14-22°C water — proper thermal protection essential. Seasickness risk on boat; bring anti-nausea medication if sensitive. Always verify operator licensing, safety records, and insurance before booking. Follow all operator briefing instructions.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [Rodney Fox Shark Expeditions - Neptune Islands](https://rodneyfox.com.au/great-white-shark-central/the-neptune-islands/), [Scuba Diving Magazine - Cage Diving Neptune Islands](https://www.scubadiving.com/cage-diving-with-great-white-sharks-in-neptune-islands-australia), [DAN Alert Diver - South Australia Great White Sharks](https://dan.org/alert-diver/article/south-australias-great-white-shark-adventure/), [SA Marine Parks Neptune Islands Group](https://www.marineparks.sa.gov.au/find-a-park/eyre-peninsula/neptune-islands), [Dive Worldwide South Australia](https://www.diveworldwide.com/locations/south-australia). Last updated 2026-04-04.*

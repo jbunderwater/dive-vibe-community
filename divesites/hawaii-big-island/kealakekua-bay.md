@@ -62,9 +62,9 @@ Dives typically focus on Ka'awaloa Cove, where the reef slope is gentle and suit
 
 This site's pristine condition is the result of strict protection. Divers must follow all guidelines to preserve this sanctuary for future generations. Respect marine life, do not touch corals or fish, and maintain proper buoyancy.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
 
 ---
 *This dive site information was researched from Hawaii Division of Aquatic Resources, Kealakekua Bay MLCD documentation, and dive operator reviews. Last updated 2026-03-16.*
+
+---
+*Sources: [Scuba Diving Magazine - Ultimate Guide to Big Island](https://www.scubadiving.com/ultimate-guide-to-scuba-diving-hawaiis-big-island), [Kona Honu Divers - Big Island Scuba Diving Guide](https://konahonudivers.com/big-island-scuba-diving-130/), [Big Island Divers](https://bigislanddivers.com/), [PADI - Big Island Dive Sites](https://blog.padi.com/7-top-dive-sites-around-hawaiis-big-island/), [Kohala Divers - Big Island Scuba Diving](https://www.kohaladivers.com/). Last updated 2026-04-04.*

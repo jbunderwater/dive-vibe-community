@@ -22,10 +22,10 @@ Shark Point is the northwest headland of Gili Trawangan, where deep ridges and c
 ## Site Information
 
 - **Location**: Northwest Gili Trawangan, accessible from Lombok
-- **Entry Type**: Boat dive (drift)
-- **Site Type**: Wall / Drift
+- **Entry Type**: Boat dive
+- **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 m
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–30 m
 - **Current**: Strong; always a drift dive
 - **Best Time**: May to October
@@ -58,9 +58,5 @@ Strong current is always present. Do not attempt the deep canyons without Advanc
 
 Reef sharks at rest on canyon slopes are the signature photograph. Schools of black snappers around the Glenn Nusa wreck suit wide-angle. Turtle portraits in the shallow sea grass zone with natural light.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*

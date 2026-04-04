@@ -22,10 +22,10 @@ Maracaibo sits even further south than Punta Sur, accessed only during calm sea 
 ## Site Information
 
 - **Location**: Deep south Cozumel, Quintana Roo, Mexico
-- **Entry Type**: Boat dive (weather-dependent access)
+- **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters (130 feet) — recreational limit
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 25–40 meters (80–130 feet)
 - **Current**: Strong — open exposure, typically north-to-south drift
 - **Best Time**: November to March when southeast swells are minimal
@@ -64,4 +64,4 @@ The wide open visibility and healthy wall create ideal conditions for wide-angle
 - **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [The Reefs of Cozumel - Reef Guide](https://www.reefsofcozumel.com/reefguide.html), [Cozumel Scuba - Dive Sites](https://cozumelscuba.com/cozumel-dive-sites/), [Blue Note Scuba - Cozumel Dive Sites](https://www.bluenotescuba.com/cozumel-dive-sites), [Sand Dollar Sports - Cozumel Dive Sites](https://sanddollarsports.com/activities/cozumel-dive-sites/), [Pro Dive International - Divers Guide to Cozumel](https://www.prodiveinternational.com/diving/mexico/cozumel/). Last updated 2026-04-04.*

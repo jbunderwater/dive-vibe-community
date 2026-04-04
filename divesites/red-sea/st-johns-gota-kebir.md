@@ -22,8 +22,8 @@ Gota Kebir presents as a broad, flattish reef top at 5-8 meters that slopes and 
 ## Site Information
 
 - **Location**: St John's Reef, Southern Red Sea, Egypt
-- **Entry Type**: Boat dive (liveaboard only)
-- **Site Type**: Coral reef (reef platform / gota)
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25-40 meters (80-130 feet)
@@ -59,4 +59,4 @@ St John's is a remote area — no decompression chamber within practical reach. 
 The reef top in the first half of a morning dive captures the best natural light angles on hard coral. Wide-angle compositions framing humphead wrasse against the coral surface are a consistent highlight. At the reef base, a torch helps bring out the colors in the overhangs.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

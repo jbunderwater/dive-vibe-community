@@ -60,4 +60,5 @@ The scale of the vessel makes wide-angle the primary lens choice — fisheye or 
 - STENAPA: stenapafoundation.com — dive site information and the wreck's sinking history
 - Golden Rock Dive Center: wreck-specific guided dives with local expert knowledge
 
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: PADI, Golden Rock Resort, Scubaqua. Last updated 2026-03-28.*

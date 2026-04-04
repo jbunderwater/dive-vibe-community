@@ -61,9 +61,9 @@ Conditions near the bagan are generally calm with mild currents. However, this i
 
 The Kaimana Bay bagan offers extraordinary whale shark photography. The shallow, close-range encounters are ideal for wide-angle and fisheye shots showing the full body of the animal against the blue water. Backlit shots with the bagan structure silhouetted above provide dramatic context. Adult whale sharks at this site give a sense of scale rarely captured at other bagan locations. For video, the surface feeding behavior — mouth wide open, baitfish scattering — is among the most spectacular sequences available to underwater filmmakers anywhere in the Indo-Pacific.
 
-## Additional Resources
-
-- **Last Updated**: 2026-04-04
 
 ---
 *This dive site information was updated with firsthand diver corrections and cross-referenced against regional liveaboard operator sources. Last updated 2026-04-04.*
+
+---
+*Sources: [Triton Bay Divers Resort](https://tritonbaydivers.com/), [ZuBlu Scuba Diving in Triton Bay](https://www.zubludiving.com/destination/indonesia/west-papua/triton-bay), [Scuba Diving Magazine Triton Bay Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-triton-bay-indonesia), [Dive the World Triton Bay](https://www.dive-the-world.com/diving-sites-indonesia-triton-bay.php), [Merapi Tours Triton Bay Dive Sites](https://www.merapitours.com/indonesia/papua/triton-bay-dive-sites). Last updated 2026-04-04.*

@@ -51,8 +51,5 @@ Surface surge over the shallow pinnacle top can be disorienting. Maintain awaren
 ## Photography
 The Boiler offers some of the best manta photography opportunities in the world. Wide-angle is essential — mantas approach to within arm's length and hover overhead. Dramatic belly shots and silhouettes against the surface are signature images. Use natural light where possible to avoid disturbing the mantas' cleaning behavior. The manta rays' mating dance, when witnessed, provides extraordinary footage.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Mexico Liveaboards - Socorro Revillagigedo](https://mexicoliveaboards.com/destination-socorro.html), [Baja Wild Encounters - Socorro Islands Diving](https://bajawildencounters.com/socorro-islands-scuba-diving-liveaboard-expedition-mexico), [Bluewater Dive Travel - Socorro Island Diving](https://www.bluewaterdivetravel.com/destination/socorro-island-diving), [Nautilus Liveaboards - Scuba Diving Socorro Islands](https://nautilusliveaboards.com/2025/08/21/scuba-diving-socorro-islands/), [Dive Worldwide - Socorro Revillagigedo](https://www.diveworldwide.com/locations/socorro). Last updated 2026-04-04.*

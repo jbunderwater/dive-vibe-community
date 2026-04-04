@@ -23,7 +23,7 @@ Cathedral sits on Tobago's northeast coast and is best known for reliable manta 
 
 - **Location**: Tobago, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 37 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
@@ -57,9 +57,5 @@ Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your
 
 This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: Speyside area dive site - research. Last updated 2026-03-16.*

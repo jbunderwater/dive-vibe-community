@@ -23,9 +23,9 @@ Green Rock sits near the twin-peaked Koh Nang Yuan and is one of Koh Tao's most 
 
 - **Location**: Near Koh Nang Yuan, northwest Koh Tao, Gulf of Thailand
 - **Entry Type**: Boat dive
-- **Site Type**: Reef / Boulder / Swim-through
+- **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 m
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10–18 m
 - **Current**: Variable; can be significant around the rock formations
 - **Best Time**: May to August
@@ -58,9 +58,5 @@ Titan triggerfish attack without warning during nesting season — their territo
 
 Swim-through silhouette shots are the defining image of Green Rock — position a diver in the exit opening and shoot from inside the tunnel. Sea snakes in the channels make atmospheric subjects. The complex boulder topography creates compelling wide-angle compositions.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Koh Tao Complete Guide - Best Dive Sites](https://www.kohtaocompleteguide.com/diving/koh-tao-dive-sites/), [Sairee Cottage Diving - Koh Tao Dive Sites Complete Guide](https://www.saireecottagediving.com/koh-tao-dive-sites-complete-guide-to-26-incredible-locations/), [Big Blue Diving Koh Tao](https://www.bigbluediving.com/), [PADI - Diving in Koh Tao](https://www.padi.com/diving-in/koh-tao/), [Dive Happy - Koh Tao Dive Sites Guide](https://divehappy.com/). Last updated 2026-04-04.*

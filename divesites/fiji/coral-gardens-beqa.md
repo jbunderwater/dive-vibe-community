@@ -58,9 +58,5 @@ Coral Gardens presents minimal hazards beyond standard reef diving precautions. 
 
 Coral Gardens is a macro and close-focus wide-angle paradise with unlimited bottom time available. Close-focus wide-angle (10–17mm, strobes wide) captures the vivid coral garden with natural light flooding in from above. Macro shooters can spend entire dives working a small patch of reef: nudibranchs, Coleman shrimp pairs on fire urchins, and ornate ghost pipefish are regular finds. For coral portraiture, the Acropora tabletop colonies photographed from below with a diver or reef fish in the background produce striking results. Visibility is occasionally reduced by plankton blooms, which provide exceptional macro conditions.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [NAI'A Liveaboard - Fiji Dive Sites](https://www.naia.com.fj/fiji/dive-sites/), [Dive the World - Fiji](https://www.dive-the-world.com/diving-sites-fiji.php), [Bluewater Dive Travel - Fiji](https://www.bluewaterdivetravel.com/destination/fiji-diving), [PADI - Diving in Fiji](https://www.padi.com/diving-in/fiji/), [Waterlust Fiji Reef Guide](https://www.waterlustfiji.com/guide-to-fiji-diving). Last updated 2026-04-04.*

@@ -58,9 +58,5 @@ The feeding dive is inherently more hazardous than open-water shark encounters a
 
 Shark Reef Marine Reserve is one of the world's best shark photography venues because the animals are predictably positioned in good light at close range. Wide-angle shooting at 10–17mm allows full-frame shark portraits with the reef in the background. Shoot during the feeding phase when sharks are most active and in the open. The upper reef on the second dive offers Napoleon wrasse portraits and Cathedral light-beam shots with a 16–35mm lens. Video divers should use red filters at 20–25 meters to restore color lost to depth.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [NAI'A Liveaboard - Fiji Dive Sites](https://www.naia.com.fj/fiji/dive-sites/), [Dive the World - Fiji](https://www.dive-the-world.com/diving-sites-fiji.php), [Bluewater Dive Travel - Fiji](https://www.bluewaterdivetravel.com/destination/fiji-diving), [PADI - Diving in Fiji](https://www.padi.com/diving-in/fiji/), [Waterlust Fiji Reef Guide](https://www.waterlustfiji.com/guide-to-fiji-diving). Last updated 2026-04-04.*

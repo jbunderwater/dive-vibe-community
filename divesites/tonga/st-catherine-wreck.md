@@ -61,4 +61,4 @@ Conditions on this wreck are generally benign, making it suitable for Open Water
 The upright attitude of the wreck makes it ideal for full-profile wide-angle shots — position yourself at the sandy bottom and shoot along the hull length. Interior shots looking out through portholes or hatchways capture a classic wreck perspective. Macro subjects are plentiful on the encrusted hull surfaces: nudibranchs, flatworms, and small crustaceans are found in the coral and sponge growth.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Tonga Tourism - Diving Guide](https://tongatourism.travel/diving/), [Tonga Pocket Guide - Dive Sites](https://tongapocketguide.com/10-best-dive-sites-in-tonga/), [Diving Tonga](https://www.divingtonga.com/), [Bluewater Dive Travel - Tonga](https://www.bluewaterdivetravel.com/destination/tonga-diving), [PADI - Diving in Tonga](https://www.padi.com/diving-in/tonga/). Last updated 2026-04-04.*

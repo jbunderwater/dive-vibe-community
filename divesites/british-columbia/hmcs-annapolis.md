@@ -22,10 +22,10 @@ HMCS Annapolis served the Royal Canadian Navy as a St. Laurent-class destroyer f
 ## Site Information
 
 - **Location**: Halkett Bay Marine Park, Gambier Island, Howe Sound, British Columbia
-- **Entry Type**: Boat
-- **Site Type**: Wreck
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 46 metres (keel); 10 metres (mast top)
+- **Maximum Depth**: 46 meters
 - **Typical Visibility**: 6–15 metres; best June through September
 - **Current**: Light to moderate in Halkett Bay
 - **Best Time**: June through September
@@ -67,4 +67,4 @@ The mast rising through the water column creates dramatic wide-angle composition
 - Last Updated: 2026-03-28
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

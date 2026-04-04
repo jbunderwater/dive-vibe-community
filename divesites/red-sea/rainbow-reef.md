@@ -58,4 +58,4 @@ Fire coral patches are interspersed with the soft corals — distinguish between
 Rainbow Reef is primarily a macro and close-focus wide-angle photography site. The soft coral density and color variety create outstanding close-up compositions. Anthias shoals above the coral make excellent behavioral subjects. Wide-angle reef-scape photography benefits enormously from a strobe or video light to restore the warm colors that are absorbed at depth. Morning dives with high sun angle offer occasional excellent natural light shafts into the reef.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

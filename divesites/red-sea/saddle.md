@@ -58,9 +58,5 @@ The site is generally safe and calm, but sea urchins are present in the entry zo
 
 The shallow depth and excellent natural light make Saddle an outstanding photography site throughout the day. Wide-angle shots of coral formations are productive in the morning when the sun angles directly through the water. Macro photographers will find nudibranchs, small gobies, and ornate reef invertebrates on the coral rubble and between coral heads.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

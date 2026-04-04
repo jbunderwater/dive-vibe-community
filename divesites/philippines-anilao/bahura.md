@@ -58,9 +58,5 @@ Shallow site with generally mild conditions. Standard Anilao precautions apply: 
 
 Anilao is one of the world's premier macro photography destinations, and Bahura represents this tradition well. Nudibranch portraits, frogfish close-ups, and reef fish images in excellent natural light are the primary subjects. Take extra batteries — you will want more dive time than a single tank provides.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive Philippines Anilao Dive Sites](https://www.divephilippines.com.ph/anilao-batangas-dive-sites/), [Bluewater Dive Travel Anilao](https://www.bluewaterdivetravel.com/destination/anilao-diving), [Solitude World Anilao Dive Sites](https://solitude.world/dive-sites-anilao-batangas-the-philippines/), [Buceo Anilao](https://buceoanilao.com/), [Diving Squad Anilao Guide](https://www.divingsquad.com/philippines-diving/batangas-anilao/). Last updated 2026-04-04.*

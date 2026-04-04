@@ -23,7 +23,7 @@ Erg Sabina is a coral pinnacle at approximately 27.22°N, 33.95°E in the offsho
 
 - **Location**: Hurghada offshore zone, central Egyptian Red Sea (~27.22°N, 33.95°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef (pinnacle/erg)
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters
@@ -57,9 +57,5 @@ Standard erg dive hazards apply: current wrapping around the isolated structure,
 
 Cleaning station portraits — moray eels mid-clean — at 12–15 metres are the most distinctive images at Erg Sabina. Octopus portraits in the base crevices reward a macro approach with external torch. The upper pinnacle in morning light suits ambient close-focus wide-angle for reef fish portraits.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

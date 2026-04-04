@@ -30,4 +30,5 @@ The south-facing wall is more sheltered during the northeast monsoon, resulting 
 
 The southern exposure makes this an excellent choice when the northeast monsoon picks up — the sheltered wall produces calmer entry and exit conditions. The site pairs naturally with Vaageli Faru Nord and Vaageli Faru Tila for a complete survey of the Vaageli reef system in a single half-day trip. Depth profiles are forgiving for air management, making this a relaxed, photogenic site.
 
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

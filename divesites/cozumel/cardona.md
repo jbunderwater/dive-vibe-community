@@ -23,9 +23,9 @@ Cardona is exceptional among Cozumel dive sites for being accessible from shore 
 
 - **Location**: Central leeward coast, Cozumel, Quintana Roo, Mexico (shore access)
 - **Entry Type**: Shore entry
-- **Site Type**: Sheltered inshore patch reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters (40 feet)
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 10–25 meters (30–80 feet; can be reduced after storms)
 - **Current**: Minimal — sheltered inshore position
 - **Best Time**: Year-round; less dependent on weather than offshore sites
@@ -58,9 +58,5 @@ Shore diving requires heightened personal responsibility without a boat crew or 
 
 The calm, current-free water at Cardona is outstanding for macro photography where camera stability is critical. Peacock flounder camouflage is a compelling subject against the sandy substrate. Trunkfish and cowfish portraits in clear, calm water can be made with a 60mm or 100mm macro lens. Natural light is very good in the morning shallows. Night diving adds octopus, sleeping parrotfish, and hunting lionfish to the photographic menu.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [The Reefs of Cozumel - Reef Guide](https://www.reefsofcozumel.com/reefguide.html), [Cozumel Scuba - Dive Sites](https://cozumelscuba.com/cozumel-dive-sites/), [Blue Note Scuba - Cozumel Dive Sites](https://www.bluenotescuba.com/cozumel-dive-sites), [Sand Dollar Sports - Cozumel Dive Sites](https://sanddollarsports.com/activities/cozumel-dive-sites/), [Pro Dive International - Divers Guide to Cozumel](https://www.prodiveinternational.com/diving/mexico/cozumel/). Last updated 2026-04-04.*

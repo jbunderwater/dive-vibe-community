@@ -23,9 +23,9 @@ Toronto, Ontario's position on the western shore of Lake Ontario makes it a reas
 
 - **Location**: Lake Ontario, Great Lakes, Canada (western Lake Ontario, near Toronto)
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 metres
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 3–10 metres
 - **Water Temperature**: 4–20°C (seasonal); bottom 4–8°C
 - **Current**: Generally mild offshore from Toronto
@@ -59,9 +59,5 @@ Western Lake Ontario offshore diving requires awareness of shipping traffic in a
 
 Photography in western Lake Ontario's reduced visibility challenges are real — supplemental lighting is essential. The wooden hull details, captured close-up with a torch, reveal the vessel's historical character despite ambient conditions.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Michigan.org - Dive Michigan Shipwrecks Underwater Preserves](https://www.michigan.org/article/trip-idea/dive-michigan-shipwrecks-these-underwater-preserves), [Great Lakes Shipwreck Preservation Society - Dive Sites](https://glsps.clubexpress.com/DiveSites), [Scuba Diving Magazine - Great Lakes Shipwrecks](https://www.scubadiving.com/great-lakes-shipwrecks-like-youve-never-seen-them-before), [Gear Patrol - Guide to Wreck Diving the Great Lakes](https://www.gearpatrol.com/archive/a162066/great-lakes-wreck-diving-guide/), [Shipwreck Explorers - Wisconsin Scuba Diving](https://www.shipwreckexplorers.com/). Last updated 2026-04-04.*

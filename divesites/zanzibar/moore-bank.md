@@ -23,7 +23,7 @@ Positioned in the open Zanzibar Channel well offshore from Zanzibar Island's sou
 
 - **Location**: Zanzibar Channel, southwest of Zanzibar Island, Tanzania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef (submerged bank)
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
 - **Typical Visibility**: 15-20 meters (50-65 feet)
@@ -57,9 +57,5 @@ The offshore position and active tidal current are the primary risk factors. Sta
 
 The schooling pelagic species at Moore Bank reward wide-angle photography — bigeye trevally schools and barracuda tornados are compelling subjects against open blue water. Whale shark encounters, while unpredictable, are worth having a wide-angle or fisheye lens available. The bank surface itself offers close-up sea fan and wire coral shots with strobe lighting for accurate color.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Diving in Zanzibar - Nungwi Dive Center](https://www.divinginzanzibar.com/dive-sites-map/), [PADI - Diving in Zanzibar](https://www.padi.com/diving-in/zanzibar/), [PADI - Top Dive Sites Zanzibar](https://www.padi.com/dive-sites/zanzibar/), [Bluewater Dive Travel - Zanzibar](https://www.bluewaterdivetravel.com/destination/diving-zanzibar-tanzania-kenya), [One Ocean Zanzibar](https://zanzibaroneocean.com/). Last updated 2026-04-04.*

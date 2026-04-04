@@ -48,18 +48,5 @@ The Revillagigedo Archipelago became a UNESCO World Heritage Site in 2016. It is
 - **Language**: Spanish
 - **Nearest Emergency Care**: Cabo San Lucas (approximately 30 hours transit); nearest hyperbaric chamber is in La Paz or Cabo San Lucas
 
-## Sources
-
-- UNESCO World Heritage listing — Revillagigedo Archipelago
-- Nautilus Adventures (nautilusliveaboards.com) — primary operator site descriptions and trip reports
-- Dive-the-World (dive-the-world.com) — Socorro site profiles and marine life data
-- Underwater Photography Guide (uwphotographyguide.com) — site-specific photography and marine life data
-- Diver Trek (divertrek.com) — firsthand trip report with site descriptions
-- ACD Diving Belgium (adcdiving.be) — firsthand trip report with depth measurements
-- Divernet — destination and site overviews including Top 5 Socorro dive sites
-- ZubluDiving, Bluewater Dive Travel — destination summaries
-
 ---
-
-*Last updated: March 2026*
-*Compiled from liveaboard operator sources, firsthand trip reports, and UNESCO marine conservation documentation*
+*Sources: [Mexico Liveaboards - Socorro Revillagigedo](https://mexicoliveaboards.com/destination-socorro.html), [Baja Wild Encounters - Socorro Islands Diving](https://bajawildencounters.com/socorro-islands-scuba-diving-liveaboard-expedition-mexico), [Bluewater Dive Travel - Socorro Island Diving](https://www.bluewaterdivetravel.com/destination/socorro-island-diving), [Nautilus Liveaboards - Scuba Diving Socorro Islands](https://nautilusliveaboards.com/2025/08/21/scuba-diving-socorro-islands/), [Dive Worldwide - Socorro Revillagigedo](https://www.diveworldwide.com/locations/socorro). Last updated 2026-04-04.*

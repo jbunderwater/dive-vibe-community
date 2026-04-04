@@ -58,9 +58,5 @@ Be aware of strong currents, jellyfish, sea urchins in this area. Dive within yo
 
 This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [Visit Okinawa Japan - Dive Sites Guide](https://visitokinawajapan.com/discover/dive-sites-okinawa/kerama-islands-diving/), [JNTO Japan Diving - Okinawa](https://www.japan.travel/en/sports/diving/where-to-dive/okinawa/), [Aloha Divers Okinawa - Dive Sites](https://www.alohadiversokinawa.com/dive-sites-okinawa), [Fluid Levitation - Okinawa Dive Sites](https://www.fluidlevitation.com/okinawa-dive-sites), [PADI - Top Dive Sites in Okinawa](https://www.padi.com/dive-sites/okinawa/). Last updated 2026-04-04.*

@@ -22,7 +22,7 @@ Playita — meaning "little beach" — is a shallow coral reef site located near
 ## Site Information
 
 - **Location**: Las Galeras, Samaná Peninsula, Dominican Republic
-- **Entry Type**: Boat dive (short ride from Las Galeras village)
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 9 meters
@@ -58,9 +58,5 @@ Minimal hazards at this site. Watch for fire coral on the reef top — it is whi
 
 Excellent conditions for wide-angle reef photography in shallow, well-lit water. The clear, sunlit shallows allow natural light photography without a strobe for much of the day. Hawksbill turtle encounters offer outstanding portrait opportunities. A macro lens captures Christmas tree worms and flamingo tongues on sea fans. The colorful reef fish population is dense enough for easy fish portraiture.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: Las Galeras Divers, Playita Scuba Diving center. Last updated 2026-03-28.*

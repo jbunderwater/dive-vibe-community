@@ -23,9 +23,9 @@ Defender Shoal sits in Discovery Passage north of Campbell River, in one of the 
 
 - **Location**: Discovery Passage, Campbell River area, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Shoal / reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres
 - **Current**: Very strong tidal currents — dive only at slack
 - **Best Time**: Late summer and autumn
@@ -57,11 +57,8 @@ Discovery Passage currents are among the strongest in BC diving — 4+ knots bet
 
 The concentration of life at current-swept shoals produces exceptional photography. Wide-angle shots of plumose anemone gardens against the blue water column are outstanding. Schools of rockfish photographed from below with the shoal structure visible make strong compositions. Close-up octopus portraiture rewards patience.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
 - Campbell River dive charter operators for Discovery Passage current timing
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

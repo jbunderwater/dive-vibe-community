@@ -58,9 +58,5 @@ Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your
 
 This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [Visit TCI - Diving](https://www.visittci.com/things-to-do/diving), [Dive Provo - Dive Site Map](https://diveprovo.com/dive-sites-provo/), [PADI - Diving in Turks and Caicos](https://www.padi.com/diving-in/turks-and-caicos-islands/), [Big Blue Collective - Scuba Diving Guide](https://bigbluecollective.com/blog/the-ultimate-guide-to-scuba-diving-in-turks-caicos/), [Bluewater Dive Travel - Turks and Caicos](https://www.bluewaterdivetravel.com/destination/turks-and-caicos-diving). Last updated 2026-04-04.*

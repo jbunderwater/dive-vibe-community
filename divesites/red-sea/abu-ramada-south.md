@@ -23,7 +23,7 @@ The southern face of Abu Ramada Island offers a classic beginner-friendly reef e
 
 - **Location**: Abu Ramada Island (South), Hurghada, Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Reef slope
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 12-25 meters
@@ -58,9 +58,5 @@ Conditions at this site are generally very benign. The main hazards are fire cor
 
 Excellent natural-light photography throughout the dive due to shallow depth. Macro subjects are abundant: nudibranchs, sea slugs, and small crustaceans can be found with careful searching. The fish community is approachable and used to divers — reef portrait photography of parrotfish, angelfish, and anthias is straightforward.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

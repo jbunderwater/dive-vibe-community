@@ -22,8 +22,8 @@ True to its name, Garden Reef presents one of the most pristine coral gardens in
 ## Site Information
 
 - **Location**: Far southern Egyptian Red Sea, offshore south of Wadi Lahami
-- **Entry Type**: Boat dive (liveaboard access)
-- **Site Type**: Pristine coral garden reef
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25–35 meters
@@ -59,4 +59,4 @@ The remote location means no rescue resources are close by. Conservative diving 
 Exceptional wide-angle conditions: crystal-clear water, dense schooling fish, turtle encounters, and vibrant hard-coral structures. The reef top photographs beautifully in natural afternoon light angled from the west. Macro subjects including ornate ghost pipefish, nudibranchs, and longnose hawkfish are present in the undisturbed coral rubble.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

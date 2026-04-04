@@ -22,10 +22,10 @@ Umm Gamar — meaning "Mother of the Moon" in Arabic, a reference to the island'
 ## Site Information
 
 - **Location**: Offshore Hurghada, northern Egyptian Red Sea
-- **Entry Type**: Boat dive (day trip from Hurghada)
-- **Site Type**: Reef with cave and wreck features
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters (plateau and cave areas; wall extends deeper)
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20–30 meters
 - **Current**: Mild to moderate; stronger at the northern tip in poor weather
 - **Best Time**: October to May
@@ -58,9 +58,5 @@ Umm Gamar's northern tip and the halg channel between the main reef and Shabrur 
 
 The hollow coral towers at the northern plateau are among the most photogenic structures in the Hurghada area — shooting into the glassfish-filled interiors from outside with a wide-angle lens and single strobe creates cascading silver light effects. The cave interior at 27 metres rewards a torch and a macro lens for soft coral detail. Giant moray eels in wall crevices and blue-spotted stingrays on the sand bottom are reliable subjects. Manta ray encounters in February–March offer rare wide-angle opportunities at this site.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

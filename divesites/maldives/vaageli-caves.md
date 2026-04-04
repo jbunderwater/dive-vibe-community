@@ -30,4 +30,5 @@ The caves are characterised by wide, light-filled entry chambers that narrow int
 
 A primary torch is mandatory for deeper passages. The rule of thirds should be applied carefully — the cave complex is not overhead to the degree of true cave diving, but some passages require navigation in low ambient light. The shallower, daylit chambers are accessible to advanced open-water divers; only the deepest committed passages require full cave training. Pair this site with Vaageli Outside or Vaageli Corner for a full day's diving on the Vaageli reef system.
 
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

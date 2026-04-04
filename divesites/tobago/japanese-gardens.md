@@ -23,7 +23,7 @@ Located in the Speyside dive area, Japanese Gardens features an exceptional cora
 
 - **Location**: Speyside, northeast Tobago
 - **Entry Type**: Boat dive
-- **Site Type**: Deep coral reef with current
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 34 meters
 - **Typical Visibility**: 20–30 meters
@@ -59,4 +59,4 @@ Current at Japanese Gardens can be strong and variable. Only attempt the site wi
 Japanese Gardens is one of the Caribbean's finest underwater photography destinations. The coral density and colour at 10–20 meters in good visibility is extraordinary for wide-angle reef shots. Manta ray encounters in blue water during upwelling season are the headline images. A strobe is recommended to bring out the full colour of the coral and sponge community.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: scubaboard forums, underseatobago.com, visittobago.gov.tt. Last updated 2026-03-28.*

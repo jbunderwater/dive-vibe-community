@@ -36,14 +36,5 @@ Turks and Caicos is a notable diving destination in the Caribbean region with de
 - **Language**: English
 - **Safety**: Always dive within certification limits. Be aware of boat traffic, fire coral, sea urchins. Verify the location of the nearest hyperbaric chamber before diving.
 
-## Sources
-
-- OpenStreetMap dive site data and community contributions
-- Regional diving guides and operator information
-- Marine conservation organization reports
-- Local tourism board resources
-
 ---
-
-*Last updated: March 2026*
-*Compiled from OpenStreetMap data, regional diving knowledge, and authoritative marine sources*
+*Sources: [Visit TCI - Diving](https://www.visittci.com/things-to-do/diving), [Dive Provo - Dive Site Map](https://diveprovo.com/dive-sites-provo/), [PADI - Diving in Turks and Caicos](https://www.padi.com/diving-in/turks-and-caicos-islands/), [Big Blue Collective - Scuba Diving Guide](https://bigbluecollective.com/blog/the-ultimate-guide-to-scuba-diving-in-turks-caicos/), [Bluewater Dive Travel - Turks and Caicos](https://www.bluewaterdivetravel.com/destination/turks-and-caicos-diving). Last updated 2026-04-04.*

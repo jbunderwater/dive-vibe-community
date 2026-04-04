@@ -23,9 +23,9 @@ The Ohio side of Lake Erie holds numerous historic wrecks from the sailing and e
 
 - **Location**: Lake Erie, Great Lakes, USA (Ohio north shore, central basin)
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 metres
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 5–12 metres
 - **Water Temperature**: 4–22°C (seasonal); bottom typically 6–10°C
 - **Current**: Variable with wind
@@ -59,9 +59,5 @@ Lake Erie weather demands constant awareness on both sides of the border. Condit
 
 The Willis offers typical central Lake Erie wreck photography conditions — better visibility than the western basin, dense perch schools for wildlife shots, and preserved wooden hull detail. A torch reveals the hull's historical character.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Michigan.org - Dive Michigan Shipwrecks Underwater Preserves](https://www.michigan.org/article/trip-idea/dive-michigan-shipwrecks-these-underwater-preserves), [Great Lakes Shipwreck Preservation Society - Dive Sites](https://glsps.clubexpress.com/DiveSites), [Scuba Diving Magazine - Great Lakes Shipwrecks](https://www.scubadiving.com/great-lakes-shipwrecks-like-youve-never-seen-them-before), [Gear Patrol - Guide to Wreck Diving the Great Lakes](https://www.gearpatrol.com/archive/a162066/great-lakes-wreck-diving-guide/), [Shipwreck Explorers - Wisconsin Scuba Diving](https://www.shipwreckexplorers.com/). Last updated 2026-04-04.*

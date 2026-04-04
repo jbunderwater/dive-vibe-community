@@ -60,4 +60,4 @@ Conditions are typically benign. The main risk is becoming absorbed in the site 
 Steve's Bommie is a wide-angle showpiece. Frame the soft coral drapes with the blue water behind, or shoot upward with divers silhouetted against the surface light. The anthias schools add movement and colour to any composition. Macro subjects are found at every depth — bring a diopter for nudibranchs and take your time scanning the coral.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Great Barrier Reef Marine Park Authority](https://greatbarrierreef.org/reef-experiences/diving-the-reef/), [Pro Dive Cairns - Dive Sites](https://prodivecairns.com/divesites.html), [PADI - Diving the Great Barrier Reef](https://www.padi.com/diving-in/great-barrier-reef/), [Divezone - Great Barrier Reef](https://divezone.net/diving/great-barrier-reef), [Divernet - Southern Great Barrier Reef Guide](https://divernet.com/scuba-diving/southern-great-barrier-reef-australia-guide/). Last updated 2026-04-04.*

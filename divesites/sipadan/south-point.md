@@ -50,8 +50,5 @@ South Point regularly experiences the strongest currents on Sipadan. Down-curren
 ## Photography
 Wide-angle with ambient light for hammerhead silhouettes against the blue water — strobes rarely reach the sharks at the distances they are typically observed. Grey reef sharks along the wall edge make more approachable subjects for strobe-lit wide-angle. The overhangs with resting whitetips and soft corals provide strong compositions. Eagle rays passing along the wall are dramatic but often fast-moving subjects. The reef crest offers turtle portraits during decompression.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Scuba Junkie Complete Guide to Diving Sipadan](https://www.scuba-junkie.com/complete-guide-dive-sipadan-island/), [PADI Blog Diving Sipadan](https://blog.padi.com/everything-you-need-to-know-about-diving-sipadan/), [Dive The World Sipadan](https://www.dive-the-world.com/diving-sites-malaysia-sipadan-island.php), [Bluewater Dive Travel Sipadan](https://www.bluewaterdivetravel.com/destination/sipadan-diving), [SSI Guide to Diving Sipadan](https://www.divessi.com/en/blog/guide-to-scuba-diving-in-sipadan-9852.html). Last updated 2026-04-04.*

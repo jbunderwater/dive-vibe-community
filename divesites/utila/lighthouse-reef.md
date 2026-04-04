@@ -23,7 +23,7 @@ Lighthouse Reef is located near the small lighthouse on the eastern end of Utila
 
 - **Location**: Eastern Utila, near the lighthouse, Bay Islands, Honduras
 - **Entry Type**: Boat dive
-- **Site Type**: Fringing reef with sloping drop-off
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 21 meters
 - **Typical Visibility**: 20–25 meters (65–80 feet)
@@ -58,9 +58,5 @@ A straightforward intermediate dive. Tidal flow on the eastern end can be modera
 
 Lighthouse Reef is well-lit by morning sun from the east. Wide-angle reef scenes on the upper slope in bright natural light are compelling. Eagle ray encounters in the sandy base area are excellent subjects. The turtle population here is habituated to divers from years of encounters — patient approach allows close portrait photography.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Utila Dive Center](https://utiladivecenter.com/), [Utila Cays Diving - Dive Sites](https://utilacaysdiving.com/dive-with-us/dive-sites/), [Alton's Dive Center Utila](https://diveinutila.com/), [World Adventure Divers - 10 Reasons to Dive Utila](https://worldadventuredivers.com/diving-utila/), [ZuBlu - Scuba Diving in Utila](https://www.zubludiving.com/destination/honduras/bay-islands/utila). Last updated 2026-04-04.*

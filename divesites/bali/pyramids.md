@@ -22,10 +22,10 @@ The Pyramids dive site near Jemeluk Bay in Amed was created in 1995 when the Bal
 ## Site Information
 
 - **Location**: Near Jemeluk Bay, Amed, northeast Bali
-- **Entry Type**: Boat dive (also possible as shore dive)
-- **Site Type**: Artificial Reef
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 m (main pyramids at 18–20 m)
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20–30+ m (current-swept)
 - **Current**: Moderate to strong; drift possible
 - **Best Time**: April to November
@@ -58,9 +58,5 @@ Strong current can make it difficult to hold position at the deeper pyramids. Be
 
 The pyramids are a macro photographer's paradise — soft corals, frogfish, pygmy seahorses, and nudibranchs all on a single geometric structure. Wide-angle shots capturing turtles on the coral-covered pyramids are the signature image. Blue-spotted stingrays in groups on the black sand are striking wide-angle subjects.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Aquamarine Diving - Bali Dive Sites](https://www.aquamarinediving.com/bali-diving/dive-sites/), [Dive The World - Bali Indonesia](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [Bluewater Dive Travel - Bali Diving](https://www.bluewaterdivetravel.com/destination/bali-diving), [World Adventure Divers - Best Dive Sites Bali](https://worldadventuredivers.com/best-dive-sites-bali/), [Neptune Scuba Diving - Scuba Diving Bali](https://neptunescubadiving.com/scuba-diving-bali/), [Dive The World - Bali](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [PADI - Diving in Bali](https://www.padi.com/diving-in/bali/). Last updated 2026-04-04.*

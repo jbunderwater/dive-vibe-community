@@ -22,8 +22,8 @@ The West Plateau faces into the prevailing Red Sea currents from the northwest, 
 ## Site Information
 
 - **Location**: Elba Reef western face, Egypt-Sudan border (Halaib Triangle)
-- **Entry Type**: Boat dive (liveaboard)
-- **Site Type**: Wall dive / plateau
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 32 meters
 - **Typical Visibility**: 25-40+ meters (80-130+ feet)
@@ -58,9 +58,5 @@ Strong currents require continuous buoyancy awareness throughout the dive. The d
 
 The west wall with its current-exposed schooling fish provides excellent wide-angle action shots. The hard coral plateau top photographs well in natural light as a reef landscape. Deeper sea fans at 25-30 metres are strong subjects against the blue water background.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*

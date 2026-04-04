@@ -22,10 +22,10 @@ The Blue Hole is a roughly circular sinkhole approximately 60 meters across, ope
 ## Site Information
 
 - **Location**: Red Sea, Egypt
-- **Entry Type**: Boat dive (also shore accessible)
-- **Site Type**: Cave / Sinkhole
+- **Entry Type**: Boat dive
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 100 meters (The Arch at 52–56 m; recreational limit 40 m)
+- **Maximum Depth**: 100 meters
 - **Typical Visibility**: 30–50 meters (100–165 feet)
 - **Current**: Minimal inside; moderate along outer wall
 - **Best Time**: September to May
@@ -59,9 +59,5 @@ The Blue Hole has claimed a disproportionate number of diver fatalities due to n
 
 Inside the hole, shooting upward toward the circular opening above creates extraordinary ambient light silhouette photographs. Coral-covered walls with fish life make compelling wide-angle subjects. The outer reef wall and plateau around the hole also offer excellent standard reef photography.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

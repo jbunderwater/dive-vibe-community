@@ -58,9 +58,5 @@ This is an Advanced dive rating due to depth and the complex, enclosed fissure s
 
 Mary's Place is one of the premier wide-angle photography sites in the Caribbean. The black coral-draped fissure walls create an otherworldly tunnel environment. Shoot upward through the fissure toward the blue surface for classic wide-angle compositions. Divers in the fissure provide essential scale. A strobe is useful for illuminating the sponges and sea fans in the darker interior passages. Eagle rays in the open water adjacent to the site are outstanding subjects.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-04-04.*

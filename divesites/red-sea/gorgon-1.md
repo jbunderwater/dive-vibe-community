@@ -23,7 +23,7 @@ The far northern Gulf of Aqaba is characterised by crystal-clear, exceptionally 
 
 - **Location**: Northern Gulf of Aqaba, Taba area, northeastern Sinai, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Reef wall with gorgonian fans
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–35 meters
@@ -59,4 +59,4 @@ The Gulf of Aqaba is generally calmer than the open Red Sea, but the steep walls
 The gorgonian fans are the star subjects, ideally photographed with a wide-angle lens capturing the full fan with a diver for scale. Longnose hawkfish on the fan branches are excellent macro targets. The deep clear water provides a rich blue background. Afternoon light angles work well for this north-facing reef.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

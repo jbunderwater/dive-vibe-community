@@ -66,9 +66,9 @@ Snorkelers and divers typically get in the water just after sunset. Tour operato
 
 This site's manta activity depends on healthy plankton populations. Respect the marine environment and do not touch or chase mantas.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
 
 ---
 *This dive site information was researched from Kona dive operator reviews, manta ray viewing guides, and marine biology sources. Last updated 2026-03-16.*
+
+---
+*Sources: [Scuba Diving Magazine - Ultimate Guide to Big Island](https://www.scubadiving.com/ultimate-guide-to-scuba-diving-hawaiis-big-island), [Kona Honu Divers - Big Island Scuba Diving Guide](https://konahonudivers.com/big-island-scuba-diving-130/), [Big Island Divers](https://bigislanddivers.com/), [PADI - Big Island Dive Sites](https://blog.padi.com/7-top-dive-sites-around-hawaiis-big-island/), [Kohala Divers - Big Island Scuba Diving](https://www.kohaladivers.com/). Last updated 2026-04-04.*

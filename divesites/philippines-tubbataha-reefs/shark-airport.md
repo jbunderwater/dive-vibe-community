@@ -22,8 +22,8 @@ Located on North Atoll in the Tubbataha Reefs Natural Park, Shark Airport sits o
 ## Site Information
 
 - **Location**: North Atoll, Tubbataha Reefs Natural Park, Sulu Sea, Philippines
-- **Entry Type**: Liveaboard
-- **Site Type**: Reef / wall
+- **Entry Type**: liveaboard
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 32 meters
 - **Typical Visibility**: 20-40 meters
@@ -58,9 +58,5 @@ Depths to 32 meters require attention to no-decompression limits, particularly o
 
 Shark Airport is one of the world's premier shark photography sites. Multiple sharks in a single wide-angle frame, shark portraits against the sea fan wall, and behaviour documentation of patrol patterns are all achievable. The exceptional visibility and calm sharks make this more accessible to photographers than most shark diving destinations. Bring a reliable strobe system for the deeper sections.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Bluewater Dive Travel Tubbataha Reef](https://www.bluewaterdivetravel.com/destination/tubbataha-reef-diving), [Divehappy Tubbataha Reef Guide](https://divehappy.com/diving-tubbataha-reef-a-quick-guide/), [Dive The World Tubbataha Philippines](https://www.dive-the-world.com/diving-sites-philippines-tubbataha.php), [WWF Tubbataha Reef Diving](https://wwf.panda.org/discover/knowledge_hub/where_we_work/coraltriangle/coraltrianglefacts/places/tubbatahareefphilippines/diving/), [Guide to the Philippines Tubbataha Diving](https://guidetothephilippines.ph/articles/adventure-and-outdoors/tubbataha-reef-philippines-diving-guide). Last updated 2026-04-04.*

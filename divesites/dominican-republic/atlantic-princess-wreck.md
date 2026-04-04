@@ -23,7 +23,7 @@ The Atlantic Princess is a shallow wreck located in the waters off the southern 
 
 - **Location**: Southern coast, Dominican Republic, near Santo Domingo
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 15–20 meters (50–65 feet)
@@ -58,9 +58,5 @@ The wreck is at a safe recreational depth for beginners. Do not enter enclosed h
 
 The shallow, bright conditions make this an ideal wreck photography site even for beginner shooters. Natural light penetrates effectively at 12 meters, allowing wide-angle shots without a strobe. Frame the hull from below with sunlight breaking over the top for dramatic silhouette shots. Macro subjects on the encrusted hull include tunicates, Christmas tree worms, and small gobies. Moray portraits from the exterior openings are a classic wreck shot.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: PADI, Wanderlog, Dominican Divers, Coral Point Diving. Last updated 2026-03-28.*

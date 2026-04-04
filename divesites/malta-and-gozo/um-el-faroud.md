@@ -22,10 +22,10 @@ The Um El Faroud is Malta's flagship wreck dive, one of the most impressive shor
 ## Site Information
 
 - **Location**: Wied iż-Żurrieq, south coast of Malta
-- **Entry Type**: Boat dive (shore entry also possible but boat recommended)
-- **Site Type**: Wreck (intentional scuttle)
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 36 metres
+- **Maximum Depth**: 36 meters
 - **Typical Visibility**: 15–30 metres
 - **Water Temperature**: 14–26°C
 - **Current**: Light to moderate; can be strong on certain wind/wave states
@@ -58,9 +58,5 @@ Minimum advanced OW certification with wreck or deep dive experience. Advanced/p
 
 The Um El Faroud is one of the most photographed wrecks in the Mediterranean. Wide-angle shots looking along the massive hull, the funnel at 15 metres with blue water above, and the enormous propeller at 36 metres are iconic subjects. The memorial plaque is a compelling macro or medium-distance subject. Inside the wreck, a torch and wide-angle lens with strobes capture the atmospheric passages.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [Atlantis Gozo Dive Sites](https://www.atlantisgozo.com/dive-sites/), [PADI Diving in Malta](https://www.padi.com/diving-in/malta/), [SCUBA Travel Malta Guide](https://www.scubatravel.co.uk/europe/malta-dive-in.html), [Dive Malta-Gozo](https://divemalta-gozo.com/diving-in-gozo/). Last updated 2026-04-04.*

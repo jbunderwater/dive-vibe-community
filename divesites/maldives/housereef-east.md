@@ -44,4 +44,5 @@ Hawksbill turtles, bluestripe snapper, triggerfish, damselfish, chromis, flounde
 
 Best dived in the morning when the eastern sun angle provides the clearest light for photography. The sandy bottom beside the reef base is worth investigating slowly — small critters often go unnoticed by divers who stay solely on the reef structure.
 
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

@@ -30,4 +30,5 @@ The corner's protruding reef tip is the focus of the dive, where grey reef shark
 
 Entry timing on the incoming tide produces the best shark encounters, as animals gather at the corner to face into the current. A reef hook allows divers to maintain position at the exposed tip without exhausting air supply during extended shark-watching periods. The corner is often combined with Vaageli Faru Nord or Vaageli Outside on the same trip, maximising time on the Vaageli reef complex.
 
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

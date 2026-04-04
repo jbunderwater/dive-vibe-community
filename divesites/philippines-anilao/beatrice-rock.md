@@ -23,7 +23,7 @@ Anilao's dive sites are concentrated along the rocky coastline of the Calumpan P
 
 - **Location**: Anilao, Batangas, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Rock / reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 27 meters
 - **Typical Visibility**: 10-20 meters
@@ -58,9 +58,5 @@ Standard Anilao precautions apply. Deploy SMB before surfacing. Be aware of boat
 
 The rock's surface offers one of Anilao's classic macro scenarios: dense nudibranch populations on encrusted surfaces with excellent natural light in the shallower sections. Wide-angle shots of the rock structure and adjacent reef are possible. Bring both macro and wide-angle options.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive Philippines Anilao Dive Sites](https://www.divephilippines.com.ph/anilao-batangas-dive-sites/), [Bluewater Dive Travel Anilao](https://www.bluewaterdivetravel.com/destination/anilao-diving), [Solitude World Anilao Dive Sites](https://solitude.world/dive-sites-anilao-batangas-the-philippines/), [Buceo Anilao](https://buceoanilao.com/), [Diving Squad Anilao Guide](https://www.divingsquad.com/philippines-diving/batangas-anilao/). Last updated 2026-04-04.*

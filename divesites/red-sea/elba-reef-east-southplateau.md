@@ -22,9 +22,9 @@ Elba Reef East (Southplateau) sits at the southeastern corner of the Elba Reef a
 ## Site Information
 
 - **Location**: Southeastern face, Elba Reef atoll, near Egyptian-Sudanese border (~21.98°N)
-- **Entry Type**: Liveaboard dive only
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate (Advanced recommended due to current and remoteness)
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25–40 meters
 - **Current**: Moderate to strong; variable on the exposed south-east face
@@ -58,9 +58,5 @@ Extreme remoteness applies across all Elba sites — emergency evacuation logist
 
 The southeastern corner of Elba offers some of the cleanest wide-angle conditions in the Egyptian Red Sea. Visibility in the 30–40 metre range with natural light and pristine coral formations creates ideal conditions for ambient wide-angle shots. Schooling fish portraits with the open-ocean backdrop are a consistent result. Any hammerhead or manta encounters at this corner are exceptional wide-angle subjects in clear, unobstructed water.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

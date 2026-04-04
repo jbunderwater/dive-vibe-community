@@ -58,9 +58,5 @@ Currents are generally moderate in this area but can strengthen with tidal chang
 
 This site offers good all-round photographic opportunities. The reef's healthy coral provides wide-angle backdrop subjects, and the relatively calm conditions make close-focus wide-angle work manageable. Macro photographers will find invertebrates, small fish, and nudibranchs on careful examination of the coral base. Natural light conditions are good throughout the day given the site's orientation.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

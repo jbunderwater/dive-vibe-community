@@ -25,7 +25,7 @@ Bluff Point marks a prominent headland or point on the reef system near Gubal Is
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 20+ meters (wall drops much deeper)
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters (65–100 feet)
 - **Current**: Moderate to strong
 - **Best Time**: October to May
@@ -58,9 +58,5 @@ This is an advanced site due to current and wall depth. Never descend below your
 
 Bluff Point rewards wide-angle photography. Sweeping shots of the coral-encrusted wall descending into blue water are the signature image. Sea fans with associated fish life (hawkfish, pygmy seahorses) suit macro-to-wide close-focus. Pelagic subjects including sharks and jacks appear at any moment — always be ready.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

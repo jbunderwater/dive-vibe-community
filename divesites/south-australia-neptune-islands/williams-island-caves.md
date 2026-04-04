@@ -58,9 +58,5 @@ PADI Cavern Diver certification or PADI Advanced Open Water with cave dive exper
 
 Advanced cavern diving in low-light, confined environments requires specialized training, excellent buoyancy control, and strict adherence to recreational cavern limits. Silt disturbance reduces visibility rapidly; avoid disturbing bottom and ceiling. Redundant lighting mandatory; single light failure creates disorientation risk. Cold water (14-22°C) demands proper thermal protection. Standard deep diving protocols apply plus cavern-specific safety: maintain light reference to exit, avoid deep penetration beyond light zone, use line/buddy contact protocols in zero-visibility conditions. Always dive with experienced cave diving buddy. Verify operator safety equipment and protocols before diving.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [Rodney Fox Shark Expeditions - Neptune Islands](https://rodneyfox.com.au/great-white-shark-central/the-neptune-islands/), [Scuba Diving Magazine - Cage Diving Neptune Islands](https://www.scubadiving.com/cage-diving-with-great-white-sharks-in-neptune-islands-australia), [DAN Alert Diver - South Australia Great White Sharks](https://dan.org/alert-diver/article/south-australias-great-white-shark-adventure/), [SA Marine Parks Neptune Islands Group](https://www.marineparks.sa.gov.au/find-a-park/eyre-peninsula/neptune-islands), [Dive Worldwide South Australia](https://www.diveworldwide.com/locations/south-australia). Last updated 2026-04-04.*

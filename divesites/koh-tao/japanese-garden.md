@@ -23,9 +23,9 @@ Japanese Garden is situated on the east side of the famous twin-peaked Koh Nang 
 
 - **Location**: East side of Koh Nang Yuan, near Koh Tao, Gulf of Thailand
 - **Entry Type**: Boat dive
-- **Site Type**: Reef / Coral Garden
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 14 m
+- **Maximum Depth**: 14 meters
 - **Typical Visibility**: 10–18 m
 - **Current**: Minimal
 - **Best Time**: May to August
@@ -58,9 +58,5 @@ Conditions are calm and current is minimal — excellent for beginners. Moray ee
 
 Bright natural light, clear shallow water, and abundant colourful subjects make this an excellent site for beginning underwater photographers. Turtle portraits in the shallows are achievable. Clownfish in anemones are accessible targets. The white sand and blue water create excellent backgrounds for reef fish portraits.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Koh Tao Complete Guide - Best Dive Sites](https://www.kohtaocompleteguide.com/diving/koh-tao-dive-sites/), [Sairee Cottage Diving - Koh Tao Dive Sites Complete Guide](https://www.saireecottagediving.com/koh-tao-dive-sites-complete-guide-to-26-incredible-locations/), [Big Blue Diving Koh Tao](https://www.bigbluediving.com/), [PADI - Diving in Koh Tao](https://www.padi.com/diving-in/koh-tao/), [Dive Happy - Koh Tao Dive Sites Guide](https://divehappy.com/). Last updated 2026-04-04.*

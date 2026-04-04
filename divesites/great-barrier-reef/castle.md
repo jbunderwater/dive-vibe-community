@@ -59,4 +59,4 @@ Castle's depth requires careful gas management and depth monitoring. NDL limits 
 The coral architecture at Castle is ideal for wide-angle environmental images. Shoot along the channels between formations with a diver exploring in the background. The grey reef sharks provide classic GBR-Coral Sea shark imagery, and the visibility allows for impressive environmental portraits with the blue water visible beyond the reef structures.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Great Barrier Reef Marine Park Authority](https://greatbarrierreef.org/reef-experiences/diving-the-reef/), [Pro Dive Cairns - Dive Sites](https://prodivecairns.com/divesites.html), [PADI - Diving the Great Barrier Reef](https://www.padi.com/diving-in/great-barrier-reef/), [Divezone - Great Barrier Reef](https://divezone.net/diving/great-barrier-reef), [Divernet - Southern Great Barrier Reef Guide](https://divernet.com/scuba-diving/southern-great-barrier-reef-australia-guide/). Last updated 2026-04-04.*

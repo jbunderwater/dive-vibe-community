@@ -47,4 +47,4 @@ Boat dive from west coast operators. Frequently paired with Tropicana or Spawnee
 Standard barrier reef dive safety. Moderate currents possible. Maintain awareness of depth at the reef edge where it slopes deeper. Carry an SMB for boat pickup.
 
 ---
-*This dive site information was compiled from Reefers & Wreckers, Dive Hightide, Active Caribbean Travel, and DIVEIN. Last updated 2026-04-02.*
+*Sources: Reefers & Wreckers, Dive Hightide, Active Caribbean Travel, DIVEIN, DIVEIN - Barrier reef south of Tropicana, Hawksbill turtles, barracuda. Last updated 2026-04-02.*

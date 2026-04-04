@@ -58,9 +58,5 @@ Be aware of cold water (north), currents, boat traffic in this area. Dive within
 
 This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [PADI - Diving in Turkey](https://www.padi.com/diving-in/turkey/), [Bluewater Dive Travel - Scuba Diving Turkey](https://www.bluewaterdivetravel.com/destination/scuba-diving-turkey), [DiveIn - Best Diving in Turkey](https://www.divein.com/diving/destination/turkey/), [X-Ray Mag - Turkey Mediterranean and Aegean](https://xray-mag.com/content/turkey-mediterranean-and-aegean-hotspots), [Chasing the Donkey - Scuba Diving Turkey](https://www.chasingthedonkey.com/scuba-diving-turkey-dive-sites/). Last updated 2026-04-04.*

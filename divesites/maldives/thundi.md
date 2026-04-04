@@ -30,4 +30,5 @@ The reef slope descends through a series of coral terraces, each supporting dist
 
 Addu Atoll's position at the southern tip of the Maldivian chain means liveaboard itineraries passing through have more time at each site than heavily competed northern destinations. The site is well suited to long, relaxed dives covering the full depth profile at a leisure pace. A 3 mm wetsuit is sufficient in the warmer months, though water temperatures can dip to 26°C during the northeast monsoon.
 
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

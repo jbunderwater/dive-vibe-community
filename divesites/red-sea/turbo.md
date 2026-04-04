@@ -22,8 +22,8 @@ Turbo is a wreck site at approximately 24.01°N, 35.63°E in the St. John's Reef
 ## Site Information
 
 - **Location**: St. John's Reef area, southern Egyptian Red Sea (~24.01°N, 35.63°E)
-- **Entry Type**: Liveaboard or extended day-boat dive
-- **Site Type**: Wreck/Reef
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20–30 meters
@@ -57,9 +57,5 @@ The 30-metre depth requires strict no-decompression limit management — Advance
 
 The coral-colonised hull at 25–30 metres in clear St. John's area water provides outstanding wide-angle wreck portrait conditions. The contrast between the steel structure and extensive coral growth creates images that read as both wreck and reef simultaneously. Glassfish schools in accessible interior spaces — photographed with torch backlighting through open deck sections — are dramatic subjects. A wide-angle setup is optimal throughout the dive.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

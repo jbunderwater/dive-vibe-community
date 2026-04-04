@@ -22,8 +22,8 @@ The Tripuljak underwater trail is a marked shallow-water route through a product
 ## Site Information
 
 - **Location**: Tripuljak, Šibenik area, Central Dalmatia, Croatia
-- **Entry Type**: Boat dive (or shore access)
-- **Site Type**: Snorkel/shallow reef trail
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 2 meters
 - **Typical Visibility**: 10–20 meters
@@ -59,4 +59,4 @@ The 2-metre maximum depth makes this one of Croatia's safest dive sites. No deco
 The bright, naturally lit shallow water makes this an outstanding photography site. Macro shots of the Posidonia meadow's inhabitants — seahorses, pipefish, gobies — are the highlight. The educational trail markers also make interesting contextual subjects.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*

@@ -22,7 +22,7 @@ Rocky North describes the northern tip of Rocky Island at approximately 23.57°N
 ## Site Information
 
 - **Location**: Northern tip, Rocky Island, Fury Shoals, southern Egyptian Red Sea (~23.57°N)
-- **Entry Type**: Liveaboard dive only
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
@@ -57,9 +57,5 @@ Converging currents at the reef point can be disorienting — maintain depth and
 
 The northern tip produces diverse photographic conditions in a single dive: wide-angle shark portraits at the outer reef edge, fish aggregation shots at the convergence zone, and cleaning station portraits on the calmer northern face. The natural light on the north-facing aspect is even and shadowless for much of the dive — good conditions for ambient reef photography.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

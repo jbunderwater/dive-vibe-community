@@ -22,8 +22,8 @@ The site lies just offshore from one of Martinique's most attractive coastlines,
 ## Site Information
 
 - **Location**: Les Anses d'Arlet, southwest Martinique
-- **Entry Type**: Shore dive
-- **Site Type**: Rocky reef with sandy channels
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
 - **Typical Visibility**: 15–20 meters
@@ -58,4 +58,4 @@ The beach entry requires care over rocks — water shoes until fully submerged. 
 The dense coral-garden arrangement creates naturally attractive compositions at every turn. Macro photography is the highlight — look for nudibranchs, flamingo tongues, and cleaning shrimp on coral surfaces. Natural light at 5–10 meters during morning hours is excellent without artificial lighting.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Martinique Tourism - Diving](https://www.martinique.org/en/things-to-do/water-sports-and-activities/diving), [Scuba Diving Magazine - Martinique Guide](https://www.scubadiving.com/divers-guide-martinique-shipwrecks-turtles-and-volcanic-reefs), [Guide Martinique - Spots de Plongée](https://www.guidemartinique.com/activites/plongee/spots.php), [Wannadive - Saint Pierre Martinique](https://www.wannadive.net/spot/Central_America/Martinique/Saint_Pierre/index.html), [DiveIn - Best Dive Sites in Martinique](https://www.divein.com/diving/destination/diving-in-martinique/). Last updated 2026-04-04.*

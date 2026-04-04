@@ -50,8 +50,5 @@ This is the calmest and most sheltered dive site at Cocos Island, but it is stil
 ## Photography
 The night dive is the star attraction for photographers. Wide-angle with powerful strobes captures the chaos of whitetip sharks hunting through torch beams — fast shutter speeds (1/200+) are essential to freeze the action. Daytime offers both wide-angle reef scenes and macro opportunities among the coral formations. The shallow depth and good ambient light make this the best site at Cocos for natural light photography. Tiger shark portraits are possible for patient photographers on the deeper slope.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Bluewater Dive Travel - Cocos Island Diving](https://www.bluewaterdivetravel.com/destination/cocos-island-diving), [Dive The World - Cocos Island](https://www.dive-the-world.com/diving-sites-cocos.php), [ZuBlu - Cocos Island Scuba Diving](https://www.zubludiving.com/destination/costa-rica/puntarenas/cocos-island), [PADI - Diving in Cocos Island](https://www.padi.com/diving-in/cocos-island/), [Aggressor - Costa Rica Cocos Island Liveaboard](https://www.aggressor.com/destination/Cocos), [Undersea Hunter - Cocos Island](https://underseahunter.com/cocos-island/), [Bluewater Dive Travel - Cocos Island](https://www.bluewaterdivetravel.com/destination/cocos-island-diving), [DAN Alert Diver - Cocos Island](https://dan.org/alert-diver/article/cocos-island/), [ZuBlu - Scuba Diving Cocos Island](https://www.zubludiving.com/destination/costa-rica/puntarenas/cocos-island). Last updated 2026-04-04.*

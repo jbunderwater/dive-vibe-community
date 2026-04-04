@@ -22,10 +22,10 @@ Brampton is a city in the western Greater Toronto Area of Ontario, located appro
 ## Site Information
 
 - **Location**: Lake Ontario / Greater Toronto Area, Ontario, Canada
-- **Entry Type**: Boat or pool (training facility)
-- **Site Type**: Freshwater training / dive site
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 metres (training pool or natural site maximum)
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: Variable (pool: clear; natural sites: 3–10 metres)
 - **Water Temperature**: Variable (pool: 28–30°C; outdoor: 4–22°C seasonal)
 - **Current**: Minimal (pool or sheltered training site)
@@ -58,9 +58,5 @@ Training dives are conducted under instructor supervision with all appropriate s
 
 Training facilities offer photography practice opportunities in controlled conditions. Open water checkout dives in Lake Ontario provide the first experience of freshwater visibility and ambient light photography conditions that characterize Great Lakes diving.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Michigan.org - Dive Michigan Shipwrecks Underwater Preserves](https://www.michigan.org/article/trip-idea/dive-michigan-shipwrecks-these-underwater-preserves), [Great Lakes Shipwreck Preservation Society - Dive Sites](https://glsps.clubexpress.com/DiveSites), [Scuba Diving Magazine - Great Lakes Shipwrecks](https://www.scubadiving.com/great-lakes-shipwrecks-like-youve-never-seen-them-before), [Gear Patrol - Guide to Wreck Diving the Great Lakes](https://www.gearpatrol.com/archive/a162066/great-lakes-wreck-diving-guide/), [Shipwreck Explorers - Wisconsin Scuba Diving](https://www.shipwreckexplorers.com/). Last updated 2026-04-04.*

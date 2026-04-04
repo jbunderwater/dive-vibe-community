@@ -23,9 +23,9 @@ Kinghorn Rocks lie in the northern Strait of Georgia near Desolation Sound, one 
 
 - **Location**: Northern Strait of Georgia, near Desolation Sound, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres
 - **Current**: Tidal currents — plan around slack
 - **Best Time**: Late summer and autumn
@@ -57,11 +57,8 @@ Remote location demands self-sufficiency. Emergency resources are far away. Tida
 
 Less-visited northern Strait sites often deliver exceptional photography due to undisturbed marine life. Large octopus in natural positions, lingcod with territorial behaviour, and dense anemone gardens are all outstanding subjects. The fjord-like scenery above and below water provides unique compositional opportunities.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
 - Desolation Sound Marine Park: bcparks.ca
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

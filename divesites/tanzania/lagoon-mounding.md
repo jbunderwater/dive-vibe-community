@@ -23,7 +23,7 @@ The eastern Zanzibar lagoon contains several areas where coral growth has built 
 
 - **Location**: Jambiani Lagoon, Southeast Zanzibar Island, Tanzania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef (lagoon mounds)
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 8-15 meters (26-50 feet)
@@ -57,9 +57,5 @@ The protected lagoon setting makes this one of Zanzibar's safest dive sites. Lig
 
 The varied topography of the mounds creates interesting compositional opportunities — shooting along a mound wall with fish in the background and a sandy channel in the foreground produces layered images with depth. The lagoon's clear, calm water allows natural-light photography down to 10 meters in good conditions. Night photography of cuttlefish is a particular specialty here.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*

@@ -23,7 +23,7 @@ Malapascua Island hosts several marine protected areas, and this Coral Garden MP
 
 - **Location**: Malapascua Island, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef (marine protected area)
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-25 meters
@@ -58,9 +58,5 @@ Currents can be moderate at times. The deeper sections at 25–30 meters require
 
 The Coral Garden's rich structure offers exceptional reef photography. Wide-angle shots in the shallow coral maze, close-up images of diverse coral species, and fish portrait photography are all productive. The MPA's dense fish populations make reef scenes particularly impressive.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Malapascua Thresher Shark Divers - Dive Sites](https://malapascua-diving.com/malapascua/dive-sites/), [ZuBlu Thresher Sharks of Malapascua](https://www.zubludiving.com/articles/zublu-insights/thresher-sharks-of-malapascua), [Thresher Shark Divers Resort](https://thresher-shark-divers.com/), [Diving Squad Malapascua Guide](https://www.divingsquad.com/philippines-diving/cebu/malapascua/), [Divernet Malapascua Diving Guide](https://divernet.com/world-dives/asia/malapascua-diving-guide-philippines/). Last updated 2026-04-04.*

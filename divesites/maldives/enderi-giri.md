@@ -38,4 +38,4 @@ Grey reef sharks, nurse sharks, hawksbill turtles, moray eels, grouper, schools 
 Descend directly to the deeper faces on entry to catch the best shark and large-species activity before ascending to shallower depths for the safety stop and coral-top exploration. The pinnacle circumnavigation works best with moderate current — in strong current, staying on the sheltered down-current face gives the most comfortable viewing. Carry a torch for the overhangs and crevices on the deeper sections.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

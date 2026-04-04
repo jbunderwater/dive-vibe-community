@@ -23,7 +23,7 @@ Atrevida Reef sits in the remote waters of Desolation Sound, one of British Colu
 
 - **Location**: Desolation Sound, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-20 meters (33-65 feet)
@@ -59,9 +59,5 @@ Remote location means self-sufficiency is essential — no emergency services ar
 
 Desolation Sound's clear water and rich marine life make Atrevida Reef an excellent photography site. Wide-angle shots of the reef structure against the mountain backdrop can be striking from the surface. Underwater, rockfish schools, sea star aggregations, and GPO encounters are the prime subjects. Macro work on nudibranchs and bryozoans is rewarding in the 8 to 12 metre zone.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

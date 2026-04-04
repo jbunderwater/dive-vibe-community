@@ -58,17 +58,5 @@ Barbados offers a wide variety of diving experiences:
 
 **Other Activities**: Beyond diving, Barbados offers excellent snorkeling, beautiful beaches, historic sites including Bridgetown (a UNESCO World Heritage site), vibrant nightlife, and a rich cultural scene featuring music, festivals, and local cuisine.
 
-## Sources
-
-- Local dive operators and dive shops throughout Barbados
-- Barbados Tourism Board and official tourism websites
-- Dive site databases including dive.site, mydiveguide, and PADI dive site listings
-- Scuba diving forums and community resources
-- Marine conservation organizations and research institutions
-- Various dive guides and publications featuring Barbados
-
 ---
-
-*Last updated: December 2024*
-*Information compiled from local dive operators, tourism resources, and dive site databases*
-
+*Sources: Barbados Tourism Board and official tourism websites, Dive site databases including dive.site, mydiveguide, and PADI dive site listings, Scuba diving forums and community resources, local dive operators, tourism resources, dive site databases. Last updated December 2024.*

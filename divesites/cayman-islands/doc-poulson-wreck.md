@@ -23,9 +23,9 @@ The Doc Poulson was a Japanese cable-laying vessel deliberately sunk in 1981 off
 
 - **Location**: West Bay, Grand Cayman
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 16 meters (52 feet)
+- **Maximum Depth**: 16 meters
 - **Typical Visibility**: 20–35 meters (65–115 feet)
 - **Current**: Light
 - **Water Temperature**: 26–29°C (79–84°F)
@@ -59,9 +59,5 @@ At 16 meters, this is well within recreational diving limits for beginners. Wrec
 
 The Doc Poulson in Cayman's extraordinary clear water is a natural photography site. The upright hull on white sand creates clean, uncluttered compositions. Turtle portraits resting on the hull are a classic Grand Cayman image. The large hull openings with ambient light streaming through them create dramatic interior light effects. A strobe is useful for close-up detail work on encrusted hull surfaces.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Visit Cayman Islands - Diving Guide](https://www.visitcaymanislands.com/en-us/things-to-do/diving), [Scuba Diving Magazine - Divers Guide to Cayman Islands](https://www.scubadiving.com/divers-guide-to-cayman-islands), [Bluewater Dive Travel - Cayman Islands Diving](https://www.bluewaterdivetravel.com/destination/cayman-islands-diving), [Visit Cayman Islands - 365 Dive Sites](https://www.visitcaymanislands.com/en-us/things-to-do/diving/365-dive-sites), [Ocean Frontiers - Cayman Islands Dive Center](https://www.oceanfrontiers.com/). Last updated 2026-04-04.*

@@ -50,8 +50,5 @@ Viking Rock has some of the most powerful currents at Cocos Island. The exposed 
 ## Photography
 The vertical wall provides dramatic depth perspective for wide-angle compositions. Tiger sharks on the deeper ledges are the prize shot but require fast reactions and comfort at depth in current. The 10-20 meter zone offers better light for ambient shooting of whitetip sharks and eagle rays against the wall. Strobes are essential for wall detail at any depth. Secure all camera equipment firmly for the rough entry and potential drift exit.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Bluewater Dive Travel - Cocos Island Diving](https://www.bluewaterdivetravel.com/destination/cocos-island-diving), [Dive The World - Cocos Island](https://www.dive-the-world.com/diving-sites-cocos.php), [ZuBlu - Cocos Island Scuba Diving](https://www.zubludiving.com/destination/costa-rica/puntarenas/cocos-island), [PADI - Diving in Cocos Island](https://www.padi.com/diving-in/cocos-island/), [Aggressor - Costa Rica Cocos Island Liveaboard](https://www.aggressor.com/destination/Cocos), [Undersea Hunter - Cocos Island](https://underseahunter.com/cocos-island/), [Bluewater Dive Travel - Cocos Island](https://www.bluewaterdivetravel.com/destination/cocos-island-diving), [DAN Alert Diver - Cocos Island](https://dan.org/alert-diver/article/cocos-island/), [ZuBlu - Scuba Diving Cocos Island](https://www.zubludiving.com/destination/costa-rica/puntarenas/cocos-island). Last updated 2026-04-04.*

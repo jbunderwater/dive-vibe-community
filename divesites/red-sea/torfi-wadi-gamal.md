@@ -22,7 +22,7 @@ Torfi lies at approximately 24.67°N, 35.15°E within or adjacent to the Wadi el
 ## Site Information
 
 - **Location**: Wadi el Gemal National Park, north of Marsa Alam (~24.67°N, 35.15°E)
-- **Entry Type**: Boat dive (park access fees and regulations apply)
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
@@ -57,9 +57,5 @@ Follow all national park dive regulations — these exist specifically to protec
 
 Dugong photography in seagrass requires a wide-angle lens, minimum disturbance approach, and natural light — artificial strobe flash disturbs the animals. Turtle portraits on the reef platform are more accessible and suit a macro/telephoto approach. The seagrass meadow with natural light filtering through the water surface creates distinctive ambient wide-angle compositions.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

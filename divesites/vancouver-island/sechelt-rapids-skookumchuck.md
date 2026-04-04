@@ -72,10 +72,7 @@ Current speeds of 16-17.7 knots make this among the world's most dangerous divin
 
 The emerald-green water visible during rare slack tide windows is a photographer's dream. Natural light creates otherworldly conditions. Bring appropriate lighting for depth and color.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
 - **Validation Source**: Web research (2026-03)
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving research. Last updated 2026-03-16.*
+*Sources: [ScubaBC](https://www.scubabc.ca/), [Vancouver Island Dive Sites](http://www.vancouver-island-dive-sites.com/), [Scuba Diving Magazine - BC Top 10](https://www.scubadiving.com/travel/canada/british-columbias-top-10-dives), [Pacific Pro Dive Shore Maps](https://pacificprodive.com/pages/dive-maps), [Vancouver Island North Diving](https://vancouverislandnorth.ca/activity-type/things-to-do/sports-activities/diving/). Last updated 2026-04-04.*

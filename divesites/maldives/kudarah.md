@@ -44,4 +44,5 @@ Grey reef sharks, hawksbill turtles, Napoleon wrasse, large grouper, eagle rays,
 
 The large table coral formations on the upper reef are a standout feature — take time to observe the fish communities that shelter beneath each coral table. Plan the dive to visit the deeper sections first for shark encounters, then work up through the coral gardens.
 
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

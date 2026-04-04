@@ -22,10 +22,10 @@ Sanganeb Atoll sits approximately 25 km northeast of Port Sudan, a solitary oval
 ## Site Information
 
 - **Location**: Sanganeb Atoll, 25 km northeast of Port Sudan
-- **Entry Type**: Boat dive (liveaboard or day boat)
-- **Site Type**: Wall dive / plateau
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters (plateau; outer wall descends to 200m+)
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Moderate to strong
 - **Best Time**: September to May
@@ -59,9 +59,5 @@ The open-ocean position creates strong and variable currents — particularly at
 
 The north point of Sanganeb is prime wide-angle territory. Hammerheads photographed against the deep blue from below create dramatic silhouette images. The wall face between 10-20 metres photographs well in natural light during morning dives. Schooling fish tornadoes at the current point offer swirling wide-angle compositions. Macro subjects on the plateau surface include nudibranchs, cleaner shrimp stations on coral heads, and moray eel portraits.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*

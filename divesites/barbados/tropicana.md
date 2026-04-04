@@ -47,4 +47,4 @@ Boat dive from Speightstown or Holetown operators. Usually paired with Whitegate
 Moderate currents are common as this is typically a drift dive. Maintain visual contact with the group and carry an SMB. The ledges drop below recreational limits at the reef edges, so monitor depth carefully.
 
 ---
-*This dive site information was compiled from Reefers & Wreckers, Dive Hightide, Active Caribbean Travel, DIVEIN, and Girls That Scuba. Last updated 2026-04-02.*
+*Sources: Reefers & Wreckers, Dive Hightide, Active Caribbean Travel, DIVEIN, Girls That Scuba, DIVEIN - Multilevel reef with rare nurse sharks, excellent visibility. Last updated 2026-04-02.*

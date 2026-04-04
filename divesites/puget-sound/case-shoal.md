@@ -23,9 +23,9 @@ Case Shoal is a shallow rocky rise in southern Puget Sound, in the Hood Canal co
 
 - **Location**: Hood Canal / southern Puget Sound, Washington
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky shoal
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 15 metres
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: 8–12 metres
 - **Water Temperature**: 8–12°C
 - **Current**: Moderate tidal
@@ -58,9 +58,5 @@ Cold water requires appropriate exposure protection. Hypothermia can develop fas
 
 The combination of crustaceans, anemones, and octopus makes Case Shoal a productive macro photography destination. Spot prawns and Dungeness crabs make compelling subjects. Nudibranchs on encrusting sponges and the detail of plumose anemone columns work well with a macro lens. Strobes required for colour accuracy.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Washington Dept of Fish & Wildlife - Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [PNW Scuba - Pacific Northwest Dive Site Maps](https://www.pnwscuba.com/Pacific-Northwest-Dive-Sites/Maps), [Emerald Diving - Puget Sound Dive Sites](https://www.emeralddiving.com/local_sites_jf.html), [Scuba Diving Magazine - Seattle & Puget Sound](https://www.scubadiving.com/drive-and-dive-seattle-puget-sound), [UnderSea Adventures - Puget Sound Diving Charters](https://www.underseaadventures.net/puget-sound.htm). Last updated 2026-04-04.*

@@ -73,10 +73,7 @@ Strong tidal currents (timed to slack tide) are the defining feature of this sit
 
 The walls are among the most colorful in North America. Brilliant reds, oranges, and yellows of soft corals and sponges create stunning wide-angle compositions. The interplay of light and shadow along the wall creates dramatic depth. Macro photography of nudibranchs and other invertebrates is exceptional. Underwater lights are essential to capture the true colors.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
 - **Validation Source**: Web research (2026-03)
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving research. Last updated 2026-03-16.*
+*Sources: [ScubaBC](https://www.scubabc.ca/), [Vancouver Island Dive Sites](http://www.vancouver-island-dive-sites.com/), [Scuba Diving Magazine - BC Top 10](https://www.scubadiving.com/travel/canada/british-columbias-top-10-dives), [Pacific Pro Dive Shore Maps](https://pacificprodive.com/pages/dive-maps), [Vancouver Island North Diving](https://vancouverislandnorth.ca/activity-type/things-to-do/sports-activities/diving/). Last updated 2026-04-04.*

@@ -137,3 +137,6 @@ Divers trained in Monterey Bay typically feel well-prepared for diving worldwide
 
 ---
 *Monterey Bay is a world-class diving destination defined by cold-water excellence and exceptional biodiversity. Updated 2026-03-16.*
+
+---
+*Sources: [Monterey Bay Aquarium](https://www.montereybayaquarium.org/), [Aquarius Dive Shop](https://aquariusdivers.com/guided-tours), [Bamboo Reef Diving](https://www.bambooreef.com/dive-monterey), [Monterey Scuba Board](https://montereyscubaboard.com/monterey-dive-sites/), [See Monterey](https://www.seemonterey.com/things-to-do/outdoors/scuba-diving/). Last updated 2026-04-04.*

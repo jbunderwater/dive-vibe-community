@@ -58,9 +58,5 @@ The swim-through is wide and well-ventilated — this is not a penetration dive 
 
 Cathedral Beqa presents two entirely different photographic opportunities in a single dive. Inside the swim-through, the light beam effect rewards wide-angle and fisheye shooting timed to the morning angle — position yourself in the dark interior and shoot toward the light shafts with a diver silhouetted against the opening. Outside, the shark patrol offers clean wide-angle shark portraits against the blue water backdrop. Shooting both in a single dive requires a versatile setup — a wide-angle zoom (16–35mm) handles both scenarios better than a prime fisheye if you can only carry one lens.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [NAI'A Liveaboard - Fiji Dive Sites](https://www.naia.com.fj/fiji/dive-sites/), [Dive the World - Fiji](https://www.dive-the-world.com/diving-sites-fiji.php), [Bluewater Dive Travel - Fiji](https://www.bluewaterdivetravel.com/destination/fiji-diving), [PADI - Diving in Fiji](https://www.padi.com/diving-in/fiji/), [Waterlust Fiji Reef Guide](https://www.waterlustfiji.com/guide-to-fiji-diving). Last updated 2026-04-04.*

@@ -38,4 +38,4 @@ Grey reef sharks, anthias schools, garden eels, dartfish, moray eels, parrotfish
 Entry from the mooring buoy is straightforward. Descend directly to depth and work your way up the slope toward the safety stop. Conditions at adjacent numbered sites in this cluster are typically similar, and a two-tank combination of Entrence sites with a kandu dive is a common programme for day-trip operators from Male.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

@@ -56,9 +56,5 @@ Fire coral is present on some reef structures. Maintain buoyancy above the coral
 
 The compact cay reef is well-suited to a systematic approach — shoot the coral formations, then find wildlife subjects including turtles, nurse sharks, and stingrays. Morning light in the shallows produces vivid colors without strobes.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Scuba Diving Magazine - Jamaica Guide](https://www.scubadiving.com/jumping-jamaica-scuba-divers-guide-paradise), [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica), [PADI - Diving in Jamaica](https://www.padi.com/diving-in/jamaica/), [Bluewater Dive Travel - Jamaica](https://www.bluewaterdivetravel.com/destination/diving-jamaica), [The Scuba Directory - Jamaica](https://thescubadirectory.com/dive-guides/6-best-dive-sites-in-jamaica). Last updated 2026-04-04.*

@@ -50,8 +50,5 @@ The shallow depth and typically milder conditions make this one of the more acce
 ## Photography
 The Aquarium is the best site in the Socorro Islands for macro photography. Endemic Clarion angelfish provide colourful, cooperative subjects. Dense schools of reef fish in clear water create vibrant wide-angle compositions at shallow depths with excellent natural light. The volcanic substrate provides interesting textures and backdrops.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Mexico Liveaboards - Socorro Revillagigedo](https://mexicoliveaboards.com/destination-socorro.html), [Baja Wild Encounters - Socorro Islands Diving](https://bajawildencounters.com/socorro-islands-scuba-diving-liveaboard-expedition-mexico), [Bluewater Dive Travel - Socorro Island Diving](https://www.bluewaterdivetravel.com/destination/socorro-island-diving), [Nautilus Liveaboards - Scuba Diving Socorro Islands](https://nautilusliveaboards.com/2025/08/21/scuba-diving-socorro-islands/), [Dive Worldwide - Socorro Revillagigedo](https://www.diveworldwide.com/locations/socorro). Last updated 2026-04-04.*

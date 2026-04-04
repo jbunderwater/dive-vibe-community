@@ -50,8 +50,5 @@ This is Yap's safest dive site. Shallow depths, light currents, and calm conditi
 ## Photography
 Macro is the primary discipline here. A 60mm or 100mm macro lens captures the garden eels, nudibranchs, and small reef creatures effectively. Approach garden eels with extreme patience for natural, undisturbed poses. The shallow depth and good light make natural-light photography viable. Wide-angle reef scenes work in the morning with good ambient light. For night dive photography, a torch with a red filter helps locate subjects without disturbing them. The calm conditions allow deliberate, precise macro compositions that are impossible at current-swept sites.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Visit Yap - Dive Sites](https://visityap.com/dive_sites.php), [Manta Ray Bay Resort - Dive Sites](https://mantaray.com/sites/), [Bluewater Dive Travel - Yap](https://www.bluewaterdivetravel.com/destination/yap-diving), [PADI - Diving in Yap](https://www.padi.com/diving-in/yap/), [Ikelite - Insider Guide to Diving Yap](https://www.ikelite.com/blogs/features/an-insiders-guide-to-diving-yap-micronesia). Last updated 2026-04-04.*

@@ -23,9 +23,9 @@ Shallow Turbo is the more beginner-accessible sibling of Deep Turbo in the Gili 
 
 - **Location**: Gili Islands channel
 - **Entry Type**: Boat dive
-- **Site Type**: Reef / Drift
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 18 m
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15–25 m
 - **Current**: Moderate; gentle drift
 - **Best Time**: May to October
@@ -58,9 +58,5 @@ Even gentle drift requires SMB carry and drift pickup procedures. Do not attempt
 
 Turtles in the current-swept reef are accessible wide-angle subjects. Clownfish portraits in anemones suit macro or close-focus wide-angle. The natural light in 6–15 m produces vivid coral colour without strobe.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Manta Dive Gili Islands](https://manta-dive.com/diving-gili-trawangan/gili-dive-sites/), [Gili Divers Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [PADI Gili Islands](https://www.padi.com/diving-in/indonesia/gili-islands/), [Manta Dive Gili Air](https://manta-dive-giliair.com/gili-islands-dive-sites), [Terumbu Divers Gili Sites](https://terumbudivers.com/fun-dives-2/dive-sites-gili-islands-lombok/). Last updated 2026-04-04.*

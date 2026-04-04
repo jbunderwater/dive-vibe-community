@@ -51,3 +51,6 @@ Access is by dive boat. Las Gemelas is typically included on trips that also vis
 - Cross the sandy channel between the two formations midway through the dive to see both pinnacles
 - The gap between the twins can channel current; be aware of flow direction when crossing
 - Las Gemelas pairs well with Los Arcos on a half-day trip from Puerto Vallarta or Mismaloya
+
+---
+*Sources: [Boca Divers - Puerto Vallarta Dive Sites](https://www.bocadivers.net/BocaDivers/divesites.htm), [PADI - Diving in Puerto Vallarta](https://www.padi.com/diving-in/mexico/puerto-vallarta/), [PADI - Top Dive Sites in Puerto Vallarta](https://www.padi.com/dive-sites/mexico/puerto-vallarta/), [Vallarta by Owner - Best Scuba Diving in Puerto Vallarta](https://vallartabyowner.com/scuba/), [Dressel Divers - Puerto Vallarta Scuba Diving](https://www.dresseldivers.com/dive/mexico/puerto-vallarta-scuba-diving/). Last updated 2026-04-04.*

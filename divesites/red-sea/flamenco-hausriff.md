@@ -22,8 +22,8 @@ Flamenco Hausriff is the house reef of the Flamenco Beach & Resort area near Saf
 ## Site Information
 
 - **Location**: Safaga, northern Egyptian Red Sea coast
-- **Entry Type**: Boat dive (also accessible by shore entry in calm conditions)
-- **Site Type**: Fringing house reef with sloping coral garden
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters
@@ -59,4 +59,4 @@ Currents are generally mild but can pick up along the outer slope. Boat traffic 
 The soft-coral sections between 10 and 18 meters offer superb macro subjects. Wide-angle is less rewarding here than at Safaga's offshore reefs, but fish portraits and reef scenes photograph well throughout the dive. Night photography is particularly productive on the sandy areas adjacent to the reef.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

@@ -22,7 +22,7 @@ Manta rays in the Egyptian Red Sea are associated with specific reef features â€
 ## Site Information
 
 - **Location**: El Quseir area, Red Sea, Egypt
-- **Entry Type**: Boat dive (day boat or liveaboard)
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
@@ -59,4 +59,4 @@ The enthusiasm for manta encounters can lead to loss of situational awareness â€
 Manta ray photography requires patience, correct positioning (below the animal, shooting upward toward the light), and a wide-angle lens to capture the wingspan. Do not use flash directly at mantas â€” the light can startle them. Natural ambient light at 5-12 meters typically provides sufficient exposure. For the reef portion, wide-angle and reef portrait techniques apply throughout.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

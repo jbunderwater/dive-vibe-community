@@ -58,9 +58,5 @@ Current can funnel through the channel unpredictably, sometimes creating a washi
 
 The channel creates extraordinary wide-angle opportunities -- vertical walls on either side with blue water above and sharks cruising through make for iconic compositions. Shoot upward through the channel for dramatic silhouettes of sharks and rays against the light. The walls themselves are photogenic, covered in marine growth with excellent texture. Sea turtles resting on ledges are cooperative portrait subjects. A fisheye or ultra-wide rectilinear lens is ideal. Strobes help fill shadows on the wall but are not essential for the blue-water shark shots.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [PADI - Diving in the Galapagos Islands](https://www.padi.com/diving-in/the-galapagos-islands/), [PADI Blog - Top Dive Sites in the Galapagos](https://blog.padi.com/top-dive-sites-in-the-galapagos/), [Bluewater Dive Travel - Galapagos](https://www.bluewaterdivetravel.com/destination/galapagos-diving), [World Adventure Divers - Diving Galapagos](https://worldadventuredivers.com/diving-galapagos/), [Galapagos Safari Camp - Scuba Diving](https://www.galapagossafaricamp.com/scuba-diving-galapagos/). Last updated 2026-04-04.*

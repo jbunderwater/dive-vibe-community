@@ -23,7 +23,7 @@ The northern Red Sea near Sharm el-Sheikh is a historically active shipping lane
 
 - **Location**: Northern Egyptian Red Sea, Sharm el-Sheikh area
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck (encrusted vessel on reef slope)
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters
@@ -59,4 +59,4 @@ Entanglement risks on a degraded wreck include loose metal, netting, and cables.
 The glassy sweeper clouds inside the wreck are excellent wide-angle subjects, especially when backlit by natural light entering from the wreck openings. The exterior hull with coral encrustation provides colourful close-focus wide-angle opportunities. A powerful torch is needed for interior detail shots.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

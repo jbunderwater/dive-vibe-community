@@ -23,9 +23,9 @@ Bull Kelp 20' is a shallow bull kelp forest site near the Qualicum Beach and Par
 
 - **Location**: Eastern Vancouver Island, near Parksville/Qualicum Beach, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Bull kelp forest
+- **Site Type**: Kelp
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 12 metres
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 5–12 metres
 - **Current**: Moderate tidal currents — manageable with timing
 - **Best Time**: Late spring through early autumn when kelp is densest
@@ -57,11 +57,8 @@ Kelp entanglement is the primary hazard — always carry a cutting device. Boats
 
 Bull kelp forests offer some of BC's most dramatic underwater photography. Looking up through the stipes toward the filtered sunlight creates beautiful natural-light images. Wide-angle or fisheye lenses capture the cathedral-like interior of the forest. Macro shooters should examine kelp blades carefully for nudibranchs, amphipods, and other small invertebrates.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
 - Qualicum Beach area dive shops for current site access information
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

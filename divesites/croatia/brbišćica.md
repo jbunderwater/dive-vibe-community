@@ -23,7 +23,7 @@ The reef at Brbišćica descends over rocky slopes and terraces to around 25 met
 
 - **Location**: Zadar Archipelago, Northern Dalmatia, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–20 meters
@@ -58,4 +58,4 @@ Conditions are well within intermediate recreational parameters. Monitor current
 Wide-angle shots of the boulder-strewn reef landscape and resident grouper are highly achievable. Macro photography on the sponge-covered surfaces reveals nudibranchs and other small invertebrates. The Posidonia meadows in the shallows provide photogenic habitat for seahorses and pipefish.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*

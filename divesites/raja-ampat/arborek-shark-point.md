@@ -58,9 +58,5 @@ Blacktip reef sharks are harmless to divers who behave calmly. Do not feed or ap
 
 Two distinct photographic subjects define this site. Blacktip sharks are best photographed with a medium wide-angle lens (17–35mm equivalent) in the upper 10 meters where ambient light is strong. Epaulette sharks require a macro or close-focus wide-angle approach with a torch for illumination of their cryptic resting spots. Night and dusk photography of walking epaulettes is among the most unusual wildlife photography available in Indonesia.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*

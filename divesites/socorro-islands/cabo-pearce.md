@@ -51,8 +51,5 @@ Cabo Pearce can experience ripping currents from any direction, described by exp
 ## Photography
 Wide-angle is essential for dolphin and manta encounters. The dolphins approach extremely close and make eye contact, providing extraordinary portrait opportunities. Manta belly shots at the cleaning station are signature images. The volcanic wall and deep blue water background create dramatic wide-angle compositions with sharks and pelagics. The south side offers macro opportunities with nudibranchs and endemic species.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Mexico Liveaboards - Socorro Revillagigedo](https://mexicoliveaboards.com/destination-socorro.html), [Baja Wild Encounters - Socorro Islands Diving](https://bajawildencounters.com/socorro-islands-scuba-diving-liveaboard-expedition-mexico), [Bluewater Dive Travel - Socorro Island Diving](https://www.bluewaterdivetravel.com/destination/socorro-island-diving), [Nautilus Liveaboards - Scuba Diving Socorro Islands](https://nautilusliveaboards.com/2025/08/21/scuba-diving-socorro-islands/), [Dive Worldwide - Socorro Revillagigedo](https://www.diveworldwide.com/locations/socorro). Last updated 2026-04-04.*

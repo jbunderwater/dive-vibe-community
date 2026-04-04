@@ -22,7 +22,7 @@ Marsalis Abu Galawa sits at a moderate intermediate depth of approximately 20 me
 ## Site Information
 
 - **Location**: Abu Galawa area, El Quseir region, Red Sea, Egypt
-- **Entry Type**: Boat dive (day boat or liveaboard)
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
@@ -58,4 +58,4 @@ Conditions in the sheltered Abu Galawa lagoon are generally benign, but the oute
 The Abu Galawa reef environment rewards patient close-up and macro photography as well as wider reef scenes. Sea turtle portraits in clear, calm water are a site highlight. The anthias and chromis clouds above coral heads shoot beautifully with natural ambient light in the 8-15 meter range.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

@@ -22,10 +22,10 @@ Shark Point is located on the northwest side of Gili Trawangan, where the reef s
 ## Site Information
 
 - **Location**: Northwest Gili Trawangan, Gili Islands
-- **Entry Type**: Boat dive (drift)
-- **Site Type**: Wall / Drift
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 m (ridges continue deeper)
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 15–30 m
 - **Current**: Strong; always a drift dive
 - **Best Time**: May to October
@@ -58,9 +58,5 @@ Strong currents are constant and can accelerate suddenly. Do not fight the curre
 
 Whitetip reef sharks resting on the ridge slopes are the signature shot. Schools of black snappers around the Glenn Nusa wreck suit wide-angle with a diver for scale. Turtle portraits in the shallow zone are the accessible highlight.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Manta Dive Gili Islands](https://manta-dive.com/diving-gili-trawangan/gili-dive-sites/), [Gili Divers Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [PADI Gili Islands](https://www.padi.com/diving-in/indonesia/gili-islands/), [Manta Dive Gili Air](https://manta-dive-giliair.com/gili-islands-dive-sites), [Terumbu Divers Gili Sites](https://terumbudivers.com/fun-dives-2/dive-sites-gili-islands-lombok/). Last updated 2026-04-04.*

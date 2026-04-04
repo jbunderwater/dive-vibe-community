@@ -22,10 +22,10 @@ In 1963, Jacques-Yves Cousteau and his team lived and worked underwater for a mo
 ## Site Information
 
 - **Location**: Sha'ab Rumi lagoon, northern Sudan Red Sea
-- **Entry Type**: Boat dive (liveaboard)
-- **Site Type**: Historic underwater habitat / wall dive
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters (Starfish House base at ~10m; Deep Cabin at ~27m for qualified divers)
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Moderate
 - **Best Time**: October to May
@@ -63,9 +63,5 @@ The lagoon environment is generally calm and forgiving. Avoid contact with the e
 
 The submarine hangar is the centrepiece photographic subject — wide-angle shots from the approach show the fish shape clearly, and interior shots with a dive torch reveal the colour of encrusting life. The Starfish House base photographed against the sandy lagoon floor and blue water column above creates a classic image. Macro subjects on the metal framework include nudibranchs, gobies, and colourful encrusting invertebrates.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*

@@ -23,7 +23,7 @@ Shaab Umm Gamar (also known as Shabrur Umm Gamar or "Little Umm Gamar") is a lon
 
 - **Location**: Northwest of Umm Gamar Island, offshore Hurghada, northern Egyptian Red Sea
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck/Reef
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–25 meters
@@ -58,9 +58,5 @@ Shaab Umm Gamar is a more demanding dive than the adjacent main island due to it
 
 Grey reef shark photography in the late afternoon at the reef edge, with current carrying the sharks in a predictable patrol pattern, is the primary photographic attraction. Wide-angle technique with a reef reference in the background and shark in the mid-water is the standard approach. The patrol boat wreck rewards wide-angle shots of the encrusted hull structure with natural light. Free-swimming moray eels actively hunting on the plateau are unusual behaviour that provides compelling action images.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

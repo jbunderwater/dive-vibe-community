@@ -23,7 +23,7 @@ The Salem Express rests on her starboard side on a sandy slope adjacent to Hyndm
 
 - **Location**: Hyndman Reef, Safaga, Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 27 meters
 - **Typical Visibility**: 15-30 meters (50-100 feet)
@@ -58,9 +58,5 @@ The interior of the wreck contains significant silt and disorientation risks —
 
 The scale of the wreck makes wide-angle and fisheye lenses ideal. The encrusted railings and davits photographed against blue water are iconic images. The schools of glassfish hovering over open deck areas are a compelling mid-water subject. Inside the vehicle deck, a wide-angle torch-lit shot can capture the otherworldly atmosphere. Macro subjects are found on every colonized surface of the hull.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

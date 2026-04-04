@@ -44,4 +44,5 @@ Hawksbill turtles (common, potential nesting site), Napoleon wrasse, grouper, pa
 
 Snorkelling from the sandbank and transitioning to a reef dive makes this a versatile site for groups of mixed ability. Approach turtles slowly from the side, not from above, to observe without disturbing their natural behaviour. The reef crest is ideal for extended safety stops.
 
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

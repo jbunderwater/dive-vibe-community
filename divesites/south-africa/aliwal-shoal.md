@@ -22,8 +22,8 @@ Aliwal Shoal is a submerged fossilized sand dune approximately five kilometres o
 ## Site Information
 
 - **Location**: KwaZulu-Natal coast, approximately 5 km off Umkomaas, South Africa
-- **Entry Type**: Boat dive (RIB launch through surf)
-- **Site Type**: Submerged fossil reef / cave systems
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 8–15 meters (26–50 feet), up to 20 meters on best days
@@ -59,9 +59,5 @@ The surf launch at Umkomaas requires physical fitness and confidence in surge co
 
 Aliwal Shoal offers outstanding wide-angle shark photography. The cave systems provide dramatic backdrops for ragged-tooth shark portraits, particularly when multiple sharks rest in the same overhang. Use a wide-angle lens (10–17mm fisheye equivalent) with two strobes for balanced exposure in the low-light caves. Oceanic blacktips are fast and best photographed in the open water sections at the top of the shoal. Macro subjects including nudibranchs and cleaning shrimp can be found on the coral-encrusted walls between shark encounters.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [SCUBA Travel - Diving South Africa](https://www.scubatravel.co.uk/africa/diving-south-africa.html), [Bluewater Dive Travel - South Africa](https://www.bluewaterdivetravel.com/destination/south-africa-diving), [Coral Divers Sodwana Bay](https://coraldivers.co.za/), [PADI - Diving Sodwana Bay](https://www.padi.com/diving-in/south-africa/sodwana-bay/), [Ikelite - Aliwal Shoal Guide](https://www.ikelite.com/blogs/features/an-insiders-guide-to-diving-aliwal-shoal-south-africa). Last updated 2026-04-04.*

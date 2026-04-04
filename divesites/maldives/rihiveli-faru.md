@@ -30,4 +30,5 @@ The reef top at 5–8 metres is a productive snorkelling and shallow diving zone
 
 The site's accessibility and shelter from prevailing swells make it a reliable option during liveaboard itineraries passing through South Male Atoll. The shallow reef top is excellent for a safety stop, doubling as a macro photography platform with nudibranchs and small crustaceans inhabiting coral rubble zones. Best dived on the incoming tide to enjoy clear water flowing from the open ocean across the reef crest.
 
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

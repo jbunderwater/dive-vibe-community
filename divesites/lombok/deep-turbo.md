@@ -23,9 +23,9 @@ Deep Turbo is an offshore pinnacle in the channel between the Gili Islands, rese
 
 - **Location**: Offshore channel, Gili Islands / Lombok
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 m
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15–30 m (current-swept)
 - **Current**: Strong to very strong; always present
 - **Best Time**: May to October
@@ -58,9 +58,5 @@ Strong current is the primary hazard. Be prepared to abort if conditions exceed 
 
 Eagle rays in strong current against vivid blue water. Reef sharks on the upcurrent face with snapper schools behind them. Fast shutter speeds needed for fish moving in current.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*

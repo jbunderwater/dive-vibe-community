@@ -23,7 +23,7 @@ Abu Hashish is a headland north of Hurghada that creates the topographic conditi
 
 - **Location**: Ras Abu Hashish, north of Hurghada, Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Drift dive on reef wall
+- **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–35 meters
@@ -58,9 +58,5 @@ Current dives require more active safety planning. Every diver must carry a pers
 
 Drift photography rewards the wide-angle approach. Schools of barracuda and trevally in the current make dramatic subjects. The current-facing reef wall, draped in soft corals and sea fans, photographs beautifully with natural light. Time exposures carefully — drift speed means subjects change quickly.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

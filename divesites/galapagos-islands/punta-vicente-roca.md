@@ -58,9 +58,5 @@ Cold water is the primary challenge at this site. Hypothermia risk is real, espe
 
 This is the Galapagos' best macro and critter site. Red-lipped batfish on sandy bottom make extraordinary subjects -- use a macro lens and get low for eye-level portraits. Seahorses on gorgonians require patience and a steady hand. Frogfish reward those who search carefully. For wide-angle, mola mola silhouetted in the green-tinted water column are bucket-list shots. Sea turtles stacked on ledges create compelling compositions. Marine iguanas grazing underwater and penguins swimming through the shallows offer unique close-focus wide-angle opportunities. Strobes are essential in the low-visibility, nutrient-rich water to restore color.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [PADI - Diving in the Galapagos Islands](https://www.padi.com/diving-in/the-galapagos-islands/), [PADI Blog - Top Dive Sites in the Galapagos](https://blog.padi.com/top-dive-sites-in-the-galapagos/), [Bluewater Dive Travel - Galapagos](https://www.bluewaterdivetravel.com/destination/galapagos-diving), [World Adventure Divers - Diving Galapagos](https://worldadventuredivers.com/diving-galapagos/), [Galapagos Safari Camp - Scuba Diving](https://www.galapagossafaricamp.com/scuba-diving-galapagos/). Last updated 2026-04-04.*

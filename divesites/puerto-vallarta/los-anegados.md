@@ -52,3 +52,6 @@ Boat access; typically combined as a second tank on El Morro or Las Marietas tri
 - Often the better second dive after El Morro — shallower and more cave-focused, offering genuine contrast to the open-pinnacle experience
 - The swimthrough network means no two dives are identical; ask guides to take different routes on repeat visits
 - Good neutral buoyancy in the passages protects the encrusting walls and makes navigation through tighter sections cleaner
+
+---
+*Sources: [Boca Divers - Puerto Vallarta Dive Sites](https://www.bocadivers.net/BocaDivers/divesites.htm), [PADI - Diving in Puerto Vallarta](https://www.padi.com/diving-in/mexico/puerto-vallarta/), [PADI - Top Dive Sites in Puerto Vallarta](https://www.padi.com/dive-sites/mexico/puerto-vallarta/), [Vallarta by Owner - Best Scuba Diving in Puerto Vallarta](https://vallartabyowner.com/scuba/), [Dressel Divers - Puerto Vallarta Scuba Diving](https://www.dresseldivers.com/dive/mexico/puerto-vallarta-scuba-diving/). Last updated 2026-04-04.*

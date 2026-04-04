@@ -23,9 +23,9 @@ Samba Vilas Biorock is one of the cluster of Biorock structures positioned along
 
 - **Location**: East coast Gili Trawangan, Gili Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Artificial Reef / Biorock
+- **Site Type**: Artificial
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 m
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: 15–20 m
 - **Current**: Minimal
 - **Best Time**: Year-round
@@ -58,9 +58,5 @@ Standard precautions for artificial structure dives — no touching the frame, m
 
 The Biorock frames covered in growing coral make visually interesting abstract subjects. Multiple structures photographed together show the scale of the restoration project. Fish portraits against the coral-encrusted steel frame create distinctive backgrounds uncommon in natural reef photography.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Manta Dive Gili Islands](https://manta-dive.com/diving-gili-trawangan/gili-dive-sites/), [Gili Divers Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [PADI Gili Islands](https://www.padi.com/diving-in/indonesia/gili-islands/), [Manta Dive Gili Air](https://manta-dive-giliair.com/gili-islands-dive-sites), [Terumbu Divers Gili Sites](https://terumbudivers.com/fun-dives-2/dive-sites-gili-islands-lombok/). Last updated 2026-04-04.*

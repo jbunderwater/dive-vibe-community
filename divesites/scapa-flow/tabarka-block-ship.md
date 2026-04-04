@@ -59,11 +59,5 @@ The Tabarka is the most operationally demanding Scapa Flow dive site due to extr
 
 The Tabarka's intact propeller in the clear tidal water is one of Scapa Flow's most photographed features outside the main German fleet. The upside-down orientation creates unusual perspectives on the hull structure. Pre-set camera exposure and strobe positioning before the dive — there is no time to adjust settings on the wreck during the limited slack window. The tidal current visibility (often better than the main Flow) rewards the operational complexity.
 
-## Additional Resources
-
-- **Last Updated**: 2026-04-03
-
-## Sources
-
-- [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/)
-- [Scapa Flow Dive Sites — scapa-flow.co.uk](https://www.scapa-flow.co.uk/dive-site)
+---
+*Sources: [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/), [Scapa Flow Dive Sites — scapa-flow.co.uk](https://www.scapa-flow.co.uk/dive-site). Last updated 2026-04-04.*

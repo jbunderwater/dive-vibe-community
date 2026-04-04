@@ -61,4 +61,4 @@ Fonualei presents a multi-layered set of hazards not present at conventional Vav
 The pristine state of this reef and the density of large pelagics create extraordinary wide-angle photography conditions. The combination of shark, tuna, and intact coral in a single frame — which requires patient positioning — is the definitive Fonualei image. Volcanic substrate creates unusual textural compositions not found on conventional reef sites. A broad dome port setup is most versatile for the range of subjects encountered.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Tonga Tourism - Diving Guide](https://tongatourism.travel/diving/), [Tonga Pocket Guide - Dive Sites](https://tongapocketguide.com/10-best-dive-sites-in-tonga/), [Diving Tonga](https://www.divingtonga.com/), [Bluewater Dive Travel - Tonga](https://www.bluewaterdivetravel.com/destination/tonga-diving), [PADI - Diving in Tonga](https://www.padi.com/diving-in/tonga/). Last updated 2026-04-04.*

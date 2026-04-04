@@ -23,9 +23,9 @@ The Frank E. Vigor was a 97-metre steel freighter that sank during World War II 
 
 - **Location**: Lake Erie, Great Lakes, USA (Ohio waters)
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 metres
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 3–12 metres
 - **Water Temperature**: 4–24°C (seasonal); Lake Erie's western basin is the warmest of the Great Lakes
 - **Current**: Variable with wind; Lake Erie develops current quickly
@@ -59,9 +59,5 @@ Lake Erie's western basin is shallow and prone to rapid weather changes. Wind-dr
 
 The Frank E. Vigor's steel construction provides industrial-scale photographic subjects. The dense yellow perch schools hovering in mid-water above the deck create spectacular wide-angle opportunities. Close-up images of the mussel-encrusted hull in the blue-green Lake Erie water are atmospheric.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Michigan.org - Dive Michigan Shipwrecks Underwater Preserves](https://www.michigan.org/article/trip-idea/dive-michigan-shipwrecks-these-underwater-preserves), [Great Lakes Shipwreck Preservation Society - Dive Sites](https://glsps.clubexpress.com/DiveSites), [Scuba Diving Magazine - Great Lakes Shipwrecks](https://www.scubadiving.com/great-lakes-shipwrecks-like-youve-never-seen-them-before), [Gear Patrol - Guide to Wreck Diving the Great Lakes](https://www.gearpatrol.com/archive/a162066/great-lakes-wreck-diving-guide/), [Shipwreck Explorers - Wisconsin Scuba Diving](https://www.shipwreckexplorers.com/). Last updated 2026-04-04.*

@@ -23,9 +23,9 @@ Conconi Reef is located in the southern Gulf Islands between Salt Spring Island 
 
 - **Location**: Southern Gulf Islands, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Submerged reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres
 - **Current**: Moderate tidal currents — plan around slack
 - **Best Time**: Late spring through autumn
@@ -57,11 +57,8 @@ Currents in the southern Gulf Islands can be significant, particularly during sp
 
 Schooling black rockfish photographed from below against a bright surface canopy create striking silhouette images. The reef structure with plumose anemones makes fine wide-angle photography. For macro work, examine sponge surfaces carefully for nudibranchs. Pacific octopus colour change is always spectacular to document.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
 - Sidney area dive operators
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

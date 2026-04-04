@@ -22,7 +22,7 @@ Elphinstone Reef is a cigar-shaped offshore reef running roughly north-south, ar
 ## Site Information
 
 - **Location**: Offshore Marsa Alam, southern Egyptian Red Sea
-- **Entry Type**: Boat dive (day boat from Marsa Alam)
+- **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
@@ -59,9 +59,5 @@ This is an open-ocean reef with no shelter — current can be strong and unpredi
 
 Elphinstone may be the finest destination in the world for oceanic whitetip shark photography. Their bold approach and the intense blue open-water backdrop produce exceptional images. Use a wide-angle lens (10–17mm) and position yourself at the shark's level rather than looking down. The gorgonian-covered wall is outstanding for close-focus wide-angle reef portraits. For hammerheads at the north plateau, arrive at first light and position yourself at the current-facing edge.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

@@ -23,7 +23,7 @@ The rock rises from the sandy bottom at 18–20 metres to within a few metres of
 
 - **Location**: Comino Channel, Malta
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–25 meters
@@ -59,4 +59,4 @@ The channel position means current should be assessed before entry. The open wat
 The compact reef rising from sand creates clean wide-angle compositions. Resident grouper portraits, moray eels at crevice entrances, and barracuda in the water column above provide diverse subjects. The sandy bottom around the rock base allows full-reef backdrop shots.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [Atlantis Gozo Dive Sites](https://www.atlantisgozo.com/dive-sites/), [PADI Diving in Malta](https://www.padi.com/diving-in/malta/), [SCUBA Travel Malta Guide](https://www.scubatravel.co.uk/europe/malta-dive-in.html), [Dive Malta-Gozo](https://divemalta-gozo.com/diving-in-gozo/). Last updated 2026-04-04.*

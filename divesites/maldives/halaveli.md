@@ -44,4 +44,5 @@ Hawksbill turtles, grey reef sharks, whitetip reef sharks, Napoleon wrasse, grou
 
 Spend time on the summit in the shallows for the safety stop — the coral here is particularly photogenic and the small reef fish are approachable. Turtles are most commonly seen on the eastern flank. The site can be dived in either direction around the pinnacle depending on current.
 
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

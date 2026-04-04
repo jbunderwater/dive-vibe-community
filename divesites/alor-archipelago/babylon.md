@@ -57,9 +57,5 @@ Currents can accelerate quickly as tides shift; monitor conditions throughout th
 
 The sea fans at 18–22 metres are the signature wide-angle shot, best composed with a diver silhouetted against the open blue. The reef top offers clean macro opportunities on nudibranchs and small crustaceans. Morning light penetrates to the upper wall most effectively, giving warm colour to the orange sponges without strobe dependence at shallower depths.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Alami Alor Dive Resort Diving](https://www.alamialor.com/diving-snorkeling/scuba-diving/), [Alor Divers Resort](https://www.alor-divers.com/), [ZuBlu Scuba Diving in Alor](https://www.zubludiving.com/destination/indonesia/nusa-tenggara/alor), [Solitude World Alor Diving Guide](https://solitude.world/alor-diving-guide/), [Dive the World Alor](https://www.dive-the-world.com/diving-sites-indonesia-alor.php). Last updated 2026-04-04.*

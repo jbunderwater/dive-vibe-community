@@ -60,4 +60,5 @@ Purple Rain is one of the most colour-saturated wall photography sites in Grenad
 - Aquanauts Grenada and Dive Grenada: both include Purple Rain on southwest wall dive itineraries
 - Often paired with Boss Reef or Dragon Bay for a two-tank southwest coast day
 
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: [Carib Dive Guide - Grenada](https://www.caribdiveguide.com/grenada.htm), [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [Dive Grenada](https://divegrenada.com/), [Scuba Diving Magazine - Grenada](http://www.scubadiving.com/travel/caribbean-atlantic/grenada-and-grenadines), [PADI - Diving in Grenada](https://www.padi.com/diving-in/grenada/). Last updated 2026-04-04.*

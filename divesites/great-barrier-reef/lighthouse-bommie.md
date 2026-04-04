@@ -60,4 +60,4 @@ Night dives require careful buddy management and a pre-agreed surface signal. Mo
 The Spanish dancer nudibranch is the photographic trophy at Lighthouse Bommie. Its large size (up to 60cm) means standard macro lenses capture detailed close-ups, while wider focal lengths can capture the full animal in context. Use a torch for positioning, then a focus light for camera autofocus. The moray eels make excellent daytime portrait subjects in their crevice frames.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Great Barrier Reef Marine Park Authority](https://greatbarrierreef.org/reef-experiences/diving-the-reef/), [Pro Dive Cairns - Dive Sites](https://prodivecairns.com/divesites.html), [PADI - Diving the Great Barrier Reef](https://www.padi.com/diving-in/great-barrier-reef/), [Divezone - Great Barrier Reef](https://divezone.net/diving/great-barrier-reef), [Divernet - Southern Great Barrier Reef Guide](https://divernet.com/scuba-diving/southern-great-barrier-reef-australia-guide/). Last updated 2026-04-04.*

@@ -23,9 +23,9 @@ The Mary Celestia was an iron-hulled, sidewheel-powered paddle steamer built for
 
 - **Location**: South Shore reef, near Gibbs Hill Lighthouse, Bermuda
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 17 meters (55 feet)
+- **Maximum Depth**: 17 meters
 - **Typical Visibility**: 15–30 meters (50–100 feet)
 - **Current**: Light to moderate
 - **Water Temperature**: 18–28°C (64–82°F)
@@ -59,9 +59,5 @@ This is a protected heritage site under Bermuda law. Handling, removing, or dist
 
 The Mary Celestia is one of Bermuda's most historically compelling photography subjects. The intact paddle wheel is a unique and immediately recognizable element. The iron hull structure against the white sand bottom photographs beautifully in Bermuda's clear water. A video light or single strobe enhances the detail of artifact-bearing areas near the bow without disturbing the archaeological context.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Go To Bermuda - Top Dive Sites](https://www.gotobermuda.com/plan/inspiration/article/top-dive-sites-in-bermuda), [Go To Bermuda - Bermuda Shipwrecks](https://www.gotobermuda.com/plan/inspiration/article/dive-into-bermuda-shipwrecks), [Scuba Diving Magazine - Guide to Scuba Diving Bermuda](https://www.scubadiving.com/guide-to-scuba-diving-bermuda), [Blue Water Divers Bermuda - Shipwrecks](https://www.divebermuda.com/shipwrecks/), [Bermuda Attractions - Famous Shipwrecks and Dive Sites](https://www.bermuda-attractions.com/bermuda_000045.htm). Last updated 2026-04-04.*

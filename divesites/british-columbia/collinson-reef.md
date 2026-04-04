@@ -23,9 +23,9 @@ Collinson Reef sits in the central Gulf Islands in the Haro Strait area, between
 
 - **Location**: Gulf Islands, Haro Strait area, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Submerged reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres
 - **Current**: Moderate tidal currents in the Gulf Islands
 - **Best Time**: Late spring through autumn
@@ -57,11 +57,8 @@ Tidal currents in the Gulf Islands require planning around slack tide. BC Ferrie
 
 Wolf eels at the reef's deeper sections are a priority photographic subject. Portraits with a wide-angle lens capture both the eel and the surrounding rocky habitat. Plumose anemone fields make excellent wide-angle backdrop compositions. Macro photography on encrusting sponges reveals nudibranchs, sea spiders, and colonial hydroids.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
 - Sidney and Salt Spring Island dive operators
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

@@ -50,8 +50,5 @@ While this is a swim-through rather than a dead-end cave, it is still an overhea
 ## Photography
 The tunnel offers dramatic through-the-looking-glass compositions. Shoot toward the exit opening for a framed view of the blue water and wall beyond, ideally with a diver silhouetted in the opening. Wide-angle or fisheye is essential inside the tunnel. Use off-camera lighting or a torch to illuminate the walls and create dramatic shadows. Outside on the wall, switch to pelagic-oriented shooting for sharks and rays against the blue. The contrast between the dark tunnel interior and the bright exit creates compelling images without any artificial lighting.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Palau Dive Adventures](https://palaudiveadventures.com/best-dive-sites-palau/), [Bluewater Dive Travel - Palau](https://www.bluewaterdivetravel.com/destination/palau-diving), [Dive the World - Palau](https://www.dive-the-world.com/diving-sites-palau.php), [PADI - Diving in Palau](https://www.padi.com/diving-in/palau/), [Pristine Paradise Palau](https://pristineparadisepalau.com/dive-palau/). Last updated 2026-04-04.*

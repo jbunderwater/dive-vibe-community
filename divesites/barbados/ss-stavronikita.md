@@ -49,4 +49,4 @@ Boat dive from Holetown operators — the wreck sits just offshore from Folkesto
 Deep wreck dive requiring careful air management and depth awareness. Do not attempt penetration without proper wreck diving certification and equipment. The deck at 18-24 meters allows limited bottom time even for advanced divers. Silt can reduce visibility inside the wreck quickly — maintain excellent buoyancy. Plan a slow ascent with a safety stop at the mast.
 
 ---
-*This dive site information was compiled from OSM node 13461568301, Reefers & Wreckers, Dive Hightide, Barbados Blue, divernet.com, and barbados.org. Last updated 2026-04-02.*
+*Sources: OSM node 13461568301, Reefers & Wreckers, Dive Hightide, Barbados Blue, divernet.com, barbados.org, scubadiving.bb - Greek freighter sunk 1978, 111m vessel, mast at 6m, deck at 18-24m, rated top 10 wreck dive worldwide. Last updated 2026-04-02.*

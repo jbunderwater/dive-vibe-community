@@ -22,10 +22,10 @@ Brockville sits along the scenic Thousand Islands stretch of the St. Lawrence Ri
 ## Site Information
 
 - **Location**: St. Lawrence River, Ontario, Canada (Thousand Islands Region)
-- **Entry Type**: Shore and boat dive
-- **Site Type**: Artificial attraction / freshwater dive park
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 metres
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 5–15 metres
 - **Water Temperature**: 4–22°C (seasonal)
 - **Current**: Mild to moderate; the St. Lawrence River current varies with water levels
@@ -60,9 +60,5 @@ The St. Lawrence River current can increase significantly during high water leve
 
 The sculpture park offers unique photographic opportunities in a freshwater setting. The art pieces — humanoid forms, abstract shapes, and natural motifs — provide unusual subjects against the backdrop of clear river water and aquatic vegetation. Natural light penetrates well at shallow depths, and the sculptures are photogenic in natural light.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Michigan.org - Dive Michigan Shipwrecks Underwater Preserves](https://www.michigan.org/article/trip-idea/dive-michigan-shipwrecks-these-underwater-preserves), [Great Lakes Shipwreck Preservation Society - Dive Sites](https://glsps.clubexpress.com/DiveSites), [Scuba Diving Magazine - Great Lakes Shipwrecks](https://www.scubadiving.com/great-lakes-shipwrecks-like-youve-never-seen-them-before), [Gear Patrol - Guide to Wreck Diving the Great Lakes](https://www.gearpatrol.com/archive/a162066/great-lakes-wreck-diving-guide/), [Shipwreck Explorers - Wisconsin Scuba Diving](https://www.shipwreckexplorers.com/). Last updated 2026-04-04.*

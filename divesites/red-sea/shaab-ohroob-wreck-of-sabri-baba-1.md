@@ -22,8 +22,8 @@ Sha'ab Ohroob (the reef) and the Wreck of Sabri Baba 1 (the vessel) occupy the s
 ## Site Information
 
 - **Location**: Southern Egyptian Red Sea (~22.63°N, 36.56°E); liveaboard territory
-- **Entry Type**: Liveaboard dive only
-- **Site Type**: Wreck/Reef
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–35 meters
@@ -57,9 +57,5 @@ Wreck penetration is not appropriate without overhead-environment training — t
 
 The coral-colonised exterior of the Sabri Baba 1 in clear southern Red Sea water provides outstanding wide-angle wreck portrait conditions — the combination of colonised hull surfaces and natural light creates images unavailable at mainstream wreck sites. Glassfish schools in the interior spaces photographed through open deck sections reward wide-angle with torch backlighting. The adjacent reef slope in pristine condition provides secondary wide-angle subjects.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

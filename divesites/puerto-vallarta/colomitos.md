@@ -51,3 +51,6 @@ Access is by dive boat, approximately 45 minutes from Puerto Vallarta. Giant str
 - Scan the sand carefully for electric rays — they partially bury themselves and are easy to miss
 - The wall sections reward slow exploration — work the crevices for nudibranchs and cleaning stations
 - A torch improves visibility in the deeper wall sections and reveals creatures tucked into crevices
+
+---
+*Sources: [Boca Divers - Puerto Vallarta Dive Sites](https://www.bocadivers.net/BocaDivers/divesites.htm), [PADI - Diving in Puerto Vallarta](https://www.padi.com/diving-in/mexico/puerto-vallarta/), [PADI - Top Dive Sites in Puerto Vallarta](https://www.padi.com/dive-sites/mexico/puerto-vallarta/), [Vallarta by Owner - Best Scuba Diving in Puerto Vallarta](https://vallartabyowner.com/scuba/), [Dressel Divers - Puerto Vallarta Scuba Diving](https://www.dresseldivers.com/dive/mexico/puerto-vallarta-scuba-diving/). Last updated 2026-04-04.*

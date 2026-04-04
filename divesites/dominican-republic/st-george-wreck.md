@@ -58,9 +58,5 @@ The 44-meter maximum depth puts this site at the absolute limit of recreational 
 
 Deep wreck photography requires a capable strobe system to bring out colors, as natural light at 35+ meters is dim. Wide-angle shots of the hull silhouette with a diver for scale are dramatic. Macro subjects — flamingo tongues, nudibranchs, tunicates — are visible on the hull surfaces if you look carefully with a torch.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: Dressel Divers, ScubaCaribe, Ultramarinedivers, DiveSSI. Last updated 2026-03-28.*

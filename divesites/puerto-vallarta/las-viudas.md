@@ -52,3 +52,6 @@ Boat dive from Puerto Vallarta marina or operators based in La Cruz de Huanacaxt
 - A focused torch beam reveals animals that blend with the substrate and brings out the colors on sponge surfaces
 - Bring a macro lens — the subjects at Las Viudas are small and close-focus photography is the primary reward
 - This site offers a useful contrast to the dramatic reef and pinnacle sites elsewhere in the bay; add it to an itinerary for a change of pace
+
+---
+*Sources: [Boca Divers - Puerto Vallarta Dive Sites](https://www.bocadivers.net/BocaDivers/divesites.htm), [PADI - Diving in Puerto Vallarta](https://www.padi.com/diving-in/mexico/puerto-vallarta/), [PADI - Top Dive Sites in Puerto Vallarta](https://www.padi.com/dive-sites/mexico/puerto-vallarta/), [Vallarta by Owner - Best Scuba Diving in Puerto Vallarta](https://vallartabyowner.com/scuba/), [Dressel Divers - Puerto Vallarta Scuba Diving](https://www.dresseldivers.com/dive/mexico/puerto-vallarta-scuba-diving/). Last updated 2026-04-04.*

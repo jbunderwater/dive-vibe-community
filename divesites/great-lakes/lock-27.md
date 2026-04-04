@@ -23,9 +23,9 @@ Lock 27 is part of the system of bypassed canals that preceded the modern St. La
 
 - **Location**: St. Lawrence River watershed, Eastern Ontario, Canada (Thousand Islands region)
 - **Entry Type**: Boat dive
-- **Site Type**: Heritage infrastructure / freshwater dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 metres
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 8–15 metres
 - **Water Temperature**: 4–22°C (seasonal)
 - **Current**: Moderate; varies with season and upstream conditions
@@ -59,9 +59,5 @@ As with all St. Lawrence River diving, current assessment is essential. The chan
 
 Lock diving offers architectural photography opportunities rarely found in freshwater diving. The precision stonework of 19th-century canal construction, illuminated with torches against the clear river water, creates compelling images. The geometric symmetry of the lock chamber provides unusual compositional options.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Michigan.org - Dive Michigan Shipwrecks Underwater Preserves](https://www.michigan.org/article/trip-idea/dive-michigan-shipwrecks-these-underwater-preserves), [Great Lakes Shipwreck Preservation Society - Dive Sites](https://glsps.clubexpress.com/DiveSites), [Scuba Diving Magazine - Great Lakes Shipwrecks](https://www.scubadiving.com/great-lakes-shipwrecks-like-youve-never-seen-them-before), [Gear Patrol - Guide to Wreck Diving the Great Lakes](https://www.gearpatrol.com/archive/a162066/great-lakes-wreck-diving-guide/), [Shipwreck Explorers - Wisconsin Scuba Diving](https://www.shipwreckexplorers.com/). Last updated 2026-04-04.*

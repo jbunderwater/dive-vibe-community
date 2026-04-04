@@ -50,8 +50,5 @@ The 35-meter depth demands respect. Nitrogen narcosis can affect judgment at thi
 ## Photography
 Rainbow Wall is a color photographer's dream -- but only with artificial light. At depth, the human eye sees only blues and greys, so strobes are essential to bring out the vivid soft coral colors. Wide-angle with dual strobes positioned for even coverage is the standard setup. Shoot close to your subjects to minimize backscatter and maximize color saturation. Upward angles along the wall with a shark silhouette create dramatic compositions. For the deepest sections, boost strobe power and shoot at shorter distances. The excellent visibility allows creative negative-space compositions with the deep blue water.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Visit Yap - Dive Sites](https://visityap.com/dive_sites.php), [Manta Ray Bay Resort - Dive Sites](https://mantaray.com/sites/), [Bluewater Dive Travel - Yap](https://www.bluewaterdivetravel.com/destination/yap-diving), [PADI - Diving in Yap](https://www.padi.com/diving-in/yap/), [Ikelite - Insider Guide to Diving Yap](https://www.ikelite.com/blogs/features/an-insiders-guide-to-diving-yap-micronesia). Last updated 2026-04-04.*

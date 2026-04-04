@@ -58,9 +58,5 @@ Namena Marine Reserve lies in open water and boat travel can be rough in trade w
 
 Zoo Namena is a wide-angle reef photographer's delight. The combination of shark schools, dense fish aggregations, and healthy coral provides layered subjects at every depth. Shoot wide from mid-water to capture the shark patrol with the reef below and the fish schools above, building a three-dimensional composition. For close-focus wide angle, approach the large groupers — they are remarkably tame and will hold position for a lens placed 30cm from their face. Macro photographers find nudibranchs, small cephalopods, and shrimp species in the rubble zones between coral heads.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [NAI'A Liveaboard - Fiji Dive Sites](https://www.naia.com.fj/fiji/dive-sites/), [Dive the World - Fiji](https://www.dive-the-world.com/diving-sites-fiji.php), [Bluewater Dive Travel - Fiji](https://www.bluewaterdivetravel.com/destination/fiji-diving), [PADI - Diving in Fiji](https://www.padi.com/diving-in/fiji/), [Waterlust Fiji Reef Guide](https://www.waterlustfiji.com/guide-to-fiji-diving). Last updated 2026-04-04.*

@@ -23,9 +23,9 @@ The Cathedral is one of Bermuda's most visually stunning dive sites, located nea
 
 - **Location**: East End, near Gurnet Rock, Bermuda
 - **Entry Type**: Boat dive
-- **Site Type**: Cave / cavern / swim-throughs
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters (60 feet)
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15–30 meters (50–100 feet)
 - **Current**: Light to moderate
 - **Water Temperature**: 18–28°C (64–82°F)
@@ -59,9 +59,5 @@ Cavern diving requires reliable buoyancy skills to avoid silting conditions. Do 
 
 The Cathedral is one of Bermuda's most photographed dive sites. The columns of sunlight through the arched entrances create dramatic natural light compositions that require no flash. For interior subjects, a torch or wide-angle video light supplements the available light without destroying the ambient effect. Early morning dives in summer offer the most intense light shafts.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Go To Bermuda - Top Dive Sites](https://www.gotobermuda.com/plan/inspiration/article/top-dive-sites-in-bermuda), [Go To Bermuda - Bermuda Shipwrecks](https://www.gotobermuda.com/plan/inspiration/article/dive-into-bermuda-shipwrecks), [Scuba Diving Magazine - Guide to Scuba Diving Bermuda](https://www.scubadiving.com/guide-to-scuba-diving-bermuda), [Blue Water Divers Bermuda - Shipwrecks](https://www.divebermuda.com/shipwrecks/), [Bermuda Attractions - Famous Shipwrecks and Dive Sites](https://www.bermuda-attractions.com/bermuda_000045.htm). Last updated 2026-04-04.*

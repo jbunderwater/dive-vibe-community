@@ -60,4 +60,4 @@ At 18 meters maximum depth this is a low-hazard intermediate dive in typical con
 Shallow reef photography at 5–12 meters benefits from excellent natural light. Wide-angle shots along coral formations with turtles or fish in the middle ground are the strong suit of this site. Macro work on the reef surface rewards careful examination with a diopter. The compressed depth range means more time for patient photography at optimal depths.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Tonga Tourism - Diving Guide](https://tongatourism.travel/diving/), [Tonga Pocket Guide - Dive Sites](https://tongapocketguide.com/10-best-dive-sites-in-tonga/), [Diving Tonga](https://www.divingtonga.com/), [Bluewater Dive Travel - Tonga](https://www.bluewaterdivetravel.com/destination/tonga-diving), [PADI - Diving in Tonga](https://www.padi.com/diving-in/tonga/). Last updated 2026-04-04.*

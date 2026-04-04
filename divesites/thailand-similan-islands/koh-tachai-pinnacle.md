@@ -58,9 +58,5 @@ Koh Tachai Pinnacle demands genuine current-diving experience, not just Advanced
 
 The schooling barracuda and trevally offer some of the most dramatic wide-angle action in Thai waters. A fisheye or ultra-wide lens captures the scale of the schools; use fast shutter speeds (1/200 or higher) to freeze individual fish in a blur of motion across the frame. In good visibility the schools silhouette against lighter water from below. Whale shark encounters at this site tend to be brief and current-driven, so large depth-of-field and fast autofocus response are priorities.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Similan Dive Guide](https://www.similandiveguide.com/), [Sunrise Divers - Similan Islands Dive Sites](https://www.sunrise-divers.com/dive-sites/similan-islands/), [Dive The World Thailand - Similan Islands](https://www.divetheworldthailand.com/similan-islands-diving-sites.php), [Sea Bees Diving - Scuba Diving Similans](https://sea-bees.com/scuba-diving-similans/), [Dive Happy - Diving Similan Islands Guide](https://divehappy.com/diving-similan-islands-quick-guide/). Last updated 2026-04-04.*

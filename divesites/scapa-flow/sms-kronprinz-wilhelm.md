@@ -59,11 +59,5 @@ This is a protected scheduled monument under the Protection of Wrecks Act 1973. 
 
 The massive upturned hull rising from 38 meters to just 12 meters creates dramatic wide-angle compositions conveying the sheer scale of a König-class battleship. The shallower upper hull sections at 12 meters allow wider apertures with better natural light exposure during summer dives. Powerful artificial lighting is essential for the deeper hull sections. The prolific marine life — anemones, starfish, sea urchins — growing across the hull surfaces provides macro subjects at every depth.
 
-## Additional Resources
-
-- **Last Updated**: 2026-04-03
-
-## Sources
-
-- [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/)
-- [Scapa Flow Dive Sites — scapa-flow.co.uk](https://www.scapa-flow.co.uk/dive-site)
+---
+*Sources: [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/), [Scapa Flow Dive Sites — scapa-flow.co.uk](https://www.scapa-flow.co.uk/dive-site). Last updated 2026-04-04.*

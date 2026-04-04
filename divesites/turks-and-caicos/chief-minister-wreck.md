@@ -59,9 +59,5 @@ Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your
 
 The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [Visit TCI - Diving](https://www.visittci.com/things-to-do/diving), [Dive Provo - Dive Site Map](https://diveprovo.com/dive-sites-provo/), [PADI - Diving in Turks and Caicos](https://www.padi.com/diving-in/turks-and-caicos-islands/), [Big Blue Collective - Scuba Diving Guide](https://bigbluecollective.com/blog/the-ultimate-guide-to-scuba-diving-in-turks-caicos/), [Bluewater Dive Travel - Turks and Caicos](https://www.bluewaterdivetravel.com/destination/turks-and-caicos-diving). Last updated 2026-04-04.*

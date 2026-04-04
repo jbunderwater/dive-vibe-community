@@ -30,4 +30,5 @@ The cave system features multiple chamber entrances that allow divers to enter t
 
 Despite the shallow maximum depth, a torch is essential for appreciating the full colour range of the cave biology, much of which is hidden in shadow. Divers should move through caves in single file to minimise silt disturbance and ensure the group can navigate back through the same passage if needed. The site's proximity to Vaadho Caves makes it an ideal pairing for a morning of cave diving in North Male Atoll.
 
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

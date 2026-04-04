@@ -23,9 +23,9 @@ Segaluh is a reef site in the northeast area beyond the main Gili Islands chain,
 
 - **Location**: North Lombok coast / east of Gili Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 m
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–20 m
 - **Current**: Moderate
 - **Best Time**: May to October
@@ -58,9 +58,5 @@ Standard intermediate reef precautions. Currents are moderate. Maintain buoyancy
 
 Fish portraits benefit from the undisturbed nature of the reef — subjects are less wary. Turtle encounters with natural light. Nudibranchs in coral rubble for macro work.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*

@@ -23,7 +23,7 @@ Crystal Bay is Bali's premier site for encountering the ocean sunfish (mola mola
 
 - **Location**: Northwest Nusa Penida, Bali, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef with steep drop-off
+- **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 15–30 meters (can drop to 5 m in algae blooms)
@@ -58,9 +58,5 @@ Downwellings at Crystal Bay can pull divers deep rapidly — this is a documente
 
 The mola mola is one of diving's most iconic and difficult photographic subjects. Use a wide-angle lens and approach slowly from below or to the side — never block the sunfish's path to the surface. Ambient light is usually sufficient at cleaning station depths. The reef boulders and sea fans provide dramatic backdrops for wide-angle reef shots. A macro lens is productive for nudibranchs and pygmy seahorses on the shallower sections.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Aquamarine Diving - Bali Dive Sites](https://www.aquamarinediving.com/bali-diving/dive-sites/), [Dive The World - Bali Indonesia](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [Bluewater Dive Travel - Bali Diving](https://www.bluewaterdivetravel.com/destination/bali-diving), [World Adventure Divers - Best Dive Sites Bali](https://worldadventuredivers.com/best-dive-sites-bali/), [Neptune Scuba Diving - Scuba Diving Bali](https://neptunescubadiving.com/scuba-diving-bali/), [Dive The World - Bali](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [PADI - Diving in Bali](https://www.padi.com/diving-in/bali/). Last updated 2026-04-04.*

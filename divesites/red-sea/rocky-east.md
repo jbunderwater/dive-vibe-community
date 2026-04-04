@@ -22,10 +22,10 @@ Rocky East is the eastern-facing dive site on Rocky Island, part of the Fury Sho
 ## Site Information
 
 - **Location**: Eastern face, Rocky Island, Fury Shoals, southern Egyptian Red Sea (~23.56°N)
-- **Entry Type**: Liveaboard dive only
-- **Site Type**: Coral reef (wall)
-- **Difficulty Level**: Intermediate (current experience recommended)
-- **Maximum Depth**: 20 meters (wall extends deeper)
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–35 meters
 - **Current**: Moderate to strong on the exposed eastern face
 - **Best Time**: October to May
@@ -57,9 +57,5 @@ Current on the eastern face can be strong and variable. Assess conditions from t
 
 The eastern wall provides classic wall photography: gorgonian fans at 15–18 metres with natural blue-water background, wide-angle shots of the anthias-covered wall face, and shark portraits at the reef edge. The undisturbed state of the reef and high visibility create ideal conditions for ambient wide-angle without flash for the upper wall in morning light.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

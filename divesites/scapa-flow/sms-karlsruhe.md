@@ -59,11 +59,5 @@ At 27 meters, this is the most accessible of the German fleet wrecks for standar
 
 The Karlsruhe offers Scapa Flow's best pure marine life photography on a Fleet wreck. Dense plumose anemone colonies and soft coral gardens create extraordinary cold-water landscapes that photograph beautifully with video lights or strobes. The additional light at 27 meters allows slightly more natural ambient light exposure than deeper sites. Nudibranchs, conger eels, and edible crabs provide varied macro and portrait subjects throughout the dive.
 
-## Additional Resources
-
-- **Last Updated**: 2026-04-03
-
-## Sources
-
-- [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/)
-- [Scapa Flow Dive Sites — scapa-flow.co.uk](https://www.scapa-flow.co.uk/dive-site)
+---
+*Sources: [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/), [Scapa Flow Dive Sites — scapa-flow.co.uk](https://www.scapa-flow.co.uk/dive-site). Last updated 2026-04-04.*

@@ -23,7 +23,7 @@ This site sits in relatively sheltered waters near the Balabac Island group, whe
 
 - **Location**: Balabac Strait, southern Palawan, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Submerged rock / reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 19 meters
 - **Typical Visibility**: 10-25 meters
@@ -58,9 +58,5 @@ Tidal currents through the Balabac Strait can be unpredictable. Monitor current 
 
 The shallow, bright conditions are ideal for reef macro photography. Seek nudibranchs and small crustaceans in the rubble patches and under coral ledges. Reef fish portraits and coral landscape shots are equally productive at this compact site.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Diving Squad Palawan Guide](https://www.divingsquad.com/philippines-diving/palawan/), [Scuba Tech Philippines - Coron Wrecks](https://scubatechphilippines.com/scuba_blog/the-shipwrecks-of-coron-wreck-diving-philippines/), [Pirate Coron Dive Sites](https://piratescoron.com/dive-sites/), [DIVE Magazine - Wrecks of Coron Bay](https://divemagazine.com/scuba-diving-travel/wrecks-of-coron-bay-philippines), [ZuBlu - Scuba Diving Coron Palawan](https://www.zubludiving.com/destination/philippines/palawan/coron). Last updated 2026-04-04.*

@@ -50,8 +50,5 @@ Strong currents are the primary hazard. The wall's vertical nature combined with
 ## Photography
 Lionfish Wall offers dual photographic personalities. Macro shooters will find endless lionfish portrait opportunities, with the fish often holding still for extended compositions. A 60mm or 100mm macro lens captures the intricate fin detail and coloring. Wide-angle photographers should focus on the sea fan gardens with sharks or divers for scale, and wall-edge compositions with the deep blue beyond. Dual-strobe setups help bring out the wall's colors at depth. Morning light illuminating the wall face from the east creates the best ambient conditions.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Visit Yap - Dive Sites](https://visityap.com/dive_sites.php), [Manta Ray Bay Resort - Dive Sites](https://mantaray.com/sites/), [Bluewater Dive Travel - Yap](https://www.bluewaterdivetravel.com/destination/yap-diving), [PADI - Diving in Yap](https://www.padi.com/diving-in/yap/), [Ikelite - Insider Guide to Diving Yap](https://www.ikelite.com/blogs/features/an-insiders-guide-to-diving-yap-micronesia). Last updated 2026-04-04.*

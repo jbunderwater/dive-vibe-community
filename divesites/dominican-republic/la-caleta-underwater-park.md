@@ -22,10 +22,10 @@ La Caleta Underwater Park (Parque Nacional Submarino La Caleta) was established 
 ## Site Information
 
 - **Location**: La Caleta, southeast of Santo Domingo, southern Dominican Republic
-- **Entry Type**: Boat dive (short trip from the park's small dock)
-- **Site Type**: Wreck park (multiple wrecks + anchor field)
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters (Hickory wreck deck is at 15–22 meters, keel at 30 meters)
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20–30 meters (65–100 feet)
 - **Current**: Light to minimal in the sheltered bay
 - **Best Time**: Year-round; this southern sheltered location is accessible in most conditions
@@ -58,9 +58,5 @@ The Hickory has some confined spaces if you choose to penetrate — proceed only
 
 The Hickory is one of the best wreck photography subjects in the Dominican Republic. The dense encrustation of orange and red sponges provides color contrast against the blue water, ideal for wide-angle shots. Groupers and jack schools respond well to patient photographers. The anchor field at shallow depth is unique — shoot anchors against the sandy bottom with ambient light filtering from above.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: TripAdvisor, Lonely Planet, Global National Parks. Last updated 2026-03-28.*

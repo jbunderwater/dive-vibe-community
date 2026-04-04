@@ -41,4 +41,4 @@ Outside the arch formations, the reef continues as a typical outer reef slope wi
 Arch and cave sections require good buoyancy control to avoid contact with the formations. Swimthroughs should be assessed individually for size and light availability before entry. The addition of potential whale shark encounters makes this a must-dive site in South Ari Atoll. Visibility typically 15–25 m.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

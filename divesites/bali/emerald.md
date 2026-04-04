@@ -23,9 +23,9 @@ Emerald is a reef site in the Tulamben area of northeast Bali, named for the str
 
 - **Location**: Tulamben area, northeast Bali
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 m
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–25 m
 - **Current**: Generally mild to moderate
 - **Best Time**: April to November
@@ -58,9 +58,5 @@ Currents are generally mild but can pick up in the afternoon. Lionfish in overha
 
 Good natural light in the shallows suits wide-angle reef shots and fish portraits. Turtles on the reef provide accessible wide-angle subjects. The fish diversity makes for productive "reef scene" photography. Macro shooters will find nudibranchs and cleaner shrimps in the rubble zones.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Aquamarine Diving - Bali Dive Sites](https://www.aquamarinediving.com/bali-diving/dive-sites/), [Dive The World - Bali Indonesia](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [Bluewater Dive Travel - Bali Diving](https://www.bluewaterdivetravel.com/destination/bali-diving), [World Adventure Divers - Best Dive Sites Bali](https://worldadventuredivers.com/best-dive-sites-bali/), [Neptune Scuba Diving - Scuba Diving Bali](https://neptunescubadiving.com/scuba-diving-bali/), [Dive The World - Bali](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [PADI - Diving in Bali](https://www.padi.com/diving-in/bali/). Last updated 2026-04-04.*

@@ -23,9 +23,9 @@ Le Grec — officially named *Sagona* — is one of the most historically evocat
 
 - **Location**: South of Porquerolles, Hyères Bay, near Port-Cros, France
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck (three sections)
-- **Difficulty Level**: Advanced (depth and current)
-- **Maximum Depth**: 47 metres
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 47 meters
 - **Typical Visibility**: 10–25 metres
 - **Water Temperature**: 13–25°C
 - **Current**: Moderate to strong; plan for slack or favourable conditions
@@ -58,9 +58,5 @@ Depth and current are the primary hazards. Minimum certification: advanced open 
 
 The gorgonian-covered gangways and deck machinery provide outstanding wide-angle subjects. Groupers and dentex in the water column above the wreck create compelling fish portrait opportunities. Macro work on the encrusted surfaces shows gorgonian polyp detail and the varied sponge communities. Full artificial lighting is needed at these depths.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [CaPel - Port-Cros National Park Dive Sites](https://capel.portcros-parcnational.fr/en/ou-plonger/), [Parc national de Port-Cros - Plongée](https://www.portcros-parcnational.fr/fr/des-decouvertes/une-destination-dexception/la-mer-et-les-fonds-marins/plongee), [World Adventure Divers - Port-Cros](https://worldadventuredivers.com/port-cros-national-park/), [Lavandou Plongée - Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [European Diving School - Port-Cros](https://www.europeandiving.com/hyeres/diving-area/port-cros.html). Last updated 2026-04-04.*

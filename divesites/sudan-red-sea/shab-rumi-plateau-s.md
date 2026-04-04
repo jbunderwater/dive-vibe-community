@@ -22,10 +22,10 @@ The South Plateau sits at the exposed southern tip of Sha'ab Rumi, directly in t
 ## Site Information
 
 - **Location**: Sha'ab Rumi, northern Sudan Red Sea
-- **Entry Type**: Boat dive (liveaboard)
-- **Site Type**: Wall dive / plateau
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters (plateau; outer wall descends much deeper)
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Moderate to strong
 - **Best Time**: October to May
@@ -59,9 +59,5 @@ Strong and variable currents at the southern tip require continuous buoyancy mon
 
 The barracuda tornado is the signature shot — wide-angle from below looking up through the school uses natural light dramatically. Hammerheads along the outer wall in blue water reward wide-angle with backlighting from above. The plateau surface offers medium-range shots of Napoleon wrasse, moray eels in coral heads, and anthias clouds over sea fans.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*

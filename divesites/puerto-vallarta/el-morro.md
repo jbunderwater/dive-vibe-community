@@ -52,3 +52,6 @@ Boat access, approximately 90 minutes from Puerto Vallarta marina. Exposed open-
 - Humpback whale vocalizations can be heard underwater during winter months — listen during the dive, particularly during ascent on calmer days
 - Manta rays appear most reliably when current is running; flat, windless days with no current often mean fewer pelagic sightings
 - The 25-dive minimum is a genuine experience requirement — the tunnel, cavern, open-ocean current, and depth demand solid skills from every diver in the water
+
+---
+*Sources: [Boca Divers - Puerto Vallarta Dive Sites](https://www.bocadivers.net/BocaDivers/divesites.htm), [PADI - Diving in Puerto Vallarta](https://www.padi.com/diving-in/mexico/puerto-vallarta/), [PADI - Top Dive Sites in Puerto Vallarta](https://www.padi.com/dive-sites/mexico/puerto-vallarta/), [Vallarta by Owner - Best Scuba Diving in Puerto Vallarta](https://vallartabyowner.com/scuba/), [Dressel Divers - Puerto Vallarta Scuba Diving](https://www.dresseldivers.com/dive/mexico/puerto-vallarta-scuba-diving/). Last updated 2026-04-04.*

@@ -22,8 +22,8 @@ Separated from Anse Dufour by a short coastal path, Anse Noire is set in a shelt
 ## Site Information
 
 - **Location**: Les Anses d'Arlet area, southwest Martinique
-- **Entry Type**: Shore dive
-- **Site Type**: Volcanic reef
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 8 meters
 - **Typical Visibility**: 15–20 meters
@@ -58,4 +58,4 @@ The rocky entry can be slippery — move carefully and put fins on before enteri
 The black volcanic rock and sand create an unusual compositional backdrop for Caribbean reef photography. Turtle portraits over dark substrate are striking and distinctive. Macro work on the volcanic rock surfaces reveals nudibranchs, shrimp, and small crab species. Compact cameras and action cameras are well suited to these shallow, bright conditions.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Martinique Tourism - Diving](https://www.martinique.org/en/things-to-do/water-sports-and-activities/diving), [Scuba Diving Magazine - Martinique Guide](https://www.scubadiving.com/divers-guide-martinique-shipwrecks-turtles-and-volcanic-reefs), [Guide Martinique - Spots de Plongée](https://www.guidemartinique.com/activites/plongee/spots.php), [Wannadive - Saint Pierre Martinique](https://www.wannadive.net/spot/Central_America/Martinique/Saint_Pierre/index.html), [DiveIn - Best Dive Sites in Martinique](https://www.divein.com/diving/destination/diving-in-martinique/). Last updated 2026-04-04.*

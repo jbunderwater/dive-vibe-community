@@ -22,10 +22,10 @@ Shaab Sataya is a large horseshoe-shaped reef approximately 60 kilometres southe
 ## Site Information
 
 - **Location**: Southern Red Sea, Egypt (southeast of Marsa Alam, lat 24.15°N)
-- **Entry Type**: Boat dive (liveaboard and day boat)
-- **Site Type**: Coral reef / Lagoon
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters (lagoon); deeper on outer wall
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25-35 meters (80-115 feet)
 - **Current**: Light inside lagoon; moderate to strong on outer reef
 - **Best Time**: October to May
@@ -58,9 +58,5 @@ The main reef diving is accessible for intermediate divers, but the outer wall s
 
 Shaab Sataya offers among the most accessible wild dolphin photography opportunities in the world. Wide-angle approach shots with natural surface light are the standard technique. For reef photography, the lagoon edge at 12–15 metres provides excellent natural-light conditions during morning dives. The outer wall at dusk can produce compelling silhouette shots of sharks and large pelagics against the blue water background.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

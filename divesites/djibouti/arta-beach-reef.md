@@ -58,9 +58,5 @@ Be aware of strong currents, jellyfish, remote locations in this area. Dive with
 
 This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [Dive The World - Djibouti Dive Sites](https://www.dive-the-world.com/diving-sites-djibouti.php), [SCUBA Travel - Djibouti Diving](https://www.scubatravel.co.uk/redsea/djibouti-diving.html), [ZuBlu - Scuba Diving in Djibouti](https://www.zubludiving.com/destination/red-sea/arabia-and-horn-of-africa/djibouti), [Divezone - Djibouti Dive Sites](https://divezone.net/diving/djibouti), [PADI - Diving in Djibouti](https://www.padi.com/diving-in/djibouti/). Last updated 2026-04-04.*

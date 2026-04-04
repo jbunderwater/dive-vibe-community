@@ -59,4 +59,4 @@ Boat traffic in Ras Mohammed waters is significant on weekends; maintain close c
 The shallow coral garden between 5-10 meters is ideal for wide-angle reef scenes, with excellent natural light and vibrant fish life. Yellowback fusiliers, anthias, and butterflyfish provide constant action. At depth, sandy patches yield gobies on their mounds and occasional sleeping turtles.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

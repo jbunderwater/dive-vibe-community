@@ -56,9 +56,5 @@ The seaward side of the cay may experience more current than the sheltered lee s
 
 Cay reefs offer the opportunity to photograph the cay fringe structure from below — wide-angle shots looking up toward the cay and surface create distinctive compositions. Turtle encounters at cay sites are common and make excellent subjects.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Scuba Diving Magazine - Jamaica Guide](https://www.scubadiving.com/jumping-jamaica-scuba-divers-guide-paradise), [Divezone - Jamaica Dive Sites](https://divezone.net/diving/jamaica), [PADI - Diving in Jamaica](https://www.padi.com/diving-in/jamaica/), [Bluewater Dive Travel - Jamaica](https://www.bluewaterdivetravel.com/destination/diving-jamaica), [The Scuba Directory - Jamaica](https://thescubadirectory.com/dive-guides/6-best-dive-sites-in-jamaica). Last updated 2026-04-04.*

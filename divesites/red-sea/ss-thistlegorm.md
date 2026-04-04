@@ -22,8 +22,8 @@ The Thistlegorm was a 128-meter steam-powered cargo ship carrying war supplies t
 ## Site Information
 
 - **Location**: Strait of Gubal, Northern Red Sea, Egypt
-- **Entry Type**: Boat dive (liveaboard or day-trip)
-- **Site Type**: Wreck
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 31 meters
 - **Typical Visibility**: 15-30 meters (50-100 feet)
@@ -60,4 +60,4 @@ The Thistlegorm is an advanced dive. The current at the mooring can be strong, p
 The Thistlegorm is a photographer's dream, but challenging. Wide-angle is essential for hold interiors — a rectilinear 10-17mm lens renders the trucks and motorcycles in their full drama. Natural light penetrates from the open holds above, creating beams through particulate that reward patience. The anti-aircraft gun silhouetted against open blue water is one of the most reproduced images in Red Sea diving.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

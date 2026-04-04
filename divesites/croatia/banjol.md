@@ -59,4 +59,4 @@ Cavern diving requires awareness of overhead environments. Always remain oriente
 The cave entrance shot — looking out from inside the cavern toward the diver-lit blue water — is the classic Adriatic cavern image. The backlit silhouette of a diver in the mouth of the cave is equally dramatic. A torch reveals vivid red and orange sponge communities on the interior walls.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*

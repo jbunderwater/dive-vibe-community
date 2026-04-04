@@ -23,9 +23,9 @@ Gili Tepekong South is the dramatic, exposed face of the largest island in Amuk 
 
 - **Location**: Amuk Bay, Candidasa area, east Bali
 - **Entry Type**: Boat dive
-- **Site Type**: Wall / Canyon
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 m
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 10–20 m
 - **Current**: Strong to very strong; powerful down-currents possible
 - **Best Time**: May to October (slack tide only)
@@ -58,9 +58,5 @@ Down-currents in the canyon are the primary hazard and have caused incidents. Ne
 
 The canyon walls create dramatic frame shots. Schools of sweetlips in the current produce action shots that require fast shutter speeds. Reef sharks at rest on the wall are excellent subjects with wide-angle. The Blue Hole chimney with divers backlit by the opening is a signature image of Bali diving.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Aquamarine Diving - Bali Dive Sites](https://www.aquamarinediving.com/bali-diving/dive-sites/), [Dive The World - Bali Indonesia](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [Bluewater Dive Travel - Bali Diving](https://www.bluewaterdivetravel.com/destination/bali-diving), [World Adventure Divers - Best Dive Sites Bali](https://worldadventuredivers.com/best-dive-sites-bali/), [Neptune Scuba Diving - Scuba Diving Bali](https://neptunescubadiving.com/scuba-diving-bali/), [Dive The World - Bali](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [PADI - Diving in Bali](https://www.padi.com/diving-in/bali/). Last updated 2026-04-04.*

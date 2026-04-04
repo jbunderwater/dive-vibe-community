@@ -66,9 +66,5 @@ The Kensho Maru is a war grave and all artifacts are protected by law. The holds
 
 The Kensho Maru rewards photographers willing to work at depth. The munitions in the holds -- mines and shells -- make powerful subjects with careful strobe placement. The relatively compact hold spaces mean wide-angle lenses can capture both the ordnance and the surrounding ship structure in a single frame. The coral-covered masts and superstructure at shallower depths provide colorful wide-angle compositions with natural light. The absence of crowds means clean shots without other divers in frame -- a significant advantage over marquee wrecks. The deeper depth challenges exposure and color; bring strong video lights or wide-beam strobes to compensate for the reduced ambient light at 30-40 meters.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive The World - Chuuk Lagoon Wrecks](https://www.dive-the-world.com/diving-sites-chuuk.php), [Truk Stop Hotel - Wrecks Guide](https://www.trukstop.com/index.php/dive-center/wrecks), [Bluewater Dive Travel - Truk Lagoon Diving](https://www.bluewaterdivetravel.com/destination/truk-lagoon-diving), [Thorfinn - Top Wreck Dives in Truk Lagoon](https://thorfinn.net/exploring-the-ghost-fleet-top-wreck-dives-in-truk-lagoon-for-all-skill-levels/), [DIVE Magazine - Divers Guide to Wrecks of Truk Lagoon](https://divemagazine.com/scuba-diving-travel/divers-guide-to-the-wrecks-of-truk-lagoon), [Truk Stop Hotel - Wreck Dive Sites](https://www.trukstop.com/index.php/dive-center/wrecks), [Bluewater Dive Travel - Truk Lagoon](https://www.bluewaterdivetravel.com/destination/truk-lagoon-diving), [SSI - Diving Chuuk Lagoon Guide](https://www.divessi.com/en/blog/diving-chuuk-lagoon-7005.html), [PADI - Diving in Chuuk Truk Lagoon](https://www.padi.com/diving-in/chuuk-truk-lagoon/). Last updated 2026-04-04.*

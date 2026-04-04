@@ -40,5 +40,4 @@ The coral quality at S-Buoy is high, with particularly good examples of massive 
 Hawksbill turtles, whitetip reef sharks, grey reef sharks, massive Porites corals, brain corals, snapper, sweetlips, moray eels, humphead wrasse, groupers.
 
 ---
-
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*

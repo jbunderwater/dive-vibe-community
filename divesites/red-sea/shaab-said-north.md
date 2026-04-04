@@ -58,9 +58,5 @@ The outer reef location means help is not immediately accessible in an emergency
 
 Clear water and healthy coral make Shaab Said North an excellent wide-angle reef photography location. Early morning sun angles provide pleasing back-scatter-free conditions for shots up the reef slope toward the surface. humphead wrasse and reef shark encounters offer compelling large-animal photography.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

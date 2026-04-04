@@ -57,9 +57,5 @@ The Fury Shoals are offshore reefs in a remote location. Emergency support is pr
 
 Turtles in clear water with coral platform backgrounds are classic Fury Shoals images. The excellent visibility enables wide-angle reef scape shots with natural light penetrating to depth. Dolphin encounters in the blue water reward a wide-angle zoom. Macro work in the sheltered coral crevices is productive in calmer conditions.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

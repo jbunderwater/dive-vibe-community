@@ -60,4 +60,4 @@ Challenger Bay is one of the safest sites in the Ribbon Reefs. Currents are mini
 The bay's calm conditions make it ideal for macro work — no surge to disturb camera positioning. Nudibranchs, flatworms, and small crustaceans reward patient photographers with a diopter or macro lens. Night dives offer Spanish dancer nudibranchs, crayfish, and hunting octopuses as subjects in reliably still water.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Great Barrier Reef Marine Park Authority](https://greatbarrierreef.org/reef-experiences/diving-the-reef/), [Pro Dive Cairns - Dive Sites](https://prodivecairns.com/divesites.html), [PADI - Diving the Great Barrier Reef](https://www.padi.com/diving-in/great-barrier-reef/), [Divezone - Great Barrier Reef](https://divezone.net/diving/great-barrier-reef), [Divernet - Southern Great Barrier Reef Guide](https://divernet.com/scuba-diving/southern-great-barrier-reef-australia-guide/). Last updated 2026-04-04.*

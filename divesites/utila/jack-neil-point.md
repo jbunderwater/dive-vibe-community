@@ -23,8 +23,8 @@ Jack Neil Point is a broad reef site on the southern side of Utila, featuring a 
 
 - **Location**: South coast of Utila, Bay Islands, Honduras
 - **Entry Type**: Boat dive
-- **Site Type**: Sloping reef
-- **Difficulty Level**: Beginner (shallower sections); deeper exploration suitable for intermediate
+- **Site Type**: Coral reef
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20–25 meters (65–80 feet)
 - **Current**: Light to moderate; the south-facing exposure can have current
@@ -58,9 +58,5 @@ Manageable for beginners in the shallow sections. Instructor supervision of stud
 
 Excellent natural-light photography in the shallow garden section. Wide-angle reef scenes with good coral coverage and natural light at 5–10 meters look spectacular. Fish portraiture in good visibility with bright ambient light. Turtle encounters in the shallows are particularly well-lit subjects.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Utila Dive Center](https://utiladivecenter.com/), [Utila Cays Diving - Dive Sites](https://utilacaysdiving.com/dive-with-us/dive-sites/), [Alton's Dive Center Utila](https://diveinutila.com/), [World Adventure Divers - 10 Reasons to Dive Utila](https://worldadventuredivers.com/diving-utila/), [ZuBlu - Scuba Diving in Utila](https://www.zubludiving.com/destination/honduras/bay-islands/utila). Last updated 2026-04-04.*

@@ -59,4 +59,4 @@ Standard outer reef considerations. The mild conditions and moderate depth make 
 Just Magic's broad fish diversity makes it suitable for a mixed photography approach — wide-angle reef landscapes, turtle portraits, and mid-sized reef fish all in a single dive. The site's name encourages a certain latitude in framing: shoot what moves you rather than following a strict shot list.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Great Barrier Reef Marine Park Authority](https://greatbarrierreef.org/reef-experiences/diving-the-reef/), [Pro Dive Cairns - Dive Sites](https://prodivecairns.com/divesites.html), [PADI - Diving the Great Barrier Reef](https://www.padi.com/diving-in/great-barrier-reef/), [Divezone - Great Barrier Reef](https://divezone.net/diving/great-barrier-reef), [Divernet - Southern Great Barrier Reef Guide](https://divernet.com/scuba-diving/southern-great-barrier-reef-australia-guide/). Last updated 2026-04-04.*

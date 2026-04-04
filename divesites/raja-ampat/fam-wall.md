@@ -58,9 +58,5 @@ The wall's drop-off means depth management is essential. Night diving adds compl
 
 Epaulette shark photography at night is the signature opportunity at Fam Wall. A macro lens on a port or a 60mm equivalent with close-focus capability captures the shark's intricate spotted patterning. Wide-angle wall photography during the day is outstanding — the pristine coral coverage and dramatic depth perspective make compelling shots. The remote location means encounter photographs are rarely crowded with other divers in the background.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*

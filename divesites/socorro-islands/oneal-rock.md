@@ -50,8 +50,5 @@ Moderate to strong currents can develop around the pinnacle. The cavern should o
 ## Photography
 The cavern below the plateau provides one of the most photogenic topographical features in the archipelago — wide-angle shots through the cavern opening with hammerheads in the background are signature images. The shallow plateau with good natural light is ideal for ambient-light wide-angle photography of schooling hammerheads.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Mexico Liveaboards - Socorro Revillagigedo](https://mexicoliveaboards.com/destination-socorro.html), [Baja Wild Encounters - Socorro Islands Diving](https://bajawildencounters.com/socorro-islands-scuba-diving-liveaboard-expedition-mexico), [Bluewater Dive Travel - Socorro Island Diving](https://www.bluewaterdivetravel.com/destination/socorro-island-diving), [Nautilus Liveaboards - Scuba Diving Socorro Islands](https://nautilusliveaboards.com/2025/08/21/scuba-diving-socorro-islands/), [Dive Worldwide - Socorro Revillagigedo](https://www.diveworldwide.com/locations/socorro). Last updated 2026-04-04.*

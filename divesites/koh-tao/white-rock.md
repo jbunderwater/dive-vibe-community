@@ -23,9 +23,9 @@ White Rock is located on the west side of Koh Tao and is one of the island's mos
 
 - **Location**: West side of Koh Tao, Gulf of Thailand
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 22 m
+- **Maximum Depth**: 22 meters
 - **Typical Visibility**: 10–20 m
 - **Current**: Generally mild
 - **Best Time**: May to August
@@ -58,9 +58,5 @@ Currents are generally mild but can increase on the outer reef. Long-spined blac
 
 Christmas tree worms in multi-colour clusters make outstanding close-focus wide-angle or macro subjects. Honeycomb grouper portraits are achievable with a patient approach. Night dive photography reveals octopus colour changes and hunting crustaceans.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Koh Tao Complete Guide - Best Dive Sites](https://www.kohtaocompleteguide.com/diving/koh-tao-dive-sites/), [Sairee Cottage Diving - Koh Tao Dive Sites Complete Guide](https://www.saireecottagediving.com/koh-tao-dive-sites-complete-guide-to-26-incredible-locations/), [Big Blue Diving Koh Tao](https://www.bigbluediving.com/), [PADI - Diving in Koh Tao](https://www.padi.com/diving-in/koh-tao/), [Dive Happy - Koh Tao Dive Sites Guide](https://divehappy.com/). Last updated 2026-04-04.*

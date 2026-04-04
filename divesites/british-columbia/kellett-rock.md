@@ -23,9 +23,9 @@ Kellett Rock is located near Port San Juan (Port Renfrew) at the western end of 
 
 - **Location**: Near Port Renfrew, western Strait of Juan de Fuca, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Submerged rock / reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–20 metres
 - **Current**: Strong tidal currents and ocean swell — conditions-dependent site
 - **Best Time**: Late summer to early autumn for calm conditions
@@ -57,11 +57,8 @@ Open Pacific exposure makes this site weather and swell dependent. Strong curren
 
 The open Pacific influence produces exceptional water clarity when upwelling conditions prevail. Wide-angle photography of the rock structure with large lingcod and encrusting life is outstanding. Less-dived sites like Kellett Rock often produce more natural animal behaviours — octopus in the open, lingcod hunting, and rockfish in undisturbed schools. Bring a full photography kit for this special site.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
 - Port Renfrew area information: portrenfrew.ca
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

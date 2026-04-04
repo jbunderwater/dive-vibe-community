@@ -23,7 +23,7 @@ Situated on the open southern Caribbean shelf, Banc du Singe features more expos
 
 - **Location**: Off south coast Martinique, Sainte-Luce area
 - **Entry Type**: Boat dive
-- **Site Type**: Open bank reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15–25 meters
@@ -58,4 +58,4 @@ Current on the outer face can be significant — never dive against a strong cur
 The combination of gorgonian sea fans at depth, potential reef shark encounters, and good visibility makes Banc du Singe an excellent wide-angle photography site. Morning light reaches the shallower reef crest well; deeper sections benefit from a good strobe setup.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Martinique Tourism - Diving](https://www.martinique.org/en/things-to-do/water-sports-and-activities/diving), [Scuba Diving Magazine - Martinique Guide](https://www.scubadiving.com/divers-guide-martinique-shipwrecks-turtles-and-volcanic-reefs), [Guide Martinique - Spots de Plongée](https://www.guidemartinique.com/activites/plongee/spots.php), [Wannadive - Saint Pierre Martinique](https://www.wannadive.net/spot/Central_America/Martinique/Saint_Pierre/index.html), [DiveIn - Best Dive Sites in Martinique](https://www.divein.com/diving/destination/diving-in-martinique/). Last updated 2026-04-04.*

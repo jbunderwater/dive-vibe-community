@@ -22,8 +22,8 @@ The Giannis D was a Greek cargo vessel that grounded on the shallow reef of Sha'
 ## Site Information
 
 - **Location**: Sha'ab Abu Nuhas, northern Egyptian Red Sea (approximately 70 km north of Hurghada)
-- **Entry Type**: Boat dive (liveaboard)
-- **Site Type**: Wreck (intact cargo vessel, 99 m length)
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters
 - **Typical Visibility**: 20–30 meters
@@ -59,4 +59,4 @@ Do not attempt full penetration of the engine room or deep hull spaces without w
 The Giannis D is arguably the most photogenic wreck in the northern Red Sea. The colourful soft coral encrustation on the hull lends itself to close-focus wide-angle shots. The foremast and bow section make superb diver-portrait backdrops. A torch with strong output is required to bring out the vivid orange corals in the holds.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

@@ -58,9 +58,5 @@ Conditions at this site are generally benign, making it suitable for a wide rang
 
 Anita's Garden is an outstanding photography site across all formats. Wide-angle coral scenics capture the sheer colour and density of the garden. Macro work on coral surfaces yields nudibranchs, flatworms, seahorses, and tiny commensal crustaceans. The shallow depth and typically calm conditions allow extended natural-light shooting without strobe fatigue. Late-morning light through the water column produces beautiful results.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*

@@ -58,9 +58,5 @@ The Boonsung is beginner-appropriate in terms of depth and topography — there 
 
 The fish school scenes at the Boonsung are its signature photographic opportunity: wide-angle in the 10–15mm equivalent range, shooting upward through a school toward the surface light, creates dynamic wide-angle frames with good backlit silvery scatter. Whale sharks above the wreck with divers for scale are the prize image. Bring a strobe for the encrusted wreck metal close-ups — the combination of soft coral, machinery, and ambient fish colour is rich. Macro shooters will find lionfish, flatworms, and nudibranch species on the wreck structure.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Similan Dive Guide](https://www.similandiveguide.com/), [Sunrise Divers - Similan Islands Dive Sites](https://www.sunrise-divers.com/dive-sites/similan-islands/), [Dive The World Thailand - Similan Islands](https://www.divetheworldthailand.com/similan-islands-diving-sites.php), [Sea Bees Diving - Scuba Diving Similans](https://sea-bees.com/scuba-diving-similans/), [Dive Happy - Diving Similan Islands Guide](https://divehappy.com/diving-similan-islands-quick-guide/). Last updated 2026-04-04.*

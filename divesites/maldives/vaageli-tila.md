@@ -30,4 +30,5 @@ The pinnacle rises steeply from 25 metres to within 5 metres of the surface, its
 
 The pinnacle can be circumnavigated in two directions — clockwise with the current favoured for the more dramatic pelagic action on the exposed side, counter-clockwise for a more sheltered dive. Gas management needs accounting for the open-water setting; there is no easy reef to ascend along if air runs short. This site pairs naturally with Vaageli Faru Tila for a double-pinnacle day on the Vaageli reef complex.
 
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

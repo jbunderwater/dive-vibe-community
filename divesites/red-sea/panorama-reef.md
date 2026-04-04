@@ -58,4 +58,4 @@ Current direction and intensity varies around the reef perimeter. The northern a
 Panorama Reef is a premier photography destination. Wide-angle shots of the wall with gorgonian sea fans in the foreground and clear blue water behind are iconic Red Sea images. The humphead wrasse offer outstanding fish portrait opportunities. Schools of anthias and glassfish in the shallows create spectacular mid-water compositions. Macro subjects including nudibranchs, pipefish, and crinoid shrimp reward careful searching in coral crevices.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

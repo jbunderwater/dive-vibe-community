@@ -23,7 +23,7 @@ Reaching 25 meters at its deepest point, La Caye features a sloping reef that tr
 
 - **Location**: Malendure area, Basse-Terre, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Open reef with sandy terraces
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20–30 meters
@@ -58,4 +58,4 @@ Current is a real consideration at this site — ask your operator about conditi
 The deeper sandy terrace zone offers opportunities for wide-angle shots of eagle rays and reef sharks in open water. Reef slope compositions at 12–18 meters with ambient light are particularly effective in the dry season.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*

@@ -58,9 +58,5 @@ This is the most demanding dive in the Galapagos and not suitable for inexperien
 
 Wide-angle is essential here -- bring the biggest dome port you have for hammerhead schools against the blue water backdrop. The channel between the rock formations creates dramatic silhouette opportunities with sharks overhead. Sea lions in the shallows offer engaging close-up wide-angle subjects. Macro is impractical due to surge and currents. Shoot on high shutter speed (1/200+) to freeze motion in the turbulent water. Morning light penetrating the channel provides the best natural illumination.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [PADI - Diving in the Galapagos Islands](https://www.padi.com/diving-in/the-galapagos-islands/), [PADI Blog - Top Dive Sites in the Galapagos](https://blog.padi.com/top-dive-sites-in-the-galapagos/), [Bluewater Dive Travel - Galapagos](https://www.bluewaterdivetravel.com/destination/galapagos-diving), [World Adventure Divers - Diving Galapagos](https://worldadventuredivers.com/diving-galapagos/), [Galapagos Safari Camp - Scuba Diving](https://www.galapagossafaricamp.com/scuba-diving-galapagos/). Last updated 2026-04-04.*

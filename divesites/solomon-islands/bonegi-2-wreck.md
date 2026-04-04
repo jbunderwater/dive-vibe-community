@@ -59,4 +59,4 @@ Currents at this site are minimal and conditions are generally benign, making it
 The combination of encrusted steel and natural light makes for appealing wide-angle shots along the hull. The shallower sections in 5–10 meters are particularly well-lit and ideal for natural-light photography without a strobe. Macro photographers will find nudibranchs, flatworms, and decorator crabs throughout the hull plating. A 60mm or 100mm macro lens rewards patience here.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Bilikiki Cruises - Dive Sites](https://www.bilikiki.com/about/dive-sites), [Dive the World - Solomon Islands](https://www.dive-the-world.com/diving-sites-solomon-islands.php), [Bluewater Dive Travel - Solomon Islands](https://www.bluewaterdivetravel.com/destination/solomon-islands-diving), [PADI - Diving in Solomon Islands](https://www.padi.com/diving-in/solomon-islands/), [Visit Solomons Dive Guide](https://www.visitsolomons.com.sb/wp-content/uploads/2023/11/Dive-Guide-Nov-10-2023-Digital.pdf). Last updated 2026-04-04.*

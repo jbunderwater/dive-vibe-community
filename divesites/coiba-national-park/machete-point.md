@@ -60,11 +60,11 @@ Monitor depth constantly—wall descent can be hypnotic. Currents may be stronge
 
 Year-round diveable with variable conditions. Dry season (December-April) offers calmer conditions but stronger currents. Rainy season (May-November) brings warmer water and gentler conditions.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
 - **Validation Source**: Perplexity research (March 2026)
 - **Note**: Site location inferred; local operator confirmation recommended
 
 ---
 *Dive site information researched March 2026. Note: Machete Point location and characteristics based on coordinates; verification with local operators recommended.*
+
+---
+*Sources: [Scuba Coiba - The Original Dive Center](https://scubacoiba.com/), [Panama Dive Center - Coiba National Park](https://panamadivecenter.com/), [Coiba Dive Center](https://coibadivecenter.com/), [Coiba Island - Best Diving Sites](https://coiba-island.com/best-diving-sites-coiba-island-panama/), [The Ark Divers - Scuba Diving in Coiba National Park](https://www.thearkdivers.com/dive). Last updated 2026-04-04.*

@@ -58,4 +58,4 @@ Current can increase with tidal flow. Deploy SMB before ascending. Fire coral is
 Eagle ray encounters in the clear Speyside water are the standout photography subjects. Wide-angle shots of rays "flying" over the sandy floor or open water are achievable with a patient approach and good buoyancy. The reef face at 8–12 meters provides classic reef photography in good ambient light.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: padi.com, underseatobago.com, visittobago.gov.tt - gentle drift 0-2 knots. Last updated 2026-03-28.*

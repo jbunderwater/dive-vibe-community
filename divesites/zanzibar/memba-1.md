@@ -57,9 +57,5 @@ One of the more forgiving dive sites in the Zanzibar Archipelago. The 18-meter m
 
 The bright, shallow reef provides excellent natural light for daytime photography without strobes. Turtle portraits are the signature photography opportunity. The coral formations at 8-14 meters photograph well with a 60mm macro or moderate wide-angle lens to capture both reef structure and fish life in frame.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Diving in Zanzibar - Nungwi Dive Center](https://www.divinginzanzibar.com/dive-sites-map/), [PADI - Diving in Zanzibar](https://www.padi.com/diving-in/zanzibar/), [PADI - Top Dive Sites Zanzibar](https://www.padi.com/dive-sites/zanzibar/), [Bluewater Dive Travel - Zanzibar](https://www.bluewaterdivetravel.com/destination/diving-zanzibar-tanzania-kenya), [One Ocean Zanzibar](https://zanzibaroneocean.com/). Last updated 2026-04-04.*

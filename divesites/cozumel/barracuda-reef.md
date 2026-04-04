@@ -23,9 +23,9 @@ Barracuda Reef sits at the northern apex of Cozumel's leeward dive sites, where 
 
 - **Location**: Northern Cozumel, Quintana Roo, Mexico
 - **Entry Type**: Boat dive
-- **Site Type**: Outer reef slope with current-swept edge
+- **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters (100 feet)
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 25–40 meters (80–130 feet)
 - **Current**: Moderate to strong — northern channel current
 - **Best Time**: November to April for optimal current conditions; summer can produce less predictable patterns
@@ -58,9 +58,5 @@ Barracuda Reef is not a site for newly-certified divers despite being within spo
 
 Great barracuda in large numbers are a compelling wide-angle subject — a 10–17mm fisheye or wide rectilinear lens captures groups in the current. The open-water positioning of the site means good ambient light for backscatter-free images if your strobes are aimed correctly. Reef sharks and eagle rays moving past the outer edge create dynamic action images. The current-swept nature of the site challenges photographers — practice neutral buoyancy positioning in current before attempting complex shots here.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [The Reefs of Cozumel - Reef Guide](https://www.reefsofcozumel.com/reefguide.html), [Cozumel Scuba - Dive Sites](https://cozumelscuba.com/cozumel-dive-sites/), [Blue Note Scuba - Cozumel Dive Sites](https://www.bluenotescuba.com/cozumel-dive-sites), [Sand Dollar Sports - Cozumel Dive Sites](https://sanddollarsports.com/activities/cozumel-dive-sites/), [Pro Dive International - Divers Guide to Cozumel](https://www.prodiveinternational.com/diving/mexico/cozumel/). Last updated 2026-04-04.*

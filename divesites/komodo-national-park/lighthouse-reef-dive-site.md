@@ -50,4 +50,5 @@ Most divers enter upcurrent of the lighthouse and drift along the reef crest bef
 
 The northern Komodo zone around Gili Lawa Darat offers some of the park's most consistently clear water. Lighthouse Reef works well as either a first or last dive of the day given its sheltered aspect. Combining it with Castle Rock or Crystal Rock in the same trip gives a representative sample of northern Komodo diving. Look closely at the larger sea fans for pygmy seahorses.
 
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: [Dive Komodo - Dive Sites](https://divekomodo.com/dive-sites-komodo/), [Dragon Dive Komodo - Top 10 Dive Sites](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [World Adventure Divers - Diving in Komodo](https://worldadventuredivers.com/diving-in-komodo/), [Dive Komodo National Park](https://divekomodonationalpark.com/), [Blue Marlin Dive - Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/). Last updated 2026-04-04.*

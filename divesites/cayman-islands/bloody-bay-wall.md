@@ -23,9 +23,9 @@ Bloody Bay Wall is widely regarded as one of the finest wall dives in the Caribb
 
 - **Location**: North Shore, Little Cayman, Cayman Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Wall
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 27 meters (90 feet) for typical sport diving; wall continues to 6,000 feet
+- **Maximum Depth**: 27 meters
 - **Typical Visibility**: 25–40 meters (82–130 feet)
 - **Current**: Light to moderate
 - **Water Temperature**: 26–29°C (79–84°F)
@@ -59,9 +59,5 @@ The dramatic visual experience of the wall edge can distract divers from depth m
 
 Bloody Bay Wall is arguably the Caribbean's most photographic wall dive. Wide-angle compositions of the reef edge with divers against the blue abyss capture the scale of the environment. Shark and eagle ray encounters along the wall face are compelling wide-angle subjects. The colorful upper reef sea fans and sponges reward close-focus work with a strobe. Early morning dives when the sun is low create dramatic light angles on the wall face.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Visit Cayman Islands - Diving Guide](https://www.visitcaymanislands.com/en-us/things-to-do/diving), [Scuba Diving Magazine - Divers Guide to Cayman Islands](https://www.scubadiving.com/divers-guide-to-cayman-islands), [Bluewater Dive Travel - Cayman Islands Diving](https://www.bluewaterdivetravel.com/destination/cayman-islands-diving), [Visit Cayman Islands - 365 Dive Sites](https://www.visitcaymanislands.com/en-us/things-to-do/diving/365-dive-sites), [Ocean Frontiers - Cayman Islands Dive Center](https://www.oceanfrontiers.com/). Last updated 2026-04-04.*

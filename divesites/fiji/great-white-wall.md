@@ -58,9 +58,5 @@ Current in the Somosomo Strait can reach 3–4 knots and can reverse direction q
 
 Great White Wall is one of Fiji's most-photographed sites and one of the most challenging to do justice to. The white coral against the deep blue water demands wide-angle shooting; a rectilinear 10–17mm or fisheye lens works best. Shoot toward the blue to silhouette coral formations against the open ocean, or position a dive buddy against the wall for scale. Strobes should be positioned wide to avoid backscatter from the coral polyps. Shooting upward along the wall face with light filtering from above can produce striking abstract compositions. Macro photographers will find lionfish, nudibranchs, and pygmy seahorses in the coral matrix.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [NAI'A Liveaboard - Fiji Dive Sites](https://www.naia.com.fj/fiji/dive-sites/), [Dive the World - Fiji](https://www.dive-the-world.com/diving-sites-fiji.php), [Bluewater Dive Travel - Fiji](https://www.bluewaterdivetravel.com/destination/fiji-diving), [PADI - Diving in Fiji](https://www.padi.com/diving-in/fiji/), [Waterlust Fiji Reef Guide](https://www.waterlustfiji.com/guide-to-fiji-diving). Last updated 2026-04-04.*

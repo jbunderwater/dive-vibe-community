@@ -23,7 +23,7 @@ Big Stone is characterised by its central feature — a massive coral bommie or 
 
 - **Location**: Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef / Pinnacle
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters (65–100 feet)
@@ -58,9 +58,5 @@ Current can channel around the isolated formation. Monitor air consumption on th
 
 The isolated pinnacle format lends itself to dramatic wide-angle compositions, particularly shooting upward from the base toward the surface. Schools of anthias and humphead wrasse against the coral provide strong subjects. Macro opportunities exist in the crevices and overhangs.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

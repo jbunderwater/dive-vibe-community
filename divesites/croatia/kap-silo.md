@@ -23,7 +23,7 @@ The reef extends from the cape in the typical Kvarner limestone format — rocky
 
 - **Location**: Silo, Northeast Krk Island, Kvarner, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–20 meters
@@ -58,4 +58,4 @@ Standard intermediate reef diving in generally benign conditions. Monitor depth 
 The clear Kvarner water provides excellent wide-angle opportunities across the reef. Resident grouper portraits and the Posidonia meadow's seahorses and pipefish are highlights. The rocky reef structure and its associated encrusting communities reward close macro work.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*

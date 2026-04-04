@@ -56,9 +56,5 @@ Mild conditions are typical. Fire coral on the fringing reef. Scorpionfish in ca
 
 Sandy slope macro work — scorpionfish portraits, blue-spotted ray compositions — in the well-lit shallow bay suits ambient natural light. Cleaning station portraits reward a patient telephoto approach.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

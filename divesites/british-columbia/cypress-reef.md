@@ -25,7 +25,7 @@ Cypress Reef is a wreck site in the southern Strait of Georgia, near the BC-Wash
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 28 metres
+- **Maximum Depth**: 28 meters
 - **Typical Visibility**: 6–12 metres
 - **Current**: Moderate tidal currents — plan around slack
 - **Best Time**: Late summer and autumn for best visibility
@@ -57,11 +57,8 @@ Advanced depth of 28 metres requires careful NDL management. Wreck diving adds e
 
 Wrecks make exceptional wide-angle subjects, with the hull providing scale and the encrusting life adding colour. Shoot along the hull with the bow or stern silhouetted in the background. Octopus in den openings on the wreck hull are compelling subjects. The interaction of artificial structure with natural marine life provides unique compositional opportunities.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
 - Sidney area dive operators for charter access and current conditions
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

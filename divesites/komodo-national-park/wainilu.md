@@ -59,4 +59,4 @@ Wainilu is one of Komodo's safest dive sites. The primary risk is stirring sedim
 Wainilu is a macro photographer's treasure site. Shoot frogfish with a 100mm lens using a single strobe from the side to avoid flat frontal lighting. Leaf scorpionfish and coconut octopus reward patient observation before firing. A snoot or grid modifier on your strobe creates dramatic dark backgrounds. Keep your fins clear of the sand — a photographer who stirs visibility ruins the shoot for everyone.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive Komodo - Dive Sites](https://divekomodo.com/dive-sites-komodo/), [Dragon Dive Komodo - Top 10 Dive Sites](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [World Adventure Divers - Diving in Komodo](https://worldadventuredivers.com/diving-in-komodo/), [Dive Komodo National Park](https://divekomodonationalpark.com/), [Blue Marlin Dive - Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/). Last updated 2026-04-04.*

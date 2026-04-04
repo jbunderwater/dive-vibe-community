@@ -57,9 +57,5 @@ The Fury Shoals are offshore reefs; emergencies require liveaboard support. Dive
 
 Turtles at close range on the coral platform are among the best photography opportunities in the southern Red Sea. The clear water and healthy coral provide excellent wide-angle reef scape compositions. Dolphin encounters in the mid-water zone reward quick action with a wide or fisheye lens. Soft coral growth on the outer reef walls produces close-focus wide-angle opportunities.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

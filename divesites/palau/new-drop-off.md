@@ -50,8 +50,5 @@ The sheer vertical wall creates a strong psychological pull to descend deeper th
 ## Photography
 The hard coral garden on the reef top is best shot with a wide-angle lens under natural light, capturing the dense coral formations against the blue water background. The wall itself offers dramatic perspectives -- shoot along the wall face to emphasize the vertical scale, or position a diver on the edge for a sense of the abyss below. Pelagic encounters are best captured with available light and fast shutter speeds. Macro shooters will find leaf scorpionfish, nudibranchs, and flatworms on the reef top.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Palau Dive Adventures](https://palaudiveadventures.com/best-dive-sites-palau/), [Bluewater Dive Travel - Palau](https://www.bluewaterdivetravel.com/destination/palau-diving), [Dive the World - Palau](https://www.dive-the-world.com/diving-sites-palau.php), [PADI - Diving in Palau](https://www.padi.com/diving-in/palau/), [Pristine Paradise Palau](https://pristineparadisepalau.com/dive-palau/). Last updated 2026-04-04.*

@@ -36,14 +36,5 @@ Solomon Islands is a notable diving destination in the Pacific region with depth
 - **Language**: English
 - **Safety**: Always dive within certification limits. Be aware of strong currents, remote locations, jellyfish. Verify the location of the nearest hyperbaric chamber before diving.
 
-## Sources
-
-- OpenStreetMap dive site data and community contributions
-- Regional diving guides and operator information
-- Marine conservation organization reports
-- Local tourism board resources
-
 ---
-
-*Last updated: March 2026*
-*Compiled from OpenStreetMap data, regional diving knowledge, and authoritative marine sources*
+*Sources: [Bilikiki Cruises - Dive Sites](https://www.bilikiki.com/about/dive-sites), [Dive the World - Solomon Islands](https://www.dive-the-world.com/diving-sites-solomon-islands.php), [Bluewater Dive Travel - Solomon Islands](https://www.bluewaterdivetravel.com/destination/solomon-islands-diving), [PADI - Diving in Solomon Islands](https://www.padi.com/diving-in/solomon-islands/), [Visit Solomons Dive Guide](https://www.visitsolomons.com.sb/wp-content/uploads/2023/11/Dive-Guide-Nov-10-2023-Digital.pdf). Last updated 2026-04-04.*

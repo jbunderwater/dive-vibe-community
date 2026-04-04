@@ -57,9 +57,5 @@ Remote location means emergency support is many hours away. Dive conservatively 
 
 The exceptional visibility and undisturbed marine life make Shaab El Shaga a productive photography site. Natural-behavior fish photography is more achievable here than at busier northern Red Sea sites. Wide-angle reef landscapes in 30+ meter visibility are compelling. Reef shark silhouettes against the deep blue reward patience at the outer reef edge.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

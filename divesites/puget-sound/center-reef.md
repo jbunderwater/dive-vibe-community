@@ -23,9 +23,9 @@ Center Reef occupies a position in Haro Strait, the main channel separating the 
 
 - **Location**: Haro Strait, western San Juan Islands, Washington
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres
 - **Water Temperature**: 7–11°C
 - **Current**: Strong tidal; diving at slack is essential
@@ -58,9 +58,5 @@ Haro Strait is one of the stronger tidal passages in the San Juan Islands. Timin
 
 The anemone wall coverage on Center Reef rivals any site in the Pacific Northwest. Wide-angle shots of anemone fields with ambient light filtering down are compelling. Macro work on nudibranch species in the anemone bases is productive. Large lingcod portraits, taken with a wide-angle lens from close range, are a signature shot of this region.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Washington Dept of Fish & Wildlife - Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [PNW Scuba - Pacific Northwest Dive Site Maps](https://www.pnwscuba.com/Pacific-Northwest-Dive-Sites/Maps), [Emerald Diving - Puget Sound Dive Sites](https://www.emeralddiving.com/local_sites_jf.html), [Scuba Diving Magazine - Seattle & Puget Sound](https://www.scubadiving.com/drive-and-dive-seattle-puget-sound), [UnderSea Adventures - Puget Sound Diving Charters](https://www.underseaadventures.net/puget-sound.htm). Last updated 2026-04-04.*

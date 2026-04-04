@@ -23,9 +23,9 @@ The Annie Falconer was a two-masted schooner typical of the commercial sailing f
 
 - **Location**: Lake Ontario, Great Lakes, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 metres
+- **Maximum Depth**: 22 meters
 - **Typical Visibility**: 5–10 metres
 - **Water Temperature**: 4–18°C (seasonal); bottom typically 4–6°C
 - **Current**: Generally mild; Lake Ontario produces minimal tidal current
@@ -59,9 +59,5 @@ Lake Ontario is generally calmer than Lake Erie or Lake Huron but still subject 
 
 The upright profile of the Annie Falconer lends itself to dramatic wreck photography. Swim back to capture the entire hull in frame, or move in close for detail shots of preserved rigging and deck hardware. Natural light from above creates moody silhouette opportunities in the upper water column.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Michigan.org - Dive Michigan Shipwrecks Underwater Preserves](https://www.michigan.org/article/trip-idea/dive-michigan-shipwrecks-these-underwater-preserves), [Great Lakes Shipwreck Preservation Society - Dive Sites](https://glsps.clubexpress.com/DiveSites), [Scuba Diving Magazine - Great Lakes Shipwrecks](https://www.scubadiving.com/great-lakes-shipwrecks-like-youve-never-seen-them-before), [Gear Patrol - Guide to Wreck Diving the Great Lakes](https://www.gearpatrol.com/archive/a162066/great-lakes-wreck-diving-guide/), [Shipwreck Explorers - Wisconsin Scuba Diving](https://www.shipwreckexplorers.com/). Last updated 2026-04-04.*

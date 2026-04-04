@@ -23,9 +23,9 @@ Gull Reef is a productive intermediate reef dive in the heart of the Gulf Island
 
 - **Location**: Southern Gulf Islands, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 6-12 metres
 - **Water Temperature**: 8-12°C (drysuit recommended)
 - **Current**: Strong on tidal exchanges — dive at slack
@@ -60,4 +60,4 @@ Strong tidal currents in the Gulf Islands passages are the primary safety concer
 Gull Reef offers a blend of macro and wide-angle opportunities. Nudibranchs and small crustaceans provide excellent macro subjects in the shallower kelp zone. Lingcod and rockfish portraits work well with a wide-angle or fisheye lens. GPO encounters are a highlight — take your time positioning for the best angle and use a single strobe to avoid harsh shadows on the animal's textured skin.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

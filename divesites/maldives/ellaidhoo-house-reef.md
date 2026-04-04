@@ -38,4 +38,4 @@ Hawksbill and green turtles, moray eels, blue-spotted stingrays, octopus, parrot
 The house reef is accessible directly from the beach or by short boat transfer to the outer slope. Early morning dives are particularly rewarding for turtle encounters. The inner lagoon section is perfect for night dives with fluorescent coral and hunting lionfish. Strong current is rarely encountered here, making this an ideal first dive in the Maldives.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

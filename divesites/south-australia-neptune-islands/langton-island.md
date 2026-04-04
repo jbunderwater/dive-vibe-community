@@ -58,9 +58,5 @@ PADI Open Water certification or equivalent required. Giant stride or back roll 
 
 Cold-water reef diving requires proper thermal protection and buddy awareness. Kelp forests present entanglement risk if moving too quickly; maintain controlled movements. Rocky substrate demands excellent buoyancy control to avoid abrasion and reef damage. Standard open water diving protocols apply: equalization, air consumption monitoring, safety stop compliance. Always dive with a buddy. Water temperature 14-22°C requires extended thermal protection and energy management. Verify current conditions with local operators before diving.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [Rodney Fox Shark Expeditions - Neptune Islands](https://rodneyfox.com.au/great-white-shark-central/the-neptune-islands/), [Scuba Diving Magazine - Cage Diving Neptune Islands](https://www.scubadiving.com/cage-diving-with-great-white-sharks-in-neptune-islands-australia), [DAN Alert Diver - South Australia Great White Sharks](https://dan.org/alert-diver/article/south-australias-great-white-shark-adventure/), [SA Marine Parks Neptune Islands Group](https://www.marineparks.sa.gov.au/find-a-park/eyre-peninsula/neptune-islands), [Dive Worldwide South Australia](https://www.diveworldwide.com/locations/south-australia). Last updated 2026-04-04.*

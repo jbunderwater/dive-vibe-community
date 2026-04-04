@@ -22,7 +22,7 @@ Siyal South sits at approximately 24.38°N, 35.38°E — in the Marsa Alam offsh
 ## Site Information
 
 - **Location**: Southern Siyal reef complex, offshore Marsa Alam (~24.38°N, 35.38°E)
-- **Entry Type**: Boat dive (day trip from Marsa Alam)
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
@@ -57,9 +57,5 @@ Moderate current can develop on the outer slope, particularly on tidal transitio
 
 The sandy transition zone at Siyal South provides macro opportunities: goby-shrimp pairs, blue-spotted rays, and flatfish. The reef crest at 5–8 metres in morning light suits ambient wide-angle work on the coral formations. The outer slope in current provides wide-angle conditions for reef fish aggregations.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

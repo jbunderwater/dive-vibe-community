@@ -59,4 +59,4 @@ Cavern diving principles apply: always maintain sight of natural light, ensure a
 The cavern entrance with sunbeams penetrating from outside is the signature composition at this site. A diver silhouetted against the light-filled entrance makes a compelling image. Torch-lit macro shots of the encrusted interior walls and resident crustaceans round out a productive photography day.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*

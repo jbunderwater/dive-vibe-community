@@ -58,9 +58,5 @@ Currents can be strong and unpredictable at this site. Always carry and be prepa
 
 Wide-angle shots of the coral-encrusted walls with ambient blue water backgrounds are rewarding here, especially when schools of fish or dolphins are in frame. The gorgonian fans on current-facing slopes are excellent subjects in the 12–18 meter range. Macro opportunities exist on the coral rubble at the base of the reef wall.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

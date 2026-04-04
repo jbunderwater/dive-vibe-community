@@ -23,9 +23,9 @@ Janit Reef lies in Barkley Sound on the west coast of Vancouver Island, one of B
 
 - **Location**: Barkley Sound, west coast of Vancouver Island, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Submerged reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–20 metres
 - **Current**: Ocean swells and tidal currents — plan around slack
 - **Best Time**: Late summer and autumn for best visibility
@@ -57,11 +57,8 @@ West coast BC diving is more demanding than sheltered inside waters. Ocean swell
 
 Barkley Sound's biodiversity creates outstanding photographic opportunities. Dense sponge and anemone growth on current-swept walls produces classic Pacific Northwest wide-angle images. Giant octopus in the open are exceptional subjects. Look for sea pens on sandy substrate adjacent to the reef and photograph them in their extended feeding position.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
 - Bamfield Marine Sciences Centre for area information
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

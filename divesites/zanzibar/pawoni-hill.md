@@ -23,7 +23,7 @@ Pawoni Hill sits within the broader Jambiani reef area but at a deeper position 
 
 - **Location**: Jambiani Reef, Southeast Zanzibar Island, Tanzania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef (coral hill)
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 12-18 meters (40-60 feet)
@@ -57,9 +57,5 @@ Benign diving conditions overall, with the 20-meter depth being the primary cons
 
 Pawoni Hill's vertical relief creates compositional variety rare in the flat lagoon environment. Shooting upward from the base at 18-20 meters toward the hill crest silhouetted against the light surface provides dramatic wide-angle compositions. Close-up photography of garden eels requires very slow approach and patience. Lionfish portraits against coral backgrounds are reliable subjects on the upper slope.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Diving in Zanzibar - Nungwi Dive Center](https://www.divinginzanzibar.com/dive-sites-map/), [PADI - Diving in Zanzibar](https://www.padi.com/diving-in/zanzibar/), [PADI - Top Dive Sites Zanzibar](https://www.padi.com/dive-sites/zanzibar/), [Bluewater Dive Travel - Zanzibar](https://www.bluewaterdivetravel.com/destination/diving-zanzibar-tanzania-kenya), [One Ocean Zanzibar](https://zanzibaroneocean.com/). Last updated 2026-04-04.*

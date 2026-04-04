@@ -22,7 +22,7 @@ The South Plateau of Daedalus Reef is the southernmost diving section of this re
 ## Site Information
 
 - **Location**: Southern end of Daedalus Reef, 80 km offshore Marsa Alam, Egyptian Red Sea (liveaboard only)
-- **Entry Type**: Boat dive (liveaboard)
+- **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
@@ -58,9 +58,5 @@ The south plateau of Daedalus is a full open-ocean environment with no shelter. 
 
 The south plateau is the Red Sea's best location for thresher shark photography — the dawn dives at the plateau edge produce encounters in clear open blue water at manageable depths. Wide-angle lenses at 10–17mm capture the distinctive long tail and graceful silhouette against open water. For the wall section, soft coral gardens reward close-focus wide-angle technique. Oceanic whitetips at mid-water are best captured with a single strobe at a steep angle to isolate them from the blue background.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

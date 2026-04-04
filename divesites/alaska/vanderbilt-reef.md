@@ -23,9 +23,9 @@ Vanderbilt Reef is located at the junction of Favorite Channel and Lynn Canal, a
 
 - **Location**: Lynn Canal junction with Favorite Channel, 30 miles NW of Juneau, Southeast Alaska
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 26 meters (85 feet)
+- **Maximum Depth**: 26 meters
 - **Typical Visibility**: 6–15 meters (20–50 feet)
 - **Current**: Strong — slack tide required
 - **Water Temperature**: 4–10°C (39–50°F)
@@ -59,9 +59,5 @@ Lynn Canal tidal currents are among the strongest in Southeast Alaska. Strict sl
 
 Vanderbilt Reef's combination of biological diversity and historical context offers rich photographic material. Cold-water invertebrate communities photograph well with strobe lighting. If visibility permits, wide-angle shots of the reef structure with natural light filtering from above create dramatic images that capture the character of this historically charged location.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Dive Alaska - Anchorage Dive Operator](https://divealaska.net/), [Scuba Diving Magazine - Where to Go Scuba Diving in Alaska](https://www.scubadiving.com/where-to-go-scuba-diving-in-alaska), [Scuba Diving Magazine - Mountain Point Ketchikan](https://www.scubadiving.com/diving-alaskas-mountain-point), [Bluewater Dive Travel - Best Scuba Diving in Alaska](https://www.bluewaterdivetravel.com/destination/alaska-diving), [SSI - Scuba Diving in Alaska Guide](https://www.divessi.com/en/blog/scuba-diving-in-alaska-10373.html). Last updated 2026-04-04.*

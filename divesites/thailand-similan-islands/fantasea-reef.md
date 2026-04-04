@@ -58,9 +58,5 @@ Fantasea Reef is an intermediate site with no extreme hazards. Current is manage
 
 Fantasea Reef's mixed habitat — boulders, soft coral, hard coral — makes it productive for varied subject photography. Wide-angle compositions mixing the granite structures with coral-covered surfaces are distinctive. The shallow reef section in morning ambient light is well-suited to no-strobe wide-angle coral garden images. For macro, the boulder overhangs at 15–22 m typically yield nudibranchs, flatworms, and encrusted cowrie shells.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Similan Dive Guide](https://www.similandiveguide.com/), [Sunrise Divers - Similan Islands Dive Sites](https://www.sunrise-divers.com/dive-sites/similan-islands/), [Dive The World Thailand - Similan Islands](https://www.divetheworldthailand.com/similan-islands-diving-sites.php), [Sea Bees Diving - Scuba Diving Similans](https://sea-bees.com/scuba-diving-similans/), [Dive Happy - Diving Similan Islands Guide](https://divehappy.com/diving-similan-islands-quick-guide/). Last updated 2026-04-04.*

@@ -23,9 +23,9 @@ Schooner Reef lies in the northern Strait of Georgia, a highly productive marine
 
 - **Location**: Northern Strait of Georgia, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres
 - **Current**: Moderate; check tidal tables
 - **Best Time**: July to October
@@ -58,4 +58,4 @@ Open-Strait location means exposure to wind and waves that can develop quickly. 
 The diverse rockfish community and possible cloud sponge formations create excellent wide-angle and portrait opportunities. Surface whale activity during transits can yield topside photography. Macro subjects are plentiful on encrusted reef surfaces.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

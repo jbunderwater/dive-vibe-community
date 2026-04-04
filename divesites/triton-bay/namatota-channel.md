@@ -59,9 +59,5 @@ This site is recommended for experienced, current-comfortable divers only. The t
 
 Namatota Channel rewards both wide-angle and macro approaches. Wide-angle shots along the wall capture the scale of the sea fans and the dramatic blue-water backdrop of the channel. Shooting into the current shows schooling fish funneling past with a sense of motion. For macro, sea fan branches at 15 to 25 meters harbor flamingo shrimp, sea fan crabs, and basket star details. The combination of strong current and dim light at depth demands fast lenses — shoot at ISO 400 or above and use strobes for wall work.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Triton Bay Divers Resort](https://tritonbaydivers.com/), [ZuBlu Scuba Diving in Triton Bay](https://www.zubludiving.com/destination/indonesia/west-papua/triton-bay), [Scuba Diving Magazine Triton Bay Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-triton-bay-indonesia), [Dive the World Triton Bay](https://www.dive-the-world.com/diving-sites-indonesia-triton-bay.php), [Merapi Tours Triton Bay Dive Sites](https://www.merapitours.com/indonesia/papua/triton-bay-dive-sites). Last updated 2026-04-04.*

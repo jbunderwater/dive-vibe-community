@@ -58,9 +58,5 @@ Maximum depth of 36 meters requires careful dive planning within Advanced Open W
 
 The encrusted hull makes compelling wide-angle subjects, particularly if there is good ambient light penetrating from above. A torch is essential for illuminating the vivid colors of encrusting sponges inside the wreck. Look for moray eels peering from openings and groupers hovering near the structure for portrait shots.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: Zentacle, Wannadive, Diwa Dominicana, Adrex. Last updated 2026-03-28.*

@@ -44,4 +44,5 @@ Nurse sharks, grey reef sharks, moray eels, lionfish, scorpionfish, glassfish sc
 
 Advanced certification and wreck diving experience is recommended given the depth of the lower hull. Penetration into enclosed spaces should only be attempted by divers with specific wreck penetration training and appropriate equipment. The upper structure and exterior exploration offer plenty of interest without penetration. Carry a torch for investigating the shadowed sections.
 
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

@@ -23,9 +23,9 @@ Heddington Reef sits in the exposed outer waters of Barkley Sound, one of the mo
 
 - **Location**: Barkley Sound, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-18 metres
 - **Water Temperature**: 8-12°C (drysuit required)
 - **Current**: Moderate to strong — check tides
@@ -60,4 +60,4 @@ Open Pacific swell, tidal currents, and remoteness from emergency services make 
 Barkley Sound's clear water and rich marine life make Heddington Reef a strong photographic destination. Wide-angle shots capturing lingcod against sponge-encrusted rock, or GPO in open water, are distinctive BC west coast images. Sea lion encounters — if they occur — are best captured with fast autofocus and a wide lens. Macro subjects including nudibranchs, chitons, and small crustaceans are abundant across the reef.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

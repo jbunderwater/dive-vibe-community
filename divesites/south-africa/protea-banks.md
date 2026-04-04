@@ -22,8 +22,8 @@ Protea Banks lies approximately eight kilometres offshore from Shelly Beach on t
 ## Site Information
 
 - **Location**: 8 km offshore from Shelly Beach, KwaZulu-Natal, South Africa
-- **Entry Type**: Boat dive (offshore; exposed ocean conditions)
-- **Site Type**: Offshore pinnacle system
+- **Entry Type**: Boat dive
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 10–20 meters; can drop to 5 meters during upwellings
@@ -59,9 +59,5 @@ Protea Banks is not suitable for beginner or intermediate divers. Strong, unpred
 
 Protea Banks is exceptional for open-water shark photography but technically demanding due to the current and visibility fluctuations. Wide-angle zoom lenses (16–35mm equivalent) perform well here, as encounter distances vary. Bull shark photography in summer is best on the southern bank during the slack period of the tidal cycle when visibility briefly improves and sharks become more settled. The swirling aggregations of oceanic blacktip sharks in current form spectacular schooling images from below.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [SCUBA Travel - Diving South Africa](https://www.scubatravel.co.uk/africa/diving-south-africa.html), [Bluewater Dive Travel - South Africa](https://www.bluewaterdivetravel.com/destination/south-africa-diving), [Coral Divers Sodwana Bay](https://coraldivers.co.za/), [PADI - Diving Sodwana Bay](https://www.padi.com/diving-in/south-africa/sodwana-bay/), [Ikelite - Aliwal Shoal Guide](https://www.ikelite.com/blogs/features/an-insiders-guide-to-diving-aliwal-shoal-south-africa). Last updated 2026-04-04.*

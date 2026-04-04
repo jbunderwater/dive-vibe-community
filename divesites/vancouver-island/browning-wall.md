@@ -78,10 +78,7 @@ Strong tidal currents are the defining feature — dives outside slack tide wind
 
 Wall dives offer exceptional wide-angle opportunities with the interplay of color and shadow along the face creating dramatic compositions. The dense invertebrate life provides countless macro subjects in wall crevices and overhangs. Bring underwater lights to illuminate the vibrant reds, oranges, and yellows of soft corals.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
 - **Validation Source**: Web research (2026-03)
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving research. Last updated 2026-03-16.*
+*Sources: [ScubaBC](https://www.scubabc.ca/), [Vancouver Island Dive Sites](http://www.vancouver-island-dive-sites.com/), [Scuba Diving Magazine - BC Top 10](https://www.scubadiving.com/travel/canada/british-columbias-top-10-dives), [Pacific Pro Dive Shore Maps](https://pacificprodive.com/pages/dive-maps), [Vancouver Island North Diving](https://vancouverislandnorth.ca/activity-type/things-to-do/sports-activities/diving/). Last updated 2026-04-04.*

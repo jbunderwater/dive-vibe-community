@@ -23,9 +23,9 @@ Clarke Rock sits in the northern Strait of Georgia in waters between Vancouver I
 
 - **Location**: Northern Strait of Georgia, near Comox/Courtenay, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Submerged rock / reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres
 - **Current**: Moderate tidal currents
 - **Best Time**: Late summer and autumn
@@ -57,11 +57,8 @@ Tidal currents require timing — use current tables for the Discovery Passage r
 
 Giant Pacific octopus are exceptional photography subjects at this site — bring a wide-angle lens and patience. Cabezon guarding egg masses in winter make striking behavioural photographs. The rock structure with encrusting sponges provides fine wide-angle reef compositions. Macro photographers should check sponge surfaces for nudibranchs.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
 - Comox Valley dive operators and shops
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

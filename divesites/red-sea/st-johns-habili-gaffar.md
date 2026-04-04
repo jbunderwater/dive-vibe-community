@@ -22,8 +22,8 @@ Rising from a sandy bottom to within a few meters of the surface, Habili Gaffar 
 ## Site Information
 
 - **Location**: St John's Reef, Southern Red Sea, Egypt
-- **Entry Type**: Boat dive (liveaboard only)
-- **Site Type**: Reef (submerged pinnacle / habili)
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-35 meters (65-115 feet)
@@ -59,4 +59,4 @@ This is an open-ocean environment with potentially strong, shifting currents. Ma
 The schooling fish activity above Habili Gaffar is the primary photographic draw. A wide-angle lens capturing a diver silhouetted against a vortex of barracuda is a defining Red Sea image. Pelagic encounters — tuna, sharks — require a quick reaction and a pre-set camera. The pinnacle's coral-covered flanks offer reef details in good visibility.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

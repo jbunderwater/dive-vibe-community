@@ -23,7 +23,7 @@ Located off the southwest coast of Basse-Terre, Sec Pâté is an isolated underw
 
 - **Location**: Southwest of Basse-Terre, Guadeloupe (open Caribbean)
 - **Entry Type**: Boat dive
-- **Site Type**: Open-ocean pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 25–40 meters
@@ -59,4 +59,4 @@ Current at Sec Pâté can be strong and unpredictable — this is the primary ha
 Sec Pâté offers some of the best shark and pelagic photography in Guadeloupe. Wide-angle shots of reef sharks circling the pinnacle against blue water, or eagle rays in open ocean, require a fast camera setup and good buoyancy control in current. The pinnacle itself photographs dramatically in ambient light at 10–20 meters.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*

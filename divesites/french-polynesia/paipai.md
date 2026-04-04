@@ -35,4 +35,5 @@ The grey reef shark aggregation at Pa'ipa'i during peak conditions is one of the
 
 This is strictly an Advanced dive and is frequently listed as the flagship site by Raiatea and Taha'a dive operators. Dives are conducted with small groups and experienced local guides who know the shark behaviour cycles. Buoyancy mastery and strong fin technique are mandatory — divers who cannot manage the current will be unsafe and will disturb the aggregation. Book in advance with Taha'a or Raiatea-based operators who specialise in this site.
 
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: [Bluewater Dive Travel - French Polynesia](https://www.bluewaterdivetravel.com/destination/french-polynesia-diving), [PADI - Diving in French Polynesia](https://www.padi.com/diving-in/french-polynesia/), [World Adventure Divers - French Polynesia](https://worldadventuredivers.com/diving-french-polynesia/), [Air Tahiti Nui - Scuba Diving in Tahiti](https://www.airtahitinui.com/en/scuba-diving-tahiti-best-spots-islands), [Scuba Diving Magazine - French Polynesia Big Five](https://www.scubadiving.com/where-to-dive-french-polynesias-big-five). Last updated 2026-04-04.*

@@ -57,9 +57,5 @@ More exposed than the northern Dar es Salaam patch reefs. Moderate currents requ
 
 Good variety of subjects including relaxed groupers and parrotfish in good light conditions. The calmer fish behavior compared to more dived sites makes animal portrait photography more rewarding. A 60mm macro lens is effective for the cleaning station subjects.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*

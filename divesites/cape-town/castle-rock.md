@@ -22,8 +22,8 @@ Castle Rock is a well-known shore dive in Simon's Town on the western shore of F
 ## Site Information
 
 - **Location**: Simon's Town, False Bay, Cape Town, South Africa
-- **Entry Type**: Shore entry from rocky beach
-- **Site Type**: Boulder reef with kelp forest
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 3-15 meters (10-50 feet)
@@ -59,9 +59,5 @@ Cold water induces rapid heat loss — plan shorter dives if wearing a wetsuit i
 
 Castle Rock is excellent for wide-angle photography of seal interactions in the kelp canopy, and for macro work on the boulder surfaces where nudibranchs, sea slugs, and brittle stars are abundant. The kelp fronds backlit by surface light make strong atmospheric shots. Strobes or video lights are needed in deeper sections where ambient light is filtered by the dense canopy.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Oceans Africa](https://www.oceansafrica.com/dive-cape-town/), [Apnea Addicts Dive Sites](https://www.aaddicts.co.za/snorkeling/dive-sites-in-cape-town/), [Wikivoyage - Diving the Cape Peninsula and False Bay](https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/Dive_sites), [Bluewater Dive Travel - South Africa](https://www.bluewaterdivetravel.com/destination/south-africa-diving), [Underwater Kinetics - Scuba Diving Cape Town](https://uwk.com/blogs/best-dive-locations/scuba-diving-in-cape-town-complete-guide). Last updated 2026-04-04.*

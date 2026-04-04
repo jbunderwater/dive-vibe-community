@@ -22,8 +22,8 @@ The eastern southplateau area transitions between the sheltered southern face an
 ## Site Information
 
 - **Location**: Elba Reef southeast, Egypt-Sudan border (Halaib Triangle)
-- **Entry Type**: Boat dive (liveaboard)
-- **Site Type**: Coral reef / plateau
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 16 meters
 - **Typical Visibility**: 25-40+ meters (80-130+ feet)
@@ -58,9 +58,5 @@ This is one of Elba Reef's most accessible sites. The shallow depth removes most
 
 Shallow, sunlit reef photography is the strength of this site. Hard coral formations photographed with natural light from above produce vivid, saturated images. The diversity of coral growth forms within a small area makes this ideal for a reef survey photographic approach. Macro subjects on the coral surfaces — blennies, gobies, nudibranchs — reward close-focus work.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*

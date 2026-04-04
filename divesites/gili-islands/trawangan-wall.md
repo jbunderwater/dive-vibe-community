@@ -22,10 +22,10 @@ Trawangan Wall (also called Halik Reef) runs along the northwest side of Gili Tr
 ## Site Information
 
 - **Location**: Northwest Gili Trawangan, Gili Islands
-- **Entry Type**: Boat dive (drift)
-- **Site Type**: Wall / Drift
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 m (wall continues deeper)
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–25 m
 - **Current**: Moderate; consistent drift along the wall
 - **Best Time**: May to October
@@ -58,9 +58,5 @@ Current can be strong on spring tides — check conditions before descending. Do
 
 Eagle ray silhouettes in the blue water above the wall are the most prized shot here. Giant barrel sponge cross-sections with divers provide scale reference. Clownfish in large anemones at wide-angle close focus suit the shallow sections.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Manta Dive Gili Islands](https://manta-dive.com/diving-gili-trawangan/gili-dive-sites/), [Gili Divers Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [PADI Gili Islands](https://www.padi.com/diving-in/indonesia/gili-islands/), [Manta Dive Gili Air](https://manta-dive-giliair.com/gili-islands-dive-sites), [Terumbu Divers Gili Sites](https://terumbudivers.com/fun-dives-2/dive-sites-gili-islands-lombok/). Last updated 2026-04-04.*

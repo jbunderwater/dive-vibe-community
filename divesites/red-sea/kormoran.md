@@ -22,7 +22,7 @@ The site sits in the productive waters of the Strait of Tiran, an area famous fo
 ## Site Information
 
 - **Location**: Strait of Tiran area, northern Red Sea, Egypt
-- **Entry Type**: Boat dive (day boat or liveaboard from Sharm el-Sheikh)
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
@@ -58,4 +58,4 @@ Current is the primary safety consideration at Tiran area sites. Divers must be 
 The combination of clear blue water, colorful reef, and large resident fish makes Kormoran and the wider Tiran area very photogenic. Wide-angle reef scenes with natural light work best in the 8-15 meter range. humphead wrasse close-up portraits are a classic Tiran shot. Pelagic subjects like barracuda schools require shooting into the blue water with a fast shutter speed.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

@@ -23,8 +23,8 @@ Pretty Bush occupies the western end of Utila's reef system, where the island's 
 
 - **Location**: Western tip of Utila, Bay Islands, Honduras
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef with deeper slope
-- **Difficulty Level**: Beginner (in the 8–15 meter garden section); deeper slope is intermediate
+- **Site Type**: Coral reef
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20–25 meters (65–80 feet)
 - **Current**: Light to moderate; the western tip creates some current concentration
@@ -58,9 +58,5 @@ Beginner-accessible in the shallow sections with guide supervision. The deeper s
 
 Pretty Bush is Utila's best reef photography site for coral beauty. Wide-angle reef scenes with exceptional coral and sponge formations under good afternoon light. The barrel sponge formations at 12–15 meters are dramatic wide-angle subjects. Turtle encounters in the coral garden, with divers above in bright, clear water, are among the most photogenic reef interactions in Utila. Macro subjects are abundant — tube worms, flamingo tongues, and coral polyps.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Utila Dive Center](https://utiladivecenter.com/), [Utila Cays Diving - Dive Sites](https://utilacaysdiving.com/dive-with-us/dive-sites/), [Alton's Dive Center Utila](https://diveinutila.com/), [World Adventure Divers - 10 Reasons to Dive Utila](https://worldadventuredivers.com/diving-utila/), [ZuBlu - Scuba Diving in Utila](https://www.zubludiving.com/destination/honduras/bay-islands/utila). Last updated 2026-04-04.*

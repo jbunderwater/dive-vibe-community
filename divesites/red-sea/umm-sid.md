@@ -59,4 +59,4 @@ Fire coral is present throughout the reef; maintain careful buoyancy and avoid c
 The coral pillars at Umm Sid are among the most photogenic structures in the Sharm el-Sheikh area. Wide-angle shots looking up through the towers toward the surface produce striking silhouettes when sun angle is favorable. humphead wrasse and turtles offer compelling portrait subjects. Macro photographers will find nudibranchs, shrimp, and small gobies along the encrusted pillar bases. Shoot during the morning for natural light filtering through the formations.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

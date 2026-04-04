@@ -23,7 +23,7 @@ The precise identity and history of the Old Shipwreck are not fully documented i
 
 - **Location**: Dar es Salaam Marine Reserve area, Tanzania
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-15 meters (33-50 feet)
@@ -57,9 +57,5 @@ Wreck dives carry additional hazards of potential entanglement and disorientatio
 
 The wreck provides dramatic wide-angle subjects — shooting along the hull with fish and encrusting growth in the frame creates compelling images. Natural light enters through exposed openings, creating cathedral-like light beams on clear days. Macro photography of the encrusting cup corals, nudibranchs, and crevice-dwelling crustaceans is excellent throughout the structure.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*

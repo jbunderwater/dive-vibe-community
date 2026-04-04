@@ -35,4 +35,5 @@ The *Nordby*'s rigging stumps and hull are festooned with yellow and purple encr
 
 A torch greatly enhances the wreck interior experience — the holds and cabins shelter rich life best seen with illumination. Wide-angle photography of the full mast-to-hull profile is best achieved from a distance of 5–8 metres off the hull. Check with operators whether penetration of interior spaces is permitted and recommended.
 
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: [Bluewater Dive Travel - French Polynesia](https://www.bluewaterdivetravel.com/destination/french-polynesia-diving), [PADI - Diving in French Polynesia](https://www.padi.com/diving-in/french-polynesia/), [World Adventure Divers - French Polynesia](https://worldadventuredivers.com/diving-french-polynesia/), [Air Tahiti Nui - Scuba Diving in Tahiti](https://www.airtahitinui.com/en/scuba-diving-tahiti-best-spots-islands), [Scuba Diving Magazine - French Polynesia Big Five](https://www.scubadiving.com/where-to-dive-french-polynesias-big-five). Last updated 2026-04-04.*

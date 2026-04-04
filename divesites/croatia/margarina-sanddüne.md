@@ -23,7 +23,7 @@ The site features a mix of rocky reef terrain transitioning to sandy areas ("san
 
 - **Location**: Pag Island area, Northern Dalmatian Coast, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Reef and sand
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–20 meters
@@ -59,4 +59,4 @@ Standard intermediate reef and sand diving. Monitor depth in the sand areas wher
 The reef-sand interface creates interesting compositional contrasts. Sandy bottom subjects like rays, garden eels, and flatfish require a careful approach and macro or mid-range lens. The rocky reef sections provide colourful wide-angle subjects.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*

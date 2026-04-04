@@ -25,7 +25,7 @@ The Wall is one of several wall dive sites accessible from Bayahibe on the south
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 40 meters (recreational diving is limited to 15–25 meters)
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 25–35 meters (80–115 feet)
 - **Current**: Light to moderate; can be stronger at the wall edge
 - **Best Time**: December to April; consistently accessible year-round from Bayahibe
@@ -58,9 +58,5 @@ The wall is deeper than it first appears — it is easy to descend beyond 30 met
 
 The Bayahibe Wall offers compelling wide-angle photography. Shoot along the wall face with a diver and the open blue water as background for classic wall dive compositions. Sea fans at depth frame dramatic silhouette shots. The upper reef plateau in bright, shallow water is ideal for fish portraiture and reef landscape shots.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: Scuba Diving Mag, Bayahibe operators. Last updated 2026-03-28.*

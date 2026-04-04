@@ -23,9 +23,9 @@ Stingray Point is a reef site on the northern coast of Utila, named for the resi
 
 - **Location**: North coast of Utila, Bay Islands, Honduras
 - **Entry Type**: Boat dive
-- **Site Type**: Reef and sand flat
-- **Difficulty Level**: Beginner (shallow reef and sand sections); deeper slope suitable for advanced divers
-- **Maximum Depth**: 40 meters (most diving at 8–18 meters)
+- **Site Type**: Coral reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20–25 meters (65–80 feet)
 - **Current**: Light to minimal on the sheltered north coast
 - **Best Time**: Year-round; north coast is the calmer side of Utila in most weather
@@ -58,9 +58,5 @@ Southern stingrays are docile when not harassed but carry a defensive spine on t
 
 Stingray Point is excellent for stingray photography. The clear, shallow water and sandy background provide an ideal high-contrast setting. Shoot from slightly below and in front of the stingray with wide angle to capture the distinctive diamond shape and the sandy bottom context. Natural light is sufficient in the shallow sections. Eagle ray encounters over the sand are outstanding wide-angle subjects.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Utila Dive Center](https://utiladivecenter.com/), [Utila Cays Diving - Dive Sites](https://utilacaysdiving.com/dive-with-us/dive-sites/), [Alton's Dive Center Utila](https://diveinutila.com/), [World Adventure Divers - 10 Reasons to Dive Utila](https://worldadventuredivers.com/diving-utila/), [ZuBlu - Scuba Diving in Utila](https://www.zubludiving.com/destination/honduras/bay-islands/utila). Last updated 2026-04-04.*

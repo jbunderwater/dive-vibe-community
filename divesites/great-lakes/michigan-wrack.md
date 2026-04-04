@@ -22,10 +22,10 @@ The Michigan (not to be confused with the lake of the same name) lies in 4 metre
 ## Site Information
 
 - **Location**: Georgian Bay, Lake Huron, Ontario, Canada (Collingwood area)
-- **Entry Type**: Boat dive (snorkelling also accessible)
-- **Site Type**: Wreck
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 4 metres
+- **Maximum Depth**: 4 meters
 - **Typical Visibility**: 3–8 metres
 - **Water Temperature**: 10–20°C in summer at this shallow, sheltered location
 - **Current**: Minimal in protected Collingwood waters
@@ -59,9 +59,5 @@ This is one of the safest dive sites in the Great Lakes. The shallow depth, prot
 
 4-metre depth in summer sunlight produces exceptional natural-light photography. Sunfish and juvenile perch are highly photogenic subjects. The hull structure, silhouetted against the bright surface above, creates evocative images with a standard underwater camera and no additional lighting.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Michigan.org - Dive Michigan Shipwrecks Underwater Preserves](https://www.michigan.org/article/trip-idea/dive-michigan-shipwrecks-these-underwater-preserves), [Great Lakes Shipwreck Preservation Society - Dive Sites](https://glsps.clubexpress.com/DiveSites), [Scuba Diving Magazine - Great Lakes Shipwrecks](https://www.scubadiving.com/great-lakes-shipwrecks-like-youve-never-seen-them-before), [Gear Patrol - Guide to Wreck Diving the Great Lakes](https://www.gearpatrol.com/archive/a162066/great-lakes-wreck-diving-guide/), [Shipwreck Explorers - Wisconsin Scuba Diving](https://www.shipwreckexplorers.com/). Last updated 2026-04-04.*

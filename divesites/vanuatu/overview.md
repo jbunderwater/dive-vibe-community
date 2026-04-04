@@ -42,13 +42,5 @@ Vanuatu suits divers of all levels. The shallow reefs around Hideaway Island nea
 - **Certification Requirements**: Open Water minimum for reef sites and upper Coolidge sections. Advanced Open Water recommended for deeper Coolidge dives. Wreck specialty required for full Coolidge penetration. Tech certification for the deepest stern sections.
 - **Safety**: A hyperbaric chamber operates in Luganville, managed by the Divers Alert Network and local operators — one of the best-equipped facilities in the Pacific islands. Confirm chamber availability and emergency procedures with your dive operator. The Coolidge requires a dive guide — never penetrate the wreck without proper orientation and a certified guide.
 
-## Sources
-
-- OpenStreetMap dive site data and community contributions
-- SS President Coolidge dive operator briefing materials
-- ScubaBoard Vanuatu destination reports
-- WWII historical records — Operation Coolidge and Espiritu Santo base documentation
-
 ---
-
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Vanuatu Tourism Office - Diving Guide](https://www.vanuatu.travel/en/guide-to-diving-vanuatu), [Big Blue Vanuatu - Dive Sites](https://bigbluevanuatu.com/sites/), [Bluewater Dive Travel - Vanuatu](https://www.bluewaterdivetravel.com/destination/vanuatu-diving), [Lonely Planet - Vanuatu Diving](https://www.lonelyplanet.com/articles/guide-to-vanuatu-snorkel-scuba), [PADI - Diving in Vanuatu](https://www.padi.com/diving-in/vanuatu/). Last updated 2026-04-04.*

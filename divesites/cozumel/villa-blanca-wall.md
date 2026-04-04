@@ -23,9 +23,9 @@ Villa Blanca Wall takes its name from the Villa Blanca resort that was located o
 
 - **Location**: Northern hotel zone, Cozumel, Quintana Roo, Mexico
 - **Entry Type**: Boat dive
-- **Site Type**: Sloping reef with wall section
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters (100 feet)
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20–35 meters (65–115 feet)
 - **Current**: Light to moderate northward drift
 - **Best Time**: Year-round; northern location well-protected from southern swells
@@ -58,9 +58,5 @@ Intermediate-rated but requires attention to depth at the wall section — the d
 
 The sea fan garden zone is a macro and close-focus wide-angle paradise. Flamingo tongue cowries with extended mantles create vibrant colour contrast against the purple sea fans. Wide-angle captures the fanned coral tapestry with divers at scale. Turtle portraits are achievable here given the relaxed population. At night, the wall and reef surface become active subjects for macro shooters.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [The Reefs of Cozumel - Reef Guide](https://www.reefsofcozumel.com/reefguide.html), [Cozumel Scuba - Dive Sites](https://cozumelscuba.com/cozumel-dive-sites/), [Blue Note Scuba - Cozumel Dive Sites](https://www.bluenotescuba.com/cozumel-dive-sites), [Sand Dollar Sports - Cozumel Dive Sites](https://sanddollarsports.com/activities/cozumel-dive-sites/), [Pro Dive International - Divers Guide to Cozumel](https://www.prodiveinternational.com/diving/mexico/cozumel/). Last updated 2026-04-04.*

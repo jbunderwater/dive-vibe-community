@@ -60,4 +60,5 @@ The canyon topography creates strong compositional opportunities — shooting do
 - Dive Grenada and Aquanauts Grenada: offer Valley of Whales on southern tip dive itineraries
 - Best combined with Dragon Bay for a two-tank southern Grenada dive day
 
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: [Carib Dive Guide - Grenada](https://www.caribdiveguide.com/grenada.htm), [ECO Dive Grenada - Dive Sites](https://www.ecodiveandtrek.com/about-us/dive-sites/), [Dive Grenada](https://divegrenada.com/), [Scuba Diving Magazine - Grenada](http://www.scubadiving.com/travel/caribbean-atlantic/grenada-and-grenadines), [PADI - Diving in Grenada](https://www.padi.com/diving-in/grenada/). Last updated 2026-04-04.*

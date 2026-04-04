@@ -23,7 +23,7 @@ Cave Reef combines the dramatic underwater topography of a cave-riddled reef wit
 
 - **Location**: Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Cave / Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters outside; variable inside (65–82 feet)
@@ -58,9 +58,5 @@ This site has overhead environment elements that require appropriate training an
 
 Cavern entrance photography with glassfish in the foreground and ambient light beyond is a classic composition. Light shafts penetrating cave openings create dramatic atmospheric shots. The reef exterior around the cave areas offers standard wide-angle reef photography options.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

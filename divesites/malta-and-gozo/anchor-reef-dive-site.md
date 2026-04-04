@@ -23,7 +23,7 @@ The reef descends over stepped limestone terrain to approximately 20 metres, wit
 
 - **Location**: Comino Island area, Malta
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters
@@ -58,4 +58,4 @@ Standard intermediate reef diving. The Comino area has significant boat traffic 
 The historical anchors make unique subjects for wide-angle photography. The exceptional Mediterranean clarity allows uncluttered reef landscape shots. Resident grouper and moray eels provide strong portrait opportunities.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [Atlantis Gozo Dive Sites](https://www.atlantisgozo.com/dive-sites/), [PADI Diving in Malta](https://www.padi.com/diving-in/malta/), [SCUBA Travel Malta Guide](https://www.scubatravel.co.uk/europe/malta-dive-in.html), [Dive Malta-Gozo](https://divemalta-gozo.com/diving-in-gozo/). Last updated 2026-04-04.*

@@ -58,9 +58,5 @@ Current at the wall tip can be moderate — if the current is running strongly, 
 
 The wall face provides both wide-angle and macro opportunities. Wide-angle: shoot along the wall face with barrel sponges framing the composition and open water behind. Macro: the sponge encrustation on the wall surface hosts small gobies, tiny wrasse, and cleaner shrimp that reward a close look. Turtle encounters near the plateau are the standout subject.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: PADI Las Terrenas, TDA Las Terrenas. Last updated 2026-03-28.*

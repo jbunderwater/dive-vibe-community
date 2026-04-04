@@ -25,7 +25,7 @@ Cottam Point Reef 0/180 is a shore-access wall dive near Qualicum Beach on easte
 - **Entry Type**: Shore entry
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 metres
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 8–15 metres
 - **Current**: Tidal currents present — dive at slack
 - **Best Time**: Late summer and autumn for best visibility
@@ -57,11 +57,8 @@ Depth of 30 metres requires conservative NDL management, especially on first div
 
 Vertical wall photography with wide-angle or fisheye lenses is the signature approach for this site. The plumose anemone-covered wall faces create beautiful soft-coral-like images in cold Pacific light. Look up the wall to photograph fish silhouettes against the blue water above. Macro work on the wall's sponge surfaces finds exceptional nudibranch diversity.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
 - Qualicum Beach dive shops for access and conditions
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

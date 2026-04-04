@@ -23,7 +23,7 @@ Frégate-de-Bas lies in the lower position of the twin-reef system and features 
 
 - **Location**: Petit Cul-de-Sac Marin, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Submerged reef system
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters
@@ -58,4 +58,4 @@ Monitor air consumption carefully across the full 20-meter profile. Current can 
 The open reef platform offers excellent wide-angle subject opportunities. Turtle and school-of-fish compositions work well in the 10–15 meter zone, and the larger brain coral formations make dramatic foreground subjects.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*

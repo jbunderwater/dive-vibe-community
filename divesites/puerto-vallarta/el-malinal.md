@@ -51,3 +51,6 @@ Boat dive from Punta de Mita (approximately 15 minutes) or from Puerto Vallarta 
 - A dive torch is essential for the tunnel — bring one with sufficient battery life for the full passage
 - The bay-edge position means the boat ride can be rougher on the open-water side; check conditions before booking
 - Pairs well with a dive at Las Marietas Islands on a full-day northern bay trip
+
+---
+*Sources: [Boca Divers - Puerto Vallarta Dive Sites](https://www.bocadivers.net/BocaDivers/divesites.htm), [PADI - Diving in Puerto Vallarta](https://www.padi.com/diving-in/mexico/puerto-vallarta/), [PADI - Top Dive Sites in Puerto Vallarta](https://www.padi.com/dive-sites/mexico/puerto-vallarta/), [Vallarta by Owner - Best Scuba Diving in Puerto Vallarta](https://vallartabyowner.com/scuba/), [Dressel Divers - Puerto Vallarta Scuba Diving](https://www.dresseldivers.com/dive/mexico/puerto-vallarta-scuba-diving/). Last updated 2026-04-04.*

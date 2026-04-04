@@ -35,4 +35,5 @@ Grey reef sharks aggregate in the Iriru pass on strong incoming tides, with grou
 
 The eastern exposure makes Iriru weather-sensitive; confirm conditions with operators before booking. This pass rewards divers who are comfortable managing current with their fin position and body trim rather than fighting it. The relative quiet of the eastern Raiatea reef makes early morning dives at Iriru particularly productive.
 
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: [Bluewater Dive Travel - French Polynesia](https://www.bluewaterdivetravel.com/destination/french-polynesia-diving), [PADI - Diving in French Polynesia](https://www.padi.com/diving-in/french-polynesia/), [World Adventure Divers - French Polynesia](https://worldadventuredivers.com/diving-french-polynesia/), [Air Tahiti Nui - Scuba Diving in Tahiti](https://www.airtahitinui.com/en/scuba-diving-tahiti-best-spots-islands), [Scuba Diving Magazine - French Polynesia Big Five](https://www.scubadiving.com/where-to-dive-french-polynesias-big-five). Last updated 2026-04-04.*

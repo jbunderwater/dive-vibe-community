@@ -23,7 +23,7 @@ Crooks Castle sits along the southwestern coast of Sint Eustatius, directly belo
 
 - **Location**: Southwest coast, Sint Eustatius, Caribbean Netherlands
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef with historic artifacts
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
 - **Typical Visibility**: 20-30 meters
@@ -59,9 +59,9 @@ Boat traffic along the southwest coast requires deploying an SMB on ascent. Fire
 
 Wide-angle shots capturing encrusted anchors and cannons against healthy coral create compelling historical-underwater compositions. Macro subjects include flamingo tongue cowries on sea fans, cleaning shrimp in crevices, and peacock flounders on the sand. Morning light angles from the east provide good ambient illumination at these shallow depths.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
 
 ---
 *Dive site information compiled from STENAPA marine park records and Sint Eustatius diving guides. Last updated 2026-03-28.*
+
+---
+*Sources: STENAPA marine park records, Sint Eustatius diving guides, PADI, Golden Rock Resort, blue bead site. Last updated 2026-03-28.*

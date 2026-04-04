@@ -23,9 +23,9 @@ El Islote (The Islet) is located at the southern end of Cozumel's leeward reef s
 
 - **Location**: Deep south Cozumel, near Punta Sur, Quintana Roo, Mexico
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef with prominent isolated formations
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters (65 feet)
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25–40 meters (80–130 feet)
 - **Current**: Moderate southward drift near the point
 - **Best Time**: November to April; summer conditions at the southern tip can be unpredictable
@@ -64,4 +64,4 @@ The southern Cozumel reefs offer some of the most dramatic sponge photography in
 - **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [The Reefs of Cozumel - Reef Guide](https://www.reefsofcozumel.com/reefguide.html), [Cozumel Scuba - Dive Sites](https://cozumelscuba.com/cozumel-dive-sites/), [Blue Note Scuba - Cozumel Dive Sites](https://www.bluenotescuba.com/cozumel-dive-sites), [Sand Dollar Sports - Cozumel Dive Sites](https://sanddollarsports.com/activities/cozumel-dive-sites/), [Pro Dive International - Divers Guide to Cozumel](https://www.prodiveinternational.com/diving/mexico/cozumel/). Last updated 2026-04-04.*

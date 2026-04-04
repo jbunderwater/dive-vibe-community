@@ -52,3 +52,6 @@ Full-day boat expedition from Puerto Vallarta marina; typically the second dive 
 - The flat mesa top makes depth management easier than at Corbeteña's walls — a good site to focus attention on the water column above rather than the structure below
 - Bring seasickness medication for the crossing — the open Pacific can be rough even in summer months
 - A 5mm wetsuit is recommended for the thermoclines that can drop temperatures 5-8°C below the surface layer
+
+---
+*Sources: [Boca Divers - Puerto Vallarta Dive Sites](https://www.bocadivers.net/BocaDivers/divesites.htm), [PADI - Diving in Puerto Vallarta](https://www.padi.com/diving-in/mexico/puerto-vallarta/), [PADI - Top Dive Sites in Puerto Vallarta](https://www.padi.com/dive-sites/mexico/puerto-vallarta/), [Vallarta by Owner - Best Scuba Diving in Puerto Vallarta](https://vallartabyowner.com/scuba/), [Dressel Divers - Puerto Vallarta Scuba Diving](https://www.dresseldivers.com/dive/mexico/puerto-vallarta-scuba-diving/). Last updated 2026-04-04.*

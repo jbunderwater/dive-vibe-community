@@ -22,8 +22,8 @@ The Neptuna and Khanka wrecks in close proximity create an opportunity for a pro
 ## Site Information
 
 - **Location**: Central Red Sea, Egypt (approximately 23.62°N, 36.20°E)
-- **Entry Type**: Boat dive (liveaboard access)
-- **Site Type**: Wreck
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-35 meters (65-115 feet)
@@ -58,4 +58,4 @@ Remote liveaboard dive in open Red Sea requires full self-sufficiency. Carry cha
 Wide-angle hull silhouette shots in the clear Red Sea water — the Neptuna wreck framed against the deep blue — are the most dramatic images available at this site. Schools of glassy sweepers in the interior with torch-lit foreground and ambient background light through openings create striking compositions. Soft coral growth on the exterior hull provides detailed close-up subjects.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

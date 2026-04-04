@@ -50,8 +50,5 @@ The shallower profile and more moderate currents make this one of Sipadan's more
 ## Photography
 Macro is king at Coral Gardens. A 60mm or 100mm macro lens will find abundant subjects — nudibranchs, flatworms, commensal shrimp, and the intricate textures of the hard coral formations themselves. Night photography is outstanding, with Spanish dancers, hunting octopuses, and sleeping turtles as headline subjects. Wide-angle can work for turtle portraits among the coral heads and for capturing the sheer density of the hard coral coverage. The shallow depth means natural light is strong during day dives, reducing dependence on strobes for ambient light shots.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Scuba Junkie Complete Guide to Diving Sipadan](https://www.scuba-junkie.com/complete-guide-dive-sipadan-island/), [PADI Blog Diving Sipadan](https://blog.padi.com/everything-you-need-to-know-about-diving-sipadan/), [Dive The World Sipadan](https://www.dive-the-world.com/diving-sites-malaysia-sipadan-island.php), [Bluewater Dive Travel Sipadan](https://www.bluewaterdivetravel.com/destination/sipadan-diving), [SSI Guide to Diving Sipadan](https://www.divessi.com/en/blog/guide-to-scuba-diving-in-sipadan-9852.html). Last updated 2026-04-04.*

@@ -60,4 +60,5 @@ Shark Bank is Barbados's best wide-angle pelagic photography site. Caribbean ree
 - Heatwave Water Sports: regularly operates Shark Bank trips for advanced divers
 - Coral Isle Divers (Barbados): offers Shark Bank on request for groups of advanced divers
 
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: villasunnysidebarbados.com - Deep coral reef, 135-145ft depth (41-44m), strong currents, offshore pelagic encounters. Last updated 2026-03-28.*

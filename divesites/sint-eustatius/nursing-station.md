@@ -60,4 +60,5 @@ Nurse shark photography at Nursing Station is excellent — the animals are larg
 - STENAPA: stenapafoundation.com — guidelines on wildlife encounters at marine park sites
 - Golden Rock Dive Center: Nursing Station is a regular inclusion in daily dive itineraries
 
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: PADI, Golden Rock Resort, wall reef with 18th-19th century anchors. Last updated 2026-03-28.*

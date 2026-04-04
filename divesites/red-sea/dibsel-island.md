@@ -22,7 +22,7 @@ The island itself is a low-lying coral cay surrounded by fringing reef on multip
 ## Site Information
 
 - **Location**: Southern Red Sea, Egypt (near Sudanese border)
-- **Entry Type**: Boat dive (liveaboard)
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
@@ -59,4 +59,4 @@ Remote location means emergency medical support is hours away. Ensure your dive 
 Dibsel Island rewards wide-angle photographers with pristine coral scenery and approachable reef fish. The shallow reef flat in calm morning conditions is excellent for natural-light reef photography. Look for cleaning stations on the outer slope where humphead wrasse and sharks come in for attention from cleaner wrasse — these are outstanding behavioural photography opportunities.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

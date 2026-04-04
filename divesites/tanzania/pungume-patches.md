@@ -23,7 +23,7 @@ Pungume Island sits in the Zanzibar Channel southwest of Zanzibar town, and its 
 
 - **Location**: Near Pungume Island, Zanzibar Channel, Tanzania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef (channel patch reefs)
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 12-18 meters (40-60 feet)
@@ -57,9 +57,5 @@ Relatively safe diving with light currents in the inter-patch channels. The slig
 
 Good general reef photography site with accessible depth and reasonable visibility. Turtle portrait shots in the clear channel water are particularly rewarding. The patch formations create natural framing for reef composition shots.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*

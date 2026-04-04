@@ -59,4 +59,4 @@ Down-currents at Crystal Bay's entrance can catch divers off guard and pull them
 Mola mola photography requires patience and a wide-angle setup — these fish are simply too large for anything tighter than a 14–35mm on full frame. Shoot from slightly below to show the full disc shape of the body against the reef. In the cleaning station context, a patient shooter can capture the fish hovering with bannerfish attending it. Bring powerful strobes — the deeper, colder water is often dim and blue-shifted.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive Komodo - Dive Sites](https://divekomodo.com/dive-sites-komodo/), [Dragon Dive Komodo - Top 10 Dive Sites](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [World Adventure Divers - Diving in Komodo](https://worldadventuredivers.com/diving-in-komodo/), [Dive Komodo National Park](https://divekomodonationalpark.com/), [Blue Marlin Dive - Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/). Last updated 2026-04-04.*

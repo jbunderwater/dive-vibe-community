@@ -23,9 +23,9 @@ The Montana was a 236-foot paddlewheel steamer built in Glasgow in 1860, operati
 
 - **Location**: Northwest Bermuda reef, approximately 4 miles from the island
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 9 meters (30 feet)
+- **Maximum Depth**: 9 meters
 - **Typical Visibility**: 15–30 meters (50–100 feet)
 - **Current**: Light
 - **Water Temperature**: 18–28°C (64–82°F)
@@ -59,9 +59,5 @@ At 9 meters, depth hazards are minimal. The primary concerns are the offshore lo
 
 The paddlewheel frames and twin boilers are iconic photographic subjects that tell the story of 19th-century steam paddle technology. Wide-angle natural light photography at 9 meters is highly effective. The spring/autumn barracuda schools create spectacular ambient light compositions requiring no strobe. A split-level shot through the surface in calm conditions captures both the reef environment and the boat above.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Go To Bermuda - Top Dive Sites](https://www.gotobermuda.com/plan/inspiration/article/top-dive-sites-in-bermuda), [Go To Bermuda - Bermuda Shipwrecks](https://www.gotobermuda.com/plan/inspiration/article/dive-into-bermuda-shipwrecks), [Scuba Diving Magazine - Guide to Scuba Diving Bermuda](https://www.scubadiving.com/guide-to-scuba-diving-bermuda), [Blue Water Divers Bermuda - Shipwrecks](https://www.divebermuda.com/shipwrecks/), [Bermuda Attractions - Famous Shipwrecks and Dive Sites](https://www.bermuda-attractions.com/bermuda_000045.htm). Last updated 2026-04-04.*

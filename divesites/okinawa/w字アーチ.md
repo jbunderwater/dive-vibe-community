@@ -23,9 +23,9 @@ W-Shape Arch (W字アーチ) sits near its deeper sibling L-Shape Arch on Miyako
 
 - **Location**: Miyako-jima, Miyako Islands, Okinawa Prefecture, Japan
 - **Entry Type**: Boat dive
-- **Site Type**: Natural arch (shallow cavern)
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 18 meters (60 feet)
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20–35 meters (65–115 feet)
 - **Current**: Light to moderate
 - **Best Time**: October to April; accessible throughout diving season
@@ -64,4 +64,4 @@ The W-shape arch framing at 18 meters is well-lit by natural light — images of
 - **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Visit Okinawa Japan - Dive Sites Guide](https://visitokinawajapan.com/discover/dive-sites-okinawa/kerama-islands-diving/), [JNTO Japan Diving - Okinawa](https://www.japan.travel/en/sports/diving/where-to-dive/okinawa/), [Aloha Divers Okinawa - Dive Sites](https://www.alohadiversokinawa.com/dive-sites-okinawa), [Fluid Levitation - Okinawa Dive Sites](https://www.fluidlevitation.com/okinawa-dive-sites), [PADI - Top Dive Sites in Okinawa](https://www.padi.com/dive-sites/okinawa/). Last updated 2026-04-04.*

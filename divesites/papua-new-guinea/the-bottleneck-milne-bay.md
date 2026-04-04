@@ -59,4 +59,4 @@ Strong and variable currents are the primary hazard. The passage is narrow and t
 The Bottleneck rewards wide-angle shooters willing to work in strong current. Schools of fish compressed by the current make for dramatic images, and shark silhouettes at the channel entrance are the signature shot. Autofocus tracking is useful as subjects move fast — pre-set your exposure before descent. Secure all loose equipment carefully as the current can dislodge port covers and accessories.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [PADI Diving in Papua New Guinea](https://www.padi.com/diving-in/papua-new-guinea/), [Indopacific Images PNG Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [Bluewater Dive Travel PNG](https://www.bluewaterdivetravel.com/destination/papua-new-guinea-diving), [Divezone PNG Dive Sites](https://divezone.net/diving/papua-new-guinea), [Dive Adventures Papua New Guinea](https://diveadventures.com.au/country/papua-new-guinea/). Last updated 2026-04-04.*

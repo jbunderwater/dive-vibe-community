@@ -44,4 +44,5 @@ Reef manta rays (up to 5–7 at once at the cleaning station), eagle rays, grey 
 
 Approach the cleaning station slowly and hover at the same depth as the mantas — do not ascend into their space or chase them. Fin movements should be minimal to avoid disturbing the cleaning behaviour. The current can pick up quickly once past the station; be prepared to signal the boat early for a drift pick-up. Carry an SMB.
 
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

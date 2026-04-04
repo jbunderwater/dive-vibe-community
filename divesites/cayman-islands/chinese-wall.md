@@ -23,9 +23,9 @@ Chinese Wall is located on Grand Cayman's South Side, which receives significant
 
 - **Location**: South Side, Grand Cayman
 - **Entry Type**: Boat dive
-- **Site Type**: Wall
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 45 meters (147 feet) — stay within sport diving limits of 40 meters
+- **Maximum Depth**: 45 meters
 - **Typical Visibility**: 20–35 meters (65–115 feet)
 - **Current**: Moderate — variable
 - **Water Temperature**: 26–29°C (79–84°F)
@@ -59,9 +59,5 @@ Wall diving requires continuous depth monitoring since the absent floor referenc
 
 Chinese Wall's barrel sponges and sea fans create outstanding wide-angle subjects. The wall face with its vertical sponge garden and deep blue water background is a signature image. Eagle ray encounters require quick shooting reactions — pre-set camera exposure for ambient conditions rather than spending time adjusting. Strobe lighting at moderate range (60–80 cm) brings out the vivid reds and oranges of sponge growth on the wall face.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Visit Cayman Islands - Diving Guide](https://www.visitcaymanislands.com/en-us/things-to-do/diving), [Scuba Diving Magazine - Divers Guide to Cayman Islands](https://www.scubadiving.com/divers-guide-to-cayman-islands), [Bluewater Dive Travel - Cayman Islands Diving](https://www.bluewaterdivetravel.com/destination/cayman-islands-diving), [Visit Cayman Islands - 365 Dive Sites](https://www.visitcaymanislands.com/en-us/things-to-do/diving/365-dive-sites), [Ocean Frontiers - Cayman Islands Dive Center](https://www.oceanfrontiers.com/). Last updated 2026-04-04.*

@@ -22,8 +22,8 @@ Abu Galawa Kebir ("Big Abu Galawa") is a Fury Shoal lagoon site containing a his
 ## Site Information
 
 - **Location**: Fury Shoal (Abu Galawa Kebir lagoon), south of Marsa Alam, Red Sea, Egypt
-- **Entry Type**: Boat dive (liveaboard)
-- **Site Type**: Wreck on coral reef
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25–40 meters inside lagoon
@@ -58,9 +58,5 @@ Penetrating the wreck interior is not recommended without wreck diving certifica
 
 One of the most photogenic wreck locations in the Red Sea — coral-encrusted wreck in a turquoise lagoon provides extraordinary wide-angle compositions. Glassfish swarming the wreck in sunbeams are an iconic shot. The surrounding coral garden complements the wreck perfectly for a full portfolio. Macro opportunities on the wreck's coral encrustation are also excellent.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

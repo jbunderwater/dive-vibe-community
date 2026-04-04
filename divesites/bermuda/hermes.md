@@ -23,9 +23,9 @@ The Hermes was built in 1943 as a buoy tender for the United States Navy. After 
 
 - **Location**: South Shore, Bermuda
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 24 meters (75 feet)
+- **Maximum Depth**: 24 meters
 - **Typical Visibility**: 20–40 meters (65–130 feet)
 - **Current**: Light to moderate
 - **Water Temperature**: 18–28°C (64–82°F)
@@ -59,9 +59,5 @@ The 24-meter depth requires standard recreational diving depth management and no
 
 The Hermes is widely regarded as Bermuda's best photography wreck. The intact, upright orientation combined with outstanding visibility creates ideal conditions for wide-angle hull compositions. The mast surrounded by schooling fish is a signature shot. Interior rooms offer dramatic ambient light from removed hatches. Macro subjects — cleaning shrimp, blennies, encrusting corals — abound on the hull surfaces.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Go To Bermuda - Top Dive Sites](https://www.gotobermuda.com/plan/inspiration/article/top-dive-sites-in-bermuda), [Go To Bermuda - Bermuda Shipwrecks](https://www.gotobermuda.com/plan/inspiration/article/dive-into-bermuda-shipwrecks), [Scuba Diving Magazine - Guide to Scuba Diving Bermuda](https://www.scubadiving.com/guide-to-scuba-diving-bermuda), [Blue Water Divers Bermuda - Shipwrecks](https://www.divebermuda.com/shipwrecks/), [Bermuda Attractions - Famous Shipwrecks and Dive Sites](https://www.bermuda-attractions.com/bermuda_000045.htm). Last updated 2026-04-04.*

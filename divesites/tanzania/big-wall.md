@@ -25,7 +25,7 @@ Pemba Island's eastern coast drops away sharply into the Pemba Channel, forming 
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 20 meters (wall continues deeper)
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)
 - **Current**: Moderate to strong, variable with tide
 - **Best Time**: October to March (northeast monsoon, best visibility)
@@ -58,9 +58,5 @@ Wall dives carry an inherent risk of uncontrolled descent. Establish a clear max
 
 Big Wall is outstanding for wide-angle photography — the combination of colorful soft corals, large gorgonian fans, and blue-water pelagic visitors creates compositions rarely found elsewhere in East Africa. Bring the widest lens available, and use a single strobe or no strobes at all for blue-water silhouette shots of rays and sharks.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*

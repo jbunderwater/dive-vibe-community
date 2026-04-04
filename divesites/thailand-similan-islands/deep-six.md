@@ -58,9 +58,5 @@ Surge is the defining hazard at Deep Six. A diver who misjudges a swimthrough en
 
 The boulder architecture is suited to wide-angle with a diver for scale. Leopard shark portraits require patience and a slow approach — descend to the sand level before the shark's position rather than approaching from above. Surge-driven water motion can cause camera movement during macro attempts; consider 1/200 or faster shutter speeds when shooting small subjects on encrusted surfaces. The overhangs at 8–12 m, filled with glassfish and lit by strobe, are a classic Similan wide-angle composition.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Similan Dive Guide](https://www.similandiveguide.com/), [Sunrise Divers - Similan Islands Dive Sites](https://www.sunrise-divers.com/dive-sites/similan-islands/), [Dive The World Thailand - Similan Islands](https://www.divetheworldthailand.com/similan-islands-diving-sites.php), [Sea Bees Diving - Scuba Diving Similans](https://sea-bees.com/scuba-diving-similans/), [Dive Happy - Diving Similan Islands Guide](https://divehappy.com/diving-similan-islands-quick-guide/). Last updated 2026-04-04.*

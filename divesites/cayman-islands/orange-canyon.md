@@ -23,9 +23,9 @@ Orange Canyon earns its name from the spectacular orange elephant ear sponges th
 
 - **Location**: West Side, Grand Cayman
 - **Entry Type**: Boat dive
-- **Site Type**: Wall / canyon
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters (82 feet)
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20–40 meters (65–130 feet)
 - **Current**: Light to moderate
 - **Water Temperature**: 26–29°C (79–84°F)
@@ -59,9 +59,5 @@ The canyon structure is navigable without special training as the passages are w
 
 Orange Canyon is one of Grand Cayman's most photogenic sites specifically because of the sponge color. The orange elephant ear sponges against the blue water and coral background create immediately striking compositions. Wide-angle with a strobe at medium range brings out the color while maintaining the depth-of-field for the canyon environment. Angelfish in front of the sponges are a classic combination subject.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Visit Cayman Islands - Diving Guide](https://www.visitcaymanislands.com/en-us/things-to-do/diving), [Scuba Diving Magazine - Divers Guide to Cayman Islands](https://www.scubadiving.com/divers-guide-to-cayman-islands), [Bluewater Dive Travel - Cayman Islands Diving](https://www.bluewaterdivetravel.com/destination/cayman-islands-diving), [Visit Cayman Islands - 365 Dive Sites](https://www.visitcaymanislands.com/en-us/things-to-do/diving/365-dive-sites), [Ocean Frontiers - Cayman Islands Dive Center](https://www.oceanfrontiers.com/). Last updated 2026-04-04.*

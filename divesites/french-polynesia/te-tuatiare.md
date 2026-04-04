@@ -35,4 +35,5 @@ Grey reef sharks (*Carcharhinus amblyrhynchos*) are the dominant species in the 
 
 Dive only on a reliable incoming tide — outgoing tides produce weaker shark activity and poorer visibility. This is an Advanced-rated dive; strong buoyancy control and comfort in current are essential. Always dive with a local guide who knows the pass timing and pickup point for the drift exit. Surface marker buoys (SMBs) are standard equipment.
 
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: [Bluewater Dive Travel - French Polynesia](https://www.bluewaterdivetravel.com/destination/french-polynesia-diving), [PADI - Diving in French Polynesia](https://www.padi.com/diving-in/french-polynesia/), [World Adventure Divers - French Polynesia](https://worldadventuredivers.com/diving-french-polynesia/), [Air Tahiti Nui - Scuba Diving in Tahiti](https://www.airtahitinui.com/en/scuba-diving-tahiti-best-spots-islands), [Scuba Diving Magazine - French Polynesia Big Five](https://www.scubadiving.com/where-to-dive-french-polynesias-big-five). Last updated 2026-04-04.*

@@ -23,7 +23,7 @@ Named for the impressive congregations of great barracuda that patrol the point,
 
 - **Location**: Northern Zanzibar Island, Tanzania
 - **Entry Type**: Boat dive
-- **Site Type**: Drift
+- **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15-30 meters (50-100 feet)
@@ -58,9 +58,5 @@ The current can be deceptively strong and direction can shift unpredictably near
 
 Barracuda schools offer exceptional wide-angle subjects — approach slowly from below or to the side to avoid spooking the fish. Early morning dives benefit from top-lighting that creates dramatic silhouettes against the open water. The reef top also holds good macro subjects including nudibranchs and cleaner shrimp in the coral heads.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*

@@ -23,9 +23,9 @@ Eagle Ray Pass is one of Grand Cayman's most celebrated North Wall dive sites, f
 
 - **Location**: North Wall, West Bay area, Grand Cayman
 - **Entry Type**: Boat dive
-- **Site Type**: Wall / coral chasm
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 36 meters (118 feet)
+- **Maximum Depth**: 36 meters
 - **Typical Visibility**: 20–40 meters (65–130 feet)
 - **Current**: Moderate — can run along the wall
 - **Water Temperature**: 26–29°C (79–84°F)
@@ -59,9 +59,5 @@ The 36-meter maximum depth requires careful no-decompression limit management. C
 
 Eagle Ray Pass is one of Grand Cayman's premier photography sites. Eagle ray groups in formation against the infinite blue wall backdrop are iconic Caribbean images. The coral chasm with its towering formations provides dramatic architectural wide-angle compositions. Black coral and gorgonian fans reward close-up macro work with a strobe. An underwater video light improves colors on the chasm walls during the descent.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Visit Cayman Islands - Diving Guide](https://www.visitcaymanislands.com/en-us/things-to-do/diving), [Scuba Diving Magazine - Divers Guide to Cayman Islands](https://www.scubadiving.com/divers-guide-to-cayman-islands), [Bluewater Dive Travel - Cayman Islands Diving](https://www.bluewaterdivetravel.com/destination/cayman-islands-diving), [Visit Cayman Islands - 365 Dive Sites](https://www.visitcaymanislands.com/en-us/things-to-do/diving/365-dive-sites), [Ocean Frontiers - Cayman Islands Dive Center](https://www.oceanfrontiers.com/). Last updated 2026-04-04.*

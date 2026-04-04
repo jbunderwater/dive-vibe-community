@@ -23,7 +23,7 @@ Ted's Point marks the southwestern corner of Utila's reef system, where the sout
 
 - **Location**: Southwest tip of Utila, Bay Islands, Honduras
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive (curved point topography)
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 25–30 meters (80–100 feet)
@@ -58,9 +58,5 @@ The point concentrates current — be prepared for stronger flow than on the str
 
 Ted's Point is Utila's best location for eagle ray photography in a wall dive context. The clear, blue water backdrop combined with the current-driven fish concentrations creates compelling subjects. The wall face at the point with sea fans and the curved topography is a strong wide-angle subject. Frame the point corner from below looking up toward the surface for a dramatic perspective.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Utila Dive Center](https://utiladivecenter.com/), [Utila Cays Diving - Dive Sites](https://utilacaysdiving.com/dive-with-us/dive-sites/), [Alton's Dive Center Utila](https://diveinutila.com/), [World Adventure Divers - 10 Reasons to Dive Utila](https://worldadventuredivers.com/diving-utila/), [ZuBlu - Scuba Diving in Utila](https://www.zubludiving.com/destination/honduras/bay-islands/utila). Last updated 2026-04-04.*

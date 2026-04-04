@@ -59,9 +59,5 @@ Be aware of strong currents, fire coral, lionfish stings in this area. Dive with
 
 The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [Arab Divers - Aqaba Dive Sites](https://www.arabdivers.jo/en/activities/dive-sites), [Divezone - Aqaba Dive Sites](https://divezone.net/diving/aqaba), [SCUBA Travel - Jordan Dive Guide](https://www.scubatravel.co.uk/redsea/jordandive.html), [Deep Blue Dive Center - Aqaba Sites](https://www.deepbluedivecenter.com/red-sea-scuba-diving/), [Coral Garden Diving Center Aqaba](https://www.dive-inaqaba.com/). Last updated 2026-04-04.*

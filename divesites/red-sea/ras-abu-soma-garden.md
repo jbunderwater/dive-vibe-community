@@ -58,4 +58,4 @@ The gentle, shallow topography makes this a lower-risk site, but fire coral is p
 Ras Abu Soma Garden is arguably the best macro photography reef in the Hurghada region. The coral diversity provides numerous subjects including coral detail portraits, anemonefish in resident anemones, and nudibranchs on coral rubble. Wide-angle photography of the broad coral garden from a few meters above creates compelling reef landscape images. Natural lighting is excellent throughout due to the shallow depths and calm, clear water.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

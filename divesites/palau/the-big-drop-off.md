@@ -50,8 +50,5 @@ While this is one of Palau's more accessible wall dives, the sheer drop still de
 ## Photography
 The Big Drop Off is a soft coral and sea fan photographer's dream. Wide-angle is essential to capture the scale of the fans against the deep blue background. Position yourself slightly off the wall and shoot along the face to show the cascading corals in context. Backlighting sea fans with a strobe reveals their structure. Macro shooters should search the large fans for pygmy seahorses and the wall crevices for nudibranchs. The reef top in shallow water offers excellent natural-light photography of hard coral formations.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Palau Dive Adventures](https://palaudiveadventures.com/best-dive-sites-palau/), [Bluewater Dive Travel - Palau](https://www.bluewaterdivetravel.com/destination/palau-diving), [Dive the World - Palau](https://www.dive-the-world.com/diving-sites-palau.php), [PADI - Diving in Palau](https://www.padi.com/diving-in/palau/), [Pristine Paradise Palau](https://pristineparadisepalau.com/dive-palau/). Last updated 2026-04-04.*

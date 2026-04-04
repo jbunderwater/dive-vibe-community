@@ -22,7 +22,7 @@ Elba Reef West (Fingers) describes a section of the western face of Elba Reef at
 ## Site Information
 
 - **Location**: Western face, Elba Reef atoll, near Egyptian-Sudanese border (~22°N)
-- **Entry Type**: Liveaboard dive only
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
@@ -58,9 +58,5 @@ The finger channels are generally safe and sheltered, but disorientation is poss
 
 The finger channels provide excellent macro and close-focus wide-angle opportunities: channel floors with stingrays, ridge overhangs with lionfish portraits, and anthias-covered ridge tops at 8–10 metres in good ambient light. The enclosed geometry of each channel creates natural framing for reef fish portraits. The sandy channel floors between ridges support ghost shrimp and goby-shrimp partnerships for macro work.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

@@ -23,7 +23,7 @@ Shag Rock is a submerged pinnacle at approximately 27.77°N, 33.88°E, located i
 
 - **Location**: Offshore Hurghada, northern Egyptian Red Sea (~27.77°N, 33.88°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef (pinnacle)
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters
@@ -57,9 +57,5 @@ The isolated pinnacle position means currents can be strong and unpredictable �
 
 The glassfish clouds in the overhanging sections of Shag Rock are outstanding wide-angle subjects — torch-assisted shots with the school cascading across the frame are the signature image. Grey reef shark portraits with the open-ocean background require positioning at the pinnacle base with pre-positioned strobe settings. The dense fish aggregations on the upper pinnacle in morning light suit ambient wide-angle techniques.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

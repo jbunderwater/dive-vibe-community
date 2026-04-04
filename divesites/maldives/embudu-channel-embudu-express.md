@@ -38,4 +38,4 @@ Grey reef sharks, whitetip reef sharks, eagle rays, humphead parrotfish, Napoleo
 Timing the dive with the tidal push is essential — your divemaster will position the boat at the channel mouth to catch the incoming current. Stay close to the wall for shelter and to observe reef life in the eddies. A surface marker buoy (SMB) is mandatory for the open-water ascent at the channel's inner end. Not suitable for divers without strong buoyancy control and drift diving experience.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

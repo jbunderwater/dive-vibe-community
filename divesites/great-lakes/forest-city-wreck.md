@@ -23,9 +23,9 @@ The Forest City lies in the deepest section of the Fathom Five wreck collection,
 
 - **Location**: Georgian Bay, Lake Huron, Fathom Five National Marine Park, Ontario, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 45 metres
+- **Maximum Depth**: 45 meters
 - **Typical Visibility**: 10–25 metres
 - **Water Temperature**: 4–12°C (seasonal); bottom consistently 4°C
 - **Current**: Minimal
@@ -60,9 +60,5 @@ The Forest City sits at the outer limit of recreational diving. Narcosis, cold i
 
 Georgian Bay's exceptional visibility makes the Forest City a prime deep wreck photography subject. At 45 metres, ambient light is present but limited — wide-angle photography with supplemental lighting provides the best results. Lake trout encounters are outstanding photography opportunities.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Michigan.org - Dive Michigan Shipwrecks Underwater Preserves](https://www.michigan.org/article/trip-idea/dive-michigan-shipwrecks-these-underwater-preserves), [Great Lakes Shipwreck Preservation Society - Dive Sites](https://glsps.clubexpress.com/DiveSites), [Scuba Diving Magazine - Great Lakes Shipwrecks](https://www.scubadiving.com/great-lakes-shipwrecks-like-youve-never-seen-them-before), [Gear Patrol - Guide to Wreck Diving the Great Lakes](https://www.gearpatrol.com/archive/a162066/great-lakes-wreck-diving-guide/), [Shipwreck Explorers - Wisconsin Scuba Diving](https://www.shipwreckexplorers.com/). Last updated 2026-04-04.*

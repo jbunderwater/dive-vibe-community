@@ -58,9 +58,5 @@ Conditions at Tobia Hamra are among the most benign of any Red Sea offshore reef
 
 Tobia Hamra's soft coral coverage makes it one of the Safaga area's best photography sites. Close-focus wide-angle shots of the Dendronephthya-covered pinnacle face with strobe fill are the signature composition. Zebra shark portraits on the sandy floor are relatively rare Red Sea images. Spotted eagle ray photography is accessible in the well-lit water column. The calm, clear water allows extended exposure times and natural-light ambient-light photography.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

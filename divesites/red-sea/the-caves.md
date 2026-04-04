@@ -23,7 +23,7 @@ The Caves is a dive site on the Sinai coastline south of Ras Nasrani in the nort
 
 - **Location**: North of Sharm el-Sheikh, Sinai coast, Gulf of Aqaba, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–30 meters
@@ -58,9 +58,5 @@ Cave and cavern environments require solid buoyancy control — the narrow passa
 
 The light-and-shadow contrast in the cave openings creates dramatic images — backlit shots from inside the caverns looking toward the open-water entrance are the signature composition. Glassfish clouds cascading through cave openings reward patience with wide-angle glass. Lionfish in the shadows respond well to strobe fill light. Moray eels in crevices are accessible macro subjects. The outer buttress-and-gully topography is ideal for reef environmental wide-angle shots.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

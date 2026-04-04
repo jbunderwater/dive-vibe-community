@@ -58,9 +58,5 @@ The northern tip and the halg (channel between Umm Gamar and Shabrur Umm Gamar) 
 
 The western wall offers good coral composition opportunities in calmer water than the eastern face, with less particulate and more stable shooting conditions. Cave recess shots with glassfish inside reward a wide-angle lens and patient positioning at the entrance. Blue-spotted stingrays on the sandy base and moray eels in crevices are accessible macro-to-wide subjects. Manta ray encounters at the northern tip in February–March are the western face's headline photographic opportunity.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

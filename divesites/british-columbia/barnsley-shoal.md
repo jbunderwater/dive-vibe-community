@@ -23,7 +23,7 @@ Barnsley Shoal lies in the Discovery Islands, a cluster of islands and channels 
 
 - **Location**: Discovery Islands, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8-15 meters (25-50 feet)
@@ -59,9 +59,5 @@ Remote location means emergency response time is long. Ensure the surface suppor
 
 The Discovery Islands' cold, clear water makes Barnsley Shoal a strong photography site. Wide-angle shots of anemone-covered rock faces and GPO encounters are the highlights. The schooling rockfish and sea stars also provide compelling subjects. Macro work on nudibranchs is excellent throughout the site.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

@@ -23,9 +23,9 @@ Seal Reef sits in the channel systems north of Parksville/Qualicum in the Strait
 
 - **Location**: Northern Strait of Georgia, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 6–12 metres
 - **Current**: Variable; moderate on tidal flows
 - **Best Time**: July to October
@@ -58,4 +58,4 @@ Seal encounters are generally safe but remain alert — seals can nip, particula
 Harbour seal portrait photography is the star attraction — wide-angle imaging of seals swimming through kelp is stunning. Portrait shots of the seals' whiskered faces require a moderately long port setting. Rockfish and lingcod also make excellent portrait subjects in strong available light.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

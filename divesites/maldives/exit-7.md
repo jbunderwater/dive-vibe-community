@@ -38,4 +38,4 @@ Blue-striped snapper, oriental sweetlips, grey reef sharks, sea fans, moray eels
 Exit 7 is a good site for a relaxed second dive when the morning drift is complete. The snapper schools at mid-depth are a reliable photographic subject. Use the sandy bottom at 25 meters as a turning depth and work back up through the fish-rich coral valley on the ascent.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

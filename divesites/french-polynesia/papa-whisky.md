@@ -35,4 +35,5 @@ The coral pinnacles at Papa Whisky are notable for their dense covering of encru
 
 Papa Whisky is typically paired with the nearby Aquarium site for a two-dive morning out of Papeete. Plan the deeper profile on the first dive, exploring the sand corridors and pinnacle bases, and ascend to the shallower pinnacle tops for the second half and safety stop.
 
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: [Bluewater Dive Travel - French Polynesia](https://www.bluewaterdivetravel.com/destination/french-polynesia-diving), [PADI - Diving in French Polynesia](https://www.padi.com/diving-in/french-polynesia/), [World Adventure Divers - French Polynesia](https://worldadventuredivers.com/diving-french-polynesia/), [Air Tahiti Nui - Scuba Diving in Tahiti](https://www.airtahitinui.com/en/scuba-diving-tahiti-best-spots-islands), [Scuba Diving Magazine - French Polynesia Big Five](https://www.scubadiving.com/where-to-dive-french-polynesias-big-five). Last updated 2026-04-04.*

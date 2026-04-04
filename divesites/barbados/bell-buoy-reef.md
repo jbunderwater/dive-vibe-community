@@ -60,4 +60,5 @@ Bell Buoy Reef's deeper character and shark activity offer intermediate and adva
 - Heatwave Water Sports and Coral Isle Divers: offer Bell Buoy Reef on intermediate dive programs
 - Best combined with the Stavronikita or Carlisle Bay wrecks for a full south coast dive day
 
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: barbados.org - Named reef structure for intermediate divers. Last updated 2026-03-28.*

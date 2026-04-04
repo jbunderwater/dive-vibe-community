@@ -25,7 +25,7 @@ CJ's Drop Off is Utila's most dramatic wall dive, dropping from the shallow reef
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters (recreational limit; wall continues much deeper)
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 30–35 meters (100–115 feet)
 - **Current**: Moderate; stronger on this exposed south-facing wall
 - **Best Time**: Year-round; April to October for calmer south-coast conditions
@@ -58,9 +58,5 @@ Advanced dive with serious depth and open-ocean exposure. Narcosis at 35–40 me
 
 CJ's Drop Off offers Utila's best opportunity for large-animal photography. Wide-angle lenses for shark and eagle ray encounters in clear blue water. The pristine visibility creates clean blue backgrounds ideal for marine life portraits. The wall face covered in black coral and sea fans provides dramatic wide-angle subjects with divers for scale. Be patient — the pelagic subjects appear unpredictably and require readiness.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Utila Dive Center](https://utiladivecenter.com/), [Utila Cays Diving - Dive Sites](https://utilacaysdiving.com/dive-with-us/dive-sites/), [Alton's Dive Center Utila](https://diveinutila.com/), [World Adventure Divers - 10 Reasons to Dive Utila](https://worldadventuredivers.com/diving-utila/), [ZuBlu - Scuba Diving in Utila](https://www.zubludiving.com/destination/honduras/bay-islands/utila). Last updated 2026-04-04.*

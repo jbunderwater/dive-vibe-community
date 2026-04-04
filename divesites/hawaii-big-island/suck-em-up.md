@@ -72,9 +72,9 @@ Most divers enter the tube system from the reef side, exploring the main passage
 
 This is a surge-dependent dive. On calm days, it's an excellent intermediate site. On high-swell days, it can be more challenging. Experienced operators will recommend postponement if surge is excessive. Check local conditions and swell forecasts before booking.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
 
 ---
 *This dive site information was researched from Kona dive operator reviews, diver trip reports, and lava tube diving guides. Last updated 2026-03-16.*
+
+---
+*Sources: [Scuba Diving Magazine - Ultimate Guide to Big Island](https://www.scubadiving.com/ultimate-guide-to-scuba-diving-hawaiis-big-island), [Kona Honu Divers - Big Island Scuba Diving Guide](https://konahonudivers.com/big-island-scuba-diving-130/), [Big Island Divers](https://bigislanddivers.com/), [PADI - Big Island Dive Sites](https://blog.padi.com/7-top-dive-sites-around-hawaiis-big-island/), [Kohala Divers - Big Island Scuba Diving](https://www.kohaladivers.com/). Last updated 2026-04-04.*

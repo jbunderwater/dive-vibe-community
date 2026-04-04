@@ -23,7 +23,7 @@ The reef surrounding Mali Plavnik features the limestone rock and boulder terrai
 
 - **Location**: Mali Plavnik Islet, Kvarner, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–20 meters
@@ -58,4 +58,4 @@ The islet's exposed position can generate current on some faces. Check condition
 The isolated islet setting creates opportunities for wide-angle shots with the reef structure, blue water, and large resident fish. Clear Kvarner visibility makes wide-angle work very effective. The resident grouper and schooling fish life are productive portrait subjects.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*

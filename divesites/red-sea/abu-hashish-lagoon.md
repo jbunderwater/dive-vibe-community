@@ -23,7 +23,7 @@ Abu Hashish Lagoon occupies the sheltered side of the Ras Abu Hashish headland, 
 
 - **Location**: Ras Abu Hashish (lagoon side), north of Hurghada, Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef / lagoon
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters
@@ -58,9 +58,5 @@ Lagoon conditions are generally benign, but maintain awareness of depth and air 
 
 The calm conditions make this an excellent macro photography site. Nudibranchs, flatworms, and ornate ghost pipefish are found on the sandy margins. The coral structures offer good wide-angle compositions with fish. The sheltered light inside the lagoon is soft and even, beneficial for ambient exposure in the shallower reef sections.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

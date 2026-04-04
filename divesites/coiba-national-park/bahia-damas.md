@@ -66,10 +66,10 @@ Variable currents demand solid buoyancy and streamlined profile. Strong current 
 
 Bahia Damas is a UNESCO World Heritage Site. All divers are ambassadors; report reef damage or illegal fishing to operators immediately.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
 - **Validation Source**: Perplexity research (March 2026)
 
 ---
 *Dive site information researched March 2026. Updated with biodiversity and conservation-focused data for this UNESCO reef.*
+
+---
+*Sources: [Scuba Coiba - The Original Dive Center](https://scubacoiba.com/), [Panama Dive Center - Coiba National Park](https://panamadivecenter.com/), [Coiba Dive Center](https://coibadivecenter.com/), [Coiba Island - Best Diving Sites](https://coiba-island.com/best-diving-sites-coiba-island-panama/), [The Ark Divers - Scuba Diving in Coiba National Park](https://www.thearkdivers.com/dive). Last updated 2026-04-04.*

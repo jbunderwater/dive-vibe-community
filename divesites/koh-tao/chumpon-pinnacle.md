@@ -23,9 +23,9 @@ Chumpon Pinnacle (also spelled Chumphon) rises from around 14 m down to depths e
 
 - **Location**: Northwest of Koh Nang Yuan, Koh Tao, Gulf of Thailand
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 35 m
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 15–30 m
 - **Current**: Moderate to strong; site-specific upwellings
 - **Best Time**: May to August (whale shark season peaks)
@@ -58,9 +58,5 @@ Strong currents can develop quickly at the pinnacle. If swept off the structure,
 
 Schools of barracuda spiralling above the pinnacle are the iconic wide-angle shot. Whale shark silhouettes against open water require fast shutter speeds and wide angle. The soft coral close-ups on the pinnacle flanks work with macro or close-focus wide-angle.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Koh Tao Complete Guide - Best Dive Sites](https://www.kohtaocompleteguide.com/diving/koh-tao-dive-sites/), [Sairee Cottage Diving - Koh Tao Dive Sites Complete Guide](https://www.saireecottagediving.com/koh-tao-dive-sites-complete-guide-to-26-incredible-locations/), [Big Blue Diving Koh Tao](https://www.bigbluediving.com/), [PADI - Diving in Koh Tao](https://www.padi.com/diving-in/koh-tao/), [Dive Happy - Koh Tao Dive Sites Guide](https://divehappy.com/). Last updated 2026-04-04.*

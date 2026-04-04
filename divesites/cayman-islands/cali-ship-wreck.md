@@ -22,10 +22,10 @@ The Cali was a 206-foot four-masted cargo schooner en route from Ecuador to Cuba
 ## Site Information
 
 - **Location**: Southern Seven Mile Beach, George Town, Grand Cayman
-- **Entry Type**: Boat dive (short swim from shore also possible)
-- **Site Type**: Wreck
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 28 meters (92 feet) — shallowest sections at 3 meters
+- **Maximum Depth**: 28 meters
 - **Typical Visibility**: 15–25 meters (50–82 feet)
 - **Current**: Light
 - **Water Temperature**: 26–29°C (79–84°F)
@@ -59,9 +59,5 @@ At 6–9 meters for the main wreck, depth hazards are minimal. However, the harb
 
 The scattered coral-encrusted hull elements and large tarpon make the Cali a highly photogenic site in very manageable conditions. Natural light photography at 3–9 meters is extremely effective. Tarpon in clear shallow water with sunbeams is a classic image. Wide-angle close-up of the boilers encrusted in Caribbean hard coral is visually striking.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Visit Cayman Islands - Diving Guide](https://www.visitcaymanislands.com/en-us/things-to-do/diving), [Scuba Diving Magazine - Divers Guide to Cayman Islands](https://www.scubadiving.com/divers-guide-to-cayman-islands), [Bluewater Dive Travel - Cayman Islands Diving](https://www.bluewaterdivetravel.com/destination/cayman-islands-diving), [Visit Cayman Islands - 365 Dive Sites](https://www.visitcaymanislands.com/en-us/things-to-do/diving/365-dive-sites), [Ocean Frontiers - Cayman Islands Dive Center](https://www.oceanfrontiers.com/). Last updated 2026-04-04.*

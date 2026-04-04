@@ -58,9 +58,5 @@ Currents are generally milder than at other Galapagos sites, but can still be pr
 
 One of the most versatile photography sites in the Galapagos. Sea lions are exceptionally photogenic subjects -- they approach closely, make eye contact, and spiral around divers, rewarding wide-angle shooters with engaging portraits and interaction shots. Seahorses and frogfish provide genuine macro opportunities rare in the Galapagos. Black coral gardens and sea fans create beautiful backgrounds for wide-angle reef scenes. The combination of subjects makes this a site where both a macro and wide-angle setup would be used to full advantage. If forced to choose one lens, go wide-angle for the sea lions.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [PADI - Diving in the Galapagos Islands](https://www.padi.com/diving-in/the-galapagos-islands/), [PADI Blog - Top Dive Sites in the Galapagos](https://blog.padi.com/top-dive-sites-in-the-galapagos/), [Bluewater Dive Travel - Galapagos](https://www.bluewaterdivetravel.com/destination/galapagos-diving), [World Adventure Divers - Diving Galapagos](https://worldadventuredivers.com/diving-galapagos/), [Galapagos Safari Camp - Scuba Diving](https://www.galapagossafaricamp.com/scuba-diving-galapagos/). Last updated 2026-04-04.*

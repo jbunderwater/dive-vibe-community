@@ -58,9 +58,5 @@ This is a relatively straightforward dive site with calmer conditions than the e
 
 Sataya South is one of the best places in the world to photograph spinner dolphins underwater. A fisheye or wide-angle rectilinear lens in a dome port captures dolphins in clear blue water. Shoot toward the surface light for silhouette effects, or aim horizontally for eye-level portraits when dolphins come in close. Turtle portraits on coral bommies are a secondary highlight. The light in the lagoon is excellent from mid-morning onward.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

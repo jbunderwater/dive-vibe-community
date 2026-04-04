@@ -58,9 +58,5 @@ This is one of the Red Sea's most benign dive sites. Main hazards are fire coral
 
 One of the best natural-light underwater photography sites for beginners. No need for strobes in the shallows — the colours are vivid in ambient light. Wide-angle works well for reef panoramas; the fishlife density supports creative close-focus shots without specialist macro lenses.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

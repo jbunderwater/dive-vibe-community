@@ -60,10 +60,10 @@ Rock/coral bottoms require careful buoyancy to avoid damage. Currents can increa
 
 Year-round diveable. Dry season (December-April) offers calmer conditions, warmest water (29-30°C), and best light for macro photography. Rainy season (May-November) maintains excellent visibility with slightly cooler water (26-28°C) and variable currents.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
 - **Validation Source**: Perplexity research (March 2026)
 
 ---
 *Dive site information researched March 2026. Updated with site-specific characteristics of Coiba's shark-rich pinnacle.*
+
+---
+*Sources: [Scuba Coiba - The Original Dive Center](https://scubacoiba.com/), [Panama Dive Center - Coiba National Park](https://panamadivecenter.com/), [Coiba Dive Center](https://coibadivecenter.com/), [Coiba Island - Best Diving Sites](https://coiba-island.com/best-diving-sites-coiba-island-panama/), [The Ark Divers - Scuba Diving in Coiba National Park](https://www.thearkdivers.com/dive). Last updated 2026-04-04.*

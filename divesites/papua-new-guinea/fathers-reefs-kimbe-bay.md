@@ -59,4 +59,4 @@ Currents can be strong and unpredictable around the pinnacles, especially on inc
 Fathers Reefs is one of Papua New Guinea's premier wide-angle subjects. Schools of trevally framed against soft coral pinnacles, shark silhouettes in the blue, and dense sea fan gardens all make for compelling images. Early morning light penetrates the pinnacle crests beautifully. For macro, work the sea fans at 12-18 meters with good torch light to coax out pygmy seahorses and nudibranchs.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [PADI Diving in Papua New Guinea](https://www.padi.com/diving-in/papua-new-guinea/), [Indopacific Images PNG Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [Bluewater Dive Travel PNG](https://www.bluewaterdivetravel.com/destination/papua-new-guinea-diving), [Divezone PNG Dive Sites](https://divezone.net/diving/papua-new-guinea), [Dive Adventures Papua New Guinea](https://diveadventures.com.au/country/papua-new-guinea/). Last updated 2026-04-04.*

@@ -23,7 +23,7 @@ Half Tide Rock is a rocky feature that, as its name precisely describes, is subm
 
 - **Location**: Northern Ipswich Bay area, northern Massachusetts
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 10 meters
 - **Typical Visibility**: 3–8 meters (10–26 feet)
@@ -64,4 +64,4 @@ The strong natural light at 10 metres is an asset. Near high tide, the rock top 
 - **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*

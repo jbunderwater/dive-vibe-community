@@ -44,4 +44,5 @@ Grey reef sharks, whitetip reef sharks, nurse sharks, eagle rays, Napoleon wrass
 
 Descend quickly to the deeper flanks where the sharks congregate before exploring the richly coral-encrusted summit. Currents can be variable around the pinnacle, so keep close to the structure to stay in control. A safety stop at 5 metres on the thila top provides excellent photo opportunities with the reef fish life above.
 
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

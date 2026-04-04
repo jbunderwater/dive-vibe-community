@@ -63,4 +63,5 @@ Blonde Rock offers the BVI's best wide-angle pelagic photography. Jacks in spira
 - Blue Water Divers and Sail Caribbean Divers (Road Town): operate Blonde Rock on suitable tidal conditions
 - Best combined with Dead Chest Wall for a two-tank Salt Island area day
 
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: [Dive BVI - Dive Sites](https://divebvi.com/dive-sites/), [BVI Dive Map](https://bvi-dive-map.com/), [Bluewater Dive Travel - British Virgin Islands Diving](https://www.bluewaterdivetravel.com/destination/british-virgin-islands-diving), [Dive The World - British Virgin Islands](https://www.dive-the-world.com/diving-sites-british-virgin-islands.php), [BVI Scuba - Diving Info](https://bviscuba.org/diving-info/). Last updated 2026-04-04.*

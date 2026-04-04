@@ -58,9 +58,5 @@ The remoteness of the Mafia Channel means emergency evacuation can be slow. Ensu
 
 The combination of healthy coral, diverse fish populations, and potential whale shark encounters makes this a high-value photography site. Wide-angle rigs are recommended. Morning light provides the best conditions for reef shots, while late afternoon can produce dramatic silhouette opportunities as pelagic fish rise in the water column.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*

@@ -58,9 +58,5 @@ Strong and variable currents are the primary hazard. The exposed northeast coast
 
 Mantas at cleaning stations offer world-class wide-angle photography. Position yourself below and to the side of the station with a fisheye or ultra-wide lens, shooting upward to silhouette the mantas against the surface light. Strobes are useful for filling the manta's white belly pattern. Hammerhead schools off the wall require fast shutter speeds (1/200+) and good blue-water shooting technique. Marine iguanas grazing on algae in the shallows provide a unique macro or close-focus wide-angle subject found nowhere else on Earth.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [PADI - Diving in the Galapagos Islands](https://www.padi.com/diving-in/the-galapagos-islands/), [PADI Blog - Top Dive Sites in the Galapagos](https://blog.padi.com/top-dive-sites-in-the-galapagos/), [Bluewater Dive Travel - Galapagos](https://www.bluewaterdivetravel.com/destination/galapagos-diving), [World Adventure Divers - Diving Galapagos](https://worldadventuredivers.com/diving-galapagos/), [Galapagos Safari Camp - Scuba Diving](https://www.galapagossafaricamp.com/scuba-diving-galapagos/). Last updated 2026-04-04.*

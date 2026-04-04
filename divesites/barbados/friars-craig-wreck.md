@@ -60,4 +60,5 @@ The Friars Craig's mature encrustation and rich fish community offer strong wrec
 - Heatwave Water Sports and Coral Isle Divers (Barbados): include the Friars Craig on southwest wreck itineraries
 - Best combined with the Stavronikita for a two-tank Barbados wreck diving day
 
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: padi.com, adventuredives.com - 100ft Dutch freighter (1984), 55ft depth, broken in 3 pieces. Last updated 2026-03-28.*

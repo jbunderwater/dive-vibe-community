@@ -59,4 +59,4 @@ Cavern diving principles apply throughout: maintain entrance orientation, stay w
 The horizontal cave interior framed by the entrance opening creates a classic tunnel-view composition. Natural light quality in the entrance is excellent. The rough-textured cave walls photographed with a torch reveal vivid sponge colours. Paired with the Cathedral Cave next door, the two sites offer contrasting photographic subjects.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [Atlantis Gozo Dive Sites](https://www.atlantisgozo.com/dive-sites/), [PADI Diving in Malta](https://www.padi.com/diving-in/malta/), [SCUBA Travel Malta Guide](https://www.scubatravel.co.uk/europe/malta-dive-in.html), [Dive Malta-Gozo](https://divemalta-gozo.com/diving-in-gozo/). Last updated 2026-04-04.*

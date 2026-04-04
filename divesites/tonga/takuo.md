@@ -60,4 +60,4 @@ This site is well within intermediate-level diver capabilities. The 20 meter max
 The encrusted hull makes for strong macro photography — scan the surfaces for nudibranchs, flatworms, and small crustaceans in the coral matrix. Wide-angle shots looking along the hull length capture the wreck's scale and the fish life surrounding it. A torch is needed to illuminate interior shots and to restore color saturation on the deeper hull sections.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Tonga Tourism - Diving Guide](https://tongatourism.travel/diving/), [Tonga Pocket Guide - Dive Sites](https://tongapocketguide.com/10-best-dive-sites-in-tonga/), [Diving Tonga](https://www.divingtonga.com/), [Bluewater Dive Travel - Tonga](https://www.bluewaterdivetravel.com/destination/tonga-diving), [PADI - Diving in Tonga](https://www.padi.com/diving-in/tonga/). Last updated 2026-04-04.*

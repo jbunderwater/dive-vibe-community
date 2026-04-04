@@ -57,9 +57,5 @@ Same considerations as Memba 1 — careful NDL management, wall dive depth disci
 
 The sea fans in the 18-25 meter zone make Memba 2 a standout macro photography site for pygmy seahorse images. The overall wall architecture also photographs well at wide angle, and the excellent visibility allows for creative diver-in-frame compositions with the open blue Pemba Channel as backdrop.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*

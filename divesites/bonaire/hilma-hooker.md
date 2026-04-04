@@ -59,9 +59,5 @@ The Hilma Hooker spans a wide depth range — from 18 meters at the port rail to
 
 The Hilma Hooker is one of the Caribbean's most photogenic wrecks. The dense encrustation of sponges and corals on the hull creates vivid color and texture. Tarpon silhouetted against the blue water alongside the hull are the signature shot. Wide-angle compositions of the full hull profile with divers for scale are dramatic from the sand channel. The open cargo holds frame interesting light patterns. A strobe is essential at depth to restore the reds and oranges of the sponge growth. Macro subjects — frogfish, seahorses, cleaning stations — reward patient photographers on the encrusted surfaces.
 
-## Additional Resources
-
-- **Last Updated**: 2026-04-04
-
 ---
-*This dive site information was compiled from Wikipedia, Scuba Diving Magazine, ScubaBoard, Buddy Dive Bonaire, InfoBonaire, DreamWrecks, and multiple Bonaire dive operator accounts. Last updated 2026-04-04.*
+*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*

@@ -23,7 +23,7 @@ The SS La Jenelle wrecked on Silver Strand Beach near Port Hueneme in April 1970
 
 - **Location**: California Channel Islands, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)
@@ -59,9 +59,5 @@ Be aware of cold water, surge, limited visibility in this area. Dive within your
 
 The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [NPS - Channel Islands Diving and Snorkeling](https://www.nps.gov/chis/planyourvisit/diving.htm), [Scuba Diving Magazine - Guide to Channel Islands National Marine Sanctuary](https://www.scubadiving.com/guide-diving-channel-islands-national-marine-sanctuary), [Channel Islands Dive Adventures](https://channelislandsdiveadventures.com/california-channel-islands-diving/), [Dive Guide Channel Islands](https://www.diveguideschannelislands.com/), [Underwater Photography Guide - Channel Islands](https://www.uwphotographyguide.com/channel-islands-diving). Last updated 2026-04-04.*

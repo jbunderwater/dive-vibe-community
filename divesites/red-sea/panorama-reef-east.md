@@ -58,4 +58,4 @@ Current is the primary hazard on the eastern face — be prepared for drift cond
 The eastern wall is excellent for wide-angle photography of schooling fish and pelagic encounters. The soft corals in the 18-25 meter range photograph beautifully with a strobe. Shooting upward toward the reef top in the afternoon sun creates dramatic silhouette opportunities. Keep camera settings ready for fast-moving open-water species.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

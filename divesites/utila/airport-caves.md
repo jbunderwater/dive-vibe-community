@@ -23,8 +23,8 @@ Airport Caves is one of Utila's most popular sites for new and beginner divers, 
 
 - **Location**: Near Utila Airport, northeastern Utila, Bay Islands, Honduras
 - **Entry Type**: Boat dive
-- **Site Type**: Cavern/cave system
-- **Difficulty Level**: Beginner (guided cavern, not penetration cave diving)
+- **Site Type**: Cave/cavern
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20–25 meters (65–80 feet)
 - **Current**: Minimal in the cavern system; light on the exterior reef
@@ -58,9 +58,5 @@ Classified as cavern diving — natural light is always visible and the passages
 
 Airport Caves offers dramatic cavern photography. The classic shot is from inside the cavern looking toward the opening — blue water and natural light framing the silhouetted opening. Glassy sweeper schools inside the cavern illuminate brilliantly when lit from the side by a video light or strobe. The exterior reef in shallow water provides excellent natural-light reef photography.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Utila Dive Center](https://utiladivecenter.com/), [Utila Cays Diving - Dive Sites](https://utilacaysdiving.com/dive-with-us/dive-sites/), [Alton's Dive Center Utila](https://diveinutila.com/), [World Adventure Divers - 10 Reasons to Dive Utila](https://worldadventuredivers.com/diving-utila/), [ZuBlu - Scuba Diving in Utila](https://www.zubludiving.com/destination/honduras/bay-islands/utila). Last updated 2026-04-04.*

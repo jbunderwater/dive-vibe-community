@@ -38,4 +38,4 @@ Grey reef sharks, eagle rays, big-eye trevally, Napoleon wrasse, sea fans and wh
 Descend directly to the wall section at 15-22 meters on entry to explore the sea fans and intercept passing sharks and rays. The outer edge of the reef crest at around 8-10 meters is a good position to observe pelagics above, especially trevally schools. Current management is more important here than on the house reef — follow your divemaster's guidance on timing and positioning to make the most of the site without being swept past key features.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

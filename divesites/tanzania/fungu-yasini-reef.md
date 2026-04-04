@@ -58,9 +58,5 @@ One of the lower-risk dive sites in the Dar es Salaam area. Light currents, shal
 
 The shallow depth and typically good surface light make Fungu Yasini excellent for natural-light photography without strobes. Wide-angle coral reef scenes in 5-10 meters are the primary subject, with parrotfish and turtles providing the main large subjects. Macro photographers will find nudibranchs and small crustaceans in the rubble zones adjacent to the main reef.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*

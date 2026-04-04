@@ -23,9 +23,9 @@ Punta Tunich is a headland on Cozumel's central southwest coast where the geogra
 
 - **Location**: Central-south leeward coast, Cozumel, Quintana Roo, Mexico
 - **Entry Type**: Boat dive
-- **Site Type**: Vertical wall with overhangs
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters (100 feet)
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 25–40 meters (80–130 feet)
 - **Current**: Moderate to strong drift — headland point amplifies island current
 - **Best Time**: November to April; current can be unpredictable in summer months
@@ -64,4 +64,4 @@ Punta Tunich's clear water and large-animal encounters create outstanding wide-a
 - **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [The Reefs of Cozumel - Reef Guide](https://www.reefsofcozumel.com/reefguide.html), [Cozumel Scuba - Dive Sites](https://cozumelscuba.com/cozumel-dive-sites/), [Blue Note Scuba - Cozumel Dive Sites](https://www.bluenotescuba.com/cozumel-dive-sites), [Sand Dollar Sports - Cozumel Dive Sites](https://sanddollarsports.com/activities/cozumel-dive-sites/), [Pro Dive International - Divers Guide to Cozumel](https://www.prodiveinternational.com/diving/mexico/cozumel/). Last updated 2026-04-04.*

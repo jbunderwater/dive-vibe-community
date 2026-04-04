@@ -23,7 +23,7 @@ Located in the offshore waters southeast of Palawan proper, Valparaiso Shoal ris
 
 - **Location**: Southern Palawan offshore sea, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Coral shoal / reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15-30 meters
@@ -58,9 +58,5 @@ Open-ocean shoal diving requires comprehensive preparation. Carry emergency sign
 
 Exceptional visibility and undisturbed marine life create premium photography conditions. Wide-angle reef panoramas, pelagic encounters, and sea turtle portraits are the key subjects. The isolation and clear water make this one of the most rewarding photography sites on a southern Palawan liveaboard circuit.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Diving Squad Palawan Guide](https://www.divingsquad.com/philippines-diving/palawan/), [Scuba Tech Philippines - Coron Wrecks](https://scubatechphilippines.com/scuba_blog/the-shipwrecks-of-coron-wreck-diving-philippines/), [Pirate Coron Dive Sites](https://piratescoron.com/dive-sites/), [DIVE Magazine - Wrecks of Coron Bay](https://divemagazine.com/scuba-diving-travel/wrecks-of-coron-bay-philippines), [ZuBlu - Scuba Diving Coron Palawan](https://www.zubludiving.com/destination/philippines/palawan/coron). Last updated 2026-04-04.*

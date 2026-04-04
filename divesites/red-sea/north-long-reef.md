@@ -22,7 +22,7 @@ North Long Reef and Middle Reef form a connected reef complex in some of the mos
 ## Site Information
 
 - **Location**: Open Red Sea (approximately 22.34°N, 38.85°E)
-- **Entry Type**: Boat dive (liveaboard access only)
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
@@ -58,4 +58,4 @@ Open Red Sea at 22°N represents maximum remoteness within the Red Sea system. D
 North Long Reef provides conditions for exceptional underwater photography: the combination of outstanding clarity, pristine coral, large and approachable fish, and potential shark encounters creates opportunities available at very few places. Plan to spend significant time at depth — the subjects are here if conditions allow. A rectilinear wide-angle lens covers the full range from intimate reef portraits to panoramic reef scenes.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

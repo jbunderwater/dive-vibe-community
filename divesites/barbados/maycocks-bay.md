@@ -47,4 +47,4 @@ Boat access from Speightstown-based operators including Reefers & Wreckers. The 
 Currents can be strong and unpredictable at this exposed northern site. Depth reaches recreational limits, so monitor air supply carefully. Always carry an SMB for drift scenarios. Not recommended for inexperienced divers.
 
 ---
-*This dive site information was compiled from Reefers & Wreckers, Dive Hightide, DiveAdvisor, barbados.org, and DIVEIN. Last updated 2026-04-02.*
+*Sources: Reefers & Wreckers, Dive Hightide, DiveAdvisor, barbados.org, DIVEIN, DIVEIN - Northernmost west coast reef, finger reef formations with elephant ear sponges, barracuda, rays. Last updated 2026-04-02.*

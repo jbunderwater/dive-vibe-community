@@ -23,9 +23,9 @@ Brotchie Ledge is one of Victoria's most iconic dive sites, sitting at the entra
 
 - **Location**: Victoria Inner Harbour entrance, Victoria, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky ledge / reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 6–15 metres
 - **Current**: Variable — can be strong during tidal exchange
 - **Best Time**: Year-round; best visibility in late summer and autumn
@@ -57,11 +57,8 @@ Victoria Inner Harbour has heavy marine traffic including whale-watching vessels
 
 The habituated wolf eels at Brotchie Ledge are among the most photographed subjects in BC diving. Portrait shots with a wide-angle or fisheye lens capture their expressive faces and mottled colouring. Lingcod and octopus are equally photogenic. The plumose anemone fields with harbour seal silhouettes above make compelling wide-angle compositions.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
 - Victoria Harbour Authority: victoriahabourharbour.ca
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

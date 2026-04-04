@@ -23,9 +23,9 @@ Cottam Reef lies in the Strait of Georgia near Qualicum Beach, in the waters off
 
 - **Location**: Strait of Georgia, near Qualicum Beach, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Submerged reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres
 - **Current**: Tidal currents present — plan around slack
 - **Best Time**: Late spring through autumn
@@ -57,11 +57,8 @@ Tidal currents in the central Strait of Georgia require planning. Current can ac
 
 Octopus portraits against the rocky reef substrate are a highlight at Cottam Reef. Lingcod resting on the bottom surrounded by encrusting invertebrates make strong wide-angle images. The anemone-covered reef faces provide backdrop for fish portraits. Macro work on sponges and bryozoans reveals a hidden world of nudibranchs.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
 - Qualicum Beach and Parksville dive operators
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

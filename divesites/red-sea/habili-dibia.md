@@ -22,8 +22,8 @@ Habili Dibia lies in one of the least-visited zones of the Egyptian Red Sea. The
 ## Site Information
 
 - **Location**: Southern Egyptian Red Sea, deep offshore south of Marsa Alam
-- **Entry Type**: Boat dive (extended liveaboard only)
-- **Site Type**: Remote offshore submerged reef pinnacle
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25–40 meters
@@ -59,4 +59,4 @@ The extreme remoteness means any incident requires self-management until the liv
 The combination of exceptional clarity, pristine reef structures, and abundant wildlife makes Habili Dibia a dream assignment for serious underwater photographers. Visibility often exceeds 35 meters — allowing wide-angle shots with extraordinary depth of field. The distant pelagic sightings are best captured with longer-focal-length underwater configurations.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

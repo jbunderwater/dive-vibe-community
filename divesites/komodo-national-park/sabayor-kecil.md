@@ -59,4 +59,4 @@ Moderate currents are manageable but require active buoyancy management. Keep th
 Sabayor Kecil suits a wide-angle setup for reef fish schools, shark shots, and turtle portraits. The good water clarity in the eastern park area creates clean backgrounds for blue-water silhouette work. The reef face at mid-depth with its coral coverage makes compelling reef landscape images.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive Komodo - Dive Sites](https://divekomodo.com/dive-sites-komodo/), [Dragon Dive Komodo - Top 10 Dive Sites](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [World Adventure Divers - Diving in Komodo](https://worldadventuredivers.com/diving-in-komodo/), [Dive Komodo National Park](https://divekomodonationalpark.com/), [Blue Marlin Dive - Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/). Last updated 2026-04-04.*

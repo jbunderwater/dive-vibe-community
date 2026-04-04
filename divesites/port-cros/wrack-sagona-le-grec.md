@@ -23,9 +23,9 @@ This entry marks an alternate access buoy to the *Sagona*, the cargo ship univer
 
 - **Location**: South of Porquerolles, Hyères Bay (alternate buoy), Var, France
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck (three sections)
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 47 metres
+- **Maximum Depth**: 47 meters
 - **Typical Visibility**: 10–25 metres
 - **Water Temperature**: 13–25°C
 - **Current**: Moderate to strong; variable with tidal state
@@ -58,9 +58,5 @@ Advanced depth and current conditions. Advanced open water certification minimum
 
 The gorgonian-covered gangways and machinery are outstanding wide-angle subjects, as are the fish schools above the main hull. The barrel stave debris in the holds, photographed with a torch for illumination, tells a story. Macro work on gorgonian polyps and encrusting sponges shows exceptional detail. Powerful artificial lighting is essential at 36–47 metres.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [CaPel - Port-Cros National Park Dive Sites](https://capel.portcros-parcnational.fr/en/ou-plonger/), [Parc national de Port-Cros - Plongée](https://www.portcros-parcnational.fr/fr/des-decouvertes/une-destination-dexception/la-mer-et-les-fonds-marins/plongee), [World Adventure Divers - Port-Cros](https://worldadventuredivers.com/port-cros-national-park/), [Lavandou Plongée - Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [European Diving School - Port-Cros](https://www.europeandiving.com/hyeres/diving-area/port-cros.html). Last updated 2026-04-04.*

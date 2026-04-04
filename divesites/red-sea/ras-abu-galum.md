@@ -58,4 +58,4 @@ The steep fringing reef profile requires careful buoyancy control to avoid conta
 The pristine condition of the reef at Ras Abu Galum makes it an outstanding wide-angle reef photography location. The garden eel meadows on the sand at the reef base are unique macro subjects — approach very slowly and use a long focal length macro lens to capture them without causing retreat. Coral portrait photography in natural light is excellent in the clear Gulf of Aqaba water. The dramatic cliff backdrop visible above the surface adds to the atmosphere of surface shots.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

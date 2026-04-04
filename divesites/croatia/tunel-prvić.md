@@ -23,7 +23,7 @@ The tunnel at Prvić cuts through a rocky promontory, allowing divers to enter o
 
 - **Location**: Prvić Island, Šibenik area, Central Dalmatia, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/tunnel
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10–20 meters
@@ -59,4 +59,4 @@ Through-tunnel dives carry added responsibility: confirm the current direction, 
 Shooting along the length of the tunnel toward the light-filled exit — with a diver as the focal point — creates a dramatic image. The circular/oval tunnel entrance framing blue water and a diver is a classic composition. Torch-lit close-ups of the encrusted tunnel walls provide excellent macro subjects.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*

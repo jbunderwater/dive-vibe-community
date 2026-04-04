@@ -67,10 +67,10 @@ Monterey's 50-55°F water at 40 meters demands a 7mm wetsuit or drysuit. At 40+ 
 
 This site carries genuine risk from the shore break, cold water, and depth. Divers have died here—approach with extreme respect for conditions. Never dive Monastery Beach on days with any appreciable swell. Always use an SMB on ascent. Buddy separation at depth or in the surf zone can be fatal. This is a site for advanced, experienced cold-water divers only.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
 - **Validation Source**: Perplexity research, California Diving News, dive accident databases
 
 ---
 *Monastery Beach is a world-class but serious dive site. This page has been thoroughly researched against local conditions and accident reports. Dive safely. Updated 2026-03-16.*
+
+---
+*Sources: [Monterey Bay Aquarium](https://www.montereybayaquarium.org/), [Aquarius Dive Shop](https://aquariusdivers.com/guided-tours), [Bamboo Reef Diving](https://www.bambooreef.com/dive-monterey), [Monterey Scuba Board](https://montereyscubaboard.com/monterey-dive-sites/), [See Monterey](https://www.seemonterey.com/things-to-do/outdoors/scuba-diving/). Last updated 2026-04-04.*

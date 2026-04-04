@@ -23,9 +23,9 @@ La Tantine is a wreck site in the Hyères Bay area, within the broader maritime 
 
 - **Location**: Hyères Bay, Port-Cros maritime zone, Var, France
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 48 metres
+- **Maximum Depth**: 48 meters
 - **Typical Visibility**: 10–25 metres
 - **Water Temperature**: 13–25°C
 - **Current**: Light to moderate; can be stronger on occasion
@@ -58,9 +58,5 @@ This is an advanced dive with depth-related risks. Never dive La Tantine without
 
 The encrusted metalwork and resident fish life create compelling subjects at La Tantine. Wide-angle shots of groupers and dentex against the wreck structure, and macro work on the sponge and gorgonian encrustation, both work well. Artificial lighting is essential — at 48 metres, no usable ambient colour remains. A torch for focus assists and a powerful strobe are needed.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [CaPel - Port-Cros National Park Dive Sites](https://capel.portcros-parcnational.fr/en/ou-plonger/), [Parc national de Port-Cros - Plongée](https://www.portcros-parcnational.fr/fr/des-decouvertes/une-destination-dexception/la-mer-et-les-fonds-marins/plongee), [World Adventure Divers - Port-Cros](https://worldadventuredivers.com/port-cros-national-park/), [Lavandou Plongée - Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [European Diving School - Port-Cros](https://www.europeandiving.com/hyeres/diving-area/port-cros.html). Last updated 2026-04-04.*

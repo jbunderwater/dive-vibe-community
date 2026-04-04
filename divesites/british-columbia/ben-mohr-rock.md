@@ -23,7 +23,7 @@ Ben Mohr Rock is a submerged rocky outcrop in the central Gulf Islands, sitting 
 
 - **Location**: Central Gulf Islands, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8-12 meters (25-40 feet)
@@ -59,9 +59,5 @@ Current in the central Gulf Islands passages can be deceptive — it may appear 
 
 Ben Mohr Rock is an excellent GPO photography site. The boulders provide natural framing for wide-angle shots. Approach carefully and give the octopus space to display natural behaviour rather than retreating. Nudibranchs on the rock face are excellent macro subjects. A torch is essential for illuminating crevice life.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

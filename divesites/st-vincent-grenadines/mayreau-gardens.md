@@ -58,9 +58,5 @@ Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your
 
 This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [Dive St. Vincent - Dive Sites](https://www.divestvincent.com/DiveSites2.html), [PADI - Diving in Saint Vincent and the Grenadines](https://www.padi.com/diving-in/saint-vincent-the-grenadines/), [Caribbean Dive Guide - St. Vincent](https://www.caribdiveguide.com/st_vincent.htm), [Bluewater Dive Travel - St. Vincent and Grenadines](https://www.bluewaterdivetravel.com/destination/st-vincent-and-grenadines-diving), [SVG Tourism - Dive Sites](https://tourism.gov.vc/tourism/index.php/diving-a-watersports/63-dive-sites). Last updated 2026-04-04.*

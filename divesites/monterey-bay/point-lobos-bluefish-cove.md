@@ -77,3 +77,6 @@ Strictly comply with Point Lobos reserve regulations and daily buddy pair limits
 
 ---
 *Point Lobos dives represent some of California's best shore diving. This page has been thoroughly researched and validated. Updated 2026-03-16.*
+
+---
+*Sources: [Monterey Bay Aquarium](https://www.montereybayaquarium.org/), [Aquarius Dive Shop](https://aquariusdivers.com/guided-tours), [Bamboo Reef Diving](https://www.bambooreef.com/dive-monterey), [Monterey Scuba Board](https://montereyscubaboard.com/monterey-dive-sites/), [See Monterey](https://www.seemonterey.com/things-to-do/outdoors/scuba-diving/). Last updated 2026-04-04.*

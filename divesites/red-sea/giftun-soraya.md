@@ -23,7 +23,7 @@ Giftun Soraya (the smaller Giftun island, as opposed to the larger Giftun Kebir)
 
 - **Location**: Small Giftun Island, Giftun Island National Park, south of Hurghada
 - **Entry Type**: Boat dive
-- **Site Type**: Sheltered fringing reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 15–25 meters
@@ -59,4 +59,4 @@ The site is extremely beginner-friendly, but basic safety practices still apply.
 The shallow, clear water and abundant fish life make this an excellent photography site without the need for artificial lighting. Natural light is strong throughout the morning and afternoon. Clownfish in anemones and resting turtles are standout subjects. Wide-angle with ambient light works beautifully in the 5–10 meter range.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

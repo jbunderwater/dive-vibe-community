@@ -23,9 +23,9 @@ Middle Book (ミドルブック) is a reef feature in the Yaeyama Islands, the s
 
 - **Location**: Yaeyama Islands (Ishigaki area), Okinawa Prefecture, Japan
 - **Entry Type**: Boat dive
-- **Site Type**: Reef plateau
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters (65 feet)
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–35 meters (65–115 feet)
 - **Current**: Moderate; manta cleaning stations require some current
 - **Best Time**: October to April for manta ray season peak; year-round but best in winter months when manta populations are highest
@@ -65,4 +65,4 @@ Manta ray photography is the defining challenge at Ishigaki. Wide-angle lenses (
 - **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Visit Okinawa Japan - Dive Sites Guide](https://visitokinawajapan.com/discover/dive-sites-okinawa/kerama-islands-diving/), [JNTO Japan Diving - Okinawa](https://www.japan.travel/en/sports/diving/where-to-dive/okinawa/), [Aloha Divers Okinawa - Dive Sites](https://www.alohadiversokinawa.com/dive-sites-okinawa), [Fluid Levitation - Okinawa Dive Sites](https://www.fluidlevitation.com/okinawa-dive-sites), [PADI - Top Dive Sites in Okinawa](https://www.padi.com/dive-sites/okinawa/). Last updated 2026-04-04.*

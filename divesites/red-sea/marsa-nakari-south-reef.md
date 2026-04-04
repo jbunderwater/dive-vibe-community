@@ -26,7 +26,7 @@ The south reef arm at Marsa Nakari features a sloping outer wall with coral form
 ## Site Information
 
 - **Location**: Marsa Nakari, southern Red Sea coast, Egypt (near Wadi el Gemal National Park)
-- **Entry Type**: Boat dive (liveaboard access)
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
@@ -62,4 +62,4 @@ Remote location and minimal nearby services require complete dive self-sufficien
 The South Reef offers similar photography opportunities to the North Reef with the added dimension of the outer slope's different light angle in the afternoon. Wide-angle reef portraits on the outer wall, sea turtle subjects in the seagrass margin, and humphead wrasse close-ups are all well-suited to this site. Morning dives favour the North Reef for best light; afternoon dives favour the South Reef's westward-facing outer wall.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

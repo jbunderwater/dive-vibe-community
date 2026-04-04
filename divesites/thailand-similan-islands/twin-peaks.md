@@ -58,9 +58,5 @@ Open-ocean pinnacle diving demands that every diver is comfortable deploying an 
 
 Wide-angle captures the pinnacle architecture and the aggregating fish schools — position between or just below the pinnacle tops to shoot upward toward silvered fish silhouettes. Soft coral and gorgonian macro are available if current pauses enough for stable shooting; a focus light helps define small commensal shrimp on fan branches. Manta ray encounters here, while uncommon, are close-range open-water events that reward a quick-setting underwater camera.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Similan Dive Guide](https://www.similandiveguide.com/), [Sunrise Divers - Similan Islands Dive Sites](https://www.sunrise-divers.com/dive-sites/similan-islands/), [Dive The World Thailand - Similan Islands](https://www.divetheworldthailand.com/similan-islands-diving-sites.php), [Sea Bees Diving - Scuba Diving Similans](https://sea-bees.com/scuba-diving-similans/), [Dive Happy - Diving Similan Islands Guide](https://divehappy.com/diving-similan-islands-quick-guide/). Last updated 2026-04-04.*
