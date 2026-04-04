@@ -17,7 +17,7 @@ Thorn Reef is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-Thorn Reef is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Thorn Reef is a rocky reef dive site in Barkley Sound on the outer west coast of Vancouver Island, a region Jacques Cousteau recognized as among the world's top cold-water diving destinations. The reef attracts a rich variety of Pacific Northwest marine life including giant Pacific octopus, wolf eels, lingcod, and multiple rockfish species, along with colourful invertebrates such as white-spotted rose anemones, nudibranchs, and encrusting bryozoans that thrive in the nutrient-rich, current-swept waters. Drysuits are essential year-round, and dives should be timed around tidal conditions in this exposed outer sound.
 
 ## Site Information
 

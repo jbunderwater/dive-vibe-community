@@ -17,7 +17,7 @@ El Pirata Shipwreck is a historic wreck dive in St. Lucia, Caribbean.
 
 ## Overview
 
-El Pirata Shipwreck is a dive site in St. Lucia featuring the wreck of the El Pirata Shipwreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+El Pirata is a shipwreck on St. Lucia's southern coast lying on its side in about 25 metres, having become an artificial reef in the warm, clear Caribbean waters off the island's lee coast. The wreck structure has attracted a resident community of groupers, snappers, and soldierfish, with moray eels inhabiting the darker recesses and sponges and soft corals slowly encrusting the hull. The site offers an accessible intermediate wreck dive on a coastline less frequented than the well-known Soufrière sites to the north.
 
 ## Site Information
 

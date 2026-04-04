@@ -17,7 +17,7 @@ SS Rose Castle is a historic wreck dive in Newfoundland, North America.
 
 ## Overview
 
-SS Rose Castle is a dive site in Newfoundland featuring a historic wreck which sank in 1942. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The SS Rose Castle was a Canadian ore carrier torpedoed by German submarine U-518 on November 2, 1942, in Conception Bay off Bell Island — one of the most audacious U-boat attacks in North American waters. She rests on her port side at around 48 meters in the cold, dark waters of Conception Bay, her hull largely intact and recognisable despite eight decades of submersion. This is a technical dive requiring advanced certification and drysuit experience; the depth, near-zero winter temperatures, and low visibility demand meticulous planning, but the historical weight of diving a genuine WWII torpedo victim makes it one of Atlantic Canada's most compelling wreck dives.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ SS Rose Castle is a dive site in Newfoundland featuring a historic wreck which s
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+At nearly 50 meters, the Rose Castle's hull lies in perpetual cold and darkness that favours Atlantic wolffish, ocean pout, and large Atlantic cod using the intact superstructure as shelter. Cold-water corals, sea cucumbers, and northern lobster colonise the wreck's surfaces, and Greenland sharks are a genuine possibility at this depth in Conception Bay's frigid waters.
 
 ## Dive Profile
 

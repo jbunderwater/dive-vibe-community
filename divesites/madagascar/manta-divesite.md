@@ -17,7 +17,7 @@ Manta divesite is a wall dive site in Madagascar, Africa.
 
 ## Overview
 
-Manta divesite is a dive site in Madagascar featuring a dramatic vertical wall that drops into the deep blue. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Manta Point is Nosy Be's crown jewel dive, a cleaning station over scattered coral blocks and a sandy bottom at 18–21 metres where manta rays with wingspans up to 7 metres glide in to be serviced by wrasse. Sightings peak between October and December when planktonic productivity is highest, though mantas are present year-round, and mobula rays are also frequent visitors to the station.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Tewa Caves is a cave dive site in Kenya Coast, Africa.
 
 ## Overview
 
-Tewa Caves is a dive site in Kenya Coast featuring underwater cave and cavern formations. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Tewa Caves sit at the southern boundary of Watamu Marine National Park near the entrance to Mida Creek, where "tewa" is the Swahili name for the giant groupers — fish reaching 200 kilograms — that make their home in the partially submerged cave system, accessible by boat at low tide. The dive features a light-flooded reef environment with coral islands surrounded by white sand, and lionfish and blue-spotted ribbontail rays hiding in the sandy substrate alongside the groupers peering out from the cave openings. The surrounding Watamu Marine Park, Africa's first marine park established in 1968, offers over 600 species of fish and 110 species of stony coral within reach of this site.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Temple Rock is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-Temple Rock is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Temple Rock is a reef site in the Strait of Georgia north of Nanaimo, in an area that encompasses the waters around Texada and Lasqueti Islands where Powell River divers access world-class cold-water diving. Rocky reef structures to 18 metres in this part of the strait are known to support boot sponges, yellow cloud sponge patches, rock scallops, sea cucumbers, and schools of rockfish, with lingcod and giant Pacific octopus among the larger animal encounters. Harbour seals frequently join divers exploring these reefs, and the cold, clear water of the northern Strait of Georgia provides excellent visibility outside of spring plankton bloom periods.
 
 ## Site Information
 

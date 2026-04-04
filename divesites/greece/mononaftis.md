@@ -17,7 +17,7 @@ Mononaftis is a reef dive site in Greece, Europe.
 
 ## Overview
 
-Mononaftis is a dive site in Greece offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Mononaftis, meaning "lonely sailor," is a massive rock formation rising from the sea near Agia Pelagia, Crete, and is considered the largest dive site on the island. The reef complex includes small canyons, underwater caves, and a coral garden spread across depths of 18 to 35 meters. Ancient Minoan amphoras are scattered across the seabed, and a 400-year-old anchor rests at 32 meters, surrounded by groupers, moray eels, octopus, scorpionfish, and schools of bream.
 
 ## Site Information
 

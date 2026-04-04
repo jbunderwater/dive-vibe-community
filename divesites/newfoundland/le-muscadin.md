@@ -17,7 +17,7 @@ Le Muscadin is a historic wreck dive in Newfoundland, North America.
 
 ## Overview
 
-Le Muscadin is a dive site in Newfoundland featuring the wreck of the Le Muscadin. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Le Muscadin is a French fishing vessel that sank in the waters around Saint-Pierre and Miquelon and now rests at around 25 meters in the frigid North Atlantic. The wreck is a draw for cold-water macro enthusiasts — the steel hull is draped with colourful encrusting life, including nudibranchs, sea stars, and dense colonies of soft coral adapted to the near-freezing temperatures. Diving here typically requires a drysuit, and low water temperatures can drop visibility significantly, lending the dive an atmospheric, moody quality.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Le Muscadin is a dive site in Newfoundland featuring the wreck of the Le Muscadi
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Muscadin's steel hull is draped with cold-water anemones, sea stars, and encrusting bryozoans, with Atlantic cod and cunner patrolling the structure alongside inquisitive ocean pout. Northern lobster and snow crab are common beneath hull plates, and the macro life — nudibranchs, sea urchins, and sea cucumbers — rewards patient photographers willing to work in the near-freezing Saint-Pierre waters.
 
 ## Dive Profile
 

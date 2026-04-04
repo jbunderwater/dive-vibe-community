@@ -17,7 +17,7 @@ Unuwatuna Coral Reef is a reef dive site in Sri Lanka, Asia.
 
 ## Overview
 
-Unuwatuna Coral Reef is a dive site in Sri Lanka offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Unawatuna Coral Reef lies within the protected bay of Unawatuna near Galle on Sri Lanka's southwest coast, offering accessible shore diving through a shallow fringing reef that extends to around 18 meters. The bay's gentle conditions and warm water around 27–30°C make it ideal for beginner and intermediate divers, with hawksbill turtles commonly seen resting on the coral and feeding on sponges in the 8–15 meter range. The reef has suffered bleaching impacts but continues to support a colourful range of reef fish including lionfish, porcupinefish, and large schools of chromis around the coral heads.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Unuwatuna Coral Reef is a dive site in Sri Lanka offering rewarding diving on he
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Hawksbill turtles are the signature encounter here, regularly seen resting on the coral or feeding on sponges in the 8–15 meter range. The fringing reef supports dense schools of chromis around coral heads, alongside resident lionfish, porcupinefish, and parrotfish grazing the shallower sections. Moray eels and scorpionfish are found tucked into reef crevices, and the coral rubble areas between heads reward patient macro photographers with nudibranchs and small crustaceans.
 
 ## Dive Profile
 

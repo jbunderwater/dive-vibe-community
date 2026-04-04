@@ -29,7 +29,7 @@ Cozumel is a premier diving destination in the Caribbean region, offering 23 doc
 ### Marine Life & Environment
 
 - **Water Conditions**: Water temperatures range from 26-29°C (79-84°F) with visibility of 20-40 meters (65-130 feet). Currents are generally light to moderate.
-- **Marine Biodiversity**: The waters support diverse marine ecosystems including sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish, blue tangs, trumpetfish.
+- **Marine Biodiversity**: The waters support diverse marine ecosystems including splendid toadfish (endemic), nurse sharks, eagle rays, sea turtles, moray eels.
 - **Conservation**: Marine protected areas help preserve the reef ecosystems and regulate diving activities.
 
 ## Additional Information

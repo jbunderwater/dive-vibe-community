@@ -17,7 +17,7 @@ Roche Grand Maman is a wall dive site in Seychelles, Africa.
 
 ## Overview
 
-Roche Grand Maman is a dive site in Seychelles featuring a dramatic vertical wall that drops into the deep blue. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Roche Grand Maman ("Grandmother Rock") is a granite outcrop in the Seychelles Inner Islands, typical of the dramatic submerged boulder landscapes that define diving in this archipelago. The site features steep walls and boulder-formed crevices covered in soft corals and sponges, with the surrounding exposed position drawing open-water species including large snappers, barracuda, kingfish, and sharks along the walls. Best conditions are during the inter-monsoon seasons of April–May and October–November when seas are calm and visibility peaks at 20–30 metres.
 
 ## Site Information
 

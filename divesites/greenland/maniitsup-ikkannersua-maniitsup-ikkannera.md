@@ -17,7 +17,7 @@ Maniitsup Ikkannersua, Maniitsup Ikkannera is a reef dive site in Greenland, Arc
 
 ## Overview
 
-Maniitsup Ikkannersua, Maniitsup Ikkannera is a dive site in Greenland offering rewarding diving on healthy coral reef structures . Banke. Located in the Arctic region, this site offers 10-30 meters of visibility with water temperatures averaging -1 to 8°C.
+Maniitsup Ikkannersua and Maniitsup Ikkannera are shallow reef formations in the waters surrounding Maniitsoq, a town on Greenland's west coast known locally as "the Venice of Greenland" for its network of natural channels and bridges. The rocky underwater terrain reaches 18 meters depth and is draped in low-lying kelp beds, with crabs, sea urchins, starfish, and amphipods among the boulders. The nutrient-rich channels between the islands attract humpback whales and harbour seals to the area during the summer feeding season.
 
 ## Site Information
 

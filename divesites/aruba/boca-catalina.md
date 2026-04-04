@@ -17,7 +17,7 @@ Boca Catalina is a reef dive site in Aruba, Caribbean.
 
 ## Overview
 
-Boca Catalina is a dive site in Aruba offering excellent diving on healthy coral reef structures . Shallow seagrass/sand areas 1-2m, coral patches 3-4m, excellent for sea turtle sightings. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Boca Catalina is a sheltered bay on Aruba's calm leeward coast where a gently sloping bottom transitions from seagrass flats at 1-2 meters into coral patch reef reaching about 6 meters — an ideal shore dive for newly certified divers and snorkelers. The shallows are a regular feeding and resting area for green sea turtles, which graze on the seagrass with little concern for divers, and southern stingrays glide across the sandy lanes between coral heads. The easy entry and near-absence of current make it one of Aruba's most forgiving dive sites.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Boca Catalina is a dive site in Aruba offering excellent diving on healthy coral
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Green sea turtles graze on the seagrass with little concern for divers, making this one of Aruba's most reliable turtle encounter sites in the calm, shallow bay. Southern stingrays glide through the sandy lanes between coral heads, and the patch reef supports parrotfish, small angelfish, and reef fish typical of Aruba's protected western-coast shallows.
 
 ## Dive Profile
 

@@ -17,7 +17,7 @@ Stamsund Kelp Forest is a reef dive site in Norway Lofoten Islands, Europe.
 
 ## Overview
 
-Stamsund Kelp Forest is a dive site in Norway Lofoten Islands offering excellent diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The kelp forest off Stamsund grows in dense stands along the rocky shoreline of this Lofoten fishing village, with the towering sugar kelp canopy reaching the surface and creating a shaded, cathedral-like environment below. Cod, saithe, and edible crab move freely through the kelp stems, while tidepool gunnel, butterfish, and an assortment of nudibranchs inhabit the holdfasts and rock face beneath the canopy. This is one of the more beginner-friendly Lofoten sites, accessible by shore entry with moderate depths and strong natural interest for macro photographers working in the surge zone.
 
 ## Site Information
 

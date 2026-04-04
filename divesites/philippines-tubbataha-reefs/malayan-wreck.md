@@ -17,7 +17,7 @@ Malayan Wreck is a historic wreck dive in Philippines Tubbataha Reefs, Asia.
 
 ## Overview
 
-Malayan Wreck is a dive site in Philippines Tubbataha Reefs featuring the wreck of the Malayan Wreck. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The Malayan Wreck rests on the southwest edge of Tubbataha's North Atoll, a freighter believed to date from the WWII era whose coral-encrusted hull now shelters harlequin sweetlips, giant morays, and resident harlequin ghost pipefish. Before you even reach the wreck, grey reef sharks, whitetips, and occasional hammerheads cruise the coral wall alongside it, while rainbow runners and trevally swirl overhead. Night dives here are legendary — Spanish dancers pulse across the sandy bottom and bumphead parrotfish sleep wedged into crevices throughout the wreck.
 
 ## Site Information
 

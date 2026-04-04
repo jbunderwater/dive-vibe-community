@@ -32,7 +32,7 @@ Half Moon Bay Wall rises nearly directly offshore from the beach at West End, wh
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), spotted eagle rays, southern stingrays, reef sharks, barracuda, and large schools of creole wrasse. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters, and barrel sponges. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Hawksbill turtles routinely graze the orange elephant-ear sponges and black coral on the wall face, and a tunnel further along the reef is one of Roatan's most reliable spots for eagle ray encounters. Moray eels and lobsters occupy the wall crevices, spotted drums and juvenile filefish shelter in the shallower nursery areas, and large barracuda frequently hang stationary in the blue at the drop-off edge.
 
 ## Dive Profile
 

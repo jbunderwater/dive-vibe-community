@@ -17,7 +17,7 @@ Lighthouse Bay is a reef dive site in Ningaloo Reef, Oceania.
 
 ## Overview
 
-Lighthouse Bay is a dive site in Ningaloo Reef offering excellent diving on healthy coral reef structures. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Lighthouse Bay is the main dive hub on the northern tip of the Ningaloo peninsula, sheltering multiple named sites — including The Labyrinth, Blizzard Ridge, and Turquoise Bay — all within easy reach by boat or short snorkel from the beach. The bay's sandy channels and coral gardens sit inside a sanctuary zone where fishing is banned, and the resulting fish life is notably abundant, with trevally, parrotfish, and reef sharks patrolling openly. Between March and July, whale sharks are aggregated in these northern waters and most tour departures for whale shark encounters leave from the Lighthouse Bay area.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Quirimbas Reef is a reef dive site in Mozambique, Africa.
 
 ## Overview
 
-Quirimbas Reef is a dive site in Mozambique offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Quirimbas Reef lies within the Quirimbas Archipelago in northern Mozambique, a remote chain of coral islands and patch reefs that remain among the least-visited dive destinations in the Indian Ocean, reaching to around 30 meters over extensive formations of staghorn and table coral. The archipelago's isolation has kept its reefs in exceptional health, with thriving populations of reef sharks, Napoleon wrasse, sea turtles, and large schools of pelagic fish patrolling the outer reef edges. Whale sharks visit seasonally and humpback whales are regularly heard and sighted in the surrounding waters between June and November.
 
 ## Site Information
 

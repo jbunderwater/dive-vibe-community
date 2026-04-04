@@ -17,7 +17,7 @@ Moucha Island Reef is a reef dive site in Djibouti, Africa.
 
 ## Overview
 
-Moucha Island Reef is a dive site in Djibouti offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Moucha Island is a coral island in the Gulf of Tadjoura about 45 minutes by boat from Djibouti City, surrounded by a fringing reef and the adjacent Maskali Island that together form the most popular day-trip diving destination in the country. The reef features coral-covered slopes, sandy patches, and several walls at various depths, with calm conditions and visibility of 15–30 metres making it accessible to divers of all levels; notable sites include The Aquarium, Dolphin Reef, and Coral Gardens. Nearby, the 135-metre cargo ship Le Faon (also known as MV Priamos), sunk in 1975 after an engine room explosion, lies on its port side at 10–28 metres and is now fully colonised with corals and sponges.
 
 ## Site Information
 

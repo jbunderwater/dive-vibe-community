@@ -17,7 +17,7 @@ Colorado Point is a cave dive site in Mauritius, Africa.
 
 ## Overview
 
-Colorado Point is a dive site in Mauritius featuring underwater cave and cavern formations. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Colorado is a cave and canyon dive in the south of Mauritius, where a 400-metre-long canyon system drops to a staggering 40 metres before passing through a tunnel that bends and exits via a crevice, then continues under an arch through a narrow gorge. The lava-formed tunnels and arches are typical of Mauritius' volcanic geology and draw parrotfish and groupers to the darker sections while the canyon walls host sea fans and encrusting corals. This is one of the more technically demanding dives on the island, best suited to experienced divers comfortable with overhead environments and significant depth.
 
 ## Site Information
 

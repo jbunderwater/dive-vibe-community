@@ -17,7 +17,7 @@ Frederiksted Pier is a reef dive site in US Virgin Islands, Caribbean.
 
 ## Overview
 
-Frederiksted Pier is a dive site in US Virgin Islands offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Frederiksted Pier on St. Croix's west coast is one of the Caribbean's premier muck diving sites, where the pier pilings are encrusted with orange and purple sponges and host an astonishing array of cryptic creatures at 5-8 meters. Seahorses cling to the sponge-covered legs of the pier, juvenile frogfish perch motionless among the hydroids, and flying gurnards strut across the sandy bottom below — species that are hard to find anywhere else in the USVI. Night dives here are particularly spectacular, with octopus, tarpon, and bioluminescent plankton making the murky bottom glow.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Frederiksted Pier is a dive site in US Virgin Islands offering excellent diving 
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The pier pilings are famous for seahorses clinging to the orange and purple sponge encrustation, juvenile frogfish perched among the hydroids, and flying gurnards strutting across the sandy bottom — all at just 5-8 metres. Night dives reveal octopus, tarpon, and bioluminescent plankton, making this one of the Caribbean's premier muck diving and night dive experiences at any skill level.
 
 ## Dive Profile
 

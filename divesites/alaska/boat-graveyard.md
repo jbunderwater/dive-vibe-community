@@ -17,7 +17,7 @@ Boat Graveyard is a historic wreck dive in Alaska, North America.
 
 ## Overview
 
-Boat Graveyard is a dive site in Alaska featuring the wreck of the Boat Graveyard. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Boat Graveyard is a collection of deliberately sunk and storm-wrecked vessels resting in the sheltered waters near Sitka in Southeast Alaska, creating one of the most unusual artificial reef environments on the Pacific Northwest coast. Multiple hull sections and debris lie at depths from the shallows to around 18 meters, all heavily colonized by anemones, sea stars, nudibranchs, and the encrusting invertebrates that characterize Inside Passage cold-water wreck diving. Lingcod stake out the larger structures, giant Pacific octopus occupy the dark spaces between hull plates, and wolf eels are reliably found in the deeper sections.
 
 ## Site Information
 

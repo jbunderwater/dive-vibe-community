@@ -17,7 +17,7 @@ Banayan Point is a wall dive site in Philippines Palawan, Asia.
 
 ## Overview
 
-Banayan Point is a dive site in Philippines Palawan featuring a dramatic vertical wall that drops into the deep blue . Southern tip of Matinloc Island in El Nido. Excellent site for pelagic fishes with strong currents attracting tuna, jacks, and mackerels. Coral-encrusted rocks provide shelter and color.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Banayan Point at the southern tip of Matinloc Island is El Nido's go-to site for pelagic action, where strong channeling currents funnel schools of tuna, jacks, and mackerel past coral-encrusted boulders descending to 22 meters. The open-water exposure means conditions can be demanding, but divers who time it right are rewarded with the kind of fish density rarely found at the more sheltered sites further into the archipelago.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Banayan Point is a dive site in Philippines Palawan featuring a dramatic vertica
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Banayan Point is El Nido's top site for current-driven pelagic encounters, with strong channeling currents funneling schools of dogtooth tuna, giant trevally, and Spanish mackerel past the coral-encrusted boulders. Whitetip reef sharks and grey reef sharks are regular visitors when current is running, and barracuda stack up in the eddy behind the point. The boulders themselves shelter moray eels, lionfish, and small grouper for divers who work the structure between the bigger-animal action.
 
 ## Dive Profile
 

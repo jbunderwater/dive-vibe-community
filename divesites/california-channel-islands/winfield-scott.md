@@ -17,7 +17,7 @@ Winfield Scott is a historic wreck dive in California Channel Islands, North Ame
 
 ## Overview
 
-Winfield Scott is a dive site in California Channel Islands featuring the wreck of the Winfield Scott. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Winfield Scott was a side-wheel steamer carrying gold rush passengers that wrecked on Middle Anacapa Island in December 1853, and her boilers, hull plates, and iron fittings are still identifiable among the rocky reef in 5–10 meters of water. The site is directly below Anacapa's towering cliffs, where western gulls nest in thousands overhead, and the California sea lions that den on the adjacent rocks regularly join divers in the water. Nearly 170 years of submersion have transformed the scattered hull remains into productive reef habitat carpeted with coralline algae, sea urchins, and the brilliant orange garibaldi that are the signature fish of the Channel Islands.
 
 ## Site Information
 

@@ -27,7 +27,7 @@ Komodo National Park is one of the world's premier liveaboard diving destination
 ### Marine Life & Environment
 
 - **Water Conditions**: Water temperatures range from 26-30°C (79-86°F) with visibility of 10-40 meters (30-130 feet). Currents are generally variable, can be very strong.
-- **Marine Biodiversity**: The waters support diverse marine ecosystems including manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish, nudibranchs, frogfish.
+- **Marine Biodiversity**: The waters support diverse marine ecosystems including manta rays, reef sharks, Napoleon wrasse, giant trevally, sea turtles, dolphins.
 - **Conservation**: Marine protected areas help preserve the reef ecosystems and regulate diving activities.
 
 ## Additional Information

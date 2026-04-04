@@ -17,7 +17,7 @@ Yaculta Bank is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-Yaculta Bank is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Yaculta Bank is a reef dive site in the Discovery Passage area near the Yuculta Rapids, a region of powerful tidal currents at the southern end of Johnstone Strait where nutrient-rich waters fuel exceptional marine productivity. The bank lies in waters known for humpback whales, Steller's sea lions, and abundant fish life, and the reef structure supports the dense invertebrate communities — anemones, sponges, tubeworms, and encrusting hydrocorals — characteristic of current-swept Discovery Islands diving. Dives must be planned around slack tide, and local charter operators from Campbell River are the standard access route.
 
 ## Site Information
 

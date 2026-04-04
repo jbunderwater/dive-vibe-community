@@ -17,7 +17,7 @@ HMT Bedfordshire is a historic wreck dive in North Carolina, North America.
 
 ## Overview
 
-HMT Bedfordshire is a dive site in North Carolina featuring the wreck of the HMT Bedfordshire which sank in 1942-05-12. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The HMT Bedfordshire was a Royal Navy armed trawler operating out of Morehead City on antisubmarine patrol when U-558 fired two torpedoes at her in the early morning hours of 11 May 1942, sinking her instantly with all 37 crew — her only survivor was a stoker detained ashore the night before. The 162-foot wreck rests in 32 metres about 25 miles southeast of Beaufort Inlet, broken into three sections spread across the sand, with six depth charges still visible and Gulf Stream visibility commonly reaching 40–70 feet in summer. Designated a WWII War Memorial by Great Britain and listed on the National Register of Historic Places, the site carries a solemn character — the four crew members who washed ashore on Ocracoke are still honoured in an annual US Coast Guard ceremony at the British Cemetery there.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ HMT Bedfordshire is a dive site in North Carolina featuring the wreck of the HMT
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Bedfordshire's low, scattered sections host sheepshead and black sea bass along the encrusted I-beams and deck plates, with amberjack and barracuda regularly patrolling the site at mid-water. The offshore Gulf Stream influence occasionally brings Atlantic spadefish and triggerfish in summer, while sand tiger sharks are sometimes observed passing through the area. The intact depth charges on the seafloor make for striking photographic subjects alongside the reef communities that have established themselves over decades.
 
 ## Dive Profile
 

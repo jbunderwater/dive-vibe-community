@@ -32,7 +32,7 @@ Historic shipwreck from 1898 located off Manalapan and Boynton Beach in shallow 
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The shallow, well-lit wreck is draped in soft corals and sponges that attract schools of yellowtail snapper, parrotfish, and sergeant majors swirling around the exposed hull framing. Nurse sharks are frequently found resting against the wreck on the sandy bottom, and southern stingrays cruise the adjacent sand flats. Spiny lobster and green moray eels shelter in the gaps between the encrusted timbers and iron fittings.
 
 ## Dive Profile
 
@@ -53,7 +53,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of surge, surface boat traffic, and variable visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 

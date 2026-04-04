@@ -17,7 +17,7 @@ Mid wall 50-60' is a wall dive site in British Columbia, North America.
 
 ## Overview
 
-Mid wall 50-60' is a dive site in British Columbia featuring a dramatic vertical wall that drops into the deep blue. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Mid Wall is one of the intermediate-depth dive sections at Madrona Point in Nanoose Bay, sitting between the shallower Small Wall and the deeper Main Wall at depths of around 15–18 metres. It lies offshore from the Madrona Point shoreline in Nanoose Bay and is known as a reliable spot to find giant Pacific octopus tucked into the rocky substrate, though the wall is short and can be easy to miss in lower visibility. The site is often paired with Small Wall on a second dive after doing Main Wall, giving divers an efficient way to explore the full range of marine life across all four Madrona Point zones.
 
 ## Site Information
 

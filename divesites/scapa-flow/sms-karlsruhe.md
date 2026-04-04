@@ -17,15 +17,15 @@ The shallowest, most marine-life-rich of the German light cruisers — lying at 
 
 ## Overview
 
-SMS Karlsruhe was a Königsberg-class light cruiser commissioned in November 1916 and named for the city that her predecessor class had been named after — the original SMS Karlsruhe having been sunk in the Caribbean in 1914. She is the only Königsberg-class cruiser successfully scuttled at Scapa Flow, as sister ships SMS Nürnberg and Emden were beached by the British before they could sink. The Karlsruhe lies on her starboard side at approximately 45 degrees, with her maximum depth of just 27 meters making her the shallowest and most accessible of all the German light cruisers. Local Scapa Flow experts describe her as the "prettiest" of the cruisers — she is the most broken up but compensates with the densest and most colorful marine life of any Fleet wreck. Experienced divers find the Karlsruhe's patterns comprehensible once explained, and a single dive can yield 40 minutes of productive exploration.
+SMS Karlsruhe was a Königsberg-class light cruiser commissioned in November 1916 and named for the city that her predecessor class had been named after — the original SMS Karlsruhe having been sunk in the Caribbean in 1914. She is the only Königsberg-class cruiser successfully scuttled at Scapa Flow, as sister ships SMS Nürnberg and Emden were beached by the British before they could sink. The Karlsruhe lies on her starboard side at approximately 45 degrees, with her maximum depth of just 27 meters and shallowest point at 16 meters, making her the shallowest and most accessible of all the German light cruisers. She is widely described as the "prettiest" of the cruisers — the most broken up but compensating with the densest and most colorful marine life of any Fleet wreck, with lots of fish and marine life across every surface. The Karlsruhe is privately owned by a salvage company, and divers are prohibited from taking any salvage from the wreck. A single dive can yield 40 minutes of productive exploration.
 
 ## Site Information
 
 - **Location**: Scapa Flow, Orkney, Scotland
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck (light cruiser — protected scheduled monument)
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 27 meters (89 feet)
+- **Maximum Depth**: 27 meters
 - **Typical Visibility**: 5–20 meters (16–66 feet) — best May and September–October
 - **Current**: Light
 - **Water Temperature**: 6–14°C (43–57°F)
@@ -45,7 +45,7 @@ Boat dive from Stromness operators. Shot line descent to the wreck. The Karlsruh
 
 ## Tips and Recommendations
 
-- A knowledgeable local guide is especially valuable here — the broken-up nature of the Karlsruhe can seem confusing without an explanatory briefing
+- Request a thorough skipper briefing — the broken-up nature of the Karlsruhe can seem confusing without orientation
 - Allow 40 minutes on the wreck — the extended bottom time allowed by 27 meters makes this possible
 - Focus on the invertebrate life rather than trying to read the ship's structure from the scattered remains
 - The Karlsruhe is often the most enjoyed wreck by divers who prioritize marine life over wreck architecture
@@ -53,7 +53,7 @@ Boat dive from Stromness operators. Shot line descent to the wreck. The Karlsruh
 
 ## Safety Considerations
 
-At 27 meters, this is the most accessible of the German fleet wrecks for standard Intermediate divers. Gas consumption monitoring in cold water is still important. The broken-up structure means navigational disorientation is possible — follow your buddy and guide closely. Protected monument status means no artifact contact or removal.
+At 27 meters, this is the most accessible of the German fleet wrecks for standard Intermediate divers. Gas consumption monitoring in cold water is still important. The broken-up structure means navigational disorientation is possible — follow your buddy closely and maintain orientation. Protected monument status means no artifact contact or removal.
 
 ## Photography
 
@@ -61,7 +61,9 @@ The Karlsruhe offers Scapa Flow's best pure marine life photography on a Fleet w
 
 ## Additional Resources
 
-- **Last Updated**: 2026-03-28
+- **Last Updated**: 2026-04-03
 
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
+## Sources
+
+- [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/)
+- [Scapa Flow Dive Sites — scapa-flow.co.uk](https://www.scapa-flow.co.uk/dive-site)

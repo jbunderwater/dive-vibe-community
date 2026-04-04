@@ -17,7 +17,7 @@ Pope Rocks is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-Pope Rocks is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Pope Rocks is a reef site in Barkley Sound on the west coast of Vancouver Island, part of a Pacific Rim National Park Reserve region that National Geographic has recognised as one of the best cold-water dive destinations in the world. The open Pacific influence brings a distinct biological character — species including white-spotted rose anemones, giant mussels, sea otters, and large lingcod are commonly found alongside the wolf eels and giant Pacific octopus typical of inner BC waters. Rockfish diversity is exceptional here, with china, copper, yellowtail, and quillback rockfish all regularly encountered on the reef structure to 18 metres.
 
 ## Site Information
 

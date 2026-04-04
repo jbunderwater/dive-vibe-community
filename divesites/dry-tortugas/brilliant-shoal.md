@@ -17,7 +17,7 @@ Brilliant Shoal is a reef dive site in Dry Tortugas, North America.
 
 ## Overview
 
-Brilliant Shoal is a dive site in Dry Tortugas offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Brilliant Shoal is a shallow reef formation within the remote Dry Tortugas National Park, 70 miles west of Key West in crystal-clear Gulf of Mexico waters. The shoal features scattered coral heads rising from sandy bottom, with the park's protected status preserving reef health that rivals anything in the Florida Keys. Divers encounter yellowtail snapper, grunts, parrotfish, and nurse sharks, while the surrounding shallows have claimed numerous historic shipwrecks whose scattered remains add archaeological interest to the dive.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Duke of Sparta Wreck is a historic wreck dive in Ambon, Asia.
 
 ## Overview
 
-Duke of Sparta Wreck is a dive site in Ambon featuring the wreck of the Duke of Sparta Wreck. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The Duke of Sparta is a British merchant ship that was sunk in Ambon Bay during the Japanese occupation in World War II, now lying on her side at around 30-40 meters depth with substantial coral and sponge growth covering the hull. The wreck's holds and superstructure are accessible for penetration by experienced divers, and the structure shelters lionfish, scorpionfish, large groupers, and batfish among its encrusted framework. This is one of the deeper and more challenging wreck dives in the Ambon area, best suited to Advanced divers with wreck experience, and the visibility inside the bay can be reduced by silt when conditions are unsettled.
 
 ## Site Information
 

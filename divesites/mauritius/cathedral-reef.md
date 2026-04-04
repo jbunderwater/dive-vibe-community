@@ -17,7 +17,7 @@ Cathedral Reef is a cave dive site in Mauritius, Africa.
 
 ## Overview
 
-Cathedral Reef is a dive site in Mauritius featuring underwater cave and cavern formations. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+La Cathédrale is Mauritius' most famous dive site, located just five minutes offshore from Flic en Flac on the west coast — a vast cavern formed where the reef drops away and enormous boulders create a cave-like space lit angelically by shafts of sunlight penetrating the surface. The dive begins at around 18 metres and descends to nearly 30 metres, where the cathedral-like chamber opens up with walls coated in sea fans and hard corals and passage points connecting to arches and a chimney drop-off. Wrasses, sweetlips, groupers, moray eels, and lobsters inhabit the cracks and ledges, and the combination of grotto, cave, and dramatic topography makes this a must-do for experienced Mauritius divers.
 
 ## Site Information
 

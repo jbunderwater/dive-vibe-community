@@ -17,7 +17,7 @@ Barnard Castle is a historic wreck dive in British Columbia, North America.
 
 ## Overview
 
-Barnard Castle is a dive site in British Columbia featuring the wreck of the Barnard Castle. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Barnard Castle was a 260-foot iron steam collier built in 1878 that struck Rosedale Reef in November 1886 and was beached at Bentinck Island near Race Rocks off southern Vancouver Island, where it sank after salvage attempts failed. The Underwater Archaeological Society of BC placed eight interpretive plaques along the wreck in 1992, making it one of the few underwater heritage trails in British Columbia. The site sits in Race Passage with generally light current, and the iron hull is now heavily encrusted with anemones, sponges, and invertebrates, with rockfish and lingcod throughout.
 
 ## Site Information
 

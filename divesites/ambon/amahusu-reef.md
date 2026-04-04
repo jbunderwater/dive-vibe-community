@@ -17,7 +17,7 @@ Amahusu Reef is a reef dive site in Ambon, Asia.
 
 ## Overview
 
-Amahusu Reef is a dive site in Ambon offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Amahusu Reef is a fringing reef on Ambon Bay's southern shore that offers a gentler alternative to the bay's muck diving sites, with a shallow coral garden sloping to around 14 meters over a mixed substrate of hard coral, rubble, and sandy patches. The site is reliably productive for macro subjects — pygmy seahorses, ornate ghost pipefish, and ribbon eels are regularly spotted on the reef slope — while the shallower sections carry sea anemones with resident clownfish and a variety of damselfish. The short boat ride from resort jetties on the bay and the beginner-friendly depth range make this a popular second or third dive of the day.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Amahusu Reef is a dive site in Ambon offering excellent diving on healthy coral 
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Amahusu Reef offers a gentler macro experience than the bay's muck sites, with pygmy seahorses found in the gorgonians, ornate ghost pipefish drifting among crinoids, and ribbon eels weaving from burrows on the reef slope. Sea anemones host resident clownfish throughout the shallower sections, and damselfish, wrasse, and parrotfish form the backbone of the reef fish community. The sandy rubble patches at the base of the slope yield additional critters including nudibranchs and the occasional frogfish.
 
 ## Dive Profile
 

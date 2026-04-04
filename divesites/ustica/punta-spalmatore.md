@@ -17,7 +17,7 @@ Punta Spalmatore is a reef dive site in Ustica, Europe.
 
 ## Overview
 
-Punta Spalmatore is a dive site in Ustica offering excellent diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Punta Spalmatore lies at the northwestern tip of Ustica near the lighthouse, where shallow black volcanic rock slopes give way to posidonia meadows and scattered reefs typical of Italy's first Marine Protected Area. The site sits in Zone A of the reserve — the strictest no-take zone — which has allowed populations of grouper, wrasse, and sea bream to recover to densities rarely seen elsewhere in the Mediterranean. Calm conditions and a maximum depth of 12 metres make this one of Ustica's most accessible shore entries, ideal for photography or a relaxed first dive on the island.
 
 ## Site Information
 

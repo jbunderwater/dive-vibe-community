@@ -17,7 +17,7 @@ Sea Angel I is a wreck dive site in Roatán, Caribbean.
 
 ## Overview
 
-Sea Angel I is a wreck dive along Roatan's coast, notable for being visible at both high and low tide with the hull still showing above the waterline. OpenStreetMap data confirms this as a documented wreck site at approximately 25 meters depth. The partially exposed hull creates a unique diving environment where the wreck transitions from above-water structure to submerged reef habitat. Marine life has colonized the underwater portions with corals, sponges, and resident fish species. Intermediate level.
+Sea Angel I is a wreck dive accessible from shore on Roatan's eastern side, resting at around 25 meters on the sandy bottom where its encrusted hull has become a concentrated habitat for groupers, snappers, soldierfish, and glassy sweepers that form dense clouds in the water column above the wreck. The structure has been colonized by hard and soft corals and a thick layer of sponges, while sea turtles and southern stingrays frequent the sandy areas immediately surrounding the hull. Roatan's clear Caribbean water and typically light current make this an approachable wreck for intermediate divers, with the shallow portions of the structure starting at more manageable depths for those not yet comfortable at maximum depth.
 
 ## Site Information
 

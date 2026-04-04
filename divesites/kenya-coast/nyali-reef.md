@@ -17,7 +17,7 @@ Nyali Reef is a wall dive site in Kenya Coast, Africa.
 
 ## Overview
 
-Nyali Reef is a dive site in Kenya Coast featuring a dramatic vertical wall that drops into the deep blue. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Nyali Reef lies just off Nyali Beach north of Mombasa, a pleasant hard coral reef that descends to around 20 meters and is well-suited to divers of all experience levels. The reef is characterized by healthy hard coral formations interspersed with anemone gardens hosting resident clownfish, with octopuses, lionfish, and moray eels common in the crevices, and sea turtles a reliable sighting on most dives. The nearby MV Dania wreck, scuttled in 2002 just offshore, is often combined with a Nyali Reef dive for a full day of varied underwater scenery.
 
 ## Site Information
 

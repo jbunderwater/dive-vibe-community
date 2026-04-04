@@ -17,7 +17,7 @@ Porto Conte Reef is a reef dive site in Sardinia, Europe.
 
 ## Overview
 
-Porto Conte Reef is a dive site in Sardinia offering excellent diving on healthy coral reef structures . Posidonia oceanica meadows and coral formations in Capo Caccia Marine Protected Area, easy shore entry. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Porto Conte Reef lies within the calm natural bay of Porto Conte on Sardinia's northwestern coast, part of the same Capo Caccia-Isola Piana Marine Protected Area that surrounds the Nereo Cave system. Extensive posidonia oceanica meadows cover the shallower sandy areas and provide habitat for seahorses, cuttlefish, and flatfish, while rocky formations at depth carry sea fans and encrusting corals. The protected bay setting means this is one of Sardinia's most accessible reef dives, with calm conditions and easy shore entry suitable for divers of all levels.
 
 ## Site Information
 

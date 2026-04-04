@@ -17,7 +17,7 @@ Bos 400 Wreck is a historic wreck dive in Cape Town, Africa.
 
 ## Overview
 
-Bos 400 Wreck is a dive site in Cape Town featuring the wreck of the Bos 400 Wreck. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+The BOS 400 was a massive French crane barge — one of the most powerful in the world at the time, capable of lifting 1,200 tons — that broke its tow cable in a force-9 northwesterly gale on 26 June 1994 and drove aground off Duiker Point near Sandy Bay, directly on top of the earlier wreck of the 1906 British cargo steamer SS Oakburn. The double wreck spans depths of 8–20 metres in cold Atlantic water, with the BOS 400's large steel sections and surviving crane base forming swim-through caverns at the stern that are home to hundreds of west coast rock lobsters, octopuses, and nudibranchs, while the deeper Oakburn remains scatter railway lines and antique glassware across the seabed. The site is exposed to westerly swell and should be dived only on calm summer days; boat access is from Hout Bay, roughly 7 km away.
 
 ## Site Information
 

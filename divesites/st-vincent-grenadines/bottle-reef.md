@@ -17,7 +17,7 @@ Bottle Reef is a reef dive site in St. Vincent and the Grenadines, Caribbean.
 
 ## Overview
 
-Bottle Reef is a dive site in St. Vincent and the Grenadines offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Bottle Reef takes its name from the rum and gin bottles discarded by soldiers stationed at Fort Charlotte, the 1806 fortification whose cliff face looms directly above the site, and a scatter of old bottles can still be found among the coral growth. The reef lies at depths to around 22 meters, with volcanic sand and reef substrate typical of St. Vincent's "critter capital" reputation — expect to find red-lipped batfish, flying gurnards, seahorses, frogfish, and yellowhead jawfish in and around the bottom. Electric rays and peacock flounders are also common in the sandy patches, and the historically layered setting makes this a distinctive site even by Caribbean standards.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Bottle Reef is a dive site in St. Vincent and the Grenadines offering rewarding 
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The volcanic sand and reef substrate makes this a standout critter site, with red-lipped batfish, flying gurnards, seahorses, frogfish, and yellowhead jawfish all reliably found here. Electric rays and peacock flounders patrol the sandy patches, while the coral growth harbors moray eels and banded coral shrimp for divers who slow down and search carefully.
 
 ## Dive Profile
 

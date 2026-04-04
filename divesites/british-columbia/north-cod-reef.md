@@ -17,7 +17,7 @@ North Cod Reef is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-North Cod Reef is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+North Cod Reef is a rocky reef site in the Gulf Islands east of Saltspring Island, positioned in the same island-studded waters that separate Vancouver Island from the Saanich Peninsula. The reef sits in an area where tidal currents funnel between the Gulf Islands, bringing in nutrients that sustain rockfish, lingcod, and dense populations of plumose anemones and sea stars on the rocky substrate. Giant Pacific octopus are reliably found here, tucked into crevices and under ledges along the reef structure.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Antilla Shipwreck is a historic wreck dive in Aruba, Caribbean.
 
 ## Overview
 
-Antilla Shipwreck is a dive site in Aruba featuring the wreck of the Antilla Shipwreck . Hull visible at low tide, appears to be SS Antilla (major wreck) or distinct wreck site. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Antilla is a shallow section of Aruba's most famous wreck — the 400-foot German freighter scuttled in May 1940, whose hull breaks the surface at low tide near Palm Beach. At 18 meters this portion sits in the wreck's mid-section, where the massive steel plates are draped in orange cup coral, purple tube sponges, and bushy black coral, with glassy sweepers flooding every interior chamber. Green moray eels, hawksbill turtles, and large schools of French grunts are resident year-round, and the wreck's sheer scale — you can spend an entire dive exploring a single hold — makes it unlike anything else in the southern Caribbean.
 
 ## Site Information
 

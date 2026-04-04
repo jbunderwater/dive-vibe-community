@@ -17,7 +17,7 @@ Gala pita gala dive site is a reef dive site in Sri Lanka, Asia.
 
 ## Overview
 
-Gala pita gala dive site is a dive site in Sri Lanka offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Gala Pita Gala is a rocky reef shore dive near Unawatuna on Sri Lanka's south coast, where a jumble of boulders and coral outcrops creates a labyrinthine shallow habitat down to about 18 meters. The site is particularly good for macro photography, with moray eels threading through the crevices, frogfish perching on sponge growth, and colourful nudibranchs on the rock surfaces. Sea turtles are a reliable encounter here, resting on the deeper boulders and grazing on the algae and soft coral that colonise the sheltered areas between rock faces.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Gala pita gala dive site is a dive site in Sri Lanka offering rewarding diving o
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Sea turtles are a reliable highlight, commonly found resting on the deeper boulders or grazing on algae and soft coral between the rock faces. The labyrinthine boulder habitat is excellent for macro species, with moray eels threading through crevices, frogfish perching camouflaged on sponge growth, and colourful nudibranchs scattered across the rock surfaces. Lionfish and scorpionfish are also present in the sheltered gaps between boulders, while small schools of chromis and anthias hover above the coral-encrusted outcrops.
 
 ## Dive Profile
 

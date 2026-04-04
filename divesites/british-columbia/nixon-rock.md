@@ -17,7 +17,7 @@ Nixon Rock is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-Nixon Rock is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Nixon Rock is a rocky submerged pinnacle in Discovery Passage near Quadra Island, set within one of the most current-swept and biologically rich marine corridors in British Columbia. Like other Discovery Passage reef sites, the strong tidal flows that can reach several knots in the narrows are responsible for feeding a dense community of plumose anemones, strawberry anemones, rockfish, and giant Pacific octopus clinging to the rocky structure. All dives in Discovery Passage must be planned around slack water, and a local dive charter or guide is strongly recommended for visitors unfamiliar with the passage's tidal rhythms.
 
 ## Site Information
 

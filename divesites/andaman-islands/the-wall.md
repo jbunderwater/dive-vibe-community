@@ -17,7 +17,7 @@ The Wall is a wall dive site in Andaman Islands, Asia.
 
 ## Overview
 
-The Wall is a dive site in Andaman Islands featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The Wall was the first dive site discovered on Havelock Island in 2004 and remains its most famous — a vertical drop-off that plunges from 10 metres down to 55 metres at the channel between Havelock and Peel Islands, with one side a sheer cliff face and the other a 60-degree slope covered in gorgonian fans. The wall is alive with hydroids, feather stars, soft corals, and dark caves, hosting giant groupers, sweetlips, parrotfish, angelfish, moray eels, and scorpionfish as permanent residents, with Napoleon wrasse and giant trevally drawn in by the medium to strong currents that make this best suited to experienced divers. The shallower sloping side is accessible to beginners with an instructor.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ The Wall is a dive site in Andaman Islands featuring a dramatic vertical wall th
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The wall's permanent residents include giant groupers, sweetlips, parrotfish, angelfish, moray eels, and scorpionfish sheltering in the darker crevices and cave openings. Napoleon wrasse and giant trevally are drawn in by the strong currents that sweep the channel, hunting alongside the gorgonian fans and feather stars that colonise the sheer cliff face. The gorgonian-draped slope on the calmer side offers additional encounters with reef sharks patrolling the deeper sections.
 
 ## Dive Profile
 

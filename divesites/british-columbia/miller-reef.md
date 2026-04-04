@@ -17,7 +17,7 @@ Miller Reef is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-Miller Reef is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Miller Reef is situated in Barkley Sound on the exposed west coast of Vancouver Island, an area recognized internationally as one of the finest cold-water diving destinations in the world. The rocky reef structure harbors an impressive diversity of rockfish species — including quillback, china, copper, and tiger rockfish — alongside resident lingcod, wolf eels, and giant Pacific octopus. Barkley Sound generally experiences lighter currents than the island's inner waterways, making reefs like this accessible for intermediate boat divers arriving from Port Alberni.
 
 ## Site Information
 

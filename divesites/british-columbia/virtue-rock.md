@@ -17,7 +17,7 @@ Virtue Rock is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-Virtue Rock is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Virtue Rock is a submerged rocky reef in the waters south of Victoria near the Strait of Juan de Fuca entrance, where cold Pacific-influenced currents keep the water nutrient-rich and marine life plentiful. The rocky structure supports lingcod, quillback and copper rockfish, giant Pacific octopus, harbour seals, and carpets of plumose anemones and encrusting invertebrates typical of this productive southern Vancouver Island region. Tidal flow through the area can be significant, so timing dives to slack water is recommended.
 
 ## Site Information
 

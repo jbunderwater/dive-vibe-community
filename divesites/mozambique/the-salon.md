@@ -17,7 +17,7 @@ The Salon is a reef dive site in Mozambique, Africa.
 
 ## Overview
 
-The Salon is a dive site in Mozambique offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+The Salon earns its name from the remarkable shrimp cleaning station that runs along 80 meters of fringing reef between Barra Point and Tofo Bay, where Durban dancers, banded boxers, scarlet cleaner shrimp, harlequin shrimp, and peacock mantis shrimp set up cleaning stations serviced by moray eels and other fish that queue up patiently for the treatment. The main reef runs from 9 meters on the crest to 15 meters at the base, and scanning the sandy outer edges reveals Kuhl stingrays, torpedo rays, and blue-spotted ribbontail rays resting flat — plus resident green turtles toward the northern section who seem entirely unbothered by divers. Macro photographers rate this among the best sites in southern Mozambique, with leaf fish, ghost pipefish, frogfish, and Orangutan crabs tucked into every available crevice along the reef.
 
 ## Site Information
 

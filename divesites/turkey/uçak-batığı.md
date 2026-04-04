@@ -17,7 +17,7 @@ Uçak Batığı is a historic wreck dive in Turkey, Europe.
 
 ## Overview
 
-Uçak Batığı is a dive site in Turkey featuring the wreck of the Uçak Batığı . Savoia-Marchetti SM.79 Italian torpedo bomber wreck from WWII, bow at 58m, tail at 71m. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Uçak Batığı ("Airplane Wreck") is the remains of a Savoia-Marchetti SM.79 Sparviero — an Italian three-engine torpedo bomber shot down by British anti-aircraft fire while attacking Meis Island during WWII — resting with its bow at 58 meters and tail at 71 meters in the waters near Kaş on Turkey's Lycia coast. At these depths the dive is strictly for experienced and technical divers, but when current permits, the site offers a haunting look at well-preserved 1940s aircraft structures surrounded by an abundance of predators: dentex, groupers, amberjacks, and bonitos all patrol the deep reef wall that surrounds the wreck. Strong and unpredictable currents make this one of Turkey's most challenging dives, but also one of its most historically significant underwater sites.
 
 ## Site Information
 

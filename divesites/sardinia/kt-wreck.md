@@ -17,7 +17,7 @@ KT Wreck is a historic wreck dive in Sardinia, Europe.
 
 ## Overview
 
-KT Wreck is a dive site in Sardinia featuring the wreck of the KT Wreck . WWII German cargo ship KT12, split in two by torpedo, stern gun visible, surrounded by cargo fragments. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The KT Wreck — designated KT12 — is a World War II German cargo ship that was split in two by a torpedo off the southern Sardinian coast near Cagliari, and both sections now rest at around 30 meters on a sandy seabed. The stern gun is one of the most striking features, still pointing skyward and encrusted with sea life, while scattered cargo fragments and the broken hull sections create a wide debris field to explore. Red scorpionfish, moray eels, and large groupers have made the wreck their home, and the visibility in this part of the Tyrrhenian typically runs 15-25 meters.
 
 ## Site Information
 

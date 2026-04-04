@@ -17,7 +17,7 @@ Punta dell'Arpa is a wall dive site in Ustica, Europe.
 
 ## Overview
 
-Punta dell'Arpa is a dive site in Ustica featuring a dramatic vertical wall that drops into the deep blue. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Punta dell'Arpa — the Tip of the Harp — lies on Ustica's southern coast where a rockfall of large boulders leads down to a sandy bottom at 40 metres, and the walls and crevices between them are blanketed in spectacular forests of red gorgonians from around 34 metres upward. The swim through tunnels and passages formed by the collapsed volcanic rock culminates in the gorgonian forest, with shy lobsters tucked into the deeper crevices and large barracuda frequently hovering in the current nearby. This is one of Ustica's most rewarding dives for those willing to drop to depth, requiring an advanced certification to appreciate the full spectacle.
 
 ## Site Information
 

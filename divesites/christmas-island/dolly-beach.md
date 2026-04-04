@@ -17,7 +17,7 @@ Dolly Beach is a reef dive site in Christmas Island, Oceania.
 
 ## Overview
 
-Dolly Beach is a dive site in Christmas Island offering excellent diving on healthy coral reef structures. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Dolly Beach is one of Christmas Island's most remote and pristine dive sites, a narrow crescent of sand on the undeveloped eastern coast accessible only by a rough track through rainforest. The reef directly offshore drops away into exceptionally clear water with visibility regularly exceeding 30 meters, and the lack of any regular diving pressure means the coral structures and fish populations are in outstanding condition. Whitetip and grey reef sharks, sea turtles, and large Napoleon wrasse are common sightings, and the site's isolation guarantees that most dives here will be with just your own group.
 
 ## Site Information
 

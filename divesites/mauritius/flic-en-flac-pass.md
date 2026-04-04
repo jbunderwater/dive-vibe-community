@@ -17,7 +17,7 @@ Flic en Flac Pass is a reef dive site in Mauritius, Africa.
 
 ## Overview
 
-Flic en Flac Pass is a dive site in Mauritius offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Flic en Flac Pass is a channel dive on the west coast of Mauritius, the island's richest area for marine biodiversity, with depths ranging from 14 to 25 meters through a passage of cavities and overhangs. When current is running, the pass makes for an exciting drift dive, though Open Water divers can stay on top of the plateau in calmer conditions. The west coast waters host colorful butterflyfish, soldierfish, lionfish, giant lobsters, scorpionfish, stonefish, and barracudas, with visibility typically 20-30 meters and water temperatures between 25-30°C depending on season.
 
 ## Site Information
 

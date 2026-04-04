@@ -32,7 +32,7 @@ Part of Broward County's comprehensive artificial reef program which has deploye
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Rapa Nui Reef and surrounding artificial structures support a dense community of South Florida reef fish, with hogfish, yellowtail snapper, black sea bass, and sergeant majors resident around the barge and boulder configurations. Nurse sharks rest beneath the larger reef sections, and southern stingrays glide across the sandy bottom between the artificial reef modules. Spiny lobster are abundant throughout the complex, and green moray eels are regularly spotted in the structural gaps.
 
 ## Dive Profile
 
@@ -53,7 +53,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of surge, surface boat traffic, and variable visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 

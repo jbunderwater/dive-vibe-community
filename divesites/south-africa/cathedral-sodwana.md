@@ -17,7 +17,7 @@ Cathedral Sodwana is a reef dive site in South Africa, Africa.
 
 ## Overview
 
-Cathedral Sodwana is a dive site in South Africa offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Cathedral is one of Sodwana Bay's signature reef systems, named for the towering coral spires and archways that create an almost architectural underwater landscape at depths between 5 and 20 meters. The site sits within the iSimangaliso Wetland Park and features exceptional hard coral diversity including large brain corals, plate corals, and massive Porites heads, attracting abundant reef fish life such as potato grouper, emperor fish, and schools of batfish. Ragged-tooth sharks are sometimes seen cruising the deeper sections in summer, and the warm Agulhas Current keeps visibility consistently good at 15–20 meters on average.
 
 ## Site Information
 

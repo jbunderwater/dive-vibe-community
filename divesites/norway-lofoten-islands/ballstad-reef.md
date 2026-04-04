@@ -17,7 +17,7 @@ Ballstad Reef is a reef dive site in Norway Lofoten Islands, Europe.
 
 ## Overview
 
-Ballstad Reef is a dive site in Norway Lofoten Islands offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Ballstad Reef is an Arctic dive site off one of Lofoten's largest fishing villages, featuring walls carpeted with thousands of colorful Dahlia anemones and dead man's fingers soft corals from just below the surface down to nearly 20 meters. Deep canyons and spectacular wall formations southwest of Ballstad shelter wolffish, halibut, cod, and dense communities of nudibranchs and hermit crabs beneath towering kelp canopies. Water temperature hovers around 8 degrees C at depth, requiring drysuit diving year-round.
 
 ## Site Information
 

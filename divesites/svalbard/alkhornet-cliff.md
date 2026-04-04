@@ -17,7 +17,7 @@ Alkhornet Cliff is a wall dive site in Svalbard, Arctic.
 
 ## Overview
 
-Alkhornet Cliff is a dive site in Svalbard featuring a dramatic vertical wall that drops into the deep blue. Located in the Arctic region, this site offers 10-30 meters of visibility with water temperatures averaging -1 to 8°C.
+Alkhornet is a striking headland of metamorphosed carbonate rock over a billion years old that guards the northern entrance to Isfjorden on Spitsbergen's west coast. The underwater cliff face descends to around 22 metres through gin-clear Arctic water, with kelp forests giving way to dense aggregations of anemones, soft corals, and sea urchins, while seals drawn by the enormous above-water seabird colony of over 60,000 kittiwakes and guillemots are frequent dive companions.
 
 ## Site Information
 

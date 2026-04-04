@@ -17,7 +17,7 @@ Shark Alley Gansbaai is a beach dive site in South Africa, Africa.
 
 ## Overview
 
-Shark Alley Gansbaai is a dive site in South Africa offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Shark Alley is the narrow channel between Dyer Island and Geyser Rock near Gansbaai, home to a 60,000-strong Cape fur seal colony that attracts one of the world's densest concentrations of great white sharks. This is cage diving territory — divers descend in a surface cage just meters below the waterline, making scuba certification unnecessary, while the sharks cruise past drawn by the seal activity. Peak season runs April through October when young pups become easy targets and shark activity is at its highest.
 
 ## Site Information
 

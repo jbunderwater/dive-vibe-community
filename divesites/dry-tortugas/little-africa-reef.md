@@ -17,7 +17,7 @@ Little Africa Reef is a reef dive site in Dry Tortugas, North America.
 
 ## Overview
 
-Little Africa Reef is a dive site in Dry Tortugas offering excellent diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Little Africa Reef is a large, shallow patch reef off the west shore of Loggerhead Key whose coral formations, seen from above, trace the outline of the African continent. Sitting in around 6 metres of water, the reef is considered one of the finest snorkel and beginner dive spots in the Dry Tortugas, with consistently excellent visibility, abundant conch shells, and a diverse community of tropical fish, sponges, and coral that rewards anyone willing to make the remote journey out here.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Neville Rock is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-Neville Rock is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Neville Rock is a rocky reef site in the Strait of Georgia north of Powell River on BC's Sunshine Coast, in an area known locally for accessible cold-water diving with outstanding marine diversity. The nutrient-rich waters of this part of the strait support rockfish, lingcod, giant Pacific octopus, and sea cucumbers on the rocky bottom, while harbor seals are frequent companions on the dive. The upper Sunshine Coast sees relatively light dive traffic, and the clarity of the water here is typically excellent for photography.
 
 ## Site Information
 

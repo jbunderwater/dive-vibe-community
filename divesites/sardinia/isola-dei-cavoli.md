@@ -17,7 +17,7 @@ Isola dei Cavoli is a reef dive site in Sardinia, Europe.
 
 ## Overview
 
-Isola dei Cavoli is a dive site in Sardinia offering rewarding diving on healthy coral reef structures . Granite island in Capo Carbonara Marine Protected Area with rocky seabed, sea fans, nudibranchs, red coral. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Isola dei Cavoli is a small granite island within the Capo Carbonara Marine Protected Area near Villasimius in southeastern Sardinia, where massive boulders create deep fissures, cavities, and eroded formations descending to over 40 metres. Divers visit the iconic Madonna del Naufrago statue at shallow depth, explore the ship-shaped granite monolith of La Nave Romana, and encounter red gorgonians at the Sandbank of Mezzo. The crystalline waters shelter schools of barracuda, flathead mullet, lobsters, dentex, amberjack, and colourful sponges among the granite seabed.
 
 ## Site Information
 

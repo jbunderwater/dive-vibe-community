@@ -17,7 +17,7 @@ Thomas T. Tucker is a historic wreck dive in Cape Town, Africa.
 
 ## Overview
 
-Thomas T. Tucker is a dive site in Cape Town featuring the wreck of the Thomas T. Tucker. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+The SS Thomas T. Tucker was a US Liberty ship that ran aground on her maiden voyage at Olifantsbos Point, Cape Point, on 27 November 1942 — the captain had mistaken his position by 23 nautical miles in heavy fog, missing Cape Town and running hard onto the rocks with a cargo of tanks and ammunition. The wreck is strewn across a shallow rocky reef in 5–10 metres of cold Atlantic water within the Table Mountain National Park Marine Protected Area, its scattered plates and machinery now thoroughly colonised by kelp and cold-water invertebrates. Access is by boat only due to the remote Atlantic seaboard location, and the site is diveable only on exceptionally calm days when the exposed northwest–southwest facing shore is settled.
 
 ## Site Information
 

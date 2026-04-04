@@ -17,7 +17,7 @@ Smeerenburg is a historic wreck dive in Svalbard, Arctic.
 
 ## Overview
 
-Smeerenburg is a dive site in Svalbard featuring the wreck of the Smeerenburg. Located in the Arctic region, this site offers 10-30 meters of visibility with water temperatures averaging -1 to 8°C.
+Smeerenburg — "Blubber Town" — was the hub of Dutch whaling operations in the 1630s on Amsterdamøya, and the waters of Smeerenburg Fjord hold seventeen Dutch ships sunk there in 1693 after a battle with French frigates sent by Louis XIV to damage the Netherlands' whaling trade. The cold Arctic water has preserved these 17th-century wrecks in exceptional condition, making the fjord one of the most historically significant underwater sites in the Arctic for expedition divers.
 
 ## Site Information
 

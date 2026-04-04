@@ -17,7 +17,7 @@ Nick's Place is a wall dive site in Providencia Island, Caribbean.
 
 ## Overview
 
-Nick's Place is a dive site in Providencia Island featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Nick's Place is a deep wall dive along Providencia's barrier reef dropping to 40 metres, where the volcanic island's underwater flanks descend into the open Caribbean within the UNESCO Seaflower Biosphere Reserve. The wall supports healthy Creole wrasse populations and large black grouper at depth, with parrotfish, eels, and moray eels in the shallower reef sections, and Caribbean reef sharks patrolling the blue beyond the wall face. Visibility in the warm 27 to 29 degree water can exceed 30 metres, and the site rewards advanced divers with the dramatic sense of scale characteristic of Providencia's finest barrier reef wall diving.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Nick's Place is a dive site in Providencia Island featuring a dramatic vertical 
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Caribbean reef sharks patrol the open blue along the wall edge while large black grouper hold at depth amid healthy Creole wrasse populations in the deeper sections. The shallower reef sections host parrotfish, moray eels, and angelfish, and sea turtles are regular visitors to the wall face in the exceptional warm, clear water of the Seaflower Biosphere Reserve.
 
 ## Dive Profile
 

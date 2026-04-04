@@ -17,7 +17,7 @@ Al Munassir Wreck is a historic wreck dive in UAE - Fujairah, Middle East.
 
 ## Overview
 
-Al Munassir Wreck is a dive site in UAE - Fujairah featuring the wreck of the Al Munassir Wreck . May be located in Oman (Muscat area) rather than UAE. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The Al Munassir was a 3,000-tonne Royal Oman Navy landing vessel that was deliberately sunk on 21 April 2003 off the coast of Muscat to create an artificial reef, and it has since become one of the most celebrated wreck dives in the region. The intact hull, sitting in 10 to 30 metres of water, is densely colonised by angelfish, triggerfish, batfish, snappers, and schooling fusiliers, while the anchor chain descending into the sand is a reliable spot for seahorses. The gun platform, helicopter deck, and multiple access points make for an exploratory dive on every visit, and sea turtles and rays are regular companions around the structure.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Barentsburg Coast is a reef dive site in Svalbard, Arctic.
 
 ## Overview
 
-Barentsburg Coast is a dive site in Svalbard offering rewarding diving on healthy coral reef structures. Located in the Arctic region, this site offers 10-30 meters of visibility with water temperatures averaging -1 to 8°C.
+Barentsburg Coast lies along the shoreline of the Russian mining settlement of Barentsburg on Isfjorden, Svalbard's second-longest fjord. The rocky seabed drops to 15 meters through dense kelp forests of sugar kelp and winged kelp, sheltering mussels, shrimp, spider crabs, and sea snails among the holdfasts. Bearded seals are frequently spotted in these waters, and the deep blue hues of nearby glacial ice create a striking backdrop for underwater photography in this high-Arctic fjord environment.
 
 ## Site Information
 

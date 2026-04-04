@@ -17,7 +17,7 @@ Kirby's Rock is a wall dive site in Philippines Anilao, Asia.
 
 ## Overview
 
-Kirby's Rock is a dive site in Philippines Anilao featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Kirby's Rock on the northwest tip of Tingloy Island juts out into the Verde Island Passage, where a wall covered in gorgonians, whip corals, and crinoids descends from 5 meters to beyond 30 meters. Multiple moray eels occupy crevices in the wall, the rubble at the base hosts anemones with clownfish, and the exposure to open water means jacks and barracuda are regular visitors — hit slack water for the best visibility and the easiest photography.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Kirby's Rock is a dive site in Philippines Anilao featuring a dramatic vertical 
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Kirby's Rock offers a dual character: the gorgonian- and whip-coral-draped wall harbours moray eels in crevices and clownfish in anemones on the rubble base, while the site's exposure to the Verde Island Passage brings in jacks and barracuda from open water. Crinoids in the current at the wall's upper edge shelter the pygmy seahorses and ghost pipefish that reward macro photographers, and multiple nudibranch species are distributed across the encrusted surfaces. Slack water is the best time to hunt for critters before the current picks up and shifts attention to the pelagic action.
 
 ## Dive Profile
 

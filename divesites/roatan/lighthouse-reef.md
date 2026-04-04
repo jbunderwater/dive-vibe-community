@@ -17,7 +17,7 @@ Lighthouse Reef is a wall dive site in Roatán, Caribbean.
 
 ## Overview
 
-Lighthouse Reef presents one of the West End corridor's most dramatic sheer drop-offs, with a large crevice cutting deep into the reef structure. Visibility here can be extraordinary, sometimes exceeding 200 feet on calm days, revealing the full scale of the vertical wall plummeting into indigo depths. Divers regularly encounter mating giant puffers, dense schools of blue tangs streaming along the wall face, and French angelfish feeding among the sponges. Giant green moray eels lurk in the crevices while eagle rays make sweeping passes along the wall. Currents can build in strength here, so awareness of conditions is important before descending.
+Lighthouse Reef at West Bay is one of Roatan's most-dived sites for good reason — the mooring sits on the reef top in around 8 meters with a sandy patch ideal for navigation training, and just a short swim delivers divers to the wall face where brain corals, sea fans, and sponge formations cascade down toward deeper water. Every dive shop in West Bay uses this site for student dives because of the gentle conditions and the productive 5-6 meter sand patches, but experienced divers also find it rewarding for its consistent macro life whether over sand or on the wall. Turtles, stingrays, and the occasional eagle ray appear regularly, and the site is fully protected within the Roatan Marine Park with mooring buoys preventing anchor damage.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Lighthouse Reef presents one of the West End corridor's most dramatic sheer drop
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Hawksbill turtles, southern stingrays, and the occasional eagle ray are regular visitors to both the reef top and the wall face, while the sandy patches are productive for macro subjects including garden eels and small flatfish. The protected Roatan Marine Park status means reef fish populations are notably dense, with parrotfish, angelfish, blue chromis, and large barrel sponges that shelter moray eels and Caribbean lobsters throughout.
 
 ## Dive Profile
 

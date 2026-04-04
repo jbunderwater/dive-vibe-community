@@ -17,7 +17,7 @@ Quartertide Rocks is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-Quartertide Rocks is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Quartertide Rocks is a rocky reef site on the south coast of Vancouver Island near the entrance to the Strait of Juan de Fuca, where upwellings of cold Pacific water sustain rich marine life on exposed rocky structures. The reef to 18 metres is typical of Juan de Fuca terrain, with hydrocorals, brooding anemones, encrusting sponges, and barnacle-covered outcrops hosting lingcod, rockfish, and kelp greenlings. Tidal rips are common off points and shoals in this area, so timing dives around slack water is important, and divers should be prepared for variable conditions driven by the complex tidal patterns of the strait.
 
 ## Site Information
 

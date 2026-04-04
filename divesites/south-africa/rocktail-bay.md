@@ -17,7 +17,7 @@ Rocktail Bay is a reef dive site in South Africa, Africa.
 
 ## Overview
 
-Rocktail Bay is a dive site in South Africa offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Rocktail Bay sits within the Maputaland Marine Reserve in iSimangaliso Wetland Park, one of the most pristine and least-dived reef systems on the South African coast — operators held a permit to dive these reefs for years before access was granted. The showpiece site, Gogo's Reef, offers collapsed features, gullies, overhangs, and swim-throughs in generally less than 18 metres, with hawksbill turtles, whale sharks, and humpback whales encountered regularly depending on season. From October through March, loggerhead and leatherback turtles nest on the beach above, making Rocktail Bay a rare destination where the wildlife spectacle continues above and below the waterline.
 
 ## Site Information
 

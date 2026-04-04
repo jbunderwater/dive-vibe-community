@@ -17,7 +17,7 @@ Palliser Rock is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-Palliser Rock is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Palliser Rock is a rocky reef in the Sunshine Coast region near Jervis Inlet, where the nutrient-rich confluence of glacier-carved waterways delivers food to dense communities of sessile invertebrates. The reef descends to around 18 metres and is colonised by plumose anemones, cloud sponge clusters, sea urchins, and colourful nudibranchs, while lingcod and rockfish patrol the crevices. Giant Pacific octopus are frequently found denning in the rock formations, and wolf eels are known to inhabit the deeper sections of this boat-access site.
 
 ## Site Information
 

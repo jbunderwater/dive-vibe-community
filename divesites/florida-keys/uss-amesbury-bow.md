@@ -32,7 +32,7 @@ The USS Amesbury bow section, locally known as Alexander's Wreck, is a shallow W
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The bow section's gun mounts and military hardware are heavily encrusted with sponges and soft corals, providing habitat for hogfish, yellowtail snapper, mutton snapper, and large green moray eels. Nurse sharks are commonly seen resting on the sandy bottom beneath the hull, and spiny lobster crowd every sheltered opening in the structure. Spotted eagle rays and southern stingrays cruise the surrounding sand flats, with the occasional barracuda patrolling the water column above.
 
 ## Dive Profile
 
@@ -53,7 +53,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of surge, boat traffic, and variable visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 

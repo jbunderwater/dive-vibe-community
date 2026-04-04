@@ -17,7 +17,7 @@ Daini Koyomaru Wreck is a historic wreck dive in St. Lucia, Caribbean.
 
 ## Overview
 
-Daini Koyomaru Wreck is a dive site in St. Lucia featuring the wreck of the Daini Koyomaru Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Daini Koyomaru is a 75-metre Japanese dredger scuttled by St. Lucia's Department of Fisheries in 1996 as an artificial reef, which was knocked onto its starboard side by Hurricane Lenny in 1999 — a stroke of luck for divers, as the hull now acts as a vertical wall to explore down to 33 metres. The sheer scale of the wreck rewards repeat visits, and its isolated position near Anse Cochon means strong currents can run; pufferfish, French angelfish, barracuda, moray eels, and turtles are among the regular inhabitants. The wreck lies offshore without surface markers, so diving here with a local operator who knows its GPS coordinates is essential.
 
 ## Site Information
 

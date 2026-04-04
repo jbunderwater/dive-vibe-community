@@ -17,7 +17,7 @@ Shark Alley (False Bay) is a reef dive site in Cape Town, Africa.
 
 ## Overview
 
-Shark Alley (False Bay) is a dive site in Cape Town offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Shark Alley in False Bay is a shallow reef passage between Seal Island and the surrounding kelp beds, world-famous as the hunting ground of great white sharks that breach spectacularly when attacking cape fur seals. Dives here are typically conducted from the surface in baited cage-diving operations rather than open-water reef dives, giving divers close-up encounters with large great whites in their natural predatory environment. The season peaks between June and October when great whites are most active, though sightings are possible year-round in these cold, seal-rich waters.
 
 ## Site Information
 

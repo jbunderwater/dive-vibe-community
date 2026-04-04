@@ -17,7 +17,7 @@ Mandu Wall is a wall dive site in Ningaloo Reef, Oceania.
 
 ## Overview
 
-Mandu Wall is a dive site in Ningaloo Reef featuring a dramatic vertical wall that drops into the deep blue. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Mandu Wall drops from the outer edge of Ningaloo Reef near the Mandu Creek area, descending steeply through coral-covered formations into deeper water patrolled by grey reef sharks, trevally, and occasional hammerheads. The wall face carries healthy hard and soft coral growth with sea fans and sponges in the deeper sections, and the outer reef position means strong current is common, driving the pelagic fish activity that makes this one of Ningaloo's more exciting advanced dive sites. Visibility on the outer wall typically runs 20-30 meters, with the deep blue opening to the Indian Ocean on the seaward side.
 
 ## Site Information
 

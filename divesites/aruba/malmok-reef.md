@@ -17,7 +17,7 @@ Malmok Reef is a reef dive site in Aruba, Caribbean.
 
 ## Overview
 
-Malmok Reef is a dive site in Aruba offering excellent diving on healthy coral reef structures . Shallow 2-5m, nursery for young fish, easy entry with no current, perfect for certification dives. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Malmok Reef is a shallow, protected shore dive on Aruba's western coast where a rubble and sand bottom at 2-5 meters supports scattered coral heads teeming with juvenile fish — it functions as a genuine nursery ground for a wide variety of reef species. Tiny neon gobies, baby trumpetfish, juvenile French angelfish, and small peacock flounders make it one of the best macro sites in Aruba, and the absence of current and current means it's also used for certification training dives. Night dives here are particularly productive, with octopus and Caribbean spiny lobster emerging from the reef rubble after dark.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Malmok Reef is a dive site in Aruba offering excellent diving on healthy coral r
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The shallow nursery ground hosts neon gobies, baby trumpetfish, juvenile French angelfish, and small peacock flounders among the scattered coral heads — outstanding macro subjects in a beginner-friendly setting. Night dives add octopus and Caribbean spiny lobster emerging from the reef rubble after dark, making this one of Aruba's most productive sites for cryptic species observation.
 
 ## Dive Profile
 

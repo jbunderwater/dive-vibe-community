@@ -17,7 +17,7 @@ Hen and Chickens reef is a reef dive site in Florida Keys, North America.
 
 ## Overview
 
-Hen and Chickens reef is a dive site in Florida Keys offering excellent diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Hen and Chickens is a cluster of patch reefs off Islamorada whose coral formations, seen from above, radiate outward like a mother hen surrounded by chicks — a named Sanctuary Preservation Area protecting large populations of ESA-listed star corals and brain corals. The site is one of the best beginner dives in the Florida Keys, with depths of just 5–35 feet and some coral heads towering 15 feet from the ocean floor among purple sea fans, giant Christmas tree corals, and sprawling gorgonian formations. A 19th-century brick barge wreck rests inshore of the triangular light tower with its bow rising to within 10 feet of the surface, surrounded by large tarpon and resident barracuda that seem drawn to the structure.
 
 ## Site Information
 

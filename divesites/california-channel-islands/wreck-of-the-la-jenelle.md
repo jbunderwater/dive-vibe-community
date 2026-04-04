@@ -17,7 +17,7 @@ Wreck of the La Jenelle is a historic wreck dive in California Channel Islands, 
 
 ## Overview
 
-Wreck of the La Jenelle is a dive site in California Channel Islands featuring a historic wreck which sank in 04/13/1970 . Remains of the ship SS La Jenelle, wrecked on Silver Strand Beach in April, 1970 and later cut and hull filled with rock to form part of Port Hueneme breakwater.. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The SS La Jenelle wrecked on Silver Strand Beach near Port Hueneme in April 1970, and the hulk was subsequently cut down and incorporated into the Port Hueneme breakwater, with the hull filled with rock to stabilise the structure — making it one of the most unusual dive sites in Southern California. The submerged sections of the breakwater-wreck sit in around 25 meters and have become artificial reef, colonised by the rockfish, kelp bass, and invertebrates typical of the Southern California Bight. The site is diveable from shore or boat and provides good macro photography opportunities among the encrusted hull plating and rocky fill.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ L'Augustin Fresnel II is a historic wreck dive in Guadeloupe, Caribbean.
 
 ## Overview
 
-L'Augustin Fresnel II is a dive site in Guadeloupe featuring the wreck of the L'Augustin Fresnel II which sank in 2003 . 53-meter Canadian lighthouse ship, deliberately sunk 2003 in Cousteau Reserve, now at 33m depth (moved by Cyclone Dean), clean artificial reef, requires Advanced certification. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+L'Augustin Fresnel II is a 53-metre Canadian lighthouse tender deliberately sunk in 2003 within the Cousteau Reserve near Malendure as a clean artificial reef; Cyclone Dean subsequently shifted it to its current resting position at 33 metres depth. The intact hull now hosts groupers, snappers, sponge encrustation, and hawksbill turtles that shelter against the superstructure, making it the third and most recently added wreck in a reserve that also holds the Franjack and the Gustavia. Advanced certification is required due to the depth, but the combination of protected reserve waters, excellent Caribbean visibility, and a well-preserved wreck structure make it a compelling dive for qualified divers visiting Guadeloupe.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ SS Slavonia Wreck is a historic wreck dive in Azores, Europe.
 
 ## Overview
 
-SS Slavonia Wreck is a dive site in Azores featuring a historic wreck. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The RMS Slavonia was a Cunard Line passenger ship that ran aground on the rocky coast of Flores Island on 10 June 1909 after straying off course in fog — a wreck notable for being the first in history to transmit an SOS distress signal. She now lies in 5–15 metres of water within the Slavonia Underwater Archaeological Park, a federally protected site since 2015, covering an area the size of two football fields and accessible to both snorkellers and divers. The exposed position off Flores means the surrounding water is crystal-clear with abundant marine life, and the wreck's timbers gave Flores residents new hardwood floors during salvage operations shortly after the sinking.
 
 ## Site Information
 

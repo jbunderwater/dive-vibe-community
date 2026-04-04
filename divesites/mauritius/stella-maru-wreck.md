@@ -17,7 +17,7 @@ Stella Maru Wreck is a historic wreck dive in Mauritius, Africa.
 
 ## Overview
 
-Stella Maru Wreck is a dive site in Mauritius featuring the wreck of the Stella Maru Wreck. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+The Stella Maru is a 44-metre Japanese trawler sunk in December 1987 to create one of Mauritius' first artificial reefs off the Trou aux Biches coast in the north of the island. She was originally sunk on her side but a major cyclone in 2002 righted her, and she now sits upright on the sandy bottom at 25–26 metres, remarkably intact and blanketed in soft corals with a resident giant frogfish, huge moray eels in the bulkheads, and whip coral gobies and nudibranchs throughout. A small interior passage can be explored, and the bow makes an ideal subject for wide-angle underwater photography.
 
 ## Site Information
 

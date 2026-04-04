@@ -17,7 +17,7 @@ Axel Carlson is a reef dive site in New Jersey Shore, North America.
 
 ## Overview
 
-Axel Carlson is a dive site in New Jersey Shore offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Axel Carlson Reef (also known as Mantoloking Reef) sits in a trough beside the Manasquan Ridge and features an impressive collection of sunken structures including Army tanks, reef balls, the 90-foot steel dragger Carrabassett, and the 110-foot tugboat Veronica M lying in 75 feet of water. The wrecks and structures are colonized by blue mussels, tubularian hydroids, and frilled anemones, attracting black sea bass, cunner, tautog, and lobster. Visibility tends to be limited due to the silty mud bottom, with water temperatures ranging from 7-24°C.
 
 ## Site Information
 

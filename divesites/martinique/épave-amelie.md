@@ -17,7 +17,7 @@ addedBy: osm_import
 
 ## Overview
 
-Épave Amelie is a dive site in Martinique featuring the wreck of the Épave Amelie. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Amélie is a 48-metre iron three-masted sailing ship that sank in early 1902 at Anse Turin, near Saint-Pierre, and now rests scattered across a grey sand seabed at depths of 3 to 8 metres. The wreck predates the famous Mount Pelée eruption and is heavily colonised by hard corals, sponges, and gorgonians, sheltering sergeant majors, smooth trunkfish, yellow grunts, and occasional hawksbill turtles and torpedo rays in the surrounding sand. Its shallow depth and shore access from the grey-sand beach make it one of Martinique's most accessible wreck dives, suitable for snorkellers and beginners alike.
 
 ## Site Information
 

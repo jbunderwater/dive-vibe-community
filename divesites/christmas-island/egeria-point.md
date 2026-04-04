@@ -17,7 +17,7 @@ Egeria Point is a wall dive site in Christmas Island, Oceania.
 
 ## Overview
 
-Egeria Point is a dive site in Christmas Island featuring a dramatic vertical wall that drops into the deep blue. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Egeria Point is a dramatic headland on Christmas Island's western coast where the underwater cliff drops precipitously from the surface to more than 40 meters, with the wall face alive with sea fans, black coral trees, and thick encrusting sponges in vivid purples and oranges. Grey reef sharks and silvertip sharks patrol the deep water at the base of the wall, while trevally and fusiliers create moving curtains of fish in the shallower sections above. Current is a regular feature, and when it runs the site becomes a blue-water drift with schooling hammerheads reported in the season months.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ SS Kyle is a historic wreck dive in Newfoundland, North America.
 
 ## Overview
 
-SS Kyle is a dive site in Newfoundland featuring a historic wreck which sank in 1967-02-04. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The SS Kyle is a 1913-built Clyde-side steamship that ran aground at Harbour Grace on February 4, 1967, after breaking free of her moorings in a storm, ending a remarkable 54-year career serving Newfoundland coastal communities. She lies partially above water on a shingle beach, with her stern and lower hull accessible in just 6 meters of water — her rusty, barnacle-encrusted form is visible even from shore, making her one of Newfoundland's most photogenic and photographed wrecks. The extreme shallowness makes her ideal for snorkelers and new divers, though surge can make the wreck dangerous in exposed conditions, and the cold Atlantic water requires a drysuit for comfortable exploration.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ SS Kyle is a dive site in Newfoundland featuring a historic wreck which sank in 
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The shallow hull of the SS Kyle is encrusted with horse mussels, sea urchins, and cold-water anemones, with cunner and Atlantic cod sheltering around the rusting steel plates. Sea ravens and shorthorn sculpin are frequently spotted tucked into crevices along the wreck's lower hull, and the barnacle-covered superstructure provides ideal macro subjects including northern lobster and sea stars.
 
 ## Dive Profile
 

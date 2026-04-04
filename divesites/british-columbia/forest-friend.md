@@ -17,7 +17,7 @@ Forest Friend is a historic wreck dive in British Columbia, North America.
 
 ## Overview
 
-Forest Friend is a dive site in British Columbia featuring the wreck of the Forest Friend which sank in 1950s . Early 1900s barquentine lumber freighter sank as a breakwater. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Forest Friend was a five-masted barquentine built in Washington State in 1919 for the Pacific lumber trade, scuttled in the early 1950s as part of the Royston Wrecks breakwater near Comox on Vancouver Island. The Royston collection — roughly 14 historic vessels sunk between 1936 and 1962 to protect the Comox Logging Company's booming grounds — is now a registered provincial archaeological site. At a shallow maximum depth of 12 metres, the Forest Friend's wooden hull frames and kelp-draped structure make it one of the more accessible wrecks at Royston, inhabited by rockfish, lingcod, and the occasional giant Pacific octopus.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Herby's Place is a reef dive site in Roatán, Caribbean.
 
 ## Overview
 
-Herby's Place is a shore-accessible reef site at the eastern boundary of the Half Moon Bay corridor, where the shallow reef provides easy diving and snorkeling in calm, protected waters. At 18 meters maximum depth, the site offers a mix of coral gardens and sandy patches that support a diverse community of reef inhabitants. Foureye butterflyfish and spotfin butterflyfish pick at the coral, while juvenile yellowtail damselfish, bright blue with orange spots, dart between the branches of staghorn coral. The shore entry and shallow profile make Herby's Place ideal for extended dives, night dives, and any time conditions on the deeper wall sites make the shallows a more appealing option.
+Herby's Place sits at West Bay Point on Roatan's south shore, a reef dive that slopes down to 18 meters over a mix of star corals, barrel sponges, and coral outcroppings where garden eels wave from sandy patches and stingrays rest on the bottom. The site forms part of the Roatan Marine Park's network of buoyed reef sites, and regular visitors include sea turtles, nurse sharks resting under coral heads, and hogfish patrolling the mid-water over the reef. Visibility typically runs 20-30 meters in calm conditions, making it a reliable and visually rewarding dive for newer divers and those looking for a relaxed, wildlife-rich reef experience.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Herby's Place is a shore-accessible reef site at the eastern boundary of the Hal
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, parrotfish, angelfish (queen, French, grey), and blue tangs. Additional species commonly sighted include trumpetfish, yellowtail snapper, sergeant majors, damselfish, and cleaning stations with gobies and shrimp. The reef structure provides habitat for a diverse community of tropical fish and invertebrates.
+Garden eels wave from sandy patches between the coral outcroppings, southern stingrays rest on the bottom, and nurse sharks shelter under coral heads throughout the reef. Sea turtles are regular visitors and hogfish patrol the mid-water, while the barrel sponges and star coral heads provide habitat for moray eels, spotted drum, and Caribbean spiny lobsters in the reef's lower sections.
 
 ## Dive Profile
 

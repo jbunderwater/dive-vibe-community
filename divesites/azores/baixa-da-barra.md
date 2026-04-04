@@ -17,7 +17,7 @@ Baixa da Barra is a reef dive site in Azores, Europe.
 
 ## Overview
 
-Baixa da Barra is a dive site in Azores offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Baixa da Barra is a submerged reef (baixa) in the Azores, typical of the volcanic rock formations found throughout the archipelago. The site features rugged basalt structures descending to around 25 metres, where dusky groupers, barred hogfish, and Almaco jacks patrol the rocky corridors. Schools of blue jack mackerel and yellowmouth barracuda are common in the blue water column, and seasonal visits from devil rays and ocean sunfish make this a rewarding mid-Atlantic dive.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Cuba is a historic wreck dive in California Channel Islands, North America.
 
 ## Overview
 
-Cuba is a dive site in California Channel Islands featuring the wreck of the Cuba. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Cuba was a Pacific Mail Steamship Company vessel that wrecked on Point Bennett at San Miguel Island in September 1923, and her scattered iron hull sections now rest on a reef swept by the strong currents that make San Miguel notorious among Channel Islands divers. The site sits in around 20 meters and is notable for the wildlife corridor it occupies — San Miguel's Point Bennett hosts the largest pinniped colony in the world, and Steller sea lions and elephant seals regularly interact with divers on the wreck. The exposed northwest position of San Miguel means this dive is only accessible in calm weather windows, which can be rare.
 
 ## Site Information
 

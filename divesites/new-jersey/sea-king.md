@@ -17,7 +17,7 @@ Sea King is a historic wreck dive in New Jersey Shore, North America.
 
 ## Overview
 
-Sea King is a dive site in New Jersey Shore featuring the wreck of the Sea King . Wreck is now buried in beach dunes at Barnegat Light; no longer a submerged dive site. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Sea King was an early 20th-century vessel that wrecked off Barnegat Light and has gradually been swallowed by shifting beach sand over the decades, with the wreck now embedded in the dunes at the north end of Long Beach Island rather than lying as a submerged site. At very low tides and after significant storms, sections of the iron hull occasionally expose themselves at the waterline, making this more of a historical beachcombing site than a typical dive. The area's shallow nearshore zone does attract blackfish and fluke seasonally, but the Sea King is best understood as a piece of New Jersey maritime history rather than an active dive destination.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Sea King is a dive site in New Jersey Shore featuring the wreck of the Sea King 
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The shallow nearshore zone around the Sea King's remains attracts tautog (blackfish) and black sea bass that shelter around the exposed iron hull sections during warmer months. Fluke (summer flounder) cruise the sandy bottom adjacent to the wreck structure, and cunner and bergall are commonly seen picking through the encrusted metal. Starfish and mussels colonize whatever ironwork remains exposed above the sand.
 
 ## Dive Profile
 

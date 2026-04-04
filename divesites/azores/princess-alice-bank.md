@@ -17,7 +17,7 @@ princess alice bank is a pinnacle dive site in Azores, Europe.
 
 ## Overview
 
-princess alice bank is a dive site in Azores offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Princess Alice Bank is a deep-ocean seamount rising from over 2,500 metres to within 29 metres of the surface, reached by a 2.5 to 3 hour boat ride from Pico Island. The site is world-renowned for its summer aggregations of giant mobula rays (Mobula tarapacana), which gather in groups of up to 50 animals and often approach divers closely. Galapagos sharks, manta rays, barracuda, bonito, and tuna patrol the nutrient-rich blue water, with visibility regularly exceeding 30 metres between July and October.
 
 ## Site Information
 

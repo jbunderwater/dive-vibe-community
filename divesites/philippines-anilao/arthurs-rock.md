@@ -17,7 +17,7 @@ Arthur's Rock is a reef dive site in Philippines Anilao, Asia.
 
 ## Overview
 
-Arthur's Rock is a dive site in Philippines Anilao offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Arthur's Rock is a marine sanctuary in Bagalangit, Mabini, with a gently sloping reef from the shallows down to 21 meters where rocky outcroppings covered in soft corals and sponges shelter an impressive variety of Anilao's signature macro life. Blue-ringed octopus, frogfish, Ambon scorpionfish, pygmy seahorses, hairy squat lobsters, and harlequin shrimp have all been found here, and the adjacent Dead Palm muck area extends the critter hunting along the sand flats.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Arthur's Rock is a dive site in Philippines Anilao offering excellent diving on 
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Arthur's Rock is one of Anilao's premier macro sanctuaries, famous for blue-ringed octopus, multiple frogfish species, and Ambon scorpionfish tucked among the soft coral-covered outcrops. Pygmy seahorses cling to gorgonians at mid-depth, harlequin shrimp and hairy squat lobsters work the rubble patches, and an impressive diversity of nudibranchs is scattered across the reef slope down to 21 meters. The adjacent sand flats extending toward the Dead Palm muck area yield ghost pipefish and additional critters for divers willing to wander.
 
 ## Dive Profile
 

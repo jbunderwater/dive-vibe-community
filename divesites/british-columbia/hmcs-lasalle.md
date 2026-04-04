@@ -17,7 +17,7 @@ HMCS Lasalle is a historic wreck dive in British Columbia, North America.
 
 ## Overview
 
-HMCS Lasalle is a dive site in British Columbia featuring the wreck of the HMCS Lasalle. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+HMCS Lasalle was a River-class frigate that served with the Royal Canadian Navy during World War Two on convoy escort duties in the North Atlantic, and was later grounded as a breakwater at Kelsey Bay on northern Vancouver Island in the late 1940s. The wreck lies in Discovery Passage, one of BC's most productive cold-water diving environments, where strong tidal flows through the narrow channel support rich marine life. The steel hull has settled into the bottom and is now colonized by anemones, sponges, and rockfish, with the bow section reported as the most intact part of the structure.
 
 ## Site Information
 

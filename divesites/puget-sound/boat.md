@@ -17,7 +17,7 @@ Boat is a historic wreck dive in Puget Sound, North America.
 
 ## Overview
 
-Boat is a dive site in Puget Sound featuring the wreck of the Boat. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+This submerged boat wreck in Puget Sound sits at a shallow 12 meters, making it one of the more accessible wreck dives in the region and a good introduction to cold-water wreck diving in the Pacific Northwest. The structure has become a focal point for lingcod, rockfish, and cabezon that shelter around and under the hull, and the confined depth allows extended bottom time to explore the encrusted surfaces at a comfortable pace. Puget Sound's notoriously variable visibility — anywhere from 3 to 15 meters — means conditions can vary significantly between dives, and a drysuit is necessary for comfort in water temperatures that rarely exceed 12°C.
 
 ## Site Information
 

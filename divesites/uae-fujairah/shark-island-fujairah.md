@@ -17,7 +17,7 @@ Shark Island Fujairah is a reef dive site in UAE - Fujairah, Middle East.
 
 ## Overview
 
-Shark Island Fujairah is a dive site in UAE - Fujairah offering excellent diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Shark Island — officially Sira Khorfakkan — is a small rocky outcrop a five-minute boat ride from Khor Fakkan's corniche, where two contrasting underwater environments unfold: an extensive coral garden with 200 metres of vibrant hard corals on the bay side, and a dramatic granite boulder wall spanning 250 metres on the exposed face. The island lives up to its name with blacktip reef sharks typically patrolling the eastern side from November to April, joined by honeycomb moray eels, majestic sea turtles, shoals of mackerel and fusiliers, trevally, and barracuda. A sandy basin at 12 metres south of the island leads into a garden of colourful anemone and coral that makes for excellent wide-angle photography.
 
 ## Site Information
 

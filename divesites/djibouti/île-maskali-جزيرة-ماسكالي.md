@@ -17,7 +17,7 @@ addedBy: osm_import
 
 ## Overview
 
-Île Maskali جزيرة ماسكالي is a dive site in Djibouti offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Maskali Island sits within Djibouti's first marine protected area in the Gulf of Tadjoura, where nutrient-dense currents foster robust coral growth and exceptional biodiversity. Divers navigate coral arches and gardens teeming with surgeonfish, angelfish, parrotfish, napoleon wrasse, and barracuda, with seasonal whale shark encounters in the surrounding waters from October to February. The island's shallow reefs are largely untouched, offering some of the richest coral and fish diversity in the western Indian Ocean.
 
 ## Site Information
 

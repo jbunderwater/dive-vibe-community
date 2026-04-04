@@ -17,7 +17,7 @@ The jib wall: shallow 270 HD deep 220 over 100' is a wall dive site in British C
 
 ## Overview
 
-The jib wall: shallow 270 HD deep 220 over 100' is a dive site in British Columbia featuring a dramatic vertical wall that drops into the deep blue. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Jib Wall is a wall dive at Madrona Point in Nanoose Bay, with compass bearings in the name (270 heading for the shallow section, 220 for the deep section over 100 feet) reflecting the local divers' practice of navigating between wall sections using compass bearings from the entry point. Nanoose Bay on central Vancouver Island benefits from the cleaner, clearer waters of the central Strait of Georgia, and the Jib Wall's varied topography supports typical Pacific Northwest species including wolf eels in the crevices, lingcod on the flat rock ledges, and giant Pacific octopus under overhangs. The site is best accessed by boat to be dropped directly onto the wall and begin exploring without a long surface swim.
 
 ## Site Information
 

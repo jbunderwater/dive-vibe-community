@@ -17,7 +17,7 @@ Whale Shark Point is a reef dive site in Djibouti, Africa.
 
 ## Overview
 
-Whale Shark Point is a dive site in Djibouti offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Whale Shark Point sits in the Gulf of Tadjoura, where the convergence of the Red Sea and the Gulf of Aden drives massive plankton blooms that attract whale sharks in numbers from October through February — Djibouti offers one of the most consistent and accessible whale shark aggregations anywhere in the world. The sharks typically feed near the surface in the first five metres of water, making them accessible to snorkellers as well as divers, with individuals regularly measured up to 8 metres. The Gulf of Tadjoura also hosts exceptional reef diving at nearby Tombant Point, with coral gardens, walls, and a WWII-era wreck rounding out the area's diving credentials.
 
 ## Site Information
 

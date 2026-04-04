@@ -17,7 +17,7 @@ Deep Slope is a reef dive site in Philippines Malapascua, Asia.
 
 ## Overview
 
-Deep Slope is a dive site in Philippines Malapascua offering excellent diving on healthy coral reef structures . Dive Site. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Deep Slope is a gently inclined coral reef running along the northern flank of Malapascua island, where hard and soft corals carpet the rubble slope from the surface down to about 25 meters. The site is one of several around the island where thresher sharks occasionally pass through in the early morning on their way up from deeper water, though sightings here are less predictable than at Monad Shoal. Nudibranchs, flatworms, and small crustaceans are scattered throughout the coral rubble, rewarding patient divers who slow down and look closely.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Deep Slope is a dive site in Philippines Malapascua offering excellent diving on
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Deep Slope rewards slow, attentive divers with a steady stream of nudibranchs, flatworms, and small crustaceans distributed through the coral rubble along the 25-meter slope. Thresher sharks occasionally pass through in the early morning, drawn from deeper water — sightings are less predictable than at Monad Shoal but do occur. Reef fish are diverse throughout, with schools of anthias over the soft corals and the occasional sea turtle resting on the larger coral heads.
 
 ## Dive Profile
 

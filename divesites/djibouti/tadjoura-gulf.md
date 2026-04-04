@@ -17,7 +17,7 @@ Tadjoura Gulf is a reef dive site in Djibouti, Africa.
 
 ## Overview
 
-Tadjoura Gulf is a dive site in Djibouti offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+The Gulf of Tadjoura is Djibouti's premier diving area, famous worldwide as a nursery for juvenile whale sharks that aggregate here from October to February, feeding on dense patches of plankton in waters reaching 30 meters visibility. Dive sites include spectacular coral gardens, plummeting walls with caverns and overhangs, and fast-paced drift dives along the volcanic coastline. Strong currents flowing through the gulf attract manta rays, reef sharks, and giant trevally, while the warm 26-30 degree waters support vibrant hard and soft coral growth.
 
 ## Site Information
 

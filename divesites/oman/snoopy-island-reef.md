@@ -17,7 +17,7 @@ Snoopy Island Reef is a reef dive site in Oman, Middle East.
 
 ## Overview
 
-Snoopy Island Reef is a dive site in Oman offering rewarding diving on healthy coral reef structures . Located in UAE (Fujairah), not Oman. Coordinate error in OSM data.. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Snoopy Island Reef surrounds a small rocky outcrop off Al Aqah beach in Fujairah, named for its resemblance to the cartoon beagle lying on his back. The site sits within a protected marine area where fishing is prohibited, allowing marine life to thrive in staggering abundance across shallow coral gardens, deeper rocky slopes, and sandy flats. Green and hawksbill turtles are resident, moray eels and cuttlefish occupy the rocky crevices, and blacktip reef sharks occasionally patrol the deeper sections around the island.
 
 ## Site Information
 

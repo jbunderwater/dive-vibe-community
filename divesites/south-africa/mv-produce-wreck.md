@@ -17,7 +17,7 @@ MV Produce Wreck is a historic wreck dive in South Africa, Africa.
 
 ## Overview
 
-MV Produce Wreck is a dive site in South Africa featuring a historic wreck. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+The MV Produce was a 119-metre Norwegian bulk carrier carrying molasses when she struck the northern Pinnacles of Aliwal Shoal in rough seas on 11 August 1974, breaking into three sections that now lie on their starboard side between 30 and 32 metres. Jacques Cousteau rated Aliwal Shoal among his top ten dive sites in the world, and the Produce is its crown jewel — a vast structure that rewards repeated dives, with endemic harlequin goldies schooling through the wreckage, giant brindle bass in residence, and visiting manta rays and hammerhead sharks. Both the bow and stern sections can be penetrated by qualified wreck divers, and strong currents at this advanced site regularly sweep in pelagics.
 
 ## Site Information
 

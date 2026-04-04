@@ -17,7 +17,7 @@ Skalahein Reef is a reef dive site in Aruba, Caribbean.
 
 ## Overview
 
-Skalahein Reef is a dive site in Aruba offering rewarding diving on healthy coral reef structures . Drift dive with drop-off from 5-40m, hard corals, abundant barracuda, good for photography. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Skalahein Reef is a drift dive on Aruba's southern coast, featuring a long sloping reef rich in hard corals, soft corals, and deep-water gorgonians that drops from 5 meters down to 40 meters or more. The site is well known for large schools of barracuda, jacks, and snapper, and the gentle current makes for relaxed, extended multi-level drift profiles. Deeper sections below 30 meters reveal groves of black coral, while the shallows host filefish, bluehead wrasses, and butterflyfish in excellent visibility typically exceeding 20 meters.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Skalahein Reef is a dive site in Aruba offering rewarding diving on healthy cora
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Large schools of barracuda, jacks, and snapper are a constant presence on this current-fed southern coast drift dive, with the gentle flow making extended encounters easy. Filefish, bluehead wrasses, and butterflyfish populate the shallower coral sections, while deeper areas below 23 metres reveal groves of black coral and gorgonians in the excellent visibility typical of Aruba's southern reefs.
 
 ## Dive Profile
 

@@ -17,7 +17,7 @@ San Sebastian is a pinnacle dive site in Mozambique, Africa.
 
 ## Overview
 
-San Sebastian is a dive site in Mozambique offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+San Sebastian is a pinnacle site off the Tofo peninsula named for the cape it lies near, where a submerged reef structure descends to around 22 meters and acts as a gathering point for both resident and pelagic species. Oceanic manta rays and whale sharks are regular visitors during the October-to-March season, drawn by the plankton-rich upwellings that characterise this stretch of the Mozambique Channel. The pinnacle itself is covered in hard corals and sea fans with moray eels, lionfish, and nudibranch species in the crevices along the lower slopes.
 
 ## Site Information
 

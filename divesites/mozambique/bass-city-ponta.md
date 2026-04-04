@@ -17,7 +17,7 @@ Bass City Ponta is a reef dive site in Mozambique, Africa.
 
 ## Overview
 
-Bass City Ponta is a dive site in Mozambique offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Bass City earns its name from the extraordinary concentrations of potato bass (giant grouper) that congregate on this reef at Ponta do Ouro, where large specimens regularly exceed one metre in length and show little fear of divers. The site's rocky reef structure descends to around 22 meters over a mix of coral-encrusted boulders and sandy gullies that potato bass share with resident moray eels, hawksbill turtles, and clouds of reef fish. Ragged-tooth sharks also frequent the area during winter months, adding to Bass City's reputation as one of the most reliably action-packed dives on the Mozambique coast.
 
 ## Site Information
 

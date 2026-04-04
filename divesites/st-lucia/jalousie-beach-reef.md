@@ -17,7 +17,7 @@ Jalousie Beach Reef is a reef dive site in St. Lucia, Caribbean.
 
 ## Overview
 
-Jalousie Beach Reef is a dive site in St. Lucia offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Jalousie Beach Reef is the house reef for the Sugar Beach resort, situated in the dramatic bay between Gros and Petit Piton — a UNESCO World Heritage Site — and essentially continues the volcanic wall diving character of the Piton coastline in shallow, accessible form. The reef slope holds a variety of corals, sponges, and sea fans at depths to about 15 metres, with seahorses occasionally sighted among the sea fans and a good diversity of reef fish including trumpetfish, parrotfish, sergeant majors, and squid in the water column. The volcanic backdrop and the iconic Piton silhouette above the surface make this one of the most visually striking shore dives in the Caribbean.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Jalousie Beach Reef is a dive site in St. Lucia offering excellent diving on hea
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Seahorses are occasionally found clinging to sea fans along the shallow reef slope, and trumpetfish, parrotfish, and sergeant majors are constant companions throughout the dive. Hawksbill turtles visit the reef regularly, and squid patrol the water column above the coral in the calm, sheltered conditions typical of the Piton bay setting.
 
 ## Dive Profile
 

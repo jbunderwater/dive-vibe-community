@@ -17,7 +17,7 @@ Uçak Batığı is a historic wreck dive in Greece, Europe.
 
 ## Overview
 
-Uçak Batığı is a dive site in Greece featuring the wreck of the Uçak Batığı. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Uçak Batığı — Turkish for "airplane wreck" — is an advanced-depth wreck site in Greek Aegean waters, reaching 72 metres and placing it in technical diving territory accessible only to divers with appropriate training and gas management skills. Greece's Aegean and Ionian waters contain numerous WWII-era aircraft and vessel wrecks opened to divers by the Greek Ministry of Culture and Sport, and deeper sites like this one challenge advanced divers with the dramatic light, cool temperatures, and compressed bottom times of Aegean deep diving. The wreck structure provides substrate for Mediterranean species including conger eels, groupers, moray eels, lobsters, and sea bream that inhabit the encrusted sections within recreational and technical depth ranges.
 
 ## Site Information
 

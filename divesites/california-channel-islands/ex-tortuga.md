@@ -17,7 +17,7 @@ Ex-Tortuga is a historic wreck dive in California Channel Islands, North America
 
 ## Overview
 
-Ex-Tortuga is a dive site in California Channel Islands featuring the wreck of the Ex-Tortuga. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Ex-Tortuga is a deliberately sunk vessel resting off Santa Cruz Island, the largest of the Channel Islands, positioned to create an artificial reef in around 20 meters of water. The intact hull has attracted a dense community of Channel Islands marine life — lingcod and cabezon claim the shadowed interior, garibaldi patrol the upper decks, and sheephead cruise the perimeter in their distinctive pink-and-black livery. Giant kelp has established itself on the superstructure, and on clear days the canopy above the wreck creates a sunlit cathedral effect that makes this one of the most visually striking dives in the islands.
 
 ## Site Information
 

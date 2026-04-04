@@ -17,7 +17,7 @@ Jane L. Stanford is a historic wreck dive in California Channel Islands, North A
 
 ## Overview
 
-Jane L. Stanford is a dive site in California Channel Islands featuring the wreck of the Jane L. Stanford. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Jane L. Stanford is a four-masted steel-hulled sailing ship that ran aground on the rocks off Santa Rosa Island in 1929, and her debris field now lies scattered across a shallow rocky reef in just 5 meters of water, accessible in calm conditions. The wreck is highly broken up after nearly a century of Pacific swell, but her iron frames and fastenings are encrusted with cold-water invertebrates and colonised by the garibaldi, perch, and sheephead that are ubiquitous in Channel Islands kelp habitats. The exposure of the Santa Rosa coastline means conditions must be carefully assessed before attempting this dive, as surge can make the shallow reef uncomfortable.
 
 ## Site Information
 

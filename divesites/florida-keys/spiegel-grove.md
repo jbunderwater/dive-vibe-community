@@ -17,7 +17,7 @@ Spiegel Grove is a historic wreck dive in Florida Keys, North America.
 
 ## Overview
 
-Spiegel Grove is a renowned dive site in Florida Keys featuring the wreck of the Spiegel Grove. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The USS Spiegel Grove is a 510-foot Navy landing ship lying in the Florida Keys National Marine Sanctuary off Key Largo, scuttled in 2002 and now ranked among the premier wreck dives in the United States. Hurricane Dennis in 2005 rolled the ship upright from its original listing position, and it now rests with the main deck at 70–90 feet and the bow in roughly 95 feet of water, with the mast reaching up to 60 feet. Every surface is encrusted in sponges and soft corals, Goliath groupers colonise the holds, and divers can reach into a series of purpose-cut swim-throughs without full penetration — though the sheer size means a hundred dives still won't reveal everything.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Spiegel Grove is a renowned dive site in Florida Keys featuring the wreck of the
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Spiegel Grove hosts one of the densest concentrations of goliath grouper in the Florida Keys, particularly in the bow section and vehicle deck. Large schools of barracuda, yellowtail snapper, and horse-eye jacks swirl around the superstructure, while hogfish and spiny lobster inhabit the lower decks. Spotted eagle rays and southern stingrays cruise the sandy bottom around the hull, and hawksbill turtles are a reliable sighting throughout the year.
 
 ## Dive Profile
 
@@ -53,7 +53,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of surge, boat traffic, and variable visibility in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 

@@ -17,7 +17,7 @@ Scoglio del Medico is a cave dive site in Ustica, Europe.
 
 ## Overview
 
-Scoglio del Medico is a dive site in Ustica featuring underwater cave and cavern formations. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Scoglio del Medico, known as Doctor's Rock, is the most celebrated dive site in Ustica and one of the finest in the entire Mediterranean, rising from the open sea on the island's northwestern shore within Italy's first Marine Protected Area. Below the surface, a complex network of caves, arches, and canyons opens up, including the Grotta della Balena whose whale-mouth entrance at 18 metres leads into chambers decorated with colourful sponges, false corals, and a resident dusky grouper. Marine life around the rock is exceptional: barracuda, amberjack, sea bream, lobsters, and nudibranchs all thrive in the decades of MPA protection.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Dry Tortugas National Park is a reef dive site in Dry Tortugas, North America.
 
 ## Overview
 
-Dry Tortugas National Park is a dive site in Dry Tortugas offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Dry Tortugas National Park encompasses some of the most pristine coral reefs in North America, surrounding the massive Civil War-era Fort Jefferson on Garden Key. The moat wall of the fort has developed its own marine habitat where reef squid, nurse sharks, hogfish, and occasionally the endangered American crocodile are spotted. Nearby reefs feature some of the largest, best-preserved coral heads in the Florida Keys, with colorful parrotfish, angelfish, triggerfish, and barracuda, while the historic Windjammer wreck in 20 feet of water offers an accessible wreck dive encrusted in living coral.
 
 ## Site Information
 

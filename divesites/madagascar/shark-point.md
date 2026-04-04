@@ -17,7 +17,7 @@ Shark Point is a wall dive site in Madagascar, Africa.
 
 ## Overview
 
-Shark Point is a dive site in Madagascar featuring a dramatic vertical wall that drops into the deep blue. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Shark Point is one of Nosy Be's signature drop-off dives, with the wall starting at 18–22 metres and drawing in grey reef sharks, white-tip reef sharks, and the occasional hammerhead alongside schools of bench snapper and trevally. The site is best dived on a rising tide when visibility improves and the sharks are most active, and it is accessible to Level 1 certified divers under those conditions.
 
 ## Site Information
 

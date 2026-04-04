@@ -17,7 +17,7 @@ USS Alligator Shipwreck is a historic wreck dive in Florida Keys, North America.
 
 ## Overview
 
-USS Alligator Shipwreck is a dive site in Florida Keys featuring a historic wreck. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The USS Alligator was a US Navy anti-piracy schooner commissioned in 1821 that ran aground on a Florida Keys reef in November 1822 during a convoy escort mission after chasing Caribbean pirates, and was subsequently set ablaze and destroyed with gunpowder to prevent looting — her grounding named the reef. What remains in very shallow water off Islamorada consists primarily of encrusted ballast stone piles and lower hull fragments, visible to snorkellers and divers year-round on a living coral reef home to over 630 reef fish species. The identity of the wreck remains partially unresolved: a 1996 expedition suggested the site is likely a different 19th-century vessel, and NOAA continues archaeological survey work to locate the Alligator's actual remains.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ USS Alligator Shipwreck is a dive site in Florida Keys featuring a historic wrec
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The shallow reef surrounding the wreck remnants hosts an abundance of Florida Keys tropical species, including yellowtail snapper, parrotfish, blue tangs, sergeant majors, and queen and French angelfish. Nurse sharks rest in the shaded crevices beneath ballast stones, while green moray eels occupy the more intact hull fragments. Green sea turtles and hawksbill turtles are frequently seen grazing on the sponge-encrusted rubble, making this site rewarding even at snorkeling depth.
 
 ## Dive Profile
 
@@ -53,7 +53,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of surge, boat traffic, and variable visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 

@@ -17,7 +17,7 @@ China Wreck (direction 150deg) is a historic wreck dive in Oman, Middle East.
 
 ## Overview
 
-China Wreck (direction 150deg) is a dive site in Oman featuring the wreck of the China Wreck (direction 150deg). Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The China Wreck is an unidentified 150-year-old steam-powered vessel lying at 5 to 8 metres depth near Mirbat in Oman's Dhofar region, whose shallow depth and shore access make it one of the most beginner-friendly wreck dives in the Arabian Peninsula. The hull has disintegrated into a scatter of old anchor, battered boilers, and metal fragments that are densely colonised by Christmas-tree worms, octopuses, and a resident turtle that divers regularly encounter swimming around the wreck. The direction heading of 150 degrees is used to navigate to the site from shore, which is operated out of Salalah by ABT Divers and is available from October through May before the khareef monsoon closes the coast.
 
 ## Site Information
 

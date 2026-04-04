@@ -17,7 +17,7 @@ Aksona is a wall dive site in Turkey, Europe.
 
 ## Overview
 
-Aksona is a dive site in Turkey featuring a dramatic vertical wall that drops into the deep blue . Aksona Bay near Bodrum, dramatic wall dive starting at 3m with steep drop-offs to 30-35m and deeper, challenging conditions with variable current. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Aksona Bay, named for the legendary Bodrum sponge hunter Aksona Mehmet who first explored its depths, sits about 50 minutes by boat beyond Black Island and rewards the journey with a wall dive that begins at just 3 meters and drops dramatically to 30-35 meters. The site is famous for its archaeological character — a Phoenician ship's anchor lies at 13.5 meters atop a flat rock, and fragments of ancient pottery are scattered across the sandy seabed below, alongside thornback rays, groupers, barracuda, and moray eels on the reef. The area is generally windy and choppy at the surface, but underwater the wall is blanketed in colorful sponges and corals with visibility typically reaching 20-30 meters in the clear Aegean.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Whittle Rock is a reef dive site in Cape Town, Africa.
 
 ## Overview
 
-Whittle Rock is a dive site in Cape Town offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Whittle Rock is a deep reef pinnacle off Cape Point rising from around 40 meters in the cold, nutrient-rich Atlantic, festooned with brilliant red and orange sea fans, sponges, and sea anemones that thrive in the upwelled Benguela Current water. Bronze whalers and ragged-tooth sharks patrol the deeper sections while cape fur seals use the site as a hunting ground, providing dynamic encounters for advanced divers. Visibility can exceed 10 meters on calm days, revealing the dramatic topography of the rock and the dense kelp fringe at its shallower margins.
 
 ## Site Information
 

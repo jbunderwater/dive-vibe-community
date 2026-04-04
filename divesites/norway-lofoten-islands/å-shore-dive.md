@@ -17,7 +17,7 @@ addedBy: osm_import
 
 ## Overview
 
-Å Shore Dive is a dive site in Norway Lofoten Islands offering excellent diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Å is the last village at the southern tip of the Lofoten road and the jumping-off point for dives in the outermost archipelago, where exposure to the Norwegian Sea brings exceptional water clarity and rich cold-water marine life. The shore entry leads along rocky slopes dense with kelp, anemones, and soft corals, with wolffish, codfish, and edible crab common at depth. Being at the literal end of the road gives this site a remote character, and the surrounding mountains rising directly from the sea create an extraordinary above-water backdrop for what is a genuinely wild Arctic diving experience.
 
 ## Site Information
 

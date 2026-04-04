@@ -17,7 +17,7 @@ Justin's Caves is a cave dive site in Cape Town, Africa.
 
 ## Overview
 
-Justin's Caves is a dive site in Cape Town featuring underwater cave and cavern formations. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Justin's Caves is a dramatic cluster of massive granite corestone boulders off Oudekraal on Cape Town's Atlantic seaboard, riddled with swim-throughs, narrow gaps, overhangs, and a prize cavern decorated with pink and purple Noble corals — one of the most visually striking sites on the peninsula. The centre of the site is only about 5 metres deep, but the seaward edge drops to 17 metres, and on good summer visibility days after a southeast wind the Atlantic here can clear to over 20 metres with water temperatures dropping below 10°C. Large cape rock lobster, nudibranchs, schools of fish, and harmless bottom-dwelling sharks inhabit the reef, and a large iron anchor thought to be from the 1698 VOC wreck Het Huis te Kraaienstein lies on the outcrops to the north of the caves.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Rhone is a historic wreck dive in US Virgin Islands, Caribbean.
 
 ## Overview
 
-Rhone is a dive site in US Virgin Islands featuring the wreck of the Rhone. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The RMS Rhone is the most famous wreck in the British Virgin Islands and one of the iconic wreck dives in all of the Caribbean — a Royal Mail Ship that sank in the hurricane of October 1867, splitting into two sections off Salt Island with her bow in 26 meters and her stern in just 6 meters. The wreck is so well-preserved that the propeller, mast fittings, porthole glass, and crow's nest are still recognizable, and the iron hull has grown a spectacular garden of black coral, orange cup corals, and sponges that inspired the filming of The Deep (1977). Visibility in the clear BVI water is consistently excellent, and the site's combination of shallow and deep sections means divers of nearly all levels can experience part of the Rhone.
 
 ## Site Information
 

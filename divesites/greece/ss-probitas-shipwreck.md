@@ -17,7 +17,7 @@ SS Probitas Shipwreck is a historic wreck dive in Greece, Europe.
 
 ## Overview
 
-SS Probitas Shipwreck is a dive site in Greece featuring a historic wreck which sank in 1943. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The SS Probitas is an Italian WWII cargo vessel sunk in 1943 during an air raid, lying at a depth of 3 to 22 metres just 50 metres from shore near the southern Ionian coast, making it one of the most accessible WWII wrecks in the wider Greece region. The wreck has evolved into a productive artificial reef with excellent visibility and a diverse population of conger eels, groupers, moray eels, octopus, sea bream, and amberjack colonising the encrusted hull. The shallow upper sections can be snorkelled or freedived, while the deeper parts of the hull reward scuba divers with atmospheric penetration opportunities through the preserved structure.
 
 ## Site Information
 

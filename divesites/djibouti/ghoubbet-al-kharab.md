@@ -17,7 +17,7 @@ Ghoubbet Al-Kharab is a wall dive site in Djibouti, Africa.
 
 ## Overview
 
-Ghoubbet Al-Kharab is a dive site in Djibouti featuring a dramatic vertical wall that drops into the deep blue. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Ghoubbet Al-Kharab — Arabic for "Gulf of the Demons" — is a deep volcanic bay connected to the Gulf of Tadjoura by a narrow, current-charged channel, sitting directly on the junction of the African and Arabian tectonic plates. The highlight dive is the Djibouti Crack, a shallow (8 metre) submerged tectonic fissure lined in corals that divers can swim through, while the underwater hot springs and volcanic geological formations give the bay an otherworldly atmosphere. The powerful tidal exchange funnelling through Ghoubet al Kharab makes it a critical nursery for juvenile whale sharks, with so many young sharks recorded here that scientists believe it may be one of their most important breeding grounds globally.
 
 ## Site Information
 

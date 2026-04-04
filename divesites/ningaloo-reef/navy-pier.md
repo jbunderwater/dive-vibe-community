@@ -17,7 +17,7 @@ Navy Pier is a reef dive site in Ningaloo Reef, Oceania.
 
 ## Overview
 
-Navy Pier is a dive site in Ningaloo Reef offering rewarding diving on healthy coral reef structures. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Navy Pier is rated among the top 10 shore dives in the world, located at a fully operational military facility just 14 kilometres from Exmouth. Closed to public fishing for over 50 years, the 300-metre pier has accumulated an extraordinary density of marine life in shallow water to 12 metres, including grey nurse sharks, wobbegongs, a resident 2-metre Queensland grouper, schooling barracuda, lionfish, and sea turtles. Visibility is typically low at 3-10 metres, but the sheer abundance of over 200 fish species more than compensates.
 
 ## Site Information
 

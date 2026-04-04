@@ -17,7 +17,7 @@ Windjammer Wreck is a historic wreck dive in Dry Tortugas, North America.
 
 ## Overview
 
-Windjammer Wreck is a dive site in Dry Tortugas featuring the wreck of the Windjammer Wreck. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Windjammer Wreck is the remains of the iron-hulled, three-masted sailing ship Avanti, built in 1875 and lost on January 22, 1907, after battling a Gulf hurricane — all 19 crew survived. The 261-foot hull rests in just 6–7 metres of water roughly 1,100 yards southwest of Loggerhead Key, its iron skeleton standing upright and well-preserved due to iron's corrosion resistance, with the wreck now colonised by stony and gorgonian corals and populated by goliath grouper, barracuda, snapper, and spiny lobster.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Windjammer Wreck is a dive site in Dry Tortugas featuring the wreck of the Windj
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Goliath grouper are the signature species of the Windjammer, with several large individuals resident among the iron ribs and keel of the Avanti — an unforgettable encounter given the shallow, clear water. Yellowtail snapper and mutton snapper school around the gorgonian-encrusted hull framework, and spiny lobster are plentiful in the structure's recesses. Nurse sharks rest on the sandy bottom alongside the wreck, and green sea turtles are regularly sighted grazing on the surrounding reef.
 
 ## Dive Profile
 
@@ -53,7 +53,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of surge, surface boat traffic, and variable visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 

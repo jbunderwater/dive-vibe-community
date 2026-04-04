@@ -17,7 +17,7 @@ Cow and Calf is a reef dive site in US Virgin Islands, Caribbean.
 
 ## Overview
 
-Cow and Calf is a dive site in US Virgin Islands offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Cow and Calf is a pair of shallow pinnacle reefs off St. Thomas's south coast, where the "Cow" — the larger formation — tops out at about 6 meters while the "Calf" rises to just under the surface, creating an unusual diving environment with two distinct reef structures to explore in a single dive. The coral-covered pinnacles attract large concentrations of reef fish including blue chromis clouds, barracuda circling overhead, and dense schools of creole wrasse, while the sandy channels between the formations provide resting spots for southern stingrays. The site's shallow profile and minimal current make it accessible to all certification levels.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Cow and Calf is a dive site in US Virgin Islands offering excellent diving on he
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Dense schools of blue chromis and creole wrasse cloud the coral-covered pinnacles, with barracuda circling overhead and southern stingrays resting in the sandy channels between the two formations. Queen angelfish, parrotfish, and blue tangs are reef regulars at both structures, and the shallow, low-current environment makes it easy to spend extended time observing the abundant fish community.
 
 ## Dive Profile
 

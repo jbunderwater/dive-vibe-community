@@ -17,7 +17,7 @@ Silfra is a wall dive site in Silfra Fissure, Europe.
 
 ## Overview
 
-Silfra is a renowned dive site in Silfra Fissure featuring a dramatic vertical wall that drops into the deep blue. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Silfra is a tectonic fissure in Þingvellir National Park where the North American and Eurasian plates diverge by about 2 cm per year — the only place on Earth where you can dive directly between two continental plates. The water is glacial meltwater from Langjökull glacier, filtered through porous volcanic rock for 30 to 100 years before surfacing, giving visibility that regularly exceeds 100 metres and a constant temperature of 2–4°C year-round. The dive passes through four distinct sections — Big Crack, Hall, Cathedral, and Lagoon — with the entire passage rated among PADI's top ten dive sites in the world; a dry suit and certification are mandatory.
 
 ## Site Information
 

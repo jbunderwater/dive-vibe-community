@@ -17,7 +17,7 @@ Manta Reef Tofo is a pinnacle dive site in Mozambique, Africa.
 
 ## Overview
 
-Manta Reef Tofo is a dive site in Mozambique offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Manta Reef is one of Tofo's signature dive sites, a submerged pinnacle rising from around 26 meters where oceanic manta rays use the structure as a regular cleaning station, gliding in from the open water to be attended by cleaner wrasse. Whale sharks are frequently encountered in the water column above the reef, particularly between October and March, and humpback whales pass through the area on their annual migration. The combination of pelagic megafauna and a healthy hard coral pinnacle covered in sea fans and cloud-like anthias schools makes this one of the most celebrated dive sites in Mozambique.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Southwind Wreck is a historic wreck dive in Turks and Caicos, Caribbean.
 
 ## Overview
 
-Southwind Wreck is a dive site in Turks and Caicos featuring the wreck of the Southwind Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Southwind is a freighter that was found abandoned and deliberately sunk near Providenciales in 1988 as an artificial reef, coming to rest on its keel in about 15 metres. The hull has become heavily colonised over the decades, with soft corals, sponges, and hydroids encrusting the structure and providing habitat for snappers, groupers, soldierfish, and the small reef fish typical of healthy Turks and Caicos coral systems. The consistently warm, clear Caribbean water and the accessible depth make this a relaxed wreck dive well suited to beginners or divers seeking a contrast to the dramatic deep wall diving the islands are best known for.
 
 ## Site Information
 

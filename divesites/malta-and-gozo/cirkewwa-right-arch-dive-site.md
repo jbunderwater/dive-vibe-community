@@ -17,7 +17,7 @@ Cirkewwa - Right Arch (Dive Site) is a cave dive site in Malta and Gozo, Europe.
 
 ## Overview
 
-Cirkewwa - Right Arch (Dive Site) is a dive site in Malta and Gozo featuring underwater cave and cavern formations. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The Cirkewwa Right Arch — also called the Green Arch — is a natural rock formation at 12 metres created when the roof of a large ancient cave collapsed, leaving a dramatic archway that stands 8 metres above the sandy seabed. The swim from shore takes around 10 minutes along the reef wall at 14 metres, passing small caves where a Madonna statue sits in a rock niche; below the arch itself, a seagrass bowl hosts moray eels, octopus, and stingrays, while skipjacks, amberjacks, and barracuda cruise the open water overhead. Exhaled bubbles rising through cracks in the permeable rock create a shimmering veil on the surface of the arch — one of the more memorable sights on a Malta dive trip.
 
 ## Site Information
 

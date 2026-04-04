@@ -17,7 +17,7 @@ St. Pierre Wrecks is a historic wreck dive in Martinique, Caribbean.
 
 ## Overview
 
-St. Pierre Wrecks is a dive site in Martinique featuring the wreck of the St. Pierre Wrecks. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The bay of Saint-Pierre holds at least eight diveable wrecks, all sunk on 8 May 1902 when the pyroclastic surge from Mount Pelée destroyed the city in under two minutes and capsized every vessel anchored in the harbour. Ships lie at depths ranging from 15 to 60 metres, their hulls now draped in sponges and soft corals and teeming with barracuda, snappers, and trumpetfish — Jacques Cousteau called Saint-Pierre one of the seven wonders of the underwater world. The site requires advanced certification for the deeper wrecks and is considered one of the Caribbean's most historically significant and atmospheric dive destinations.
 
 ## Site Information
 

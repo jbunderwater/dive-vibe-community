@@ -32,7 +32,7 @@ The Lugano is a shallow wreck dive located on Long Reef south of The Mandalay in
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The shallow wreck structure has become a productive artificial reef supporting dense populations of yellowtail snapper, sergeant majors, parrotfish, and French angelfish. Nurse sharks and green moray eels shelter beneath the encrusted hull plates, while spiny lobster tuck into every available crevice. Southern stingrays forage in the sandy patches surrounding the wreck, and green sea turtles are a common sight at this accessible depth.
 
 ## Dive Profile
 
@@ -53,7 +53,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of surge, boat traffic, and variable visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 

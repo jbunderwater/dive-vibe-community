@@ -17,7 +17,7 @@ Mike's Reef is a reef dive site in Aruba, Caribbean.
 
 ## Overview
 
-Mike's Reef is a dive site in Aruba offering excellent diving on healthy coral reef structures . Depths 8-27m, gorgonians and massive corals, excellent for macro photography, barracuda. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Mike's Reef is a structured coral formation off Aruba's western coast running from 8 meters down to about 15 meters, built around large star corals, towering gorgonian sea fans, and brain coral formations that give the site a sense of real underwater architecture. Barracuda consistently hang suspended above the reef top, and the gorgonian forests attract flamingo tongue cowries, spotted drums as juveniles, and large roving parrotfish. With visibility regularly exceeding 20 meters and a sandy channel between reef spurs perfect for photographers, it draws both divers and underwater naturalists.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Mike's Reef is a dive site in Aruba offering excellent diving on healthy coral r
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Barracuda consistently hang suspended above the reef top while flamingo tongue cowries, spotted drums, and large roving parrotfish work the gorgonian forests and star coral formations. Hawksbill turtles visit the deeper sections, and the sandy channel between reef spurs is a productive area for southern stingrays in the clear western-coast conditions.
 
 ## Dive Profile
 

@@ -17,7 +17,7 @@ S.S. Ilex is a historic wreck dive in Newfoundland, North America.
 
 ## Overview
 
-S.S. Ilex is a dive site in Newfoundland featuring the wreck of the S.S. Ilex. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The S.S. Ilex is a very shallow shore-accessible wreck resting in just 5 meters of water near St. John's, making it one of Newfoundland's most beginner-friendly wreck dives despite the cold Atlantic conditions. The vessel sits in the intertidal zone and is easily reached from shore, though surging swells can make entry and exit tricky on exposed days. At such a shallow depth the wreck is bathed in natural light, and the encrusting life — sea urchins, mussels, and various cold-water invertebrates — is visible without a torch on clear days.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ S.S. Ilex is a dive site in Newfoundland featuring the wreck of the S.S. Ilex. L
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The very shallow depth floods the Ilex with enough light to reveal a rich covering of sea urchins, horse mussels, and cold-water anemones across the hull. Cunner dart through the structure, while sea ravens, lumpfish, and shorthorn sculpin rest motionless on the encrusted steel — the wreck's compact size makes thorough exploration of this intertidal ecosystem easy in a single dive.
 
 ## Dive Profile
 

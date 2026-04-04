@@ -17,7 +17,7 @@ Booby Shoals is a reef dive site in St. Kitts and Nevis, Caribbean.
 
 ## Overview
 
-Booby Shoals is a dive site in St. Kitts and Nevis offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Booby Shoals sits squarely in the Narrows channel between St. Kitts and Nevis, where tidal flow pumps nutrients across a circular reef packed with lobster, French grunts, horse-eye jacks, and southern stingrays. Deep ledges on the coral heads shelter large nurse sharks, and when currents run through the channel, larger pelagics and reef sharks are drawn in, making this one of the best sites in the area for an encounter with bigger marine life.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Booby Shoals is a dive site in St. Kitts and Nevis offering excellent diving on 
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The tidal flow through the Narrows channel pumps nutrients across the shoal, fueling dense populations of French grunts, horse-eye jacks, southern stingrays, and Caribbean lobsters. Large nurse sharks shelter under deep coral ledges and Caribbean reef sharks move through when currents run strong, making this one of the best sites in the St. Kitts area for an encounter with bigger marine life in a shallow, accessible setting.
 
 ## Dive Profile
 

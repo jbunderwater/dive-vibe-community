@@ -17,7 +17,7 @@ Capo Caccia Cliffs is a wall dive site in Sardinia, Europe.
 
 ## Overview
 
-Capo Caccia Cliffs is a dive site in Sardinia featuring a dramatic vertical wall that drops into the deep blue . Dramatic vertical walls up to 30m with caves, cracks and rich marine life in protected marine reserve. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The underwater cliffs of Capo Caccia form the outer wall of the Capo Caccia-Isola Piana Marine Protected Area in northwestern Sardinia, dropping vertically to around 30 meters and riddled with caves, cracks, and overhangs carpeted in red coral and encrusting sponges. This is the same headland that harbors the Nereo Cave system, and the exterior walls share its biological richness — barracuda and amberjack patrol in open water while moray eels and large groupers occupy the deeper crevices. The MPA protection since 2002 has allowed fish populations to recover noticeably, and the wall's density of marine life reflects decades of reduced fishing pressure.
 
 ## Site Information
 

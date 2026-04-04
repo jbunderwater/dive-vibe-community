@@ -17,7 +17,7 @@ Cathedral is a cave dive site in Tobago, Caribbean.
 
 ## Overview
 
-Cathedral is a dive site in Tobago featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Cathedral sits on Tobago's northeast coast and is best known for reliable manta ray encounters, typically from November through June at depths of 15–18 metres. The dramatic rocky overhangs and ledges that give the site its name create a cathedral-like atmosphere, drawing divers through a rich combination of reef and gentle drift diving with garden eels, barracuda, turtles, and trumpet fish in the water column above.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Cathedral is a dive site in Tobago featuring underwater cave and cavern formatio
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+Manta rays are the headline species at Cathedral, reliably encountered from November through June at depths of 15–18 metres beneath the dramatic rocky overhangs. Hawksbill turtles, barracuda, garden eels, and trumpetfish are present year-round, and the nutrient-rich northeast coast water that attracts the mantas also draws nurse sharks and larger snappers to the ledges and reef base.
 
 ## Dive Profile
 

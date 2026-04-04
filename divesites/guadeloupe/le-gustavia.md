@@ -17,7 +17,7 @@ Le Gustavia is a historic wreck dive in Guadeloupe, Caribbean.
 
 ## Overview
 
-Le Gustavia is a dive site in Guadeloupe featuring the wreck of the Le Gustavia which sank in 1991. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Gustavia was a 49-metre coastal cargo vessel that traded between Caribbean islands before Hurricane Hugo damaged it beyond repair in 1989, and was deliberately scuttled as an artificial reef in 1991 one mile from Malendure Beach, sitting upright on a sandy bottom at 40 metres. The deep wreck is covered in sponges and soft corals and surrounded by curious barracuda that commonly swirl around ascending divers during the safety stop, while the sandy bottom around the keel hosts garden eels and occasional stingrays. One of three shipwrecks deliberately sunk within the Cousteau Reserve, the Gustavia is the deepest and requires advanced certification, earning its reputation as one of Guadeloupe's most atmospheric dives.
 
 ## Site Information
 

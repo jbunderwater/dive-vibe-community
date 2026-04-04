@@ -17,7 +17,7 @@ MV Vashon is a historic wreck dive in Alaska, North America.
 
 ## Overview
 
-MV Vashon is a dive site in Alaska featuring a historic wreck which sank in 1986-06. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The MV Vashon is a vessel that sank in June 1986 in the southern end of Alaska's Inside Passage near Ketchikan, now resting at around 20 meters depth in waters that consistently support exceptional cold-water marine life. In the four decades since sinking, the hull has become heavily colonized by anemones, sponges, and encrusting organisms, with lingcod and large rockfish occupying the structure and giant Pacific octopus tucked into the darker spaces beneath. The relatively shallow maximum depth and proximity to Ketchikan dive operations makes this one of the more accessible Southeast Alaska wreck dives for experienced cold-water divers.
 
 ## Site Information
 

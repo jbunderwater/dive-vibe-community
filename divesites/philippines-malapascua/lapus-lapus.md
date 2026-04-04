@@ -17,7 +17,7 @@ Lapus-Lapus is a pinnacle dive site in Philippines Malapascua, Asia.
 
 ## Overview
 
-Lapus-Lapus is a dive site in Philippines Malapascua offering excellent diving on healthy coral reef structures . Dive Site. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Lapus-Lapus is a submerged pinnacle rising from the sandy channel between Malapascua and Gato Island, its peak reaching to about 8 meters below the surface. The top of the pinnacle is blanketed with hard corals and acts as a congregation point for schooling fish — fusiliers, jacks, and barracuda orbit the structure while blue-spotted ribbontail rays rest in the sand skirt around the base at 18 meters. Current can be brisk across the exposed pinnacle, which keeps the corals in excellent condition and encourages pelagic visitors to hang in the blue.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Lapus-Lapus is a dive site in Philippines Malapascua offering excellent diving o
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Lapus-Lapus pinnacle acts as a congregation point, with schooling fusiliers, big-eye jacks, and barracuda orbiting the structure and blue-spotted ribbontail rays resting on the surrounding sand at 18 meters. Hawksbill turtles are commonly seen grazing on the hard coral-covered summit, and the current-polished surfaces harbour small nudibranchs and flatworms for macro-minded divers. When current is running across the exposed pinnacle, grey reef sharks occasionally appear in the blue at the edge of visibility.
 
 ## Dive Profile
 

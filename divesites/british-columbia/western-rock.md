@@ -17,7 +17,7 @@ Western Rock is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-Western Rock is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Western Rock is a rocky reef dive site in the Strait of Georgia off the Sunshine Coast near Powell River, a region renowned for over 100 dive sites and considered one of the premier year-round diving destinations on the Pacific coast of North America. The reef supports lingcod, rockfish, giant Pacific octopus, wolf eels, and rich invertebrate communities including boot sponges and cloud sponges that grow on the rocky substrate in these cold, clear waters. Visibility is typically best in fall and winter, and the site is reached by boat from the Powell River area.
 
 ## Site Information
 

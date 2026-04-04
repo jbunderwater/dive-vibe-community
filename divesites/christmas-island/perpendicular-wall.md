@@ -17,7 +17,7 @@ Perpendicular Wall is a wall dive site in Christmas Island, Oceania.
 
 ## Overview
 
-Perpendicular Wall is a dive site in Christmas Island featuring a dramatic vertical wall that drops into the deep blue. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Perpendicular Wall lives up to its name — a near-vertical drop from the surface to beyond 40 meters on Christmas Island's southern coast, with the open Indian Ocean on one side and the island's volcanic rock on the other. The wall is encrusted with large sea fans, black coral, and sponges, and shark encounters here are regular: grey reef sharks, silvertip sharks, and occasional hammerheads appear from the depths on most dives. The wall's exposure to open-ocean swell and current makes this an advanced site, but the quality of the marine life and the sheer grandeur of the drop make it one of Christmas Island's signature dives.
 
 ## Site Information
 

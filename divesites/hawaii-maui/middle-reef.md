@@ -17,7 +17,7 @@ Middle Reef is a reef dive site in Hawaii - Maui, Pacific.
 
 ## Overview
 
-Middle Reef is a dive site in Hawaii - Maui offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Middle Reef is the central dive site inside Molokini Crater, a submerged volcanic caldera 2.5 miles off Maui's southwest coast and a designated Marine Life Conservation District. A large hard-coral mount rises in the center of the crater, sloping from about 10 meters down to 20 meters, surrounded by thousands of pyramid butterflyfish, sergeant majors, trumpetfish, and giant trevally. Visibility inside the protected crater regularly exceeds 40 meters, making this one of Hawaii's most reliably clear dives.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Village Reef is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-Village Reef is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Village Reef is a boat dive site in Barkley Sound, positioned in the heart of one of BC's premier cold-water diving regions on the west coast of Vancouver Island. The reef supports the characteristic fauna of outer Barkley Sound — giant Pacific octopus, wolf eels, multiple rockfish species, lingcod, sea lions, and dense invertebrate communities of anemones, nudibranchs, and sea stars that thrive in the Pacific-influenced, nutrient-rich waters. Divers should plan for cold water requiring a drysuit and should check tidal and swell conditions before departing.
 
 ## Site Information
 

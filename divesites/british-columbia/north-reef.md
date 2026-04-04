@@ -17,7 +17,7 @@ North Reef is a reef dive site in British Columbia, North America.
 
 ## Overview
 
-North Reef is a dive site in British Columbia offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+North Reef is a rocky reef site in the northern Gulf Islands near Sansum Narrows and Saltspring Island, an area well regarded by local divers for its cold, clear water and rich marine life. Sansum Narrows is one of the productive tidal passages of the Gulf Islands where currents deliver a steady supply of plankton to sessile filter feeders like plumose anemones and sponges, and rockfish, lingcod, and giant Pacific octopus make regular appearances along the reef. The site is accessed by boat and is best dived during the slacker phases of the tidal cycle.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Ethel Beach is a reef dive site in Christmas Island, Oceania.
 
 ## Overview
 
-Ethel Beach is a dive site in Christmas Island offering excellent diving on healthy coral reef structures. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Ethel Beach is a sheltered shore dive on Christmas Island's northern coast with a protected fringing reef that makes it one of the calmer and more accessible sites on the island. The reef flat transitions to a coral slope descending to around 20 meters, populated with hawksbill and green turtles, resident whitetip reef sharks, and schools of surgeonfish and snapper working over the hard coral. Christmas Island's annual red crab migration is visible from shore here during October and November, adding a surreal above-water spectacle to a day's diving.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Jane Sea Wreck is a historic wreck dive in Aruba, Caribbean.
 
 ## Overview
 
-Jane Sea Wreck is a dive site in Aruba featuring the wreck of the Jane Sea Wreck . Depths 18-27m across bow to stern, good for night diving. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Jane Sea is an intentionally sunk 230-foot cargo ship lying upright on a sandy bottom off Aruba's southern coast, with her bow resting near 27 meters and her stern deck at around 18 meters — a dive profile that rewards repeated exploration. The wreck is heavily encrusted with colorful sponges and hard corals, and the intact superstructure makes for dramatic swim-throughs, particularly at night when octopus, spotted moray eels, and basket stars emerge to hunt along the hull. Large schools of glassy sweepers fill the cargo holds, and the resident hawksbill turtle that frequents the wreck has become something of a mascot for visiting dive groups.
 
 ## Site Information
 

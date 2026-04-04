@@ -17,7 +17,7 @@ Ermlund is a historic wreck dive in Belize Barrier Reef, Caribbean.
 
 ## Overview
 
-Ermlund is a dive site in Belize Barrier Reef featuring the wreck of the Ermlund which sank in 1971. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Ermlund is a 4,000-ton Norwegian freighter that lost power during a storm in 1971 and was deposited on the reef by surge, coming to rest approximately 1,000 yards north of Half Moon Caye at Lighthouse Reef Atoll — the wreck's superstructure once looming visibly above the waterline, though it has since settled lower into the reef. The hull has been thoroughly colonized by Caribbean reef life, with groupers, snapper, soldierfish, and sponge encrustation transforming the steel into a living reef, surrounded by the exceptional 20-40 meter visibility that characterizes Lighthouse Reef, Belize's most remote atoll. Divers visiting Half Moon Caye often pair an Ermlund dive with the famous Half Moon Wall just a short distance away, combining wreck and wall diving in one day at one of the Western Hemisphere's most pristine reefs.
 
 ## Site Information
 

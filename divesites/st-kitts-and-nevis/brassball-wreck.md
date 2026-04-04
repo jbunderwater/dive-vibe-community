@@ -17,7 +17,7 @@ Brassball Wreck is a historic wreck dive in St. Kitts and Nevis, Caribbean.
 
 ## Overview
 
-Brassball Wreck is a dive site in St. Kitts and Nevis featuring the wreck of the Brassball Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Brassball Wreck is one of Nevis's shallowest and most accessible wreck dives, resting at around 8 meters in calm, clear water ideal for beginners and snorkelers. The hull is heavily encrusted in coral growth and sponges, with soldierfish and glassy sweepers clustered in the superstructure and hawksbill turtles and rays commonly spotted in the surrounding sandy shallows.
 
 ## Site Information
 

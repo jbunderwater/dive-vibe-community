@@ -17,7 +17,7 @@ Dom João de Castro Bank is a pinnacle dive site in Azores, Europe.
 
 ## Overview
 
-Dom João de Castro Bank is a dive site in Azores offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Dom João de Castro Bank is a massive submarine volcano rising over 1,000 metres from the seafloor between Sao Miguel and Terceira, with its shallowest peak at just 13 metres. The caldera summit hosts one of the Atlantic's only shallow-water hydrothermal vent fields, where yellow and white mineral deposits and gas bubbles create an otherworldly landscape. Strong currents sweep the pinnacle, drawing large pelagics including mobula rays, wahoo, tuna, and sea turtles, while dusky groupers and forkbeards inhabit the rocky ledges below.
 
 ## Site Information
 

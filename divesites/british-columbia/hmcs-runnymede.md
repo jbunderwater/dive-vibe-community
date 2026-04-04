@@ -17,7 +17,7 @@ HMCS Runnymede is a historic wreck dive in British Columbia, North America.
 
 ## Overview
 
-HMCS Runnymede is a dive site in British Columbia featuring the wreck of the HMCS Runnymede. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+HMCS Runnymede was a River-class frigate built in 1944 that served on North Atlantic convoy escort duties during World War Two before being decommissioned and grounded as a breakwater at Kelsey Bay on northern Vancouver Island in the late 1940s. It rests near its sister ships HMCS Lasalle and HMCS Longueuil in Discovery Passage, where the tidal flows through the Inside Passage support exceptional marine life density typical of this stretch of BC coast. The steel hull, now heavily colonized by encrusting organisms, provides habitat for lingcod, cabezon, and large rockfish populations.
 
 ## Site Information
 

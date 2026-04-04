@@ -17,7 +17,7 @@ Cala Gonone is a cave dive site in Sardinia, Europe.
 
 ## Overview
 
-Cala Gonone is a dive site in Sardinia featuring underwater cave and cavern formations . Shallow cave systems averaging 9m depth with spectacular halocline, Bue Marino cave with stalactites. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Cala Gonone is the gateway to the Bue Marino sea caves on Sardinia's Gulf of Orosei coast, where a remarkable halocline marks the meeting of fresh spring water and salt sea inside the cave chambers. The caves reach depths of around 9 meters and feature stalactites that formed when the caverns were above sea level, giving dives here a strongly geological character found nowhere else in the western Mediterranean. Outside the cave entrance, the rocky reef and posidonia meadows shelter dusky groupers, moray eels, and octopus in the crystal-clear Tyrrhenian water.
 
 ## Site Information
 

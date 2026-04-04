@@ -17,7 +17,7 @@ Kongsfjorden is a reef dive site in Svalbard, Arctic.
 
 ## Overview
 
-Kongsfjorden is a dive site in Svalbard offering rewarding diving on healthy coral reef structures. Located in the Arctic region, this site offers 10-30 meters of visibility with water temperatures averaging -1 to 8°C.
+Kongsfjorden at 79 degrees north is one of the most scientifically studied fjords in the Arctic, where tidewater glaciers calve directly into the sea and kelp forests of sugar kelp, winged kelp, and oar weed have been expanding as sea ice diminishes. The seabed to 25 meters supports over 270 identified invertebrate taxa including sponges, cold-water anemones, sea slugs, spider crabs, and dense colonies of sea urchins that graze the kelp at the fjord's outer reaches. Visibility varies with glacial meltwater runoff, and divers may encounter curious bearded seals and beluga whales in the plankton-rich water column.
 
 ## Site Information
 

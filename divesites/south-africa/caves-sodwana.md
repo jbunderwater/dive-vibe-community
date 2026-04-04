@@ -17,7 +17,7 @@ Caves Sodwana is a cave dive site in South Africa, Africa.
 
 ## Overview
 
-Caves Sodwana is a dive site in South Africa featuring underwater cave and cavern formations. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Caves Sodwana sits on Two Mile Reef within iSimangaliso Wetland Park, a UNESCO World Heritage Site on South Africa's subtropical KwaZulu-Natal coast. The site features a cave large enough to swim through, surrounded by overhangs, gullies, and ledges draped in pastel-coloured soft corals, yellow sponges, and whip coral, with knifejaws often standing guard at the cave entrance. Schools of fusiliers and snappers fill the water column, while the sandy floor outside sometimes yields sharks' teeth and the rare chance of spotting a coelacanth in the deeper adjacent canyon.
 
 ## Site Information
 

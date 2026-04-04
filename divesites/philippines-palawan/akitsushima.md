@@ -17,7 +17,7 @@ Akitsushima is a historic wreck dive in Philippines Palawan, Asia.
 
 ## Overview
 
-Akitsushima is a dive site in Philippines Palawan featuring the wreck of the Akitsushima . Japanese Navy seaplane tender sunk 24 September 1944. Wreck lies on port side in 36m, with upper surfaces at 22m. Advanced wreck diving required.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The Akitsushima is the most historically significant wreck in Coron Bay — a 118-meter Japanese Imperial Navy seaplane tender sunk during a US air raid on 24 September 1944, now lying on its port side with the upper hull at 22 meters and the deepest section at 36 meters. The ship's massive crane rests on the sand surrounded by schools of batfish and barracuda, and penetration through the hull leads to the engine room and a control room still fitted with gauges, dials, and the shell-lifting machinery for the deck guns.
 
 ## Site Information
 

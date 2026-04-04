@@ -17,7 +17,7 @@ Norwegian Bay is a reef dive site in Ningaloo Reef, Oceania.
 
 ## Overview
 
-Norwegian Bay is a dive site in Ningaloo Reef offering excellent diving on healthy coral reef structures. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Norwegian Bay is a remote section of Ningaloo Reef accessible only by live-aboard or extended boat trip from Coral Bay, offering some of the least-dived coral gardens on the entire reef system. The fringing reef here is in exceptional condition due to minimal visitor pressure, with large table corals, healthy bommies, and abundant reef fish across shallow gardens that rarely see more than a handful of divers in a season. Manta rays, turtles, and dugongs are all regularly encountered in this stretch of the park, and the sense of isolation reinforces how undisturbed this coastline remains.
 
 ## Site Information
 

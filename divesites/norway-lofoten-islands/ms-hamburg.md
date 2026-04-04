@@ -17,7 +17,7 @@ MS Hamburg is a historic wreck dive in Norway Lofoten Islands, Europe.
 
 ## Overview
 
-MS Hamburg is a dive site in Norway Lofoten Islands featuring the wreck of the MS Hamburg. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+The MS Hamburg is a coastal cargo vessel lying on her side in around 30 meters of water near Svolvær, making her one of the most accessible wreck dives in the Lofoten archipelago. The hull is colonized by the dense anemone and soft coral growth characteristic of Norwegian cold-water wrecks, and large cod, wolfish, and lumpfish have taken up residence in and around the structure. Visibility in the sheltered inner waters near Svolvær averages 10-20 meters, and the wreck's moderate depth and intact superstructure make it suitable for intermediate divers comfortable with drysuit diving in sub-10-degree water.
 
 ## Site Information
 

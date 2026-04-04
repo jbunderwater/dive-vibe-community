@@ -17,7 +17,7 @@ Psarapoula is a reef dive site in Greece, Europe.
 
 ## Overview
 
-Psarapoula is a dive site in Greece offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Psarapoula is a rocky reef dive site off the coast of Rhodes in the Dodecanese Islands, known for its volcanic rock formations and clear Aegean waters. The site features swim-throughs and overhangs colonized by sponges and sea fans, with resident octopus, grouper, moray eels, and schools of bream. Red Sea immigrants such as soldierfish and rabbitfish have become increasingly common, and lucky divers may spot seahorses or Mediterranean monk seals.
 
 ## Site Information
 

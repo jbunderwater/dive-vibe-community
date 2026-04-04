@@ -17,7 +17,7 @@ Trompeuse Rocks is a drift dive site in Seychelles, Africa.
 
 ## Overview
 
-Trompeuse Rocks is a dive site in Seychelles offering rewarding diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Trompeuse Rocks is a drift dive across a series of submerged granite outcrops off Mahé, where moderate to strong currents funnel divers past coral-encrusted boulders to a maximum depth of around 18 meters. The currents are the main draw, channelling schools of fusiliers and surgeonfish that in turn attract whitetip and grey reef sharks hunting in the current shadow. Eagle rays and giant trevally are regular visitors, and the site's name — meaning "deceptive" in French — refers to the unpredictable current reversals that require attentive dive planning.
 
 ## Site Information
 

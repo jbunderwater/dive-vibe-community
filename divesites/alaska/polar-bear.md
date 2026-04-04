@@ -17,7 +17,7 @@ Polar Bear is a historic wreck dive in Alaska, North America.
 
 ## Overview
 
-Polar Bear is a dive site in Alaska featuring the wreck of the Polar Bear. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+The Polar Bear is a sunken vessel in Prince William Sound accessible from Cordova, sitting close to the Grebe wreck in the same productive inlet of the Gulf of Alaska. The wreck rests at around 16 meters depth and has accumulated the dense cold-water invertebrate growth typical of long-submerged structures in these waters, with anemone colonies, encrusting sponges, and sea urchins covering the hull surfaces. The Prince William Sound setting gives every surface interval a dramatic backdrop — Chugach Mountains, tidewater glaciers, sea otter rafts — before descending back to the cold, dark world of the wreck below.
 
 ## Site Information
 

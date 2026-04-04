@@ -17,7 +17,7 @@ Ennerdale Wreck is a historic wreck dive in Seychelles, Africa.
 
 ## Overview
 
-Ennerdale Wreck is a dive site in Seychelles featuring the wreck of the Ennerdale Wreck. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+The Ennerdale was a 216-metre British Royal Fleet Auxiliary tanker that struck uncharted granite pinnacles off Mahé on 1 June 1970 and had to be deliberately destroyed by explosive charges when salvage proved impossible — making her the only wreck in the Indian Ocean sunk by anti-submarine mortars and torpedo warheads. She now rests on her starboard side at 20–30 metres, 12 kilometres northeast of Victoria, and is widely considered the most popular dive site in the entire Seychelles archipelago. Giant moray eels, giant groupers, eagle rays, and dense schools of fusiliers and barracuda inhabit the hull, with the still-intact stern section, propeller, and wheelhouse offering the most dramatic exploration.
 
 ## Site Information
 

@@ -32,7 +32,7 @@ The Wisteria is a lesser-known wreck in the Key West area that remains less docu
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Wisteria wreck and its surrounding sand and rubble bottom support a typical Key West tropical assemblage of yellowtail snapper, hogfish, parrotfish, and queen angelfish. Nurse sharks and green moray eels are reliable residents of the darker sections, while spiny lobster fill the crevices of the encrusted structure. Southern stingrays and spotted eagle rays are frequently sighted on the sand flats adjacent to the wreck, and green sea turtles are a regular presence at this accessible shore-entry site.
 
 ## Dive Profile
 
@@ -53,7 +53,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of surge, boat traffic, and variable visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 

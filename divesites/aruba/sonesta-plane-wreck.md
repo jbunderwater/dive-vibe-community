@@ -17,7 +17,7 @@ Sonesta Plane Wreck is a historic wreck dive in Aruba, Caribbean.
 
 ## Overview
 
-Sonesta Plane Wreck is a dive site in Aruba featuring the wreck of the Sonesta Plane Wreck . Two intentional aircraft sinks: Convair 240 (12m), Beech 18 (5m), YS-11 (14m), beginner to intermediate. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Sonesta Plane Wreck site holds three intentionally sunk aircraft in close proximity off Aruba's calm western shore: a Convair 240 at 12 meters, a Beech 18 at 5 meters, and a NAMC YS-11 turboprop nearby, creating an unusual multi-wreck dive on a single excursion. The aircraft were stripped and cleaned before sinking and are now thoroughly colonized by soft corals, encrusting sponges, and tube worms, with the fuselages serving as shelter for large schools of glassy sweepers and squadrons of squid on calmer nights. The shallow depth and easy conditions make it a popular second dive site, often paired with the nearby Antilla.
 
 ## Site Information
 

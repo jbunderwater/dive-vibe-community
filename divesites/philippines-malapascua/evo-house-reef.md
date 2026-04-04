@@ -17,7 +17,7 @@ Evo House Reef is a reef dive site in Philippines Malapascua, Asia.
 
 ## Overview
 
-Evo House Reef is a dive site in Philippines Malapascua offering excellent diving on healthy coral reef structures . Dive Site. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Evo House Reef is the shallow fringing reef directly in front of Evolution Resort on Malapascua's southern coast, making it a convenient shore dive or easy boat hop for guests. The sandy rubble bottom at 5–13 meters is prime muck-hunting territory, with frogfish, ghost pipefish, and the occasional blue-ringed octopus tucked among the debris. It's a reliable night dive destination where mandarin fish emerge at dusk in the coral rubble patches to perform their brief mating display.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Evo House Reef is a dive site in Philippines Malapascua offering excellent divin
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Evo House Reef's prime attraction is the mandarin fish mating display that takes place at dusk in the coral rubble patches, drawing guests out for a night dive specifically to witness this event. During daytime dives, the sandy rubble bottom yields frogfish sitting motionless among debris, ghost pipefish drifting near crinoids, and blue-ringed octopus tucked into crevices. Cuttlefish and squid come into the shallows after dark, adding to the nocturnal interest of this beginner-friendly site.
 
 ## Dive Profile
 

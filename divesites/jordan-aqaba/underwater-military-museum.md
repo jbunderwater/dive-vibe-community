@@ -17,7 +17,7 @@ Underwater Military Museum is a historic wreck dive in Jordan - Aqaba, Middle Ea
 
 ## Overview
 
-Underwater Military Museum is a dive site in Jordan - Aqaba featuring the wreck of the Underwater Military Museum. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Inaugurated in 2019, Aqaba's Underwater Military Museum is the world's first of its kind, featuring 21 decommissioned Royal Jordanian Army vehicles arranged in a tactical battle formation on the sandy seabed at depths of 15 to 28 metres off South Beach. The collection spans 60 years of Jordanian military history and includes FV101 Scorpion light tanks, Chieftain "Khalid" tanks, FV701 Ferret armoured cars, a military crane, ambulance, and two Bell AH-1F Cobra attack helicopters in the deepest section. The hard surfaces of the vehicles have already been colonised by corals and sponges, creating new reef habitat in an area previously barren sandy bottom, and exterior viewing only is permitted — penetration is prohibited.
 
 ## Site Information
 

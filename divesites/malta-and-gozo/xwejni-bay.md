@@ -17,7 +17,7 @@ Xwejni Bay is a reef dive site in Malta and Gozo, Europe.
 
 ## Overview
 
-Xwejni Bay is a dive site in Malta and Gozo offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Xwejni Bay on Gozo's northwest coast sits beside the iconic Xwejni salt pans, where a rocky limestone reef drops to around 20 meters through thick sargassum weed beds that shelter scorpionfish, moray eels, and cuttlefish. The bay's protected position makes it diveable in northerly winds when more exposed sites are off limits, and its clear water often reaches 20-plus meters of visibility. Sea bream, wrasse, and occasional octopus are typical residents along the jumbled boulders and sand channels at the base of the reef.
 
 ## Site Information
 

@@ -17,7 +17,7 @@ Long Beach Kelp Forest is a reef dive site in Cape Town, Africa.
 
 ## Overview
 
-Long Beach Kelp Forest is a dive site in Cape Town offering excellent diving on healthy coral reef structures. Located in the Africa region, this site offers 10-30 meters of visibility with water temperatures averaging 20-29°C.
+Long Beach in Simon's Town is a sheltered False Bay shore dive where a sandy bottom interspersed with kelp beds and rocky outcrops descends gradually to about 8 metres, making it one of Cape Town's most reliable all-conditions dive sites. The Benguela Current keeps temperatures between 12–18°C, and resident marine life includes octopus, biscuit skates, blue-fin gurnard, pineapple fish, stingrays, and Cape fur seals that regularly visit from nearby colonies; Southern Right whales occasionally enter the bay and have been sighted during dives. Several shallow WWII-era wrecks lie within easy swimming distance of shore, adding a wreck-hunting dimension to what is already a rich and forgiving kelp forest dive.
 
 ## Site Information
 

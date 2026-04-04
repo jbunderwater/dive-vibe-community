@@ -17,7 +17,7 @@ Secret Bay is a muck dive site in Philippines Anilao, Asia.
 
 ## Overview
 
-Secret Bay is a dive site in Philippines Anilao offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Secret Bay (Mainit Muck) is one of Anilao's most productive muck dives, a shallow black-sand site where geothermally heated vents bubble up through patches of sand and a staggering density of cryptic critters rewards patient, slow-moving divers. Frogfish, ghost pipefish, thorny seahorses, bobbit worms, Coleman shrimp, wonderpus octopus, and flamboyant cuttlefish are all on the regular checklist here, and the site is especially productive at night when squid and cuttlefish come into the shallows.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Secret Bay is a dive site in Philippines Anilao offering excellent diving on hea
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Secret Bay (Mainit Muck) is one of Anilao's richest critter sites, with the geothermal black sand hosting wonderpus octopus, flamboyant cuttlefish, Coleman shrimp, and thorny seahorses as year-round residents. Frogfish in multiple colour morphs and ghost pipefish are reliably encountered along the slope, and bobbit worms emerge from burrows in the sand on night dives. After dark, squid and broadclub cuttlefish come into the shallows to hunt, rewarding divers willing to dive after sunset.
 
 ## Dive Profile
 
