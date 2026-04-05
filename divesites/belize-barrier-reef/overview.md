@@ -8,11 +8,11 @@ Home to the famous Blue Hole and spectacular reef walls with abundant marine lif
 
 ## Description
 
-Belize Barrier Reef is a notable diving destination in the Caribbean region, offering 3 documented dive sites with depths ranging from 20 to 20 meters. Belize Barrier Reef is particularly known for Great Blue Hole, Belize Barrier Reef (UNESCO), wall dives. Notable sites include Great Blue Hole, Half Moon Caye Wall, Hol Chan Marine Reserve. Water temperatures average 26-29°C (79-84°F), with visibility typically reaching 20-40 meters (65-130 feet). Year-round diving is possible, with the best conditions during December to April (dry season).
+Belize Barrier Reef is a notable diving destination in the Caribbean region, offering diverse dive sites with depths ranging from 20 to 20 meters. Belize Barrier Reef is particularly known for Great Blue Hole, Belize Barrier Reef (UNESCO), wall dives. Notable sites include Great Blue Hole, Half Moon Caye Wall, Hol Chan Marine Reserve. Water temperatures average 26-29°C (79-84°F), with visibility typically reaching 20-40 meters (65-130 feet). Year-round diving is possible, with the best conditions during December to April (dry season).
 
 ### Diving Opportunities
 
-- **Boat Diving**: 3 boat-accessible sites reached through local dive operators
+- **Boat Diving**: Boat-accessible sites reached through local dive operators
 - **Reef Diving**: Healthy coral reef systems supporting diverse marine ecosystems
 - **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
 

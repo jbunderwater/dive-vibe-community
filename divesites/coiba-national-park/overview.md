@@ -8,13 +8,13 @@ Panama's UNESCO World Heritage marine park on the Pacific coast, where whale sha
 
 ## Description
 
-Coiba National Park is a remote UNESCO World Heritage Site off Panama's Pacific coast, often called the "Central American Galapagos" for its extraordinary pelagic encounters. The park encompasses 10 documented dive sites ranging from 18 to 40 meters depth, all boat-accessible and rated Advanced due to strong currents and remote location. Highlights include the Bahia Damas reef system -- the second-largest coral reef in the Eastern Pacific -- and deep pinnacles like Montana Rusa where hammerheads and whale sharks patrol. With 33 recorded shark species and seasonal humpback whale migrations, Coiba delivers some of the most dramatic big-animal diving in Central America.
+Coiba National Park is a remote UNESCO World Heritage Site off Panama's Pacific coast, often called the "Central American Galapagos" for its extraordinary pelagic encounters. The park encompasses documented dive sites ranging from 18 to 40 meters depth, all boat-accessible and rated Advanced due to strong currents and remote location. Highlights include the Bahia Damas reef system -- the second-largest coral reef in the Eastern Pacific -- and deep pinnacles like Montana Rusa where hammerheads and whale sharks patrol. With 33 recorded shark species and seasonal humpback whale migrations, Coiba delivers some of the most dramatic big-animal diving in Central America.
 
 ### Diving Opportunities
 
-- **Boat Diving**: All 10 sites are boat-access only, departing from Santa Catalina (approximately 75-minute boat ride to the park)
-- **Reef Diving**: 5 reef sites including Bahia Damas with its massive hard coral gardens, Granito de Oro with colorful sponges, and Santa Cruz with scenic shallow hard corals
-- **Pinnacle Diving**: 3 pinnacle sites including Montana Rusa (35-40m, severe currents, major pelagic action), Shark Point Coiba (rock and coral canyon formations), and Jicarita Island
+- **Boat Diving**: All sites are boat-access only, departing from Santa Catalina (approximately 75-minute boat ride to the park)
+- **Reef Diving**: Reef sites including Bahia Damas with its massive hard coral gardens, Granito de Oro with colorful sponges, and Santa Cruz with scenic shallow hard corals
+- **Pinnacle Diving**: Pinnacle sites including Montana Rusa (35-40m, severe currents, major pelagic action), Shark Point Coiba (rock and coral canyon formations), and Jicarita Island
 - **Wall Diving**: Machete Point offers a wall dive to 28 meters with strong currents
 - **Pelagic Encounters**: Whale sharks (January-March), hammerhead sharks (April-May schools of juveniles), giant manta rays (March), and humpback whales (July-October)
 

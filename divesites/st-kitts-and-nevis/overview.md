@@ -8,15 +8,15 @@ The MV River Taw wreck split in two by Hurricane Hugo, volcanic reef formations 
 
 ## Description
 
-St. Kitts and Nevis offers 10 documented dive sites ranging from 8 to 40 meters depth, with most diving concentrated on St. Kitts' leeward Caribbean coast. The MV River Taw — a 44-meter freighter that sank in 1981 and was split into two sections by Hurricane Hugo in 1989 — is the signature dive, now heavily encrusted in coral and home to octopus, turtles, and stingrays. The volcanic origins of both islands create unique underwater topography with lava formations colonized by barrel sponges and healthy coral gardens, and dive operators report access to 27 sites across the federation.
+St. Kitts and Nevis offers diverse dive sites ranging from 8 to 40 meters depth, with most diving concentrated on St. Kitts' leeward Caribbean coast. The MV River Taw — a 44-meter freighter that sank in 1981 and was split into two sections by Hurricane Hugo in 1989 — is the signature dive, now heavily encrusted in coral and home to octopus, turtles, and stingrays. The volcanic origins of both islands create unique underwater topography with lava formations colonized by barrel sponges and healthy coral gardens, and dive operators report access to 27 sites across the federation.
 
 ### Diving Opportunities
 
-- **Boat Diving**: All 10 documented sites are boat-accessible, with short rides from Frigate Bay and Basseterre on St. Kitts
-- **Wreck Diving**: 2 wreck sites including the MV River Taw (15m depth, split into two coral-encrusted sections off Frigate Bay) and the Brassball Wreck
-- **Reef Diving**: 6 reef sites with volcanic rock formations supporting diverse coral growth and giant barrel sponges, including Coconut Tree Reef and Booby Shoals
-- **Wall Diving**: 1 wall site along the Caribbean shelf edge
-- **Cave Diving**: 1 cave site with volcanic swim-throughs
+- **Boat Diving**: All sites are boat-accessible, with short rides from Frigate Bay and Basseterre on St. Kitts
+- **Wreck Diving**: Wreck sites including the MV River Taw (15m depth, split into two coral-encrusted sections off Frigate Bay) and the Brassball Wreck
+- **Reef Diving**: Reef sites with volcanic rock formations supporting diverse coral growth and giant barrel sponges, including Coconut Tree Reef and Booby Shoals
+- **Wall Diving**: Wall site along the Caribbean shelf edge
+- **Cave Diving**: Cave site with volcanic swim-throughs
 
 ### Accessibility
 

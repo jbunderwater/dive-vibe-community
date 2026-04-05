@@ -8,16 +8,16 @@ The muck diving capital of the Banda Sea, home to the psychedelic frogfish found
 
 ## Description
 
-Ambon Bay in Maluku Province is one of the world's premier muck diving destinations, rivaling Lembeh Strait for critter diversity. The database documents 10 dive sites with depths ranging from 8 to 35 meters. The bay's volcanic black sand slopes and rubble fields support an extraordinary density of rare macro life, including the endemic psychedelic frogfish first described by science in 2009. Beyond muck, Ambon offers a cave dive, a WWII-era wreck, wall diving, and healthy reef sites.
+Ambon Bay in Maluku Province is one of the world's premier muck diving destinations, rivaling Lembeh Strait for critter diversity. Dive sites range in depth with depths ranging from 8 to 35 meters. The bay's volcanic black sand slopes and rubble fields support an extraordinary density of rare macro life, including the endemic psychedelic frogfish first described by science in 2009. Beyond muck, Ambon offers a cave dive, a WWII-era wreck, wall diving, and healthy reef sites.
 
 ### Diving Opportunities
 
-- **Muck Diving**: 5 sites (Laha, Rhino City, Psychedelic Frogfish Site, Air Manis, Twilight Zone) on volcanic sand slopes, the core of Ambon's world-class macro diving
-- **Shore Diving**: 6 sites accessible from shore, primarily along the Laha coastline of inner Ambon Bay
-- **Wreck Diving**: 1 site (Duke of Sparta Wreck) at 35 meters depth with corals and sponges colonizing the hull
-- **Cave Diving**: 1 site (Hukurila Cave) on the outer coast at 20 meters
-- **Wall Diving**: 1 site (Nama Point) at 18 meters
-- **Reef Diving**: 2 sites (Pintu Kota, Amahusu Reef) offering contrast to the muck sites
+- **Muck Diving**: Sites (Laha, Rhino City, Psychedelic Frogfish Site, Air Manis, Twilight Zone) on volcanic sand slopes, the core of Ambon's world-class macro diving
+- **Shore Diving**: Sites accessible from shore, primarily along the Laha coastline of inner Ambon Bay
+- **Wreck Diving**: Site (Duke of Sparta Wreck) at 35 meters depth with corals and sponges colonizing the hull
+- **Cave Diving**: Site (Hukurila Cave) on the outer coast at 20 meters
+- **Wall Diving**: Site (Nama Point) at 18 meters
+- **Reef Diving**: Sites (Pintu Kota, Amahusu Reef) offering contrast to the muck sites
 
 ### Accessibility
 

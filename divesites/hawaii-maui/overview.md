@@ -8,14 +8,14 @@ World-famous Molokini Crater diving with dramatic wall drops, lava formations, a
 
 ## Description
 
-Maui offers 8 documented dive sites concentrated around the Molokini Crater marine preserve, a half-submerged volcanic caldera located off South Maui. The sites range from intermediate reef dives at shallow depths to advanced wall dives along Molokini's outer edge, where the crater wall drops steeply into deep blue water. Visibility regularly exceeds 30 meters (100 feet), particularly from late summer through fall. From December through April, humpback whales migrate to Maui's waters, and their songs can often be heard underwater during dives.
+Maui offers diverse dive sites concentrated around the Molokini Crater marine preserve, a half-submerged volcanic caldera located off South Maui. The sites range from intermediate reef dives at shallow depths to advanced wall dives along Molokini's outer edge, where the crater wall drops steeply into deep blue water. Visibility regularly exceeds 30 meters (100 feet), particularly from late summer through fall. From December through April, humpback whales migrate to Maui's waters, and their songs can often be heard underwater during dives.
 
 ### Diving Opportunities
 
-- **Wall Diving**: 4 wall dive sites including Edge of the World, Flying Sea Cliffs, Enenue, and The Back Side along Molokini's dramatic outer crater walls, rated Advanced
-- **Reef Diving**: 3 reef sites including Middle Reef, Reef's End, and Tako Flats at intermediate level, featuring healthy coral formations inside the crater
-- **Cave Diving**: 1 cave site at Shark Condos, known for whitetip reef shark resting areas in lava overhangs
-- **Boat Diving**: All 8 sites are boat-access only, departing from Kihei and Ma'alaea Harbor
+- **Wall Diving**: Wall dive sites including Edge of the World, Flying Sea Cliffs, Enenue, and The Back Side along Molokini's dramatic outer crater walls, rated Advanced
+- **Reef Diving**: Reef sites including Middle Reef, Reef's End, and Tako Flats at intermediate level, featuring healthy coral formations inside the crater
+- **Cave Diving**: Cave site at Shark Condos, known for whitetip reef shark resting areas in lava overhangs
+- **Boat Diving**: All sites are boat-access only, departing from Kihei and Ma'alaea Harbor
 
 ### Accessibility
 

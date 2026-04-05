@@ -8,17 +8,17 @@ North Maluku's unexplored diving frontier with WWII wrecks, endemic walking shar
 
 ## Description
 
-Halmahera is the largest island in the Maluku archipelago, straddling the equator between Raja Ampat and North Sulawesi. The database documents 16 dive sites with depths from 15 to 50 meters, spread across a vast area encompassing Ternate, Weda Bay, the Goraici Islands, and Morotai in the far north. With an estimated 686 fish species and 450 coral species, Halmahera offers biodiversity rivaling its more famous neighbors but with a fraction of the diver traffic. Sites range from WWII wrecks and plane debris to pristine pinnacles and black sand muck.
+Halmahera is the largest island in the Maluku archipelago, straddling the equator between Raja Ampat and North Sulawesi. Dive sites range in depth with depths from 15 to 50 meters, spread across a vast area encompassing Ternate, Weda Bay, the Goraici Islands, and Morotai in the far north. With an estimated 686 fish species and 450 coral species, Halmahera offers biodiversity rivaling its more famous neighbors but with a fraction of the diver traffic. Sites range from WWII wrecks and plane debris to pristine pinnacles and black sand muck.
 
 ### Diving Opportunities
 
-- **Wreck Diving**: 4 sites including WWII relics USS PT-371 and Tosei Maru (sunk 1941), Foya Wreck, and the Bristol Plane Wreck at 50 meters depth
-- **Wall Diving**: 2 sites (Biatabang, Batu Mandi) with strong currents attracting large pelagics in deep channels
-- **Pinnacle Diving**: 4 sites (Terumbu Gora, Shark Mountain, Pulau Pisang, Womow Reef) where seamounts and submerged rock formations concentrate marine life
-- **Reef Diving**: 3 sites (Pulau Tifore, Reenie's Rock, Batu Jabu) with healthy hard and soft coral communities
-- **Muck Diving**: 1 site (Makian Black Sand) on volcanic black sand with critter hunting
-- **Drift Diving**: 1 site (Proco Channel) with strong tidal currents and big fish encounters
-- **Shore Diving**: 1 site (Taman Nukila Wreck) accessible from shore near Ternate
+- **Wreck Diving**: Sites including WWII relics USS PT-371 and Tosei Maru (sunk 1941), Foya Wreck, and the Bristol Plane Wreck at 50 meters depth
+- **Wall Diving**: Sites (Biatabang, Batu Mandi) with strong currents attracting large pelagics in deep channels
+- **Pinnacle Diving**: Sites (Terumbu Gora, Shark Mountain, Pulau Pisang, Womow Reef) where seamounts and submerged rock formations concentrate marine life
+- **Reef Diving**: Sites (Pulau Tifore, Reenie's Rock, Batu Jabu) with healthy hard and soft coral communities
+- **Muck Diving**: Site (Makian Black Sand) on volcanic black sand with critter hunting
+- **Drift Diving**: Site (Proco Channel) with strong tidal currents and big fish encounters
+- **Shore Diving**: Site (Taman Nukila Wreck) accessible from shore near Ternate
 
 ### Accessibility
 

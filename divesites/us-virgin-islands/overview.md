@@ -8,15 +8,15 @@ Three islands spanning beginner-friendly national monument reefs on St. Croix, h
 
 ## Description
 
-The US Virgin Islands — St. Thomas, St. Croix, and St. John — offer diverse Caribbean diving across three distinct islands. Our database documents 14 sites ranging from 5 to 40 meters depth, including 7 reef sites, 4 wrecks, 2 wall dives, and 1 pinnacle. St. Croix is home to the famous Cane Bay Wall, which starts at just 8 meters and drops over 3,000 meters into the Virgin Islands Trough, as well as Buck Island Reef National Monument with its underwater snorkeling trail through elkhorn coral. St. Thomas offers wreck diving on vessels like the Cartanser Sr and WIT Shoal II, while St. John's Virgin Islands National Park protects pristine reef systems.
+The US Virgin Islands — St. Thomas, St. Croix, and St. John — offer diverse Caribbean diving across three distinct islands. Our database documents 14 sites ranging from 5 to 40 meters depth, including reef sites, wrecks, wall dives, and 1 pinnacle. St. Croix is home to the famous Cane Bay Wall, which starts at just 8 meters and drops over 3,000 meters into the Virgin Islands Trough, as well as Buck Island Reef National Monument with its underwater snorkeling trail through elkhorn coral. St. Thomas offers wreck diving on vessels like the Cartanser Sr and WIT Shoal II, while St. John's Virgin Islands National Park protects pristine reef systems.
 
 ### Diving Opportunities
 
-- **Reef Diving**: 7 reef sites across all three islands. Buck Island Reef National Monument on St. Croix features an underwater trail through elkhorn coral barrier reef, established in 1961 as one of the first protected marine areas in the Caribbean.
-- **Wall Diving**: 2 wall dive sites, headlined by Cane Bay Wall on St. Croix — a shore-entry wall dive starting at 25 feet that drops thousands of feet, with dramatic overhangs and barrel sponges.
-- **Wreck Diving**: 4 wreck sites including the Cartanser Sr (St. Thomas, 11m depth), WIT Shoal II (St. Thomas), Grain Wreck/Suffolk Maid, and the RMS Rhone (a famous wreck shared with the British Virgin Islands).
-- **Boat Diving**: 10 boat-accessible sites across the three islands.
-- **Shore Diving**: 4 shore-accessible sites, including the famous Cane Bay Wall on St. Croix — one of the Caribbean's few shore-entry wall dives.
+- **Reef Diving**: Reef sites across all three islands. Buck Island Reef National Monument on St. Croix features an underwater trail through elkhorn coral barrier reef, established in 1961 as one of the first protected marine areas in the Caribbean.
+- **Wall Diving**: Wall dive sites, headlined by Cane Bay Wall on St. Croix — a shore-entry wall dive starting at 25 feet that drops thousands of feet, with dramatic overhangs and barrel sponges.
+- **Wreck Diving**: Wreck sites including the Cartanser Sr (St. Thomas, 11m depth), WIT Shoal II (St. Thomas), Grain Wreck/Suffolk Maid, and the RMS Rhone (a famous wreck shared with the British Virgin Islands).
+- **Boat Diving**: Boat-accessible sites across the three islands.
+- **Shore Diving**: Shore-accessible sites, including the famous Cane Bay Wall on St. Croix — one of the Caribbean's few shore-entry wall dives.
 - **Night Diving**: Available through operators on all three islands, with Frederiksted Pier on St. Croix being a renowned night dive for seahorses and macro life.
 
 ### Accessibility

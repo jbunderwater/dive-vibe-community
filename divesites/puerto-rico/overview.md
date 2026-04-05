@@ -8,14 +8,14 @@ Remote Desecheo and Mona Island walls, La Parguera's 22-mile wall dropping 1,500
 
 ## Description
 
-Puerto Rico offers 11 documented dive sites ranging from 8 to 40 meters depth, spread across five distinct diving regions from San Juan to the remote offshore islands. The Parguera Wall on the southwest coast stretches 22 miles along a dramatic shelf drop exceeding 450 meters, while Desecheo Island — a National Wildlife Refuge 12 miles off Rincon — harbors some of Puerto Rico's best-preserved coral reefs with visibility reaching 30 meters. Mona Island, 50 miles offshore, rewards the journey with caves, pristine corals, and encounters with sharks and pelagics.
+Puerto Rico offers diverse dive sites ranging from 8 to 40 meters depth, spread across five distinct diving regions from San Juan to the remote offshore islands. The Parguera Wall on the southwest coast stretches 22 miles along a dramatic shelf drop exceeding 450 meters, while Desecheo Island — a National Wildlife Refuge 12 miles off Rincon — harbors some of Puerto Rico's best-preserved coral reefs with visibility reaching 30 meters. Mona Island, 50 miles offshore, rewards the journey with caves, pristine corals, and encounters with sharks and pelagics.
 
 ### Diving Opportunities
 
-- **Boat Diving**: 6 boat-accessible sites including Desecheo Island, La Parguera Wall, and offshore reef systems
-- **Shore Diving**: 5 shore-accessible sites including Blue Beach and Crash Boat Beach, suitable for training and recreational dives
-- **Wall Diving**: 3 wall sites anchored by the Parguera Wall — one of the Caribbean's longest continuous wall dives
-- **Reef Diving**: 8 reef sites across the island including Culebra, Fajardo's Cordillera Nature Reserve, and Vieques
+- **Boat Diving**: Boat-accessible sites including Desecheo Island, La Parguera Wall, and offshore reef systems
+- **Shore Diving**: Shore-accessible sites including Blue Beach and Crash Boat Beach, suitable for training and recreational dives
+- **Wall Diving**: Wall sites anchored by the Parguera Wall — one of the Caribbean's longest continuous wall dives
+- **Reef Diving**: Reef sites across the island including Culebra, Fajardo's Cordillera Nature Reserve, and Vieques
 
 ### Accessibility
 

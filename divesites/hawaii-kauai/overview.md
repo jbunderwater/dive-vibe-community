@@ -8,15 +8,15 @@ The Garden Isle features dramatic lava tube caverns, pristine south shore reefs,
 
 ## Description
 
-Kauai offers 10 documented dive sites with depths ranging from 10 to 130 feet, spanning the island's south shore, north shore, and the remote waters off Ni'ihau. The diving is defined by volcanic lava formations -- caverns, arches, and tunnels carved into the underwater landscape -- combined with encounters with Hawaiian green sea turtles on virtually every dive. Kauai's most famous site, Sheraton Caverns, features over 26 lava tubes where turtles rest in the sheltered interiors. For experienced divers, the Ni'ihau and Mana Crack expeditions offer world-class wall diving with large pelagics and Hawaiian monk seals.
+Kauai offers diverse dive sites with depths ranging from 10 to 130 feet, spanning the island's south shore, north shore, and the remote waters off Ni'ihau. The diving is defined by volcanic lava formations -- caverns, arches, and tunnels carved into the underwater landscape -- combined with encounters with Hawaiian green sea turtles on virtually every dive. Kauai's most famous site, Sheraton Caverns, features over 26 lava tubes where turtles rest in the sheltered interiors. For experienced divers, the Ni'ihau and Mana Crack expeditions offer world-class wall diving with large pelagics and Hawaiian monk seals.
 
 ### Diving Opportunities
 
-- **Cave & Cavern Diving**: 3 sites featuring lava tube formations including Sheraton Caverns (26+ lava tubes), Amber's Arches (three lava fingers forming arches with swim-throughs), and Tunnels Beach on the north shore
-- **Reef Diving**: 4 reef sites including Koloa Landing (beginner-friendly shore dive), General Store (drift dive with ship wreckage at 80 feet), Brennecke's Ledge (lava shelf with 90-foot wall drop), and Kukuiula Bay and Prince Kuhio Beach
-- **Wall Diving**: 2 advanced wall sites at Ni'ihau (pristine private island with visibility exceeding 100 feet) and Mana Crack (11-mile sunken barrier reef, the furthest offshore dive in Hawaii)
-- **Shore Diving**: 3 shore-accessible sites at Koloa Landing, Tunnels Beach (summer only), and Kukuiula Bay
-- **Boat Diving**: 7 boat-access sites departing from Port Allen and Kukuiula Small Boat Harbor on the south shore
+- **Cave & Cavern Diving**: Sites featuring lava tube formations including Sheraton Caverns (26+ lava tubes), Amber's Arches (three lava fingers forming arches with swim-throughs), and Tunnels Beach on the north shore
+- **Reef Diving**: Reef sites including Koloa Landing (beginner-friendly shore dive), General Store (drift dive with ship wreckage at 80 feet), Brennecke's Ledge (lava shelf with 90-foot wall drop), and Kukuiula Bay and Prince Kuhio Beach
+- **Wall Diving**: Advanced wall sites at Ni'ihau (pristine private island with visibility exceeding 100 feet) and Mana Crack (11-mile sunken barrier reef, the furthest offshore dive in Hawaii)
+- **Shore Diving**: Shore-accessible sites at Koloa Landing, Tunnels Beach (summer only), and Kukuiula Bay
+- **Boat Diving**: Boat-access sites departing from Port Allen and Kukuiula Small Boat Harbor on the south shore
 
 ### Accessibility
 

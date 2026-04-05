@@ -8,13 +8,13 @@ World-renowned drift diving through vibrant coral reefs with excellent visibilit
 
 ## Description
 
-Cozumel is a premier diving destination in the Caribbean region, offering 23 documented dive sites with depths ranging from 12 to 35 meters. Cozumel is particularly known for drift diving, Palancar Reef system, crystal-clear visibility. Notable sites include Palancar Reef, Santa Rosa Wall, Columbia Reef. Water temperatures average 26-29°C (79-84°F), with visibility typically reaching 20-40 meters (65-130 feet). Year-round diving is possible, with the best conditions during December to April (dry season).
+Cozumel is a premier diving destination in the Caribbean region, offering diverse dive sites with depths ranging from 12 to 35 meters. Cozumel is particularly known for drift diving, Palancar Reef system, crystal-clear visibility. Notable sites include Palancar Reef, Santa Rosa Wall, Columbia Reef. Water temperatures average 26-29°C (79-84°F), with visibility typically reaching 20-40 meters (65-130 feet). Year-round diving is possible, with the best conditions during December to April (dry season).
 
 ### Diving Opportunities
 
-- **Shore Diving**: 1 accessible shore dive sites offering convenient, self-guided diving experiences
-- **Boat Diving**: 22 boat-accessible sites reached through local dive operators
-- **Wreck Diving**: 1 wreck sites ranging from historic vessels to purpose-sunk artificial reefs
+- **Shore Diving**: Accessible shore dive sites offering convenient, self-guided diving experiences
+- **Boat Diving**: Boat-accessible sites reached through local dive operators
+- **Wreck Diving**: Wreck sites ranging from historic vessels to purpose-sunk artificial reefs
 - **Reef Diving**: Healthy coral reef systems supporting diverse marine ecosystems
 - **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
 

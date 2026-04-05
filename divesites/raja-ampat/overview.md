@@ -8,11 +8,11 @@ The world's highest marine biodiversity with remote pristine reefs and endemic s
 
 ## Description
 
-Raja Ampat is a premier diving destination in the Asia region, offering 77 documented dive sites with depths ranging from 12 to 30 meters. Raja Ampat is particularly known for highest marine biodiversity on earth, pristine reefs, manta rays. Notable sites include Cape Kri, Manta Sandy, Blue Magic. Water temperatures average 26-30°C (79-86°F), with visibility typically reaching 10-40 meters (30-130 feet). Year-round diving is possible, with the best conditions during October to April (varies by location).
+Raja Ampat is a premier diving destination in the Asia region, offering diverse dive sites with depths ranging from 12 to 30 meters. Raja Ampat is particularly known for highest marine biodiversity on earth, pristine reefs, manta rays. Notable sites include Cape Kri, Manta Sandy, Blue Magic. Water temperatures average 26-30°C (79-86°F), with visibility typically reaching 10-40 meters (30-130 feet). Year-round diving is possible, with the best conditions during October to April (varies by location).
 
 ### Diving Opportunities
 
-- **Boat Diving**: 77 boat-accessible sites reached through local dive operators
+- **Boat Diving**: Boat-accessible sites reached through local dive operators
 - **Reef Diving**: Healthy coral reef systems supporting diverse marine ecosystems
 - **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
 

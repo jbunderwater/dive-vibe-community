@@ -8,7 +8,7 @@ Pristine reefs and protected marine park with incredible biodiversity.
 
 ## Description
 
-Dry Tortugas National Park is an exceptional remote diving destination located 70 miles west of Key West, Florida. This pristine marine preserve offers 9 documented dive sites ranging from 4.5 to 30 meters depth, with world-class visibility (18-37 meters/60-120 feet typical). The park protects some of the healthiest coral reefs and most abundant marine life in Florida waters, including over 400 species of reef fish, sea turtles, nurse sharks, and vibrant coral ecosystems.
+Dry Tortugas National Park is an exceptional remote diving destination located 70 miles west of Key West, Florida. This pristine marine preserve offers diverse dive sites ranging from 4.5 to 30 meters depth, with world-class visibility (18-37 meters/60-120 feet typical). The park protects some of the healthiest coral reefs and most abundant marine life in Florida waters, including over 400 species of reef fish, sea turtles, nurse sharks, and vibrant coral ecosystems.
 
 ### Diving Opportunities
 

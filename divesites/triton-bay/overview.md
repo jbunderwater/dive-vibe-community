@@ -8,14 +8,14 @@ Indonesia's remote soft coral frontier in West Papua, where whale sharks gather 
 
 ## Description
 
-Triton Bay lies within the Kaimana Marine Protected Area in West Papua, one of the last true frontiers of Indonesian diving. The database documents 10 dive sites across the bay, with depths ranging from 8 to 35 meters. First surveyed for diving in 2006, the area continues to yield new sites each year. Triton Bay is renowned for its extraordinary soft coral growth fueled by nutrient-rich upwellings, whale shark encounters at bagan fishing platforms, and endemic species including the Triton Bay walking shark and flasher wrasse found nowhere else.
+Triton Bay lies within the Kaimana Marine Protected Area in West Papua, one of the last true frontiers of Indonesian diving. Dive sites range in depth across the bay, with depths ranging from 8 to 35 meters. First surveyed for diving in 2006, the area continues to yield new sites each year. Triton Bay is renowned for its extraordinary soft coral growth fueled by nutrient-rich upwellings, whale shark encounters at bagan fishing platforms, and endemic species including the Triton Bay walking shark and flasher wrasse found nowhere else.
 
 ### Diving Opportunities
 
-- **Boat Diving**: All 10 documented sites are boat-access, reached from Triton Bay Divers resort or liveaboard vessels
-- **Wall Diving**: 3 sites including Namatota Channel, Iris Wall, and Aiduma Island Wall, featuring deep drop-offs draped in black coral and soft corals
-- **Drift Diving**: 1 site (Whale Shark Bagan) in open blue water near traditional bagan fishing platforms, best at new moon from October to April
-- **Reef Diving**: 6 sites ranging from shallow coral gardens (The Corals Garden at 12m) to boulder reefs with strong currents (Little Komodo at 25m)
+- **Boat Diving**: All sites are boat-access, reached from Triton Bay Divers resort or liveaboard vessels
+- **Wall Diving**: Sites including Namatota Channel, Iris Wall, and Aiduma Island Wall, featuring deep drop-offs draped in black coral and soft corals
+- **Drift Diving**: Site (Whale Shark Bagan) in open blue water near traditional bagan fishing platforms, best at new moon from October to April
+- **Reef Diving**: Sites ranging from shallow coral gardens (The Corals Garden at 12m) to boulder reefs with strong currents (Little Komodo at 25m)
 
 ### Accessibility
 

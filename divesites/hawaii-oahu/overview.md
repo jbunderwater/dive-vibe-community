@@ -8,14 +8,14 @@ From WWII shipwrecks off Waikiki to North Shore lava formations and year-round d
 
 ## Description
 
-Oahu features 19 documented dive sites spanning the island's south, west, and north shores, with depths ranging from 3 to 45 meters. The island offers an unusually diverse mix of diving: 6 wreck sites including WWII-era vessels and intentionally sunk artificial reefs off the south shore, plus shore-accessible reef sites on both the North Shore (summer only) and the west side. Visibility ranges from 20 to 150 feet depending on site and conditions, with the clearest water found off the south shore wreck sites and at China Walls.
+Oahu features documented dive sites spanning the island's south, west, and north shores, with depths ranging from 3 to 45 meters. The island offers an unusually diverse mix of diving: wreck sites including WWII-era vessels and intentionally sunk artificial reefs off the south shore, plus shore-accessible reef sites on both the North Shore (summer only) and the west side. Visibility ranges from 20 to 150 feet depending on site and conditions, with the clearest water found off the south shore wreck sites and at China Walls.
 
 ### Diving Opportunities
 
-- **Wreck Diving**: 6 wreck sites including the YO-257 (WWII refueling vessel at 30m), Sea Tiger (freighter at 37m), Mahi (Navy minesweeper at 27m), Corsair F4U fighter plane (at 32m), San Pedro (Japanese fishing vessel at 30m), and the historic USS LST-480 from the 1944 West Loch disaster
-- **Reef Diving**: 8 reef sites including Hanauma Bay marine preserve, Sharks Cove and Three Tables on the North Shore (summer only), Electric Beach on the west side, and Turtle Canyon and Turtle Alley off Waikiki
-- **Shore Diving**: 4 shore-accessible sites including Sharks Cove, Three Tables, Electric Beach (Kahe Point), and Hanauma Bay
-- **Boat Diving**: 15 boat-access sites departing primarily from Kewalo Basin Harbor near Waikiki and Waianae Harbor on the west side
+- **Wreck Diving**: Wreck sites including the YO-257 (WWII refueling vessel at 30m), Sea Tiger (freighter at 37m), Mahi (Navy minesweeper at 27m), Corsair F4U fighter plane (at 32m), San Pedro (Japanese fishing vessel at 30m), and the historic USS LST-480 from the 1944 West Loch disaster
+- **Reef Diving**: Reef sites including Hanauma Bay marine preserve, Sharks Cove and Three Tables on the North Shore (summer only), Electric Beach on the west side, and Turtle Canyon and Turtle Alley off Waikiki
+- **Shore Diving**: Shore-accessible sites including Sharks Cove, Three Tables, Electric Beach (Kahe Point), and Hanauma Bay
+- **Boat Diving**: Boat-access sites departing primarily from Kewalo Basin Harbor near Waikiki and Waianae Harbor on the west side
 - **Cave Diving**: Makaha Caverns on the west shore features interconnected lava tubes with swim-throughs
 
 ### Accessibility

@@ -8,13 +8,13 @@ Liberty wreck at Tulamben, mola mola encounters, and manta rays at Nusa Penida.
 
 ## Description
 
-Bali is a premier diving destination in the Asia region, offering 32 documented dive sites with depths ranging from 12 to 30 meters. Bali is particularly known for USAT Liberty wreck, mola mola encounters, manta rays at Nusa Penida. Notable sites include USAT Liberty, Crystal Bay, Manta Point. Water temperatures average 26-30°C (79-86°F), with visibility typically reaching 10-40 meters (30-130 feet). Year-round diving is possible, with the best conditions during October to April (varies by location).
+Bali is a premier diving destination in the Asia region, offering diverse dive sites with depths ranging from 12 to 30 meters. Bali is particularly known for USAT Liberty wreck, mola mola encounters, manta rays at Nusa Penida. Notable sites include USAT Liberty, Crystal Bay, Manta Point. Water temperatures average 26-30°C (79-86°F), with visibility typically reaching 10-40 meters (30-130 feet). Year-round diving is possible, with the best conditions during October to April (varies by location).
 
 ### Diving Opportunities
 
-- **Shore Diving**: 3 accessible shore dive sites offering convenient, self-guided diving experiences
-- **Boat Diving**: 29 boat-accessible sites reached through local dive operators
-- **Wreck Diving**: 1 wreck sites ranging from historic vessels to purpose-sunk artificial reefs
+- **Shore Diving**: Accessible shore dive sites offering convenient, self-guided diving experiences
+- **Boat Diving**: Boat-accessible sites reached through local dive operators
+- **Wreck Diving**: Wreck sites ranging from historic vessels to purpose-sunk artificial reefs
 - **Reef Diving**: Healthy coral reef systems supporting diverse marine ecosystems
 - **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
 

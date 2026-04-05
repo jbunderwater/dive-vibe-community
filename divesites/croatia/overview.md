@@ -8,13 +8,13 @@ Adriatic wrecks, underwater caves, and pristine Mediterranean reefs.
 
 ## Description
 
-Croatia is a premier diving destination in the Europe region, offering 60 documented dive sites with depths ranging from 2 to 60 meters. Croatia is particularly known for Adriatic wrecks, underwater caves, crystal-clear waters. Notable sites include Baron Gautsch, Vis Island wrecks, Blue Cave. Water temperatures average 10-25°C (50-77°F), with visibility typically reaching 10-40 meters (30-130 feet). The diving season runs May to October, with the best conditions during May to October.
+Croatia is a premier diving destination in the Europe region, offering diverse dive sites with depths ranging from 2 to 60 meters. Croatia is particularly known for Adriatic wrecks, underwater caves, crystal-clear waters. Notable sites include Baron Gautsch, Vis Island wrecks, Blue Cave. Water temperatures average 10-25°C (50-77°F), with visibility typically reaching 10-40 meters (30-130 feet). The diving season runs May to October, with the best conditions during May to October.
 
 ### Diving Opportunities
 
-- **Shore Diving**: 1 accessible shore dive sites offering convenient, self-guided diving experiences
-- **Boat Diving**: 59 boat-accessible sites reached through local dive operators
-- **Wreck Diving**: 11 wreck sites ranging from historic vessels to purpose-sunk artificial reefs
+- **Shore Diving**: Accessible shore dive sites offering convenient, self-guided diving experiences
+- **Boat Diving**: Boat-accessible sites reached through local dive operators
+- **Wreck Diving**: Wreck sites ranging from historic vessels to purpose-sunk artificial reefs
 - **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
 
 ### Accessibility

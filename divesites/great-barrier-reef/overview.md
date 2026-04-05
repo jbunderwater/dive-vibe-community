@@ -8,12 +8,12 @@ The world's largest coral reef system with unparalleled marine diversity.
 
 ## Description
 
-Great Barrier Reef is a premier diving destination in the Oceania region, offering 27 documented dive sites with depths ranging from 10 to 25 meters. Great Barrier Reef is particularly known for world's largest coral reef system, incredible biodiversity, liveaboard diving. Notable sites include Cod Hole, Ribbon Reefs, SS Yongala. Water temperatures average 20-29°C (68-84°F), with visibility typically reaching 15-40 meters (50-130 feet). Year-round diving is possible, with the best conditions during September to February.
+Great Barrier Reef is a premier diving destination in the Oceania region, offering diverse dive sites with depths ranging from 10 to 25 meters. Great Barrier Reef is particularly known for world's largest coral reef system, incredible biodiversity, liveaboard diving. Notable sites include Cod Hole, Ribbon Reefs, SS Yongala. Water temperatures average 20-29°C (68-84°F), with visibility typically reaching 15-40 meters (50-130 feet). Year-round diving is possible, with the best conditions during September to February.
 
 ### Diving Opportunities
 
-- **Boat Diving**: 27 boat-accessible sites reached through local dive operators
-- **Wreck Diving**: 1 wreck sites ranging from historic vessels to purpose-sunk artificial reefs
+- **Boat Diving**: Boat-accessible sites reached through local dive operators
+- **Wreck Diving**: Wreck sites ranging from historic vessels to purpose-sunk artificial reefs
 - **Reef Diving**: Healthy coral reef systems supporting diverse marine ecosystems
 - **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
 

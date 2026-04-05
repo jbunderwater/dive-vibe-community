@@ -8,14 +8,14 @@ Panama's Caribbean archipelago where warm, calm waters shelter diverse coral gar
 
 ## Description
 
-Bocas del Toro is a Caribbean archipelago off Panama's northwestern coast, offering 13 documented dive sites ranging from 7 to 42 meters depth. The diving spans shallow coral gardens ideal for beginners around Isla Bastimentos and Isla Solarte, deeper pinnacles like Tiger Rock for advanced divers, and two wreck sites including the Barco Hundido. Most dive sites sit between Colon and Solarte Islands and are reachable within 5 to 10 minutes by boat from Bocas Town.
+Bocas del Toro is a Caribbean archipelago off Panama's northwestern coast, offering diverse dive sites ranging from 7 to 42 meters depth. The diving spans shallow coral gardens ideal for beginners around Isla Bastimentos and Isla Solarte, deeper pinnacles like Tiger Rock for advanced divers, and two wreck sites including the Barco Hundido. Most dive sites sit between Colon and Solarte Islands and are reachable within 5 to 10 minutes by boat from Bocas Town.
 
 ### Diving Opportunities
 
-- **Boat Diving**: 12 boat-accessible sites spread across the archipelago, from shallow reef dives at Hospital Point (7m) to the deep pinnacle at Tiger Rock (42m)
-- **Shore Diving**: 1 shore-accessible site at Cayo Coral, a beginner-friendly reef at 8 meters
-- **Wreck Diving**: 2 wreck sites including Wreck Rock and Barco Hundido, both at intermediate depths around 17-22 meters
-- **Reef Diving**: 7 reef sites featuring colorful sponges, hard and soft corals, and sea grass beds across the islands
+- **Boat Diving**: Boat-accessible sites spread across the archipelago, from shallow reef dives at Hospital Point (7m) to the deep pinnacle at Tiger Rock (42m)
+- **Shore Diving**: Shore-accessible site at Cayo Coral, a beginner-friendly reef at 8 meters
+- **Wreck Diving**: Wreck sites including Wreck Rock and Barco Hundido, both at intermediate depths around 17-22 meters
+- **Reef Diving**: Reef sites featuring colorful sponges, hard and soft corals, and sea grass beds across the islands
 - **Wall & Cave Diving**: Polo Beach Wall on Isla Bastimentos features underwater cave systems with schools of snapper, grouper, and lobster; Long Cay Wall drops to 28 meters
 
 ### Accessibility

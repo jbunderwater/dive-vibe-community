@@ -8,16 +8,16 @@ Diamond Rock's cathedral-sized tunnel dive, twelve wrecks from the catastrophic 
 
 ## Description
 
-Martinique offers 23 documented dive sites ranging from 2 to 60 meters depth, spanning the volcanic coast from St. Pierre in the north to Diamond Rock in the south. The 1902 eruption of Mount Pelee destroyed the town of St. Pierre and sank over seven vessels in the harbor — including the Roraima, considered one of the Caribbean's premier wreck dives. At the southern tip, Diamond Rock (Rocher du Diamant) rises 175 meters from the sea with a triangular tunnel large enough to swim through, connecting both sides of the volcanic islet. Between these landmarks, the leeward coast offers accessible reef diving and shore entries.
+Martinique offers diverse dive sites ranging from 2 to 60 meters depth, spanning the volcanic coast from St. Pierre in the north to Diamond Rock in the south. The 1902 eruption of Mount Pelee destroyed the town of St. Pierre and sank over seven vessels in the harbor — including the Roraima, considered one of the Caribbean's premier wreck dives. At the southern tip, Diamond Rock (Rocher du Diamant) rises 175 meters from the sea with a triangular tunnel large enough to swim through, connecting both sides of the volcanic islet. Between these landmarks, the leeward coast offers accessible reef diving and shore entries.
 
 ### Diving Opportunities
 
-- **Boat Diving**: 18 boat-accessible sites including Diamond Rock, St. Pierre wrecks, and offshore reef systems
-- **Shore Diving**: 5 shore-accessible sites including Anse Dufour and Anse Noire — known for turtle encounters in shallow water
-- **Wreck Diving**: 5 documented wreck sites concentrated at St. Pierre, including remnants from steamers, schooners, and barges sunk during the 1902 eruption. The Roraima (a Canadian steamship) is the signature wreck dive.
-- **Wall Diving**: 3 wall sites along the volcanic coast with dramatic drop-offs
-- **Cave Diving**: 1 cave site with volcanic formations
-- **Reef Diving**: 14 reef sites along the calm Caribbean leeward coast with healthy hard and soft coral formations
+- **Boat Diving**: Boat-accessible sites including Diamond Rock, St. Pierre wrecks, and offshore reef systems
+- **Shore Diving**: Shore-accessible sites including Anse Dufour and Anse Noire — known for turtle encounters in shallow water
+- **Wreck Diving**: Documented wreck sites concentrated at St. Pierre, including remnants from steamers, schooners, and barges sunk during the 1902 eruption. The Roraima (a Canadian steamship) is the signature wreck dive.
+- **Wall Diving**: Wall sites along the volcanic coast with dramatic drop-offs
+- **Cave Diving**: Cave site with volcanic formations
+- **Reef Diving**: Reef sites along the calm Caribbean leeward coast with healthy hard and soft coral formations
 
 ### Accessibility
 

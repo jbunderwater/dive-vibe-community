@@ -8,14 +8,14 @@ A volcanic island chain between Lombok and Komodo offering whale shark encounter
 
 ## Description
 
-Sumbawa stretches across the north coast of the island of the same name in Nusa Tenggara, bridging the gap between Lombok and Komodo National Park. The database documents 13 dive sites with depths from 18 to 40 meters, spread across three distinct diving areas: the marine park at Moyo Island, the volcanic black sand slopes of Sangeang Island, and the reefs around eastern Sumbawa's Komodo corridor. Sumbawa is frequently included on liveaboard itineraries connecting Komodo to Alor.
+Sumbawa stretches across the north coast of the island of the same name in Nusa Tenggara, bridging the gap between Lombok and Komodo National Park. Dive sites range in depth with depths from 18 to 40 meters, spread across three distinct diving areas: the marine park at Moyo Island, the volcanic black sand slopes of Sangeang Island, and the reefs around eastern Sumbawa's Komodo corridor. Sumbawa is frequently included on liveaboard itineraries connecting Komodo to Alor.
 
 ### Diving Opportunities
 
-- **Wall Diving**: 4 sites including Angel Reef, Little Angel, Sumbawa Wall, and Tanjung Batu Putih, with dramatic sheer drop-offs and pelagic visitors around Moyo Island
-- **Reef Diving**: 6 sites ranging from sheltered Panjang Reef (30m, suitable for beginners) to current-swept Tanduk Rusa and Rollercoaster (advanced, with strong drift conditions)
-- **Muck Diving**: 2 sites (Satonda Reef at the sunken volcanic caldera, Tikno Reef) with black sand critter habitat including blue-ringed octopus and frogfish
-- **Boat Diving**: All 13 sites are boat-access, reached from Moyo Island resorts or liveaboard vessels
+- **Wall Diving**: Sites including Angel Reef, Little Angel, Sumbawa Wall, and Tanjung Batu Putih, with dramatic sheer drop-offs and pelagic visitors around Moyo Island
+- **Reef Diving**: Sites ranging from sheltered Panjang Reef (30m, suitable for beginners) to current-swept Tanduk Rusa and Rollercoaster (advanced, with strong drift conditions)
+- **Muck Diving**: Sites (Satonda Reef at the sunken volcanic caldera, Tikno Reef) with black sand critter habitat including blue-ringed octopus and frogfish
+- **Boat Diving**: All sites are boat-access, reached from Moyo Island resorts or liveaboard vessels
 
 ### Accessibility
 

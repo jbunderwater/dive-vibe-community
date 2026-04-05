@@ -8,13 +8,13 @@ Extreme cold-water diving in pristine wilderness waters, featuring kelp forests,
 
 ## Description
 
-Alaska offers 31 documented dive sites with depths ranging from 12 to 30 meters, including 22 reef sites and 9 wreck sites. All sites are rated Advanced difficulty due to the remote locations, cold water temperatures, and challenging conditions. Dive sites span from the Inside Passage of Southeast Alaska (Juneau, Sitka, Ketchikan) to Prince William Sound and the remote Aleutian Islands, covering a coastline that stretches over 54,000 kilometers. The waters support rich cold-water ecosystems with kelp forests, colorful invertebrate walls, and encounters with marine mammals found nowhere else in such abundance.
+Alaska offers diverse dive sites with depths ranging from 12 to 30 meters, including reef sites and wreck sites. All sites are rated Advanced difficulty due to the remote locations, cold water temperatures, and challenging conditions. Dive sites span from the Inside Passage of Southeast Alaska (Juneau, Sitka, Ketchikan) to Prince William Sound and the remote Aleutian Islands, covering a coastline that stretches over 54,000 kilometers. The waters support rich cold-water ecosystems with kelp forests, colorful invertebrate walls, and encounters with marine mammals found nowhere else in such abundance.
 
 ### Diving Opportunities
 
-- **Boat Diving**: All 31 sites require boat access, reflecting Alaska's remote and rugged coastline
-- **Reef Diving**: 22 reef sites including Bligh Reef (site of the 1989 Exxon Valdez grounding) in Prince William Sound, Vanderbilt Reef near Juneau, and numerous reefs in the Haida Gwaii-adjacent waters of Southeast Alaska
-- **Wreck Diving**: 9 wreck sites including the MV Vashon (sunk 1986), MV Leschi (historic steam ferry sunk 1978 in Prince William Sound), USS Coldbrook, M/V Oduna (1965), and the Boat Graveyard near Sitka
+- **Boat Diving**: All sites require boat access, reflecting Alaska's remote and rugged coastline
+- **Reef Diving**: Reef sites including Bligh Reef (site of the 1989 Exxon Valdez grounding) in Prince William Sound, Vanderbilt Reef near Juneau, and numerous reefs in the Haida Gwaii-adjacent waters of Southeast Alaska
+- **Wreck Diving**: Wreck sites including the MV Vashon (sunk 1986), MV Leschi (historic steam ferry sunk 1978 in Prince William Sound), USS Coldbrook, M/V Oduna (1965), and the Boat Graveyard near Sitka
 
 ### Accessibility
 

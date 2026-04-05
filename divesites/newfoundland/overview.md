@@ -8,12 +8,12 @@ Iceberg diving, historic shipwrecks, and cold-water marine life.
 
 ## Description
 
-Newfoundland is a notable diving destination in the North America region, offering 4 documented dive sites with depths ranging from 25 to 35 meters. Water temperatures average 7-24°C (45-75°F), with visibility typically reaching 5-25 meters (15-80 feet). The diving season runs June to October, with the best conditions during June to October.
+Newfoundland is a notable diving destination in the North America region, offering diverse dive sites with depths ranging from 25 to 35 meters. Water temperatures average 7-24°C (45-75°F), with visibility typically reaching 5-25 meters (15-80 feet). The diving season runs June to October, with the best conditions during June to October.
 
 ### Diving Opportunities
 
-- **Boat Diving**: 4 boat-accessible sites reached through local dive operators
-- **Wreck Diving**: 4 wreck sites ranging from historic vessels to purpose-sunk artificial reefs
+- **Boat Diving**: Boat-accessible sites reached through local dive operators
+- **Wreck Diving**: Wreck sites ranging from historic vessels to purpose-sunk artificial reefs
 - **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
 
 ### Accessibility

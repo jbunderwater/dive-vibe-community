@@ -8,11 +8,11 @@ Atlantic paradise with blue sharks, mobula rays, and pristine volcanic formation
 
 ## Description
 
-Azores is a notable diving destination in the Europe region, offering 1 documented dive sites with depths ranging from 35 to 35 meters. Water temperatures average 10-25°C (50-77°F), with visibility typically reaching 10-40 meters (30-130 feet). The diving season runs May to October, with the best conditions during May to October.
+Azores is a notable diving destination in the Europe region, offering diverse dive sites with depths ranging from 35 to 35 meters. Water temperatures average 10-25°C (50-77°F), with visibility typically reaching 10-40 meters (30-130 feet). The diving season runs May to October, with the best conditions during May to October.
 
 ### Diving Opportunities
 
-- **Boat Diving**: 1 boat-accessible sites reached through local dive operators
+- **Boat Diving**: Boat-accessible sites reached through local dive operators
 - **Wreck Diving**: Historic shipwrecks preserved in the region's waters
 - **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
 

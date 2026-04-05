@@ -8,15 +8,15 @@ The "Nature Isle" of the Caribbean, where volcanic underwater hot springs create
 
 ## Description
 
-Dominica is a rugged, volcanic island in the eastern Caribbean known for pristine, uncrowded dive sites along its sheltered west coast. Our database documents 12 sites ranging from 10 to 40 meters depth, including 6 reef sites, 4 wall dives, and 2 pinnacles. The island's volcanic geology produces unique underwater features found nowhere else in the Caribbean — geothermal vents that create curtains of warm bubbles at Champagne Reef, dramatic pinnacles rising from deep water, and nutrient-rich conditions that support dense marine life. Dominica is also the only place in the world with a year-round resident population of sperm whales, though whale encounters are snorkel-only by regulation.
+Dominica is a rugged, volcanic island in the eastern Caribbean known for pristine, uncrowded dive sites along its sheltered west coast. Our database documents 12 sites ranging from 10 to 40 meters depth, including reef sites, wall dives, and pinnacles. The island's volcanic geology produces unique underwater features found nowhere else in the Caribbean — geothermal vents that create curtains of warm bubbles at Champagne Reef, dramatic pinnacles rising from deep water, and nutrient-rich conditions that support dense marine life. Dominica is also the only place in the world with a year-round resident population of sperm whales, though whale encounters are snorkel-only by regulation.
 
 ### Diving Opportunities
 
-- **Shore Diving**: 3 shore-accessible sites, including the famous Champagne Reef where volcanic gases bubble through fissures in the seafloor, creating a sensation of diving through champagne.
-- **Boat Diving**: 9 boat-accessible sites along the west coast, with most operators running from Roseau and Soufriere. Boat rides to sites are typically short.
-- **Wall Diving**: 4 wall dive sites with volcanic drop-offs along the leeward coast, featuring sponge-covered faces and overhangs.
-- **Pinnacle Diving**: 2 pinnacle sites rising from deep water, attracting schooling fish and pelagics.
-- **Reef Diving**: 6 reef sites over volcanic substrate, with healthy coral growth supported by nutrient-rich volcanic water.
+- **Shore Diving**: Shore-accessible sites, including the famous Champagne Reef where volcanic gases bubble through fissures in the seafloor, creating a sensation of diving through champagne.
+- **Boat Diving**: Boat-accessible sites along the west coast, with most operators running from Roseau and Soufriere. Boat rides to sites are typically short.
+- **Wall Diving**: Wall dive sites with volcanic drop-offs along the leeward coast, featuring sponge-covered faces and overhangs.
+- **Pinnacle Diving**: Pinnacle sites rising from deep water, attracting schooling fish and pelagics.
+- **Reef Diving**: Reef sites over volcanic substrate, with healthy coral growth supported by nutrient-rich volcanic water.
 
 ### Accessibility
 

@@ -4,18 +4,18 @@ addedBy: osm_import
 
 ## Grenada
 
-Home to the Bianca C — the "Titanic of the Caribbean" — and the world's first Underwater Sculpture Park, with volcanic reef formations and over 40 dive sites off the southern coast.
+Home to the Bianca C — the "Titanic of the Caribbean" — and the world's first Underwater Sculpture Park, with volcanic reef formations and extensive dive sites off the southern coast.
 
 ## Description
 
-Grenada sits at the southern end of the Windward Islands, offering a distinctive mix of wreck diving, art installations, and healthy Caribbean reefs. Our database documents 12 key sites ranging from 8 to 40 meters depth, including 3 significant wrecks, 7 reef sites, and 2 wall dives. The island's volcanic origins create dramatic underwater topography, and the nutrient-rich waters support dense coral growth. Grenada's flagship attractions — the 180-meter Bianca C wreck and the Molinere Bay Underwater Sculpture Park — draw divers from around the world, but the island's quieter reef sites offer excellent biodiversity without the crowds found at other Caribbean destinations.
+Grenada sits at the southern end of the Windward Islands, offering a distinctive mix of wreck diving, art installations, and healthy Caribbean reefs. Our database documents 12 key sites ranging from 8 to 40 meters depth, including 3 significant wrecks, reef sites, and wall dives. The island's volcanic origins create dramatic underwater topography, and the nutrient-rich waters support dense coral growth. Grenada's flagship attractions — the 180-meter Bianca C wreck and the Molinere Bay Underwater Sculpture Park — draw divers from around the world, but the island's quieter reef sites offer excellent biodiversity without the crowds found at other Caribbean destinations.
 
 ### Diving Opportunities
 
-- **Wreck Diving**: 3 wreck sites including the Bianca C (a 180-meter Italian cruise liner sunk in 1961 at 40m depth — advanced certification required), the Veronica L, and the Shakem.
-- **Boat Diving**: All 12 documented sites are boat dives, with most operators running from Grand Anse and the Carenage in St. George's. Most sites are within minutes of the harbour.
-- **Reef Diving**: 7 reef sites featuring volcanic rock formations, sponge gardens, and healthy hard coral. Notable sites include Purple Rain, Shark Reef, and Fisherman's Paradise.
-- **Wall Diving**: 2 wall dive sites with steep drop-offs along the island's western coast.
+- **Wreck Diving**: Wreck sites including the Bianca C (a 180-meter Italian cruise liner sunk in 1961 at 40m depth — advanced certification required), the Veronica L, and the Shakem.
+- **Boat Diving**: All sites are boat dives, with most operators running from Grand Anse and the Carenage in St. George's. Most sites are within minutes of the harbour.
+- **Reef Diving**: Reef sites featuring volcanic rock formations, sponge gardens, and healthy hard coral. Notable sites include Purple Rain, Shark Reef, and Fisherman's Paradise.
+- **Wall Diving**: Wall dive sites with steep drop-offs along the island's western coast.
 - **Night Diving**: Available through operators, with the Sculpture Park being a popular night dive option.
 
 ### Accessibility

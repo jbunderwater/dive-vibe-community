@@ -8,16 +8,16 @@ Pillars of Hercules rock formations, Cades Reef marine park with wall dives and 
 
 ## Description
 
-Antigua and Barbuda offers 10 documented dive sites ranging from 8 to 30 meters depth, with most diving concentrated around Antigua's south and west coasts. Cades Reef, the island's premier dive area, provides a range from beginner-friendly shallow reef sites at 10-12 meters to deeper wall dives at 25-30 meters. The waters near English Harbour and Nelson's Dockyard hold historic wrecks, while Barbuda's remote reefs remain largely unexplored and uncrowded.
+Antigua and Barbuda offers diverse dive sites ranging from 8 to 30 meters depth, with most diving concentrated around Antigua's south and west coasts. Cades Reef, the island's premier dive area, provides a range from beginner-friendly shallow reef sites at 10-12 meters to deeper wall dives at 25-30 meters. The waters near English Harbour and Nelson's Dockyard hold historic wrecks, while Barbuda's remote reefs remain largely unexplored and uncrowded.
 
 ### Diving Opportunities
 
-- **Boat Diving**: 9 boat-accessible sites across Cades Reef, the south coast, and Barbuda
-- **Shore Diving**: 1 shore-accessible site
-- **Wreck Diving**: 2 wreck sites including the Andes Wreck and other vessels in the historic English Harbour approaches
-- **Wall Diving**: 2 wall sites at Cades Reef including deeper sections like Snapper Ledge and The Abyss (25-30m)
-- **Drift Diving**: 1 drift dive site with currents along the reef edge
-- **Reef Diving**: 5 reef sites including the Aquarium, Coral Garden, Pillars, and Passage at Cades Reef — popular for beginners at 10-12 meters depth
+- **Boat Diving**: Boat-accessible sites across Cades Reef, the south coast, and Barbuda
+- **Shore Diving**: Shore-accessible site
+- **Wreck Diving**: Wreck sites including the Andes Wreck and other vessels in the historic English Harbour approaches
+- **Wall Diving**: Wall sites at Cades Reef including deeper sections like Snapper Ledge and The Abyss (25-30m)
+- **Drift Diving**: Drift dive site with currents along the reef edge
+- **Reef Diving**: Reef sites including the Aquarium, Coral Garden, Pillars, and Passage at Cades Reef — popular for beginners at 10-12 meters depth
 
 ### Accessibility
 

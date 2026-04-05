@@ -8,12 +8,12 @@ World-famous manta ray encounters, reef sharks, and unique cultural experiences.
 
 ## Description
 
-Micronesia - Yap is a notable diving destination in the Pacific region, offering 5 documented dive sites with depths ranging from 2 to 25 meters. Water temperatures average 24-30°C (75-86°F), with visibility typically reaching 20-50 meters (65-160 feet). Year-round diving is possible, with the best conditions during April to November.
+Micronesia - Yap is a notable diving destination in the Pacific region, offering diverse dive sites with depths ranging from 2 to 25 meters. Water temperatures average 24-30°C (75-86°F), with visibility typically reaching 20-50 meters (65-160 feet). Year-round diving is possible, with the best conditions during April to November.
 
 ### Diving Opportunities
 
-- **Boat Diving**: 5 boat-accessible sites reached through local dive operators
-- **Wreck Diving**: 1 wreck sites ranging from historic vessels to purpose-sunk artificial reefs
+- **Boat Diving**: Boat-accessible sites reached through local dive operators
+- **Wreck Diving**: Wreck sites ranging from historic vessels to purpose-sunk artificial reefs
 - **Reef Diving**: Healthy coral reef systems supporting diverse marine ecosystems
 - **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
 

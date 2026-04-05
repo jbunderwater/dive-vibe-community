@@ -4,20 +4,20 @@ addedBy: osm_import
 
 ## Roatan
 
-Honduras' premier dive island, sitting directly on the Mesoamerican Barrier Reef with over 200 documented dive sites, dramatic wall dives starting at 6 meters, and two on-island recompression chambers.
+Honduras' premier dive island, sitting directly on the Mesoamerican Barrier Reef with extensive documented dive sites, dramatic wall dives starting at 6 meters, and two on-island recompression chambers.
 
 ## Description
 
-Roatan is the largest of Honduras' Bay Islands, located 50 km off the northern coast in the Caribbean Sea. With 218 documented dive sites in our database, it is one of the most dive-dense destinations in the Caribbean. Sites range from 4 to 45 meters depth, with 103 wall dives, 88 reef sites, 10 cave systems, 10 wrecks, 4 drift dives, and 3 pinnacles. The island sits on the southern edge of the Mesoamerican Barrier Reef — the second-largest barrier reef system in the world — giving divers direct access to steep walls, swim-throughs, and healthy coral formations along nearly the entire coastline.
+Roatan is the largest of Honduras' Bay Islands, located 50 km off the northern coast in the Caribbean Sea. It is one of the most dive-dense destinations in the Caribbean. Sites span a wide range of depths and types, including walls, reefs, caves, wrecks, drift dives, and pinnacles. The island sits on the southern edge of the Mesoamerican Barrier Reef — the second-largest barrier reef system in the world — giving divers direct access to steep walls, swim-throughs, and healthy coral formations along nearly the entire coastline.
 
 ### Diving Opportunities
 
-- **Wall Diving**: 103 wall dive sites line the island's reef, many starting at just 6-10 meters before dropping into deep blue. Destinations like Mary's Place offer dramatic vertical fissures and swim-throughs.
-- **Boat Diving**: 207 boat-accessible sites spread across the island's north and south shores, with most dive operators running short 5-15 minute boat rides to sites.
-- **Shore Diving**: 11 shore-accessible sites, including several along West Bay and Half Moon Bay.
-- **Wreck Diving**: 10 wreck sites including the El Aguila (a 63-meter cargo ship intentionally sunk in 1997), the Odyssey Wreck, and the Shang Ying.
-- **Cave Diving**: 10 cave and cavern sites offering swim-throughs and tunnels within the reef structure.
-- **Reef Diving**: 88 reef sites with healthy hard and soft coral coverage along the barrier reef.
+- **Wall Diving**: Wall dive sites line the island's reef, many starting at just 6-10 meters before dropping into deep blue. Destinations like Mary's Place offer dramatic vertical fissures and swim-throughs.
+- **Boat Diving**: Boat-accessible sites spread across the island's north and south shores, with most dive operators running short 5-15 minute boat rides to sites.
+- **Shore Diving**: Shore-accessible sites, including several along West Bay and Half Moon Bay.
+- **Wreck Diving**: Wreck sites including the El Aguila (a 63-meter cargo ship intentionally sunk in 1997), the Odyssey Wreck, and the Shang Ying.
+- **Cave Diving**: Cave and cavern sites offering swim-throughs and tunnels within the reef structure.
+- **Reef Diving**: Reef sites with healthy hard and soft coral coverage along the barrier reef.
 - **Night Diving**: Widely available from operators across the island, with bioluminescent displays and active nocturnal marine life.
 
 ### Accessibility

@@ -8,15 +8,15 @@ France's premier Caribbean diving destination, anchored by the Jacques Cousteau 
 
 ## Description
 
-Guadeloupe offers 31 documented dive sites ranging from 6 to 40 meters depth, concentrated around the volcanic west coast of Basse-Terre. The centerpiece is the Cousteau Marine Park surrounding Pigeon Island, where 13 buoyed dive sites protect thriving coral ecosystems despite heavy diving traffic. Beyond the reserve, divers find dramatic wall dives, eight documented wrecks, and the spectacular Sec Pate pinnacle — widely considered one of Guadeloupe's most impressive sites.
+Guadeloupe offers diverse dive sites ranging from 6 to 40 meters depth, concentrated around the volcanic west coast of Basse-Terre. The centerpiece is the Cousteau Marine Park surrounding Pigeon Island, where 13 buoyed dive sites protect thriving coral ecosystems despite heavy diving traffic. Beyond the reserve, divers find dramatic wall dives, eight documented wrecks, and the spectacular Sec Pate pinnacle — widely considered one of Guadeloupe's most impressive sites.
 
 ### Diving Opportunities
 
-- **Boat Diving**: 29 boat-accessible sites including the Cousteau Reserve sites at Pigeon Island, accessible in minutes from Malendure beach
-- **Shore Diving**: 2 shore-accessible sites along the Basse-Terre coast
-- **Wreck Diving**: 8 wreck sites including the Augustin Fresnel and other vessels along the leeward coast
-- **Wall Diving**: 6 wall dive sites along Basse-Terre's steep volcanic drop-offs
-- **Reef Diving**: 16 reef sites with healthy hard and soft coral formations in the protected marine park
+- **Boat Diving**: Boat-accessible sites including the Cousteau Reserve sites at Pigeon Island, accessible in minutes from Malendure beach
+- **Shore Diving**: Shore-accessible sites along the Basse-Terre coast
+- **Wreck Diving**: Wreck sites including the Augustin Fresnel and other vessels along the leeward coast
+- **Wall Diving**: Wall dive sites along Basse-Terre's steep volcanic drop-offs
+- **Reef Diving**: Reef sites with healthy hard and soft coral formations in the protected marine park
 - **Pinnacle Diving**: Sec Pate, a dramatic offshore pinnacle rising from depth
 
 ### Accessibility

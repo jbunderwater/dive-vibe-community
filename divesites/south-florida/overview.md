@@ -8,14 +8,14 @@ Year-round warm-water diving along the Southeast Florida Reef Tract, from the Bl
 
 ## Description
 
-South Florida features 12 documented dive sites spanning from Key Biscayne north to Palm Beach County, with depths ranging from 3 to 24 meters. The region sits along the Southeast Florida Reef Tract, the only living coral reef system in the continental United States, running parallel to shore with reef lines remarkably close to the beach. Lauderdale-by-the-Sea is recognized as the "Shore Diving Capital of South Florida" with living reef just 100-400 feet from the beach. The Gulf Stream current passes close to shore, delivering warm, clear water and enabling signature drift diving where divers float along the reef while the boat follows their bubbles.
+South Florida features documented dive sites spanning from Key Biscayne north to Palm Beach County, with depths ranging from 3 to 24 meters. The region sits along the Southeast Florida Reef Tract, the only living coral reef system in the continental United States, running parallel to shore with reef lines remarkably close to the beach. Lauderdale-by-the-Sea is recognized as the "Shore Diving Capital of South Florida" with living reef just 100-400 feet from the beach. The Gulf Stream current passes close to shore, delivering warm, clear water and enabling signature drift diving where divers float along the reef while the boat follows their bubbles.
 
 ### Diving Opportunities
 
-- **Wreck Diving**: 5 wreck sites including the SS Inchulva/Delray Wreck (1903 steamship at 7.6m), Lofthus (1898 shipwreck on the National Register of Historic Places), SS Copenhagen (popular underwater preserve with 10,000 annual visitors), Tenneco Towers (five decommissioned oil platforms at 18-61m), and the Deerfield Beach Artificial Reef complex
-- **Reef Diving**: 6 reef sites including Blue Heron Bridge (world-class macro diving at Phil Foster Park), Anglins Pier Reef (shore-accessible living reef), Breakers Reef (drift dive off Palm Beach), Haulover Ledge, Neptune Memorial Reef (underwater memorial designed as Lost City of Atlantis), and Lauderdale-by-the-Sea Beach
-- **Shore Diving**: 3 shore-accessible sites at Blue Heron Bridge, Anglins Pier Reef, and Lauderdale-by-the-Sea Beach, with the SS Inchulva also reachable from shore
-- **Boat Diving**: 9 boat-access sites with short rides due to the reef tract's proximity to shore
+- **Wreck Diving**: Wreck sites including the SS Inchulva/Delray Wreck (1903 steamship at 7.6m), Lofthus (1898 shipwreck on the National Register of Historic Places), SS Copenhagen (popular underwater preserve with 10,000 annual visitors), Tenneco Towers (five decommissioned oil platforms at 18-61m), and the Deerfield Beach Artificial Reef complex
+- **Reef Diving**: Reef sites including Blue Heron Bridge (world-class macro diving at Phil Foster Park), Anglins Pier Reef (shore-accessible living reef), Breakers Reef (drift dive off Palm Beach), Haulover Ledge, Neptune Memorial Reef (underwater memorial designed as Lost City of Atlantis), and Lauderdale-by-the-Sea Beach
+- **Shore Diving**: Shore-accessible sites at Blue Heron Bridge, Anglins Pier Reef, and Lauderdale-by-the-Sea Beach, with the SS Inchulva also reachable from shore
+- **Boat Diving**: Boat-access sites with short rides due to the reef tract's proximity to shore
 - **Drift Diving**: Prevailing Gulf Stream currents run parallel to the coastline, making drift diving the standard technique at most boat sites
 
 ### Accessibility

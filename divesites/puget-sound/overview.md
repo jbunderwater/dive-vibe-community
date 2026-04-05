@@ -8,13 +8,13 @@ Cold-water diving in the Pacific Northwest's emerald waters, home to giant Pacif
 
 ## Description
 
-Puget Sound offers 34 documented dive sites spanning depths from 12 to 47 meters, with 24 reef sites, 8 wrecks, 1 wall, and 1 artificial reef. The nutrient-rich waters of this inland sea stretching from Olympia to the San Juan Islands support an extraordinary density of marine life, including some of the largest invertebrates on the planet. With more than 75 shore-diving sites within an hour of Seattle and over 160 sites across the region, Puget Sound is one of the most accessible cold-water diving destinations in North America.
+Puget Sound offers diverse dive sites spanning depths from 12 to 47 meters, with reef sites, wrecks, 1 wall, and 1 artificial reef. The nutrient-rich waters of this inland sea stretching from Olympia to the San Juan Islands support an extraordinary density of marine life, including some of the largest invertebrates on the planet. With more than 75 shore-diving sites within an hour of Seattle and over 160 sites across the region, Puget Sound is one of the most accessible cold-water diving destinations in North America.
 
 ### Diving Opportunities
 
-- **Shore Diving**: 2 accessible shore dive sites including Edmonds Underwater Park and Seacrest Park (Cove 2), both popular training and recreational sites with easy entries
-- **Boat Diving**: 30 boat-accessible sites throughout the San Juan Islands, Hood Canal, and central Puget Sound, with operators running two- and three-tank charters
-- **Wreck Diving**: 8 wreck sites including the SS Dauntless (1923 Mosquito Fleet steamship), USCGC Tiger (Coast Guard vessel), and the Wreck of a PB4Y bomber in Lake Washington at 47 meters (technical dive)
+- **Shore Diving**: Accessible shore dive sites including Edmonds Underwater Park and Seacrest Park (Cove 2), both popular training and recreational sites with easy entries
+- **Boat Diving**: Boat-accessible sites throughout the San Juan Islands, Hood Canal, and central Puget Sound, with operators running two- and three-tank charters
+- **Wreck Diving**: Wreck sites including the SS Dauntless (1923 Mosquito Fleet steamship), USCGC Tiger (Coast Guard vessel), and the Wreck of a PB4Y bomber in Lake Washington at 47 meters (technical dive)
 - **Wall Diving**: Yellow Bluff Reef in Hood Canal drops to 24+ meters with dramatic wall structure
 
 ### Accessibility

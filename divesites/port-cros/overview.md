@@ -8,15 +8,15 @@ Europe's oldest marine national park, established in 1963 on France's Cote d'Azu
 
 ## Description
 
-Port-Cros documents 18 dive sites across the island's protected waters and surrounding area, with depths ranging from 8 to 53 meters. The destination features a diverse mix of reef sites (9), historic wrecks (6), and wall dives (3), with the vast majority accessed by boat (16 sites). As France's first national park to include marine territory, Port-Cros offers some of the most biodiverse Mediterranean diving available, with the iconic Gabiniere islet accounting for the majority of dives in the park.
+Port-Cros documents dive sites across the island's protected waters and surrounding area, with depths ranging from 8 to 53 meters. The destination features a diverse mix of reef sites (9), historic wrecks (6), and wall dives (3), with the vast majority accessed by boat (16 sites). As France's first national park to include marine territory, Port-Cros offers some of the most biodiverse Mediterranean diving available, with the iconic Gabiniere islet accounting for the majority of dives in the park.
 
 ### Diving Opportunities
 
-- **Boat Diving**: 16 sites accessed by boat from Hyeres, Le Lavandou, or Cavalaire, with crossing times of approximately 30-60 minutes depending on departure point
-- **Shore Diving**: 2 shore-accessible sites within the protected waters
-- **Reef Diving**: 9 reef sites including La Gabiniere (east drop-off and shallows), Cape Montremian, and La Tourelle de la Dame, ranging from 10 to 45 meters
-- **Wreck Diving**: 6 wrecks including the renowned Donator (a 78-meter cargo ship at 47-52 meters) and Le Grec, both considered among the finest wreck dives in the Mediterranean. Depths range from 25 to 53 meters, suitable for advanced and technical divers
-- **Wall Diving**: 3 wall dives along the island's volcanic drop-offs, with gorgonian fans and dense fish aggregations
+- **Boat Diving**: Sites accessed by boat from Hyeres, Le Lavandou, or Cavalaire, with crossing times of approximately 30-60 minutes depending on departure point
+- **Shore Diving**: Shore-accessible sites within the protected waters
+- **Reef Diving**: Reef sites including La Gabiniere (east drop-off and shallows), Cape Montremian, and La Tourelle de la Dame, ranging from 10 to 45 meters
+- **Wreck Diving**: Wrecks including the renowned Donator (a 78-meter cargo ship at 47-52 meters) and Le Grec, both considered among the finest wreck dives in the Mediterranean. Depths range from 25 to 53 meters, suitable for advanced and technical divers
+- **Wall Diving**: Wall dives along the island's volcanic drop-offs, with gorgonian fans and dense fish aggregations
 
 ### Accessibility
 

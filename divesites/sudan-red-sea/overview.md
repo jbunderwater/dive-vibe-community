@@ -8,12 +8,12 @@ Pristine Red Sea reefs, shark encounters, and WWII wrecks in remote waters.
 
 ## Description
 
-Sudan Red Sea is a premier diving destination in the Middle East region, offering 24 documented dive sites with depths ranging from 20 to 20 meters. Water temperatures average 22-30°C (72-86°F), with visibility typically reaching 20-40 meters (65-130 feet). Year-round diving is possible, with the best conditions during September to May.
+Sudan Red Sea is a premier diving destination in the Middle East region, offering diverse dive sites with depths ranging from 20 to 20 meters. Water temperatures average 22-30°C (72-86°F), with visibility typically reaching 20-40 meters (65-130 feet). Year-round diving is possible, with the best conditions during September to May.
 
 ### Diving Opportunities
 
-- **Boat Diving**: 24 boat-accessible sites reached through local dive operators
-- **Wreck Diving**: 5 wreck sites ranging from historic vessels to purpose-sunk artificial reefs
+- **Boat Diving**: Boat-accessible sites reached through local dive operators
+- **Wreck Diving**: Wreck sites ranging from historic vessels to purpose-sunk artificial reefs
 - **Reef Diving**: Healthy coral reef systems supporting diverse marine ecosystems
 - **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
 

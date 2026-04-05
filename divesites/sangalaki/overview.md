@@ -8,15 +8,15 @@ Indonesia's manta ray capital off East Kalimantan, where resident mantas patrol 
 
 ## Description
 
-The Derawan Archipelago comprises 31 islands off East Kalimantan (Indonesian Borneo), with Sangalaki, Kakaban, Maratua, and Derawan as the primary dive islands. The database documents 13 dive sites with depths from 15 to 65 meters. The archipelago ranks second only to Raja Ampat for coral diversity in Indonesia, with over 460 coral species and 870 fish species documented. Sangalaki island is the focal point for year-round manta ray encounters and is one of the largest green sea turtle nesting sites in the Celebes Sea.
+The Derawan Archipelago comprises 31 islands off East Kalimantan (Indonesian Borneo), with Sangalaki, Kakaban, Maratua, and Derawan as the primary dive islands. Dive sites range in depth with depths from 15 to 65 meters. The archipelago ranks second only to Raja Ampat for coral diversity in Indonesia, with over 460 coral species and 870 fish species documented. Sangalaki island is the focal point for year-round manta ray encounters and is one of the largest green sea turtle nesting sites in the Celebes Sea.
 
 ### Diving Opportunities
 
-- **Reef Diving**: 7 sites including Manta Run, Manta Avenue, Manta Parade, Coral Gardens, Turtle Town, Turtle Traffic, and North Sangalou, many featuring manta ray cleaning stations and turtle encounters
-- **Wall Diving**: 3 sites (Barracuda Point, Gorgonzola, Kelapa Dua) with dramatic drop-offs, gorgonian sea fans, and strong currents attracting large pelagics
-- **Drift Diving**: 1 site (Big Fish Country) off Maratua atoll with grey reef sharks, eagle rays, and schooling barracuda in strong currents
-- **Cave Diving**: 1 site (Blue Light Cave) at 65 meters depth off Kakaban, for experienced technical divers only
-- **Shore Diving**: 1 site (Kakaban Jellyfish Lake) for the unique experience of swimming among thousands of stingless jellyfish in a landlocked saltwater lake
+- **Reef Diving**: Sites including Manta Run, Manta Avenue, Manta Parade, Coral Gardens, Turtle Town, Turtle Traffic, and North Sangalou, many featuring manta ray cleaning stations and turtle encounters
+- **Wall Diving**: Sites (Barracuda Point, Gorgonzola, Kelapa Dua) with dramatic drop-offs, gorgonian sea fans, and strong currents attracting large pelagics
+- **Drift Diving**: Site (Big Fish Country) off Maratua atoll with grey reef sharks, eagle rays, and schooling barracuda in strong currents
+- **Cave Diving**: Site (Blue Light Cave) at 65 meters depth off Kakaban, for experienced technical divers only
+- **Shore Diving**: Site (Kakaban Jellyfish Lake) for the unique experience of swimming among thousands of stingless jellyfish in a landlocked saltwater lake
 
 ### Accessibility
 

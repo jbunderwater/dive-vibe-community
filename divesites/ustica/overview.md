@@ -8,15 +8,15 @@ Volcanic Mediterranean island 60 km north of Palermo, home to Italy's first mari
 
 ## Description
 
-Ustica's database documents 13 dive sites around the island, with depths ranging from 10 to 38 meters. As the emerging summit of a submarine volcano, Ustica offers an unusual variety of underwater terrain for the Mediterranean: caves (4 sites), walls (3 sites), pinnacles (2 sites), reefs (3 sites), and a seamount. The island's Marine Protected Area -- Italy's oldest -- has produced thriving marine ecosystems after decades of protection, and boat rides to all dive sites take under 15 minutes from the port.
+Ustica offers dive sites around the island with depths ranging from 10 to 38 meters. As the emerging summit of a submarine volcano, the island provides an unusual variety of underwater terrain for the Mediterranean: caves, walls, pinnacles, reefs, and a seamount. The island's Marine Protected Area -- Italy's oldest -- has produced thriving marine ecosystems after decades of protection, and boat rides to all dive sites take under 15 minutes from the port.
 
 ### Diving Opportunities
 
-- **Boat Diving**: 11 sites accessed by boat from the island's small harbour, with short transit times around the 3.5 km-wide island
-- **Shore Diving**: 2 shore-accessible sites for independent exploration
-- **Cave Diving**: 4 cave sites including Grotta dei Gamberi (Shrimp Cave) with colonies of Plesionika narval shrimp, and Grotta della Pastizza, considered one of the best night dive locations on the island
-- **Wall Diving**: 3 wall dives along volcanic drop-offs, including sites at Punta dell'Arpa with its red gorgonian forest
-- **Pinnacle Diving**: 2 pinnacle sites including Secca della Colombara, where clouds of barracuda and pelagic fish gather around the offshore reef
+- **Boat Diving**: Sites accessed by boat from the island's small harbour, with short transit times around the 3.5 km-wide island
+- **Shore Diving**: Shore-accessible sites for independent exploration
+- **Cave Diving**: Cave sites including Grotta dei Gamberi (Shrimp Cave) with colonies of Plesionika narval shrimp, and Grotta della Pastizza, considered one of the best night dive locations on the island
+- **Wall Diving**: Wall dives along volcanic drop-offs, including sites at Punta dell'Arpa with its red gorgonian forest
+- **Pinnacle Diving**: Pinnacle sites including Secca della Colombara, where clouds of barracuda and pelagic fish gather around the offshore reef
 - **Archaeological Diving**: Two marked underwater archaeological itineraries at Punta Omo Morto and Spalmatore, with ancient anchors, pottery, and artifacts from antiquity
 
 ### Accessibility

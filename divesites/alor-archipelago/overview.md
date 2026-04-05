@@ -8,14 +8,14 @@ Indonesia's rising macro and big-current destination where Rhinopias hunting mee
 
 ## Description
 
-The Alor Archipelago sits at the eastern end of the Lesser Sunda Islands, in the heart of the Coral Triangle. The database documents 10 dive sites with depths from 16 to 40 meters. Diving here divides into two distinct characters: Kalabahi Bay offers world-class muck diving on black volcanic sand, while the Pantar Strait delivers powerful drift dives along dramatic walls and pinnacles. Alor's remoteness means divers often have sites entirely to themselves.
+The Alor Archipelago sits at the eastern end of the Lesser Sunda Islands, in the heart of the Coral Triangle. Dive sites range in depth with depths from 16 to 40 meters. Diving here divides into two distinct characters: Kalabahi Bay offers world-class muck diving on black volcanic sand, while the Pantar Strait delivers powerful drift dives along dramatic walls and pinnacles. Alor's remoteness means divers often have sites entirely to themselves.
 
 ### Diving Opportunities
 
-- **Wall Diving**: 5 sites including The Cathedral, Shark Close, Mike's Delight, Babylon, and Pantar Strait, featuring sheer drop-offs with strong currents and large pelagic encounters
-- **Muck Diving**: 3 sites (Mucky Mosque, The Boardroom, Beang Abang) in Kalabahi Bay's black volcanic sand, home to Rhinopias, frogfish, ghost pipefish, and rare crustaceans
-- **Pinnacle Diving**: 1 site (Kal's Dream) with current-swept seamounts attracting schooling fish and pelagics
-- **Reef Diving**: 1 site (Clown Valley) with fields of anemones and colorful reef fish
+- **Wall Diving**: Sites including The Cathedral, Shark Close, Mike's Delight, Babylon, and Pantar Strait, featuring sheer drop-offs with strong currents and large pelagic encounters
+- **Muck Diving**: Sites (Mucky Mosque, The Boardroom, Beang Abang) in Kalabahi Bay's black volcanic sand, home to Rhinopias, frogfish, ghost pipefish, and rare crustaceans
+- **Pinnacle Diving**: Sites (Kal's Dream) with current-swept seamounts attracting schooling fish and pelagics
+- **Reef Diving**: Site (Clown Valley) with fields of anemones and colorful reef fish
 
 ### Accessibility
 

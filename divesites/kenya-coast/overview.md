@@ -8,16 +8,16 @@ East African coral gardens within protected marine parks, where whale sharks, ma
 
 ## Description
 
-The Kenya Coast database documents 10 dive sites across the country's marine parks and reef systems, with depths ranging from 15 to 30 meters. Diving is concentrated around five marine parks -- Kisite-Mpunguti, Watamu, Mombasa, Malindi, and Kiunga -- stretching along Kenya's Indian Ocean coastline. The majority of sites are boat-access dives (9 of 10) featuring reef formations, wall dives, caves, and one notable wreck.
+The Kenya Coast database documents dive sites across the country's marine parks and reef systems, with depths ranging from 15 to 30 meters. Diving is concentrated around five marine parks -- Kisite-Mpunguti, Watamu, Mombasa, Malindi, and Kiunga -- stretching along Kenya's Indian Ocean coastline. The majority of sites are boat-access dives (9 of 10) featuring reef formations, wall dives, caves, and one notable wreck.
 
 ### Diving Opportunities
 
-- **Boat Diving**: 9 sites accessed by boat, typical for Kenya's reef systems which lie offshore beyond the fringing reef
-- **Shore Diving**: 1 shore-accessible site
-- **Reef Diving**: 6 coral reef sites featuring hard and soft coral gardens with over 45 coral species documented in Kisite-Mpunguti alone
-- **Wall Diving**: 1 wall dive with reef drop-offs characteristic of the deeper sections along the coast
-- **Cave Diving**: 2 cave or swim-through sites within the reef structures
-- **Wreck Diving**: 1 wreck dive
+- **Boat Diving**: Sites accessed by boat, typical for Kenya's reef systems which lie offshore beyond the fringing reef
+- **Shore Diving**: Shore-accessible site
+- **Reef Diving**: Coral reef sites featuring hard and soft coral gardens with over 45 coral species documented in Kisite-Mpunguti alone
+- **Wall Diving**: Wall dive with reef drop-offs characteristic of the deeper sections along the coast
+- **Cave Diving**: Cave or swim-through sites within the reef structures
+- **Wreck Diving**: Wreck dive
 
 ### Accessibility
 

@@ -8,15 +8,15 @@ Southern California's premier dive destination featuring towering kelp forests a
 
 ## Description
 
-San Diego and La Jolla offer 10 documented dive sites with depths ranging from 15 to 30 meters, combining cold-water kelp forest ecosystems with wreck diving and dramatic underwater topography. The area is anchored by the La Jolla Ecological Reserve, where giant kelp forests create a cathedral-like underwater environment, and Wreck Alley off Mission Beach, where multiple vessels have been sunk as artificial reefs. The La Jolla submarine canyon drops from the edge of the kelp forest to over 40 meters within the recreational range, offering wall-like diving unusual for the California coast.
+San Diego and La Jolla offer documented dive sites with depths ranging from 15 to 30 meters, combining cold-water kelp forest ecosystems with wreck diving and dramatic underwater topography. The area is anchored by the La Jolla Ecological Reserve, where giant kelp forests create a cathedral-like underwater environment, and Wreck Alley off Mission Beach, where multiple vessels have been sunk as artificial reefs. The La Jolla submarine canyon drops from the edge of the kelp forest to over 40 meters within the recreational range, offering wall-like diving unusual for the California coast.
 
 ### Diving Opportunities
 
-- **Wreck Diving**: 6 wreck sites including Wreck Alley (multiple vessels), HMCS Yukon (Cold War destroyer escort sunk in 2000), USS PC-815 (WWII patrol craft), Sunken Harbor, the historic SS Monte Carlo (prohibition-era gambling ship), and Yukon Wreck
-- **Reef & Kelp Diving**: 3 reef sites at La Jolla Cove (giant kelp forest in ecological reserve), La Jolla Shores (sandy entry to kelp beds), and Zuniga Jetty (rocky reef structure)
+- **Wreck Diving**: Wreck sites including Wreck Alley (multiple vessels), HMCS Yukon (Cold War destroyer escort sunk in 2000), USS PC-815 (WWII patrol craft), Sunken Harbor, the historic SS Monte Carlo (prohibition-era gambling ship), and Yukon Wreck
+- **Reef & Kelp Diving**: Reef sites at La Jolla Cove (giant kelp forest in ecological reserve), La Jolla Shores (sandy entry to kelp beds), and Zuniga Jetty (rocky reef structure)
 - **Canyon Diving**: La Jolla Canyon offers a deep submarine canyon accessible from shore, dropping from 35 feet at the rim to 130+ feet
-- **Shore Diving**: 4 shore-accessible sites including La Jolla Cove, La Jolla Shores, La Jolla Canyon, and the SS Monte Carlo (visible at low tide off Coronado)
-- **Boat Diving**: 6 boat-access sites, primarily in Wreck Alley, departing from Mission Bay and Point Loma
+- **Shore Diving**: Shore-accessible sites including La Jolla Cove, La Jolla Shores, La Jolla Canyon, and the SS Monte Carlo (visible at low tide off Coronado)
+- **Boat Diving**: Boat-access sites, primarily in Wreck Alley, departing from Mission Bay and Point Loma
 
 ### Accessibility
 

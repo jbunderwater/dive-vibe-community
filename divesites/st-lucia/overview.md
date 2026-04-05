@@ -8,17 +8,17 @@ Dramatic Piton wall dives beneath a UNESCO World Heritage volcanic landscape, wi
 
 ## Description
 
-St. Lucia is a volcanic island in the eastern Caribbean best known for its twin Pitons — Gros Piton and Petit Piton — which plunge underwater as steep walls covered in sea whips, gorgonians, and soft corals. Our database documents 15 dive sites ranging from 12 to 50 meters depth, including 6 reef sites, 3 wall dives, 3 wrecks, 2 pinnacles, and 1 drift dive. The Soufriere Marine Management Area (SMMA) protects the prime diving zone beneath the Pitons, where coral reefs cover nearly 60% of the seafloor. The island's west coast is sheltered and calm, making it accessible for divers of all levels.
+St. Lucia is a volcanic island in the eastern Caribbean best known for its twin Pitons — Gros Piton and Petit Piton — which plunge underwater as steep walls covered in sea whips, gorgonians, and soft corals. Our database documents dive sites ranging from 12 to 50 meters depth, including reef sites, wall dives, wrecks, pinnacles, and drift dives. The Soufriere Marine Management Area (SMMA) protects the prime diving zone beneath the Pitons, where coral reefs cover nearly 60% of the seafloor. The island's west coast is sheltered and calm, making it accessible for divers of all levels.
 
 ### Diving Opportunities
 
-- **Wall Diving**: 3 wall dive sites at the base of the Pitons, where volcanic slopes drop steeply into deep water. Superman's Flight at Petit Piton is the signature dive — a dramatic wall drift where divers "fly" along the face with arms outstretched.
-- **Boat Diving**: 12 boat-accessible sites, mostly concentrated along the southwest coast between Soufriere and Anse Chastanet.
-- **Shore Diving**: 3 shore-accessible sites, including Anse Chastanet reef which starts at 5 meters and progresses to 18 meters — popular for beginners and snorkelers.
-- **Wreck Diving**: 3 wreck sites including the Lesleen M (a 50-meter freighter deliberately sunk in 1986 at 20m depth), the Daini Koyomaru, and El Pirata.
-- **Pinnacle Diving**: 2 pinnacle sites including Keyhole Pinnacles, with underwater formations rising from deeper water.
+- **Wall Diving**: Wall dive sites at the base of the Pitons, where volcanic slopes drop steeply into deep water. Superman's Flight at Petit Piton is the signature dive — a dramatic wall drift where divers "fly" along the face with arms outstretched.
+- **Boat Diving**: Boat-accessible sites, mostly concentrated along the southwest coast between Soufriere and Anse Chastanet.
+- **Shore Diving**: Shore-accessible sites, including Anse Chastanet reef which starts at 5 meters and progresses to 18 meters — popular for beginners and snorkelers.
+- **Wreck Diving**: Wreck sites including the Lesleen M (a 50-meter freighter deliberately sunk in 1986 at 20m depth), the Daini Koyomaru, and El Pirata.
+- **Pinnacle Diving**: Pinnacle sites including Keyhole Pinnacles, with underwater formations rising from deeper water.
 - **Drift Diving**: Superman's Flight is the island's signature drift dive along the Petit Piton wall.
-- **Reef Diving**: 6 reef sites with healthy hard coral, barrel sponges, and gorgonian fans.
+- **Reef Diving**: Reef sites with healthy hard coral, barrel sponges, and gorgonian fans.
 
 ### Accessibility
 

@@ -8,14 +8,14 @@ Cold-water Atlantic diving with historic shipwrecks spanning centuries and rocky
 
 ## Description
 
-Nova Scotia's waters hold 54 documented dive sites ranging from 12 to 38 meters depth, spread along hundreds of kilometers of rugged Atlantic coastline. The province is renowned for its shipwreck heritage, with 14 wreck sites in our database including vessels from the 1800s through the mid-20th century, such as the Norwegian barque Tordenskjold (1879), the British tanker Kars (1942), and several wartime aircraft. Cold North Atlantic waters support dense kelp forests, plumose anemones, and thriving lobster populations across 39 reef sites. Diving here demands cold-water experience and proper thermal protection, but rewards divers with excellent visibility and uncrowded sites.
+Nova Scotia's waters hold documented dive sites ranging from 12 to 38 meters depth, spread along hundreds of kilometers of rugged Atlantic coastline. The province is renowned for its shipwreck heritage, with wreck sites in our database including vessels from the 1800s through the mid-20th century, such as the Norwegian barque Tordenskjold (1879), the British tanker Kars (1942), and several wartime aircraft. Cold North Atlantic waters support dense kelp forests, plumose anemones, and thriving lobster populations across reef sites. Diving here demands cold-water experience and proper thermal protection, but rewards divers with excellent visibility and uncrowded sites.
 
 ### Diving Opportunities
 
-- **Boat Diving**: 53 boat-accessible sites make up the vast majority of Nova Scotia diving, reaching depths of 12-38 meters across reefs, ledges, and wrecks scattered along the coast.
-- **Wreck Diving**: 14 wreck sites spanning over 150 years of maritime history, including sailing vessels, wartime barges, naval ships like HMCS Ypres, fighter aircraft, and the famous Marco Polo clipper ship at 35 meters.
-- **Shore Diving**: 1 documented shore entry at Fox Point Beach (12m depth), though additional shore dives exist around the Halifax area at sites like Point Pleasant Park, The Dingle, and Ferguson's Cove.
-- **Reef Diving**: 39 reef and ledge sites featuring cold-water rocky reef ecosystems with kelp forests, urchin barrens, and abundant invertebrate life.
+- **Boat Diving**: Boat-accessible sites make up the vast majority of Nova Scotia diving, reaching depths of 12-38 meters across reefs, ledges, and wrecks scattered along the coast.
+- **Wreck Diving**: Wreck sites spanning over 150 years of maritime history, including sailing vessels, wartime barges, naval ships like HMCS Ypres, fighter aircraft, and the famous Marco Polo clipper ship at 35 meters.
+- **Shore Diving**: Documented shore entry at Fox Point Beach (12m depth), though additional shore dives exist around the Halifax area at sites like Point Pleasant Park, The Dingle, and Ferguson's Cove.
+- **Reef Diving**: Reef and ledge sites featuring cold-water rocky reef ecosystems with kelp forests, urchin barrens, and abundant invertebrate life.
 
 ### Accessibility
 

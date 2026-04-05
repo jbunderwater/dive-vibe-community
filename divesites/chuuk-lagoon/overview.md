@@ -8,12 +8,12 @@ The world's greatest wreck diving destination with the WWII 'Ghost Fleet'.
 
 ## Description
 
-Chuuk Lagoon is a notable diving destination in the Pacific region, offering 7 documented dive sites with depths ranging from 20 to 37 meters. Chuuk Lagoon is particularly known for world's greatest wreck diving, WWII Ghost Fleet, Japanese naval vessels. Notable sites include Fujikawa Maru, Shinkoku Maru, San Francisco Maru. Water temperatures average 24-30°C (75-86°F), with visibility typically reaching 20-50 meters (65-160 feet). Year-round diving is possible, with the best conditions during April to November.
+Chuuk Lagoon is a notable diving destination in the Pacific region, offering diverse dive sites with depths ranging from 20 to 37 meters. Chuuk Lagoon is particularly known for world's greatest wreck diving, WWII Ghost Fleet, Japanese naval vessels. Notable sites include Fujikawa Maru, Shinkoku Maru, San Francisco Maru. Water temperatures average 24-30°C (75-86°F), with visibility typically reaching 20-50 meters (65-160 feet). Year-round diving is possible, with the best conditions during April to November.
 
 ### Diving Opportunities
 
-- **Boat Diving**: 7 boat-accessible sites reached through local dive operators
-- **Wreck Diving**: 7 wreck sites ranging from historic vessels to purpose-sunk artificial reefs
+- **Boat Diving**: Boat-accessible sites reached through local dive operators
+- **Wreck Diving**: Wreck sites ranging from historic vessels to purpose-sunk artificial reefs
 - **Reef Diving**: Healthy coral reef systems supporting diverse marine ecosystems
 - **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
 

@@ -8,13 +8,13 @@ Affordable tropical diving, beginner-friendly sites, and pristine coral reefs.
 
 ## Description
 
-Koh Tao is a notable diving destination in the Asia region, offering 17 documented dive sites with depths ranging from 10 to 35 meters. Koh Tao is particularly known for affordable diving, beginner-friendly, whale shark sightings. Notable sites include Chumphon Pinnacle, Sail Rock, Southwest Pinnacle. Water temperatures average 26-30°C (79-86°F), with visibility typically reaching 10-40 meters (30-130 feet). Year-round diving is possible, with the best conditions during October to April (varies by location).
+Koh Tao is a notable diving destination in the Asia region, offering diverse dive sites with depths ranging from 10 to 35 meters. Koh Tao is particularly known for affordable diving, beginner-friendly, whale shark sightings. Notable sites include Chumphon Pinnacle, Sail Rock, Southwest Pinnacle. Water temperatures average 26-30°C (79-86°F), with visibility typically reaching 10-40 meters (30-130 feet). Year-round diving is possible, with the best conditions during October to April (varies by location).
 
 ### Diving Opportunities
 
-- **Shore Diving**: 1 accessible shore dive sites offering convenient, self-guided diving experiences
-- **Boat Diving**: 16 boat-accessible sites reached through local dive operators
-- **Wreck Diving**: 1 wreck sites ranging from historic vessels to purpose-sunk artificial reefs
+- **Shore Diving**: Accessible shore dive sites offering convenient, self-guided diving experiences
+- **Boat Diving**: Boat-accessible sites reached through local dive operators
+- **Wreck Diving**: Wreck sites ranging from historic vessels to purpose-sunk artificial reefs
 - **Reef Diving**: Healthy coral reef systems supporting diverse marine ecosystems
 - **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
 

@@ -8,14 +8,14 @@ Cold-water diving along Canada's Pacific coast, where emerald kelp forests shelt
 
 ## Description
 
-British Columbia offers 172 documented dive sites spanning depths from 12 to 46 meters, with 132 reef sites, 16 wrecks, 15 wall sites, 5 kelp sites, and 4 muck sites. The nutrient-rich waters between mainland BC and Vancouver Island create some of the most productive cold-water ecosystems on the planet, with winter visibility reaching its best when plankton blooms subside and river runoff stops. Jacques Cousteau ranked BC's waters second only to the Red Sea for marine life diversity, and the region's artificial reef program has sunk several decommissioned warships to create world-class wreck dives.
+British Columbia offers diverse dive sites spanning depths from 12 to 46 meters, with reef sites, wrecks, wall sites, 5 kelp sites, and muck sites. The nutrient-rich waters between mainland BC and Vancouver Island create some of the most productive cold-water ecosystems on the planet, with winter visibility reaching its best when plankton blooms subside and river runoff stops. Jacques Cousteau ranked BC's waters second only to the Red Sea for marine life diversity, and the region's artificial reef program has sunk several decommissioned warships to create world-class wreck dives.
 
 ### Diving Opportunities
 
-- **Shore Diving**: 13 accessible shore dive sites including Porteau Cove Provincial Park (20 minutes north of Vancouver with artificial reefs and easy entry) and Saxe Point near Victoria
-- **Boat Diving**: 159 boat-accessible sites spread across Howe Sound, the Gulf Islands, Nanaimo, Campbell River, Discovery Passage, and the remote waters around Port Hardy and God's Pocket
-- **Wreck Diving**: 16 wreck sites including the HMCS Saskatchewan and HMCS Cape Breton artificial reefs off Nanaimo, and the Barnard Castle near Race Rocks
-- **Wall Diving**: 15 wall sites with dramatic drop-offs, including sites along Vancouver Island's eastern shoreline
+- **Shore Diving**: Accessible shore dive sites including Porteau Cove Provincial Park (20 minutes north of Vancouver with artificial reefs and easy entry) and Saxe Point near Victoria
+- **Boat Diving**: Boat-accessible sites spread across Howe Sound, the Gulf Islands, Nanaimo, Campbell River, Discovery Passage, and the remote waters around Port Hardy and God's Pocket
+- **Wreck Diving**: Wreck sites including the HMCS Saskatchewan and HMCS Cape Breton artificial reefs off Nanaimo, and the Barnard Castle near Race Rocks
+- **Wall Diving**: Wall sites with dramatic drop-offs, including sites along Vancouver Island's eastern shoreline
 
 ### Accessibility
 

@@ -8,7 +8,7 @@ Arctic diving with dramatic kelp forests, historic wrecks, steep wall dives, and
 
 ## Description
 
-Norway Lofoten Islands is a premier Arctic diving destination in northern Norway, offering 11 documented dive sites with depths ranging from 10 to 32 meters. Water temperatures range from 0-3°C in winter to 10-15°C in summer. Visibility typically ranges 10-20 meters, with calm summer conditions bringing clearer water to 20+ meters. The optimal diving season runs May to October, with summer months (June-August) providing the warmest water and calmest conditions.
+Norway Lofoten Islands is a premier Arctic diving destination in northern Norway, offering diverse dive sites with depths ranging from 10 to 32 meters. Water temperatures range from 0-3°C in winter to 10-15°C in summer. Visibility typically ranges 10-20 meters, with calm summer conditions bringing clearer water to 20+ meters. The optimal diving season runs May to October, with summer months (June-August) providing the warmest water and calmest conditions.
 
 ### Diving Opportunities
 

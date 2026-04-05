@@ -12,7 +12,7 @@ Utila is a premier dive destination in the Caribbean, surrounded by continuous f
 
 ### Diving Opportunities
 
-- **Boat Diving**: 1 boat-accessible sites reached through local dive operators
+- **Boat Diving**: Boat-accessible sites reached through local dive operators
 - **Reef Diving**: Healthy coral reef systems supporting diverse marine ecosystems
 - **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
 

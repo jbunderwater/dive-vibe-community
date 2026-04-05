@@ -8,15 +8,15 @@ The Dutch Caribbean's hidden gem — a volcanic island with a marine park larger
 
 ## Description
 
-Sint Eustatius (Statia) offers 10 documented dive sites ranging from 6 to 29 meters depth within a protected marine park encompassing 36 official moored sites. Named the best diving in the Caribbean by National Geographic and topping Scuba Diving Magazine's 2023 Reader's Choice Awards, Statia delivers uncrowded diving on volcanic lava formations overgrown with coral and sponges. The Charles L. Brown, a 100-meter former AT&T cable-laying vessel deliberately sunk in 2003, is one of the Caribbean's largest accessible wrecks.
+Sint Eustatius (Statia) offers diverse dive sites ranging from 6 to 29 meters depth within a protected marine park encompassing 36 official moored sites. Named the best diving in the Caribbean by National Geographic and topping Scuba Diving Magazine's 2023 Reader's Choice Awards, Statia delivers uncrowded diving on volcanic lava formations overgrown with coral and sponges. The Charles L. Brown, a 100-meter former AT&T cable-laying vessel deliberately sunk in 2003, is one of the Caribbean's largest accessible wrecks.
 
 ### Diving Opportunities
 
-- **Boat Diving**: 9 boat-accessible sites across the marine park, all with permanent moorings to protect the reef
-- **Shore Diving**: 1 shore-accessible site
-- **Wreck Diving**: 2 documented wrecks including the Charles L. Brown (31m depth, 100m length) and the Chien Tong, a Taiwanese fishing vessel accessible from the harbor at 24m
-- **Wall Diving**: 3 wall sites including Grand Canyon and Drop Off, both exceeding 40 meters for advanced divers
-- **Reef Diving**: 5 reef sites on volcanic lava flows fully colonized by coral and giant barrel sponges
+- **Boat Diving**: Boat-accessible sites across the marine park, all with permanent moorings to protect the reef
+- **Shore Diving**: Shore-accessible site
+- **Wreck Diving**: Documented wrecks including the Charles L. Brown (31m depth, 100m length) and the Chien Tong, a Taiwanese fishing vessel accessible from the harbor at 24m
+- **Wall Diving**: Wall sites including Grand Canyon and Drop Off, both exceeding 40 meters for advanced divers
+- **Reef Diving**: Reef sites on volcanic lava flows fully colonized by coral and giant barrel sponges
 - **Historical Diving**: Anchor Point features a coral-encrusted French anchor dating to approximately 1750; Triple Wreck and Double Wreck offer archaeological interest from the island's colonial trading era
 
 ### Accessibility

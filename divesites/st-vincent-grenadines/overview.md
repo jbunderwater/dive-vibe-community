@@ -8,15 +8,15 @@ Tobago Cays Marine Park with Horseshoe Reef turtle encounters, volcanic black sa
 
 ## Description
 
-St. Vincent and the Grenadines offers 10 documented dive sites ranging from 10 to 36 meters depth, spread across the volcanic main island and the southern Grenadine cays. The Tobago Cays Marine Park anchors the diving with Horseshoe Reef and World's End Reef, where green turtles, nurse sharks, and eagle rays patrol pristine coral gardens. St. Vincent's leeward coast features volcanic formations with black sand muck diving and cave sites, while Union Island serves as the gateway to the southern Grenadines' uncrowded reefs.
+St. Vincent and the Grenadines offers diverse dive sites ranging from 10 to 36 meters depth, spread across the volcanic main island and the southern Grenadine cays. The Tobago Cays Marine Park anchors the diving with Horseshoe Reef and World's End Reef, where green turtles, nurse sharks, and eagle rays patrol pristine coral gardens. St. Vincent's leeward coast features volcanic formations with black sand muck diving and cave sites, while Union Island serves as the gateway to the southern Grenadines' uncrowded reefs.
 
 ### Diving Opportunities
 
-- **Boat Diving**: All 10 documented sites are boat-accessible, with departures from St. Vincent, Bequia, Union Island, and Canouan
-- **Wall Diving**: 2 wall sites along volcanic drop-offs on St. Vincent's leeward coast
-- **Reef Diving**: 6 reef sites including Horseshoe Reef and World's End Reef in the Tobago Cays, and Anchor Reef and Bottle Reef in the Grenadines
-- **Cave Diving**: 1 cave site (Bat Cave) off St. Vincent's coast
-- **Muck Diving**: 1 muck diving site on St. Vincent's volcanic black sand slopes, offering critter hunting in an unusual Caribbean setting
+- **Boat Diving**: All sites are boat-accessible, with departures from St. Vincent, Bequia, Union Island, and Canouan
+- **Wall Diving**: Wall sites along volcanic drop-offs on St. Vincent's leeward coast
+- **Reef Diving**: Reef sites including Horseshoe Reef and World's End Reef in the Tobago Cays, and Anchor Reef and Bottle Reef in the Grenadines
+- **Cave Diving**: Cave site (Bat Cave) off St. Vincent's coast
+- **Muck Diving**: Muck diving site on St. Vincent's volcanic black sand slopes, offering critter hunting in an unusual Caribbean setting
 
 ### Accessibility
 

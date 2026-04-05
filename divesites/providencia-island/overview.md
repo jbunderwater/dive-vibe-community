@@ -8,15 +8,15 @@ Colombia's remote Caribbean gem surrounded by the world's third-largest barrier 
 
 ## Description
 
-Providencia Island is a volcanic island in Colombia's San Andres archipelago, widely regarded as the top dive destination in Colombia. The island is protected by a 32-kilometer (20-mile) barrier reef -- the third-largest in the world -- within the UNESCO Seaflower Biosphere Reserve. There are 10 documented dive sites ranging from 12 to 52 meters depth, all within a 15-minute boat ride from shore. The diving features dramatic wall drops, pristine coral reefs, a wreck site, and a cave with spiral tunnel, with consistently warm water and visibility between 25 and 30 meters (80-100 feet).
+Providencia Island is a volcanic island in Colombia's San Andres archipelago, widely regarded as the top dive destination in Colombia. The island is protected by a 32-kilometer (20-mile) barrier reef -- the third-largest in the world -- within the UNESCO Seaflower Biosphere Reserve. There are documented dive sites ranging from 12 to 52 meters depth, all within a 15-minute boat ride from shore. The diving features dramatic wall drops, pristine coral reefs, a wreck site, and a cave with spiral tunnel, with consistently warm water and visibility between 25 and 30 meters (80-100 feet).
 
 ### Diving Opportunities
 
-- **Wall Diving**: 4 wall sites including the deep Stairway to Heaven (52m), Nick's Place (40m), Felipe's Place (25m), and The Pinnacle (35m) -- Providencia's walls are its signature attraction
-- **Reef Diving**: 3 reef sites including Manta's City (20m), Crab Cay Reef (12m, beginner-friendly), and Convento Reef (15m) with patch reefs, pillar coral, and large fish schools
+- **Wall Diving**: Wall sites including the deep Stairway to Heaven (52m), Nick's Place (40m), Felipe's Place (25m), and The Pinnacle (35m) -- Providencia's walls are its signature attraction
+- **Reef Diving**: Reef sites including Manta's City (20m), Crab Cay Reef (12m, beginner-friendly), and Convento Reef (15m) with patch reefs, pillar coral, and large fish schools
 - **Wreck Diving**: Blue Diamond wreck at 24 meters, rated Advanced
 - **Cave Diving**: Table Rock features cave formations at 25 meters with swim-throughs
-- **Boat Diving**: All 10 sites are boat-access, with short rides from the island's dive centers
+- **Boat Diving**: All sites are boat-access, with short rides from the island's dive centers
 
 ### Accessibility
 

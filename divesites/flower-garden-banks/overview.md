@@ -8,13 +8,13 @@ The northernmost coral reefs in the continental United States, rising from salt 
 
 ## Description
 
-Flower Garden Banks National Marine Sanctuary encompasses 8 documented dive sites across 17 reefs and banks, with depths ranging from 7.6 to 43.9 meters. The sanctuary includes 6 reef sites and 2 wall sites, with all sites accessed exclusively by boat — typically multi-day liveaboard trips departing from the Texas coast. The coral cap of the East and West Flower Garden Banks sits atop salt domes and supports over 50% living coral cover, making these among the healthiest reefs in the Western Atlantic.
+Flower Garden Banks National Marine Sanctuary encompasses documented dive sites across 17 reefs and banks, with depths ranging from 7.6 to 43.9 meters. The sanctuary includes reef sites and wall sites, with all sites accessed exclusively by boat — typically multi-day liveaboard trips departing from the Texas coast. The coral cap of the East and West Flower Garden Banks sits atop salt domes and supports over 50% living coral cover, making these among the healthiest reefs in the Western Atlantic.
 
 ### Diving Opportunities
 
-- **Boat Diving**: All 8 sites are boat-access only, reached via liveaboard vessels on 2-3 day expeditions. Typical dive profiles are 21-40 meters (70-130 ft) on the main banks
-- **Reef Diving**: 6 reef sites including East Flower Garden Bank, West Flower Garden Bank, and deeper banks like McGrail Bank (43.9m), Bright Bank (34.1m), Geyer Bank, and Rankin Bank
-- **Wall Diving**: 2 wall sites — Stetson Bank features dramatic pinnacles and ledges, while East Flower Garden Stairway offers a shallower wall profile starting at 7.6 meters
+- **Boat Diving**: All sites are boat-access only, reached via liveaboard vessels on 2-3 day expeditions. Typical dive profiles are 21-40 meters (70-130 ft) on the main banks
+- **Reef Diving**: Reef sites including East Flower Garden Bank, West Flower Garden Bank, and deeper banks like McGrail Bank (43.9m), Bright Bank (34.1m), Geyer Bank, and Rankin Bank
+- **Wall Diving**: Wall sites — Stetson Bank features dramatic pinnacles and ledges, while East Flower Garden Stairway offers a shallower wall profile starting at 7.6 meters
 
 ### Accessibility
 

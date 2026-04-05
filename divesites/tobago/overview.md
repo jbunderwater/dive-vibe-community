@@ -8,17 +8,17 @@ World-class drift diving at Speyside with the largest brain coral in the western
 
 ## Description
 
-Tobago, the smaller sibling of Trinidad and Tobago, punches far above its weight as a dive destination. Our database documents 13 sites ranging from 12 to 40 meters depth, including 8 reef sites, 1 cave, 1 wall, 1 pinnacle, 1 rock formation, and 1 wreck. What makes Tobago exceptional is its position at the confluence of Caribbean and Atlantic waters — nutrient-rich currents from the Orinoco and Amazon rivers feed the reefs, creating marine biodiversity unmatched elsewhere in the Caribbean. Speyside on the northeast coast is the primary dive hub, with 30-40 dive sites within 10 minutes of the jetty, including Kelleston Drain which hosts the largest brain coral in the western hemisphere at over 5 meters wide.
+Tobago, the smaller sibling of Trinidad and Tobago, punches far above its weight as a dive destination. Dive sites range from 12 to 40 meters depth, spanning reefs, caves, walls, pinnacles, and wrecks. What makes Tobago exceptional is its position at the confluence of Caribbean and Atlantic waters — nutrient-rich currents from the Orinoco and Amazon rivers feed the reefs, creating marine biodiversity unmatched elsewhere in the Caribbean. Speyside on the northeast coast is the primary dive hub, with 30-40 dive sites within 10 minutes of the jetty, including Kelleston Drain which hosts the largest brain coral in the western hemisphere at over 5 meters wide.
 
 ### Diving Opportunities
 
-- **Reef Diving**: 8 reef sites benefiting from nutrient-rich waters that produce dense coral growth and abundant fish life. Japanese Gardens off Speyside is one of the most popular, with hard and soft coral gardens descending along sloping terrain.
-- **Boat Diving**: 11 boat-accessible sites, mostly concentrated around Speyside and Little Tobago island in the northeast.
-- **Shore Diving**: 2 shore-accessible sites on the island's sheltered Caribbean coast.
+- **Reef Diving**: Reef sites benefiting from nutrient-rich waters that produce dense coral growth and abundant fish life. Japanese Gardens off Speyside is one of the most popular, with hard and soft coral gardens descending along sloping terrain.
+- **Boat Diving**: Boat-accessible sites, mostly concentrated around Speyside and Little Tobago island in the northeast.
+- **Shore Diving**: Shore-accessible sites on the island's sheltered Caribbean coast.
 - **Drift Diving**: Speyside is renowned for drift diving, with currents carrying divers along reef walls past schooling fish and pelagics.
-- **Wreck Diving**: 1 wreck site — the Maverick Wreck.
-- **Cave Diving**: 1 cave site with swim-through formations in the volcanic rock.
-- **Wall Diving**: 1 wall dive along a steep volcanic drop-off.
+- **Wreck Diving**: Wreck site — the Maverick Wreck.
+- **Cave Diving**: Cave site with swim-through formations in the volcanic rock.
+- **Wall Diving**: Wall dive along a steep volcanic drop-off.
 
 ### Accessibility
 

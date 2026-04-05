@@ -8,13 +8,13 @@ Historic wreck diving and rocky ledge explorations along the Massachusetts, Rhod
 
 ## Description
 
-New England's dive sites span 48 documented locations with depths ranging from 2 to 55 meters, including 12 wreck sites and 36 reef/ledge sites. The waters off Cape Cod, Cape Ann, and the islands hold hundreds of shipwrecks dating from colonial schooners to WWII-era vessels, while boulder fields and rocky ledges teem with lobster, tautog, and seals. Stellwagen Bank National Marine Sanctuary protects critical habitat just north of Cape Cod, and Monomoy Island's seabed is scattered with wrecks of three-masted schooners and 500-foot freighters.
+New England's dive sites span 48 documented locations with depths ranging from 2 to 55 meters, including wreck sites and 36 reef/ledge sites. The waters off Cape Cod, Cape Ann, and the islands hold hundreds of shipwrecks dating from colonial schooners to WWII-era vessels, while boulder fields and rocky ledges teem with lobster, tautog, and seals. Stellwagen Bank National Marine Sanctuary protects critical habitat just north of Cape Cod, and Monomoy Island's seabed is scattered with wrecks of three-masted schooners and 500-foot freighters.
 
 ### Diving Opportunities
 
-- **Shore Diving**: 2 accessible shore dive sites including the Ada K. Damon (intertidal wreck visible at low tide on Crane Beach, Ipswich) and the Frances (1872 wreck at Head of the Meadow Beach, North Truro)
-- **Boat Diving**: 45 boat-accessible sites across Massachusetts Bay, Cape Cod, Rhode Island Sound, and Long Island Sound
-- **Wreck Diving**: 12 documented wreck sites including the SS Pendleton (T2 tanker that broke apart during a 1952 nor'easter off Monomoy), SS James Longstreet (WWII Liberty ship used for aerial target practice off Brewster), and the Wanderer (sunk 1924 off Rhode Island)
+- **Shore Diving**: Accessible shore dive sites including the Ada K. Damon (intertidal wreck visible at low tide on Crane Beach, Ipswich) and the Frances (1872 wreck at Head of the Meadow Beach, North Truro)
+- **Boat Diving**: Boat-accessible sites across Massachusetts Bay, Cape Cod, Rhode Island Sound, and Long Island Sound
+- **Wreck Diving**: Documented wreck sites including the SS Pendleton (T2 tanker that broke apart during a 1952 nor'easter off Monomoy), SS James Longstreet (WWII Liberty ship used for aerial target practice off Brewster), and the Wanderer (sunk 1924 off Rhode Island)
 
 ### Accessibility
 

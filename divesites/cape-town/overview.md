@@ -8,13 +8,13 @@ Cold-water kelp forest diving in the Great African Seaforest, home to seven-gill
 
 ## Description
 
-Cape Town offers 22 documented dive sites spanning the Atlantic Seaboard and False Bay, with depths ranging from 5 to 40 meters. The destination is split between the cold, nutrient-rich Atlantic side -- famous for towering kelp forests of Ecklonia maxima -- and the warmer waters of False Bay, where seven-gill cow sharks aggregate at sites like Shark Alley. With 10 wreck sites, 10 reef and kelp sites, 1 cave, and 1 wall dive, Cape Town provides remarkable variety for a temperate diving destination.
+Cape Town offers diverse dive sites spanning the Atlantic Seaboard and False Bay, with depths ranging from 5 to 40 meters. The destination is split between the cold, nutrient-rich Atlantic side -- famous for towering kelp forests of Ecklonia maxima -- and the warmer waters of False Bay, where seven-gill cow sharks aggregate at sites like Shark Alley. With wreck sites, reef and kelp dives, caves, and wall dives, Cape Town provides remarkable variety for a temperate diving destination.
 
 ### Diving Opportunities
 
-- **Shore Diving**: 12 sites accessible from shore, including kelp forest dives at Long Beach and Partridge Point, making Cape Town one of the best shore diving destinations in Africa
-- **Boat Diving**: 10 boat-access sites in False Bay and around the Cape Peninsula, often combined with seal encounters at Duiker Island
-- **Wreck Diving**: 10 wrecks including the BOS 400, SAS Transvaal, Clan Stewart, and the Phyllisia, ranging from shallow shore-accessible wrecks to deeper boat dives
+- **Shore Diving**: Sites accessible from shore, including kelp forest dives at Long Beach and Partridge Point, making Cape Town one of the best shore diving destinations in Africa
+- **Boat Diving**: Boat-access sites in False Bay and around the Cape Peninsula, often combined with seal encounters at Duiker Island
+- **Wreck Diving**: Wrecks including the BOS 400, SAS Transvaal, Clan Stewart, and the Phyllisia, ranging from shallow shore-accessible wrecks to deeper boat dives
 - **Kelp Forest Diving**: Cape Town's signature experience -- diving through cathedral-like kelp canopies on the Atlantic side, with visibility often exceeding 15 meters during summer upwelling
 - **Shark Diving**: Seven-gill cow sharks in False Bay, pyjama catsharks, and dark shysharks are regularly encountered on reef dives
 

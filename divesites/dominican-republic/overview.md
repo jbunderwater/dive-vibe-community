@@ -8,16 +8,16 @@ Silver Bank humpback whale encounters, Catalina Island wall dives, Bayahibe reef
 
 ## Description
 
-The Dominican Republic offers 17 documented dive sites ranging from 9 to 44 meters depth, spread across Bayahibe, Santo Domingo, and the south coast. Bayahibe serves as the country's primary dive hub with over 20 official sites, including access to Catalina Island and Saona Island. The La Caleta Underwater National Park near Santo Domingo preserves deliberately sunk wrecks and cave systems, while Silver Bank off the north coast provides seasonal humpback whale encounters that draw divers worldwide.
+The Dominican Republic offers diverse dive sites ranging from 9 to 44 meters depth, spread across Bayahibe, Santo Domingo, and the south coast. Bayahibe serves as the country's primary dive hub with over 20 official sites, including access to Catalina Island and Saona Island. The La Caleta Underwater National Park near Santo Domingo preserves deliberately sunk wrecks and cave systems, while Silver Bank off the north coast provides seasonal humpback whale encounters that draw divers worldwide.
 
 ### Diving Opportunities
 
-- **Boat Diving**: 14 boat-accessible sites including Catalina Island walls, Bayahibe reefs, and offshore wrecks
-- **Shore Diving**: 3 shore-accessible sites along the south coast
-- **Wreck Diving**: 5 wreck sites including the Atlantic Princess (11m, encrusted with sponges and coral), the St. George (deep artificial reef), and Guaraguao (sunk in 1999 with displayed underwater artifacts including muskets and cannon balls)
-- **Cave Diving**: 2 cave sites including La Sirena Cave near La Caleta
-- **Wall Diving**: 3 wall sites at Catalina Island and along the south coast drop-offs
-- **Reef Diving**: 7 reef sites including Dos Cocos, La Tortuga, and Aquarium Profundo at Bayahibe
+- **Boat Diving**: Boat-accessible sites including Catalina Island walls, Bayahibe reefs, and offshore wrecks
+- **Shore Diving**: Shore-accessible sites along the south coast
+- **Wreck Diving**: Wreck sites including the Atlantic Princess (11m, encrusted with sponges and coral), the St. George (deep artificial reef), and Guaraguao (sunk in 1999 with displayed underwater artifacts including muskets and cannon balls)
+- **Cave Diving**: Cave sites including La Sirena Cave near La Caleta
+- **Wall Diving**: Wall sites at Catalina Island and along the south coast drop-offs
+- **Reef Diving**: Reef sites including Dos Cocos, La Tortuga, and Aquarium Profundo at Bayahibe
 
 ### Accessibility
 

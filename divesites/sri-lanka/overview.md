@@ -8,11 +8,11 @@ Historic shipwrecks, coral reefs, and seasonal whale shark encounters.
 
 ## Description
 
-Sri Lanka is a notable diving destination in the Asia region, offering 3 documented dive sites with depths ranging from 5 to 20 meters. Water temperatures average 26-30°C (79-86°F), with visibility typically reaching 10-40 meters (30-130 feet). Year-round diving is possible, with the best conditions during October to April (varies by location).
+Sri Lanka is a notable diving destination in the Asia region, offering diverse dive sites with depths ranging from 5 to 20 meters. Water temperatures average 26-30°C (79-86°F), with visibility typically reaching 10-40 meters (30-130 feet). Year-round diving is possible, with the best conditions during October to April (varies by location).
 
 ### Diving Opportunities
 
-- **Boat Diving**: 3 boat-accessible sites reached through local dive operators
+- **Boat Diving**: Boat-accessible sites reached through local dive operators
 - **Reef Diving**: Healthy coral reef systems supporting diverse marine ecosystems
 - **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
 

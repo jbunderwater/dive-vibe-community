@@ -8,15 +8,15 @@ Montego Bay Marine Park reefs, Negril's Throne Room cavern and Arches, vibrant c
 
 ## Description
 
-Jamaica offers 33 documented dive sites ranging from 9 to 40 meters depth, concentrated around Montego Bay, Negril, and Ocho Rios along the north coast. The Montego Bay Marine Park protects colorful reef walls, caves, and a sunken aircraft wreck at 23 meters. Negril's protected waters feature the Throne Room — a beginner-friendly cavern at 18 meters with massive elephant-ear sponges — and the Arches, a natural rock formation dive. With the Cayman Trench dropping away just offshore, Jamaica's north coast walls offer dramatic depth transitions.
+Jamaica offers diverse dive sites ranging from 9 to 40 meters depth, concentrated around Montego Bay, Negril, and Ocho Rios along the north coast. The Montego Bay Marine Park protects colorful reef walls, caves, and a sunken aircraft wreck at 23 meters. Negril's protected waters feature the Throne Room — a beginner-friendly cavern at 18 meters with massive elephant-ear sponges — and the Arches, a natural rock formation dive. With the Cayman Trench dropping away just offshore, Jamaica's north coast walls offer dramatic depth transitions.
 
 ### Diving Opportunities
 
-- **Boat Diving**: All 33 documented sites are boat-accessible from resorts and dive centers along the north coast
-- **Cave Diving**: 3 cave and cavern sites including the Throne Room at Negril (18m, known for elephant-ear sponges) and the Arches
-- **Wall Diving**: 3 wall sites along the north coast, with the Cayman Trench creating dramatic drop-offs offshore
-- **Wreck Diving**: 1 documented wreck site including the Plane Wreck in Montego Bay at 23 meters, where divers can swim through the aircraft fuselage
-- **Reef Diving**: 26 reef sites across Montego Bay Marine Park, Negril, Ocho Rios, and the south coast, with healthy hard and soft coral formations and colorful sponge gardens
+- **Boat Diving**: All sites are boat-accessible from resorts and dive centers along the north coast
+- **Cave Diving**: Cave and cavern sites including the Throne Room at Negril (18m, known for elephant-ear sponges) and the Arches
+- **Wall Diving**: Wall sites along the north coast, with the Cayman Trench creating dramatic drop-offs offshore
+- **Wreck Diving**: Documented wreck site including the Plane Wreck in Montego Bay at 23 meters, where divers can swim through the aircraft fuselage
+- **Reef Diving**: Reef sites across Montego Bay Marine Park, Negril, Ocho Rios, and the south coast, with healthy hard and soft coral formations and colorful sponge gardens
 
 ### Accessibility
 
