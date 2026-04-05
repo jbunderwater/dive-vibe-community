@@ -1,10 +1,10 @@
 ---
 name: Mosquito Pier
-lat: 18.06
-lng: -65.31
+lat: 18.132
+lng: -65.512
 difficulty: Beginner
 maxDepth: 12
-entryType: boat
+entryType: shore
 siteType: reef
 ref: null
 osmId: null

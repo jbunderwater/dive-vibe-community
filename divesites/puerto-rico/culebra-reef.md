@@ -1,7 +1,7 @@
 ---
 name: Culebra Reef
-lat: 18.3
-lng: -65.3
+lat: 18.325
+lng: -65.33
 difficulty: Intermediate
 maxDepth: 18
 entryType: boat

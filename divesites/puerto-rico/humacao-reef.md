@@ -1,7 +1,7 @@
 ---
 name: Humacao Reef
-lat: 18.14
-lng: -65.78
+lat: 18.084
+lng: -65.794
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat

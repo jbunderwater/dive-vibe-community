@@ -1,7 +1,7 @@
 ---
 name: Escambrón Reef
-lat: 18.47
-lng: -66.08
+lat: 18.466
+lng: -66.087
 difficulty: Beginner
 maxDepth: 9
 entryType: shore
