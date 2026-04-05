@@ -2,8 +2,8 @@
 name: Middle Book
 lat: 24.290812
 lng: 124.0955032
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Beginner
+maxDepth: 18
 entryType: boat
 siteType: reef
 ref: null
@@ -24,8 +24,8 @@ Middle Book (ミドルブック) is a reef feature in the Yaeyama Islands, the s
 - **Location**: Yaeyama Islands (Ishigaki area), Okinawa Prefecture, Japan
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20–35 meters (65–115 feet)
 - **Current**: Moderate; manta cleaning stations require some current
 - **Best Time**: October to April for manta ray season peak; year-round but best in winter months when manta populations are highest
