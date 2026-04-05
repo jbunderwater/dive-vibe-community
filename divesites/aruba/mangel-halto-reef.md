@@ -1,7 +1,7 @@
 ---
 name: Mangel Halto Reef
-lat: 12.46
-lng: -69.96
+lat: 12.4653
+lng: -69.9712
 difficulty: Beginner
 maxDepth: 12
 entryType: shore

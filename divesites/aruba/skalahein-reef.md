@@ -1,7 +1,7 @@
 ---
 name: Skalahein Reef
-lat: 12.445
-lng: -69.94
+lat: 12.4706
+lng: -69.9868
 difficulty: Intermediate
 maxDepth: 23
 entryType: boat

@@ -1,7 +1,7 @@
 ---
 name: Mike's Reef
-lat: 12.55
-lng: -70.035
+lat: 12.4687
+lng: -69.9869
 difficulty: Beginner
 maxDepth: 15
 entryType: boat

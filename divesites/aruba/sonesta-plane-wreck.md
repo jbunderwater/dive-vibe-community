@@ -1,7 +1,7 @@
 ---
 name: Sonesta Plane Wreck
-lat: 12.56
-lng: -70.03
+lat: 12.4992
+lng: -70.0295
 difficulty: Beginner
 maxDepth: 12
 entryType: boat

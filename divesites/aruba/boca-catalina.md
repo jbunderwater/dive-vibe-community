@@ -1,7 +1,7 @@
 ---
 name: Boca Catalina
-lat: 12.58
-lng: -70.05
+lat: 12.6059
+lng: -70.0528
 difficulty: Beginner
 maxDepth: 6
 entryType: shore

@@ -1,7 +1,7 @@
 ---
 name: Kantil Reef
-lat: 12.45
-lng: -69.95
+lat: 12.4750
+lng: -70.0010
 difficulty: Advanced
 maxDepth: 27
 entryType: boat

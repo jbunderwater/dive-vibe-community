@@ -1,7 +1,7 @@
 ---
 name: De Palm Slope
-lat: 12.47
-lng: -69.97
+lat: 12.4657
+lng: -69.9851
 difficulty: Intermediate
 maxDepth: 20
 entryType: boat
