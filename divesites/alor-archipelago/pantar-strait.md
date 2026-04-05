@@ -1,7 +1,7 @@
 ---
 name: Pantar Strait
-lat: -8.31
-lng: 124.55
+lat: -8.28
+lng: 124.35
 difficulty: Advanced
 maxDepth: 40
 entryType: boat

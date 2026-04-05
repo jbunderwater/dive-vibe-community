@@ -1,7 +1,7 @@
 ---
 name: Beang Abang
-lat: -8.2
-lng: 124.4
+lat: -8.5087
+lng: 124.1705
 difficulty: Intermediate
 maxDepth: 20
 entryType: boat

@@ -1,7 +1,7 @@
 ---
 name: Clown Valley
-lat: -8.25
-lng: 124.45
+lat: -8.3144
+lng: 124.367
 difficulty: Intermediate
 maxDepth: 30
 entryType: boat

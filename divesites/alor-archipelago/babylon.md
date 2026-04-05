@@ -1,7 +1,7 @@
 ---
 name: Babylon
-lat: -8.27
-lng: 124.49
+lat: -8.2229
+lng: 124.3634
 difficulty: Intermediate
 maxDepth: 28
 entryType: boat

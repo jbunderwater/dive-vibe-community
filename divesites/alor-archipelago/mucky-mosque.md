@@ -1,7 +1,7 @@
 ---
 name: Mucky Mosque
-lat: -8.24
-lng: 124.44
+lat: -8.268
+lng: 124.4255
 difficulty: Intermediate
 maxDepth: 18
 entryType: boat
