@@ -1,7 +1,7 @@
 ---
 name: Charles L. Brown Wreck
-lat: 17.49
-lng: -62.99
+lat: 17.4626
+lng: -62.9902
 difficulty: Advanced
 maxDepth: 29
 entryType: boat

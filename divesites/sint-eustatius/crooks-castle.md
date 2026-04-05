@@ -1,7 +1,7 @@
 ---
 name: Crooks Castle
-lat: 17.47
-lng: -62.97
+lat: 17.4744
+lng: -62.9889
 difficulty: Beginner
 maxDepth: 10
 entryType: boat

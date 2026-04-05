@@ -1,7 +1,7 @@
 ---
 name: Hangover
-lat: 17.5
-lng: -62.995
+lat: 17.4637
+lng: -62.9832
 difficulty: Intermediate
 maxDepth: 17
 entryType: boat

@@ -1,7 +1,7 @@
 ---
 name: Blue Bead Hole
-lat: 17.48
-lng: -62.98
+lat: 17.4776
+lng: -62.9917
 difficulty: Beginner
 maxDepth: 10
 entryType: shore

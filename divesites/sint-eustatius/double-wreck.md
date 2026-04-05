@@ -1,7 +1,7 @@
 ---
 name: Double Wreck
-lat: 17.495
-lng: -62.992
+lat: 17.4793
+lng: -62.9945
 difficulty: Intermediate
 maxDepth: 17
 entryType: boat
