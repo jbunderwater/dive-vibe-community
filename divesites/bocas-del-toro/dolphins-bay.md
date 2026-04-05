@@ -1,7 +1,7 @@
 ---
 name: Dolphins Bay
-lat: 9.33
-lng: -82.23
+lat: 9.24
+lng: -82.255
 difficulty: Beginner
 maxDepth: 10
 entryType: boat

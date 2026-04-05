@@ -1,7 +1,7 @@
 ---
 name: Polo Beach Wall
-lat: 9.35
-lng: -82.26
+lat: 9.292
+lng: -82.158
 difficulty: Advanced
 maxDepth: 30
 entryType: boat

@@ -1,7 +1,7 @@
 ---
 name: Long Cay Wall
-lat: 9.245
-lng: -82.12
+lat: 9.268
+lng: -82.165
 difficulty: Advanced
 maxDepth: 28
 entryType: boat

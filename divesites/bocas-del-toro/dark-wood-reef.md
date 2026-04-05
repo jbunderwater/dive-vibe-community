@@ -1,7 +1,7 @@
 ---
 name: Dark Wood Reef
-lat: 9.3
-lng: -82.19
+lat: 9.315
+lng: -82.2
 difficulty: Intermediate
 maxDepth: 20
 entryType: boat

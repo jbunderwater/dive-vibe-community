@@ -1,7 +1,7 @@
 ---
 name: Cayo Coral
-lat: 9.25
-lng: -82.13
+lat: 9.2444
+lng: -82.1439
 difficulty: Beginner
 maxDepth: 8
 entryType: shore
