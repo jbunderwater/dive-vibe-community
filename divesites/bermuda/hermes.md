@@ -1,15 +1,16 @@
 ---
-name: Hermes
+name: "Hermes"
 lat: 32.35
 lng: -64.7833
-difficulty: Intermediate
+difficulty: "Intermediate"
 maxDepth: 24
-entryType: boat
-siteType: wreck
-ref: null
-osmId: null
-addedBy: osm_import
+entryType: "boat"
+siteType: "wreck"
+ref: ""
+osmId: 0
+addedBy: "osm_import"
 ---
+
 
 ## Hermes
 
