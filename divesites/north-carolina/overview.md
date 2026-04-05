@@ -8,12 +8,12 @@ WWII wrecks and sand tiger shark encounters in the 'Graveyard of the Atlantic'.
 
 ## Description
 
-North Carolina is a notable diving destination in the North America region, offering 7 documented dive sites with depths ranging from 20 to 20 meters. North Carolina is particularly known for WWII U-boat wrecks, sand tiger sharks, Graveyard of the Atlantic. Notable sites include U-352, Caribsea, Papoose. Water temperatures average 7-24°C (45-75°F), with visibility typically reaching 5-25 meters (15-80 feet). The diving season runs June to October, with the best conditions during June to October.
+North Carolina is a notable diving destination in the North America region, offering diverse dive sites with depths ranging from 20 to 20 meters. North Carolina is particularly known for WWII U-boat wrecks, sand tiger sharks, Graveyard of the Atlantic. Notable sites include U-352, Caribsea, Papoose. Water temperatures average 7-24°C (45-75°F), with visibility typically reaching 5-25 meters (15-80 feet). The diving season runs June to October, with the best conditions during June to October.
 
 ### Diving Opportunities
 
-- **Boat Diving**: 7 boat-accessible sites reached through local dive operators
-- **Wreck Diving**: 7 wreck sites ranging from historic vessels to purpose-sunk artificial reefs
+- **Boat Diving**: Boat-accessible sites reached through local dive operators
+- **Wreck Diving**: Wreck sites ranging from historic vessels to purpose-sunk artificial reefs
 - **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
 
 ### Accessibility

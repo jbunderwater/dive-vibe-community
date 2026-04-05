@@ -8,13 +8,13 @@ Red Sea diving with healthy coral reefs and accessible shore diving.
 
 ## Description
 
-Jordan - Aqaba is a notable diving destination in the Middle East region, offering 11 documented dive sites with depths ranging from 15 to 30 meters. Jordan - Aqaba is particularly known for accessible Red Sea diving, military wrecks, healthy reefs. Notable sites include Cedar Pride, Tank wreck, Japanese Garden. Water temperatures average 22-30°C (72-86°F), with visibility typically reaching 20-40 meters (65-130 feet). Year-round diving is possible, with the best conditions during September to May.
+Jordan - Aqaba is a notable diving destination in the Middle East region, offering diverse dive sites with depths ranging from 15 to 30 meters. Jordan - Aqaba is particularly known for accessible Red Sea diving, military wrecks, healthy reefs. Notable sites include Cedar Pride, Tank wreck, Japanese Garden. Water temperatures average 22-30°C (72-86°F), with visibility typically reaching 20-40 meters (65-130 feet). Year-round diving is possible, with the best conditions during September to May.
 
 ### Diving Opportunities
 
-- **Shore Diving**: 3 accessible shore dive sites offering convenient, self-guided diving experiences
-- **Boat Diving**: 8 boat-accessible sites reached through local dive operators
-- **Wreck Diving**: 5 wreck sites ranging from historic vessels to purpose-sunk artificial reefs
+- **Shore Diving**: Accessible shore dive sites offering convenient, self-guided diving experiences
+- **Boat Diving**: Boat-accessible sites reached through local dive operators
+- **Wreck Diving**: Wreck sites ranging from historic vessels to purpose-sunk artificial reefs
 - **Reef Diving**: Healthy coral reef systems supporting diverse marine ecosystems
 - **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
 

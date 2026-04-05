@@ -13,7 +13,7 @@ Scapa Flow is the world's premier cold-water wreck diving destination, located i
 ### Diving Opportunities
 
 - **Boat Diving**: All sites are boat-access only, departing from Stromness on liveaboard or day charter vessels
-- **Wreck Diving**: 10 documented wreck sites spanning WWI German battleships, light cruisers, blockships, and smaller wartime vessels — all requiring boat access
+- **Wreck Diving**: Documented wreck sites spanning WWI German battleships, light cruisers, blockships, and smaller wartime vessels — all requiring boat access
 - **Technical Diving**: The deeper battleships (38–47 meters) attract technical divers; several sites beyond the main fleet (UB-116, James Barrie) offer additional challenges
 
 ### Accessibility

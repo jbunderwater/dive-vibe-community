@@ -4,11 +4,11 @@ addedBy: osm_import
 
 ## Mauritius
 
-Premier Indian Ocean diving destination with over 30 dive sites, renowned for wreck diving, pelagic encounters, and year-round accessibility. Historic Japanese trawlers, intentionally sunk artificial reefs, dramatic cave formations, and thriving coral ecosystems attract divers of all levels.
+Premier Indian Ocean diving destination with extensive dive sites, renowned for wreck diving, pelagic encounters, and year-round accessibility. Historic Japanese trawlers, intentionally sunk artificial reefs, dramatic cave formations, and thriving coral ecosystems attract divers of all levels.
 
 ## Description
 
-Mauritius offers exceptional diving across depths from shallow lagoons (1-5m) to wreck dives beyond 30 meters. Water temperatures range from 20-28°C (68-82°F), providing comfortable diving conditions year-round. Visibility typically reaches 10-30 meters (30-100 feet), with currents varying from none in lagoons to strong at exposed sites. The west coast hosts the highest diversity of marine life, with over 50 dive sites concentrated around Flic en Flac and the northern Trou aux Biches area.
+Mauritius offers exceptional diving across depths from shallow lagoons (1-5m) to wreck dives beyond 30 meters. Water temperatures range from 20-28°C (68-82°F), providing comfortable diving conditions year-round. Visibility typically reaches 10-30 meters (30-100 feet), with currents varying from none in lagoons to strong at exposed sites. The west coast hosts the highest diversity of marine life, with extensive dive sites concentrated around Flic en Flac and the northern Trou aux Biches area.
 
 ### Diving Opportunities
 

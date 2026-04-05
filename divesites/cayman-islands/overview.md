@@ -8,12 +8,12 @@ World-class wall dives, excellent visibility, abundant wreck diving, and the fam
 
 ## Description
 
-Cayman Islands is a premier diving destination in the Caribbean region, offering 16 documented dive sites across three islands (Grand Cayman, Little Cayman, and Cayman Brac) with depths ranging from 4 to 50 meters. The archipelago is particularly known for its dramatic wall dives on both the North and South shores, purposefully sunk artificial reefs like the USS Kittiwake and MV Captain Keith Tibbetts, and the world-famous Stingray City encounter. Water temperatures average 26-29°C (79-84°F), with visibility typically reaching 20-40 meters (65-130 feet). Year-round diving is possible, with the best conditions during December to April (dry season).
+Cayman Islands is a premier diving destination in the Caribbean region, offering diverse dive sites across three islands (Grand Cayman, Little Cayman, and Cayman Brac) with depths ranging from 4 to 50 meters. The archipelago is particularly known for its dramatic wall dives on both the North and South shores, purposefully sunk artificial reefs like the USS Kittiwake and MV Captain Keith Tibbetts, and the world-famous Stingray City encounter. Water temperatures average 26-29°C (79-84°F), with visibility typically reaching 20-40 meters (65-130 feet). Year-round diving is possible, with the best conditions during December to April (dry season).
 
 ### Diving Opportunities
 
-- **Boat Diving**: 2 boat-accessible sites reached through local dive operators
-- **Wreck Diving**: 2 wreck sites ranging from historic vessels to purpose-sunk artificial reefs
+- **Boat Diving**: Boat-accessible sites reached through local dive operators
+- **Wreck Diving**: Wreck sites ranging from historic vessels to purpose-sunk artificial reefs
 - **Reef Diving**: Healthy coral reef systems supporting diverse marine ecosystems
 - **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
 

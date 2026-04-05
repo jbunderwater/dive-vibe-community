@@ -8,12 +8,12 @@ Muck diving, vibrant coral reefs, and potential hammerhead encounters.
 
 ## Description
 
-Lombok is a premier diving destination in the Asia region, offering 31 documented dive sites with depths ranging from 18 to 30 meters. Lombok is particularly known for muck diving, coral reefs, hammerhead encounters at Belongas Bay. Notable sites include Belongas Bay, Magnet, The Playground. Water temperatures average 26-30°C (79-86°F), with visibility typically reaching 10-40 meters (30-130 feet). Year-round diving is possible, with the best conditions during October to April (varies by location).
+Lombok is a premier diving destination in the Asia region, offering diverse dive sites with depths ranging from 18 to 30 meters. Lombok is particularly known for muck diving, coral reefs, hammerhead encounters at Belongas Bay. Notable sites include Belongas Bay, Magnet, The Playground. Water temperatures average 26-30°C (79-86°F), with visibility typically reaching 10-40 meters (30-130 feet). Year-round diving is possible, with the best conditions during October to April (varies by location).
 
 ### Diving Opportunities
 
-- **Boat Diving**: 31 boat-accessible sites reached through local dive operators
-- **Wreck Diving**: 1 wreck sites ranging from historic vessels to purpose-sunk artificial reefs
+- **Boat Diving**: Boat-accessible sites reached through local dive operators
+- **Wreck Diving**: Wreck sites ranging from historic vessels to purpose-sunk artificial reefs
 - **Reef Diving**: Healthy coral reef systems supporting diverse marine ecosystems
 - **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
 

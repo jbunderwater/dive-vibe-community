@@ -4,7 +4,7 @@ addedBy: osm_import
 
 ## Poor Knights Islands
 
-One of the world's top 10 dive destinations, the Poor Knights Islands are renowned for their dramatic archways, caves, tunnels, and walls carved through ancient volcanic rock. Located off Northland, New Zealand, this UNESCO-designated marine reserve offers 11 documented dive sites with depths ranging from 15 to 50 meters. Water temperatures vary seasonally from 14-17°C (winter, May-September) to 19-25°C (summer, November-April), with excellent visibility of 15-30 meters typical, sometimes exceeding 46 meters in winter.
+One of the world's top 10 dive destinations, the Poor Knights Islands are renowned for their dramatic archways, caves, tunnels, and walls carved through ancient volcanic rock. Located off Northland, New Zealand, this UNESCO-designated marine reserve offers diverse dive sites with depths ranging from 15 to 50 meters. Water temperatures vary seasonally from 14-17°C (winter, May-September) to 19-25°C (summer, November-April), with excellent visibility of 15-30 meters typical, sometimes exceeding 46 meters in winter.
 
 ## Description
 

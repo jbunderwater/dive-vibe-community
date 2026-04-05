@@ -8,11 +8,11 @@ Granitic reef structures and diverse tropical marine life in pristine waters.
 
 ## Description
 
-Seychelles is a notable diving destination in the Africa region, offering 1 documented dive sites with depths ranging from 20 to 20 meters. Water temperatures average 20-29°C (68-84°F), with visibility typically reaching 10-30 meters (30-100 feet). Year-round diving is possible, with the best conditions during October to March (East Africa), varies by location.
+Seychelles is a notable diving destination in the Africa region, offering diverse dive sites with depths ranging from 20 to 20 meters. Water temperatures average 20-29°C (68-84°F), with visibility typically reaching 10-30 meters (30-100 feet). Year-round diving is possible, with the best conditions during October to March (East Africa), varies by location.
 
 ### Diving Opportunities
 
-- **Boat Diving**: 1 boat-accessible sites reached through local dive operators
+- **Boat Diving**: Boat-accessible sites reached through local dive operators
 - **Reef Diving**: Healthy coral reef systems supporting diverse marine ecosystems
 - **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
 

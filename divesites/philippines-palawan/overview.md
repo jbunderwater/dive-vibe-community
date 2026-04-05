@@ -8,13 +8,13 @@ WWII wrecks, limestone karst formations, and pristine coral reefs.
 
 ## Description
 
-Philippines Palawan is a notable diving destination in the Asia region, offering 7 documented dive sites with depths ranging from 20 to 36 meters. Water temperatures average 26-30°C (79-86°F), with visibility typically reaching 10-40 meters (30-130 feet). Year-round diving is possible, with the best conditions during October to April (varies by location).
+Philippines Palawan is a notable diving destination in the Asia region, offering diverse dive sites with depths ranging from 20 to 36 meters. Water temperatures average 26-30°C (79-86°F), with visibility typically reaching 10-40 meters (30-130 feet). Year-round diving is possible, with the best conditions during October to April (varies by location).
 
 ### Diving Opportunities
 
-- **Shore Diving**: 1 accessible shore dive sites offering convenient, self-guided diving experiences
-- **Boat Diving**: 6 boat-accessible sites reached through local dive operators
-- **Wreck Diving**: 1 wreck sites ranging from historic vessels to purpose-sunk artificial reefs
+- **Shore Diving**: Accessible shore dive sites offering convenient, self-guided diving experiences
+- **Boat Diving**: Boat-accessible sites reached through local dive operators
+- **Wreck Diving**: Wreck sites ranging from historic vessels to purpose-sunk artificial reefs
 - **Reef Diving**: Healthy coral reef systems supporting diverse marine ecosystems
 - **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
 

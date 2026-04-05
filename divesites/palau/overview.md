@@ -8,13 +8,13 @@ WWII wrecks, Blue Corner drift dives, and incredible shark encounters.
 
 ## Description
 
-Palau is a notable diving destination in the Pacific region, offering 17 documented dive sites with depths ranging from 12 to 37 meters. Palau is particularly known for Blue Corner drift dive, WWII wrecks, shark encounters. Notable sites include Blue Corner, German Channel, Jellyfish Lake. Water temperatures average 24-30°C (75-86°F), with visibility typically reaching 20-50 meters (65-160 feet). Year-round diving is possible, with the best conditions during April to November.
+Palau is a notable diving destination in the Pacific region, offering diverse dive sites with depths ranging from 12 to 37 meters. Palau is particularly known for Blue Corner drift dive, WWII wrecks, shark encounters. Notable sites include Blue Corner, German Channel, Jellyfish Lake. Water temperatures average 24-30°C (75-86°F), with visibility typically reaching 20-50 meters (65-160 feet). Year-round diving is possible, with the best conditions during April to November.
 
 ### Diving Opportunities
 
-- **Shore Diving**: 1 accessible shore dive sites offering convenient, self-guided diving experiences
-- **Boat Diving**: 16 boat-accessible sites reached through local dive operators
-- **Wreck Diving**: 2 wreck sites ranging from historic vessels to purpose-sunk artificial reefs
+- **Shore Diving**: Accessible shore dive sites offering convenient, self-guided diving experiences
+- **Boat Diving**: Boat-accessible sites reached through local dive operators
+- **Wreck Diving**: Wreck sites ranging from historic vessels to purpose-sunk artificial reefs
 - **Reef Diving**: Healthy coral reef systems supporting diverse marine ecosystems
 - **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
 

@@ -8,13 +8,13 @@ World-class diving with pristine coral reefs and exceptional visibility.
 
 ## Description
 
-Red Sea is a premier diving destination in the Middle East region, offering 298 documented dive sites with depths ranging from 3 to 100 meters. Red Sea is particularly known for pristine coral reefs, WWII wrecks, big pelagic encounters. Notable sites include SS Thistlegorm, Ras Mohammed, Brothers Islands. Water temperatures average 22-30°C (72-86°F), with visibility typically reaching 20-40 meters (65-130 feet). Year-round diving is possible, with the best conditions during September to May.
+Red Sea is a premier diving destination in the Middle East region, offering diverse dive sites with depths ranging from 3 to 100 meters. Red Sea is particularly known for pristine coral reefs, WWII wrecks, big pelagic encounters. Notable sites include SS Thistlegorm, Ras Mohammed, Brothers Islands. Water temperatures average 22-30°C (72-86°F), with visibility typically reaching 20-40 meters (65-130 feet). Year-round diving is possible, with the best conditions during September to May.
 
 ### Diving Opportunities
 
-- **Shore Diving**: 20 accessible shore dive sites offering convenient, self-guided diving experiences
-- **Boat Diving**: 278 boat-accessible sites reached through local dive operators
-- **Wreck Diving**: 32 wreck sites ranging from historic vessels to purpose-sunk artificial reefs
+- **Shore Diving**: Accessible shore dive sites offering convenient, self-guided diving experiences
+- **Boat Diving**: Boat-accessible sites reached through local dive operators
+- **Wreck Diving**: Wreck sites ranging from historic vessels to purpose-sunk artificial reefs
 - **Reef Diving**: Healthy coral reef systems supporting diverse marine ecosystems
 - **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
 

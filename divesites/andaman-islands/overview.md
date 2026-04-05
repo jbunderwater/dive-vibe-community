@@ -8,12 +8,12 @@ Untouched coral reefs and pristine pelagic encounters in remote Indian waters.
 
 ## Description
 
-Andaman Islands is a premier diving destination renowned for pristine coral reefs, dramatic wall formations, WWII-era wrecks, and abundant pelagic encounters including manta rays, whale sharks, and reef sharks. The archipelago offers 8 documented dive sites with depths ranging from 13 to 40 meters. Water temperatures average 26-30°C (79-86°F), with visibility typically reaching 15-25 meters in most seasons. Best diving conditions occur during October to May, with peak visibility December to March.
+Andaman Islands is a premier diving destination renowned for pristine coral reefs, dramatic wall formations, WWII-era wrecks, and abundant pelagic encounters including manta rays, whale sharks, and reef sharks. The archipelago offers diverse dive sites with depths ranging from 13 to 40 meters. Water temperatures average 26-30°C (79-86°F), with visibility typically reaching 15-25 meters in most seasons. Best diving conditions occur during October to May, with peak visibility December to March.
 
 ### Diving Opportunities
 
-- **Boat Diving**: 8 boat-accessible sites reached through local dive operators
-- **Wreck Diving**: 1 wreck sites ranging from historic vessels to purpose-sunk artificial reefs
+- **Boat Diving**: Boat-accessible sites reached through local dive operators
+- **Wreck Diving**: Wreck sites ranging from historic vessels to purpose-sunk artificial reefs
 - **Reef Diving**: Healthy coral reef systems supporting diverse marine ecosystems
 - **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
 

@@ -8,12 +8,12 @@ Ancient wrecks, underwater caves, and warm Mediterranean waters.
 
 ## Description
 
-Greece is a notable diving destination in the Europe region, offering 17 documented dive sites with depths ranging from 7 to 30 meters. Water temperatures average 10-25°C (50-77°F), with visibility typically reaching 10-40 meters (30-130 feet). The diving season runs May to October, with the best conditions during May to October.
+Greece is a notable diving destination in the Europe region, offering diverse dive sites with depths ranging from 7 to 30 meters. Water temperatures average 10-25°C (50-77°F), with visibility typically reaching 10-40 meters (30-130 feet). The diving season runs May to October, with the best conditions during May to October.
 
 ### Diving Opportunities
 
-- **Boat Diving**: 17 boat-accessible sites reached through local dive operators
-- **Wreck Diving**: 3 wreck sites ranging from historic vessels to purpose-sunk artificial reefs
+- **Boat Diving**: Boat-accessible sites reached through local dive operators
+- **Wreck Diving**: Wreck sites ranging from historic vessels to purpose-sunk artificial reefs
 - **Night Diving**: After-dark diving reveals nocturnal marine species and different reef behaviors
 
 ### Accessibility
