@@ -3,9 +3,9 @@ name: Pohon Miring
 lat: -4.56
 lng: 129.85
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 30
 entryType: boat
-siteType: reef
+siteType: drift
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,9 +23,9 @@ Pohon Miring is a dive site in Banda Sea offering rewarding diving on healthy co
 
 - **Location**: Banda Sea, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)
@@ -58,6 +58,5 @@ Be aware of strong currents, jellyfish, sea urchins in this area. Dive within yo
 
 This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
-
 ---
-*Sources: [Dive The World - Banda Islands](https://www.dive-the-world.com/diving-sites-indonesia-banda-islands.php), [All Star Liveaboards - Banda Sea Guide](https://allstarliveaboards.com/banda-sea-dive-liveaboard-forgotten-islands/), [Banda Ocean Divers](https://bandaoceandivers.com/), [Solitude World - Banda Sea Diving](https://solitude.world/where-is-the-banda-sea-explore-diving-liveaboard-options/), [Mikumba Diving - Banda Neira](https://www.mikumbadiving.com/banda-neira-the-spice-island/). Last updated 2026-04-04.*
+*Sources: [Bottles Up Diving - Banda Islands](https://www.bottles-up-diving.com/EN-pages/BU_divingother_banda_EN.html), [Dive The World - Banda Islands](https://www.dive-the-world.com/diving-sites-indonesia-banda-islands.php), [X-Ray Mag - Banda Sea](https://xray-mag.com/content/indonesias-banda-sea), [Merapi Tours - Banda Archipelago](https://www.merapitours.com/indonesia/moluccas/dive-spots-banda-archipelago), [All Star Liveaboards - Banda Sea](https://allstarliveaboards.com/banda-sea-dive-liveaboard-forgotten-islands/), [All Star Liveaboards - Banda Sea Guide](https://allstarliveaboards.com/banda-sea-dive-liveaboard-forgotten-islands/), [Banda Ocean Divers](https://bandaoceandivers.com/), [Solitude World - Banda Sea Diving](https://solitude.world/where-is-the-banda-sea-explore-diving-liveaboard-options/), [Mikumba Diving - Banda Neira](https://www.mikumbadiving.com/banda-neira-the-spice-island/). Last updated 2026-04-05.*
