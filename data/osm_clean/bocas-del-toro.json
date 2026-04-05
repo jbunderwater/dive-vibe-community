@@ -1,8 +1,8 @@
 [
   {
     "name": "Tiger Rock",
-    "lat": 9.28,
-    "lon": -82.18,
+    "lat": 9.2167,
+    "lon": -81.9333,
     "depth": 42,
     "site_type": "pinnacle",
     "entry_type": "boat",
@@ -11,13 +11,13 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "scuba diving guides, dive operator resources"
+      "validation_source": "getamap.net (Tiger Cays 9.21667/-81.9333), geoview.info, dive operator descriptions"
     }
   },
   {
     "name": "Hospital Point",
-    "lat": 9.34,
-    "lon": -82.24,
+    "lat": 9.3348,
+    "lon": -82.2198,
     "depth": 7,
     "site_type": "reef",
     "entry_type": "boat",
@@ -26,13 +26,13 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "dive operator guides, snorkeling-report.com"
+      "validation_source": "snorkeling-report.com (9.334827/-82.219794), PADI AWARE, NW tip of Isla Solarte"
     }
   },
   {
     "name": "The Playground",
-    "lat": 9.31,
-    "lon": -82.2,
+    "lat": 9.3420,
+    "lon": -82.2300,
     "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
@@ -41,13 +41,13 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "dive operator guides"
+      "validation_source": "divescover.com, therealdealtours.com - between Carenero (OSM 9.3398/-82.2367) and Bastimentos"
     }
   },
   {
     "name": "Crawl Cay",
-    "lat": 9.27,
-    "lon": -82.15,
+    "lat": 9.2440,
+    "lon": -82.1440,
     "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
@@ -56,13 +56,13 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "arrivalguides.com, dive operator guides"
+      "validation_source": "OSM Cayo Coral node (9.2433/-82.1449), snorkeling-report.com (9.2444/-82.1439), same as Cayo Coral"
     }
   },
   {
     "name": "Polo Beach Wall",
-    "lat": 9.35,
-    "lon": -82.26,
+    "lat": 9.2920,
+    "lon": -82.1580,
     "depth": 30,
     "site_type": "cavern",
     "entry_type": "boat",
@@ -71,13 +71,13 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "tribloo.com, dive operator guides"
+      "validation_source": "divescover.com, therealdealtours.com - SE coast Isla Bastimentos near Polo Beach, continental shelf edge"
     }
   },
   {
     "name": "Dark Wood Reef",
-    "lat": 9.3,
-    "lon": -82.19,
+    "lat": 9.3150,
+    "lon": -82.2000,
     "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
@@ -86,13 +86,13 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "dive operator guides"
+      "validation_source": "no site-specific sources found, placed in general Bastimentos dive area"
     }
   },
   {
     "name": "Cayo Coral",
-    "lat": 9.25,
-    "lon": -82.13,
+    "lat": 9.2444,
+    "lon": -82.1439,
     "depth": 8,
     "site_type": "reef",
     "entry_type": "shore",
@@ -101,13 +101,13 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "snorkeling-report.com"
+      "validation_source": "snorkeling-report.com (9.244361/-82.143889), OSM node 5758576155 (9.2433/-82.1449)"
     }
   },
   {
     "name": "Wreck Rock",
-    "lat": 9.32,
-    "lon": -82.22,
+    "lat": 9.3220,
+    "lon": -82.2500,
     "depth": 22,
     "site_type": "wreck",
     "entry_type": "boat",
@@ -116,13 +116,13 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "dive operator guides"
+      "validation_source": "therealdealtours.com, divescover.com - SW side Isla Colon, near southernmost point"
     }
   },
   {
     "name": "Punta Juan",
-    "lat": 9.29,
-    "lon": -82.17,
+    "lat": 9.3333,
+    "lon": -82.2000,
     "depth": 16,
     "site_type": "reef",
     "entry_type": "boat",
@@ -131,13 +131,13 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "dive operator guides"
+      "validation_source": "getamap.net Punta Juan Brown (9.3333/-82.2000), western Isla Bastimentos"
     }
   },
   {
     "name": "Zapatillas Reef",
-    "lat": 9.26,
-    "lon": -82.08,
+    "lat": 9.2650,
+    "lon": -82.0550,
     "depth": 14,
     "site_type": "reef",
     "entry_type": "boat",
@@ -146,13 +146,13 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "dive operator guides, snorkeling-report.com"
+      "validation_source": "OSM Cayo Zapatilla No.1 (9.2663/-82.0567), Wikipedia Cayos Zapatilla (9.2644/-82.0526)"
     }
   },
   {
     "name": "Dolphins Bay",
-    "lat": 9.33,
-    "lon": -82.23,
+    "lat": 9.2400,
+    "lon": -82.2550,
     "depth": 10,
     "site_type": "reef",
     "entry_type": "boat",
@@ -161,13 +161,13 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "tourismpanama.com, dive operator guides"
+      "validation_source": "OSM Dolphin Bay Hideaway (9.2418/-82.2587), geoview.info Laguna Bocatorito (9.2333/-82.2500)"
     }
   },
   {
     "name": "Long Cay Wall",
-    "lat": 9.245,
-    "lon": -82.12,
+    "lat": 9.2680,
+    "lon": -82.1650,
     "depth": 28,
     "site_type": "wall",
     "entry_type": "boat",
@@ -176,7 +176,7 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "dive operator guides"
+      "validation_source": "placed near Agua Cay (getamap.net 9.2667/-82.1667), south of Bastimentos Marine Park"
     }
   },
   {
@@ -195,7 +195,7 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "dive operator guides, tribloo.com"
+      "validation_source": "OpenStreetMap node 12639496075, dive operator guides, tribloo.com"
     }
   }
 ]

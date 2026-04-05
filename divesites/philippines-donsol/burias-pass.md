@@ -23,7 +23,7 @@ Burias Pass is a dive site in Philippines Donsol offering rewarding diving on he
 
 - **Location**: Philippines Donsol, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Drift
+- **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

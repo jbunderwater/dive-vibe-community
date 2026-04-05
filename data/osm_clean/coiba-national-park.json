@@ -1,8 +1,8 @@
 [
   {
     "name": "Faro Reef",
-    "lat": 7.62,
-    "lon": -81.72,
+    "lat": 7.6895,
+    "lon": -81.6385,
     "depth": 30,
     "site_type": "reef",
     "entry_type": "boat",
@@ -11,13 +11,14 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "panamadivecenter.com, getamap.net",
+      "note": "Western tip of Isla Canales de Afuera. Coords derived from island position (7.6922, -81.6231) per getamap.net; Faro/lighthouse is at western exposed tip. Strong currents, bull sharks, big eye jacks."
     }
   },
   {
     "name": "Machete Point",
-    "lat": 7.58,
-    "lon": -81.75,
+    "lat": 7.648,
+    "lon": -81.715,
     "depth": 28,
     "site_type": "wall",
     "entry_type": "boat",
@@ -26,14 +27,14 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "perplexity",
-      "note": "Assumed wall site near Coiba; Machete Caves is actually in Bocas del Toro"
+      "validation_source": "panamadivecenter.com",
+      "note": "UNCERTAIN: Not a well-documented Coiba dive site. Original note said Machete Caves is actually in Bocas del Toro. Coords placed near Isla Coibita area pending verification. May need replacement with a verified Coiba site."
     }
   },
   {
     "name": "Granito de Oro",
-    "lat": 7.55,
-    "lon": -81.7,
+    "lat": 7.5933,
+    "lon": -81.7124,
     "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
@@ -42,14 +43,14 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "perplexity",
-      "note": "Shallow reef with mild currents, but remote liveaboard destination minimum Advanced"
+      "validation_source": "snorkeling-report.com, google.com/maps",
+      "note": "Islet NE of Coiba Island. Coords verified: Google Maps 7.5933/-81.7124, snorkeling-report.com 7.593368/-81.713267. Shallow reef around tiny island, excellent snorkeling and diving."
     }
   },
   {
-    "name": "Iglesia Point",
-    "lat": 7.65,
-    "lon": -81.68,
+    "name": "Iglesia",
+    "lat": 7.64,
+    "lon": -81.695,
     "depth": 30,
     "site_type": "reef",
     "entry_type": "boat",
@@ -58,13 +59,14 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "panamadivecenter.com, divemasteraustin.com",
+      "note": "Near Isla Coibita/Rancheria (7.645, -81.703 per mapcarta.com). Cathedral-like rock formations with walls, overhangs and channels. 12-30m depth. Coords derived from Rancheria island position."
     }
   },
   {
     "name": "Bahia Damas",
-    "lat": 7.5,
-    "lon": -81.78,
+    "lat": 7.45,
+    "lon": -81.6833,
     "depth": 30,
     "site_type": "reef",
     "entry_type": "boat",
@@ -73,14 +75,14 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "perplexity",
-      "note": "Central America's largest coral reef, second largest eastern Pacific"
+      "validation_source": "getamap.net, coibanationalpark.com",
+      "note": "Bay on east side of Isla Coiba. Coords verified: getamap.net Lat 7.45, Lon -81.6833. Second largest coral reef in Eastern Pacific (135 hectares)."
     }
   },
   {
     "name": "Canales de Afuera",
-    "lat": 7.4,
-    "lon": -81.85,
+    "lat": 7.6922,
+    "lon": -81.6231,
     "depth": 30,
     "site_type": "reef",
     "entry_type": "boat",
@@ -89,14 +91,14 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "perplexity",
-      "note": "Also known as Punta Faro; strong currents, pelagic sharks"
+      "validation_source": "getamap.net, panamadivecenter.com",
+      "note": "Isla Canal de Afuera coords verified: getamap.net Lat 7.69222, Lon -81.6231. Most-visited dive area in park. Strong currents, pelagic sharks, whale sharks in season."
     }
   },
   {
     "name": "Jicarita Island",
-    "lat": 7.21,
-    "lon": -81.8,
+    "lat": 7.2133,
+    "lon": -81.8025,
     "depth": 20,
     "site_type": "pinnacle",
     "entry_type": "boat",
@@ -105,14 +107,14 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "perplexity",
-      "note": "Possibly Coibita Gardens; calm coral garden pinnacle"
+      "validation_source": "getamap.net, wikipedia.org, geoyp.com",
+      "note": "Coords verified from multiple sources: getamap.net 7.21333/-81.8025, geoyp.com 7.21158/-81.79952. Southernmost island in Coiba National Park, off tip of Jicaron."
     }
   },
   {
     "name": "Santa Cruz",
-    "lat": 7.68,
-    "lon": -81.65,
+    "lat": 7.615,
+    "lon": -81.735,
     "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
@@ -121,14 +123,14 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "perplexity",
-      "note": "Scenic hard coral gardens, relaxed shallow reef but liveaboard minimum Advanced"
+      "validation_source": "divemasteraustin.com, panamadivecenter.com",
+      "note": "Shallow coral dive near NE Coiba coast. Coords estimated from described location between Granito de Oro and Coibita. Described as gentle shallow hard coral gardens."
     }
   },
   {
-    "name": "Monta\u00f1a Rusa",
-    "lat": 7.45,
-    "lon": -81.82,
+    "name": "Montana Rusa",
+    "lat": 7.9066,
+    "lon": -81.8167,
     "depth": 40,
     "site_type": "pinnacle",
     "entry_type": "boat",
@@ -137,14 +139,14 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "perplexity",
-      "note": "Deep pinnacle (35-40m), severe currents, strong pelagic action"
+      "validation_source": "padi.com",
+      "note": "Coords verified: PADI dive site database 7.906614/-81.816730. Deep pinnacle in Contreras area, 14-42m, severe currents. Hammerheads, bull sharks, giant mantas."
     }
   },
   {
     "name": "Shark Point Coiba",
-    "lat": 7.53,
-    "lon": -81.73,
+    "lat": 7.52,
+    "lon": -81.75,
     "depth": 30,
     "site_type": "pinnacle",
     "entry_type": "boat",
@@ -153,8 +155,8 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "perplexity",
-      "note": "Shark-rich pinnacle with rock/coral canyon formations"
+      "validation_source": "panamadivecenter.com",
+      "note": "UNCERTAIN: Not a commonly documented Coiba dive site name. Coords estimated near central-west Coiba coast. May correspond to an operator-specific site name. Needs field verification."
     }
   }
 ]
