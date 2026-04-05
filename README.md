@@ -2,6 +2,9 @@
 
 A community-driven dive site database with 120+ destinations and 2,700+ dive sites worldwide. Data is sourced from OpenStreetMap (Overpass API) and supplemented with curated entries and AI-assisted research validation.
 
+> **Warning**
+> This data is for informational purposes only and is **not a substitute for professional dive training, local guides, or current conditions assessment.** Depths, difficulty ratings, coordinates, and site descriptions may be inaccurate or outdated. Some content is AI-generated. **Always consult local dive operators before diving any site.** See [DISCLAIMER.md](DISCLAIMER.md) for full details.
+
 ## Repository Structure
 
 ```
@@ -234,6 +237,10 @@ This project includes data derived from OpenStreetMap and therefore must preserv
 
 Copy-ready attribution text and implementation guidance are in [ATTRIBUTION.md](ATTRIBUTION.md).
 
+## Disclaimer
+
+This data is provided "AS IS" for informational purposes only. Diving is inherently dangerous — **never plan a dive based solely on information from this or any online database.** See [DISCLAIMER.md](DISCLAIMER.md) for the full disclaimer covering safety warnings, AI-generated content, external links, data accuracy, and limitation of liability.
+
 ## License
 
 Licensing is split by content type:
@@ -242,4 +249,4 @@ Licensing is split by content type:
 - **Data in `data/` and generated database artifacts (including `divesites/*/index.json`)**: Open Database License (ODbL) 1.0 (`LICENSE-DATA.md`)
 - **Site markdown narrative content in `divesites/*/*.md`**: follow source-based rights and ensure OSM-derived facts remain ODbL-compliant when redistributed as a database
 
-See `LICENSE`, `LICENSE-DATA.md`, and `ATTRIBUTION.md` for details.
+See `LICENSE`, `LICENSE-DATA.md`, `ATTRIBUTION.md`, and `DISCLAIMER.md` for details.
