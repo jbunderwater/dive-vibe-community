@@ -1,7 +1,7 @@
 ---
 name: Colorado Point
-lat: -20.35
-lng: 57.55
+lat: -20.4392
+lng: 57.7487
 difficulty: Advanced
 maxDepth: 30
 entryType: boat

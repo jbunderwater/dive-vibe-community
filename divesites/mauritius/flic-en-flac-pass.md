@@ -1,7 +1,7 @@
 ---
 name: Flic en Flac Pass
-lat: -20.28
-lng: 57.36
+lat: -20.296
+lng: 57.361
 difficulty: Intermediate
 maxDepth: 26
 entryType: boat

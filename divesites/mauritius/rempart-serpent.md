@@ -1,7 +1,7 @@
 ---
 name: Rempart Serpent
-lat: -20.31
-lng: 57.58
+lat: -20.3032
+lng: 57.3658
 difficulty: Intermediate
 maxDepth: 27
 entryType: boat

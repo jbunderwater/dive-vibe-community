@@ -1,7 +1,7 @@
 ---
 name: Cathedral Reef
-lat: -20.25
-lng: 57.52
+lat: -20.289
+lng: 57.356
 difficulty: Advanced
 maxDepth: 28
 entryType: boat
