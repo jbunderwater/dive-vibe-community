@@ -1,7 +1,7 @@
 ---
 name: CJ's Drop Off
-lat: 16.105
-lng: -86.94
+lat: 16.1113
+lng: -86.9554
 difficulty: Advanced
 maxDepth: 40
 entryType: boat
@@ -11,52 +11,57 @@ osmId: null
 addedBy: osm_import
 ---
 
-# CJ's Drop Off
+## CJ's Drop Off
 
-*One of Utila's deepest wall dives, plunging from the reef crest into the open Caribbean with exceptional clarity and frequent pelagic encounters.*
+CJ's Drop Off is a wall dive site in Utila, Caribbean.
 
 ## Overview
 
-CJ's Drop Off is Utila's most dramatic wall dive, dropping from the shallow reef crest at 8–10 meters to depths well beyond 40 meters along the southern edge of the island. The site is positioned on the outer reef slope that faces the deep water of the Caribbean Sea, and the combination of depth, clear water, and exposure to open-ocean currents creates conditions ideal for large pelagic encounters. CJ's Drop Off is reserved for experienced, advanced divers due to the significant depth and the ocean-influenced conditions. Visibility at CJ's is often among Utila's best, regularly reaching 30–35 meters. Water temperatures average 27–28°C.
+CJ's Drop Off is a dive site in Utila featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: South coast of Utila, Bay Islands, Honduras
+- **Location**: Utila, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 30–35 meters (100–115 feet)
-- **Current**: Moderate; stronger on this exposed south-facing wall
-- **Best Time**: Year-round; April to October for calmer south-coast conditions
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-CJ's Drop Off is noted for large animal encounters. Caribbean reef sharks cruise the wall face at 20–35 meters. Eagle rays — sometimes in small groups — glide past in the clear blue water. Whale sharks are sighted seasonally in the waters adjacent to this site, as the deep offshore water that abuts the wall is prime whale shark habitat. Large dog-tooth tuna and amberjacks occasionally appear. The wall itself is encrusted with black coral at depth, sea fans throughout the recreational range, and barrel sponges. The reef top above has nurse sharks, hawksbill turtles, and dense schools of creole wrasse.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Descend from the mooring to the reef crest at 8–10 meters and approach the wall edge. Drop along the wall face to your target depth — 25–35 meters is the productive range. Hovering in the water column at 20–30 meters with the wall behind and open water in front maximizes pelagic encounter opportunities. Monitor depth continuously as the wall offers no bottom reference in the blue. Ascend conservatively with at least 100 bar remaining. Extended safety stop at 5 meters (minimum 5 minutes for deeper excursions).
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
-Operated by Utila's dive shops. Boat entry via giant stride. Deploy an SMB before ascending — open-water ascents at this site require boat tracking.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
-## Tips
+## Tips and Recommendations
 
-- Hang motionlessly at 20–25 meters with the wall to your back and watch the open water — large animals appear without warning
-- Whale shark sightings are most common March through May and again in September–October on Utila's south side
-- Nitrox 32% extends bottom time and reduces narcosis risk at depth
-- The reef top at 8–10 meters deserves 10–15 minutes of exploration at the end of the dive as part of the safety stop
-- Current at this site can be strong — discuss conditions with your operator and plan the dive direction accordingly
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
-## Safety
+## Safety Considerations
 
-Advanced dive with serious depth and open-ocean exposure. Narcosis at 35–40 meters can impair judgment — know your personal depth tolerance. Ascend immediately if you feel disoriented. Strong current on the south wall can carry divers away from the mooring — stay within 20 meters of the wall face at all times. Carry and deploy an SMB. Always dive with an experienced buddy and carry a dive computer. Minimum Advanced certification required.
+Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-CJ's Drop Off offers Utila's best opportunity for large-animal photography. Wide-angle lenses for shark and eagle ray encounters in clear blue water. The pristine visibility creates clean blue backgrounds ideal for marine life portraits. The wall face covered in black coral and sea fans provides dramatic wide-angle subjects with divers for scale. Be patient — the pelagic subjects appear unpredictably and require readiness.
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+
+## Additional Resources
+
+- **Last Updated**: 2026-04-05
 
 ---
-*Sources: [Utila Dive Center](https://utiladivecenter.com/), [Utila Cays Diving - Dive Sites](https://utilacaysdiving.com/dive-with-us/dive-sites/), [Alton's Dive Center Utila](https://diveinutila.com/), [World Adventure Divers - 10 Reasons to Dive Utila](https://worldadventuredivers.com/diving-utila/), [ZuBlu - Scuba Diving in Utila](https://www.zubludiving.com/destination/honduras/bay-islands/utila). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*

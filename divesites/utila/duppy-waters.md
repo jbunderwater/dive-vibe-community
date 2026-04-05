@@ -1,7 +1,7 @@
 ---
 name: Duppy Waters
-lat: 16.08
-lng: -86.95
+lat: 16.1167
+lng: -86.9453
 difficulty: Intermediate
 maxDepth: 30
 entryType: boat
@@ -11,52 +11,57 @@ osmId: null
 addedBy: osm_import
 ---
 
-# Duppy Waters
+## Duppy Waters
 
-*A wall dive on Utila's south side with a haunting name rooted in local Caribbean folklore, where a healthy vertical reef face drops into clear, deep water.*
+Duppy Waters is a wall dive site in Utila, Caribbean.
 
 ## Overview
 
-Duppy Waters takes its evocative name from the Caribbean folk tradition of "duppies" — spirits or ghosts — suggesting the otherworldly quality of the deep, clear water at this south-side wall site. The reef drops from a shallow plateau at 8–10 meters to a vertical wall face descending to 30 meters and beyond. The site is one of Utila's established intermediate wall dives, part of the longer south-coast reef wall system that includes CJ's Drop Off and Ted's Point. The wall face is in good condition with sea fans, barrel sponges, and encrusting corals. Visibility is typically 25–30 meters. Water temperature stays at 27–28°C.
+Duppy Waters is a dive site in Utila featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: South coast of Utila, Bay Islands, Honduras
+- **Location**: Utila, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 25–30 meters (80–100 feet)
-- **Current**: Moderate; consistent with other south-coast wall sites
-- **Best Time**: Year-round; calmer April to September
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Duppy Waters shares the marine life character of Utila's south wall system. Hawksbill turtles are encountered on the reef plateau and wall face. Caribbean reef sharks patrol the deeper sections. Eagle rays appear in the blue water alongside the wall. The wall is dotted with sea fans, barrel sponges, and encrusting corals providing habitat for flamingo tongues, arrow crabs, and small gobies. Spotted drums are present near coral formations on the reef top. Large parrotfish and surgeonfish roam the plateau. Nurse sharks rest in ledge sections at 20–25 meters. Schools of creole wrasse swarm throughout.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Descend to the reef plateau at 8–10 meters and approach the wall edge. Drop along the wall face to the target depth of 18–25 meters. Navigate horizontally along the wall, exploring sea fans and overhangs. The wall can be dived with or without current — if current is present, drift with it rather than fighting. Ascend to the reef plateau for the safety stop at 5 meters. Total dive time 45–55 minutes.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
-Served by Utila Town dive shops. South coast crossing of 15–20 minutes. Entry via giant stride. Deploy SMB before open-water ascent.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
-## Tips
+## Tips and Recommendations
 
-- Duppy Waters is a good wall dive choice when the more popular CJ's Drop Off is already occupied by another group
-- The south wall has a consistent character — once you know the general dive plan, it translates across sites on this section
-- The reef plateau deserves more attention than it typically receives — spend the safety stop time systematically exploring the coral formations
-- A night dive here reveals Spanish lobsters, octopus, and sleeping parrotfish tucked into reef crevices
-- Combine with Ron's Wreck on the same south coast run for a wall + wreck two-tank combination
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
-## Safety
+## Safety Considerations
 
-Standard wall dive precautions: depth monitoring, buoyancy control, and SMB carry. Current on the south wall can require active finning when moving against the flow. Monitor air carefully — minimum 80 bar before beginning ascent. The wall drops well beyond 30 meters — set a depth alarm on your computer.
+Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-A clean, photogenic wall dive site. Wide-angle shots along the wall face with sea fans in the foreground and open blue water behind create classic wall dive compositions. The reef plateau in bright ambient light is excellent for turtle portraits. Flamingo tongues on sea fans are rewarding macro subjects on the wall face.
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+
+## Additional Resources
+
+- **Last Updated**: 2026-04-05
 
 ---
-*Sources: [Utila Dive Center](https://utiladivecenter.com/), [Utila Cays Diving - Dive Sites](https://utilacaysdiving.com/dive-with-us/dive-sites/), [Alton's Dive Center Utila](https://diveinutila.com/), [World Adventure Divers - 10 Reasons to Dive Utila](https://worldadventuredivers.com/diving-utila/), [ZuBlu - Scuba Diving in Utila](https://www.zubludiving.com/destination/honduras/bay-islands/utila). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
