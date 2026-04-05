@@ -1,7 +1,7 @@
 ---
 name: Bottle Reef
-lat: 13.16
-lng: -61.21
+lat: 13.196
+lng: -61.268
 difficulty: Intermediate
 maxDepth: 22
 entryType: boat

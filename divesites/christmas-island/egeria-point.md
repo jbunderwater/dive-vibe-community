@@ -1,7 +1,7 @@
 ---
 name: Egeria Point
-lat: -10.4833
-lng: 105.6333
+lat: -10.4539
+lng: 105.6294
 difficulty: Intermediate
 maxDepth: 22
 entryType: boat

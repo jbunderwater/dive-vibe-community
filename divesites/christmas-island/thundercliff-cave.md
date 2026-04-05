@@ -1,7 +1,7 @@
 ---
 name: Thundercliff Cave
-lat: -10.4833
-lng: 105.7
+lat: -10.4476
+lng: 105.6904
 difficulty: Intermediate
 maxDepth: 12
 entryType: shore

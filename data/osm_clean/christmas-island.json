@@ -1,8 +1,8 @@
 [
   {
     "name": "Thundercliff Cave",
-    "lat": -10.4833,
-    "lon": 105.7,
+    "lat": -10.4476,
+    "lon": 105.6904,
     "osm_id": null,
     "osm_type": null,
     "depth": 12,
@@ -13,13 +13,14 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "perplexity + diveplanit + divernet"
+      "validation_source": "perplexity + diveplanit + divernet + arrivalguides.com (embedded coords)",
+      "coordinate_source": "arrivalguides.com embedded page coords (-10.447525, 105.690449), cross-referenced with diveplanit north coast description"
     }
   },
   {
     "name": "Flying Fish Cove",
-    "lat": -10.4278,
-    "lon": 105.6753,
+    "lat": -10.4228,
+    "lon": 105.6731,
     "osm_id": null,
     "osm_type": null,
     "depth": 18,
@@ -30,13 +31,14 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "perplexity + diveplanit + divernet"
+      "validation_source": "perplexity + diveplanit + divernet",
+      "coordinate_source": "OSM settlement node (-10.4213, 105.6744) + diveplanit description (western edge of cove, from boat ramp), offset slightly west/south into water"
     }
   },
   {
     "name": "Ethel Beach",
-    "lat": -10.45,
-    "lon": 105.6167,
+    "lat": -10.4639,
+    "lon": 105.7085,
     "osm_id": null,
     "osm_type": null,
     "depth": 12,
@@ -47,13 +49,14 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "perplexity + tourism sources"
+      "validation_source": "perplexity + tourism sources",
+      "coordinate_source": "OSM beach polygon center (-10.4635, 105.7075), offset slightly offshore north"
     }
   },
   {
     "name": "The Grotto",
-    "lat": -10.4367,
-    "lon": 105.67,
+    "lat": -10.4225,
+    "lon": 105.7023,
     "osm_id": null,
     "osm_type": null,
     "depth": 12,
@@ -64,13 +67,14 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "perplexity + dive operator sources"
+      "validation_source": "perplexity + dive operator sources",
+      "coordinate_source": "OSM cave_entrance node 5364260821 (-10.4232, 105.7023), offset slightly offshore north"
     }
   },
   {
     "name": "Egeria Point",
-    "lat": -10.4833,
-    "lon": 105.6333,
+    "lat": -10.5115,
+    "lon": 105.5340,
     "osm_id": null,
     "osm_type": null,
     "depth": 22,
@@ -81,13 +85,14 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "perplexity + dive operator sources"
+      "validation_source": "perplexity + dive operator sources",
+      "coordinate_source": "OSM cape node 6604198460 (-10.5115, 105.5350), offset slightly offshore west"
     }
   },
   {
     "name": "West White Beach",
-    "lat": -10.4333,
-    "lon": 105.6,
+    "lat": -10.4610,
+    "lon": 105.5795,
     "osm_id": null,
     "osm_type": null,
     "depth": 12,
@@ -98,13 +103,14 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "perplexity + tourism sources"
+      "validation_source": "perplexity + tourism sources",
+      "coordinate_source": "OSM beach polygon center (-10.4616, 105.5809), offset slightly offshore northwest"
     }
   },
   {
     "name": "Perpendicular Wall",
-    "lat": -10.5,
-    "lon": 105.65,
+    "lat": -10.4410,
+    "lon": 105.5505,
     "osm_id": null,
     "osm_type": null,
     "depth": 36,
@@ -115,13 +121,14 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "perplexity + diveplanit + divernet"
+      "validation_source": "perplexity + diveplanit + divernet",
+      "coordinate_source": "diveplanit describes as 'northwest tip of Christmas Island'; OSM Northwest Point cape (-10.4425, 105.5519); placed offshore slightly north between Northwest Point and Martin Point"
     }
   },
   {
     "name": "Dolly Beach",
-    "lat": -10.4667,
-    "lon": 105.6833,
+    "lat": -10.5215,
+    "lon": 105.6765,
     "osm_id": null,
     "osm_type": null,
     "depth": 15,
@@ -132,7 +139,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "perplexity + tourism sources"
+      "validation_source": "perplexity + tourism sources",
+      "coordinate_source": "OSM beach polygon center (-10.5215, 105.6754), offset slightly offshore east"
     }
   }
 ]

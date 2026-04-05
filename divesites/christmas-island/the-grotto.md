@@ -1,7 +1,7 @@
 ---
 name: The Grotto
-lat: -10.4367
-lng: 105.67
+lat: -10.4306
+lng: 105.6612
 difficulty: Intermediate
 maxDepth: 12
 entryType: shore

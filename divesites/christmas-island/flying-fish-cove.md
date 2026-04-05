@@ -1,7 +1,7 @@
 ---
 name: Flying Fish Cove
-lat: -10.4278
-lng: 105.6753
+lat: -10.4228
+lng: 105.6731
 difficulty: Beginner
 maxDepth: 18
 entryType: shore
