@@ -1,7 +1,7 @@
 ---
 name: Minnie Breslauer
-lat: 32.2833
-lng: -64.8333
+lat: 32.2446
+lng: -64.8086
 difficulty: Intermediate
 maxDepth: 20
 entryType: boat

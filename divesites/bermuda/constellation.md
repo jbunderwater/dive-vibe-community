@@ -1,7 +1,7 @@
 ---
 name: Constellation
-lat: 32.3622
-lng: -64.6481
+lat: 32.362
+lng: -64.908
 difficulty: Beginner
 maxDepth: 9
 entryType: boat

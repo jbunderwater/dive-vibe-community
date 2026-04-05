@@ -1,7 +1,7 @@
 ---
 name: Mary Celestia
-lat: 32.275
-lng: -64.8417
+lat: 32.2467
+lng: -64.8333
 difficulty: Intermediate
 maxDepth: 17
 entryType: boat

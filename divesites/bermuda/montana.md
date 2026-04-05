@@ -1,7 +1,7 @@
 ---
 name: Montana
-lat: 32.3625
-lng: -64.6478
+lat: 32.362
+lng: -64.908
 difficulty: Beginner
 maxDepth: 9
 entryType: boat
