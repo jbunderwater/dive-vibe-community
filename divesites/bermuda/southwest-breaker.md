@@ -1,7 +1,7 @@
 ---
 name: Southwest Breaker
-lat: 32.25
-lng: -64.8833
+lat: 32.2309
+lng: -64.8656
 difficulty: Beginner
 maxDepth: 9
 entryType: boat

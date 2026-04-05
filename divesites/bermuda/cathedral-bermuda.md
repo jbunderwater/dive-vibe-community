@@ -1,7 +1,7 @@
 ---
 name: Cathedral Bermuda
-lat: 32.3475
-lng: -64.66
+lat: 32.3405
+lng: -64.6594
 difficulty: Intermediate
 maxDepth: 18
 entryType: boat

@@ -1,7 +1,7 @@
 ---
 name: Lartington
-lat: 32.36
-lng: -64.65
+lat: 32.3612
+lng: -64.9139
 difficulty: Beginner
 maxDepth: 10
 entryType: boat

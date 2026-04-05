@@ -1,7 +1,7 @@
 ---
 name: Cristobal Colon
-lat: 32.45
-lng: -64.6333
+lat: 32.4851
+lng: -64.72
 difficulty: Intermediate
 maxDepth: 18
 entryType: boat

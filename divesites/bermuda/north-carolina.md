@@ -1,7 +1,7 @@
 ---
 name: North Carolina
-lat: 32.3533
-lng: -64.6467
+lat: 32.25
+lng: -64.9635
 difficulty: Intermediate
 maxDepth: 14
 entryType: boat

@@ -1,6 +1,6 @@
 ---
 name: Pelinaion
-lat: 32.3583
+lat: 32.3558
 lng: -64.6433
 difficulty: Intermediate
 maxDepth: 20

@@ -1,7 +1,7 @@
 ---
 name: Darlington
-lat: 32.3567
-lng: -64.6517
+lat: 32.2873
+lng: -64.9839
 difficulty: Beginner
 maxDepth: 6
 entryType: boat

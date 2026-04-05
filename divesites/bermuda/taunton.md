@@ -1,7 +1,7 @@
 ---
 name: Taunton
-lat: 32.355
-lng: -64.655
+lat: 32.4925
+lng: -64.6752
 difficulty: Beginner
 maxDepth: 6
 entryType: boat

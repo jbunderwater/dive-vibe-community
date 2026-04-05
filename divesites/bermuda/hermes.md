@@ -1,7 +1,7 @@
 ---
 name: Hermes
-lat: 32.35
-lng: -64.7833
+lat: 32.2452
+lng: -64.7994
 difficulty: Intermediate
 maxDepth: 24
 entryType: boat

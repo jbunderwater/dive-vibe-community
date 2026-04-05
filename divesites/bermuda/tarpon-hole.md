@@ -1,7 +1,7 @@
 ---
 name: Tarpon Hole
-lat: 32.345
-lng: -64.665
+lat: 32.2688
+lng: -64.7756
 difficulty: Beginner
 maxDepth: 17
 entryType: boat
