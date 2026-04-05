@@ -1,7 +1,7 @@
 ---
 name: Monkey Shoals
-lat: 17.3
-lng: -62.73
+lat: 17.24
+lng: -62.69
 difficulty: Intermediate
 maxDepth: 34
 entryType: boat

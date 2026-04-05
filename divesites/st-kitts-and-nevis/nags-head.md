@@ -1,7 +1,7 @@
 ---
 name: Nag's Head
-lat: 17.27
-lng: -62.7
+lat: 17.22
+lng: -62.66
 difficulty: Intermediate
 maxDepth: 24
 entryType: boat

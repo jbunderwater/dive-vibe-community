@@ -1,7 +1,7 @@
 ---
 name: Mainit Point
-lat: 13.745
-lng: 120.875
+lat: 13.6825
+lng: 120.8933
 difficulty: Advanced
 maxDepth: 30
 entryType: boat

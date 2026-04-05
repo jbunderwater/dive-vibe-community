@@ -1,7 +1,7 @@
 ---
 name: Cathedral Rock
-lat: 13.77
-lng: 120.9
+lat: 13.724517
+lng: 120.877033
 difficulty: Beginner
 maxDepth: 19
 entryType: boat

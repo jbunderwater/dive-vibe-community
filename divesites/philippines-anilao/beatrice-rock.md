@@ -1,7 +1,7 @@
 ---
 name: Beatrice Rock
-lat: 13.76
-lng: 120.89
+lat: 13.704867
+lng: 120.828833
 difficulty: Intermediate
 maxDepth: 27
 entryType: boat

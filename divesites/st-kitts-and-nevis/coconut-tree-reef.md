@@ -1,7 +1,7 @@
 ---
 name: Coconut Tree Reef
-lat: 17.36
-lng: -62.79
+lat: 17.29
+lng: -62.715
 difficulty: Beginner
 maxDepth: 34
 entryType: boat

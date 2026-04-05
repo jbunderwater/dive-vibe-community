@@ -14,33 +14,34 @@
       "scuba_diving:type": "reef",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "dive-the-world, asiadivesite"
+      "validation_source": "openstreetmap_node"
     }
   },
   {
-    "name": "Dive Site",
-    "lat": 13.794793,
-    "lon": 120.9143488,
+    "name": "Basura",
+    "lat": 13.7566,
+    "lon": 120.919767,
     "osm_id": 1271232216,
     "osm_type": "node",
     "depth": 25,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "site_type": "muck",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
-      "name": "Dive Site",
-      "scuba_diving:type": "reef",
+      "name": "Basura",
+      "scuba_diving:type": "muck",
       "sport": "scuba_diving",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "anilao_diving_guides"
+      "validation_source": "zentacle, wannadive.net",
+      "coordinate_source": "zentacle_mabini, wannadive.net"
     }
   },
   {
     "name": "Cathedral Rock",
-    "lat": 13.77,
-    "lon": 120.9,
+    "lat": 13.724517,
+    "lon": 120.877033,
     "depth": 19,
     "site_type": "reef",
     "entry_type": "boat",
@@ -49,13 +50,14 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "anilaodiving.com, linesoflatitudes"
+      "validation_source": "zentacle, anilaodiving.com, linesoflatitudes",
+      "coordinate_source": "zentacle_mabini"
     }
   },
   {
     "name": "Beatrice Rock",
-    "lat": 13.76,
-    "lon": 120.89,
+    "lat": 13.704867,
+    "lon": 120.828833,
     "depth": 27,
     "site_type": "reef",
     "entry_type": "boat",
@@ -64,13 +66,14 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "asiadivesite, zentacle"
+      "validation_source": "zentacle, asiadivesite",
+      "coordinate_source": "zentacle_tingloy"
     }
   },
   {
     "name": "Sepok Wall",
-    "lat": 13.75,
-    "lon": 120.88,
+    "lat": 13.685433,
+    "lon": 120.827117,
     "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
@@ -79,13 +82,14 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "zentacle, divescover"
+      "validation_source": "zentacle, divescover",
+      "coordinate_source": "zentacle_tingloy"
     }
   },
   {
     "name": "Sombrero Island",
-    "lat": 13.78,
-    "lon": 120.91,
+    "lat": 13.698833,
+    "lon": 120.828233,
     "depth": 15,
     "site_type": "reef",
     "entry_type": "boat",
@@ -94,13 +98,14 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "divescover, zentacle"
+      "validation_source": "zentacle, divescover",
+      "coordinate_source": "zentacle_tingloy"
     }
   },
   {
     "name": "Twin Rocks",
-    "lat": 13.74,
-    "lon": 120.87,
+    "lat": 13.693767,
+    "lon": 120.886267,
     "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
@@ -109,28 +114,30 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "fordivers, philippinedivemaster"
+      "validation_source": "zentacle, wannadive.net, fordivers",
+      "coordinate_source": "zentacle_mabini, wannadive.net"
     }
   },
   {
     "name": "Kirby's Rock",
-    "lat": 13.755,
-    "lon": 120.885,
+    "lat": 13.690767,
+    "lon": 120.843567,
     "depth": 20,
     "site_type": "wall",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "blueribbondivers, zentacle"
+      "validation_source": "zentacle, blueribbondivers",
+      "coordinate_source": "zentacle_tingloy"
     }
   },
   {
     "name": "Secret Bay",
-    "lat": 13.79,
-    "lon": 120.92,
+    "lat": 13.686533,
+    "lon": 120.8958,
     "depth": 21,
     "site_type": "muck",
     "entry_type": "shore",
@@ -139,13 +146,14 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "eazytraveler, divebooker, uwphotographyguide"
+      "validation_source": "zentacle, eazytraveler, divebooker, uwphotographyguide",
+      "coordinate_source": "zentacle_mabini"
     }
   },
   {
     "name": "Mainit Point",
-    "lat": 13.745,
-    "lon": 120.875,
+    "lat": 13.6825,
+    "lon": 120.8933,
     "depth": 30,
     "site_type": "muck",
     "entry_type": "boat",
@@ -154,13 +162,14 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "anilaodiving.com, dive-the-world"
+      "validation_source": "wannadive.net, anilaodiving.com, dive-the-world",
+      "coordinate_source": "wannadive.net"
     }
   },
   {
     "name": "Bahura",
-    "lat": 13.8,
-    "lon": 120.93,
+    "lat": 13.694817,
+    "lon": 120.842317,
     "depth": 16,
     "site_type": "reef",
     "entry_type": "boat",
@@ -169,13 +178,14 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "anilaodiving.com, divezone"
+      "validation_source": "zentacle, anilaodiving.com, divezone",
+      "coordinate_source": "zentacle_tingloy"
     }
   },
   {
     "name": "Arthur's Rock",
-    "lat": 13.765,
-    "lon": 120.895,
+    "lat": 13.703867,
+    "lon": 120.872783,
     "depth": 21,
     "site_type": "reef",
     "entry_type": "boat",
@@ -184,13 +194,14 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "anilaodiving.com, zentacle"
+      "validation_source": "zentacle, anilaodiving.com",
+      "coordinate_source": "zentacle_mabini"
     }
   },
   {
     "name": "Dead Palm",
-    "lat": 13.785,
-    "lon": 120.915,
+    "lat": 13.69525,
+    "lon": 120.884733,
     "depth": 10,
     "site_type": "muck",
     "entry_type": "shore",
@@ -199,13 +210,14 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "scubaboard, macro_diving_guides"
+      "validation_source": "zentacle, scubaboard, macro_diving_guides",
+      "coordinate_source": "zentacle_mabini"
     }
   },
   {
     "name": "Koala Reef",
-    "lat": 13.735,
-    "lon": 120.865,
+    "lat": 13.716017,
+    "lon": 120.871933,
     "depth": 20,
     "site_type": "muck",
     "entry_type": "boat",
@@ -214,7 +226,8 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "divingsquad, padi"
+      "validation_source": "zentacle, divingsquad, padi",
+      "coordinate_source": "zentacle_mabini"
     }
   }
 ]

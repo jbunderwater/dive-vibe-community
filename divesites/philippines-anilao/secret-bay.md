@@ -1,7 +1,7 @@
 ---
 name: Secret Bay
-lat: 13.79
-lng: 120.92
+lat: 13.686533
+lng: 120.8958
 difficulty: Beginner
 maxDepth: 21
 entryType: shore

@@ -1,7 +1,7 @@
 ---
 name: Twin Rocks
-lat: 13.74
-lng: 120.87
+lat: 13.693767
+lng: 120.886267
 difficulty: Intermediate
 maxDepth: 20
 entryType: boat

@@ -1,7 +1,7 @@
 ---
 name: Sombrero Island
-lat: 13.78
-lng: 120.91
+lat: 13.698833
+lng: 120.828233
 difficulty: Beginner
 maxDepth: 15
 entryType: boat
