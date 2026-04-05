@@ -1,7 +1,7 @@
 ---
 name: Williams Island Caves
-lat: -35.28
-lng: 136.1
+lat: -35.278
+lng: 136.098
 difficulty: Advanced
 maxDepth: 18
 entryType: boat
