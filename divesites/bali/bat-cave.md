@@ -23,9 +23,9 @@ Bat Cave Point sits on the eastern wall of Menjangan Island, inside West Bali Na
 
 - **Location**: Menjangan Island, West Bali National Park, northwest Bali
 - **Entry Type**: Boat dive
-- **Site Type**: Wall / Cave
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 40 m (recreational limit ~20 m)
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–30 m
 - **Current**: Moderate to strong; head-on current from the east
 - **Best Time**: April to November (dry season, best visibility)
@@ -58,9 +58,5 @@ Currents can be strong and unpredictable, particularly on incoming tides. Do not
 
 The cave entrances provide dramatic silhouette shots with ambient light streaming from above. Wide-angle lenses suit the wall sections with large gorgonians, while macro photographers will find electric clams, nudibranchs, and pygmy seahorses inside the cave crevasses. Morning dives produce the best water column colour.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Aquamarine Diving - Bali Dive Sites](https://www.aquamarinediving.com/bali-diving/dive-sites/), [Dive The World - Bali Indonesia](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [Bluewater Dive Travel - Bali Diving](https://www.bluewaterdivetravel.com/destination/bali-diving), [World Adventure Divers - Best Dive Sites Bali](https://worldadventuredivers.com/best-dive-sites-bali/), [Neptune Scuba Diving - Scuba Diving Bali](https://neptunescubadiving.com/scuba-diving-bali/), [Dive The World - Bali](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [PADI - Diving in Bali](https://www.padi.com/diving-in/bali/). Last updated 2026-04-04.*

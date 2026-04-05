@@ -86,3 +86,6 @@ Monterey's 50-55°F water requires 5mm+ thermal protection even at these shallow
 
 ---
 *Otter Cove is a peaceful, rewarding kelp dive offering escape from crowded Monterey sites. Updated 2026-03-16.*
+
+---
+*Sources: [Monterey Bay Aquarium](https://www.montereybayaquarium.org/), [Aquarius Dive Shop](https://aquariusdivers.com/guided-tours), [Bamboo Reef Diving](https://www.bambooreef.com/dive-monterey), [Monterey Scuba Board](https://montereyscubaboard.com/monterey-dive-sites/), [See Monterey](https://www.seemonterey.com/things-to-do/outdoors/scuba-diving/). Last updated 2026-04-04.*

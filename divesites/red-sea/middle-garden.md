@@ -22,7 +22,7 @@ The "garden" sites at Ras Mohammed represent the inner, coral garden habitat tha
 ## Site Information
 
 - **Location**: Ras Mohammed National Park, Sinai, Egypt
-- **Entry Type**: Boat dive (day boat from Sharm el-Sheikh)
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
@@ -59,4 +59,4 @@ Conditions within the Ras Mohammed bay system are generally benign, but the bay 
 Middle Garden is one of the best reef photography sites in Sinai for coral garden compositions. Wide-angle images through coral avenues with fish populations create layered, complex reef scenes. The anthias clouds above table corals are a signature shot with a wide lens looking upward through the formation. humphead wrasse portraits require a 60-105mm equivalent lens and a slow, non-threatening approach.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

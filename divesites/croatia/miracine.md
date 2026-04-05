@@ -23,7 +23,7 @@ The reef at Miracine descends over rocky limestone terrain to approximately 25 m
 
 - **Location**: Inner Kvarner, Rijeka area, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–20 meters
@@ -58,4 +58,4 @@ Standard intermediate reef diving in calm, sheltered conditions. Monitor depth o
 The sheltered, calm conditions make this an excellent site for unhurried macro photography. Nudibranchs and small crustaceans on the sponge-covered surfaces are excellent subjects. The Posidonia shallows offer opportunities for seahorse photography.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*

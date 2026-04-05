@@ -22,10 +22,10 @@ The Edmund Fitzgerald sank on November 10, 1975, during a ferocious November sto
 ## Site Information
 
 - **Location**: Lake Superior, Great Lakes, Ontario, Canada
-- **Entry Type**: Boat dive (technical diving expedition)
-- **Site Type**: Wreck
-- **Difficulty Level**: Advanced (technical — beyond recreational limits)
-- **Maximum Depth**: 160 metres
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 160 meters
 - **Typical Visibility**: 3–8 metres at depth
 - **Water Temperature**: 2–4°C at depth year-round
 - **Current**: Minimal near the bottom
@@ -59,9 +59,5 @@ Lake Superior is the most dangerous of the Great Lakes, with cold water temperat
 
 The handful of authorized expeditions to the Edmund Fitzgerald have produced striking documentary footage. The preserved bow section still bears the vessel's name visible on the hull — one of the most iconic images in Great Lakes diving history.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Michigan.org - Dive Michigan Shipwrecks Underwater Preserves](https://www.michigan.org/article/trip-idea/dive-michigan-shipwrecks-these-underwater-preserves), [Great Lakes Shipwreck Preservation Society - Dive Sites](https://glsps.clubexpress.com/DiveSites), [Scuba Diving Magazine - Great Lakes Shipwrecks](https://www.scubadiving.com/great-lakes-shipwrecks-like-youve-never-seen-them-before), [Gear Patrol - Guide to Wreck Diving the Great Lakes](https://www.gearpatrol.com/archive/a162066/great-lakes-wreck-diving-guide/), [Shipwreck Explorers - Wisconsin Scuba Diving](https://www.shipwreckexplorers.com/). Last updated 2026-04-04.*

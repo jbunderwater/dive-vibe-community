@@ -70,9 +70,5 @@ Not recommended for inexperienced open-water divers; some offshore diving comfor
 
 Excellent photographic opportunities due to shallow depth and clear visibility. The wall/slope formations offer good composition. Fish behavior and schooling activity (especially jacks and creolefish) provide dynamic subjects. Macro photography of coral and invertebrate life is possible with the good light penetration. Summer provides the clearest conditions and best natural lighting.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [Scuba Diving Magazine - Flower Garden Banks](https://www.scubadiving.com/how-to-dive-flower-garden-banks-national-marine-sanctuary), [Texas Caribbean Charters](https://texascaribbean.com/), [NOAA Flower Garden Banks Sanctuary](https://flowergarden.noaa.gov/visiting/divecharters.html), [Divers Alert Network - Flower Garden Banks](https://dan.org/alert-diver/article/flower-garden-banks-national-marine-sanctuary-texas/), [Maximum Scuba Houston](https://maximum-scuba.com/tx-marine-flower-gardens). Last updated 2026-04-04.*

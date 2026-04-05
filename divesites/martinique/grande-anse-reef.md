@@ -23,7 +23,7 @@ The reef at Grande Anse lies in the protected waters directly in front of the be
 
 - **Location**: Grande Anse d'Arlet, southwest Martinique
 - **Entry Type**: Boat dive
-- **Site Type**: Fringing reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 14 meters
 - **Typical Visibility**: 15–25 meters
@@ -58,4 +58,4 @@ The bay sees fishing boat traffic in the early morning. Deploy SMB on ascent and
 The combination of clear Caribbean water, shallow depth, and active turtle population makes this site excellent for natural-light reef photography. Above-and-below split-level shots from the surface with the village church in the background are iconic Martinique photography.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Martinique Tourism - Diving](https://www.martinique.org/en/things-to-do/water-sports-and-activities/diving), [Scuba Diving Magazine - Martinique Guide](https://www.scubadiving.com/divers-guide-martinique-shipwrecks-turtles-and-volcanic-reefs), [Guide Martinique - Spots de Plongée](https://www.guidemartinique.com/activites/plongee/spots.php), [Wannadive - Saint Pierre Martinique](https://www.wannadive.net/spot/Central_America/Martinique/Saint_Pierre/index.html), [DiveIn - Best Dive Sites in Martinique](https://www.divein.com/diving/destination/diving-in-martinique/). Last updated 2026-04-04.*

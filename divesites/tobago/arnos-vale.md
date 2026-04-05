@@ -22,8 +22,8 @@ The beach at Arnos Vale is one of Tobago's most protected stretches of Caribbean
 ## Site Information
 
 - **Location**: Arnos Vale, Caribbean coast, western Tobago
-- **Entry Type**: Shore dive
-- **Site Type**: Fringing reef on rocky substrate
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 15–25 meters
@@ -58,4 +58,4 @@ Standard shore dive precautions. Watch for boat traffic from the nearby hotel je
 The combination of calm, clear water and relaxed marine life makes Arnos Vale one of Tobago's best shore photography sites. Eagle ray portraits in the early morning, turtle encounters over seagrass, and the lush green Caribbean coastal backdrop above water all make for distinctive images.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: visittobago.gov.tt, maritimeoceancollection.com - bay nursery, rocky shelf. Last updated 2026-03-28.*

@@ -59,9 +59,5 @@ Be aware of strong currents, jellyfish, sea urchins in this area. Dive within yo
 
 The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [SSI - Scuba Diving in Sri Lanka Guide](https://www.divessi.com/en/blog/scuba-diving-in-sri-lanka-9894.html), [PADI - Sri Lanka Dive Sites](https://blog.padi.com/sri-lankas-incredible-must-see-dive-sites/), [Divinguru - Sri Lanka Dive Sites](https://divinguru.com/scuba-diving/dive-sites/), [Bluewater Dive Travel - Sri Lanka](https://www.bluewaterdivetravel.com/destination/diving-sri-lanka), [PADI - Diving in Sri Lanka](https://www.padi.com/diving-in/sri-lanka/). Last updated 2026-04-04.*

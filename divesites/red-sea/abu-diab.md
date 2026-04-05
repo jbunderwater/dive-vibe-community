@@ -22,7 +22,7 @@ Abu Diab is part of the spectacular Fury Shoal complex — a vast system of subm
 ## Site Information
 
 - **Location**: Fury Shoal, south of Marsa Alam, Red Sea, Egypt
-- **Entry Type**: Boat dive (liveaboard)
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
@@ -58,9 +58,5 @@ Remote location — no shore-based emergency support. Follow all liveaboard safe
 
 Exceptional wide-angle conditions with pristine coral and clear water. The marine life is relatively undisturbed and approachable. Eagle rays and turtles offer classic wide-angle subjects. Macro life on the reef includes nudibranchs, flatworms, and cryptic shrimp species. The visibility and coral health rival any site in the Red Sea.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

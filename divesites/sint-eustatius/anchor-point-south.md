@@ -60,4 +60,5 @@ Iron anchors against coral backdrop provide strong compositional elements. Wide-
 - STENAPA: stenapafoundation.com — marine park regulations and historical background
 - Golden Rock Dive Center: primary local dive operator on Sint Eustatius
 
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: Dive operators, historical anchor from 1750. Last updated 2026-03-28.*

@@ -38,4 +38,4 @@ Whip corals and sea fans (well-developed), hunting trevally, tuna, parrotfish at
 The zone between these two exits is worth spending extra time on for the soft coral density and cleaning station activity. Approach the cleaning stations slowly and hover at a respectful distance to watch undisturbed fish behaviour. The current eddies around the reef feature at depth can make buoyancy more dynamic here than at the simpler sloping exits on either side.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

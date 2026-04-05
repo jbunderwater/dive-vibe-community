@@ -47,4 +47,4 @@ Boat dive from Holetown operators. Negative entry recommended to reach the reef 
 Moderate current requires drift diving experience. The drop-off past recreational depth limits demands careful depth awareness — it's easy to drift deeper without noticing. Maintain visual contact with dive buddies and the group. Always carry and deploy an SMB for pickup.
 
 ---
-*This dive site information was compiled from DiveAdvisor, DIVEIN, Active Caribbean Travel, Reefers & Wreckers, and Girls That Scuba. Last updated 2026-04-02.*
+*Sources: DiveAdvisor, DIVEIN, Active Caribbean Travel, Reefers & Wreckers, Girls That Scuba, Girls That Scuba - Drift dive with large barracuda schools, reef slopes past recreational limits. Last updated 2026-04-02.*

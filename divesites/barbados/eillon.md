@@ -60,4 +60,5 @@ At 17 metres in Carlisle Bay's clear water, the Eillon offers good natural light
 - Barbados Blue and Heatwave Water Sports: boat access to the Eillon as part of Carlisle Bay wreck packages
 - Best combined with the shallower bay wrecks for a full Carlisle Bay wreck diving day
 
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: caribbeanwarehouse.co.uk, diveoclock.com - 110ft drug boat sunk June 8 1996, 55ft depth (17m), air pocket in bow for penetration. Last updated 2026-03-28.*

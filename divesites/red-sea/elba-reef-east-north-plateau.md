@@ -22,9 +22,9 @@ Elba Reef East (North-Plateau) occupies the northeastern quadrant of the Elba Re
 ## Site Information
 
 - **Location**: Northeastern face, Elba Reef atoll, near Egyptian-Sudanese border (~22°N)
-- **Entry Type**: Liveaboard dive only (10–12 day expeditions from Hurghada)
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate (Advanced recommended due to remoteness and current)
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25–40 meters
 - **Current**: Moderate to strong on the exposed eastern face
@@ -58,9 +58,5 @@ Elba Reef is among the most remote sites in the Red Sea — medical evacuation i
 
 The eastern face provides outstanding wide-angle opportunities: clear water exceeding 35 metres visibility, undamaged hard coral backdrop, and minimal diver traffic create undisturbed subjects. Bumphead parrotfish schools at 15–20 metres are striking wide-angle subjects against the open-ocean backdrop. Grey reef shark portraits in natural light conditions at this latitude are consistently clean images. The pristine north-plateau coral formations suit ambient close-focus wide-angle work in morning light.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

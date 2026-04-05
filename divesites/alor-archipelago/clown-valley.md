@@ -57,9 +57,5 @@ Currents can pick up during tidal shifts; stay aware of conditions and keep the 
 
 Clown Valley is one of Alor's best dual-purpose photography sites. Wide-angle shots of anemone clusters with diver in background work well at 5–10 metres. For tight portraits of anemonefish darting between tentacles, a 60 mm macro or equivalent is ideal. The morning light angle is optimal — afternoon shoots have the sun behind the reef, creating backlit conditions that require more powerful strobes.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Alami Alor Dive Resort Diving](https://www.alamialor.com/diving-snorkeling/scuba-diving/), [Alor Divers Resort](https://www.alor-divers.com/), [ZuBlu Scuba Diving in Alor](https://www.zubludiving.com/destination/indonesia/nusa-tenggara/alor), [Solitude World Alor Diving Guide](https://solitude.world/alor-diving-guide/), [Dive the World Alor](https://www.dive-the-world.com/diving-sites-indonesia-alor.php). Last updated 2026-04-04.*

@@ -23,9 +23,9 @@ Punta Sur sits at the southern tip of Cozumel, where the island's wall system me
 
 - **Location**: Southern tip of Cozumel, Quintana Roo, Mexico
 - **Entry Type**: Boat dive
-- **Site Type**: Wall with integrated cave/cavern system
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 meters (115 feet)
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 25–40 meters (80–130 feet)
 - **Current**: Strong and variable — exposed headland with converging currents
 - **Best Time**: November to April; summer months can have stronger, less predictable currents
@@ -64,4 +64,4 @@ The Cathedral chamber interior is one of Cozumel's most dramatic photo subjects 
 - **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [The Reefs of Cozumel - Reef Guide](https://www.reefsofcozumel.com/reefguide.html), [Cozumel Scuba - Dive Sites](https://cozumelscuba.com/cozumel-dive-sites/), [Blue Note Scuba - Cozumel Dive Sites](https://www.bluenotescuba.com/cozumel-dive-sites), [Sand Dollar Sports - Cozumel Dive Sites](https://sanddollarsports.com/activities/cozumel-dive-sites/), [Pro Dive International - Divers Guide to Cozumel](https://www.prodiveinternational.com/diving/mexico/cozumel/). Last updated 2026-04-04.*

@@ -56,9 +56,5 @@ The crack is not a full cave system — natural light is visible throughout. Do 
 
 The crack swim-through with natural light filtering through one end creates a classic silhouette composition — position the camera to frame the light entry with the diver as silhouette. Glassfish clouds inside the crack respond well to torch-backlighting. The soft coral walls of the crack suit close-focus wide-angle in the confined space.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

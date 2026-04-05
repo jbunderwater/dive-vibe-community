@@ -36,14 +36,5 @@ Cocos Island is a notable diving destination in the Pacific region with depths r
 - **Language**: Spanish
 - **Safety**: Always dive within certification limits. Be aware of strong currents, remote locations, jellyfish. Verify the location of the nearest hyperbaric chamber before diving.
 
-## Sources
-
-- OpenStreetMap dive site data and community contributions
-- Regional diving guides and operator information
-- Marine conservation organization reports
-- Local tourism board resources
-
 ---
-
-*Last updated: March 2026*
-*Compiled from OpenStreetMap data, regional diving knowledge, and authoritative marine sources*
+*Sources: [Bluewater Dive Travel - Cocos Island Diving](https://www.bluewaterdivetravel.com/destination/cocos-island-diving), [Dive The World - Cocos Island](https://www.dive-the-world.com/diving-sites-cocos.php), [ZuBlu - Cocos Island Scuba Diving](https://www.zubludiving.com/destination/costa-rica/puntarenas/cocos-island), [PADI - Diving in Cocos Island](https://www.padi.com/diving-in/cocos-island/), [Aggressor - Costa Rica Cocos Island Liveaboard](https://www.aggressor.com/destination/Cocos), [Undersea Hunter - Cocos Island](https://underseahunter.com/cocos-island/), [Bluewater Dive Travel - Cocos Island](https://www.bluewaterdivetravel.com/destination/cocos-island-diving), [DAN Alert Diver - Cocos Island](https://dan.org/alert-diver/article/cocos-island/), [ZuBlu - Scuba Diving Cocos Island](https://www.zubludiving.com/destination/costa-rica/puntarenas/cocos-island). Last updated 2026-04-04.*

@@ -52,3 +52,6 @@ Boat access only; operators typically approach the western face in calm conditio
 - The canyon's deepest sections are genuinely dark — a dive torch helps with grouper identification and wall photography
 - Deploy an SMB at depth before ascending; the exposed location and current make a surface-level dive flag essential
 - Brief the divemaster about your experience with wall dives before descending — conditions here are significantly different from the park's eastern side
+
+---
+*Sources: [Boca Divers - Puerto Vallarta Dive Sites](https://www.bocadivers.net/BocaDivers/divesites.htm), [PADI - Diving in Puerto Vallarta](https://www.padi.com/diving-in/mexico/puerto-vallarta/), [PADI - Top Dive Sites in Puerto Vallarta](https://www.padi.com/dive-sites/mexico/puerto-vallarta/), [Vallarta by Owner - Best Scuba Diving in Puerto Vallarta](https://vallartabyowner.com/scuba/), [Dressel Divers - Puerto Vallarta Scuba Diving](https://www.dresseldivers.com/dive/mexico/puerto-vallarta-scuba-diving/). Last updated 2026-04-04.*

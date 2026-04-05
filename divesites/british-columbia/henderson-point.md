@@ -23,9 +23,9 @@ Henderson Point offers one of the more accessible wall dives in the southern Van
 
 - **Location**: Southern Vancouver Island, British Columbia, Canada
 - **Entry Type**: Shore entry
-- **Site Type**: Wall
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 metres
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 6-15 metres
 - **Water Temperature**: 8-12°C (drysuit essential)
 - **Current**: Strong on tidal exchanges — dive at slack
@@ -60,4 +60,4 @@ The combination of depth, potential strong current, and rocky shore entry makes 
 Henderson Point's wall is visually compelling for wide-angle photography — the plumose anemone forests and sponge-encrusted rock create striking backgrounds. GPO on the wall face make iconic BC diving images. For macro work, the upper reef section and rocky shallows reward close inspection with tight lens setups. Natural light on the upper wall (5-10 metres) can be beautiful on calm bright days.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

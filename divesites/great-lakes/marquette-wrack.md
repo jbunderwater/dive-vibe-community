@@ -23,9 +23,9 @@ The Marquette rests in the shallow, relatively protected waters of southern Geor
 
 - **Location**: Georgian Bay, Lake Huron, Ontario, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 11 metres
+- **Maximum Depth**: 11 meters
 - **Typical Visibility**: 5–10 metres
 - **Water Temperature**: 8–20°C (seasonal); bottom 8–12°C in summer
 - **Current**: Minimal in Collingwood area
@@ -59,9 +59,5 @@ Beginner-friendly in most respects, but cold water relative to tropical diving s
 
 Natural-light photography at 11 metres in Georgian Bay produces excellent results on sunny days. The hull structure, small fish, and crayfish all photograph well in available light. The relatively colourful freshwater ecosystem at this depth rewards macro photography.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Michigan.org - Dive Michigan Shipwrecks Underwater Preserves](https://www.michigan.org/article/trip-idea/dive-michigan-shipwrecks-these-underwater-preserves), [Great Lakes Shipwreck Preservation Society - Dive Sites](https://glsps.clubexpress.com/DiveSites), [Scuba Diving Magazine - Great Lakes Shipwrecks](https://www.scubadiving.com/great-lakes-shipwrecks-like-youve-never-seen-them-before), [Gear Patrol - Guide to Wreck Diving the Great Lakes](https://www.gearpatrol.com/archive/a162066/great-lakes-wreck-diving-guide/), [Shipwreck Explorers - Wisconsin Scuba Diving](https://www.shipwreckexplorers.com/). Last updated 2026-04-04.*

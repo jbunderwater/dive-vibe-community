@@ -23,7 +23,7 @@ The spit formation at Mbudya creates an interesting dive where two contrasting h
 
 - **Location**: Mbudya Island, Dar es Salaam Marine Reserve, Tanzania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef (reef-sand edge)
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 16 meters
 - **Typical Visibility**: 10-15 meters (33-50 feet)
@@ -57,9 +57,5 @@ Light conditions overall. The spit tip may produce slightly stronger current tha
 
 The habitat edge at Mbudya Spit creates compositional opportunities not available on standard patch reef sites. Shooting along the boundary where reef meets sand, with fish on both sides, creates interesting wide-angle frames. The sandy side's flatfish and rays reward patient macro photography.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*

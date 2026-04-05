@@ -58,9 +58,5 @@ Advanced dive with serious current potential. Only dive when conditions are appr
 
 Le Sec Pâté's outstanding visibility makes it one of Guadeloupe's premier photography sites. Reef sharks against the clear blue-green water of Les Saintes are stunning subjects. Wide-angle wall shots with the steep drop-off visible in the frame convey the dramatic topography. The lower diver pressure means animals are more natural and less cautious.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*

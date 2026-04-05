@@ -46,4 +46,4 @@ Reef manta rays (Mobula alfredi, regular and often numerous), white-tip reef sha
 Rangali Island in South Ari Atoll is reached by seaplane from Malé (approximately 30 minutes). Resort and liveaboard boats run daily trips to Rangali Manta Point during the season.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

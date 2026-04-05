@@ -39,14 +39,5 @@ Maldives is a premier diving destination in the Asia region, offering 141 docume
 - **Language**: Dhivehi
 - **Safety**: Always dive within certification limits. Be aware of strong currents, jellyfish, sea urchins. Verify the location of the nearest hyperbaric chamber before diving.
 
-## Sources
-
-- OpenStreetMap dive site data and community contributions
-- Regional diving guides and operator information
-- Marine conservation organization reports
-- Local tourism board resources
-
 ---
-
-*Last updated: March 2026*
-*Compiled from OpenStreetMap data, regional diving knowledge, and authoritative marine sources*
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

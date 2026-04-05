@@ -59,9 +59,5 @@ Be aware of strong currents, jellyfish, sea urchins in this area. Dive within yo
 
 Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [Dive Into Ambon](https://diveintoambon.com/tag/psychedelic-frogfish/), [ZuBlu Scuba Diving in Ambon](https://www.zubludiving.com/destination/indonesia/maluku/ambon), [Mikumba Diving Rare Critters of Ambon](https://www.mikumbadiving.com/rare-critters-of-ambon/), [Starfish Ambon Dive Sites](https://www.starfish.ch/dive/Ambon.html), [Neptune Liveaboards Ambon Diving](https://www.neptuneliveaboards.com/blog/ambon-diving/). Last updated 2026-04-04.*

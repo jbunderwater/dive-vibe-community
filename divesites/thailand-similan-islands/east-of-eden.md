@@ -58,9 +58,5 @@ East of Eden is the gentler introduction to Similan diving. Current is rarely st
 
 The table coral formations photographed with a wide angle and a diver for scale are a signature image of this site. Turtle portraits are excellent here — the animals often rest on coral heads at 8–12 m, allowing a careful approach to within a metre or two for frame-filling images. Napoleon wrasse are large enough for wide-angle portraits but also detailed enough for medium macro on their facial scales. Ambient light is generous on the shallow reef crest from mid-morning; no strobe may be needed for coral wide-angles in good visibility.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Similan Dive Guide](https://www.similandiveguide.com/), [Sunrise Divers - Similan Islands Dive Sites](https://www.sunrise-divers.com/dive-sites/similan-islands/), [Dive The World Thailand - Similan Islands](https://www.divetheworldthailand.com/similan-islands-diving-sites.php), [Sea Bees Diving - Scuba Diving Similans](https://sea-bees.com/scuba-diving-similans/), [Dive Happy - Diving Similan Islands Guide](https://divehappy.com/diving-similan-islands-quick-guide/). Last updated 2026-04-04.*

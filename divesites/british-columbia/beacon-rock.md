@@ -23,7 +23,7 @@ Beacon Rock is a submerged navigational hazard in the Strait of Georgia that has
 
 - **Location**: Strait of Georgia, Nanaimo area, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8-12 meters (25-40 feet)
@@ -59,9 +59,5 @@ The Strait of Georgia is a busy commercial shipping route. Be visible at the sur
 
 Beacon Rock suits wide-angle shooting of the rock structure and schooling fish. The perch and rockfish communities are photogenic and accustomed to diver presence. Macro opportunities include nudibranchs and small crustaceans on the rock face. Morning dives often have the best ambient light in the Strait.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

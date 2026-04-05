@@ -2704,5 +2704,93 @@
     "description": "Cold Atlantic waters rich in maritime history, with WWII convoy wrecks, the Halifax Explosion aftermath, seal colonies, and the nutrient-rich Bay of Fundy with its extreme tides.",
     "overviewFile": "overview.md",
     "countryCode": "CA"
+  },
+  {
+    "name": "Sumbawa",
+    "slug": "sumbawa",
+    "region": "Asia",
+    "center": [
+      -8.25,
+      118.3
+    ],
+    "bounds": [
+      [
+        -8.5,
+        117.4
+      ],
+      [
+        -8.0,
+        119.35
+      ]
+    ],
+    "description": "Indonesia's north Sumbawa coast with whale shark encounters in Saleh Bay, dramatic walls around Moyo Island marine park, volcanic geothermal vents at Sangeang Island, and sheltered muck diving at Satonda's sunken caldera.",
+    "overviewFile": "overview.md",
+    "countryCode": "ID"
+  },
+  {
+    "name": "Banda Sea",
+    "slug": "banda-sea",
+    "region": "Asia",
+    "center": [
+      -4.57,
+      129.87
+    ],
+    "bounds": [
+      [
+        -5.65,
+        129.6
+      ],
+      [
+        -4.35,
+        130.4
+      ]
+    ],
+    "description": "Historic spice island archipelago with the celebrated Lava Flow coral recovery site, hammerhead sharks at Jackpot pinnacle, Mandarin fish at Maulana, and the sea snake-rich volcanic walls of remote Manuk Island.",
+    "overviewFile": "overview.md",
+    "countryCode": "ID"
+  },
+  {
+    "name": "Halmahera",
+    "slug": "halmahera",
+    "region": "Asia",
+    "center": [
+      1.0,
+      128.0
+    ],
+    "bounds": [
+      [
+        -0.5,
+        127.0
+      ],
+      [
+        2.5,
+        129.0
+      ]
+    ],
+    "description": "North Maluku's unexplored diving frontier with WWII wrecks, vibrant soft coral walls, whale shark encounters, and the unique marine biodiversity of the Halmahera Sea.",
+    "overviewFile": "overview.md",
+    "countryCode": "ID"
+  },
+  {
+    "name": "Sangalaki (Derawan Islands)",
+    "slug": "sangalaki",
+    "region": "Asia",
+    "center": [
+      2.19,
+      118.44
+    ],
+    "bounds": [
+      [
+        2.03,
+        118.18
+      ],
+      [
+        2.38,
+        118.68
+      ]
+    ],
+    "description": "Indonesia's manta ray capital with resident mantas at Sangalaki, the world's only accessible saltwater jellyfish lake at Kakaban, big fish drift dives at Maratua atoll, and macro-rich muck diving at Derawan.",
+    "overviewFile": "overview.md",
+    "countryCode": "ID"
   }
 ]

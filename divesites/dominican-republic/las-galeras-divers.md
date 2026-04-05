@@ -22,7 +22,7 @@ Las Galeras sits at the far eastern tip of the Samaná Peninsula, one of the Dom
 ## Site Information
 
 - **Location**: Las Galeras, eastern tip of Samaná Peninsula, Dominican Republic
-- **Entry Type**: Boat dive (short ride from Las Galeras beach)
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
@@ -58,9 +58,5 @@ Low risk site given the shallow, calm conditions. The main consideration is the 
 
 Uncrowded, clear water makes Las Galeras an underrated photography destination. Wide-angle reef shots benefit from the low diver traffic and undisturbed fish behavior. Turtle encounters are excellent. If fortunate enough to encounter humpback whales in the bay, an open-water, shallow encounter may offer memorable wide-angle shots.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: Las Galeras Divers center, local operators. Last updated 2026-03-28.*

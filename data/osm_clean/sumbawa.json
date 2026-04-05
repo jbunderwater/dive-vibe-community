@@ -1,0 +1,184 @@
+[
+  {
+    "name": "Angel Reef",
+    "lat": -8.2303,
+    "lon": 117.4756,
+    "depth": 40,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "ScubaBoard GPS, dive-the-world.com"
+    }
+  },
+  {
+    "name": "Little Angel",
+    "lat": -8.2307,
+    "lon": 117.4787,
+    "depth": 35,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "ScubaBoard GPS"
+    }
+  },
+  {
+    "name": "Panjang Reef",
+    "lat": -8.21,
+    "lon": 117.475,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "dive-the-world.com, asiadivesite.com"
+    }
+  },
+  {
+    "name": "Satonda Reef",
+    "lat": -8.1213,
+    "lon": 117.7467,
+    "depth": 18,
+    "site_type": "muck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "ScubaBoard GPS, michaelmcfadyenscuba.info"
+    }
+  },
+  {
+    "name": "Sumbawa Wall",
+    "lat": -8.1478,
+    "lon": 117.7336,
+    "depth": 40,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "ScubaBoard GPS"
+    }
+  },
+  {
+    "name": "Sumbawa Surprise",
+    "lat": -8.2342,
+    "lon": 117.6945,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "ScubaBoard GPS"
+    }
+  },
+  {
+    "name": "Tanjung Batu Putih",
+    "lat": -8.3,
+    "lon": 118.8,
+    "depth": 40,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "asiadivesite.com, liveaboardindonesia.com"
+    }
+  },
+  {
+    "name": "Tanduk Rusa",
+    "lat": -8.46,
+    "lon": 119.27,
+    "depth": 40,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "kalimayadiveresort.com"
+    }
+  },
+  {
+    "name": "Rollercoaster",
+    "lat": -8.3925,
+    "lon": 119.2753,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "ScubaBoard GPS, kalimayadiveresort.com"
+    }
+  },
+  {
+    "name": "K2",
+    "lat": -8.4034,
+    "lon": 119.276,
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "ScubaBoard GPS"
+    }
+  },
+  {
+    "name": "Bonto Reef",
+    "lat": -8.21,
+    "lon": 118.9997,
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "ScubaBoard GPS, liveaboardindonesia.com"
+    }
+  },
+  {
+    "name": "Tikno Reef",
+    "lat": -8.1421,
+    "lon": 119.0275,
+    "depth": 18,
+    "site_type": "muck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "ScubaBoard GPS, asiadivesite.com"
+    }
+  },
+  {
+    "name": "Hot Rocks",
+    "lat": -8.1711,
+    "lon": 119.0564,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "masterliveaboards.com, dive-the-world.com"
+    }
+  }
+]

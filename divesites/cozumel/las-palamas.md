@@ -23,9 +23,9 @@ Las Palamas sits in the central portion of Cozumel's leeward dive corridor, betw
 
 - **Location**: Central leeward coast, Cozumel, Quintana Roo, Mexico
 - **Entry Type**: Boat dive
-- **Site Type**: Spur-and-groove coral reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters (65 feet)
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–35 meters (65–115 feet)
 - **Current**: Light to moderate northward drift
 - **Best Time**: November to April; diveable year-round
@@ -64,4 +64,4 @@ Las Palamas offers well-balanced photography across wide-angle reef and macro su
 - **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [The Reefs of Cozumel - Reef Guide](https://www.reefsofcozumel.com/reefguide.html), [Cozumel Scuba - Dive Sites](https://cozumelscuba.com/cozumel-dive-sites/), [Blue Note Scuba - Cozumel Dive Sites](https://www.bluenotescuba.com/cozumel-dive-sites), [Sand Dollar Sports - Cozumel Dive Sites](https://sanddollarsports.com/activities/cozumel-dive-sites/), [Pro Dive International - Divers Guide to Cozumel](https://www.prodiveinternational.com/diving/mexico/cozumel/). Last updated 2026-04-04.*

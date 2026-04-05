@@ -23,7 +23,7 @@ The site features a wall descending to approximately 30 metres, interrupted by t
 
 - **Location**: Northwest Gozo, Malta
 - **Entry Type**: Boat dive
-- **Site Type**: Wall/arch
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20–30 meters
@@ -59,4 +59,4 @@ The northwest Gozo location is exposed to prevailing westerly swell. Assess cond
 The double arch structure offers rare dual-frame wide-angle compositions. Positioning outside one arch and shooting through to the other creates depth and symmetry. Diver silhouettes in the arch openings add scale. The wall surface below the arches provides macro subjects with a torch.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [Atlantis Gozo Dive Sites](https://www.atlantisgozo.com/dive-sites/), [PADI Diving in Malta](https://www.padi.com/diving-in/malta/), [SCUBA Travel Malta Guide](https://www.scubatravel.co.uk/europe/malta-dive-in.html), [Dive Malta-Gozo](https://divemalta-gozo.com/diving-in-gozo/). Last updated 2026-04-04.*

@@ -22,10 +22,10 @@ Monad Shoal is a submerged plateau located about 6 km northeast of Malapascua Is
 ## Site Information
 
 - **Location**: 6 km northeast of Malapascua Island, Philippines
-- **Entry Type**: Boat dive (dawn departure)
-- **Site Type**: Submerged plateau / cleaning station
+- **Entry Type**: Boat dive
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 50 meters (working depth 16–30 meters)
+- **Maximum Depth**: 50 meters
 - **Typical Visibility**: 15-30 meters
 - **Current**: Moderate to strong; varies with tidal phase
 - **Best Time**: Year-round; most consistent March to June
@@ -59,9 +59,5 @@ This is an Advanced-level dive. Depths of 25–30 meters with cold thermoclines 
 
 Pelagic thresher shark photography at Monad Shoal is challenging but rewarding. Low-light dawn conditions require fast lenses or high ISO settings. Wide-angle lenses capture the full silhouette of the shark with its distinctive elongated tail. Shooting upward toward the blue water above the platform creates natural, atmospheric images. The brief encounter duration means preparation and positioning before the sharks arrive is essential.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Malapascua Thresher Shark Divers - Dive Sites](https://malapascua-diving.com/malapascua/dive-sites/), [ZuBlu Thresher Sharks of Malapascua](https://www.zubludiving.com/articles/zublu-insights/thresher-sharks-of-malapascua), [Thresher Shark Divers Resort](https://thresher-shark-divers.com/), [Diving Squad Malapascua Guide](https://www.divingsquad.com/philippines-diving/cebu/malapascua/), [Divernet Malapascua Diving Guide](https://divernet.com/world-dives/asia/malapascua-diving-guide-philippines/). Last updated 2026-04-04.*

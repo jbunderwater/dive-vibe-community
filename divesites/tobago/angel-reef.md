@@ -58,4 +58,4 @@ Current can increase with tidal flow — check conditions before descending. SMB
 The reliably present angelfish pairs at close range make this an excellent macro and portrait site. The Tobago water is slightly green-tinged from nutrient content — a strobe or video light brings out colour that ambient light can flatten. Turtle portraits in good visibility are achievable without supplementary lighting.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: Speyside area dive site. Last updated 2026-03-28.*

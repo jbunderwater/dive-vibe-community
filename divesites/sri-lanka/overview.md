@@ -37,14 +37,5 @@ Sri Lanka is a notable diving destination in the Asia region, offering 3 documen
 - **Language**: Sinhala, Tamil, English
 - **Safety**: Always dive within certification limits. Be aware of strong currents, jellyfish, sea urchins. Verify the location of the nearest hyperbaric chamber before diving.
 
-## Sources
-
-- OpenStreetMap dive site data and community contributions
-- Regional diving guides and operator information
-- Marine conservation organization reports
-- Local tourism board resources
-
 ---
-
-*Last updated: March 2026*
-*Compiled from OpenStreetMap data, regional diving knowledge, and authoritative marine sources*
+*Sources: [SSI - Scuba Diving in Sri Lanka Guide](https://www.divessi.com/en/blog/scuba-diving-in-sri-lanka-9894.html), [PADI - Sri Lanka Dive Sites](https://blog.padi.com/sri-lankas-incredible-must-see-dive-sites/), [Divinguru - Sri Lanka Dive Sites](https://divinguru.com/scuba-diving/dive-sites/), [Bluewater Dive Travel - Sri Lanka](https://www.bluewaterdivetravel.com/destination/diving-sri-lanka), [PADI - Diving in Sri Lanka](https://www.padi.com/diving-in/sri-lanka/). Last updated 2026-04-04.*

@@ -23,9 +23,9 @@ Gili Divers Biorock is part of the extensive network of more than 120 Biorock st
 
 - **Location**: East coast Gili Trawangan, Gili Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Artificial Reef / Biorock
+- **Site Type**: Artificial
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 15 m
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: 15–20 m
 - **Current**: Minimal
 - **Best Time**: Year-round
@@ -58,9 +58,5 @@ Do not touch the metal frame — sharp edges can cause cuts, and touching distur
 
 Before-and-after documentation of coral growth makes interesting sequential photography. The steel geometry with growing coral creates abstract close-up compositions. Fish portraits against the coral-covered frame produce unique backgrounds.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Manta Dive Gili Islands](https://manta-dive.com/diving-gili-trawangan/gili-dive-sites/), [Gili Divers Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [PADI Gili Islands](https://www.padi.com/diving-in/indonesia/gili-islands/), [Manta Dive Gili Air](https://manta-dive-giliair.com/gili-islands-dive-sites), [Terumbu Divers Gili Sites](https://terumbudivers.com/fun-dives-2/dive-sites-gili-islands-lombok/). Last updated 2026-04-04.*

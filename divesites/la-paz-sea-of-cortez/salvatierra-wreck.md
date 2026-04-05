@@ -59,9 +59,5 @@ Be aware of cold water, surge, limited visibility in this area. Dive within your
 
 The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [Cortez Club - La Paz Dive Sites](https://cortezclub.com/dive-sites/), [Cortez Club - Scuba Diving La Paz](https://cortezclub.com/scuba-diving/), [La Paz Divers - Diving in La Paz](https://lapazdivers.com/diving-in-la-paz/), [Dive in La Paz](https://diveinlapaz.com/), [Underwater Photography Guide - Diving La Paz Baja](https://www.uwphotographyguide.com/diving-la-paz-baja). Last updated 2026-04-04.*

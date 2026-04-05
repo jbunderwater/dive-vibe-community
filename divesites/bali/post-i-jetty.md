@@ -22,10 +22,10 @@ Post I Jetty sits directly in front of the West Bali National Park ranger statio
 ## Site Information
 
 - **Location**: Menjangan Island, West Bali National Park, northwest Bali
-- **Entry Type**: Boat dive (or shore from island)
-- **Site Type**: Reef / Sandy Slope
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 m
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10–25 m
 - **Current**: Minimal
 - **Best Time**: April to November
@@ -58,9 +58,5 @@ Currents are minimal but be aware of boat traffic around the jetty. Maintain goo
 
 The jetty creates an interesting structural dive shot opportunity. Macro photographers will enjoy the ghost pipefish, pipefish, and nudibranchs on the pilings. Garden eels on the sand require slow, patient approach for close-up shots. Cuttlefish in mid-water make excellent wide-angle subjects.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Aquamarine Diving - Bali Dive Sites](https://www.aquamarinediving.com/bali-diving/dive-sites/), [Dive The World - Bali Indonesia](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [Bluewater Dive Travel - Bali Diving](https://www.bluewaterdivetravel.com/destination/bali-diving), [World Adventure Divers - Best Dive Sites Bali](https://worldadventuredivers.com/best-dive-sites-bali/), [Neptune Scuba Diving - Scuba Diving Bali](https://neptunescubadiving.com/scuba-diving-bali/), [Dive The World - Bali](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [PADI - Diving in Bali](https://www.padi.com/diving-in/bali/). Last updated 2026-04-04.*

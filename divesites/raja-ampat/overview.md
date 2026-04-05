@@ -37,14 +37,5 @@ Raja Ampat is a premier diving destination in the Asia region, offering 77 docum
 - **Language**: Indonesian (Bahasa)
 - **Safety**: Always dive within certification limits. Be aware of strong currents, jellyfish, sea urchins. Verify the location of the nearest hyperbaric chamber before diving.
 
-## Sources
-
-- OpenStreetMap dive site data and community contributions
-- Regional diving guides and operator information
-- Marine conservation organization reports
-- Local tourism board resources
-
 ---
-
-*Last updated: March 2026*
-*Compiled from OpenStreetMap data, regional diving knowledge, and authoritative marine sources*
+*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*

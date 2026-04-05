@@ -58,9 +58,5 @@ One of the safest dive environments in the Dominican Republic. Fire coral is pre
 
 Aquarium is arguably the best site in the Dominican Republic for reef fish photography. The fish density and calm behavior allows close approach. Wide-angle lenses capture sweeping reef scenes with dozens of fish visible in a single frame. The macro photographer will find spotted drums, cleaner shrimp, flamingo tongues, and Christmas tree worms as subjects. Natural light photography without a strobe produces excellent results in these shallow, clear conditions.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: Scuba Diving Mag, Bayahibe operators. Last updated 2026-03-28.*

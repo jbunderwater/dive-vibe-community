@@ -50,8 +50,5 @@ Temple of Doom presents genuine overhead-environment hazards. Silt disturbance c
 ## Photography
 Temple of Doom offers atmospheric cave photography for those with the skills and composure to shoot in overhead environments. Wide-angle captures the chamber scale and stalactite formations. Off-camera lighting from a buddy's torch creates dramatic rim light and shadow play. Shoot toward any available natural light sources for ethereal beam effects. A diver's torch cutting through the darkness makes a compelling focal point. Macro opportunities exist on the cave walls but are secondary to the wide-angle drama. Keep your photography kit simple and streamlined -- this is not the place for bulky tray-and-arm setups.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Palau Dive Adventures](https://palaudiveadventures.com/best-dive-sites-palau/), [Bluewater Dive Travel - Palau](https://www.bluewaterdivetravel.com/destination/palau-diving), [Dive the World - Palau](https://www.dive-the-world.com/diving-sites-palau.php), [PADI - Diving in Palau](https://www.padi.com/diving-in/palau/), [Pristine Paradise Palau](https://pristineparadisepalau.com/dive-palau/). Last updated 2026-04-04.*

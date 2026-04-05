@@ -59,9 +59,5 @@ Be aware of strong currents, jellyfish, remote locations in this area. Dive with
 
 Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [Oceans Africa](https://www.oceansafrica.com/dive-cape-town/), [Apnea Addicts Dive Sites](https://www.aaddicts.co.za/snorkeling/dive-sites-in-cape-town/), [Wikivoyage - Diving the Cape Peninsula and False Bay](https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/Dive_sites), [Bluewater Dive Travel - South Africa](https://www.bluewaterdivetravel.com/destination/south-africa-diving), [Underwater Kinetics - Scuba Diving Cape Town](https://uwk.com/blogs/best-dive-locations/scuba-diving-in-cape-town-complete-guide). Last updated 2026-04-04.*

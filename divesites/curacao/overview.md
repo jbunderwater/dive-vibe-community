@@ -26,18 +26,5 @@ Curaçao offers an exceptional variety of diving experiences suitable for all sk
 
 **Best Time to Visit**: Curaçao offers excellent diving year-round due to its location outside the hurricane belt. The dry season (January-September) generally provides the calmest conditions and best visibility, while the wet season (October-December) can bring occasional storms but warmer water temperatures. **Entry Requirements**: Most visitors receive a 30-day tourist visa upon arrival. Passport requirements and COVID-19 protocols should be checked before travel. **Currency**: The official currency is the Netherlands Antillean Guilder (ANG), though US dollars are widely accepted. **Language**: Dutch is the official language, but English and Spanish are widely spoken, along with the local language Papiamentu. **Safety**: Curaçao is considered very safe for tourists, with excellent medical facilities and a professional hyperbaric chamber for diving emergencies. **Culture**: The island's rich cultural heritage combines Dutch colonial architecture, Caribbean traditions, and modern amenities, creating a unique and welcoming atmosphere for visitors.
 
-## Sources
-
-- Curaçao Marine Park (CARMABI) official information and research publications
-- Professional dive operator websites and local knowledge from Ocean Encounters, GO WEST Diving, The Dive Bus, and B-Diving & Watersports
-- Curaçao Tourism Board official diving and travel information
-- PADI and SSI training center resources and dive site databases
-- Academic research publications on Caribbean marine ecology and coral reef health
-- Local diving community forums and firsthand dive reports
-- Underwater photography resources and dive site guides
-- Marine conservation organizations and reef monitoring data
-
 ---
-
-*Last updated: January 2025*  
-*Compiled from official sources, local dive operators, and marine research organizations* 
+*Sources: [Ocean Encounters – Curacao Dive Sites](https://www.oceanencounters.com/excursions/curacao-dive-sites/), [Go West Diving – Curacao Dive Sites](https://www.gowestdiving.com/diving-curacao/dive-sites/), [Curacao Tourism – Diving & Snorkeling](https://www.curacao.com/en/category/scuba-diving-and-snorkeling), [Scuba Diving Magazine – Curacao Guide](https://www.scubadiving.com/guide-diving-curacao), [Dive Curacao Info](https://www.divecuracao.info/dive/curacao-diving-guide/). Last updated 2026-04-04.*

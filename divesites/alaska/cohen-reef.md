@@ -23,9 +23,9 @@ Cohen Reef is situated in the rich tidal waterways south of Juneau, where the mi
 
 - **Location**: South of Juneau, Lynn Canal system, Southeast Alaska
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 26 meters (85 feet)
+- **Maximum Depth**: 26 meters
 - **Typical Visibility**: 6–15 meters (20–50 feet)
 - **Current**: Moderate to strong — slack tide required
 - **Water Temperature**: 4–10°C (39–50°F)
@@ -59,9 +59,5 @@ Cold water (as low as 4°C in some seasons) makes hypothermia a genuine risk if 
 
 Cohen Reef rewards photographers who embrace cold-water subjects. Plumose anemones, nudibranchs, and colorful sea stars make excellent macro subjects. Under artificial light the reds and oranges of encrusting life are revealed dramatically. Wide-angle shots of the anemone-covered reef face require close focus for impact.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Dive Alaska - Anchorage Dive Operator](https://divealaska.net/), [Scuba Diving Magazine - Where to Go Scuba Diving in Alaska](https://www.scubadiving.com/where-to-go-scuba-diving-in-alaska), [Scuba Diving Magazine - Mountain Point Ketchikan](https://www.scubadiving.com/diving-alaskas-mountain-point), [Bluewater Dive Travel - Best Scuba Diving in Alaska](https://www.bluewaterdivetravel.com/destination/alaska-diving), [SSI - Scuba Diving in Alaska Guide](https://www.divessi.com/en/blog/scuba-diving-in-alaska-10373.html). Last updated 2026-04-04.*

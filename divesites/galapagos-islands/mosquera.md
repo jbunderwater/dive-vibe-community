@@ -58,9 +58,5 @@ While this is one of the gentler Galapagos dive sites, currents in the channel c
 
 Sea lion portraits and interaction shots are the main photographic draw. Use a wide-angle or fisheye lens and get close -- the sea lions will oblige by approaching to within centimeters. Eye-level shots produce the most engaging portraits. Garden eel colonies make excellent macro or mid-range subjects, but require patience and a slow, low approach. The sandy bottom provides a clean, uncluttered background for ray and shark shots. Ambient light is usually sufficient in the shallows, but strobes help with sea lion portraits to bring out the texture of their fur and the sparkle in their eyes.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [PADI - Diving in the Galapagos Islands](https://www.padi.com/diving-in/the-galapagos-islands/), [PADI Blog - Top Dive Sites in the Galapagos](https://blog.padi.com/top-dive-sites-in-the-galapagos/), [Bluewater Dive Travel - Galapagos](https://www.bluewaterdivetravel.com/destination/galapagos-diving), [World Adventure Divers - Diving Galapagos](https://worldadventuredivers.com/diving-galapagos/), [Galapagos Safari Camp - Scuba Diving](https://www.galapagossafaricamp.com/scuba-diving-galapagos/). Last updated 2026-04-04.*

@@ -38,14 +38,5 @@ Micronesia - Yap is a notable diving destination in the Pacific region, offering
 - **Language**: English
 - **Safety**: Always dive within certification limits. Be aware of strong currents, remote locations, jellyfish. Verify the location of the nearest hyperbaric chamber before diving.
 
-## Sources
-
-- OpenStreetMap dive site data and community contributions
-- Regional diving guides and operator information
-- Marine conservation organization reports
-- Local tourism board resources
-
 ---
-
-*Last updated: March 2026*
-*Compiled from OpenStreetMap data, regional diving knowledge, and authoritative marine sources*
+*Sources: [Visit Yap - Dive Sites](https://visityap.com/dive_sites.php), [Manta Ray Bay Resort - Dive Sites](https://mantaray.com/sites/), [Bluewater Dive Travel - Yap](https://www.bluewaterdivetravel.com/destination/yap-diving), [PADI - Diving in Yap](https://www.padi.com/diving-in/yap/), [Ikelite - Insider Guide to Diving Yap](https://www.ikelite.com/blogs/features/an-insiders-guide-to-diving-yap-micronesia). Last updated 2026-04-04.*

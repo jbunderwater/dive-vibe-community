@@ -60,4 +60,5 @@ Dolphin encounters underwater are the pinnacle Dolphins Bay photograph — a wid
 - Bocas del Toro dive operators: offer Dolphins Bay as part of standard multi-site daily tours
 - Bocas Town boat taxis: also pass through the bay on regular routes
 
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: [World Adventure Divers - Bocas del Toro](https://worldadventuredivers.com/diving-bocas-del-toro/), [Scuba Diving Magazine - Bocas del Toro](https://www.scubadiving.com/7-best-dive-sites-in-bocas-del-toro-panama), [La Buga - Dive Sites Bocas del Toro](https://labugapanama.com/dive-sites/), [Bocas Dive Center](https://bocasdivecenter.com/), [Panama Dive School](https://www.panamadiveschool.com/). Last updated 2026-04-04.*

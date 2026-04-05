@@ -42,14 +42,5 @@ Diving here is serious business. Most sites are reachable only by liveaboard, an
 - **Certification Requirements**: Advanced Open Water minimum for most Kwajalein wreck dives; deep wreck penetration dives at Bikini Atoll require wreck specialty certification or equivalent experience. Bikini liveaboards typically require Advanced certification and logged deep dive experience.
 - **Safety**: The nearest hyperbaric chamber is at Kwajalein's hospital (military facility; access may be restricted for civilians) and at Guam Naval Base. Confirm emergency procedures with your liveaboard operator before departure. Bikini Atoll is 800km from Majuro — remote diving demands thorough pre-trip planning.
 
-## Sources
-
-- OpenStreetMap dive site data and community contributions
-- Bikini Atoll liveaboard operator briefing materials
-- ScubaBoard Marshall Islands destination reports
-- UNESCO World Heritage — Bikini Atoll Nuclear Test Site documentation
-- Kwajalein Atoll dive operator guides
-
 ---
-
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*

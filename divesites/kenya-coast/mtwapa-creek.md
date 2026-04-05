@@ -23,7 +23,7 @@ Mtwapa Creek cuts inland from the Indian Ocean north of Mombasa, creating a shel
 
 - **Location**: Mtwapa Creek, North Mombasa, Kenya
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef (creek channel with reef structures)
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 5-15 meters (16-50 feet, tide-dependent)
@@ -57,9 +57,5 @@ The main hazard at Mtwapa Creek is tidal current during active tidal exchange, w
 
 The Mtwapa Creek environment creates unusual photographic opportunities distinct from open reef diving — the framing of coral structures against the creek wall substrate, moray eels in rock crevice settings, and the macro life on encrusted channel surfaces. Night photography of the abundant invertebrate community is particularly rewarding. The documentary value of a Kenya coast estuarine reef system makes this worthwhile for underwater documentary photographers.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Aqua Ventures Watamu - Dive in Kenya](https://www.diveinkenya.com/), [SCUBA Travel - Kenya Diving](https://www.scubatravel.co.uk/africa/diving-kenya.html), [PADI - Diving in Kenya](https://www.padi.com/diving-in/kenya/), [Ocean Tribe - Scuba Diving Diani Kenya](https://oceantribe.co/), [African Mecca Safaris - Kenya Diving Guide](https://www.africanmeccasafaris.com/travel-guide/kenya/trip-ideas/beach/scuba-diving). Last updated 2026-04-04.*

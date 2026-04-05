@@ -50,8 +50,5 @@ Strong currents are common and can change direction. The vertical wall creates a
 ## Photography
 Vertigo is a world-class wide-angle photography site. The wall drop-off provides dramatic negative-space compositions with sharks silhouetted against deep blue water. Gorgonian fans backlit by ambient light make stunning foreground subjects. Strobe power is important to bring out the colors of the soft corals at depth. For sharks, preset your camera settings and be ready -- encounters happen fast. The excellent visibility allows for longer working distances with wide-angle lenses.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Visit Yap - Dive Sites](https://visityap.com/dive_sites.php), [Manta Ray Bay Resort - Dive Sites](https://mantaray.com/sites/), [Bluewater Dive Travel - Yap](https://www.bluewaterdivetravel.com/destination/yap-diving), [PADI - Diving in Yap](https://www.padi.com/diving-in/yap/), [Ikelite - Insider Guide to Diving Yap](https://www.ikelite.com/blogs/features/an-insiders-guide-to-diving-yap-micronesia). Last updated 2026-04-04.*

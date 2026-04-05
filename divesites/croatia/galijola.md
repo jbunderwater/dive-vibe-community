@@ -23,7 +23,7 @@ The rocky reef at Galijola features broken limestone terrain with boulders, crev
 
 - **Location**: Pag Area, Northern Dalmatian Coast, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–20 meters
@@ -58,4 +58,4 @@ The exposed islet position can generate significant current — confirm sea stat
 The clear open water around the islet provides excellent wide-angle opportunities. The rocky reef silhouetted against blue water, barracuda in the water column, and resident grouper portraits are all productive subjects. The Posidonia shallows offer intimate macro photography.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*

@@ -60,9 +60,5 @@ Be aware of strong currents, remote locations, jellyfish in this area. Dive with
 
 Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [Seasport Divers - Kauai Dive Sites Map](https://seasportdivers.com/dive-map/), [Explore Kauai Scuba - Dive Sites](https://explorekauaiscuba.com/dive-sites/), [Scuba Diving Magazine - Ultimate Guide to Kauai](https://www.scubadiving.com/ultimate-guide-to-scuba-diving-kauai), [Fathom Five Divers - Kauai Dive Sites](https://www.fathomfive.com/dive-sites/), [Bluewater Dive Travel - Kauai Diving](https://www.bluewaterdivetravel.com/destination/kauai-diving), [Seasport Divers - Kauai Dive Map](https://seasportdivers.com/dive-map/), [Fathom Five Divers - Certified Shore Dives](https://www.fathomfive.com/certified-shore-dives/). Last updated 2026-04-04.*

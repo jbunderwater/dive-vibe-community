@@ -23,7 +23,7 @@ Shimoni Caves Reef sits in the protected waters of Kisite-Mpunguti Marine Nation
 
 - **Location**: Kenya Coast, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 28 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
@@ -58,9 +58,5 @@ Be aware of strong currents, jellyfish, remote locations in this area. Dive with
 
 This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [Aqua Ventures Watamu - Dive in Kenya](https://www.diveinkenya.com/), [SCUBA Travel - Kenya Diving](https://www.scubatravel.co.uk/africa/diving-kenya.html), [PADI - Diving in Kenya](https://www.padi.com/diving-in/kenya/), [Ocean Tribe - Scuba Diving Diani Kenya](https://oceantribe.co/), [African Mecca Safaris - Kenya Diving Guide](https://www.africanmeccasafaris.com/travel-guide/kenya/trip-ideas/beach/scuba-diving). Last updated 2026-04-04.*

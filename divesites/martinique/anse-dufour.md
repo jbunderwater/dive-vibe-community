@@ -22,8 +22,8 @@ The cove at Anse Dufour is flanked by headlands that shelter it from prevailing 
 ## Site Information
 
 - **Location**: Les Anses d'Arlet area, southwest Martinique
-- **Entry Type**: Shore dive
-- **Site Type**: Fringing reef on volcanic sand
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 15–20 meters
@@ -58,4 +58,4 @@ Keep an eye on fishing boat traffic — the cove is used by local fishermen. SMB
 Anse Dufour is Martinique's best turtle photography site. Close, relaxed encounters in clear shallow water allow natural-light portraits without strobe. Wide-angle shots of multiple turtles feeding on seagrass patches are possible on good days. The black volcanic sand background creates a distinctive compositional quality unique to Martinique.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Martinique Tourism - Diving](https://www.martinique.org/en/things-to-do/water-sports-and-activities/diving), [Scuba Diving Magazine - Martinique Guide](https://www.scubadiving.com/divers-guide-martinique-shipwrecks-turtles-and-volcanic-reefs), [Guide Martinique - Spots de Plongée](https://www.guidemartinique.com/activites/plongee/spots.php), [Wannadive - Saint Pierre Martinique](https://www.wannadive.net/spot/Central_America/Martinique/Saint_Pierre/index.html), [DiveIn - Best Dive Sites in Martinique](https://www.divein.com/diving/destination/diving-in-martinique/). Last updated 2026-04-04.*

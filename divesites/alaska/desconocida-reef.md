@@ -23,9 +23,9 @@ Desconocida Reef — its name derived from the Spanish word for "unknown" — si
 
 - **Location**: Outer island chains, Southeast Alaska
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters (82 feet)
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 8–20 meters (26–66 feet)
 - **Current**: Moderate to strong — slack tide required
 - **Water Temperature**: 6–12°C (43–54°F)
@@ -59,9 +59,5 @@ Remoteness compounds every other risk factor at this site. Emergency response ti
 
 The undisturbed nature of Desconocida Reef makes it attractive for underwater photography. Wide-angle coverage of intact anemone fields and reef structure, along with macro work on nudibranchs and small crustaceans, are the primary opportunities. Natural light diminishes quickly in these waters — strobes or video lights are essential.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Dive Alaska - Anchorage Dive Operator](https://divealaska.net/), [Scuba Diving Magazine - Where to Go Scuba Diving in Alaska](https://www.scubadiving.com/where-to-go-scuba-diving-in-alaska), [Scuba Diving Magazine - Mountain Point Ketchikan](https://www.scubadiving.com/diving-alaskas-mountain-point), [Bluewater Dive Travel - Best Scuba Diving in Alaska](https://www.bluewaterdivetravel.com/destination/alaska-diving), [SSI - Scuba Diving in Alaska Guide](https://www.divessi.com/en/blog/scuba-diving-in-alaska-10373.html). Last updated 2026-04-04.*

@@ -38,14 +38,5 @@ Croatia is a premier diving destination in the Europe region, offering 60 docume
 - **Language**: Croatian
 - **Safety**: Always dive within certification limits. Be aware of cold water (north), currents, boat traffic. Verify the location of the nearest hyperbaric chamber before diving.
 
-## Sources
-
-- OpenStreetMap dive site data and community contributions
-- Regional diving guides and operator information
-- Marine conservation organization reports
-- Local tourism board resources
-
 ---
-
-*Last updated: March 2026*
-*Compiled from OpenStreetMap data, regional diving knowledge, and authoritative marine sources*
+*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*

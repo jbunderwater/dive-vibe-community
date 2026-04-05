@@ -60,10 +60,10 @@ Variable currents can be moderate to strong; plan drift diving technique with cr
 
 December-April brings dramatic plankton-rich upwelling creating colder deeper water (24°C) and attracting sharks, rays, and other pelagics. May-November offers warmer surface water but generally weaker pelagic activity. Site diveable year-round with proper experience and conditions assessment by local operators.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
 - **Validation Source**: Perplexity research (March 2026)
 
 ---
 *Dive site information researched March 2026. Updated with field-verified pelagic and current data specific to Coiba's advanced diving environment.*
+
+---
+*Sources: [Scuba Coiba - The Original Dive Center](https://scubacoiba.com/), [Panama Dive Center - Coiba National Park](https://panamadivecenter.com/), [Coiba Dive Center](https://coibadivecenter.com/), [Coiba Island - Best Diving Sites](https://coiba-island.com/best-diving-sites-coiba-island-panama/), [The Ark Divers - Scuba Diving in Coiba National Park](https://www.thearkdivers.com/dive). Last updated 2026-04-04.*

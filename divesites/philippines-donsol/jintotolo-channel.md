@@ -22,8 +22,8 @@ Jintotolo Island sits in the sea between Masbate and Sorsogon provinces, and the
 ## Site Information
 
 - **Location**: Jintotolo Channel, Masbate/Sorsogon, Philippines
-- **Entry Type**: Boat dive (drift)
-- **Site Type**: Drift dive / channel
+- **Entry Type**: Boat dive
+- **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15-25 meters
@@ -58,9 +58,5 @@ Strong current drift diving at 30 meters is genuinely demanding. Advanced certif
 
 The channel is best photographed with a wide-angle lens capturing the dramatic schooling fish in the open water. Current shooting is challenging — position carefully and use fast shutter speeds. The manta ray encounters, if they occur, are the photographic highlight of the dive.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Thresher Shark Divers Donsol Packages](https://thresher-shark-divers.com/collections/donsol-whale-shark-and-manta-packages), [RUSHKULT Whale Sharks Donsol](https://rushkult.com/eng/scubamagazine/whale-sharks-donsol-philippines/), [Shark Diving Philippines - Whale Sharks of Donsol](https://sharkdivingphilippines.com/whale-sharks-of-donsol/), [Guide to the Philippines Whale Sharks](https://guidetothephilippines.ph/articles/what-to-experience/whale-sharks-tours-philippines), [We Are Travel Girls Donsol Philippines](https://wearetravelgirls.com/donsol-philippines-whale-sharks/). Last updated 2026-04-04.*

@@ -64,4 +64,5 @@ The Indians is arguably the BVI's best wide-angle photography site. The vertical
 - Blue Water Divers (Road Town) and most BVI operators: The Indians is on nearly every BVI dive itinerary
 - The Bight at Norman Island: standard yacht anchorage — the site is 10 minutes by dinghy from the anchorage
 
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: [Dive BVI - Dive Sites](https://divebvi.com/dive-sites/), [BVI Dive Map](https://bvi-dive-map.com/), [Bluewater Dive Travel - British Virgin Islands Diving](https://www.bluewaterdivetravel.com/destination/british-virgin-islands-diving), [Dive The World - British Virgin Islands](https://www.dive-the-world.com/diving-sites-british-virgin-islands.php), [BVI Scuba - Diving Info](https://bviscuba.org/diving-info/). Last updated 2026-04-04.*

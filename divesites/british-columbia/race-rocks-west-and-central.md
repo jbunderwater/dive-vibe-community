@@ -22,10 +22,10 @@ Race Rocks lies about 10 kilometres southwest of Victoria, where the Strait of J
 ## Site Information
 
 - **Location**: Strait of Juan de Fuca, 10 km southwest of Victoria, British Columbia
-- **Entry Type**: Boat
-- **Site Type**: Reef with kelp
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 metres
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 8–20 metres; best late summer and autumn
 - **Current**: Extreme — up to 7 knots at spring tides; slack window often under 20 minutes
 - **Best Time**: June through September; always on neap tides
@@ -63,4 +63,4 @@ Sea lion interactions are the headline subject — shoot wide (10–17 mm equiva
 - Last Updated: 2026-03-28
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

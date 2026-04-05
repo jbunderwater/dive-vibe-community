@@ -50,8 +50,5 @@ The strong current is the defining feature and the primary hazard. Divers must b
 ## Photography
 Ulong Channel offers unique opportunities for both wide-angle and close-focus wide-angle work. Shoot the coral walls streaming past during the drift for a sense of speed, or frame sharks and rays against the channel backdrop. The garden eel field at the exit is a classic Palau image -- approach slowly and use a long focal length or patience to get close before the eels retract. Video shooters love this dive for the inherent dynamism of the current-driven transit.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Palau Dive Adventures](https://palaudiveadventures.com/best-dive-sites-palau/), [Bluewater Dive Travel - Palau](https://www.bluewaterdivetravel.com/destination/palau-diving), [Dive the World - Palau](https://www.dive-the-world.com/diving-sites-palau.php), [PADI - Diving in Palau](https://www.padi.com/diving-in/palau/), [Pristine Paradise Palau](https://pristineparadisepalau.com/dive-palau/). Last updated 2026-04-04.*

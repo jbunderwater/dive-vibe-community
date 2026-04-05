@@ -59,4 +59,4 @@ The wall extends to 25 m and current can be present at this exposed location. Ma
 The wall face provides excellent wide-angle opportunities — shooting upward from the base of the wall with the crest silhouetted against blue water is a classic composition. The crevices and overhangs reward macro photography of nudibranchs, sea slugs, and encrusting organisms.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*

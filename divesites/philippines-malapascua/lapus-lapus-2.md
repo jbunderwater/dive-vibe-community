@@ -23,7 +23,7 @@ The Lapus-Lapus sites are among the lesser-visited dive destinations around Mala
 
 - **Location**: Northwest Malapascua Island, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-20 meters
@@ -58,9 +58,5 @@ The 30-meter depth requires monitoring of no-decompression limits. Currents can 
 
 The pinnacle structure makes for dramatic wide-angle shooting, particularly from below looking up. Sea fans and soft corals on the deeper sections provide colourful details. Sea snake encounters, if they occur, make striking and unusual subjects.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Malapascua Thresher Shark Divers - Dive Sites](https://malapascua-diving.com/malapascua/dive-sites/), [ZuBlu Thresher Sharks of Malapascua](https://www.zubludiving.com/articles/zublu-insights/thresher-sharks-of-malapascua), [Thresher Shark Divers Resort](https://thresher-shark-divers.com/), [Diving Squad Malapascua Guide](https://www.divingsquad.com/philippines-diving/cebu/malapascua/), [Divernet Malapascua Diving Guide](https://divernet.com/world-dives/asia/malapascua-diving-guide-philippines/). Last updated 2026-04-04.*

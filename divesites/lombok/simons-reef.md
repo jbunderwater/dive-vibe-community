@@ -23,9 +23,9 @@ Simon's Reef is one of the premier advanced dive sites accessible from Lombok, s
 
 - **Location**: North of Gili Islands, Lombok region
 - **Entry Type**: Boat dive
-- **Site Type**: Reef / Canyon
+- **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 m
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15–30 m (current-swept)
 - **Current**: Strong; channelling through canyons
 - **Best Time**: May to October
@@ -58,9 +58,5 @@ Channelling currents in the canyons can be strong and difficult to predict. Know
 
 Massive gorgonian sea fans are the feature subject — wide-angle close-focus captures their full size. Pygmy seahorses require macro lens and skilled guide to locate. Canyon walls with schooling fish suit wide-angle.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*

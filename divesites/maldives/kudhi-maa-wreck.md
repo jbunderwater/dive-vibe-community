@@ -44,4 +44,5 @@ Nurse sharks, grey reef sharks, lionfish, scorpionfish, moray eels, glassfish sc
 
 The shallow depth allows two full wreck circuits on a single tank — plan your air consumption carefully and enjoy the extra bottom time. A torch is useful for illuminating the colourful encrusting growth inside the hull openings and checking recesses for moray eels and scorpionfish. Entry and exit from the wreck should only be undertaken with appropriate wreck penetration training.
 
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

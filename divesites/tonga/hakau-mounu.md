@@ -60,4 +60,4 @@ At 20 meters maximum depth, this site is within comfortable intermediate diver r
 The reef plateau format suits wide-angle photography shooting along the coral horizon line. Large coral head formations create strong foreground subjects. The slope sections at 15–20 meters offer good ambient light for natural-light photography. Macro subjects are found throughout the reef matrix: look on coral surfaces for nudibranchs, flatworms, and cleaning shrimp.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Tonga Tourism - Diving Guide](https://tongatourism.travel/diving/), [Tonga Pocket Guide - Dive Sites](https://tongapocketguide.com/10-best-dive-sites-in-tonga/), [Diving Tonga](https://www.divingtonga.com/), [Bluewater Dive Travel - Tonga](https://www.bluewaterdivetravel.com/destination/tonga-diving), [PADI - Diving in Tonga](https://www.padi.com/diving-in/tonga/). Last updated 2026-04-04.*

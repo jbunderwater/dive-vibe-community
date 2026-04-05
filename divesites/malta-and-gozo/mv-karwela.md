@@ -23,7 +23,7 @@ The Karwela rests with her deck at approximately 28 metres and maximum depth of 
 
 - **Location**: North Malta, Malta
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 41 meters
 - **Typical Visibility**: 20–25 meters
@@ -59,4 +59,4 @@ Maximum 41-metre depth demands gas management discipline. Interior penetration r
 The intact ferry profile, particularly the bridge and funnel, makes for outstanding wide-angle subjects. Shooting upward from the seabed with the vessel silhouetted against the blue water above is a classic composition. The richly encrusted hull surfaces reward close-up work with a torch. With the Cominoland visible in the background, double-wreck compositions are possible.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [Atlantis Gozo Dive Sites](https://www.atlantisgozo.com/dive-sites/), [PADI Diving in Malta](https://www.padi.com/diving-in/malta/), [SCUBA Travel Malta Guide](https://www.scubatravel.co.uk/europe/malta-dive-in.html), [Dive Malta-Gozo](https://divemalta-gozo.com/diving-in-gozo/). Last updated 2026-04-04.*

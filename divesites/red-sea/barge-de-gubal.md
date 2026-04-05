@@ -23,7 +23,7 @@ The Barge de Gubal is a substantial wreck that has become heavily encrusted with
 
 - **Location**: Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–25 meters (50–82 feet)
@@ -58,9 +58,5 @@ Currents in the Gubal Straits can be significant — site conditions should be e
 
 The soft coral encrustation on the barge structure provides vivid colour for wide-angle photography. Glassfish clouds inside structural openings against ambient light are a classic wreck photography composition. Macro work yields nudibranchs and crustaceans on the hull.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

@@ -22,10 +22,10 @@ Chen Rio sits on Cozumel's windward eastern coast, which faces directly into the
 ## Site Information
 
 - **Location**: East coast (windward), Cozumel, Quintana Roo, Mexico
-- **Entry Type**: Boat dive (weather-dependent)
-- **Site Type**: Exposed windward reef
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters (65 feet)
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–30 meters (50–100 feet; can vary with sea conditions)
 - **Current**: Variable and can be strong — eastward-facing coast exposed to Caribbean swell
 - **Best Time**: April to June when Caribbean swell is at its minimum; assess conditions on the day
@@ -58,9 +58,5 @@ This is the most weather-dependent of Cozumel's standard sites. Surge creates ri
 
 The eastern reefs' pristine state rewards photographers with wide-angle images of undisturbed coral formations. The more intense light penetration on the east-facing coast creates dramatic morning photography opportunities. Surge makes macro shooting challenging — stick to wide-angle here and use fast shutter speeds to freeze the movement caused by swell. Pelagic fish action in the open water above the reef is worth having your camera ready throughout the dive.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [The Reefs of Cozumel - Reef Guide](https://www.reefsofcozumel.com/reefguide.html), [Cozumel Scuba - Dive Sites](https://cozumelscuba.com/cozumel-dive-sites/), [Blue Note Scuba - Cozumel Dive Sites](https://www.bluenotescuba.com/cozumel-dive-sites), [Sand Dollar Sports - Cozumel Dive Sites](https://sanddollarsports.com/activities/cozumel-dive-sites/), [Pro Dive International - Divers Guide to Cozumel](https://www.prodiveinternational.com/diving/mexico/cozumel/). Last updated 2026-04-04.*

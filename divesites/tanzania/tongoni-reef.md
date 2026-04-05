@@ -57,9 +57,5 @@ One of the more benign dive sites on the northern Tanzanian coast. Light current
 
 The cultural combination of reef diving and nearby ruins makes Tongoni a unique location for travel photography. Underwater, the reef photography focuses on the typical East African reef community — parrotfish and turtle portraits are the primary subjects. The mangrove edge provides unusual compositional opportunities not available at typical offshore reef sites.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*

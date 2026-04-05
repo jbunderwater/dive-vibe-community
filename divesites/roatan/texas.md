@@ -58,9 +58,5 @@ Manageable intermediate dive. Current can run across the reef flat on occasions 
 
 Texas is a versatile reef photography site. The broad, flat reef in good light conditions allows wide-angle reef landscapes with sweeping coral formations. Turtle portraits in the open reef are well-lit and spacious. The sandy channels offer excellent stingray and eagle ray shots in clear, bright conditions. Macro subjects include flamingo tongues, Christmas tree worms, and small gobies on sponge surfaces.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-04-04.*

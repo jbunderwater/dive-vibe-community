@@ -23,9 +23,9 @@ Mangrove Point is located at the western tip of Menjangan Island, where the reef
 
 - **Location**: Menjangan Island, West Bali National Park, northwest Bali
 - **Entry Type**: Boat dive
-- **Site Type**: Reef / Wall
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 m
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–30 m
 - **Current**: Generally light to moderate
 - **Best Time**: April to November
@@ -58,9 +58,5 @@ Currents are usually mild but can increase at the point. Stay within recreationa
 
 Morning dives offer exceptional natural light for shooting the shallow reef and fish schools. Wide-angle works well for the wall sections, while macro shooters will find ghost pipefish, nudibranchs, and juvenile fish in the corals. The safety stop in the shallows often yields some of the most colourful shots of the day.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Aquamarine Diving - Bali Dive Sites](https://www.aquamarinediving.com/bali-diving/dive-sites/), [Dive The World - Bali Indonesia](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [Bluewater Dive Travel - Bali Diving](https://www.bluewaterdivetravel.com/destination/bali-diving), [World Adventure Divers - Best Dive Sites Bali](https://worldadventuredivers.com/best-dive-sites-bali/), [Neptune Scuba Diving - Scuba Diving Bali](https://neptunescubadiving.com/scuba-diving-bali/), [Dive The World - Bali](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [PADI - Diving in Bali](https://www.padi.com/diving-in/bali/). Last updated 2026-04-04.*

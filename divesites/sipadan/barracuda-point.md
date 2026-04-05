@@ -50,8 +50,5 @@ Strong and unpredictable currents are the primary hazard. Down-currents along th
 ## Photography
 Wide-angle is essential. The barracuda tornado against the deep blue wall backdrop is the signature Sipadan image and one of the most photographed underwater scenes in the world. Position yourself inside or just below the vortex for dramatic compositions. Schools of bigeye jacks provide additional wide-angle opportunities. The wall ledges with resting turtles and patrolling sharks offer strong subject-and-background compositions. Strobes are useful for bringing out the silver of the barracuda but ambient light shots can also be striking for the tornado silhouette.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Scuba Junkie Complete Guide to Diving Sipadan](https://www.scuba-junkie.com/complete-guide-dive-sipadan-island/), [PADI Blog Diving Sipadan](https://blog.padi.com/everything-you-need-to-know-about-diving-sipadan/), [Dive The World Sipadan](https://www.dive-the-world.com/diving-sites-malaysia-sipadan-island.php), [Bluewater Dive Travel Sipadan](https://www.bluewaterdivetravel.com/destination/sipadan-diving), [SSI Guide to Diving Sipadan](https://www.divessi.com/en/blog/guide-to-scuba-diving-in-sipadan-9852.html). Last updated 2026-04-04.*

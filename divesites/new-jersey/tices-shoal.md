@@ -59,9 +59,5 @@ Be aware of cold water, surge, limited visibility in this area. Dive within your
 
 This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: Wikipedia/Tices_shoal, njscuba.net, visitnj.org. Last updated 2026-03-16.*

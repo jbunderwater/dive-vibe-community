@@ -23,9 +23,9 @@ San Juan Reef is located in the northern portion of Cozumel's dive map, away fro
 
 - **Location**: Northern Cozumel, Quintana Roo, Mexico
 - **Entry Type**: Boat dive
-- **Site Type**: Spur-and-groove coral reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters (60 feet)
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20–35 meters (65–115 feet)
 - **Current**: Light to moderate alongshore drift
 - **Best Time**: November to April; summer months may bring reduced visibility after rain
@@ -64,4 +64,4 @@ The northern light in the morning provides excellent illumination for the spur-a
 - **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [The Reefs of Cozumel - Reef Guide](https://www.reefsofcozumel.com/reefguide.html), [Cozumel Scuba - Dive Sites](https://cozumelscuba.com/cozumel-dive-sites/), [Blue Note Scuba - Cozumel Dive Sites](https://www.bluenotescuba.com/cozumel-dive-sites), [Sand Dollar Sports - Cozumel Dive Sites](https://sanddollarsports.com/activities/cozumel-dive-sites/), [Pro Dive International - Divers Guide to Cozumel](https://www.prodiveinternational.com/diving/mexico/cozumel/). Last updated 2026-04-04.*

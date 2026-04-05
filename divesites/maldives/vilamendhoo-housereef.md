@@ -30,4 +30,5 @@ The house reef wraps entirely around the island, with the outer reef slope reach
 
 Shore entry directly from the beach or jetty makes the house reef immediately accessible 24 hours a day. Night dives are highly productive, with octopus, cuttlefish, Spanish dancer nudibranchs, and large crabs regularly encountered on the sand. Whale shark encounters follow resort snorkelling guidelines: no touching, maintain a 3-metre distance from the animal's head, and approach from the side rather than the front. The shallow depth profile is ideal for new divers but rewards advanced divers who move slowly and observe carefully.
 
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

@@ -51,3 +51,6 @@ Boat dive from Punta de Mita operators (short transit) or Puerto Vallarta marina
 - The shallow 12-meter option is one of the most beginner-friendly sites in the northern bay — good for first open-water dives in real ocean conditions
 - The deeper 22-meter zone rewards divers who extend their bottom time beyond the shallow reef
 - Current can increase around the point itself — stay inside the sheltered reef face if conditions pick up
+
+---
+*Sources: [Boca Divers - Puerto Vallarta Dive Sites](https://www.bocadivers.net/BocaDivers/divesites.htm), [PADI - Diving in Puerto Vallarta](https://www.padi.com/diving-in/mexico/puerto-vallarta/), [PADI - Top Dive Sites in Puerto Vallarta](https://www.padi.com/dive-sites/mexico/puerto-vallarta/), [Vallarta by Owner - Best Scuba Diving in Puerto Vallarta](https://vallartabyowner.com/scuba/), [Dressel Divers - Puerto Vallarta Scuba Diving](https://www.dresseldivers.com/dive/mexico/puerto-vallarta-scuba-diving/). Last updated 2026-04-04.*

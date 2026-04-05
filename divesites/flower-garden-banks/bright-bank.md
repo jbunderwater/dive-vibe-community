@@ -75,9 +75,5 @@ Not suitable for recreational divers without deep-water training.
 
 The recovering coral formations provide good wide-angle composition opportunities. Tropical fish fauna and coral heads offer both wide-angle and macro subjects. Photography is challenging given the depth and resulting darker light environment; bring lights for macro work.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [Scuba Diving Magazine - Flower Garden Banks](https://www.scubadiving.com/how-to-dive-flower-garden-banks-national-marine-sanctuary), [Texas Caribbean Charters](https://texascaribbean.com/), [NOAA Flower Garden Banks Sanctuary](https://flowergarden.noaa.gov/visiting/divecharters.html), [Divers Alert Network - Flower Garden Banks](https://dan.org/alert-diver/article/flower-garden-banks-national-marine-sanctuary-texas/), [Maximum Scuba Houston](https://maximum-scuba.com/tx-marine-flower-gardens). Last updated 2026-04-04.*

@@ -58,9 +58,5 @@ Advanced dive requiring good buoyancy control and air management. The 33-meter m
 
 The Odyssey is one of Roatán's premier wreck photography subjects. The scale of the vessel allows dramatic wide-angle shots — a diver on the upper deck with the hull curving away creates powerful perspective. Black coral on the superstructure provides foreground interest. Schooling jacks circling the hull are an outstanding subject for wide-angle fish photography. A strobe is essential for illuminating the hull sponges at depth where ambient light is limited.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-04-04.*

@@ -50,8 +50,5 @@ The 40-metre depth makes this one of the deeper dives in the archipelago — mon
 ## Photography
 The canyon walls provide dramatic framing for wide-angle shots of mantas at cleaning stations and sharks silhouetted against the blue water. The two cleaning stations offer different angles and lighting conditions. The horseshoe shape creates natural leading lines in compositions. Deeper sections require artificial light for colour correction.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Mexico Liveaboards - Socorro Revillagigedo](https://mexicoliveaboards.com/destination-socorro.html), [Baja Wild Encounters - Socorro Islands Diving](https://bajawildencounters.com/socorro-islands-scuba-diving-liveaboard-expedition-mexico), [Bluewater Dive Travel - Socorro Island Diving](https://www.bluewaterdivetravel.com/destination/socorro-island-diving), [Nautilus Liveaboards - Scuba Diving Socorro Islands](https://nautilusliveaboards.com/2025/08/21/scuba-diving-socorro-islands/), [Dive Worldwide - Socorro Revillagigedo](https://www.diveworldwide.com/locations/socorro). Last updated 2026-04-04.*

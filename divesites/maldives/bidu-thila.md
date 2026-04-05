@@ -41,4 +41,4 @@ When a current runs, the thila acts as a focal point for schooling fish and the 
 Dive timing is ideally planned around the tidal cycle. Moderate incoming current is ideal for activity; strong current can make the dive challenging. Visibility typically 15–25 m. Boat access from North Malé Atoll resorts and liveaboards.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

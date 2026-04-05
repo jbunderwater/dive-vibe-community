@@ -23,7 +23,7 @@ The Bells is a dive site immediately north of the famous Blue Hole at Dahab on t
 
 - **Location**: Dahab, Sinai Peninsula, Gulf of Aqaba, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive with chimney entry
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 28 meters
 - **Typical Visibility**: 20–40 meters
@@ -59,9 +59,5 @@ The Bells chimney itself is a mild overhead environment — the entry requires s
 
 The chimney entry is a signature photographic opportunity — shooting upward through the slot from 20 metres captures dramatic light rays descending through the water. The wall south of the chimney rewards wide-angle shooting with large gorgonians and fans in the foreground and deep blue behind. Turtles on the wall at 10–15 metres are highly accessible for medium-range wide-angle shots. The transition from the open wall into the Blue Hole's circular interior makes an outstanding environmental composition.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

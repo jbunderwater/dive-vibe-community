@@ -23,9 +23,9 @@ Entrance Bank is positioned at the southern approach to Discovery Passage near C
 
 - **Location**: Discovery Passage entrance, Campbell River area, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Submerged bank / reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres
 - **Current**: Strong tidal currents — dive at slack only
 - **Best Time**: Late summer and autumn
@@ -57,11 +57,8 @@ Discovery Passage approach currents are dangerous if misjudged. Strict adherence
 
 Current-swept banks produce exceptional wide-angle photography — plumose anemone gardens photographed with a wide-angle lens against the blue water column are stunning. Schools of rockfish above the bank structure make strong mid-water compositions. Octopus on open substrate offer behavioural photography opportunities.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
 - Campbell River dive charter operators for Discovery Passage timing
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

@@ -22,8 +22,8 @@ Tubbataha Reefs Natural Park protects two large coral atolls and a smaller reef 
 ## Site Information
 
 - **Location**: Tubbataha Reefs Natural Park, Sulu Sea, Philippines
-- **Entry Type**: Liveaboard
-- **Site Type**: Reef / rock wall
+- **Entry Type**: liveaboard
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 20-40 meters
@@ -58,9 +58,5 @@ Tubbataha's remote location (180 km from Puerto Princesa) means medical evacuati
 
 Black Rock offers spectacular wide-angle shooting with wall structure, sea fans, and shark encounters as primary subjects. The exceptional clarity of Tubbataha water (20–40 meters visibility is normal) allows capturing the full scale of the reef structure. Dawn dives in the park have particularly beautiful light quality.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Bluewater Dive Travel Tubbataha Reef](https://www.bluewaterdivetravel.com/destination/tubbataha-reef-diving), [Divehappy Tubbataha Reef Guide](https://divehappy.com/diving-tubbataha-reef-a-quick-guide/), [Dive The World Tubbataha Philippines](https://www.dive-the-world.com/diving-sites-philippines-tubbataha.php), [WWF Tubbataha Reef Diving](https://wwf.panda.org/discover/knowledge_hub/where_we_work/coraltriangle/coraltrianglefacts/places/tubbatahareefphilippines/diving/), [Guide to the Philippines Tubbataha Diving](https://guidetothephilippines.ph/articles/adventure-and-outdoors/tubbataha-reef-philippines-diving-guide). Last updated 2026-04-04.*

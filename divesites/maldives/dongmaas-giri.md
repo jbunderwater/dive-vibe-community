@@ -41,4 +41,4 @@ Schooling reef fish gather above and around the giri — blue-striped snapper, f
 A versatile site suitable for multiple dives, with something to offer divers of different interests (pelagics, reef fish, macro). Visibility typically 15–25 m. Minimal current. Boat access from South Malé Atoll resorts.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

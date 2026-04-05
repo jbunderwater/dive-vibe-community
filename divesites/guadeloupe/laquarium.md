@@ -23,7 +23,7 @@ L'Aquarium is one of the signature dive sites within the Jacques Cousteau Underw
 
 - **Location**: Pigeon Island (Îlet à Goyaves), Cousteau Reserve, Bouillante, Basse-Terre, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Wall with tunnels and plateaus
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20–30 meters (65–100 feet)
@@ -58,9 +58,5 @@ Generally beginner-friendly depth range but classified Intermediate due to the t
 
 L'Aquarium is a photographer's paradise. Wide-angle shots from inside the tunnels looking toward the bright opening, with schools of gorettes silhouetted against the light, are among the most striking available in Guadeloupe. The exceptional fish density means fish photography is effortless. Turtle encounters in the shallow plateau sections are well-lit by the clear, sunlit water. Coral plateau scenes with layered fish schools are compelling wide-angle subjects.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*

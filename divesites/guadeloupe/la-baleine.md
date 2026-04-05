@@ -23,7 +23,7 @@ La Baleine ("The Whale") is a dive site in the Passe de la Baleine, the passage 
 
 - **Location**: Passe de la Baleine, between Terre-de-Haut and Terre-de-Bas, Les Saintes, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive with historic wreck
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 25–30 meters (80–100 feet)
@@ -58,9 +58,5 @@ Current in the passage can be strong — this is a fundamental feature of the si
 
 La Baleine is an excellent current dive photography site. Sea fans fully extended in the current flow with divers drifting behind create compelling wide-angle images. Reef sharks cruising through the passage in clear water are dramatic. The historic wreck remains, covered in two centuries of encrustation, create unique macro subjects unlike the deliberately sunk artificial reefs elsewhere in Guadeloupe.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*

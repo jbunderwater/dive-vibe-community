@@ -56,9 +56,5 @@ Be aware of cold water (north), currents, boat traffic in this area. Dive within
 
 This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [Lofoten Diving AS](https://lofoten-diving.no/), [X-Ray Mag - Diving Lofoten Norway](https://xray-mag.com/content/diving-lofoten-norway), [Scuba Diver Life - Diving in Lofoten Norway](https://scubadiverlife.com/diving-lofoten-norway/), [Visit Lofoten - Diving and Snorkeling](https://visitlofoten.com/en/topic/diving-and-snorkeling-in-lofoten/), [DeeperBlue - Top 6 Dive Sites in Norway](https://www.deeperblue.com/top-6-dive-sites-norway/). Last updated 2026-04-04.*

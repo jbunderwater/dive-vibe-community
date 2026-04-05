@@ -60,4 +60,5 @@ Folkestone's turtle encounters in the clear west coast water are among Barbados'
 - Folkestone Marine Park and Visitor Centre (Holetown): manages park access and provides guided snorkel/dive services
 - Barbados Tourism Authority: information on the park and its facilities
 
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: folkestonemarinepark.com, tripadvisor.com - Protected marine park, beginner-friendly shore access, 5-30ft depth range. Last updated 2026-03-28.*

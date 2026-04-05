@@ -23,7 +23,7 @@ The scattered remains of this historic vessel lie at around 20–25 metres on a 
 
 - **Location**: Cres/Lošinj area, Kvarner, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck/historical site
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–25 meters
@@ -58,4 +58,4 @@ Depth is within recreational limits and conditions are typically gentle. The mai
 The cannon-like artefacts draped in encrusting organisms make striking wide-angle and macro subjects. A diver hovering over the scattered debris provides excellent scale. Strobe lighting brings out the vivid colours of the sponge communities growing on the ancient ironwork.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*

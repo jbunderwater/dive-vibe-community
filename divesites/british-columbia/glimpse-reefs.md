@@ -23,9 +23,9 @@ Glimpse Reefs is an intermediate boat dive offering rocky reef terrain thickly c
 
 - **Location**: Southern Vancouver Island, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 6-12 metres
 - **Water Temperature**: 8-12°C (drysuit recommended)
 - **Current**: Variable to strong — dive near slack
@@ -60,4 +60,4 @@ Tidal current and boat traffic are the primary concerns at Glimpse Reefs. Surfac
 Glimpse Reefs provides excellent photographic variety. Lingcod portraits using wide-angle lenses are a favourite. Nudibranchs and small crustaceans on the reef surface reward macro photographers. Ambient light shots through the kelp canopy can be spectacular on calm, bright days. A dual-strobe setup brings out the vivid colours of encrusting sponges and anemones.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

@@ -23,7 +23,7 @@ The eastern Zanzibar coastline is defined by a broad, shallow lagoon between the
 
 - **Location**: Jambiani Lagoon, Southeast Zanzibar Island
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef (shallow lagoon)
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 8 meters
 - **Typical Visibility**: 8-12 meters (26-40 feet)
@@ -57,9 +57,5 @@ One of Zanzibar's safest dive sites. The 8-meter maximum depth removes virtually
 
 Outstanding photography conditions given the shallow depth and excellent natural light throughout the day. No strobes needed for daytime photography in clear conditions — ambient light at 5-8 meters produces excellent color. Night photography of cuttlefish and octopus in the calm lagoon is accessible even for compact camera users.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Diving in Zanzibar - Nungwi Dive Center](https://www.divinginzanzibar.com/dive-sites-map/), [PADI - Diving in Zanzibar](https://www.padi.com/diving-in/zanzibar/), [PADI - Top Dive Sites Zanzibar](https://www.padi.com/dive-sites/zanzibar/), [Bluewater Dive Travel - Zanzibar](https://www.bluewaterdivetravel.com/destination/diving-zanzibar-tanzania-kenya), [One Ocean Zanzibar](https://zanzibaroneocean.com/). Last updated 2026-04-04.*

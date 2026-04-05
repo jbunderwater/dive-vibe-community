@@ -23,7 +23,7 @@ The reef descends over rocky limestone terrain to approximately 25 metres, where
 
 - **Location**: Krk Island area, Kvarner, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef with gorgonians
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–20 meters
@@ -59,4 +59,4 @@ Standard intermediate reef diving. Maintain good buoyancy to avoid contact with 
 The gorgonian fans are the star subjects for macro photography — look for arrow crabs, brittle stars, and nudibranchs on the fan surfaces. Wide-angle shots of a diver surrounded by sea fans with a wide lens and strobe lighting create impressive images. The clear Kvarner water provides excellent natural light in the upper sections.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*

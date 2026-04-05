@@ -23,7 +23,7 @@ The reef at Caye Fortune rises from a sandy bottom and forms a series of coral s
 
 - **Location**: Off southern Grande-Terre, near Îlet Fortune, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Fringing coral reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15–25 meters
@@ -58,4 +58,4 @@ Fire coral is present on reef crests — maintain good buoyancy. Boat traffic in
 The mix of coral structures and soft light at 10–15 meters is well-suited to natural-light reef photography. Wide-angle shots capturing sea turtle behaviour near the reef work well in morning light.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*

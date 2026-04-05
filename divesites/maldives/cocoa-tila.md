@@ -42,4 +42,4 @@ Grey reef sharks are regular visitors, and Napoleon wrasse are almost always pre
 Current can be focussed around the pinnacle — stronger on exposed faces, calmer in the lee. Suitable for intermediate divers with pinnacle drift experience. Visibility typically 15–25 m. Often dived together with Cocoa Corner in a morning session from South Malé Atoll resorts.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

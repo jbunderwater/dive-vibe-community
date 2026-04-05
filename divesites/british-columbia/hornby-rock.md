@@ -23,9 +23,9 @@ Hornby Rock lies within the productive outer waters of Barkley Sound, where cold
 
 - **Location**: Barkley Sound, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-18 metres
 - **Water Temperature**: 8-11°C (drysuit required)
 - **Current**: Moderate to strong — check tides and swell
@@ -60,4 +60,4 @@ Remote location, Pacific swell, and tidal currents combine to make dive planning
 Barkley Sound's clear water and dramatic marine life make Hornby Rock a prime photo destination. Lingcod resting on sponge-carpeted rock create powerful wide-angle compositions. GPO in the open are a rare and rewarding subject — natural light plus a single strobe brings out the texture and colour of the skin. Sea lion encounters, if they occur, suit high-speed burst shooting with a wide-angle lens.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

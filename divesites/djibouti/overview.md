@@ -37,14 +37,5 @@ Djibouti is a notable diving destination in the Africa region, offering 3 docume
 - **Language**: French, Arabic
 - **Safety**: Always dive within certification limits. Be aware of strong currents, jellyfish, remote locations. Verify the location of the nearest hyperbaric chamber before diving.
 
-## Sources
-
-- OpenStreetMap dive site data and community contributions
-- Regional diving guides and operator information
-- Marine conservation organization reports
-- Local tourism board resources
-
 ---
-
-*Last updated: March 2026*
-*Compiled from OpenStreetMap data, regional diving knowledge, and authoritative marine sources*
+*Sources: [Dive The World - Djibouti Dive Sites](https://www.dive-the-world.com/diving-sites-djibouti.php), [SCUBA Travel - Djibouti Diving](https://www.scubatravel.co.uk/redsea/djibouti-diving.html), [ZuBlu - Scuba Diving in Djibouti](https://www.zubludiving.com/destination/red-sea/arabia-and-horn-of-africa/djibouti), [Divezone - Djibouti Dive Sites](https://divezone.net/diving/djibouti), [PADI - Diving in Djibouti](https://www.padi.com/diving-in/djibouti/). Last updated 2026-04-04.*

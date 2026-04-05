@@ -23,7 +23,7 @@ The Woo reef complex comprises interconnected reef sections along the inner face
 
 - **Location**: Outer fringing reef, Jambiani, Southeast Zanzibar Island, Tanzania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef (mounds and channels)
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 12-18 meters (40-60 feet)
@@ -57,9 +57,5 @@ Low-risk environment. The 18-meter maximum depth, very light current, and shelte
 
 The mound-and-channel structure creates strong architectural composition opportunities — shooting along a channel with mounds framing both sides, or looking upward along a mound face from the base. Cuttlefish hunting behavior above the mound tops is excellent for behavioral photography. Moray eel portrait shots in the base crevices benefit from a strobe to reveal the intricate skin patterning. Night photography here is accessible and productive.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Diving in Zanzibar - Nungwi Dive Center](https://www.divinginzanzibar.com/dive-sites-map/), [PADI - Diving in Zanzibar](https://www.padi.com/diving-in/zanzibar/), [PADI - Top Dive Sites Zanzibar](https://www.padi.com/dive-sites/zanzibar/), [Bluewater Dive Travel - Zanzibar](https://www.bluewaterdivetravel.com/destination/diving-zanzibar-tanzania-kenya), [One Ocean Zanzibar](https://zanzibaroneocean.com/). Last updated 2026-04-04.*

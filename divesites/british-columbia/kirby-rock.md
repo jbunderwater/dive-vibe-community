@@ -23,9 +23,9 @@ Kirby Rock is located in the outer Barkley Sound area on Vancouver Island's west
 
 - **Location**: Barkley Sound, west coast of Vancouver Island, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Submerged rock / reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–20 metres
 - **Current**: Ocean swell and tidal currents — conditions-dependent
 - **Best Time**: Late summer and autumn for calmest conditions and best visibility
@@ -57,11 +57,8 @@ West coast ocean conditions add swell and surge to the typical BC diving hazards
 
 West coast BC diving provides exceptional wide-angle photography opportunities — dense sponge and anemone-covered rock faces with clear Pacific water behind are stunning. Large octopus and sea lions make outstanding subjects. Sea pen fields with sand-dwelling critters are excellent for macro and wide-angle work.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
 - Bamfield Marine Sciences Centre: bamfieldmsc.com
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

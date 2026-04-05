@@ -61,4 +61,4 @@ Mariner's Cave carries genuine hazard for divers who are not prepared. The subme
 Photographing inside Mariner's Cave requires high ISO capability and patience. The fog effect is brief (a few seconds per cycle) and unpredictable in exact timing — anticipation and burst shooting mode are necessary to capture it. Wide-angle lenses work best for the interior chamber, framing divers or snorkelers in the dim ambient light against the cave walls. The underwater passage itself, with a diver silhouetted against the brighter interior light ahead, is a classic composition shot from just outside the entrance.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Tonga Tourism - Diving Guide](https://tongatourism.travel/diving/), [Tonga Pocket Guide - Dive Sites](https://tongapocketguide.com/10-best-dive-sites-in-tonga/), [Diving Tonga](https://www.divingtonga.com/), [Bluewater Dive Travel - Tonga](https://www.bluewaterdivetravel.com/destination/tonga-diving), [PADI - Diving in Tonga](https://www.padi.com/diving-in/tonga/). Last updated 2026-04-04.*

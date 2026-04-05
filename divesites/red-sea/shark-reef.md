@@ -59,9 +59,5 @@ Current is the primary hazard. Ras Mohammed currents are tidal and can shift fro
 
 Shark Reef is one of the Red Sea's premier wide-angle photography sites. Grey reef shark portraits at cleaning stations reward patient hovering. The massing schools of trevally and barracuda in summer produce abstract schooling shots of extraordinary scale. The sheer wall face with its anthias clouds and soft coral trees is spectacular for reef environmental shots. For sharks, position yourself below them against an upward-light background for clean silhouettes.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

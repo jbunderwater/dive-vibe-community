@@ -23,9 +23,9 @@ Bulakan (also known as Ghost Bay) is regarded as one of the finest muck dive sit
 
 - **Location**: Amed area, northeast Bali
 - **Entry Type**: Boat dive
-- **Site Type**: Muck / Sandy Slope
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 m
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10–20 m
 - **Current**: Generally mild
 - **Best Time**: April to November
@@ -58,9 +58,5 @@ Camouflaged scorpionfish and stonefish on muck sites are a real hazard — never
 
 Flying gurnard and garden eels are the headline subjects. Wide-angle with close focus captures the gurnard's wing-like fins spread against the dark sand. Garden eels require a long lens or careful approach — shoot from a distance with a telephoto macro setup. Nudibranchs reward a 100mm macro lens with diopter.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Aquamarine Diving - Bali Dive Sites](https://www.aquamarinediving.com/bali-diving/dive-sites/), [Dive The World - Bali Indonesia](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [Bluewater Dive Travel - Bali Diving](https://www.bluewaterdivetravel.com/destination/bali-diving), [World Adventure Divers - Best Dive Sites Bali](https://worldadventuredivers.com/best-dive-sites-bali/), [Neptune Scuba Diving - Scuba Diving Bali](https://neptunescubadiving.com/scuba-diving-bali/), [Dive The World - Bali](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [PADI - Diving in Bali](https://www.padi.com/diving-in/bali/). Last updated 2026-04-04.*

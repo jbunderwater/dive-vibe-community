@@ -60,4 +60,5 @@ Crash Boat Beach is one of Puerto Rico's best natural-light photography sites. M
 - Aqua Adventure Puerto Rico (Aguadilla): local operator with Crash Boat expertise
 - The beach has free public parking and facilities
 
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: [Scuba Diving Magazine - Puerto Rico Top 10](https://www.scubadiving.com/travel/caribbean-atlantic/puerto-rico-top-10-dives), [PuertoRico.com Dive Sites](https://www.puertorico.com/dive-sites), [Aquatica Underwater Adventures](https://aquaticapr.com/scuba-diving-in-puerto-rico-exploring-the-best-dive-sites-on-the-west-coast/), [Discover Puerto Rico Scuba Diving](https://www.discoverpuertorico.com/article/scuba-diving-novice-to-advanced), [Carib Dive Guide Puerto Rico](http://www.caribdiveguide.com/Puerto_Rico.htm). Last updated 2026-04-04.*

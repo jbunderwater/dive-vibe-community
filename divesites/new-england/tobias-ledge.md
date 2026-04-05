@@ -23,7 +23,7 @@ Tobias Ledge is part of the tight cluster of named submerged ledges south of Bos
 
 - **Location**: South Shore ledges, off Scituate, Massachusetts
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 5–10 meters (variable)
@@ -64,4 +64,4 @@ Strobes needed at 18 metres. Ledge face portraits and lobster crevice shots.
 - **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*

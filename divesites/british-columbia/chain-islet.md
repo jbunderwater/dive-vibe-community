@@ -23,9 +23,9 @@ Chain Islet is a small rocky outcrop in the Haro Strait east of Victoria, part o
 
 - **Location**: Haro Strait, east of Victoria, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky islet / reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres
 - **Current**: Moderate tidal currents in Haro Strait
 - **Best Time**: Late spring through autumn
@@ -57,11 +57,8 @@ Haro Strait tidal currents require careful timing to slack. BC Ferries and inter
 
 Sea lion interactions produce some of the most dynamic wildlife photography available in BC diving. Wide-angle or fisheye lenses capture the animals' speed and playfulness. Look for moments when sea lions pose near the camera for portrait shots. The islet's rocky underwater structure with plumose anemones also provides fine invertebrate compositions.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
 - Victoria area dive charters for current timing and multi-site itineraries
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

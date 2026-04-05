@@ -57,9 +57,5 @@ Be aware of cold water (north), currents, boat traffic in this area. Dive within
 
 This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [PADI - Diving Ustica](https://www.padi.com/diving-in/italy/ustica/), [SCUBA Travel - Ustica Dive Guide](https://www.scubatravel.co.uk/italy/usticadive.html), [Ustica Diving](https://usticadiving.com/), [Blue Diving Ustica](https://www.bluedivingustica.it/en/), [Divernet - Ustica: Sicily Diving Jewel](https://divernet.com/world-dives/europe/ustica-sicilys-diving-jewel/). Last updated 2026-04-04.*

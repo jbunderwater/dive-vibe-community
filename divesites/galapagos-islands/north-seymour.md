@@ -58,9 +58,5 @@ Tidal channel currents are the primary hazard and can be significantly stronger 
 
 Eagle rays passing overhead against blue water make excellent wide-angle subjects. Resting whitetip reef sharks on sandy bottom are best shot with a wide-angle lens from a low angle, approaching slowly. Garden eels require a macro lens and extreme patience -- they are skittish and retract at the slightest disturbance. The shallow depth means excellent natural light, reducing dependence on strobes. The current can make steady shooting challenging -- brace against rocks (without damaging reef) or use higher shutter speeds to compensate. This is primarily a wide-angle site.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [PADI - Diving in the Galapagos Islands](https://www.padi.com/diving-in/the-galapagos-islands/), [PADI Blog - Top Dive Sites in the Galapagos](https://blog.padi.com/top-dive-sites-in-the-galapagos/), [Bluewater Dive Travel - Galapagos](https://www.bluewaterdivetravel.com/destination/galapagos-diving), [World Adventure Divers - Diving Galapagos](https://worldadventuredivers.com/diving-galapagos/), [Galapagos Safari Camp - Scuba Diving](https://www.galapagossafaricamp.com/scuba-diving-galapagos/). Last updated 2026-04-04.*

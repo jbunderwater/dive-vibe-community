@@ -60,4 +60,5 @@ The Ce-Trek at 12 metres in Carlisle Bay's clear water is a well-lit, accessible
 - Barbados Blue: offers guided Carlisle Bay multi-wreck tours including the Ce-Trek
 - The wreck cluster can be explored independently by confident shore divers familiar with the bay layout
 
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: barbados.org, divernet.com - Carlisle Bay wreck trail, WWII era. Last updated 2026-03-28.*

@@ -23,9 +23,9 @@ Brinn Rock lies in the Haro Strait southeast of Victoria, in the channel between
 
 - **Location**: Haro Strait, south of Victoria, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Submerged rock / reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres
 - **Current**: Moderate to strong tidal currents in Haro Strait
 - **Best Time**: Late summer and autumn for best visibility
@@ -57,11 +57,8 @@ Haro Strait currents can exceed 3 knots — timing to slack is non-negotiable. I
 
 The dense invertebrate encrustation on current-facing surfaces is visually striking for wide-angle photography. Plumose anemone colonies with rockfish hovering above make classic Pacific Northwest compositions. Macro opportunities include nudibranchs, amphipods, and small crustaceans on sponge surfaces. Bring a video light for accurate colour rendition.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
 - Victoria area dive shops and charters familiar with Haro Strait conditions
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

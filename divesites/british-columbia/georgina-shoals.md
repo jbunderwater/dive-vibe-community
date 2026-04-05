@@ -23,9 +23,9 @@ Georgina Shoals presents an intermediate reef dive on a series of rocky outcropp
 
 - **Location**: Northern Gulf Islands, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef / shoal
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 6-12 metres
 - **Water Temperature**: 8-12°C (drysuit recommended)
 - **Current**: Strong on tidal exchanges — dive at slack
@@ -60,4 +60,4 @@ Tidal currents and boat traffic are the main hazards. Ascend with a deployed SMB
 Georgina Shoals offers a range of photographic subjects. Encrusting sea stars, nudibranchs, and anemones suit macro lenses in the shallow zone. Lingcod portraits are rewarding for wide-angle work — approach low and slowly to avoid flushing them off the reef. GPO den shots require patience and a well-positioned strobe to bring out skin texture and eye detail.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

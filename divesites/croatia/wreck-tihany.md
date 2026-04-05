@@ -58,4 +58,4 @@ All dive parameters are within standard recreational limits. Monitor gas supply 
 The wreck structure provides interesting wide-angle subjects against a sandy bottom. Close-up work on the encrusted hull surfaces reveals nudibranchs, small crustaceans, and sponge detail. A torch and strobe combination brings out the full colour range of the encrusting organisms.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*

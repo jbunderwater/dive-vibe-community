@@ -23,9 +23,9 @@ Kelvin Grove is a dive site in Howe Sound, the spectacular fjord north of Vancou
 
 - **Location**: Howe Sound, north of Vancouver, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Submerged reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 6–15 metres
 - **Current**: Tidal currents in Howe Sound — check before diving
 - **Best Time**: Year-round; best visibility in winter months
@@ -57,11 +57,8 @@ Squamish winds — strong, sudden northerly outflow winds from the Squamish Vall
 
 The fjord environment creates unique underwater photography opportunities. Rocky reef with plumose anemones and the deep blue water column of the fjord beyond make excellent wide-angle images. Octopus in natural positions on rocky substrate are outstanding macro and wide-angle subjects. In winter, herring schools and feeding predators provide extraordinary action photography.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
 - Porteau Cove Provincial Park: bcparks.ca
 - Fisheries and Oceans Canada tide tables and marine weather: tides.gc.ca
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

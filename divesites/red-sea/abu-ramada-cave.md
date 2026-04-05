@@ -23,7 +23,7 @@ Abu Ramada Cave sits on the southern edge of Abu Ramada Island, one of the coral
 
 - **Location**: Abu Ramada Island, Hurghada, Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Drift / Cave
+- **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15-30 meters
@@ -58,9 +58,5 @@ Currents can accelerate unexpectedly around the island's southern tip. Divers sh
 
 The cave entrance provides a natural frame for wide-angle shots with sunlight streaming in from the opening. The drift section offers opportunities to photograph humphead wrasse and turtles in open water. Inside the cave, a strobe is essential to bring out the crimson and orange sponges coating the walls.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

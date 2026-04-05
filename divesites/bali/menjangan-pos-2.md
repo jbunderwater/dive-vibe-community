@@ -23,9 +23,9 @@ Pos 2 (Post 2) sits on the southeast point of Menjangan Island and is one of the
 
 - **Location**: Menjangan Island, West Bali National Park, northwest Bali
 - **Entry Type**: Boat dive
-- **Site Type**: Wall
-- **Difficulty Level**: Beginner (to 15 m) / Intermediate (to 30 m)
-- **Maximum Depth**: 30 m (wall continues deeper)
+- **Site Type**: Wall dive
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15–35 m
 - **Current**: Moderate; direction varies with tides
 - **Best Time**: April to November
@@ -58,9 +58,5 @@ Currents are moderate but can increase around the point. Stay aware of depth whe
 
 Pos 2 is superb for both wide-angle and macro work. The enormous sea fans and clear water suit wide-angle with strobes. Pygmy seahorses require a macro lens and patience to photograph among the gorgonian polyps. Eagle rays in blue water make dramatic wide-angle subjects on clear days.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Aquamarine Diving - Bali Dive Sites](https://www.aquamarinediving.com/bali-diving/dive-sites/), [Dive The World - Bali Indonesia](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [Bluewater Dive Travel - Bali Diving](https://www.bluewaterdivetravel.com/destination/bali-diving), [World Adventure Divers - Best Dive Sites Bali](https://worldadventuredivers.com/best-dive-sites-bali/), [Neptune Scuba Diving - Scuba Diving Bali](https://neptunescubadiving.com/scuba-diving-bali/), [Dive The World - Bali](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [PADI - Diving in Bali](https://www.padi.com/diving-in/bali/). Last updated 2026-04-04.*

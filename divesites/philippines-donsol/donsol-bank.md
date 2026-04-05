@@ -23,7 +23,7 @@ Donsol is globally celebrated as one of the best places in the world to snorkel 
 
 - **Location**: Donsol, Sorsogon, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Coral bank / reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 8-20 meters
@@ -58,9 +58,5 @@ Standard Donsol bay diving conditions. Be aware that whale sharks in the area ma
 
 Wide-angle photography aimed at capturing the productive reef environment and any whale shark encounters is the primary focus. Reef fish and schooling species are good subjects when shark encounters don't occur.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Thresher Shark Divers Donsol Packages](https://thresher-shark-divers.com/collections/donsol-whale-shark-and-manta-packages), [RUSHKULT Whale Sharks Donsol](https://rushkult.com/eng/scubamagazine/whale-sharks-donsol-philippines/), [Shark Diving Philippines - Whale Sharks of Donsol](https://sharkdivingphilippines.com/whale-sharks-of-donsol/), [Guide to the Philippines Whale Sharks](https://guidetothephilippines.ph/articles/what-to-experience/whale-sharks-tours-philippines), [We Are Travel Girls Donsol Philippines](https://wearetravelgirls.com/donsol-philippines-whale-sharks/). Last updated 2026-04-04.*

@@ -23,9 +23,9 @@ Brant Reef lies in the central Strait of Georgia offshore from the Nanaimo area,
 
 - **Location**: Strait of Georgia, Nanaimo area, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Submerged reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 6–15 metres
 - **Current**: Tidal currents present — dive near slack
 - **Best Time**: Late spring through autumn
@@ -57,11 +57,8 @@ Tidal current is the primary hazard at this site. Always deploy an SMB before as
 
 Rockfish portraits, octopus interactions, and wide-angle reef panoramas are all achievable here. Lingcod resting on substrate make striking subjects with a wide-angle or fisheye lens. Macro photographers should search for nudibranchs on sponges and bryozoans throughout the reef. Strobe lighting is essential for accurate colour at depth.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
 - Nanaimo dive charters and dive shops for local conditions and slack times
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

@@ -59,9 +59,5 @@ Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your
 
 The pinnacle offers excellent wide-angle opportunities with schooling fish and dramatic structure. Shoot upward toward the surface for dramatic silhouettes. Macro subjects cluster in crevices on the lee side.
 
-## Additional Resources
-
-- **Last Updated**: 2026-04-03
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-03.*
+*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-04-04.*

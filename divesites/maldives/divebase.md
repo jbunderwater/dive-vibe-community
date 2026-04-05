@@ -41,4 +41,4 @@ The sandy floor areas between the reef base and scattered bommies provide restin
 An accessible, reliable reef dive. Conditions are generally calm inside the atoll. Suitable for intermediate divers. Visibility typically 15–25 m. Boat access from western North Malé Atoll resorts and liveaboards.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

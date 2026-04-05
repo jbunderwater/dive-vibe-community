@@ -23,9 +23,9 @@ Decatur Reef sits in the southern portion of Puget Sound's main basin, in an are
 
 - **Location**: Central Puget Sound, Washington
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 6–10 metres
 - **Water Temperature**: 8–12°C
 - **Current**: Moderate tidal
@@ -58,9 +58,5 @@ Boat traffic is heavy in central Puget Sound year-round. Always deploy an SMB be
 
 The medium-depth profile and accessible conditions make Decatur Reef a good photography dive. Macro work on nudibranchs and encrusting invertebrates is productive. Rockfish portraits work well given their tendency to hold position. The octopus dens, if located, are outstanding subjects for both macro and close-focus wide-angle work.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Washington Dept of Fish & Wildlife - Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [PNW Scuba - Pacific Northwest Dive Site Maps](https://www.pnwscuba.com/Pacific-Northwest-Dive-Sites/Maps), [Emerald Diving - Puget Sound Dive Sites](https://www.emeralddiving.com/local_sites_jf.html), [Scuba Diving Magazine - Seattle & Puget Sound](https://www.scubadiving.com/drive-and-dive-seattle-puget-sound), [UnderSea Adventures - Puget Sound Diving Charters](https://www.underseaadventures.net/puget-sound.htm). Last updated 2026-04-04.*

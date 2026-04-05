@@ -22,10 +22,10 @@ Shallow Turbo operates in the 6–18 m range in the Gili Islands channel, provid
 ## Site Information
 
 - **Location**: Gili Islands channel, accessible from Lombok
-- **Entry Type**: Boat dive (drift)
-- **Site Type**: Reef / Drift
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 18 m
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15–25 m
 - **Current**: Gentle to moderate drift
 - **Best Time**: May to October
@@ -58,9 +58,5 @@ Even gentle drift requires SMB carry and drift pickup procedure. Do not swim ups
 
 Turtles in the current-swept reef are accessible wide-angle subjects. Clownfish portraits in anemones at close range. Natural light in 6–15 m provides vivid coral colour without strobe.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*

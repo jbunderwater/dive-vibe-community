@@ -50,8 +50,5 @@ This is one of Yap's safest dive sites due to the sheltered location, shallow de
 ## Photography
 Barrel-rolling mantas make for dynamic, dramatic images unlike anything at cleaning stations. Wide-angle is essential. The challenge is reduced visibility during peak feeding -- shoot close and aim upward to silhouette mantas against the brighter surface water. Video is particularly rewarding here, capturing the graceful rolling motion. On clear days with surface-feeding mantas, over-under (split) shots from the surface are possible. Natural light works well at this depth.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Visit Yap - Dive Sites](https://visityap.com/dive_sites.php), [Manta Ray Bay Resort - Dive Sites](https://mantaray.com/sites/), [Bluewater Dive Travel - Yap](https://www.bluewaterdivetravel.com/destination/yap-diving), [PADI - Diving in Yap](https://www.padi.com/diving-in/yap/), [Ikelite - Insider Guide to Diving Yap](https://www.ikelite.com/blogs/features/an-insiders-guide-to-diving-yap-micronesia). Last updated 2026-04-04.*

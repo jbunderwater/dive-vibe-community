@@ -23,7 +23,7 @@ The Sisters are a cluster of rocky pinnacles and submerged rocks off the northea
 
 - **Location**: Speyside, northeast Tobago
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20–30 meters
@@ -59,4 +59,4 @@ Strong and variable current is the primary safety consideration. All divers must
 Sisters Rocks offers some of the most dramatic wide-angle diving photography in the Caribbean. Manta rays and reef sharks against the deep blue water of the open pinnacle environment are the headline subjects. Current-swept sea fans and barrel sponge walls at depth offer compelling reef portrait shots. Camera setup must be completed before entry — there is no opportunity to adjust settings in the current.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: padi.com, underseatobago.com - rocky pinnacles, hammerheads, strong currents. Last updated 2026-03-28.*

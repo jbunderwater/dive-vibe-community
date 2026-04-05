@@ -23,9 +23,9 @@ Dennis Shoal is located in the southern Strait of Georgia near the BC-Washington
 
 - **Location**: Southern Strait of Georgia, near BC-Washington border, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Shoal / reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 6–12 metres
 - **Current**: Tidal currents in the southern Strait — plan around slack
 - **Best Time**: Late spring through autumn
@@ -57,11 +57,8 @@ Tidal currents in the southern Strait require careful planning. International wa
 
 Wide-angle reef photography with plumose anemones and rockfish is the standard approach. Octopus foraging in the open or at den entrances provides excellent behavioural photography. Macro work on encrusting sponges reveals nudibranchs and small crustaceans.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
 - Sidney, BC area dive operators
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

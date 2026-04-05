@@ -23,9 +23,9 @@ The Eastcliffe Hall was a Canadian lake freighter that grounded and sank in the 
 
 - **Location**: St. Lawrence River, Ontario/Quebec, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 metres
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 5–15 metres
 - **Water Temperature**: 4–22°C (seasonal)
 - **Current**: Moderate to strong; varies with season and water levels
@@ -59,9 +59,5 @@ River current is the primary safety consideration at this site. Strong current c
 
 The steel hull of the Eastcliffe Hall provides industrial-scale photographic subjects. The river current keeps visibility relatively good, and the dark green tones of St. Lawrence River water create a distinct atmospheric quality. Northern pike encounters make excellent wildlife photography subjects.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Michigan.org - Dive Michigan Shipwrecks Underwater Preserves](https://www.michigan.org/article/trip-idea/dive-michigan-shipwrecks-these-underwater-preserves), [Great Lakes Shipwreck Preservation Society - Dive Sites](https://glsps.clubexpress.com/DiveSites), [Scuba Diving Magazine - Great Lakes Shipwrecks](https://www.scubadiving.com/great-lakes-shipwrecks-like-youve-never-seen-them-before), [Gear Patrol - Guide to Wreck Diving the Great Lakes](https://www.gearpatrol.com/archive/a162066/great-lakes-wreck-diving-guide/), [Shipwreck Explorers - Wisconsin Scuba Diving](https://www.shipwreckexplorers.com/). Last updated 2026-04-04.*

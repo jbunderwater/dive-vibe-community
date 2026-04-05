@@ -22,7 +22,7 @@ Tobia Kebir ("Large Tobia") is the biggest of the four Tobia reefs clustered in 
 ## Site Information
 
 - **Location**: Safaga area, central Egyptian Red Sea (near Soma Bay)
-- **Entry Type**: Boat dive (day trip from Safaga or Hurghada)
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
@@ -58,9 +58,5 @@ Conditions are generally mild at Tobia Kebir, making it one of the safer offshor
 
 Garden eel fields in the sandy channel are a distinctive macro and wide-angle subject — an upward-angle shot with garden eels extended from the sand in the midground and the reef wall behind creates a depth-of-field challenge worth solving. The southern pinnacle crevices reward torch-assisted macro shots of glassfish schools. Anemones with resident clownfish on the eastern wall are approachable and well-lit in morning conditions. Eagle rays crossing the sandy channel make fast-action wide-angle subjects.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

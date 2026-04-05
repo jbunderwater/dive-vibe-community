@@ -23,9 +23,9 @@ Lombok Dive is a reef site in the waters around the Gili Islands accessible from
 
 - **Location**: South Gili Islands area, near Lombok
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 m
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–20 m
 - **Current**: Moderate
 - **Best Time**: May to October
@@ -58,9 +58,5 @@ Standard reef dive precautions apply. Currents are moderate — suitable for int
 
 Sandy patches with cuttlefish or octopus are the best photography subjects. Turtle portraits in natural reef habitat suit wide-angle. Ghost pipefish require macro focus and good torch illumination.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Manta Dive Gili Islands](https://manta-dive.com/diving-gili-trawangan/gili-dive-sites/), [Gili Divers Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [PADI Gili Islands](https://www.padi.com/diving-in/indonesia/gili-islands/), [Manta Dive Gili Air](https://manta-dive-giliair.com/gili-islands-dive-sites), [Terumbu Divers Gili Sites](https://terumbudivers.com/fun-dives-2/dive-sites-gili-islands-lombok/). Last updated 2026-04-04.*

@@ -59,4 +59,4 @@ Fire coral is present throughout the shallow reef sections. The western entry ca
 El Fanadir West is an excellent afternoon photography option with light coming from behind the photographer on a westward-facing reef. Wide-angle shots work well on the upper reef where anthias are abundant and coral formations are photogenic. Macro photographers should focus on the sandy terrace zone between 12 and 18 meters for nudibranchs, flatworms, commensal shrimp, and the cleaning station behaviours that make compelling documentary shots.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

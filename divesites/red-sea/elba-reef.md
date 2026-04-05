@@ -22,10 +22,10 @@ Elba Reef sits within the Halaib Triangle near the Egyptian-Sudanese border at a
 ## Site Information
 
 - **Location**: Elba Region, near the Egyptian-Sudanese border (approximately 22°N, 37°E) — liveaboard only
-- **Entry Type**: Boat dive (extended liveaboard with Egyptian Navy permit)
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate (outer plateau walls require Advanced)
-- **Maximum Depth**: 20 meters (plateau sections; walls continue deeper)
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 30–40 meters
 - **Current**: Moderate to strong at the plateau edges
 - **Best Time**: March to November
@@ -58,9 +58,5 @@ Extreme remoteness is the defining safety consideration. Emergency evacuation fr
 
 Elba Reef offers photography conditions found at virtually no other Egyptian Red Sea site. Bumphead parrotfish in a school — rare at any Egyptian site — are outstanding close-focus wide-angle subjects. The pristine visibility and undisturbed coral coverage make reef panoramas here exceptional. The Levanzo wreck at 22–40 metres rewards wide-angle shots of the encrusted hull with natural light penetration. Grey reef sharks and schooling trevally in the open water column create pelagic composition opportunities.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

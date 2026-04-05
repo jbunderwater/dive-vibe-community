@@ -23,9 +23,9 @@ The USS Kittiwake served the United States Navy as a submarine rescue vessel for
 
 - **Location**: Off Seven Mile Beach, West Bay, Grand Cayman
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters (65 feet)
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–40 meters (65–130 feet)
 - **Current**: Light to moderate
 - **Water Temperature**: 26–29°C (79–84°F)
@@ -59,9 +59,5 @@ The wreck is inside the Marine Park — gloves are prohibited, no touching or ta
 
 The USS Kittiwake in its current sideways orientation creates unique wide-angle compositions not available on standard upright wrecks. The hull silhouette against Cayman's blue water is immediately recognizable. Schools of jacks and barracuda provide dynamic subject matter in the water column around the wreck. Interior rooms with ambient light from access openings create dramatic corridor shots. Turtle encounters on the hull are among Grand Cayman's most sought-after marine life photographs.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Visit Cayman Islands - Diving Guide](https://www.visitcaymanislands.com/en-us/things-to-do/diving), [Scuba Diving Magazine - Divers Guide to Cayman Islands](https://www.scubadiving.com/divers-guide-to-cayman-islands), [Bluewater Dive Travel - Cayman Islands Diving](https://www.bluewaterdivetravel.com/destination/cayman-islands-diving), [Visit Cayman Islands - 365 Dive Sites](https://www.visitcaymanislands.com/en-us/things-to-do/diving/365-dive-sites), [Ocean Frontiers - Cayman Islands Dive Center](https://www.oceanfrontiers.com/). Last updated 2026-04-04.*

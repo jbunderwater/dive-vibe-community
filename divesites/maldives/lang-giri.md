@@ -45,4 +45,4 @@ White-tip reef sharks, nurse sharks, stingrays, garden eels, parrotfish, surgeon
 Lang Giri is reached by boat from dive operators based in South Malé Atoll or from Malé, approximately 30–60 minutes depending on the departure point.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

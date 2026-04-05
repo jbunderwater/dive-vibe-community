@@ -57,9 +57,5 @@ The Cathedral's enclosed formations concentrate current through arches and chimn
 
 The Cathedral is Alor's most photogenic dive site for wide-angle work. The arch formations, with their illuminated interiors and light filtering from above, create natural frames for compositions that place the subject inside a cavern with open water beyond. A fisheye lens in a dome port captures the full arch in a single frame. The batfish schools require a medium wide-angle for best coverage. Interior cavern shots benefit from dual strobes to reveal the full colour of the sponge-coated walls without burning out the ambient light from the opening.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Alami Alor Dive Resort Diving](https://www.alamialor.com/diving-snorkeling/scuba-diving/), [Alor Divers Resort](https://www.alor-divers.com/), [ZuBlu Scuba Diving in Alor](https://www.zubludiving.com/destination/indonesia/nusa-tenggara/alor), [Solitude World Alor Diving Guide](https://solitude.world/alor-diving-guide/), [Dive the World Alor](https://www.dive-the-world.com/diving-sites-indonesia-alor.php). Last updated 2026-04-04.*

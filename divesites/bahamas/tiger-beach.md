@@ -22,10 +22,10 @@ Tiger Beach sits in the northwest Bahamas, roughly 20 km offshore from Grand Bah
 ## Site Information
 
 - **Location**: Northwest Bahamas, Grand Bahama offshore
-- **Entry Type**: Boat dive (liveaboard or day charter)
-- **Site Type**: Sand flat / shark encounter
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 9 metres
+- **Maximum Depth**: 9 meters
 - **Typical Visibility**: 25–40 metres
 - **Current**: Light
 - **Best Time**: October to February for peak tiger shark presence; year-round viable
@@ -58,9 +58,5 @@ Tiger sharks are large, powerful animals. Follow all operator briefings without 
 
 Tiger Beach is arguably the best shark photography site on the planet. Shoot wide-angle to capture full-body shark portraits against the white sand and blue water. Afternoon light creates excellent backlit silhouette shots. Bring at least two dives to warm up before expecting close approaches.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Bahamas Tourism - Diving](https://www.bahamas.com/plan-your-trip/diving), [Bluewater Dive Travel - Bahamas Diving](https://www.bluewaterdivetravel.com/destination/bahamas-diving), [Dive The World - Best Diving in the Bahamas](https://www.dive-the-world.com/posts/bahamas/best-diving-in-the-bahamas-top-7-sites.php), [DiveIn - Best Diving in the Bahamas](https://www.divein.com/diving/destination/bahamas/), [PADI - Diving in the Bahamas](https://www.padi.com/diving-in/bahamas/). Last updated 2026-04-04.*

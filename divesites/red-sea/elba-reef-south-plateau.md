@@ -22,9 +22,9 @@ Elba Reef South Plateau forms the southern tip of the Elba atoll at approximatel
 ## Site Information
 
 - **Location**: Southern tip, Elba Reef atoll, near Egyptian-Sudanese border (~21.97°N)
-- **Entry Type**: Liveaboard dive only
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate (Advanced conditions possible due to current)
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25–40 meters
 - **Current**: Variable; strong circular flow around the reef tip is common
@@ -58,9 +58,5 @@ The circular current at the reef tip can be unpredictable and disorient inexperi
 
 Thresher shark photography at the southern tip requires positioning in the early morning water column at 15–18 metres with the open-ocean background behind the shark — backlit wide-angle shots as the thresher passes through the dawn water column are the target image. The broad plateau in excellent natural light suits ambient reef photography with large coral heads. Humphead wrasse portraits at the outer plateau edge are accessible with patience.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

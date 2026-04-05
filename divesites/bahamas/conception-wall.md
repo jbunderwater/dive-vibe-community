@@ -60,4 +60,5 @@ Conception Wall's pristine condition and extraordinary clarity make it a premier
 - Bahamas liveaboard operators: Conception Island is a scheduled stop on Bahamas liveaboard itineraries
 - Bahamas National Trust: manages Conception Island National Park
 
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: [Bahamas Tourism - Diving](https://www.bahamas.com/plan-your-trip/diving), [Bluewater Dive Travel - Bahamas Diving](https://www.bluewaterdivetravel.com/destination/bahamas-diving), [Dive The World - Best Diving in the Bahamas](https://www.dive-the-world.com/posts/bahamas/best-diving-in-the-bahamas-top-7-sites.php), [DiveIn - Best Diving in the Bahamas](https://www.divein.com/diving/destination/bahamas/), [PADI - Diving in the Bahamas](https://www.padi.com/diving-in/bahamas/). Last updated 2026-04-04.*

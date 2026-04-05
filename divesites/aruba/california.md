@@ -23,7 +23,7 @@ The California is a 19th-century sailing ship that wrecked on Aruba's exposed no
 
 - **Location**: Aruba, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 14 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
@@ -59,9 +59,5 @@ Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your
 
 The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: DiverGuide, VisitAruba, TheDivingPath, InAruba.com. Last updated 2026-03-16.*

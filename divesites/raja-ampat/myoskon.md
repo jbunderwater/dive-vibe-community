@@ -58,9 +58,5 @@ Currents at Myoskon can be significant and can shift direction with the tidal ph
 
 The dense schooling fish make Myoskon excellent for wide-angle open-water photography. Shooting up through schools of fusiliers toward the surface, with dappled light filtering through the formations, produces striking abstract images. Pelagic encounters require fast autofocus and wide coverage. The sponge and soft coral flanks offer close-focus wide-angle macro for those willing to descend deeper.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*

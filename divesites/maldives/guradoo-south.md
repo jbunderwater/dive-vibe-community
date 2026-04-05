@@ -44,4 +44,5 @@ Hawksbill turtles, Napoleon wrasse, blue-spotted stingrays, garden eels, fusilie
 
 An ideal site for underwater photography thanks to calm conditions and plentiful subjects. Pair this dive with Guradoo South Outside on the same day to experience the contrast between the sheltered inner reef and the exposed outer face.
 
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

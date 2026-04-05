@@ -23,7 +23,7 @@ The underwater terrain at Säulenbucht features distinctive columnar limestone f
 
 - **Location**: Krk Island area, Kvarner, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef with columns
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–20 meters
@@ -58,4 +58,4 @@ Standard intermediate reef diving in calm, sheltered conditions. Monitor depth a
 The columnar formations are the star subject — wide-angle images of the pillars rising from the seabed with a diver providing scale are compelling. The encrusted column surfaces reward macro photography. The bay's calm conditions make for easy, unhurried shooting.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*

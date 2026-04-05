@@ -38,4 +38,4 @@ Dense schools of snappers, fusiliers, bigeye, grey reef sharks, whitetip reef sh
 Position on the up-current edge of the bank on entry — this is where the fish schools are thickest, pushed against the current running over the bank. Descend to the bank plateau and watch the predator-prey dynamics play out overhead. Grey reef sharks are most active when tidal flow is strongest. This site is best appreciated with an understanding of current dynamics; dive it during a running tidal phase rather than at slack for the most impressive fish aggregations.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

@@ -50,8 +50,5 @@ While this is a true cave dive with overhead environments, the shallow depth, ca
 ## Photography
 Chandelier Cave is a spectacular photography venue. Wide-angle lenses capture the chamber scale and formations, while a torch-wielding buddy provides dramatic rim lighting. Shoot upward at stalactites with a diver for scale. In the air pockets, remove your regulator and use a dry camera to photograph the above-water formations. Strobes can backscatter in the enclosed environment, so off-camera lighting or a single strobe aimed carefully works best. The contrast between dark water and illuminated formations creates striking images.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Palau Dive Adventures](https://palaudiveadventures.com/best-dive-sites-palau/), [Bluewater Dive Travel - Palau](https://www.bluewaterdivetravel.com/destination/palau-diving), [Dive the World - Palau](https://www.dive-the-world.com/diving-sites-palau.php), [PADI - Diving in Palau](https://www.padi.com/diving-in/palau/), [Pristine Paradise Palau](https://pristineparadisepalau.com/dive-palau/). Last updated 2026-04-04.*

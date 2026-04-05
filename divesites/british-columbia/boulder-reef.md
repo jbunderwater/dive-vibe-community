@@ -23,9 +23,9 @@ Boulder Reef sits in the southern Strait of Georgia near the US-Canada border, i
 
 - **Location**: Southern Strait of Georgia, near Saturna Island, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres
 - **Current**: Moderate tidal currents — plan around slack tide
 - **Best Time**: Summer through autumn for best visibility
@@ -57,11 +57,8 @@ Tidal currents in this area can be substantial. Always carry and deploy an SMB d
 
 Boulder terrain with its mix of encrusting life, fish, and invertebrate behaviour makes this a versatile photography site. Wide-angle lenses capture the reef structure and schooling rockfish. Macro shooters will find nudibranchs, tube worms, and minute crustaceans throughout. Bring strobes to restore colour below 5 metres depth.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 - Sidney area dive charters and shops for current conditions
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

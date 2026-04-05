@@ -71,9 +71,5 @@ Boat entry via giant stride directly to the arch area. Your guide will indicate 
 
 The shallow depth and colourful walls create excellent wide-angle opportunities. The combination of fish schools and encrusting organisms provides macro subjects. Sponges and anemones are particularly photogenic. The arch framing distant fish is a classic composition. The shallow depth allows longer exploration time for finding perfect shots. Consider a macro lens for detailed wall work and a wide-angle lens for arch-and-fish compositions.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [Wikivoyage Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands), [Dive! Tutukaka - Poor Knights Islands](https://diving.co.nz/poor-knights-islands), [New Zealand Tourism Poor Knights Islands](https://www.newzealand.com/us/poor-knights-islands/), [First Light Travel Poor Knights Dive Sites](https://www.firstlighttravel.com/nz-diving/dive-sites/poor-knights-island), [Yukon Dive Poor Knights Specialists](https://yukon.co.nz/). Last updated 2026-04-04.*

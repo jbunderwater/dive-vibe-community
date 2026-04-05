@@ -59,9 +59,5 @@ Be aware of surge, boat traffic, and variable visibility in this area. Dive with
 
 The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [Scuba Diving Magazine - Florida Keys Guide](https://www.scubadiving.com/guide-to-local-diving-in-florida-keys), [Key Largo Scuba Diving](https://keylargoscubadiving.com/key-largo-dive-sites/), [Scuba Fun Florida](https://scubafunflorida.com/florida-keys-dive-sites-key-largo-dive-sites/), [Captain Hooks Dive Sites](https://captainhooks.com/best-places-to-dive-in-the-florida-keys/), [PADI Florida Keys](https://www.padi.com/dive-sites/florida-keys/). Last updated 2026-04-04.*

@@ -23,9 +23,9 @@ The Wee Hawk — a small vessel whose diminutive name suggests a compact craft �
 
 - **Location**: St. Lawrence River, Ontario, Canada (Thousand Islands, near Gananoque)
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 metres
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 8–15 metres
 - **Water Temperature**: 4–22°C (seasonal)
 - **Current**: Moderate; St. Lawrence River current varies seasonally
@@ -59,9 +59,5 @@ St. Lawrence River current requires active dive planning. Assess conditions befo
 
 The compact scale of the Wee Hawk makes full-hull photography possible in the Thousand Islands' excellent visibility. Northern pike portraits in the flowing river are outstanding. The clarity of the St. Lawrence gives freshwater wreck photography a distinctive, luminous character.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Michigan.org - Dive Michigan Shipwrecks Underwater Preserves](https://www.michigan.org/article/trip-idea/dive-michigan-shipwrecks-these-underwater-preserves), [Great Lakes Shipwreck Preservation Society - Dive Sites](https://glsps.clubexpress.com/DiveSites), [Scuba Diving Magazine - Great Lakes Shipwrecks](https://www.scubadiving.com/great-lakes-shipwrecks-like-youve-never-seen-them-before), [Gear Patrol - Guide to Wreck Diving the Great Lakes](https://www.gearpatrol.com/archive/a162066/great-lakes-wreck-diving-guide/), [Shipwreck Explorers - Wisconsin Scuba Diving](https://www.shipwreckexplorers.com/). Last updated 2026-04-04.*

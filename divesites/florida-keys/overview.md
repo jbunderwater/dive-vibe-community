@@ -37,14 +37,5 @@ Florida Keys is a notable diving destination in the North America region, offeri
 - **Language**: English
 - **Safety**: Always dive within certification limits. Be aware of cold water, surge, limited visibility. Verify the location of the nearest hyperbaric chamber before diving.
 
-## Sources
-
-- OpenStreetMap dive site data and community contributions
-- Regional diving guides and operator information
-- Marine conservation organization reports
-- Local tourism board resources
-
 ---
-
-*Last updated: March 2026*
-*Compiled from OpenStreetMap data, regional diving knowledge, and authoritative marine sources*
+*Sources: [Scuba Diving Magazine - Florida Keys Guide](https://www.scubadiving.com/guide-to-local-diving-in-florida-keys), [Key Largo Scuba Diving](https://keylargoscubadiving.com/key-largo-dive-sites/), [Scuba Fun Florida](https://scubafunflorida.com/florida-keys-dive-sites-key-largo-dive-sites/), [Captain Hooks Dive Sites](https://captainhooks.com/best-places-to-dive-in-the-florida-keys/), [PADI Florida Keys](https://www.padi.com/dive-sites/florida-keys/). Last updated 2026-04-04.*

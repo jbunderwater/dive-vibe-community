@@ -59,11 +59,5 @@ Burra Sound diving is the most technically demanding diving in Scapa Flow due to
 
 The Gobernador's exceptional invertebrate coverage — denser than most of the German fleet wrecks due to the stronger tidal feeding — creates outstanding cold-water photography opportunities. Plumose anemone colonies in the clear tidal water photograph brilliantly with a video light or strobe. The time pressure of the slack window demands pre-focused camera settings and efficient underwater movement.
 
-## Additional Resources
-
-- **Last Updated**: 2026-04-03
-
-## Sources
-
-- [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/)
-- [Scapa Flow Dive Sites — scapa-flow.co.uk](https://www.scapa-flow.co.uk/dive-site)
+---
+*Sources: [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/), [Scapa Flow Dive Sites — scapa-flow.co.uk](https://www.scapa-flow.co.uk/dive-site). Last updated 2026-04-04.*

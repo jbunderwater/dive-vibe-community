@@ -59,4 +59,4 @@ This site exceeds the comfortable limit for standard recreational diving on air.
 The encrusted superstructure at 38–40 metres offers stunning wide-angle photography, with natural blue ambient light supplemented by strobes. The contrast between vivid orange sponges and deep blue water is striking. Torch-lit close-up shots of the interior fittings and resident marine life reward macro photographers.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*

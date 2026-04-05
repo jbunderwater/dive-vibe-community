@@ -23,9 +23,9 @@ Blue Corner is situated at a prominent point on Menjangan Island where the reef 
 
 - **Location**: Menjangan Island, West Bali National Park, northwest Bali
 - **Entry Type**: Boat dive
-- **Site Type**: Wall / Drift
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 m
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15–30 m
 - **Current**: Moderate to strong at the corner point
 - **Best Time**: April to November
@@ -58,9 +58,5 @@ Currents can be strong and may reverse unexpectedly as the tide changes. Do not 
 
 The corner's fish aggregations provide spectacular wide-angle subjects — schools of trevally backlit against the blue water are the signature shot. Reef sharks on the wall add drama. Wide-angle with dual strobes works best; save macro for the calmer sections of the wall where current is reduced.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Aquamarine Diving - Bali Dive Sites](https://www.aquamarinediving.com/bali-diving/dive-sites/), [Dive The World - Bali Indonesia](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [Bluewater Dive Travel - Bali Diving](https://www.bluewaterdivetravel.com/destination/bali-diving), [World Adventure Divers - Best Dive Sites Bali](https://worldadventuredivers.com/best-dive-sites-bali/), [Neptune Scuba Diving - Scuba Diving Bali](https://neptunescubadiving.com/scuba-diving-bali/), [Dive The World - Bali](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [PADI - Diving in Bali](https://www.padi.com/diving-in/bali/). Last updated 2026-04-04.*

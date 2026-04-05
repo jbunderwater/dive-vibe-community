@@ -37,14 +37,5 @@ Manado & Bunaken is a premier diving destination in the Asia region, offering 26
 - **Language**: Indonesian (Bahasa)
 - **Safety**: Always dive within certification limits. Be aware of strong currents, jellyfish, sea urchins. Verify the location of the nearest hyperbaric chamber before diving.
 
-## Sources
-
-- OpenStreetMap dive site data and community contributions
-- Regional diving guides and operator information
-- Marine conservation organization reports
-- Local tourism board resources
-
 ---
-
-*Last updated: March 2026*
-*Compiled from OpenStreetMap data, regional diving knowledge, and authoritative marine sources*
+*Sources: [Murex Resorts - Diving Bunaken Guide](https://murexresorts.com/diving-bunaken/), [Two Fish Divers - Bunaken Dive Sites](https://twofishdivers.com/diving-manado/bunaken-island/diving-bunaken/), [Bluewater Dive Travel - Manado Bunaken](https://www.bluewaterdivetravel.com/destination/manado-bunaken-diving), [Dive The World - Bunaken Manado](https://www.dive-the-world.com/diving-sites-indonesia-manado-bunaken.php), [ZuBlu - Beautiful Bunaken Guide](https://www.zubludiving.com/articles/zublu-insights/beautiful-bunaken), [Murex Resorts - Diving Bunaken](https://murexresorts.com/diving-bunaken/), [Tasik Ria Dive Sites Bunaken](https://tasikria.com/dive-sites/), [ZuBlu - Best Dive Sites in Bunaken](https://www.zubludiving.com/articles/zublu-insights/best-dive-sites-in-bunaken-national-park), [Dive The World - Bunaken National Park](https://www.dive-the-world.com/reefs-and-parks-indonesia-bunaken-national-park.php), [Underwater Asia - Bunaken Diving Guide](https://underwaterasia.info/indonesia/bunaken-national-park-diving). Last updated 2026-04-04.*

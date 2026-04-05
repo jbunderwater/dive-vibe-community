@@ -23,9 +23,9 @@ Shark Reef sits within the nutrient-rich waters of the San Juan archipelago, whe
 
 - **Location**: San Juan Islands, Puget Sound, Washington
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres
 - **Water Temperature**: 7–12°C year-round
 - **Current**: Tidal, plan for slack
@@ -59,9 +59,5 @@ Cold water (7–12°C) demands dry suit certification and proper undergarment se
 
 Macro shooters will find endless subjects: nudibranchs, shrimp on anemones, and the intricate textures of encrusting sponges. Wide-angle shots of white plumose anemone walls with a diver silhouette are a signature San Juan Islands image. Use a strobe — the cold, tannin-tinged water absorbs colour quickly below 8 metres.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Washington Dept of Fish & Wildlife - Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [PNW Scuba - Pacific Northwest Dive Site Maps](https://www.pnwscuba.com/Pacific-Northwest-Dive-Sites/Maps), [Emerald Diving - Puget Sound Dive Sites](https://www.emeralddiving.com/local_sites_jf.html), [Scuba Diving Magazine - Seattle & Puget Sound](https://www.scubadiving.com/drive-and-dive-seattle-puget-sound), [UnderSea Adventures - Puget Sound Diving Charters](https://www.underseaadventures.net/puget-sound.htm). Last updated 2026-04-04.*

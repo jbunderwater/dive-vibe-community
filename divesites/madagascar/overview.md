@@ -37,14 +37,5 @@ Madagascar is a notable diving destination in the Africa region, offering 11 doc
 - **Language**: Malagasy, French
 - **Safety**: Always dive within certification limits. Be aware of strong currents, jellyfish, remote locations. Verify the location of the nearest hyperbaric chamber before diving.
 
-## Sources
-
-- OpenStreetMap dive site data and community contributions
-- Regional diving guides and operator information
-- Marine conservation organization reports
-- Local tourism board resources
-
 ---
-
-*Last updated: March 2026*
-*Compiled from OpenStreetMap data, regional diving knowledge, and authoritative marine sources*
+*Sources: [Tropical Diving - Nosy Be Madagascar](https://tropical-diving.com/en/), [Sakalav Diving - Nosy Be Dive Center](https://sakalavdiving.com/GB-home-scuba-diving.htm), [Bluewater Dive Travel - Madagascar](https://www.bluewaterdivetravel.com/destination/madagascar-diving), [SSI - Diving in Nosy Be](https://www.divessi.com/en/mydiveguide/destination/nosy-be-9752763), [Dive Discovery - Madagascar Nosy Be](https://www.divediscovery.com/madagascar/). Last updated 2026-04-04.*

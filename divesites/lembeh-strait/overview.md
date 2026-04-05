@@ -37,14 +37,5 @@ Lembeh Strait is a notable diving destination in the Asia region, offering 1 doc
 - **Language**: Indonesian (Bahasa)
 - **Safety**: Always dive within certification limits. Be aware of strong currents, jellyfish, sea urchins. Verify the location of the nearest hyperbaric chamber before diving.
 
-## Sources
-
-- OpenStreetMap dive site data and community contributions
-- Regional diving guides and operator information
-- Marine conservation organization reports
-- Local tourism board resources
-
 ---
-
-*Last updated: March 2026*
-*Compiled from OpenStreetMap data, regional diving knowledge, and authoritative marine sources*
+*Sources: [NAD-Lembeh Resort Diving](https://www.nad-lembeh.com/diving_lembeh/), [Lembeh Resort Muck Diving Guide](https://www.lembehresort.com/blogs/guide-muck-diving-lembeh), [Underwater Photography Guide Lembeh](https://www.uwphotographyguide.com/lembeh-diving), [ZuBlu Lembeh Strait](https://www.zubludiving.com/articles/zublu-insights/legendary-lembeh), [Starfish Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html). Last updated 2026-04-04.*

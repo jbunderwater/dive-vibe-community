@@ -38,14 +38,5 @@ Cayman Islands is a premier diving destination in the Caribbean region, offering
 - **Language**: English
 - **Safety**: Always dive within certification limits. Be aware of boat traffic, fire coral, sea urchins. Verify the location of the nearest hyperbaric chamber before diving.
 
-## Sources
-
-- OpenStreetMap dive site data and community contributions
-- Regional diving guides and operator information
-- Marine conservation organization reports
-- Local tourism board resources
-
 ---
-
-*Last updated: March 2026*
-*Compiled from OpenStreetMap data, regional diving knowledge, and authoritative marine sources*
+*Sources: [Visit Cayman Islands - Diving Guide](https://www.visitcaymanislands.com/en-us/things-to-do/diving), [Scuba Diving Magazine - Divers Guide to Cayman Islands](https://www.scubadiving.com/divers-guide-to-cayman-islands), [Bluewater Dive Travel - Cayman Islands Diving](https://www.bluewaterdivetravel.com/destination/cayman-islands-diving), [Visit Cayman Islands - 365 Dive Sites](https://www.visitcaymanislands.com/en-us/things-to-do/diving/365-dive-sites), [Ocean Frontiers - Cayman Islands Dive Center](https://www.oceanfrontiers.com/). Last updated 2026-04-04.*

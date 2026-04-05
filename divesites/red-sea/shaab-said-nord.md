@@ -57,9 +57,5 @@ Currents on the outer reef edge at Shaab Said can be unpredictable and strong du
 
 Outer Red Sea reefs offer superb wide-angle conditions due to excellent clarity. Coral formations at mid-depth with blue water behind are ideal for reef-scape compositions. Turtle portraits in natural light are achievable at this site, and barracuda ball formations provide dynamic wide-angle opportunities when current is running.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

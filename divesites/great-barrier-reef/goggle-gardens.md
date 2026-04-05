@@ -59,4 +59,4 @@ One of the most relaxed and straightforward dive sites in the Ribbon Reefs area.
 Goggle Gardens rewards natural-light photography with its shallow depth and clear water. Wide-angle reef garden shots at 8 metres in morning or mid-morning light produce vibrant images with excellent colour rendition. Clownfish and anemone compositions are reliable subjects. Bring a macro lens for nudibranch details.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Great Barrier Reef Marine Park Authority](https://greatbarrierreef.org/reef-experiences/diving-the-reef/), [Pro Dive Cairns - Dive Sites](https://prodivecairns.com/divesites.html), [PADI - Diving the Great Barrier Reef](https://www.padi.com/diving-in/great-barrier-reef/), [Divezone - Great Barrier Reef](https://divezone.net/diving/great-barrier-reef), [Divernet - Southern Great Barrier Reef Guide](https://divernet.com/scuba-diving/southern-great-barrier-reef-australia-guide/). Last updated 2026-04-04.*

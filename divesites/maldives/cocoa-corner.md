@@ -41,4 +41,4 @@ The reef wall below 15 m has a series of overhangs and ledges where resting whit
 Best dived on a gentle incoming current that drives fish activity without making the dive physically demanding. Strong outgoing current on the exposed corner can be challenging. Visibility typically 15–25 m. Boat access from Cocoa Island resort and nearby South Malé Atoll operators.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

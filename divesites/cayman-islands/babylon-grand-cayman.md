@@ -23,9 +23,9 @@ Babylon is one of Grand Cayman's premier North Wall pinnacle dives, accessible o
 
 - **Location**: North Wall, East End, Grand Cayman
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle / wall
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 45 meters (147 feet) — sport diving limit is 40 meters
+- **Maximum Depth**: 45 meters
 - **Typical Visibility**: 20–40 meters (65–130 feet)
 - **Current**: Moderate — can increase on the East End
 - **Water Temperature**: 26–29°C (79–84°F)
@@ -59,9 +59,5 @@ The maximum depth of 45 meters touches the technical diving boundary — do not 
 
 The pinnacle and wall combination provides exceptional wide-angle photography. Eagle rays against the infinite blue beyond the wall edge are classic Cayman images. The pinnacle structure covered in colorful soft corals and sea fans photographs beautifully in ambient Cayman light. A dome port handles the mixed near/far compositions most effectively.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Visit Cayman Islands - Diving Guide](https://www.visitcaymanislands.com/en-us/things-to-do/diving), [Scuba Diving Magazine - Divers Guide to Cayman Islands](https://www.scubadiving.com/divers-guide-to-cayman-islands), [Bluewater Dive Travel - Cayman Islands Diving](https://www.bluewaterdivetravel.com/destination/cayman-islands-diving), [Visit Cayman Islands - 365 Dive Sites](https://www.visitcaymanislands.com/en-us/things-to-do/diving/365-dive-sites), [Ocean Frontiers - Cayman Islands Dive Center](https://www.oceanfrontiers.com/). Last updated 2026-04-04.*

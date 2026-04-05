@@ -59,9 +59,5 @@ Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your
 
 The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [PADI - Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/), [DIVEIN - Diving in St Lucia](https://www.divein.com/diving/destination/diving-in-st-lucia/), [Carib Dive Guide - St Lucia](https://caribdiveguide.com/st_lucia.htm), [Scuba St Lucia - Dive Sites](https://divesaintlucia.com/dive-sites), [Bluewater Dive Travel - St Lucia](https://www.bluewaterdivetravel.com/destination/scuba-diving-st-lucia). Last updated 2026-04-04.*

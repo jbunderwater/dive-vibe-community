@@ -23,9 +23,9 @@ Air Wall runs along the eastern side of Gili Air and drops vertically from 5 m t
 
 - **Location**: East side of Gili Air, Gili Islands / Lombok
 - **Entry Type**: Boat dive
-- **Site Type**: Wall
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 m
+- **Maximum Depth**: 22 meters
 - **Typical Visibility**: 15–25 m
 - **Current**: Moderate; consistent along the wall
 - **Best Time**: May to October
@@ -58,9 +58,5 @@ Current can increase on the wall's open eastern face. Stay alert to depth on the
 
 Rare gorgonian sea fans suit wide-angle close-focus with strobes. Bumphead parrotfish schools require wide-angle and fast shutter speeds. Turtles on the reef crest in natural shallow light make excellent wide-angle subjects.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*

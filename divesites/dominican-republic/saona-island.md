@@ -22,8 +22,8 @@ Saona Island (Isla Saona) lies at the southeastern tip of the Dominican Republic
 ## Site Information
 
 - **Location**: Isla Saona, Cotubanamá National Park, southeastern Dominican Republic
-- **Entry Type**: Boat dive (operated from Bayahibe or La Romana)
-- **Site Type**: Coral reef and seagrass
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 20–30 meters (65–100 feet)
@@ -58,9 +58,5 @@ This is one of the safest dive sites in the Dominican Republic. The main hazard 
 
 Saona Island offers some of the most photogenic diving in the Dominican Republic. Crystal-clear, shallow water with abundant sunlight creates ideal wide-angle conditions without a strobe. Large groups of stingrays in the sandy lagoons are a signature subject. Turtle portraits in shallow, bright water come out exceptionally well. The colorful reef fish population is dense enough for fish portraiture with a wide macro or 60mm lens.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: PADI, Dressel Divers, Pro Dive International. Last updated 2026-03-28.*

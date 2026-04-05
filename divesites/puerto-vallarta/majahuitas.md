@@ -52,3 +52,6 @@ Boat access from Puerto Vallarta, approximately 45 minutes each way. Giant strid
 - Five distinct trails means repeat dives here are genuinely different — ask the divemaster to take you on a different route on each visit
 - Sea turtles here are accustomed to low-traffic diving; maintain distance when they surface to breathe
 - Morning light illuminates the shallower reef sections well for natural-light photography
+
+---
+*Sources: [Boca Divers - Puerto Vallarta Dive Sites](https://www.bocadivers.net/BocaDivers/divesites.htm), [PADI - Diving in Puerto Vallarta](https://www.padi.com/diving-in/mexico/puerto-vallarta/), [PADI - Top Dive Sites in Puerto Vallarta](https://www.padi.com/dive-sites/mexico/puerto-vallarta/), [Vallarta by Owner - Best Scuba Diving in Puerto Vallarta](https://vallartabyowner.com/scuba/), [Dressel Divers - Puerto Vallarta Scuba Diving](https://www.dresseldivers.com/dive/mexico/puerto-vallarta-scuba-diving/). Last updated 2026-04-04.*

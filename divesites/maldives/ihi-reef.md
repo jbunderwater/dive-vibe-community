@@ -44,4 +44,5 @@ Hawksbill turtles, Napoleon wrasse, grouper, moray eels, whitetip reef sharks, a
 
 A good site for beginners stepping up from house reef dives, or intermediate divers seeking an unhurried exploration dive. The shallow crest is excellent for safety stops and offers some of the best fish density on the reef.
 
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

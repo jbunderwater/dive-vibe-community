@@ -66,9 +66,5 @@ The Kiyosumi Maru is a war grave and artifact removal is illegal under Chuuk Sta
 
 The gun mounts are the signature photographic subject -- wide-angle shots of the coral-encrusted guns with a diver for scale tell a powerful story. The torpedo damage on the hull provides dramatic wide-angle compositions showing the raw force of the attack. Inside the holds, the airplane propellers and bicycles make unusual still-life subjects -- use strobes to bring out detail in the darker lower holds. The bridge area offers good artifact close-ups. The coral growth on the masts at shallow depth allows natural-light wide-angle work. The wreck's manageable depth and good ambient light at deck level make exposure management straightforward.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive The World - Chuuk Lagoon Wrecks](https://www.dive-the-world.com/diving-sites-chuuk.php), [Truk Stop Hotel - Wrecks Guide](https://www.trukstop.com/index.php/dive-center/wrecks), [Bluewater Dive Travel - Truk Lagoon Diving](https://www.bluewaterdivetravel.com/destination/truk-lagoon-diving), [Thorfinn - Top Wreck Dives in Truk Lagoon](https://thorfinn.net/exploring-the-ghost-fleet-top-wreck-dives-in-truk-lagoon-for-all-skill-levels/), [DIVE Magazine - Divers Guide to Wrecks of Truk Lagoon](https://divemagazine.com/scuba-diving-travel/divers-guide-to-the-wrecks-of-truk-lagoon), [Truk Stop Hotel - Wreck Dive Sites](https://www.trukstop.com/index.php/dive-center/wrecks), [Bluewater Dive Travel - Truk Lagoon](https://www.bluewaterdivetravel.com/destination/truk-lagoon-diving), [SSI - Diving Chuuk Lagoon Guide](https://www.divessi.com/en/blog/diving-chuuk-lagoon-7005.html), [PADI - Diving in Chuuk Truk Lagoon](https://www.padi.com/diving-in/chuuk-truk-lagoon/). Last updated 2026-04-04.*

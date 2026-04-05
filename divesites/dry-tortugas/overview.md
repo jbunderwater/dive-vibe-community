@@ -44,14 +44,5 @@ Dry Tortugas National Park is an exceptional remote diving destination located 7
 - **Language**: English
 - **Safety**: Remote location — verify nearest recompression chamber location (Key West). Dive within certification limits. Strong currents possible. Always use buddy system. Never exceed recreational depth limits at pinnacles.
 
-## Sources
-
-- OpenStreetMap dive site data and community contributions
-- Regional diving guides and operator information
-- Marine conservation organization reports
-- Local tourism board resources
-
 ---
-
-*Last updated: March 2026*
-*Compiled from OpenStreetMap data, regional diving knowledge, and authoritative marine sources*
+*Sources: [Florida Scuba Diving - Dry Tortugas Guide](https://www.florida-scubadiving.com/dive-the-dry-tortugas-key-west-guide-tips/), [NPS Dry Tortugas Diving](https://www.nps.gov/drto/planyourvisit/swimming-snorkeling-and-diving.htm), [Florida Keys Vacation - Dry Tortugas Diving](https://www.florida-keys-vacation.com/Dry-Tortugas-Diving.html), [Incredible Adventures Dry Tortugas](https://www.incredible-adventures.com/dry-tortugas-diving.html), [Finz Dive Center](https://finzdivecenter.com/dives/tortugas/). Last updated 2026-04-04.*

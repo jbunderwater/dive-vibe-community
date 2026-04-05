@@ -61,10 +61,10 @@ Monterey's 50-55°F water year-round demands proper thermal protection. Wear 5-7
 
 Maintain awareness of the current, which can increase with depth. Monitor your air consumption on intermediate dives—the cold water increases air density effects. Stay near the pipe and rocky structures to avoid disorientation. Always use an SMB on ascent. Buddy contact is essential, particularly when distracted by photography.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
 - **Validation Source**: Perplexity research, local dive guides
 
 ---
 *Metridium Fields has been thoroughly researched and validated against local diving conditions. Updated 2026-03-16.*
+
+---
+*Sources: [Monterey Bay Aquarium](https://www.montereybayaquarium.org/), [Aquarius Dive Shop](https://aquariusdivers.com/guided-tours), [Bamboo Reef Diving](https://www.bambooreef.com/dive-monterey), [Monterey Scuba Board](https://montereyscubaboard.com/monterey-dive-sites/), [See Monterey](https://www.seemonterey.com/things-to-do/outdoors/scuba-diving/). Last updated 2026-04-04.*

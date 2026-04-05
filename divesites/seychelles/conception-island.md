@@ -59,9 +59,5 @@ Be aware of strong currents, jellyfish, remote locations in this area. Dive with
 
 Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [Scuba Diving Magazine - Seychelles Guide](https://www.scubadiving.com/diving-paradise-guide-scuba-diving-seychelles), [Divezone - Seychelles Dive Sites](https://divezone.net/diving/seychelles), [Bluewater Dive Travel - Seychelles](https://www.bluewaterdivetravel.com/destination/seychelles-diving), [PADI - Diving in Seychelles](https://www.padi.com/diving-in/seychelles/), [SCUBA Travel - Seychelles Diving](https://www.scubatravel.co.uk/pacific/seychelles-diving.html). Last updated 2026-04-04.*

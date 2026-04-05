@@ -22,9 +22,9 @@ Shaab Jimna sits at approximately 19.44°N, 37.73°E — an exceptionally remote
 ## Site Information
 
 - **Location**: Far southern Red Sea, near Eritrean maritime boundary (~19.44°N, 37.73°E)
-- **Entry Type**: Liveaboard dive only (specialist extended expeditions)
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate (remote environment; advanced planning required)
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25–40 meters
 - **Current**: Variable; can be moderate to strong
@@ -57,9 +57,5 @@ This site operates at the absolute limit of Red Sea liveaboard itinerary range. 
 
 The far southern Red Sea's pristine conditions and undisturbed fish life provide a quality of subject material not available anywhere in the heavily dived northern Red Sea. Visibility exceeding 30 metres allows ambient wide-angle photography of whole reef sections. Undisturbed fish approach for close-range portraits. The extraordinary isolation of the environment itself — photographing a reef that few humans have ever seen — is the defining quality.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

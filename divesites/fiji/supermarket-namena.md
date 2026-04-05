@@ -58,9 +58,5 @@ Supermarket's open-water location makes it more exposed to weather than the Beqa
 
 Supermarket is the best of the three Namena sites for pelagic action photography. Wide-angle shooting toward the blue water at the plateau edge, with sharks or barracuda schools as the subject and the reef visible below, produces powerful images. The barracuda tornado is the signature shot — position yourself below the school and shoot upward with a fisheye to capture the spiral formation against the surface light. Grey reef shark portraits are achievable here given how closely the animals approach stationary divers. Bring a fast memory card and shoot in burst mode when the pelagic action peaks.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [NAI'A Liveaboard - Fiji Dive Sites](https://www.naia.com.fj/fiji/dive-sites/), [Dive the World - Fiji](https://www.dive-the-world.com/diving-sites-fiji.php), [Bluewater Dive Travel - Fiji](https://www.bluewaterdivetravel.com/destination/fiji-diving), [PADI - Diving in Fiji](https://www.padi.com/diving-in/fiji/), [Waterlust Fiji Reef Guide](https://www.waterlustfiji.com/guide-to-fiji-diving). Last updated 2026-04-04.*

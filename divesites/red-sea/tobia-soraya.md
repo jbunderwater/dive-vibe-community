@@ -57,9 +57,5 @@ Conditions are generally mild at Tobia Soraya, but the eastern chain can develop
 
 The gorgonian-and-glassfish northern pinnacle is an outstanding close-focus wide-angle subject — strobes at steep angles produce the glassfish cloud in cascading silver against the gorgonian background. Crocodilefish portraits on the sand require a macro lens and an extremely patient, low-angle approach. Clownfish-in-anemone shots are consistently accessible throughout the site. The shallow eastern cave swim-through is a natural-light image from outside looking at the reef structure.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

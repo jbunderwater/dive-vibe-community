@@ -108,10 +108,10 @@ Monterey's 50-55°F water at 40-85 feet demands excellent thermal protection (7m
 
 This is an advanced dive requiring excellent buoyancy control, depth management, and current awareness. Always deploy an SMB on ascent. Maintain constant buddy contact. Follow the boat operator's briefing carefully. Only dive with operators experienced in Monterey's conditions. Abort the dive if conditions deteriorate. Winter sea state and visibility can change rapidly—trust the operator's judgment.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
 - **Validation Source**: Perplexity research, California Diving News, Monterey dive operators
 
 ---
 *Aumentos Pinnacle is one of Monterey's premier advanced boat dives, especially in winter. Updated 2026-03-16.*
+
+---
+*Sources: [Monterey Bay Aquarium](https://www.montereybayaquarium.org/), [Aquarius Dive Shop](https://aquariusdivers.com/guided-tours), [Bamboo Reef Diving](https://www.bambooreef.com/dive-monterey), [Monterey Scuba Board](https://montereyscubaboard.com/monterey-dive-sites/), [See Monterey](https://www.seemonterey.com/things-to-do/outdoors/scuba-diving/). Last updated 2026-04-04.*

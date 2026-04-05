@@ -57,9 +57,5 @@ Minimal risk profile. The 15-meter ceiling, very light current, and sheltered po
 
 Exceptional natural light conditions throughout the site make Memba 2 ideal for ambient-light photography at all depths. Butterflyfish are active and photogenic subjects against coral backgrounds. Macro photography of the reef surface reveals nudibranchs, flatworms, and encrusting invertebrates. Night photography in the calm conditions is accessible even to compact camera users.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Diving in Zanzibar - Nungwi Dive Center](https://www.divinginzanzibar.com/dive-sites-map/), [PADI - Diving in Zanzibar](https://www.padi.com/diving-in/zanzibar/), [PADI - Top Dive Sites Zanzibar](https://www.padi.com/dive-sites/zanzibar/), [Bluewater Dive Travel - Zanzibar](https://www.bluewaterdivetravel.com/destination/diving-zanzibar-tanzania-kenya), [One Ocean Zanzibar](https://zanzibaroneocean.com/). Last updated 2026-04-04.*

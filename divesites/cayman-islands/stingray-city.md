@@ -23,9 +23,9 @@ Stingray City is one of the most famous shallow water dive and snorkel experienc
 
 - **Location**: North Sound sandbar, Grand Cayman
 - **Entry Type**: Boat dive
-- **Site Type**: Sandbar / reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 meters (40 feet)
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 20–30 meters (65–100 feet)
 - **Current**: Light
 - **Water Temperature**: 26–29°C (79–84°F)
@@ -59,9 +59,5 @@ Southern stingrays are docile and accustomed to humans at this site, but should 
 
 Stingray City is one of the Caribbean's most photographed dive sites. Southern stingrays at very close range in excellent visibility create extraordinary opportunities with any camera. The rays' tolerance for close interaction allows true macro detail shots of their patterning and texture. Ambient natural light photography in 4 meters produces spectacular results. Wide-angle group shots of multiple rays among divers are a classic Grand Cayman image.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Visit Cayman Islands - Diving Guide](https://www.visitcaymanislands.com/en-us/things-to-do/diving), [Scuba Diving Magazine - Divers Guide to Cayman Islands](https://www.scubadiving.com/divers-guide-to-cayman-islands), [Bluewater Dive Travel - Cayman Islands Diving](https://www.bluewaterdivetravel.com/destination/cayman-islands-diving), [Visit Cayman Islands - 365 Dive Sites](https://www.visitcaymanislands.com/en-us/things-to-do/diving/365-dive-sites), [Ocean Frontiers - Cayman Islands Dive Center](https://www.oceanfrontiers.com/). Last updated 2026-04-04.*

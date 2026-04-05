@@ -61,4 +61,4 @@ Currents can strengthen rapidly with tidal changes. Monitor depth carefully when
 Cod Hole is a wide-angle dream. The sheer size of the potato cod demands a fisheye or rectilinear wide-angle lens to capture them in full. Shoot upward with ambient light behind the pinnacle for dramatic silhouettes, or use strobes close in to reveal the cod's spotted patterns. The Napoleon wrasse, coral trout, and schooling fish provide constant compositional variety throughout the dive.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Great Barrier Reef Marine Park Authority](https://greatbarrierreef.org/reef-experiences/diving-the-reef/), [Pro Dive Cairns - Dive Sites](https://prodivecairns.com/divesites.html), [PADI - Diving the Great Barrier Reef](https://www.padi.com/diving-in/great-barrier-reef/), [Divezone - Great Barrier Reef](https://divezone.net/diving/great-barrier-reef), [Divernet - Southern Great Barrier Reef Guide](https://divernet.com/scuba-diving/southern-great-barrier-reef-australia-guide/). Last updated 2026-04-04.*

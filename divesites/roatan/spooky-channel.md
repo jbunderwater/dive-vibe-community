@@ -58,9 +58,5 @@ Advanced dive due to depth, confined passages, and low light. This is cavern div
 
 Spooky Channel is one of Roatán's most atmospheric photography sites. The contrast between the dark interior passages packed with glassy sweepers and the bright water beyond the opening creates compelling compositions. Shoot from inside the channel looking toward the channel entrance with blue water framing. Video lights significantly enhance the experience. Nurse shark portraits on the sandy floor are classic shots.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-04-04.*

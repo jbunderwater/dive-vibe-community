@@ -52,3 +52,6 @@ Boat departure from Nuevo Vallarta (approximately 8:30 AM) or Marina Vallarta (a
 - Water temperature can be significantly cooler than Puerto Vallarta — bring an appropriate wetsuit (5mm recommended outside summer)
 - Sea turtles are relaxed here but give them space, especially when surfacing to breathe
 - The northern exposed side of the islands (El Morro) experiences stronger current and is suited for more experienced divers only
+
+---
+*Sources: [Boca Divers - Puerto Vallarta Dive Sites](https://www.bocadivers.net/BocaDivers/divesites.htm), [PADI - Diving in Puerto Vallarta](https://www.padi.com/diving-in/mexico/puerto-vallarta/), [PADI - Top Dive Sites in Puerto Vallarta](https://www.padi.com/dive-sites/mexico/puerto-vallarta/), [Vallarta by Owner - Best Scuba Diving in Puerto Vallarta](https://vallartabyowner.com/scuba/), [Dressel Divers - Puerto Vallarta Scuba Diving](https://www.dresseldivers.com/dive/mexico/puerto-vallarta-scuba-diving/). Last updated 2026-04-04.*

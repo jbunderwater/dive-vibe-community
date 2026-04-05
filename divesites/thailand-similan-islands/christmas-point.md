@@ -58,9 +58,5 @@ The northwest exposure makes Christmas Point the site most likely to be called o
 
 Christmas Point delivers some of the best coral colour photography in Thailand. Soft coral density is high enough to fill a wide-angle frame from close range. Shoot with strobe positions at 45 degrees to avoid backscatter against the purple Dendronephthya; underexpose the ambient background slightly to saturate the coral colours. Sea fans with hawkfish require a 60mm or 100mm macro lens with good close-focus. For swimthrough architecture, bracket exposures — the interior of a swimthrough and the blue-lit exit cannot be captured in a single exposure without HDR technique.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Similan Dive Guide](https://www.similandiveguide.com/), [Sunrise Divers - Similan Islands Dive Sites](https://www.sunrise-divers.com/dive-sites/similan-islands/), [Dive The World Thailand - Similan Islands](https://www.divetheworldthailand.com/similan-islands-diving-sites.php), [Sea Bees Diving - Scuba Diving Similans](https://sea-bees.com/scuba-diving-similans/), [Dive Happy - Diving Similan Islands Guide](https://divehappy.com/diving-similan-islands-quick-guide/). Last updated 2026-04-04.*

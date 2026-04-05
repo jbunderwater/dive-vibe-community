@@ -59,4 +59,4 @@ Standard outer reef dive site. Mild conditions suit beginner divers. Monitor air
 Phil's Bommie offers a full range of photographic subjects. Wide-angle shots of the bommie with anthias clouds and divers provide classic GBR bommie imagery. Macro photographers can spend an entire dive on the bommie surface photographing nudibranchs and seahorses. The sandy base provides portrait opportunities with stingrays and resting sharks.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Great Barrier Reef Marine Park Authority](https://greatbarrierreef.org/reef-experiences/diving-the-reef/), [Pro Dive Cairns - Dive Sites](https://prodivecairns.com/divesites.html), [PADI - Diving the Great Barrier Reef](https://www.padi.com/diving-in/great-barrier-reef/), [Divezone - Great Barrier Reef](https://divezone.net/diving/great-barrier-reef), [Divernet - Southern Great Barrier Reef Guide](https://divernet.com/scuba-diving/southern-great-barrier-reef-australia-guide/). Last updated 2026-04-04.*

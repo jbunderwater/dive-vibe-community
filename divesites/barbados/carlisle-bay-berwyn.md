@@ -60,4 +60,5 @@ The Berwyn in 8 metres of water with good natural light is an accessible introdu
 - Barbados Blue (Bridgetown): Carlisle Bay wreck specialist offering guided multi-wreck tours
 - The Carlisle Bay wreck cluster is accessible from the beach — independent diving is feasible for experienced shore divers
 
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: barbados.org, divernet.com - Carlisle Bay wreck trail, WWII era. Last updated 2026-03-28.*

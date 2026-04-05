@@ -23,9 +23,9 @@ Manta Point is located south of the Gili Islands chain, in deeper water where th
 
 - **Location**: South of Gili Islands, near Lombok coast
 - **Entry Type**: Boat dive
-- **Site Type**: Reef / Drift
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 18 m
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15–25 m
 - **Current**: Moderate; gentle drift conditions
 - **Best Time**: May to October
@@ -58,9 +58,5 @@ Standard reef dive precautions apply. Current is gentle but can increase. Manta 
 
 Manta ray encounters at this shallow depth produce bright, natural-light shots. Turtle portraits in the coral garden suit wide-angle. The gentle current allows more time for careful composition compared to stronger drift sites.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Manta Dive Gili Islands](https://manta-dive.com/diving-gili-trawangan/gili-dive-sites/), [Gili Divers Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [PADI Gili Islands](https://www.padi.com/diving-in/indonesia/gili-islands/), [Manta Dive Gili Air](https://manta-dive-giliair.com/gili-islands-dive-sites), [Terumbu Divers Gili Sites](https://terumbudivers.com/fun-dives-2/dive-sites-gili-islands-lombok/). Last updated 2026-04-04.*

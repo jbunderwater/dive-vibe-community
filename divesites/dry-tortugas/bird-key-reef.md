@@ -61,9 +61,5 @@ This is one of the safest dives in Dry Tortugas with minimal hazards. The shallo
 
 The shallow, clear water and abundant fish schools create excellent wide-angle opportunities. The vibrant, intact coral formations provide strong subjects. Macro work on coral detail and small reef fish is exceptional. The shallow depth means excellent color saturation and natural lighting. One of the best beginner photography dive sites in Dry Tortugas.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [Florida Scuba Diving - Dry Tortugas Guide](https://www.florida-scubadiving.com/dive-the-dry-tortugas-key-west-guide-tips/), [NPS Dry Tortugas Diving](https://www.nps.gov/drto/planyourvisit/swimming-snorkeling-and-diving.htm), [Florida Keys Vacation - Dry Tortugas Diving](https://www.florida-keys-vacation.com/Dry-Tortugas-Diving.html), [Incredible Adventures Dry Tortugas](https://www.incredible-adventures.com/dry-tortugas-diving.html), [Finz Dive Center](https://finzdivecenter.com/dives/tortugas/). Last updated 2026-04-04.*

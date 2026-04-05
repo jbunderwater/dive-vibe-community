@@ -61,9 +61,5 @@ Cold water requires proper thermal protection and buddy awareness. Submerged cag
 
 Submerged cage diving offers dramatic encounters with great white sharks against the seabed backdrop. Wide-angle photography captures shark behavior; macro subjects include kelp forest invertebrates and cold-water fish. Lighting challenges require camera settings optimized for low-light, high-contrast shark silhouettes against ambient seabed light.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [Rodney Fox Shark Expeditions - Neptune Islands](https://rodneyfox.com.au/great-white-shark-central/the-neptune-islands/), [Scuba Diving Magazine - Cage Diving Neptune Islands](https://www.scubadiving.com/cage-diving-with-great-white-sharks-in-neptune-islands-australia), [DAN Alert Diver - South Australia Great White Sharks](https://dan.org/alert-diver/article/south-australias-great-white-shark-adventure/), [SA Marine Parks Neptune Islands Group](https://www.marineparks.sa.gov.au/find-a-park/eyre-peninsula/neptune-islands), [Dive Worldwide South Australia](https://www.diveworldwide.com/locations/south-australia). Last updated 2026-04-04.*

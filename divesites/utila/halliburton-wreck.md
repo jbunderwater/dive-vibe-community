@@ -58,9 +58,5 @@ The 30-meter maximum depth requires careful gas management. Narcosis can be a fa
 
 Large wreck photography at depth rewards a strobe system for color restoration. Wide-angle shots of the hull section from the sandy seabed capture the scale of the vessel. Look for the juxtaposition of the orange sponge encrustation against the hull steel for color contrast shots. Grouper and snapper portraits near the bow are excellent subjects. Video lights significantly enhance video footage at this depth.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Utila Dive Center](https://utiladivecenter.com/), [Utila Cays Diving - Dive Sites](https://utilacaysdiving.com/dive-with-us/dive-sites/), [Alton's Dive Center Utila](https://diveinutila.com/), [World Adventure Divers - 10 Reasons to Dive Utila](https://worldadventuredivers.com/diving-utila/), [ZuBlu - Scuba Diving in Utila](https://www.zubludiving.com/destination/honduras/bay-islands/utila). Last updated 2026-04-04.*

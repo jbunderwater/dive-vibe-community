@@ -57,9 +57,5 @@ More exposed than inshore Mafia sites, Baixo Techantia should only be dived in f
 
 The combination of healthy soft corals at depth and pelagic activity above the reef creates opportunities for both macro and wide-angle photography. The sea fans at 15-20 meters provide excellent backdrops for ambient-light wide-angle images. A compact camera with a wide-angle wet lens is a versatile choice for this site.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*

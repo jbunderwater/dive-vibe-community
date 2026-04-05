@@ -38,14 +38,5 @@ Oman is a notable diving destination in the Middle East region, offering 13 docu
 - **Language**: Arabic
 - **Safety**: Always dive within certification limits. Be aware of strong currents, fire coral, lionfish stings. Verify the location of the nearest hyperbaric chamber before diving.
 
-## Sources
-
-- OpenStreetMap dive site data and community contributions
-- Regional diving guides and operator information
-- Marine conservation organization reports
-- Local tourism board resources
-
 ---
-
-*Last updated: March 2026*
-*Compiled from OpenStreetMap data, regional diving knowledge, and authoritative marine sources*
+*Sources: [Bluewater Dive Travel - Oman](https://www.bluewaterdivetravel.com/destination/oman-diving), [ZuBlu - Oman and Musandam Diving](https://www.zubludiving.com/destination/red-sea/arabia-and-horn-of-africa/oman-musandam), [Divezone - Musandam Dive Sites](https://divezone.net/diving/musandam), [SCUBA Travel - Oman Diving Guide](https://www.scubatravel.co.uk/arabian-sea/oman-diving.html), [PADI - Diving in Musandam](https://www.padi.com/diving-in/musandam/). Last updated 2026-04-04.*

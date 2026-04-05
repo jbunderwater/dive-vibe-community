@@ -36,14 +36,5 @@ Christmas Island is a notable diving destination in the Oceania region with dept
 - **Language**: English
 - **Safety**: Always dive within certification limits. Be aware of strong currents, jellyfish (box jellyfish in summer), crocodiles (north). Verify the location of the nearest hyperbaric chamber before diving.
 
-## Sources
-
-- OpenStreetMap dive site data and community contributions
-- Regional diving guides and operator information
-- Marine conservation organization reports
-- Local tourism board resources
-
 ---
-
-*Last updated: March 2026*
-*Compiled from OpenStreetMap data, regional diving knowledge, and authoritative marine sources*
+*Sources: [Extra Divers Christmas Island](https://www.extradivers.com.au/), [Extra Divers Christmas Island Dive Sites](https://www.extradivers.com.au/dive-sites), [Dive Christmas Island](https://divingchristmas.com/), [Parks Australia Christmas Island Scuba Diving](https://parksaustralia.gov.au/christmas/do/scuba/), [SSI Diving Christmas Island](https://www.divessi.com/en/blog/diving-christmas-island-galapagos-indian-ocean-10239.html). Last updated 2026-04-04.*

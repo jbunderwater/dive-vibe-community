@@ -22,8 +22,8 @@ Gota Sataia 2 sits marginally deeper than its companion, with the reef crown at 
 ## Site Information
 
 - **Location**: Southern Egyptian Red Sea, offshore Wadi Lahami area
-- **Entry Type**: Boat dive (liveaboard or day charter from Wadi Lahami)
-- **Site Type**: Offshore reef pinnacle
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25–35 meters
@@ -59,4 +59,4 @@ Identical considerations to Gota Sataia 1 apply. Deploy an SMB before every asce
 The elongated eastern wall makes excellent landscape-orientation wide-angle compositions. Barracuda and jacks in open water above the wall create dramatic pelagic sequences. On calmer days, the sandy inter-pinnacle zone photographs well in natural light from above.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

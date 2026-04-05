@@ -23,9 +23,9 @@ The Yolanda lies in shallow to intermediate water within the Ras Mohammed Nation
 
 - **Location**: Ras Mohammed National Park, Sinai Peninsula, Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck / Reef
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 14 meters (wreck top); deeper sections available
+- **Maximum Depth**: 14 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)
 - **Current**: Moderate to strong (can be very strong at Ras Mohammed)
 - **Best Time**: September to May
@@ -59,4 +59,4 @@ Current at Ras Mohammed is the primary hazard and can shift from moderate to ver
 Yolanda Reef is among the most photographed sites in the Red Sea. The juxtaposition of porcelain bathroom fixtures with encrusted tropical coral is inherently compelling and produces images that are instantly recognizable to any dive photographer. Wide-angle shots with toilets and soft corals in the same frame are the signature shot. Fish life — particularly humphead wrasse portraits and reef shark silhouettes — rounds out the photography potential. The site rewards both wide-angle and macro work.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

@@ -62,10 +62,10 @@ Strong currents are core feature requiring solid buoyancy and streamlined techni
 
 **May-November**: Reduced current, warmer surface water, calmer seas. Fewer pelagic encounters but reef sharks still active. Easier dive profile.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
 - **Validation Source**: Perplexity research (March 2026)
 
 ---
 *Dive site information researched March 2026. Updated with current and pelagic data for this exposed Coiba reef.*
+
+---
+*Sources: [Scuba Coiba - The Original Dive Center](https://scubacoiba.com/), [Panama Dive Center - Coiba National Park](https://panamadivecenter.com/), [Coiba Dive Center](https://coibadivecenter.com/), [Coiba Island - Best Diving Sites](https://coiba-island.com/best-diving-sites-coiba-island-panama/), [The Ark Divers - Scuba Diving in Coiba National Park](https://www.thearkdivers.com/dive). Last updated 2026-04-04.*

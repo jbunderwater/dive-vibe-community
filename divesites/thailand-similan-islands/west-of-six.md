@@ -58,9 +58,5 @@ Moderate current is the primary consideration on the outer west face. Conditions
 
 A versatile site where both wide-angle boulder compositions and reef macro are available. Whitetip reef shark clusters in sandy gullies are a strong wide-angle subject; approach level and low to frame sharks against the sand with the boulder backdrop. Napoleon wrasse in the mid-water zones are excellent ambient-light portrait subjects in good visibility. Banded sea krait against a blue-water background makes an unusual wide-angle image. For macro: boulder surfaces at 12–20 m are productive for nudibranchs.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Similan Dive Guide](https://www.similandiveguide.com/), [Sunrise Divers - Similan Islands Dive Sites](https://www.sunrise-divers.com/dive-sites/similan-islands/), [Dive The World Thailand - Similan Islands](https://www.divetheworldthailand.com/similan-islands-diving-sites.php), [Sea Bees Diving - Scuba Diving Similans](https://sea-bees.com/scuba-diving-similans/), [Dive Happy - Diving Similan Islands Guide](https://divehappy.com/diving-similan-islands-quick-guide/). Last updated 2026-04-04.*

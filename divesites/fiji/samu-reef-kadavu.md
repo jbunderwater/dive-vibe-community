@@ -58,9 +58,5 @@ Samu is an advanced dive because of the outer reef exposure, significant current
 
 The outer reef at Samu rewards wide-angle ocean-reef photography — shots that convey the energy of the Pacific environment rather than the intimate coral garden character of the inner lagoon sites. Position yourself at the reef edge and shoot along the wall toward the blue ocean, with sea fans and coral in the foreground and open water behind. Shark portraits against the current-washed outer wall background convey the wild character of the site better than close-up reef subjects. For manta encounters, have your wide-angle lens ready throughout the dive — mantas appear suddenly and the encounter window may be brief. Video divers should use wide-angle and capture the full current environment: the coral bending in the flow, the fish orienting into the current, and the overall sense of being on an exposed oceanic reef.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [NAI'A Liveaboard - Fiji Dive Sites](https://www.naia.com.fj/fiji/dive-sites/), [Dive the World - Fiji](https://www.dive-the-world.com/diving-sites-fiji.php), [Bluewater Dive Travel - Fiji](https://www.bluewaterdivetravel.com/destination/fiji-diving), [PADI - Diving in Fiji](https://www.padi.com/diving-in/fiji/), [Waterlust Fiji Reef Guide](https://www.waterlustfiji.com/guide-to-fiji-diving). Last updated 2026-04-04.*

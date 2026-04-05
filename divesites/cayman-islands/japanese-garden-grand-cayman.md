@@ -23,9 +23,9 @@ Japanese Garden is one of Grand Cayman's distinctive South Side shallow reef sit
 
 - **Location**: South of George Town, Grand Cayman
 - **Entry Type**: Boat dive
-- **Site Type**: Shallow coral reef / garden
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 7 meters (23 feet)
+- **Maximum Depth**: 7 meters
 - **Typical Visibility**: 15–30 meters (50–100 feet)
 - **Current**: Light
 - **Water Temperature**: 26–29°C (79–84°F)
@@ -59,9 +59,5 @@ At 7 meters, this is one of Grand Cayman's safest dive sites from a depth perspe
 
 Japanese Garden is an exceptional photography site for wide-angle coral landscapes. The neat branching coral formations against white sand create clean, structured compositions. Natural light at 7 meters is brilliant and rarely requires supplementation. Schools of blue chromis above the coral create colorful mid-frame subjects for reef landscape shots. Macro work on the coral surface reveals small crabs, cleaner shrimp, and blennies.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Visit Cayman Islands - Diving Guide](https://www.visitcaymanislands.com/en-us/things-to-do/diving), [Scuba Diving Magazine - Divers Guide to Cayman Islands](https://www.scubadiving.com/divers-guide-to-cayman-islands), [Bluewater Dive Travel - Cayman Islands Diving](https://www.bluewaterdivetravel.com/destination/cayman-islands-diving), [Visit Cayman Islands - 365 Dive Sites](https://www.visitcaymanislands.com/en-us/things-to-do/diving/365-dive-sites), [Ocean Frontiers - Cayman Islands Dive Center](https://www.oceanfrontiers.com/). Last updated 2026-04-04.*

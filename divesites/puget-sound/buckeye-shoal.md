@@ -23,9 +23,9 @@ Buckeye Shoal is a submerged rocky rise in the northern San Juan Islands, sittin
 
 - **Location**: Northern San Juan Islands, Puget Sound, Washington
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky shoal / reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres
 - **Water Temperature**: 7–11°C
 - **Current**: Tidal, can be significant; plan for slack
@@ -58,9 +58,5 @@ Strong tidal currents are the primary safety concern at shoal sites. An accurate
 
 The dense plumose anemone coverage on the shoal makes for striking wide-angle images. Macro shooters will find nudibranchs and small crustaceans in the anemone columns. Lingcod sitting still on the rock top provide good portrait opportunities. Strobes essential for colour accuracy.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Washington Dept of Fish & Wildlife - Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [PNW Scuba - Pacific Northwest Dive Site Maps](https://www.pnwscuba.com/Pacific-Northwest-Dive-Sites/Maps), [Emerald Diving - Puget Sound Dive Sites](https://www.emeralddiving.com/local_sites_jf.html), [Scuba Diving Magazine - Seattle & Puget Sound](https://www.scubadiving.com/drive-and-dive-seattle-puget-sound), [UnderSea Adventures - Puget Sound Diving Charters](https://www.underseaadventures.net/puget-sound.htm). Last updated 2026-04-04.*

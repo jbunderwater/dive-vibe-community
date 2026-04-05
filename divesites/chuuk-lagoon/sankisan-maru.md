@@ -66,9 +66,5 @@ The Sankisan Maru is a war grave -- artifact removal is illegal. The holds conta
 
 The aerial bomb rows in the forward holds are the defining photographic subject. From the hold rim at 15 meters, wide-angle shots looking down capture the rows receding into the depths -- particularly effective when natural light shafts illuminate the scene. A fisheye lens emphasizes the rows' dramatic perspective. For detail shots, a torch or strobe brings out the patina and markings on individual bombs. The truck chassis in the aft hold is an unusual still-life subject. On the exterior, the wreck's relatively shallow profile allows natural-light wide-angle shooting of the superstructure and coral growth. The manageable depth and good ambient light make this one of the easier Chuuk wrecks to photograph well.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive The World - Chuuk Lagoon Wrecks](https://www.dive-the-world.com/diving-sites-chuuk.php), [Truk Stop Hotel - Wrecks Guide](https://www.trukstop.com/index.php/dive-center/wrecks), [Bluewater Dive Travel - Truk Lagoon Diving](https://www.bluewaterdivetravel.com/destination/truk-lagoon-diving), [Thorfinn - Top Wreck Dives in Truk Lagoon](https://thorfinn.net/exploring-the-ghost-fleet-top-wreck-dives-in-truk-lagoon-for-all-skill-levels/), [DIVE Magazine - Divers Guide to Wrecks of Truk Lagoon](https://divemagazine.com/scuba-diving-travel/divers-guide-to-the-wrecks-of-truk-lagoon), [Truk Stop Hotel - Wreck Dive Sites](https://www.trukstop.com/index.php/dive-center/wrecks), [Bluewater Dive Travel - Truk Lagoon](https://www.bluewaterdivetravel.com/destination/truk-lagoon-diving), [SSI - Diving Chuuk Lagoon Guide](https://www.divessi.com/en/blog/diving-chuuk-lagoon-7005.html), [PADI - Diving in Chuuk Truk Lagoon](https://www.padi.com/diving-in/chuuk-truk-lagoon/). Last updated 2026-04-04.*

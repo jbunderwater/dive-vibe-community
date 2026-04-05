@@ -60,4 +60,5 @@ The ledge feature creates dramatic photographic compositions — shooting along 
 - West coast Barbados dive operators in the St. James area: include Bright Ledge on intermediate dive programs
 - Best combined with Dottin's Reef or the Stavronikita for a two-tank west coast day
 
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: barbados.org - Established reef diving site, southeast coast. Last updated 2026-03-28.*

@@ -58,9 +58,5 @@ Conditions are generally benign. The main hazards are fire coral, sea urchins, a
 
 House reefs reward patient photography. Returning to the same reef means building familiarity with specific subjects — resident eels, the local humphead wrasse, and predictable macro finds. Natural light is good on the shallow reef crest.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

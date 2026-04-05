@@ -23,9 +23,9 @@ The MV Captain Keith Tibbetts — named after a Cayman Islands politician — is
 
 - **Location**: North Shore, Cayman Brac
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
-- **Difficulty Level**: Intermediate (advanced divers for stern section)
-- **Maximum Depth**: 50 meters (164 feet) — stern section; bow accessible at 20 meters
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 50 meters
 - **Typical Visibility**: 20–35 meters (65–115 feet)
 - **Current**: Light to moderate
 - **Water Temperature**: 26–29°C (79–84°F)
@@ -59,9 +59,5 @@ The 50-meter stern depth exceeds recreational sport diving limits — stick to 4
 
 The Keith Tibbetts is one of the Caribbean's most photogenic wrecks. The military vessel character — bow guns, deck rails, bridge structure — gives it a visual narrative that purely commercial wrecks lack. The bright sponge growth against the grey hull and the magnificent turtle and eagle ray encounters make compelling compositions. Wide-angle is the primary tool here. Natural light penetration on the shallow bow section is excellent.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Visit Cayman Islands - Diving Guide](https://www.visitcaymanislands.com/en-us/things-to-do/diving), [Scuba Diving Magazine - Divers Guide to Cayman Islands](https://www.scubadiving.com/divers-guide-to-cayman-islands), [Bluewater Dive Travel - Cayman Islands Diving](https://www.bluewaterdivetravel.com/destination/cayman-islands-diving), [Visit Cayman Islands - 365 Dive Sites](https://www.visitcaymanislands.com/en-us/things-to-do/diving/365-dive-sites), [Ocean Frontiers - Cayman Islands Dive Center](https://www.oceanfrontiers.com/). Last updated 2026-04-04.*

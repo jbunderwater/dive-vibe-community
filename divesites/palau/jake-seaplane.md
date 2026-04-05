@@ -50,8 +50,5 @@ This is one of Palau's safest and most straightforward dive sites. No current, s
 ## Photography
 The Jake SeaPlane is one of the most photographed wrecks in Micronesia. A wide-angle or fisheye lens captures the entire aircraft in frame from a moderate distance, and the clean sandy bottom provides a bright, uncluttered background. Natural light at 12 meters is excellent, though strobes bring out the vivid colors of the coral encrustation. Shoot from low angles to silhouette the wreck against the surface light. Macro opportunities are abundant on the coral-covered surfaces. A diver hovering near the wing provides compelling scale in wide-angle compositions.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Palau Dive Adventures](https://palaudiveadventures.com/best-dive-sites-palau/), [Bluewater Dive Travel - Palau](https://www.bluewaterdivetravel.com/destination/palau-diving), [Dive the World - Palau](https://www.dive-the-world.com/diving-sites-palau.php), [PADI - Diving in Palau](https://www.padi.com/diving-in/palau/), [Pristine Paradise Palau](https://pristineparadisepalau.com/dive-palau/). Last updated 2026-04-04.*

@@ -58,9 +58,5 @@ Currents can accelerate around the point tip — stay close to the reef and be p
 
 The point configuration creates natural wide-angle setups: position yourself below the fish aggregation above the reef crest and shoot upward for dramatic schooling fish shots against the blue water. The relatively shallow depth allows natural light photography through most of the dive. Macro subjects are plentiful on the reef slope — take time to scan encrusting sponges for nudibranchs and flatworms.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*

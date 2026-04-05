@@ -39,14 +39,5 @@ The Neptune Islands, located 40 nautical miles south of Port Lincoln, South Aust
 - **Language**: English
 - **Safety**: Always dive within certification limits. Be aware of strong currents, jellyfish (box jellyfish in summer), crocodiles (north). Verify the location of the nearest hyperbaric chamber before diving.
 
-## Sources
-
-- OpenStreetMap dive site data and community contributions
-- Regional diving guides and operator information
-- Marine conservation organization reports
-- Local tourism board resources
-
 ---
-
-*Last updated: March 2026*
-*Compiled from OpenStreetMap data, regional diving knowledge, and authoritative marine sources*
+*Sources: [Rodney Fox Shark Expeditions - Neptune Islands](https://rodneyfox.com.au/great-white-shark-central/the-neptune-islands/), [Scuba Diving Magazine - Cage Diving Neptune Islands](https://www.scubadiving.com/cage-diving-with-great-white-sharks-in-neptune-islands-australia), [DAN Alert Diver - South Australia Great White Sharks](https://dan.org/alert-diver/article/south-australias-great-white-shark-adventure/), [SA Marine Parks Neptune Islands Group](https://www.marineparks.sa.gov.au/find-a-park/eyre-peninsula/neptune-islands), [Dive Worldwide South Australia](https://www.diveworldwide.com/locations/south-australia). Last updated 2026-04-04.*

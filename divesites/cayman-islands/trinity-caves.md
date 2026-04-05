@@ -23,9 +23,9 @@ Trinity Caves is a popular West Bay dive site famous for a notable cameo in the 
 
 - **Location**: West Bay, Grand Cayman
 - **Entry Type**: Boat dive
-- **Site Type**: Coral canyons / swim-throughs (named "caves" colloquially)
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 24 meters (80 feet)
+- **Maximum Depth**: 24 meters
 - **Typical Visibility**: 20–40 meters (65–130 feet)
 - **Current**: Light
 - **Water Temperature**: 26–29°C (79–84°F)
@@ -59,9 +59,5 @@ Trinity Caves are technically coral canyon swim-throughs, not true caves — the
 
 The coral canyon environment creates dramatic compositions with natural light streaming from above. Tarpon in the canyon shadows with a bright exit visible behind them are classic images. Wide-angle shots of divers in the canyon passages capture the scale of the formations. Sea fans on the canyon walls photograph beautifully with a single strobe at close range.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Visit Cayman Islands - Diving Guide](https://www.visitcaymanislands.com/en-us/things-to-do/diving), [Scuba Diving Magazine - Divers Guide to Cayman Islands](https://www.scubadiving.com/divers-guide-to-cayman-islands), [Bluewater Dive Travel - Cayman Islands Diving](https://www.bluewaterdivetravel.com/destination/cayman-islands-diving), [Visit Cayman Islands - 365 Dive Sites](https://www.visitcaymanislands.com/en-us/things-to-do/diving/365-dive-sites), [Ocean Frontiers - Cayman Islands Dive Center](https://www.oceanfrontiers.com/). Last updated 2026-04-04.*

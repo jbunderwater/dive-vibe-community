@@ -23,7 +23,7 @@ The Balena wreck sits on a sandy, sunlit seabed in water so shallow it barely co
 
 - **Location**: Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 3 meters
 - **Typical Visibility**: 10–20 meters (33–65 feet)
@@ -58,9 +58,5 @@ The primary hazard is accidental contact with the wreck structure in such confin
 
 One of the Red Sea's best naturally lit wreck photography sites. The shallow depth and clear water allow ambient light shooting without strobes. Schools of glassfish inside the hull create atmospheric wide-angle compositions.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

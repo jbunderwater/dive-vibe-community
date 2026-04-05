@@ -47,4 +47,4 @@ Boat dive from local operators. Grouped with nearby sites like Tropicana and Whi
 Gentle conditions make this a low-stress dive. Light currents are typical. Standard boat dive safety applies — carry an SMB and monitor air supply.
 
 ---
-*This dive site information was compiled from Reefers & Wreckers, barbados.org, Wikivoyage, and Dive Hightide. Last updated 2026-04-02.*
+*Sources: Reefers & Wreckers, barbados.org, Wikivoyage, Dive Hightide, BarbadosByMap - Shallow reef near Weston, Caribbean reef squid, popular second dive. Last updated 2026-04-02.*

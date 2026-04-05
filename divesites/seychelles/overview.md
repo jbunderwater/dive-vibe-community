@@ -37,14 +37,5 @@ Seychelles is a notable diving destination in the Africa region, offering 1 docu
 - **Language**: Seychellois Creole, English, French
 - **Safety**: Always dive within certification limits. Be aware of strong currents, jellyfish, remote locations. Verify the location of the nearest hyperbaric chamber before diving.
 
-## Sources
-
-- OpenStreetMap dive site data and community contributions
-- Regional diving guides and operator information
-- Marine conservation organization reports
-- Local tourism board resources
-
 ---
-
-*Last updated: March 2026*
-*Compiled from OpenStreetMap data, regional diving knowledge, and authoritative marine sources*
+*Sources: [Scuba Diving Magazine - Seychelles Guide](https://www.scubadiving.com/diving-paradise-guide-scuba-diving-seychelles), [Divezone - Seychelles Dive Sites](https://divezone.net/diving/seychelles), [Bluewater Dive Travel - Seychelles](https://www.bluewaterdivetravel.com/destination/seychelles-diving), [PADI - Diving in Seychelles](https://www.padi.com/diving-in/seychelles/), [SCUBA Travel - Seychelles Diving](https://www.scubatravel.co.uk/pacific/seychelles-diving.html). Last updated 2026-04-04.*

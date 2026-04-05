@@ -23,7 +23,7 @@ The Umbria measures 155 meters in length and lies on her port side in 35 meters 
 
 - **Location**: Wingate Reef, Port Sudan, Sudan
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 20-35 meters (65-115 feet)
@@ -60,4 +60,4 @@ Sudan requires a special dive permit and entry visa — verify current political
 The Umbria is one of the most photogenic wrecks on Earth. The upper deck in good natural light allows wide-angle compositions of the hull structure with the surface glinting above. The Fiat cars draped in coral are iconic subjects. In the holds, a torch and a macro lens reveal extraordinary detail on cargo labels, valves, and ammunition cases. A fisheye lens renders the sense of scale in the cavernous interiors.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

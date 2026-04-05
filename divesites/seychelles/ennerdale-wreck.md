@@ -23,7 +23,7 @@ The Ennerdale was a 216-metre British Royal Fleet Auxiliary tanker that struck u
 
 - **Location**: Seychelles, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
@@ -59,9 +59,5 @@ Be aware of strong currents, jellyfish, remote locations in this area. Dive with
 
 The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [Scuba Diving Magazine - Seychelles Guide](https://www.scubadiving.com/diving-paradise-guide-scuba-diving-seychelles), [Divezone - Seychelles Dive Sites](https://divezone.net/diving/seychelles), [Bluewater Dive Travel - Seychelles](https://www.bluewaterdivetravel.com/destination/seychelles-diving), [PADI - Diving in Seychelles](https://www.padi.com/diving-in/seychelles/), [SCUBA Travel - Seychelles Diving](https://www.scubatravel.co.uk/pacific/seychelles-diving.html). Last updated 2026-04-04.*

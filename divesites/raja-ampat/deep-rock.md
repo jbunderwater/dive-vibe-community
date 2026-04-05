@@ -58,9 +58,5 @@ Deep Rock deserves its Advanced rating. Strong, variable currents around the pin
 
 Deep Rock rewards wide-angle shooting for its pelagic subjects. Position on the upcurrent face of the pinnacle and shoot into the blue water where fish aggregate. Schools of trevally photographed from below against the blue provide dramatic images. The sea fans at depth offer macro opportunities if conditions permit a stationary position. The open-water visibility at this site often allows captures of multiple large species in a single frame.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*

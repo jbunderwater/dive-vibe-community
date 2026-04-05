@@ -60,4 +60,4 @@ At 20 meters maximum depth with light to moderate current, this is a standard in
 The cultural dimension of Hakau Tapu makes it a site worth documenting thoughtfully. Wide-angle reef shots capturing the dense coral coverage and fish life tell the story of what a historically protected reef looks like. Cleaning station photography — multiple species gathered at a single coral head, with sharks and large fish lingering nearby — is the photographic highlight of this site. Natural light shooting is effective at these depths during morning hours.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Tonga Tourism - Diving Guide](https://tongatourism.travel/diving/), [Tonga Pocket Guide - Dive Sites](https://tongapocketguide.com/10-best-dive-sites-in-tonga/), [Diving Tonga](https://www.divingtonga.com/), [Bluewater Dive Travel - Tonga](https://www.bluewaterdivetravel.com/destination/tonga-diving), [PADI - Diving in Tonga](https://www.padi.com/diving-in/tonga/). Last updated 2026-04-04.*

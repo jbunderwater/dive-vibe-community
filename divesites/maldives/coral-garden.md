@@ -41,4 +41,4 @@ Turtles are resident and predictably present, moving calmly through the coral ga
 Shore diving allows flexible timing — early mornings and late afternoons are especially productive. Night diving from the shore entry point reveals different species. Suitable for intermediate divers; the shallows are appropriate for beginners accompanied by an instructor. No boat fees required.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

@@ -58,9 +58,5 @@ Current in the Somosomo Strait is the primary operational consideration. Strong 
 
 Purple Wall is a more flexible photography site than Great White Wall because current requirements are less strict and the color palette varies across the dive. Wide-angle shooting of the coral wall with a diver for scale is the primary approach. The purple-blue color combination of the soft corals against the open-water blue is visually distinctive — no strobe is needed for basic compositions, though twin strobes close to the subject reveal the full purple saturation at depth. Macro subjects on the wall include nudibranchs (particularly Chromodoris species that favor purple and lavender habitats), cleaner shrimp, and the pygmy angelfish in the sea fans.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [NAI'A Liveaboard - Fiji Dive Sites](https://www.naia.com.fj/fiji/dive-sites/), [Dive the World - Fiji](https://www.dive-the-world.com/diving-sites-fiji.php), [Bluewater Dive Travel - Fiji](https://www.bluewaterdivetravel.com/destination/fiji-diving), [PADI - Diving in Fiji](https://www.padi.com/diving-in/fiji/), [Waterlust Fiji Reef Guide](https://www.waterlustfiji.com/guide-to-fiji-diving). Last updated 2026-04-04.*

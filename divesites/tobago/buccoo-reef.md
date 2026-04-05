@@ -23,7 +23,7 @@ Buccoo Reef extends over several square kilometres of shallow water off the sout
 
 - **Location**: Southwest Tobago, off Buccoo village
 - **Entry Type**: Boat dive
-- **Site Type**: Large reef complex with lagoon zones
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–25 meters
@@ -58,4 +58,4 @@ Buccoo is one of the busiest shallow reefs in the region — boat traffic requir
 The reef's diverse zones offer subjects across all photographic styles. The seagrass lagoon with sea turtles, the outer edge in clear water with abundant reef fish, and the coral formations at various depths all provide varied opportunities. Buccoo is not Tobago's highest-quality photography site, but the range of habitats in a single reef complex creates genuine variety.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: Wikipedia, britannica.com, visittobago.gov.tt - RAMSAR marine park, 7 km² complex. Last updated 2026-03-28.*

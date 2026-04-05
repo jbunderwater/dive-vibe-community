@@ -23,7 +23,7 @@ The Ruins of Old Dike is a dive site built around the collapsed remains of a his
 
 - **Location**: Off Plum Island/Newburyport coast, northern Massachusetts
 - **Entry Type**: Boat dive
-- **Site Type**: Artificial reef (historical ruins)
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 10 meters
 - **Typical Visibility**: 3–8 meters (10–26 feet)
@@ -64,4 +64,4 @@ The contrast between constructed human geometry (the linear dike line) and the n
 - **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*

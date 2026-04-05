@@ -23,9 +23,9 @@ Pottery is a shallow reef site on the southern side of Koh Tao, often listed alo
 
 - **Location**: South Koh Tao, Gulf of Thailand
 - **Entry Type**: Boat dive
-- **Site Type**: Reef / Pinnacle
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 12 m
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 10–18 m
 - **Current**: Generally mild
 - **Best Time**: May to August
@@ -58,9 +58,5 @@ Conditions are mild but currents can increase in the afternoon. Triggerfish in n
 
 Soft corals in pastel colours provide pleasing background for fish portraits. Cuttlefish hovering near the reef edge make compelling close-up subjects. The shallow pinnacle top with strong natural light suits reef scene photography.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Koh Tao Complete Guide - Best Dive Sites](https://www.kohtaocompleteguide.com/diving/koh-tao-dive-sites/), [Sairee Cottage Diving - Koh Tao Dive Sites Complete Guide](https://www.saireecottagediving.com/koh-tao-dive-sites-complete-guide-to-26-incredible-locations/), [Big Blue Diving Koh Tao](https://www.bigbluediving.com/), [PADI - Diving in Koh Tao](https://www.padi.com/diving-in/koh-tao/), [Dive Happy - Koh Tao Dive Sites Guide](https://divehappy.com/). Last updated 2026-04-04.*

@@ -58,9 +58,5 @@ Nurse sharks are generally docile but will react defensively if threatened or co
 
 Bear's Den is one of the best nurse shark photography sites in Roatán. Multiple animals resting in an overhang allow wide-angle compositions showing both the shelter environment and the sharks. Approach positions carefully to avoid disturbing the animals and use ambient light from the overhang opening as a natural key light. The reef plateau above in bright, shallow water is excellent for turtle and angelfish portraits.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-04-04.*

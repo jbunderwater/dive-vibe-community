@@ -58,9 +58,5 @@ The primary hazard unique to this site is the presence of venomous animals that 
 
 Mucky Mosque is Alor's premier macro photography site. A 100 mm macro or equivalent is the standard lens choice, with a dioptre available for the smallest subjects. The dark volcanic substrate provides clean, out-of-focus backgrounds that make subjects pop without elaborate staging. Frogfish portraits — achieved by positioning the lens level with the subject and filling the frame — are among the most publishable images divers take from the Alor region.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Alami Alor Dive Resort Diving](https://www.alamialor.com/diving-snorkeling/scuba-diving/), [Alor Divers Resort](https://www.alor-divers.com/), [ZuBlu Scuba Diving in Alor](https://www.zubludiving.com/destination/indonesia/nusa-tenggara/alor), [Solitude World Alor Diving Guide](https://solitude.world/alor-diving-guide/), [Dive the World Alor](https://www.dive-the-world.com/diving-sites-indonesia-alor.php). Last updated 2026-04-04.*

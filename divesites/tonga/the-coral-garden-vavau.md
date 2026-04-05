@@ -60,4 +60,4 @@ Conditions at this site are among the most forgiving in Vava'u. Light currents a
 Wide-angle shooting captures the broad coral garden perspective, particularly when framing the large Acropora table formations against mid-water blue. Macro subjects are abundant — nudibranchs, flatworms, and cleaning stations are found throughout the reef matrix. Early morning light creates a warm, angled quality that enhances coral colors without requiring strobes at the shallower sections.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Tonga Tourism - Diving Guide](https://tongatourism.travel/diving/), [Tonga Pocket Guide - Dive Sites](https://tongapocketguide.com/10-best-dive-sites-in-tonga/), [Diving Tonga](https://www.divingtonga.com/), [Bluewater Dive Travel - Tonga](https://www.bluewaterdivetravel.com/destination/tonga-diving), [PADI - Diving in Tonga](https://www.padi.com/diving-in/tonga/). Last updated 2026-04-04.*

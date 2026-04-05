@@ -22,10 +22,10 @@ La Gabinière Nord explores the northern face of the La Gabinière integral rese
 ## Site Information
 
 - **Location**: Northern face of La Gabinière islet, Port-Cros National Park, France
-- **Entry Type**: Boat dive (mooring buoys required)
-- **Site Type**: Rocky wall and boulder field
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 metres
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 10–30 metres
 - **Water Temperature**: 13–25°C
 - **Current**: Variable; can be strong on the exposed northern faces
@@ -58,9 +58,5 @@ Advanced designation reflects the depths involved (35+ metres in the Dolmen area
 
 The Dolmen formation at depth makes a unique wide-angle subject — divers passing beneath the overhang with gorgonians in the foreground is an unusual composition for Mediterranean diving. Grouper portraits and moray eel close-ups are reliable. The gorgonian coverage on this face is photogenic with a wide-angle lens and strobes.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [CaPel - Port-Cros National Park Dive Sites](https://capel.portcros-parcnational.fr/en/ou-plonger/), [Parc national de Port-Cros - Plongée](https://www.portcros-parcnational.fr/fr/des-decouvertes/une-destination-dexception/la-mer-et-les-fonds-marins/plongee), [World Adventure Divers - Port-Cros](https://worldadventuredivers.com/port-cros-national-park/), [Lavandou Plongée - Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [European Diving School - Port-Cros](https://www.europeandiving.com/hyeres/diving-area/port-cros.html). Last updated 2026-04-04.*

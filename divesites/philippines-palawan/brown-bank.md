@@ -23,7 +23,7 @@ Positioned in the remote waters south of Puerto Princesa, Brown Bank sits within
 
 - **Location**: Southern Palawan passage, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Coral bank / reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters
 - **Typical Visibility**: 15-30 meters
@@ -58,9 +58,5 @@ The open-ocean location means conditions can change quickly. Currents may be str
 
 The bank's open structure lends itself to wide-angle reef panoramas and blue-water shots with schooling pelagics. Sea turtles are photogenic subjects on the shallow plateau. Morning light penetrates cleanly to the reef top, giving well-exposed natural-light shots without a strobe.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Diving Squad Palawan Guide](https://www.divingsquad.com/philippines-diving/palawan/), [Scuba Tech Philippines - Coron Wrecks](https://scubatechphilippines.com/scuba_blog/the-shipwrecks-of-coron-wreck-diving-philippines/), [Pirate Coron Dive Sites](https://piratescoron.com/dive-sites/), [DIVE Magazine - Wrecks of Coron Bay](https://divemagazine.com/scuba-diving-travel/wrecks-of-coron-bay-philippines), [ZuBlu - Scuba Diving Coron Palawan](https://www.zubludiving.com/destination/philippines/palawan/coron). Last updated 2026-04-04.*

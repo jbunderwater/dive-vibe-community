@@ -58,9 +58,5 @@ Remote location means limited emergency support. Dive conservatively within your
 
 The undisturbed reef structure and clear water make for excellent wide-angle coral photography. Sea fans on the outer slope offer dramatic framing opportunities. Schooling reef fish and the open blue water beyond the reef edge provide rich photographic subjects.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

@@ -23,9 +23,9 @@ Cypress Reef lies in the waters off Cypress Island, one of the less-visited isla
 
 - **Location**: Near Cypress Island, San Juan Islands, Puget Sound, Washington
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef with kelp canopy
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–14 metres
 - **Water Temperature**: 7–11°C
 - **Current**: Moderate tidal
@@ -58,9 +58,5 @@ Kelp entanglement is a minor but real risk — if tangled, stop, and slowly back
 
 A kelp forest with filtered light is one of the most photogenic subjects in Pacific Northwest diving. Wide-angle shots looking upward through the kelp canopy toward the light are outstanding. Wolf eel portraits in their dens make excellent close-focus wide-angle images. Macro work on nudibranchs and encrusting organisms rounds out the photographic potential.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Washington Dept of Fish & Wildlife - Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [PNW Scuba - Pacific Northwest Dive Site Maps](https://www.pnwscuba.com/Pacific-Northwest-Dive-Sites/Maps), [Emerald Diving - Puget Sound Dive Sites](https://www.emeralddiving.com/local_sites_jf.html), [Scuba Diving Magazine - Seattle & Puget Sound](https://www.scubadiving.com/drive-and-dive-seattle-puget-sound), [UnderSea Adventures - Puget Sound Diving Charters](https://www.underseaadventures.net/puget-sound.htm). Last updated 2026-04-04.*

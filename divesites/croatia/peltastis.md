@@ -59,4 +59,4 @@ Depth is within upper recreational limits. Buoyancy control is important to avoi
 The Peltastis is a superb wide-angle photography subject — the intact hull rising from the sandy bottom, draped in colourful sponges, photographs beautifully with a rectilinear wide-angle lens. Macro photographers will find nudibranchs and crustaceans on every square metre of encrusted surface. The bridge is a classic composition point.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*

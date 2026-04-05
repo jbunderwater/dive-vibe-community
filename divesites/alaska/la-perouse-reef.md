@@ -23,9 +23,9 @@ La Perouse Reef takes its name from the French explorer Jean-François de Galaup
 
 - **Location**: Southern Ketchikan area, Southeast Alaska
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 27 meters (89 feet)
+- **Maximum Depth**: 27 meters
 - **Typical Visibility**: 8–18 meters (26–60 feet)
 - **Current**: Strong — slack tide required
 - **Water Temperature**: 6–12°C (43–54°F)
@@ -59,9 +59,5 @@ The deeper profile (27 meters) compared to neighboring sites requires extra atte
 
 The deeper sections of La Perouse Reef offer an opportunity to photograph undisturbed invertebrate communities in excellent natural light conditions on good visibility days. Lingcod with anemone backgrounds make classic Inside Passage compositions. Macro work on bryozoan surfaces is highly productive.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Dive Alaska - Anchorage Dive Operator](https://divealaska.net/), [Scuba Diving Magazine - Where to Go Scuba Diving in Alaska](https://www.scubadiving.com/where-to-go-scuba-diving-in-alaska), [Scuba Diving Magazine - Mountain Point Ketchikan](https://www.scubadiving.com/diving-alaskas-mountain-point), [Bluewater Dive Travel - Best Scuba Diving in Alaska](https://www.bluewaterdivetravel.com/destination/alaska-diving), [SSI - Scuba Diving in Alaska Guide](https://www.divessi.com/en/blog/scuba-diving-in-alaska-10373.html). Last updated 2026-04-04.*

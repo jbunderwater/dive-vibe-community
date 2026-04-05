@@ -77,9 +77,5 @@ Not suitable for recreational divers without substantial deep-water training.
 
 Excellent opportunities for wide-angle composition of coral formations and butterflyfish schools. Bring macro lighting for invertebrate subjects. Summer provides better visibility; early morning dives offer optimal lighting. The large butterflyfish aggregations are exceptional for action photography.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [Scuba Diving Magazine - Flower Garden Banks](https://www.scubadiving.com/how-to-dive-flower-garden-banks-national-marine-sanctuary), [Texas Caribbean Charters](https://texascaribbean.com/), [NOAA Flower Garden Banks Sanctuary](https://flowergarden.noaa.gov/visiting/divecharters.html), [Divers Alert Network - Flower Garden Banks](https://dan.org/alert-diver/article/flower-garden-banks-national-marine-sanctuary-texas/), [Maximum Scuba Houston](https://maximum-scuba.com/tx-marine-flower-gardens). Last updated 2026-04-04.*

@@ -58,4 +58,4 @@ Strong tidal currents in the Strait of Tiran are the primary hazard. Never fight
 Pinky Wall is one of the Red Sea's best soft coral photography sites. Wide-angle shots looking up the wall from 15 meters with pink coral in the foreground and sunlit blue water above are spectacular. The anthias-dense midwater above the wall creates colorful schooling fish images. Early morning dives with angled sunlight hitting the coral produce the most vibrant color. A strobe is essential for bringing out the true colors of the soft corals at depth.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

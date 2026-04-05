@@ -22,8 +22,8 @@ The Khanka is a steel-hulled cargo or supply vessel that came to rest on a reef,
 ## Site Information
 
 - **Location**: Central Red Sea, Egypt (near Brothers Islands region)
-- **Entry Type**: Boat dive (liveaboard access)
-- **Site Type**: Wreck
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-35 meters (65-115 feet)
@@ -58,4 +58,4 @@ Wreck penetration should only be attempted by divers with wreck diving training 
 Wide-angle images of the coral-encrusted hull with natural light filtering down from the surface are the signature shot at wreck sites like the Khanka. Schools of glassy sweepers create dramatic interior scenes with a torch for fill light. Close-up shots of the soft coral growth on the hull reveal intricate textures and color.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

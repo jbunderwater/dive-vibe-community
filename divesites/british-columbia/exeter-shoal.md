@@ -23,9 +23,9 @@ Exeter Shoal lies in the upper Strait of Georgia along the Sunshine Coast, in wa
 
 - **Location**: Upper Strait of Georgia, northern Sunshine Coast, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Shoal / reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres
 - **Current**: Tidal currents in the Strait — plan around slack
 - **Best Time**: Late summer and autumn
@@ -57,11 +57,8 @@ Tidal currents in the upper Strait of Georgia can be significant. Remote locatio
 
 Less-dived sites like Exeter Shoal often produce exceptional photography due to less-disturbed marine life. Octopus and lingcod are less habituated and show more natural behaviours. Wide-angle reef compositions with rich sponge and anemone growth are outstanding. Bring a full camera kit.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
 - Powell River area dive operators
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

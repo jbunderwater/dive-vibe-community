@@ -40,5 +40,4 @@ The hard coral quality at N-Buoy is high, with intact table coral formations and
 Fusilier schools, snapper schools, grey reef sharks, moray eels, table corals, brain corals, humphead wrasse, groupers, butterflyfish, damselfish.
 
 ---
-
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Marshall Islands Guide - Diving](https://www.infomarshallislands.com/recreation/diving/), [PADI Diving in the Marshall Islands](https://www.padi.com/diving-in/marshall-islands/), [SCUBA Travel Marshall Islands Guide](https://www.scubatravel.co.uk/pacific/marshall-islands-diving.html), [Kwajalein Dive Center](https://www.kwajdivecenter.com/), [Dive Worldwide Marshall Islands](https://www.diveworldwide.com/discover/marshall-islands). Last updated 2026-04-04.*

@@ -23,9 +23,9 @@ Sentry Shoal lies in the northern Strait of Georgia, close to the Discovery Pass
 
 - **Location**: Northern Strait of Georgia, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky shoal / reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–18 metres
 - **Current**: Can be strong; time to slack water
 - **Best Time**: July to October
@@ -58,4 +58,4 @@ Remote location and strong currents are the primary hazards. Ensure your charter
 Current-swept reef photography rewards wide-angle technique — capturing anemone walls and drifting fish in a single frame. Steller sea lion encounters are fast and dramatic — a wide-angle wet lens is ideal. Lingcod on rocky substrate make excellent portrait subjects during slack water pauses.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

@@ -23,7 +23,7 @@ Lake Malawi / Lake Nyasa diving is a unique experience that differs entirely fro
 
 - **Location**: Lake Malawi / Lake Nyasa, southern Tanzania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef (rocky reef / cichlid habitat)
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
 - **Typical Visibility**: 15-20 meters (50-65 feet)
@@ -57,9 +57,5 @@ Lake Malawi diving is generally low-risk due to calm conditions and excellent vi
 
 The cichlid photography opportunities at Lake Malawi are unique in freshwater diving. The fish are often territorial and will approach divers closely, allowing macro portrait shots without long lenses. Ambient light in clear freshwater at shallow depths produces excellent color rendition. A fish ID book and log notes complement photos for later species identification.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*

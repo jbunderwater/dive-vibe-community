@@ -58,9 +58,5 @@ The Tiran Strait is known for strong and variable currents. Always carry an SMB 
 
 Outstanding wide-angle conditions with schooling fish and diverse reef architecture. Reef sharks and humphead wrasse provide dramatic subjects. The coral walls with sea fans and soft corals frame well with natural light. The exceptional visibility makes ambient-light wide-angle possible throughout the dive.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

@@ -58,9 +58,5 @@ PADI Advanced Open Water certification or equivalent recommended. Drift entry fr
 
 Advanced deep pinnacle diving requires strong current management, precise buoyancy control, and excellent situational awareness. Variable currents demand flexible dive planning and current reading skills. Cold water (14-22°C) necessitates proper thermal protection and energy management. Standard deep diving protocols apply: nitrogen narcosis awareness, air consumption monitoring, safety stop compliance. Always dive with experienced buddy. Verify boat crew current safety procedures and SMB deployment protocols before diving.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [Rodney Fox Shark Expeditions - Neptune Islands](https://rodneyfox.com.au/great-white-shark-central/the-neptune-islands/), [Scuba Diving Magazine - Cage Diving Neptune Islands](https://www.scubadiving.com/cage-diving-with-great-white-sharks-in-neptune-islands-australia), [DAN Alert Diver - South Australia Great White Sharks](https://dan.org/alert-diver/article/south-australias-great-white-shark-adventure/), [SA Marine Parks Neptune Islands Group](https://www.marineparks.sa.gov.au/find-a-park/eyre-peninsula/neptune-islands), [Dive Worldwide South Australia](https://www.diveworldwide.com/locations/south-australia). Last updated 2026-04-04.*

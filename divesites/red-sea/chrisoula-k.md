@@ -23,9 +23,9 @@ The Chrisoula K (formerly the *Dora Oldendorff*, later the *Anna B*) was a 98-me
 
 - **Location**: Shaab Abu Nuhas reef, Strait of Gubal, northern Egyptian Red Sea (between Hurghada and the Sinai)
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 26 meters (stern and propeller; bow at 3 m)
+- **Maximum Depth**: 26 meters
 - **Typical Visibility**: 15–25 meters
 - **Current**: Moderate; can be strong on the reef top
 - **Best Time**: October to May
@@ -58,9 +58,5 @@ The Chrisoula K is a penetration dive in the cargo holds — open water divers s
 
 The Italian floor tiles in the cargo hold are the signature photograph — wide-angle with a torch illuminating the tile cargo in the hold interior. The stern propeller at 26 metres is a classic wreck-photographer's composition. The superstructure covered in soft corals rewards close-focus wide-angle shots at 12–18 metres with natural light from above. Lionfish portraits among sponge growth are consistently available throughout the dive.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

@@ -75,10 +75,10 @@ The pipeline system represents Monterey's sardine fishing heritage. During the p
 
 Monitor your air consumption carefully—kelp diving increases air density effects. Always use an SMB on ascent. Maintain buddy contact, especially in the kelp. Watch for unexpected current changes. The easy entry conditions and shallow depth make this an excellent site for building cold-water diving confidence.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
 - **Validation Source**: Perplexity research, local dive guides, California Diving News
 
 ---
 *McAbee Beach is an accessible Monterey diving alternative with historical significance. Updated 2026-03-16.*
+
+---
+*Sources: [Monterey Bay Aquarium](https://www.montereybayaquarium.org/), [Aquarius Dive Shop](https://aquariusdivers.com/guided-tours), [Bamboo Reef Diving](https://www.bambooreef.com/dive-monterey), [Monterey Scuba Board](https://montereyscubaboard.com/monterey-dive-sites/), [See Monterey](https://www.seemonterey.com/things-to-do/outdoors/scuba-diving/). Last updated 2026-04-04.*

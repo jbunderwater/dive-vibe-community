@@ -59,4 +59,4 @@ Conditions at Jotao Abu Galawa are generally benign, but fire coral is present o
 The shallow, light-filled environment makes Jotao Abu Galawa excellent for natural-light reef photography. The anthias clouds and coral heads photograph beautifully with ambient light in the morning. Turtle encounters provide memorable wide-angle subjects, and the macro life on the coral surface rewards patient close-up work.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

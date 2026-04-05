@@ -50,8 +50,5 @@ Currents at Lobster Rock are generally more moderate than at the exposed pinnacl
 ## Photography
 The rosy-lipped batfish is the unique photographic prize at this site — a macro or mid-range lens captures the bizarre red-lipped face against the rhodolith substrate. Wide-angle covers the wall scenes with schooling jacks and surgeonfish. Afternoon spawning aggregations of black triggerfish create dynamic wide-angle subjects. The relatively moderate current makes camera handling easier than at the more exposed sites. Strobes are important for bringing out the red coloration of both the rhodolith bed and the batfish.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Bluewater Dive Travel - Cocos Island Diving](https://www.bluewaterdivetravel.com/destination/cocos-island-diving), [Dive The World - Cocos Island](https://www.dive-the-world.com/diving-sites-cocos.php), [ZuBlu - Cocos Island Scuba Diving](https://www.zubludiving.com/destination/costa-rica/puntarenas/cocos-island), [PADI - Diving in Cocos Island](https://www.padi.com/diving-in/cocos-island/), [Aggressor - Costa Rica Cocos Island Liveaboard](https://www.aggressor.com/destination/Cocos), [Undersea Hunter - Cocos Island](https://underseahunter.com/cocos-island/), [Bluewater Dive Travel - Cocos Island](https://www.bluewaterdivetravel.com/destination/cocos-island-diving), [DAN Alert Diver - Cocos Island](https://dan.org/alert-diver/article/cocos-island/), [ZuBlu - Scuba Diving Cocos Island](https://www.zubludiving.com/destination/costa-rica/puntarenas/cocos-island). Last updated 2026-04-04.*

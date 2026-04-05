@@ -58,9 +58,5 @@ Standard Anilao precautions apply. Deploy SMB before surfacing. Manage no-decomp
 
 Reef fish portrait photography and nudibranch macro work are the primary subjects. Natural light in the 5–15 meter range is excellent for ambient-light photography. Strobe setups improve colour accuracy and critter visibility at depth.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive Philippines Anilao Dive Sites](https://www.divephilippines.com.ph/anilao-batangas-dive-sites/), [Bluewater Dive Travel Anilao](https://www.bluewaterdivetravel.com/destination/anilao-diving), [Solitude World Anilao Dive Sites](https://solitude.world/dive-sites-anilao-batangas-the-philippines/), [Buceo Anilao](https://buceoanilao.com/), [Diving Squad Anilao Guide](https://www.divingsquad.com/philippines-diving/batangas-anilao/). Last updated 2026-04-04.*

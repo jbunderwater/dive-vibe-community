@@ -22,10 +22,10 @@ Discovery Island lies just off the southeastern tip of Vancouver Island near Vic
 ## Site Information
 
 - **Location**: Discovery Island, near Oak Bay, Victoria, British Columbia
-- **Entry Type**: Shore entry (or small boat to shore)
+- **Entry Type**: Shore entry
 - **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 15 metres
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: 5–12 metres
 - **Current**: Tidal currents on exposed sides; calmer in sheltered bays
 - **Best Time**: Late spring through autumn
@@ -57,11 +57,8 @@ Haro Strait currents affect the exposed sides of Discovery Island significantly.
 
 Muck diving is a macro photographer's delight. Pacific spiny lumpsuckers make uniquely BC photographs — these small, clumsy fish are highly photogenic. Decorator crabs covered in camouflage materials make striking macro images. Pipefish in eelgrass, gunnels in kelp, and nudibranchs on sponges all reward careful searching and macro technique.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
 - Discovery Island Provincial Marine Park information: bcparks.ca
 - Oak Bay area dive operators for kayak dive support
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

@@ -23,9 +23,9 @@ The HTMS Sattakut (LCI 742) is a 48-metre US Navy Landing Craft Infantry vessel 
 
 - **Location**: South of Koh Tao, near Hin Pee Wee pinnacle
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 m
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10–20 m
 - **Current**: Mild to moderate
 - **Best Time**: May to August
@@ -58,9 +58,5 @@ Swim-throughs should only be attempted by divers with wreck diving training or c
 
 Wide-angle captures the full hull profile and accompanying fish schools. Batfish schools around the superstructure create dramatic school shots. Macro on the encrusting soft corals and nudibranchs growing on the hull. The bow or stern shots with a diver in frame provide the classic wreck portrait.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Koh Tao Complete Guide - Best Dive Sites](https://www.kohtaocompleteguide.com/diving/koh-tao-dive-sites/), [Sairee Cottage Diving - Koh Tao Dive Sites Complete Guide](https://www.saireecottagediving.com/koh-tao-dive-sites-complete-guide-to-26-incredible-locations/), [Big Blue Diving Koh Tao](https://www.bigbluediving.com/), [PADI - Diving in Koh Tao](https://www.padi.com/diving-in/koh-tao/), [Dive Happy - Koh Tao Dive Sites Guide](https://divehappy.com/). Last updated 2026-04-04.*

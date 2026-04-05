@@ -58,9 +58,5 @@ Be aware of cold water (north), currents, boat traffic in this area. Dive within
 
 Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [Silfra Fissure - Snorkeling and Diving in Iceland](https://www.silfrafissure.com/), [DIVE.IS - Silfra Snorkeling Day Tour](https://www.dive.is/diving-snorkeling-tours/snorkeling-day-tours/silfra-snorkeling-day-tour), [Adventures.is - Silfra Fissure](https://adventures.is/iceland/attractions/silfra-fissure/), [GO Iceland - Guide to Diving at Silfra](https://www.goiceland.com/blog/diving-snorkeling-at-silfra-fissure/), [Guide to Iceland - Silfra Travel Guide](https://guidetoiceland.is/travel-iceland/drive/silfra). Last updated 2026-04-04.*

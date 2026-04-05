@@ -23,9 +23,9 @@ Pura PED is one of a string of north-coast Nusa Penida dive sites — alongside 
 
 - **Location**: North coast of Nusa Penida, Bali region
 - **Entry Type**: Boat dive
-- **Site Type**: Wall / Drift
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 m
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15–25 m
 - **Current**: Moderate; consistent drift current along the wall
 - **Best Time**: April to October
@@ -58,9 +58,5 @@ Drift currents can be strong and may accelerate unexpectedly. Stay aware of dept
 
 Wide-angle suits the sloping reef with schools of fusiliers and turtles. Turtles grazing in the shallows offer portrait opportunities with good natural light. The current-swept character of the site means quick composition is needed — practice shooting on the move.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Aquamarine Diving - Bali Dive Sites](https://www.aquamarinediving.com/bali-diving/dive-sites/), [Dive The World - Bali Indonesia](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [Bluewater Dive Travel - Bali Diving](https://www.bluewaterdivetravel.com/destination/bali-diving), [World Adventure Divers - Best Dive Sites Bali](https://worldadventuredivers.com/best-dive-sites-bali/), [Neptune Scuba Diving - Scuba Diving Bali](https://neptunescubadiving.com/scuba-diving-bali/), [Dive The World - Bali](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [PADI - Diving in Bali](https://www.padi.com/diving-in/bali/). Last updated 2026-04-04.*

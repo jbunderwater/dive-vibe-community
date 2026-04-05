@@ -60,9 +60,5 @@ Flasher Beach is one of Triton Bay's more accessible sites in terms of depth and
 
 Flasher Beach is one of the most sought-after macro photography destinations in the entire Coral Triangle. The Paracheilinus display behavior is uniquely challenging to photograph: it requires precise pre-focus, burst shooting, and fast enough shutter speeds (1/250s minimum) to freeze the extended fins. Wet diopter attachments are sometimes used to magnify individual display details. Beyond the wrasse, the rubble habitat provides a full slate of macro subjects at more leisurely pace — frogfish, nudibranchs, and ghost pipefish all reward patient, careful composition. Video shooters should plan to dedicate an entire dive to pure wrasse behavior documentation; the results from this single site can form the centerpiece of a West Papua diving film.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Triton Bay Divers Resort](https://tritonbaydivers.com/), [ZuBlu Scuba Diving in Triton Bay](https://www.zubludiving.com/destination/indonesia/west-papua/triton-bay), [Scuba Diving Magazine Triton Bay Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-triton-bay-indonesia), [Dive the World Triton Bay](https://www.dive-the-world.com/diving-sites-indonesia-triton-bay.php), [Merapi Tours Triton Bay Dive Sites](https://www.merapitours.com/indonesia/papua/triton-bay-dive-sites). Last updated 2026-04-04.*

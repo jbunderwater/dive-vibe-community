@@ -59,11 +59,5 @@ The 38-meter stern depth is within recreational limits but demands careful no-de
 
 The Dresden's preserved interior details visible through hull openings are unique photographic subjects. The inclined hull profile creates asymmetric compositions different from the predominantly sideways cruisers. Encrusted deck features and superstructure elements photograph well with artificial light. The bow section in the shallower zone allows slightly better natural light exposure than the deeper sterns of the battleships.
 
-## Additional Resources
-
-- **Last Updated**: 2026-04-03
-
-## Sources
-
-- [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/)
-- [Scapa Flow Dive Sites — scapa-flow.co.uk](https://www.scapa-flow.co.uk/dive-site)
+---
+*Sources: [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/), [Scapa Flow Dive Sites — scapa-flow.co.uk](https://www.scapa-flow.co.uk/dive-site). Last updated 2026-04-04.*

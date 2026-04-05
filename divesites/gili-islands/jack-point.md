@@ -22,10 +22,10 @@ Jack Point marks the central western headland of Gili Trawangan, where the drift
 ## Site Information
 
 - **Location**: West Gili Trawangan, Gili Islands
-- **Entry Type**: Boat dive (drift)
-- **Site Type**: Wall / Drift
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 m
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 15–25 m
 - **Current**: Strong at the point; drift conditions essential
 - **Best Time**: May to October
@@ -58,9 +58,5 @@ Strong current at the headland can sweep divers off the point into open water. H
 
 Dense jackfish schools backlit by open water are the classic Jack Point image. Wide-angle suits the school density. Reef sharks passing in the current suit fast shutter speed wide-angle shooting. The current-swept point is challenging for composition — pre-focus and be ready.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Manta Dive Gili Islands](https://manta-dive.com/diving-gili-trawangan/gili-dive-sites/), [Gili Divers Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [PADI Gili Islands](https://www.padi.com/diving-in/indonesia/gili-islands/), [Manta Dive Gili Air](https://manta-dive-giliair.com/gili-islands-dive-sites), [Terumbu Divers Gili Sites](https://terumbudivers.com/fun-dives-2/dive-sites-gili-islands-lombok/). Last updated 2026-04-04.*

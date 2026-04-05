@@ -23,7 +23,7 @@ Ron's Wreck is a small vessel deliberately sunk off the southern coast of Utila 
 
 - **Location**: South coast of Utila, Bay Islands, Honduras
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20–25 meters (65–80 feet)
@@ -58,9 +58,5 @@ Intermediate dive at a manageable depth. Do not attempt to enter the hull's encl
 
 Small wreck photography rewards a systematic approach. Shoot the wreck hull from the stern end looking forward to capture the full vessel in one frame. Grouper portraits hovering near the superstructure are compelling close-up subjects. The encrusted hull sections photographed with a strobe and close-up lens reveal the texture and color of the sponge and coral growth. Moray portraits emerging from openings are a classic wreck shot.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Utila Dive Center](https://utiladivecenter.com/), [Utila Cays Diving - Dive Sites](https://utilacaysdiving.com/dive-with-us/dive-sites/), [Alton's Dive Center Utila](https://diveinutila.com/), [World Adventure Divers - 10 Reasons to Dive Utila](https://worldadventuredivers.com/diving-utila/), [ZuBlu - Scuba Diving in Utila](https://www.zubludiving.com/destination/honduras/bay-islands/utila). Last updated 2026-04-04.*

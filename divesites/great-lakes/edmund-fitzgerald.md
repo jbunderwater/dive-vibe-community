@@ -24,10 +24,10 @@ At 160 metres, this is strictly a technical diving site accessible only to highl
 ## Site Information
 
 - **Location**: Lake Superior, Ontario, Canada (approximately 27 km from Whitefish Point, Michigan)
-- **Entry Type**: Technical diving expedition only
-- **Site Type**: Wreck
-- **Difficulty Level**: Advanced (technical — far beyond recreational limits)
-- **Maximum Depth**: 160 metres
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 160 meters
 - **Typical Visibility**: 3–8 metres at depth
 - **Water Temperature**: 2–4°C at depth year-round
 - **Current**: Variable near surface; minimal at depth
@@ -60,9 +60,5 @@ Lake Superior is the most dangerous of the Great Lakes, known for sudden, violen
 
 The few authorized expeditions to the Edmund Fitzgerald have produced powerful imagery: the ship's name visible on the hull, the upright bow pointing toward the surface, the scattered cargo of taconite ore. These images represent some of the most significant documents in Great Lakes maritime history.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Michigan.org - Dive Michigan Shipwrecks Underwater Preserves](https://www.michigan.org/article/trip-idea/dive-michigan-shipwrecks-these-underwater-preserves), [Great Lakes Shipwreck Preservation Society - Dive Sites](https://glsps.clubexpress.com/DiveSites), [Scuba Diving Magazine - Great Lakes Shipwrecks](https://www.scubadiving.com/great-lakes-shipwrecks-like-youve-never-seen-them-before), [Gear Patrol - Guide to Wreck Diving the Great Lakes](https://www.gearpatrol.com/archive/a162066/great-lakes-wreck-diving-guide/), [Shipwreck Explorers - Wisconsin Scuba Diving](https://www.shipwreckexplorers.com/). Last updated 2026-04-04.*

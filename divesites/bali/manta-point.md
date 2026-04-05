@@ -22,10 +22,10 @@ Manta Point is located on the southwestern coast of Nusa Penida and is the most 
 ## Site Information
 
 - **Location**: Southwest coast of Nusa Penida, Bali region
-- **Entry Type**: Boat dive (45 min from Toyapakeh or Sanur)
-- **Site Type**: Reef / Cleaning Station
-- **Difficulty Level**: Beginner (conditions can elevate to Advanced)
-- **Maximum Depth**: 15 m (manta encounters)
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: 10–20 m
 - **Current**: Variable; can be strong on the exposed southern coast
 - **Best Time**: April to October for most stable conditions
@@ -58,9 +58,5 @@ The site is fully exposed to Indian Ocean swell, and surge can be powerful. Stro
 
 Manta rays at close range on the cleaning station provide world-class wide-angle subjects. Use a rectilinear wide-angle lens for belly shots as they circle overhead. Avoid using flash on the mantas — natural light combined with sunbursts from above works beautifully at 10–15 m depth.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Aquamarine Diving - Bali Dive Sites](https://www.aquamarinediving.com/bali-diving/dive-sites/), [Dive The World - Bali Indonesia](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [Bluewater Dive Travel - Bali Diving](https://www.bluewaterdivetravel.com/destination/bali-diving), [World Adventure Divers - Best Dive Sites Bali](https://worldadventuredivers.com/best-dive-sites-bali/), [Neptune Scuba Diving - Scuba Diving Bali](https://neptunescubadiving.com/scuba-diving-bali/), [Dive The World - Bali](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [PADI - Diving in Bali](https://www.padi.com/diving-in/bali/). Last updated 2026-04-04.*

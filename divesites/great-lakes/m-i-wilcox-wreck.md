@@ -23,9 +23,9 @@ The western basin of Lake Erie was one of the most heavily trafficked stretches 
 
 - **Location**: Lake Erie, Great Lakes, USA (western basin, near Ohio/Michigan border)
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 metres
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 3–10 metres
 - **Water Temperature**: 4–24°C (seasonal); surface water is the warmest in the Great Lakes system in summer
 - **Current**: Variable; western Lake Erie develops current quickly with wind
@@ -58,9 +58,5 @@ Western Lake Erie is the most dangerous lake section for rapidly developing stor
 
 Dense fish aggregations — perch, walleye, and bass — make the M. I. Wilcox an outstanding wildlife photography site. Close-approach photography of walleye is possible in the dim conditions near the wreck at dawn light. Video with dive lights brings colour to what would otherwise be monochrome ambient conditions.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Michigan.org - Dive Michigan Shipwrecks Underwater Preserves](https://www.michigan.org/article/trip-idea/dive-michigan-shipwrecks-these-underwater-preserves), [Great Lakes Shipwreck Preservation Society - Dive Sites](https://glsps.clubexpress.com/DiveSites), [Scuba Diving Magazine - Great Lakes Shipwrecks](https://www.scubadiving.com/great-lakes-shipwrecks-like-youve-never-seen-them-before), [Gear Patrol - Guide to Wreck Diving the Great Lakes](https://www.gearpatrol.com/archive/a162066/great-lakes-wreck-diving-guide/), [Shipwreck Explorers - Wisconsin Scuba Diving](https://www.shipwreckexplorers.com/). Last updated 2026-04-04.*

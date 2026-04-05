@@ -59,4 +59,4 @@ The site is generally manageable, but current can increase as the tide moves. Mo
 Bonsai is a macro photographer's pleasure — the intricate coral shapes, gooby-shrimp pairs, and perching hawkfish create detailed, layered compositions. A 60mm or 100mm macro lens is ideal. For wider shots, a 24–35mm captures the overall reef topography with good depth of field. The moderate currents keep sediment low, producing clean backgrounds.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive Komodo - Dive Sites](https://divekomodo.com/dive-sites-komodo/), [Dragon Dive Komodo - Top 10 Dive Sites](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [World Adventure Divers - Diving in Komodo](https://worldadventuredivers.com/diving-in-komodo/), [Dive Komodo National Park](https://divekomodonationalpark.com/), [Blue Marlin Dive - Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/). Last updated 2026-04-04.*

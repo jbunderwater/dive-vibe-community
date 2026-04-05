@@ -23,7 +23,7 @@ Located in the Dahab area on the Gulf of Aqaba side of the Sinai Peninsula, Gold
 
 - **Location**: Gulf of Aqaba, Dahab area, northern Sinai, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Reef blocks and coral outcrops on sandy slope
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–35 meters
@@ -59,4 +59,4 @@ Titan triggerfish can be aggressive during nesting season (March–May). If one 
 The blocky formations create geometric, graphically interesting compositions when combined with wide-angle lenses. The intense blue Gulf of Aqaba water makes a striking backdrop. Macro subjects on the block surfaces and in the sand corridors are rewarding for patient photographers.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

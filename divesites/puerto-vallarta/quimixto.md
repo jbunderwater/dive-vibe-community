@@ -52,3 +52,6 @@ Access is by dive boat from Puerto Vallarta, approximately 45 minutes each way. 
 - The fishing village of Quimixto is accessible by water taxi for a surface interval break with lunch at local restaurants
 - Often combined with Majahuitas on a full-day southern bay trip — the two sites are similar in character but offer different underwater topography
 - Rays on the sandy sections tend to hold still if approached slowly and at a low angle from the side
+
+---
+*Sources: [Boca Divers - Puerto Vallarta Dive Sites](https://www.bocadivers.net/BocaDivers/divesites.htm), [PADI - Diving in Puerto Vallarta](https://www.padi.com/diving-in/mexico/puerto-vallarta/), [PADI - Top Dive Sites in Puerto Vallarta](https://www.padi.com/dive-sites/mexico/puerto-vallarta/), [Vallarta by Owner - Best Scuba Diving in Puerto Vallarta](https://vallartabyowner.com/scuba/), [Dressel Divers - Puerto Vallarta Scuba Diving](https://www.dresseldivers.com/dive/mexico/puerto-vallarta-scuba-diving/). Last updated 2026-04-04.*

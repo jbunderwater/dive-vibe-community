@@ -23,9 +23,9 @@ Gordon Reef (also spelled Gordan) is named for Colonel Gordon of the British Arm
 
 - **Location**: Straits of Tiran, northern Egyptian Red Sea, near Sharm el-Sheikh
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive with shallow wreck (MV Loullia)
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 20 meters (main dive profile; wall extends deeper)
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–35 meters
 - **Current**: Strong to very strong; essential planning required
 - **Best Time**: October to May
@@ -60,4 +60,4 @@ Gordon Reef carries genuine advanced-level risk due to current intensity. Inexpe
 The strong current makes photography challenging, but the subjects are extraordinary. Wide-angle shots of schooling hammerheads or barracuda against the intense blue of the strait are iconic Red Sea images. The wall itself is highly photogenic — the gorgonian fans and soft coral gardens are best captured with close-focus wide-angle technique.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

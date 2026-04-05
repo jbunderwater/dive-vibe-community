@@ -59,9 +59,5 @@ Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your
 
 The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [Martinique Tourism - Diving](https://www.martinique.org/en/things-to-do/water-sports-and-activities/diving), [Scuba Diving Magazine - Martinique Guide](https://www.scubadiving.com/divers-guide-martinique-shipwrecks-turtles-and-volcanic-reefs), [Guide Martinique - Spots de Plongée](https://www.guidemartinique.com/activites/plongee/spots.php), [Wannadive - Saint Pierre Martinique](https://www.wannadive.net/spot/Central_America/Martinique/Saint_Pierre/index.html), [DiveIn - Best Dive Sites in Martinique](https://www.divein.com/diving/destination/diving-in-martinique/). Last updated 2026-04-04.*

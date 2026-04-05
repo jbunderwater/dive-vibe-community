@@ -59,11 +59,5 @@ This is a protected scheduled monument under Scottish law — removal of any art
 
 The brass bridge is Scapa Flow's most photographed single feature outside the main battleships. Wide-angle shots capturing the bridge's structure and scale are the primary objective. Natural light at 25 meters is dim in Scottish waters — a powerful video light or strobe is essential. Encrusted surfaces throughout the wreck reward close-up work revealing the invertebrate communities that have colonized every surface since 1919.
 
-## Additional Resources
-
-- **Last Updated**: 2026-04-03
-
-## Sources
-
-- [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/)
-- [Scapa Flow Dive Sites — scapa-flow.co.uk](https://www.scapa-flow.co.uk/dive-site)
+---
+*Sources: [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/), [Scapa Flow Dive Sites — scapa-flow.co.uk](https://www.scapa-flow.co.uk/dive-site). Last updated 2026-04-04.*

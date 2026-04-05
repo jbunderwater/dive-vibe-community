@@ -59,9 +59,5 @@ Be aware of strong currents, jellyfish, remote locations in this area. Dive with
 
 Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [Aqua Ventures Watamu - Dive in Kenya](https://www.diveinkenya.com/), [SCUBA Travel - Kenya Diving](https://www.scubatravel.co.uk/africa/diving-kenya.html), [PADI - Diving in Kenya](https://www.padi.com/diving-in/kenya/), [Ocean Tribe - Scuba Diving Diani Kenya](https://oceantribe.co/), [African Mecca Safaris - Kenya Diving Guide](https://www.africanmeccasafaris.com/travel-guide/kenya/trip-ideas/beach/scuba-diving). Last updated 2026-04-04.*

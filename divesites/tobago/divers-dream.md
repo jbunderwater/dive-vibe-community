@@ -58,4 +58,4 @@ Moderate current requires awareness and controlled buoyancy. Plan the dive with 
 Diver's Dream's combination of good visibility, rich marine life, and manageable current creates excellent wide-angle photography conditions. School-of-fish compositions, reef shark passes, and eagle ray encounters are the signature shots. A strobe is recommended to bring out the colour depth that nutrient-rich water can suppress.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: Speyside area dive site. Last updated 2026-03-28.*

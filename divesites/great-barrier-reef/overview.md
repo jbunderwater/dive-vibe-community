@@ -38,14 +38,5 @@ Great Barrier Reef is a premier diving destination in the Oceania region, offeri
 - **Language**: English
 - **Safety**: Always dive within certification limits. Be aware of strong currents, jellyfish (box jellyfish in summer), crocodiles (north). Verify the location of the nearest hyperbaric chamber before diving.
 
-## Sources
-
-- OpenStreetMap dive site data and community contributions
-- Regional diving guides and operator information
-- Marine conservation organization reports
-- Local tourism board resources
-
 ---
-
-*Last updated: March 2026*
-*Compiled from OpenStreetMap data, regional diving knowledge, and authoritative marine sources*
+*Sources: [Great Barrier Reef Marine Park Authority](https://greatbarrierreef.org/reef-experiences/diving-the-reef/), [Pro Dive Cairns - Dive Sites](https://prodivecairns.com/divesites.html), [PADI - Diving the Great Barrier Reef](https://www.padi.com/diving-in/great-barrier-reef/), [Divezone - Great Barrier Reef](https://divezone.net/diving/great-barrier-reef), [Divernet - Southern Great Barrier Reef Guide](https://divernet.com/scuba-diving/southern-great-barrier-reef-australia-guide/). Last updated 2026-04-04.*

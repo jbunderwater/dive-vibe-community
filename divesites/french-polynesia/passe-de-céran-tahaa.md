@@ -35,4 +35,5 @@ Manta rays are the headline attraction of Passe de Céran, distinguishing it fro
 
 The manta activity is most reliable from June through October when plankton concentrations in the incoming current are highest. Book with Taha'a operators who monitor manta activity daily — Taha'a has a small but skilled diving community with detailed local knowledge. The combination of mantas and sharks in one pass dive makes Passe de Céran a must-dive for visitors to the Society Islands.
 
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: [Bluewater Dive Travel - French Polynesia](https://www.bluewaterdivetravel.com/destination/french-polynesia-diving), [PADI - Diving in French Polynesia](https://www.padi.com/diving-in/french-polynesia/), [World Adventure Divers - French Polynesia](https://worldadventuredivers.com/diving-french-polynesia/), [Air Tahiti Nui - Scuba Diving in Tahiti](https://www.airtahitinui.com/en/scuba-diving-tahiti-best-spots-islands), [Scuba Diving Magazine - French Polynesia Big Five](https://www.scubadiving.com/where-to-dive-french-polynesias-big-five). Last updated 2026-04-04.*

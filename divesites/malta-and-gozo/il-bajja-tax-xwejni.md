@@ -23,7 +23,7 @@ The dive takes place along the rocky limestone coastline of the bay, descending 
 
 - **Location**: Northwest Gozo, Malta
 - **Entry Type**: Boat dive
-- **Site Type**: Beach/reef
+- **Site Type**: Beach dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–25 meters
@@ -59,4 +59,4 @@ While more sheltered than adjacent sites, the northwest Gozo location means cond
 The shallow bay setting with good natural light penetration creates attractive wide-angle reef shots. The stepped limestone terrain and sandy floor provide varied compositions. Moray eels and octopus in the crevice zones are strong macro subjects.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [Atlantis Gozo Dive Sites](https://www.atlantisgozo.com/dive-sites/), [PADI Diving in Malta](https://www.padi.com/diving-in/malta/), [SCUBA Travel Malta Guide](https://www.scubatravel.co.uk/europe/malta-dive-in.html), [Dive Malta-Gozo](https://divemalta-gozo.com/diving-in-gozo/). Last updated 2026-04-04.*

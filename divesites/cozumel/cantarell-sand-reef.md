@@ -23,9 +23,9 @@ Cantarell Sand Reef is one of Cozumel's shallowest dive sites, with a maximum de
 
 - **Location**: Northern leeward coast, Cozumel, Quintana Roo, Mexico
 - **Entry Type**: Boat dive
-- **Site Type**: Sandy patch reef with isolated coral heads
-- **Difficulty Level**: Beginner (also excellent for snorkelling)
-- **Maximum Depth**: 10 meters (33 feet)
+- **Site Type**: Coral reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 10 meters
 - **Typical Visibility**: 20–35 meters (65–115 feet)
 - **Current**: Very light to none in the northern sheltered zone
 - **Best Time**: Year-round; the shallowness makes this diveable in almost any weather
@@ -58,9 +58,5 @@ The shallowest and most beginner-friendly site in Cozumel's standard circuit. Th
 
 Cantarell is a macro photographer's paradise. The intense natural light at 3–10 meters eliminates the need for strobe compensation. Yellowhead jawfish with eggs can be photographed with a 60mm or 100mm macro lens from close range if approached carefully. Sand tilefish emerging from their burrows are excellent behavioural subjects. Caribbean reef squid over the open sand reward patient wide-angle photographers. The clear, shallow water means exceptional image quality even from compact or GoPro systems.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [The Reefs of Cozumel - Reef Guide](https://www.reefsofcozumel.com/reefguide.html), [Cozumel Scuba - Dive Sites](https://cozumelscuba.com/cozumel-dive-sites/), [Blue Note Scuba - Cozumel Dive Sites](https://www.bluenotescuba.com/cozumel-dive-sites), [Sand Dollar Sports - Cozumel Dive Sites](https://sanddollarsports.com/activities/cozumel-dive-sites/), [Pro Dive International - Divers Guide to Cozumel](https://www.prodiveinternational.com/diving/mexico/cozumel/). Last updated 2026-04-04.*

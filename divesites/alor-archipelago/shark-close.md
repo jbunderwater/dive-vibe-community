@@ -57,9 +57,5 @@ The headwall corner concentrates current from two directions and can be challeng
 
 Shark Close is a defining site for shark photography in Alor. Wide-angle or fisheye lenses allow close-approach shots with the wall providing context behind the sharks. The key technique is patience: take up a position at the headwall, stay still, and let the sharks come to you for frame-filling compositions. Shooting toward the surface from depth silhouettes sharks against the lighter water column. The soft coral coverage on the wall also rewards medium-range wide-angle shots with the wall texture as a backdrop for the schooling fish.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Alami Alor Dive Resort Diving](https://www.alamialor.com/diving-snorkeling/scuba-diving/), [Alor Divers Resort](https://www.alor-divers.com/), [ZuBlu Scuba Diving in Alor](https://www.zubludiving.com/destination/indonesia/nusa-tenggara/alor), [Solitude World Alor Diving Guide](https://solitude.world/alor-diving-guide/), [Dive the World Alor](https://www.dive-the-world.com/diving-sites-indonesia-alor.php). Last updated 2026-04-04.*

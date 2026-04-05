@@ -59,11 +59,5 @@ This is a protected scheduled monument under the Protection of Wrecks Act 1973. 
 
 The SMS Markgraf provides Scapa Flow's most dramatic photography. The sheer bow rising from the seabed — "classic dreadnought" in form — is an image that requires a wide-angle lens and powerful lighting to even approach capturing its scale. The twin stern rudders are slightly more manageable photographically but equally impressive. These subjects require a dedicated photography dive rather than incidental photography during a general exploration dive.
 
-## Additional Resources
-
-- **Last Updated**: 2026-04-03
-
-## Sources
-
-- [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/)
-- [Scapa Flow Dive Sites — scapa-flow.co.uk](https://www.scapa-flow.co.uk/dive-site)
+---
+*Sources: [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/), [Scapa Flow Dive Sites — scapa-flow.co.uk](https://www.scapa-flow.co.uk/dive-site). Last updated 2026-04-04.*

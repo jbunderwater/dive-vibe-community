@@ -37,12 +37,5 @@ Scapa Flow is the world's premier cold-water wreck diving destination, located i
 - **Language**: English
 - **Safety**: Dry suit mandatory. Cold-water regulators essential. All dives are boat dives with shot line descent and ascent. Nitrox strongly recommended for the deeper battleships. The German Fleet wrecks are protected scheduled monuments — no artifacts may be disturbed or removed.
 
-## Sources
-
-- [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/)
-- [Scapa Flow Dive Sites — scapa-flow.co.uk](https://www.scapa-flow.co.uk/dive-site)
-- OpenStreetMap dive site data and community contributions
-
 ---
-
-*Last updated: April 2026*
+*Sources: [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/), [Scapa Flow Dive Sites — scapa-flow.co.uk](https://www.scapa-flow.co.uk/dive-site). Last updated April 2026.*

@@ -50,8 +50,5 @@ The 25-meter depth requires solid air management and depth awareness. Currents i
 ## Photography
 The deeper water means less ambient light, so higher ISO settings are necessary. Wide-angle is essential for the close manta approaches. Although flash is prohibited, the dark blue water background at depth creates dramatic silhouette compositions. Slower shutter speeds in the dimmer conditions make image stabilization valuable. This station can produce some of Yap's most striking manta images due to the deep blue backgrounds and multiple-manta compositions.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Visit Yap - Dive Sites](https://visityap.com/dive_sites.php), [Manta Ray Bay Resort - Dive Sites](https://mantaray.com/sites/), [Bluewater Dive Travel - Yap](https://www.bluewaterdivetravel.com/destination/yap-diving), [PADI - Diving in Yap](https://www.padi.com/diving-in/yap/), [Ikelite - Insider Guide to Diving Yap](https://www.ikelite.com/blogs/features/an-insiders-guide-to-diving-yap-micronesia). Last updated 2026-04-04.*

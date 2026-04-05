@@ -23,7 +23,7 @@ Named as a navigational reference on historical charts, Egeria Rocks sits near t
 
 - **Location**: Southern Balabac area, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Submerged rocks / reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-25 meters
@@ -58,9 +58,5 @@ Remote location with limited emergency access. The rocks themselves present an e
 
 Exceptional for macro work in the rock crevices — shy species that retreat at more visited sites remain approachable here. Wide-angle shots of the rock structure with backlit divers or sea fans make striking images. Shark portraits in the crevices are possible with patience.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Diving Squad Palawan Guide](https://www.divingsquad.com/philippines-diving/palawan/), [Scuba Tech Philippines - Coron Wrecks](https://scubatechphilippines.com/scuba_blog/the-shipwrecks-of-coron-wreck-diving-philippines/), [Pirate Coron Dive Sites](https://piratescoron.com/dive-sites/), [DIVE Magazine - Wrecks of Coron Bay](https://divemagazine.com/scuba-diving-travel/wrecks-of-coron-bay-philippines), [ZuBlu - Scuba Diving Coron Palawan](https://www.zubludiving.com/destination/philippines/palawan/coron). Last updated 2026-04-04.*

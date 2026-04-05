@@ -38,4 +38,4 @@ Napoleon wrasse, schools of fusiliers and bannerfish, grey reef sharks, moray ee
 As the final exit in the series, this site benefits from knowing the full circuit route — confirm the planned exit point with your divemaster before entering. If the current reverses during the dive, this exit or one of the adjacent numbered points will be selected as the appropriate egress. The Napoleon wrasse encountered here are often habituated to divers and will approach closely.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

@@ -23,9 +23,9 @@ Gili Divers Biorock is maintained by the Gili Divers operation and forms part of
 
 - **Location**: East coast Gili Trawangan, accessible from Lombok
 - **Entry Type**: Boat dive
-- **Site Type**: Reef / Biorock
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 18 m
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15–20 m
 - **Current**: Minimal
 - **Best Time**: Year-round
@@ -58,9 +58,5 @@ Standard artificial structure precautions. No touching the frame. Maintain buoya
 
 Documentary photography of reef restoration progress. Fish portraits against coral-covered steel geometry. Conservation context shots for dive logs and social media.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*

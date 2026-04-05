@@ -22,10 +22,10 @@ The Cedar Pride was a Lebanese cargo vessel that caught fire at Aqaba harbour on
 ## Site Information
 
 - **Location**: Aqaba, Jordan, northern Red Sea (Gulf of Aqaba)
-- **Entry Type**: Boat dive (also accessible from shore by a 130-metre swim)
-- **Site Type**: Wreck
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters (starboard side shallowest at 10 m; stern at 16 m; deepest point at 26–27 m)
+- **Maximum Depth**: 22 meters
 - **Typical Visibility**: 15–30 meters
 - **Current**: Generally mild
 - **Best Time**: Year-round; October to May optimal
@@ -58,9 +58,5 @@ The Cedar Pride is an accessible recreational wreck with manageable depth and ge
 
 The Cedar Pride is one of Aqaba's most photographed dive subjects. The main mast covered in soft corals with the wreck hull as background creates a classic wide-angle composition. Shooting upward from alongside the hull toward the surface light — with the encrusted hull as the foreground — captures the wreck's scale. Lionfish among soft corals are outstanding macro subjects. The interior of the holds rewards torch-assisted close-focus wide-angle shots of the glassy sweeper schools.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

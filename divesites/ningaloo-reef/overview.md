@@ -36,14 +36,5 @@ Ningaloo Reef is a notable diving destination in the Oceania region with depths 
 - **Language**: English
 - **Safety**: Always dive within certification limits. Be aware of strong currents, jellyfish (box jellyfish in summer), crocodiles (north). Verify the location of the nearest hyperbaric chamber before diving.
 
-## Sources
-
-- OpenStreetMap dive site data and community contributions
-- Regional diving guides and operator information
-- Marine conservation organization reports
-- Local tourism board resources
-
 ---
-
-*Last updated: March 2026*
-*Compiled from OpenStreetMap data, regional diving knowledge, and authoritative marine sources*
+*Sources: [Divernet Ningaloo Reef Dive Guide](https://divernet.com/world-dives/australia-oceania/ningaloo-reef-dive-guide/), [Dive Ningaloo Official Site](https://www.diveningaloo.com.au/), [SCUBA Travel Ningaloo Reef](https://www.scubatravel.co.uk/australia/ningaloo.html), [Scuba.com Ningaloo Reef Guide](https://www.scuba.com/blog/best-places-to-scuba-dive/ningaloo-reef-australia/), [Tourism Australia Ningaloo Reef Guide](https://www.australia.com/en-us/places/perth-and-surrounds/guide-to-ningaloo-reef.html). Last updated 2026-04-04.*

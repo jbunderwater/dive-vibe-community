@@ -38,4 +38,4 @@ Gorgonian sea fans (well-developed at 15-22 m), seahorses, longnose hawkfish, ba
 Descend to the sea fan zone first and examine the fan branches carefully with a torch for seahorses and hawkfish — slow down and the rewards are substantial. The outer edge at 20-22 meters is the best position to intercept passing pelagics. Ascend through the mid-reef turtle territory and finish with the anemone gardens in the shallows for a satisfying three-zone dive.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

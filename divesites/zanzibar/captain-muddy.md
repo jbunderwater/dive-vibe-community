@@ -57,9 +57,5 @@ Generally calm conditions make this a forgiving intermediate site. Current can i
 
 Green turtle portraits are the signature photography subject at Captain Muddy. The combination of good visibility, calm fish behavior, and clear Zanzibar water provides excellent conditions for natural-light turtle photography at 5-10 meters. The deeper reef sections at 15-20 meters benefit from strobes for color accuracy.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Diving in Zanzibar - Nungwi Dive Center](https://www.divinginzanzibar.com/dive-sites-map/), [PADI - Diving in Zanzibar](https://www.padi.com/diving-in/zanzibar/), [PADI - Top Dive Sites Zanzibar](https://www.padi.com/dive-sites/zanzibar/), [Bluewater Dive Travel - Zanzibar](https://www.bluewaterdivetravel.com/destination/diving-zanzibar-tanzania-kenya), [One Ocean Zanzibar](https://zanzibaroneocean.com/). Last updated 2026-04-04.*

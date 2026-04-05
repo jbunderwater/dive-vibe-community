@@ -23,9 +23,9 @@ Escape Reef is located in the Strait of Georgia north of Nanaimo near Gabriola I
 
 - **Location**: Strait of Georgia, north of Nanaimo near Gabriola Island, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Submerged reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres
 - **Current**: Tidal currents in the Nanaimo area — plan around slack
 - **Best Time**: Late spring through autumn
@@ -57,11 +57,8 @@ Tidal currents and boat traffic in the Nanaimo area are the primary concerns. Pl
 
 Octopus portraiture is the primary photographic goal at Escape Reef. Wide-angle shots of octopus on open substrate or at den entrances are outstanding. Rockfish in schooling formation above the reef against the surface glow make striking silhouette images. Macro work on sponge-covered rock finds nudibranchs, sea spiders, and colonial tunicates.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
 - Nanaimo dive operators and charter services
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

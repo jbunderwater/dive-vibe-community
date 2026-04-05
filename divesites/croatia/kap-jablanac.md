@@ -23,7 +23,7 @@ The cape drops into the clear Velebit Channel water, with the rocky reef featuri
 
 - **Location**: Jablanac, Velebit Channel, Mainland Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef/cape
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10–20 meters
@@ -59,4 +59,4 @@ Current is the primary safety consideration at this channel site. Never enter th
 Schooling sea bream and sardines in the channel current make spectacular wide-angle images. The sponge-encrusted reef face provides colourful wide-angle compositions. When conditions allow, large resident grouper portraits reward patient photographers.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*

@@ -23,9 +23,9 @@ The Philo Scoville was a Great Lakes cargo schooner that sank in Georgian Bay an
 
 - **Location**: Georgian Bay, Lake Huron, Fathom Five National Marine Park, Ontario, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 metres
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10–20 metres
 - **Water Temperature**: 4–16°C (seasonal); bottom 4–6°C
 - **Current**: Minimal
@@ -59,9 +59,5 @@ Cold bottom water at 20 metres demands proper thermal protection. Boat traffic a
 
 Fathom Five's exceptional clarity makes the Philo Scoville outstanding for wide-angle wreck photography. The full hull is visible in a single frame in good visibility. Natural light photography at 20 metres in Georgian Bay produces images with superb clarity and colour rendition.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Michigan.org - Dive Michigan Shipwrecks Underwater Preserves](https://www.michigan.org/article/trip-idea/dive-michigan-shipwrecks-these-underwater-preserves), [Great Lakes Shipwreck Preservation Society - Dive Sites](https://glsps.clubexpress.com/DiveSites), [Scuba Diving Magazine - Great Lakes Shipwrecks](https://www.scubadiving.com/great-lakes-shipwrecks-like-youve-never-seen-them-before), [Gear Patrol - Guide to Wreck Diving the Great Lakes](https://www.gearpatrol.com/archive/a162066/great-lakes-wreck-diving-guide/), [Shipwreck Explorers - Wisconsin Scuba Diving](https://www.shipwreckexplorers.com/). Last updated 2026-04-04.*

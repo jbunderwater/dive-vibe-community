@@ -23,9 +23,9 @@ Brodie Rock is located in the western approaches to Victoria in the Strait of Ju
 
 - **Location**: Strait of Juan de Fuca, west of Victoria, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Submerged rock / reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres
 - **Current**: Strong tidal currents in Juan de Fuca Strait
 - **Best Time**: Late summer and autumn
@@ -57,11 +57,8 @@ The Juan de Fuca Strait is one of BC's most challenging diving environments due 
 
 Sea lions often interact playfully with divers and make exceptional underwater photography subjects. The invertebrate-covered rock faces offer classic Pacific Northwest wide-angle compositions. For macro work, explore sponge surfaces for nudibranchs and the sediment areas around the rock base for small crabs and worms. Video with an external light system is highly effective here.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 - Victoria area dive charters for Juan de Fuca conditions
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

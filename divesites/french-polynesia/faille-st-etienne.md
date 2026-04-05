@@ -35,4 +35,5 @@ The upper part of the fissure (10–20 m) has good coral coverage with glassfish
 
 A maximum depth of 40 m means this site is suitable for Advanced Open Water divers and above. Monitor bottom time carefully and begin ascent from depth with a 3-minute safety stop at 5 m. A torch is essential for illuminating the fissure walls below 20 m.
 
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: [Bluewater Dive Travel - French Polynesia](https://www.bluewaterdivetravel.com/destination/french-polynesia-diving), [PADI - Diving in French Polynesia](https://www.padi.com/diving-in/french-polynesia/), [World Adventure Divers - French Polynesia](https://worldadventuredivers.com/diving-french-polynesia/), [Air Tahiti Nui - Scuba Diving in Tahiti](https://www.airtahitinui.com/en/scuba-diving-tahiti-best-spots-islands), [Scuba Diving Magazine - French Polynesia Big Five](https://www.scubadiving.com/where-to-dive-french-polynesias-big-five). Last updated 2026-04-04.*

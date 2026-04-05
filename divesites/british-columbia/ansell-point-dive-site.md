@@ -59,9 +59,5 @@ Tidal currents at Ansell Point can be strong on the ebb, pushing divers away fro
 
 Ansell Point wall offers outstanding macro and wide-angle opportunities. Plumose anemone colonies make for striking wide-angle compositions, while nudibranchs and GPO tentacles reward macro shooters. Ambient light is best in mid-morning when the sun is higher and reflects off the kelp canopy above. A focus light significantly improves colour rendering on the wall.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

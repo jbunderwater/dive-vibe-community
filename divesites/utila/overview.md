@@ -37,14 +37,5 @@ Utila is a premier dive destination in the Caribbean, surrounded by continuous f
 - **Language**: Spanish
 - **Safety**: Always dive within certification limits. Be aware of boat traffic, fire coral, sea urchins. Verify the location of the nearest hyperbaric chamber before diving.
 
-## Sources
-
-- OpenStreetMap dive site data and community contributions
-- Regional diving guides and operator information
-- Marine conservation organization reports
-- Local tourism board resources
-
 ---
-
-*Last updated: March 2026*
-*Compiled from OpenStreetMap data, regional diving knowledge, and authoritative marine sources*
+*Sources: [Utila Dive Center](https://utiladivecenter.com/), [Utila Cays Diving - Dive Sites](https://utilacaysdiving.com/dive-with-us/dive-sites/), [Alton's Dive Center Utila](https://diveinutila.com/), [World Adventure Divers - 10 Reasons to Dive Utila](https://worldadventuredivers.com/diving-utila/), [ZuBlu - Scuba Diving in Utila](https://www.zubludiving.com/destination/honduras/bay-islands/utila). Last updated 2026-04-04.*

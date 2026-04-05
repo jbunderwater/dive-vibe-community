@@ -23,7 +23,7 @@ The northern plateau of Sanganeb sits in the 5–20 meter depth range and is cha
 
 - **Location**: Sanganeb Atoll, Red Sea (Sudan/Egyptian liveaboard route)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef / plateau
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25-40 meters (80-130 feet)
@@ -58,9 +58,5 @@ Strong currents are possible on the exposed northern face of the atoll. Always c
 
 Sanganeb Plateau N is an outstanding wide-angle location. Schools of fish hovering over coral tables with blue water beyond are classic images. The plateau edge provides backdrops for shark photography — patience and a zoom wide-angle lens are rewarded here. The napoleons at Sanganeb are remarkably approachable and make superb portrait subjects.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

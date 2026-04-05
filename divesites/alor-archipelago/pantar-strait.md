@@ -58,9 +58,5 @@ The Pantar Strait is one of the most demanding dives in the Alor region and shou
 
 Wide-angle is mandatory here — the scale of the schooling fish and the shark encounters demands the widest coverage possible. A fisheye lens on a full-frame equivalent sensor captures hammerhead groups in their environment with the deep blue and wall providing context. The strong current means most images are taken from a stationary position with subjects moving through the frame; pre-setting exposure for mid-water ambient light and firing in bursts gives the best results. The wall itself rewards a second dive (in calmer conditions) for close-range black coral and gorgonian work.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Alami Alor Dive Resort Diving](https://www.alamialor.com/diving-snorkeling/scuba-diving/), [Alor Divers Resort](https://www.alor-divers.com/), [ZuBlu Scuba Diving in Alor](https://www.zubludiving.com/destination/indonesia/nusa-tenggara/alor), [Solitude World Alor Diving Guide](https://solitude.world/alor-diving-guide/), [Dive the World Alor](https://www.dive-the-world.com/diving-sites-indonesia-alor.php). Last updated 2026-04-04.*

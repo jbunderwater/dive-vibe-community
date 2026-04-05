@@ -57,9 +57,5 @@ Low-risk diving environment appropriate for beginner divers. Current is generall
 
 Excellent natural light conditions throughout the reef profile for ambient-light photography. Sea turtle encounters are the priority shot — approach from the side and avoid overhead fin movement. The variety of reef fish provides good subjects at every depth. Night photography of octopus and hunting lionfish is accessible and productive from this beach.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Aqua Ventures Watamu - Dive in Kenya](https://www.diveinkenya.com/), [SCUBA Travel - Kenya Diving](https://www.scubatravel.co.uk/africa/diving-kenya.html), [PADI - Diving in Kenya](https://www.padi.com/diving-in/kenya/), [Ocean Tribe - Scuba Diving Diani Kenya](https://oceantribe.co/), [African Mecca Safaris - Kenya Diving Guide](https://www.africanmeccasafaris.com/travel-guide/kenya/trip-ideas/beach/scuba-diving). Last updated 2026-04-04.*

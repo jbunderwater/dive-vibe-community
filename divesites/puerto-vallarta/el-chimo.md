@@ -52,3 +52,6 @@ Boat access only, approximately 1 hour and 45 minutes from the Puerto Vallarta m
 - The two-tank format is standard and necessary — the boat ride makes a single-tank trip impractical, and the second dive extends site exploration significantly
 - Brief conditions thoroughly with the operator before entry — surface currents affect the descent and the approach to the formations
 - Las Iglesias' arch openings are large enough for comfortable navigation but reward careful buoyancy; stay neutral to avoid disturbing the rock surfaces
+
+---
+*Sources: [Boca Divers - Puerto Vallarta Dive Sites](https://www.bocadivers.net/BocaDivers/divesites.htm), [PADI - Diving in Puerto Vallarta](https://www.padi.com/diving-in/mexico/puerto-vallarta/), [PADI - Top Dive Sites in Puerto Vallarta](https://www.padi.com/dive-sites/mexico/puerto-vallarta/), [Vallarta by Owner - Best Scuba Diving in Puerto Vallarta](https://vallartabyowner.com/scuba/), [Dressel Divers - Puerto Vallarta Scuba Diving](https://www.dresseldivers.com/dive/mexico/puerto-vallarta-scuba-diving/). Last updated 2026-04-04.*

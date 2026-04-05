@@ -23,9 +23,9 @@ Leo Reef is a rocky submerged structure in the central San Juan Islands, positio
 
 - **Location**: Central San Juan Islands, Puget Sound, Washington
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–14 metres
 - **Water Temperature**: 7–11°C
 - **Current**: Moderate tidal; plan for slack
@@ -58,9 +58,5 @@ Cold water requires dry suit with appropriate insulation. Tidal currents should 
 
 Wolf eel close-up portraits are the photographic highlight at Leo Reef. Wide-angle shots through the anemone colonies and rockfish portraits are also strong subjects. For macro work, the nudibranchs and encrusted rock faces provide endless detail. A torch and strobe combination produces the best colour fidelity at depth.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Washington Dept of Fish & Wildlife - Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [PNW Scuba - Pacific Northwest Dive Site Maps](https://www.pnwscuba.com/Pacific-Northwest-Dive-Sites/Maps), [Emerald Diving - Puget Sound Dive Sites](https://www.emeralddiving.com/local_sites_jf.html), [Scuba Diving Magazine - Seattle & Puget Sound](https://www.scubadiving.com/drive-and-dive-seattle-puget-sound), [UnderSea Adventures - Puget Sound Diving Charters](https://www.underseaadventures.net/puget-sound.htm). Last updated 2026-04-04.*

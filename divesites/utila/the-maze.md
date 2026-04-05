@@ -23,7 +23,7 @@ The Maze is one of Utila's most popular shallow reef sites, earning its name fro
 
 - **Location**: North coast of Utila, Bay Islands, Honduras
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef with complex channel topography
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 20–25 meters (65–80 feet)
@@ -58,9 +58,5 @@ One of Utila's safest dive sites. Minimal current, shallow depth, and clear natu
 
 The Maze is excellent for wide-angle reef photography given the three-dimensional coral topography. Shoot down a channel corridor lined with coral walls on both sides for a tunnel-like composition. The shallow depth and good natural light means natural-light photography is effective. Spotted drum encounters in the passages are a particularly rewarding subject. Macro subjects on the encrusted coral walls include Christmas tree worms, flamingo tongues, and small gobies.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Utila Dive Center](https://utiladivecenter.com/), [Utila Cays Diving - Dive Sites](https://utilacaysdiving.com/dive-with-us/dive-sites/), [Alton's Dive Center Utila](https://diveinutila.com/), [World Adventure Divers - 10 Reasons to Dive Utila](https://worldadventuredivers.com/diving-utila/), [ZuBlu - Scuba Diving in Utila](https://www.zubludiving.com/destination/honduras/bay-islands/utila). Last updated 2026-04-04.*

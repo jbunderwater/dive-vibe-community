@@ -23,9 +23,9 @@ Water Walk is a reef dive site in south Bali near Sanur, positioned in the shelt
 
 - **Location**: South Bali, Sanur area
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 m
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10–18 m
 - **Current**: Generally mild
 - **Best Time**: April to November
@@ -58,9 +58,5 @@ Be aware of boat traffic in the Sanur channel — deploy SMB before surfacing. S
 
 Cuttlefish portrait shots are accessible here — their colour-changing skin makes for compelling close-up images. Sea snakes create interesting mid-water compositions. Wide-angle with a diver in the frame shows the classic Bali reef character.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Aquamarine Diving - Bali Dive Sites](https://www.aquamarinediving.com/bali-diving/dive-sites/), [Dive The World - Bali Indonesia](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [Bluewater Dive Travel - Bali Diving](https://www.bluewaterdivetravel.com/destination/bali-diving), [World Adventure Divers - Best Dive Sites Bali](https://worldadventuredivers.com/best-dive-sites-bali/), [Neptune Scuba Diving - Scuba Diving Bali](https://neptunescubadiving.com/scuba-diving-bali/), [Dive The World - Bali](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [PADI - Diving in Bali](https://www.padi.com/diving-in/bali/). Last updated 2026-04-04.*

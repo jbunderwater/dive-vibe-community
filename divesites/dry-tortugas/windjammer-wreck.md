@@ -59,9 +59,5 @@ Be aware of surge, surface boat traffic, and variable visibility in this area. D
 
 The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [Florida Scuba Diving - Dry Tortugas Guide](https://www.florida-scubadiving.com/dive-the-dry-tortugas-key-west-guide-tips/), [NPS Dry Tortugas Diving](https://www.nps.gov/drto/planyourvisit/swimming-snorkeling-and-diving.htm), [Florida Keys Vacation - Dry Tortugas Diving](https://www.florida-keys-vacation.com/Dry-Tortugas-Diving.html), [Incredible Adventures Dry Tortugas](https://www.incredible-adventures.com/dry-tortugas-diving.html), [Finz Dive Center](https://finzdivecenter.com/dives/tortugas/). Last updated 2026-04-04.*

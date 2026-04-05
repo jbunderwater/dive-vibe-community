@@ -23,9 +23,9 @@ Impérieuse Rock sits in the central Strait of Georgia, an area known for strong
 
 - **Location**: Strait of Georgia, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 6-12 metres
 - **Water Temperature**: 8-12°C (drysuit recommended)
 - **Current**: Moderate to strong — check current tables
@@ -60,4 +60,4 @@ Strong tidal currents in the Strait of Georgia and significant vessel traffic ar
 Impérieuse Rock offers productive wide-angle and macro photography in calm conditions. GPO portraits and lingcod on the reef face are the standout wide-angle subjects. The encrusting invertebrate community provides colour and texture for macro work — encrusting sponges, nudibranchs, and small crustaceans are found throughout. Natural light underwater can be striking on bright winter days when visibility peaks.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

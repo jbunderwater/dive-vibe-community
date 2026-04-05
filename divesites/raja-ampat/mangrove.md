@@ -58,9 +58,5 @@ Tidal currents can flow through the mangrove zone at certain states — check ti
 
 The mangrove root systems create extraordinary framing opportunities — silhouettes of roots against ambient light filtering down from the surface make compelling wide-angle shots. The shallow depth allows natural light macro work without strobe as primary source. Juvenile fish clustering around root bases make excellent subjects. Bring both a wide-angle and macro lens setup if possible.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*

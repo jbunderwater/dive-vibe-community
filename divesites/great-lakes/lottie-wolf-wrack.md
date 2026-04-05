@@ -23,9 +23,9 @@ Georgian Bay's eastern shoreline and the waters around Collingwood saw extensive
 
 - **Location**: Georgian Bay, Lake Huron, Ontario, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 metres
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 5–10 metres
 - **Water Temperature**: 4–20°C (seasonal); bottom 4–8°C
 - **Current**: Generally mild in eastern Georgian Bay
@@ -59,9 +59,5 @@ Georgian Bay can develop significant wave action with northwest winds. Always ch
 
 Eastern Georgian Bay wreck photography in 5–10 metres visibility benefits from supplemental lighting. The 19th-century wooden hull provides excellent texture and detail for close-up shots. Ambient light photography works best on calm, sunny days.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Michigan.org - Dive Michigan Shipwrecks Underwater Preserves](https://www.michigan.org/article/trip-idea/dive-michigan-shipwrecks-these-underwater-preserves), [Great Lakes Shipwreck Preservation Society - Dive Sites](https://glsps.clubexpress.com/DiveSites), [Scuba Diving Magazine - Great Lakes Shipwrecks](https://www.scubadiving.com/great-lakes-shipwrecks-like-youve-never-seen-them-before), [Gear Patrol - Guide to Wreck Diving the Great Lakes](https://www.gearpatrol.com/archive/a162066/great-lakes-wreck-diving-guide/), [Shipwreck Explorers - Wisconsin Scuba Diving](https://www.shipwreckexplorers.com/). Last updated 2026-04-04.*

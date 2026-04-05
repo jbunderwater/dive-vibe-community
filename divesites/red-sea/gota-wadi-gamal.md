@@ -23,7 +23,7 @@ Wadi El Gemal National Park encompasses a vast stretch of coastline and offshore
 
 - **Location**: Wadi El Gemal National Park, southern Egyptian Red Sea coast (south of Marsa Alam)
 - **Entry Type**: Boat dive
-- **Site Type**: Offshore reef pinnacle within national park
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters
@@ -59,4 +59,4 @@ Standard open-water pinnacle precautions apply. Deploy an SMB before every ascen
 The turtle population makes this site exceptional for turtle portrait photography. Wide-angle shots of turtles against the colourful pinnacle background are possible and highly rewarding. The clear water allows natural-light photography to good depth. School fish compositions are productive above the reef crown.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

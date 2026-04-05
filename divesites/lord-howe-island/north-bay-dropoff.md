@@ -59,9 +59,5 @@ Be aware of strong currents, jellyfish (box jellyfish in summer), crocodiles (no
 
 Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [Lord Howe Island Official Diving Guide](https://lordhoweisland.info/experiences/snorkelling-and-diving/diving/), [Howea Divers Lord Howe Island](https://www.howeadivers.com.au/), [Dive Lord Howe Island Dive Centre](https://divelordhowe.com/), [PADI Diving in Lord Howe Island](https://www.padi.com/diving-in/australia/lord-howe-island/), [Dive Tours Australia Lord Howe Island](https://divetours.com.au/scuba-diving-australia/lord-howe-island/). Last updated 2026-04-04.*

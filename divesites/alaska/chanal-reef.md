@@ -23,9 +23,9 @@ Chanal Reef sits in the Dixon Entrance area at the southernmost edge of Alaska's
 
 - **Location**: Dixon Entrance area, Southeast Alaska
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 24 meters (79 feet)
+- **Maximum Depth**: 24 meters
 - **Typical Visibility**: 8–18 meters (26–60 feet)
 - **Current**: Strong — slack tide required
 - **Water Temperature**: 6–12°C (43–54°F)
@@ -59,9 +59,5 @@ This Advanced site requires experience with cold-water diving, dry suit use, and
 
 Chanal Reef offers outstanding macro opportunities with its concentration of nudibranchs, colonial tunicates, and anemones. Wide-angle framing of the reef profile during good visibility can capture the layered, colorful invertebrate communities. Use strobe lighting to compensate for color absorption at depth.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Dive Alaska - Anchorage Dive Operator](https://divealaska.net/), [Scuba Diving Magazine - Where to Go Scuba Diving in Alaska](https://www.scubadiving.com/where-to-go-scuba-diving-in-alaska), [Scuba Diving Magazine - Mountain Point Ketchikan](https://www.scubadiving.com/diving-alaskas-mountain-point), [Bluewater Dive Travel - Best Scuba Diving in Alaska](https://www.bluewaterdivetravel.com/destination/alaska-diving), [SSI - Scuba Diving in Alaska Guide](https://www.divessi.com/en/blog/scuba-diving-in-alaska-10373.html). Last updated 2026-04-04.*

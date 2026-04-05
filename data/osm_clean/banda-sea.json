@@ -1,0 +1,184 @@
+[
+  {
+    "name": "Lava Flow",
+    "lat": -4.523,
+    "lon": 129.868,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "bottles-up-diving.com, allstarliveaboards.com, merapitours.com"
+    }
+  },
+  {
+    "name": "Batu Kapal",
+    "lat": -4.499,
+    "lon": 129.851,
+    "depth": 50,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "bottles-up-diving.com, dive-the-world.com"
+    }
+  },
+  {
+    "name": "Batu Belanda",
+    "lat": -4.532,
+    "lon": 129.898,
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "merapitours.com, bottles-up-diving.com"
+    }
+  },
+  {
+    "name": "Pohon Miring",
+    "lat": -4.501,
+    "lon": 129.891,
+    "depth": 30,
+    "site_type": "drift",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "bottles-up-diving.com, dive-the-world.com, xray-mag.com"
+    }
+  },
+  {
+    "name": "Karang Hatta",
+    "lat": -4.611,
+    "lon": 130.107,
+    "depth": 40,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "bottles-up-diving.com, xray-mag.com"
+    }
+  },
+  {
+    "name": "Goa Hatta",
+    "lat": -4.598,
+    "lon": 130.074,
+    "depth": 50,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "xray-mag.com, bottles-up-diving.com"
+    }
+  },
+  {
+    "name": "Jackpot",
+    "lat": -4.478,
+    "lon": 129.784,
+    "depth": 40,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "xray-mag.com, bottles-up-diving.com, solitude.world"
+    }
+  },
+  {
+    "name": "Mandarin City",
+    "lat": -4.523,
+    "lon": 129.896,
+    "depth": 12,
+    "site_type": "muck",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "merapitours.com, bottles-up-diving.com, scubaboard.com"
+    }
+  },
+  {
+    "name": "Pulau Karaka",
+    "lat": -4.508,
+    "lon": 129.881,
+    "depth": 25,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "cilubintang.com, merapitours.com"
+    }
+  },
+  {
+    "name": "Batu Payung",
+    "lat": -4.431,
+    "lon": 129.768,
+    "depth": 60,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "dive-the-world.com, bottles-up-diving.com"
+    }
+  },
+  {
+    "name": "Nailaka Wall",
+    "lat": -4.545,
+    "lon": 129.622,
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "bottles-up-diving.com, merapitours.com"
+    }
+  },
+  {
+    "name": "Tanjung Cengkeh",
+    "lat": -4.537,
+    "lon": 129.912,
+    "depth": 35,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "merapitours.com, bottles-up-diving.com"
+    }
+  },
+  {
+    "name": "Manuk Island",
+    "lat": -5.533,
+    "lon": 130.293,
+    "depth": 35,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "xray-mag.com, allstarliveaboards.com, solitude.world"
+    }
+  }
+]

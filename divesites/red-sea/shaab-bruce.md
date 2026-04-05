@@ -57,9 +57,5 @@ The shallow depth and typically calm conditions make this a low-risk site. Fire 
 
 Excellent natural light throughout the day at this depth. Clownfish-anemone associations are superb close-focus wide-angle subjects with overhead light and good color saturation. Butterflyfish and parrotfish portraits benefit from the well-lit, clear shallow water. Macro work on the coral surface is productive here.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

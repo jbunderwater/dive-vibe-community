@@ -22,8 +22,8 @@ The Levanzo wreck lies at a maximum of around 20 meters depth in the open Red Se
 ## Site Information
 
 - **Location**: Central Red Sea (approximately 21.99°N, 37.05°E)
-- **Entry Type**: Boat dive (liveaboard access)
-- **Site Type**: Wreck
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-35 meters (65-115 feet)
@@ -58,4 +58,4 @@ Open Red Sea dive sites require greater self-sufficiency than coastal resort div
 A less-visited wreck in clear Red Sea water presents excellent wide-angle opportunities. Shoot along the hull length to capture scale, using a wide-angle or fisheye lens. Interior scenes with torch-lit foreground and ambient-lit background through openings create dramatic contrasts. The encrusted hull surface rewards close-up work.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

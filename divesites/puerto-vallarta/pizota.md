@@ -52,3 +52,6 @@ Boat access only from Puerto Vallarta marina, approximately 1 hour and 20 minute
 - The 1hr 20min transit justifies a two-tank dive at the site — plan with your operator to maximize bottom time at the destination
 - Moray eels at Pizota are more fully visible than at busier sites; approach slowly and without sudden movements for the best observation
 - Bring a 5mm wetsuit — thermoclines at depth can drop temperatures significantly from the warm surface layer
+
+---
+*Sources: [Boca Divers - Puerto Vallarta Dive Sites](https://www.bocadivers.net/BocaDivers/divesites.htm), [PADI - Diving in Puerto Vallarta](https://www.padi.com/diving-in/mexico/puerto-vallarta/), [PADI - Top Dive Sites in Puerto Vallarta](https://www.padi.com/dive-sites/mexico/puerto-vallarta/), [Vallarta by Owner - Best Scuba Diving in Puerto Vallarta](https://vallartabyowner.com/scuba/), [Dressel Divers - Puerto Vallarta Scuba Diving](https://www.dresseldivers.com/dive/mexico/puerto-vallarta-scuba-diving/). Last updated 2026-04-04.*

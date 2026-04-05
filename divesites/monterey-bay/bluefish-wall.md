@@ -76,3 +76,6 @@ Comply strictly with Point Lobos access restrictions. Always use an SMB on ascen
 
 ---
 *Bluefish Wall is a premier Monterey diving destination. This page has been thoroughly researched and validated. Updated 2026-03-16.*
+
+---
+*Sources: [Monterey Bay Aquarium](https://www.montereybayaquarium.org/), [Aquarius Dive Shop](https://aquariusdivers.com/guided-tours), [Bamboo Reef Diving](https://www.bambooreef.com/dive-monterey), [Monterey Scuba Board](https://montereyscubaboard.com/monterey-dive-sites/), [See Monterey](https://www.seemonterey.com/things-to-do/outdoors/scuba-diving/). Last updated 2026-04-04.*

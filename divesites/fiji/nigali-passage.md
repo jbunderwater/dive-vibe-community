@@ -58,9 +58,5 @@ Strong current in the channel is manageable if divers are positioned correctly b
 
 Nigali Passage offers one of the most sought-after grey reef shark photography opportunities in the world. Wide-angle shooting at 10–17mm captures the schooling sharks with the passage walls and blue-lit lagoon as backdrop. The key shot is looking back toward the ocean through the passage mouth with sharks silhouetted against the blue. Shoot with natural light and fast shutter speeds (1/125 or faster) to freeze shark movement in the current. Avoid strobes on wide-angle shark shots — the animals are large enough to expose well without flash, and strobes can alter shark behavior. A second dive after the main drift is often available — use it for detail shots of the coral walls and resident Napoleon wrasse.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [NAI'A Liveaboard - Fiji Dive Sites](https://www.naia.com.fj/fiji/dive-sites/), [Dive the World - Fiji](https://www.dive-the-world.com/diving-sites-fiji.php), [Bluewater Dive Travel - Fiji](https://www.bluewaterdivetravel.com/destination/fiji-diving), [PADI - Diving in Fiji](https://www.padi.com/diving-in/fiji/), [Waterlust Fiji Reef Guide](https://www.waterlustfiji.com/guide-to-fiji-diving). Last updated 2026-04-04.*

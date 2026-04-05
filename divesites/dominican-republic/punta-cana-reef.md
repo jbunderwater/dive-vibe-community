@@ -58,9 +58,5 @@ Boat traffic can be heavy in this tourist-heavy area. Always dive with a buddy a
 
 Bright, sunlit conditions at shallow depth create excellent ambient-light photography opportunities. Wide-angle shots of the reef and fish life are compelling in natural light. Macro subjects on the coral heads include cleaner shrimp, Christmas tree worms, and flamingo tongues. Turtle encounters are the highlight photo opportunity.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: PADI, Grand Bay, Scuba Diving Mag. Last updated 2026-03-28.*

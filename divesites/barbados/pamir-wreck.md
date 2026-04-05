@@ -60,4 +60,5 @@ The Pamir at 14 metres in Barbados's west coast visibility is a natural-light ph
 - West coast Barbados dive operators including Heatwave Water Sports: include the Pamir on regular dive itineraries
 - Best combined with a reef site or the Stavronikita for a two-tank day
 
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: barbados.org - Carlisle Bay wreck, accessible for experienced recreational divers. Last updated 2026-03-28.*

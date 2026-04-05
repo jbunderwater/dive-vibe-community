@@ -58,9 +58,5 @@ This is one of the calmer Galapagos dive sites, but the Advanced rating reflects
 
 Penguins underwater are the bucket-list shot. Use a wide-angle lens and shoot on high shutter speed (1/320 or faster) -- penguins move with explosive speed and blur easily. Pre-focus and shoot in bursts. The shallow depth means excellent natural light, which helps with fast shutter speeds. Pinnacle Rock above water makes a dramatic background for split-level (over-under) shots if surface conditions are calm enough. Sea lions are reliable and cooperative wide-angle subjects. The volcanic rock formations create interesting textures and backgrounds. This is exclusively a wide-angle site.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [PADI - Diving in the Galapagos Islands](https://www.padi.com/diving-in/the-galapagos-islands/), [PADI Blog - Top Dive Sites in the Galapagos](https://blog.padi.com/top-dive-sites-in-the-galapagos/), [Bluewater Dive Travel - Galapagos](https://www.bluewaterdivetravel.com/destination/galapagos-diving), [World Adventure Divers - Diving Galapagos](https://worldadventuredivers.com/diving-galapagos/), [Galapagos Safari Camp - Scuba Diving](https://www.galapagossafaricamp.com/scuba-diving-galapagos/). Last updated 2026-04-04.*

@@ -72,9 +72,5 @@ Boat entry via giant stride to the arch entrance. Your guide will advise on curr
 
 This is the premier photographic dive at Poor Knights. Fish schools create stunning wide-angle compositions. Telephoto lenses capture individual fish within the school. Backlighting creates silhouettes of fish against lighter water. The best photography occurs in the first part of the dive when fish are most dense. Neutral buoyancy is essential for steady wide-angle shots. Consider a second camera body for close-up work on smaller species.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [Wikivoyage Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands), [Dive! Tutukaka - Poor Knights Islands](https://diving.co.nz/poor-knights-islands), [New Zealand Tourism Poor Knights Islands](https://www.newzealand.com/us/poor-knights-islands/), [First Light Travel Poor Knights Dive Sites](https://www.firstlighttravel.com/nz-diving/dive-sites/poor-knights-island), [Yukon Dive Poor Knights Specialists](https://yukon.co.nz/). Last updated 2026-04-04.*

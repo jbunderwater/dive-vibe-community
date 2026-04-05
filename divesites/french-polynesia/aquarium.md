@@ -35,4 +35,5 @@ Dense aggregations of bluestripe snapper (*Lutjanus kasmira*), surgeonfish, and 
 
 Bring a wide-angle lens to capture the fish density — the schooling snapper and surgeonfish create excellent schooling shots. The site is appropriate for intermediate divers though the fish life alone makes it appealing to beginners with a divemaster escort.
 
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: [Bluewater Dive Travel - French Polynesia](https://www.bluewaterdivetravel.com/destination/french-polynesia-diving), [PADI - Diving in French Polynesia](https://www.padi.com/diving-in/french-polynesia/), [World Adventure Divers - French Polynesia](https://worldadventuredivers.com/diving-french-polynesia/), [Air Tahiti Nui - Scuba Diving in Tahiti](https://www.airtahitinui.com/en/scuba-diving-tahiti-best-spots-islands), [Scuba Diving Magazine - French Polynesia Big Five](https://www.scubadiving.com/where-to-dive-french-polynesias-big-five). Last updated 2026-04-04.*

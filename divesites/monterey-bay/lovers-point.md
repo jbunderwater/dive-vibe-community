@@ -84,10 +84,10 @@ From May 1 through September 30, the east side is closed to diving on Fridays th
 
 Monitor conditions before entering—west side can be rough in swell. Always use an SMB on ascent. Buddy contact is essential, particularly when focused on octopus hunting. The shallow depths and protected east-side option make this an excellent choice for safer, more comfortable Monterey diving.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
 - **Validation Source**: Perplexity research, California Diving News, local dive guides
 
 ---
 *Lovers Point is a versatile, welcoming Monterey dive destination suitable for all skill levels. Updated 2026-03-16.*
+
+---
+*Sources: [Monterey Bay Aquarium](https://www.montereybayaquarium.org/), [Aquarius Dive Shop](https://aquariusdivers.com/guided-tours), [Bamboo Reef Diving](https://www.bambooreef.com/dive-monterey), [Monterey Scuba Board](https://montereyscubaboard.com/monterey-dive-sites/), [See Monterey](https://www.seemonterey.com/things-to-do/outdoors/scuba-diving/). Last updated 2026-04-04.*

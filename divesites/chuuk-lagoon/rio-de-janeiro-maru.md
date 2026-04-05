@@ -66,9 +66,5 @@ The Rio de Janeiro Maru is a war grave -- all artifacts, including the bottles a
 
 The two signature shots on this wreck are the engine order telegraph and the soft coral kingpost. The telegraph is best photographed with a single strobe to bring out its detail and patina, positioned at eye level from the front. The forward kingpost soft coral cluster is best shot in wide-angle with natural light from above and strobes to capture the vivid reds against the blue water column. The scattered bottles in the holds create evocative still-life compositions with careful torch positioning. Wide-angle shots along the deck looking forward or aft emphasize the wreck's 140-meter length. The wreck's manageable depth and generally good visibility make it one of the more forgiving photography sites in Chuuk.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive The World - Chuuk Lagoon Wrecks](https://www.dive-the-world.com/diving-sites-chuuk.php), [Truk Stop Hotel - Wrecks Guide](https://www.trukstop.com/index.php/dive-center/wrecks), [Bluewater Dive Travel - Truk Lagoon Diving](https://www.bluewaterdivetravel.com/destination/truk-lagoon-diving), [Thorfinn - Top Wreck Dives in Truk Lagoon](https://thorfinn.net/exploring-the-ghost-fleet-top-wreck-dives-in-truk-lagoon-for-all-skill-levels/), [DIVE Magazine - Divers Guide to Wrecks of Truk Lagoon](https://divemagazine.com/scuba-diving-travel/divers-guide-to-the-wrecks-of-truk-lagoon), [Truk Stop Hotel - Wreck Dive Sites](https://www.trukstop.com/index.php/dive-center/wrecks), [Bluewater Dive Travel - Truk Lagoon](https://www.bluewaterdivetravel.com/destination/truk-lagoon-diving), [SSI - Diving Chuuk Lagoon Guide](https://www.divessi.com/en/blog/diving-chuuk-lagoon-7005.html), [PADI - Diving in Chuuk Truk Lagoon](https://www.padi.com/diving-in/chuuk-truk-lagoon/). Last updated 2026-04-04.*

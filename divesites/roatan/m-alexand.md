@@ -58,9 +58,5 @@ Advanced dive requiring proper buoyancy and gas management at 30 meters. Do not 
 
 The wreck's long history of encrustation makes it a compelling photography subject. Wide-angle shots of the hull covered in sponges and corals benefit from strobe fill to bring out colors. The bow or stern viewed from the side creates a classic wreck portrait composition. Macro subjects on the hull — tube worms, nudibranchs, and small invertebrates — reward a patient macro photographer.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-04-04.*

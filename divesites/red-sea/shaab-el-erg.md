@@ -57,9 +57,5 @@ Multiple boats at this site create a busy surface environment. Always deploy an 
 
 Spinner dolphins in clear shallow water are the photographic highlight. A wide or fisheye lens captures multiple dolphins in frame against the sunlit water surface. For the best results, enter the water calmly and wait — patience produces far better images than pursuit. The outer reef wall offers coral and fish photography as a secondary opportunity.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

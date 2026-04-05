@@ -23,9 +23,9 @@ The Lartington was a tramp steamer — a vessel using both sail and steam — bu
 
 - **Location**: Outer reef, Bermuda
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 10 meters (33 feet)
+- **Maximum Depth**: 10 meters
 - **Typical Visibility**: 15–25 meters (50–82 feet)
 - **Current**: Light
 - **Water Temperature**: 18–28°C (64–82°F)
@@ -59,9 +59,5 @@ The shallow depth makes this one of Bermuda's most accessible wrecks. Primary co
 
 The Lartington offers distinctive photographic material: an upturned bow almost breaking the surface, recognizable boilers amid scattered debris, and a dramatic broken propeller. Wide-angle natural light photography at 10 meters captures the full scene. Macro shots on the coral-encrusted surfaces reveal the invertebrate community that has colonized the wreck over 140 years.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Go To Bermuda - Top Dive Sites](https://www.gotobermuda.com/plan/inspiration/article/top-dive-sites-in-bermuda), [Go To Bermuda - Bermuda Shipwrecks](https://www.gotobermuda.com/plan/inspiration/article/dive-into-bermuda-shipwrecks), [Scuba Diving Magazine - Guide to Scuba Diving Bermuda](https://www.scubadiving.com/guide-to-scuba-diving-bermuda), [Blue Water Divers Bermuda - Shipwrecks](https://www.divebermuda.com/shipwrecks/), [Bermuda Attractions - Famous Shipwrecks and Dive Sites](https://www.bermuda-attractions.com/bermuda_000045.htm). Last updated 2026-04-04.*

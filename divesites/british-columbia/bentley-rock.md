@@ -23,9 +23,9 @@ Bentley Rock sits in Discovery Passage near Campbell River, one of British Colum
 
 - **Location**: Discovery Passage, Campbell River area, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Submerged rock / reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 6–15 metres
 - **Current**: Strong tidal currents — dive at slack only
 - **Best Time**: Late summer and autumn for best visibility; always at slack tide
@@ -58,11 +58,8 @@ Discovery Passage is one of the most current-prone diving areas in BC. Currents 
 
 The concentration of invertebrate life on Bentley Rock makes it excellent for wide-angle shots showing the rock structure draped in plumose anemones. Macro photographers will find nudibranchs, hermit crabs, and tube worms throughout. The blue-water column above the rock offers opportunities for silhouette shots of rockfish schools. Bring adequate lighting as depth and cold water reduce ambient light significantly.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
 - Campbell River dive charters for current timing
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

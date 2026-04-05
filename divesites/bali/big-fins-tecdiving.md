@@ -23,9 +23,9 @@ Big Fins TecDiving is a reef site in the Tulamben area near the eastern tip of B
 
 - **Location**: Near Tulamben, northeast Bali coast
 - **Entry Type**: Boat dive
-- **Site Type**: Reef / Wall
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 m
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–25 m
 - **Current**: Variable; can be strong due to Lombok Strait position
 - **Best Time**: April to November
@@ -58,9 +58,5 @@ Current can be strong and the site is exposed — abort to the shallow reef if c
 
 Bumphead parrotfish schools provide spectacular wide-angle subjects. The healthy reef with clear water makes for vivid reef photography. Fast shutter speeds are needed for the moving fish schools in current. Reef shark shots require patience and a wide-angle zoom setting.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Aquamarine Diving - Bali Dive Sites](https://www.aquamarinediving.com/bali-diving/dive-sites/), [Dive The World - Bali Indonesia](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [Bluewater Dive Travel - Bali Diving](https://www.bluewaterdivetravel.com/destination/bali-diving), [World Adventure Divers - Best Dive Sites Bali](https://worldadventuredivers.com/best-dive-sites-bali/), [Neptune Scuba Diving - Scuba Diving Bali](https://neptunescubadiving.com/scuba-diving-bali/), [Dive The World - Bali](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [PADI - Diving in Bali](https://www.padi.com/diving-in/bali/). Last updated 2026-04-04.*

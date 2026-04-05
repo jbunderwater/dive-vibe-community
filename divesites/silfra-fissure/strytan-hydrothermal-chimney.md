@@ -23,7 +23,7 @@ Strytan is the only known hydrothermal chimney accessible to scuba divers, a 55-
 
 - **Location**: Silfra Fissure, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
@@ -57,9 +57,5 @@ Be aware of cold water (north), currents, boat traffic in this area. Dive within
 
 This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [Silfra Fissure - Snorkeling and Diving in Iceland](https://www.silfrafissure.com/), [DIVE.IS - Silfra Snorkeling Day Tour](https://www.dive.is/diving-snorkeling-tours/snorkeling-day-tours/silfra-snorkeling-day-tour), [Adventures.is - Silfra Fissure](https://adventures.is/iceland/attractions/silfra-fissure/), [GO Iceland - Guide to Diving at Silfra](https://www.goiceland.com/blog/diving-snorkeling-at-silfra-fissure/), [Guide to Iceland - Silfra Travel Guide](https://guidetoiceland.is/travel-iceland/drive/silfra). Last updated 2026-04-04.*

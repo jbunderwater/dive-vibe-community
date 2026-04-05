@@ -52,3 +52,6 @@ Access is by dive boat from the Puerto Vallarta marina (about 30 minutes) or fro
 - The formation's peak at 9 meters is excellent for extended time with snapper and parrotfish on safety-stop depth
 - Bring a macro lens: the volcanic surface hosts small crustaceans and invertebrates that photograph well with a diopter
 - Often paired with the shallow El Acuario zone on a two-tank trip — do El Bajo del Cristo first while air is fresh
+
+---
+*Sources: [Boca Divers - Puerto Vallarta Dive Sites](https://www.bocadivers.net/BocaDivers/divesites.htm), [PADI - Diving in Puerto Vallarta](https://www.padi.com/diving-in/mexico/puerto-vallarta/), [PADI - Top Dive Sites in Puerto Vallarta](https://www.padi.com/dive-sites/mexico/puerto-vallarta/), [Vallarta by Owner - Best Scuba Diving in Puerto Vallarta](https://vallartabyowner.com/scuba/), [Dressel Divers - Puerto Vallarta Scuba Diving](https://www.dresseldivers.com/dive/mexico/puerto-vallarta-scuba-diving/). Last updated 2026-04-04.*

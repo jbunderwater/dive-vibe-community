@@ -22,10 +22,10 @@ Cedar Pride Shipwreck describes the same vessel as the Cedar Pride dive site —
 ## Site Information
 
 - **Location**: Aqaba Bay, Gulf of Aqaba, Jordan (~29.43°N, 34.97°E)
-- **Entry Type**: Shore dive (Aqaba waterfront entry)
-- **Site Type**: Wreck
+- **Entry Type**: Shore entry
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 27 meters (stern)
+- **Maximum Depth**: 27 meters
 - **Typical Visibility**: 15–25 meters
 - **Current**: Generally mild in Aqaba Bay
 - **Best Time**: Year-round; October to May optimal
@@ -57,9 +57,5 @@ The wreck lies in the busy shipping lane of Aqaba Bay — SMB deployment before 
 
 The Cedar Pride's iconic images are: the crow's nest at 12–15 metres encrusted with coral and surrounded by fish schools; wide-angle hull profiles showing the full port-side colonisation; and glassfish clouds in the open deck sections. The soft coral growth on the upper hull in available light provides excellent ambient wide-angle conditions without flash.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

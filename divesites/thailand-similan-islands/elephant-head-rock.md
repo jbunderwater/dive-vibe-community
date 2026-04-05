@@ -58,9 +58,5 @@ Disorientation in the boulder complex is the primary risk for inexperienced dive
 
 Elephant Head Rock may be the most photogenic site in the Similans for structural photography. The play of light through crevices and swimthrough entrances creates dramatic silhouette opportunities. A wide rectilinear lens captures the scale of the boulders relative to divers. For leopard shark portraits, approach slowly from slightly below and to the side; a mid-range zoom at the widest setting (e.g., 16–35mm equivalent) keeps sufficient depth of field. Hawksbill turtles around the boulder tops are excellent ambient-light subjects.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Similan Dive Guide](https://www.similandiveguide.com/), [Sunrise Divers - Similan Islands Dive Sites](https://www.sunrise-divers.com/dive-sites/similan-islands/), [Dive The World Thailand - Similan Islands](https://www.divetheworldthailand.com/similan-islands-diving-sites.php), [Sea Bees Diving - Scuba Diving Similans](https://sea-bees.com/scuba-diving-similans/), [Dive Happy - Diving Similan Islands Guide](https://divehappy.com/diving-similan-islands-quick-guide/). Last updated 2026-04-04.*

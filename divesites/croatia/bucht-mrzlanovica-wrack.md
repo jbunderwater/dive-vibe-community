@@ -58,4 +58,4 @@ Depth and conditions are within recreational parameters. Maintain good buoyancy 
 The contrast between bright, well-lit sandy areas and the encrusted dark hull sections creates interesting compositional opportunities. Macro subjects abound on the sponge-covered metal. Look for octopus and moray eels in the darker crevices for dramatic portrait shots.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*

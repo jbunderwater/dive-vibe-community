@@ -23,9 +23,9 @@ La Pointe de la Galère is a headland site on the southern coast of Île de Port
 
 - **Location**: Southern coast of Île de Port-Cros, Port-Cros National Park, France
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky wall / coralligenous drop-off
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 34 metres
+- **Maximum Depth**: 34 meters
 - **Typical Visibility**: 10–30 metres
 - **Water Temperature**: 13–25°C
 - **Current**: Light to moderate
@@ -58,9 +58,5 @@ Standard Mediterranean park diving protocols apply. Advanced buoyancy control pr
 
 The coralligenous wall is a rich photographic environment. Wide-angle shots along the wall face show gorgonians, sponges, and groupers in context. Macro photography of nudibranchs, coral polyps, and encrusting organisms on the rock face is highly productive. Natural light penetrates well in the upper 20 metres.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [CaPel - Port-Cros National Park Dive Sites](https://capel.portcros-parcnational.fr/en/ou-plonger/), [Parc national de Port-Cros - Plongée](https://www.portcros-parcnational.fr/fr/des-decouvertes/une-destination-dexception/la-mer-et-les-fonds-marins/plongee), [World Adventure Divers - Port-Cros](https://worldadventuredivers.com/port-cros-national-park/), [Lavandou Plongée - Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [European Diving School - Port-Cros](https://www.europeandiving.com/hyeres/diving-area/port-cros.html). Last updated 2026-04-04.*

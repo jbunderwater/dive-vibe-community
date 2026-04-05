@@ -22,8 +22,8 @@ Jesse Beazley Reef sits alone in the Sulu Sea, a submerged circular atoll whose 
 ## Site Information
 
 - **Location**: Jesse Beazley Atoll, Tubbataha Reefs Natural Park, Sulu Sea, Philippines
-- **Entry Type**: Liveaboard
-- **Site Type**: Coral atoll / reef
+- **Entry Type**: liveaboard
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-40 meters
@@ -58,9 +58,5 @@ The most remote dive site in the Tubbataha system. Current patterns around atoll
 
 Jesse Beazley offers exceptional photography on both walls. Shark aggregations are the standout subject — multiple sharks in one wide-angle frame is achievable here when it would be difficult elsewhere. Sea turtle portraits in the lagoon and manta ray encounters add to the photographic diversity.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Bluewater Dive Travel Tubbataha Reef](https://www.bluewaterdivetravel.com/destination/tubbataha-reef-diving), [Divehappy Tubbataha Reef Guide](https://divehappy.com/diving-tubbataha-reef-a-quick-guide/), [Dive The World Tubbataha Philippines](https://www.dive-the-world.com/diving-sites-philippines-tubbataha.php), [WWF Tubbataha Reef Diving](https://wwf.panda.org/discover/knowledge_hub/where_we_work/coraltriangle/coraltrianglefacts/places/tubbatahareefphilippines/diving/), [Guide to the Philippines Tubbataha Diving](https://guidetothephilippines.ph/articles/adventure-and-outdoors/tubbataha-reef-philippines-diving-guide). Last updated 2026-04-04.*

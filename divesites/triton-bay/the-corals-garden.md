@@ -59,9 +59,5 @@ The Corals Garden is one of Triton Bay's least demanding sites from a safety sta
 
 The Corals Garden is a photographer's showcase. For wide-angle work, the layered soft coral canopy with a diver silhouetted behind provides iconic Triton Bay imagery; shoot at f/8 to f/11 with twin strobes set to illuminate the foreground coral while allowing the background diver to render as a natural blue silhouette. For macro, the black coral branches at 10 to 12 meters require a 100mm lens and deliberate, controlled breathing to avoid surge-induced camera movement. The nudibranchs found throughout the reef make excellent medium-distance macro subjects on a 60mm. Crinoids and feather stars in backlight make beautiful abstract subjects at any focal length — experiment with tight crops showing the fractal detail of individual crinoid arms against a soft coral background.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Triton Bay Divers Resort](https://tritonbaydivers.com/), [ZuBlu Scuba Diving in Triton Bay](https://www.zubludiving.com/destination/indonesia/west-papua/triton-bay), [Scuba Diving Magazine Triton Bay Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-triton-bay-indonesia), [Dive the World Triton Bay](https://www.dive-the-world.com/diving-sites-indonesia-triton-bay.php), [Merapi Tours Triton Bay Dive Sites](https://www.merapitours.com/indonesia/papua/triton-bay-dive-sites). Last updated 2026-04-04.*

@@ -23,7 +23,7 @@ Positioned on a headland on Martinique's southwestern coast, Cap Enragé feature
 
 - **Location**: Southwest coast, near Le Diamant, Martinique
 - **Entry Type**: Boat dive
-- **Site Type**: Reef / rocky cape
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
 - **Typical Visibility**: 20–30 meters
@@ -58,4 +58,4 @@ Current is the primary hazard. Never attempt to dive against a strong current at
 The open-water character and current conditions suit wide-angle photography of free-swimming species. Reef shark encounters on the cape face, barracuda schools, and eagle ray passes are the highlight shots. A fast shutter speed is needed in current conditions to capture sharp images of moving subjects.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Martinique Tourism - Diving](https://www.martinique.org/en/things-to-do/water-sports-and-activities/diving), [Scuba Diving Magazine - Martinique Guide](https://www.scubadiving.com/divers-guide-martinique-shipwrecks-turtles-and-volcanic-reefs), [Guide Martinique - Spots de Plongée](https://www.guidemartinique.com/activites/plongee/spots.php), [Wannadive - Saint Pierre Martinique](https://www.wannadive.net/spot/Central_America/Martinique/Saint_Pierre/index.html), [DiveIn - Best Dive Sites in Martinique](https://www.divein.com/diving/destination/diving-in-martinique/). Last updated 2026-04-04.*

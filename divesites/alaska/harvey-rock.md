@@ -23,9 +23,9 @@ Harvey Rock is one of the named submerged rocks in the Ketchikan diving area, ri
 
 - **Location**: Ketchikan archipelago, Southeast Alaska
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef / pinnacle
+- **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters (82 feet)
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 8–18 meters (26–60 feet)
 - **Current**: Strong — slack tide required
 - **Water Temperature**: 6–12°C (43–54°F)
@@ -59,9 +59,5 @@ This is a current-dependent site where conditions can shift rapidly from calm to
 
 Harvey Rock's anemone communities and resident fish offer diverse photographic subjects. Lingcod portrait shots are achievable with patience and slow movement. Wide-angle photography of the anemone-encrusted pinnacle profile works well when visibility exceeds 12 meters. Macro opportunities abound on the bryozoan and sponge-encrusted surfaces.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Dive Alaska - Anchorage Dive Operator](https://divealaska.net/), [Scuba Diving Magazine - Where to Go Scuba Diving in Alaska](https://www.scubadiving.com/where-to-go-scuba-diving-in-alaska), [Scuba Diving Magazine - Mountain Point Ketchikan](https://www.scubadiving.com/diving-alaskas-mountain-point), [Bluewater Dive Travel - Best Scuba Diving in Alaska](https://www.bluewaterdivetravel.com/destination/alaska-diving), [SSI - Scuba Diving in Alaska Guide](https://www.divessi.com/en/blog/scuba-diving-in-alaska-10373.html). Last updated 2026-04-04.*

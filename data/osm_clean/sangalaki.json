@@ -1,0 +1,184 @@
+[
+  {
+    "name": "Manta Run",
+    "lat": 2.146124,
+    "lon": 118.33992,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "PADI, Green Nirvana Resort, AsiaDiveSite"
+    }
+  },
+  {
+    "name": "Manta Avenue",
+    "lat": 2.09,
+    "lon": 118.378,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "AsiaDiveSite, starfish.ch, Dive The World"
+    }
+  },
+  {
+    "name": "Manta Parade",
+    "lat": 2.085,
+    "lon": 118.375,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "AsiaDiveSite, starfish.ch"
+    }
+  },
+  {
+    "name": "Coral Gardens",
+    "lat": 2.08,
+    "lon": 118.358,
+    "depth": 27,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "Asia Diving Vacation, starfish.ch, Dive The World"
+    }
+  },
+  {
+    "name": "Turtle Town",
+    "lat": 2.076,
+    "lon": 118.362,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "Asia Diving Vacation, starfish.ch, Liveaboard Indonesia"
+    }
+  },
+  {
+    "name": "Barracuda Point",
+    "lat": 2.13875,
+    "lon": 118.50489,
+    "depth": 25,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "PADI, AsiaDiveSite, Green Nirvana Resort"
+    }
+  },
+  {
+    "name": "Blue Light Cave",
+    "lat": 2.13737,
+    "lon": 118.5303,
+    "depth": 65,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "Wannadive, AsiaDiveSite"
+    }
+  },
+  {
+    "name": "Kakaban Jellyfish Lake",
+    "lat": 2.137,
+    "lon": 118.497,
+    "depth": 17,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "Wikipedia, Scuba Junkie Sangalaki, AsiaDiveSite"
+    }
+  },
+  {
+    "name": "Big Fish Country",
+    "lat": 2.246857,
+    "lon": 118.639512,
+    "depth": 30,
+    "site_type": "drift",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "PADI, Green Nirvana Resort, Maratua Seaview Resort"
+    }
+  },
+  {
+    "name": "Turtle Traffic",
+    "lat": 2.19994,
+    "lon": 118.59286,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "PADI, Green Nirvana Resort"
+    }
+  },
+  {
+    "name": "Gorgonzola",
+    "lat": 2.175,
+    "lon": 118.555,
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "Scuba Junkie Sangalaki, SSI MyDiveGuide"
+    }
+  },
+  {
+    "name": "Kelapa Dua",
+    "lat": 2.155,
+    "lon": 118.51,
+    "depth": 40,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "Green Nirvana Resort, Scuba Junkie Sangalaki"
+    }
+  },
+  {
+    "name": "North Sangalou",
+    "lat": 2.045,
+    "lon": 118.24,
+    "depth": 40,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "Scuba Junkie Sangalaki, Bluewater Dive Travel"
+    }
+  }
+]

@@ -22,8 +22,8 @@ The Sataia reefs lie in the southern offshore waters, accessible from Wadi Laham
 ## Site Information
 
 - **Location**: Southern Egyptian Red Sea, offshore Wadi Lahami area
-- **Entry Type**: Boat dive (liveaboard or day charter from Wadi Lahami)
-- **Site Type**: Offshore reef pinnacle
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25–35 meters
@@ -59,4 +59,4 @@ The remote offshore environment requires careful gas management. Never surface w
 The soft-coral coverage combined with schooling fish and clear water makes this a superb wide-angle site. Close-focus wide-angle shots of soft-coral branches backed by the blue water are classic Red Sea liveaboard images. Macro subjects including nudibranchs and crinoid shrimps are found in the coral rubble between the larger structures.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

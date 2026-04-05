@@ -52,3 +52,6 @@ Shore entry is available directly from Mismaloya beach — one of the few shore-
 - Lobsters under the boulders are far more accessible than at most Pacific Mexico sites — look in every gap
 - A second dive down to the deeper pinnacles at 30m rewards experienced divers with different fish communities and cleaner water
 - The cove is calm enough for training dives even when conditions are choppy in the open bay
+
+---
+*Sources: [Boca Divers - Puerto Vallarta Dive Sites](https://www.bocadivers.net/BocaDivers/divesites.htm), [PADI - Diving in Puerto Vallarta](https://www.padi.com/diving-in/mexico/puerto-vallarta/), [PADI - Top Dive Sites in Puerto Vallarta](https://www.padi.com/dive-sites/mexico/puerto-vallarta/), [Vallarta by Owner - Best Scuba Diving in Puerto Vallarta](https://vallartabyowner.com/scuba/), [Dressel Divers - Puerto Vallarta Scuba Diving](https://www.dresseldivers.com/dive/mexico/puerto-vallarta-scuba-diving/). Last updated 2026-04-04.*

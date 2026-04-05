@@ -59,9 +59,5 @@ The remote location of Aiduma Island Wall means that medical assistance is signi
 
 Aiduma Island Wall offers superb close-focus wide-angle opportunities — individual bommies draped in soft coral and surrounded by open blue water create natural studio-like compositions. Position yourself at sand level and shoot upward toward the bommie silhouette to capture the soft coral coverage with the wall behind. For critter macro, 100mm is the lens of choice around the bommies; bring adequate strobe power for the deep, shaded environments. Black coral forests on the wall itself, shot from below with a wide lens and strobes angled in from the sides, produce dramatic deep-reef portraits.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Triton Bay Divers Resort](https://tritonbaydivers.com/), [ZuBlu Scuba Diving in Triton Bay](https://www.zubludiving.com/destination/indonesia/west-papua/triton-bay), [Scuba Diving Magazine Triton Bay Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-triton-bay-indonesia), [Dive the World Triton Bay](https://www.dive-the-world.com/diving-sites-indonesia-triton-bay.php), [Merapi Tours Triton Bay Dive Sites](https://www.merapitours.com/indonesia/papua/triton-bay-dive-sites). Last updated 2026-04-04.*

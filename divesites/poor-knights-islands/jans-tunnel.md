@@ -78,9 +78,5 @@ The dark tunnel sections offer low-light photography challenges and rewards:
 - **Entrance framing**: The tunnel entrance framed by light is a classic composition
 - **Penetration perspective**: Wide-angle looking back toward the entrance shows tunnel perspective
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [Wikivoyage Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands), [Dive! Tutukaka - Poor Knights Islands](https://diving.co.nz/poor-knights-islands), [New Zealand Tourism Poor Knights Islands](https://www.newzealand.com/us/poor-knights-islands/), [First Light Travel Poor Knights Dive Sites](https://www.firstlighttravel.com/nz-diving/dive-sites/poor-knights-island), [Yukon Dive Poor Knights Specialists](https://yukon.co.nz/). Last updated 2026-04-04.*

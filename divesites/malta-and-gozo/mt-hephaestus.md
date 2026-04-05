@@ -23,7 +23,7 @@ The tanker sits on the sandy seabed with the deck at approximately 35 metres and
 
 - **Location**: Malta–Comino Channel, Malta
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 47 meters
 - **Typical Visibility**: 20–25 meters
@@ -60,4 +60,4 @@ The 47-metre maximum depth places this dive at the advanced recreational limit. 
 The intact hull and superstructure of a recently sunk tanker create dramatic wide-angle subjects. Natural light from above illuminates the deck structures. The entry holes create light-source compositional opportunities. A torch is needed for interior shots.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [Atlantis Gozo Dive Sites](https://www.atlantisgozo.com/dive-sites/), [PADI Diving in Malta](https://www.padi.com/diving-in/malta/), [SCUBA Travel Malta Guide](https://www.scubatravel.co.uk/europe/malta-dive-in.html), [Dive Malta-Gozo](https://divemalta-gozo.com/diving-in-gozo/). Last updated 2026-04-04.*

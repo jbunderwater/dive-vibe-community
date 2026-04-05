@@ -44,4 +44,5 @@ Grey reef sharks, whitetip reef sharks, eagle rays, snapper schools, fusiliers, 
 
 A good introduction to Maldivian kandu diving for those not yet comfortable with strong currents. Enter at the outer corner and let the current carry you through the channel. Carry an SMB and brief with the boat on the drift pick-up point before entering.
 
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

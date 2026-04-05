@@ -22,8 +22,8 @@ The "drain" is a natural channel formed between reef structures in the Speyside 
 ## Site Information
 
 - **Location**: Speyside, northeast Tobago
-- **Entry Type**: Boat dive (drift)
-- **Site Type**: Deep current channel / reef
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20–35 meters
@@ -59,4 +59,4 @@ Strong current is the defining characteristic and primary safety consideration. 
 Kelleston Drain offers unparalleled Caribbean wide-angle photography. Manta rays in strong current, reef sharks in the channel passage, and coral walls swept by current create images of power and scale rarely achievable elsewhere in the Caribbean. Camera setup must be pre-completed before entry — there is no opportunity to adjust settings in the drift.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: destinationtnt.com, visittobago.gov.tt, ERIC Tobago - world's largest brain coral. Last updated 2026-03-28.*

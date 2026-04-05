@@ -57,9 +57,5 @@ The primary hazards at Ras Disha are contact animals: stonefish and scorpionfish
 
 Goby-and-shrimp pairs in the sandy zone are highly prized macro subjects — a macro lens and very slow, patient approach from a prone position produces the best results. Glassfish clouds in the pinnacle crevices reward torch-assisted wide-angle shots. Scorpionfish portraits in their camouflaged setting are available throughout the site. Eagle rays at the outer wall section are fast-action wide-angle subjects requiring pre-positioned anticipation.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

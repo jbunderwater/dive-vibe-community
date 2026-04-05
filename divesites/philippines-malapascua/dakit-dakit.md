@@ -23,7 +23,7 @@ Dakit-Dakit is a very shallow pinnacle dive site off Malapascua Island, known fo
 
 - **Location**: Near Malapascua Island, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Shallow pinnacle / reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 8-20 meters
@@ -58,9 +58,5 @@ The shallow depth minimises decompression risk. Standard boat diving precautions
 
 The ideal macro photography site in the Malapascua area. Extended bottom time at 12 meters allows thorough searching for nudibranchs, flatworms, frogfish, and other cryptic subjects. The excellent natural light eliminates the need for flash in most conditions. Night diving here transforms the site with different behaviour and species.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Malapascua Thresher Shark Divers - Dive Sites](https://malapascua-diving.com/malapascua/dive-sites/), [ZuBlu Thresher Sharks of Malapascua](https://www.zubludiving.com/articles/zublu-insights/thresher-sharks-of-malapascua), [Thresher Shark Divers Resort](https://thresher-shark-divers.com/), [Diving Squad Malapascua Guide](https://www.divingsquad.com/philippines-diving/cebu/malapascua/), [Divernet Malapascua Diving Guide](https://divernet.com/world-dives/asia/malapascua-diving-guide-philippines/). Last updated 2026-04-04.*

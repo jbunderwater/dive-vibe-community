@@ -49,14 +49,5 @@ Norway Lofoten Islands is a premier Arctic diving destination in northern Norway
 - **Language**: Norwegian; English widely spoken
 - **Safety**: Always dive within certification limits. Dive with buddy system. Carry safety sausage. Respect Arctic weather and currents. Verify nearest decompression chamber: Tromsø (approximately 350km). Plan conservative dive profiles for cold-water exposure.
 
-## Sources
-
-- OpenStreetMap dive site data and community contributions
-- Regional diving guides and operator information
-- Marine conservation organization reports
-- Local tourism board resources
-
 ---
-
-*Last updated: March 2026*
-*Compiled from OpenStreetMap data, regional diving knowledge, and authoritative marine sources*
+*Sources: [Lofoten Diving AS](https://lofoten-diving.no/), [X-Ray Mag - Diving Lofoten Norway](https://xray-mag.com/content/diving-lofoten-norway), [Scuba Diver Life - Diving in Lofoten Norway](https://scubadiverlife.com/diving-lofoten-norway/), [Visit Lofoten - Diving and Snorkeling](https://visitlofoten.com/en/topic/diving-and-snorkeling-in-lofoten/), [DeeperBlue - Top 6 Dive Sites in Norway](https://www.deeperblue.com/top-6-dive-sites-norway/). Last updated 2026-04-04.*

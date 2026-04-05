@@ -59,4 +59,4 @@ While gentler than Komodo's advanced sites, currents can develop around Gaja Roc
 The compact size of Gaja Rock means a single dive covers multiple photographic habitats. Wide-angle captures the full rock form and its soft coral coverage; macro rewards detailed investigation of the coral faces. The sandy base with its gobies and the possibility of a resting shark make attractive secondary subjects.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive Komodo - Dive Sites](https://divekomodo.com/dive-sites-komodo/), [Dragon Dive Komodo - Top 10 Dive Sites](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [World Adventure Divers - Diving in Komodo](https://worldadventuredivers.com/diving-in-komodo/), [Dive Komodo National Park](https://divekomodonationalpark.com/), [Blue Marlin Dive - Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/). Last updated 2026-04-04.*

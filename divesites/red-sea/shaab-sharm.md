@@ -57,9 +57,5 @@ As with all outer Red Sea sites, divers must be prepared for self-sufficient ope
 
 The central Red Sea outer shelf typically offers slightly less surge than northern coastal sites, providing stable conditions for photography. Reef landscape shots benefit from the reliable 25–30 metre visibility. Turtles on the shallow platform photograph well in natural light during midday.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

@@ -58,9 +58,5 @@ Be aware of strong currents, fire coral, lionfish stings in this area. Dive with
 
 This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [Al Boom Diving - Fujairah](https://www.alboomdiving.com/en/fujairah-diving-trip), [PADI - Top Dive Sites in Fujairah](https://www.padi.com/dive-sites/fujairah/), [Freestyle Divers - Fujairah Dive Sites](http://freestyledivers.me/uae-dive-sites/fujairah-dive-sites/), [Chloe Blue Scuba - Beginner Guide to Fujairah](https://www.chloebluescubadiving.com/post/a-beginner-s-guide-to-scuba-diving-in-fujairah), [Divers Down UAE - Pleasure Diving Fujairah](https://www.diversdownuae.com/pleasure-diving-fujeirah/). Last updated 2026-04-04.*

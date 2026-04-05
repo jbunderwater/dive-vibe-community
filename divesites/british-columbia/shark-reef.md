@@ -23,9 +23,9 @@ Shark Reef sits in the active channel systems between the southern Gulf Islands 
 
 - **Location**: Southern Gulf Islands area, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 6–15 metres
 - **Current**: Moderate to strong; tide-dependent
 - **Best Time**: July to October
@@ -58,4 +58,4 @@ Pacific spiny dogfish have small but sharp dorsal spines and teeth — do not at
 Schooling dogfish photography is unique and dramatic — wide-angle shots of multiple animals resting together or moving in loose formation are impressive. Lingcod portrait photography is excellent given the site's resident population. Sandy zone flatfish camouflage shots require patience.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

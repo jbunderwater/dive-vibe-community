@@ -58,9 +58,5 @@ Advanced rating due to depth and the enclosed fissure system. Good buoyancy cont
 
 The fissure walls covered in black coral at recreational depth are exceptional photography subjects. Wide-angle shots up through the crack toward the blue surface create dramatic compositions. A torch or video light is needed to illuminate the interior at depth. Eagle rays on the main wall are the outstanding open-water subject. Frame the fissure entrance from outside looking in for a perspective shot that conveys the site's scale.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Coconut Tree Divers – Roatan Dive Sites](https://coconuttreedivers.com/scuba-diving-roatan/over-80-dive-sites-to-visit-in-caribbean-roatan-honduras/), [CoCo View Resort – Dive Sites](https://www.cocoviewresort.com/diving/divesites/), [Splash Inn Dive Resort – Roatan Diving Sites](https://roatansplashinn.com/en/roatan/roatan-diving-sites/), [Roatan-Diving.com – Dive Sites](https://roatan-diving.com/dive-sites), [Octopus Dive School – Roatan Dive Sites](https://roatan-octopusdiveschool.com/dive-sites-roatan/). Last updated 2026-04-04.*

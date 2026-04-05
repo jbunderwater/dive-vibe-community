@@ -58,4 +58,4 @@ Current can develop on the exposed faces of the reef — stay oriented throughou
 The compact size of Poseidon Reef means it can be covered thoroughly in a single dive, allowing time to photograph a variety of subjects. Wide-angle reef-scape photography works well along the sloping walls. humphead wrasse offer cooperative wide-angle portrait subjects. The sandy base hosts camouflaged subjects like crocodilefish and scorpionfish that reward careful searching. Anthias shoals over the reef crest photograph beautifully in natural light.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

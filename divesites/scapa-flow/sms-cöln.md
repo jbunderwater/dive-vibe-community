@@ -59,11 +59,5 @@ The 36-meter depth requires attention to no-decompression limits in cold water. 
 
 The SMS Cöln is considered Scapa Flow's most photogenic light cruiser for wide-angle photography due to her intact structural features and clear orientation. The ship's deck rails, gun mounts, and superstructure details provide varied subjects. Natural light penetration at 22–25 meters is poor in Scottish waters — a powerful artificial light source is necessary. The "living museum" quality of the intact hull structure creates atmospheric compositions.
 
-## Additional Resources
-
-- **Last Updated**: 2026-04-03
-
-## Sources
-
-- [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/)
-- [Scapa Flow Dive Sites — scapa-flow.co.uk](https://www.scapa-flow.co.uk/dive-site)
+---
+*Sources: [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/), [Scapa Flow Dive Sites — scapa-flow.co.uk](https://www.scapa-flow.co.uk/dive-site). Last updated 2026-04-04.*

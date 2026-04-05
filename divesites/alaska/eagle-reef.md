@@ -23,9 +23,9 @@ Eagle Reef lies in the tidal system south of Juneau, where freshwater draining f
 
 - **Location**: South of Juneau, Southeast Alaska
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 24 meters (79 feet)
+- **Maximum Depth**: 24 meters
 - **Typical Visibility**: 6–15 meters (20–50 feet)
 - **Current**: Moderate to strong — slack tide required
 - **Water Temperature**: 4–11°C (39–52°F)
@@ -59,9 +59,5 @@ The proximity of glacial meltwater to Eagle Reef means visibility can drop unexp
 
 Eagle Reef's anemone communities and rockfish populations offer excellent subjects. Wide-angle shots of the reef face illuminated by strobes show the full color spectrum that ambient light suppresses. Giant Pacific octopus, when found, are compelling portrait subjects that are capable of dramatic color changes.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Dive Alaska - Anchorage Dive Operator](https://divealaska.net/), [Scuba Diving Magazine - Where to Go Scuba Diving in Alaska](https://www.scubadiving.com/where-to-go-scuba-diving-in-alaska), [Scuba Diving Magazine - Mountain Point Ketchikan](https://www.scubadiving.com/diving-alaskas-mountain-point), [Bluewater Dive Travel - Best Scuba Diving in Alaska](https://www.bluewaterdivetravel.com/destination/alaska-diving), [SSI - Scuba Diving in Alaska Guide](https://www.divessi.com/en/blog/scuba-diving-in-alaska-10373.html). Last updated 2026-04-04.*

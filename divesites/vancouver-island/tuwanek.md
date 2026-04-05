@@ -69,10 +69,7 @@ This is an intermediate-level site with the following:
 
 This site is exceptional for macro photography of nudibranchs, feather stars, and other invertebrates. Wide-angle shots of the islet formations and walls create dramatic compositions. Octopus and eel encounters provide unforgettable subjects. The calm water often creates excellent visibility for photography.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
 - **Validation Source**: Web research (2026-03)
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving research. Last updated 2026-03-16.*
+*Sources: [ScubaBC](https://www.scubabc.ca/), [Vancouver Island Dive Sites](http://www.vancouver-island-dive-sites.com/), [Scuba Diving Magazine - BC Top 10](https://www.scubadiving.com/travel/canada/british-columbias-top-10-dives), [Pacific Pro Dive Shore Maps](https://pacificprodive.com/pages/dive-maps), [Vancouver Island North Diving](https://vancouverislandnorth.ca/activity-type/things-to-do/sports-activities/diving/). Last updated 2026-04-04.*

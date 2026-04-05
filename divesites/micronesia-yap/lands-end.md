@@ -50,8 +50,5 @@ Land's End is Yap's most demanding dive site. Currents are strong, unpredictable
 ## Photography
 Wide-angle is the only viable option. The subject matter -- sharks, rays, tuna -- demands fast shutter speeds (1/250 or higher) and the ability to shoot quickly as animals pass. Stabilizing in current is the main challenge, so a reef hook frees both hands for camera work. Ambient light exposures with the deep blue water background produce dramatic images. Strobes are useful for filling in color on passing marine life but keep recycle time short for rapid-fire shooting. Some of Yap's most dramatic shark images come from Land's End on high-current days.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Visit Yap - Dive Sites](https://visityap.com/dive_sites.php), [Manta Ray Bay Resort - Dive Sites](https://mantaray.com/sites/), [Bluewater Dive Travel - Yap](https://www.bluewaterdivetravel.com/destination/yap-diving), [PADI - Diving in Yap](https://www.padi.com/diving-in/yap/), [Ikelite - Insider Guide to Diving Yap](https://www.ikelite.com/blogs/features/an-insiders-guide-to-diving-yap-micronesia). Last updated 2026-04-04.*

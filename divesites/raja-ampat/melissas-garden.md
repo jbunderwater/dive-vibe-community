@@ -58,9 +58,5 @@ The shallow nature of Melissa's Garden makes it relatively forgiving from a dept
 
 Wide-angle photography here is exceptional. A 16mm or 14mm lens captures the sweep of the staghorn forest with divers in the background, conveying the garden's scale. Shooting horizontally across the reef flat at the level of the coral tops, with a diver silhouetted against the blue water column, produces iconic imagery. Natural light at 10 meters is abundant during morning hours. The acropora colors range from pale cream to vivid purple and blue.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*

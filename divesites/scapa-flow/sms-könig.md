@@ -59,11 +59,5 @@ This is a protected scheduled monument under the Protection of Wrecks Act 1973. 
 
 The SMS König's gun turrets and hull structure, despite extensive salvage, remain powerful photographic subjects conveying the scale of these dreadnoughts. The historical weight of the Battle of Jutland story connects the visual subject to one of history's most significant naval engagements. Powerful artificial lighting is essential at 42 meters. Wide-angle lenses with moderate strobe distance capture the most dimensional images of the hull structures.
 
-## Additional Resources
-
-- **Last Updated**: 2026-04-03
-
-## Sources
-
-- [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/)
-- [Scapa Flow Dive Sites — scapa-flow.co.uk](https://www.scapa-flow.co.uk/dive-site)
+---
+*Sources: [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/), [Scapa Flow Dive Sites — scapa-flow.co.uk](https://www.scapa-flow.co.uk/dive-site). Last updated 2026-04-04.*

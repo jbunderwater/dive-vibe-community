@@ -50,8 +50,5 @@ This is one of Palau's safest dive sites. The shallow depth, calm conditions, an
 ## Photography
 Lighthouse Channel is a dedicated macro photography site. A 60mm or 100mm macro lens with a diopter is ideal for mandarin fish and nudibranchs. Use a snoot or focused beam for dramatic lighting on small subjects. For mandarin fish, manual focus and patience are essential -- the fish are fast and the display brief. Ghost pipefish and seahorses photograph best with careful positioning and slow, gentle approaches. Night photography here is exceptional, with Spanish dancers and active invertebrates providing vivid subjects against the dark background. Wide-angle has limited application at this site.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Palau Dive Adventures](https://palaudiveadventures.com/best-dive-sites-palau/), [Bluewater Dive Travel - Palau](https://www.bluewaterdivetravel.com/destination/palau-diving), [Dive the World - Palau](https://www.dive-the-world.com/diving-sites-palau.php), [PADI - Diving in Palau](https://www.padi.com/diving-in/palau/), [Pristine Paradise Palau](https://pristineparadisepalau.com/dive-palau/). Last updated 2026-04-04.*

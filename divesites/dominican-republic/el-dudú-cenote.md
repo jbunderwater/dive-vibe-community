@@ -23,7 +23,7 @@ El Dudú is a large freshwater sinkhole near Cabrera on the Dominican Republic's
 
 - **Location**: Dominican Republic, Caribbean
 - **Entry Type**: Shore entry
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
@@ -56,9 +56,5 @@ Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your
 
 This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: CaveAtlas, Cave-diving.do, Scuba Dominicana. Last updated 2026-03-16.*

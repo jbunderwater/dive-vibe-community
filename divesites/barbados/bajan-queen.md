@@ -60,4 +60,5 @@ The accessible depth and calm bay conditions make the Bajan Queen suitable for n
 - Barbados Blue and Heatwave Water Sports: include the Bajan Queen on Carlisle Bay wreck tours
 - Best combined with the established Carlisle Bay wreck cluster for a full wreck diving day
 
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: caribbeanwarehouse.co.uk, diveoclock.com - Former tugboat 'Pelican' then party boat, sunk May 19 2002, 35ft depth (11m), Carlisle Bay Marine Park. Last updated 2026-03-28.*

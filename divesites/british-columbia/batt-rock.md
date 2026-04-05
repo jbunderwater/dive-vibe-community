@@ -23,7 +23,7 @@ Batt Rock is a submerged rock pinnacle in the central Gulf Islands, rising from 
 
 - **Location**: Central Gulf Islands, Saltspring Island area, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8-12 meters (25-40 feet)
@@ -59,9 +59,5 @@ The open-water position of Batt Rock means tidal current affects the site from m
 
 Plumose anemone coverage at Batt Rock rewards wide-angle shooters. Position close to the rock face with the anemone-covered walls behind your subject for impactful images. The lingcod are patient subjects and will tolerate a slow approach. Nudibranchs and tube worms on the rock surface are excellent macro subjects.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

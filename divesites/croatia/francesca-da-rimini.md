@@ -59,4 +59,4 @@ The 50-metre maximum depth puts this firmly in Advanced territory. Divers must b
 The canted hull rising from the sandy bottom makes a dramatic wide-angle subject. Sponge-encrusted anchor chains and portholes photographed with a strobe bring out vivid colours. A model diver silhouetted against natural light filtering down from above creates memorable images.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*

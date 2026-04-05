@@ -50,8 +50,5 @@ Peliliu Corner is one of Palau's most demanding dives due to the combination of 
 ## Photography
 Wide-angle is the only sensible lens choice at Peliliu Corner. The shark aggregations are best captured when divers are hooked in and the sharks approach on the current -- shoot into the blue with the sharks overhead for dramatic compositions. The pristine wall provides excellent backdrop with dense coral growth. The exceptional visibility on good days allows ambient-light shooting at distance. Eagle ray passes and barracuda schools offer action sequences. The remoteness and pristine conditions yield images with a wild, unspoiled quality that distinguishes this site from Palau's more visited locations.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Palau Dive Adventures](https://palaudiveadventures.com/best-dive-sites-palau/), [Bluewater Dive Travel - Palau](https://www.bluewaterdivetravel.com/destination/palau-diving), [Dive the World - Palau](https://www.dive-the-world.com/diving-sites-palau.php), [PADI - Diving in Palau](https://www.padi.com/diving-in/palau/), [Pristine Paradise Palau](https://pristineparadisepalau.com/dive-palau/). Last updated 2026-04-04.*

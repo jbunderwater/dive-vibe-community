@@ -23,7 +23,7 @@ The northern point of Malapascua Island is exposed to open ocean conditions from
 
 - **Location**: Northern tip of Malapascua Island, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 10-25 meters
@@ -58,9 +58,5 @@ Advanced currents, 35-meter depth, and open-ocean exposure make this a genuinely
 
 The strong current brings dramatic fish schooling scenes that are exceptional photographic subjects. Wide-angle shooting of barracuda and jack schools against the pinnacle face is the highlight. Shark portraits in the deeper sections are possible on days when the large animals are present and approachable.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Malapascua Thresher Shark Divers - Dive Sites](https://malapascua-diving.com/malapascua/dive-sites/), [ZuBlu Thresher Sharks of Malapascua](https://www.zubludiving.com/articles/zublu-insights/thresher-sharks-of-malapascua), [Thresher Shark Divers Resort](https://thresher-shark-divers.com/), [Diving Squad Malapascua Guide](https://www.divingsquad.com/philippines-diving/cebu/malapascua/), [Divernet Malapascua Diving Guide](https://divernet.com/world-dives/asia/malapascua-diving-guide-philippines/). Last updated 2026-04-04.*

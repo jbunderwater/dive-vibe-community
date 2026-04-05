@@ -61,10 +61,10 @@ Monterey Bay's year-round water temperature of 50-55°F requires proper thermal 
 
 Monitor water temperature and thermal protection carefully. The kelp canopy can disorient inexperienced divers—stay near structures or use compass bearings. Watch for boat traffic along the breakwater and maintain awareness of surge conditions. Always use a surface marker buoy (SMB). Buddy contact is essential in kelp.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
 - **Validation Source**: Perplexity research, local dive operators
 
 ---
 *Breakwater Cove has been thoroughly researched and validated against local dive conditions and marine reports. Updated 2026-03-16.*
+
+---
+*Sources: [Monterey Bay Aquarium](https://www.montereybayaquarium.org/), [Aquarius Dive Shop](https://aquariusdivers.com/guided-tours), [Bamboo Reef Diving](https://www.bambooreef.com/dive-monterey), [Monterey Scuba Board](https://montereyscubaboard.com/monterey-dive-sites/), [See Monterey](https://www.seemonterey.com/things-to-do/outdoors/scuba-diving/). Last updated 2026-04-04.*

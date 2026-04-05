@@ -23,9 +23,9 @@ Imrie Island is a small island in the central Gulf Islands between Salt Spring I
 
 - **Location**: Central Gulf Islands, Haro Strait area, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky island reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres
 - **Current**: Moderate tidal currents in the Gulf Islands
 - **Best Time**: Late spring through autumn
@@ -57,11 +57,8 @@ Tidal currents in the Gulf Islands can be significant. Monitor current timing ca
 
 Island perimeter dives offer diverse photographic compositions — from wide-angle reef scenes to tight macro shots. Lingcod resting on horizontal rock with encrusting sponge backgrounds are strong subjects. Octopus in crevice entrances make compelling images. Harbour seals underwater are particularly photogenic in clear Gulf Islands water.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
 - Sidney area dive operators
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

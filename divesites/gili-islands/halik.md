@@ -22,10 +22,10 @@ Halik Reef is on the northwest side of Gili Trawangan and offers a drift dive su
 ## Site Information
 
 - **Location**: Northwest Gili Trawangan, Gili Islands
-- **Entry Type**: Boat dive (drift)
-- **Site Type**: Drift / Reef
+- **Entry Type**: Boat dive
+- **Site Type**: Drift dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 18 m (upper sections; deeper available for advanced)
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15–25 m
 - **Current**: Moderate; consistent drift current
 - **Best Time**: May to October
@@ -58,9 +58,5 @@ Drift current is always running — do not attempt to fight it or swim upstream.
 
 Giant barrel sponges framing smaller fish make excellent wide-angle subjects. Eagle rays in clear water suit wide-angle with fast shutter speed. Clownfish portraits in large anemones are accessible throughout the drift.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Manta Dive Gili Islands](https://manta-dive.com/diving-gili-trawangan/gili-dive-sites/), [Gili Divers Dive Sites](https://www.gilidivers.com/fun-dives/dive-sites), [PADI Gili Islands](https://www.padi.com/diving-in/indonesia/gili-islands/), [Manta Dive Gili Air](https://manta-dive-giliair.com/gili-islands-dive-sites), [Terumbu Divers Gili Sites](https://terumbudivers.com/fun-dives-2/dive-sites-gili-islands-lombok/). Last updated 2026-04-04.*

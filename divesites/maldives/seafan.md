@@ -30,4 +30,5 @@ The defining feature of this site is the concentration of large orange and red s
 
 Slow, careful buoyancy control is essential to avoid damaging the fragile sea fan structures. A macro lens setup will capture the fine detail of pygmy seahorses and the invertebrates living on the fans. The moderate current at this site is typically manageable but can increase during mid-tide, so scheduling the dive for the last hour of the incoming or outgoing tide gives the best conditions.
 
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

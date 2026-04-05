@@ -23,7 +23,7 @@ The Hoi Siong No. 6 is a former fishing vessel deliberately sunk in 2003 as an a
 
 - **Location**: Mauritius, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 29 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
@@ -59,9 +59,5 @@ Be aware of strong currents, jellyfish, remote locations in this area. Dive with
 
 The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [PADI - Top Dive Sites in Mauritius](https://blog.padi.com/top-10-dive-sites-in-mauritius/), [Bluewater Dive Travel - Mauritius](https://www.bluewaterdivetravel.com/destination/mauritius-diving), [Pro Dive Mauritius - Dive Sites](https://prodivemauritius.com/dive-sites/), [Mauritius Inside Out - Diving](https://www.mauritiusinsideout.com/diving-in-mauritius.html), [The Broke Backpacker - Best Diving in Mauritius](https://www.thebrokebackpacker.com/best-diving-in-mauritius-guide/). Last updated 2026-04-04.*

@@ -60,4 +60,5 @@ The finger-like spur topography provides strong compositional leading lines for 
 - STENAPA: stenapafoundation.com — dive site maps and conditions
 - Golden Rock Dive Center: guided dives at Five Fingers South
 
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: PADI, lava bombs with macro diving opportunities. Last updated 2026-03-28.*

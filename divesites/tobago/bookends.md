@@ -23,7 +23,7 @@ Located off the northeast coast near Speyside village, Bookends features two dis
 
 - **Location**: Speyside area, northeast Tobago
 - **Entry Type**: Boat dive
-- **Site Type**: Twin reef formations with sandy channel
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15–25 meters
@@ -58,4 +58,4 @@ Current can strengthen in the channel between the formations — be aware of dir
 The sandy channel between formations provides clean backgrounds for eagle ray and stingray portraits. Wide-angle shots spanning both reef formations in a single frame are possible from the channel mid-point. The nutrient-rich water benefits from a strobe or video light for true colour reproduction.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: Speyside area dive site. Last updated 2026-03-28.*

@@ -59,4 +59,4 @@ The Point is the most current-affected of the Agincourt sites. Monitor your posi
 The Point's current-driven marine activity creates outstanding opportunities for pelagic fish schools against the open water blue. Position yourself at the reef edge and let the schools come to you. The gorgonian sea fans on the deeper face are excellent for diver-in-context wide-angle images.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Great Barrier Reef Marine Park Authority](https://greatbarrierreef.org/reef-experiences/diving-the-reef/), [Pro Dive Cairns - Dive Sites](https://prodivecairns.com/divesites.html), [PADI - Diving the Great Barrier Reef](https://www.padi.com/diving-in/great-barrier-reef/), [Divezone - Great Barrier Reef](https://divezone.net/diving/great-barrier-reef), [Divernet - Southern Great Barrier Reef Guide](https://divernet.com/scuba-diving/southern-great-barrier-reef-australia-guide/). Last updated 2026-04-04.*

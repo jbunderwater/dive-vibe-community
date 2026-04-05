@@ -23,7 +23,7 @@ Submerged banks like Moore Bank are formed by ancient reef systems now lying ben
 
 - **Location**: Zanzibar Channel, southwest of Zanzibar Island, Tanzania
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef (submerged bank)
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15-20 meters (50-65 feet)
@@ -57,9 +57,5 @@ Channel position means currents can change in direction and strength with tidal 
 
 The bank's top provides excellent ambient-light photography conditions for schools of fish and reef scenes. Wide-angle shots across the bank top with fish in the mid-water above coral heads produce classic Indian Ocean reef images. The potential for whale shark encounters rewards having a wide-angle setup ready throughout the dive.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*

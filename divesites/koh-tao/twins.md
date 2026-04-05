@@ -23,9 +23,9 @@ Twins consists of two main coral-covered pinnacle formations (and a smaller thir
 
 - **Location**: Near Koh Nang Yuan, northwest Koh Tao, Gulf of Thailand
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 18 m
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10–18 m
 - **Current**: Generally mild
 - **Best Time**: May to August
@@ -58,9 +58,5 @@ Conditions are generally easy and current is mild. Titan triggerfish can nest in
 
 Clownfish portraits in anemones are the classic Twins photograph — bright subjects in colourful settings. Wide-angle shots of both pinnacles together require a fisheye or ultra-wide lens. The sandy channel shots between pinnacles with stingrays are achievable with a wide-angle close-focus approach.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Koh Tao Complete Guide - Best Dive Sites](https://www.kohtaocompleteguide.com/diving/koh-tao-dive-sites/), [Sairee Cottage Diving - Koh Tao Dive Sites Complete Guide](https://www.saireecottagediving.com/koh-tao-dive-sites-complete-guide-to-26-incredible-locations/), [Big Blue Diving Koh Tao](https://www.bigbluediving.com/), [PADI - Diving in Koh Tao](https://www.padi.com/diving-in/koh-tao/), [Dive Happy - Koh Tao Dive Sites Guide](https://divehappy.com/). Last updated 2026-04-04.*

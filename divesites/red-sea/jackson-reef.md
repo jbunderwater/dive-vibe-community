@@ -22,10 +22,10 @@ Jackson Reef rises steeply from the seabed to within a few meters of the surface
 ## Site Information
 
 - **Location**: Strait of Tiran, northern Red Sea, Egypt
-- **Entry Type**: Boat dive (liveaboard or day boat from Sharm el-Sheikh)
+- **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters (recreational limit; wall continues deeper)
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 25-40 meters (80-130 feet)
 - **Current**: Strong tidal currents, direction depends on tide
 - **Best Time**: September to May (summer winds can disrupt access)
@@ -60,4 +60,4 @@ Currents at Jackson Reef can be strong and unpredictable due to tidal flows thro
 The combination of wide-angle wall scenery and pelagic encounters makes Jackson Reef an outstanding photography site. Shoot the open-water schooling hammerheads with a wide angle and good ambient light in the morning hours. The Lara wreck above the waterline makes a dramatic surface break shot. On the wall, soft corals in orange and red tones photograph well against the deep blue background with strobe fill.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

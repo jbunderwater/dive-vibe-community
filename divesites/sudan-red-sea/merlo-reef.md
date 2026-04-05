@@ -22,10 +22,10 @@ Merlo Reef rises from deep water roughly 70 km north of Port Sudan in the same n
 ## Site Information
 
 - **Location**: Offshore northern Sudan Red Sea, ~70 km north of Port Sudan
-- **Entry Type**: Boat dive (liveaboard)
+- **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters (recreational; wall descends much deeper)
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Moderate to strong
 - **Best Time**: October to May
@@ -58,9 +58,5 @@ Strong and variable currents are the primary hazard. Monitor drift direction con
 
 The wall face between 10-20 metres photographs well throughout the day, with the clearest light conditions in the morning hours. Grey reef sharks against the deep blue water make strong wide-angle subjects. The coral-encrusted wall offers both sweeping reef landscape compositions and close-focus macro subjects in the crevices and overhangs.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*

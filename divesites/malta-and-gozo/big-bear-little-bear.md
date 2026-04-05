@@ -23,7 +23,7 @@ The two rock formations — "Big Bear" (the larger) and "Little Bear" (the small
 
 - **Location**: West Gozo, Malta
 - **Entry Type**: Boat dive
-- **Site Type**: Reef/pinnacles
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters
@@ -58,4 +58,4 @@ The exposed west Gozo location requires careful sea state assessment. Swell can 
 The two formations rising from the sandy bottom make distinctive wide-angle subjects. Shooting from below and slightly away captures the scale of the "bears." The clear Gozo water provides exceptional visibility for both natural light and strobe photography.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [Atlantis Gozo Dive Sites](https://www.atlantisgozo.com/dive-sites/), [PADI Diving in Malta](https://www.padi.com/diving-in/malta/), [SCUBA Travel Malta Guide](https://www.scubatravel.co.uk/europe/malta-dive-in.html), [Dive Malta-Gozo](https://divemalta-gozo.com/diving-in-gozo/). Last updated 2026-04-04.*

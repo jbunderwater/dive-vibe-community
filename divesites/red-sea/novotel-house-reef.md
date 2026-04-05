@@ -58,4 +58,4 @@ Fire coral is present on the reef flat — wear adequate exposure protection. Li
 The shallow reef flat offers excellent natural light for wide-angle reef photography, especially on morning dives when the sun angle illuminates the coral gardens. Macro subjects are abundant in crevices along the slope — look for nudibranchs, Coleman shrimp, and crinoid shrimp. Night diving opens up additional macro opportunities including octopus and sleeping parrotfish.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

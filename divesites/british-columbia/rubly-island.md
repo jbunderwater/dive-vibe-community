@@ -23,9 +23,9 @@ Situated in the Gulf Islands between Vancouver Island and the BC mainland, Rubly
 
 - **Location**: Gulf Islands, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 6–12 metres
 - **Current**: Variable; stronger on exposed sides
 - **Best Time**: July to October
@@ -58,4 +58,4 @@ Cold water and potential surge on exposed faces are the primary hazards. Monitor
 Kelp forest ambience shots are rewarding in summer when the canopy is at its fullest. Rockfish portrait photography works well given how boldly the fish hold position. Wide-angle works in the canopy; switch to macro for tube worms and nudibranchs on the deeper boulders.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

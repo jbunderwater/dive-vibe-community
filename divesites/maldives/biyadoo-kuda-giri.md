@@ -41,4 +41,4 @@ Schools of glassfish periodically swarm the giri's exterior, and their presence 
 A calm, sheltered site well suited to intermediate divers. Good for a second or third dive when larger current sites have been done in the morning. Visibility 15–25 m. Accessed from Biyadoo Island Resort and nearby South Malé Atoll operators.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

@@ -23,7 +23,7 @@ Hukurila Cave is a large sea cave on Ambon's south coast formed by a submerged f
 
 - **Location**: Ambon, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
@@ -58,9 +58,5 @@ Be aware of strong currents, jellyfish, sea urchins in this area. Dive within yo
 
 This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [Dive Into Ambon](https://diveintoambon.com/tag/psychedelic-frogfish/), [ZuBlu Scuba Diving in Ambon](https://www.zubludiving.com/destination/indonesia/maluku/ambon), [Mikumba Diving Rare Critters of Ambon](https://www.mikumbadiving.com/rare-critters-of-ambon/), [Starfish Ambon Dive Sites](https://www.starfish.ch/dive/Ambon.html), [Neptune Liveaboards Ambon Diving](https://www.neptuneliveaboards.com/blog/ambon-diving/). Last updated 2026-04-04.*

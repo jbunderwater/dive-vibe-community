@@ -38,4 +38,4 @@ Reef manta rays (Mobula alfredi) — reliably present May-November, occasional y
 Keep low on the reef and avoid rising above the mantas, as this disrupts their cleaning behaviour. The standard protocol is to kneel or crouch near the cleaning stations and let the mantas circle overhead — patience is rewarded with remarkably close approaches. Do not chase or touch the mantas. Visit during the southwest monsoon season for the highest manta concentrations. The site is best dived in the morning before afternoon chop builds.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

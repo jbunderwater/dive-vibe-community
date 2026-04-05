@@ -23,9 +23,9 @@ Concrete Block Reef is an artificial reef in Howe Sound north of Squamish, creat
 
 - **Location**: Howe Sound, near Squamish, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Artificial reef (concrete blocks)
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 5–12 metres
 - **Current**: Moderate — Howe Sound has complex tidal flows
 - **Best Time**: Year-round; best visibility in winter
@@ -57,11 +57,8 @@ Howe Sound is prone to sudden strong northerly winds, known locally as squamish 
 
 Concrete block artificial reefs offer unique visual opportunities — the geometric forms covered in organic growth create interesting compositional contrasts. Wide-angle photography of plumose anemone-covered blocks with octopus in the frame is highly effective. The regular grid pattern of blocks with sponge and anemone overgrowth is photogenic from multiple angles.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
 - Squamish and Porteau Cove dive access points
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

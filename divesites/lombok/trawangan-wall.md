@@ -22,10 +22,10 @@ Trawangan Wall (Halik Reef) runs along the northwest side of Gili Trawangan, sta
 ## Site Information
 
 - **Location**: Northwest Gili Trawangan, accessible from Lombok
-- **Entry Type**: Boat dive (drift)
-- **Site Type**: Wall / Drift
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 m
+- **Maximum Depth**: 22 meters
 - **Typical Visibility**: 15–25 m
 - **Current**: Moderate; consistent drift
 - **Best Time**: May to October
@@ -58,9 +58,5 @@ Current is consistent and stronger on spring tides. Do not attempt the deep cany
 
 Eagle ray silhouettes against blue water are the most sought-after image. Giant barrel sponge cross-sections with divers for scale. Clownfish in large anemones suit close-focus wide-angle.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*

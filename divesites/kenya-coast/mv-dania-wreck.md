@@ -23,7 +23,7 @@ The MV Dania is Kenya's best wreck dive — a 77-meter Norwegian-built cargo ves
 
 - **Location**: Kenya Coast, Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-30 meters (30-100 feet)
@@ -59,9 +59,5 @@ Be aware of strong currents, jellyfish, remote locations in this area. Dive with
 
 The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [Aqua Ventures Watamu - Dive in Kenya](https://www.diveinkenya.com/), [SCUBA Travel - Kenya Diving](https://www.scubatravel.co.uk/africa/diving-kenya.html), [PADI - Diving in Kenya](https://www.padi.com/diving-in/kenya/), [Ocean Tribe - Scuba Diving Diani Kenya](https://oceantribe.co/), [African Mecca Safaris - Kenya Diving Guide](https://www.africanmeccasafaris.com/travel-guide/kenya/trip-ideas/beach/scuba-diving). Last updated 2026-04-04.*

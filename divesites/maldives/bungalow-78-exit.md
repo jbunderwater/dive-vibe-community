@@ -41,4 +41,4 @@ Night dives from shore access points like this are popular for observing cuttlef
 Shore entry requires care — follow the designated entry route marked by the resort. No boat required. Best timed to avoid strong current on the outer reef slope. Suitable for intermediate divers; night dives should be guided or conducted by experienced divers familiar with the reef layout.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

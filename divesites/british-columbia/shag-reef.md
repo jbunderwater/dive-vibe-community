@@ -23,9 +23,9 @@ Shag Reef sits in the channel systems south and east of the Gulf Islands, close 
 
 - **Location**: Southern Gulf Islands, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 6–15 metres
 - **Current**: Moderate to strong; time carefully
 - **Best Time**: July to October
@@ -58,4 +58,4 @@ Tidal currents in the Southern Gulf Islands and US border channel areas can be a
 Anemone wall photography is outstanding when current brings out the feeding postures. Wide-angle images of the reef structure with a diver in frame capture the Gulf Islands character. Lingcod and rockfish portrait photography rewards patience and slow movement.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

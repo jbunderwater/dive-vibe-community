@@ -60,4 +60,5 @@ Dottin's Reef's clear water, shallow depth, and reliable turtle encounters make 
 - Heatwave Water Sports and Barbados Blue: regularly operate Dottin's Reef as a standard west coast dive
 - Commonly paired with the Stavronikita for a two-tank morning
 
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: barbados.org - Shallow reef for beginners, south coast. Last updated 2026-03-28.*

@@ -23,7 +23,7 @@ Bakers Reef lies in Boundary Pass, the international waterway between the southe
 
 - **Location**: Boundary Pass, southern Gulf Islands, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8-15 meters (25-50 feet)
@@ -59,9 +59,5 @@ Heavy vessel traffic through Boundary Pass creates a genuine surface hazard. Asc
 
 Anemone walls at Bakers Reef offer dramatic wide-angle compositions. Position against the rock face with the anemone colonies filling the background for the best results. Black rockfish and perch species make active wide-angle subjects in the water column. Macro opportunities include nudibranchs, shrimp, and encrusting bryozoans.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

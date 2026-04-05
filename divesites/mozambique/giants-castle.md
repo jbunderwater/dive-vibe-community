@@ -59,9 +59,5 @@ Be aware of strong currents, jellyfish, remote locations in this area. Dive with
 
 Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [Tofo Scuba - Dive Sites](https://www.tofoscuba.com/dive-sites), [Peri-Peri Divers - Diving Tofo](https://www.peri-peridivers.com/diving-tofo/), [SCUBA Travel - Diving Mozambique](https://www.scubatravel.co.uk/africa/diving-mozambique.html), [Bluewater Dive Travel - Mozambique](https://www.bluewaterdivetravel.com/destination/mozambique-diving), [PADI - Diving in Inhambane Tofo](https://www.padi.com/diving-in/inhambane-tofo/). Last updated 2026-04-04.*

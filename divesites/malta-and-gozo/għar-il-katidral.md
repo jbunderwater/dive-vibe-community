@@ -59,4 +59,4 @@ Standard cavern diving principles: stay within natural light, maintain entrance 
 The vaulted interior creates dramatic upward-looking wide-angle shots. Natural light streaming through the entrance illuminates the chamber. A diver ascending through the cavern toward the light provides a powerful compositional element. The cavern walls reward close-up work with a torch.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [Atlantis Gozo Dive Sites](https://www.atlantisgozo.com/dive-sites/), [PADI Diving in Malta](https://www.padi.com/diving-in/malta/), [SCUBA Travel Malta Guide](https://www.scubatravel.co.uk/europe/malta-dive-in.html), [Dive Malta-Gozo](https://divemalta-gozo.com/diving-in-gozo/). Last updated 2026-04-04.*

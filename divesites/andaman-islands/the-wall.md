@@ -59,9 +59,5 @@ Be aware of strong currents, jellyfish, sea urchins in this area. Dive within yo
 
 Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [Dive Andaman - Dive Sites](https://www.diveandaman.com/), [SSI - Scuba Diving in Andaman Guide](https://www.divessi.com/en/blog/ultimate-scuba-diving-in-andaman-10091.html), [PADI - Diving in Andaman Islands](https://www.padi.com/diving-in/andaman-islands/), [Bluewater Dive Travel - Andaman Islands](https://www.bluewaterdivetravel.com/destination/andaman-islands-diving), [Sea Hawks Scuba - Andaman Diving Guide](https://seahawksscuba.in/scuba-diving-in-andaman/). Last updated 2026-04-04.*

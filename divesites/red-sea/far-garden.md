@@ -58,9 +58,5 @@ The eastern corner can have strong current and is an open-water exposure point. 
 
 Far Garden is one of the best Sharm el-Sheikh sites for large animal encounters. Wide-angle is essential: manta rays at the summer corner require a fisheye or super-wide lens to capture even a portion of the wingspan. Eagle ray portraits crossing sandy areas in clear mid-water light are outstanding. The tower pinnacles are striking reef-portrait subjects covered in layered fish life. Barracuda schooling at the corner in late afternoon light rewards patience.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

@@ -22,8 +22,8 @@ Sirnaka Island lies at approximately 23.83°N, 35.81°E in the southern Egyptian
 ## Site Information
 
 - **Location**: Southern Red Sea, Egypt (St. John's reef area, approximately 23.83°N, 35.81°E)
-- **Entry Type**: Boat dive (liveaboard only)
-- **Site Type**: Wreck
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25–35 meters
@@ -57,9 +57,5 @@ Remote location is the primary safety consideration — emergency evacuation req
 
 The combination of pristine visibility and low diver traffic creates outstanding photography conditions. Wreck exteriors colonised by soft corals and encrusting growth reward close-focus wide-angle technique. The natural fish behaviour typical of rarely-dived sites allows portrait approaches impossible at busier locations. Grey reef sharks and dogtooth tuna in the open water column around the island are pelagic photography subjects.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

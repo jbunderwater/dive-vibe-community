@@ -23,7 +23,7 @@ Templer Bank rises from deeper water to approximately 10 meters at its shallowes
 
 - **Location**: Southern Palawan, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef / bank
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters
 - **Typical Visibility**: 15-30 meters
@@ -58,9 +58,5 @@ Open-water conditions apply at this exposed bank site. Currents can strengthen q
 
 The open reef plateau is well-suited to wide-angle shooting, particularly for capturing schooling pelagics against coral backdrops. Soft corals and sea fans on the deeper slopes provide colourful foreground subjects. Morning dives typically offer the best natural light penetration.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Diving Squad Palawan Guide](https://www.divingsquad.com/philippines-diving/palawan/), [Scuba Tech Philippines - Coron Wrecks](https://scubatechphilippines.com/scuba_blog/the-shipwrecks-of-coron-wreck-diving-philippines/), [Pirate Coron Dive Sites](https://piratescoron.com/dive-sites/), [DIVE Magazine - Wrecks of Coron Bay](https://divemagazine.com/scuba-diving-travel/wrecks-of-coron-bay-philippines), [ZuBlu - Scuba Diving Coron Palawan](https://www.zubludiving.com/destination/philippines/palawan/coron). Last updated 2026-04-04.*

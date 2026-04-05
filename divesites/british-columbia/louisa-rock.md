@@ -23,9 +23,9 @@ Louisa Rock sits in the waters around the Saanich Peninsula, in the channels bet
 
 - **Location**: Saanich Peninsula area, near Victoria, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Submerged rock / reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 6–12 metres
 - **Current**: Moderate tidal currents
 - **Best Time**: Late spring through autumn
@@ -57,11 +57,8 @@ Tidal currents in the Saanich area are moderate and manageable. Cold water (8–
 
 Octopus portraiture is the photographic priority at Louisa Rock — the Victoria area's dense octopus population provides exceptional opportunities. Wide-angle shots of octopus on rocky substrate are outstanding. Wolf eel portraits in den entrances are classic Pacific Northwest images. Macro work on encrusting surfaces finds nudibranchs and colonial invertebrates.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
 - Victoria area dive operators and shops
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

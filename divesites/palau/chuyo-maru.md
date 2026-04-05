@@ -50,8 +50,5 @@ This is a deep dive at the limits of recreational diving. A dive computer with a
 ## Photography
 The Chuyo Maru offers dramatic wreck photography for those who can manage the depth and limited bottom time. Wide-angle captures the scale of the hull and superstructure. Position a diver near the bow or along the railing for compelling scale shots. Interior photography requires powerful lights and careful buoyancy to avoid silt. The schools of glassy sweepers in the cargo holds photograph beautifully when backlit by torch. Plan your shots in advance -- limited bottom time means you need to know what you want before you descend.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Palau Dive Adventures](https://palaudiveadventures.com/best-dive-sites-palau/), [Bluewater Dive Travel - Palau](https://www.bluewaterdivetravel.com/destination/palau-diving), [Dive the World - Palau](https://www.dive-the-world.com/diving-sites-palau.php), [PADI - Diving in Palau](https://www.padi.com/diving-in/palau/), [Pristine Paradise Palau](https://pristineparadisepalau.com/dive-palau/). Last updated 2026-04-04.*

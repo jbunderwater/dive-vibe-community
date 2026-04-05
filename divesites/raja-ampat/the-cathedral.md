@@ -58,9 +58,5 @@ The Cathedral is rated Advanced due to the overhead environment of the cave/cave
 
 The signature shot at The Cathedral is a diver silhouetted inside the cavern with light shafts streaming through from the openings above and behind — a striking use of natural available light requiring no strobe. Shoot with a wide-angle lens (10–17mm fisheye) set to expose for the light shafts, allowing the dark interior to frame the image. The effect is most dramatic on sunny mornings; overcast conditions eliminate the shafts entirely. Bring a torch for backup illumination of subjects in the darker recesses.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Papua Diving - Raja Ampat Dive Sites](https://papua-diving.com/raja-ampat-dive-sites/), [Bluewater Dive Travel - Raja Ampat Diving](https://www.bluewaterdivetravel.com/destination/raja-ampat-diving), [La Galigo Liveaboard - Top 10 Raja Ampat Dive Sites](https://www.lagaligoliveaboard.com/top-10-raja-ampat-dive-sites-you-can-only-reach-by-liveaboard/), [Girls That Scuba - Scuba Diving Raja Ampat](https://www.girlsthatscuba.com/scuba-diving-raja-ampat/), [PADI - Diving in Raja Ampat](https://www.padi.com/diving-in/raja-ampat/). Last updated 2026-04-04.*

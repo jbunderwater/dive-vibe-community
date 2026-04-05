@@ -37,14 +37,5 @@ La Paz & Sea of Cortez is a notable diving destination in the North America regi
 - **Language**: Spanish
 - **Safety**: Always dive within certification limits. Be aware of cold water, surge, limited visibility. Verify the location of the nearest hyperbaric chamber before diving.
 
-## Sources
-
-- OpenStreetMap dive site data and community contributions
-- Regional diving guides and operator information
-- Marine conservation organization reports
-- Local tourism board resources
-
 ---
-
-*Last updated: March 2026*
-*Compiled from OpenStreetMap data, regional diving knowledge, and authoritative marine sources*
+*Sources: [Cortez Club - La Paz Dive Sites](https://cortezclub.com/dive-sites/), [Cortez Club - Scuba Diving La Paz](https://cortezclub.com/scuba-diving/), [La Paz Divers - Diving in La Paz](https://lapazdivers.com/diving-in-la-paz/), [Dive in La Paz](https://diveinlapaz.com/), [Underwater Photography Guide - Diving La Paz Baja](https://www.uwphotographyguide.com/diving-la-paz-baja). Last updated 2026-04-04.*

@@ -50,8 +50,5 @@ Although these are caverns (not caves) with natural light always visible, comfor
 ## Photography
 The light beam effects inside the caverns are the signature photographic opportunity. Wide-angle lenses capture the interplay of light shafts and silhouetted divers. Use a torch for fill light on subjects in the darker corners. Macro lenses excel on the abundant small life in the crevices -- lionfish portraits, nudibranchs, and shrimp. For the resting sharks, approach slowly with a wide-angle and use a low angle to include the cavern ceiling for context. Avoid direct strobe bursts at resting sharks.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Visit Yap - Dive Sites](https://visityap.com/dive_sites.php), [Manta Ray Bay Resort - Dive Sites](https://mantaray.com/sites/), [Bluewater Dive Travel - Yap](https://www.bluewaterdivetravel.com/destination/yap-diving), [PADI - Diving in Yap](https://www.padi.com/diving-in/yap/), [Ikelite - Insider Guide to Diving Yap](https://www.ikelite.com/blogs/features/an-insiders-guide-to-diving-yap-micronesia). Last updated 2026-04-04.*

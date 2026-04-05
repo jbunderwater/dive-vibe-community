@@ -58,9 +58,5 @@ The Dome is more forgiving than the adjacent pinnacle sites but still demands Ad
 
 The dome's soft coral coverage is a primary photographic draw. Wide-angle images looking along a current-swept flank with a diver and the soft coral banks in the same frame represent the classic composition. Shoot with strobe positioned at 30–45 degrees to illuminate the soft coral without washing out the blue ambient background. The dome top in good morning light is productive for ambient-light wide-angle reef photography without flash.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Similan Dive Guide](https://www.similandiveguide.com/), [Sunrise Divers - Similan Islands Dive Sites](https://www.sunrise-divers.com/dive-sites/similan-islands/), [Dive The World Thailand - Similan Islands](https://www.divetheworldthailand.com/similan-islands-diving-sites.php), [Sea Bees Diving - Scuba Diving Similans](https://sea-bees.com/scuba-diving-similans/), [Dive Happy - Diving Similan Islands Guide](https://divehappy.com/diving-similan-islands-quick-guide/). Last updated 2026-04-04.*

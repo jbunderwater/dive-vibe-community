@@ -58,9 +58,5 @@ Currents are generally mild, but monitor conditions and stay aware of boat traff
 
 Beang Abang is a macro photographer's site. Use a dioptre or wet lens for extreme close-ups of nudibranchs and pygmy cephalopods. Two strobes allow precise lighting on small, three-dimensional subjects. The challenge here is finding the subjects — once located, cooperative critters allow extended shooting sessions that would be impossible at current-swept sites.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Alami Alor Dive Resort Diving](https://www.alamialor.com/diving-snorkeling/scuba-diving/), [Alor Divers Resort](https://www.alor-divers.com/), [ZuBlu Scuba Diving in Alor](https://www.zubludiving.com/destination/indonesia/nusa-tenggara/alor), [Solitude World Alor Diving Guide](https://solitude.world/alor-diving-guide/), [Dive the World Alor](https://www.dive-the-world.com/diving-sites-indonesia-alor.php). Last updated 2026-04-04.*

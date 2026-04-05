@@ -50,8 +50,5 @@ Strong, unpredictable currents are the primary hazard at Blue Corner. Down-curre
 ## Photography
 Blue Corner is a wide-angle paradise. A fisheye or rectilinear wide-angle lens captures the shark parades, eagle ray fly-bys, and barracuda tornados that define this site. Shoot upward against the blue water for dramatic silhouettes. The reef top offers macro opportunities with nudibranchs and small critters, but most photographers come here for the big stuff. Video shooters should use a steady hand or tray -- the current can make stable footage challenging.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Palau Dive Adventures](https://palaudiveadventures.com/best-dive-sites-palau/), [Bluewater Dive Travel - Palau](https://www.bluewaterdivetravel.com/destination/palau-diving), [Dive the World - Palau](https://www.dive-the-world.com/diving-sites-palau.php), [PADI - Diving in Palau](https://www.padi.com/diving-in/palau/), [Pristine Paradise Palau](https://pristineparadisepalau.com/dive-palau/). Last updated 2026-04-04.*

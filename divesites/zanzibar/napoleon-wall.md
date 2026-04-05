@@ -57,9 +57,5 @@ The 28-meter maximum depth requires careful NDL management. Current on the outer
 
 Napoleon wrasse portraits are the priority shot — wide-angle captures the full fish against the reef backdrop, while a 60-100mm telephoto is suitable for head-and-face compositions. The sea fans at 18-25 meters photograph beautifully with strobe-lit close-up shots of the fan structure and resident invertebrates. Reef shark silhouettes against the open water behind the wall are compelling wide-angle subjects.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Diving in Zanzibar - Nungwi Dive Center](https://www.divinginzanzibar.com/dive-sites-map/), [PADI - Diving in Zanzibar](https://www.padi.com/diving-in/zanzibar/), [PADI - Top Dive Sites Zanzibar](https://www.padi.com/dive-sites/zanzibar/), [Bluewater Dive Travel - Zanzibar](https://www.bluewaterdivetravel.com/destination/diving-zanzibar-tanzania-kenya), [One Ocean Zanzibar](https://zanzibaroneocean.com/). Last updated 2026-04-04.*

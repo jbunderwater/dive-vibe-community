@@ -22,10 +22,10 @@ The stern section of the Edmund Fitzgerald is the most visually dramatic of the 
 ## Site Information
 
 - **Location**: Lake Superior, Ontario, Canada (south of Michipicoten Island)
-- **Entry Type**: Technical diving expedition only
-- **Site Type**: Wreck
-- **Difficulty Level**: Advanced (technical — beyond recreational limits)
-- **Maximum Depth**: 160 metres
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 160 meters
 - **Typical Visibility**: 3–8 metres at depth
 - **Water Temperature**: 2–4°C at depth year-round
 - **Current**: Minimal near bottom
@@ -57,9 +57,5 @@ At 160 metres in Lake Superior — isolated, cold, and remote — this represent
 
 The images captured by authorized expeditions to the overturned stern — the propeller pointing upward, the hull in inverted position — are among the most striking in Great Lakes diving history, testifying to the power of the storm that sank the Edmund Fitzgerald.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Michigan.org - Dive Michigan Shipwrecks Underwater Preserves](https://www.michigan.org/article/trip-idea/dive-michigan-shipwrecks-these-underwater-preserves), [Great Lakes Shipwreck Preservation Society - Dive Sites](https://glsps.clubexpress.com/DiveSites), [Scuba Diving Magazine - Great Lakes Shipwrecks](https://www.scubadiving.com/great-lakes-shipwrecks-like-youve-never-seen-them-before), [Gear Patrol - Guide to Wreck Diving the Great Lakes](https://www.gearpatrol.com/archive/a162066/great-lakes-wreck-diving-guide/), [Shipwreck Explorers - Wisconsin Scuba Diving](https://www.shipwreckexplorers.com/). Last updated 2026-04-04.*

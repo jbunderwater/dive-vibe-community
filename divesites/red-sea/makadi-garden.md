@@ -22,7 +22,7 @@ Makadi Garden offers a coral garden dive in the productive nearshore reef enviro
 ## Site Information
 
 - **Location**: Makadi Bay, Hurghada area, Red Sea, Egypt
-- **Entry Type**: Boat dive (resort day boat)
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
@@ -58,4 +58,4 @@ Stonefish are present in sandy substrate areas adjacent to coral formations — 
 Coral garden sites offer flexible composition options — wide-angle scenes capturing multiple coral heads with fish life above, or tight macro work on the encrusted surfaces. humphead wrasse close-up portraits are a signature Makadi area shot. The sandy channels make excellent foreground elements in wide compositions. Night photography at the garden yields cuttlefish and octopus hunting subjects.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

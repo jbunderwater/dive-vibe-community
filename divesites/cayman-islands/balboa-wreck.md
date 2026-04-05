@@ -23,9 +23,9 @@ The Balboa was a 375-foot freighter carrying lumber from Texas to Jamaica when s
 
 - **Location**: Off George Town harbor, West Bay, Grand Cayman
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 32 meters (105 feet) — shallowest sections at 8 meters
+- **Maximum Depth**: 32 meters
 - **Typical Visibility**: 15–30 meters (50–100 feet)
 - **Current**: Light to moderate
 - **Water Temperature**: 26–29°C (79–84°F)
@@ -59,9 +59,5 @@ The harbor location means active boat traffic is a constant concern — SMB depl
 
 The Balboa's coral-encrusted hull plates and large propellers are classic Caribbean wreck photography subjects. Large tarpon in clear water make impressive natural light subjects. The scattered nature of the debris field allows varied compositions across a single dive. Ambient light penetration in George Town's clear shallow water provides excellent natural light photography conditions.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Visit Cayman Islands - Diving Guide](https://www.visitcaymanislands.com/en-us/things-to-do/diving), [Scuba Diving Magazine - Divers Guide to Cayman Islands](https://www.scubadiving.com/divers-guide-to-cayman-islands), [Bluewater Dive Travel - Cayman Islands Diving](https://www.bluewaterdivetravel.com/destination/cayman-islands-diving), [Visit Cayman Islands - 365 Dive Sites](https://www.visitcaymanislands.com/en-us/things-to-do/diving/365-dive-sites), [Ocean Frontiers - Cayman Islands Dive Center](https://www.oceanfrontiers.com/). Last updated 2026-04-04.*

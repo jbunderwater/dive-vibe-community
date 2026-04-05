@@ -23,9 +23,9 @@ Joan Rock lies in the central Gulf Islands between Salt Spring Island and the Sa
 
 - **Location**: Central Gulf Islands, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Submerged rock / reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres
 - **Current**: Moderate tidal currents in the Gulf Islands
 - **Best Time**: Late spring through autumn
@@ -57,11 +57,8 @@ Tidal currents in the Gulf Islands can be significant. Plan around slack tide. S
 
 Octopus portraits, lingcod resting on encrusted rock, and plumose anemone-covered reef faces are the signature photographic subjects. Wide-angle compositions with fish in mid-water against the blue column are effective. Macro work on sponge-covered surfaces finds nudibranchs and small crustaceans.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
 - Sidney and Gulf Islands dive operators
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

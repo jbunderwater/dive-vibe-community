@@ -23,9 +23,9 @@ This entry references an alternate buoy access point to the *Prosper Schiaffino*
 
 - **Location**: Between Porquerolles and Port-Cros, Hyères Bay, Var, France (alternate buoy position)
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck (intact upright)
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 52 metres
+- **Maximum Depth**: 52 meters
 - **Typical Visibility**: 10–25 metres
 - **Water Temperature**: 13–25°C
 - **Current**: Strong current possible; approach operators for conditions report
@@ -58,9 +58,5 @@ Minimum advanced open water certification required; deep specialty experience st
 
 See Le Donator Wreck for full photography notes. The gorgonian-covered superstructure, steering wheel, propeller, and dense fish schools are all outstanding subjects. Bring a powerful strobe and a torch — at 35–52 metres, artificial lighting is the entire story.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [CaPel - Port-Cros National Park Dive Sites](https://capel.portcros-parcnational.fr/en/ou-plonger/), [Parc national de Port-Cros - Plongée](https://www.portcros-parcnational.fr/fr/des-decouvertes/une-destination-dexception/la-mer-et-les-fonds-marins/plongee), [World Adventure Divers - Port-Cros](https://worldadventuredivers.com/port-cros-national-park/), [Lavandou Plongée - Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [European Diving School - Port-Cros](https://www.europeandiving.com/hyeres/diving-area/port-cros.html). Last updated 2026-04-04.*

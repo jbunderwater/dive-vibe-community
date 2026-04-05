@@ -30,4 +30,5 @@ The top of the giri is carpeted with branching and plate corals alive with serge
 
 This is a relaxed, accessible dive well suited to intermediate divers building Maldives experience. The modest depth means generous bottom time for photography on the coral-rich upper sections. Currents are light compared to channel sites, making this a reliable first dive of the day or a pleasant afternoon option when stronger sites are out of condition.
 
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

@@ -22,8 +22,8 @@ Located off the northeast coast of Martinique near La Trinité, Baignoire de Jos
 ## Site Information
 
 - **Location**: Off La Trinité, northeast Martinique (Atlantic side)
-- **Entry Type**: Boat dive / swim
-- **Site Type**: Sandbar / seagrass shallow reef
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 2 meters
 - **Typical Visibility**: 15–25 meters
@@ -58,4 +58,4 @@ Atlantic swells can raise suddenly and make wading uncomfortable or dangerous. F
 Baignoire de Joséphine offers one-of-a-kind photography: humans standing in the open ocean with the horizon stretching all around. Underwater, the crystal-clear 2-meter column of water lit from above creates luminous images of the sandy and seagrass floor. Split-level above/below shots are particularly effective here.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Martinique Tourism - Diving](https://www.martinique.org/en/things-to-do/water-sports-and-activities/diving), [Scuba Diving Magazine - Martinique Guide](https://www.scubadiving.com/divers-guide-martinique-shipwrecks-turtles-and-volcanic-reefs), [Guide Martinique - Spots de Plongée](https://www.guidemartinique.com/activites/plongee/spots.php), [Wannadive - Saint Pierre Martinique](https://www.wannadive.net/spot/Central_America/Martinique/Saint_Pierre/index.html), [DiveIn - Best Dive Sites in Martinique](https://www.divein.com/diving/destination/diving-in-martinique/). Last updated 2026-04-04.*

@@ -60,4 +60,5 @@ Hangover is one of Statia's best photography sites. The overhang interiors with 
 - STENAPA: stenapafoundation.com — Sint Eustatius Marine Park information
 - Golden Rock Dive Center: regularly dives Hangover on afternoon dive trips
 
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: Golden Rock Resort, Dive operator reports. Last updated 2026-03-28.*

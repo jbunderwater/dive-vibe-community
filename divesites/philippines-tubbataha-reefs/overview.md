@@ -48,15 +48,5 @@ Tubbataha Reefs Natural Park covers 97,030 hectares of pristine ocean in the mid
 - **Language**: Filipino, English
 - **Safety**: Experienced liveaboard operators manage all safety aspects. Dive within certification limits. Be prepared for strong currents. Verify hyperbaric chamber locations before departure.
 
-## Sources
-
-- Tubbataha National Park official information
-- LiveAboard.com destination guides
-- Dive operator sites (Sea Explorers, Discovery Fleet, Infiniti Liveaboard)
-- ScubaBoard trip reports and community discussions
-- WWF Coral Triangle marine conservation data
-
 ---
-
-*Last updated: March 2026*
-*Compiled from OpenStreetMap data, regional diving knowledge, and authoritative marine sources*
+*Sources: [Bluewater Dive Travel Tubbataha Reef](https://www.bluewaterdivetravel.com/destination/tubbataha-reef-diving), [Divehappy Tubbataha Reef Guide](https://divehappy.com/diving-tubbataha-reef-a-quick-guide/), [Dive The World Tubbataha Philippines](https://www.dive-the-world.com/diving-sites-philippines-tubbataha.php), [WWF Tubbataha Reef Diving](https://wwf.panda.org/discover/knowledge_hub/where_we_work/coraltriangle/coraltrianglefacts/places/tubbatahareefphilippines/diving/), [Guide to the Philippines Tubbataha Diving](https://guidetothephilippines.ph/articles/adventure-and-outdoors/tubbataha-reef-philippines-diving-guide). Last updated 2026-04-04.*

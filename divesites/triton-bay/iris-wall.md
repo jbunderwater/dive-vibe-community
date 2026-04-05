@@ -60,9 +60,5 @@ Iris Wall is one of Triton Bay's most demanding sites. The combination of a 35-m
 
 The black coral forests of Iris Wall are among the most photogenic features in Triton Bay. Wide-angle shots at 20 to 25 meters capture the scale of the trees against the blue-black water of the wall below. The density of the coral branches creates natural framing for fish portraits. At 30 meters and deeper, light levels drop significantly — bring powerful strobes and shoot RAW for post-processing latitude. Wide-angle reef scenes work best in the 0 to 15 meter range where ambient light is sufficient. A fisheye lens shooting upward from beneath a black coral tree, with reef fish silhouetted against the surface light above, produces some of the most dramatic compositions available anywhere in West Papua.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Triton Bay Divers Resort](https://tritonbaydivers.com/), [ZuBlu Scuba Diving in Triton Bay](https://www.zubludiving.com/destination/indonesia/west-papua/triton-bay), [Scuba Diving Magazine Triton Bay Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-triton-bay-indonesia), [Dive the World Triton Bay](https://www.dive-the-world.com/diving-sites-indonesia-triton-bay.php), [Merapi Tours Triton Bay Dive Sites](https://www.merapitours.com/indonesia/papua/triton-bay-dive-sites). Last updated 2026-04-04.*

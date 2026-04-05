@@ -57,9 +57,5 @@ Same benign safety profile as other Jambiani lagoon sites. Light current, shallo
 
 The varied mound and channel topography offers interesting compositional variety compared to simple reef slope sites. Garden eel photography requires a very long, slow approach across the sand — extend your arm with camera first, body trailing far behind. The calm clear water provides good natural-light opportunities at all depths.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*

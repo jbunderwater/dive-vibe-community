@@ -52,3 +52,6 @@ A full-day commitment from Puerto Vallarta marina, with the boat ride taking app
 - Bring a wetsuit appropriate for thermoclines; water temperature below 20 meters can drop noticeably below surface temperatures
 - Giant manta encounters are most likely when current is running and plankton concentrations are high
 - December to March adds the possibility of humpback whale encounters; June to November offers the best sea conditions for the crossing
+
+---
+*Sources: [Boca Divers - Puerto Vallarta Dive Sites](https://www.bocadivers.net/BocaDivers/divesites.htm), [PADI - Diving in Puerto Vallarta](https://www.padi.com/diving-in/mexico/puerto-vallarta/), [PADI - Top Dive Sites in Puerto Vallarta](https://www.padi.com/dive-sites/mexico/puerto-vallarta/), [Vallarta by Owner - Best Scuba Diving in Puerto Vallarta](https://vallartabyowner.com/scuba/), [Dressel Divers - Puerto Vallarta Scuba Diving](https://www.dresseldivers.com/dive/mexico/puerto-vallarta-scuba-diving/). Last updated 2026-04-04.*

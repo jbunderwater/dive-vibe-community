@@ -22,10 +22,10 @@ Whytecliff Park sits at the western edge of West Vancouver near Horseshoe Bay, r
 ## Site Information
 
 - **Location**: West Vancouver, British Columbia — Horseshoe Bay area
-- **Entry Type**: Shore
-- **Site Type**: Kelp forest
-- **Difficulty Level**: Intermediate (Beginner in The Bay; Advanced in The Cut)
-- **Maximum Depth**: 18 metres
+- **Entry Type**: Shore entry
+- **Site Type**: Kelp
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 5–15 metres; best October through March
 - **Current**: Calm in The Bay; strong tidal flow in The Cut — slack tide essential
 - **Best Time**: Year-round; autumn and winter offer highest clarity
@@ -65,4 +65,4 @@ Bull kelp towers make dramatic wide-angle subjects when the sun angle is right i
 - Last Updated: 2026-03-28
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

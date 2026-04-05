@@ -23,9 +23,9 @@ Pierre de Bagaud is a rocky submerged feature off the uninhabited islet of Bagau
 
 - **Location**: Off Islet of Bagaud, Port-Cros National Park, Var, France
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef / submarine plateau
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 metres
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10–25 metres
 - **Water Temperature**: 13–25°C
 - **Current**: Light to moderate
@@ -58,9 +58,5 @@ A sheltered intermediate site with straightforward conditions in typical weather
 
 The combination of groupers near rocky structure and Posidonia meadow species in the same dive creates excellent photographic range. Wide-angle grouper portraits and medium-distance shots of the rock-meadow transition work well. Macro photography on cryptic Posidonia species (seahorses, pipefish, cuttlefish) and encrusted rock surfaces is productive.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [CaPel - Port-Cros National Park Dive Sites](https://capel.portcros-parcnational.fr/en/ou-plonger/), [Parc national de Port-Cros - Plongée](https://www.portcros-parcnational.fr/fr/des-decouvertes/une-destination-dexception/la-mer-et-les-fonds-marins/plongee), [World Adventure Divers - Port-Cros](https://worldadventuredivers.com/port-cros-national-park/), [Lavandou Plongée - Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [European Diving School - Port-Cros](https://www.europeandiving.com/hyeres/diving-area/port-cros.html). Last updated 2026-04-04.*

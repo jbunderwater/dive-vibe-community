@@ -23,9 +23,9 @@ The Mapledawn grounded on a Georgian Bay shoal and was lost in relatively shallo
 
 - **Location**: Georgian Bay, Lake Huron, Ontario, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 8 metres
+- **Maximum Depth**: 8 meters
 - **Typical Visibility**: 5–12 metres
 - **Water Temperature**: 8–20°C at surface in summer; cooler at depth
 - **Current**: Minimal in protected Collingwood area waters
@@ -59,9 +59,5 @@ This is one of the safest wreck dive sites in the Great Lakes system. The shallo
 
 The Mapledawn is a photographer's delight — sunlit wreck photography at 8 metres produces images with excellent natural colour and contrast. The hull framed against the lighter water above, with smallmouth bass in the foreground, is a classic composition. Close-up images of hull hardware and marine growth are equally rewarding without supplemental lighting.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Michigan.org - Dive Michigan Shipwrecks Underwater Preserves](https://www.michigan.org/article/trip-idea/dive-michigan-shipwrecks-these-underwater-preserves), [Great Lakes Shipwreck Preservation Society - Dive Sites](https://glsps.clubexpress.com/DiveSites), [Scuba Diving Magazine - Great Lakes Shipwrecks](https://www.scubadiving.com/great-lakes-shipwrecks-like-youve-never-seen-them-before), [Gear Patrol - Guide to Wreck Diving the Great Lakes](https://www.gearpatrol.com/archive/a162066/great-lakes-wreck-diving-guide/), [Shipwreck Explorers - Wisconsin Scuba Diving](https://www.shipwreckexplorers.com/). Last updated 2026-04-04.*

@@ -48,4 +48,5 @@ The reef structure at Gindang allows flexible dive profiles. Most divers begin a
 
 Dive Gindang on an incoming tide for the best visibility and reef fish activity. The site is manageable for intermediate divers comfortable with current, but requires attention to buoyancy on the coral slope to avoid contact with fragile formations. A surface marker buoy is essential for drift ascents. Early morning dives typically offer the clearest water before afternoon winds stir up surface chop.
 
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: [Dive Komodo - Dive Sites](https://divekomodo.com/dive-sites-komodo/), [Dragon Dive Komodo - Top 10 Dive Sites](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [World Adventure Divers - Diving in Komodo](https://worldadventuredivers.com/diving-in-komodo/), [Dive Komodo National Park](https://divekomodonationalpark.com/), [Blue Marlin Dive - Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/). Last updated 2026-04-04.*

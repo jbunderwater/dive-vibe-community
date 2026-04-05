@@ -60,4 +60,5 @@ Stenapa Reef's shallow depth delivers outstanding ambient natural light througho
 - STENAPA: stenapafoundation.com — the foundation that manages and monitors this reef
 - Golden Rock Dive Center: uses Stenapa Reef as an introduction and training site
 
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: STENAPA Marine Park, Golden Rock Resort. Last updated 2026-03-28.*

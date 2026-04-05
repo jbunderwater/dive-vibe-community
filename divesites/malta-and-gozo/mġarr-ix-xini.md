@@ -23,7 +23,7 @@ The dive follows the rocky walls of the inlet's flanks, descending over limeston
 
 - **Location**: South Gozo, Malta
 - **Entry Type**: Boat dive
-- **Site Type**: Beach/reef
+- **Site Type**: Beach dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–20 meters
@@ -59,4 +59,4 @@ The sheltered location makes this one of Gozo's safest dive sites in terms of su
 The scenic canyon setting creates compelling topside as well as underwater photography. The well-lit inlet walls and sandy floor reward both wide-angle and macro work. Moray eels at their crevice entrances, octopus, and nudibranchs are the strongest macro subjects. The historical watchtower above the inlet makes a striking surface shot.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [Atlantis Gozo Dive Sites](https://www.atlantisgozo.com/dive-sites/), [PADI Diving in Malta](https://www.padi.com/diving-in/malta/), [SCUBA Travel Malta Guide](https://www.scubatravel.co.uk/europe/malta-dive-in.html), [Dive Malta-Gozo](https://divemalta-gozo.com/diving-in-gozo/). Last updated 2026-04-04.*

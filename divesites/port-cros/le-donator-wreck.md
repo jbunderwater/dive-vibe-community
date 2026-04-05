@@ -23,9 +23,9 @@ The *Donator* — officially named *Prosper Schiaffino* — is one of the most f
 
 - **Location**: Between Porquerolles and Port-Cros, Hyères Bay, Var, France
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck (intact upright)
-- **Difficulty Level**: Advanced (strong current possible)
-- **Maximum Depth**: 52 metres
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 52 meters
 - **Typical Visibility**: 10–25 metres
 - **Water Temperature**: 13–25°C
 - **Current**: Strong current possible; check conditions
@@ -58,9 +58,5 @@ Advanced diving with depth-related risks. Minimum recommended experience: advanc
 
 Le Donator is one of the most photographic wrecks in France. The gorgonian-covered mast section at 35 metres, shot wide-angle with a diver for scale, is an iconic image. The steering wheel at depth is a powerful close-focus wide-angle subject. Macro work on gorgonian polyps and the encrusted metal surfaces shows remarkable detail. At 35–52 metres, artificial lighting is essential — bring a powerful strobe and a torch.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [CaPel - Port-Cros National Park Dive Sites](https://capel.portcros-parcnational.fr/en/ou-plonger/), [Parc national de Port-Cros - Plongée](https://www.portcros-parcnational.fr/fr/des-decouvertes/une-destination-dexception/la-mer-et-les-fonds-marins/plongee), [World Adventure Divers - Port-Cros](https://worldadventuredivers.com/port-cros-national-park/), [Lavandou Plongée - Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [European Diving School - Port-Cros](https://www.europeandiving.com/hyeres/diving-area/port-cros.html). Last updated 2026-04-04.*

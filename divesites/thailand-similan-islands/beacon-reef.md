@@ -58,9 +58,5 @@ Beacon Reef is one of the safest dive sites in the Similans. Current is rarely s
 
 The hard coral garden is the primary subject: wide-angle captures of table coral formations with ambient light in the 6–10 m range produce some of the most printable coral images in the Similans. Clownfish in anemones are the most requested portrait subject for underwater beginners — use a 60mm macro and wait for the fish to orient face-on. Turtle portraits in ambient light at 8–12 m are an ideal first underwater wildlife subject given the turtles' general tolerance of diver presence here.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Similan Dive Guide](https://www.similandiveguide.com/), [Sunrise Divers - Similan Islands Dive Sites](https://www.sunrise-divers.com/dive-sites/similan-islands/), [Dive The World Thailand - Similan Islands](https://www.divetheworldthailand.com/similan-islands-diving-sites.php), [Sea Bees Diving - Scuba Diving Similans](https://sea-bees.com/scuba-diving-similans/), [Dive Happy - Diving Similan Islands Guide](https://divehappy.com/diving-similan-islands-quick-guide/). Last updated 2026-04-04.*

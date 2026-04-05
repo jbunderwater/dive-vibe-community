@@ -50,8 +50,5 @@ The 28-meter depth and potential for strong currents make this an advanced dive.
 ## Photography
 Gilman Wall is a world-class underwater photography site with two distinct opportunities. For the wall, wide-angle with dual strobes is essential to illuminate the massive sea fans and soft corals. Shoot upward along the wall with a shark or diver silhouette for scale. For mandarin fish, switch to macro (100mm) with a single strobe or video light. The mandarin fish display happens in very low light, requiring patience, a steady hand, and fast autofocus. Many photographers dive Gilman twice -- once for the wall, once for the mandarins.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Visit Yap - Dive Sites](https://visityap.com/dive_sites.php), [Manta Ray Bay Resort - Dive Sites](https://mantaray.com/sites/), [Bluewater Dive Travel - Yap](https://www.bluewaterdivetravel.com/destination/yap-diving), [PADI - Diving in Yap](https://www.padi.com/diving-in/yap/), [Ikelite - Insider Guide to Diving Yap](https://www.ikelite.com/blogs/features/an-insiders-guide-to-diving-yap-micronesia). Last updated 2026-04-04.*

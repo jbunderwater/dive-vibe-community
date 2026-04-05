@@ -23,9 +23,9 @@ The North Carolina was a 205-foot English iron-hulled bark built in Liverpool, E
 
 - **Location**: Outer reef, Bermuda
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck (sailing ship)
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 14 meters (45 feet)
+- **Maximum Depth**: 14 meters
 - **Typical Visibility**: 15–30 meters (50–100 feet)
 - **Current**: Light to moderate
 - **Water Temperature**: 18–28°C (64–82°F)
@@ -59,9 +59,5 @@ The 14-meter depth is appropriate for Intermediate divers. Moderate currents can
 
 The North Carolina is considered one of Bermuda's most photogenic wrecks precisely because of the intact bowsprit and dead-eye rows. Wide-angle natural light photography at 14 meters captures the sailing ship atmosphere powerfully. The rows of dead-eyes against the sandy bottom are a detail that rewards close-focus treatment. Bermuda's excellent visibility makes this site exceptional for underwater photography.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Go To Bermuda - Top Dive Sites](https://www.gotobermuda.com/plan/inspiration/article/top-dive-sites-in-bermuda), [Go To Bermuda - Bermuda Shipwrecks](https://www.gotobermuda.com/plan/inspiration/article/dive-into-bermuda-shipwrecks), [Scuba Diving Magazine - Guide to Scuba Diving Bermuda](https://www.scubadiving.com/guide-to-scuba-diving-bermuda), [Blue Water Divers Bermuda - Shipwrecks](https://www.divebermuda.com/shipwrecks/), [Bermuda Attractions - Famous Shipwrecks and Dive Sites](https://www.bermuda-attractions.com/bermuda_000045.htm). Last updated 2026-04-04.*

@@ -23,7 +23,7 @@ The Abu Dabab bay complex features a broad sandy floor covered in dense seagrass
 
 - **Location**: Red Sea, Egypt (Abu Dabab Bay, south of Marsa Alam)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef / seagrass
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 10-20 meters (33-65 feet)
@@ -59,4 +59,4 @@ The entry reef flat can be slippery with algae — take care on exit, particular
 Abu Dabab is one of the best dugong photography locations in the world. A wide-angle lens (10–17mm fisheye) works well for capturing dugongs and turtles in context with the seagrass environment. Work in natural light by staying shallow. Approach subjects from the side rather than above to avoid casting a shadow that causes them to move. Macro opportunities include flatworms, shrimp, and juvenile wrasse on the reef edge.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

@@ -23,9 +23,9 @@ Danger Rock lies in the southern Strait of Georgia, marked as a navigational haz
 
 - **Location**: Southern Strait of Georgia, near Gulf Islands, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Submerged rock / reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres
 - **Current**: Tidal currents present — plan around slack
 - **Best Time**: Late spring through autumn
@@ -57,11 +57,8 @@ Tidal currents in the Strait of Georgia require careful timing. Vessel traffic i
 
 Wide-angle photography of the rock's encrusted faces with fish in the mid-water column creates strong Pacific Northwest compositions. Octopus portraits and lingcod resting on substrate make excellent subjects. Macro photographers should examine sponge-covered surfaces for nudibranchs.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
 - Sidney area dive operators
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

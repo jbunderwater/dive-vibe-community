@@ -58,9 +58,5 @@ Turtle Rock is among the most forgiving sites in the Similan archipelago. Curren
 
 Green turtle portraits from this site are among the most accessible in the Similans. The overhangs allow a stable approach with the turtle stationary; shoot at eye level with a wide-angle to 60mm range. For natural colour rendition in ambient light at 12–18 m, a white balance correction (or shooting RAW) will recover the warm tones. Turtle-and-reef compositions with ambient blue-water background are an alternative to tight portraits. Frogfish, if located, are classic 100mm macro subjects in the sandy zones.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Similan Dive Guide](https://www.similandiveguide.com/), [Sunrise Divers - Similan Islands Dive Sites](https://www.sunrise-divers.com/dive-sites/similan-islands/), [Dive The World Thailand - Similan Islands](https://www.divetheworldthailand.com/similan-islands-diving-sites.php), [Sea Bees Diving - Scuba Diving Similans](https://sea-bees.com/scuba-diving-similans/), [Dive Happy - Diving Similan Islands Guide](https://divehappy.com/diving-similan-islands-quick-guide/). Last updated 2026-04-04.*

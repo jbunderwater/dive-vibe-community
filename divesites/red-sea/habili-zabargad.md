@@ -22,8 +22,8 @@ Zabargad Island is famed in the liveaboard world as a jewel of the far southern 
 ## Site Information
 
 - **Location**: Near Zabargad Island (St. John's Island), far southern Egyptian Red Sea
-- **Entry Type**: Boat dive (liveaboard only)
-- **Site Type**: Offshore reef pinnacle near remote island
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25–40 meters
@@ -59,4 +59,4 @@ All standard remote liveaboard precautions apply. The Zabargad area can experien
 The Zabargad area is a bucket-list photography destination. Wide-angle shots in the exceptional 30–40 meter visibility create images of incomparable quality. Hammerhead sequences in the blue water are among the most sought-after images in Red Sea photography. The pristine coral pinnacle and turtle encounters provide outstanding subjects throughout the dive.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

@@ -23,9 +23,9 @@ Dyer Rocks are situated in the southern portion of Saanich Inlet, one of the mos
 
 - **Location**: Saanich Inlet, near Victoria, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 6–12 metres
 - **Current**: Moderate tidal currents in Saanich Inlet
 - **Best Time**: Late spring through autumn
@@ -57,11 +57,8 @@ Tidal currents in Saanich Inlet are generally moderate. The inlet is relatively 
 
 Saanich Inlet octopus are among the most photographed subjects in BC diving. Wide-angle octopus portraits with rocky backgrounds, or octopus in dens, are standout images. Wolf eel portraits in crevice entrances are classic Pacific Northwest shots. Macro photography on encrusting surfaces finds nudibranchs throughout.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
 - Victoria area dive operators familiar with Saanich Inlet
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

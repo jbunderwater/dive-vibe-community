@@ -32,4 +32,5 @@ The wreck's size means a single dive cannot cover it all — the bow, midships, 
 
 Advanced certification is required for the deeper sections of the wreck, which touch 38 metres at the sandy seabed alongside the hull. Nitrox enriched air is recommended for extended bottom time on the shallower sections without decompression obligation. Penetration requires torches and wreck-diving qualification — the interior is dark and silt disturbance can rapidly reduce visibility inside the holds. The wreck is popular with dive centres from Male and can be busy on weekends; weekday morning dives give the most peaceful experience. Photographers will need wide-angle capability to capture the scale of the hull, while macro shooters will find endless subjects in the encrusted details.
 
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

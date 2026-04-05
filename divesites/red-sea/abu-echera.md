@@ -58,9 +58,5 @@ The remoteness of the southern Red Sea requires self-reliance. Carry fully charg
 
 The protected reef status means excellent coral quality and relatively undisturbed marine life. Wide-angle coral garden shots with natural light are highly rewarding. Turtles and rays provide charismatic wide-angle subjects. The macro life on protected reefs here rivals more famous sites in the northern Red Sea.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

@@ -50,8 +50,5 @@ The mildest conditions in the archipelago, but the Advanced rating reflects the 
 ## Photography
 A good site for equipment testing and practice before the archipelago's more demanding sites. The lava block formations provide interesting structures for wide-angle compositions. Lower visibility compared to other Socorro sites may affect wide-angle range. Close-focus wide-angle on the lava formations can yield strong results.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Mexico Liveaboards - Socorro Revillagigedo](https://mexicoliveaboards.com/destination-socorro.html), [Baja Wild Encounters - Socorro Islands Diving](https://bajawildencounters.com/socorro-islands-scuba-diving-liveaboard-expedition-mexico), [Bluewater Dive Travel - Socorro Island Diving](https://www.bluewaterdivetravel.com/destination/socorro-island-diving), [Nautilus Liveaboards - Scuba Diving Socorro Islands](https://nautilusliveaboards.com/2025/08/21/scuba-diving-socorro-islands/), [Dive Worldwide - Socorro Revillagigedo](https://www.diveworldwide.com/locations/socorro). Last updated 2026-04-04.*

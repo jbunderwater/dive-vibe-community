@@ -58,9 +58,5 @@ The Boardroom is one of Alor's safest dive sites in terms of current and depth, 
 
 The Boardroom is a pure macro site. A 100 mm macro lens or equivalent handles most subjects, with a wet dioptre available for the smallest animals such as pygmy seahorses and juvenile dragonets. The dark volcanic sand background simplifies composition — isolating a colourful frogfish or wunderpus against a black substrate creates images with visual impact that requires no post-processing tricks. Cephalopods are ideal subjects because they often remain stationary for extended shooting sessions, allowing refined exposure and framing.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Alami Alor Dive Resort Diving](https://www.alamialor.com/diving-snorkeling/scuba-diving/), [Alor Divers Resort](https://www.alor-divers.com/), [ZuBlu Scuba Diving in Alor](https://www.zubludiving.com/destination/indonesia/nusa-tenggara/alor), [Solitude World Alor Diving Guide](https://solitude.world/alor-diving-guide/), [Dive the World Alor](https://www.dive-the-world.com/diving-sites-indonesia-alor.php). Last updated 2026-04-04.*

@@ -59,4 +59,4 @@ This is one of Croatia's most beginner-friendly wreck dives. Depth is well withi
 The intact, clean hull of a relatively recent wreck provides clear photographic subjects with good ambient light penetration at this depth. Wide-angle shots of the full vessel silhouette in good visibility are very achievable. As the wreck matures, macro subjects on the encrusting surfaces will become increasingly rewarding.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*

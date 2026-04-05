@@ -50,8 +50,5 @@ Turtle Cavern has claimed the lives of divers who entered without proper cave di
 ## Photography
 Inside the cave, photography requires powerful video lights for focusing and composition, as strobes in the confined space will produce significant backscatter. The turtle skeletal remains are haunting subjects but the silty conditions make clean images extremely challenging. Outside the cave, the entrance framed by the blue wall water makes a dramatic wide-angle composition. A diver silhouetted at the cave entrance is a powerful image that can be captured without entering the overhead environment.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Scuba Junkie Complete Guide to Diving Sipadan](https://www.scuba-junkie.com/complete-guide-dive-sipadan-island/), [PADI Blog Diving Sipadan](https://blog.padi.com/everything-you-need-to-know-about-diving-sipadan/), [Dive The World Sipadan](https://www.dive-the-world.com/diving-sites-malaysia-sipadan-island.php), [Bluewater Dive Travel Sipadan](https://www.bluewaterdivetravel.com/destination/sipadan-diving), [SSI Guide to Diving Sipadan](https://www.divessi.com/en/blog/guide-to-scuba-diving-in-sipadan-9852.html). Last updated 2026-04-04.*

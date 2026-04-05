@@ -22,10 +22,10 @@ The City of Grand Rapids was a passenger and freight steamer that caught fire an
 ## Site Information
 
 - **Location**: Georgian Bay, Lake Huron, Fathom Five National Marine Park, Ontario, Canada
-- **Entry Type**: Boat dive (also snorkel accessible)
-- **Site Type**: Wreck
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 5 metres
+- **Maximum Depth**: 5 meters
 - **Typical Visibility**: 10–20 metres
 - **Water Temperature**: 10–20°C at surface in summer; cooler at the wreck bottom
 - **Current**: Minimal in protected Big Tub Harbour area
@@ -59,9 +59,5 @@ This site is genuinely beginner-friendly, but cold water remains a consideration
 
 The City of Grand Rapids is outstanding for natural-light photography. The 5-metre depth allows full ambient light penetration, showing the wreck's structure in vivid colour without the need for artificial lighting. Wide-angle shots of the entire hull framed with sunlight from above, or close-up images of the side-wheel mechanism, are popular subjects.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Michigan.org - Dive Michigan Shipwrecks Underwater Preserves](https://www.michigan.org/article/trip-idea/dive-michigan-shipwrecks-these-underwater-preserves), [Great Lakes Shipwreck Preservation Society - Dive Sites](https://glsps.clubexpress.com/DiveSites), [Scuba Diving Magazine - Great Lakes Shipwrecks](https://www.scubadiving.com/great-lakes-shipwrecks-like-youve-never-seen-them-before), [Gear Patrol - Guide to Wreck Diving the Great Lakes](https://www.gearpatrol.com/archive/a162066/great-lakes-wreck-diving-guide/), [Shipwreck Explorers - Wisconsin Scuba Diving](https://www.shipwreckexplorers.com/). Last updated 2026-04-04.*

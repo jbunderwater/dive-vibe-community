@@ -50,8 +50,5 @@ Currents in Mill Channel are tidal and can increase suddenly. Listen carefully t
 ## Photography
 This is one of the world's premier manta photography locations. Wide-angle lenses (10-17mm fisheye or 10-24mm rectilinear) are essential. No strobes or flash are permitted -- rely on natural light and shoot upward to silhouette mantas against the surface. The shallow depth means excellent ambient light in the mornings. Video shooters will find the predictable manta approaches ideal for steady, close-range footage. Patience and a low profile yield the best results.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Visit Yap - Dive Sites](https://visityap.com/dive_sites.php), [Manta Ray Bay Resort - Dive Sites](https://mantaray.com/sites/), [Bluewater Dive Travel - Yap](https://www.bluewaterdivetravel.com/destination/yap-diving), [PADI - Diving in Yap](https://www.padi.com/diving-in/yap/), [Ikelite - Insider Guide to Diving Yap](https://www.ikelite.com/blogs/features/an-insiders-guide-to-diving-yap-micronesia). Last updated 2026-04-04.*

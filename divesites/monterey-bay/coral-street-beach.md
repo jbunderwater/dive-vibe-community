@@ -71,10 +71,10 @@ While rated intermediate, the conditions and current demand good buoyancy contro
 
 Only dive on genuinely calm days—the long surface swim makes rough conditions dangerous. Monitor current constantly throughout the dive. Kelp growth in summer can be daunting. Always use an SMB on ascent. Buddy contact is essential given the current variability. Good situational awareness of position relative to shore is critical.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
 - **Validation Source**: Perplexity research, California Diving News, local dive guides
 
 ---
 *Coral Street Beach offers quieter diving with unique features for prepared intermediate divers. Updated 2026-03-16.*
+
+---
+*Sources: [Monterey Bay Aquarium](https://www.montereybayaquarium.org/), [Aquarius Dive Shop](https://aquariusdivers.com/guided-tours), [Bamboo Reef Diving](https://www.bambooreef.com/dive-monterey), [Monterey Scuba Board](https://montereyscubaboard.com/monterey-dive-sites/), [See Monterey](https://www.seemonterey.com/things-to-do/outdoors/scuba-diving/). Last updated 2026-04-04.*

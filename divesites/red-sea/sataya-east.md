@@ -23,9 +23,9 @@ Sataya East encompasses the eastern wall and slope of the atoll, facing into the
 
 - **Location**: Sataya Reef (Dolphin Reef), Fury Shoals, southern Red Sea, Egypt
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef / wall
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters (wall extends deeper)
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-35 meters (65-115 feet)
 - **Current**: Moderate to strong
 - **Best Time**: October to May
@@ -58,9 +58,5 @@ Current can be significant on the eastern face; confirm conditions with the guid
 
 The dolphin encounters make Sataya East one of the most photographed sites in the southern Red Sea. Wide-angle and fisheye lenses capture dolphins in blue water against the reef backdrop. The wall's soft corals and gorgonians produce excellent close-focus wide-angle shots. Sharks and barracuda schools reward patience at the reef edge.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

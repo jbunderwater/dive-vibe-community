@@ -50,8 +50,5 @@ This is one of Palau's safest dive sites. Shallow depth, calm conditions, and no
 ## Photography
 Ngerechong North Coral Garden is a reef photographer's paradise. Wide-angle with a close-focus setup captures the scale and density of the coral garden, with colorful fish schools providing foreground interest. Natural light at this depth is excellent -- slow shutter speeds and small apertures work well for expansive reef scenes. Macro shooters will find anemonefish, nudibranchs, and crustaceans throughout. Shoot downward to capture the coral mosaic pattern, or low and along the reef to frame the fish schools against blue water. The calm conditions allow precise composition without fighting current.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Palau Dive Adventures](https://palaudiveadventures.com/best-dive-sites-palau/), [Bluewater Dive Travel - Palau](https://www.bluewaterdivetravel.com/destination/palau-diving), [Dive the World - Palau](https://www.dive-the-world.com/diving-sites-palau.php), [PADI - Diving in Palau](https://www.padi.com/diving-in/palau/), [Pristine Paradise Palau](https://pristineparadisepalau.com/dive-palau/). Last updated 2026-04-04.*

@@ -59,4 +59,4 @@ Stonefish are among the hazards unique to rubble-heavy sites like TK3 — their 
 The rubble habitat at TK3 opens photographic opportunities that are less available on the smooth sand at TK1. Stonefish and scorpionfish make compelling camouflage-pattern macro subjects when found in good position. Frogfish posed against rubble backgrounds offer interesting texture contrast. Shrimp species in rock crevices benefit from a focus light to illuminate subjects in shadow. A 60mm or 100mm macro lens covers the range of subjects well.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [NAD-Lembeh Resort Diving](https://www.nad-lembeh.com/diving_lembeh/), [Lembeh Resort Muck Diving Guide](https://www.lembehresort.com/blogs/guide-muck-diving-lembeh), [Underwater Photography Guide Lembeh](https://www.uwphotographyguide.com/lembeh-diving), [ZuBlu Lembeh Strait](https://www.zubludiving.com/articles/zublu-insights/legendary-lembeh), [Starfish Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html). Last updated 2026-04-04.*

@@ -75,7 +75,6 @@ The Valley offers excellent opportunities for underwater photography with its un
 - Weather conditions: Curaçao Meteorological Department
 - Emergency contacts: Curaçao Hyperbaric Center (+599 9 465-2647)
 
----
 
-*Last updated: January 2025*  
-*Information compiled from multiple diving sources and local knowledge*
+---
+*Sources: [Ocean Encounters – Curacao Dive Sites](https://www.oceanencounters.com/excursions/curacao-dive-sites/), [Go West Diving – Curacao Dive Sites](https://www.gowestdiving.com/diving-curacao/dive-sites/), [Curacao Tourism – Diving & Snorkeling](https://www.curacao.com/en/category/scuba-diving-and-snorkeling), [Scuba Diving Magazine – Curacao Guide](https://www.scubadiving.com/guide-diving-curacao), [Dive Curacao Info](https://www.divecuracao.info/dive/curacao-diving-guide/). Last updated 2026-04-04.*

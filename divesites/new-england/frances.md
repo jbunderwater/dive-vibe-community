@@ -22,8 +22,8 @@ The schooner *Frances* was lost on December 27, 1872, driven ashore on the outer
 ## Site Information
 
 - **Location**: Outer Cape Cod beach, Wellfleet/Truro area, Massachusetts
-- **Entry Type**: Beach (wading/snorkeling at low tide)
-- **Site Type**: Wreck
+- **Entry Type**: beach
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 3 meters
 - **Typical Visibility**: 1–4 meters (surf zone; best on calm days at low tide)
@@ -66,4 +66,4 @@ Exposed wreck timbers in the surf zone — partially buried in sand, worn smooth
 - **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [iDive New England](https://www.idivenewengland.com/dive-sites), [East Coast Divers - New England Dive Site Map](https://ecdivers.com/new-england-dive-site-map/), [Northern Atlantic Dive Expeditions - Shipwrecks](https://northernatlanticdive.com/shipwrecks/), [ScubaBoard - Top New England Dive Sites](https://scubaboard.com/community/threads/top-new-england-dive-sites.349618/). Last updated 2026-04-04.*

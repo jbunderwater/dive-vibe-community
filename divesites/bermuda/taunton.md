@@ -23,9 +23,9 @@ The Taunton was a 228-foot Danish cargo steamer built in 1902, en route from Nor
 
 - **Location**: Northeastern reef, near St. George's, Bermuda
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 6 meters (20 feet)
+- **Maximum Depth**: 6 meters
 - **Typical Visibility**: 15–25 meters (50–82 feet)
 - **Current**: Light
 - **Water Temperature**: 18–28°C (64–82°F)
@@ -59,9 +59,5 @@ At 6 meters, this is one of Bermuda's most benign wrecks from a depth perspectiv
 
 The Taunton's upright engine and boilers in shallow, clear water are exceptional photography subjects. Upward-looking wide-angle compositions with the machinery silhouetted against the bright surface are iconic. Natural light photography is outstanding at 6 meters. The coral and sponge encrustation on the boiler surfaces creates rich macro opportunities. Snorkelers with waterproof cameras can photograph the machinery from above.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Go To Bermuda - Top Dive Sites](https://www.gotobermuda.com/plan/inspiration/article/top-dive-sites-in-bermuda), [Go To Bermuda - Bermuda Shipwrecks](https://www.gotobermuda.com/plan/inspiration/article/dive-into-bermuda-shipwrecks), [Scuba Diving Magazine - Guide to Scuba Diving Bermuda](https://www.scubadiving.com/guide-to-scuba-diving-bermuda), [Blue Water Divers Bermuda - Shipwrecks](https://www.divebermuda.com/shipwrecks/), [Bermuda Attractions - Famous Shipwrecks and Dive Sites](https://www.bermuda-attractions.com/bermuda_000045.htm). Last updated 2026-04-04.*

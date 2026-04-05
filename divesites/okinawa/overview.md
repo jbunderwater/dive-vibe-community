@@ -37,14 +37,5 @@ Okinawa is a premier diving destination in the Asia region, offering 25 document
 - **Language**: Japanese
 - **Safety**: Always dive within certification limits. Be aware of strong currents, jellyfish, sea urchins. Verify the location of the nearest hyperbaric chamber before diving.
 
-## Sources
-
-- OpenStreetMap dive site data and community contributions
-- Regional diving guides and operator information
-- Marine conservation organization reports
-- Local tourism board resources
-
 ---
-
-*Last updated: March 2026*
-*Compiled from OpenStreetMap data, regional diving knowledge, and authoritative marine sources*
+*Sources: [Visit Okinawa Japan - Dive Sites Guide](https://visitokinawajapan.com/discover/dive-sites-okinawa/kerama-islands-diving/), [JNTO Japan Diving - Okinawa](https://www.japan.travel/en/sports/diving/where-to-dive/okinawa/), [Aloha Divers Okinawa - Dive Sites](https://www.alohadiversokinawa.com/dive-sites-okinawa), [Fluid Levitation - Okinawa Dive Sites](https://www.fluidlevitation.com/okinawa-dive-sites), [PADI - Top Dive Sites in Okinawa](https://www.padi.com/dive-sites/okinawa/). Last updated 2026-04-04.*

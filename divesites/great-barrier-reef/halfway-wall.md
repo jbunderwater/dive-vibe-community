@@ -59,4 +59,4 @@ Wall dives require consistent depth monitoring — it is easy to drift deeper th
 Halfway Wall excels for wide-angle photography with divers positioned against the soft coral backdrop and the blue water column extending below. Use a strobe to bring out the orange and red tones of the soft corals, which appear dull without artificial light at depth. Sea fans with associated hawkfish provide excellent close-focus wide-angle compositions.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Great Barrier Reef Marine Park Authority](https://greatbarrierreef.org/reef-experiences/diving-the-reef/), [Pro Dive Cairns - Dive Sites](https://prodivecairns.com/divesites.html), [PADI - Diving the Great Barrier Reef](https://www.padi.com/diving-in/great-barrier-reef/), [Divezone - Great Barrier Reef](https://divezone.net/diving/great-barrier-reef), [Divernet - Southern Great Barrier Reef Guide](https://divernet.com/scuba-diving/southern-great-barrier-reef-australia-guide/). Last updated 2026-04-04.*

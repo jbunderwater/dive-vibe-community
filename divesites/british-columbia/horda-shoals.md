@@ -23,9 +23,9 @@ Horda Shoals is a popular intermediate boat dive in the northern Gulf Islands, w
 
 - **Location**: Northern Gulf Islands, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky shoal / reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 6-12 metres
 - **Water Temperature**: 8-12°C (drysuit recommended)
 - **Current**: Strong on tidal exchanges — dive at slack
@@ -60,4 +60,4 @@ The strong tidal currents through the Gulf Islands channels pose the main hazard
 Horda Shoals offers a classic Gulf Islands photo opportunity set. Wide-angle ambient shots through the kelp canopy work well on bright calm days. For targeted encounters, GPO portraits and lingcod resting on sponge-covered rock are the standout subjects. Macro photographers can find nudibranchs, shrimp, and small crustaceans throughout the shallower reef sections.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

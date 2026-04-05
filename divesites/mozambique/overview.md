@@ -36,14 +36,5 @@ Mozambique is a notable diving destination in the Africa region with depths rang
 - **Language**: Portuguese
 - **Safety**: Always dive within certification limits. Be aware of strong currents, jellyfish, remote locations. Verify the location of the nearest hyperbaric chamber before diving.
 
-## Sources
-
-- OpenStreetMap dive site data and community contributions
-- Regional diving guides and operator information
-- Marine conservation organization reports
-- Local tourism board resources
-
 ---
-
-*Last updated: March 2026*
-*Compiled from OpenStreetMap data, regional diving knowledge, and authoritative marine sources*
+*Sources: [Tofo Scuba - Dive Sites](https://www.tofoscuba.com/dive-sites), [Peri-Peri Divers - Diving Tofo](https://www.peri-peridivers.com/diving-tofo/), [SCUBA Travel - Diving Mozambique](https://www.scubatravel.co.uk/africa/diving-mozambique.html), [Bluewater Dive Travel - Mozambique](https://www.bluewaterdivetravel.com/destination/mozambique-diving), [PADI - Diving in Inhambane Tofo](https://www.padi.com/diving-in/inhambane-tofo/). Last updated 2026-04-04.*

@@ -30,4 +30,5 @@ The upper reef plateau at 15–20 metres features hard coral gardens and scatter
 
 Advanced divers should manage bottom time carefully on the deeper sections; the wall's gradient makes it easy to descend beyond planned depths. Addu Atoll's remoteness — accessible primarily by liveaboard or the domestic airport at Gan — means conditions are infrequently documented, so consult your dive guide's local knowledge on current direction before entry. Visibility in the 30–40 m range makes wide-angle photography of the wall highly rewarding.
 
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

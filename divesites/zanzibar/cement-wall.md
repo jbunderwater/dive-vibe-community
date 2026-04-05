@@ -57,9 +57,5 @@ The wall's 22-meter maximum depth requires attention to NDL limits, particularly
 
 The wall overhangs create interesting lighting conditions with natural light from above and shadow below, ideal for strobe-lit interior shots of crevice species. The lionfish at Cement Wall are attractive subjects given their habitual stillness — a 60mm or 100mm macro lens works well for full-frame portraits.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Diving in Zanzibar - Nungwi Dive Center](https://www.divinginzanzibar.com/dive-sites-map/), [PADI - Diving in Zanzibar](https://www.padi.com/diving-in/zanzibar/), [PADI - Top Dive Sites Zanzibar](https://www.padi.com/dive-sites/zanzibar/), [Bluewater Dive Travel - Zanzibar](https://www.bluewaterdivetravel.com/destination/diving-zanzibar-tanzania-kenya), [One Ocean Zanzibar](https://zanzibaroneocean.com/). Last updated 2026-04-04.*

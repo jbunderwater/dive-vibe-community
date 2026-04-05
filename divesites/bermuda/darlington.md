@@ -23,9 +23,9 @@ The Darlington was an iron-hulled British steamer powered by a 250-horsepower co
 
 - **Location**: Western Reef, Bermuda
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 6 meters (20 feet)
+- **Maximum Depth**: 6 meters
 - **Typical Visibility**: 15–25 meters (50–82 feet)
 - **Current**: Light
 - **Water Temperature**: 18–28°C (64–82°F)
@@ -59,9 +59,5 @@ At 6 meters, depth-related hazards are minimal. The primary concerns are boat tr
 
 The shallow depth and Bermuda's excellent clarity make the Darlington an accessible photography site. The rudder pointing toward the surface with light filtering down creates an iconic image. Hull plates and boilers covered in colorful encrusting life photograph well with natural light supplemented by a single strobe. Macro subjects including cleaning shrimp and encrusting invertebrates are abundant.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Go To Bermuda - Top Dive Sites](https://www.gotobermuda.com/plan/inspiration/article/top-dive-sites-in-bermuda), [Go To Bermuda - Bermuda Shipwrecks](https://www.gotobermuda.com/plan/inspiration/article/dive-into-bermuda-shipwrecks), [Scuba Diving Magazine - Guide to Scuba Diving Bermuda](https://www.scubadiving.com/guide-to-scuba-diving-bermuda), [Blue Water Divers Bermuda - Shipwrecks](https://www.divebermuda.com/shipwrecks/), [Bermuda Attractions - Famous Shipwrecks and Dive Sites](https://www.bermuda-attractions.com/bermuda_000045.htm). Last updated 2026-04-04.*

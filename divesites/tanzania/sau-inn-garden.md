@@ -57,9 +57,5 @@ One of the safest diving environments in Zanzibar. Minimal current, shallow-mode
 
 The "garden" quality of this site — varied coral formations, sandy openings, and resident fish — creates a naturally attractive photography subject. The calm water and good natural light in the shallower zones (5-10 meters) allow extended photography without subject disturbance. Sleeping parrotfish at night are an unusual and striking photography subject.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*

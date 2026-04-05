@@ -23,7 +23,7 @@ Smaller wooden and steel coastal vessels that have sunk in Tanzania's northern w
 
 - **Location**: Northern Tanzania coast (Tanga region)
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-15 meters (33-50 feet)
@@ -57,9 +57,5 @@ Intermediate wreck diving hazards apply — potential for silting up interior vi
 
 The wreck structure provides excellent wide-angle photography subjects with natural light from above illuminating the upper sections dramatically. Macro photography of the encrusted surfaces reveals nudibranchs, commensal crabs, and small invertebrates visible only under close examination. Batfish portraits at the bow or stern are classic wreck photography subjects.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*

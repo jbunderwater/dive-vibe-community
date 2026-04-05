@@ -23,9 +23,9 @@ Coghlan Rock lies in the waters south of Victoria near Race Rocks, one of the st
 
 - **Location**: Strait of Juan de Fuca, south of Victoria near Race Rocks, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Submerged rock / reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres
 - **Current**: Strong tidal currents — strict timing to slack essential
 - **Best Time**: Late spring through autumn at slack tide
@@ -57,12 +57,9 @@ Strong tidal currents and Pacific swell make this an advanced-conditions site de
 
 Sea lion underwater encounters are among the most exciting wildlife photography subjects in BC. The fast-moving animals and clear open water create dynamic wide-angle images. Plumose anemone fields with fish in the background make classic temperate reef compositions. Macro photography on sponge surfaces finds exceptional nudibranch diversity.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
 - Race Rocks Ecological Reserve: racerocks.com
 - Pedder Bay Marina for charter access
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

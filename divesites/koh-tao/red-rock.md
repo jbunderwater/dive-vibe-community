@@ -23,9 +23,9 @@ Red Rock is a prominent rock pinnacle off the coast of Koh Nang Yuan that drops 
 
 - **Location**: Off Koh Nang Yuan, northwest Koh Tao, Gulf of Thailand
 - **Entry Type**: Boat dive
-- **Site Type**: Reef / Rock Pinnacle
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 25 m
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10–18 m
 - **Current**: Mild to moderate
 - **Best Time**: May to August
@@ -58,9 +58,5 @@ Banded sea snakes are venomous but non-aggressive — do not attempt to handle o
 
 Yellow boxfish portraits in the crack are the signature shot. Banded sea snakes cruising the rock face make atmospheric compositions. The rock colour texture with encrusting organisms suits close-up wide-angle photography. The crack interior with torch illumination creates dramatic contrast shots.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Koh Tao Complete Guide - Best Dive Sites](https://www.kohtaocompleteguide.com/diving/koh-tao-dive-sites/), [Sairee Cottage Diving - Koh Tao Dive Sites Complete Guide](https://www.saireecottagediving.com/koh-tao-dive-sites-complete-guide-to-26-incredible-locations/), [Big Blue Diving Koh Tao](https://www.bigbluediving.com/), [PADI - Diving in Koh Tao](https://www.padi.com/diving-in/koh-tao/), [Dive Happy - Koh Tao Dive Sites Guide](https://divehappy.com/). Last updated 2026-04-04.*

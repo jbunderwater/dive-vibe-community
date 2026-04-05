@@ -58,9 +58,5 @@ Standard wall dive precautions: depth monitoring, buoyancy control, and SMB carr
 
 A clean, photogenic wall dive site. Wide-angle shots along the wall face with sea fans in the foreground and open blue water behind create classic wall dive compositions. The reef plateau in bright ambient light is excellent for turtle portraits. Flamingo tongues on sea fans are rewarding macro subjects on the wall face.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Utila Dive Center](https://utiladivecenter.com/), [Utila Cays Diving - Dive Sites](https://utilacaysdiving.com/dive-with-us/dive-sites/), [Alton's Dive Center Utila](https://diveinutila.com/), [World Adventure Divers - 10 Reasons to Dive Utila](https://worldadventuredivers.com/diving-utila/), [ZuBlu - Scuba Diving in Utila](https://www.zubludiving.com/destination/honduras/bay-islands/utila). Last updated 2026-04-04.*

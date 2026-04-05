@@ -23,7 +23,7 @@ Gabu El Bint is a reef dive site in the northern Egyptian Red Sea near Sharm el-
 
 - **Location**: Northern Egyptian Red Sea, Sharm el-Sheikh area
 - **Entry Type**: Boat dive
-- **Site Type**: Fringing coral reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–30 meters
@@ -59,4 +59,4 @@ Tidal currents are an ever-present factor in this area. Always check conditions 
 The mid-depth reef slope produces attractive wide-angle compositions combining hard coral, reef fish, and the deep blue backdrop. Macro subjects including blennies, gobies, and nudibranchs are present in the coral rubble. Morning light penetrates well to 15 meters for natural-light photography.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

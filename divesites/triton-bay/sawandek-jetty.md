@@ -59,9 +59,5 @@ Sawandek Jetty is one of the safest and most forgiving sites in Triton Bay. The 
 
 The shallow, calm conditions make Sawandek Jetty a forgiving environment for underwater photography experimentation. Giant clams provide spectacular wide-angle subjects — position yourself low and shoot toward the mantle with a wide lens to capture the iridescent blue-green patterns. The whitetip sharks on the sand are classic ambient-light subjects; available light at 6 to 8 meters is usually sufficient in daylight hours. Night photography here is outstanding: Spanish dancer nudibranchs (often 20cm or more) are among the most dramatic macro subjects anywhere in the Indo-Pacific, and their red coloration against a dark background makes for powerful images. A 60mm macro lens is versatile for the jetty critter subjects; a fisheye or 16-35mm on the giant clams.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Triton Bay Divers Resort](https://tritonbaydivers.com/), [ZuBlu Scuba Diving in Triton Bay](https://www.zubludiving.com/destination/indonesia/west-papua/triton-bay), [Scuba Diving Magazine Triton Bay Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-triton-bay-indonesia), [Dive the World Triton Bay](https://www.dive-the-world.com/diving-sites-indonesia-triton-bay.php), [Merapi Tours Triton Bay Dive Sites](https://www.merapitours.com/indonesia/papua/triton-bay-dive-sites). Last updated 2026-04-04.*

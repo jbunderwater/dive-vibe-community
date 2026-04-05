@@ -22,7 +22,7 @@ This is an offshore reef site accessed exclusively by liveaboard, with the isola
 ## Site Information
 
 - **Location**: Southern Red Sea, Egypt (offshore reef)
-- **Entry Type**: Boat dive (liveaboard access)
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
@@ -59,4 +59,4 @@ Offshore reefs in the southern Red Sea require greater self-sufficiency than res
 Remote southern Red Sea reefs provide exceptional wide-angle opportunities — clean water, vibrant coral color, and shark activity create compelling images. A fisheye or wide-angle zoom lens is ideal. Macro subjects are plentiful on the coral walls. Shoot toward the open blue water to include the reef edge and any pelagic visitors in the frame.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

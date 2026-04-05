@@ -23,7 +23,7 @@ Cow and Calf is a pair of submerged granite reef outcrops rising from the sandy 
 
 - **Location**: False Bay, near Simon's Town, Cape Town, South Africa
 - **Entry Type**: Boat dive
-- **Site Type**: Boulder reef with kelp
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 meters
 - **Typical Visibility**: 4-12 meters (13-40 feet)
@@ -58,9 +58,5 @@ False Bay is a busy waterway — deploy an SMB during your safety stop. Cold wat
 
 The shallow depth allows good natural light throughout the dive. Seal interactions are the premier photographic subject — wide-angle lenses capture them spiralling through kelp fronds. The kelp canopy creates natural framing for reef portraits. A compact camera is well-suited to the site's shallow, kelp-filtered light.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Oceans Africa](https://www.oceansafrica.com/dive-cape-town/), [Apnea Addicts Dive Sites](https://www.aaddicts.co.za/snorkeling/dive-sites-in-cape-town/), [Wikivoyage - Diving the Cape Peninsula and False Bay](https://en.wikivoyage.org/wiki/Diving_the_Cape_Peninsula_and_False_Bay/Dive_sites), [Bluewater Dive Travel - South Africa](https://www.bluewaterdivetravel.com/destination/south-africa-diving), [Underwater Kinetics - Scuba Diving Cape Town](https://uwk.com/blogs/best-dive-locations/scuba-diving-in-cape-town-complete-guide). Last updated 2026-04-04.*

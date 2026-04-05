@@ -38,4 +38,4 @@ Grey reef sharks (20-50 individuals consistently), big-eye trevally schools, Nap
 Descend the mooring line quickly to the top of the thila to orient before the current carries you off. Position on the sheltered down-current face for the best shark viewing — the grey reefs stack here in the current shadow. Maintain neutral buoyancy strictly and avoid hanging in the water column above the pinnacle, which can scatter the shark schools. Strong Advanced certification and current diving experience is essential. The site is best dived early morning when shark activity is highest.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

@@ -58,9 +58,5 @@ Moderate currents around the island can strengthen at points where the island's 
 
 Marine iguanas feeding underwater are one of the most unique photographic subjects in diving. Use a wide-angle lens and approach slowly from the side, getting low and level with the iguana for eye-contact compositions. They are relatively tolerant of close approach if you move deliberately. Strobes help bring out the red and green coloration of both the iguanas and the algae against the dark volcanic rock. Sea lions circling the island provide dynamic wide-angle subjects. The volcanic wall itself, with its textured lava formations and algae growth, creates a distinctive backdrop different from typical tropical reef scenes. Shoot in the shallows for best natural light.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [PADI - Diving in the Galapagos Islands](https://www.padi.com/diving-in/the-galapagos-islands/), [PADI Blog - Top Dive Sites in the Galapagos](https://blog.padi.com/top-dive-sites-in-the-galapagos/), [Bluewater Dive Travel - Galapagos](https://www.bluewaterdivetravel.com/destination/galapagos-diving), [World Adventure Divers - Diving Galapagos](https://worldadventuredivers.com/diving-galapagos/), [Galapagos Safari Camp - Scuba Diving](https://www.galapagossafaricamp.com/scuba-diving-galapagos/). Last updated 2026-04-04.*

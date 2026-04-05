@@ -22,8 +22,8 @@ Abu Galawa Soraya is the smaller counterpart to Abu Galawa Kebir, sitting slight
 ## Site Information
 
 - **Location**: Fury Shoal (Abu Galawa Soraya lagoon), south of Marsa Alam, Red Sea, Egypt
-- **Entry Type**: Boat dive (liveaboard)
-- **Site Type**: Coral reef / lagoon
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25–40 meters
@@ -58,9 +58,5 @@ The enclosed lagoon is among the safest dive environments in the Red Sea. Be cau
 
 The turquoise lagoon with pristine coral and clear water creates extraordinary ambient-light photography conditions. Turtles are approachable and reliably encountered. Wide-angle shots of the coral garden with blue lagoon water above make for stunning results. The compact lagoon makes it easy to cover the entire site in a single dive and photograph varied subjects.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

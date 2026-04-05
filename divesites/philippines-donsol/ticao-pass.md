@@ -22,8 +22,8 @@ The Ticao Pass cuts between Ticao Island and the Sorsogon mainland, channelling 
 ## Site Information
 
 - **Location**: Ticao Pass, Sorsogon, Philippines
-- **Entry Type**: Boat dive (drift)
-- **Site Type**: Drift dive / channel
+- **Entry Type**: Boat dive
+- **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-25 meters (variable with plankton)
@@ -58,9 +58,5 @@ Ticao Pass drift diving is genuinely demanding. Strong current, potential for su
 
 Ticao Pass manta ray photography is among the most spectacular in the world. Wide-angle lenses (16–24mm equivalent) capture multiple mantas in formation against the blue water or channel reef background. Shooting from below with mantas silhouetted against surface light creates the most iconic images. Current requires fast shutter speeds and quick repositioning — be ready to work with what the current gives you.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Thresher Shark Divers Donsol Packages](https://thresher-shark-divers.com/collections/donsol-whale-shark-and-manta-packages), [RUSHKULT Whale Sharks Donsol](https://rushkult.com/eng/scubamagazine/whale-sharks-donsol-philippines/), [Shark Diving Philippines - Whale Sharks of Donsol](https://sharkdivingphilippines.com/whale-sharks-of-donsol/), [Guide to the Philippines Whale Sharks](https://guidetothephilippines.ph/articles/what-to-experience/whale-sharks-tours-philippines), [We Are Travel Girls Donsol Philippines](https://wearetravelgirls.com/donsol-philippines-whale-sharks/). Last updated 2026-04-04.*

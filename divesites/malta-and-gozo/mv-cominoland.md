@@ -23,7 +23,7 @@ The Cominoland rests at 28–41 metres with the upper deck structure accessible 
 
 - **Location**: North Malta, Malta
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 41 meters
 - **Typical Visibility**: 20–25 meters
@@ -59,4 +59,4 @@ The 41-metre maximum depth demands careful gas management. The wreck penetration
 The long hull encrusted with two decades of marine growth makes an outstanding wide-angle subject. The interiors lit by torch light produce dramatic chiaroscuro effects. Resident grouper and moray eels provide portrait opportunities. The adjacent Karwela visible in the background distance creates unique double-wreck compositions.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [Atlantis Gozo Dive Sites](https://www.atlantisgozo.com/dive-sites/), [PADI Diving in Malta](https://www.padi.com/diving-in/malta/), [SCUBA Travel Malta Guide](https://www.scubatravel.co.uk/europe/malta-dive-in.html), [Dive Malta-Gozo](https://divemalta-gozo.com/diving-in-gozo/). Last updated 2026-04-04.*

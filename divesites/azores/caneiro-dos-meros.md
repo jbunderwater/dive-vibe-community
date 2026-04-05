@@ -59,9 +59,5 @@ Be aware of cold water (north), currents, boat traffic in this area. Dive within
 
 Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [PADI - Diving in the Azores](https://www.padi.com/diving-in/azores/), [Visit Azores - Dive Spots](https://dive.visitazores.com/en/divespots), [Bluewater Dive Travel - Azores Diving](https://www.bluewaterdivetravel.com/destination/azores-diving), [SCUBA Travel - Portugal Diving (Azores)](https://www.scubatravel.co.uk/europe/portugal-diving.html), [Azores Getaways - Diving in the Azores](https://azoresgetaways.com/en-us/destination/azores/general-articles/diving-azores). Last updated 2026-04-04.*

@@ -38,4 +38,4 @@ Eagle rays, big-eye trevally, lionfish, glass fish, grey reef sharks, soft coral
 The outer face of Entrence 155 can experience stronger current than the nearby base and 110 sites, so check conditions before committing to the exposed wall. If current is running, working the sheltered down-current face is productive and more comfortable. Combine with a deeper pelagic pass at 20-25 meters on entry for the best chance of eagle ray encounters.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

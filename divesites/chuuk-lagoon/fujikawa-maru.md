@@ -64,9 +64,5 @@ The Fujikawa Maru is a war grave -- removing any artifacts is strictly illegal u
 
 The Fujikawa Maru offers world-class wreck photography at every level. Wide-angle shots of the bow gun silhouetted against blue water are iconic Chuuk images. The Zero fighter parts in the forward holds reward careful lighting with strobes or video lights -- the wing sections and engine cowlings are instantly recognizable. The coral-encrusted masts and king posts in shallow water provide spectacular wide-angle compositions with natural light. Macro subjects include nudibranchs on hull surfaces, coral polyps on railings, and the faces of resident lionfish. The relatively good visibility and calm conditions inside the lagoon make this one of the more forgiving wreck photography sites in Chuuk.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive The World - Chuuk Lagoon Wrecks](https://www.dive-the-world.com/diving-sites-chuuk.php), [Truk Stop Hotel - Wrecks Guide](https://www.trukstop.com/index.php/dive-center/wrecks), [Bluewater Dive Travel - Truk Lagoon Diving](https://www.bluewaterdivetravel.com/destination/truk-lagoon-diving), [Thorfinn - Top Wreck Dives in Truk Lagoon](https://thorfinn.net/exploring-the-ghost-fleet-top-wreck-dives-in-truk-lagoon-for-all-skill-levels/), [DIVE Magazine - Divers Guide to Wrecks of Truk Lagoon](https://divemagazine.com/scuba-diving-travel/divers-guide-to-the-wrecks-of-truk-lagoon), [Truk Stop Hotel - Wreck Dive Sites](https://www.trukstop.com/index.php/dive-center/wrecks), [Bluewater Dive Travel - Truk Lagoon](https://www.bluewaterdivetravel.com/destination/truk-lagoon-diving), [SSI - Diving Chuuk Lagoon Guide](https://www.divessi.com/en/blog/diving-chuuk-lagoon-7005.html), [PADI - Diving in Chuuk Truk Lagoon](https://www.padi.com/diving-in/chuuk-truk-lagoon/). Last updated 2026-04-04.*

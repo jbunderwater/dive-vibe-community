@@ -50,8 +50,5 @@ Paradies Corner is one of Palau's more forgiving dive sites, with moderate condi
 ## Photography
 A versatile photography site. Close-focus wide-angle works well for reef scenes featuring coral formations and schooling fish. The corner concentrates fish life into a photogenic area where patient positioning yields images of schools against the reef backdrop. Macro shooters will find nudibranchs, cleaning stations, and anemonefish throughout. Natural light is good in the shallows for ambient-light reef photography. This is a relaxed site where you can take time to compose carefully without fighting strong current.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Palau Dive Adventures](https://palaudiveadventures.com/best-dive-sites-palau/), [Bluewater Dive Travel - Palau](https://www.bluewaterdivetravel.com/destination/palau-diving), [Dive the World - Palau](https://www.dive-the-world.com/diving-sites-palau.php), [PADI - Diving in Palau](https://www.padi.com/diving-in/palau/), [Pristine Paradise Palau](https://pristineparadisepalau.com/dive-palau/). Last updated 2026-04-04.*

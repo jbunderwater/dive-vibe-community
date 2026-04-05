@@ -59,4 +59,4 @@ The remote location of Wadi Lahmy means medical facilities are a significant dis
 Wadi Lahmy offers photography opportunities rarely found at more crowded northern Red Sea sites. The undisturbed coral formations and large reef fish are primary subjects for wide-angle shooting. Macro opportunities are abundant on the coral rubble zones. Dugong encounters, while never guaranteed, represent some of the most memorable underwater photography possible in the Red Sea.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

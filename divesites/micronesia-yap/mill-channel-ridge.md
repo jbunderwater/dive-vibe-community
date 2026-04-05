@@ -50,8 +50,5 @@ Currents can be strong and increase rapidly with tidal changes. Drift diving exp
 ## Photography
 The drift provides opportunities for action shots of mantas and sharks in open water. Wide-angle is the only sensible choice. The challenge is stabilizing yourself in current for sharp images. Higher shutter speeds (1/200 or faster) help freeze motion. Video shooters will appreciate the cinematic quality of drifting alongside marine life. The ridge corals in the foreground with blue-water backgrounds make for compelling compositions.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Visit Yap - Dive Sites](https://visityap.com/dive_sites.php), [Manta Ray Bay Resort - Dive Sites](https://mantaray.com/sites/), [Bluewater Dive Travel - Yap](https://www.bluewaterdivetravel.com/destination/yap-diving), [PADI - Diving in Yap](https://www.padi.com/diving-in/yap/), [Ikelite - Insider Guide to Diving Yap](https://www.ikelite.com/blogs/features/an-insiders-guide-to-diving-yap-micronesia). Last updated 2026-04-04.*

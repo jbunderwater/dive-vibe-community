@@ -23,9 +23,9 @@ Lake Erie wrecks at depth beyond 30 metres offer exceptional preservation condit
 
 - **Location**: Lake Erie, Great Lakes, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 metres
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 5–12 metres
 - **Water Temperature**: 4–22°C at surface (seasonal); bottom consistently 4°C
 - **Current**: Variable; Lake Erie can develop strong current with wind
@@ -60,9 +60,5 @@ The combination of cold water, depth, and Lake Erie's unpredictable weather make
 
 At 40 metres, ambient light is reduced but still sufficient for wide-angle photography in clear conditions. The wreck's well-preserved structure provides compelling subjects. A video light or strobe is valuable for revealing hull details and adding colour to what would otherwise be the characteristic blue-green tones of deep freshwater photography.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Michigan.org - Dive Michigan Shipwrecks Underwater Preserves](https://www.michigan.org/article/trip-idea/dive-michigan-shipwrecks-these-underwater-preserves), [Great Lakes Shipwreck Preservation Society - Dive Sites](https://glsps.clubexpress.com/DiveSites), [Scuba Diving Magazine - Great Lakes Shipwrecks](https://www.scubadiving.com/great-lakes-shipwrecks-like-youve-never-seen-them-before), [Gear Patrol - Guide to Wreck Diving the Great Lakes](https://www.gearpatrol.com/archive/a162066/great-lakes-wreck-diving-guide/), [Shipwreck Explorers - Wisconsin Scuba Diving](https://www.shipwreckexplorers.com/). Last updated 2026-04-04.*

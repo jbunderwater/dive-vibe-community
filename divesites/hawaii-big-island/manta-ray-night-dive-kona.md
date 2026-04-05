@@ -59,9 +59,9 @@ While manta rays are the main attraction, you may also encounter reef sharks, oc
 
 This is one of the most rewarding dives in Hawaii and worth planning a trip around. The uniqueness of nighttime manta interactions makes it a bucket-list experience for divers worldwide. The dive is suitable for Open Water certified divers, though night diving certification is ideal.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
 
 ---
 *This dive site information was researched from Kona dive operator reviews, dive safety guides, and marine biology sources. Last updated 2026-03-16.*
+
+---
+*Sources: [Scuba Diving Magazine - Ultimate Guide to Big Island](https://www.scubadiving.com/ultimate-guide-to-scuba-diving-hawaiis-big-island), [Kona Honu Divers - Big Island Scuba Diving Guide](https://konahonudivers.com/big-island-scuba-diving-130/), [Big Island Divers](https://bigislanddivers.com/), [PADI - Big Island Dive Sites](https://blog.padi.com/7-top-dive-sites-around-hawaiis-big-island/), [Kohala Divers - Big Island Scuba Diving](https://www.kohaladivers.com/). Last updated 2026-04-04.*

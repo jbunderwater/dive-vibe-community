@@ -55,17 +55,5 @@ Thingvellir National Park is a UNESCO World Heritage Site. All diving must be co
 - **Language**: Icelandic; English widely spoken
 - **Safety**: The primary risk at all Iceland dive sites is cold-water exposure. Manage drysuit buoyancy carefully. One-dive-per-day limit at Silfra. Nearest recompression chambers are in Reykjavik.
 
-## Sources
-
-- dive.is (DIVE.IS Iceland — authorized Silfra and Strýtan operator)
-- strytan.is (Strýtan Divecenter)
-- magmadive.is (Magmadive Iceland)
-- adventures.is
-- wikipedia.org (Silfra, Strýtan vent field)
-- xray-mag.com, alertdiver.eu (Strýtan)
-- scubadiving.com, scuba.com
-
 ---
-
-*Last updated: March 2026*
-*Compiled from operator sites, Wikipedia, dive operator databases, and ScubaBoard research.*
+*Sources: [Silfra Fissure - Snorkeling and Diving in Iceland](https://www.silfrafissure.com/), [DIVE.IS - Silfra Snorkeling Day Tour](https://www.dive.is/diving-snorkeling-tours/snorkeling-day-tours/silfra-snorkeling-day-tour), [Adventures.is - Silfra Fissure](https://adventures.is/iceland/attractions/silfra-fissure/), [GO Iceland - Guide to Diving at Silfra](https://www.goiceland.com/blog/diving-snorkeling-at-silfra-fissure/), [Guide to Iceland - Silfra Travel Guide](https://guidetoiceland.is/travel-iceland/drive/silfra). Last updated 2026-04-04.*

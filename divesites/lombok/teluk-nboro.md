@@ -23,9 +23,9 @@ Teluk NBoro (Naro Bay) is a dive site on Lombok's northwest coast, approximately
 
 - **Location**: Teluk Naro, northwest Lombok coast
 - **Entry Type**: Boat dive
-- **Site Type**: Reef / Sandy Slope
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 m
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10–18 m
 - **Current**: Generally mild inside the bay
 - **Best Time**: May to October
@@ -58,9 +58,5 @@ Mild currents but standard buoyancy care essential above the sandy substrate. Do
 
 Seahorse portraits on their natural substrate are the highlight subject. Ghost pipefish camouflage against surrounding material — macro lens essential. Stingrays on sand suit wide-angle close-focus for environmental context.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [PADI - Diving in Lombok](https://www.padi.com/diving-in/lombok/), [Scuba Froggy - Diving in Lombok](https://www.scubafroggy.com/how-is-diving-in-lombok/), [Bluewater Dive Travel - Lombok](https://www.bluewaterdivetravel.com/destination/lombok-diving), [SSI Dive Guide - Lombok and Gili Islands](https://www.divessi.com/en/mydiveguide/destination/lombok-and-gili-islands-9752004), [Scuba Diving Magazine - Bali and Lombok Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-bali-and-lombok). Last updated 2026-04-04.*

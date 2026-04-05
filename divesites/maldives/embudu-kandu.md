@@ -38,4 +38,4 @@ Grey reef sharks, whitetip reef sharks, occasional hammerheads, eagle rays, turt
 Buoyancy control is critical in this site, as the current can vary significantly between the surface and depth. Descend quickly to the wall on entry and maintain contact with the reef to control your drift. The channel is most productive for shark activity during early morning incoming tides. Always carry a surface marker buoy and be prepared for a drift exit into the lagoon or open water.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

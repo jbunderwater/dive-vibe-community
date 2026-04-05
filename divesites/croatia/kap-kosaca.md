@@ -23,7 +23,7 @@ The reef extends from the cape along rocky slopes and faces to a maximum depth o
 
 - **Location**: Cape Kosaca, Dugi Otok/Zadar Archipelago, Northern Dalmatia, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–20 meters
@@ -58,4 +58,4 @@ Cape exposure can generate current — check conditions before entering. Standar
 The excellent visibility in the Zadar Archipelago makes this a rewarding wide-angle reef photography site. The resident grouper and schooling sea bream are reliable subjects. The Posidonia meadows offer a gentler, greener visual contrast to the deep blue rocky reef sections.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*

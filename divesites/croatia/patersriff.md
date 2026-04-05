@@ -23,7 +23,7 @@ The reef at Patersriff descends over rocky outcrops and sloping faces to approxi
 
 - **Location**: Cres Island area, Kvarner, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–20 meters
@@ -58,4 +58,4 @@ Standard intermediate reef diving. Monitor depth on the sloping terrain. Carry a
 The clear Kvarner visibility makes this a productive wide-angle site. The rocky reef landscape, resident grouper, and encrusting community all provide good photographic subjects. Morning dives typically offer the best light penetration across the reef.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*

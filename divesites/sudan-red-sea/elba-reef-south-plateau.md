@@ -22,8 +22,8 @@ The South Plateau is Elba Reef's welcoming face — a broad shallow platform cov
 ## Site Information
 
 - **Location**: Elba Reef southern face, Egypt-Sudan border (Halaib Triangle)
-- **Entry Type**: Boat dive (liveaboard)
-- **Site Type**: Coral reef / plateau
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 14 meters
 - **Typical Visibility**: 25-40+ meters (80-130+ feet)
@@ -58,9 +58,5 @@ The South Plateau is the most forgiving dive on Elba Reef — shallow depth, mod
 
 The South Plateau is ideal for coral reef photography. The 1-2 metre coral block formations create beautiful natural arches and swim-throughs. Table corals photographed from below against the shallow, lit water column produce striking images. Night photography here is exceptional — torch-lit lobsters, octopuses, and sleeping fish provide macro subjects. Natural light during daylight hours is outstanding at this shallow depth.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*

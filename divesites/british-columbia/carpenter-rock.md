@@ -23,9 +23,9 @@ Carpenter Rock lies in the northern Strait of Georgia in waters between Vancouve
 
 - **Location**: Northern Strait of Georgia, near Hornby Island, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Submerged rock / reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres
 - **Current**: Moderate tidal currents
 - **Best Time**: Late summer and autumn
@@ -57,11 +57,8 @@ Tidal currents are a constant consideration in the Strait of Georgia. Always che
 
 The northern Strait of Georgia's nutrient-rich waters support exceptional invertebrate diversity. Wide-angle photography of octopus on rocky substrate with sponge backgrounds is striking. Lingcod guarding egg masses in winter provide unique behavioural photography. Macro work on encrusting bryozoans yields exceptional nudibranch and worm images.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
 - Comox Valley and Courtenay dive shops
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

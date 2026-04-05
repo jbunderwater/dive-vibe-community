@@ -23,9 +23,9 @@ Centre Reef sits in the central Strait of Georgia near Nanaimo, in the productiv
 
 - **Location**: Strait of Georgia, Nanaimo area, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Submerged reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8–15 metres
 - **Current**: Tidal currents present — dive near slack
 - **Best Time**: Late spring through autumn
@@ -57,11 +57,8 @@ Tidal currents require careful timing. Always consult Nanaimo or Ballenas Island
 
 Centre Reef's invertebrate growth provides excellent photographic subjects. Wide-angle reef panoramas with plumose anemones in the foreground and rockfish in the background are classic Pacific Northwest images. Macro work on encrusting sponges reveals nudibranchs, sea spiders, and colonial tunicates. Octopus hunting or investigating divers makes compelling behavioural photography.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
 - Nanaimo dive operators for current conditions and charter services
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

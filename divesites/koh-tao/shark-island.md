@@ -23,9 +23,9 @@ Shark Island is a rocky outcrop off the southeast coast of Koh Tao whose above-w
 
 - **Location**: Southeast Koh Tao, Gulf of Thailand
 - **Entry Type**: Boat dive
-- **Site Type**: Reef / Pinnacle
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 m
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10–20 m
 - **Current**: Moderate; can be stronger on the exposed faces
 - **Best Time**: May to August
@@ -58,9 +58,5 @@ Current can be stronger on the exposed southern and eastern faces. Maintain awar
 
 Blacktip reef shark portraits with the coral slope in background are the signature subject. Schools of barracuda in the blue water above the island make compelling wide-angle shots. The dramatic boulder terrain suits fisheye and wide-angle landscape compositions.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Koh Tao Complete Guide - Best Dive Sites](https://www.kohtaocompleteguide.com/diving/koh-tao-dive-sites/), [Sairee Cottage Diving - Koh Tao Dive Sites Complete Guide](https://www.saireecottagediving.com/koh-tao-dive-sites-complete-guide-to-26-incredible-locations/), [Big Blue Diving Koh Tao](https://www.bigbluediving.com/), [PADI - Diving in Koh Tao](https://www.padi.com/diving-in/koh-tao/), [Dive Happy - Koh Tao Dive Sites Guide](https://divehappy.com/). Last updated 2026-04-04.*

@@ -22,10 +22,10 @@ La Gabinière is a small rocky islet located off the southern shore of Île de P
 ## Site Information
 
 - **Location**: Islet of La Gabinière, south of Île de Port-Cros, Var, France
-- **Entry Type**: Boat dive only (no anchoring permitted — mooring buoys required)
-- **Site Type**: Rocky islet with drop-offs and boulder slopes
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 45 metres
+- **Maximum Depth**: 45 meters
 - **Typical Visibility**: 10–30 metres
 - **Water Temperature**: 13–25°C (winter to summer)
 - **Current**: Variable; can be strong, especially on the southwestern pinnacles
@@ -58,9 +58,5 @@ Strong currents can develop suddenly on the southwestern face. Dive with the cur
 
 La Gabinière is one of the most photogenic dive sites in the Mediterranean. Wide-angle shots of groupers approaching the camera against a backdrop of gorgonian fans are iconic. The barracuda school circling overhead makes extraordinary wide-angle images. Macro work on gorgonian polyps and the encrusted rock faces is detailed and colourful. Natural light penetrates well above 20 metres.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [CaPel - Port-Cros National Park Dive Sites](https://capel.portcros-parcnational.fr/en/ou-plonger/), [Parc national de Port-Cros - Plongée](https://www.portcros-parcnational.fr/fr/des-decouvertes/une-destination-dexception/la-mer-et-les-fonds-marins/plongee), [World Adventure Divers - Port-Cros](https://worldadventuredivers.com/port-cros-national-park/), [Lavandou Plongée - Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [European Diving School - Port-Cros](https://www.europeandiving.com/hyeres/diving-area/port-cros.html). Last updated 2026-04-04.*

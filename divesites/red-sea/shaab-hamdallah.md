@@ -57,9 +57,5 @@ Mild conditions are typical but current can develop. Scorpionfish on the reef ed
 
 The cleaning station portraits — groupers and morays in cleaning position — at 8–12 metres are the primary photographic subjects. Sandy channel macro work with goby-shrimp pairs rewards a patient, prone approach. The reef crest in morning light suits ambient wide-angle shots.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

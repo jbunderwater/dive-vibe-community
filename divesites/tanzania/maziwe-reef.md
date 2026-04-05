@@ -57,9 +57,5 @@ A benign dive site suitable for all experience levels. Light currents, shallow m
 
 Maziwe's turtle encounters offer some of the best underwater turtle photography in East Africa. The unhurried turtles allow extended positioning for portrait, feeding, and swimming shots. Natural light in the shallow reef provides excellent color rendition. A 10-17mm fisheye or 16-35mm wide angle captures turtles in their reef context most effectively.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*

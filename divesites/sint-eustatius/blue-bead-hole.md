@@ -60,4 +60,5 @@ The cobalt-blue beads on white sand make striking macro subjects. A close-up len
 - STENAPA: stenapafoundation.com — historical artifact protection guidelines
 - SECAR: St. Eustatius Center for Archaeological Research — academic context for the bead deposits
 
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: PADI, Scuba Diving Magazine, Golden Rock Resort. Last updated 2026-03-28.*

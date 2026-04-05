@@ -23,7 +23,7 @@ The reef at Banc du Mitan rises from the sandy bottom of the southern Caribbean 
 
 - **Location**: Sainte-Luce area, south coast Martinique
 - **Entry Type**: Boat dive
-- **Site Type**: Bank reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 15–25 meters
@@ -58,4 +58,4 @@ Tidal current can pick up on the bank's exposed sides — check with the operato
 The reef crest at 5–8 meters in morning light provides bright, colourful reef photography conditions. Wide-angle shots of angelfish and parrotfish over the coral backdrop work well without strobes. Turtle encounters on the sand margin at depth are worthy close-focus wide-angle subjects.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Martinique Tourism - Diving](https://www.martinique.org/en/things-to-do/water-sports-and-activities/diving), [Scuba Diving Magazine - Martinique Guide](https://www.scubadiving.com/divers-guide-martinique-shipwrecks-turtles-and-volcanic-reefs), [Guide Martinique - Spots de Plongée](https://www.guidemartinique.com/activites/plongee/spots.php), [Wannadive - Saint Pierre Martinique](https://www.wannadive.net/spot/Central_America/Martinique/Saint_Pierre/index.html), [DiveIn - Best Dive Sites in Martinique](https://www.divein.com/diving/destination/diving-in-martinique/). Last updated 2026-04-04.*

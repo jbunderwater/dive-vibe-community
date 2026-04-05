@@ -23,9 +23,9 @@ L-Shape Arch (L字アーチ) is a distinctive geological formation on Miyako-jim
 
 - **Location**: Miyako-jima, Miyako Islands, Okinawa Prefecture, Japan
 - **Entry Type**: Boat dive
-- **Site Type**: Natural arch/cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters (130 feet)
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 25–35 meters (80–115 feet)
 - **Current**: Moderate to strong; exposed arch position concentrates current
 - **Best Time**: October to April for optimal visibility and calmest seas
@@ -64,4 +64,4 @@ The L-shaped arch framing the open blue is the definitive shot — a wide-angle 
 - **Last Updated**: 2026-03-28
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Visit Okinawa Japan - Dive Sites Guide](https://visitokinawajapan.com/discover/dive-sites-okinawa/kerama-islands-diving/), [JNTO Japan Diving - Okinawa](https://www.japan.travel/en/sports/diving/where-to-dive/okinawa/), [Aloha Divers Okinawa - Dive Sites](https://www.alohadiversokinawa.com/dive-sites-okinawa), [Fluid Levitation - Okinawa Dive Sites](https://www.fluidlevitation.com/okinawa-dive-sites), [PADI - Top Dive Sites in Okinawa](https://www.padi.com/dive-sites/okinawa/). Last updated 2026-04-04.*

@@ -57,9 +57,5 @@ Even though Little Wall is shallower than the adjacent Big Wall, the wall topogr
 
 The 20-meter depth limit keeps the dive within a manageable photography range. Nudibranch macro shots on the encrusted wall surface are the primary close-up subjects. Wide-angle photographers should position below a large gorgonian fan with the open blue water beyond for classic Pemba wall compositions.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [SeaCrush Tanzania Diving](https://www.seacrush.com/en/diving/tanzania), [Divezone Tanzania](https://divezone.net/diving/tanzania), [Altezza Travel Tanzania Dive Sites](https://altezzatravel.com/articles/the-best-diving-sites-in-tanzania), [SCUBA Travel Tanzania](https://www.scubatravel.co.uk/africa/tanzania-diving-zanzibar.html). Last updated 2026-04-04.*

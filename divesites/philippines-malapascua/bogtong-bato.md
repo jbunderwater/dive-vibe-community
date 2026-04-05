@@ -23,7 +23,7 @@ The name "Bogtong Bato" translates roughly as "single rock" in Cebuano, accurate
 
 - **Location**: Northwest of Malapascua Island, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-25 meters
@@ -58,9 +58,5 @@ The 30 meter maximum depth requires careful no-decompression limit management. C
 
 Pinnacle photography lends itself to dramatic wide-angle shots of the structure receding into the deep. Sea fan details on the deeper sections and the abundant reef life on the mid-depth sections both provide excellent subjects. Natural light is good on the shallower pinnacle sections.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Malapascua Thresher Shark Divers - Dive Sites](https://malapascua-diving.com/malapascua/dive-sites/), [ZuBlu Thresher Sharks of Malapascua](https://www.zubludiving.com/articles/zublu-insights/thresher-sharks-of-malapascua), [Thresher Shark Divers Resort](https://thresher-shark-divers.com/), [Diving Squad Malapascua Guide](https://www.divingsquad.com/philippines-diving/cebu/malapascua/), [Divernet Malapascua Diving Guide](https://divernet.com/world-dives/asia/malapascua-diving-guide-philippines/). Last updated 2026-04-04.*

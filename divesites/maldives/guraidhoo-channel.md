@@ -44,4 +44,5 @@ Grey reef sharks (in numbers), eagle rays, hammerhead sharks (seasonal), whale s
 
 This dive requires confident drift skills and the ability to hold depth in strong current. Plan the dive on an incoming tide for the best shark action at the outer corner. A safety sausage (SMB) is essential for the drift exit. Brief with the skipper on pick-up protocol before entering the water.
 
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

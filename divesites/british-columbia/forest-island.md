@@ -23,9 +23,9 @@ Forest Island is a small island in the central Gulf Islands between Salt Spring 
 
 - **Location**: Central Gulf Islands, British Columbia
 - **Entry Type**: Boat dive
-- **Site Type**: Bull kelp forest
+- **Site Type**: Kelp
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 12 metres
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 6–12 metres
 - **Current**: Moderate tidal currents in the Gulf Islands
 - **Best Time**: Late spring through early autumn when kelp is densest
@@ -57,11 +57,8 @@ Kelp entanglement is the primary hazard — always carry a cutting tool. Tidal c
 
 Looking upward through the kelp stipes toward the surface canopy creates cathedral-like natural light images — one of BC's signature underwater shots. Wide-angle or fisheye lenses are ideal for kelp forest interior photography. Kelp greenlings and other fish among the stipes make great subjects. Morning light provides the best natural illumination.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
 - Sidney and Gulf Islands dive operators
 - Fisheries and Oceans Canada tide tables: tides.gc.ca
 
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

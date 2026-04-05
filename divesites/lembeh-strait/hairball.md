@@ -60,4 +60,4 @@ Hairball is a straightforward muck dive with no significant hazards beyond stand
 Hairball is a supermacro photographer's dream. Hairy frogfish are ideal for portrait shots — find one, frame carefully, and take your time. Flamboyant cuttlefish reward patience with extraordinary colour-change sequences. Wonderpus and mimic octopus offer dynamic movement shots as they hunt. Shoot with a 100mm macro or wet dioptre for the smallest subjects. Early morning dives often have the best light penetration and the most active critters.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [NAD-Lembeh Resort Diving](https://www.nad-lembeh.com/diving_lembeh/), [Lembeh Resort Muck Diving Guide](https://www.lembehresort.com/blogs/guide-muck-diving-lembeh), [Underwater Photography Guide Lembeh](https://www.uwphotographyguide.com/lembeh-diving), [ZuBlu Lembeh Strait](https://www.zubludiving.com/articles/zublu-insights/legendary-lembeh), [Starfish Lembeh Dive Sites](http://starfish.ch/dive/Lembeh.html). Last updated 2026-04-04.*

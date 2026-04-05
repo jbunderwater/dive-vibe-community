@@ -22,8 +22,8 @@ The Million Hope was a substantial cargo ship — reports suggest it was a large
 ## Site Information
 
 - **Location**: Strait of Tiran, northern Red Sea, Egypt
-- **Entry Type**: Boat dive (day boat or liveaboard from Sharm el-Sheikh)
-- **Site Type**: Wreck
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-35 meters (65-115 feet)
@@ -59,4 +59,4 @@ Tidal currents in the Strait of Tiran can be strong and unpredictable. Wreck pen
 The scale of the Million Hope provides wide-angle opportunities to photograph the full hull in profile — a fisheye or very wide zoom is needed to capture the vessel's scale from a reasonable distance. Glassy sweeper schools in torch-lit interior spaces create iconic wreck photography. The hull exterior with coral growth against the blue Tiran water provides dramatic color contrast.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

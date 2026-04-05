@@ -30,4 +30,5 @@ The corner itself is a steep reef wall that drops from the surface to depths wel
 
 This site demands an early start — hammerhead sightings are almost exclusively at dawn before the animals disperse into deeper water. A wetsuit of at least 3 mm is advisable; the thermocline can drop temperatures significantly. Strong current control and confident blue-water hovering skills are essential. Night or evening dives reveal a completely different reef character, with sleeping turtles and active hunting behaviour from moray eels.
 
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+---
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

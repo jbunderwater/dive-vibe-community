@@ -23,7 +23,7 @@ Ras Malah ("salty headland" in Arabic) is located at approximately 28.73°N, 34.
 
 - **Location**: Northern Sinai Peninsula, Gulf of Aqaba entrance (~28.73°N, 34.63°E)
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Reef
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters (open sections); variable in caves
@@ -57,9 +57,5 @@ Cave diving requires specific training and equipment beyond standard open-water 
 
 Cave passage photography with torch-assisted lighting and the cave entry silhouetted against natural light is the primary photographic technique at Ras Malah. The contrast between the dark interior and the light entry point creates natural framing for wide-angle shots. Glass bigeye schools in the cave interior reward a torch-on-school wide-angle approach.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

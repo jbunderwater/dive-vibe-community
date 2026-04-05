@@ -47,4 +47,4 @@ Boat dive from Holetown or Bridgetown operators. Often paired with deeper reef d
 One of Barbados' most relaxed dive sites. Light currents and moderate depth make it very manageable. Standard boat dive safety applies.
 
 ---
-*This dive site information was compiled from Reefers & Wreckers, barbados.org, Wikivoyage, and Barbados Blue. Last updated 2026-04-02.*
+*Sources: Reefers & Wreckers, barbados.org, Wikivoyage, Barbados Blue, Barbados Blue - Sandy area with coral heads, stingrays, peacock flounders. Last updated 2026-04-02.*

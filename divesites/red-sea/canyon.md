@@ -22,8 +22,8 @@ The Canyon is a complex system of fissures, passages, and chambers cutting throu
 ## Site Information
 
 - **Location**: Red Sea, Egypt
-- **Entry Type**: Boat dive (also shore accessible)
-- **Site Type**: Cave / Canyon / Reef
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 45 meters
 - **Typical Visibility**: 20–35 meters (65–115 feet)
@@ -58,9 +58,5 @@ The Canyon carries significant hazard risks. Disorientation inside passages, sil
 
 The canyon interior offers unique photography opportunities — light shafts penetrating cracks, silhouettes in passages, and glassfish clouds in chambers. A wide-angle lens suits the spatial drama. Good torch technique is essential to illuminate subjects without creating backscatter in confined spaces.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

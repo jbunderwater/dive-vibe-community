@@ -58,9 +58,5 @@ Currents can run along the reef edge; stay aware of your position relative to th
 
 The combination of coral bommies and clean sand flats provides good compositional variety. Wide-angle shots looking up at bommie peaks with light rays are effective in the morning. Sand-dwelling creatures — stingrays, flatfish, garden eels — make distinctive macro subjects. Anthias-covered coral heads are photogenic in available light.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

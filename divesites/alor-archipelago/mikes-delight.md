@@ -57,9 +57,5 @@ Strong currents and the risk of downwellings along the wall face make situationa
 
 Mike's Delight is one of Alor's premier wide-angle wall sites. The combination of soft coral foreground, shark silhouettes in mid-water, and the open blue create layered compositions that reward careful framing. Shooting upward from 20 metres toward a diver against the coral canopy at 12 metres is a classic framing. For the reef sharks, keep distance and let the animals come to you — they regularly approach to within 3–4 metres of stationary divers.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Alami Alor Dive Resort Diving](https://www.alamialor.com/diving-snorkeling/scuba-diving/), [Alor Divers Resort](https://www.alor-divers.com/), [ZuBlu Scuba Diving in Alor](https://www.zubludiving.com/destination/indonesia/nusa-tenggara/alor), [Solitude World Alor Diving Guide](https://solitude.world/alor-diving-guide/), [Dive the World Alor](https://www.dive-the-world.com/diving-sites-indonesia-alor.php). Last updated 2026-04-04.*

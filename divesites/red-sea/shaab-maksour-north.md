@@ -22,7 +22,7 @@ Shaab Maksour North is the northern section of the Shaab Maksour reef at approxi
 ## Site Information
 
 - **Location**: Northern Shaab Maksour, Fury Shoals, southern Egyptian Red Sea (~24.24°N)
-- **Entry Type**: Boat dive (day trip from Marsa Alam or liveaboard)
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
@@ -56,9 +56,5 @@ Current at the north tip requires continuous monitoring — drift away from the 
 
 The reef tip in current provides wide-angle opportunities with passing pelagics and the channel as background. Grey reef shark portraits at the tip require pre-positioning at depth with the camera ready. Barracuda school shots in the open water off the northern face are a consistent result in current.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

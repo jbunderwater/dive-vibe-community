@@ -22,10 +22,10 @@ Gabinière Est (Eastern Gabinière) is the eastern drop-off face of the La Gabin
 ## Site Information
 
 - **Location**: Eastern face of La Gabinière islet, Port-Cros National Park, France
-- **Entry Type**: Boat dive (mooring buoys required)
-- **Site Type**: Rocky drop-off and boulder slope
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 40 metres
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 10–30 metres
 - **Water Temperature**: 13–25°C
 - **Current**: Light to moderate; can increase on the point
@@ -58,9 +58,5 @@ Do not anchor — this is both a regulation and a reef protection requirement. A
 
 The eastern face of La Gabinière produces some of the most requested images in Mediterranean underwater photography. Grouper approach shots with gorgonians in the background are the signature image. Wide-angle shots of the barracuda school above the drop-off are also outstanding. Natural light is excellent in the upper 15 metres on sunny mornings.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from regional dive operators, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [CaPel - Port-Cros National Park Dive Sites](https://capel.portcros-parcnational.fr/en/ou-plonger/), [Parc national de Port-Cros - Plongée](https://www.portcros-parcnational.fr/fr/des-decouvertes/une-destination-dexception/la-mer-et-les-fonds-marins/plongee), [World Adventure Divers - Port-Cros](https://worldadventuredivers.com/port-cros-national-park/), [Lavandou Plongée - Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [European Diving School - Port-Cros](https://www.europeandiving.com/hyeres/diving-area/port-cros.html). Last updated 2026-04-04.*

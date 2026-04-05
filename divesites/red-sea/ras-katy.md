@@ -58,9 +58,5 @@ Conditions are generally benign, making this appropriate for training dives and 
 
 The resident whitetip reef shark at the outer wall provides one of the most reliable Red Sea shark portraits available at a Sharm el-Sheikh local dive site. Goby-and-shrimp pair photography in the sandy zone rewards a macro lens and a very patient, motionless approach. The main pinnacle covered in anthias and fusiliers is an accessible wide-angle reef portrait. The bannerfish aggregation at the corner at 26 m is a striking schooling-fish composition.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

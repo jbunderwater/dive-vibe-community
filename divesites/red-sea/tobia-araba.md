@@ -22,8 +22,8 @@ Tobia Araba (also spelled Tobia Arba'a — meaning "Four Tobia" in Arabic, thoug
 ## Site Information
 
 - **Location**: Safaga area, central Egyptian Red Sea
-- **Entry Type**: Boat dive (day trip from Safaga or Hurghada)
-- **Site Type**: Coral reef (pinnacles/ergs)
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15–25 meters
@@ -58,9 +58,5 @@ Conditions are generally benign at Tobia Araba. The primary hazard is lionfish �
 
 The pinnacle cluster offers versatile photographic opportunities. Close-focus wide-angle shots of a single pinnacle capture the coral coverage in context. Lionfish among soft corals are outstanding macro-to-wide subjects. At night, octopus portraits with a single strobe, sleeping parrotfish in their mucus cocoons, and hunting crustaceans provide rich macro subjects. The sandy areas between pinnacles offer blue-spotted stingray portraits and garden eel detail shots.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

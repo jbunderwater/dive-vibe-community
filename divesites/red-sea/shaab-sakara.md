@@ -57,9 +57,5 @@ As with all offshore Egyptian Red Sea sites, divers must be self-sufficient. Cur
 
 The combination of good visibility and reduced diver traffic makes Shaab Sakara a satisfying photography location. Reef fish behaving naturally, rather than retreating from frequent diver contact, provide more authentic and behaviourally interesting images. Wide-angle reef scape and medium-range fish portrait work are equally productive here.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

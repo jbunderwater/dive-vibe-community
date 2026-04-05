@@ -23,7 +23,7 @@ The Carrington Reefs occupy a position near Balabac Island, among the southernmo
 
 - **Location**: Balabac Strait, southern Palawan, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef system
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-25 meters
@@ -58,9 +58,5 @@ Tidal currents in the Balabac Strait can be strong and difficult to predict with
 
 The undisturbed reef ecosystem offers photography of species and reef scenes rarely captured at more visited sites. Wide-angle coral garden shots and portraits of large resident fish are the primary subjects. The current-washed sections are excellent for dynamic schooling fish images.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Diving Squad Palawan Guide](https://www.divingsquad.com/philippines-diving/palawan/), [Scuba Tech Philippines - Coron Wrecks](https://scubatechphilippines.com/scuba_blog/the-shipwrecks-of-coron-wreck-diving-philippines/), [Pirate Coron Dive Sites](https://piratescoron.com/dive-sites/), [DIVE Magazine - Wrecks of Coron Bay](https://divemagazine.com/scuba-diving-travel/wrecks-of-coron-bay-philippines), [ZuBlu - Scuba Diving Coron Palawan](https://www.zubludiving.com/destination/philippines/palawan/coron). Last updated 2026-04-04.*

@@ -50,8 +50,5 @@ This is one of Yap's more forgiving wall dives, with typically lighter currents 
 ## Photography
 Cherry Blossom Wall is a photographer's paradise. The pink soft corals provide extraordinary natural compositions that require minimal arrangement. Wide-angle lenses capture the wall gardens in their full splendor -- shoot slightly upward to catch the soft corals against the blue water background. Dual strobes are essential to render the pinks and purples accurately, as these colors are lost to blue water absorption within a few meters. Macro shooters will find excellent subjects among the soft coral branches and on the wire corals. The calmer conditions here allow more precise composition than at current-swept walls.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Visit Yap - Dive Sites](https://visityap.com/dive_sites.php), [Manta Ray Bay Resort - Dive Sites](https://mantaray.com/sites/), [Bluewater Dive Travel - Yap](https://www.bluewaterdivetravel.com/destination/yap-diving), [PADI - Diving in Yap](https://www.padi.com/diving-in/yap/), [Ikelite - Insider Guide to Diving Yap](https://www.ikelite.com/blogs/features/an-insiders-guide-to-diving-yap-micronesia). Last updated 2026-04-04.*

@@ -38,4 +38,4 @@ Napoleon wrasse, grey reef sharks, schools of fusiliers and barracuda, big-eye t
 This site pairs well with the manta station at Emmadi Giri for a two-tank programme. The outer slope is the most productive section — stay at 15-20 meters on the outer face for shark and Napoleon wrasse encounters. The reef crest provides a good safety stop area with snorkellable depth for boat pick-up in calm conditions.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive the World Maldives](https://www.dive-the-world.com/diving-sites-maldives.php), [Wannadive Maldives](https://www.wannadive.net/spot/Asia/Maldives/), [Maldives Magazine Dive Sites](https://maldives-magazine.com/top-10/10-best-dive-sites.htm), [PADI Maldives](https://www.padi.com/diving-in/maldives/). Last updated 2026-04-04.*

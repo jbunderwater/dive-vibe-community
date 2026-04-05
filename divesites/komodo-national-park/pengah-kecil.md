@@ -59,4 +59,4 @@ Current can strengthen quickly on this exposed pinnacle, particularly as tidal p
 The combination of soft coral coverage and schooling fish makes Pengah Kecil suitable for mid-range wide-angle work — a 16–24mm lens captures pinnacle faces with fish schools. For macro, the sea fan faces reward very close inspection. Good ambient light in the upper 15 meters makes natural-light shooting viable.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Dive Komodo - Dive Sites](https://divekomodo.com/dive-sites-komodo/), [Dragon Dive Komodo - Top 10 Dive Sites](https://dragondivekomodo.com/en/top-10-best-dive-sites-of-komodo/), [World Adventure Divers - Diving in Komodo](https://worldadventuredivers.com/diving-in-komodo/), [Dive Komodo National Park](https://divekomodonationalpark.com/), [Blue Marlin Dive - Komodo Dive Sites](https://www.bluemarlindive.com/komodo/dive_sites/). Last updated 2026-04-04.*

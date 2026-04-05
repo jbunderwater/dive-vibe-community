@@ -58,9 +58,5 @@ Currents at Koh Bon Pinnacle can shift rapidly and run hard in multiple directio
 
 Koh Bon Pinnacle is one of Thailand's premier wide-angle photography locations. Mantas against sunburst from above, or silhouetted from below in open blue water, are the signature shots. A rectilinear 15mm or fisheye 8–15mm on full frame gives sufficient angle to include the full wingspan of a large manta. Shoot in manual exposure, prioritise shutter speed of at least 1/125 to freeze manta movement, and accept slight underexposure to preserve the blue water background. On the boulder fields, macro subjects include Coleman shrimp on fire urchins and various nudibranchs.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Similan Dive Guide](https://www.similandiveguide.com/), [Sunrise Divers - Similan Islands Dive Sites](https://www.sunrise-divers.com/dive-sites/similan-islands/), [Dive The World Thailand - Similan Islands](https://www.divetheworldthailand.com/similan-islands-diving-sites.php), [Sea Bees Diving - Scuba Diving Similans](https://sea-bees.com/scuba-diving-similans/), [Dive Happy - Diving Similan Islands Guide](https://divehappy.com/diving-similan-islands-quick-guide/). Last updated 2026-04-04.*

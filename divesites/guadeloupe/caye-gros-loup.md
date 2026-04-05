@@ -23,7 +23,7 @@ The reef at Caye Gros Loup rises from sandy substrate and extends to around 18 m
 
 - **Location**: Off northern Grande-Terre, Guadeloupe
 - **Entry Type**: Boat dive
-- **Site Type**: Fringing coral reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 15–25 meters
@@ -58,4 +58,4 @@ Current can increase with tidal flow — check conditions with your operator. Fi
 The broad reef structure and good visibility make this a solid wide-angle site. Turtle and stingray portraits work well in the 10–15 meter zone where natural light is still strong.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*

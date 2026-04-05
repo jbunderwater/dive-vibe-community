@@ -59,9 +59,5 @@ Saruenus Island is generally a forgiving intermediate site. The primary hazard i
 
 Saruenus Island's multiple aspects make it one of the more versatile photography sites in Triton Bay. The pygmy seahorse sightings on the sheltered face are priority subjects — at 1 to 2 centimeters in length, they require a 100mm macro lens, patience, and excellent buoyancy control to photograph well. The nudibranch diversity on the soft coral surfaces rewards hours of systematic searching. The exposed face, shot in wide-angle during active current, captures the energy of schooling fish behavior in ways that the calmer inner-bay sites cannot. Video divers benefit from planning two separate dives: one dedicated to macro on the sheltered face in the morning, and one to wide-angle reef behavior on the exposed face during afternoon tidal flow.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Triton Bay Divers Resort](https://tritonbaydivers.com/), [ZuBlu Scuba Diving in Triton Bay](https://www.zubludiving.com/destination/indonesia/west-papua/triton-bay), [Scuba Diving Magazine Triton Bay Guide](https://www.scubadiving.com/guide-to-scuba-diving-in-triton-bay-indonesia), [Dive the World Triton Bay](https://www.dive-the-world.com/diving-sites-indonesia-triton-bay.php), [Merapi Tours Triton Bay Dive Sites](https://www.merapitours.com/indonesia/papua/triton-bay-dive-sites). Last updated 2026-04-04.*

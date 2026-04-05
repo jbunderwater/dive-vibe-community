@@ -1,0 +1,229 @@
+[
+  {
+    "name": "USS PT-371",
+    "lat": 2.0917,
+    "lon": 127.8305,
+    "depth": 15,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "osm_id": 2144506344,
+    "tags": {
+      "source": "osm_extended",
+      "historic": "wreck",
+      "validation_source": "OpenStreetMap"
+    }
+  },
+  {
+    "name": "Tosei Maru",
+    "lat": 1.1452,
+    "lon": 127.8332,
+    "depth": 20,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "osm_id": 20315906,
+    "tags": {
+      "source": "osm_extended",
+      "historic": "wreck",
+      "wreck:date_sunk": "1941-12-12",
+      "validation_source": "OpenStreetMap"
+    }
+  },
+  {
+    "name": "Biatabang",
+    "lat": 0.76,
+    "lon": 127.37,
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "PADI, sailingfairy.com"
+    }
+  },
+  {
+    "name": "Taman Nukila Wreck",
+    "lat": 0.782,
+    "lon": 127.374,
+    "depth": 23,
+    "site_type": "wreck",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "getlost.id, sailingfairy.com"
+    }
+  },
+  {
+    "name": "Pulau Tifore",
+    "lat": 0.9708,
+    "lon": 126.1445,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "world-islands.net, mermaid-liveaboards.com"
+    }
+  },
+  {
+    "name": "Reenie's Rock",
+    "lat": -0.0233,
+    "lon": 127.222,
+    "depth": 40,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "mermaid-liveaboards.com, indopacificimages.com"
+    }
+  },
+  {
+    "name": "Batu Mandi",
+    "lat": -0.0271,
+    "lon": 127.207,
+    "depth": 50,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "mermaid-liveaboards.com"
+    }
+  },
+  {
+    "name": "Terumbu Gora",
+    "lat": -0.0292,
+    "lon": 127.224,
+    "depth": 35,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "mermaid-liveaboards.com"
+    }
+  },
+  {
+    "name": "Proco Channel",
+    "lat": -0.4078,
+    "lon": 127.7278,
+    "depth": 30,
+    "site_type": "drift",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "mermaid-liveaboards.com"
+    }
+  },
+  {
+    "name": "Batu Jabu",
+    "lat": -0.3995,
+    "lon": 127.735,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "mermaid-liveaboards.com"
+    }
+  },
+  {
+    "name": "Foya Wreck",
+    "lat": 0.32,
+    "lon": 127.88,
+    "depth": 30,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "wedaresort.com, liveaboardindonesia.com"
+    }
+  },
+  {
+    "name": "Shark Mountain",
+    "lat": 0.38,
+    "lon": 128.01,
+    "depth": 40,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "wedaresort.com"
+    }
+  },
+  {
+    "name": "Pulau Pisang",
+    "lat": -1.401,
+    "lon": 128.9207,
+    "depth": 35,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "mermaid-liveaboards.com, indopacificimages.com"
+    }
+  },
+  {
+    "name": "Bristol Plane Wreck",
+    "lat": 2.18,
+    "lon": 128.28,
+    "depth": 50,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "malailloliveaboard.com"
+    }
+  },
+  {
+    "name": "Womow Reef",
+    "lat": 1.78,
+    "lon": 128.05,
+    "depth": 35,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "malailloliveaboard.com"
+    }
+  },
+  {
+    "name": "Makian Black Sand",
+    "lat": 0.32,
+    "lon": 127.395,
+    "depth": 20,
+    "site_type": "muck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "coralia-liveaboard.com, wallacea-divecruise.com"
+    }
+  }
+]

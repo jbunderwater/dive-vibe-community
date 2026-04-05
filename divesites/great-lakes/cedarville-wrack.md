@@ -23,9 +23,9 @@ The Cedarville's sinking was a tragic event — ten crew members were lost when 
 
 - **Location**: Straits of Mackinac, Lake Huron / Lake Michigan border, USA
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 32 metres
+- **Maximum Depth**: 32 meters
 - **Typical Visibility**: 8–18 metres
 - **Water Temperature**: 4–15°C (seasonal); bottom typically 4–6°C
 - **Current**: Moderate; the Straits can develop significant current with water level changes
@@ -60,9 +60,5 @@ Current in the Straits of Mackinac is the primary safety consideration. Dive tim
 
 The Cedarville's scale and the excellent Straits visibility combine to create exceptional wide-angle photography opportunities. The 20th-century steel construction retains its shape well, with portholes, machinery, and hull features providing compelling close-up subjects. Lake trout encounters add dramatic wildlife photography potential.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Michigan.org - Dive Michigan Shipwrecks Underwater Preserves](https://www.michigan.org/article/trip-idea/dive-michigan-shipwrecks-these-underwater-preserves), [Great Lakes Shipwreck Preservation Society - Dive Sites](https://glsps.clubexpress.com/DiveSites), [Scuba Diving Magazine - Great Lakes Shipwrecks](https://www.scubadiving.com/great-lakes-shipwrecks-like-youve-never-seen-them-before), [Gear Patrol - Guide to Wreck Diving the Great Lakes](https://www.gearpatrol.com/archive/a162066/great-lakes-wreck-diving-guide/), [Shipwreck Explorers - Wisconsin Scuba Diving](https://www.shipwreckexplorers.com/). Last updated 2026-04-04.*

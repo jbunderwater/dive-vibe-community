@@ -23,7 +23,7 @@ The D/S General Suworow is a steamship that went down in Vestfjorden on 5 August
 
 - **Location**: Norway Lofoten Islands, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
@@ -59,9 +59,5 @@ Be aware of cold water (north), currents, boat traffic in this area. Dive within
 
 The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [Lofoten Diving AS](https://lofoten-diving.no/), [X-Ray Mag - Diving Lofoten Norway](https://xray-mag.com/content/diving-lofoten-norway), [Scuba Diver Life - Diving in Lofoten Norway](https://scubadiverlife.com/diving-lofoten-norway/), [Visit Lofoten - Diving and Snorkeling](https://visitlofoten.com/en/topic/diving-and-snorkeling-in-lofoten/), [DeeperBlue - Top 6 Dive Sites in Norway](https://www.deeperblue.com/top-6-dive-sites-norway/). Last updated 2026-04-04.*

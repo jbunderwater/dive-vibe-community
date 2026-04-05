@@ -56,9 +56,5 @@ Current at the reef edge can be strong — stay close to the reef structure rath
 
 Grey reef shark portraits at the reef edge in current suit a wide-angle approach with the diver positioned below the shark's eye level. Barracuda school shots in open water off the headland reward ambient wide-angle technique with natural backlight.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

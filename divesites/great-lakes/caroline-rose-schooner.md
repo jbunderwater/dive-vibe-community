@@ -23,9 +23,9 @@ Unlike many Great Lakes wrecks that were lost to storms, the Caroline Rose was p
 
 - **Location**: Georgian Bay, Lake Huron, Fathom Five National Marine Park, Ontario, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 16 metres
+- **Maximum Depth**: 16 meters
 - **Typical Visibility**: 10–20 metres
 - **Water Temperature**: 4–16°C (seasonal); bottom consistently cold
 - **Current**: Minimal in protected Georgian Bay waters
@@ -59,9 +59,5 @@ Although shallow and beginner-friendly, the cold water demands proper thermal pr
 
 The Caroline Rose is a photographer's favourite at Tobermory. The combination of exceptional clarity, intact hull, and manageable depth allows wide-angle shots of the entire wreck in natural light. The bow and stern profiles are classic subjects, and fish life adds natural animation. Natural light in clear Georgian Bay water has a luminous, turquoise quality distinct from deeper or murkier Great Lakes sites.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Michigan.org - Dive Michigan Shipwrecks Underwater Preserves](https://www.michigan.org/article/trip-idea/dive-michigan-shipwrecks-these-underwater-preserves), [Great Lakes Shipwreck Preservation Society - Dive Sites](https://glsps.clubexpress.com/DiveSites), [Scuba Diving Magazine - Great Lakes Shipwrecks](https://www.scubadiving.com/great-lakes-shipwrecks-like-youve-never-seen-them-before), [Gear Patrol - Guide to Wreck Diving the Great Lakes](https://www.gearpatrol.com/archive/a162066/great-lakes-wreck-diving-guide/), [Shipwreck Explorers - Wisconsin Scuba Diving](https://www.shipwreckexplorers.com/). Last updated 2026-04-04.*

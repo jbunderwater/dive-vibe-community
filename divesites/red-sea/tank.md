@@ -23,7 +23,7 @@ The Tank is a compact but visually distinctive site where a rusting military veh
 
 - **Location**: Gulf of Aqaba, northern Red Sea (Israeli/Egyptian border area)
 - **Entry Type**: Boat dive
-- **Site Type**: Artificial reef / wreck
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20-30 meters (65-100 feet)
@@ -59,4 +59,4 @@ Watch for lionfish perched on the tank — they are well camouflaged and easily 
 The tank is a natural subject for atmospheric wide-angle photography — the military vehicle draped in soft coral and surrounded by fish creates a striking image. A fisheye lens placed at the level of the tracks or looking along the barrel creates dramatic perspectives. Detail shots of the coral encrustation and resident fish complete the story.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

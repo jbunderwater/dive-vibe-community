@@ -23,7 +23,7 @@ Atkins Reef lies in Active Pass — one of the most current-swept passages in th
 
 - **Location**: Active Pass, Galiano Island area, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 8-15 meters (25-50 feet)
@@ -59,9 +59,5 @@ Active Pass sees heavy BC Ferries traffic; boats must adhere to navigation rules
 
 Atkins Reef offers outstanding wide-angle shots of anemone-covered rock faces and schooling rockfish. Macro opportunities include nudibranchs on the rock surface and small crustaceans in crevices. Video is particularly effective here when current is calm and the marine life is active. Use a red filter or strobes to restore colour in the deeper sections.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

@@ -23,7 +23,7 @@ The SS Carnatic was an iron-hulled paddlewheel steamer carrying mail, cargo, and
 
 - **Location**: Red Sea, Egypt (Abu Nuhas Reef, Gulf of Suez)
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck (historic)
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 28 meters
 - **Typical Visibility**: 20–30 meters (65–100 feet)
@@ -58,9 +58,5 @@ Interior penetration is possible but requires wreck diving experience. Glassfish
 
 The Carnatic is among the Red Sea's top five photography wrecks. The glassfish interior is the signature shot — wide angle, positioned inside looking out toward light. Exterior shots of the bow section rising from the sand, decorated with soft corals, are equally iconic. A dive torch for interior colour rendition is essential.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

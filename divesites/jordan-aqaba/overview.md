@@ -39,14 +39,5 @@ Jordan - Aqaba is a notable diving destination in the Middle East region, offeri
 - **Language**: Arabic
 - **Safety**: Always dive within certification limits. Be aware of strong currents, fire coral, lionfish stings. Verify the location of the nearest hyperbaric chamber before diving.
 
-## Sources
-
-- OpenStreetMap dive site data and community contributions
-- Regional diving guides and operator information
-- Marine conservation organization reports
-- Local tourism board resources
-
 ---
-
-*Last updated: March 2026*
-*Compiled from OpenStreetMap data, regional diving knowledge, and authoritative marine sources*
+*Sources: [Arab Divers - Aqaba Dive Sites](https://www.arabdivers.jo/en/activities/dive-sites), [Divezone - Aqaba Dive Sites](https://divezone.net/diving/aqaba), [SCUBA Travel - Jordan Dive Guide](https://www.scubatravel.co.uk/redsea/jordandive.html), [Deep Blue Dive Center - Aqaba Sites](https://www.deepbluedivecenter.com/red-sea-scuba-diving/), [Coral Garden Diving Center Aqaba](https://www.dive-inaqaba.com/). Last updated 2026-04-04.*

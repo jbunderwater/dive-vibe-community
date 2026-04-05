@@ -22,8 +22,8 @@ The horseshoe shape of this reef gives it a distinctive enclosed lagoon on the o
 ## Site Information
 
 - **Location**: Far southern Egyptian Red Sea, south of Wadi Lahami near Saudi border
-- **Entry Type**: Boat dive (liveaboard)
-- **Site Type**: Horseshoe-shaped coral reef
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 25–35 meters
@@ -59,4 +59,4 @@ The contrast between the calm interior and the current-exposed outer wall requir
 The interior of the horseshoe offers beautiful, bright natural-light photography with turtles and coral gardens. The outer wall provides dramatic wide-angle opportunities with pelagic fish against deep blue water. The contrasting environments within a single dive make this a versatile photography site.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

@@ -123,3 +123,6 @@ Turkey's validated dive sites include:
 *Last updated: March 16, 2026*
 *Compiled from OpenStreetMap data, validated research, and expert dive operator knowledge*
 *All sites have been verified against current diving conditions and resources*
+
+---
+*Sources: [PADI - Diving in Turkey](https://www.padi.com/diving-in/turkey/), [Bluewater Dive Travel - Scuba Diving Turkey](https://www.bluewaterdivetravel.com/destination/scuba-diving-turkey), [DiveIn - Best Diving in Turkey](https://www.divein.com/diving/destination/turkey/), [X-Ray Mag - Turkey Mediterranean and Aegean](https://xray-mag.com/content/turkey-mediterranean-and-aegean-hotspots), [Chasing the Donkey - Scuba Diving Turkey](https://www.chasingthedonkey.com/scuba-diving-turkey-dive-sites/). Last updated 2026-04-04.*

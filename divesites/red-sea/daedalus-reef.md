@@ -22,7 +22,7 @@ Daedalus Reef (also known as Abu Kizan) lies approximately 80 kilometres east of
 ## Site Information
 
 - **Location**: Central Egyptian Red Sea, 80 km east of Marsa Alam (liveaboard only)
-- **Entry Type**: Boat dive (liveaboard)
+- **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
@@ -59,9 +59,5 @@ Daedalus is an advanced-level open-ocean dive site with no shore proximity or sh
 
 The northern plateau hammerhead schooling is among the most sought-after photographs in Red Sea diving — wide-angle with a strong blue background and multiple silhouettes. Anemone City rewards macro and close-focus wide-angle equally: the clownfish-anemone combinations are vivid and accessible. For thresher sharks (winter, dawn, south end), long lenses are rarely useful underwater; position yourself correctly at depth and shoot wide. The soft-coral-draped walls are ideal for reef environmental portraits.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Divezone - Red Sea](https://divezone.net/diving/red-sea), [Dive the World - Egypt Red Sea](https://www.dive-the-world.com/diving-sites-egypt-red-sea.php), [Red Sea Scuba Diving](https://redsea-scubadiving.com/egypt-diving/), [PADI - Diving in Egypt](https://www.padi.com/diving-in/egypt/). Last updated 2026-04-04.*

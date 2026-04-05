@@ -50,8 +50,5 @@ The extreme shallow depth and calm conditions make this one of Yap's safest dive
 ## Photography
 The shallow depth means abundant natural light, making this an excellent natural-light photography site. Wide-angle lenses capture the overall wreck scene with clear blue water above. Shoot low and wide to get the full wreck profile with the surface visible above. Close-up shots of coral growth on identifiable aircraft components -- propeller, cockpit frame, landing gear -- tell a powerful story. Macro subjects include the anemonefish and lionfish that have colonized the wreckage. Overunder (split) shots are possible in calm conditions, showing the wreck beneath and Yap's coast above. The historical context makes every image from this site inherently compelling.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Visit Yap - Dive Sites](https://visityap.com/dive_sites.php), [Manta Ray Bay Resort - Dive Sites](https://mantaray.com/sites/), [Bluewater Dive Travel - Yap](https://www.bluewaterdivetravel.com/destination/yap-diving), [PADI - Diving in Yap](https://www.padi.com/diving-in/yap/), [Ikelite - Insider Guide to Diving Yap](https://www.ikelite.com/blogs/features/an-insiders-guide-to-diving-yap-micronesia). Last updated 2026-04-04.*

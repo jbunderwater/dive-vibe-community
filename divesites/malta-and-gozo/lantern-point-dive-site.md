@@ -23,7 +23,7 @@ The reef descends over stepped limestone terrain to a sandy bottom at approximat
 
 - **Location**: Southern Comino, Malta
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 20–25 meters
@@ -59,4 +59,4 @@ The channel position at Lantern Point means current can be encountered, particul
 The clean Mediterranean water and stepped limestone terrain produce excellent wide-angle reef shots. The channel visibility allows full-reef compositional perspectives. Grouper portraits, moray eels, and schooling sea bream all make strong subjects here.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [Atlantis Gozo Dive Sites](https://www.atlantisgozo.com/dive-sites/), [PADI Diving in Malta](https://www.padi.com/diving-in/malta/), [SCUBA Travel Malta Guide](https://www.scubatravel.co.uk/europe/malta-dive-in.html), [Dive Malta-Gozo](https://divemalta-gozo.com/diving-in-gozo/). Last updated 2026-04-04.*

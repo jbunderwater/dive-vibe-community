@@ -23,7 +23,7 @@ The reef at Zašorga descends over sloping rocky terrain to approximately 25 met
 
 - **Location**: Cape Zašorga, Dugi Otok area, Zadar Archipelago, Northern Dalmatia, Croatia
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15–20 meters
@@ -58,4 +58,4 @@ Cape exposure can concentrate current — check conditions before entry. Standar
 The clear Adriatic water of the Zadar Archipelago makes this an excellent wide-angle site. Rocky reef landscape, resident grouper, and the Posidonia meadows provide varied photographic subjects. The cape tip can be framed as a dramatic subject with deep blue water behind it.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [PADI Croatia](https://www.padi.com/diving-in/croatia/), [SCUBA Travel Guide Croatia](https://www.scubatravel.co.uk/europe/diving-croatia.html), [Croatia Divers](https://www.croatiadivers.com/en/divesites-korcula.shtml), [Scuba Diving Magazine](https://www.scubadiving.com/where-to-go-scuba-diving-in-croatia), [Diving Croatia B-24](https://diving-croatia.hr/). Last updated 2026-04-04.*

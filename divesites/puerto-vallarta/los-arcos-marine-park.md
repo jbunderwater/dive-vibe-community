@@ -52,3 +52,6 @@ All diving at Los Arcos is by boat. The site is a 10-15 minute ride from Mismalo
 - Night dives are excellent here: octopus, lobster, and sleeping turtles are approachable and easy to photograph
 - The park protection means you can take your time around the fish — they won't scatter
 - Combine with El Bajo del Cristo on a two-tank trip to see both the shallow and mid-depth zones of Los Arcos
+
+---
+*Sources: [Boca Divers - Puerto Vallarta Dive Sites](https://www.bocadivers.net/BocaDivers/divesites.htm), [PADI - Diving in Puerto Vallarta](https://www.padi.com/diving-in/mexico/puerto-vallarta/), [PADI - Top Dive Sites in Puerto Vallarta](https://www.padi.com/dive-sites/mexico/puerto-vallarta/), [Vallarta by Owner - Best Scuba Diving in Puerto Vallarta](https://vallartabyowner.com/scuba/), [Dressel Divers - Puerto Vallarta Scuba Diving](https://www.dresseldivers.com/dive/mexico/puerto-vallarta-scuba-diving/). Last updated 2026-04-04.*

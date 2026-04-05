@@ -23,9 +23,9 @@ Rose Rock sits in the southern Gulf Islands region, a cluster of rocky outcroppi
 
 - **Location**: Gulf Islands, British Columbia, Canada
 - **Entry Type**: Boat dive
-- **Site Type**: Rocky reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: 6–15 metres
 - **Current**: Moderate, tide-dependent; dive at or near slack
 - **Best Time**: July to October for best visibility
@@ -58,4 +58,4 @@ Cold water (7–12°C) requires appropriate thermal protection — most BC diver
 Wide-angle shots work well for the plumose anemone fields and passing rockfish schools. Macro opportunities are excellent — nudibranchs, encrusting sponges, and small crustaceans offer rich close-up subjects. Natural light penetrates well to 10 metres during summer.
 
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

@@ -23,9 +23,9 @@ The Great Storm of November 9–12, 1913 was the most destructive storm in Great
 
 - **Location**: Lake Huron, Great Lakes, Ontario, Canada (off Goderich, southern Lake Huron)
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 metres
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 5–12 metres
 - **Water Temperature**: 4–20°C (seasonal); bottom 4–8°C
 - **Current**: Variable with Lake Huron conditions
@@ -59,9 +59,5 @@ Lake Huron offshore conditions can deteriorate rapidly. Check weather forecasts 
 
 The Wexford is one of the most compelling photography subjects in Great Lakes diving. The intact upright hull of a vessel lost with all hands in the greatest Great Lakes storm offers images of extraordinary historical power. The steel hull in Lake Huron's ambient light, with portholes and deck features clearly visible, provides subjects ranging from intimate macro to wide-angle documentary.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Michigan.org - Dive Michigan Shipwrecks Underwater Preserves](https://www.michigan.org/article/trip-idea/dive-michigan-shipwrecks-these-underwater-preserves), [Great Lakes Shipwreck Preservation Society - Dive Sites](https://glsps.clubexpress.com/DiveSites), [Scuba Diving Magazine - Great Lakes Shipwrecks](https://www.scubadiving.com/great-lakes-shipwrecks-like-youve-never-seen-them-before), [Gear Patrol - Guide to Wreck Diving the Great Lakes](https://www.gearpatrol.com/archive/a162066/great-lakes-wreck-diving-guide/), [Shipwreck Explorers - Wisconsin Scuba Diving](https://www.shipwreckexplorers.com/). Last updated 2026-04-04.*

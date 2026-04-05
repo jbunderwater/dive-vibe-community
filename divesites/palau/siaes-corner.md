@@ -50,8 +50,5 @@ Strong and unpredictable currents are the main hazard, similar to Blue Corner bu
 ## Photography
 Wide-angle is essential for capturing sharks on the corner and the wall's sea fan gardens. The lower diver traffic means marine life is often less skittish, allowing closer approaches for photography. Shoot the sharks against the blue water background for clean compositions. The coral wall provides excellent backdrop for wide-angle reef shots. Light conditions are typically good on the western-facing wall in the afternoon.
 
-## Additional Resources
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from liveaboard operator sources, ScubaBoard trip reports, and firsthand diving accounts. Last updated 2026-03-28.*
+*Sources: [Palau Dive Adventures](https://palaudiveadventures.com/best-dive-sites-palau/), [Bluewater Dive Travel - Palau](https://www.bluewaterdivetravel.com/destination/palau-diving), [Dive the World - Palau](https://www.dive-the-world.com/diving-sites-palau.php), [PADI - Diving in Palau](https://www.padi.com/diving-in/palau/), [Pristine Paradise Palau](https://pristineparadisepalau.com/dive-palau/). Last updated 2026-04-04.*

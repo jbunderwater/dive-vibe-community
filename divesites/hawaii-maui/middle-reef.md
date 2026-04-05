@@ -58,9 +58,5 @@ Be aware of strong currents, remote locations, jellyfish in this area. Dive with
 
 This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-16
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-03-16.*
+*Sources: [Scuba Diving Magazine - Ultimate Guide to Maui](https://www.scubadiving.com/ultimate-guide-to-scuba-diving-maui), [Dive Maui - Scuba Diving](https://goscubadivemaui.com/), [Maui Diamond Sea Sports - Diving Maui Top Sites](https://mauidiamond.com/), [Banyan Tree Divers - Maui Shore Diving Guide](https://banyantreedivers.com/blog/maui-shore-diving-official-guide/), [PADI - Diving in Maui](https://www.padi.com/diving-in/united-states-of-america-usa/maui/). Last updated 2026-04-04.*

@@ -23,9 +23,9 @@ Hin Pee Wee is a pyramid-shaped rocky pinnacle covered in a combination of hard 
 
 - **Location**: West Koh Tao, adjacent to HTMS Sattakut wreck
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 28 m
+- **Maximum Depth**: 28 meters
 - **Typical Visibility**: 10–20 m
 - **Current**: Mild to moderate
 - **Best Time**: May to August
@@ -58,9 +58,5 @@ Triggerfish can be territorial during nesting season. Currents are generally mil
 
 Grouper portraits against the soft coral-covered pinnacle face. The pinnacle summit from below with divers doing a safety stop and light filtering from the surface above. Combination shots showing both Hin Pee Wee and the HTMS Sattakut in the same wide frame require clear visibility and careful positioning.
 
-## Additional Resources
-
-- **Last Updated**: 2026-03-28
-
 ---
-*This dive site information was compiled from diver community sources and regional diving knowledge. Last updated 2026-03-28.*
+*Sources: [Koh Tao Complete Guide - Best Dive Sites](https://www.kohtaocompleteguide.com/diving/koh-tao-dive-sites/), [Sairee Cottage Diving - Koh Tao Dive Sites Complete Guide](https://www.saireecottagediving.com/koh-tao-dive-sites-complete-guide-to-26-incredible-locations/), [Big Blue Diving Koh Tao](https://www.bigbluediving.com/), [PADI - Diving in Koh Tao](https://www.padi.com/diving-in/koh-tao/), [Dive Happy - Koh Tao Dive Sites Guide](https://divehappy.com/). Last updated 2026-04-04.*
