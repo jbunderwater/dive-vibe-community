@@ -1,84 +1,5 @@
 [
   {
-    "name": "Ashe Rocks",
-    "lat": 59.8836267,
-    "lon": -64.0399775,
-    "osm_id": 2182298311,
-    "osm_type": "node",
-    "depth": 12,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Advanced",
-    "tags": {
-      "name": "Ashe Rocks",
-      "natural": "reef",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "validation_date": "2026-03-16",
-      "validation_note": "East Greenland rocky pinnacle, Arctic waters"
-    }
-  },
-  {
-    "name": "T33 57-763 wreck",
-    "lat": 67.0630568,
-    "lon": -50.3856176,
-    "osm_id": 6221188219,
-    "osm_type": "node",
-    "depth": 45,
-    "site_type": "wreck",
-    "entry_type": "boat",
-    "difficulty": "Advanced",
-    "tags": {
-      "aircraft:type": "military",
-      "historic": "wreck",
-      "inscription": "American T33 crashed in December 1968",
-      "memorial": "yes",
-      "name": "T33 57-763 wreck",
-      "wikidata": "Q12311699",
-      "wikipedia": "da:Flystyrt ved Sondrestrom Airbase",
-      "wreck:type": "plane",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "validation_date": "2026-03-16",
-      "validation_note": "USAAF aircraft crash 1968, Sondre Strømfjord area"
-    }
-  },
-  {
-    "name": "HMS Hood",
-    "lat": 63.333333,
-    "lon": -31.833333,
-    "osm_id": 6516945485,
-    "osm_type": "node",
-    "depth": 2800,
-    "site_type": "wreck",
-    "entry_type": "boat",
-    "difficulty": "Advanced",
-    "tags": {
-      "historic": "wreck",
-      "name": "HMS Hood",
-      "seamark:type": "wreck",
-      "wikidata": "Q220239",
-      "wikipedia": "en:HMS Hood",
-      "wreck:date_commissioned": "1920-05-15",
-      "wreck:date_sunk": "1916-05-31",
-      "wreck:depth": "2800 m",
-      "wreck:discoverer": "Blue Water Recoveries",
-      "wreck:discovery": "2001",
-      "wreck:location": "confirmed",
-      "wreck:type": "ship",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "validation_date": "2026-03-16",
-      "validation_note": "Historical WWII battlecruiser wreck in Davis Strait, technically unreachable for rec diving"
-    }
-  },
-  {
     "name": "Aasiaat Nugguat",
     "lat": 68.6867127,
     "lon": -52.8904042,
@@ -97,56 +18,6 @@
       "validation_source": "perplexity",
       "validation_date": "2026-03-16",
       "validation_note": "Disko Bay area, Arctic rock formations"
-    }
-  },
-  {
-    "name": "OY-ADH Blue Cheese",
-    "lat": 82.1711364,
-    "lon": -30.4531834,
-    "osm_id": 10784559906,
-    "osm_type": "node",
-    "depth": 35,
-    "site_type": "wreck",
-    "entry_type": "boat",
-    "difficulty": "Advanced",
-    "tags": {
-      "aircraft:type": "Cessna 180",
-      "alt_name": "Ostehandlerens Fly",
-      "date": "26/05/1966",
-      "historic": "wreck",
-      "name": "OY-ADH Blue Cheese",
-      "wreck:type": "plane",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "validation_date": "2026-03-16",
-      "validation_note": "Cessna 180 aircraft crash, far north (82°N)"
-    }
-  },
-  {
-    "name": "Belgica Banke",
-    "lat": 79.0612626,
-    "lon": -14.0313109,
-    "osm_id": 13200872865,
-    "osm_type": "node",
-    "depth": 80,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Advanced",
-    "tags": {
-      "comment": "landkort 78ø2 nr 41",
-      "name": "Belgica Banke",
-      "name:da": "Belgica Banke",
-      "natural": "reef",
-      "source": "osm_extended",
-      "source:ref": "12679",
-      "source:type": "BANK",
-      "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "validation_date": "2026-03-16",
-      "validation_note": "Northern Greenland bank/pinnacle"
     }
   },
   {
@@ -266,27 +137,6 @@
       "validation_source": "perplexity",
       "validation_date": "2026-03-16",
       "validation_note": "North of Disko Bay, Arctic diving"
-    }
-  },
-  {
-    "name": "Rocky Ledge",
-    "lat": 65.4421105,
-    "lon": -63.5056457,
-    "osm_id": 1451152502,
-    "osm_type": "way",
-    "depth": 15,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Advanced",
-    "tags": {
-      "name": "Rocky Ledge",
-      "natural": "reef",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "validation_date": "2026-03-16",
-      "validation_note": "East Greenland fjord diving"
     }
   }
 ]
