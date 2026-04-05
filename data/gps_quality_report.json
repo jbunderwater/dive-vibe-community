@@ -557,85 +557,61 @@
     "site_count": 13,
     "issues": [
       {
-        "site": "Tiger Rock",
-        "issue": "ROUND_COORDS",
-        "severity": "error",
-        "detail": "(9.28, -82.18) only 2dp precision (~1.1km error)"
-      },
-      {
-        "site": "Hospital Point",
-        "issue": "ROUND_COORDS",
-        "severity": "error",
-        "detail": "(9.34, -82.24) only 2dp precision (~1.1km error)"
-      },
-      {
         "site": "The Playground",
         "issue": "ROUND_COORDS",
         "severity": "error",
-        "detail": "(9.31, -82.2) only 1dp precision (~11km error)"
+        "detail": "(9.342, -82.23) only 2dp precision (~1.1km error)"
       },
       {
         "site": "Crawl Cay",
-        "issue": "ROUND_COORDS",
-        "severity": "error",
-        "detail": "(9.27, -82.15) only 2dp precision (~1.1km error)"
+        "issue": "LOW_PRECISION",
+        "severity": "warning",
+        "detail": "(9.244, -82.144) only 3dp precision (~110m error)"
       },
       {
         "site": "Polo Beach Wall",
-        "issue": "ROUND_COORDS",
-        "severity": "error",
-        "detail": "(9.35, -82.26) only 2dp precision (~1.1km error)"
+        "issue": "LOW_PRECISION",
+        "severity": "warning",
+        "detail": "(9.292, -82.158) only 3dp precision (~110m error)"
       },
       {
         "site": "Dark Wood Reef",
         "issue": "ROUND_COORDS",
         "severity": "error",
-        "detail": "(9.3, -82.19) only 1dp precision (~11km error)"
-      },
-      {
-        "site": "Cayo Coral",
-        "issue": "ROUND_COORDS",
-        "severity": "error",
-        "detail": "(9.25, -82.13) only 2dp precision (~1.1km error)"
+        "detail": "(9.315, -82.2) only 1dp precision (~11km error)"
       },
       {
         "site": "Wreck Rock",
         "issue": "ROUND_COORDS",
         "severity": "error",
-        "detail": "(9.32, -82.22) only 2dp precision (~1.1km error)"
+        "detail": "(9.322, -82.25) only 2dp precision (~1.1km error)"
       },
       {
         "site": "Punta Juan",
         "issue": "ROUND_COORDS",
         "severity": "error",
-        "detail": "(9.29, -82.17) only 2dp precision (~1.1km error)"
+        "detail": "(9.3333, -82.2) only 1dp precision (~11km error)"
       },
       {
         "site": "Zapatillas Reef",
-        "issue": "ROUND_COORDS",
-        "severity": "error",
-        "detail": "(9.26, -82.08) only 2dp precision (~1.1km error)"
+        "issue": "LOW_PRECISION",
+        "severity": "warning",
+        "detail": "(9.265, -82.055) only 3dp precision (~110m error)"
       },
       {
         "site": "Dolphins Bay",
         "issue": "ROUND_COORDS",
         "severity": "error",
-        "detail": "(9.33, -82.23) only 2dp precision (~1.1km error)"
+        "detail": "(9.24, -82.255) only 2dp precision (~1.1km error)"
       },
       {
         "site": "Long Cay Wall",
-        "issue": "ROUND_COORDS",
-        "severity": "error",
-        "detail": "(9.245, -82.12) only 2dp precision (~1.1km error)"
+        "issue": "LOW_PRECISION",
+        "severity": "warning",
+        "detail": "(9.268, -82.165) only 3dp precision (~110m error)"
       }
     ],
-    "flags": [
-      {
-        "issue": "GRID_PATTERN",
-        "severity": "error",
-        "detail": "Coordinates form uniform grid (step ~0.010\u00b0) \u2014 likely fabricated"
-      }
-    ]
+    "flags": []
   },
   "bonaire": {
     "site_count": 61,
@@ -974,73 +950,37 @@
     "site_count": 10,
     "issues": [
       {
-        "site": "Faro Reef",
-        "issue": "ROUND_COORDS",
-        "severity": "error",
-        "detail": "(7.62, -81.72) only 2dp precision (~1.1km error)"
-      },
-      {
         "site": "Machete Point",
-        "issue": "ROUND_COORDS",
-        "severity": "error",
-        "detail": "(7.58, -81.75) only 2dp precision (~1.1km error)"
+        "issue": "LOW_PRECISION",
+        "severity": "warning",
+        "detail": "(7.648, -81.715) only 3dp precision (~110m error)"
       },
       {
-        "site": "Granito de Oro",
+        "site": "Iglesia",
         "issue": "ROUND_COORDS",
         "severity": "error",
-        "detail": "(7.55, -81.7) only 1dp precision (~11km error)"
-      },
-      {
-        "site": "Iglesia Point",
-        "issue": "ROUND_COORDS",
-        "severity": "error",
-        "detail": "(7.65, -81.68) only 2dp precision (~1.1km error)"
+        "detail": "(7.64, -81.695) only 2dp precision (~1.1km error)"
       },
       {
         "site": "Bahia Damas",
         "issue": "ROUND_COORDS",
         "severity": "error",
-        "detail": "(7.5, -81.78) only 1dp precision (~11km error)"
-      },
-      {
-        "site": "Canales de Afuera",
-        "issue": "ROUND_COORDS",
-        "severity": "error",
-        "detail": "(7.4, -81.85) only 1dp precision (~11km error)"
-      },
-      {
-        "site": "Jicarita Island",
-        "issue": "ROUND_COORDS",
-        "severity": "error",
-        "detail": "(7.21, -81.8) only 1dp precision (~11km error)"
+        "detail": "(7.45, -81.6833) only 2dp precision (~1.1km error)"
       },
       {
         "site": "Santa Cruz",
-        "issue": "ROUND_COORDS",
-        "severity": "error",
-        "detail": "(7.68, -81.65) only 2dp precision (~1.1km error)"
-      },
-      {
-        "site": "Monta\u00f1a Rusa",
-        "issue": "ROUND_COORDS",
-        "severity": "error",
-        "detail": "(7.45, -81.82) only 2dp precision (~1.1km error)"
+        "issue": "LOW_PRECISION",
+        "severity": "warning",
+        "detail": "(7.615, -81.735) only 3dp precision (~110m error)"
       },
       {
         "site": "Shark Point Coiba",
         "issue": "ROUND_COORDS",
         "severity": "error",
-        "detail": "(7.53, -81.73) only 2dp precision (~1.1km error)"
+        "detail": "(7.52, -81.75) only 2dp precision (~1.1km error)"
       }
     ],
-    "flags": [
-      {
-        "issue": "ALL_ESTIMATED",
-        "severity": "error",
-        "detail": "All 10 sites are curated (no OSM data) and 10/10 have round coords \u2014 needs GPS research"
-      }
-    ]
+    "flags": []
   },
   "cozumel": {
     "site_count": 23,
@@ -2338,66 +2278,24 @@
     "issues": [
       {
         "site": "Cathedral Reef",
-        "issue": "ROUND_COORDS",
-        "severity": "error",
-        "detail": "(-20.25, 57.52) only 2dp precision (~1.1km error)"
-      },
-      {
-        "site": "Whale Rock",
-        "issue": "ROUND_COORDS",
-        "severity": "error",
-        "detail": "(-20.3, 57.6) only 1dp precision (~11km error)"
+        "issue": "LOW_PRECISION",
+        "severity": "warning",
+        "detail": "(-20.289, 57.356) only 3dp precision (~110m error)"
       },
       {
         "site": "Trou aux Biches Reef",
-        "issue": "ROUND_COORDS",
-        "severity": "error",
-        "detail": "(-20.03, 57.53) only 2dp precision (~1.1km error)"
-      },
-      {
-        "site": "Blue Bay Marine Park",
-        "issue": "ROUND_COORDS",
-        "severity": "error",
-        "detail": "(-20.44, 57.71) only 2dp precision (~1.1km error)"
-      },
-      {
-        "site": "Stella Maru Wreck",
-        "issue": "ROUND_COORDS",
-        "severity": "error",
-        "detail": "(-20.295, 57.59) only 2dp precision (~1.1km error)"
-      },
-      {
-        "site": "Colorado Point",
-        "issue": "ROUND_COORDS",
-        "severity": "error",
-        "detail": "(-20.35, 57.55) only 2dp precision (~1.1km error)"
+        "issue": "LOW_PRECISION",
+        "severity": "warning",
+        "detail": "(-20.042, 57.535) only 3dp precision (~110m error)"
       },
       {
         "site": "Flic en Flac Pass",
-        "issue": "ROUND_COORDS",
-        "severity": "error",
-        "detail": "(-20.28, 57.36) only 2dp precision (~1.1km error)"
-      },
-      {
-        "site": "Rempart Serpent",
-        "issue": "ROUND_COORDS",
-        "severity": "error",
-        "detail": "(-20.31, 57.58) only 2dp precision (~1.1km error)"
-      },
-      {
-        "site": "Hoi Siong No. 6 Wreck",
-        "issue": "ROUND_COORDS",
-        "severity": "error",
-        "detail": "(-20.16, 57.5) only 1dp precision (~11km error)"
+        "issue": "LOW_PRECISION",
+        "severity": "warning",
+        "detail": "(-20.296, 57.361) only 3dp precision (~110m error)"
       }
     ],
-    "flags": [
-      {
-        "issue": "ALL_ESTIMATED",
-        "severity": "error",
-        "detail": "All 9 sites are curated (no OSM data) and 9/9 have round coords \u2014 needs GPS research"
-      }
-    ]
+    "flags": []
   },
   "micronesia-yap": {
     "site_count": 15,
@@ -2907,70 +2805,64 @@
     "issues": [
       {
         "site": "Manta Bowl",
-        "issue": "ROUND_COORDS",
-        "severity": "error",
-        "detail": "(12.905, 123.59) only 2dp precision (~1.1km error)"
+        "issue": "LOW_PRECISION",
+        "severity": "warning",
+        "detail": "(12.6597, 123.755) only 3dp precision (~110m error)"
       },
       {
         "site": "Ticao Pass",
         "issue": "ROUND_COORDS",
         "severity": "error",
-        "detail": "(12.87, 123.65) only 2dp precision (~1.1km error)"
+        "detail": "(12.7, 123.68) only 1dp precision (~11km error)"
       },
       {
         "site": "San Miguel Island",
-        "issue": "ROUND_COORDS",
-        "severity": "error",
-        "detail": "(12.92, 123.57) only 2dp precision (~1.1km error)"
+        "issue": "LOW_PRECISION",
+        "severity": "warning",
+        "detail": "(12.714, 123.594) only 3dp precision (~110m error)"
       },
       {
-        "site": "Donsol Bank",
+        "site": "Bobby's Wall",
         "issue": "ROUND_COORDS",
         "severity": "error",
-        "detail": "(12.89, 123.61) only 2dp precision (~1.1km error)"
+        "detail": "(12.72, 123.59) only 2dp precision (~1.1km error)"
       },
       {
-        "site": "Balacag Point",
-        "issue": "ROUND_COORDS",
-        "severity": "error",
-        "detail": "(12.935, 123.58) only 2dp precision (~1.1km error)"
-      },
-      {
-        "site": "Donsol Whale Shark Area",
-        "issue": "ROUND_COORDS",
-        "severity": "error",
-        "detail": "(12.91, 123.595) only 2dp precision (~1.1km error)"
-      },
-      {
-        "site": "Jintotolo Channel",
-        "issue": "ROUND_COORDS",
-        "severity": "error",
-        "detail": "(12.85, 123.64) only 2dp precision (~1.1km error)"
+        "site": "Shark Apartment",
+        "issue": "LOW_PRECISION",
+        "severity": "warning",
+        "detail": "(12.662, 123.758) only 3dp precision (~110m error)"
       },
       {
         "site": "Burias Pass",
         "issue": "ROUND_COORDS",
         "severity": "error",
-        "detail": "(12.96, 123.56) only 2dp precision (~1.1km error)"
+        "detail": "(12.85, 123.5) only 1dp precision (~11km error)"
       },
       {
-        "site": "San Bernardino Strait",
+        "site": "Great Wall of Ticao",
         "issue": "ROUND_COORDS",
         "severity": "error",
-        "detail": "(12.87, 123.68) only 2dp precision (~1.1km error)"
+        "detail": "(12.49, 123.73) only 2dp precision (~1.1km error)"
       },
       {
-        "site": "Ticao Island South Wall",
+        "site": "Parola",
+        "issue": "LOW_PRECISION",
+        "severity": "warning",
+        "detail": "(12.717, 123.589) only 3dp precision (~110m error)"
+      },
+      {
+        "site": "Tres Grace",
         "issue": "ROUND_COORDS",
         "severity": "error",
-        "detail": "(12.855, 123.66) only 2dp precision (~1.1km error)"
+        "detail": "(12.71, 123.6) only 1dp precision (~11km error)"
       }
     ],
     "flags": [
       {
         "issue": "ALL_ESTIMATED",
         "severity": "error",
-        "detail": "All 10 sites are curated (no OSM data) and 10/10 have round coords \u2014 needs GPS research"
+        "detail": "All 10 sites are curated (no OSM data) and 5/10 have round coords \u2014 needs GPS research"
       }
     ]
   },
@@ -5001,82 +4893,23 @@
     "site_count": 12,
     "issues": [
       {
-        "site": "Black Hills",
-        "issue": "ROUND_COORDS",
-        "severity": "error",
-        "detail": "(16.115, -86.92) only 2dp precision (~1.1km error)"
-      },
-      {
-        "site": "Duppy Waters",
-        "issue": "ROUND_COORDS",
-        "severity": "error",
-        "detail": "(16.08, -86.95) only 2dp precision (~1.1km error)"
-      },
-      {
-        "site": "CJ's Drop Off",
-        "issue": "ROUND_COORDS",
-        "severity": "error",
-        "detail": "(16.105, -86.94) only 2dp precision (~1.1km error)"
-      },
-      {
-        "site": "Halliburton Wreck",
-        "issue": "ROUND_COORDS",
-        "severity": "error",
-        "detail": "(16.095, -86.93) only 2dp precision (~1.1km error)"
-      },
-      {
-        "site": "Stingray Point",
-        "issue": "ROUND_COORDS",
-        "severity": "error",
-        "detail": "(16.1, -86.945) only 1dp precision (~11km error)"
-      },
-      {
-        "site": "Jack Neil Point",
-        "issue": "ROUND_COORDS",
-        "severity": "error",
-        "detail": "(16.09, -86.955) only 2dp precision (~1.1km error)"
-      },
-      {
         "site": "Ron's Wreck",
-        "issue": "ROUND_COORDS",
-        "severity": "error",
-        "detail": "(16.085, -86.96) only 2dp precision (~1.1km error)"
-      },
-      {
-        "site": "Airport Caves",
-        "issue": "ROUND_COORDS",
-        "severity": "error",
-        "detail": "(16.11, -86.925) only 2dp precision (~1.1km error)"
+        "issue": "LOW_PRECISION",
+        "severity": "warning",
+        "detail": "(16.083, -86.896) only 3dp precision (~110m error)"
       },
       {
         "site": "Pretty Bush",
         "issue": "LOW_PRECISION",
         "severity": "warning",
-        "detail": "(16.075, -86.965) only 3dp precision (~110m error)"
-      },
-      {
-        "site": "Lighthouse Reef",
-        "issue": "ROUND_COORDS",
-        "severity": "error",
-        "detail": "(16.13, -86.905) only 2dp precision (~1.1km error)"
-      },
-      {
-        "site": "Ted's Point",
-        "issue": "ROUND_COORDS",
-        "severity": "error",
-        "detail": "(16.07, -86.97) only 2dp precision (~1.1km error)"
+        "detail": "(16.084, -86.9169) only 3dp precision (~110m error)"
       }
     ],
     "flags": [
       {
-        "issue": "GRID_PATTERN",
-        "severity": "error",
-        "detail": "Coordinates form uniform grid (step ~0.005\u00b0) \u2014 likely fabricated"
-      },
-      {
         "issue": "TIGHT_CLUSTER",
         "severity": "warning",
-        "detail": "11/12 sites within 5.0km of centroid (max spread 5.4km) \u2014 may all be estimated from center point"
+        "detail": "11/12 sites within 5.0km of centroid (max spread 5.8km) \u2014 may all be estimated from center point"
       }
     ]
   },
