@@ -1,7 +1,7 @@
 ---
 name: San Rafaelito
-lat: 24.3
-lng: -110.1
+lat: 24.2983
+lng: -110.3459
 difficulty: Beginner
 maxDepth: 15
 entryType: boat

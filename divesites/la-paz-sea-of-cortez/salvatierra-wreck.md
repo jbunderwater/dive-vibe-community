@@ -1,7 +1,7 @@
 ---
 name: Salvatierra Wreck
-lat: 24.25
-lng: -110.03
+lat: 24.3889
+lng: -110.3137
 difficulty: Intermediate
 maxDepth: 19
 entryType: boat

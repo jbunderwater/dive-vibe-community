@@ -1,7 +1,7 @@
 ---
 name: El Bajo Seamount
-lat: 24.72
-lng: -110.3
+lat: 24.657
+lng: -110.1256
 difficulty: Advanced
 maxDepth: 40
 entryType: boat
