@@ -1174,5 +1174,101 @@
     "siteType": "reef",
     "ref": "",
     "osmId": null
+  },
+  {
+    "name": "Kalig Wall",
+    "filename": "kalig-wall.md",
+    "lat": -2.220117,
+    "lng": 130.5473,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Barracuda Corner",
+    "filename": "barracuda-corner.md",
+    "lat": -2.220217,
+    "lng": 130.5536,
+    "difficulty": "Advanced",
+    "maxDepth": 28,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Leisure Stroll Reef",
+    "filename": "leisure-stroll-reef.md",
+    "lat": -2.218283,
+    "lng": 130.549667,
+    "difficulty": "Beginner",
+    "maxDepth": 7,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Nudi Bomie",
+    "filename": "nudi-bomie.md",
+    "lat": -2.023283,
+    "lng": 130.679183,
+    "difficulty": "Intermediate",
+    "maxDepth": 18,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Delos Cove",
+    "filename": "delos-cove.md",
+    "lat": -2.0251,
+    "lng": 130.67375,
+    "difficulty": "Intermediate",
+    "maxDepth": 17,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Kabui Pass",
+    "filename": "kabui-pass.md",
+    "lat": -0.431117,
+    "lng": 130.556967,
+    "difficulty": "Intermediate",
+    "maxDepth": 15,
+    "entryType": "boat",
+    "siteType": "drift",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Bullseye Ridge",
+    "filename": "bullseye-ridge.md",
+    "lat": -0.565067,
+    "lng": 130.28515,
+    "difficulty": "Intermediate",
+    "maxDepth": 22,
+    "entryType": "boat",
+    "siteType": "pinnacle",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Bullseye Wall",
+    "filename": "bullseye-wall.md",
+    "lat": -0.567367,
+    "lng": 130.285017,
+    "difficulty": "Intermediate",
+    "maxDepth": 16,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
   }
 ]

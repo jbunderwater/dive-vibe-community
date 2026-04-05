@@ -1742,5 +1742,133 @@
       "addedBy": "manual_addition",
       "area": "Misool"
     }
+  },
+  {
+    "name": "Kalig Wall",
+    "lat": -2.220117,
+    "lon": 130.5473,
+    "depth": 20,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "svdelos.com dive log",
+    "tags": {
+      "source": "curated",
+      "addedBy": "manual_addition",
+      "area": "Misool"
+    }
+  },
+  {
+    "name": "Barracuda Corner",
+    "lat": -2.220217,
+    "lon": 130.5536,
+    "depth": 28,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "svdelos.com dive log",
+    "tags": {
+      "source": "curated",
+      "addedBy": "manual_addition",
+      "area": "Misool"
+    }
+  },
+  {
+    "name": "Leisure Stroll Reef",
+    "lat": -2.218283,
+    "lon": 130.549667,
+    "depth": 7,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "svdelos.com dive log",
+    "tags": {
+      "source": "curated",
+      "addedBy": "manual_addition",
+      "area": "Misool"
+    }
+  },
+  {
+    "name": "Nudi Bomie",
+    "lat": -2.023283,
+    "lon": 130.679183,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "svdelos.com dive log",
+    "tags": {
+      "source": "curated",
+      "addedBy": "manual_addition",
+      "area": "Misool"
+    }
+  },
+  {
+    "name": "Delos Cove",
+    "lat": -2.0251,
+    "lon": 130.67375,
+    "depth": 17,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "svdelos.com dive log",
+    "tags": {
+      "source": "curated",
+      "addedBy": "manual_addition",
+      "area": "Misool"
+    }
+  },
+  {
+    "name": "Kabui Pass",
+    "lat": -0.431117,
+    "lon": 130.556967,
+    "depth": 15,
+    "site_type": "drift",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "svdelos.com dive log",
+    "tags": {
+      "source": "curated",
+      "addedBy": "manual_addition",
+      "area": "Kabui Bay"
+    }
+  },
+  {
+    "name": "Bullseye Ridge",
+    "lat": -0.565067,
+    "lon": 130.28515,
+    "depth": 22,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "svdelos.com dive log",
+    "tags": {
+      "source": "curated",
+      "addedBy": "manual_addition",
+      "area": "Penemu"
+    }
+  },
+  {
+    "name": "Bullseye Wall",
+    "lat": -0.567367,
+    "lon": 130.285017,
+    "depth": 16,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "svdelos.com dive log",
+    "tags": {
+      "source": "curated",
+      "addedBy": "manual_addition",
+      "area": "Penemu"
+    }
   }
 ]
