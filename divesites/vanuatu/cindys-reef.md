@@ -1,7 +1,7 @@
 ---
 name: Cindy's Reef
-lat: -17.74
-lng: 168.32
+lat: -15.5411
+lng: 167.2148
 difficulty: Beginner
 maxDepth: 30
 entryType: boat

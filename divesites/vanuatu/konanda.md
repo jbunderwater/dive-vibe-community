@@ -1,7 +1,7 @@
 ---
 name: Konanda
-lat: -15.48
-lng: 167.21
+lat: -17.7086
+lng: 168.2831
 difficulty: Beginner
 maxDepth: 26
 entryType: boat

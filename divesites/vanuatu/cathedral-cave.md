@@ -1,7 +1,7 @@
 ---
 name: Cathedral Cave
-lat: -17.75
-lng: 168.33
+lat: -17.7806
+lng: 168.2567
 difficulty: Intermediate
 maxDepth: 28
 entryType: boat

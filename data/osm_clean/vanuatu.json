@@ -44,8 +44,8 @@
   },
   {
     "name": "USS Tucker",
-    "lat": -15.52,
-    "lon": 167.18,
+    "lat": -15.6093,
+    "lon": 167.1332,
     "depth": 24,
     "site_type": "wreck",
     "entry_type": "boat",
@@ -54,13 +54,13 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "wikimapia, diveplanit.com, evolutionunderwater.com"
     }
   },
   {
     "name": "Cindy's Reef",
-    "lat": -17.74,
-    "lon": 168.32,
+    "lat": -15.5411,
+    "lon": 167.2148,
     "depth": 30,
     "site_type": "reef",
     "entry_type": "boat",
@@ -69,13 +69,13 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "zentacle.com, diveplanit.com, aoreadventures.com"
     }
   },
   {
     "name": "Star of Russia Wreck",
-    "lat": -17.73,
-    "lon": 168.31,
+    "lat": -17.7554,
+    "lon": 168.2965,
     "depth": 35,
     "site_type": "wreck",
     "entry_type": "boat",
@@ -84,13 +84,13 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "zentacle.com, allaboutvanuatu.com, bigbluevanuatu.com"
     }
   },
   {
     "name": "Cathedral Cave",
-    "lat": -17.75,
-    "lon": 168.33,
+    "lat": -17.7806,
+    "lon": 168.2567,
     "depth": 28,
     "site_type": "cave",
     "entry_type": "boat",
@@ -99,13 +99,13 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "michaelmcfadyenscuba.info, zentacle.com, bigbluevanuatu.com"
     }
   },
   {
     "name": "Hideaway Island Reef",
-    "lat": -17.71,
-    "lon": 168.28,
+    "lat": -17.6997,
+    "lon": 168.2615,
     "depth": 10,
     "site_type": "reef",
     "entry_type": "shore",
@@ -114,13 +114,13 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "zentacle.com, diveplanit.com, vanuatu.travel"
     }
   },
   {
     "name": "Paul's Rock",
-    "lat": -15.49,
-    "lon": 167.2,
+    "lat": -15.4923,
+    "lon": 167.1985,
     "depth": 22,
     "site_type": "reef",
     "entry_type": "boat",
@@ -129,13 +129,13 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "diveadventures.com.au, thehavannah.com"
     }
   },
   {
     "name": "Ollies Lolly",
-    "lat": -15.51,
-    "lon": 167.19,
+    "lat": -17.7025,
+    "lon": 168.2580,
     "depth": 9,
     "site_type": "reef",
     "entry_type": "boat",
@@ -144,13 +144,13 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "vanuatu.travel, divepacific.co.nz, wannadive.net"
     }
   },
   {
     "name": "Konanda",
-    "lat": -15.48,
-    "lon": 167.21,
+    "lat": -17.7086,
+    "lon": 168.2831,
     "depth": 26,
     "site_type": "wreck",
     "entry_type": "boat",
@@ -159,7 +159,7 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "zentacle.com, bigbluevanuatu.com, wannadive.net"
     }
   }
 ]

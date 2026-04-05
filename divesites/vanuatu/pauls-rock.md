@@ -1,7 +1,7 @@
 ---
 name: Paul's Rock
-lat: -15.49
-lng: 167.2
+lat: -15.4923
+lng: 167.1985
 difficulty: Intermediate
 maxDepth: 22
 entryType: boat
