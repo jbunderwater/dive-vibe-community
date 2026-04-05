@@ -1,7 +1,7 @@
 ---
 name: Faro Reef
-lat: 7.62
-lng: -81.72
+lat: 7.6895
+lng: -81.6385
 difficulty: Advanced
 maxDepth: 30
 entryType: boat

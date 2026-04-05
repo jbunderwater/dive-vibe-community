@@ -1,7 +1,7 @@
 ---
 name: Granito de Oro
-lat: 7.55
-lng: -81.7
+lat: 7.5933
+lng: -81.7124
 difficulty: Advanced
 maxDepth: 18
 entryType: boat

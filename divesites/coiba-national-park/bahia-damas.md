@@ -1,7 +1,7 @@
 ---
 name: Bahia Damas
-lat: 7.5
-lng: -81.78
+lat: 7.45
+lng: -81.6833
 difficulty: Advanced
 maxDepth: 30
 entryType: boat

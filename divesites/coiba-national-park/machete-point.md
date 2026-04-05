@@ -1,7 +1,7 @@
 ---
 name: Machete Point
-lat: 7.58
-lng: -81.75
+lat: 7.648
+lng: -81.715
 difficulty: Advanced
 maxDepth: 28
 entryType: boat
