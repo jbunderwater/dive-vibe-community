@@ -1,23 +1,23 @@
 ---
-name: Tosei Maru
-lat: 1.1452
-lng: 127.8332
+name: Foya Wreck
+lat: 0.32
+lng: 127.88
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 30
 entryType: boat
 siteType: wreck
 ref: null
-osmId: 20315906
+osmId: null
 addedBy: osm_import
 ---
 
-## Tosei Maru
+## Foya Wreck
 
-Tosei Maru is a historic wreck dive in Halmahera, Asia.
+Foya Wreck is a historic wreck dive in Halmahera, Asia.
 
 ## Overview
 
-Tosei Maru is a dive site in Halmahera featuring the wreck of the Tosei Maru which sank in 1941-12-12. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Foya Wreck is a dive site in Halmahera featuring the wreck of the Foya Wreck. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ Tosei Maru is a dive site in Halmahera featuring the wreck of the Tosei Maru whi
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter batfish, lionfish, sweetlips, coral 
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 30 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 

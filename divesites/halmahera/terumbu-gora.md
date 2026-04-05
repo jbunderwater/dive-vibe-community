@@ -1,31 +1,31 @@
 ---
-name: Tobelo Reef
-lat: 1.73
-lng: 128.02
+name: Terumbu Gora
+lat: -0.0292
+lng: 127.224
 difficulty: Intermediate
-maxDepth: 22
+maxDepth: 35
 entryType: boat
-siteType: reef
+siteType: pinnacle
 ref: null
 osmId: null
 addedBy: osm_import
 ---
 
-## Tobelo Reef
+## Terumbu Gora
 
-Tobelo Reef is a reef dive site in Halmahera, Asia.
+Terumbu Gora is a pinnacle dive site in Halmahera, Asia.
 
 ## Overview
 
-Tobelo Reef is a dive site in Halmahera offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Terumbu Gora is a dive site in Halmahera offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
 - **Location**: Halmahera, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter manta rays, whale sharks, reef shark
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 22 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 35 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -58,6 +58,9 @@ Be aware of strong currents, jellyfish, sea urchins in this area. Dive within yo
 
 This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
+## Additional Resources
+
+- **Last Updated**: 2026-04-05
 
 ---
-*Sources: [Liveaboard Indonesia - Halmahera](https://liveaboardindonesia.com/destinations/halmahera/), [Mikumba Diving - North Maluku Dive Sites](https://www.mikumbadiving.com/north-maluku-dive-sites/), [Weda Resort - Halmahera](https://wedaresort.com/), [ZuBlu - Halmahera Ternate Morotai](https://www.zubludiving.com/destination/indonesia/maluku/halmahera-ternate-morotai), [Wallacea Dive Cruise - Halmahera Guide](https://wallacea-divecruise.com/blogs/diving-in-halmahera-guide). Last updated 2026-04-04.*
+*Sources: [Mermaid Liveaboards – Halmahera](https://www.mermaid-liveaboards.com/halmahera), [Weda Resort Dive Sites](https://wedaresort.com), [PADI Travel – Halmahera](https://travel.padi.com), [IndoPacificImages](https://www.indopacificimages.com), [Malaillo Liveaboard](https://malaillo.com). Last updated 2026-04-05.*

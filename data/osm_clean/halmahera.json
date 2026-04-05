@@ -10,7 +10,8 @@
     "osm_id": 2144506344,
     "tags": {
       "source": "osm_extended",
-      "historic": "wreck"
+      "historic": "wreck",
+      "validation_source": "OpenStreetMap"
     }
   },
   {
@@ -25,112 +26,204 @@
     "tags": {
       "source": "osm_extended",
       "historic": "wreck",
-      "wreck:date_sunk": "1941-12-12"
+      "wreck:date_sunk": "1941-12-12",
+      "validation_source": "OpenStreetMap"
     }
   },
   {
-    "name": "Pasirtidore Reef",
-    "lat": 0.3174,
-    "lon": 127.9902,
-    "depth": 25,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "osm_id": 1337350916,
-    "tags": {
-      "source": "osm_extended",
-      "natural": "reef"
-    }
-  },
-  {
-    "name": "Widi Islands Wall",
-    "lat": 0.45,
-    "lon": 127.85,
-    "depth": 40,
-    "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Advanced",
-    "tags": {
-      "source": "curated",
-      "addedBy": "gap_fill"
-    }
-  },
-  {
-    "name": "Ternate Volcano Wall",
-    "lat": 0.78,
+    "name": "Biatabang",
+    "lat": 0.76,
     "lon": 127.37,
-    "depth": 35,
+    "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validation_source": "PADI, sailingfairy.com"
     }
   },
   {
-    "name": "Tidore Reef",
-    "lat": 0.67,
-    "lon": 127.4,
-    "depth": 20,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "source": "curated",
-      "addedBy": "gap_fill"
-    }
-  },
-  {
-    "name": "Dodinga Bay",
-    "lat": 0.85,
-    "lon": 127.55,
-    "depth": 18,
-    "site_type": "reef",
-    "entry_type": "boat",
+    "name": "Taman Nukila Wreck",
+    "lat": 0.782,
+    "lon": 127.374,
+    "depth": 23,
+    "site_type": "wreck",
+    "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validation_source": "getlost.id, sailingfairy.com"
     }
   },
   {
-    "name": "Galela Bay",
-    "lat": 1.82,
-    "lon": 127.85,
-    "depth": 25,
+    "name": "Pulau Tifore",
+    "lat": 0.9708,
+    "lon": 126.1445,
+    "depth": 30,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validation_source": "world-islands.net, mermaid-liveaboards.com"
     }
   },
   {
-    "name": "Jailolo Strait",
-    "lat": 0.95,
-    "lon": 127.45,
+    "name": "Reenie's Rock",
+    "lat": -0.0233,
+    "lon": 127.222,
+    "depth": 40,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "mermaid-liveaboards.com, indopacificimages.com"
+    }
+  },
+  {
+    "name": "Batu Mandi",
+    "lat": -0.0271,
+    "lon": 127.207,
+    "depth": 50,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "mermaid-liveaboards.com"
+    }
+  },
+  {
+    "name": "Terumbu Gora",
+    "lat": -0.0292,
+    "lon": 127.224,
+    "depth": 35,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "mermaid-liveaboards.com"
+    }
+  },
+  {
+    "name": "Proco Channel",
+    "lat": -0.4078,
+    "lon": 127.7278,
     "depth": 30,
     "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validation_source": "mermaid-liveaboards.com"
     }
   },
   {
-    "name": "Tobelo Reef",
-    "lat": 1.73,
-    "lon": 128.02,
-    "depth": 22,
+    "name": "Batu Jabu",
+    "lat": -0.3995,
+    "lon": 127.735,
+    "depth": 30,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "validation_source": "mermaid-liveaboards.com"
+    }
+  },
+  {
+    "name": "Foya Wreck",
+    "lat": 0.32,
+    "lon": 127.88,
+    "depth": 30,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "wedaresort.com, liveaboardindonesia.com"
+    }
+  },
+  {
+    "name": "Shark Mountain",
+    "lat": 0.38,
+    "lon": 128.01,
+    "depth": 40,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "wedaresort.com"
+    }
+  },
+  {
+    "name": "Pulau Pisang",
+    "lat": -1.401,
+    "lon": 128.9207,
+    "depth": 35,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "mermaid-liveaboards.com, indopacificimages.com"
+    }
+  },
+  {
+    "name": "Bristol Plane Wreck",
+    "lat": 2.18,
+    "lon": 128.28,
+    "depth": 50,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "malailloliveaboard.com"
+    }
+  },
+  {
+    "name": "Womow Reef",
+    "lat": 1.78,
+    "lon": 128.05,
+    "depth": 35,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "malailloliveaboard.com"
+    }
+  },
+  {
+    "name": "Makian Black Sand",
+    "lat": 0.32,
+    "lon": 127.395,
+    "depth": 20,
+    "site_type": "muck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "coralia-liveaboard.com, wallacea-divecruise.com"
     }
   }
 ]

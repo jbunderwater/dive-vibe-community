@@ -1,9 +1,9 @@
 ---
-name: Dodinga Bay
-lat: 0.85
-lng: 127.55
-difficulty: Beginner
-maxDepth: 18
+name: Pulau Tifore
+lat: 0.9708
+lng: 126.1445
+difficulty: Intermediate
+maxDepth: 30
 entryType: boat
 siteType: reef
 ref: null
@@ -11,21 +11,21 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Dodinga Bay
+## Pulau Tifore
 
-Dodinga Bay is a reef dive site in Halmahera, Asia.
+Pulau Tifore is a reef dive site in Halmahera, Asia.
 
 ## Overview
 
-Dodinga Bay is a dive site in Halmahera offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Pulau Tifore is a dive site in Halmahera offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
 - **Location**: Halmahera, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 18 meters
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter manta rays, whale sharks, reef shark
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -44,7 +44,6 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
@@ -59,6 +58,9 @@ Be aware of strong currents, jellyfish, sea urchins in this area. Dive within yo
 
 This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
+## Additional Resources
+
+- **Last Updated**: 2026-04-05
 
 ---
-*Sources: [Liveaboard Indonesia - Halmahera](https://liveaboardindonesia.com/destinations/halmahera/), [Mikumba Diving - North Maluku Dive Sites](https://www.mikumbadiving.com/north-maluku-dive-sites/), [Weda Resort - Halmahera](https://wedaresort.com/), [ZuBlu - Halmahera Ternate Morotai](https://www.zubludiving.com/destination/indonesia/maluku/halmahera-ternate-morotai), [Wallacea Dive Cruise - Halmahera Guide](https://wallacea-divecruise.com/blogs/diving-in-halmahera-guide). Last updated 2026-04-04.*
+*Sources: [Mermaid Liveaboards – Halmahera](https://www.mermaid-liveaboards.com/halmahera), [Weda Resort Dive Sites](https://wedaresort.com), [PADI Travel – Halmahera](https://travel.padi.com), [IndoPacificImages](https://www.indopacificimages.com), [Malaillo Liveaboard](https://malaillo.com). Last updated 2026-04-05.*

@@ -59,6 +59,9 @@ Be aware of strong currents, jellyfish, sea urchins in this area. Dive within yo
 
 The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
 
+## Additional Resources
+
+- **Last Updated**: 2026-04-05
 
 ---
-*Sources: [Liveaboard Indonesia - Halmahera](https://liveaboardindonesia.com/destinations/halmahera/), [Mikumba Diving - North Maluku Dive Sites](https://www.mikumbadiving.com/north-maluku-dive-sites/), [Weda Resort - Halmahera](https://wedaresort.com/), [ZuBlu - Halmahera Ternate Morotai](https://www.zubludiving.com/destination/indonesia/maluku/halmahera-ternate-morotai), [Wallacea Dive Cruise - Halmahera Guide](https://wallacea-divecruise.com/blogs/diving-in-halmahera-guide). Last updated 2026-04-04.*
+*Sources: [Mermaid Liveaboards – Halmahera](https://www.mermaid-liveaboards.com/halmahera), [Weda Resort Dive Sites](https://wedaresort.com), [PADI Travel – Halmahera](https://travel.padi.com), [IndoPacificImages](https://www.indopacificimages.com), [Malaillo Liveaboard](https://malaillo.com). Last updated 2026-04-05.*

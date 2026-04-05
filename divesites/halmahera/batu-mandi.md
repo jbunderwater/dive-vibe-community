@@ -1,9 +1,9 @@
 ---
-name: Ternate Volcano Wall
-lat: 0.78
-lng: 127.37
-difficulty: Advanced
-maxDepth: 35
+name: Batu Mandi
+lat: -0.0271
+lng: 127.207
+difficulty: Intermediate
+maxDepth: 50
 entryType: boat
 siteType: wall
 ref: null
@@ -11,21 +11,21 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Ternate Volcano Wall
+## Batu Mandi
 
-Ternate Volcano Wall is a wall dive site in Halmahera, Asia.
+Batu Mandi is a wall dive site in Halmahera, Asia.
 
 ## Overview
 
-Ternate Volcano Wall is a dive site in Halmahera featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Batu Mandi is a dive site in Halmahera featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
 - **Location**: Halmahera, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 meters
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 50 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter manta rays, whale sharks, reef shark
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-35 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-50 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -53,12 +53,15 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
 Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
+## Additional Resources
+
+- **Last Updated**: 2026-04-05
 
 ---
-*Sources: [Liveaboard Indonesia - Halmahera](https://liveaboardindonesia.com/destinations/halmahera/), [Mikumba Diving - North Maluku Dive Sites](https://www.mikumbadiving.com/north-maluku-dive-sites/), [Weda Resort - Halmahera](https://wedaresort.com/), [ZuBlu - Halmahera Ternate Morotai](https://www.zubludiving.com/destination/indonesia/maluku/halmahera-ternate-morotai), [Wallacea Dive Cruise - Halmahera Guide](https://wallacea-divecruise.com/blogs/diving-in-halmahera-guide). Last updated 2026-04-04.*
+*Sources: [Mermaid Liveaboards – Halmahera](https://www.mermaid-liveaboards.com/halmahera), [Weda Resort Dive Sites](https://wedaresort.com), [PADI Travel – Halmahera](https://travel.padi.com), [IndoPacificImages](https://www.indopacificimages.com), [Malaillo Liveaboard](https://malaillo.com). Last updated 2026-04-05.*

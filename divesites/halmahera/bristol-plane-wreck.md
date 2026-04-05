@@ -1,31 +1,31 @@
 ---
-name: Tosei Maru
-lat: 1.1452
-lng: 127.8332
-difficulty: Intermediate
-maxDepth: 20
+name: Bristol Plane Wreck
+lat: 2.18
+lng: 128.28
+difficulty: Advanced
+maxDepth: 50
 entryType: boat
 siteType: wreck
 ref: null
-osmId: 20315906
+osmId: null
 addedBy: osm_import
 ---
 
-## Tosei Maru
+## Bristol Plane Wreck
 
-Tosei Maru is a historic wreck dive in Halmahera, Asia.
+Bristol Plane Wreck is a historic wreck dive in Halmahera, Asia.
 
 ## Overview
 
-Tosei Maru is a dive site in Halmahera featuring the wreck of the Tosei Maru which sank in 1941-12-12. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Bristol Plane Wreck is a dive site in Halmahera featuring the wreck of the Bristol Plane Wreck. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
 - **Location**: Halmahera, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 50 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter batfish, lionfish, sweetlips, coral 
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 50 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -53,7 +53,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
