@@ -1,38 +1,38 @@
 ---
-name: El Bajo de Corbeteña
-lat: 20.73
-lng: -105.72
+name: La Esperanza
+lat: 23.455
+lng: -109.415
 difficulty: Advanced
 maxDepth: 30
 entryType: boat
-siteType: pinnacle
+siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
 ---
 
-## El Bajo de Corbeteña
+## La Esperanza
 
-El Bajo de Corbeteña is a pinnacle dive site in Puerto Vallarta, Central America.
+La Esperanza is a reef dive site in Cabo Pulmo, North America.
 
 ## Overview
 
-El Bajo de Corbeteña is a dive site in Puerto Vallarta offering rewarding diving on healthy coral reef structures. Located in the Central America region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+La Esperanza is a dive site in Cabo Pulmo offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
 
 ## Site Information
 
-- **Location**: Puerto Vallarta, Central America
+- **Location**: Cabo Pulmo, North America
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 5-25 meters (15-80 feet)
+- **Current**: Variable, can be strong
+- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
 
 ## Dive Profile
 
@@ -52,7 +52,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 

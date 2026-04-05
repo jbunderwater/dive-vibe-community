@@ -5,7 +5,7 @@ lng: -105.455
 difficulty: Intermediate
 maxDepth: 20
 entryType: boat
-siteType: muck
+siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
@@ -25,7 +25,7 @@ The site is specifically valued for its rich invertebrate life, which is denser 
 
 - **Location**: West of La Cruz de Huanacaxtle, northern Banderas Bay
 - **Entry Type**: Boat dive
-- **Site Type**: Muck dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: Moderate; can be reduced by particulate over sandy bottom

@@ -5,7 +5,7 @@ lng: -105.568
 difficulty: Intermediate
 maxDepth: 35
 entryType: boat
-siteType: cave
+siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
@@ -25,7 +25,7 @@ The islands were originally made famous internationally by oceanographer Jacques
 
 - **Location**: Northwestern Banderas Bay; 70 minutes from Puerto Vallarta
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/cavern
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 10-12 meters average; up to 20 meters in good conditions

@@ -1,7 +1,7 @@
 ---
 name: Princesa Vallarta Wreck
-lat: 20.548
-lng: -105.274
+lat: 20.549
+lng: -105.277
 difficulty: Advanced
 maxDepth: 38
 entryType: boat
