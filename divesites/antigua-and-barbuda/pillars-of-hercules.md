@@ -1,7 +1,7 @@
 ---
 name: Pillars of Hercules
-lat: 17.01
-lng: -61.76
+lat: 17.003
+lng: -61.7588
 difficulty: Intermediate
 maxDepth: 9
 entryType: boat

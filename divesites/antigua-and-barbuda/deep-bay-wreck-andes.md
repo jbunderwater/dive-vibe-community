@@ -1,7 +1,7 @@
 ---
 name: Deep Bay Wreck (Andes)
-lat: 17.14
-lng: -61.87
+lat: 17.1322
+lng: -61.8892
 difficulty: Beginner
 maxDepth: 9
 entryType: shore

@@ -1,10 +1,10 @@
 ---
 name: Andes Wreck
-lat: 17.04
-lng: -61.78
-difficulty: Intermediate
+lat: 17.1322
+lng: -61.8892
+difficulty: Beginner
 maxDepth: 8
-entryType: boat
+entryType: shore
 siteType: wreck
 ref: null
 osmId: null
