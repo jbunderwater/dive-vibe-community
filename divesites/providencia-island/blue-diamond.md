@@ -1,7 +1,7 @@
 ---
 name: Blue Diamond
-lat: 13.355
-lng: -81.395
+lat: 13.335
+lng: -81.39
 difficulty: Advanced
 maxDepth: 24
 entryType: boat

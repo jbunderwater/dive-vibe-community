@@ -1,7 +1,7 @@
 ---
 name: Tete's Place
-lat: 13.365
-lng: -81.385
+lat: 13.3281
+lng: -81.4116
 difficulty: Beginner
 maxDepth: 18
 entryType: boat

@@ -1,7 +1,7 @@
 ---
 name: Crab Cay Reef
-lat: 13.375
-lng: -81.375
+lat: 13.3765
+lng: -81.3464
 difficulty: Beginner
 maxDepth: 12
 entryType: boat

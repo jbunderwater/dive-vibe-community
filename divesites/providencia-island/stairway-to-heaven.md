@@ -1,7 +1,7 @@
 ---
 name: Stairway to Heaven
-lat: 13.34
-lng: -81.36
+lat: 13.338
+lng: -81.398
 difficulty: Advanced
 maxDepth: 52
 entryType: boat

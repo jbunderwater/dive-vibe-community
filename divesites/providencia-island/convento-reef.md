@@ -1,7 +1,7 @@
 ---
 name: Convento Reef
-lat: 13.385
-lng: -81.365
+lat: 13.383
+lng: -81.362
 difficulty: Beginner
 maxDepth: 15
 entryType: boat

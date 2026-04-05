@@ -1,7 +1,7 @@
 ---
 name: The Pinnacle
-lat: 13.35
-lng: -81.39
+lat: 13.348
+lng: -81.392
 difficulty: Advanced
 maxDepth: 35
 entryType: boat
