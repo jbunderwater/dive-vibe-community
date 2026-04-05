@@ -17,7 +17,7 @@ Coral Gardens Soufrière is a reef dive site in St. Lucia, Caribbean.
 
 ## Overview
 
-Coral Gardens Soufrière sits at the base of the towering Gros Piton along a steep slope that runs from 5 metres down to depths well beyond recreational limits, and the site is protected by the Soufrière Marine Management Area. The reef is carpeted with five-finger coral and a kaleidoscopic array of sponges — azure vase sponges, canary yellow boring sponge, large barrel sponges, and tan tube sponges among them — all alive with chromis, grunts, soldierfish, squirrelfish, and feather stars. On calmer days the visibility stretches to 18 metres and the current carries divers gently over the sponge garden, while a brisker flow transforms the dive into an exhilarating drift.
+Coral Gardens Soufrière is a dive site in St. Lucia offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Coral Gardens Soufrière sits at the base of the towering Gros Piton along a ste
 
 ## Marine Life
 
-The kaleidoscopic sponge garden — azure vase sponges, large barrel sponges, canary yellow boring sponge, and tan tube sponges — is alive with chromis, grunts, soldierfish, squirrelfish, and feather stars throughout the dive. Hawksbill turtles move between the sponge-covered boulders, and scorpionfish are known to lurk camouflaged among the encrusting growth on the slope's darker ledges.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
@@ -57,5 +57,9 @@ Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your
 
 This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
+## Additional Resources
+
+- **Last Updated**: 2026-04-05
+
 ---
-*Sources: [PADI - Must-Dive Sites in Saint Lucia](https://blog.padi.com/5-must-dive-sites-st-lucia/), [DIVEIN - Diving in St Lucia](https://www.divein.com/diving/destination/diving-in-st-lucia/), [Carib Dive Guide - St Lucia](https://caribdiveguide.com/st_lucia.htm), [Scuba St Lucia - Dive Sites](https://divesaintlucia.com/dive-sites), [Bluewater Dive Travel - St Lucia](https://www.bluewaterdivetravel.com/destination/scuba-diving-st-lucia). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*

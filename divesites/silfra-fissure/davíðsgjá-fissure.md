@@ -17,7 +17,7 @@ Davíðsgjá Fissure is a wall dive site in Silfra Fissure, Europe.
 
 ## Overview
 
-Davíðsgjá is a monstrous eruption fissure in Þingvallavatn Lake, about 10 minutes from Silfra and far less visited — local divers call it Silfra's darker, wilder sibling. The fissure branches into two gorges: a dark and narrow passage to one side and a wide open canyon to the other, both filled with stacked round boulders and square lava slabs of incomprehensible scale. Unlike Silfra, the top of the fissure sits 7 metres below the lake surface, which means Arctic char and trout sometimes join divers inside, and visibility — though still exceptional — is more weather-dependent than Silfra's spring-fed conditions.
+Davíðsgjá Fissure is a dive site in Silfra Fissure featuring a dramatic vertical wall that drops into the deep blue. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
@@ -58,5 +58,9 @@ Be aware of cold water (north), currents, boat traffic in this area. Dive within
 
 Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
+## Additional Resources
+
+- **Last Updated**: 2026-04-05
+
 ---
-*Sources: [Silfra Fissure - Snorkeling and Diving in Iceland](https://www.silfrafissure.com/), [DIVE.IS - Silfra Snorkeling Day Tour](https://www.dive.is/diving-snorkeling-tours/snorkeling-day-tours/silfra-snorkeling-day-tour), [Adventures.is - Silfra Fissure](https://adventures.is/iceland/attractions/silfra-fissure/), [GO Iceland - Guide to Diving at Silfra](https://www.goiceland.com/blog/diving-snorkeling-at-silfra-fissure/), [Guide to Iceland - Silfra Travel Guide](https://guidetoiceland.is/travel-iceland/drive/silfra). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*

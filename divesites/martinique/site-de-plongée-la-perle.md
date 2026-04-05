@@ -17,7 +17,7 @@ Site de Plongée La Perle is a wall dive site in Martinique, Caribbean.
 
 ## Overview
 
-La Perle is a volcanic islet 800 metres off Anse Couleuvre in the Réserve Marine du Prêcheur — the northernmost dive site in Martinique — where walls, platforms, arches, and submarine faults offer multiple diving configurations between 5 and 60 metres. Exposed to the Dominica Channel, the site aggregates impressive pelagic life including schools of horse-eye jacks, barracuda, and resident hawksbill turtles, with 68 identified fish species recorded within the reserve. Strong currents are the norm here, limiting this to experienced divers, but the remote setting and sheer abundance of marine life make it one of the finest walls in the Caribbean.
+Site de Plongée La Perle is a dive site in Martinique featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ La Perle is a volcanic islet 800 metres off Anse Couleuvre in the Réserve Marin
 
 ## Marine Life
 
-The Dominica Channel currents aggregate impressive pelagic life — large schools of horse-eye jacks and barracuda are near-constant presences, and resident hawksbill turtles graze the wall faces alongside 68 identified fish species recorded within the reserve. The strong open-ocean conditions that make this site demanding for divers are precisely what bring reef sharks, eagle rays, and other larger species past the volcanic walls and arches.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
@@ -59,5 +59,9 @@ Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your
 
 Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
+## Additional Resources
+
+- **Last Updated**: 2026-04-05
+
 ---
-*Sources: [Martinique Tourism - Diving](https://www.martinique.org/en/things-to-do/water-sports-and-activities/diving), [Scuba Diving Magazine - Martinique Guide](https://www.scubadiving.com/divers-guide-martinique-shipwrecks-turtles-and-volcanic-reefs), [Guide Martinique - Spots de Plongée](https://www.guidemartinique.com/activites/plongee/spots.php), [Wannadive - Saint Pierre Martinique](https://www.wannadive.net/spot/Central_America/Martinique/Saint_Pierre/index.html), [DiveIn - Best Dive Sites in Martinique](https://www.divein.com/diving/destination/diving-in-martinique/). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*

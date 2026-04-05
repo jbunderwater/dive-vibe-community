@@ -17,13 +17,13 @@ Ras il-Ħobż (Dive Site) is a pinnacle dive site in Malta and Gozo, Europe.
 
 ## Overview
 
-Ras il-Ħobż is a dramatic headland on Gozo's southern coast where vertical limestone walls plunge from the surface to well beyond recreational depth limits, making it one of the island's most serious pinnacle and wall dives. Large aggregations of amberjack and barracuda patrol the open water around the point, while big grouper lurk in the deep crevices and cave systems along the cliff face. The site's exposed position means it requires calm sea conditions, but on good days the visibility exceeds 30 meters and the sheer scale of the underwater topography is exceptional.
+Ras il-Ħobż (Dive Site) is a dive site in Malta and Gozo offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
 - **Location**: Malta and Gozo, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Pinnacle
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 100 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
@@ -57,5 +57,9 @@ Be aware of cold water (north), currents, boat traffic in this area. Dive within
 
 This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
+## Additional Resources
+
+- **Last Updated**: 2026-04-05
+
 ---
-*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [Atlantis Gozo Dive Sites](https://www.atlantisgozo.com/dive-sites/), [PADI Diving in Malta](https://www.padi.com/diving-in/malta/), [SCUBA Travel Malta Guide](https://www.scubatravel.co.uk/europe/malta-dive-in.html), [Dive Malta-Gozo](https://divemalta-gozo.com/diving-in-gozo/). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*

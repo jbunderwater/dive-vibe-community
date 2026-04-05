@@ -13,50 +13,53 @@ addedBy: osm_import
 
 ## Anse Caraïbe
 
-Anse Caraïbe is a sheltered shore-entry reef dive in Pointe-Noire on the western Caribbean coast of Basse-Terre, Guadeloupe, well regarded as an accessible entry point for beginner divers and snorkelers exploring the island's reef systems.
+Anse Caraïbe is a reef dive site in Guadeloupe, Caribbean.
 
 ## Overview
 
-Located on a calm bay backed by dark volcanic sand and pebbles, Anse Caraïbe features coral gardens and small drop-offs spread across a gently sloping seafloor that tops out at around 10 meters. The site has been used continuously by local dive clubs for over 25 years, reflecting its reliability and consistent quality. Coral coverage is healthy, with brain, star, and finger corals interspersed with sea fans and sponges. Visibility runs 20–30 meters on good days, and the sheltered position of the bay keeps surge manageable year-round. Water temperature averages 26–28°C.
+Anse Caraïbe is a dive site in Guadeloupe offering excellent diving on healthy coral reef structures . Beach entry on red sand with pebbles, calm pleasant beach in Pointe-Noire, coral gardens and drop-offs, colorful fish, sea turtles, moray eels, crustaceans, 25+ years of dive club operation. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Pointe-Noire, Basse-Terre, Guadeloupe
+- **Location**: Guadeloupe, Caribbean
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
-- **Typical Visibility**: 20–30 meters
-- **Current**: Generally mild
-- **Best Time**: November to May (dry season, calmer seas)
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Sea turtles — both green and hawksbill — are regular visitors, often seen grazing on seagrass or resting on ledges. Moray eels occupy crevices in the coral, and lobsters are found tucked under overhangs at depth. Parrotfish, angelfish, surgeonfish, and squirrelfish are abundant throughout the reef. The drop-offs host small schools of glassy sweepers and bigeyes, while trumpetfish hover in the water column near gorgonians.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-Enter from the beach and swim out to where the seafloor begins to drop into the reef. The profile slopes gradually — no sudden vertical changes — making navigation straightforward. Most activity concentrates in the 5–10 meter zone. No decompression planning is required; a standard safety stop at 5 meters for 3 minutes is recommended before surfacing.
+The site offers diving at depths ranging from shallow reef areas down to approximately 10 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-10 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Shore entry over dark sand and pebbles; water shoes are recommended. The reef starts within a short swim of the beach. Exit at the same beach. During winter swell months (December to February), check conditions beforehand as swells can make entry and exit more challenging.
+Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
 
 ## Tips and Recommendations
 
-- One of Guadeloupe's best beginner shore dives, with easy navigation and forgiving depths
-- Morning sessions offer the calmest conditions and optimal light angles
-- Look under coral ledges for sleeping lobsters and resting moray eels
-- Seagrass patches between shore and reef attract foraging turtles throughout the day
-- The site is excellent for fish ID practice — over 50 species are commonly encountered
+- Excellent site for newer divers — calm conditions and easy navigation
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
-A surface marker buoy is advisable to signal your position to any passing boats. Fire coral is present on the reef crest — do not touch. Sea urchins inhabit sandy patches near the entry; water shoes prevent accidental contact. Always dive with a buddy.
+Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Strong Caribbean light penetrates well at these shallow depths. Wide-angle shots of turtles against the coral backdrop are possible without strobes in mid-morning light. Macro subjects include flamingo tongues on sea fans, cleaning shrimp, and juvenile fish in coral heads.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+
+## Additional Resources
+
+- **Last Updated**: 2026-04-05
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*

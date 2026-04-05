@@ -13,49 +13,54 @@ addedBy: osm_import
 
 ## Frégate-de-Bas
 
-Frégate-de-Bas is one of two submerged reef systems in the Petit Cul-de-Sac Marin named after the Îlets à Frégate, small islands that reportedly disappeared following the catastrophic 1928 hurricane. What remains today are two distinct dive sites — Frégate de Haut and Frégate de Bas — that form some of the best reef diving in central Guadeloupe.
+Frégate-de-Bas is a reef dive site in Guadeloupe, Caribbean.
 
 ## Overview
 
-Frégate-de-Bas lies in the lower position of the twin-reef system and features a broad, sloping coral platform that descends to 20 meters. The submerged reef is covered with a diverse assemblage of hard corals, including large brain and star corals, with considerable sponge growth on deeper sections. The site benefits from the relative shelter of the Petit Cul-de-Sac Marin and typically offers 20–30 meters of visibility. Water temperature averages 27°C and the site is accessible year-round.
+Frégate-de-Bas is a dive site in Guadeloupe offering excellent diving on healthy coral reef structures . Les îlets à Frégate (Petit Cul-de-Sac Marin) ont disparu (semble-t-il après le passage du cyclone de 1928) et sont désormais des récifs connus sous le nom Frégate de Haut et Frégate de Bas.. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Petit Cul-de-Sac Marin, Guadeloupe
+- **Location**: Guadeloupe, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20–30 meters
-- **Current**: Light to moderate; check tidal conditions
-- **Best Time**: November to May
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Sea turtles frequent the reef regularly, and southern stingrays patrol sandy corridors between coral formations. Schools of blue tangs and parrotfish are abundant over the reef crest. Larger pelagics including barracuda and jack species circle the deeper sections. Moray eels and spiny lobsters are found in crevices at depth.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-Descend to the reef top and work your way down the sloping platform. The reef provides clear waypoints for navigation — follow the main coral structures to explore the full depth range. The richest marine life is found in the 8–15 meter zone where coral coverage is densest. Finish the dive with a safety stop in the shallows.
+The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Boat dive from Pointe-à-Pitre or Gosier operators. Giant stride entry, SMB required on ascent. The site is often paired with Frégate de Haut for a two-tank day exploring both sunken reef systems.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- The paired Frégate sites tell an interesting geological story — ask your guide about the 1928 hurricane
-- The broader platform at Frégate de Bas offers more navigable territory than its sister site
-- Good visibility makes it suitable for less experienced divers building reef navigation skills
-- Bring a wide-angle lens — the open reef structure and fish density reward larger compositions
+- Excellent site for newer divers — calm conditions and easy navigation
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
-Monitor air consumption carefully across the full 20-meter profile. Current can pick up with tidal flow — check conditions before the dive. Deploy SMB before ascending and watch for surface boat traffic.
+Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-The open reef platform offers excellent wide-angle subject opportunities. Turtle and school-of-fish compositions work well in the 10–15 meter zone, and the larger brain coral formations make dramatic foreground subjects.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+
+## Additional Resources
+
+- **Last Updated**: 2026-04-05
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*

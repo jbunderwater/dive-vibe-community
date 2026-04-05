@@ -1,23 +1,24 @@
 [
   {
     "name": "Manta Bowl",
-    "lat": 12.905,
-    "lon": 123.59,
+    "lat": 12.6597,
+    "lon": 123.755,
     "depth": 23,
-    "site_type": "muck",
+    "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "scubaboard.com, sharkdivingphilippines.com, uwphotographyguide.com"
+      "validation_source": "frontiersin.org (doi:10.3389/fmars.2019.00088), scubaboard.com, sharkdivingphilippines.com",
+      "coordinate_source": "Frontiers in Marine Science research paper (Bontod-Tacdogan reef coordinates)"
     }
   },
   {
     "name": "Ticao Pass",
-    "lat": 12.87,
-    "lon": 123.65,
+    "lat": 12.7,
+    "lon": 123.68,
     "depth": 25,
     "site_type": "drift",
     "entry_type": "boat",
@@ -26,13 +27,14 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "scubaboard.com, divezone.net, uwphotographyguide.com"
+      "validation_source": "scubaboard.com, divezone.net, uwphotographyguide.com",
+      "coordinate_source": "Geographic midpoint of Ticao Pass between Sorsogon mainland and Ticao Island"
     }
   },
   {
     "name": "San Miguel Island",
-    "lat": 12.92,
-    "lon": 123.57,
+    "lat": 12.714,
+    "lon": 123.594,
     "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
@@ -41,44 +43,14 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "seafocus.com, sharkdivingphilippines.com, uwphotographyguide.com"
+      "validation_source": "seafocus.com, sharkdivingphilippines.com, wikimapia.org",
+      "coordinate_source": "Wikimapia (12.7142164, 123.5940161) confirmed by OSM San Miguel Lighthouse node (12.7171, 123.5897)"
     }
-  },
-  {
-    "name": "Donsol Bank",
-    "lat": 12.89,
-    "lon": 123.61,
-    "depth": 20,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_remaining_gaps",
-      "validated": true,
-      "validation_source": "divezone.net, sharkdivingphilippines.com"
-    }
-  },
-  {
-    "name": "Balacag Point",
-    "lat": 12.935,
-    "lon": 123.58,
-    "depth": 12,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Beginner",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_remaining_gaps",
-      "validated": "true",
-      "validation_source": "perplexity"
-    },
-    "depth_max": 18
   },
   {
     "name": "Donsol Whale Shark Area",
-    "lat": 12.91,
-    "lon": 123.595,
+    "lat": 12.9152,
+    "lon": 123.5856,
     "depth": 10,
     "site_type": "snorkel",
     "entry_type": "boat",
@@ -87,58 +59,62 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "donsolwhaleshark.net, journeyera.com, wearetravelgirls.com"
+      "validation_source": "donsolwhaleshark.net, journeyera.com, philatlas.com",
+      "coordinate_source": "PhilAtlas Dancalan barangay coordinates (whale shark interaction center location)"
     }
   },
   {
-    "name": "Jintotolo Channel",
-    "lat": 12.85,
-    "lon": 123.64,
-    "depth": 30,
-    "site_type": "drift",
-    "entry_type": "boat",
-    "difficulty": "Advanced",
-    "tags": {
-      "source": "curated",
-      "addedBy": "fill_remaining_gaps",
-      "validated": true,
-      "validation_source": "scubaboard.com, sharkrayareas.org"
-    }
-  },
-  {
-    "name": "Burias Pass",
-    "lat": 12.96,
-    "lon": 123.56,
-    "depth": 22,
-    "site_type": "reef",
+    "name": "Bobby's Wall",
+    "lat": 12.72,
+    "lon": 123.59,
+    "depth": 18,
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "sharkrayareas.org, divezone.net, scubaboard.com"
+      "validation_source": "sharkdivingphilippines.com, temoanaexpeditions.com, uwphotographyguide.com",
+      "coordinate_source": "Estimated from San Miguel Island position (east side of island, steep slope facing east)"
     }
   },
   {
-    "name": "San Bernardino Strait",
-    "lat": 12.87,
-    "lon": 123.68,
-    "depth": 28,
-    "site_type": "wall",
+    "name": "Shark Apartment",
+    "lat": 12.662,
+    "lon": 123.758,
+    "depth": 18,
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "scubaboard.com, temoanaexpeditions.com"
+      "validation_source": "sharkdivingphilippines.com, divezone.net",
+      "coordinate_source": "Estimated near Manta Bowl Shoal (sub-site of Manta Bowl atoll area)"
     }
   },
   {
-    "name": "Ticao Island South Wall",
-    "lat": 12.855,
-    "lon": 123.66,
+    "name": "Burias Pass",
+    "lat": 12.85,
+    "lon": 123.5,
+    "depth": 22,
+    "site_type": "drift",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps",
+      "validated": true,
+      "validation_source": "sharkrayareas.org, divezone.net, wikipedia.org",
+      "coordinate_source": "Eastern end of Burias Pass near Ticao Pass junction (geographic reference: Burias Pass at 12.886, 123.355)"
+    }
+  },
+  {
+    "name": "Great Wall of Ticao",
+    "lat": 12.49,
+    "lon": 123.73,
     "depth": 35,
     "site_type": "wall",
     "entry_type": "boat",
@@ -147,7 +123,40 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": true,
-      "validation_source": "diveworldwide.com, temoanaexpeditions.com"
+      "validation_source": "temoanaexpeditions.com, diveworldwide.com, sharkdivingphilippines.com",
+      "coordinate_source": "Estimated from Burubangkaso Island location on south side of Ticao Island (Ticao center 12.516, south coast ~12.47-12.50)"
+    }
+  },
+  {
+    "name": "Parola",
+    "lat": 12.717,
+    "lon": 123.589,
+    "depth": 20,
+    "site_type": "drift",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps",
+      "validated": true,
+      "validation_source": "sharkdivingphilippines.com, temoanaexpeditions.com",
+      "coordinate_source": "Near San Miguel Lighthouse (OSM node 12.7171, 123.5897) - site is at tip of San Miguel Island near lighthouse"
+    }
+  },
+  {
+    "name": "Tres Grace",
+    "lat": 12.71,
+    "lon": 123.6,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "fill_remaining_gaps",
+      "validated": true,
+      "validation_source": "sharkdivingphilippines.com, temoanaexpeditions.com",
+      "coordinate_source": "Estimated at corner of San Miguel Island (white sand beach with soft coral pathway)"
     }
   }
 ]

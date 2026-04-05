@@ -13,50 +13,54 @@ addedBy: osm_import
 
 ## Bãi cạn Nâu Bắc Lớn
 
-Bãi cạn Nâu Bắc Lớn is a reef site in the southern Palawan sea bearing a Vietnamese name meaning approximately "Large Northern Brown Shoal," reflecting Vietnam's historical maritime presence in these waters and its tradition of naming features in the South China Sea / West Philippine Sea.
+Bãi cạn Nâu Bắc Lớn is a reef dive site in Philippines Palawan, Asia.
 
 ## Overview
 
-The Vietnamese name situates this reef within the broader South China Sea geography, where Vietnamese, Chinese, and Philippine navigational traditions each produced their own naming systems for the same underwater features. "Large Northern Brown Shoal" refers to the brownish appearance of the shallow reef when seen from above, and its position relative to other features in the same maritime area. Underwater, the reef presents a compact coral structure with a platform at 8–12 meters and sloping edges down to 21 meters. Coral growth is healthy throughout, reflecting the minimal recreational diving pressure these remote southern Palawan waters receive.
+Bãi cạn Nâu Bắc Lớn is a dive site in Philippines Palawan offering rewarding diving on healthy coral reef structures . Southern Palawan reef dive site. Vietnamese named feature. Coral formations.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Southern Palawan sea, Philippines
+- **Location**: Philippines Palawan, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 21 meters
-- **Typical Visibility**: 15-25 meters
-- **Current**: Variable open-ocean influence
-- **Best Time**: November to May
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-The reef's undisturbed status creates favourable conditions for marine life encounters. Sea turtles are regularly seen on the shallow platform. Schooling fish including barracuda and fusiliers occupy the water column above the reef. Reef sharks patrol the outer edges. The reef fish community is diverse and includes species at densities rarely seen at more accessible, frequently dived sites.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-Begin on the reef platform and orient before working toward the outer edges. The deeper 15–21 meter range on the perimeter typically offers the most interesting encounters with larger animals. Return to the shallow platform for a relaxed exploration before the safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 21 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Liveaboard access only from southern Palawan. The multi-day passage time from Puerto Princesa to this area means planning is essential. Entry by giant stride; SMB for ascent. Confirm drift conditions with boat crew before descending.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- The multi-language naming history of this reef is a reminder of how contested and significant these waters are
-- Fish populations here are among the least disturbed in the Philippines
-- Sea turtles on the shallow platform are often very relaxed given the absence of regular diving
-- Morning conditions typically offer the best visibility; dive early if possible
-- Combine with nearby Chinese-named and Vietnamese-named sites for a historically rich itinerary
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-Remote open-ocean location with significant distance from emergency services. Conservative diving is essential. Carry comprehensive emergency equipment including SMB, whistle, and signaling mirror. Nearest hyperbaric facility is Puerto Princesa.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Clear water and undisturbed wildlife provide exceptional conditions for natural behaviour photography. Sea turtle portraits and wide-angle reef panoramas are the primary subjects. The historical context of the multi-language naming tradition adds an additional layer of interest to the diving experience here.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+
+## Additional Resources
+
+- **Last Updated**: 2026-04-05
 
 ---
-*Sources: [Diving Squad Palawan Guide](https://www.divingsquad.com/philippines-diving/palawan/), [Scuba Tech Philippines - Coron Wrecks](https://scubatechphilippines.com/scuba_blog/the-shipwrecks-of-coron-wreck-diving-philippines/), [Pirate Coron Dive Sites](https://piratescoron.com/dive-sites/), [DIVE Magazine - Wrecks of Coron Bay](https://divemagazine.com/scuba-diving-travel/wrecks-of-coron-bay-philippines), [ZuBlu - Scuba Diving Coron Palawan](https://www.zubludiving.com/destination/philippines/palawan/coron). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*

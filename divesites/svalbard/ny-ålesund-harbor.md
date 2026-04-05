@@ -17,7 +17,7 @@ Ny-Ålesund Harbor is a reef dive site in Svalbard, Arctic.
 
 ## Overview
 
-Ny-Alesund Harbor sits at the world's northernmost permanent settlement, a former coal mining town turned international research station on the banks of Kongsfjorden at 79 degrees north. Scientific divers regularly work these waters to 18 meters, documenting kelp forest ecology, invertebrate communities, and underwater light conditions as part of long-term Arctic monitoring programs. The harbour floor hosts anemones, sea slugs, spider crabs, and Arctic fish that have rarely encountered divers, and during the polar night, thick-billed murres have been observed foraging underwater near the harbour lamps.
+Ny-Ålesund Harbor is a dive site in Svalbard offering rewarding diving on healthy coral reef structures. Located in the Arctic region, this site offers 10-30 meters of visibility with water temperatures averaging -1 to 8°C.
 
 ## Site Information
 
@@ -57,5 +57,9 @@ Be aware of extreme cold, hypothermia risk, ice in this area. Dive within your c
 
 This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
+## Additional Resources
+
+- **Last Updated**: 2026-04-05
+
 ---
-*Sources: [Dive Svalbard](https://dive-svalbard.com/), [PADI - Diving in Svalbard](https://www.padi.com/diving-in/svalbard/), [ZuBlu - Svalbard and Jan Mayen Island](https://www.zubludiving.com/destination/arctic/norway/svalbard-jan-mayen-island), [Oceanwide Expeditions - Diving in Spitsbergen](https://oceanwide-expeditions.com/to-do/experiences/diving-in-spitsbergen), [DiverTown - Svalbard](https://www.divertown.com/en/destination/svalbard/). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*

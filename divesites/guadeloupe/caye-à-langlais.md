@@ -13,49 +13,54 @@ addedBy: osm_import
 
 ## Caye à l'Anglais
 
-Caye à l'Anglais — the Englishman's Reef — is a reef dive site in the northern Grand Cul-de-Sac Marin, taking its name from historical maritime associations in these protected lagoon waters. The site is accessed by boat from the Gosier and Pointe-à-Pitre area.
+Caye à l'Anglais is a reef dive site in Guadeloupe, Caribbean.
 
 ## Overview
 
-Caye à l'Anglais forms part of the reef system enclosing the Grand Cul-de-Sac Marin, one of the Caribbean's largest natural lagoons. The site offers a gently sloping reef descending to around 18 meters, featuring healthy hard coral structures dominated by brain and star corals, with periodic clusters of fire coral and plate coral at deeper sections. The lagoon position ensures calm, clear conditions for most of the year. Visibility averages 15–25 meters and water temperature stays around 26–28°C.
+Caye à l'Anglais is a dive site in Guadeloupe offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Northern Grand Cul-de-Sac Marin, Grande-Terre, Guadeloupe
+- **Location**: Guadeloupe, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 15–25 meters
-- **Current**: Light within the lagoon
-- **Best Time**: November to May
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Sea turtles are the headline species at this site, with hawksbill turtles regularly sighted in the reef's shallower zones. Southern stingrays cross the sandy floor between coral heads at depth. Schools of blue tangs, parrotfish, and French grunts are common, and trumpetfish hover in the water column near sea fans. Moray eels occupy crevices at the base of the reef.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-Descend to the reef top and follow the gentle slope to the sandy bottom at 18 meters. Marine life is spread across the full depth range — don't rush to the bottom; the 8–12 meter zone hosts some of the most active fish communities. Safety stop at 5 meters in the reef shallows.
+The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Boat dive from operators in the Gosier or Pointe-à-Pitre area. Giant stride entry; SMB required for ascent in the open lagoon. Can be combined with Caye Gros Loup for a two-tank trip on the same day.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- A less-visited site compared to the Cousteau Reserve — expect fewer boats and more relaxed diving
-- The name's historical origin makes it a conversation piece; ask your dive guide for the local history
-- Sandy areas at depth are good places to wait quietly for stingray approaches
-- Dive in the morning for best ambient light and calmer conditions
+- Excellent site for newer divers — calm conditions and easy navigation
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
-Fire coral is present throughout the reef, particularly on crest areas — maintain careful buoyancy. The lagoon position means surface currents can be unpredictable during tidal changes; deploy SMB before ascending. Always dive with a buddy.
+Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-The calm water and good visibility make Caye à l'Anglais a natural choice for ambient-light underwater photography. Wide-angle shots capturing the open reef structure work well, and turtle encounters in the shallows provide close-range portrait opportunities.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+
+## Additional Resources
+
+- **Last Updated**: 2026-04-05
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*

@@ -13,49 +13,54 @@ addedBy: osm_import
 
 ## Frégate-de-Haut
 
-Frégate-de-Haut is the upper reef of the twin submerged Frégate reef system in the Petit Cul-de-Sac Marin, its name recalling the îlets à Frégate — small islands lost to the sea following the 1928 hurricane. Together with Frégate de Bas, it forms one of Guadeloupe's most distinctive dive areas, offering access to what was once dry land now colonized by coral.
+Frégate-de-Haut is a reef dive site in Guadeloupe, Caribbean.
 
 ## Overview
 
-Sitting slightly shallower in profile than its companion site, Frégate de Haut rises closer to the surface and features a more compact reef structure with steeper sides and more complex terrain. Hard coral formations including brain, star, and pillar corals are well developed, and the upper sections of the reef are accessible to snorkelers as well as divers. The site reaches 20 meters at its deepest accessible point. Visibility averages 20–30 meters. Water temperature stays around 26–28°C.
+Frégate-de-Haut is a dive site in Guadeloupe offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Petit Cul-de-Sac Marin, Guadeloupe
+- **Location**: Guadeloupe, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20–30 meters
-- **Current**: Light to moderate; can vary with tidal flow
-- **Best Time**: November to May
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-The more complex topography of Frégate de Haut supports a diverse range of species. Hawksbill turtles are frequently encountered on the reef crest. Large parrotfish, French angelfish, and queen triggerfish are resident. The steeper sides of the reef host sea fans and gorgonians inhabited by flamingo tongues and arrow crabs. Barracuda patrol the open water above the reef.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-Descend directly to the reef crest and explore the compact structure — the reef has clearly defined sides that make navigation easy. Work deeper along the reef face, then circle the structure before ascending to the shallows for a safety stop. The dive feels more three-dimensional than the adjacent Frégate de Bas.
+The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Boat dive from Pointe-à-Pitre or Gosier operators. Giant stride entry, SMB on ascent. Pair with Frégate de Bas for a satisfying two-tank exploration of both sunken reef systems in a single day.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- The compact structure makes it easier to see the entire site on a single dive compared to Frégate de Bas
-- Upper reef sections can be snorkeled as a surface activity between dives
-- Look for juvenile fish sheltering in branching coral heads throughout the reef
-- The reef face hosts excellent cleaning station activity — watch for goby and wrasse interaction
+- Excellent site for newer divers — calm conditions and easy navigation
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
-The more complex topography can cause disorientation for less experienced divers — maintain a reference point and don't lose track of depth. SMB deployment before ascending is essential. Fire coral is present on the reef crest.
+Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-The vertical faces and coral-rich sides of Frégate de Haut are excellent for close-focus wide-angle shots. Sea fan subjects at 10–15 meters, combined with ambient backlighting from above, create dramatic compositions. Turtle encounters on the shallow reef crest are photogenic in the morning hours.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+
+## Additional Resources
+
+- **Last Updated**: 2026-04-05
 
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*

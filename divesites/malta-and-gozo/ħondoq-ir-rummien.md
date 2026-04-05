@@ -17,13 +17,13 @@ addedBy: osm_import
 
 ## Overview
 
-Ħondoq ir-Rummien is a sheltered bay on the southeastern tip of Gozo where a sandy beach meets a rocky limestone seabed that descends gradually to around 20 meters, with clear Mediterranean water and visibility frequently exceeding 20 meters. The site is known for its resident octopus, seahorses tucked among posidonia seagrass patches, and abundant sea bream, making it one of Gozo's most approachable shore or boat dives. Ancient salt pans carved into the shoreline and a small sea cave add to the character of this well-rounded site.
+Ħondoq ir-Rummien is a dive site in Malta and Gozo offering rewarding diving on healthy coral reef structures . Beach and coastline with salt pans and caves. Popular for snorkelling and diving.. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
 - **Location**: Malta and Gozo, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Beach dive
+- **Site Type**: Beach
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
@@ -57,5 +57,9 @@ Be aware of cold water (north), currents, boat traffic in this area. Dive within
 
 This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
+## Additional Resources
+
+- **Last Updated**: 2026-04-05
+
 ---
-*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [Atlantis Gozo Dive Sites](https://www.atlantisgozo.com/dive-sites/), [PADI Diving in Malta](https://www.padi.com/diving-in/malta/), [SCUBA Travel Malta Guide](https://www.scubatravel.co.uk/europe/malta-dive-in.html), [Dive Malta-Gozo](https://divemalta-gozo.com/diving-in-gozo/). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*

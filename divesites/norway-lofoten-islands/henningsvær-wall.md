@@ -17,7 +17,7 @@ Henningsvær Wall is a wall dive site in Norway Lofoten Islands, Europe.
 
 ## Overview
 
-Henningsvær Wall drops steeply from the rocky shoreline of Lofoten's most densely built island fishing village, descending into cold, dark water past faces thickly covered in Dahlia anemones, dead man's fingers, and cup corals in vivid orange and white. The wall begins just below the surface and runs to well beyond sport diving depth, with nudibranchs, sea slugs, and kelp crab clinging to every ledge and overhang. Water temperature is consistently cold — around 6-8 degrees C at depth — demanding drysuit diving, but the invertebrate density here rivals the best cold-water walls in Norway.
+Henningsvær Wall is a dive site in Norway Lofoten Islands featuring a dramatic vertical wall that drops into the deep blue. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
@@ -59,5 +59,9 @@ Be aware of cold water (north), currents, boat traffic in this area. Dive within
 
 Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
+## Additional Resources
+
+- **Last Updated**: 2026-04-05
+
 ---
-*Sources: [Lofoten Diving AS](https://lofoten-diving.no/), [X-Ray Mag - Diving Lofoten Norway](https://xray-mag.com/content/diving-lofoten-norway), [Scuba Diver Life - Diving in Lofoten Norway](https://scubadiverlife.com/diving-lofoten-norway/), [Visit Lofoten - Diving and Snorkeling](https://visitlofoten.com/en/topic/diving-and-snorkeling-in-lofoten/), [DeeperBlue - Top 6 Dive Sites in Norway](https://www.deeperblue.com/top-6-dive-sites-norway/). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*

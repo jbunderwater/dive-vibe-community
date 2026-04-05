@@ -17,13 +17,13 @@ addedBy: osm_import
 
 ## Overview
 
-The Amélie is a 48-metre iron three-masted sailing ship that sank in early 1902 at Anse Turin, near Saint-Pierre, and now rests scattered across a grey sand seabed at depths of 3 to 8 metres. The wreck predates the famous Mount Pelée eruption and is heavily colonised by hard corals, sponges, and gorgonians, sheltering sergeant majors, smooth trunkfish, yellow grunts, and occasional hawksbill turtles and torpedo rays in the surrounding sand. Its shallow depth and shore access from the grey-sand beach make it one of Martinique's most accessible wreck dives, suitable for snorkellers and beginners alike.
+Épave Amelie is a dive site in Martinique featuring the wreck of the Épave Amelie. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
 - **Location**: Martinique, Caribbean
 - **Entry Type**: Shore entry
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 6 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
@@ -59,5 +59,9 @@ Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your
 
 The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
 
+## Additional Resources
+
+- **Last Updated**: 2026-04-05
+
 ---
-*Sources: [Martinique Tourism - Diving](https://www.martinique.org/en/things-to-do/water-sports-and-activities/diving), [Scuba Diving Magazine - Martinique Guide](https://www.scubadiving.com/divers-guide-martinique-shipwrecks-turtles-and-volcanic-reefs), [Guide Martinique - Spots de Plongée](https://www.guidemartinique.com/activites/plongee/spots.php), [Wannadive - Saint Pierre Martinique](https://www.wannadive.net/spot/Central_America/Martinique/Saint_Pierre/index.html), [DiveIn - Best Dive Sites in Martinique](https://www.divein.com/diving/destination/diving-in-martinique/). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*

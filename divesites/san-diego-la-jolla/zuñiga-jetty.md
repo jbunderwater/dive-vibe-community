@@ -13,15 +13,15 @@ addedBy: osm_import
 
 ## Zuñiga Jetty
 
-Zuñiga Jetty is a rocky reef dive site at the mouth of San Diego Bay featuring excellent shallow reef structures and abundant marine life.
+Zuñiga Jetty is a reef dive site in San Diego - La Jolla, North America.
 
 ## Overview
 
-Located at the mouth of San Diego Bay, Zuñiga Jetty (also called Zuniga Point) is a substantial rock jetty that creates an interesting shallow reef system. The site features large boulders and rock formations that provide habitat for numerous fish species and invertebrates. The jetty structure is located on the east side, making it accessible for both boat and specialized shore entries. Visibility ranges from poor to good (averaging 10-15 feet) depending on bay water conditions. This site is particularly good for macro photography among the rocks.
+Zuñiga Jetty is a dive site in San Diego - La Jolla offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
 
 ## Site Information
 
-- **Location**: Mouth of San Diego Bay, Coronado
+- **Location**: San Diego - La Jolla, North America
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
@@ -32,11 +32,11 @@ Located at the mouth of San Diego Bay, Zuñiga Jetty (also called Zuniga Point) 
 
 ## Marine Life
 
-The rocky structure provides excellent habitat for rockfish, sculpin, lingcod, señorita, and treefish. Lobsters hide within the crevices, making this site popular with hunters. Additional species include garibaldi, sheephead, and occasional sea lions. Numerous invertebrates colonize the rock surfaces, particularly nudibranchs and anemones. Sea urchins are common, and small crustaceans provide excellent macro photography subjects.
+Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
 
 ## Dive Profile
 
-Start in the shallow areas among the rocks (10-15 meters) to explore the reef structure and locate fish and invertebrates sheltering in crevices. The deeper sections (20-25 meters) receive less diver traffic and feature more pristine wildlife. Plan your dive to work systematically through the rock piles, pausing to observe behavior and photograph subjects. Typical bottom times of 40-50 minutes are comfortable at these depths.
+The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -57,5 +57,9 @@ Be aware of cold water, surge, limited visibility in this area. Dive within your
 
 This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
+## Additional Resources
+
+- **Last Updated**: 2026-04-05
+
 ---
-*Sources: [Dive California - La Jolla Cove Scuba Diving](https://divecalifornia.com/la-jolla-cove-scuba-diving/), [San Diego Scuba Guide - Guided Dives](https://sandiegoscubaguide.com/guided-dives/), [SSI - Scuba Diving in San Diego Guide](https://www.divessi.com/en/blog/scuba-diving-san-diego-guide-10278.html), [La Jolla Dive](https://www.lajolladive.com), [Scuba Diver Girls - Best Spots for Scuba Diving in La Jolla](https://scubadivergirls.com/la-jolla-scuba-diving/). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*

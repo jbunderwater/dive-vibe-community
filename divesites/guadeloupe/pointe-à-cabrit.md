@@ -17,7 +17,7 @@ Pointe à Cabrit is a wall dive site in Guadeloupe, Caribbean.
 
 ## Overview
 
-Pointe à Cabrit is a dive site within the Cousteau Reserve surrounding Pigeon Island — the waters that Jacques Cousteau declared one of the world's top dive areas after his 1959 Calypso expedition — featuring shallow reef terrain with elkhorn and staghorn corals, abundant reef fish, and frequent hawksbill turtle encounters. The site tops out at 15 metres, making it one of the more accessible dives in the reserve, and the protected status means fish populations are notably dense, with angelfish, parrotfish, diodons, and large barrel sponges throughout. The Cousteau Reserve was formally integrated into the Guadeloupe National Park in 2009, and mooring buoys are provided to protect the coral from anchor damage.
+Pointe à Cabrit is a dive site in Guadeloupe featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Pointe à Cabrit is a dive site within the Cousteau Reserve surrounding Pigeon I
 
 ## Marine Life
 
-Protected Cousteau Reserve status has produced notably dense fish populations here, with hawksbill turtles, French angelfish, parrotfish, and diodons (porcupinefish) present in good numbers around the elkhorn and staghorn coral formations. Octopus hunt in the shallower sections, and the large barrel sponges that characterize the site shelter moray eels, cleaner shrimp, and Caribbean lobsters throughout the accessible 15-metre depth range.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
@@ -59,5 +59,9 @@ Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your
 
 Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
+## Additional Resources
+
+- **Last Updated**: 2026-04-05
+
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*

@@ -1126,20 +1126,20 @@
     "slug": "philippines-donsol",
     "region": "Asia",
     "center": [
-      12.9,
-      123.6
+      12.75,
+      123.65
     ],
     "bounds": [
       [
-        12.8,
+        12.45,
         123.5
       ],
       [
         13.0,
-        123.7
+        123.85
       ]
     ],
-    "description": "Seasonal whale shark aggregations and snorkeling encounters.",
+    "description": "Seasonal whale shark aggregations and snorkeling encounters, with manta ray diving at Manta Bowl and reef diving around Ticao and San Miguel Islands.",
     "overviewFile": "overview.md",
     "countryCode": "PH"
   },

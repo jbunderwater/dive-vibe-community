@@ -17,13 +17,13 @@ Il-Ħofra tal-Bidwin is a cave dive site in Malta and Gozo, Europe.
 
 ## Overview
 
-Il-Ħofra tal-Bidwin is a cave and cavern dive site on Gozo's southwest coast in the scenic Dwejra area, close to the former Azure Window and the Inland Sea. The site features a combination of rocky cave formations, swim-throughs, and sandy patches descending to 40 metres, with the clear Mediterranean visibility allowing natural light to illuminate the shallower sections. Walls hold a variety of sponges and false corals, and the crevices provide shelter for octopus, crabs, and the typical Gozitan reef fish community, making this a rewarding site for divers who want to explore the underwater geology of the dramatic Dwejra coastline.
+Il-Ħofra tal-Bidwin is a dive site in Malta and Gozo featuring underwater cave and cavern formations. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
 - **Location**: Malta and Gozo, Europe
 - **Entry Type**: Shore entry
-- **Site Type**: Cave/cavern
+- **Site Type**: Cave/Cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
@@ -56,5 +56,9 @@ Be aware of cold water (north), currents, boat traffic in this area. Dive within
 
 This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
+## Additional Resources
+
+- **Last Updated**: 2026-04-05
+
 ---
-*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [Atlantis Gozo Dive Sites](https://www.atlantisgozo.com/dive-sites/), [PADI Diving in Malta](https://www.padi.com/diving-in/malta/), [SCUBA Travel Malta Guide](https://www.scubatravel.co.uk/europe/malta-dive-in.html), [Dive Malta-Gozo](https://divemalta-gozo.com/diving-in-gozo/). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*

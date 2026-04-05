@@ -13,27 +13,55 @@ addedBy: osm_import
 
 ## Vallée des requins
 
-Vallée des requins — "Shark Valley" — is a reef dive site in the Tahiti lagoon, French Polynesia, named for the concentration of reef sharks that patrol a sandy channel running through the coral reef.
+Vallée des requins is a reef dive site in French Polynesia, Pacific.
 
 ## Overview
 
-The site features a broad sandy channel or "valley" cutting through the reef at around 15–20 metres depth, bounded on either side by coral ridges. This channel acts as a shark highway — blacktip reef sharks (*Carcharhinus melanopterus*) and grey reef sharks (*Carcharhinus amblyrhynchos*) cruise the sandy floor and mid-water column throughout the dive. The shark activity is natural and not baited, making this an authentic encounter with free-roaming sharks in a healthy lagoon ecosystem. Visibility typically runs 25–35 metres, and the relatively shallow profile makes it appropriate for Open Water-certified divers.
+Vallée des requins is a dive site in French Polynesia offering excellent diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
-## What to Expect
+## Site Information
 
-Blacktip reef sharks are the most numerous species, with groups of 5–15 individuals routinely moving along the channel. Grey reef sharks tend to be solitary or in pairs, patrolling the reef edges. Both species display normal behaviour — occasional approach passes followed by departure — and are accustomed to divers. Stingrays rest in the sand between shark passes. The surrounding coral ridges host dense populations of butterflyfish, surgeonfish, and anthias, while eagle rays occasionally pass through the valley. The maximum 20-metre depth keeps narcosis a non-issue and allows longer bottom times.
+- **Location**: French Polynesia, Pacific
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 20 meters
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
+- **Best Time**: April to November
 
-## Conditions
+## Marine Life
 
-- **Best season**: Year-round; April–November preferred
-- **Visibility**: 25–35 m typical
-- **Current**: Mild
-- **Water temperature**: 27–29°C
-- **Entry**: Boat dive
+Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
 
-## Tips
+## Dive Profile
 
-This site is appropriate for beginners and is frequently offered as a first shark-encounter dive by Tahiti operators. Maintain neutral buoyancy and avoid sudden movements. The channel allows a simple back-and-forth dive profile. Early morning dives see the highest shark activity.
+The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+
+## Entry and Exit
+
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+
+## Tips and Recommendations
+
+- Excellent site for newer divers — calm conditions and easy navigation
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
+
+## Safety Considerations
+
+Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+
+## Photography
+
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+
+## Additional Resources
+
+- **Last Updated**: 2026-04-05
 
 ---
-*Sources: [Bluewater Dive Travel - French Polynesia](https://www.bluewaterdivetravel.com/destination/french-polynesia-diving), [PADI - Diving in French Polynesia](https://www.padi.com/diving-in/french-polynesia/), [World Adventure Divers - French Polynesia](https://worldadventuredivers.com/diving-french-polynesia/), [Air Tahiti Nui - Scuba Diving in Tahiti](https://www.airtahitinui.com/en/scuba-diving-tahiti-best-spots-islands), [Scuba Diving Magazine - French Polynesia Big Five](https://www.scubadiving.com/where-to-dive-french-polynesias-big-five). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*

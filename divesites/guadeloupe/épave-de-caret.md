@@ -17,13 +17,13 @@ addedBy: osm_import
 
 ## Overview
 
-The Épave de Caret is an old marine dredging boat deliberately sunk to produce seagrass, now lying at 2–3 metres below the surface to the west of Îlet Caret in the Grand Cul-de-Sac Marin lagoon — so shallow that the whole wreck is visible from the surface on a calm day. A rich ecosystem of algae, tropical fish, and fire corals has developed on the structure, and a second wreck reportedly lies nearby in the same lagoon; the site is typically visited as part of a guided boat tour of the Grand Cul-de-Sac Marin nature reserve. Penetration inside the wreck is prohibited as the structure is considered unsafe, but the extraordinary shallowness makes it equally accessible to snorkellers and scuba divers.
+Épave de Caret is a dive site in Guadeloupe featuring the wreck of the Épave de Caret. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
 - **Location**: Guadeloupe, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
@@ -59,5 +59,9 @@ Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your
 
 The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
 
+## Additional Resources
+
+- **Last Updated**: 2026-04-05
+
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
