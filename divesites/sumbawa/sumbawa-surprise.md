@@ -1,9 +1,9 @@
 ---
-name: Whale Shark Point
-lat: -8.49
-lng: 117.82
-difficulty: Intermediate
-maxDepth: 20
+name: Sumbawa Surprise
+lat: -8.2342
+lng: 117.6945
+difficulty: Beginner
+maxDepth: 30
 entryType: boat
 siteType: reef
 ref: null
@@ -11,21 +11,21 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Whale Shark Point
+## Sumbawa Surprise
 
-Whale Shark Point is a reef dive site in Sumbawa, Asia.
+Sumbawa Surprise is a reef dive site in Sumbawa, Asia.
 
 ## Overview
 
-Whale Shark Point is a dive site in Sumbawa offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Sumbawa Surprise is a dive site in Sumbawa offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
 - **Location**: Sumbawa, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter manta rays, whale sharks, reef shark
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -44,6 +44,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Excellent site for newer divers — calm conditions and easy navigation
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
 - Check local weather and sea conditions before diving
@@ -57,6 +58,7 @@ Be aware of strong currents, jellyfish, sea urchins in this area. Dive within yo
 ## Photography
 
 This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+
 
 
 ---

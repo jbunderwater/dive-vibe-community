@@ -1,11 +1,11 @@
 ---
 name: Hot Rocks
-lat: -8.2
-lng: 119.07
+lat: -8.1711
+lng: 119.0564
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 20
 entryType: boat
-siteType: muck
+siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,7 +13,7 @@ addedBy: osm_import
 
 ## Hot Rocks
 
-Hot Rocks is a muck dive site in Sumbawa, Asia.
+Hot Rocks is a reef dive site in Sumbawa, Asia.
 
 ## Overview
 
@@ -23,9 +23,9 @@ Hot Rocks is a dive site in Sumbawa offering rewarding diving on healthy coral r
 
 - **Location**: Sumbawa, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Muck dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter manta rays, whale sharks, reef shark
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
@@ -57,6 +57,7 @@ Be aware of strong currents, jellyfish, sea urchins in this area. Dive within yo
 ## Photography
 
 This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+
 
 
 ---
