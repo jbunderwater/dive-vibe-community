@@ -1,7 +1,7 @@
 ---
 name: Champagne Reef
-lat: 15.235
-lng: -61.37
+lat: 15.2473
+lng: -61.3734
 difficulty: Beginner
 maxDepth: 12
 entryType: shore

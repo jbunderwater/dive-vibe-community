@@ -1,7 +1,7 @@
 ---
 name: Scotts Head Pinnacle
-lat: 15.215
-lng: -61.365
+lat: 15.2156
+lng: -61.3771
 difficulty: Advanced
 maxDepth: 35
 entryType: boat

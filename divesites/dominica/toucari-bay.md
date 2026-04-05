@@ -1,7 +1,7 @@
 ---
 name: Toucari Bay
-lat: 15.625
-lng: -61.475
+lat: 15.6107
+lng: -61.4672
 difficulty: Intermediate
 maxDepth: 33
 entryType: shore

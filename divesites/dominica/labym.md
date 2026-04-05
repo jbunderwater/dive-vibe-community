@@ -1,7 +1,7 @@
 ---
 name: L'Abym
-lat: 15.26
-lng: -61.385
+lat: 15.2345
+lng: -61.3661
 difficulty: Advanced
 maxDepth: 30
 entryType: boat
