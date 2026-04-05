@@ -67,7 +67,7 @@ def load_destinations():
     """Load destinations from destinations.json"""
     try:
         with open('destinations.json', 'r', encoding='utf-8') as f:
-            destinations = json.load(f)
+            destinations = [d for d in json.load(f) if not d.get("isGroup")]
         return destinations
     except Exception as e:
         print(f"Error loading destinations.json: {e}")

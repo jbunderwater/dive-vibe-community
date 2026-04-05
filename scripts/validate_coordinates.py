@@ -16,7 +16,7 @@ from collections import defaultdict
 def load_destinations():
     project_root = Path(__file__).parent.parent
     with open(project_root / "destinations.json") as f:
-        return {d["slug"]: d for d in json.load(f)}
+        return {d["slug"]: d for d in json.load(f) if not d.get("isGroup")}
 
 
 def haversine_distance(lat1, lon1, lat2, lon2):

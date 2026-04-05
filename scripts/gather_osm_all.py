@@ -189,6 +189,8 @@ def main():
 
     results_summary = []
     for dest in destinations:
+        if dest.get("isGroup"):
+            continue
         slug = dest["slug"]
         if slug in SKIP_SLUGS:
             print(f"Skipping {slug} (already has data)")

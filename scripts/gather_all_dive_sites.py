@@ -13,7 +13,7 @@ def load_destinations():
     """Load destinations from destinations.json"""
     try:
         with open('../destinations.json', 'r', encoding='utf-8') as f:
-            return json.load(f)
+            return [d for d in json.load(f) if not d.get("isGroup")]
     except FileNotFoundError:
         print("Error: destinations.json not found. Make sure you're running from the scripts directory.")
         sys.exit(1)

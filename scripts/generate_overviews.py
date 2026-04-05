@@ -127,7 +127,7 @@ def generate_overview(dest, stats, region_data):
         site_types.append(f"**Wreck Diving**: {stats['wrecks']} wreck sites ranging from historic vessels to purpose-sunk artificial reefs")
 
     # Always include these based on region
-    if region in ("Caribbean", "Asia", "Pacific", "Middle East", "Africa", "Oceania"):
+    if region in ("Caribbean", "Asia", "Pacific", "Middle East", "Africa", "Oceania", "Central America", "South America"):
         site_types.append("**Reef Diving**: Healthy coral reef systems supporting diverse marine ecosystems")
     if region in ("Europe", "North America", "Arctic"):
         if stats["wrecks"] == 0:
@@ -177,7 +177,7 @@ addedBy: osm_import
 
 - **Water Conditions**: Water temperatures range from {region_data['water_temp']} with visibility of {region_data['visibility']}. Currents are generally {region_data['current'].lower()}.
 - **Marine Biodiversity**: The waters support diverse marine ecosystems including {marine_species}.
-- **Conservation**: {'Marine protected areas help preserve the reef ecosystems and regulate diving activities.' if region in ('Caribbean', 'Pacific', 'Asia', 'Oceania', 'Middle East') else 'Local conservation efforts help protect marine habitats and ensure sustainable diving practices.'}
+- **Conservation**: {'Marine protected areas help preserve the reef ecosystems and regulate diving activities.' if region in ('Caribbean', 'Pacific', 'Asia', 'Oceania', 'Middle East', 'Central America', 'South America') else 'Local conservation efforts help protect marine habitats and ensure sustainable diving practices.'}
 
 ## Additional Information
 
@@ -213,6 +213,8 @@ def main():
 
     generated = 0
     for dest in destinations:
+        if dest.get("isGroup"):
+            continue
         slug = dest["slug"]
         if slug in skip_slugs:
             continue

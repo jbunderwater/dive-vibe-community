@@ -339,7 +339,7 @@ def print_report(results, summary_mode=False):
 
 def main():
     with open(PROJECT_ROOT / "destinations.json") as f:
-        all_dests = {d["slug"]: d for d in json.load(f)}
+        all_dests = {d["slug"]: d for d in json.load(f) if not d.get("isGroup")}
 
     # Parse arguments
     args = sys.argv[1:]

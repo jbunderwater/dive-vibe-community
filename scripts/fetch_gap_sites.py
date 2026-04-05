@@ -387,7 +387,7 @@ def load_destinations():
     """Load destination definitions."""
     with open(DESTINATIONS_FILE) as f:
         dests = json.load(f)
-    return {d["slug"]: d for d in dests}
+    return {d["slug"]: d for d in dests if not d.get("isGroup")}
 
 
 def get_existing_site_names(slug):
