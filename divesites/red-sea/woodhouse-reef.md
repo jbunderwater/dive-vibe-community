@@ -1,5 +1,5 @@
 ---
-name: شعب وودهاوس
+name: Woodhouse Reef
 lat: 28.0012225
 lng: 34.4649921
 difficulty: Advanced
@@ -11,13 +11,13 @@ osmId: 23185891
 addedBy: osm_import
 ---
 
-## شعب وودهاوس
+## Woodhouse Reef
 
-شعب وودهاوس is a wall dive site in Red Sea, Middle East.
+Woodhouse Reef is a wall dive site in Red Sea, Middle East.
 
 ## Overview
 
-شعب وودهاوس is a dive site in Red Sea featuring a dramatic vertical wall that drops into the deep blue. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Woodhouse Reef is a dive site in Red Sea featuring a dramatic vertical wall that drops into the deep blue. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
 
 ## Site Information
 

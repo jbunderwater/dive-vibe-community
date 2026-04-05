@@ -48,7 +48,7 @@
     }
   },
   {
-    "name": "الجزر",
+    "name": "Al Juzur Reef",
     "lat": 28.4772304,
     "lon": 34.5132459,
     "osm_id": 251193886,
@@ -61,7 +61,7 @@
       "alt_name": "الجزر",
       "description:en": "Coral underwater islands-reefs, amazing landscape. Good for night diving. Turtle living here.",
       "description:ru": "Потрясающий подводный ландшафт из коралловых островков. Подходит для ночных погружений. На рифе живет черепаха.",
-      "name": "الجزر",
+      "name": "Al Juzur Reef",
       "name:ar": "الجزر",
       "name:ar1": "الجزر",
       "name:en": "The Islands",
@@ -1161,7 +1161,7 @@
     }
   },
   {
-    "name": "نوميديا",
+    "name": "SS Numidia Wreck",
     "lat": 26.3156833,
     "lon": 34.84145,
     "osm_id": 663869779,
@@ -1172,7 +1172,7 @@
     "difficulty": "Advanced",
     "tags": {
       "historic": "wreck",
-      "name": "نوميديا",
+      "name": "SS Numidia Wreck",
       "name:ar": "نوميديا",
       "name:de": "Numidia",
       "name:en": "Numidia",
@@ -1186,7 +1186,7 @@
     }
   },
   {
-    "name": "عايدة",
+    "name": "Aida II Wreck",
     "lat": 26.3138104,
     "lon": 34.8432379,
     "osm_id": 663869780,
@@ -1199,7 +1199,7 @@
       "brand:ar": "عايدة",
       "brand:wikipedia": "ar:عايدة (سفن سياحية)",
       "historic": "wreck",
-      "name": "عايدة",
+      "name": "Aida II Wreck",
       "name:ar": "عايدة",
       "name:de": "Aida",
       "name:en": "Aida",
@@ -2093,7 +2093,7 @@
     }
   },
   {
-    "name": "سنسبلاش هاوس ريف",
+    "name": "Sunsplash House Reef",
     "lat": 28.486668,
     "lon": 34.516587,
     "osm_id": 663869868,
@@ -2104,7 +2104,7 @@
     "difficulty": "Intermediate",
     "tags": {
       "alt_name": "سنسبلاش هاوس ريف",
-      "name": "سنسبلاش هاوس ريف",
+      "name": "Sunsplash House Reef",
       "name:ar": "سنسبلاش هاوس ريف",
       "name:ar1": "سنسبلاش هاوس ريف",
       "name:en": "Sunsplash Housereef",
@@ -2705,7 +2705,7 @@
     }
   },
   {
-    "name": "شرم الناقة",
+    "name": "Sharm el-Naga",
     "lat": 26.9,
     "lon": 33.966667,
     "osm_id": 767991726,
@@ -2717,39 +2717,13 @@
     "tags": {
       "alt_name": "شرم الناقة",
       "int_name": "Sharm el-Nâqa, Sharm al Naqa",
-      "name": "شرم الناقة",
+      "name": "Sharm el-Naga",
       "name:ar": "شرم الناقة",
       "name:ar1": "شرم الناقة",
       "name:de": "Sharm al Naqa",
       "name:en": "Sharm al Naqa",
       "name:fr": "Sharm al Naqa",
       "natural": "bay",
-      "sport": "scuba_diving",
-      "validated": true,
-      "validation_source": "perplexity_limited"
-    }
-  },
-  {
-    "name": "الإسم العربي ؟",
-    "lat": 27.7038233,
-    "lon": 34.127467,
-    "osm_id": 768031212,
-    "osm_type": "node",
-    "depth": 30,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "alt_name": "الإسم العربي ؟",
-      "int_name": "Beacon Rock, Beacon Rock",
-      "name": "الإسم العربي ؟",
-      "name:ar": "الإسم العربي ؟",
-      "name:ar1": "الإسم العربي ؟",
-      "name:de": "Beacon Rock",
-      "name:en": "Beacon Rock",
-      "name:fr": "Beacon Rock",
-      "place": "locality",
-      "scuba_diving:type": "reef",
       "sport": "scuba_diving",
       "validated": true,
       "validation_source": "perplexity_limited"
@@ -2846,26 +2820,6 @@
       "historic": "wreck",
       "name": "Sirnaka Island",
       "seamark:type": "wreck",
-      "sport": "scuba_diving",
-      "validated": true,
-      "validation_source": "perplexity_limited"
-    }
-  },
-  {
-    "name": "خليج القرش",
-    "lat": 27.946547,
-    "lon": 34.3882994,
-    "osm_id": 1149253646,
-    "osm_type": "node",
-    "depth": 30,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "alt_name:ar": "شاركس بي;شاركس باي",
-      "name": "خليج القرش",
-      "name:ar": "خليج القرش",
-      "name:en": "Shark's Bay",
       "sport": "scuba_diving",
       "validated": true,
       "validation_source": "perplexity_limited"
@@ -3636,7 +3590,7 @@
     }
   },
   {
-    "name": "موقع الغوص - جزيرة الأخ الصغير",
+    "name": "Small Brother Island",
     "lat": 26.3007944,
     "lon": 34.862559,
     "osm_id": 5610583021,
@@ -3647,7 +3601,7 @@
     "difficulty": "Advanced",
     "tags": {
       "attraction": "sport",
-      "name": "موقع الغوص - جزيرة الأخ الصغير",
+      "name": "Small Brother Island",
       "name:ar": "موقع الغوص - جزيرة الأخ الصغير",
       "name:en": "Little Brother Dive Site",
       "name:fr": "Little Brother",
@@ -3660,7 +3614,7 @@
     }
   },
   {
-    "name": "موقع الغوص - جزيرة الأخ الأكبر",
+    "name": "Big Brother Island",
     "lat": 26.3130389,
     "lon": 34.8442682,
     "osm_id": 5610583022,
@@ -3670,7 +3624,7 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
-      "name": "موقع الغوص - جزيرة الأخ الأكبر",
+      "name": "Big Brother Island",
       "name:ar": "موقع الغوص - جزيرة الأخ الأكبر",
       "name:en": "Big Brother Dive Site",
       "name:fr": "Big Brother",
@@ -4843,32 +4797,7 @@
     }
   },
   {
-    "name": "شعب توماس",
-    "lat": 27.9927336,
-    "lon": 34.4600961,
-    "osm_id": 23185890,
-    "osm_type": "way",
-    "depth": 30,
-    "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Advanced",
-    "tags": {
-      "name": "شعب توماس",
-      "name:ar": "شعب توماس",
-      "name:de": "Thomas-Riff",
-      "name:en": "Thomas Reef",
-      "natural": "reef",
-      "reef": "coral",
-      "source": "landsat",
-      "sport": "scuba_diving",
-      "wikidata": "Q14221722",
-      "wikimedia_commons": "Category:Thomas Reef",
-      "validated": true,
-      "validation_source": "perplexity"
-    }
-  },
-  {
-    "name": "شعب وودهاوس",
+    "name": "Woodhouse Reef",
     "lat": 28.0012225,
     "lon": 34.4649921,
     "osm_id": 23185891,
@@ -4878,7 +4807,7 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
-      "name": "شعب وودهاوس",
+      "name": "Woodhouse Reef",
       "name:ar": "شعب وودهاوس",
       "name:de": "Woodhouse-Riff",
       "name:en": "Woodhouse Reef",
@@ -4887,31 +4816,6 @@
       "source": "landsat",
       "sport": "scuba_diving",
       "wikidata": "Q14223403",
-      "validated": true,
-      "validation_source": "perplexity"
-    }
-  },
-  {
-    "name": "شعب جاكسون",
-    "lat": 28.008815,
-    "lon": 34.4731592,
-    "osm_id": 23185893,
-    "osm_type": "way",
-    "depth": 30,
-    "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Advanced",
-    "tags": {
-      "name": "شعب جاكسون",
-      "name:ar": "شعب جاكسون",
-      "name:de": "Jackson-Riff",
-      "name:en": "Jackson Reef",
-      "name:ru": "риф Джексон",
-      "natural": "reef",
-      "reef": "coral",
-      "source": "landsat",
-      "sport": "scuba_diving",
-      "wikidata": "Q14212223",
       "validated": true,
       "validation_source": "perplexity"
     }
@@ -5023,37 +4927,6 @@
       "wikimedia_commons": "Category:Abu Dabbab 3 Reef",
       "validated": true,
       "validation_source": "perplexity_limited"
-    }
-  },
-  {
-    "name": "جيرة ديدلاس",
-    "lat": 24.9348279,
-    "lon": 35.8681459,
-    "osm_id": 374758292,
-    "osm_type": "way",
-    "depth": 40,
-    "site_type": "wall",
-    "entry_type": "boat",
-    "difficulty": "Advanced",
-    "tags": {
-      "alt_name": "Abu el Kizân",
-      "int_name": "Didalas Reef;Daedalus Reef;Jairat Didalas",
-      "loc_name": "Abu Kizan",
-      "name": "جيرة ديدلاس",
-      "name:ar": "جيرة ديدلاس",
-      "name:de": "Daedalus Riff",
-      "name:en": "Daedalus Reef",
-      "name:fr": "Daedalus Reef",
-      "natural": "reef",
-      "reef": "coral",
-      "scuba_diving:divespot": "yes",
-      "scuba_diving:entry": "boat",
-      "scuba_diving:type": "wall",
-      "sport": "scuba_diving",
-      "wikidata": "Q15212511",
-      "wikipedia": "en:Daedalus Reef",
-      "validated": true,
-      "validation_source": "perplexity"
     }
   },
   {

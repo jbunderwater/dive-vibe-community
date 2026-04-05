@@ -1,5 +1,5 @@
 ---
-name: موقع الغوص - جزيرة الأخ الأكبر
+name: Big Brother Island
 lat: 26.3130389
 lng: 34.8442682
 difficulty: Advanced
@@ -11,13 +11,13 @@ osmId: 5610583022
 addedBy: osm_import
 ---
 
-## موقع الغوص - جزيرة الأخ الأكبر
+## Big Brother Island
 
-موقع الغوص - جزيرة الأخ الأكبر is a wall dive site in Red Sea, Middle East.
+Big Brother Island is a wall dive site in Red Sea, Middle East.
 
 ## Overview
 
-موقع الغوص - جزيرة الأخ الأكبر is a dive site in Red Sea featuring a dramatic vertical wall that drops into the deep blue. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Big Brother Island is a dive site in Red Sea featuring a dramatic vertical wall that drops into the deep blue. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
 
 ## Site Information
 

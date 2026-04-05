@@ -1,5 +1,5 @@
 ---
-name: نوميديا
+name: SS Numidia Wreck
 lat: 26.3156833
 lng: 34.84145
 difficulty: Advanced
@@ -11,19 +11,19 @@ osmId: 663869779
 addedBy: osm_import
 ---
 
-## نوميديا
+## SS Numidia Wreck
 
-نوميديا is a historic wreck dive in Red Sea, Middle East.
+SS Numidia Wreck is a historic wreck dive in Red Sea, Middle East.
 
 ## Overview
 
-نوميديا is a dive site in Red Sea featuring the wreck of the نوميديا. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+SS Numidia Wreck is a dive site in Red Sea featuring a historic wreck. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
 
 ## Site Information
 
 - **Location**: Red Sea, Middle East
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

@@ -1,5 +1,5 @@
 ---
-name: عايدة
+name: Aida II Wreck
 lat: 26.3138104
 lng: 34.8432379
 difficulty: Advanced
@@ -11,19 +11,19 @@ osmId: 663869780
 addedBy: osm_import
 ---
 
-## عايدة
+## Aida II Wreck
 
-عايدة is a historic wreck dive in Red Sea, Middle East.
+Aida II Wreck is a historic wreck dive in Red Sea, Middle East.
 
 ## Overview
 
-عايدة is a dive site in Red Sea featuring the wreck of the عايدة. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Aida II Wreck is a dive site in Red Sea featuring the wreck of the Aida II Wreck. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
 
 ## Site Information
 
 - **Location**: Red Sea, Middle East
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)

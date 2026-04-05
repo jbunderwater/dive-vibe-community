@@ -1,23 +1,23 @@
 ---
-name: سنسبلاش هاوس ريف
-lat: 28.486668
-lng: 34.516587
+name: Al Juzur Reef
+lat: 28.4772304
+lng: 34.5132459
 difficulty: Intermediate
-maxDepth: 30
+maxDepth: 16
 entryType: boat
 siteType: reef
 ref: null
-osmId: 663869868
+osmId: 251193886
 addedBy: osm_import
 ---
 
-## سنسبلاش هاوس ريف
+## Al Juzur Reef
 
-سنسبلاش هاوس ريف is a reef dive site in Red Sea, Middle East.
+Al Juzur Reef is a reef dive site in Red Sea, Middle East.
 
 ## Overview
 
-سنسبلاش هاوس ريف is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Al Juzur Reef is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ addedBy: osm_import
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 16 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Moderate to strong
 - **Best Time**: September to May
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter whale sharks, manta rays, hammerhead
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 16 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-16 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
