@@ -1,0 +1,127 @@
+{
+  "alor-archipelago": {
+    "site_count": 10,
+    "issues": [
+      {
+        "site": "Clown Valley",
+        "issue": "ROUND_COORDS",
+        "severity": "error",
+        "detail": "(-8.25, 124.45) only 2dp precision (~1.1km error)"
+      },
+      {
+        "site": "The Cathedral",
+        "issue": "ROUND_COORDS",
+        "severity": "error",
+        "detail": "(-8.28, 124.5) only 1dp precision (~11km error)"
+      },
+      {
+        "site": "Kal's Dream",
+        "issue": "ROUND_COORDS",
+        "severity": "error",
+        "detail": "(-8.23, 124.42) only 2dp precision (~1.1km error)"
+      },
+      {
+        "site": "Shark Close",
+        "issue": "ROUND_COORDS",
+        "severity": "error",
+        "detail": "(-8.3, 124.53) only 1dp precision (~11km error)"
+      },
+      {
+        "site": "Mike's Delight",
+        "issue": "ROUND_COORDS",
+        "severity": "error",
+        "detail": "(-8.26, 124.47) only 2dp precision (~1.1km error)"
+      },
+      {
+        "site": "Mucky Mosque",
+        "issue": "ROUND_COORDS",
+        "severity": "error",
+        "detail": "(-8.24, 124.44) only 2dp precision (~1.1km error)"
+      },
+      {
+        "site": "Babylon",
+        "issue": "ROUND_COORDS",
+        "severity": "error",
+        "detail": "(-8.27, 124.49) only 2dp precision (~1.1km error)"
+      },
+      {
+        "site": "The Boardroom",
+        "issue": "ROUND_COORDS",
+        "severity": "error",
+        "detail": "(-8.22, 124.41) only 2dp precision (~1.1km error)"
+      },
+      {
+        "site": "Pantar Strait",
+        "issue": "ROUND_COORDS",
+        "severity": "error",
+        "detail": "(-8.31, 124.55) only 2dp precision (~1.1km error)"
+      },
+      {
+        "site": "Beang Abang",
+        "issue": "ROUND_COORDS",
+        "severity": "error",
+        "detail": "(-8.2, 124.4) only 1dp precision (~11km error)"
+      }
+    ],
+    "flags": [
+      {
+        "issue": "GRID_PATTERN",
+        "severity": "error",
+        "detail": "Coordinates form uniform grid (step ~0.010\u00b0) \u2014 likely fabricated"
+      },
+      {
+        "issue": "ALL_ESTIMATED",
+        "severity": "error",
+        "detail": "All 10 sites are curated (no OSM data) and 10/10 have round coords \u2014 needs GPS research"
+      }
+    ]
+  },
+  "bermuda": {
+    "site_count": 15,
+    "issues": [
+      {
+        "site": "Montana",
+        "issue": "LOW_PRECISION",
+        "severity": "warning",
+        "detail": "(32.362, -64.908) only 3dp precision (~110m error)"
+      },
+      {
+        "site": "Constellation",
+        "issue": "LOW_PRECISION",
+        "severity": "warning",
+        "detail": "(32.362, -64.908) only 3dp precision (~110m error)"
+      },
+      {
+        "site": "Cristobal Colon",
+        "issue": "ROUND_COORDS",
+        "severity": "error",
+        "detail": "(32.4851, -64.72) only 2dp precision (~1.1km error)"
+      },
+      {
+        "site": "North Carolina",
+        "issue": "ROUND_COORDS",
+        "severity": "error",
+        "detail": "(32.25, -64.9635) only 2dp precision (~1.1km error)"
+      },
+      {
+        "site": "Montana / Constellation",
+        "issue": "IDENTICAL_COORDS",
+        "severity": "warning",
+        "detail": "Both at (32.362, -64.908) \u2014 verify if co-located or lazy copy"
+      }
+    ],
+    "flags": []
+  },
+  "bonaire": {
+    "site_count": 61,
+    "issues": [
+      {
+        "site": "The Lake",
+        "issue": "ROUND_COORDS",
+        "severity": "error",
+        "detail": "(12.1071283, -68.29) only 2dp precision (~1.1km error)"
+      }
+    ],
+    "flags": []
+  }
+}
