@@ -2219,7 +2219,7 @@
     }
   },
   {
-    "name": "סופה",
+    "name": "Sufa Wreck",
     "lat": 29.5447222,
     "lon": 34.9539555,
     "osm_id": 663869878,
@@ -2230,7 +2230,7 @@
     "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
-      "name": "סופה",
+      "name": "Sufa Wreck",
       "name:en": "Soufa",
       "name:he": "סופה",
       "seamark:type": "wreck",
@@ -3917,7 +3917,7 @@
     }
   },
   {
-    "name": "אתר צלילה -סטי\"ל (24 מטר)",
+    "name": "Satil Wreck",
     "lat": 29.5145068,
     "lon": 34.9270007,
     "osm_id": 8577535117,
@@ -3928,7 +3928,7 @@
     "difficulty": "Intermediate",
     "tags": {
       "historic": "wreck",
-      "name": "אתר צלילה -סטי\"ל (24 מטר)",
+      "name": "Satil Wreck",
       "name:he": "אתר צלילה -סטי\"ל (24 מטר)",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
