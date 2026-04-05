@@ -1,7 +1,7 @@
 ---
 name: Flasher Beach
-lat: -3.87
-lng: 134.08
+lat: -3.9215
+lng: 134.004
 difficulty: Intermediate
 maxDepth: 15
 entryType: boat

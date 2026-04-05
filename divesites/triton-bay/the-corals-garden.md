@@ -1,7 +1,7 @@
 ---
 name: The Corals Garden
-lat: -3.84
-lng: 134.11
+lat: -4.0136
+lng: 134.2031
 difficulty: Intermediate
 maxDepth: 12
 entryType: boat

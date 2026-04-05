@@ -1,7 +1,7 @@
 ---
 name: Iris Wall
-lat: -3.86
-lng: 134.07
+lat: -3.933
+lng: 134.15
 difficulty: Advanced
 maxDepth: 35
 entryType: boat

@@ -1,7 +1,7 @@
 ---
 name: Little Komodo
-lat: -3.83
-lng: 134.1
+lat: -3.9164
+lng: 134.1031
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat

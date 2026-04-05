@@ -1,7 +1,7 @@
 ---
 name: Sawandek Jetty
-lat: -3.81
-lng: 134.13
+lat: -3.962
+lng: 134.0713
 difficulty: Beginner
 maxDepth: 8
 entryType: boat
