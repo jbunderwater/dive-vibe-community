@@ -24,8 +24,8 @@
     "osmId": 251193614
   },
   {
-    "name": "الجزر",
-    "filename": "الجزر.md",
+    "name": "Al Juzur Reef",
+    "filename": "al-juzur-reef.md",
     "lat": 28.4772304,
     "lng": 34.5132459,
     "difficulty": "Intermediate",
@@ -720,8 +720,8 @@
     "osmId": 663869778
   },
   {
-    "name": "نوميديا",
-    "filename": "نوميديا.md",
+    "name": "SS Numidia Wreck",
+    "filename": "ss-numidia-wreck.md",
     "lat": 26.3156833,
     "lng": 34.84145,
     "difficulty": "Advanced",
@@ -732,8 +732,8 @@
     "osmId": 663869779
   },
   {
-    "name": "عايدة",
-    "filename": "عايدة.md",
+    "name": "Aida II Wreck",
+    "filename": "aida-ii-wreck.md",
     "lat": 26.3138104,
     "lng": 34.8432379,
     "difficulty": "Advanced",
@@ -1296,8 +1296,8 @@
     "osmId": 663869867
   },
   {
-    "name": "سنسبلاش هاوس ريف",
-    "filename": "سنسبلاش-هاوس-ريف.md",
+    "name": "Sunsplash House Reef",
+    "filename": "sunsplash-house-reef.md",
     "lat": 28.486668,
     "lng": 34.516587,
     "difficulty": "Intermediate",
@@ -1368,8 +1368,8 @@
     "osmId": 663869877
   },
   {
-    "name": "סופה",
-    "filename": "סופה.md",
+    "name": "Sufa Wreck",
+    "filename": "sufa-wreck.md",
     "lat": 29.5447222,
     "lng": 34.9539555,
     "difficulty": "Intermediate",
@@ -1680,8 +1680,8 @@
     "osmId": 765971224
   },
   {
-    "name": "شرم الناقة",
-    "filename": "شرم-الناقة.md",
+    "name": "Sharm el-Naga",
+    "filename": "sharm-el-naga.md",
     "lat": 26.9,
     "lng": 33.966667,
     "difficulty": "Intermediate",
@@ -1690,18 +1690,6 @@
     "siteType": "reef",
     "ref": "",
     "osmId": 767991726
-  },
-  {
-    "name": "الإسم العربي ؟",
-    "filename": "الإسم-العربي.md",
-    "lat": 27.7038233,
-    "lng": 34.127467,
-    "difficulty": "Intermediate",
-    "maxDepth": 30,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 768031212
   },
   {
     "name": "Aluminium",
@@ -1762,18 +1750,6 @@
     "siteType": "wreck",
     "ref": "",
     "osmId": 1068558027
-  },
-  {
-    "name": "خليج القرش",
-    "filename": "خليج-القرش.md",
-    "lat": 27.946547,
-    "lng": 34.3882994,
-    "difficulty": "Intermediate",
-    "maxDepth": 30,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 1149253646
   },
   {
     "name": "El Sheig Malik",
@@ -2268,8 +2244,8 @@
     "osmId": 5610579023
   },
   {
-    "name": "موقع الغوص - جزيرة الأخ الصغير",
-    "filename": "موقع-الغوص-جزيرة-الأخ-الصغير.md",
+    "name": "Small Brother Island",
+    "filename": "small-brother-island.md",
     "lat": 26.3007944,
     "lng": 34.862559,
     "difficulty": "Advanced",
@@ -2280,8 +2256,8 @@
     "osmId": 5610583021
   },
   {
-    "name": "موقع الغوص - جزيرة الأخ الأكبر",
-    "filename": "موقع-الغوص-جزيرة-الأخ-الأكبر.md",
+    "name": "Big Brother Island",
+    "filename": "big-brother-island.md",
     "lat": 26.3130389,
     "lng": 34.8442682,
     "difficulty": "Advanced",
@@ -2472,8 +2448,8 @@
     "osmId": 8559506184
   },
   {
-    "name": "אתר צלילה -סטי\"ל (24 מטר)",
-    "filename": "אתר-צלילה-סטיל-24-מטר.md",
+    "name": "Satil Wreck",
+    "filename": "satil-wreck.md",
     "lat": 29.5145068,
     "lng": 34.9270007,
     "difficulty": "Intermediate",
@@ -3036,20 +3012,8 @@
     "osmId": 13395759833
   },
   {
-    "name": "شعب توماس",
-    "filename": "شعب-توماس.md",
-    "lat": 27.9927336,
-    "lng": 34.4600961,
-    "difficulty": "Advanced",
-    "maxDepth": 30,
-    "entryType": "boat",
-    "siteType": "wall",
-    "ref": "",
-    "osmId": 23185890
-  },
-  {
-    "name": "شعب وودهاوس",
-    "filename": "شعب-وودهاوس.md",
+    "name": "Woodhouse Reef",
+    "filename": "woodhouse-reef.md",
     "lat": 28.0012225,
     "lng": 34.4649921,
     "difficulty": "Advanced",
@@ -3058,18 +3022,6 @@
     "siteType": "wall",
     "ref": "",
     "osmId": 23185891
-  },
-  {
-    "name": "شعب جاكسون",
-    "filename": "شعب-جاكسون.md",
-    "lat": 28.008815,
-    "lng": 34.4731592,
-    "difficulty": "Advanced",
-    "maxDepth": 30,
-    "entryType": "boat",
-    "siteType": "wall",
-    "ref": "",
-    "osmId": 23185893
   },
   {
     "name": "Shaab Sharm",
@@ -3130,18 +3082,6 @@
     "siteType": "reef",
     "ref": "",
     "osmId": 307508338
-  },
-  {
-    "name": "جيرة ديدلاس",
-    "filename": "جيرة-ديدلاس.md",
-    "lat": 24.9348279,
-    "lng": 35.8681459,
-    "difficulty": "Advanced",
-    "maxDepth": 40,
-    "entryType": "boat",
-    "siteType": "wall",
-    "ref": "",
-    "osmId": 374758292
   },
   {
     "name": "Elphinstone Reef",
@@ -3394,5 +3334,17 @@
     "siteType": "reef",
     "ref": "",
     "osmId": 19269652
+  },
+  {
+    "name": "Beacon Rock",
+    "filename": "beacon-rock.md",
+    "lat": 27.7038233,
+    "lng": 34.127467,
+    "difficulty": "Intermediate",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
   }
 ]

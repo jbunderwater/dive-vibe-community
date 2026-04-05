@@ -1,23 +1,23 @@
 ---
-name: شرم الناقة
-lat: 26.9
-lng: 33.966667
+name: Sunsplash House Reef
+lat: 28.486668
+lng: 34.516587
 difficulty: Intermediate
 maxDepth: 30
 entryType: boat
 siteType: reef
 ref: null
-osmId: 767991726
+osmId: 663869868
 addedBy: osm_import
 ---
 
-## شرم الناقة
+## Sunsplash House Reef
 
-شرم الناقة is a reef dive site in Red Sea, Middle East.
+Sunsplash House Reef is a reef dive site in Red Sea, Middle East.
 
 ## Overview
 
-شرم الناقة is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Sunsplash House Reef is a dive site in Red Sea offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
 
 ## Site Information
 

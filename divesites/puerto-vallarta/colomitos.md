@@ -1,7 +1,7 @@
 ---
 name: Colomitos
-lat: 20.527
-lng: -105.282
+lat: 20.514
+lng: -105.329
 difficulty: Intermediate
 maxDepth: 37
 entryType: boat

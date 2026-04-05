@@ -38,8 +38,8 @@
   {
     "name": "Princesa Vallarta Wreck",
     "filename": "princesa-vallarta-wreck.md",
-    "lat": 20.548,
-    "lng": -105.274,
+    "lat": 20.549,
+    "lng": -105.277,
     "difficulty": "Advanced",
     "maxDepth": 38,
     "entryType": "boat",
@@ -50,8 +50,8 @@
   {
     "name": "Mismaloya",
     "filename": "mismaloya.md",
-    "lat": 20.535,
-    "lng": -105.274,
+    "lat": 20.534,
+    "lng": -105.296,
     "difficulty": "Beginner",
     "maxDepth": 30,
     "entryType": "both",
@@ -62,8 +62,8 @@
   {
     "name": "Colomitos",
     "filename": "colomitos.md",
-    "lat": 20.527,
-    "lng": -105.282,
+    "lat": 20.514,
+    "lng": -105.329,
     "difficulty": "Intermediate",
     "maxDepth": 37,
     "entryType": "boat",
@@ -122,8 +122,8 @@
   {
     "name": "Las Gemelas",
     "filename": "las-gemelas.md",
-    "lat": 20.548,
-    "lng": -105.274,
+    "lat": 20.546,
+    "lng": -105.284,
     "difficulty": "Intermediate",
     "maxDepth": 20,
     "entryType": "boat",
@@ -139,7 +139,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 35,
     "entryType": "boat",
-    "siteType": "cave",
+    "siteType": "reef",
     "ref": "",
     "osmId": null
   },
@@ -151,7 +151,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "boat",
-    "siteType": "cave",
+    "siteType": "reef",
     "ref": "",
     "osmId": null
   },
@@ -235,7 +235,7 @@
     "difficulty": "Intermediate",
     "maxDepth": 20,
     "entryType": "boat",
-    "siteType": "muck",
+    "siteType": "reef",
     "ref": "",
     "osmId": null
   },

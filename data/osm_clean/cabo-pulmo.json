@@ -1,0 +1,182 @@
+[
+  {
+    "name": "El Vencedor",
+    "lat": 23.442,
+    "lon": -109.424,
+    "depth": 14,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "cabopulmodiving.com, adventuresinbaja.com, cabopulmonationalpark.com"
+    }
+  },
+  {
+    "name": "El Bajo",
+    "lat": 23.448,
+    "lon": -109.42,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "cabopulmonationalpark.com, adventuresinbaja.com, diveoclock.com"
+    }
+  },
+  {
+    "name": "La Esperanza",
+    "lat": 23.455,
+    "lon": -109.415,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "adventuresinbaja.com, costacoralmexico.com"
+    }
+  },
+  {
+    "name": "Las Navajas",
+    "lat": 23.435,
+    "lon": -109.428,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "cabopulmonationalpark.com, scubaboard.com"
+    }
+  },
+  {
+    "name": "El Cantil",
+    "lat": 23.44,
+    "lon": -109.419,
+    "depth": 15,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "cabopulmonationalpark.com, adventuresinbaja.com, diveoclock.com"
+    }
+  },
+  {
+    "name": "Los Morros",
+    "lat": 23.446,
+    "lon": -109.421,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "cabopulmonationalpark.com, adventuresinbaja.com"
+    }
+  },
+  {
+    "name": "El Islote",
+    "lat": 23.432,
+    "lon": -109.426,
+    "depth": 18,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "cabopulmonationalpark.com, adventuresinbaja.com"
+    }
+  },
+  {
+    "name": "Las Casitas",
+    "lat": 23.438,
+    "lon": -109.423,
+    "depth": 15,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "cabopulmonationalpark.com, costacoralmexico.com"
+    }
+  },
+  {
+    "name": "La Lobera",
+    "lat": 23.38,
+    "lon": -109.41,
+    "depth": 8,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "costacoralmexico.com, scubaboard.com"
+    }
+  },
+  {
+    "name": "El Cien",
+    "lat": 23.458,
+    "lon": -109.412,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "adventuresinbaja.com, costacoralmexico.com"
+    }
+  },
+  {
+    "name": "Los Chopitos",
+    "lat": 23.437,
+    "lon": -109.425,
+    "depth": 10,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "costacoralmexico.com"
+    }
+  },
+  {
+    "name": "Meros",
+    "lat": 23.45,
+    "lon": -109.418,
+    "depth": 18,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validated": "true",
+      "validation_source": "adventuresinbaja.com, cabopulmonationalpark.com"
+    }
+  }
+]

@@ -1,7 +1,7 @@
 ---
 name: Mismaloya
-lat: 20.535
-lng: -105.274
+lat: 20.534
+lng: -105.296
 difficulty: Beginner
 maxDepth: 30
 entryType: both

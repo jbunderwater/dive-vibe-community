@@ -222,7 +222,7 @@
   {
     "name": "Puerto Vallarta",
     "slug": "puerto-vallarta",
-    "region": "Central America",
+    "region": "North America",
     "center": [
       20.6,
       -105.45
@@ -237,7 +237,7 @@
         -105.2
       ]
     ],
-    "description": "Pacific Mexico diving featuring the iconic Los Arcos marine park, granite pinnacles, seasonal humpback whales, and giant manta rays in Banderas Bay.",
+    "description": "Banderas Bay diving centered on the Los Arcos marine park and granite pinnacles, with offshore seamounts for seasonal humpback whale and giant manta encounters.",
     "overviewFile": "overview.md",
     "countryCode": "MX"
   },
@@ -348,6 +348,50 @@
       ]
     ],
     "description": "Jacques Cousteau's 'World's Aquarium' with sea lions, whale sharks, and diverse marine life.",
+    "overviewFile": "overview.md",
+    "countryCode": "MX"
+  },
+  {
+    "name": "Los Cabos",
+    "slug": "los-cabos",
+    "region": "North America",
+    "center": [
+      22.93,
+      -109.85
+    ],
+    "bounds": [
+      [
+        22.8,
+        -110.05
+      ],
+      [
+        23.1,
+        -109.45
+      ]
+    ],
+    "description": "Land's End diving with sand falls, sea lion colonies, and seasonal hammerhead and whale shark encounters at the tip of Baja California.",
+    "overviewFile": "overview.md",
+    "countryCode": "MX"
+  },
+  {
+    "name": "Cabo Pulmo",
+    "slug": "cabo-pulmo",
+    "region": "North America",
+    "center": [
+      23.44,
+      -109.42
+    ],
+    "bounds": [
+      [
+        23.35,
+        -109.55
+      ],
+      [
+        23.55,
+        -109.35
+      ]
+    ],
+    "description": "UNESCO World Heritage marine park with the only living coral reef in the Sea of Cortez, famous for massive jack tornado formations and reef sharks.",
     "overviewFile": "overview.md",
     "countryCode": "MX"
   },

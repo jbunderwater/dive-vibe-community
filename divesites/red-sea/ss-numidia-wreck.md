@@ -1,31 +1,31 @@
 ---
-name: אתר צלילה -סטי"ל (24 מטר)
-lat: 29.5145068
-lng: 34.9270007
-difficulty: Intermediate
-maxDepth: 20
+name: SS Numidia Wreck
+lat: 26.3156833
+lng: 34.84145
+difficulty: Advanced
+maxDepth: 30
 entryType: boat
 siteType: wreck
 ref: null
-osmId: 8577535117
+osmId: 663869779
 addedBy: osm_import
 ---
 
-## אתר צלילה -סטי"ל (24 מטר)
+## SS Numidia Wreck
 
-אתר צלילה -סטי"ל (24 מטר) is a historic wreck dive in Red Sea, Middle East.
+SS Numidia Wreck is a historic wreck dive in Red Sea, Middle East.
 
 ## Overview
 
-אתר צלילה -סטי"ל (24 מטר) is a dive site in Red Sea featuring the wreck of the אתר צלילה -סטי"ל (24 מטר). Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+SS Numidia Wreck is a dive site in Red Sea featuring a historic wreck. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
 
 ## Site Information
 
 - **Location**: Red Sea, Middle East
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Moderate to strong
 - **Best Time**: September to May
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter glassy sweepers, lionfish, groupers,
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 30 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -53,7 +53,7 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 

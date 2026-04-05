@@ -4,21 +4,20 @@ addedBy: osm_import
 
 ## Puerto Vallarta
 
-Pacific Mexico's most diverse dive destination, from the iconic Los Arcos marine park and granite pinnacles of Banderas Bay to offshore seamounts where humpback whales, giant mantas, and whale sharks converge.
+Banderas Bay diving centered on the Los Arcos marine park and granite pinnacles, with offshore seamounts offering seasonal encounters with humpback whales, giant mantas, and whale sharks.
 
 ## Description
 
-Puerto Vallarta and its surrounding Banderas Bay offer documented dive sites ranging from 10 to 46 meters depth, spanning an impressive variety of underwater terrain. The bay features everything from the beginner-friendly Los Arcos marine park with its arches, caves, and tunnels, to remote offshore pinnacles like El Bajo de Corbetena where experienced divers encounter giant manta rays, hammerhead sharks, and whale sharks. The Marietas Islands, made famous by Jacques Cousteau in the 1970s, add caves and tunnels to the mix, while the Princesa Vallarta wreck provides the bay's signature wreck dive at 38 meters.
+Puerto Vallarta and Banderas Bay offer dive sites ranging from 10 to 46 meters depth. The area is best known for the Los Arcos marine park — a cluster of granite islets with arches, tunnels, and swim-throughs — and for the offshore pinnacles like El Bajo de Corbeteña, where experienced divers encounter giant manta rays, hammerhead sharks, and whale sharks on seasonal visits. The Marietas Islands, a UNESCO Biosphere Reserve made famous by Jacques Cousteau, provide additional reef and rock diving, while the Princesa Vallarta wreck offers an artificial reef dive at 38 meters. Most inshore sites are reef and rock formations suited to beginners and intermediates; the advanced diving is concentrated at the offshore seamounts that require long boat rides and current experience.
 
 ### Diving Opportunities
 
-- **Reef Diving**: Reef sites including the iconic Los Arcos Marine Park, Mismaloya (shore and boat access), Las Caletas, Majahuitas, and Pizota for deeper advanced dives
-- **Pinnacle Diving**: Pinnacle sites including the world-class El Bajo de Corbetena (30m, famous for pelagics), El Morro (46m), El Sequial, El Malinal, Las Gemelas, and Los Arcos - El Bajo del Cristo
-- **Wall Diving**: Wall sites at Los Arcos - El Canon (37m) and Colomitos (37m)
-- **Cave Diving**: Cave sites at Las Marietas Islands and Los Anegados, both with tunnels and swim-throughs at intermediate depths
-- **Wreck Diving**: Princesa Vallarta wreck at 38 meters, rated Advanced
-- **Muck Diving**: Las Viudas offers muck diving for macro enthusiasts at 20 meters
-- **Shore Diving**: Mismaloya is the sole site with shore access, also reachable by boat
+- **Reef & Rock Diving**: The core of Banderas Bay diving — Los Arcos Marine Park, Mismaloya (the only shore-access site), Las Caletas, Majahuitas, and deeper reefs at Pizota (40m)
+- **Offshore Pinnacles**: The area's marquee advanced diving — El Bajo de Corbeteña (30m, famous for pelagic encounters), El Morro (46m), El Sequial, and El Malinal. These require 2-3 hour boat rides each way and current experience
+- **Inshore Pinnacles**: Las Gemelas and Los Arcos - El Bajo del Cristo offer pinnacle diving closer to shore at intermediate depths
+- **Wreck Diving**: Princesa Vallarta artificial reef (scuttled 2017) at 38 meters off Playas Gemelas, rated Advanced
+- **Swim-throughs & Tunnels**: Los Arcos features natural arches and tunnels; Las Marietas Islands and Los Anegados have cavern-like formations (not true cave diving — no overhead environments requiring cave certification)
+- **Sandy Bottom**: Las Viudas (20m) in the north bay offers macro life on sandy substrate
 
 ### Accessibility
 

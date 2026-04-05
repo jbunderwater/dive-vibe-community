@@ -1,23 +1,23 @@
 ---
-name: شعب جاكسون
-lat: 28.008815
-lng: 34.4731592
+name: Small Brother Island
+lat: 26.3007944
+lng: 34.862559
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 35
 entryType: boat
 siteType: wall
 ref: null
-osmId: 23185893
+osmId: 5610583021
 addedBy: osm_import
 ---
 
-## شعب جاكسون
+## Small Brother Island
 
-شعب جاكسون is a wall dive site in Red Sea, Middle East.
+Small Brother Island is a wall dive site in Red Sea, Middle East.
 
 ## Overview
 
-شعب جاكسون is a dive site in Red Sea featuring a dramatic vertical wall that drops into the deep blue. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Small Brother Island is a dive site in Red Sea featuring a dramatic vertical wall that drops into the deep blue. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ addedBy: osm_import
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Moderate to strong
 - **Best Time**: September to May
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter whale sharks, manta rays, hammerhead
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-35 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 

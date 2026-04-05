@@ -5,7 +5,7 @@ lng: -105.615
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat
-siteType: cave
+siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
@@ -25,7 +25,7 @@ The defining feature is an intricate network of caves and swimthroughs beginning
 
 - **Location**: Between Las Marietas Islands and El Morro, northern Banderas Bay
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/cavern
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-18 meters

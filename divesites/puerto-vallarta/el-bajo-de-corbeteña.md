@@ -23,7 +23,7 @@ El Bajo de Corbeteña is a dive site in Puerto Vallarta offering rewarding divin
 
 - **Location**: Puerto Vallarta, Central America
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
