@@ -1,7 +1,7 @@
 ---
 name: USAT Liberty Wreck
-lat: -8.2739054
-lng: 115.5926122
+lat: -8.2746667
+lng: 115.5928056
 difficulty: Beginner
 maxDepth: 35
 entryType: shore

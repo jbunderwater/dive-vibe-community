@@ -1,8 +1,8 @@
 [
   {
     "name": "Gili Mimpang",
-    "lat": -8.526092,
-    "lon": 115.576321,
+    "lat": -8.5262222,
+    "lon": 115.5757778,
     "osm_id": 1314452590,
     "osm_type": "node",
     "depth": 25,
@@ -10,7 +10,7 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "scubaboard.com, BaliAqua",
+    "validation_source": "scubaboard.com, BaliAqua, ScubaBoard user Dan (GPS)",
     "tags": {
       "description": "Drift dive site with strong currents. Also known as Batu Tiga, requires 50+ dives and Advanced Open Water certification. Diverse scuba diving with sloping reefs, craggy rocks and walls covered in hard and soft corals. Visibility often reaches 30 meters. Strong and unpredictable currents especially during full moon. Living Seas coral restoration projects nearby.",
       "name": "Gili Mimpang",
@@ -24,8 +24,8 @@
   },
   {
     "name": "USAT Liberty Wreck",
-    "lat": -8.2739054,
-    "lon": 115.5926122,
+    "lat": -8.2746667,
+    "lon": 115.5928056,
     "osm_id": 2480654035,
     "osm_type": "node",
     "depth": 35,
@@ -33,7 +33,7 @@
     "entry_type": "shore",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "PADI, ScubaBoard, Multiple dive operators",
+    "validation_source": "PADI, ScubaBoard, Multiple dive operators, ScubaBoard user Dan (GPS)",
     "tags": {
       "description": "Historic WWII-era American transport ship (USAT Liberty, sunk 1942). Accessible wreck dive from volcanic black-sand beach shore entry. Wreck top at 4-5m, bottom at 35m. Excellent for beginners and more experienced divers alike. Rich marine life including batfish, lionfish, sweetlips, manta rays, reef sharks and sea turtles. Notable for wreck penetration opportunities and excellent photography.",
       "name": "USAT Liberty Wreck",
@@ -87,8 +87,8 @@
   },
   {
     "name": "Manta Point",
-    "lat": -8.7947861,
-    "lon": 115.5259217,
+    "lat": -8.7988333,
+    "lon": 115.5277778,
     "osm_id": 2907339692,
     "osm_type": "node",
     "depth": 15,
@@ -96,7 +96,7 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "PADI, Nusa Penida diving guides, Multiple operators",
+    "validation_source": "PADI, Nusa Penida diving guides, Multiple operators, ScubaBoard user Dan (GPS)",
     "tags": {
       "description": "Famous manta ray cleaning station on southwest coast of Nusa Penida. Manta cleaning stations at 5-10m depth with maximum depth ~18m. Primary attraction is manta rays visiting to be cleaned by small fish. Over 90% probability of manta encounters March-June. Also hosts blue-spotted stingrays, eagle rays, reef sharks, turtles and occasional mola mola. Shallow, easy water entry makes it accessible to all levels.",
       "ele": "-13",
@@ -327,8 +327,8 @@
   },
   {
     "name": "Gili Tepekong North",
-    "lat": -8.5311955,
-    "lon": 115.5858269,
+    "lat": -8.5326111,
+    "lon": 115.58425,
     "osm_id": 4723444231,
     "osm_type": "node",
     "depth": 25,
@@ -336,7 +336,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "BaliAqua, Gili Tepekong dive guides",
+    "validation_source": "BaliAqua, Gili Tepekong dive guides, ScubaBoard user Dan (GPS)",
     "tags": {
       "description": "Northern section of Gili Tepekong. Less challenging than southern canyon area. Dive toward north with huge boulders to swim among and open plains of corals. Moderate currents possible but manageable for intermediate divers. Popular for photography due to varied topography and marine life.",
       "name": "Gili Tepekong North",
@@ -369,8 +369,8 @@
   },
   {
     "name": "Crystal Bay",
-    "lat": -8.7155168,
-    "lon": 115.4574864,
+    "lat": -8.7154444,
+    "lon": 115.4561667,
     "osm_id": 4742534377,
     "osm_type": "node",
     "depth": 40,
@@ -378,7 +378,7 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "Nusa Penida diving experts, ScubaBoard, Multiple operators",
+    "validation_source": "Nusa Penida diving experts, ScubaBoard, Multiple operators, ScubaBoard user Dan (GPS)",
     "tags": {
       "description": "Penida Bay - famous for mola mola (ocean sunfish) encounters July-October. Also called Penida Bay. Site conditions heavily dependent on currents. Known for strong downcurrents that can force rapid unintended depth increases - serious hazard with multiple documented accidents and fatalities. Requires Advanced Open Water certification minimum. Mola divers typically work 20-40m depth range. Also hosts reef sharks, manta rays, and diverse reef life. Conditions can change rapidly - always use experienced local guides. Best season July-mid November for mola sightings (40-90% encounter rates July-October).",
       "name": "Crystal Bay",
@@ -535,6 +535,41 @@
       "name": "Emerald",
       "sport": "scuba_diving",
       "tourism": "attraction"
+    }
+  },
+  {
+    "name": "Gili Biaha",
+    "lat": -8.5086944,
+    "lon": 115.6145,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "depth": 40,
+    "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "okdiversbali.com, nicodivescoolbali.com, padi.com, ScubaBoard user Dan (GPS)",
+    "tags": {
+      "name": "Gili Biaha",
+      "sport": "scuba_diving",
+      "description": "The most remote of the three Amuk Bay islands east of Padangbai. Features a dramatic black wall with a signature Shark Cave at around 10m where white-tip reef sharks rest. Strong and unpredictable currents including downcurrents make this an advanced site. Seasonal mola mola sightings June through October. Rich marine life includes lobsters, nudibranchs, turtles, barracuda, and schools of glass fish. Depth range 6-40m with best visibility June to October.",
+      "scuba_diving:entry": "boat",
+      "scuba_diving:dangers:current": "yes"
+    }
+  },
+  {
+    "name": "Drop-off",
+    "lat": -8.2788333,
+    "lon": 115.5955833,
+    "site_type": "wall",
+    "entry_type": "shore",
+    "depth": 30,
+    "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "aquamarinediving.com, ecodivebali.com, letsdivetulamben.com, ScubaBoard user Dan (GPS)",
+    "tags": {
+      "name": "Drop-off",
+      "sport": "scuba_diving",
+      "description": "Dramatic volcanic wall formed by a historic Mount Agung lava flow, also known as the Tulamben Wall. Shore entry across pebble beach with a short surface swim to the wall. Wall top at 3-5m drops to over 60m. A shallow aquarium section at 5m teems with reef fish. The wall is covered in sponges, gorgonian fans, black coral, and crinoids. Notable marine life includes white-tip reef sharks, Napoleon wrasse, frogfish, ghost pipefish, and nudibranchs. Adjacent to the USAT Liberty wreck.",
+      "scuba_diving:entry": "shore"
     }
   }
 ]

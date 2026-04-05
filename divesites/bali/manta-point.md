@@ -1,7 +1,7 @@
 ---
 name: Manta Point
-lat: -8.7947861
-lng: 115.5259217
+lat: -8.7988333
+lng: 115.5277778
 difficulty: Beginner
 maxDepth: 15
 entryType: boat
