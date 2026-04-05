@@ -56,6 +56,21 @@ REGION_DATA = {
         "hazards": ["cold water", "surge", "limited visibility", "boat traffic", "currents"],
         "current": "Variable, can be strong",
     },
+    "Central America": {
+        "water_temp": "26-29°C (79-84°F)",
+        "visibility": "15-35 meters (50-115 feet)",
+        "best_season": "December to April (dry season)",
+        "year_round": True,
+        "typical_marine_life": [
+            "sea turtles (green, hawksbill)", "whale sharks", "reef sharks",
+            "nurse sharks", "eagle rays", "hammerhead sharks", "manta rays",
+            "parrotfish", "angelfish", "barracuda", "moray eels",
+            "brain corals", "elkhorn corals", "sea fans", "barrel sponges"
+        ],
+        "wreck_marine_life": ["groupers", "snappers", "soldierfish", "glassy sweepers", "coral growth", "sponge encrustation"],
+        "hazards": ["strong currents", "boat traffic", "fire coral", "thermoclines", "remote locations"],
+        "current": "Moderate to strong",
+    },
     "South America": {
         "water_temp": "15-26°C (59-79°F)",
         "visibility": "10-25 meters (30-80 feet)",
@@ -570,7 +585,7 @@ def main():
     with open(project_root / "destinations.json", "r", encoding="utf-8") as f:
         destinations = json.load(f)
 
-    dest_by_slug = {d["slug"]: d for d in destinations}
+    dest_by_slug = {d["slug"]: d for d in destinations if not d.get("isGroup")}
 
     # Skip destinations that already have hand-curated content
     skip_slugs = {"bonaire", "curacao"}

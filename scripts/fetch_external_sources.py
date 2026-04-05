@@ -62,7 +62,7 @@ def rate_limit(source, min_interval=1.0):
 
 def load_destinations():
     with open(DESTINATIONS_FILE) as f:
-        return {d["slug"]: d for d in json.load(f)}
+        return {d["slug"]: d for d in json.load(f) if not d.get("isGroup")}
 
 
 def get_gap_destinations(min_sites=5):

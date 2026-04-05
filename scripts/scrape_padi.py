@@ -324,7 +324,7 @@ def main():
 
 def load_destinations():
     with open(DESTINATIONS_FILE) as f:
-        return {d["slug"]: d for d in json.load(f)}
+        return {d["slug"]: d for d in json.load(f) if not d.get("isGroup")}
 
 
 if __name__ == "__main__":
