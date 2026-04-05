@@ -1,42 +1,42 @@
 ---
-name: Big Fish Country
-lat: 2.246857
-lng: 118.639512
+name: Blue Light Cave
+lat: 2.13737
+lng: 118.5303
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 65
 entryType: boat
-siteType: drift
+siteType: cave
 ref: null
 osmId: null
 addedBy: osm_import
 ---
 
-## Big Fish Country
+## Blue Light Cave
 
-Big Fish Country is a drift dive site in Sangalaki (Derawan Islands), Asia.
+Blue Light Cave is a cave dive site in Sangalaki (Derawan Islands), Asia.
 
 ## Overview
 
-Big Fish Country is a dive site in Sangalaki (Derawan Islands) offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Blue Light Cave is a dive site in Sangalaki (Derawan Islands) featuring underwater cave and cavern formations. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
 - **Location**: Sangalaki (Derawan Islands), Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Drift dive
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 65 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 65 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 

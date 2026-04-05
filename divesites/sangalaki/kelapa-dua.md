@@ -1,9 +1,9 @@
 ---
-name: Kakaban Wall
-lat: 2.14
-lng: 118.54
+name: Kelapa Dua
+lat: 2.155
+lng: 118.51
 difficulty: Advanced
-maxDepth: 35
+maxDepth: 40
 entryType: boat
 siteType: wall
 ref: null
@@ -11,13 +11,13 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Kakaban Wall
+## Kelapa Dua
 
-Kakaban Wall is a wall dive site in Sangalaki (Derawan Islands), Asia.
+Kelapa Dua is a wall dive site in Sangalaki (Derawan Islands), Asia.
 
 ## Overview
 
-Kakaban Wall is a dive site in Sangalaki (Derawan Islands) featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Kelapa Dua is a dive site in Sangalaki (Derawan Islands) featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ Kakaban Wall is a dive site in Sangalaki (Derawan Islands) featuring a dramatic 
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 meters
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter manta rays, whale sharks, reef shark
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-35 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
@@ -59,6 +59,9 @@ Be aware of strong currents, jellyfish, sea urchins in this area. Dive within yo
 
 Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
+## Additional Resources
+
+- **Last Updated**: 2026-04-05
 
 ---
-*Sources: [Scuba Junkie Sangalaki - Dive Sites](https://www.scubajunkiesangalaki.com/diving-sangalaki/), [Dive The World - Sangalaki Island](https://www.dive-the-world.com/diving-sites-indonesia-sangalaki-island.php), [Bluewater Dive Travel - Derawan Islands](https://www.bluewaterdivetravel.com/destination/derawan-islands-diving), [Liveaboard Indonesia - Derawan Islands](https://liveaboardindonesia.com/destinations/derawan-islands/), [ZuBlu - Derawan Sangalaki Maratua](https://www.zubludiving.com/destination/indonesia/kalimantan/derawan-sangalaki-maratua). Last updated 2026-04-04.*
+*Sources: [PADI Travel – Derawan Islands](https://www.padi.com/dive-site/indonesia/), [Scuba Junkie Sangalaki](https://www.scubajunkiesangalaki.com/), [Green Nirvana Resort](https://www.greennirvanaresort.com/Fun-Dives), [AsiaDiveSite – Kalimantan](https://www.asiadivesite.com/indonesia-dive-sites/kalimantan/), [Starfish.ch – Kalimantan Diving](https://www.starfish.ch/dive/Kalimantan.html), [Dive The World – Sangalaki](https://www.dive-the-world.com/diving-sites-indonesia-sangalaki-island.php). Last updated 2026-04-05.*

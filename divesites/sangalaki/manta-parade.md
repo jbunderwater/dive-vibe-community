@@ -1,30 +1,30 @@
 ---
-name: Maratua Channel
-lat: 2.22
-lng: 118.62
-difficulty: Advanced
+name: Manta Parade
+lat: 2.085
+lng: 118.375
+difficulty: Intermediate
 maxDepth: 30
 entryType: boat
-siteType: drift
+siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
 ---
 
-## Maratua Channel
+## Manta Parade
 
-Maratua Channel is a drift dive site in Sangalaki (Derawan Islands), Asia.
+Manta Parade is a reef dive site in Sangalaki (Derawan Islands), Asia.
 
 ## Overview
 
-Maratua Channel is a dive site in Sangalaki (Derawan Islands) offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Manta Parade is a dive site in Sangalaki (Derawan Islands) offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
 - **Location**: Sangalaki (Derawan Islands), Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Drift dive
-- **Difficulty Level**: Advanced
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
@@ -52,12 +52,15 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
 This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
+## Additional Resources
+
+- **Last Updated**: 2026-04-05
 
 ---
-*Sources: [Scuba Junkie Sangalaki - Dive Sites](https://www.scubajunkiesangalaki.com/diving-sangalaki/), [Dive The World - Sangalaki Island](https://www.dive-the-world.com/diving-sites-indonesia-sangalaki-island.php), [Bluewater Dive Travel - Derawan Islands](https://www.bluewaterdivetravel.com/destination/derawan-islands-diving), [Liveaboard Indonesia - Derawan Islands](https://liveaboardindonesia.com/destinations/derawan-islands/), [ZuBlu - Derawan Sangalaki Maratua](https://www.zubludiving.com/destination/indonesia/kalimantan/derawan-sangalaki-maratua). Last updated 2026-04-04.*
+*Sources: [PADI Travel – Derawan Islands](https://www.padi.com/dive-site/indonesia/), [Scuba Junkie Sangalaki](https://www.scubajunkiesangalaki.com/), [Green Nirvana Resort](https://www.greennirvanaresort.com/Fun-Dives), [AsiaDiveSite – Kalimantan](https://www.asiadivesite.com/indonesia-dive-sites/kalimantan/), [Starfish.ch – Kalimantan Diving](https://www.starfish.ch/dive/Kalimantan.html), [Dive The World – Sangalaki](https://www.dive-the-world.com/diving-sites-indonesia-sangalaki-island.php). Last updated 2026-04-05.*
