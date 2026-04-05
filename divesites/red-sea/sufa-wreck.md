@@ -4,7 +4,7 @@ lat: 29.5447222
 lng: 34.9539555
 difficulty: Intermediate
 maxDepth: 30
-entryType: shore
+entryType: boat
 siteType: wreck
 ref: null
 osmId: 663869878
@@ -22,7 +22,7 @@ The Sufa Wreck is a former Israeli Navy Satil-class missile boat deliberately su
 ## Site Information
 
 - **Location**: Coral Beach, Eilat, Israel
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters

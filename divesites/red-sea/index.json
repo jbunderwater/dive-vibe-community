@@ -3334,5 +3334,17 @@
     "siteType": "reef",
     "ref": "",
     "osmId": 19269652
+  },
+  {
+    "name": "Beacon Rock",
+    "filename": "beacon-rock.md",
+    "lat": 27.7038233,
+    "lng": 34.127467,
+    "difficulty": "Intermediate",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
   }
 ]

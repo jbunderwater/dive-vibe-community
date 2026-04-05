@@ -5379,5 +5379,20 @@
       "validated": true,
       "validation_source": "perplexity_limited"
     }
+  },
+  {
+    "name": "Beacon Rock",
+    "lat": 27.7038233,
+    "lon": 34.127467,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "osm",
+      "addedBy": "osm_import",
+      "validated": "true",
+      "validation_source": "openstreetmap.org"
+    }
   }
 ]

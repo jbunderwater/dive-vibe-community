@@ -4,7 +4,7 @@ lat: 29.5145068
 lng: 34.9270007
 difficulty: Intermediate
 maxDepth: 20
-entryType: shore
+entryType: boat
 siteType: wreck
 ref: null
 osmId: 8577535117
@@ -22,7 +22,7 @@ The Satil Wreck is a former Israeli Navy Satil-class missile boat sunk in the sp
 ## Site Information
 
 - **Location**: Village Beach, Eilat, Israel
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
