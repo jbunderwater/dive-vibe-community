@@ -310,5 +310,29 @@
     "siteType": "reef",
     "ref": "",
     "osmId": 12052475969
+  },
+  {
+    "name": "Gili Biaha",
+    "filename": "gili-biaha.md",
+    "lat": -8.5086944,
+    "lng": 115.6145,
+    "difficulty": "Advanced",
+    "maxDepth": 40,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Drop-off",
+    "filename": "drop-off.md",
+    "lat": -8.2788333,
+    "lng": 115.5955833,
+    "difficulty": "Beginner",
+    "maxDepth": 30,
+    "entryType": "shore",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
   }
 ]

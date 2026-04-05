@@ -536,5 +536,40 @@
       "sport": "scuba_diving",
       "tourism": "attraction"
     }
+  },
+  {
+    "name": "Gili Biaha",
+    "lat": -8.5086944,
+    "lon": 115.6145,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "depth": 40,
+    "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "okdiversbali.com, nicodivescoolbali.com, padi.com",
+    "tags": {
+      "name": "Gili Biaha",
+      "sport": "scuba_diving",
+      "description": "The most remote of the three Amuk Bay islands east of Padangbai. Features a dramatic black wall with a signature Shark Cave at around 10m where white-tip reef sharks rest. Strong and unpredictable currents including downcurrents make this an advanced site. Seasonal mola mola sightings June through October. Rich marine life includes lobsters, nudibranchs, turtles, barracuda, and schools of glass fish. Depth range 6-40m with best visibility June to October.",
+      "scuba_diving:entry": "boat",
+      "scuba_diving:dangers:current": "yes"
+    }
+  },
+  {
+    "name": "Drop-off",
+    "lat": -8.2788333,
+    "lon": 115.5955833,
+    "site_type": "wall",
+    "entry_type": "shore",
+    "depth": 30,
+    "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "aquamarinediving.com, ecodivebali.com, letsdivetulamben.com",
+    "tags": {
+      "name": "Drop-off",
+      "sport": "scuba_diving",
+      "description": "Dramatic volcanic wall formed by a historic Mount Agung lava flow, also known as the Tulamben Wall. Shore entry across pebble beach with a short surface swim to the wall. Wall top at 3-5m drops to over 60m. A shallow aquarium section at 5m teems with reef fish. The wall is covered in sponges, gorgonian fans, black coral, and crinoids. Notable marine life includes white-tip reef sharks, Napoleon wrasse, frogfish, ghost pipefish, and nudibranchs. Adjacent to the USAT Liberty wreck.",
+      "scuba_diving:entry": "shore"
+    }
   }
 ]
