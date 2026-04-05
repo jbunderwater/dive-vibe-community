@@ -1,7 +1,7 @@
 ---
 name: Mpunguti Marine Reserve
-lat: -4.68
-lng: 39.39
+lat: -4.6595
+lng: 39.3806
 difficulty: Beginner
 maxDepth: 20
 entryType: boat

@@ -1,7 +1,7 @@
 ---
 name: Diani Reef
-lat: -4.34
-lng: 39.6
+lat: -4.3555
+lng: 39.5764
 difficulty: Beginner
 maxDepth: 16
 entryType: boat

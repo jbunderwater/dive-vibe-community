@@ -1,7 +1,7 @@
 ---
 name: MV Dania Wreck
-lat: -4.05
-lng: 39.7
+lat: -4.0177
+lng: 39.7743
 difficulty: Advanced
 maxDepth: 30
 entryType: boat

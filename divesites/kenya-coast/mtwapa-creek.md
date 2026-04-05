@@ -1,6 +1,6 @@
 ---
 name: Mtwapa Creek
-lat: -3.95
+lat: -3.9167
 lng: 39.75
 difficulty: Intermediate
 maxDepth: 15

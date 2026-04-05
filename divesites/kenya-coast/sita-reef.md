@@ -1,7 +1,7 @@
 ---
 name: Sita Reef
-lat: -4.7
-lng: 39.36
+lat: -4.7167
+lng: 39.3667
 difficulty: Intermediate
 maxDepth: 18
 entryType: boat

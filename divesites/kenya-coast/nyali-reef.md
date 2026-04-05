@@ -1,7 +1,7 @@
 ---
 name: Nyali Reef
-lat: -4.02
-lng: 39.71
+lat: -4.0623
+lng: 39.7123
 difficulty: Intermediate
 maxDepth: 20
 entryType: boat
