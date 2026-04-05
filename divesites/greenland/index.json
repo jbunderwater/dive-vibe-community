@@ -12,18 +12,6 @@
     "osmId": 8664353637
   },
   {
-    "name": "Belgica Banke",
-    "filename": "belgica-banke.md",
-    "lat": 79.0612626,
-    "lng": -14.0313109,
-    "difficulty": "Advanced",
-    "maxDepth": 80,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 13200872865
-  },
-  {
     "name": "Maniitsup Ikkannersua, Maniitsup Ikkannera",
     "filename": "maniitsup-ikkannersua-maniitsup-ikkannera.md",
     "lat": 65.0427909,

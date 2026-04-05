@@ -21,31 +21,6 @@
     }
   },
   {
-    "name": "Belgica Banke",
-    "lat": 79.0612626,
-    "lon": -14.0313109,
-    "osm_id": 13200872865,
-    "osm_type": "node",
-    "depth": 80,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Advanced",
-    "tags": {
-      "comment": "landkort 78ø2 nr 41",
-      "name": "Belgica Banke",
-      "name:da": "Belgica Banke",
-      "natural": "reef",
-      "source": "osm_extended",
-      "source:ref": "12679",
-      "source:type": "BANK",
-      "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "perplexity",
-      "validation_date": "2026-03-16",
-      "validation_note": "Northern Greenland bank/pinnacle"
-    }
-  },
-  {
     "name": "Maniitsup Ikkannersua, Maniitsup Ikkannera",
     "lat": 65.0427909,
     "lon": -53.6857742,
