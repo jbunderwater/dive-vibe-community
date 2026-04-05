@@ -1,7 +1,7 @@
 ---
 name: Laha
-lat: -3.71
-lng: 128.09
+lat: -3.7058
+lng: 128.1037
 difficulty: Beginner
 maxDepth: 15
 entryType: shore

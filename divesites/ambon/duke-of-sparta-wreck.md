@@ -1,7 +1,7 @@
 ---
 name: Duke of Sparta Wreck
-lat: -3.68
-lng: 128.07
+lat: -3.6658
+lng: 128.1715
 difficulty: Advanced
 maxDepth: 35
 entryType: boat

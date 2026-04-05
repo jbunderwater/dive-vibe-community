@@ -1,7 +1,7 @@
 ---
 name: Pintu Kota
-lat: -3.76
-lng: 128.21
+lat: -3.771
+lng: 128.1508
 difficulty: Intermediate
 maxDepth: 16
 entryType: boat

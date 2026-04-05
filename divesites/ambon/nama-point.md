@@ -1,7 +1,7 @@
 ---
 name: Nama Point
-lat: -3.7
-lng: 128.085
+lat: -3.7285
+lng: 128.118
 difficulty: Intermediate
 maxDepth: 18
 entryType: boat

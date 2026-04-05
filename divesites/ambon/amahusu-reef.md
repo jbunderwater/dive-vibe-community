@@ -1,7 +1,7 @@
 ---
 name: Amahusu Reef
-lat: -3.715
-lng: 128.095
+lat: -3.7233
+lng: 128.1458
 difficulty: Beginner
 maxDepth: 14
 entryType: shore

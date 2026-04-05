@@ -1,7 +1,7 @@
 ---
 name: Rhino City
-lat: -3.72
-lng: 128.1
+lat: -3.7073
+lng: 128.098
 difficulty: Beginner
 maxDepth: 12
 entryType: shore

@@ -1,7 +1,7 @@
 ---
 name: Twilight Zone
-lat: -3.73
-lng: 128.11
+lat: -3.7055
+lng: 128.1025
 difficulty: Beginner
 maxDepth: 10
 entryType: shore
