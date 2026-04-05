@@ -118,5 +118,17 @@
     "siteType": "muck",
     "ref": "",
     "osmId": null
+  },
+  {
+    "name": "Current Alley",
+    "filename": "current-alley.md",
+    "lat": -8.17,
+    "lng": 124.3,
+    "difficulty": "Advanced",
+    "maxDepth": 40,
+    "entryType": "boat",
+    "siteType": "drift",
+    "ref": "",
+    "osmId": null
   }
 ]
