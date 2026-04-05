@@ -11,57 +11,32 @@ osmId: null
 addedBy: osm_import
 ---
 
-## El Vencedor
-
-El Vencedor is a historic wreck dive in Cabo Pulmo, North America.
+# El Vencedor
 
 ## Overview
-
-El Vencedor is a dive site in Cabo Pulmo featuring the wreck of the El Vencedor. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+El Vencedor is the most famous dive site in Cabo Pulmo National Marine Park and the park's only wreck. A wooden-hulled tuna trawler roughly 30 meters in length, El Vencedor sank in the early 1980s after striking the reef and now rests on a sandy bottom at 14 meters. The wreck is the park's primary site for seasonal bull shark encounters, drawing experienced divers from across Baja. Two large resident schools of yellow snapper and graybar grunt swirl around the structure, while giant moray eels shelter in the hull. Pufferfish, golden groupers, and amberjacks patrol the wreck, and fields of garden eels extend across the surrounding sand flats.
 
 ## Site Information
-
-- **Location**: Cabo Pulmo, North America
-- **Entry Type**: Boat dive
+- **Location**: Cabo Pulmo National Marine Park, Baja California Sur
+- **Entry Type**: Boat dive (5-10 min from Cabo Pulmo village)
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 14 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Typical Visibility**: 10-25 meters
+- **Current**: Mild to moderate
+- **Best Time**: October to May for bull shark season; year-round for marine life
 
 ## Marine Life
-
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Bull sharks (seasonal), large schools of yellow snapper and graybar grunt, giant moray eels, golden groupers, pufferfish, amberjacks, garden eels on surrounding sand. The wreck acts as an artificial reef concentrating fish life within the broader park ecosystem.
 
 ## Dive Profile
-
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 14 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Descent to the wreck on sand at 14 meters. The hull is accessible for external exploration along its full length. Spend time hovering above the sand flats on approach to observe garden eels before they retreat. The 45-minute park dive limit applies. Do not attempt penetration without proper training and equipment.
 
 ## Tips and Recommendations
-
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-
-## Safety Considerations
-
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+- Bring a torch for peering into the hull where morays shelter
+- Approach garden eels slowly — they retract into the sand quickly
+- During bull shark season, stay calm and maintain a low profile near the wreck
+- Maximum group size of 6 divers per guide (park rule)
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Cabo Pulmo National Park](https://cabopulmonationalpark.com/dive-sites/), [Cabo Pulmo Diving](https://cabopulmodiving.com/), [Adventures in Baja](https://adventuresinbaja.com/). Last updated 2026-04-05.*

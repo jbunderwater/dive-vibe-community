@@ -13,55 +13,30 @@ addedBy: osm_import
 
 ## Whale's Head
 
-Whale's Head is a reef dive site in Los Cabos, North America.
-
-## Overview
-
-Whale's Head is a dive site in Los Cabos offering excellent diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Named for a whale-shaped rock formation visible above the surface. A sandy bottom mixed with rocky reef creates habitat for one of the area's best concentrations of spotted eagle rays. A ray cleaning station operates here, drawing rays that hover while small fish remove parasites. The site marks the start of the Corridor — the stretch of coastline between Cabo San Lucas and San Jose del Cabo — and is a 10-15 minute boat ride from the marina. Shallow depths of 2 to 15 meters make it beginner friendly.
 
 ## Site Information
 
-- **Location**: Los Cabos, North America
+- **Location**: Start of the Corridor, between Cabo San Lucas and San Jose del Cabo
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Typical Visibility**: 10-20 meters
+- **Current**: Usually light
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Spotted eagle rays are the main draw, frequently seen at the cleaning station. Bat rays, pufferfish, Cortez angelfish, and sergeant majors inhabit the rocky areas. Sea turtles pass through occasionally. The sandy patches yield garden eels and stingrays.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+A straightforward dive over mixed sand and rock terrain. Explore the rocky reef areas for ray encounters and cleaning station activity. Maximum depth is only 15 meters, so bottom time is generous. Good site for newer divers to build confidence before progressing to deeper Corridor sites.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+Shallow, calm conditions with minimal hazards. Mild current possible. Boat traffic along the Corridor requires an SMB on ascent.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Dive Cabo](https://www.divecabo.com/dive-sites/), [PADI](https://www.padi.com/dive-sites/mexico/). Last updated 2026-04-05.*

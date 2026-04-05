@@ -11,57 +11,32 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Las Casitas
-
-Las Casitas is a cave dive site in Cabo Pulmo, North America.
+# Las Casitas
 
 ## Overview
-
-Las Casitas is a dive site in Cabo Pulmo featuring underwater cave and cavern formations. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Las Casitas is the only site in Cabo Pulmo National Marine Park dominated by huge rocks, caves, and crevices rather than reef bar topography. The unique highlight here is the beautiful cup corals growing inside the rock formations — a species rarely seen at other park sites and best appreciated with a torch. The "casitas" (little houses) are the rock formations themselves, creating sheltered chambers that harbor marine life. Garden eels extend across the surrounding sand flats, retreating into their burrows as divers approach. The easy depth profile and sheltered conditions make this a popular beginner site despite the cave-like structure.
 
 ## Site Information
-
-- **Location**: Cabo Pulmo, North America
-- **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Location**: Cabo Pulmo National Marine Park, Baja California Sur
+- **Entry Type**: Boat dive (5-10 min from Cabo Pulmo village)
+- **Site Type**: Cave/rock formations
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Typical Visibility**: 10-25 meters
+- **Current**: Generally mild
+- **Best Time**: Year-round
 
 ## Marine Life
-
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+Cup corals (inside rock formations), garden eels on surrounding sand, tropical reef fish sheltering in caves and crevices. The rock formations create microhabitats distinct from the park's reef bar sites.
 
 ## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Maximum depth of 15 meters. Navigate between and through the rock formations, peering into caves and crevices. No overhead environment diving certification required — the formations are open cavern-style with visible exits. Approach the sand flats slowly to observe garden eels. The 45-minute park dive limit applies.
 
 ## Tips and Recommendations
-
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+- Bring a torch to illuminate the cup corals inside the rock formations — the highlight of this site
+- Move slowly near the sand flats for garden eel observation
+- The sheltered rock formations make this a good choice on days with current at outer sites
+- Despite the "cave" site type, this is open cavern diving suitable for beginners
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Cabo Pulmo National Park](https://cabopulmonationalpark.com/dive-sites/), [Cabo Pulmo Diving](https://cabopulmodiving.com/), [Adventures in Baja](https://adventuresinbaja.com/). Last updated 2026-04-05.*

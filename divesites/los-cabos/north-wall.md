@@ -13,55 +13,30 @@ addedBy: osm_import
 
 ## North Wall
 
-North Wall is a wall dive site in Los Cabos, North America.
-
-## Overview
-
-North Wall is a dive site in Los Cabos featuring a dramatic vertical wall that drops into the deep blue. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+A rock-covered slope with layers of hidden life. The dive begins over a shallow sandy bottom where colonies of garden eels sway in the current. At around 12 meters, large boulders appear, sheltering moray eels, lobsters, scorpionfish, and pufferfish. The rocks give way to a cliff face at 27 meters. Seasonal seahorses have been spotted in the shallower sections. One of the better night dive sites in the marine park. Depths from 6 to 27 meters.
 
 ## Site Information
 
-- **Location**: Los Cabos, North America
+- **Location**: Cabo San Lucas Marine Park
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Wall / slope
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 27 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Typical Visibility**: 10-20 meters
+- **Current**: Usually mild
+- **Best Time**: Year-round; night dives particularly rewarding
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Garden eels carpet the sandy shallows. Green moray eels, spiny lobsters, spotted scorpionfish, and guineafowl pufferfish live among the boulders. Seahorses appear seasonally in the shallower rocky areas. At night, octopus, crabs, and basket starfish emerge, making this an excellent night dive destination.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-27 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Excellent site for newer divers — calm conditions and easy navigation
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+Start in the sandy shallows at 6 meters to observe garden eels, then move over the boulder field at 12 meters. Continue to the cliff edge at 27 meters if your certification and air supply allow. Reverse course along the same path. The varied topography makes this site interesting at every depth, so it works well for both beginners staying shallow and experienced divers exploring the wall.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+Mild conditions make this suitable for beginners, though the cliff drops deep beyond the 27-meter mark. Scorpionfish blend into the rocks — avoid placing hands on the substrate. For night dives, carry a primary and backup light.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Dive Cabo](https://www.divecabo.com/dive-sites/), [PADI](https://www.padi.com/dive-sites/mexico/). Last updated 2026-04-05.*

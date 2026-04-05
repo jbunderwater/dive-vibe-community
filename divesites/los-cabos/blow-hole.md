@@ -13,54 +13,30 @@ addedBy: osm_import
 
 ## Blow Hole
 
-Blow Hole is a pinnacle dive site in Los Cabos, North America.
-
-## Overview
-
-Blow Hole is a dive site in Los Cabos offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Named for a small blowhole on the nearby shore. The underwater terrain features massive boulders and deep crevices. The backside of a huge rock formation creates a wall covered in gorgonian sea fans. Schools of jacks swirl around the pinnacles, and pufferfish, green sea turtles, nurse sharks, and guitarfish are reported here. Depths range from 12 to 30 meters.
 
 ## Site Information
 
-- **Location**: Los Cabos, North America
+- **Location**: The Corridor, between Cabo San Lucas and San Jose del Cabo
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle / boulders
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Typical Visibility**: 10-25 meters
+- **Current**: Moderate — can be strong
+- **Best Time**: July to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Dense schools of bigeye jacks are a highlight. Gorgonian sea fans cover the rock walls. Green sea turtles, guineafowl pufferfish, and large groupers are common. Nurse sharks and guitarfish are occasionally spotted resting on the sand between boulders. Look in the crevices for moray eels and lobsters.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Descend among the boulders and navigate through the crevices and overhangs. The gorgonian-covered wall on the backside of the main rock is the centerpiece — spend time here before exploring the surrounding boulder field. Depth varies significantly across the site, so watch your gauge when moving between features.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+Current can be strong, especially on the exposed side of the rock formations. The boulder terrain creates overhead-like environments in places — maintain good buoyancy and avoid entering tight spaces without proper training. Intermediate certification recommended.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Dive Cabo](https://www.divecabo.com/dive-sites/), [PADI](https://www.padi.com/dive-sites/mexico/). Last updated 2026-04-05.*

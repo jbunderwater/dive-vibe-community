@@ -13,55 +13,30 @@ addedBy: osm_import
 
 ## El Salinar Shipwreck
 
-El Salinar Shipwreck is a historic wreck dive in Los Cabos, North America.
-
-## Overview
-
-El Salinar Shipwreck is a dive site in Los Cabos featuring the wreck of the El Salinar Shipwreck. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+A mysterious shipwreck of unknown origin split into three large sections resting on a sandy bottom near San Jose del Cabo. The wreck has been thoroughly colonized by marine life and coral growth, creating an artificial reef teeming with fish. The shallow depth of 12 meters maximum and calm conditions make it accessible to all certification levels. The wreck sections and surrounding sand offer good macro photography subjects.
 
 ## Site Information
 
-- **Location**: Los Cabos, North America
+- **Location**: Near San Jose del Cabo
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Typical Visibility**: 10-20 meters
+- **Current**: Usually light
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck structure attracts schools of grunts, snappers, and sergeant majors. Moray eels occupy holes in the corroded hull. The sandy bottom around the wreck sections hosts garden eels and various flatfish. Coral encrustation on the metal surfaces supports nudibranchs and small crustaceans — good macro territory.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 12 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
+Visit each of the three wreck sections in sequence, starting with the largest. The sections are spread across a sandy bottom, so navigation between them is straightforward. Spend time examining the coral growth and marine life that has colonized the hull. The shallow depth allows extended bottom time for photography. External exploration only — the wreck structure is not suitable for penetration.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+Shallow, calm site with minimal hazards. The wreck's corroded metal can have sharp edges — maintain neutral buoyancy and avoid contact. No penetration should be attempted.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Dive Cabo](https://www.divecabo.com/dive-sites/), [PADI](https://www.padi.com/dive-sites/mexico/). Last updated 2026-04-05.*

@@ -11,56 +11,31 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Las Navajas
-
-Las Navajas is a reef dive site in Cabo Pulmo, North America.
+# Las Navajas
 
 ## Overview
-
-Las Navajas is a dive site in Cabo Pulmo offering rewarding diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Las Navajas features deep canyons and dramatic rock formations within Cabo Pulmo National Marine Park. The site is known for shark and ray encounters — reef sharks patrol the canyon edges and rays rest on the sandy bottom between formations. Parts of the site are shallow enough for snorkeling, making it one of the park's more versatile locations. The canyon topography creates sheltered areas where marine life congregates, and the varied depth profile offers something at every level down to 15 meters.
 
 ## Site Information
-
-- **Location**: Cabo Pulmo, North America
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Location**: Cabo Pulmo National Marine Park, Baja California Sur
+- **Entry Type**: Boat dive (5-10 min from Cabo Pulmo village)
+- **Site Type**: Reef with canyons
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Typical Visibility**: 10-25 meters
+- **Current**: Mild to moderate
+- **Best Time**: Year-round
 
 ## Marine Life
-
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Reef sharks, rays, tropical reef fish in the canyon formations. The combination of rock structure and sand channels creates habitat variety that supports both pelagic visitors and resident reef species.
 
 ## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Canyon topography from shallow sections (suitable for snorkeling) down to 15 meters. Navigate through the rock formations and along canyon walls, checking sandy areas between structures for resting rays. The 45-minute park dive limit applies.
 
 ## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+- Good site for combining a dive and snorkel on the same visit
+- Check canyon floors and overhangs for resting sharks and rays
+- Relatively sheltered — a good option when conditions are rough at outer sites
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Cabo Pulmo National Park](https://cabopulmonationalpark.com/dive-sites/), [Cabo Pulmo Diving](https://cabopulmodiving.com/), [Adventures in Baja](https://adventuresinbaja.com/). Last updated 2026-04-05.*

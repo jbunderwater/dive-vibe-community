@@ -11,57 +11,31 @@ osmId: null
 addedBy: osm_import
 ---
 
-## El Islote
-
-El Islote is a pinnacle dive site in Cabo Pulmo, North America.
+# El Islote
 
 ## Overview
-
-El Islote is a dive site in Cabo Pulmo offering excellent diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+El Islote is a seamount and rock island at the southern end of the park, rising from the sandy seabed with abundant coral growth and sea fans covering its slopes. The rock drops dramatically to a sandy bottom where boulder formations create sheltered pockets for tropical fish and moray eels. Seasonal jack aggregations pass through, connecting this southern site to the larger schooling phenomena of the park's central reef system. The relatively easy conditions and diverse scenery make El Islote one of the best beginner sites in Cabo Pulmo, while still delivering the marine life encounters the park is known for.
 
 ## Site Information
-
-- **Location**: Cabo Pulmo, North America
-- **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Location**: Cabo Pulmo National Marine Park, Baja California Sur (southern end)
+- **Entry Type**: Boat dive (5-10 min from Cabo Pulmo village)
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Typical Visibility**: 10-25 meters
+- **Current**: Generally mild
+- **Best Time**: Year-round
 
 ## Marine Life
-
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Sea fans, diverse hard corals, moray eels, tropical reef fish sheltering in boulder formations, seasonal bigeye trevally aggregations. The rocky structure and sand interface create varied habitat supporting both reef-dwelling and sand-dwelling species.
 
 ## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Circle the seamount from shallow coral areas down to the sandy base at 18 meters. The boulder formations at the base are worth exploring for morays and sheltering fish. Conditions are generally calm, making this suitable for newer divers. The 45-minute park dive limit applies.
 
 ## Tips and Recommendations
-
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+- Good first-dive-of-the-trip site to get comfortable before deeper park sites
+- Check the boulder formations at the base for moray eels
+- Sea fans on the upper slopes make excellent wide-angle subjects with blue water backgrounds
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Cabo Pulmo National Park](https://cabopulmonationalpark.com/dive-sites/), [Cabo Pulmo Diving](https://cabopulmodiving.com/), [Adventures in Baja](https://adventuresinbaja.com/). Last updated 2026-04-05.*

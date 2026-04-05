@@ -11,57 +11,32 @@ osmId: null
 addedBy: osm_import
 ---
 
-## El Cantil
-
-El Cantil is a wall dive site in Cabo Pulmo, North America.
+# El Cantil
 
 ## Overview
-
-El Cantil is a dive site in Cabo Pulmo featuring a dramatic vertical wall that drops into the deep blue. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+El Cantil is the largest reef system in Cabo Pulmo National Marine Park, starting near the beach and extending roughly two miles offshore across a width of about 40 yards. The topography resembles rolling hills of hard and soft coral, cut through with miniature canyons, walls, caves, ledges, and swim-throughs. Whitetip and blacktip reef sharks are common residents, and nurse sharks rest under the ledges. The site is divided into North and South sections plus "El Cantilito," a smaller adjacent area. The sheer variety of structure — from shallow coral gardens to deeper wall sections — makes El Cantil one of the park's most frequently dived and most rewarding sites.
 
 ## Site Information
-
-- **Location**: Cabo Pulmo, North America
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Location**: Cabo Pulmo National Marine Park, Baja California Sur
+- **Entry Type**: Boat dive (5-10 min from Cabo Pulmo village)
+- **Site Type**: Wall with reef, caves, and swim-throughs
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Typical Visibility**: 10-25 meters
+- **Current**: Mild to moderate
+- **Best Time**: Year-round
 
 ## Marine Life
-
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Whitetip reef sharks, blacktip reef sharks, nurse sharks, diverse hard and soft corals, tropical reef fish throughout the canyon and cave structures. The extensive reef area supports high fish density and variety.
 
 ## Dive Profile
-
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-15 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Depths range from 8 to 15 meters. Guides typically choose either the North or South section per dive, navigating through the miniature canyons and swim-throughs. The rolling coral hills make for natural multi-level profiles. The 45-minute park dive limit applies.
 
 ## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+- Ask your guide which section they plan to dive — each has a different character
+- Peer into ledges and overhangs for resting nurse sharks
+- The swim-throughs are wide enough for comfortable passage but maintain buoyancy control
+- One of the best sites in the park for repeat visits — hard to see it all in one dive
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Cabo Pulmo National Park](https://cabopulmonationalpark.com/dive-sites/), [Cabo Pulmo Diving](https://cabopulmodiving.com/), [Adventures in Baja](https://adventuresinbaja.com/). Last updated 2026-04-05.*

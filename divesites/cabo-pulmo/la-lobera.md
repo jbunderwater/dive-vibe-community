@@ -11,57 +11,32 @@ osmId: null
 addedBy: osm_import
 ---
 
-## La Lobera
-
-La Lobera is a reef dive site in Cabo Pulmo, North America.
+# La Lobera
 
 ## Overview
-
-La Lobera is a dive site in Cabo Pulmo offering excellent diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+La Lobera sits near Los Frailes at the southern end of the park and is home to a resident sea lion colony. The playful pinnipeds are the main attraction — they regularly approach divers, spinning and darting through the water column in close proximity. At just 8 meters maximum depth, this is the shallowest and most accessible dive site in Cabo Pulmo. Tropical fish populate the rocky substrate around the sea lion haul-out, and seasonal whale sightings (humpbacks, December through March) add to the spectacle. The combination of shallow depth, minimal current, and guaranteed animal interaction makes La Lobera the park's most popular introductory dive.
 
 ## Site Information
-
-- **Location**: Cabo Pulmo, North America
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Location**: Cabo Pulmo National Marine Park, near Los Frailes (southern end)
+- **Entry Type**: Boat dive (10-15 min from Cabo Pulmo village)
+- **Site Type**: Rocky reef with sea lion colony
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 8 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Typical Visibility**: 10-25 meters
+- **Current**: Minimal
+- **Best Time**: Year-round for sea lions; December-March for whale sightings
 
 ## Marine Life
-
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Resident California sea lion colony (interactive with divers), tropical reef fish, seasonal humpback whale sightings from the surface and audible underwater. The sea lions are the star attraction.
 
 ## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 8 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-8 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Very shallow — 8 meters maximum. Most of the dive is spent in 3-6 meters of water near the sea lion colony. Let the sea lions come to you. The 45-minute park dive limit applies, though air consumption at this depth is minimal.
 
 ## Tips and Recommendations
-
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+- Do not chase or touch the sea lions — they will approach on their own
+- Wide-angle lens recommended for sea lion portraits and interaction shots
+- Also excellent as a snorkeling site
+- Often scheduled as the final dive of the day due to its shallow, relaxing profile
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Cabo Pulmo National Park](https://cabopulmonationalpark.com/dive-sites/), [Cabo Pulmo Diving](https://cabopulmodiving.com/), [Adventures in Baja](https://adventuresinbaja.com/). Last updated 2026-04-05.*

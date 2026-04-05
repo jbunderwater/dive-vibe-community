@@ -11,57 +11,31 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Los Chopitos
-
-Los Chopitos is a reef dive site in Cabo Pulmo, North America.
+# Los Chopitos
 
 ## Overview
-
-Los Chopitos is a dive site in Cabo Pulmo offering excellent diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Los Chopitos is a shallow reef site in Cabo Pulmo best suited for macro diving and newer divers. At just 10 meters maximum depth, the site lacks the pelagic drama of the park's outer reefs but compensates with small fish, invertebrates, and detailed reef life that rewards patient observation. The shallow depth and generally calm conditions make it a reliable site for training dives, discovery dives, and photographers focused on small subjects. Named for the small cuttlefish ("chopitos") found in the area, the site offers a different pace from the park's big-animal encounters.
 
 ## Site Information
-
-- **Location**: Cabo Pulmo, North America
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Location**: Cabo Pulmo National Marine Park, Baja California Sur
+- **Entry Type**: Boat dive (5 min from Cabo Pulmo village)
+- **Site Type**: Shallow reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Typical Visibility**: 10-25 meters
+- **Current**: Generally mild
+- **Best Time**: Year-round
 
 ## Marine Life
-
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Small reef fish, invertebrates, nudibranchs, small cephalopods, juvenile fish in the coral structure. A macro diver's site rather than a pelagic site.
 
 ## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 10 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-10 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Shallow reef diving to 10 meters. The easy depth profile allows long bottom times within the 45-minute park limit. Navigate along the reef structure looking for small life in coral crevices and on rubble patches.
 
 ## Tips and Recommendations
-
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+- Macro lens recommended — this is where the small stuff lives
+- Good training dive site for new divers before progressing to deeper park sites
+- Calm conditions make this a reliable option when outer sites have strong current
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Cabo Pulmo National Park](https://cabopulmonationalpark.com/dive-sites/), [Cabo Pulmo Diving](https://cabopulmodiving.com/), [Adventures in Baja](https://adventuresinbaja.com/). Last updated 2026-04-05.*

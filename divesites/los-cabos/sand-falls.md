@@ -13,55 +13,30 @@ addedBy: osm_import
 
 ## Sand Falls
 
-Sand Falls is a wall dive site in Los Cabos, North America.
-
-## Overview
-
-Sand Falls is a dive site in Los Cabos featuring a dramatic vertical wall that drops into the deep blue. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+Featured in Jacques Cousteau's television series, Sand Falls is one of the most unique underwater features in the world. Streams of sand cascade down a chute and over the edge of a submarine canyon that drops to over 365 meters. The visual effect resembles an underwater waterfall. The site sits near Pelican Rock at the canyon rim, with the sand rivers beginning around 27 meters and the main viewing depth at 30-40 meters.
 
 ## Site Information
 
-- **Location**: Los Cabos, North America
+- **Location**: Cabo San Lucas Marine Park, canyon edge near Pelican Rock
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Wall / canyon
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Typical Visibility**: 15-30 meters
+- **Current**: Variable — can be strong at the canyon edge
+- **Best Time**: July to October for best visibility
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The sandy canyon edge attracts garden eels and jawfish. Larger species cruise the blue water off the wall, including spotted eagle rays and occasional mobula rays. The rocky areas above the sand chutes host moray eels, sea fans, and groupers.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+This is a deep dive requiring Advanced certification and good air management. Descend along the Pelican Rock reef slope to the canyon edge at approximately 27 meters. The sand rivers are visible from here, cascading over the lip into the abyss. Bottom time at 35-40 meters is limited — plan conservatively and begin your ascent with ample reserve. Nitrox is recommended.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+Depth is the primary hazard. The canyon drops to over 365 meters and narcosis can impair judgment at these depths. Strong currents can develop along the canyon edge. This site is not suitable for inexperienced divers. Carry an SMB and dive computer, and agree on maximum depth and turn pressure before descending.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Dive Cabo](https://www.divecabo.com/dive-sites/), [PADI](https://www.padi.com/dive-sites/mexico/). Last updated 2026-04-05.*

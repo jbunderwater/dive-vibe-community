@@ -13,55 +13,30 @@ addedBy: osm_import
 
 ## Santa Maria Bay
 
-Santa Maria Bay is a reef dive site in Los Cabos, North America.
-
-## Overview
-
-Santa Maria Bay is a dive site in Los Cabos offering excellent diving on healthy coral reef structures. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
+A protected horseshoe-shaped cove designated as a marine sanctuary. Shallow coral gardens fill the bay, providing easy, sheltered diving in calm water. Sea fans, moray eels, octopus, and a variety of tropical reef fish inhabit the rocky reef. Bat rays and butterfly rays cruise the sandy areas. Depths range from 6 to 18 meters, making it one of the most accessible sites along the Corridor.
 
 ## Site Information
 
-- **Location**: Los Cabos, North America
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Location**: The Corridor, marine sanctuary
+- **Entry Type**: Boat dive (also snorkeling from beach)
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
+- **Typical Visibility**: 10-20 meters
+- **Current**: Minimal — protected cove
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea lions, harbor seals, garibaldi, sheephead, kelp bass, giant sea bass, bat rays, horn sharks. Additional species commonly sighted include giant kelp, sea urchins, anemones, nudibranchs.
+Coral gardens support Cortez angelfish, king angelfish, sergeant majors, wrasses, and damselfish. Moray eels and octopus hide in the reef structure. Bat rays and butterfly rays are frequently seen over the sand. The protected status keeps the reef in good condition and fish life abundant.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+A gentle reef dive with no significant hazards. Explore the coral garden in the center of the cove, then work along the rocky edges where moray eels and octopus shelter. The horseshoe shape of the bay means you can make a loop and return near your entry point. Excellent for training dives and underwater photography.
 
 ## Safety Considerations
 
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+One of the calmest and most protected sites in Los Cabos. Suitable for all levels including discover scuba participants. Minimal current and surge. Snorkelers share the bay, so watch for swimmers on ascent.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Dive Cabo](https://www.divecabo.com/dive-sites/), [PADI](https://www.padi.com/dive-sites/mexico/). Last updated 2026-04-05.*
