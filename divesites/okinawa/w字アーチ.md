@@ -11,57 +11,40 @@ osmId: 9280279109
 addedBy: osm_import
 ---
 
-## W字アーチ
+## W字アーチ (W Arch)
 
-W字アーチ is a cave dive site in Okinawa, Asia.
+A shallow, beginner-friendly topographical site on Irabu Island featuring twin arches at the reef edge. The main arch forms a heart shape when viewed from below at certain angles, making this one of Miyako's most-photographed dive sites.
 
 ## Overview
 
-W字アーチ is a dive site in Okinawa featuring underwater cave and cavern formations . Position estimated / 位置推定. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+W Arch is the gentlest introduction to Miyako-jima's famous topographical diving. Two adjacent arches at the reef edge create a distinctive W-shape when viewed from the side. From below, the main arch frames a heart-shaped opening against the blue water above -- a romantic image that appears on countless Okinawa diving brochures. Behind the arches, a small cave harbours macro life. The 18-metre maximum depth and relatively simple layout make this ideal for Open Water divers wanting their first taste of Miyako's underwater architecture.
 
 ## Site Information
 
-- **Location**: Okinawa, Asia
+- **Location**: Irabu Island, Miyako-jima, Okinawa Prefecture, Japan
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 20-40 metres
+- **Current**: Variable
+- **Best Time**: Year-round; wind-dependent (needs calm seas on the Irabu side)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+Longnose hawkfish perch in the arch crevices. Shrimp, crabs, and nudibranchs populate the small cave behind the arches. The surrounding reef hosts anthias, butterflyfish, and damselfish. Moray eels are common in the rock holes.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Descend to the reef at 10-15 metres and swim to the twin arches. Position below the main arch to see the heart shape overhead. Explore the small cave behind the arches for macro life, then cruise the surrounding reef during your ascent. The shallow depth allows extended bottom time.
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Suitable for Open Water divers. Moderate current is possible. The arches are open and well-lit -- no overhead environment concerns.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+The heart-shaped arch silhouette is the signature wide-angle shot -- position below and shoot up against the blue. Macro opportunities in the rear cave. Morning light produces the best colours through the arches.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Aquatic Adventure - Irabu Area](https://miyako-aquaticadventure.com/en/irabu.html), [Visit Okinawa - Miyako Diving](https://visitokinawajapan.com/discover/dive-sites-okinawa/miyako-diving/). Last updated 2026-04-05.*

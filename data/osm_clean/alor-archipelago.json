@@ -148,5 +148,23 @@
       "validated": "true",
       "validation_source": "perplexity_and_web_research"
     }
+  },
+  {
+    "name": "Current Alley",
+    "lat": -8.17,
+    "lon": 124.3,
+    "depth": 40,
+    "site_type": "drift",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "alortanapi.com, mokoalordive.com, scubaboard.com",
+    "tags": {
+      "source": "curated",
+      "addedBy": "manual_addition",
+      "validated": "true",
+      "validation_source": "alortanapi.com, mokoalordive.com, scubaboard.com",
+      "alt_names": "Munaseli, Yellow Corner, Tanjung Muna"
+    }
   }
 ]

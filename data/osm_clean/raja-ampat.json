@@ -1339,5 +1339,536 @@
       "sport": "scuba_diving",
       "tourism": "attraction"
     }
+  },
+  {
+    "name": "Andiamo",
+    "lat": -2.09825,
+    "lon": 130.856017,
+    "depth": 30,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "lagaligoliveaboard.com, misool.info, birdsheadseascape.com",
+    "tags": {
+      "source": "curated",
+      "addedBy": "manual_addition",
+      "area": "Misool"
+    }
+  },
+  {
+    "name": "Andy's Ultimate",
+    "lat": -2.123567,
+    "lon": 130.8754,
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "birdsheadseascape.com",
+    "tags": {
+      "source": "curated",
+      "addedBy": "manual_addition",
+      "area": "Misool"
+    }
+  },
+  {
+    "name": "Barracuda Rock",
+    "lat": -2.19535,
+    "lon": 130.42745,
+    "depth": 35,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "allstarliveaboards.com, birdsheadseascape.com",
+    "tags": {
+      "source": "curated",
+      "addedBy": "manual_addition",
+      "area": "Misool"
+    }
+  },
+  {
+    "name": "Boo Point",
+    "lat": -2.222017,
+    "lon": 130.60945,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "divephotoguide.com, misool.info, birdsheadseascape.com",
+    "tags": {
+      "source": "curated",
+      "addedBy": "manual_addition",
+      "area": "Misool"
+    }
+  },
+  {
+    "name": "Boo Windows",
+    "lat": -2.221583,
+    "lon": 130.611667,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "divephotoguide.com, misool.info, birdsheadseascape.com",
+    "tags": {
+      "source": "curated",
+      "addedBy": "manual_addition",
+      "area": "Misool"
+    }
+  },
+  {
+    "name": "Candy Store",
+    "lat": -2.1045,
+    "lon": 130.872683,
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "konjocruisingindonesia.com, birdsheadseascape.com",
+    "tags": {
+      "source": "curated",
+      "addedBy": "manual_addition",
+      "area": "Misool"
+    }
+  },
+  {
+    "name": "Dunia Kecil",
+    "lat": -2.206417,
+    "lon": 130.421167,
+    "depth": 25,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "misool.info, birdsheadseascape.com",
+    "tags": {
+      "source": "curated",
+      "addedBy": "manual_addition",
+      "area": "Misool",
+      "alt_names": "Small World"
+    }
+  },
+  {
+    "name": "Farondi Cave",
+    "lat": -2.004817,
+    "lon": 130.639333,
+    "depth": 30,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "birdsheadseascape.com, lagaligoliveaboard.com",
+    "tags": {
+      "source": "curated",
+      "addedBy": "manual_addition",
+      "area": "Misool"
+    }
+  },
+  {
+    "name": "Four Kings",
+    "lat": -2.208333,
+    "lon": 130.377967,
+    "depth": 30,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "lagaligoliveaboard.com, misool.info, birdsheadseascape.com",
+    "tags": {
+      "source": "curated",
+      "addedBy": "manual_addition",
+      "area": "Misool"
+    }
+  },
+  {
+    "name": "Kaleidoscope",
+    "lat": -2.182417,
+    "lon": 130.215917,
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "birdsheadseascape.com",
+    "tags": {
+      "source": "curated",
+      "addedBy": "manual_addition",
+      "area": "Misool"
+    }
+  },
+  {
+    "name": "Love Potion No 9",
+    "lat": -2.02515,
+    "lon": 130.690617,
+    "depth": 25,
+    "site_type": "drift",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "birdsheadseascape.com",
+    "tags": {
+      "source": "curated",
+      "addedBy": "manual_addition",
+      "area": "Misool"
+    }
+  },
+  {
+    "name": "Macro Rock",
+    "lat": -2.005717,
+    "lon": 130.639183,
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "birdsheadseascape.com",
+    "tags": {
+      "source": "curated",
+      "addedBy": "manual_addition",
+      "area": "Misool",
+      "alt_names": "Grouper Net"
+    }
+  },
+  {
+    "name": "Neptune's Fan Sea",
+    "lat": -2.217283,
+    "lon": 130.450117,
+    "depth": 20,
+    "site_type": "drift",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "birdsheadseascape.com",
+    "tags": {
+      "source": "curated",
+      "addedBy": "manual_addition",
+      "area": "Misool"
+    }
+  },
+  {
+    "name": "No Contest",
+    "lat": -2.0264,
+    "lon": 130.690517,
+    "depth": 30,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "birdsheadseascape.com",
+    "tags": {
+      "source": "curated",
+      "addedBy": "manual_addition",
+      "area": "Misool"
+    }
+  },
+  {
+    "name": "Nudi Rock",
+    "lat": -2.218383,
+    "lon": 130.5656,
+    "depth": 30,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "birdsheadseascape.com, notroublesjustbubbles.com",
+    "tags": {
+      "source": "curated",
+      "addedBy": "manual_addition",
+      "area": "Misool"
+    }
+  },
+  {
+    "name": "Orange Peel",
+    "lat": -2.242267,
+    "lon": 130.3704,
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "birdsheadseascape.com",
+    "tags": {
+      "source": "curated",
+      "addedBy": "manual_addition",
+      "area": "Misool"
+    }
+  },
+  {
+    "name": "Pele's Playground",
+    "lat": -0.14315,
+    "lon": 130.170233,
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "birdsheadseascape.com",
+    "tags": {
+      "source": "curated",
+      "addedBy": "manual_addition",
+      "area": "Raja Ampat North"
+    }
+  },
+  {
+    "name": "Pet Rock",
+    "lat": -2.011167,
+    "lon": 130.688967,
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "birdsheadseascape.com",
+    "tags": {
+      "source": "curated",
+      "addedBy": "manual_addition",
+      "area": "Misool"
+    }
+  },
+  {
+    "name": "Puri Pinnacle",
+    "lat": -2.15555,
+    "lon": 130.585817,
+    "depth": 25,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "birdsheadseascape.com",
+    "tags": {
+      "source": "curated",
+      "addedBy": "manual_addition",
+      "area": "Misool",
+      "alt_names": "Anti-Chovies"
+    }
+  },
+  {
+    "name": "Razorback Ridge",
+    "lat": -2.001,
+    "lon": 130.641917,
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "birdsheadseascape.com",
+    "tags": {
+      "source": "curated",
+      "addedBy": "manual_addition",
+      "area": "Misool"
+    }
+  },
+  {
+    "name": "Tank Rock",
+    "lat": -2.218933,
+    "lon": 130.567717,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "birdsheadseascape.com, allstarliveaboards.com",
+    "tags": {
+      "source": "curated",
+      "addedBy": "manual_addition",
+      "area": "Misool"
+    }
+  },
+  {
+    "name": "Toblerone",
+    "lat": -2.1608,
+    "lon": 130.29115,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "birdsheadseascape.com",
+    "tags": {
+      "source": "curated",
+      "addedBy": "manual_addition",
+      "area": "Misool"
+    }
+  },
+  {
+    "name": "Warna Berwarna",
+    "lat": -2.099367,
+    "lon": 130.8598,
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "birdsheadseascape.com",
+    "tags": {
+      "source": "curated",
+      "addedBy": "manual_addition",
+      "area": "Misool"
+    }
+  },
+  {
+    "name": "Whale Rock",
+    "lat": -2.219383,
+    "lon": 130.5592,
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "birdsheadseascape.com, notroublesjustbubbles.com",
+    "tags": {
+      "source": "curated",
+      "addedBy": "manual_addition",
+      "area": "Misool"
+    }
+  },
+  {
+    "name": "Yillet Kecil",
+    "lat": -2.19595,
+    "lon": 130.610333,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "birdsheadseascape.com",
+    "tags": {
+      "source": "curated",
+      "addedBy": "manual_addition",
+      "area": "Misool"
+    }
+  },
+  {
+    "name": "Kalig Wall",
+    "lat": -2.220117,
+    "lon": 130.5473,
+    "depth": 20,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "svdelos.com dive log",
+    "tags": {
+      "source": "curated",
+      "addedBy": "manual_addition",
+      "area": "Misool"
+    }
+  },
+  {
+    "name": "Barracuda Corner",
+    "lat": -2.220217,
+    "lon": 130.5536,
+    "depth": 28,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "svdelos.com dive log",
+    "tags": {
+      "source": "curated",
+      "addedBy": "manual_addition",
+      "area": "Misool"
+    }
+  },
+  {
+    "name": "Leisure Stroll Reef",
+    "lat": -2.218283,
+    "lon": 130.549667,
+    "depth": 7,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "svdelos.com dive log",
+    "tags": {
+      "source": "curated",
+      "addedBy": "manual_addition",
+      "area": "Misool"
+    }
+  },
+  {
+    "name": "Nudi Bomie",
+    "lat": -2.023283,
+    "lon": 130.679183,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "svdelos.com dive log",
+    "tags": {
+      "source": "curated",
+      "addedBy": "manual_addition",
+      "area": "Misool"
+    }
+  },
+  {
+    "name": "Delos Cove",
+    "lat": -2.0251,
+    "lon": 130.67375,
+    "depth": 17,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "svdelos.com dive log",
+    "tags": {
+      "source": "curated",
+      "addedBy": "manual_addition",
+      "area": "Misool"
+    }
+  },
+  {
+    "name": "Kabui Pass",
+    "lat": -0.431117,
+    "lon": 130.556967,
+    "depth": 15,
+    "site_type": "drift",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "svdelos.com dive log",
+    "tags": {
+      "source": "curated",
+      "addedBy": "manual_addition",
+      "area": "Kabui Bay"
+    }
+  },
+  {
+    "name": "Bullseye Ridge",
+    "lat": -0.565067,
+    "lon": 130.28515,
+    "depth": 22,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "svdelos.com dive log",
+    "tags": {
+      "source": "curated",
+      "addedBy": "manual_addition",
+      "area": "Penemu"
+    }
+  },
+  {
+    "name": "Bullseye Wall",
+    "lat": -0.567367,
+    "lon": 130.285017,
+    "depth": 16,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "svdelos.com dive log",
+    "tags": {
+      "source": "curated",
+      "addedBy": "manual_addition",
+      "area": "Penemu"
+    }
   }
 ]

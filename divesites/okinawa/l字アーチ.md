@@ -2,8 +2,8 @@
 name: L字アーチ
 lat: 24.8666616
 lng: 125.163257
-difficulty: Advanced
-maxDepth: 40
+difficulty: Intermediate
+maxDepth: 35
 entryType: boat
 siteType: cave
 ref: null
@@ -11,56 +11,40 @@ osmId: 9280279110
 addedBy: osm_import
 ---
 
-## L字アーチ
+## L字アーチ (L Arch)
 
-L字アーチ is a cave dive site in Okinawa, Asia.
+Described as having the most dynamic topography on Irabu Island. A large L-shaped hollow and arch formation sits at roughly 20 metres, with the seabed beneath dropping to 35 metres. Giant trevally are almost always present under the arch.
 
 ## Overview
 
-L字アーチ is a dive site in Okinawa featuring underwater cave and cavern formations . Position estimated / 位置推定. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+L Arch delivers Irabu Island's most dramatic underwater scenery. The main feature is a massive L-shaped arch at 20 metres -- the largest single formation on this coast. Below the arch, the bottom drops to 35 metres where giant trevally circle. Beyond the main arch, a connecting cave system offers further exploration for those with remaining air and bottom time. The nearby 'Warp Hole' cave adds macro opportunities with anemonefish and crustaceans.
 
 ## Site Information
 
-- **Location**: Okinawa, Asia
+- **Location**: Irabu Island, Miyako-jima, Okinawa Prefecture, Japan
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Site Type**: Cave/cavern
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 35 meters
+- **Typical Visibility**: 20-40 metres
+- **Current**: Variable
+- **Best Time**: Year-round; wind-dependent
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+Giant trevally are the signature residents, almost always present under the arch. Occasional sightings of manta rays, Napoleon wrasse, sea turtles, whitetip reef sharks, and dogtooth tuna. The cave system harbours anemonefish, shrimp, and crabs. Anthias cloud the arch ceilings.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 40 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Descend to the reef and follow it to the L-shaped arch at 20 metres. Drop below the arch to observe the trevally at 25-35 metres (brief excursion due to depth). Explore the connecting cave system if time permits, then ascend along the reef for safety stop.
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+AOW certification required. The 35-metre depth under the arch demands good gas management. The dynamic topography requires confident buoyancy control. Current can affect the site.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+Wide-angle captures the arch scale with trevally silhouetted against the blue. The L-shape itself is best photographed from the side at a distance. Macro opportunities in the Warp Hole cave section.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Aquatic Adventure - L-Shaped Arch](https://miyako-aquaticadventure.com/en/l-shaped-arch.html), [Oki-Raku - Miyako Dive Spots](https://oki-raku.net/diving/miyako/diving_spot/). Last updated 2026-04-05.*
