@@ -1,7 +1,7 @@
 ---
 name: Punta Maria
-lat: 5.525
-lng: -87.075
+lat: 5.5311
+lng: -87.0912
 difficulty: Advanced
 maxDepth: 37
 entryType: liveaboard

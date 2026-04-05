@@ -1,7 +1,7 @@
 ---
 name: Dirty Rock
-lat: 5.5333
-lng: -87.05
+lat: 5.545
+lng: -87.0852
 difficulty: Advanced
 maxDepth: 35
 entryType: liveaboard

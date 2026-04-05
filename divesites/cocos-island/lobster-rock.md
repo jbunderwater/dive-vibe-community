@@ -1,7 +1,7 @@
 ---
 name: Lobster Rock
-lat: 5.535
-lng: -87.0633
+lat: 5.5501
+lng: -87.032
 difficulty: Advanced
 maxDepth: 37
 entryType: liveaboard

@@ -1,7 +1,7 @@
 ---
 name: Manuelita Inside
-lat: 5.56
-lng: -87.0467
+lat: 5.5611
+lng: -87.0469
 difficulty: Advanced
 maxDepth: 22
 entryType: liveaboard
