@@ -1,7 +1,7 @@
 ---
 name: Anita's Reef
-lat: 8.56
-lng: 97.635
+lat: 8.5717
+lng: 97.6472
 difficulty: Intermediate
 maxDepth: 28
 entryType: liveaboard

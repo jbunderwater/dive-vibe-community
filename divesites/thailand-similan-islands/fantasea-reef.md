@@ -1,7 +1,7 @@
 ---
 name: Fantasea Reef
-lat: 8.6
-lng: 97.645
+lat: 8.6560
+lng: 97.6365
 difficulty: Intermediate
 maxDepth: 40
 entryType: liveaboard

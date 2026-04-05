@@ -1,7 +1,7 @@
 ---
 name: Christmas Point
-lat: 8.68
-lng: 97.62
+lat: 8.6808
+lng: 97.6372
 difficulty: Advanced
 maxDepth: 40
 entryType: liveaboard

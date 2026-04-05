@@ -1,7 +1,7 @@
 ---
 name: Koh Tachai Pinnacle
-lat: 9.13
-lng: 97.83
+lat: 9.0576
+lng: 97.8134
 difficulty: Advanced
 maxDepth: 45
 entryType: liveaboard

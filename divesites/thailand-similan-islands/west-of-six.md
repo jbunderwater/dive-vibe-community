@@ -1,7 +1,7 @@
 ---
 name: West of Six
-lat: 8.64
-lng: 97.61
+lat: 8.5911
+lng: 97.6350
 difficulty: Intermediate
 maxDepth: 30
 entryType: liveaboard

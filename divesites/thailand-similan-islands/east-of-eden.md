@@ -1,7 +1,7 @@
 ---
 name: East of Eden
-lat: 8.59
-lng: 97.66
+lat: 8.5931
+lng: 97.6406
 difficulty: Intermediate
 maxDepth: 40
 entryType: liveaboard

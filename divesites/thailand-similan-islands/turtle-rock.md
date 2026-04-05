@@ -1,7 +1,7 @@
 ---
 name: Turtle Rock
-lat: 8.63
-lng: 97.65
+lat: 8.6636
+lng: 97.6377
 difficulty: Beginner
 maxDepth: 25
 entryType: liveaboard

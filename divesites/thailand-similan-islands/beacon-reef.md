@@ -1,7 +1,7 @@
 ---
 name: Beacon Reef
-lat: 8.62
-lng: 97.655
+lat: 8.6305
+lng: 97.6532
 difficulty: Beginner
 maxDepth: 30
 entryType: liveaboard
