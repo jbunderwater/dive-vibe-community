@@ -1,7 +1,7 @@
 ---
 name: Gili Mimpang
-lat: -8.526092
-lng: 115.576321
+lat: -8.5262222
+lng: 115.5757778
 difficulty: Advanced
 maxDepth: 25
 entryType: boat

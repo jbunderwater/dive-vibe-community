@@ -1,7 +1,7 @@
 ---
 name: Gili Tepekong North
-lat: -8.5311955
-lng: 115.5858269
+lat: -8.5326111
+lng: 115.58425
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat

@@ -154,5 +154,17 @@
     "siteType": "reef",
     "ref": "",
     "osmId": null
+  },
+  {
+    "name": "Lighthouse Reef",
+    "filename": "lighthouse-reef.md",
+    "lat": -8.13,
+    "lng": 119.1,
+    "difficulty": "Beginner",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "muck",
+    "ref": "",
+    "osmId": null
   }
 ]

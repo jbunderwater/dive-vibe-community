@@ -1,7 +1,7 @@
 ---
 name: Crystal Bay
-lat: -8.7155168
-lng: 115.4574864
+lat: -8.7154444
+lng: 115.4561667
 difficulty: Advanced
 maxDepth: 40
 entryType: boat
