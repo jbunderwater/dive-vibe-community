@@ -37,15 +37,12 @@
   },
   {
     "name": "Hermes",
+    "lat": "32.35",
+    "lng": "-64.7833",
     "filename": "hermes.md",
-    "lat": 32.35,
-    "lng": -64.7833,
+    "addedBy": "osm_import",
     "difficulty": "Intermediate",
-    "maxDepth": 24,
-    "entryType": "boat",
-    "siteType": "wreck",
-    "ref": "",
-    "osmId": null
+    "maxDepth": "24"
   },
   {
     "name": "King George",
