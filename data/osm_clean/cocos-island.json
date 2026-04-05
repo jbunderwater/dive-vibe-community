@@ -1,8 +1,8 @@
 [
   {
     "name": "Bajo Alcyone",
-    "lat": 5.5167,
-    "lon": -87.0667,
+    "lat": 5.509,
+    "lon": -87.023,
     "osm_id": null,
     "osm_type": null,
     "depth": 40,
@@ -18,8 +18,8 @@
   },
   {
     "name": "Dirty Rock",
-    "lat": 5.5333,
-    "lon": -87.05,
+    "lat": 5.545,
+    "lon": -87.0852,
     "osm_id": null,
     "osm_type": null,
     "depth": 35,
@@ -35,8 +35,8 @@
   },
   {
     "name": "Manuelita Outside",
-    "lat": 5.5583,
-    "lon": -87.05,
+    "lat": 5.5628,
+    "lon": -87.0483,
     "osm_id": null,
     "osm_type": null,
     "depth": 35,
@@ -52,8 +52,8 @@
   },
   {
     "name": "Manuelita Inside",
-    "lat": 5.56,
-    "lon": -87.0467,
+    "lat": 5.5611,
+    "lon": -87.0469,
     "osm_id": null,
     "osm_type": null,
     "depth": 22,
@@ -69,8 +69,8 @@
   },
   {
     "name": "Punta Maria",
-    "lat": 5.525,
-    "lon": -87.075,
+    "lat": 5.5311,
+    "lon": -87.0912,
     "osm_id": null,
     "osm_type": null,
     "depth": 37,
@@ -86,8 +86,8 @@
   },
   {
     "name": "Silverado",
-    "lat": 5.5417,
-    "lon": -87.0583,
+    "lat": 5.5452,
+    "lon": -87.0308,
     "osm_id": null,
     "osm_type": null,
     "depth": 13,
@@ -103,8 +103,8 @@
   },
   {
     "name": "Viking Rock",
-    "lat": 5.55,
-    "lon": -87.0417,
+    "lat": 5.5501,
+    "lon": -87.0647,
     "osm_id": null,
     "osm_type": null,
     "depth": 40,
@@ -120,8 +120,8 @@
   },
   {
     "name": "Lobster Rock",
-    "lat": 5.535,
-    "lon": -87.0633,
+    "lat": 5.5501,
+    "lon": -87.032,
     "osm_id": null,
     "osm_type": null,
     "depth": 37,
