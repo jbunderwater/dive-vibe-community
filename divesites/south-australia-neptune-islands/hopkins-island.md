@@ -1,7 +1,7 @@
 ---
 name: Hopkins Island
-lat: -35.2
-lng: 136.04
+lat: -35.17
+lng: 136.08
 difficulty: Intermediate
 maxDepth: 15
 entryType: boat

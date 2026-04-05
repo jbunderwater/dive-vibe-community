@@ -1,7 +1,7 @@
 ---
 name: Silverado
-lat: 5.5417
-lng: -87.0583
+lat: 5.5452
+lng: -87.0308
 difficulty: Advanced
 maxDepth: 13
 entryType: liveaboard

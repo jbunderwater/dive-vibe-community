@@ -17,13 +17,13 @@ addedBy: osm_import
 
 ## Overview
 
-The Transpacific is a shallow shore-accessible wreck resting in just 10 meters off the coast of Saint-Pierre, sunk in May 1971 and now a popular dive site for the Saint-Pierre diving community. The vessel's shallow depth and easy shore entry make it one of the most accessible wrecks in the region, though the cold Atlantic water — rarely above 14°C in summer — still demands thermal protection. The hull has become well-colonised by cold-water invertebrates, and the shallow depth allows extended bottom times to explore the structure thoroughly.
+Épave du Transpacific is a dive site in Newfoundland featuring the wreck of the Épave du Transpacific which sank in 1971-05-18. Located in the North America region, this site offers 5-25 meters of visibility with water temperatures averaging 7-24°C.
 
 ## Site Information
 
 - **Location**: Newfoundland, North America
 - **Entry Type**: Shore entry
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 10 meters
 - **Typical Visibility**: 5-25 meters (15-80 feet)
@@ -32,7 +32,7 @@ The Transpacific is a shallow shore-accessible wreck resting in just 10 meters o
 
 ## Marine Life
 
-The Transpacific's well-colonised hull hosts dense clusters of cold-water anemones, sea urchins, and horse mussels, with cunner and Atlantic cod moving freely through the structure. Northern lobster shelter beneath hull plating, and sea ravens and winter flounder are regularly encountered on the sandy seabed around the wreck's base.
+Divers at this site can expect to encounter lingcod, rockfish, cabezon, wolf eels, sea lions, harbor seals, garibaldi, sheephead. Additional species commonly sighted include kelp bass, giant sea bass. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
@@ -59,5 +59,9 @@ Be aware of cold water, surge, limited visibility in this area. Dive within your
 
 The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
 
+## Additional Resources
+
+- **Last Updated**: 2026-04-05
+
 ---
-*Sources: [Ocean Quest Adventures - Newfoundland Diving](https://oceanquestadventures.com/), [Scuba Diving Magazine - Diving Newfoundland and Eastern Canada](https://www.scubadiving.com/scuba-diving-newfoundland-and-eastern-canada), [East Coast Scuba - Dive Newfoundland](https://www.eastcoastscuba.com/dive-newfoundland), [Tech Dive Travels - Newfoundland Canada](https://techdivetravels.com/country-profile/newfoundland-canada/), [PADI - Diving in Newfoundland and Labrador](https://www.padi.com/diving-in/newfoundland-labrador/). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*

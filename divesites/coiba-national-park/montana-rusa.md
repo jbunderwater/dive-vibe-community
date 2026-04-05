@@ -1,7 +1,7 @@
 ---
-name: Montaña Rusa
-lat: 7.45
-lng: -81.82
+name: Montana Rusa
+lat: 7.9066
+lng: -81.8167
 difficulty: Advanced
 maxDepth: 40
 entryType: boat
@@ -11,17 +11,17 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Montaña Rusa
+## Montana Rusa
 
-Montaña Rusa (Roller Coaster) is a deep, technical pinnacle dive featuring dramatic underwater canyons and valleys with severe currents and intense pelagic action—considered the deepest and most challenging site in Coiba's rotation.
+Montana Rusa (Roller Coaster) is a deep, technical pinnacle dive featuring dramatic underwater canyons and valleys with severe currents and intense pelagic action—considered the deepest and most challenging site in Coiba's rotation.
 
 ## Overview
 
-Montaña Rusa features dramatic pinnacles and underwater canyons in open Pacific waters, with depths reaching 35-40 meters. This exposed, technical site experiences strong, sometimes severe currents that sweep through channels, bringing abundant schooling fish and pelagic action. Oceanic blacktip sharks (larger than reef sharks), white-tip reef sharks, bull sharks, hammerheads, and black-tip reef sharks patrol the site alongside massive fish schools (barracuda, bigeye jacks, bluefin trevallies, dog snappers) and baitballs. Only for Expert+ divers or Advanced divers on acclimated multi-day liveaboards. Water temperatures 24-28°C; visibility 15-25 meters typically.
+Montana Rusa features dramatic pinnacles and underwater canyons in open Pacific waters, with depths reaching 35-40 meters. This exposed, technical site experiences strong, sometimes severe currents that sweep through channels, bringing abundant schooling fish and pelagic action. Oceanic blacktip sharks (larger than reef sharks), white-tip reef sharks, bull sharks, hammerheads, and black-tip reef sharks patrol the site alongside massive fish schools (barracuda, bigeye jacks, bluefin trevallies, dog snappers) and baitballs. Only for Expert+ divers or Advanced divers on acclimated multi-day liveaboards. Water temperatures 24-28°C; visibility 15-25 meters typically.
 
 ## Site Information
 
-- **Location**: Open Pacific, Coiba area, Panama
+- **Location**: Contreras area, northern Coiba National Park, Panama
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
@@ -77,4 +77,4 @@ Boat anchors on pinnacle top. Entry via giant stride or controlled descent befor
 *Dive site information researched March 2026. Updated with deep-technical and pelagic encounter data for Coiba's most advanced site.*
 
 ---
-*Sources: [Scuba Coiba - The Original Dive Center](https://scubacoiba.com/), [Panama Dive Center - Coiba National Park](https://panamadivecenter.com/), [Coiba Dive Center](https://coibadivecenter.com/), [Coiba Island - Best Diving Sites](https://coiba-island.com/best-diving-sites-coiba-island-panama/), [The Ark Divers - Scuba Diving in Coiba National Park](https://www.thearkdivers.com/dive). Last updated 2026-04-04.*
+*Sources: [Scuba Coiba - The Original Dive Center](https://scubacoiba.com/), [Panama Dive Center - Coiba National Park](https://panamadivecenter.com/), [Coiba Dive Center](https://coibadivecenter.com/), [Coiba Island - Best Diving Sites](https://coiba-island.com/best-diving-sites-coiba-island-panama/), [The Ark Divers - Scuba Diving in Coiba National Park](https://www.thearkdivers.com/dive), [PADI - Montana Rusa](https://www.padi.com/dive-site/panama/montana-rusa-dive-base-coiba/). Last updated 2026-04-05.*

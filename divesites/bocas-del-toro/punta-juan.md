@@ -1,7 +1,7 @@
 ---
 name: Punta Juan
-lat: 9.29
-lng: -82.17
+lat: 9.3333
+lng: -82.2
 difficulty: Beginner
 maxDepth: 16
 entryType: boat

@@ -13,51 +13,55 @@ addedBy: osm_import
 
 ## SMS Cöln
 
-The most intact of Scapa Flow's four remaining German light cruisers — a Königsberg-class vessel that lies on its starboard side with prominent features making it one of the Flow's most navigable wrecks.
+SMS Cöln is a historic wreck dive in Scapa Flow, Europe.
 
 ## Overview
 
-SMS Cöln is the best-preserved of the four German light cruisers remaining in Scapa Flow, with many prominent structural features still visible and an orientation that makes navigation comprehensible even for intermediate wreck divers. She lies on her starboard side with that side resting in 34–36 meters of water while the port side rises to a shallowest point of 22 meters, where the shotline is typically tied at a lifeboat davit. Her bow points roughly north, providing a clear navigational reference throughout the dive. The Cöln was named for the German city of Cologne and was part of the High Seas Fleet interned at Scapa Flow after WWI. She is in very good condition with lots of marine life and very little current, making her one of the easiest German fleet dives — typically chosen as the first dive of a Scapa week. She is a protected scheduled monument. The Cöln's bell is displayed at the Scapa Flow Visitor Centre at Lyness. The wreck is owned by Orkney Islands Council.
+SMS Cöln is a dive site in Scapa Flow featuring the wreck of the SMS Cöln. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: Scapa Flow, Orkney, Scotland
+- **Location**: Scapa Flow, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 36 meters
-- **Typical Visibility**: 5–20 meters (16–66 feet) — best May and September–October
-- **Current**: Light
-- **Water Temperature**: 6–14°C (43–57°F)
-- **Best Time**: May–October
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: May to October
 
 ## Marine Life
 
-The SMS Cöln's well-preserved structure provides excellent habitat for Scapa Flow's cold-water communities. Plumose anemones and dead man's fingers colonize the deck railings and superstructure. Large conger eels inhabit interior spaces and are routinely encountered by divers exploring the hull. Schools of pollack and saithe hover above the wreck. Edible crabs and spider crabs are found throughout. Nudibranchs and hydroids cover softer surfaces, particularly on the underside of overhanging sections.
+Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-Descend to the shallowest point of the wreck (port side at 22 meters) and work systematically along the hull before dropping to the 36-meter starboard-side deck. The clear bow-pointing-north orientation makes it easy to maintain positional awareness. The deck features and superstructure details are best explored in the 22–30 meter range. Deeper penetration should be reserved for experienced wreck divers.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 36 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
-Boat dive from Stromness charter operators. The Cöln is regularly included in Scapa Flow liveaboard itineraries. Shot line descent and ascent. Dry suit mandatory. SMB deployment before surfacing.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- The Cöln is the recommended starting cruiser for first-time visitors before attempting the Brummer and Dresden
-- The north-pointing bow provides immediate navigational reference — note it on descent
-- Scapa Flow visibility is best in May and the autumn months after summer plankton blooms subside
-- Multiple dives are needed to appreciate the full length and detail of this 130-meter cruiser
-- A depth gauge or computer check at the starboard deck confirms you are at the deepest navigable zone
+- Bring a dive torch to illuminate wreck interiors and dark overhangs
+- Maintain proper buoyancy to avoid disturbing silt inside the wreck
+- Do not attempt penetration without proper training and equipment
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
 
 ## Safety Considerations
 
-The 36-meter depth requires attention to no-decompression limits in cold water. Cold water increases gas consumption significantly — plan turns with extra reserves. This is a protected monument — handling, disturbing, or removing any artifact is illegal under Scottish law. Use the shot line exclusively for ascent — free ascent in Scapa Flow conditions is not recommended.
+Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-The SMS Cöln is considered Scapa Flow's most photogenic light cruiser for wide-angle photography due to her intact structural features and clear orientation. The ship's deck rails, gun mounts, and superstructure details provide varied subjects. Natural light penetration at 22–25 meters is poor in Scottish waters — a powerful artificial light source is necessary. The "living museum" quality of the intact hull structure creates atmospheric compositions.
+The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+
+## Additional Resources
+
+- **Last Updated**: 2026-04-05
 
 ---
-*Sources: [Wrecks of Scapa Flow — NorthLink Ferries](https://www.northlinkferries.co.uk/orkney-blog/wrecks-of-scapa-flow/), [Scapa Flow Dive Sites — scapa-flow.co.uk](https://www.scapa-flow.co.uk/dive-site). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*

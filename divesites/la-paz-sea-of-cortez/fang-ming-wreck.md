@@ -1,7 +1,7 @@
 ---
 name: Fang Ming Wreck
-lat: 24.28
-lng: -110.05
+lat: 24.4452
+lng: -110.3812
 difficulty: Intermediate
 maxDepth: 22
 entryType: boat

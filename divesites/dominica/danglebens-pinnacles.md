@@ -1,7 +1,7 @@
 ---
 name: Danglebens Pinnacles
-lat: 15.24
-lng: -61.38
+lat: 15.2371
+lng: -61.3728
 difficulty: Intermediate
 maxDepth: 40
 entryType: boat

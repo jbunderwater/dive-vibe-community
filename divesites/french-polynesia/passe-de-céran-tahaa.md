@@ -13,27 +13,54 @@ addedBy: osm_import
 
 ## Passe de Céran - TAHAA
 
-Passe de Céran is a pass drift dive on the northern barrier reef of Taha'a island, French Polynesia. One of the most productive passes in the Raiatea-Taha'a lagoon system, it is known for manta ray encounters on incoming tides alongside the grey reef shark aggregations typical of the Society Islands passes.
+Passe de Céran - TAHAA is a drift dive site in French Polynesia, Pacific.
 
 ## Overview
 
-Taha'a — the "vanilla island" — shares a barrier reef with Raiatea, and Passe de Céran sits at its northern end, facing the open Pacific. The pass cuts through the barrier reef and drives substantial tidal exchange, creating a strong incoming current of clear oceanic water at 2–4 knots. The channel floor sits at approximately 25 metres. The northward orientation and the current pattern here make it a preferred feeding station for manta rays (*Mobula alfredi*) that ride the plankton-rich incoming water. Visibility on a good incoming tide can reach 40 metres, with water temperatures of 27–28°C.
+Passe de Céran - TAHAA is a dive site in French Polynesia offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
-## What to Expect
+## Site Information
 
-Manta rays are the headline attraction of Passe de Céran, distinguishing it from many other Polynesian passes where sharks dominate. Reef mantas regularly position themselves at the mouth of the pass during incoming tides to filter-feed, performing barrel rolls as they work concentrated plankton layers. Grey reef sharks accompany them in typical pass numbers of 15–40 individuals. Eagle rays and blacktip reef sharks add to the pelagic activity. The pass walls carry healthy coral growth, and the channel edges shelter moray eels, hawkfish, and groupers. The lagoon side of the pass is characteristically calm and clear, allowing a comfortable ascent and safety stop with reef fish around the shallower coral structures.
+- **Location**: French Polynesia, Pacific
+- **Entry Type**: Boat dive
+- **Site Type**: Drift
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 25 meters
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
+- **Best Time**: April to November
 
-## Conditions
+## Marine Life
 
-- **Best season**: April–November; manta ray activity peaks June–October
-- **Visibility**: 30–40 m on incoming tide
-- **Current**: Strong (2–4 knots); incoming tide required
-- **Water temperature**: 27–28°C
-- **Entry**: Boat drift dive from Taha'a operators
+Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
 
-## Tips
+## Dive Profile
 
-The manta activity is most reliable from June through October when plankton concentrations in the incoming current are highest. Book with Taha'a operators who monitor manta activity daily — Taha'a has a small but skilled diving community with detailed local knowledge. The combination of mantas and sharks in one pass dive makes Passe de Céran a must-dive for visitors to the Society Islands.
+The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+
+## Entry and Exit
+
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+
+## Tips and Recommendations
+
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
+
+## Safety Considerations
+
+Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+
+## Photography
+
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+
+## Additional Resources
+
+- **Last Updated**: 2026-04-05
 
 ---
-*Sources: [Bluewater Dive Travel - French Polynesia](https://www.bluewaterdivetravel.com/destination/french-polynesia-diving), [PADI - Diving in French Polynesia](https://www.padi.com/diving-in/french-polynesia/), [World Adventure Divers - French Polynesia](https://worldadventuredivers.com/diving-french-polynesia/), [Air Tahiti Nui - Scuba Diving in Tahiti](https://www.airtahitinui.com/en/scuba-diving-tahiti-best-spots-islands), [Scuba Diving Magazine - French Polynesia Big Five](https://www.scubadiving.com/where-to-dive-french-polynesias-big-five). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*

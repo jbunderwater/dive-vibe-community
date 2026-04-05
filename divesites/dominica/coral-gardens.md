@@ -1,7 +1,7 @@
 ---
 name: Coral Gardens
-lat: 15.25
-lng: -61.375
+lat: 15.2381
+lng: -61.3711
 difficulty: Beginner
 maxDepth: 10
 entryType: shore

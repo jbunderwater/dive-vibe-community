@@ -1,7 +1,7 @@
 ---
 name: Critter Corner
-lat: 13.17
-lng: -61.195
+lat: 13.182
+lng: -61.269
 difficulty: Beginner
 maxDepth: 10
 entryType: boat

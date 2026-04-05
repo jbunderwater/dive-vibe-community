@@ -1,8 +1,8 @@
 [
   {
     "name": "Champagne Reef",
-    "lat": 15.235,
-    "lon": -61.37,
+    "lat": 15.2473,
+    "lon": -61.3734,
     "depth": 12,
     "site_type": "reef",
     "entry_type": "shore",
@@ -11,13 +11,13 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "divedominica.com, diveoclock.com, tripadvisor"
+      "validation_source": "zentacle.com, divedominica.com, diveoclock.com, tripadvisor"
     }
   },
   {
     "name": "Scotts Head Pinnacle",
-    "lat": 15.215,
-    "lon": -61.365,
+    "lat": 15.2156,
+    "lon": -61.3771,
     "depth": 35,
     "site_type": "pinnacle",
     "entry_type": "boat",
@@ -26,14 +26,14 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "divedominica.com, diveoclock.com, divessi.com",
+      "validation_source": "zentacle.com, divedominica.com, diveoclock.com, divessi.com",
       "notes": "Swim-through at 35ft, wall drops to 120ft+ on inside of volcanic crater"
     }
   },
   {
     "name": "Soufrière Pinnacle",
-    "lat": 15.225,
-    "lon": -61.36,
+    "lat": 15.2310,
+    "lon": -61.3621,
     "depth": 25,
     "site_type": "wall",
     "entry_type": "boat",
@@ -42,13 +42,13 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "divedominica.com, diveoclock.com"
+      "validation_source": "zentacle.com, divedominica.com, diveoclock.com"
     }
   },
   {
     "name": "Danglebens Pinnacles",
-    "lat": 15.24,
-    "lon": -61.38,
+    "lat": 15.2371,
+    "lon": -61.3728,
     "depth": 40,
     "site_type": "pinnacle",
     "entry_type": "boat",
@@ -57,14 +57,14 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "divedominica.com, scubadiving.com",
+      "validation_source": "zentacle.com, divedominica.com, scubadiving.com",
       "notes": "5 pinnacles with sandy bottoms, 30-40m, barrel sponges and reef sharks"
     }
   },
   {
     "name": "Coral Gardens",
-    "lat": 15.25,
-    "lon": -61.375,
+    "lat": 15.2381,
+    "lon": -61.3711,
     "depth": 10,
     "site_type": "reef",
     "entry_type": "shore",
@@ -73,13 +73,13 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "general dive guides"
+      "validation_source": "zentacle.com, ssmrdominica.com"
     }
   },
   {
     "name": "L'Abym",
-    "lat": 15.26,
-    "lon": -61.385,
+    "lat": 15.2345,
+    "lon": -61.3661,
     "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
@@ -88,14 +88,14 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "divedominica.com, discoverdominica.com, noxoma.com",
+      "validation_source": "zentacle.com, divedominica.com, discoverdominica.com, noxoma.com",
       "notes": "1500ft vertical wall, seahorses sighted, macro-rich location"
     }
   },
   {
     "name": "Toucari Bay",
-    "lat": 15.625,
-    "lon": -61.475,
+    "lat": 15.6107,
+    "lon": -61.4672,
     "depth": 33,
     "site_type": "reef",
     "entry_type": "shore",
@@ -104,14 +104,14 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "scubadiving.com, cabritsdive.com",
+      "validation_source": "padi.com, cabritsdive.com, scubadiving.com",
       "notes": "Tunnel system (25-45ft), drops to 110ft with mahogany snapper, frogfish, octopus"
     }
   },
   {
     "name": "Cabrits Drop",
-    "lat": 15.58,
-    "lon": -61.47,
+    "lat": 15.5863,
+    "lon": -61.4742,
     "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
@@ -120,13 +120,13 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "cabritsdive.com, scubadiving.com"
+      "validation_source": "cabritsdive.com, scubadiving.com, latitude.to"
     }
   },
   {
     "name": "Point Guignard",
-    "lat": 15.28,
-    "lon": -61.39,
+    "lat": 15.2409,
+    "lon": -61.3730,
     "depth": 25,
     "site_type": "wall",
     "entry_type": "boat",
@@ -135,14 +135,14 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "scubadiving.com",
+      "validation_source": "zentacle.com, scubadiving.com",
       "notes": "Slowly sloping wall, easy dive for all levels, macro life (seahorses, nudibranches)"
     }
   },
   {
     "name": "Nose Reef",
-    "lat": 15.21,
-    "lon": -61.358,
+    "lat": 15.4330,
+    "lon": -61.4680,
     "depth": 25,
     "site_type": "reef",
     "entry_type": "boat",
@@ -151,14 +151,14 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "scubadiving.com",
-      "notes": "Patch reef with wall drop-off, nose-like protrusions, bogas school, barracuda"
+      "validation_source": "discoverdominica.com, scubadiving.com, ewdr.com",
+      "notes": "Three nose-shaped ledges extending into the blue, off Grand Savanne central coast, 24m depth"
     }
   },
   {
     "name": "Five Finger Rock",
-    "lat": 15.55,
-    "lon": -61.46,
+    "lat": 15.5908,
+    "lon": -61.4756,
     "depth": 30,
     "site_type": "reef",
     "entry_type": "boat",
@@ -167,13 +167,13 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "scubadiving.com, cabritsdive.com"
+      "validation_source": "padi.com, cabritsdive.com, scubadiving.com"
     }
   },
   {
     "name": "Rodney's Rock",
-    "lat": 15.27,
-    "lon": -61.378,
+    "lat": 15.3796,
+    "lon": -61.4120,
     "depth": 15,
     "site_type": "reef",
     "entry_type": "boat",
@@ -182,8 +182,8 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "scubadiving.com, tripadvisor",
-      "notes": "Shallow max 50ft, critter dive (spiny/slipper lobster, morays, seahorses - record 11 in one dive)"
+      "validation_source": "zentacle.com, scubadiving.com, tripadvisor",
+      "notes": "Shallow max 50ft, critter dive (spiny/slipper lobster, morays, seahorses - record 11 in one dive), near Jimmit/Tarou Point"
     }
   }
 ]

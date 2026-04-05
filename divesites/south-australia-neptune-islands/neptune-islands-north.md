@@ -1,7 +1,7 @@
 ---
 name: Neptune Islands North
-lat: -35.235
-lng: 136.065
+lat: -35.2333
+lng: 136.0656
 difficulty: Beginner
 maxDepth: 2
 entryType: boat

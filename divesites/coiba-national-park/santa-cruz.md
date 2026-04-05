@@ -1,7 +1,7 @@
 ---
 name: Santa Cruz
-lat: 7.68
-lng: -81.65
+lat: 7.615
+lng: -81.735
 difficulty: Advanced
 maxDepth: 20
 entryType: boat

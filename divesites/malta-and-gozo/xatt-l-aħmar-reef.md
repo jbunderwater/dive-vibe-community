@@ -17,7 +17,7 @@ Xatt l-Aħmar Reef is a reef dive site in Malta and Gozo, Europe.
 
 ## Overview
 
-Xatt l-Aħmar Reef takes its name from the "red shore" bay on Gozo's south coast, where iron-rich clay sediment colours the shoreline and the reef gently slopes from the shallows to around 20 meters over mixed limestone, rubble, and sand. Hard corals encrust the rock surfaces alongside sea fans and sponges, and the site attracts good numbers of sea bream, wrasse, grouper, and occasional octopus in the crevices. The sheltered bay and gradual gradient make it a comfortable dive accessible to intermediate divers, with clarity typically above 15 meters.
+Xatt l-Aħmar Reef is a dive site in Malta and Gozo offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
@@ -57,5 +57,9 @@ Be aware of cold water (north), currents, boat traffic in this area. Dive within
 
 This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
+## Additional Resources
+
+- **Last Updated**: 2026-04-05
+
 ---
-*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [Atlantis Gozo Dive Sites](https://www.atlantisgozo.com/dive-sites/), [PADI Diving in Malta](https://www.padi.com/diving-in/malta/), [SCUBA Travel Malta Guide](https://www.scubatravel.co.uk/europe/malta-dive-in.html), [Dive Malta-Gozo](https://divemalta-gozo.com/diving-in-gozo/). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*

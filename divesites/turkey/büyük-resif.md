@@ -17,7 +17,7 @@ Büyük Resif is a wall dive site in Turkey, Europe.
 
 ## Overview
 
-Büyük Resif (Big Reef) is one of Bodrum's signature dives — a circular underwater hill positioned between the Bodrum Peninsula and Karaada (Black Island), with a reef summit at 5 meters and a wall on the Black Island side that drops straight down from 7 to 34 meters. The wall face harbors octopuses, moray eels, spiny lobsters, and large groupers, while jacks, barracuda, and sea bream work the shallower terraced sections, and sea turtles appear as occasional visitors. Currents run regularly through the site, keeping it washed with nutrients and making it one of the most consistently productive reef dives on Turkey's Aegean coast.
+Büyük Resif is a dive site in Turkey featuring a dramatic vertical wall that drops into the deep blue . Big Reef near Bodrum, features shallow anchor area at 7m descending to wall dropping to 34m, rich marine biodiversity. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
@@ -59,5 +59,9 @@ Be aware of cold water (north), currents, boat traffic in this area. Dive within
 
 Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
+## Additional Resources
+
+- **Last Updated**: 2026-04-05
+
 ---
-*Sources: [PADI - Diving in Turkey](https://www.padi.com/diving-in/turkey/), [Bluewater Dive Travel - Scuba Diving Turkey](https://www.bluewaterdivetravel.com/destination/scuba-diving-turkey), [DiveIn - Best Diving in Turkey](https://www.divein.com/diving/destination/turkey/), [X-Ray Mag - Turkey Mediterranean and Aegean](https://xray-mag.com/content/turkey-mediterranean-and-aegean-hotspots), [Chasing the Donkey - Scuba Diving Turkey](https://www.chasingthedonkey.com/scuba-diving-turkey-dive-sites/). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*

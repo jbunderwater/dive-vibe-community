@@ -1,7 +1,7 @@
 ---
 name: Mike's Delight
-lat: -8.26
-lng: 124.47
+lat: -8.295
+lng: 124.36
 difficulty: Advanced
 maxDepth: 28
 entryType: boat

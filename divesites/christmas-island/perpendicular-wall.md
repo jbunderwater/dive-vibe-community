@@ -1,7 +1,7 @@
 ---
 name: Perpendicular Wall
-lat: -10.5
-lng: 105.65
+lat: -10.4855
+lng: 105.6316
 difficulty: Advanced
 maxDepth: 36
 entryType: boat

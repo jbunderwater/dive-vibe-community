@@ -17,7 +17,7 @@ Kabelvåg Shore is a reef dive site in Norway Lofoten Islands, Europe.
 
 ## Overview
 
-Kabelvåg Shore is a cold-water shore dive on the southern coast of Austvågøya island, near one of Lofoten's oldest fishing villages above the Arctic Circle. The shallow entry leads into towering kelp forests teeming with colorful amphipods, hermit crabs, and nudibranchs, while cod, wolffish, and flatfish patrol the rocky bottom. Summer visibility can reach 20 meters with water temperatures of 10-16 degrees C, and the site is an accessible introduction to Arctic diving in the Lofoten archipelago.
+Kabelvåg Shore is a dive site in Norway Lofoten Islands offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
@@ -56,5 +56,9 @@ Be aware of cold water (north), currents, boat traffic in this area. Dive within
 
 This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
+## Additional Resources
+
+- **Last Updated**: 2026-04-05
+
 ---
-*Sources: [Lofoten Diving AS](https://lofoten-diving.no/), [X-Ray Mag - Diving Lofoten Norway](https://xray-mag.com/content/diving-lofoten-norway), [Scuba Diver Life - Diving in Lofoten Norway](https://scubadiverlife.com/diving-lofoten-norway/), [Visit Lofoten - Diving and Snorkeling](https://visitlofoten.com/en/topic/diving-and-snorkeling-in-lofoten/), [DeeperBlue - Top 6 Dive Sites in Norway](https://www.deeperblue.com/top-6-dive-sites-norway/). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*

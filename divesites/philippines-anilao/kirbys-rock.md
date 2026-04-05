@@ -1,8 +1,8 @@
 ---
 name: Kirby's Rock
-lat: 13.755
-lng: 120.885
-difficulty: Intermediate
+lat: 13.690767
+lng: 120.843567
+difficulty: Advanced
 maxDepth: 20
 entryType: boat
 siteType: wall
@@ -24,7 +24,7 @@ Kirby's Rock on the northwest tip of Tingloy Island juts out into the Verde Isla
 - **Location**: Philippines Anilao, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong

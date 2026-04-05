@@ -1,7 +1,7 @@
 ---
 name: English Island Reef
-lat: -35.26
-lng: 136.09
+lat: -35.258
+lng: 136.088
 difficulty: Intermediate
 maxDepth: 18
 entryType: boat

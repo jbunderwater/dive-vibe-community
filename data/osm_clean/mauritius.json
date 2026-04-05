@@ -1,8 +1,8 @@
 [
   {
     "name": "Cathedral Reef",
-    "lat": -20.25,
-    "lon": 57.52,
+    "lat": -20.289,
+    "lon": 57.356,
     "depth": 28,
     "site_type": "cave",
     "entry_type": "boat",
@@ -11,13 +11,13 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "padi.com, scubaspotadvisor.com, scubasnap.app"
     }
   },
   {
     "name": "Whale Rock",
-    "lat": -20.3,
-    "lon": 57.6,
+    "lat": -19.9971,
+    "lon": 57.5504,
     "depth": 32,
     "site_type": "pinnacle",
     "entry_type": "boat",
@@ -26,13 +26,13 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "zentacle.com, divespiritmauritius.com"
     }
   },
   {
     "name": "Trou aux Biches Reef",
-    "lat": -20.03,
-    "lon": 57.53,
+    "lat": -20.042,
+    "lon": 57.535,
     "depth": 12,
     "site_type": "reef",
     "entry_type": "boat",
@@ -41,13 +41,13 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "zentacle.com (Coral Garden nearby), padi.com"
     }
   },
   {
     "name": "Blue Bay Marine Park",
-    "lat": -20.44,
-    "lon": 57.71,
+    "lat": -20.4463,
+    "lon": 57.7148,
     "depth": 5,
     "site_type": "reef",
     "entry_type": "shore",
@@ -56,13 +56,13 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "mauritiusexplored.com, ramsar.org, wikipedia.org"
     }
   },
   {
     "name": "Stella Maru Wreck",
-    "lat": -20.295,
-    "lon": 57.59,
+    "lat": -20.0682,
+    "lon": 57.5182,
     "depth": 26,
     "site_type": "wreck",
     "entry_type": "boat",
@@ -71,13 +71,13 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "padi.com, divescover.com, wannadive.net"
     }
   },
   {
     "name": "Colorado Point",
-    "lat": -20.35,
-    "lon": 57.55,
+    "lat": -20.4392,
+    "lon": 57.7487,
     "depth": 30,
     "site_type": "cave",
     "entry_type": "boat",
@@ -86,13 +86,13 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "padi.com"
     }
   },
   {
     "name": "Flic en Flac Pass",
-    "lat": -20.28,
-    "lon": 57.36,
+    "lat": -20.296,
+    "lon": 57.361,
     "depth": 26,
     "site_type": "reef",
     "entry_type": "boat",
@@ -101,13 +101,14 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "padi.com (Flic en Flac area bounds), scubasnap.app",
+      "coordinate_note": "Placed in Flic en Flac offshore reef area based on PADI region bounds"
     }
   },
   {
     "name": "Rempart Serpent",
-    "lat": -20.31,
-    "lon": 57.58,
+    "lat": -20.3032,
+    "lon": 57.3658,
     "depth": 27,
     "site_type": "reef",
     "entry_type": "boat",
@@ -116,13 +117,13 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "diveboard.com"
     }
   },
   {
     "name": "Hoi Siong No. 6 Wreck",
-    "lat": -20.16,
-    "lon": 57.5,
+    "lat": -20.4214,
+    "lon": 57.3161,
     "depth": 29,
     "site_type": "wreck",
     "entry_type": "boat",
@@ -131,7 +132,7 @@
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "deepblu.com"
     }
   }
 ]

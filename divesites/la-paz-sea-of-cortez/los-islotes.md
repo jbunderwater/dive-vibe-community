@@ -1,7 +1,7 @@
 ---
 name: Los Islotes
-lat: 24.595
-lng: -110.4
+lat: 24.5977
+lng: -110.401
 difficulty: Beginner
 maxDepth: 26
 entryType: boat

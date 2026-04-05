@@ -1,7 +1,7 @@
 ---
 name: Shimoni Caves Reef
-lat: -4.65
-lng: 39.38
+lat: -4.648
+lng: 39.382
 difficulty: Advanced
 maxDepth: 28
 entryType: boat

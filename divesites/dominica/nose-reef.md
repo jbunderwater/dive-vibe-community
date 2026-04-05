@@ -1,7 +1,7 @@
 ---
 name: Nose Reef
-lat: 15.21
-lng: -61.358
+lat: 15.4330
+lng: -61.4680
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat

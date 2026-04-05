@@ -1,7 +1,7 @@
 ---
 name: West White Beach
-lat: -10.4333
-lng: 105.6
+lat: -10.4413
+lng: 105.6375
 difficulty: Intermediate
 maxDepth: 12
 entryType: shore

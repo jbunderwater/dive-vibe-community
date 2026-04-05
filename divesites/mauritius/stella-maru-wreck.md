@@ -1,7 +1,7 @@
 ---
 name: Stella Maru Wreck
-lat: -20.295
-lng: 57.59
+lat: -20.0682
+lng: 57.5182
 difficulty: Intermediate
 maxDepth: 26
 entryType: boat

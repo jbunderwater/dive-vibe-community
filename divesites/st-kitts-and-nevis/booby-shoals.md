@@ -1,7 +1,7 @@
 ---
 name: Booby Shoals
-lat: 17.16
-lng: -62.62
+lat: 17.23
+lng: -62.615
 difficulty: Beginner
 maxDepth: 12
 entryType: boat

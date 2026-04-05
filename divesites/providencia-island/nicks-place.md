@@ -1,7 +1,7 @@
 ---
 name: Nick's Place
-lat: 13.38
-lng: -81.37
+lat: 13.3885
+lng: -81.4187
 difficulty: Advanced
 maxDepth: 40
 entryType: boat

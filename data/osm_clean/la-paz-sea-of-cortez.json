@@ -37,8 +37,8 @@
   },
   {
     "name": "Los Islotes",
-    "lat": 24.595,
-    "lon": -110.4,
+    "lat": 24.5977,
+    "lon": -110.4010,
     "depth": 26,
     "site_type": "reef",
     "entry_type": "boat",
@@ -46,14 +46,14 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": "true",
-      "validation_source": "web_research"
+      "validated": true,
+      "validation_source": "DiversInnMX, Mapcarta, PADI"
     }
   },
   {
     "name": "El Bajo Seamount",
-    "lat": 24.72,
-    "lon": -110.3,
+    "lat": 24.6570,
+    "lon": -110.1256,
     "depth": 40,
     "site_type": "seamount",
     "entry_type": "boat",
@@ -61,29 +61,29 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": "true",
-      "validation_source": "web_research"
+      "validated": true,
+      "validation_source": "PADI, DiversInnMX"
     }
   },
   {
     "name": "Swanee Reef",
-    "lat": 24.59,
-    "lon": -110.395,
-    "depth": 22,
+    "lat": 24.3912,
+    "lon": -110.3055,
+    "depth": 12,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": "true",
-      "validation_source": "web_research"
+      "validated": true,
+      "validation_source": "Zentacle, DiversInnMX, diveinlapaz.com"
     }
   },
   {
     "name": "Salvatierra Wreck",
-    "lat": 24.25,
-    "lon": -110.03,
+    "lat": 24.3889,
+    "lon": -110.3137,
     "depth": 19,
     "site_type": "wreck",
     "entry_type": "boat",
@@ -91,14 +91,14 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": "true",
-      "validation_source": "web_research"
+      "validated": true,
+      "validation_source": "PADI, DiversInnMX, ScubaBoard"
     }
   },
   {
     "name": "Isla Espiritu Santo - The Wall",
-    "lat": 24.5,
-    "lon": -110.36,
+    "lat": 24.5280,
+    "lon": -110.3980,
     "depth": 35,
     "site_type": "wall",
     "entry_type": "boat",
@@ -106,14 +106,14 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": "true",
-      "validation_source": "web_research"
+      "validated": true,
+      "validation_source": "DiversInnMX, diveinlapaz.com, thedivegurus.com"
     }
   },
   {
     "name": "La Reina",
-    "lat": 24.58,
-    "lon": -110.38,
+    "lat": 24.4153,
+    "lon": -109.9750,
     "depth": 25,
     "site_type": "reef",
     "entry_type": "boat",
@@ -121,14 +121,14 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": "true",
-      "validation_source": "web_research"
+      "validated": true,
+      "validation_source": "DiversInnMX, cabotrek.com, diveinlapaz.com"
     }
   },
   {
     "name": "San Rafaelito",
-    "lat": 24.3,
-    "lon": -110.1,
+    "lat": 24.2983,
+    "lon": -110.3459,
     "depth": 15,
     "site_type": "reef",
     "entry_type": "boat",
@@ -136,14 +136,14 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": "true",
-      "validation_source": "web_research"
+      "validated": true,
+      "validation_source": "PADI, DiversInnMX"
     }
   },
   {
     "name": "Fang Ming Wreck",
-    "lat": 24.28,
-    "lon": -110.05,
+    "lat": 24.4452,
+    "lon": -110.3812,
     "depth": 22,
     "site_type": "wreck",
     "entry_type": "boat",
@@ -151,14 +151,14 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": "true",
-      "validation_source": "web_research"
+      "validated": true,
+      "validation_source": "PADI, ScubaBoard, DiversInnMX"
     }
   },
   {
     "name": "Las Animas",
-    "lat": 25.1,
-    "lon": -110.5,
+    "lat": 24.6882,
+    "lon": -110.4860,
     "depth": 28,
     "site_type": "pinnacle",
     "entry_type": "boat",
@@ -166,14 +166,14 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": "true",
-      "validation_source": "web_research"
+      "validated": true,
+      "validation_source": "DiversInnMX"
     }
   },
   {
     "name": "Isla Cerralvo North",
-    "lat": 24.2,
-    "lon": -109.95,
+    "lat": 24.5197,
+    "lon": -109.8800,
     "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
@@ -181,8 +181,8 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": "true",
-      "validation_source": "web_research"
+      "validated": true,
+      "validation_source": "getamap.net, bajadiving.com"
     }
   }
 ]

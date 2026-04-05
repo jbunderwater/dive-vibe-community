@@ -1,7 +1,7 @@
 ---
 name: Brassball Wreck
-lat: 17.31
-lng: -62.74
+lat: 17.265
+lng: -62.685
 difficulty: Beginner
 maxDepth: 8
 entryType: boat

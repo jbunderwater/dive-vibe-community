@@ -1,7 +1,7 @@
 ---
 name: Saruenus Island
-lat: -3.78
-lng: 134.15
+lat: -3.9139
+lng: 134.1012
 difficulty: Intermediate
 maxDepth: 18
 entryType: boat

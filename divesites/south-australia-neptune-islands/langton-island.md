@@ -1,7 +1,7 @@
 ---
 name: Langton Island
-lat: -35.31
-lng: 136.11
+lat: -35.308
+lng: 136.108
 difficulty: Intermediate
 maxDepth: 16
 entryType: boat

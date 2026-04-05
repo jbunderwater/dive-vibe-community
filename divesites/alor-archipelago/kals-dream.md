@@ -1,7 +1,7 @@
 ---
 name: Kal's Dream
-lat: -8.23
-lng: 124.42
+lat: -8.28
+lng: 124.375
 difficulty: Advanced
 maxDepth: 35
 entryType: boat

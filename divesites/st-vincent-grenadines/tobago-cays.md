@@ -1,7 +1,7 @@
 ---
 name: Tobago Cays
-lat: 12.625
-lng: -61.35
+lat: 12.6355
+lng: -61.3486
 difficulty: Beginner
 maxDepth: 12
 entryType: boat

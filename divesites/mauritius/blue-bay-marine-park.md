@@ -1,7 +1,7 @@
 ---
 name: Blue Bay Marine Park
-lat: -20.44
-lng: 57.71
+lat: -20.4463
+lng: 57.7148
 difficulty: Beginner
 maxDepth: 5
 entryType: shore

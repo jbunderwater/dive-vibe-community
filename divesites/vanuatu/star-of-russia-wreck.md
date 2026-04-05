@@ -1,7 +1,7 @@
 ---
 name: Star of Russia Wreck
-lat: -17.73
-lng: 168.31
+lat: -17.7554
+lng: 168.2965
 difficulty: Intermediate
 maxDepth: 35
 entryType: boat

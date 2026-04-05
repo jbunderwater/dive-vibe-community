@@ -1,8 +1,8 @@
 [
   {
     "name": "Pillars of Hercules",
-    "lat": 17.01,
-    "lon": -61.76,
+    "lat": 17.003,
+    "lon": -61.7588,
     "depth": 9,
     "site_type": "wall",
     "entry_type": "boat",
@@ -11,13 +11,15 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "PADI, Sandals, DiveCarib - Located inside Nelson's Dockyard National Park"
+      "validation_source": "Zentacle, Wannadive.net - entrance to English Harbour, inside Nelson's Dockyard National Park",
+      "coordinates_source": "zentacle.com, wannadive.net (exact match)",
+      "coordinates_confidence": "high"
     }
   },
   {
     "name": "Cades Reef",
-    "lat": 17.03,
-    "lon": -61.87,
+    "lat": 17.0095,
+    "lon": -61.8906,
     "depth": 15,
     "site_type": "reef",
     "entry_type": "boat",
@@ -26,28 +28,33 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "Protected Marine Reserve - 2-mile barrier reef, excellent visibility"
+      "validation_source": "Zentacle, Wannadive.net - Protected Marine Reserve, 2-mile barrier reef off SW coast",
+      "coordinates_source": "zentacle.com, wannadive.net (exact match)",
+      "coordinates_confidence": "high"
     }
   },
   {
     "name": "Andes Wreck",
-    "lat": 17.04,
-    "lon": -61.78,
+    "lat": 17.1322,
+    "lon": -61.8892,
     "depth": 8,
     "site_type": "wreck",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "Historic wreck - 3-masted merchant ship sank 1905"
+      "validation_source": "Sailing blog GPS log, getamap.net - same wreck as Deep Bay Wreck entry, sank 1905 in Deep Bay",
+      "coordinates_source": "blog.mailasail.com GPS waypoint 17:07:56N 61:53:352W, getamap.net Deep Bay 17.1333/-61.9",
+      "coordinates_confidence": "medium-high",
+      "note": "LIKELY DUPLICATE of Deep Bay Wreck (Andes) - only one Andes wreck exists, at Deep Bay"
     }
   },
   {
     "name": "Sunken Rock",
-    "lat": 17.02,
-    "lon": -61.77,
+    "lat": 17.005,
+    "lon": -61.73,
     "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
@@ -56,13 +63,15 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "Only known wall dive in Antigua - drops from 2m to 30m+ with sheer overhangs"
+      "validation_source": "DiveCarib, caribdiveguide - east of English Harbour near Indian Creek/Mamora Bay, below Eric Clapton's house",
+      "coordinates_source": "Derived from Mamora Bay (17.0167/-61.7333) and Indian Creek position, furthest windward site past Carpenters Rock",
+      "coordinates_confidence": "medium"
     }
   },
   {
     "name": "Deep Bay Wreck (Andes)",
-    "lat": 17.14,
-    "lon": -61.87,
+    "lat": 17.1322,
+    "lon": -61.8892,
     "depth": 9,
     "site_type": "wreck",
     "entry_type": "shore",
@@ -71,13 +80,15 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "Protected wreck at 30ft depth - accessible to snorkelers and divers"
+      "validation_source": "Sailing blog GPS log, getamap.net - Protected wreck at 30ft depth, accessible to snorkelers",
+      "coordinates_source": "blog.mailasail.com GPS waypoint 17:07:56N 61:53:352W, getamap.net Deep Bay 17.1333/-61.9",
+      "coordinates_confidence": "medium-high"
     }
   },
   {
     "name": "Sandy Island Reef",
-    "lat": 17.16,
-    "lon": -61.88,
+    "lat": 17.1343,
+    "lon": -61.9263,
     "depth": 12,
     "site_type": "reef",
     "entry_type": "boat",
@@ -86,13 +97,15 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "Multiple named sites - The Ledge, Jewel Box, Sunken Barge"
+      "validation_source": "Multiple sources - Sandy Island at entrance to St John's Harbour with lighthouse, surrounded by reef",
+      "coordinates_source": "ag.geoview.info Sandy Island coordinates, cross-referenced with N17 08.075 W61 55.578",
+      "coordinates_confidence": "medium"
     }
   },
   {
     "name": "Ariadne Shoal",
     "lat": 17.05,
-    "lon": -61.79,
+    "lon": -61.99,
     "depth": 15,
     "site_type": "reef",
     "entry_type": "boat",
@@ -101,13 +114,15 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "Offshore 7 miles - excellent pelagic fish schools, larger fish than typical Antigua sites"
+      "validation_source": "California Diver Magazine, activecaribbeantravel.com - 7 miles off west coast, 50 min from St Johns",
+      "coordinates_source": "Calculated from ~7 miles west of Antigua west coast (~61.9), no GPS source found",
+      "coordinates_confidence": "low"
     }
   },
   {
     "name": "Great Bird Island",
-    "lat": 17.17,
-    "lon": -61.7,
+    "lat": 17.15,
+    "lon": -61.7167,
     "depth": 14,
     "site_type": "reef",
     "entry_type": "boat",
@@ -116,13 +131,15 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "Protected area - vibrant reefs, frequent turtle sightings, island location"
+      "validation_source": "latitude.to, multiple tourism sources - protected island 3km NE of Antigua, vibrant reefs and turtle sightings",
+      "coordinates_source": "latitude.to (17.15/-61.7167), confirmed by multiple geographic databases",
+      "coordinates_confidence": "high"
     }
   },
   {
     "name": "Barbuda Reef",
-    "lat": 17.62,
-    "lon": -61.75,
+    "lat": 17.58,
+    "lon": -61.82,
     "depth": 15,
     "site_type": "reef",
     "entry_type": "boat",
@@ -131,13 +148,15 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "Barbuda barrier reef - pristine with minimal boat traffic, similar to Palmetto Point"
+      "validation_source": "Wikipedia, geoview.info - Palmetto Point (17.5808/-61.8576) on SW Barbuda, barrier reef along south coast",
+      "coordinates_source": "Derived from Palmetto Point coordinates, adjusted to reef area south of point",
+      "coordinates_confidence": "low-medium"
     }
   },
   {
     "name": "Carpenter's Reef",
-    "lat": 17.035,
-    "lon": -61.865,
+    "lat": 17.0023,
+    "lon": -61.7785,
     "depth": 24,
     "site_type": "drift",
     "entry_type": "boat",
@@ -146,7 +165,9 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_source": "Drift dive site (Windward Bay) - ridges/valleys 12-24m, requires calm weather"
+      "validation_source": "Zentacle (as Carpenter's Hole), DiveCarib - between Nanton Point and Stoney Cove, Windward Bay",
+      "coordinates_source": "zentacle.com Carpenter's Hole (17.0023/-61.7785), cross-referenced with Windward Bay Beach (17.006/-61.776)",
+      "coordinates_confidence": "high"
     }
   }
 ]

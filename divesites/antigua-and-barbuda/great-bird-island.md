@@ -1,7 +1,7 @@
 ---
 name: Great Bird Island
-lat: 17.17
-lng: -61.7
+lat: 17.15
+lng: -61.7167
 difficulty: Beginner
 maxDepth: 14
 entryType: boat

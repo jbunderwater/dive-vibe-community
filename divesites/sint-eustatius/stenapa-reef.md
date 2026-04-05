@@ -1,7 +1,7 @@
 ---
 name: Stenapa Reef
-lat: 17.485
-lng: -62.985
+lat: 17.489
+lng: -63.0031
 difficulty: Beginner
 maxDepth: 6
 entryType: boat

@@ -1,7 +1,7 @@
 ---
 name: Whale Shark Bagan
-lat: -3.8
-lng: 134.12
+lat: -3.82
+lng: 133.93
 difficulty: Intermediate
 maxDepth: 20
 entryType: boat

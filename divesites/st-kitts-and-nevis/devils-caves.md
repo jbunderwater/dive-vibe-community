@@ -1,7 +1,7 @@
 ---
 name: Devil's Caves
-lat: 17.13
-lng: -62.6
+lat: 17.105
+lng: -62.595
 difficulty: Intermediate
 maxDepth: 12
 entryType: boat

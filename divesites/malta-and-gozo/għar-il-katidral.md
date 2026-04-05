@@ -13,50 +13,53 @@ addedBy: osm_import
 
 ## Għar il-Katidral
 
-Għar il-Katidral — "the Cathedral Cave" in Maltese — is a cavern dive on the northwest coast of Gozo near the Ras il-Qamħ headland, part of Gozo's most cave-rich coastline. The name reflects the soaring interior space of the cavern, which opens upward into a high-vaulted chamber that genuinely resembles the nave of a cathedral when viewed from below.
+Għar il-Katidral is a cave dive site in Malta and Gozo, Europe.
 
 ## Overview
 
-The cavern is accessible at a maximum depth of 20 metres, with the main chamber entry at 10–15 metres. The high-vaulted interior receives natural light that illuminates the limestone walls in shifting patterns, creating the atmospheric quality that earned the site its name. The cave opening faces the open sea and the northwest Gozo coastal waters provide excellent visibility of 20–25 metres. The cavern walls are encrusted with sponges and small invertebrates. The site sits very close to Għar ta' Ras il-Qamħ and both caves are often dived as a pair.
+Għar il-Katidral is a dive site in Malta and Gozo featuring underwater cave and cavern formations. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: Northwest Gozo, Malta
+- **Location**: Malta and Gozo, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/cavern
+- **Site Type**: Cave/Cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20–25 meters
-- **Current**: Generally calm inside; exposed coast outside
-- **Best Time**: April to November
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: May to October
 
 ## Marine Life
 
-The cavern interior shelters spiny lobster, conger eels, and small grouper in the recesses of the vault. Moray eels inhabit the lower crevices of the cavern walls. The adjacent outer reef supports sea bream, ornate wrasse, and barracuda. Octopus are frequently encountered on the rocky substrate around the cave entrance.
+Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
 
 ## Dive Profile
 
-Approach the cavern entrance from the boat and enter, ascending through the chamber to appreciate the vaulted interior. Stay within the natural light zone and maintain orientation to the entrance. Exit the cavern and explore the adjacent reef along the northwest Gozo coastline at 10–18 metres. Safety stop at 5 metres.
+The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Dive boats from Gozo operators access the northwest coast. Entry by giant stride. The exposed northwest Gozo coastline is susceptible to swell — sea state must be assessed before diving. Do not attempt in unsettled conditions.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Look upward when inside — the vaulted ceiling is the defining feature of this cave
-- Combine with the adjacent Għar ta' Ras il-Qamħ for a double-cave northwest Gozo experience
-- A torch helps illuminate the encrusted walls and resident lobsters
-- Maintain orientation to the entrance at all times — cavern diving principles apply
-- The site is best dived in calm settled conditions
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
-Standard cavern diving principles: stay within natural light, maintain entrance orientation, never penetrate beyond the light zone without full cave certification. The exposed coast outside requires sea state assessment. Carry a torch and dive with a buddy.
+Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-The vaulted interior creates dramatic upward-looking wide-angle shots. Natural light streaming through the entrance illuminates the chamber. A diver ascending through the cavern toward the light provides a powerful compositional element. The cavern walls reward close-up work with a torch.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+
+## Additional Resources
+
+- **Last Updated**: 2026-04-05
 
 ---
-*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [Atlantis Gozo Dive Sites](https://www.atlantisgozo.com/dive-sites/), [PADI Diving in Malta](https://www.padi.com/diving-in/malta/), [SCUBA Travel Malta Guide](https://www.scubatravel.co.uk/europe/malta-dive-in.html), [Dive Malta-Gozo](https://divemalta-gozo.com/diving-in-gozo/). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*

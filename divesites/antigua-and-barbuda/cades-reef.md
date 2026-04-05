@@ -1,7 +1,7 @@
 ---
 name: Cades Reef
-lat: 17.03
-lng: -61.87
+lat: 17.0095
+lng: -61.8906
 difficulty: Beginner
 maxDepth: 15
 entryType: boat

@@ -1,7 +1,7 @@
 ---
 name: South Neptune Pinnacles
-lat: -35.34
-lng: 136.13
+lat: -35.342
+lng: 136.125
 difficulty: Advanced
 maxDepth: 21
 entryType: boat

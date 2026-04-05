@@ -1,7 +1,7 @@
 ---
 name: Whale Rock
-lat: -20.3
-lng: 57.6
+lat: -19.9971
+lng: 57.5504
 difficulty: Advanced
 maxDepth: 32
 entryType: boat

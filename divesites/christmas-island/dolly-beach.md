@@ -1,7 +1,7 @@
 ---
 name: Dolly Beach
-lat: -10.4667
-lng: 105.6833
+lat: -10.4858
+lng: 105.6344
 difficulty: Beginner
 maxDepth: 15
 entryType: shore

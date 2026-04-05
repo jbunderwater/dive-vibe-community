@@ -1,8 +1,8 @@
 [
   {
     "name": "Tobago Cays",
-    "lat": 12.625,
-    "lon": -61.35,
+    "lat": 12.6355,
+    "lon": -61.3486,
     "depth": 12,
     "site_type": "reef",
     "entry_type": "boat",
@@ -11,13 +11,15 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "Tobago Cays Marine Park official info, Bluewater Dive Travel, dive operator sources"
+      "validation_source": "Zentacle (zentacle.com), theDiveGlobe (thediveglobe.com), Tobago Cays Marine Park official info",
+      "coordinate_source": "Zentacle Horseshoe Reef entry (12.6355, -61.3486), cross-referenced with theDiveGlobe Tobago Cays (12.63, -61.35)",
+      "coordinate_confidence": "high"
     }
   },
   {
     "name": "The Wall (Bequia)",
-    "lat": 13.01,
-    "lon": -61.24,
+    "lat": 12.9843,
+    "lon": -61.2594,
     "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
@@ -26,13 +28,15 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "Dive Bequia, ZuBlu diving, local dive operator guides"
+      "validation_source": "Dive Bequia, ZuBlu diving, local dive operator guides",
+      "coordinate_source": "Derived from Zentacle Boulders (12.9984, -61.2594) and known location at southern tip of Bequia near West Cay; TripAdvisor confirms West Cay at south tip",
+      "coordinate_confidence": "medium - geographic inference from West Cay south tip of Bequia"
     }
   },
   {
     "name": "Anchor Reef",
-    "lat": 13.15,
-    "lon": -61.2,
+    "lat": 13.2118,
+    "lon": -61.2742,
     "depth": 36,
     "site_type": "wall",
     "entry_type": "boat",
@@ -41,14 +45,16 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "Dive Bequia official site, TripAdvisor Anchor Reef Bequia, DiveSI",
-      "notes": "Starts at 30ft (9m), drops to 120ft (36m) wall with swim-throughs and 18th century anchor"
+      "validation_source": "Dive St Vincent (divestvincent.com), TripAdvisor, DiveSI",
+      "notes": "Starts at 30ft (9m), drops to 120ft (36m) wall with swim-throughs and 18th century anchor",
+      "coordinate_source": "Geographic: described as 'north of Layou' on leeward coast. Layou town at 13.200, -61.267. Positioned slightly north, offshore on west coast",
+      "coordinate_confidence": "medium - geographic inference from Layou landmark"
     }
   },
   {
     "name": "Bottle Reef",
-    "lat": 13.16,
-    "lon": -61.21,
+    "lat": 13.1562,
+    "lon": -61.2468,
     "depth": 22,
     "site_type": "reef",
     "entry_type": "boat",
@@ -57,15 +63,17 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_note": "Site exists but limited specific source documentation found",
-      "validation_source": "perplexity"
+      "validation_note": "Named for bottles tossed from Fort Charlotte cliffs above",
+      "validation_source": "Dive St Vincent (divestvincent.com), Dive Training Magazine",
+      "coordinate_source": "Geographic: below Fort Charlotte (13.158, -61.242), just offshore to the west beneath the cliffs",
+      "coordinate_confidence": "medium - geographic inference from Fort Charlotte"
     },
     "depth_max": 25
   },
   {
     "name": "New Guinea Reef",
-    "lat": 13.175,
-    "lon": -61.19,
+    "lat": 13.1678,
+    "lon": -61.2182,
     "depth": 14,
     "site_type": "reef",
     "entry_type": "boat",
@@ -74,15 +82,16 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": "true",
-      "validation_note": "Not found in primary dive operator databases; may be local/alternate name",
-      "validation_source": "perplexity"
+      "validation_source": "Zentacle (zentacle.com)",
+      "coordinate_source": "Zentacle 'Questelles / New Guinea Reef' entry (13.167768, -61.218219)",
+      "coordinate_confidence": "high"
     },
     "depth_max": 15
   },
   {
     "name": "Critter Corner",
-    "lat": 13.17,
-    "lon": -61.195,
+    "lat": 13.1299,
+    "lon": -61.2036,
     "depth": 10,
     "site_type": "muck",
     "entry_type": "boat",
@@ -91,14 +100,16 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "PADI dive site database, Bluewater Dive Travel, macro diving guides",
-      "notes": "St. Vincent's token muck dive in shadow of Fort Durvernette; volcanic sand bottom with flying gurnards, frogfish, seahorses"
+      "validation_source": "PADI (padi.com), Bluewater Dive Travel, macro diving guides",
+      "notes": "St. Vincent's token muck dive in shadow of Fort Durvernette; volcanic sand bottom with flying gurnards, frogfish, seahorses",
+      "coordinate_source": "PADI dive site database (13.129897, -61.203600), confirmed near Young Island (13.1314, -61.2024)",
+      "coordinate_confidence": "high"
     }
   },
   {
     "name": "Mayreau Gardens",
-    "lat": 12.64,
-    "lon": -61.39,
+    "lat": 12.6366,
+    "lon": -61.3884,
     "depth": 16,
     "site_type": "reef",
     "entry_type": "boat",
@@ -107,14 +118,16 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "Tobago Cays Marine Park official site, Bluewater Dive Travel, dive operator sources",
-      "notes": "Expansive coral reef between Tobago Cays and Mayreau; excellent drift dive with crinoids, garden eels, flamingo tongues"
+      "validation_source": "Diveboard (diveboard.com), Tobago Cays Marine Park official site, Bluewater Dive Travel",
+      "notes": "Expansive coral reef between Tobago Cays and Mayreau; excellent drift dive with crinoids, garden eels, flamingo tongues",
+      "coordinate_source": "Diveboard (diveboard.com) Mayreau Gardens entry (12.6366, -61.3884)",
+      "coordinate_confidence": "high"
     }
   },
   {
     "name": "Petit St. Vincent Reef",
-    "lat": 12.54,
-    "lon": -61.38,
+    "lat": 12.5392,
+    "lon": -61.3875,
     "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
@@ -123,13 +136,15 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "Petit St. Vincent Resort dive center, PADI dive site listings"
+      "validation_source": "Petit St. Vincent Resort dive center, PADI dive site listings",
+      "coordinate_source": "Geographic: Petit St Vincent island center at 12.5366, -61.3837. Reef positioned on leeward (west) side of island",
+      "coordinate_confidence": "medium - geographic inference from PSV island coordinates"
     }
   },
   {
     "name": "Mustique Reef",
-    "lat": 12.885,
-    "lon": -61.18,
+    "lat": 12.8796,
+    "lon": -61.1920,
     "depth": 25,
     "site_type": "reef",
     "entry_type": "boat",
@@ -139,13 +154,15 @@
       "addedBy": "fill_caribbean",
       "validated": true,
       "validation_source": "Bluewater Dive Travel, dive operator guides",
-      "notes": "Sloping reef with coral expanse; shy spotted drums, banded coral shrimp"
+      "notes": "Sloping reef with coral expanse; shy spotted drums, banded coral shrimp",
+      "coordinate_source": "Geographic: Mustique island center at 12.883, -61.183. Dive sites on west/leeward side. scubamom.com confirms diving based at Endeavour Bay on west coast",
+      "coordinate_confidence": "medium - geographic inference from Mustique island west coast"
     }
   },
   {
     "name": "Bat Cave (St. Vincent)",
-    "lat": 13.2,
-    "lon": -61.22,
+    "lat": 13.1879,
+    "lon": -61.2692,
     "depth": 10,
     "site_type": "cave",
     "entry_type": "boat",
@@ -154,8 +171,10 @@
       "source": "curated",
       "addedBy": "fill_caribbean",
       "validated": true,
-      "validation_source": "Bluewater Dive Travel, Wannadive, TripAdvisor, Zentacle",
-      "notes": "Half-submerged cave with colony of bats; rocky passageway through reef into cliff cave; challenging, thrilling dive with surge"
+      "validation_source": "Zentacle (zentacle.com), Wannadive (wannadive.net), Bluewater Dive Travel, TripAdvisor",
+      "notes": "Half-submerged cave with colony of bats; rocky passageway through reef into cliff cave; challenging, thrilling dive with surge",
+      "coordinate_source": "Zentacle (13.187933, -61.269167), confirmed by Wannadive WGS84 (13d11.276'N, 61d16.15'W = 13.18793, -61.26917). Both match Buccament Bay location (13.183, -61.267)",
+      "coordinate_confidence": "high"
     }
   }
 ]

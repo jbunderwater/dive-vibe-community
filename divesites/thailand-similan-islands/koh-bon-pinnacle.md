@@ -1,7 +1,7 @@
 ---
 name: Koh Bon Pinnacle
-lat: 8.96
-lng: 97.78
+lat: 8.8336
+lng: 97.7975
 difficulty: Advanced
 maxDepth: 50
 entryType: liveaboard

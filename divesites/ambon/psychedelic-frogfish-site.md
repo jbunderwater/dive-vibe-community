@@ -1,7 +1,7 @@
 ---
 name: Psychedelic Frogfish Site
-lat: -3.69
-lng: 128.08
+lat: -3.706
+lng: 128.101
 difficulty: Beginner
 maxDepth: 8
 entryType: shore

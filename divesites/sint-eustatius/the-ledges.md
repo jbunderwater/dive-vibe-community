@@ -1,7 +1,7 @@
 ---
 name: The Ledges
-lat: 17.505
-lng: -63.0
+lat: 17.4625
+lng: -62.9801
 difficulty: Intermediate
 maxDepth: 15
 entryType: boat

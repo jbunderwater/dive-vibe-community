@@ -1,7 +1,7 @@
 ---
 name: Hospital Point
-lat: 9.34
-lng: -82.24
+lat: 9.3348
+lng: -82.2198
 difficulty: Beginner
 maxDepth: 7
 entryType: boat

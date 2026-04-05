@@ -1,7 +1,7 @@
 ---
 name: MV River Taw Wreck
-lat: 17.29
-lng: -62.72
+lat: 17.281
+lng: -62.6974
 difficulty: Beginner
 maxDepth: 12
 entryType: boat

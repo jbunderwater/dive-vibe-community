@@ -1,7 +1,7 @@
 ---
 name: Carpenter's Reef
-lat: 17.035
-lng: -61.865
+lat: 17.0023
+lng: -61.7785
 difficulty: Intermediate
 maxDepth: 24
 entryType: boat

@@ -1,7 +1,7 @@
 ---
 name: Funzi Island
-lat: -4.56
-lng: 39.42
+lat: -4.5651
+lng: 39.4478
 difficulty: Beginner
 maxDepth: 16
 entryType: boat

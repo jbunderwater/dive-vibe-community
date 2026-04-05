@@ -1,7 +1,7 @@
 ---
 name: Coral Garden
-lat: 17.28
-lng: -62.71
+lat: 17.14
+lng: -62.65
 difficulty: Beginner
 maxDepth: 15
 entryType: boat

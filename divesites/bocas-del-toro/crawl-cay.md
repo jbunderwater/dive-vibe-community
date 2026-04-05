@@ -1,7 +1,7 @@
 ---
 name: Crawl Cay
-lat: 9.27
-lng: -82.15
+lat: 9.244
+lng: -82.144
 difficulty: Intermediate
 maxDepth: 18
 entryType: boat

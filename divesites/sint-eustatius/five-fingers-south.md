@@ -1,7 +1,7 @@
 ---
 name: Five Fingers South
-lat: 17.46
-lng: -62.965
+lat: 17.465
+lng: -62.9833
 difficulty: Intermediate
 maxDepth: 20
 entryType: boat

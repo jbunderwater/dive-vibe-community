@@ -1,7 +1,7 @@
 ---
-name: Ticao Island South Wall
-lat: 12.855
-lng: 123.66
+name: Great Wall of Ticao
+lat: 12.49
+lng: 123.73
 difficulty: Advanced
 maxDepth: 35
 entryType: boat
@@ -11,13 +11,13 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Ticao Island South Wall
+## Great Wall of Ticao
 
-Ticao Island South Wall is a wall dive site in Philippines Donsol, Asia.
+Great Wall of Ticao is a wall dive site in Philippines Donsol, Asia.
 
 ## Overview
 
-Ticao Island's south wall faces the current-swept waters of Ticao Pass, where Pacific water rushing through the San Bernardino Strait carries the dense phytoplankton blooms that attract the area's celebrated pelagic visitors — reef manta rays, whale sharks, thresher sharks, and hammerheads are all recorded species at this and neighboring Ticao dive sites. The wall itself is steep and coral-encrusted, dropping to 35 meters, with moray eels, scorpionfish, and stonefish hidden in the rocky substrate alongside the surge of larger animals passing in the open water beyond the wall edge. Ticao is a 45-minute boat ride from Donsol, making it a natural pairing with whale shark snorkeling for a full multi-day visit to the Bicol region.
+Great Wall of Ticao is a dive site in Philippines Donsol featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Ticao Island's south wall faces the current-swept waters of Ticao Pass, where Pa
 
 ## Marine Life
 
-Ticao Island South Wall faces the nutrient-rich Ticao Pass, drawing an exceptional mix of pelagics: reef manta rays are the signature sighting, and whale sharks, thresher sharks, and hammerheads have all been recorded at this and nearby Ticao sites. On the wall itself, moray eels, scorpionfish, and stonefish occupy the rocky substrate, while schools of barracuda and jacks work the current in the open water. Sea turtles and napoleon wrasse are routine sightings along the coral-encrusted wall face.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
@@ -59,5 +59,9 @@ Be aware of strong currents, jellyfish, sea urchins in this area. Dive within yo
 
 Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
+## Additional Resources
+
+- **Last Updated**: 2026-04-05
+
 ---
-*Sources: [Thresher Shark Divers Donsol Packages](https://thresher-shark-divers.com/collections/donsol-whale-shark-and-manta-packages), [RUSHKULT Whale Sharks Donsol](https://rushkult.com/eng/scubamagazine/whale-sharks-donsol-philippines/), [Shark Diving Philippines - Whale Sharks of Donsol](https://sharkdivingphilippines.com/whale-sharks-of-donsol/), [Guide to the Philippines Whale Sharks](https://guidetothephilippines.ph/articles/what-to-experience/whale-sharks-tours-philippines), [We Are Travel Girls Donsol Philippines](https://wearetravelgirls.com/donsol-philippines-whale-sharks/). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*

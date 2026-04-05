@@ -1,7 +1,7 @@
 ---
 name: Elephant Head Rock
-lat: 8.57
-lng: 97.64
+lat: 8.6217
+lng: 97.6413
 difficulty: Advanced
 maxDepth: 40
 entryType: liveaboard

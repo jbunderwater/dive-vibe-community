@@ -1,7 +1,7 @@
 ---
 name: Shark Close
-lat: -8.3
-lng: 124.53
+lat: -8.305
+lng: 124.365
 difficulty: Advanced
 maxDepth: 32
 entryType: boat

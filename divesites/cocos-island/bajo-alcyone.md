@@ -1,7 +1,7 @@
 ---
 name: Bajo Alcyone
-lat: 5.5167
-lng: -87.0667
+lat: 5.509
+lng: -87.023
 difficulty: Advanced
 maxDepth: 40
 entryType: liveaboard

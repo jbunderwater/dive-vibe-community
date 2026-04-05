@@ -1,7 +1,7 @@
 ---
 name: Pedernales Wreck
-lat: 12.59
-lng: -70.055
+lat: 12.5788
+lng: -70.0587
 difficulty: Beginner
 maxDepth: 8
 entryType: boat

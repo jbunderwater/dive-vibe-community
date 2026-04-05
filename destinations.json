@@ -1126,20 +1126,20 @@
     "slug": "philippines-donsol",
     "region": "Asia",
     "center": [
-      12.9,
-      123.6
+      12.75,
+      123.65
     ],
     "bounds": [
       [
-        12.8,
+        12.45,
         123.5
       ],
       [
         13.0,
-        123.7
+        123.85
       ]
     ],
-    "description": "Seasonal whale shark aggregations and snorkeling encounters.",
+    "description": "Seasonal whale shark aggregations and snorkeling encounters, with manta ray diving at Manta Bowl and reef diving around Ticao and San Miguel Islands.",
     "overviewFile": "overview.md",
     "countryCode": "PH"
   },
@@ -1906,7 +1906,7 @@
       ],
       [
         9.5,
-        -82.0
+        -81.9
       ]
     ],
     "description": "Panama's Caribbean archipelago with diverse coral gardens, sea grass beds, mangrove channels, and encounters with green sea turtles and nurse sharks.",
@@ -1927,7 +1927,7 @@
         -82.0
       ],
       [
-        7.9,
+        7.95,
         -81.3
       ]
     ],
@@ -2050,12 +2050,12 @@
     "slug": "alor-archipelago",
     "region": "Asia",
     "center": [
-      -8.25,
-      124.5
+      -8.3,
+      124.35
     ],
     "bounds": [
       [
-        -8.4,
+        -8.52,
         123.8
       ],
       [

@@ -58,14 +58,14 @@
   },
   {
     "name": "Elephant Head Rock",
-    "lat": 8.57,
-    "lon": 97.64,
+    "lat": 8.6217,
+    "lon": 97.6413,
     "depth": 40,
     "site_type": "pinnacle",
     "entry_type": "liveaboard",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "dive operator sites, ScubaBoard",
+    "validation_source": "divezone.net, dive operator sites, ScubaBoard",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps"
@@ -73,14 +73,14 @@
   },
   {
     "name": "Christmas Point",
-    "lat": 8.68,
-    "lon": 97.62,
+    "lat": 8.6808,
+    "lon": 97.6372,
     "depth": 40,
     "site_type": "boulder",
     "entry_type": "liveaboard",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "dive operator sites",
+    "validation_source": "divezone.net, dive operator sites",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps"
@@ -88,14 +88,14 @@
   },
   {
     "name": "East of Eden",
-    "lat": 8.59,
-    "lon": 97.66,
+    "lat": 8.5931,
+    "lon": 97.6406,
     "depth": 40,
     "site_type": "reef",
     "entry_type": "liveaboard",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "dive operator sites",
+    "validation_source": "divezone.net, dive operator sites",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps"
@@ -103,14 +103,14 @@
   },
   {
     "name": "Anita's Reef",
-    "lat": 8.56,
-    "lon": 97.635,
+    "lat": 8.5717,
+    "lon": 97.6472,
     "depth": 28,
     "site_type": "reef",
     "entry_type": "liveaboard",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "dive operator sites",
+    "validation_source": "divezone.net, dive operator sites",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps"
@@ -118,14 +118,14 @@
   },
   {
     "name": "Deep Six",
-    "lat": 8.65,
-    "lon": 97.615,
+    "lat": 8.6000,
+    "lon": 97.6347,
     "depth": 40,
     "site_type": "boulder",
     "entry_type": "liveaboard",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "dive operator sites",
+    "validation_source": "divezone.net, dive operator sites",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps"
@@ -133,14 +133,14 @@
   },
   {
     "name": "West of Six",
-    "lat": 8.64,
-    "lon": 97.61,
+    "lat": 8.5911,
+    "lon": 97.6350,
     "depth": 30,
     "site_type": "reef",
     "entry_type": "liveaboard",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "dive operator sites",
+    "validation_source": "divezone.net, dive operator sites",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps"
@@ -148,14 +148,14 @@
   },
   {
     "name": "Koh Bon Pinnacle",
-    "lat": 8.96,
-    "lon": 97.78,
+    "lat": 8.8336,
+    "lon": 97.7975,
     "depth": 50,
     "site_type": "pinnacle",
     "entry_type": "liveaboard",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "dive operator sites",
+    "validation_source": "divezone.net, dive operator sites",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps"
@@ -163,14 +163,14 @@
   },
   {
     "name": "Koh Tachai Pinnacle",
-    "lat": 9.13,
-    "lon": 97.83,
+    "lat": 9.0576,
+    "lon": 97.8134,
     "depth": 45,
     "site_type": "pinnacle",
     "entry_type": "liveaboard",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "dive operator sites",
+    "validation_source": "divezone.net, dive operator sites",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps"
@@ -178,14 +178,14 @@
   },
   {
     "name": "Beacon Reef",
-    "lat": 8.62,
-    "lon": 97.655,
+    "lat": 8.6305,
+    "lon": 97.6532,
     "depth": 30,
     "site_type": "reef",
     "entry_type": "liveaboard",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "dive operator sites",
+    "validation_source": "divezone.net, dive operator sites",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps"
@@ -193,14 +193,14 @@
   },
   {
     "name": "Turtle Rock",
-    "lat": 8.63,
-    "lon": 97.65,
+    "lat": 8.6636,
+    "lon": 97.6377,
     "depth": 25,
     "site_type": "boulder",
     "entry_type": "liveaboard",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "dive operator sites",
+    "validation_source": "divezone.net, dive operator sites",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps"
@@ -208,14 +208,14 @@
   },
   {
     "name": "Fantasea Reef",
-    "lat": 8.6,
-    "lon": 97.645,
+    "lat": 8.6560,
+    "lon": 97.6365,
     "depth": 40,
     "site_type": "boulder",
     "entry_type": "liveaboard",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "dive operator sites",
+    "validation_source": "divezone.net, dive operator sites",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps"

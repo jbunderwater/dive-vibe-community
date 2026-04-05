@@ -1,7 +1,7 @@
 ---
 name: Ron's Wreck
-lat: 16.085
-lng: -86.96
+lat: 16.083
+lng: -86.896
 difficulty: Intermediate
 maxDepth: 18
 entryType: boat
@@ -11,52 +11,57 @@ osmId: null
 addedBy: osm_import
 ---
 
-# Ron's Wreck
+## Ron's Wreck
 
-*A small, shallow wreck off Utila's south coast named after a local diving personality, now a compact artificial reef with excellent marine life density.*
+Ron's Wreck is a historic wreck dive in Utila, Caribbean.
 
 ## Overview
 
-Ron's Wreck is a small vessel deliberately sunk off the southern coast of Utila as an artificial reef and dive attraction. Named after Ron, a notable figure in Utila's diving history, the wreck lies at a comfortable maximum depth of 18 meters and is accessible to intermediate divers. The small size of the vessel means the entire wreck can be circumnavigated multiple times in a single dive, allowing thorough exploration. After years on the seabed, the hull carries good encrustation of corals and sponges. The site is typically calm, sheltered by Utila's reef system. Visibility averages 20–25 meters. Water temperature stays around 27–28°C.
+Ron's Wreck is a dive site in Utila featuring the wreck of the Ron's Wreck. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: South coast of Utila, Bay Islands, Honduras
+- **Location**: Utila, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20–25 meters (65–80 feet)
-- **Current**: Light to moderate on the south-facing exposure
-- **Best Time**: Year-round; calmer April to September on the south side
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Small wrecks in the Bay Islands are disproportionately productive per unit area compared to open reef sites. Ron's Wreck is no exception. Large groupers occupy the best hiding positions in the hull. Schools of yellowtail snappers hover above the structure. Moray eels — green and goldentail — inhabit the interior spaces. Spiny lobsters shelter under hull overhangs. Nurse sharks are found resting on the sandy seabed around the wreck. Hawksbill turtles visit the site regularly. The hull encrustation includes orange and purple sponges, tube worms, and encrusting stony corals. Spotted drums are found near the bow section.
+Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-Descend to the wreck top at 8–10 meters and begin an exterior circuit of the hull. Work systematically forward to aft, observing the encrustation and fish life on each section. Drop to the sandy base at 18 meters to examine the hull underside and the sandy surroundings. Complete multiple circuits of the wreck before ascending — each pass reveals new species. A torch allows illumination of the interior spaces from the exterior. Ascend to complete a safety stop at 5 meters above the wreck.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 18 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
-Operated by Utila Town dive shops. Entry via giant stride from the boat. The south coast crossing is 10–15 minutes from town.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
-## Tips
+## Tips and Recommendations
 
-- Multiple slow circuits of the wreck are more productive than one fast pass — take your time
-- Look into every dark opening with a torch before moving on — fish are layered in the shadow zones
-- The sandy areas around the wreck are worth checking for stingrays resting on the bottom
-- Night dives on small wrecks like Ron's are particularly productive — lobster, octopus, and moray eels are all active after dark
-- Pair Ron's Wreck with a wall or reef dive on the same side of the island for a two-tank south coast morning
+- Bring a dive torch to illuminate wreck interiors and dark overhangs
+- Maintain proper buoyancy to avoid disturbing silt inside the wreck
+- Do not attempt penetration without proper training and equipment
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
 
-## Safety
+## Safety Considerations
 
-Intermediate dive at a manageable depth. Do not attempt to enter the hull's enclosed spaces without proper wreck training and a dive torch — interior visibility can drop to zero when sediment is disturbed. The hull has deteriorated metal sections with potential sharp edges — maintain buoyancy and avoid contact. Always dive with a buddy.
+Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Small wreck photography rewards a systematic approach. Shoot the wreck hull from the stern end looking forward to capture the full vessel in one frame. Grouper portraits hovering near the superstructure are compelling close-up subjects. The encrusted hull sections photographed with a strobe and close-up lens reveal the texture and color of the sponge and coral growth. Moray portraits emerging from openings are a classic wreck shot.
+The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+
+## Additional Resources
+
+- **Last Updated**: 2026-04-05
 
 ---
-*Sources: [Utila Dive Center](https://utiladivecenter.com/), [Utila Cays Diving - Dive Sites](https://utilacaysdiving.com/dive-with-us/dive-sites/), [Alton's Dive Center Utila](https://diveinutila.com/), [World Adventure Divers - 10 Reasons to Dive Utila](https://worldadventuredivers.com/diving-utila/), [ZuBlu - Scuba Diving in Utila](https://www.zubludiving.com/destination/honduras/bay-islands/utila). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*

@@ -1,7 +1,7 @@
 ---
 name: Tiger Rock
-lat: 9.28
-lng: -82.18
+lat: 9.2167
+lng: -81.9333
 difficulty: Advanced
 maxDepth: 42
 entryType: boat

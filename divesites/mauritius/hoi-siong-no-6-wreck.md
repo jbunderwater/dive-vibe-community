@@ -1,7 +1,7 @@
 ---
 name: Hoi Siong No. 6 Wreck
-lat: -20.16
-lng: 57.5
+lat: -20.4214
+lng: 57.3161
 difficulty: Intermediate
 maxDepth: 29
 entryType: boat

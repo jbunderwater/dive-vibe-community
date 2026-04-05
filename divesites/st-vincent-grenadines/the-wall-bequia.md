@@ -1,7 +1,7 @@
 ---
 name: The Wall (Bequia)
-lat: 13.01
-lng: -61.24
+lat: 12.9843
+lng: -61.2594
 difficulty: Advanced
 maxDepth: 30
 entryType: boat

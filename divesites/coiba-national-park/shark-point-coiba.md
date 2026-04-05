@@ -1,7 +1,7 @@
 ---
 name: Shark Point Coiba
-lat: 7.53
-lng: -81.73
+lat: 7.52
+lng: -81.75
 difficulty: Advanced
 maxDepth: 30
 entryType: boat

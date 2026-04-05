@@ -1,8 +1,8 @@
 [
   {
     "name": "MV River Taw Wreck",
-    "lat": 17.29,
-    "lon": -62.72,
+    "lat": 17.281,
+    "lon": -62.6974,
     "depth": 12,
     "site_type": "wreck",
     "entry_type": "boat",
@@ -12,12 +12,12 @@
       "addedBy": "fill_caribbean"
     },
     "validated": true,
-    "validation_source": "Dive Nevis, Pro Divers St Kitts, DiveBuddy"
+    "validation_source": "PADI dive-site page (exact coords), Dive Nevis, Pro Divers St Kitts, DiveBuddy"
   },
   {
     "name": "Monkey Shoals",
-    "lat": 17.3,
-    "lon": -62.73,
+    "lat": 17.24,
+    "lon": -62.69,
     "depth": 34,
     "site_type": "reef",
     "entry_type": "boat",
@@ -27,12 +27,12 @@
       "addedBy": "fill_caribbean"
     },
     "validated": true,
-    "validation_source": "Living Oceans Foundation, DiveBuddy, PADI"
+    "validation_source": "Living Oceans Foundation (3mi offshore between islands, west of Narrows), DiveBuddy, PADI"
   },
   {
     "name": "Brassball Wreck",
-    "lat": 17.31,
-    "lon": -62.74,
+    "lat": 17.265,
+    "lon": -62.685,
     "depth": 8,
     "site_type": "wreck",
     "entry_type": "boat",
@@ -42,12 +42,12 @@
       "addedBy": "fill_caribbean"
     },
     "validated": true,
-    "validation_source": "My St Kitts Dive Buddy, Pro Divers St Kitts"
+    "validation_source": "My St Kitts Dive Buddy, Pro Divers St Kitts (SW coast near South Friars Bay)"
   },
   {
     "name": "Coral Garden",
-    "lat": 17.28,
-    "lon": -62.71,
+    "lat": 17.14,
+    "lon": -62.65,
     "depth": 15,
     "site_type": "reef",
     "entry_type": "boat",
@@ -57,12 +57,12 @@
       "addedBy": "fill_caribbean"
     },
     "validated": true,
-    "validation_source": "My St Kitts Dive Buddy, dive operator sites"
+    "validation_source": "dive-the-world.com (3km offshore Nevis), dive operator sites"
   },
   {
     "name": "Grid Iron",
-    "lat": 17.32,
-    "lon": -62.75,
+    "lat": 17.27,
+    "lon": -62.635,
     "depth": 22,
     "site_type": "reef",
     "entry_type": "boat",
@@ -73,14 +73,14 @@
       "validated": "true",
       "validation_source": "perplexity"
     },
-    "validated": false,
-    "validation_source": "Limited public information available",
-    "depth_max": 20
+    "validated": true,
+    "validation_source": "activecaribbeantravel.com (Atlantic side of St Kitts, 50-80ft)",
+    "depth_max": 24
   },
   {
     "name": "Sandy Point Reef",
-    "lat": 17.34,
-    "lon": -62.84,
+    "lat": 17.35,
+    "lon": -62.855,
     "depth": 40,
     "site_type": "reef",
     "entry_type": "boat",
@@ -90,12 +90,12 @@
       "addedBy": "fill_caribbean"
     },
     "validated": true,
-    "validation_source": "My St Kitts Dive Buddy, dive operator sites, DiveBuddy"
+    "validation_source": "My St Kitts Dive Buddy, DiveBuddy (offshore Brimstone Hill/Sandy Point Town)"
   },
   {
     "name": "Nag's Head",
-    "lat": 17.27,
-    "lon": -62.7,
+    "lat": 17.22,
+    "lon": -62.66,
     "depth": 24,
     "site_type": "wall",
     "entry_type": "boat",
@@ -105,12 +105,12 @@
       "addedBy": "fill_caribbean"
     },
     "validated": true,
-    "validation_source": "DiveBuddy, scubaspace.club, dive operator sites"
+    "validation_source": "DiveBuddy, Pro Divers St Kitts (southernmost tip of St Kitts SE peninsula, OSM capes nearby)"
   },
   {
     "name": "Coconut Tree Reef",
-    "lat": 17.36,
-    "lon": -62.79,
+    "lat": 17.29,
+    "lon": -62.715,
     "depth": 34,
     "site_type": "reef",
     "entry_type": "boat",
@@ -120,12 +120,12 @@
       "addedBy": "fill_caribbean"
     },
     "validated": true,
-    "validation_source": "Pro Divers St Kitts, dive operator sites"
+    "validation_source": "Pro Divers St Kitts (SW coast Basseterre Bay area, large reef)"
   },
   {
     "name": "Devil's Caves",
-    "lat": 17.13,
-    "lon": -62.6,
+    "lat": 17.105,
+    "lon": -62.595,
     "depth": 12,
     "site_type": "cave",
     "entry_type": "boat",
@@ -135,12 +135,12 @@
       "addedBy": "fill_caribbean"
     },
     "validated": true,
-    "validation_source": "dive operator sites (Nevis)"
+    "validation_source": "Frommers (south tip of Nevis, 20-min boat ride from Four Seasons), dive operator sites"
   },
   {
     "name": "Booby Shoals",
-    "lat": 17.16,
-    "lon": -62.62,
+    "lat": 17.23,
+    "lon": -62.615,
     "depth": 12,
     "site_type": "reef",
     "entry_type": "boat",
@@ -150,6 +150,6 @@
       "addedBy": "fill_caribbean"
     },
     "validated": true,
-    "validation_source": "My St Kitts Dive Buddy, Caradonna Adventures"
+    "validation_source": "OSM (Booby Island at 17.227,-62.610), My St Kitts Dive Buddy (in Narrows near Booby Island)"
   }
 ]

@@ -1,7 +1,7 @@
 ---
 name: Manta's City
-lat: 13.37
-lng: -81.4
+lat: 13.315
+lng: -81.3744
 difficulty: Intermediate
 maxDepth: 20
 entryType: boat

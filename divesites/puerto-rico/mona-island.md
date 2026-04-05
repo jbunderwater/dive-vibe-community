@@ -1,7 +1,7 @@
 ---
 name: Mona Island
 lat: 18.085
-lng: -67.89
+lng: -67.887
 difficulty: Advanced
 maxDepth: 40
 entryType: boat

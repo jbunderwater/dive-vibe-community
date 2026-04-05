@@ -1,7 +1,7 @@
 ---
 name: Five Finger Rock
-lat: 15.55
-lng: -61.46
+lat: 15.5908
+lng: -61.4756
 difficulty: Intermediate
 maxDepth: 30
 entryType: boat

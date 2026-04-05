@@ -11,52 +11,55 @@ osmId: 12988211769
 addedBy: osm_import
 ---
 
-# Gabinière Est
+## Gabiniėre Est
 
-The eastern face of the La Gabinière islet, nicknamed "MerouLand" by local divers for its extraordinary grouper density.
+Gabiniėre Est is a reef dive site in Port-Cros, Europe.
 
 ## Overview
 
-Gabinière Est (Eastern Gabinière) is the eastern drop-off face of the La Gabinière islet — the integral reserve zone at the heart of Port-Cros National Park. The local nickname "MerouLand" says everything about what draws divers here: brown groupers (*Epinephelus marginatus*) in exceptional numbers, approaching divers with bold curiosity at depths between 15 and 40 metres. The eastern face is characterised by rocky scree and overhangs rich in flora and fauna, with the sandy bottom at 45 metres. The dive runs from the eastern bay (Calanque au Lou) along the rocky wall face, descending gradually through the most productive marine life zones.
+Gabiniėre Est is a dive site in Port-Cros offering rewarding diving on healthy coral reef structures . De 10 a 40m... Appelé aussi MerouLand. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: Eastern face of La Gabinière islet, Port-Cros National Park, France
+- **Location**: Port-Cros, Europe
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 10–30 metres
-- **Water Temperature**: 13–25°C
-- **Current**: Light to moderate; can increase on the point
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Light to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-Brown groupers are the defining encounter — curious individuals that swim directly toward divers to investigate. Encounters with 8–12 groupers per dive are normal. The permanent barracuda school that occupies the broader La Gabinière site sweeps through this face regularly. Moray eels inhabit the rock crevices throughout the 10–25 metre depth range. Gorgonian red sea fans (*Paramuricea clavata*) become increasingly impressive below 20 metres, covering the overhanging rock faces. Two-banded sea bream, scorpionfish (well camouflaged on the rocks), and occasional dentex complete the fish community. Spiny lobsters shelter in the deeper crevices.
+Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
 
 ## Dive Profile
 
-Enter from the eastern bay (Calanque au Lou) and begin on the rocky structure at 15 metres. Move left (southward) along the wall face, descending gradually through the gorgonian zone to 30–40 metres maximum. The richest marine life concentrates between 15–25 metres. The sandy bottom at 45 metres is accessible for advanced divers but the intermediate depth range holds the most interest. Ascend back over the rocky scree to the shallower starting point.
+The site offers diving at depths ranging from shallow reef areas down to approximately 40 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Boat access via mooring buoy. Sign the national park protection agreement before the dive. Respect the no-anchoring rule — the protected bottom is fragile. Giant stride or back roll entry from the moored vessel. Deploy an SMB before ascending; other diving vessels may be present.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
-## Tips
+## Tips and Recommendations
 
-- To be accepted (and not startled) by the groupers, move very slowly and avoid looking directly at them initially — peripheral vision encounters seem to produce the best interactions
-- The gorgonians below 20 metres are the best-developed in Port-Cros; take time to examine them carefully
-- Arrive early in the season (May–June) for the best grouper behaviour before heavy summer boat traffic increases their wariness
-- The nearby Calanque au Lou bay offers a natural sheltered entry and is a good reference point underwater
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
-## Safety
+## Safety Considerations
 
-Do not anchor — this is both a regulation and a reef protection requirement. Advanced buoyancy control is essential on this technically intermediate but depth-significant dive. Monitor air carefully; the depth range encourages extended bottom time. Plan conservatively for the ascent. Port-Cros National Park wardens conduct regular underwater checks.
+Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-The eastern face of La Gabinière produces some of the most requested images in Mediterranean underwater photography. Grouper approach shots with gorgonians in the background are the signature image. Wide-angle shots of the barracuda school above the drop-off are also outstanding. Natural light is excellent in the upper 15 metres on sunny mornings.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+
+## Additional Resources
+
+- **Last Updated**: 2026-04-05
 
 ---
-*Sources: [CaPel - Port-Cros National Park Dive Sites](https://capel.portcros-parcnational.fr/en/ou-plonger/), [Parc national de Port-Cros - Plongée](https://www.portcros-parcnational.fr/fr/des-decouvertes/une-destination-dexception/la-mer-et-les-fonds-marins/plongee), [World Adventure Divers - Port-Cros](https://worldadventuredivers.com/port-cros-national-park/), [Lavandou Plongée - Port-Cros National Park](https://lavandou-plongee.com/en/scubadiving-spots/port-cros-national-park/), [European Diving School - Port-Cros](https://www.europeandiving.com/hyeres/diving-area/port-cros.html). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*

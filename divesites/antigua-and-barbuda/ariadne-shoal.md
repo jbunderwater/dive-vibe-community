@@ -1,7 +1,7 @@
 ---
 name: Ariadne Shoal
 lat: 17.05
-lng: -61.79
+lng: -61.99
 difficulty: Intermediate
 maxDepth: 15
 entryType: boat

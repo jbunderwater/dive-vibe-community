@@ -1,7 +1,7 @@
 ---
 name: Canales de Afuera
-lat: 7.4
-lng: -81.85
+lat: 7.6922
+lng: -81.6231
 difficulty: Advanced
 maxDepth: 30
 entryType: boat

@@ -17,13 +17,13 @@ Uçak Batığı is a historic wreck dive in Turkey, Europe.
 
 ## Overview
 
-Uçak Batığı ("Airplane Wreck") is the remains of a Savoia-Marchetti SM.79 Sparviero — an Italian three-engine torpedo bomber shot down by British anti-aircraft fire while attacking Meis Island during WWII — resting with its bow at 58 meters and tail at 71 meters in the waters near Kaş on Turkey's Lycia coast. At these depths the dive is strictly for experienced and technical divers, but when current permits, the site offers a haunting look at well-preserved 1940s aircraft structures surrounded by an abundance of predators: dentex, groupers, amberjacks, and bonitos all patrol the deep reef wall that surrounds the wreck. Strong and unpredictable currents make this one of Turkey's most challenging dives, but also one of its most historically significant underwater sites.
+Uçak Batığı is a dive site in Turkey featuring the wreck of the Uçak Batığı . Savoia-Marchetti SM.79 Italian torpedo bomber wreck from WWII, bow at 58m, tail at 71m. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
 - **Location**: Turkey, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 65 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
@@ -59,5 +59,9 @@ Be aware of cold water (north), currents, boat traffic in this area. Dive within
 
 The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
 
+## Additional Resources
+
+- **Last Updated**: 2026-04-05
+
 ---
-*Sources: [PADI - Diving in Turkey](https://www.padi.com/diving-in/turkey/), [Bluewater Dive Travel - Scuba Diving Turkey](https://www.bluewaterdivetravel.com/destination/scuba-diving-turkey), [DiveIn - Best Diving in Turkey](https://www.divein.com/diving/destination/turkey/), [X-Ray Mag - Turkey Mediterranean and Aegean](https://xray-mag.com/content/turkey-mediterranean-and-aegean-hotspots), [Chasing the Donkey - Scuba Diving Turkey](https://www.chasingthedonkey.com/scuba-diving-turkey-dive-sites/). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*

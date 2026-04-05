@@ -1,7 +1,7 @@
 ---
 name: Point Guignard
-lat: 15.28
-lng: -61.39
+lat: 15.2409
+lng: -61.3730
 difficulty: Beginner
 maxDepth: 25
 entryType: boat

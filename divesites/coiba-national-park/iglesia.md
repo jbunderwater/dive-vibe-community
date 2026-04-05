@@ -1,7 +1,7 @@
 ---
-name: Iglesia Point
-lat: 7.65
-lng: -81.68
+name: Iglesia
+lat: 7.64
+lng: -81.695
 difficulty: Advanced
 maxDepth: 30
 entryType: boat
@@ -11,13 +11,13 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Iglesia Point
+## Iglesia
 
-Iglesia Point (near Rancheria Island) is a biodiversity hotspot reef featuring dramatic rock formations, antler coral structures, and consistent shark encounters.
+Iglesia (near Rancheria Island) is a biodiversity hotspot reef featuring dramatic rock formations, antler coral structures, and consistent shark encounters.
 
 ## Overview
 
-Iglesia Point features numerous separate rock formations connected by sandy areas, creating an intricate underwater maze rich with biodiversity. Located near Rancheria Island in central Coiba, this Advanced dive site is known for high shark density and spectacular macro opportunities. Mild currents enhance food delivery and attract reef sharks in impressive numbers. Water temperatures average 24-28°C with visibility typically 15-25 meters. This is an excellent mid-trip dive when divers are acclimated to Coiba's conditions and shark activity.
+Iglesia features numerous separate rock formations connected by sandy areas, creating an intricate underwater maze rich with biodiversity. Located near Rancheria Island in central Coiba, this Advanced dive site is known for high shark density and spectacular macro opportunities. Mild currents enhance food delivery and attract reef sharks in impressive numbers. Water temperatures average 24-28°C with visibility typically 15-25 meters. This is an excellent mid-trip dive when divers are acclimated to Coiba's conditions and shark activity.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ Iglesia Point features numerous separate rock formations connected by sandy area
 
 ## Marine Life
 
-Iglesia Point showcases extremely high shark density—reef sharks in large numbers are virtually guaranteed. Additional species include sea turtles, lobsters, spotted eagle rays, and oceanic whitetip sharks. Coral structures include distinctive antler coral formations providing excellent macro habitat. Butterflyfish, surgeonfish, snappers, and diverse reef fish create vibrant scenes among the rock formations.
+Iglesia showcases extremely high shark density—reef sharks in large numbers are virtually guaranteed. Additional species include sea turtles, lobsters, spotted eagle rays, and oceanic whitetip sharks. Coral structures include distinctive antler coral formations providing excellent macro habitat. Butterflyfish, surgeonfish, snappers, and diverse reef fish create vibrant scenes among the rock formations.
 
 ## Dive Profile
 

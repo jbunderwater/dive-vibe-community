@@ -1,7 +1,7 @@
 ---
 name: The Cathedral
-lat: -8.28
-lng: 124.5
+lat: -8.285
+lng: 124.39
 difficulty: Advanced
 maxDepth: 35
 entryType: boat

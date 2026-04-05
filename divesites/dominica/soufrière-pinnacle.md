@@ -1,7 +1,7 @@
 ---
 name: Soufrière Pinnacle
-lat: 15.225
-lng: -61.36
+lat: 15.2310
+lng: -61.3621
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat

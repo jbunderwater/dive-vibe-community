@@ -1,7 +1,7 @@
 ---
 name: Ethel Beach
-lat: -10.45
-lng: 105.6167
+lat: -10.4639
+lng: 105.7085
 difficulty: Beginner
 maxDepth: 12
 entryType: shore

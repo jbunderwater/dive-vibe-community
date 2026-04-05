@@ -1,7 +1,7 @@
 ---
 name: Aiduma Island Wall
-lat: -3.9
-lng: 134.04
+lat: -3.9836
+lng: 134.0829
 difficulty: Advanced
 maxDepth: 30
 entryType: boat

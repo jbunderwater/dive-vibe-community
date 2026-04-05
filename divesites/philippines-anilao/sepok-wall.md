@@ -1,7 +1,7 @@
 ---
 name: Sepok Wall
-lat: 13.75
-lng: 120.88
+lat: 13.685433
+lng: 120.827117
 difficulty: Intermediate
 maxDepth: 30
 entryType: boat

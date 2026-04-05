@@ -1,7 +1,7 @@
 ---
 name: The Monument
-lat: -35.25
-lng: 136.08
+lat: -35.252
+lng: 136.078
 difficulty: Advanced
 maxDepth: 21
 entryType: boat

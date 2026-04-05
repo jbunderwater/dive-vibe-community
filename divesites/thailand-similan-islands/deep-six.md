@@ -1,7 +1,7 @@
 ---
 name: Deep Six
-lat: 8.65
-lng: 97.615
+lat: 8.6000
+lng: 97.6347
 difficulty: Advanced
 maxDepth: 40
 entryType: liveaboard

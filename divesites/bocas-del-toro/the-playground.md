@@ -1,7 +1,7 @@
 ---
 name: The Playground
-lat: 9.31
-lng: -82.2
+lat: 9.342
+lng: -82.23
 difficulty: Beginner
 maxDepth: 18
 entryType: boat

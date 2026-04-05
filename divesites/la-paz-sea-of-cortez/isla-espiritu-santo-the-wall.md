@@ -1,7 +1,7 @@
 ---
 name: Isla Espiritu Santo - The Wall
-lat: 24.5
-lng: -110.36
+lat: 24.528
+lng: -110.398
 difficulty: Advanced
 maxDepth: 35
 entryType: boat

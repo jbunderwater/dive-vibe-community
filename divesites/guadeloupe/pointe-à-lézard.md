@@ -17,7 +17,7 @@ Pointe à Lézard is a wall dive site in Guadeloupe, Caribbean.
 
 ## Overview
 
-Pointe à Lézard sits at the southern end of the Cousteau Reserve near Bouillante, and is one of the only dive sites in the Caribbean where active submarine geothermal vents bubble directly from the seabed — hot springs reaching up to 90°C emerge at 23 metres depth along the volcanic fault that underlies the entire Bouillante geothermal field. The gently sloping wall supports barrel sponges, gorgonian fans, and healthy Caribbean reef fish including firefish, trevally, grouper, and barracuda, with royal lobsters tucked into the rocky faults. The combination of volcanic geology, warm vent activity, and protected-reserve marine life makes Pointe à Lézard one of the most scientifically distinctive and visually unusual dive sites in Guadeloupe.
+Pointe à Lézard is a dive site in Guadeloupe featuring a dramatic vertical wall that drops into the deep blue . Gently sloping wall with barrel sponges, geothermal vents (23m), hot springs in basin, magnificent fault, royal lobsters, unique volcanic geothermal features from Bouillante. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Pointe à Lézard sits at the southern end of the Cousteau Reserve near Bouillan
 
 ## Marine Life
 
-The geothermally active wall supports healthy populations of Caribbean reef fish including trevally, grouper, and barracuda, with royal lobsters tucked into the rocky volcanic faults at depth. Hawksbill turtles, firefish, and French angelfish are regulars throughout the site, and the unique combination of warm vent activity and protected-reserve conditions concentrates unusual invertebrates and crustaceans around the active hydrothermal areas.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
@@ -59,5 +59,9 @@ Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your
 
 Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
+## Additional Resources
+
+- **Last Updated**: 2026-04-05
+
 ---
-*Sources: [Caribbean Dive Guide - Guadeloupe](https://www.caribdiveguide.com/guadeloupe.htm), [Cousteau Reserve Official Site](https://www.reserve-cousteau.fr/en), [PADI - Diving in Guadeloupe Islands](https://www.padi.com/diving-in/the-guadeloupe-islands/), [Guadeloupe Islands - Diving Guide](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Atlantis Formation - Cousteau Marine Park](https://www.atlantisformation-guadeloupe.com/en/Discover-the-Cousteau-Marine-Park-its-wildlife-and-outstanding-marine-life_a8.html). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*

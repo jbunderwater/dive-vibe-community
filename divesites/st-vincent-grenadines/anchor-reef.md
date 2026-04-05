@@ -1,7 +1,7 @@
 ---
 name: Anchor Reef
-lat: 13.15
-lng: -61.2
+lat: 13.2118
+lng: -61.2742
 difficulty: Intermediate
 maxDepth: 36
 entryType: boat

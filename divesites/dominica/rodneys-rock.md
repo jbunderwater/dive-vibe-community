@@ -1,7 +1,7 @@
 ---
 name: Rodney's Rock
-lat: 15.27
-lng: -61.378
+lat: 15.3796
+lng: -61.4120
 difficulty: Beginner
 maxDepth: 15
 entryType: boat

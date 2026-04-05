@@ -1,7 +1,7 @@
 ---
 name: Isla Cerralvo North
-lat: 24.2
-lng: -109.95
+lat: 24.5197
+lng: -109.88
 difficulty: Intermediate
 maxDepth: 18
 entryType: boat

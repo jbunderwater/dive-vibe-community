@@ -1,7 +1,7 @@
 ---
 name: Jicarita Island
-lat: 7.21
-lng: -81.8
+lat: 7.2133
+lng: -81.8025
 difficulty: Advanced
 maxDepth: 20
 entryType: boat

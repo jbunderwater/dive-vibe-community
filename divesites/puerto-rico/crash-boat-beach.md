@@ -1,7 +1,7 @@
 ---
 name: Crash Boat Beach
-lat: 18.49
-lng: -67.16
+lat: 18.459
+lng: -67.164
 difficulty: Beginner
 maxDepth: 15
 entryType: shore

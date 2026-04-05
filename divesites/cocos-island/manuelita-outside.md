@@ -1,7 +1,7 @@
 ---
 name: Manuelita Outside
-lat: 5.5583
-lng: -87.05
+lat: 5.5628
+lng: -87.0483
 difficulty: Advanced
 maxDepth: 35
 entryType: liveaboard

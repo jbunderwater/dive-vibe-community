@@ -1,7 +1,7 @@
 ---
 name: Wreck Rock
-lat: 9.32
-lng: -82.22
+lat: 9.322
+lng: -82.25
 difficulty: Intermediate
 maxDepth: 22
 entryType: boat

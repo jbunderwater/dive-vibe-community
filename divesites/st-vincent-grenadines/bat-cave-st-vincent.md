@@ -1,7 +1,7 @@
 ---
 name: Bat Cave (St. Vincent)
-lat: 13.2
-lng: -61.22
+lat: 13.199
+lng: -61.2758
 difficulty: Advanced
 maxDepth: 10
 entryType: boat

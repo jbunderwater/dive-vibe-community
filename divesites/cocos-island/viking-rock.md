@@ -1,7 +1,7 @@
 ---
 name: Viking Rock
-lat: 5.55
-lng: -87.0417
+lat: 5.5501
+lng: -87.0647
 difficulty: Advanced
 maxDepth: 40
 entryType: liveaboard

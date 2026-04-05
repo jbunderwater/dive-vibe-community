@@ -1,9 +1,9 @@
 ---
 name: Swanee Reef
-lat: 24.59
-lng: -110.395
-difficulty: Intermediate
-maxDepth: 22
+lat: 24.3912
+lng: -110.3055
+difficulty: Beginner
+maxDepth: 12
 entryType: boat
 siteType: reef
 ref: null
@@ -24,8 +24,8 @@ Swanee Reef is a natural reef located in the San Lorenzo Channel, situated betwe
 - **Location**: San Lorenzo Channel, between Isla Espiritu Santo and Isla Cerralvo
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 15-25 meters
 - **Current**: Variable, can increase with tidal exchange
 - **Best Time**: July to November

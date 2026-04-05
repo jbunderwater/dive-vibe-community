@@ -1,7 +1,7 @@
 ---
 name: La Reina
-lat: 24.58
-lng: -110.38
+lat: 24.4153
+lng: -109.975
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat

@@ -13,50 +13,53 @@ addedBy: osm_import
 
 ## Mġarr ix-Xini
 
-Mġarr ix-Xini is a narrow sheltered inlet on the south coast of Gozo, historically one of the island's most significant natural harbours — the Knights of St John maintained a watchtower here to guard against corsair raids, and the inlet's name translates as "the harbour of the galley." Today the inlet is one of Gozo's most picturesque and productive dive sites, offering calm sheltered water with rich marine life in a dramatically scenic limestone canyon setting.
+Mġarr ix-Xini is a beach dive site in Malta and Gozo, Europe.
 
 ## Overview
 
-The dive follows the rocky walls of the inlet's flanks, descending over limestone terrain to a flat sandy bottom at approximately 20 metres. The sheltered position of the inlet means this site is diveable in almost all weather conditions — an excellent alternative when Gozo's exposed north and west coasts are rough. The calm water and limited current make it suitable for intermediate divers, and the scenic canyon above water is part of the appeal. Visibility is typically 20 metres in the sheltered conditions.
+Mġarr ix-Xini is a dive site in Malta and Gozo offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
-- **Location**: South Gozo, Malta
+- **Location**: Malta and Gozo, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Beach dive
+- **Site Type**: Beach
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15–20 meters
-- **Current**: Generally very calm; sheltered inlet
-- **Best Time**: Year-round
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: May to October
 
 ## Marine Life
 
-The sheltered inlet walls support excellent moray eel and octopus populations. Sea bream and ornate wrasse are plentiful throughout the inlet. The sandy floor hosts goatfish, flatfish, and occasionally stingrays. Grouper occupy the deeper crevice zones. Nudibranchs are common on the encrusted rocks, particularly in spring. Posidonia seagrass grows on the flat sandy sections deeper in the inlet.
+Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
 
 ## Dive Profile
 
-Descend along the southern wall of the inlet from the boat, following the rocky terrain to the sandy bottom at 18–20 metres. Explore the floor and lower walls before ascending along the northern wall. The shallow inner section of the inlet provides an extended shallow finish with good light. Complete a safety stop at 5 metres.
+The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Dive boats from Gozo operators access the inlet. The sheltered position allows entry and exit in most conditions. Shore access is also possible from the small beach at the head of the inlet for those with their own equipment. The historical watchtower and scenic valley above are a rewarding surface interval backdrop.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- One of Gozo's most weather-reliable dive sites — useful when the north and west coasts are closed
-- The surrounding landscape — limestone terraces, ancient watchtower, traditional fishing boats — is quintessential Gozo
-- Look carefully for nudibranchs on the rocky walls in spring
-- Shore diving from the beach is possible for experienced divers
-- Posidonia seagrass in the inner sections supports seahorses — search carefully
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
-The sheltered location makes this one of Gozo's safest dive sites in terms of surface conditions. Current is minimal. Standard buddy diving and SMB protocols apply. In summer the inlet can have small local boat traffic — surface with awareness.
+Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-The scenic canyon setting creates compelling topside as well as underwater photography. The well-lit inlet walls and sandy floor reward both wide-angle and macro work. Moray eels at their crevice entrances, octopus, and nudibranchs are the strongest macro subjects. The historical watchtower above the inlet makes a striking surface shot.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+
+## Additional Resources
+
+- **Last Updated**: 2026-04-05
 
 ---
-*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [Atlantis Gozo Dive Sites](https://www.atlantisgozo.com/dive-sites/), [PADI Diving in Malta](https://www.padi.com/diving-in/malta/), [SCUBA Travel Malta Guide](https://www.scubatravel.co.uk/europe/malta-dive-in.html), [Dive Malta-Gozo](https://divemalta-gozo.com/diving-in-gozo/). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*

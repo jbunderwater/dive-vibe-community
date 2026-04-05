@@ -1,7 +1,7 @@
 ---
 name: Black Hills
-lat: 16.115
-lng: -86.92
+lat: 16.0955
+lng: -86.8617
 difficulty: Intermediate
 maxDepth: 45
 entryType: boat
@@ -11,52 +11,55 @@ osmId: null
 addedBy: osm_import
 ---
 
-# Black Hills
+## Black Hills
 
-*Volcanic rock formations and seamount structures off Utila's eastern end, rising from deep water and concentrating pelagic marine life in a dramatic topographic setting.*
+Black Hills is a seamount dive site in Utila, Caribbean.
 
 ## Overview
 
-Black Hills takes its name from the dark volcanic rock formations that rise from depth to create a seamount-like topography off the eastern coast of Utila. Unlike the limestone reef systems found throughout most of the Bay Islands, Black Hills features basaltic volcanic rock formations that create a distinctive, dramatic underwater landscape. The formations rise from deep water to a summit at approximately 15 meters, with the flanks dropping to 45 meters and beyond. The volcanic substrate supports different species of encrusting life compared to the limestone reefs, and the offshore, deep-water proximity attracts larger pelagic species. This is one of Utila's most unique dive sites.
+Black Hills is a dive site in Utila offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Eastern Utila, Bay Islands, Honduras
+- **Location**: Utila, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 45 meters
-- **Typical Visibility**: 25–35 meters (80–115 feet)
-- **Current**: Moderate; the exposed eastern location creates variable conditions
-- **Best Time**: Year-round; calmer conditions April to September; whale shark season March–May
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Black Hills is one of Utila's most reliable whale shark sites during the March–May and September–October seasons. The seamount's deep-water access and upwelling dynamics create concentrations of plankton that attract whale sharks seasonally. Caribbean reef sharks circle the formations. Eagle rays are regularly seen passing over the summit. The dark volcanic rock is colonized by encrusting sponges in distinctive patterns different from limestone reef sites. Large groupers and snappers are abundant. Schools of horse-eye jacks and greater amberjack patrol the water column. The offshore position gives Blue-water visibility that enhances sightings of all large animals.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
 
 ## Dive Profile
 
-Descend from the boat to the summit at 15 meters and begin exploring the formations. Drop down the flanks to 25–30 meters for the main dive. Keep the formation visible as a reference point to avoid drifting in the open water. Hover at the summit edge between 15–20 meters for the best pelagic visibility. If a whale shark approaches, ascend toward the surface (within 3 meters is the standard guideline in Honduran waters) and maintain pace without chasing. Ascend with SMB for open-water pickup.
+The site offers diving at depths ranging from shallow reef areas down to approximately 45 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Boat from Utila Town — the crossing to Black Hills takes 20–30 minutes depending on sea conditions. Entry via giant stride. The exposed location requires assessment of sea conditions before committing to the crossing.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
-## Tips
+## Tips and Recommendations
 
-- Black Hills is Utila's top whale shark encounter site during the March–May peak season
-- Maintain close contact with the formation to avoid being swept off by current in the open water
-- Snorkelers can also participate in whale shark encounters at the surface if sightings occur — keep fins on and stay ready
-- Nitrox 32% is useful for extended bottom time on the deeper flanks
-- This site rewards patient divers who hover at the summit edge watching the open water around the formation
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
-## Safety
+## Safety Considerations
 
-Exposed offshore site requiring good weather conditions. Current can be strong, especially on the flanks of the formation. Do not descend beyond 30 meters without proper gas planning. If swept from the formation in current, surface calmly, deploy SMB, and signal the boat. Whale sharks: never touch, never chase, never cut across their path — approach from the side and maintain a 3-meter distance in Honduras.
+Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Black Hills offers Utila's most dramatic underwater landscape photography. The dark volcanic rock against blue water creates striking contrast. Whale shark photography here in clear water with the formation visible in the background is exceptional. Wide-angle shots of the formation with divers above and the blue water column visible below convey the site's scale perfectly. Eagle rays and jack schools over the summit are excellent subjects.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+
+## Additional Resources
+
+- **Last Updated**: 2026-04-05
 
 ---
-*Sources: [Utila Dive Center](https://utiladivecenter.com/), [Utila Cays Diving - Dive Sites](https://utilacaysdiving.com/dive-with-us/dive-sites/), [Alton's Dive Center Utila](https://diveinutila.com/), [World Adventure Divers - 10 Reasons to Dive Utila](https://worldadventuredivers.com/diving-utila/), [ZuBlu - Scuba Diving in Utila](https://www.zubludiving.com/destination/honduras/bay-islands/utila). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*

@@ -1,7 +1,7 @@
 ---
 name: Blue Beach
-lat: 18.06
-lng: -65.29
+lat: 18.109
+lng: -65.408
 difficulty: Beginner
 maxDepth: 8
 entryType: shore

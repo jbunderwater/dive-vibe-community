@@ -1,7 +1,7 @@
 ---
 name: Mayreau Gardens
-lat: 12.64
-lng: -61.39
+lat: 12.629
+lng: -61.387
 difficulty: Beginner
 maxDepth: 16
 entryType: boat

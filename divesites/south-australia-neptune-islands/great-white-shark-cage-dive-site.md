@@ -1,7 +1,7 @@
 ---
 name: Great White Shark Cage Dive Site
-lat: -35.24
-lng: 136.07
+lat: -35.248
+lng: 136.082
 difficulty: Beginner
 maxDepth: 2
 entryType: boat

@@ -1,8 +1,8 @@
 [
   {
     "name": "Mpunguti Marine Reserve",
-    "lat": -4.68,
-    "lon": 39.39,
+    "lat": -4.6595,
+    "lon": 39.3806,
     "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
@@ -11,14 +11,14 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "web_research",
-      "notes": "Part of Kisite-Mpunguti Marine Park with 250+ fish species and 40+ coral varieties"
+      "validation_source": "zentacle.com, keybiodiversityareas.org",
+      "notes": "Part of Kisite-Mpunguti Marine Park with 250+ fish species and 40+ coral varieties. Coordinates from Wasini House Reef on Zentacle (nearest mapped site in Mpunguti reserve)."
     }
   },
   {
     "name": "Watamu Marine Park",
-    "lat": -3.37,
-    "lon": 40.02,
+    "lat": -3.3673,
+    "lon": 40.0098,
     "depth": 25,
     "site_type": "reef",
     "entry_type": "boat",
@@ -27,14 +27,14 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "web_research",
-      "notes": "Protected marine park with 16 dive sites, coral gardens with 150+ coral species, 250+ fish species"
+      "validation_source": "mpatlas.org, latitude.to",
+      "notes": "Protected marine park with 16 dive sites, coral gardens with 150+ coral species, 250+ fish species. Coordinates from MPAtlas park center."
     }
   },
   {
     "name": "Diani Reef",
-    "lat": -4.34,
-    "lon": 39.6,
+    "lat": -4.3555,
+    "lon": 39.5764,
     "depth": 16,
     "site_type": "reef",
     "entry_type": "boat",
@@ -43,14 +43,14 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "web_research",
-      "notes": "Known for whale sharks (Nov-Feb), turtle communities, vibrant coral gardens"
+      "validation_source": "zentacle.com",
+      "notes": "Known for whale sharks (Nov-Feb), turtle communities, vibrant coral gardens. Coordinates from Kongo Reef on Zentacle (central Diani reef area)."
     }
   },
   {
     "name": "MV Dania Wreck",
-    "lat": -4.05,
-    "lon": 39.7,
+    "lat": -4.0177,
+    "lon": 39.7743,
     "depth": 30,
     "site_type": "wreck",
     "entry_type": "boat",
@@ -59,13 +59,13 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "web_research",
-      "notes": "76m cargo ship scuttled 2002, sits upright on sand, penetration lines installed, moray eels and barracudas"
+      "validation_source": "en.wikipedia.org, zentacle.com",
+      "notes": "76m cargo ship scuttled 2002, sits upright on sand, penetration lines installed, moray eels and barracudas. Wikipedia coordinates: 4°01'04\"S 39°46'28\"E, confirmed by Zentacle."
     }
   },
   {
     "name": "Mtwapa Creek",
-    "lat": -3.95,
+    "lat": -3.9167,
     "lon": 39.75,
     "depth": 15,
     "site_type": "reef",
@@ -75,14 +75,14 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "web_research",
-      "notes": "Mangrove-lined tidal creek with strong currents, large barracuda and trevally schools, drift diving recommended"
+      "validation_source": "cruiserswiki.org, latlong.net",
+      "notes": "Mangrove-lined tidal creek with strong currents, large barracuda and trevally schools, drift diving recommended. Coordinates from cruising guide (3°55'S, 39°45'E)."
     }
   },
   {
     "name": "Nyali Reef",
-    "lat": -4.02,
-    "lon": 39.71,
+    "lat": -4.0623,
+    "lon": 39.7123,
     "depth": 20,
     "site_type": "wall",
     "entry_type": "boat",
@@ -91,14 +91,14 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "web_research",
-      "notes": "Reef wall with drop-offs, crevices with octopuses and lionfish, accessible from shore at shallow depths"
+      "validation_source": "coraltraits.org",
+      "notes": "Reef wall with drop-offs, crevices with octopuses and lionfish, accessible from shore at shallow depths. Coordinates from Coral Trait Database."
     }
   },
   {
     "name": "Shimoni Caves Reef",
-    "lat": -4.65,
-    "lon": 39.38,
+    "lat": -4.648,
+    "lon": 39.382,
     "depth": 28,
     "site_type": "cave",
     "entry_type": "boat",
@@ -107,14 +107,14 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "web_research",
-      "notes": "Dramatic underwater caves and tunnels with two-current convergence point, dolphins and reef sharks, experienced divers only"
+      "validation_source": "latitude.to, latlong.info",
+      "notes": "Dramatic underwater caves and tunnels with two-current convergence point, dolphins and reef sharks, experienced divers only. Coordinates based on Shimoni harbor position (dive site accessed from Shimoni)."
     }
   },
   {
     "name": "Sita Reef",
-    "lat": -4.7,
-    "lon": 39.36,
+    "lat": -4.7167,
+    "lon": 39.3667,
     "depth": 18,
     "site_type": "reef",
     "entry_type": "boat",
@@ -123,14 +123,14 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "web_research",
-      "notes": "Part of Diani area reef system, coral reef with depth 12-18m typical range"
+      "validation_source": "keybiodiversityareas.org",
+      "notes": "Part of Kisite-Mpunguti reef system, coral reef with depth 12-18m typical range. Coordinates from Kisite Island center (reef surrounds island)."
     }
   },
   {
     "name": "Funzi Island",
-    "lat": -4.56,
-    "lon": 39.42,
+    "lat": -4.5651,
+    "lon": 39.4478,
     "depth": 16,
     "site_type": "reef",
     "entry_type": "boat",
@@ -139,13 +139,13 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "web_research",
-      "notes": "Four mangrove-covered islets near Kisite-Mpunguti, 360+ fish species and 45+ coral types in region"
+      "validation_source": "mapcarta.com, metar-taf.com",
+      "notes": "Four mangrove-covered islets near Kisite-Mpunguti, 360+ fish species and 45+ coral types in region. Coordinates from geographic databases."
     }
   },
   {
     "name": "Tewa Caves",
-    "lat": -3.38,
+    "lat": -3.36,
     "lon": 40.03,
     "depth": 18,
     "site_type": "cave",
@@ -155,8 +155,8 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": true,
-      "validation_source": "web_research",
-      "notes": "Partly underwater caves with giant groupers (up to 363kg), suitable for all experience levels, white sand surroundings"
+      "validation_source": "mpatlas.org, diveinkenya.com",
+      "notes": "Partly underwater caves with giant groupers (up to 363kg), suitable for all experience levels, white sand surroundings. Coordinates estimated from Watamu Marine Park boundary (dive site is within/near the park, accessed by boat from Watamu)."
     }
   }
 ]

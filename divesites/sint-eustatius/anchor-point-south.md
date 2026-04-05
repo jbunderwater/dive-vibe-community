@@ -1,7 +1,7 @@
 ---
 name: Anchor Point South
-lat: 17.475
-lng: -62.975
+lat: 17.4638
+lng: -62.9867
 difficulty: Intermediate
 maxDepth: 18
 entryType: boat

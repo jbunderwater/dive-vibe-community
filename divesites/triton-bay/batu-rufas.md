@@ -1,7 +1,7 @@
 ---
 name: Batu Rufas
-lat: -3.85
-lng: 134.05
+lat: -3.9131
+lng: 134.1222
 difficulty: Intermediate
 maxDepth: 22
 entryType: boat

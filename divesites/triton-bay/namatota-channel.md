@@ -1,7 +1,7 @@
 ---
 name: Namatota Channel
-lat: -3.82
-lng: 134.06
+lat: -3.8721
+lng: 133.9258
 difficulty: Advanced
 maxDepth: 28
 entryType: boat

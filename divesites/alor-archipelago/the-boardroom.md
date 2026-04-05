@@ -1,7 +1,7 @@
 ---
 name: The Boardroom
-lat: -8.22
-lng: 124.41
+lat: -8.288
+lng: 124.334
 difficulty: Intermediate
 maxDepth: 16
 entryType: boat

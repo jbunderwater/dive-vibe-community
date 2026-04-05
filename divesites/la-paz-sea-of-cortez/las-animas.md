@@ -1,7 +1,7 @@
 ---
 name: Las Animas
-lat: 25.1
-lng: -110.5
+lat: 24.6882
+lng: -110.486
 difficulty: Advanced
 maxDepth: 28
 entryType: boat

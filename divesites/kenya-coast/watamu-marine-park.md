@@ -1,7 +1,7 @@
 ---
 name: Watamu Marine Park
-lat: -3.37
-lng: 40.02
+lat: -3.3673
+lng: 40.0098
 difficulty: Beginner
 maxDepth: 25
 entryType: boat

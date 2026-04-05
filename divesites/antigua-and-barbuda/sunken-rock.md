@@ -1,7 +1,7 @@
 ---
 name: Sunken Rock
-lat: 17.02
-lng: -61.77
+lat: 17.005
+lng: -61.73
 difficulty: Advanced
 maxDepth: 30
 entryType: boat

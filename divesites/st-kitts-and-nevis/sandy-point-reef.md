@@ -1,7 +1,7 @@
 ---
 name: Sandy Point Reef
-lat: 17.34
-lng: -62.84
+lat: 17.35
+lng: -62.855
 difficulty: Intermediate
 maxDepth: 40
 entryType: boat

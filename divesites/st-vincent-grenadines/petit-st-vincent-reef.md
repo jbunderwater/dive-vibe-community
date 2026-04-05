@@ -1,7 +1,7 @@
 ---
 name: Petit St. Vincent Reef
-lat: 12.54
-lng: -61.38
+lat: 12.545
+lng: -61.387
 difficulty: Intermediate
 maxDepth: 20
 entryType: boat

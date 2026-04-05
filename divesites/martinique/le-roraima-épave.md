@@ -17,13 +17,13 @@ Le Roraima (épave) is a historic wreck dive in Martinique, Caribbean.
 
 ## Overview
 
-The Roraima was a 110-metre Canadian cargo steamship carrying potassium nitrate that burned for three days after Mount Pelée's pyroclastic surge struck Saint-Pierre on 8 May 1902, eventually sinking to rest with its bow at 36 metres and its stern at 55 metres. Jacques Cousteau nicknamed it the "White-haired Wreck" for the hair-like algae covering the calcined hull, and today the engine room, boiler, and the captain's bathroom with its original blue faience tiling remain explorable through the hull openings. Schools of barracuda, snappers, and trumpetfish animate the wreck, making this — the largest vessel in the Saint-Pierre graveyard — one of the Caribbean's most historically charged technical dives.
+Le Roraima (épave) is a dive site in Martinique featuring the wreck of the Le Roraima (épave) which sank in 1902-05-08. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
 - **Location**: Martinique, Caribbean
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 55 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
@@ -59,5 +59,9 @@ Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your
 
 The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
 
+## Additional Resources
+
+- **Last Updated**: 2026-04-05
+
 ---
-*Sources: [Martinique Tourism - Diving](https://www.martinique.org/en/things-to-do/water-sports-and-activities/diving), [Scuba Diving Magazine - Martinique Guide](https://www.scubadiving.com/divers-guide-martinique-shipwrecks-turtles-and-volcanic-reefs), [Guide Martinique - Spots de Plongée](https://www.guidemartinique.com/activites/plongee/spots.php), [Wannadive - Saint Pierre Martinique](https://www.wannadive.net/spot/Central_America/Martinique/Saint_Pierre/index.html), [DiveIn - Best Dive Sites in Martinique](https://www.divein.com/diving/destination/diving-in-martinique/). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*

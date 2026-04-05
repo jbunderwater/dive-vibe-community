@@ -1,7 +1,7 @@
 ---
 name: Barbuda Reef
-lat: 17.62
-lng: -61.75
+lat: 17.58
+lng: -61.82
 difficulty: Beginner
 maxDepth: 15
 entryType: boat

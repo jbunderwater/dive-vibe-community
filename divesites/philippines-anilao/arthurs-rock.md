@@ -1,7 +1,7 @@
 ---
 name: Arthur's Rock
-lat: 13.765
-lng: 120.895
+lat: 13.703867
+lng: 120.872783
 difficulty: Beginner
 maxDepth: 21
 entryType: boat

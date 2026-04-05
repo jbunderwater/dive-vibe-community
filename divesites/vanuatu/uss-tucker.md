@@ -1,7 +1,7 @@
 ---
 name: USS Tucker
-lat: -15.52
-lng: 167.18
+lat: -15.6093
+lng: 167.1332
 difficulty: Advanced
 maxDepth: 24
 entryType: boat

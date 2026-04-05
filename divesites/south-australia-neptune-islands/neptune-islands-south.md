@@ -1,7 +1,7 @@
 ---
 name: Neptune Islands South
-lat: -35.335
-lng: 136.12
+lat: -35.3377
+lng: 136.1174
 difficulty: Advanced
 maxDepth: 21
 entryType: boat

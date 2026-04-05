@@ -1,7 +1,7 @@
 ---
 name: North Neptune Reef
-lat: -35.22
-lng: 136.05
+lat: -35.2333
+lng: 136.0656
 difficulty: Advanced
 maxDepth: 21
 entryType: boat

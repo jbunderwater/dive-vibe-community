@@ -1,7 +1,7 @@
 ---
 name: Malmok Reef
-lat: 12.57
-lng: -70.048
+lat: 12.5980
+lng: -70.0624
 difficulty: Beginner
 maxDepth: 5
 entryType: shore

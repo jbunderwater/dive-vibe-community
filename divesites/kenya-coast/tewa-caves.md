@@ -1,6 +1,6 @@
 ---
 name: Tewa Caves
-lat: -3.38
+lat: -3.36
 lng: 40.03
 difficulty: Intermediate
 maxDepth: 18

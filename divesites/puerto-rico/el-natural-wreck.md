@@ -1,7 +1,7 @@
 ---
 name: El Natural Wreck
-lat: 18.4
-lng: -67.2
+lat: 18.463
+lng: -67.168
 difficulty: Beginner
 maxDepth: 24
 entryType: shore

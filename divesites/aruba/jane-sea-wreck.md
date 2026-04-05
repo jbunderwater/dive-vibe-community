@@ -1,7 +1,7 @@
 ---
 name: Jane Sea Wreck
-lat: 12.54
-lng: -70.02
+lat: 12.4736
+lng: -69.9951
 difficulty: Intermediate
 maxDepth: 18
 entryType: boat

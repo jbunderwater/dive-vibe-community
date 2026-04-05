@@ -1,7 +1,7 @@
 ---
 name: Ollies Lolly
-lat: -15.51
-lng: 167.19
+lat: -17.7025
+lng: 168.2580
 difficulty: Beginner
 maxDepth: 9
 entryType: boat

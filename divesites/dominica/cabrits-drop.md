@@ -1,7 +1,7 @@
 ---
 name: Cabrits Drop
-lat: 15.58
-lng: -61.47
+lat: 15.5863
+lng: -61.4742
 difficulty: Advanced
 maxDepth: 40
 entryType: boat

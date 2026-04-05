@@ -1,7 +1,7 @@
 ---
 name: Table Rock
-lat: 13.345
-lng: -81.35
+lat: 13.4
+lng: -81.33
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat

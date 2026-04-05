@@ -1,7 +1,7 @@
 ---
 name: Koala Reef
-lat: 13.735
-lng: 120.865
+lat: 13.716017
+lng: 120.871933
 difficulty: Intermediate
 maxDepth: 20
 entryType: boat

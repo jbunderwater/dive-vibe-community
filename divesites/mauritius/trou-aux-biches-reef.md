@@ -1,7 +1,7 @@
 ---
 name: Trou aux Biches Reef
-lat: -20.03
-lng: 57.53
+lat: -20.042
+lng: 57.535
 difficulty: Beginner
 maxDepth: 12
 entryType: boat

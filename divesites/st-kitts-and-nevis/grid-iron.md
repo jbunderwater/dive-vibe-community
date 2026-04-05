@@ -1,7 +1,7 @@
 ---
 name: Grid Iron
-lat: 17.32
-lng: -62.75
+lat: 17.27
+lng: -62.635
 difficulty: Intermediate
 maxDepth: 22
 entryType: boat

@@ -1,7 +1,7 @@
 ---
 name: Zapatillas Reef
-lat: 9.26
-lng: -82.08
+lat: 9.265
+lng: -82.055
 difficulty: Beginner
 maxDepth: 14
 entryType: boat

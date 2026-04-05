@@ -1,7 +1,7 @@
 ---
 name: SS Antilla Wreck
-lat: 12.6
-lng: -70.045
+lat: 12.5934
+lng: -70.0634
 difficulty: Intermediate
 maxDepth: 18
 entryType: boat

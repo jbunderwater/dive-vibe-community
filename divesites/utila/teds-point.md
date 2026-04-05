@@ -1,7 +1,7 @@
 ---
 name: Ted's Point
-lat: 16.07
-lng: -86.97
+lat: 16.0878
+lng: -86.8862
 difficulty: Intermediate
 maxDepth: 30
 entryType: boat
@@ -11,52 +11,57 @@ osmId: null
 addedBy: osm_import
 ---
 
-# Ted's Point
+## Ted's Point
 
-*A wall dive on Utila's southwestern tip, featuring a curved reef promontory where the wall system wraps around the island's corner into stronger current and bluer water.*
+Ted's Point is a wall dive site in Utila, Caribbean.
 
 ## Overview
 
-Ted's Point marks the southwestern corner of Utila's reef system, where the southern and western wall faces meet at a promontory. The curved topography creates a concentration of current at the point, which in turn attracts more pelagic life than the straight wall sections to either side. The reef crest at Ted's Point sits at 8–10 meters, dropping to 30 meters along the wall face. This is a well-regarded intermediate-to-advanced site, particularly popular with divers who have already completed the beginner sites and want to experience a more dynamic wall dive. Visibility typically reaches 25–30 meters. Water temperatures stay at 27–28°C.
+Ted's Point is a dive site in Utila featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
 
 ## Site Information
 
-- **Location**: Southwest tip of Utila, Bay Islands, Honduras
+- **Location**: Utila, Caribbean
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 25–30 meters (80–100 feet)
-- **Current**: Moderate; the point concentrates tidal flow and creates interesting current dynamics
-- **Best Time**: Year-round; assess current conditions with operator
+- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Current**: Light to moderate
+- **Best Time**: December to April (dry season)
 
 ## Marine Life
 
-Ted's Point is one of Utila's more reliable locations for eagle ray sightings — the current at the point creates upwelling that attracts them. Caribbean reef sharks cruise the wall face. The reef top is heavily covered with sea fans, barrel sponges, and hard corals. Hawksbill turtles are common. The point topography creates a rich microhabitat at the corner of the wall where the current shadow zone harbors concentrations of smaller reef fish. Spotted drums, creole wrasse schools, and large groupers are typically present. Southern stingrays glide on the sandy sections of the reef behind the point.
+Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Approach the reef from the boat and descend to the reef top at 8–10 meters. Navigate to the point and begin the main wall dive from the promontory corner. Current direction determines which way to proceed along the wall. Descend to 20–25 meters for the primary exploration. At the corner of the point, watch the open water in both directions — pelagic animals concentrate here. Ascend conservatively and complete the safety stop on the reef top. Coordinate drift pickup with the boat operator.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
-Served by Utila Town dive operators. Entry via giant stride. The southwest location requires a 15–20 minute boat crossing from Utila Town. Deploy an SMB for the open-water safety stop.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
-## Tips
+## Tips and Recommendations
 
-- Plan your entry and exit with current direction — a drift along the wall with current is comfortable; fighting it back is exhausting
-- Spend time at the exact point corner watching the open water on both sides simultaneously
-- This is one of Utila's better sites for a dedicated eagle ray watching experience
-- The site is best dived as the first dive of the day before current builds in the afternoon
-- Combine with Duppy Waters on the same southern wall section for a two-tank day
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
-## Safety
+## Safety Considerations
 
-The point concentrates current — be prepared for stronger flow than on the straight wall sections. If current is too strong, abort the dive and choose a more sheltered site. Monitor depth at the wall edge carefully. Always carry and deploy an SMB for the open-water ascent.
+Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Ted's Point is Utila's best location for eagle ray photography in a wall dive context. The clear, blue water backdrop combined with the current-driven fish concentrations creates compelling subjects. The wall face at the point with sea fans and the curved topography is a strong wide-angle subject. Frame the point corner from below looking up toward the surface for a dramatic perspective.
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+
+## Additional Resources
+
+- **Last Updated**: 2026-04-05
 
 ---
-*Sources: [Utila Dive Center](https://utiladivecenter.com/), [Utila Cays Diving - Dive Sites](https://utilacaysdiving.com/dive-with-us/dive-sites/), [Alton's Dive Center Utila](https://diveinutila.com/), [World Adventure Divers - 10 Reasons to Dive Utila](https://worldadventuredivers.com/diving-utila/), [ZuBlu - Scuba Diving in Utila](https://www.zubludiving.com/destination/honduras/bay-islands/utila). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*

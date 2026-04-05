@@ -1,7 +1,7 @@
 ---
 name: Desecheo Island Wall
-lat: 18.383
-lng: -67.48
+lat: 18.386
+lng: -67.47
 difficulty: Advanced
 maxDepth: 40
 entryType: boat

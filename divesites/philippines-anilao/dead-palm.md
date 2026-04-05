@@ -1,7 +1,7 @@
 ---
 name: Dead Palm
-lat: 13.785
-lng: 120.915
+lat: 13.69525
+lng: 120.884733
 difficulty: Beginner
 maxDepth: 10
 entryType: shore

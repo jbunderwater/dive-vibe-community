@@ -1,7 +1,7 @@
 ---
 name: La Parguera Wall
-lat: 17.96
-lng: -67.05
+lat: 17.947
+lng: -67.042
 difficulty: Advanced
 maxDepth: 40
 entryType: boat

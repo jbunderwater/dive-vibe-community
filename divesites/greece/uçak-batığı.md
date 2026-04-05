@@ -17,13 +17,13 @@ Uçak Batığı is a historic wreck dive in Greece, Europe.
 
 ## Overview
 
-Uçak Batığı — Turkish for "airplane wreck" — is an advanced-depth wreck site in Greek Aegean waters, reaching 72 metres and placing it in technical diving territory accessible only to divers with appropriate training and gas management skills. Greece's Aegean and Ionian waters contain numerous WWII-era aircraft and vessel wrecks opened to divers by the Greek Ministry of Culture and Sport, and deeper sites like this one challenge advanced divers with the dramatic light, cool temperatures, and compressed bottom times of Aegean deep diving. The wreck structure provides substrate for Mediterranean species including conger eels, groupers, moray eels, lobsters, and sea bream that inhabit the encrusted sections within recreational and technical depth ranges.
+Uçak Batığı is a dive site in Greece featuring the wreck of the Uçak Batığı. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
 - **Location**: Greece, Europe
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 72 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
@@ -59,5 +59,9 @@ Be aware of cold water (north), currents, boat traffic in this area. Dive within
 
 The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
 
+## Additional Resources
+
+- **Last Updated**: 2026-04-05
+
 ---
-*Sources: [PADI - Diving in Greece](https://www.padi.com/diving-in/greece/), [SCUBA Travel - Greece Diving](https://www.scubatravel.co.uk/europe/greece-diving.html), [SSI - Ultimate Guide to Scuba Diving in Greece](https://www.divessi.com/en/blog/ultimate-guide-scuba-diving-in-greece-9768.html), [Discover Greece - Scuba Diving Destinations](https://www.discovergreece.com/travel-ideas/best-of/5-popular-scuba-diving-destinations-greece), [Visit Greece - Scuba Diving](https://www.visitgreece.gr/inspirations/scuba_diving/). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*

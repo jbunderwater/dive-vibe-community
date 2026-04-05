@@ -1,7 +1,7 @@
 ---
 name: Mustique Reef
-lat: 12.885
-lng: -61.18
+lat: 12.869
+lng: -61.187
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat

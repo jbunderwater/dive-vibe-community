@@ -1,7 +1,7 @@
 ---
 name: Sandy Island Reef
-lat: 17.16
-lng: -61.88
+lat: 17.1343
+lng: -61.9263
 difficulty: Beginner
 maxDepth: 12
 entryType: boat

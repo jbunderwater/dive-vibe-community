@@ -1,7 +1,7 @@
 ---
 name: Hideaway Island Reef
-lat: -17.71
-lng: 168.28
+lat: -17.6997
+lng: 168.2615
 difficulty: Beginner
 maxDepth: 10
 entryType: shore

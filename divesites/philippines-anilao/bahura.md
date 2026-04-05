@@ -1,7 +1,7 @@
 ---
 name: Bahura
-lat: 13.8
-lng: 120.93
+lat: 13.694817
+lng: 120.842317
 difficulty: Intermediate
 maxDepth: 16
 entryType: boat

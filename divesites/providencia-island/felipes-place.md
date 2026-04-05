@@ -1,7 +1,7 @@
 ---
 name: Felipe's Place
-lat: 13.36
-lng: -81.38
+lat: 13.3989
+lng: -81.3992
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat

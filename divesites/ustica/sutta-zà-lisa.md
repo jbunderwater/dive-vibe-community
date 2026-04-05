@@ -17,7 +17,7 @@ Sutta zà Lisa is a wall dive site in Ustica, Europe.
 
 ## Overview
 
-Sutta zà Lisa is a playground of interconnected tunnels and swim-throughs on Ustica's southern coast, where yellow gorgonians, cluster anemones, and orange corals cover the wall between passages, some dropping to 27 metres. The dive rewards macro photographers with an exceptional variety of nudibranchs, slipper lobsters, and crabs tucked into the richly coloured rock, while looking out from the wall into the blue often delivers passing amberjack and tuna. A submerged cave at nine metres also holds fragments of late Roman amphorae, adding an archaeological dimension to an already spectacular site.
+Sutta zà Lisa is a dive site in Ustica featuring a dramatic vertical wall that drops into the deep blue. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
 
 ## Site Information
 
@@ -59,5 +59,9 @@ Be aware of cold water (north), currents, boat traffic in this area. Dive within
 
 Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
+## Additional Resources
+
+- **Last Updated**: 2026-04-05
+
 ---
-*Sources: [PADI - Diving Ustica](https://www.padi.com/diving-in/italy/ustica/), [SCUBA Travel - Ustica Dive Guide](https://www.scubatravel.co.uk/italy/usticadive.html), [Ustica Diving](https://usticadiving.com/), [Blue Diving Ustica](https://www.bluedivingustica.it/en/), [Divernet - Ustica: Sicily Diving Jewel](https://divernet.com/world-dives/europe/ustica-sicilys-diving-jewel/). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*

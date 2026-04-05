@@ -1,7 +1,7 @@
 ---
 name: Donsol Whale Shark Area
-lat: 12.91
-lng: 123.595
+lat: 12.9152
+lng: 123.5856
 difficulty: Beginner
 maxDepth: 10
 entryType: boat
@@ -17,7 +17,7 @@ Donsol Whale Shark Area is a snorkel dive site in Philippines Donsol, Asia.
 
 ## Overview
 
-Donsol Bay is considered home to one of the world's largest seasonal aggregations of whale sharks (locally called butanding), drawn to the plankton-rich waters where Donsol River feeds into the bay from November through June, with February to April being peak season. Interaction here is snorkel-only — scuba diving with the whale sharks is not permitted — with certified Butanding Interaction Officers (BIOs) briefing visitors on responsible protocols and guiding outrigger boats through the feeding area. This is widely recognized as one of the world's most ethical whale shark encounters, pioneered with WWF Philippines support after the community chose ecotourism over shark hunting following a 1998 discovery of the aggregation.
+Donsol Whale Shark Area is a dive site in Philippines Donsol offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Donsol Bay is considered home to one of the world's largest seasonal aggregation
 
 ## Marine Life
 
-Donsol Bay hosts one of the world's largest seasonal aggregations of whale sharks (butanding), drawn by the plankton blooms where the Donsol River discharges into the bay from November through June, peaking February to April. Encounters are snorkel-only — multiple individuals are often sighted in a single session, ranging from juveniles to large adults exceeding 8 meters. Manta rays also occasionally feed in the same plankton-rich waters, and spinner dolphins are sometimes seen in the bay during peak season.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
@@ -59,5 +59,9 @@ Be aware of strong currents, jellyfish, sea urchins in this area. Dive within yo
 
 This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
+## Additional Resources
+
+- **Last Updated**: 2026-04-05
+
 ---
-*Sources: [Thresher Shark Divers Donsol Packages](https://thresher-shark-divers.com/collections/donsol-whale-shark-and-manta-packages), [RUSHKULT Whale Sharks Donsol](https://rushkult.com/eng/scubamagazine/whale-sharks-donsol-philippines/), [Shark Diving Philippines - Whale Sharks of Donsol](https://sharkdivingphilippines.com/whale-sharks-of-donsol/), [Guide to the Philippines Whale Sharks](https://guidetothephilippines.ph/articles/what-to-experience/whale-sharks-tours-philippines), [We Are Travel Girls Donsol Philippines](https://wearetravelgirls.com/donsol-philippines-whale-sharks/). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*

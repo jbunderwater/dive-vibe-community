@@ -1,7 +1,7 @@
 ---
 name: Steps (Tres Palmas)
 lat: 18.35
-lng: -67.27
+lng: -67.265
 difficulty: Beginner
 maxDepth: 10
 entryType: shore

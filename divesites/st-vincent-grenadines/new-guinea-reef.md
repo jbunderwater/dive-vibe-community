@@ -1,7 +1,7 @@
 ---
 name: New Guinea Reef
-lat: 13.175
-lng: -61.19
+lat: 13.188
+lng: -61.269
 difficulty: Beginner
 maxDepth: 14
 entryType: boat

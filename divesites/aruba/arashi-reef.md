@@ -1,7 +1,7 @@
 ---
 name: Arashi Reef
-lat: 12.61
-lng: -70.06
+lat: 12.6099
+lng: -70.0566
 difficulty: Beginner
 maxDepth: 11
 entryType: boat

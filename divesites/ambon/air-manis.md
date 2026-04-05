@@ -1,7 +1,7 @@
 ---
 name: Air Manis
-lat: -3.74
-lng: 128.12
+lat: -3.7193
+lng: 128.091
 difficulty: Intermediate
 maxDepth: 20
 entryType: shore

@@ -1,7 +1,7 @@
 ---
 name: Nursing Station
-lat: 17.465
-lng: -62.968
+lat: 17.4692
+lng: -62.9914
 difficulty: Intermediate
 maxDepth: 19
 entryType: boat
