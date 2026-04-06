@@ -1,8 +1,8 @@
 [
   {
     "name": "Tent Reef Wall",
-    "lat": 17.6217,
-    "lon": -63.2517,
+    "lat": 17.6157,
+    "lon": -63.2553,
     "osm_id": null,
     "osm_type": null,
     "depth": 40,
@@ -19,8 +19,8 @@
   },
   {
     "name": "Third Encounter",
-    "lat": 17.6167,
-    "lon": -63.2667,
+    "lat": 17.6233,
+    "lon": -63.2797,
     "osm_id": null,
     "osm_type": null,
     "depth": 30,
@@ -36,8 +36,8 @@
   },
   {
     "name": "Hot Springs",
-    "lat": 17.6133,
-    "lon": -63.2583,
+    "lat": 17.6241,
+    "lon": -63.2597,
     "osm_id": null,
     "osm_type": null,
     "depth": 25,
@@ -54,8 +54,8 @@
   },
   {
     "name": "Ladder Labyrinth",
-    "lat": 17.625,
-    "lon": -63.245,
+    "lat": 17.6264,
+    "lon": -63.2598,
     "osm_id": null,
     "osm_type": null,
     "depth": 20,
@@ -71,8 +71,8 @@
   },
   {
     "name": "Eye of the Needle",
-    "lat": 17.6283,
-    "lon": -63.2433,
+    "lat": 17.624,
+    "lon": -63.279,
     "osm_id": null,
     "osm_type": null,
     "depth": 28,
@@ -88,8 +88,8 @@
   },
   {
     "name": "Diamond Rock",
-    "lat": 17.63,
-    "lon": -63.2567,
+    "lat": 17.6475,
+    "lon": -63.2559,
     "osm_id": null,
     "osm_type": null,
     "depth": 30,
@@ -105,8 +105,8 @@
   },
   {
     "name": "Man O War Shoals",
-    "lat": 17.6083,
-    "lon": -63.27,
+    "lat": 17.6467,
+    "lon": -63.2551,
     "osm_id": null,
     "osm_type": null,
     "depth": 20,
@@ -122,8 +122,8 @@
   },
   {
     "name": "Torrens Point",
-    "lat": 17.635,
-    "lon": -63.235,
+    "lat": 17.6434,
+    "lon": -63.253,
     "osm_id": null,
     "osm_type": null,
     "depth": 15,
@@ -140,8 +140,8 @@
   },
   {
     "name": "Green Island",
-    "lat": 17.6117,
-    "lon": -63.2733,
+    "lat": 17.6501,
+    "lon": -63.2301,
     "osm_id": null,
     "osm_type": null,
     "depth": 22,
