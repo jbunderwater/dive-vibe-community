@@ -274,8 +274,8 @@
     "slug": "halmahera",
     "region": "Asia",
     "center": [
-      1.0,
-      128.0
+      0.5276,
+      127.6377
     ],
     "bounds": [
       [
@@ -389,8 +389,8 @@
     "slug": "maldives",
     "region": "Asia",
     "center": [
-      3.2028,
-      73.2207
+      3.7586,
+      73.2338
     ],
     "bounds": [
       [
@@ -434,8 +434,8 @@
     "slug": "okinawa",
     "region": "Asia",
     "center": [
-      26.2,
-      127.7
+      25.6579,
+      126.42
     ],
     "bounds": [
       [
@@ -526,8 +526,8 @@
     "slug": "philippines-palawan",
     "region": "Asia",
     "center": [
-      9.5,
-      118.7
+      9.5349,
+      117.8932
     ],
     "bounds": [
       [
@@ -641,8 +641,8 @@
     "slug": "sri-lanka",
     "region": "Asia",
     "center": [
-      7.8,
-      80.7
+      7.1016,
+      80.1066
     ],
     "bounds": [
       [
@@ -864,8 +864,8 @@
     "slug": "azores",
     "region": "Europe",
     "center": [
-      38.5,
-      -28.0
+      38.1948,
+      -27.1344
     ],
     "bounds": [
       [
@@ -887,8 +887,8 @@
     "slug": "croatia",
     "region": "Europe",
     "center": [
-      43.5,
-      16.0
+      44.7428,
+      14.6192
     ],
     "bounds": [
       [
@@ -909,8 +909,8 @@
     "slug": "greece",
     "region": "Europe",
     "center": [
-      38.0,
-      23.7
+      37.0734,
+      26.1669
     ],
     "bounds": [
       [
@@ -1068,8 +1068,8 @@
     "slug": "turkey",
     "region": "Europe",
     "center": [
-      36.8,
-      30.5
+      36.7859,
+      27.9853
     ],
     "bounds": [
       [
@@ -1224,8 +1224,8 @@
     "slug": "oman",
     "region": "Middle East",
     "center": [
-      21.0,
-      57.0
+      18.6753,
+      55.0435
     ],
     "bounds": [
       [
@@ -1246,8 +1246,8 @@
     "slug": "red-sea",
     "region": "Middle East",
     "center": [
-      24.0,
-      36.0
+      25.6997,
+      35.1432
     ],
     "bounds": [
       [
@@ -1269,8 +1269,8 @@
     "slug": "sudan-red-sea",
     "region": "Middle East",
     "center": [
-      20.0,
-      37.0
+      20.6055,
+      37.4887
     ],
     "bounds": [
       [
@@ -1384,8 +1384,8 @@
     "slug": "djibouti",
     "region": "Africa",
     "center": [
-      11.8,
-      42.6
+      11.7404,
+      43.0985
     ],
     "bounds": [
       [
@@ -1428,8 +1428,8 @@
     "slug": "madagascar",
     "region": "Africa",
     "center": [
-      -19.0,
-      46.0
+      -13.3517,
+      48.0671
     ],
     "bounds": [
       [
@@ -1472,8 +1472,8 @@
     "slug": "mozambique",
     "region": "Africa",
     "center": [
-      -18.0,
-      35.0
+      -23.4389,
+      35.3292
     ],
     "bounds": [
       [
@@ -1494,8 +1494,8 @@
     "slug": "seychelles",
     "region": "Africa",
     "center": [
-      -4.6,
-      55.5
+      -4.9825,
+      54.5618
     ],
     "bounds": [
       [
@@ -1628,8 +1628,8 @@
     "slug": "alaska",
     "region": "North America",
     "center": [
-      58.3,
-      -134.4
+      55.9763,
+      -139.0085
     ],
     "bounds": [
       [
@@ -1651,8 +1651,8 @@
     "slug": "british-columbia",
     "region": "North America",
     "center": [
-      49.3,
-      -123.2
+      49.04,
+      -123.9007
     ],
     "bounds": [
       [
@@ -1812,8 +1812,8 @@
     "slug": "great-lakes",
     "region": "North America",
     "center": [
-      45.0,
-      -84.0
+      44.1826,
+      -80.1286
     ],
     "bounds": [
       [
@@ -1996,8 +1996,8 @@
     "slug": "new-england",
     "region": "North America",
     "center": [
-      41.5,
-      -70.5
+      42.2369,
+      -70.9249
     ],
     "bounds": [
       [
@@ -2042,8 +2042,8 @@
     "slug": "newfoundland",
     "region": "North America",
     "center": [
-      49.0,
-      -56.0
+      47.4736,
+      -54.5214
     ],
     "bounds": [
       [
@@ -2088,8 +2088,8 @@
     "slug": "nova-scotia",
     "region": "North America",
     "center": [
-      44.6,
-      -63.5
+      45.0916,
+      -63.2447
     ],
     "bounds": [
       [
@@ -2226,8 +2226,8 @@
     "slug": "vancouver-island",
     "region": "North America",
     "center": [
-      49.5,
-      -126.0
+      49.4696,
+      -124.1665
     ],
     "bounds": [
       [
@@ -2337,8 +2337,8 @@
     "slug": "belize-barrier-reef",
     "region": "Central America",
     "center": [
-      16.7,
-      -88.0
+      17.4114,
+      -87.8281
     ],
     "bounds": [
       [
@@ -2584,8 +2584,8 @@
     "slug": "bahamas",
     "region": "Caribbean",
     "center": [
-      24.25,
-      -76.0
+      24.8577,
+      -77.0737
     ],
     "bounds": [
       [
@@ -2742,8 +2742,8 @@
     "slug": "dominican-republic",
     "region": "Caribbean",
     "center": [
-      18.75,
-      -69.95
+      18.7994,
+      -69.3245
     ],
     "bounds": [
       [
@@ -3238,8 +3238,8 @@
     "slug": "fiji",
     "region": "Pacific",
     "center": [
-      -17.7,
-      178.0
+      -17.577,
+      178.8503
     ],
     "bounds": [
       [
@@ -3261,8 +3261,8 @@
     "slug": "french-polynesia",
     "region": "Pacific",
     "center": [
-      -15.0,
-      -140.0
+      -17.2712,
+      -150.0297
     ],
     "bounds": [
       [
@@ -3284,8 +3284,8 @@
     "slug": "marshall-islands",
     "region": "Pacific",
     "center": [
-      10.0,
-      167.0
+      8.2646,
+      167.4933
     ],
     "bounds": [
       [
@@ -3353,8 +3353,8 @@
     "slug": "papua-new-guinea",
     "region": "Pacific",
     "center": [
-      -6.0,
-      147.0
+      -5.9972,
+      150.0236
     ],
     "bounds": [
       [
@@ -3376,8 +3376,8 @@
     "slug": "solomon-islands",
     "region": "Pacific",
     "center": [
-      -8.0,
-      159.0
+      -8.9175,
+      159.2425
     ],
     "bounds": [
       [
@@ -3422,8 +3422,8 @@
     "slug": "vanuatu",
     "region": "Pacific",
     "center": [
-      -16.0,
-      167.0
+      -16.6338,
+      167.7383
     ],
     "bounds": [
       [
@@ -3511,8 +3511,8 @@
     "slug": "great-barrier-reef",
     "region": "Oceania",
     "center": [
-      -18.2871,
-      147.6992
+      -15.5662,
+      146.1177
     ],
     "bounds": [
       [
@@ -3626,8 +3626,8 @@
     "slug": "greenland",
     "region": "Arctic",
     "center": [
-      72.0,
-      -40.0
+      69.0126,
+      -47.1875
     ],
     "bounds": [
       [
@@ -3648,8 +3648,8 @@
     "slug": "svalbard",
     "region": "Arctic",
     "center": [
-      78.9,
-      11.9
+      78.1541,
+      14.3438
     ],
     "bounds": [
       [
