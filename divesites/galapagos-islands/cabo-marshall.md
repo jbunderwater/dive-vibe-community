@@ -1,7 +1,7 @@
 ---
 name: Cabo Marshall
-lat: -0.24
-lng: -90.52
+lat: -0.0219
+lng: -91.1949
 difficulty: Advanced
 maxDepth: 22
 entryType: boat

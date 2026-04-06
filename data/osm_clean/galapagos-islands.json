@@ -67,8 +67,8 @@
   },
   {
     "name": "Cabo Marshall",
-    "lat": -0.24,
-    "lon": -90.52,
+    "lat": -0.0219,
+    "lon": -91.1949,
     "depth": 22,
     "site_type": "wall",
     "entry_type": "boat",
@@ -82,8 +82,8 @@
   },
   {
     "name": "Cousins Rock",
-    "lat": -0.2,
-    "lon": -90.56,
+    "lat": -0.2364,
+    "lon": -90.5742,
     "depth": 30,
     "site_type": "wall",
     "entry_type": "boat",
@@ -97,8 +97,8 @@
   },
   {
     "name": "Punta Vicente Roca",
-    "lat": -0.05,
-    "lon": -91.56,
+    "lat": -0.0531,
+    "lon": -91.5597,
     "depth": 27,
     "site_type": "wall",
     "entry_type": "boat",
@@ -153,6 +153,90 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "scubaiguana.com/daphne-galapagos-dive-site, eagleraygalapagos.com/daphne-minor, naturegalapagos.com/galapagos-islands-scuba-diving-daphne-minor"
+    }
+  },
+  {
+    "name": "Isla Lobo",
+    "lat": -0.8565,
+    "lon": -89.5653,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "community",
+      "addedBy": "scubaboard_user_dan",
+      "region": "San Cristobal"
+    }
+  },
+  {
+    "name": "Baltra",
+    "lat": -0.4005,
+    "lon": -90.1251,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "community",
+      "addedBy": "scubaboard_user_dan",
+      "region": "North Seymour"
+    }
+  },
+  {
+    "name": "Landslide",
+    "lat": 1.3776,
+    "lon": -91.8125,
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "community",
+      "addedBy": "scubaboard_user_dan",
+      "region": "Wolf Island"
+    }
+  },
+  {
+    "name": "Shark Bay",
+    "lat": 1.382,
+    "lon": -91.8113,
+    "depth": 25,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "community",
+      "addedBy": "scubaboard_user_dan",
+      "region": "Wolf Island"
+    }
+  },
+  {
+    "name": "Darwin's Arch",
+    "lat": 1.6731,
+    "lon": -91.9895,
+    "depth": 30,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "community",
+      "addedBy": "scubaboard_user_dan",
+      "region": "Darwin Island"
+    }
+  },
+  {
+    "name": "Cabo Douglas",
+    "lat": -0.3022,
+    "lon": -91.6517,
+    "depth": 20,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "source": "community",
+      "addedBy": "scubaboard_user_dan",
+      "region": "Fernandina"
     }
   }
 ]
