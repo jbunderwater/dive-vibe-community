@@ -5,7 +5,21 @@
     "region": "Asia",
     "isGroup": true,
     "description": "Remote island diving in the Andaman Sea with pristine coral ecosystems.",
-    "countryCode": "IN"
+    "countryCode": "IN",
+    "center": [
+      12.0016,
+      92.8609
+    ],
+    "bounds": [
+      [
+        11.0934,
+        91.7123
+      ],
+      [
+        12.7237,
+        93.5931
+      ]
+    ]
   },
   {
     "name": "Indonesia",
@@ -13,7 +27,21 @@
     "region": "Asia",
     "isGroup": true,
     "description": "The heart of the Coral Triangle with unmatched marine biodiversity across thousands of islands.",
-    "countryCode": "ID"
+    "countryCode": "ID",
+    "center": [
+      -3.5388,
+      124.7033
+    ],
+    "bounds": [
+      [
+        -9.3,
+        114.0031
+      ],
+      [
+        2.7469,
+        134.7031
+      ]
+    ]
   },
   {
     "name": "Japan",
@@ -21,7 +49,21 @@
     "region": "Asia",
     "isGroup": true,
     "description": "Subtropical reefs, hammerhead schooling sites, and unique temperate marine life.",
-    "countryCode": "JP"
+    "countryCode": "JP",
+    "center": [
+      25.6579,
+      126.42
+    ],
+    "bounds": [
+      [
+        23.7671,
+        123.5908
+      ],
+      [
+        26.8291,
+        128.244
+      ]
+    ]
   },
   {
     "name": "Malaysia",
@@ -29,7 +71,21 @@
     "region": "Asia",
     "isGroup": true,
     "description": "World-renowned sites in Sabah and pristine reefs off the peninsula.",
-    "countryCode": "MY"
+    "countryCode": "MY",
+    "center": [
+      4.1145,
+      118.6288
+    ],
+    "bounds": [
+      [
+        3.6083,
+        118.1244
+      ],
+      [
+        4.62,
+        119.1333
+      ]
+    ]
   },
   {
     "name": "Philippines",
@@ -37,7 +93,21 @@
     "region": "Asia",
     "isGroup": true,
     "description": "Diverse diving from macro havens to pelagic encounters across 7,000+ islands.",
-    "countryCode": "PH"
+    "countryCode": "PH",
+    "center": [
+      10.8669,
+      120.4398
+    ],
+    "bounds": [
+      [
+        6.5483,
+        116.5234
+      ],
+      [
+        14.3303,
+        124.6947
+      ]
+    ]
   },
   {
     "name": "Thailand",
@@ -45,7 +115,21 @@
     "region": "Asia",
     "isGroup": true,
     "description": "Tropical diving with whale sharks, vibrant reefs, and world-class liveaboard routes.",
-    "countryCode": "TH"
+    "countryCode": "TH",
+    "center": [
+      9.4887,
+      98.8769
+    ],
+    "bounds": [
+      [
+        8.0717,
+        97.1347
+      ],
+      [
+        10.6719,
+        100.357
+      ]
+    ]
   },
   {
     "name": "Alor Archipelago",
@@ -649,7 +733,21 @@
     "region": "Europe",
     "isGroup": true,
     "description": "Protected Mediterranean marine parks with exceptional biodiversity.",
-    "countryCode": "FR"
+    "countryCode": "FR",
+    "center": [
+      43.0124,
+      6.3854
+    ],
+    "bounds": [
+      [
+        42.48,
+        5.7739
+      ],
+      [
+        43.5919,
+        7.0138
+      ]
+    ]
   },
   {
     "name": "Iceland",
@@ -657,7 +755,21 @@
     "region": "Europe",
     "isGroup": true,
     "description": "Crystal-clear freshwater fissure diving between tectonic plates.",
-    "countryCode": "IS"
+    "countryCode": "IS",
+    "center": [
+      64.4835,
+      -20.6966
+    ],
+    "bounds": [
+      [
+        63.753,
+        -21.618
+      ],
+      [
+        66.351,
+        -17.693
+      ]
+    ]
   },
   {
     "name": "Italy",
@@ -665,7 +777,21 @@
     "region": "Europe",
     "isGroup": true,
     "description": "Mediterranean marine reserves with rich biodiversity and volcanic underwater landscapes.",
-    "countryCode": "IT"
+    "countryCode": "IT",
+    "center": [
+      39.3755,
+      11.164
+    ],
+    "bounds": [
+      [
+        38.19,
+        7.655
+      ],
+      [
+        41.4992,
+        13.7
+      ]
+    ]
   },
   {
     "name": "Norway",
@@ -673,7 +799,21 @@
     "region": "Europe",
     "isGroup": true,
     "description": "Cold-water diving with orcas, dramatic fjord walls, and Arctic marine life.",
-    "countryCode": "NO"
+    "countryCode": "NO",
+    "center": [
+      68.083,
+      13.738
+    ],
+    "bounds": [
+      [
+        67.378,
+        12.48
+      ],
+      [
+        68.734,
+        15.068
+      ]
+    ]
   },
   {
     "name": "Portugal",
@@ -681,7 +821,21 @@
     "region": "Europe",
     "isGroup": true,
     "description": "Atlantic volcanic island diving with pelagic encounters and rich marine life.",
-    "countryCode": "PT"
+    "countryCode": "PT",
+    "center": [
+      38.1948,
+      -27.1344
+    ],
+    "bounds": [
+      [
+        37.21,
+        -30.4476
+      ],
+      [
+        39.1667,
+        -24.93
+      ]
+    ]
   },
   {
     "name": "Scotland",
@@ -689,7 +843,21 @@
     "region": "Europe",
     "isGroup": true,
     "description": "Historic wreck diving in some of the world's most famous scuttled fleets.",
-    "countryCode": "GB"
+    "countryCode": "GB",
+    "center": [
+      58.8915,
+      -3.1968
+    ],
+    "bounds": [
+      [
+        58.3455,
+        -3.8131
+      ],
+      [
+        59.4268,
+        -2.6458
+      ]
+    ]
   },
   {
     "name": "Azores",
@@ -946,7 +1114,21 @@
     "region": "Middle East",
     "isGroup": true,
     "description": "World-famous Red Sea diving with spectacular walls, wrecks, and coral gardens.",
-    "countryCode": "EG"
+    "countryCode": "EG",
+    "center": [
+      25.6997,
+      35.1432
+    ],
+    "bounds": [
+      [
+        18.0028,
+        33.2829
+      ],
+      [
+        30.0447,
+        39.5237
+      ]
+    ]
   },
   {
     "name": "Jordan",
@@ -954,7 +1136,21 @@
     "region": "Middle East",
     "isGroup": true,
     "description": "Red Sea diving with unique military wrecks and vibrant coral gardens.",
-    "countryCode": "JO"
+    "countryCode": "JO",
+    "center": [
+      29.4678,
+      34.9613
+    ],
+    "bounds": [
+      [
+        28.9181,
+        34.4197
+      ],
+      [
+        30.0447,
+        35.4883
+      ]
+    ]
   },
   {
     "name": "Sudan",
@@ -962,7 +1158,21 @@
     "region": "Middle East",
     "isGroup": true,
     "description": "Remote and pristine Red Sea reefs with legendary shark encounters.",
-    "countryCode": "SD"
+    "countryCode": "SD",
+    "center": [
+      20.6055,
+      37.4887
+    ],
+    "bounds": [
+      [
+        18.0028,
+        36.4789
+      ],
+      [
+        22.4879,
+        39.2774
+      ]
+    ]
   },
   {
     "name": "UAE",
@@ -970,7 +1180,21 @@
     "region": "Middle East",
     "isGroup": true,
     "description": "Artificial reefs and accessible wreck diving in the Arabian Gulf.",
-    "countryCode": "AE"
+    "countryCode": "AE",
+    "center": [
+      25.5575,
+      56.3158
+    ],
+    "bounds": [
+      [
+        24.9917,
+        55.7583
+      ],
+      [
+        26.125,
+        56.8667
+      ]
+    ]
   },
   {
     "name": "Jordan - Aqaba",
@@ -1316,7 +1540,21 @@
     "region": "North America",
     "isGroup": true,
     "description": "Cold-water diving with giant Pacific octopus, wolf eels, and Atlantic wrecks.",
-    "countryCode": "CA"
+    "countryCode": "CA",
+    "center": [
+      48.1486,
+      -108.0387
+    ],
+    "bounds": [
+      [
+        42.8981,
+        -128.2667
+      ],
+      [
+        51.4167,
+        -52.4237
+      ]
+    ]
   },
   {
     "name": "Hawaii",
@@ -1325,7 +1563,21 @@
     "isGroup": true,
     "description": "Tropical Pacific diving with manta rays, pelagics, and volcanic reef formations.",
     "countryCode": "US",
-    "parentSlug": "us"
+    "parentSlug": "us",
+    "center": [
+      20.9924,
+      -157.6074
+    ],
+    "bounds": [
+      [
+        18.9803,
+        -160.65
+      ],
+      [
+        22.7203,
+        -155.35
+      ]
+    ]
   },
   {
     "name": "Mexico",
@@ -1333,7 +1585,21 @@
     "region": "North America",
     "isGroup": true,
     "description": "From Caribbean reefs to Pacific pelagic encounters and Sea of Cortez adventures.",
-    "countryCode": "MX"
+    "countryCode": "MX",
+    "center": [
+      21.627,
+      -102.9956
+    ],
+    "bounds": [
+      [
+        18.21,
+        -112.5667
+      ],
+      [
+        25.1882,
+        -86.3948
+      ]
+    ]
   },
   {
     "name": "United States",
@@ -1341,7 +1607,21 @@
     "region": "North America",
     "isGroup": true,
     "description": "Diverse diving from tropical reefs to cold-water kelp forests and historic wrecks.",
-    "countryCode": "US"
+    "countryCode": "US",
+    "center": [
+      38.3161,
+      -103.4017
+    ],
+    "bounds": [
+      [
+        18.9803,
+        -163.6081
+      ],
+      [
+        61.3442,
+        -69.3508
+      ]
+    ]
   },
   {
     "name": "Alaska",
@@ -1970,7 +2250,21 @@
     "region": "Central America",
     "isGroup": true,
     "description": "The world's second-largest barrier reef with the iconic Great Blue Hole.",
-    "countryCode": "BZ"
+    "countryCode": "BZ",
+    "center": [
+      17.4114,
+      -87.8281
+    ],
+    "bounds": [
+      [
+        16.4249,
+        -88.587
+      ],
+      [
+        18.4765,
+        -86.9602
+      ]
+    ]
   },
   {
     "name": "Costa Rica",
@@ -1978,7 +2272,21 @@
     "region": "Central America",
     "isGroup": true,
     "description": "Remote Pacific island diving with massive pelagic aggregations.",
-    "countryCode": "CR"
+    "countryCode": "CR",
+    "center": [
+      5.5443,
+      -87.0528
+    ],
+    "bounds": [
+      [
+        5.009,
+        -87.5912
+      ],
+      [
+        6.0628,
+        -86.523
+      ]
+    ]
   },
   {
     "name": "Honduras",
@@ -1986,7 +2294,21 @@
     "region": "Central America",
     "isGroup": true,
     "description": "Caribbean reef diving and whale shark encounters on the Mesoamerican Barrier Reef.",
-    "countryCode": "HN"
+    "countryCode": "HN",
+    "center": [
+      16.2991,
+      -86.5972
+    ],
+    "bounds": [
+      [
+        15.5688,
+        -87.4554
+      ],
+      [
+        16.8674,
+        -86.0007
+      ]
+    ]
   },
   {
     "name": "Panama",
@@ -1994,7 +2316,21 @@
     "region": "Central America",
     "isGroup": true,
     "description": "Caribbean and Pacific diving with rich biodiversity in national marine parks.",
-    "countryCode": "PA"
+    "countryCode": "PA",
+    "center": [
+      8.5529,
+      -81.9717
+    ],
+    "bounds": [
+      [
+        6.7133,
+        -82.755
+      ],
+      [
+        9.842,
+        -81.1231
+      ]
+    ]
   },
   {
     "name": "Belize Barrier Reef",
@@ -2139,21 +2475,63 @@
     "slug": "dutch-caribbean",
     "region": "Caribbean",
     "isGroup": true,
-    "description": "Shore diving paradise with pristine reefs across the ABC islands and Windward Antilles."
+    "description": "Shore diving paradise with pristine reefs across the ABC islands and Windward Antilles.",
+    "center": [
+      13.0966,
+      -67.7943
+    ],
+    "bounds": [
+      [
+        11.5261,
+        -70.5634
+      ],
+      [
+        18.1501,
+        -62.4801
+      ]
+    ]
   },
   {
     "name": "Eastern Caribbean",
     "slug": "eastern-caribbean",
     "region": "Caribbean",
     "isGroup": true,
-    "description": "Volcanic island diving with dramatic underwater topography and vibrant reefs."
+    "description": "Volcanic island diving with dramatic underwater topography and vibrant reefs.",
+    "center": [
+      13.9027,
+      -61.0654
+    ],
+    "bounds": [
+      [
+        10.68,
+        -63.355
+      ],
+      [
+        18.08,
+        -59.08
+      ]
+    ]
   },
   {
     "name": "French Antilles",
     "slug": "french-antilles",
     "region": "Caribbean",
     "isGroup": true,
-    "description": "Caribbean marine parks with rich Creole diving culture and diverse reef systems."
+    "description": "Caribbean marine parks with rich Creole diving culture and diverse reef systems.",
+    "center": [
+      15.4537,
+      -61.4021
+    ],
+    "bounds": [
+      [
+        13.94,
+        -62.3
+      ],
+      [
+        16.8617,
+        -60.3495
+      ]
+    ]
   },
   {
     "name": "Antigua and Barbuda",
@@ -2708,7 +3086,21 @@
     "region": "South America",
     "isGroup": true,
     "description": "Caribbean islands and remote Pacific pinnacles with pelagic encounters.",
-    "countryCode": "CO"
+    "countryCode": "CO",
+    "center": [
+      13.3611,
+      -81.3822
+    ],
+    "bounds": [
+      [
+        12.815,
+        -81.9187
+      ],
+      [
+        13.9,
+        -80.83
+      ]
+    ]
   },
   {
     "name": "Ecuador",
@@ -2716,7 +3108,21 @@
     "region": "South America",
     "isGroup": true,
     "description": "Legendary Galapagos diving with hammerheads, mantas, and marine iguanas.",
-    "countryCode": "EC"
+    "countryCode": "EC",
+    "center": [
+      -0.3875,
+      -90.394
+    ],
+    "bounds": [
+      [
+        -1.27,
+        -92.06
+      ],
+      [
+        0.45,
+        -89.02
+      ]
+    ]
   },
   {
     "name": "Galápagos Islands",
@@ -2746,21 +3152,63 @@
     "slug": "micronesia",
     "region": "Pacific",
     "isGroup": true,
-    "description": "World-class wreck diving and pristine reef systems across remote Pacific atolls."
+    "description": "World-class wreck diving and pristine reef systems across remote Pacific atolls.",
+    "center": [
+      8.1849,
+      153.0051
+    ],
+    "bounds": [
+      [
+        4.7588,
+        133.7202
+      ],
+      [
+        10.1045,
+        171.8737
+      ]
+    ]
   },
   {
     "name": "South Pacific",
     "slug": "south-pacific",
     "region": "Pacific",
     "isGroup": true,
-    "description": "Tropical island diving with shark encounters, coral gardens, and crystal-clear waters."
+    "description": "Tropical island diving with shark encounters, coral gardens, and crystal-clear waters.",
+    "center": [
+      -17.7598,
+      -167.8993
+    ],
+    "bounds": [
+      [
+        -21.8833,
+        166.6332
+      ],
+      [
+        -14.9923,
+        -140.474
+      ]
+    ]
   },
   {
     "name": "West Pacific",
     "slug": "west-pacific",
     "region": "Pacific",
     "isGroup": true,
-    "description": "Remote Melanesian diving with exceptional WWII wrecks and pristine reefs."
+    "description": "Remote Melanesian diving with exceptional WWII wrecks and pristine reefs.",
+    "center": [
+      -7.3246,
+      154.214
+    ],
+    "bounds": [
+      [
+        -11.1833,
+        145.2667
+      ],
+      [
+        -3.7,
+        160.75
+      ]
+    ]
   },
   {
     "name": "Chuuk Lagoon",
@@ -2998,7 +3446,21 @@
     "region": "Oceania",
     "isGroup": true,
     "description": "From the Great Barrier Reef to temperate southern waters and remote island territories.",
-    "countryCode": "AU"
+    "countryCode": "AU",
+    "center": [
+      -22.7624,
+      139.2919
+    ],
+    "bounds": [
+      [
+        -35.842,
+        113.1667
+      ],
+      [
+        -13.3014,
+        159.7494
+      ]
+    ]
   },
   {
     "name": "New Zealand",
@@ -3006,7 +3468,21 @@
     "region": "Oceania",
     "isGroup": true,
     "description": "Subtropical island diving with unique marine reserves and diverse fish life.",
-    "countryCode": "NZ"
+    "countryCode": "NZ",
+    "center": [
+      -35.4621,
+      174.732
+    ],
+    "bounds": [
+      [
+        -35.98,
+        174.215
+      ],
+      [
+        -34.945,
+        175.245
+      ]
+    ]
   },
   {
     "name": "Christmas Island",
