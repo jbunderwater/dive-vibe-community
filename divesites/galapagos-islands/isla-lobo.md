@@ -2,7 +2,7 @@
 name: Isla Lobo
 lat: -0.8565
 lng: -89.5653
-difficulty: Advanced
+difficulty: Intermediate
 maxDepth: 15
 entryType: boat
 siteType: reef
@@ -11,56 +11,48 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Isla Lobo
+# Isla Lobo
 
-Isla Lobo is a reef dive site in Galápagos Islands, South America.
+*A calm, shallow reef in a sheltered channel off San Cristóbal where playful sea lion pups race at divers — the standard liveaboard check-out dive and one of the Galápagos' most accessible sites.*
 
 ## Overview
 
-Isla Lobo is a dive site in Galápagos Islands offering rewarding diving on healthy coral reef structures. Located in the South America region, this site offers 10-25 meters of visibility with water temperatures averaging 15-26°C.
+Isla Lobos (Lobos Island) sits in a sheltered channel between a small rocky island and the northwest coast of San Cristóbal. The protected channel produces calm, clear turquoise water — a rarity in the current-swept Galápagos — making this the standard check-out dive for liveaboard itineraries and one of the few sites accessible to less experienced divers. The underwater terrain is low-relief rocky reef with coral cover at 9–15 meters. The real draw is the resident colony of Galápagos sea lions: pups and juveniles are famously interactive, racing at divers at speed and veering away at the last moment.
 
 ## Site Information
 
-- **Location**: Galápagos Islands, South America
+- **Location**: Lobos Island, northwest of San Cristóbal, Galápagos Islands
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Advanced
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 10-25 meters (30-80 feet)
-- **Current**: Moderate to strong
-- **Best Time**: June to November
+- **Typical Visibility**: 10–20 meters
+- **Current**: Very calm, no current (sheltered channel)
+- **Water Temperature**: 20–25°C
+- **Best Time**: Year-round; sea lions are always present
 
 ## Marine Life
 
-Divers at this site can expect to encounter hammerhead sharks, whale sharks, sea lions, marine iguanas, manta rays, eagle rays, sea turtles, dolphins. Additional species commonly sighted include penguins, moray eels.
+Galápagos sea lions are the star attraction — large males, females, and especially pups, who are boldly curious and will approach divers face-to-face. Galápagos fur seals are also present. Diamond stingrays rest on the sandy patches. Green sea turtles cruise the reef. White-tip reef sharks patrol the channel. Eagle rays pass through. Marine iguanas are occasionally spotted in the water. The reef supports trumpetfish, garden eels, starfish, and various reef fish. Above water, blue-footed boobies nest on Lobos Island.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The dive takes place in the channel between Lobos Island and San Cristóbal. A shallow plateau at approximately 9 meters transitions to reef extending to 15 meters on the south side. The leeward (sheltered) side features stony corals; the windward face has mixed rock and coral. The calm conditions and shallow depth make this ideal for a first Galápagos dive or equipment check. Most divers spend the majority of the dive at 9–12 meters watching sea lion interactions.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Puerto Baquerizo Moreno on San Cristóbal, approximately 30 minutes transit. Liveaboards use this as their first dive after embarkation. Entry is by giant stride or back roll from the panga into calm water.
 
-## Tips and Recommendations
+## Tips
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Keep your camera ready — sea lion pups approach without warning and the encounters are fast
+- This is the shallowest, calmest dive in the Galápagos, making it ideal for testing equipment and weighting before deeper sites
+- Relax and let the sea lions come to you; chasing them is counterproductive
+- Snorkelers can also enjoy the site from the surface
 
-## Safety Considerations
+## Safety
 
-Be aware of strong currents, cold thermoclines, surge in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-06
+While this is the calmest site in the Galápagos, standard dive safety practices apply. Sea lions are wild animals — maintain respectful distance from large males, who can be territorial. Do not touch or grab marine life. The shallow depth and lack of current make this a low-risk dive by Galápagos standards.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-06.*
+*Sources: [Galapatours](https://www.galapatours.com/highlights/isla-lobos-diving), [Scuba Iguana](https://scubaiguana.com/dive-travel-packages/customized-trip/isla-lobos/), [Dive The World](https://www.dive-the-world.com/trip-reports-galapagos-aggressor-2.php), [ScubaBoard](https://scubaboard.com/community/threads/galapagos-aggressor-i-captains-logs.416558/page-2). GPS coordinates contributed by ScubaBoard user Dan. Last updated 2026-04-06.*

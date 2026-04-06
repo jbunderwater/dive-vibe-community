@@ -2,8 +2,8 @@
 name: Baltra
 lat: -0.4005
 lng: -90.1251
-difficulty: Advanced
-maxDepth: 18
+difficulty: Intermediate
+maxDepth: 12
 entryType: boat
 siteType: reef
 ref: null
@@ -11,56 +11,47 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Baltra
+# Baltra
 
-Baltra is a reef dive site in Galápagos Islands, South America.
+*A sheltered check-out dive at the Galápagos' main airport island — shallow rocky reef with surprising marine life including nudibranchs, scorpionfish, and Galápagos sea robins.*
 
 ## Overview
 
-Baltra is a dive site in Galápagos Islands offering rewarding diving on healthy coral reef structures. Located in the South America region, this site offers 10-25 meters of visibility with water temperatures averaging 15-26°C.
+Baltra (also called South Seymour) is the main airport island for the Galápagos, and the dive site off its northeast coast serves as a check-out or check-in dive for liveaboard itineraries. While not a destination dive site in the same league as Gordon Rocks or Darwin's Arch, the sheltered anchorage offers calm conditions at 10–12 meters over rocky and sandy bottom. The site is richer than its functional role suggests — trip reports mention blue-striped nudibranchs, Galápagos sea robins, jewel morays, and scorpionfish among the usual reef inhabitants. The nearby Itabaca Channel between Baltra and Santa Cruz funnels nutrients through the area.
 
 ## Site Information
 
-- **Location**: Galápagos Islands, South America
+- **Location**: Northeast coast of Baltra Island, near Itabaca Channel, Galápagos Islands
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 18 meters
-- **Typical Visibility**: 10-25 meters (30-80 feet)
-- **Current**: Moderate to strong
-- **Best Time**: June to November
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 12 meters
+- **Typical Visibility**: 5–15 meters (can be poor in the channel)
+- **Current**: Low at anchorage; moderate to strong in the adjacent channel
+- **Water Temperature**: 17–25°C (varies seasonally; cold Humboldt Current upwelling affects conditions)
+- **Best Time**: Year-round (typically dived on first/last evening of liveaboard trips)
 
 ## Marine Life
 
-Divers at this site can expect to encounter hammerhead sharks, whale sharks, sea lions, marine iguanas, manta rays, eagle rays, sea turtles, dolphins. Additional species commonly sighted include penguins, moray eels.
+Despite its check-out-dive status, Baltra's rocky reef supports a range of species. Blue-striped nudibranchs, scorpionfish, calico lizardfish, and Galápagos sea robins are reported on the substrate. Jewel moray eels and longnose hawkfish inhabit rocky crevices. Diamond stingrays rest on sandy patches. White-tip reef sharks and Galápagos sharks patrol the edges. Pacific creolefish school above the reef. Large starfish dot the bottom. Sea lions may visit from the nearby Mosquera islet colony.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+A straightforward dive at 10–12 meters over rocky and sandy bottom in a sheltered anchorage. The terrain is low-relief — no walls, drop-offs, or dramatic topography. The dive is typically used for equipment checks, weight adjustments, and familiarization with Galápagos conditions (cold water, thick wetsuits) before heading to more demanding sites. The nearby North Seymour Channel and Mosquera islet offer significantly more dramatic diving and are typically dived the following morning.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Giant stride or back roll from the panga at the liveaboard anchorage. Conditions are typically calm in the sheltered bay. Current in the adjacent Itabaca Channel can be strong — stay within the anchorage area as briefed.
 
-## Tips and Recommendations
+## Tips
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Use this dive to dial in your weighting for Galápagos conditions — you'll likely need more weight than usual with thick exposure protection
+- Look carefully at the substrate for macro subjects; the rocky bottom hides nudibranchs and well-camouflaged scorpionfish
+- Don't skip this dive — it's a good opportunity to test camera settings and equipment in low-stakes conditions before the big sites
 
-## Safety Considerations
+## Safety
 
-Be aware of strong currents, cold thermoclines, surge in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-06
+A low-risk dive in sheltered conditions. The main considerations are cold water (bring adequate thermal protection) and staying within the anchorage area away from the stronger currents in the Itabaca Channel. Standard Galápagos precautions apply: carry an SMB and dive with your buddy.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-06.*
+*Sources: [ScubaBoard](https://scubaboard.com/community/threads/diving-in-galapagos-in-october-2022.626791/), [ScubaBoard](https://scubaboard.com/community/threads/galapagos-sep-16-23-2021-dive-report.613659/), [Galápagos Shark Diving](https://www.galapagossharkdiving.com/en/galapagos-dive-liveaboard/8-day-itinerary/), [Starfish.ch](https://www.starfish.ch/scubadiving/Galapagos-center.html). GPS coordinates contributed by ScubaBoard user Dan. Last updated 2026-04-06.*

@@ -3,65 +3,57 @@ name: Landslide
 lat: 1.3776
 lng: -91.8125
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 37
 entryType: boat
-siteType: wall
+siteType: drift
 ref: null
 osmId: null
 addedBy: osm_import
 ---
 
-## Landslide
+# Landslide
 
-Landslide is a wall dive site in Galápagos Islands, South America.
+*Known locally as El Derrumbe, this Wolf Island drift dive sends divers down a boulder-strewn slope where hammerhead sharks approach within arm's reach.*
 
 ## Overview
 
-Landslide is a dive site in Galápagos Islands featuring a dramatic vertical wall that drops into the deep blue. Located in the South America region, this site offers 10-25 meters of visibility with water temperatures averaging 15-26°C.
+Landslide sits on the southeastern flank of Wolf Island, named for its dramatic underwater topography: a broad, steeply descending slope covered in rocks and boulders, as if an entire cliff face had tumbled into the sea. Strong currents sweep along the slope, carrying nutrients that attract massive pelagic aggregations. The technique here is to find a secure hold among the boulders, wedge in, and wait — scalloped hammerhead sharks regularly pass so close that divers have reported near-touch encounters. This is one of the premier hammerhead experiences in the entire Galápagos system.
 
 ## Site Information
 
-- **Location**: Galápagos Islands, South America
+- **Location**: Wolf Island (Isla Wolf), southeastern coast, Galápagos Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-25 meters (30-80 feet)
-- **Current**: Moderate to strong
-- **Best Time**: June to November
+- **Maximum Depth**: 37 meters
+- **Typical Visibility**: 10–20 meters
+- **Current**: Moderate to heavy, always present
+- **Water Temperature**: 23–24°C
+- **Best Time**: June to November for hammerhead schools; whale sharks more common July–November
 
 ## Marine Life
 
-Divers at this site can expect to encounter hammerhead sharks, whale sharks, sea lions, marine iguanas, manta rays, eagle rays, sea turtles, dolphins. Additional species commonly sighted include penguins, moray eels. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Scalloped hammerhead sharks are the main attraction, often appearing in schools along the slope. Spotted eagle rays have been reported in large numbers. Galápagos sharks and silky sharks patrol the deeper sections. Whale sharks appear seasonally but not on every dive. Green sea turtles, yellowfin tuna, wahoo, bluefin trevally, African pompano, and amarillo snappers are regular visitors. On the slope itself, fine-spotted moray eels, guineafowl puffers, giant hawkfish, golden groupers, and flag cabrilla inhabit the boulder crevices. Sea lions cruise through opportunistically.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Divers make negative entries from the panga directly into the current. The slope begins at approximately 9–10 meters and descends to 37 meters. The typical strategy is to descend along the rubble field, find a sheltered position among the boulders, and hold — active swimming against the current is counterproductive and disturbs the sharks. The dive is current-assisted, drifting along the slope as conditions allow. Plan gas reserves carefully for safety stops in open water.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by panga (zodiac tender) from the liveaboard vessel. Wolf Island is approximately 14 hours northwest of San Cristóbal — accessible only on liveaboard itineraries. Negative entries are standard. Deploy an SMB during your safety stop for panga pickup.
 
-## Tips and Recommendations
+## Tips
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Negative entry skills are essential — practice before the trip if needed
+- Nitrox is strongly recommended to extend bottom time at depth
+- Carry a satellite beacon or signaling device; Wolf Island conditions can separate divers
+- Wedge into boulders and stay still for the best hammerhead encounters — movement drives them away
+- Multiple dives at this site are typical on liveaboard itineraries; each dive can be different
 
-## Safety Considerations
+## Safety
 
-Be aware of strong currents, cold thermoclines, surge in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-06
+Strong currents are always present and can intensify without warning. Downcurrents have been reported. Negative entries are mandatory. This site requires solid buoyancy control, drift diving experience, and comfort in open-ocean conditions. Always carry an SMB and audible surface signaling device. Dive with your buddy and follow divemaster instructions for group management.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-06.*
+*Sources: [Galapatours](https://www.galapatours.com/highlights/el-derrumbe-diving-wolf), [LiveAboard.com](https://www.liveaboard.com/diving/galapagos/wolf-island/scuba), [Happy Gringo](https://happygringo.com/blog/darwin-and-wolf-islands/), [ScubaBoard](https://scubaboard.com/community/threads/diving-in-galapagos-in-october-2022.626791/). GPS coordinates contributed by ScubaBoard user Dan. Last updated 2026-04-06.*

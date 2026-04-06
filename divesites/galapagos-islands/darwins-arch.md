@@ -11,56 +11,49 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Darwin's Arch
+# Darwin's Arch
 
-Darwin's Arch is a pinnacle dive site in Galápagos Islands, South America.
+*The pinnacle of Galápagos diving — a submerged volcanic plateau where schooling hammerheads number in the hundreds and whale sharks cruise past during season.*
 
 ## Overview
 
-Darwin's Arch is a renowned dive site in Galápagos Islands offering rewarding diving on healthy coral reef structures. Located in the South America region, this site offers 10-25 meters of visibility with water temperatures averaging 15-26°C.
+Darwin's Arch — now officially Darwin's Towers after the natural rock arch collapsed from erosion on May 17, 2021 — is widely considered one of the greatest dive sites on Earth. Located off the southwest coast of Darwin Island, the northernmost point of the Galápagos archipelago, it sits at the tip of an extinct underwater volcano where powerful ocean currents converge, creating extraordinary marine aggregations. The collapse of the surface arch had no effect on the underwater experience: the submerged rocky plateau known as "the Theatre" remains intact at 15–18 meters, where divers anchor to rocks and watch walls of hammerheads stream past in the blue. Whale sharks — typically large females — appear seasonally, and schools of big-eye jacks darken the water above like storm clouds.
 
 ## Site Information
 
-- **Location**: Galápagos Islands, South America
+- **Location**: Darwin Island (Isla Darwin), northernmost Galápagos, approximately 100 km north of Isabela
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-25 meters (30-80 feet)
-- **Current**: Moderate to strong
-- **Best Time**: June to November
+- **Typical Visibility**: 10–20 meters (up to 30 meters in optimal conditions)
+- **Current**: Strong to very strong (3–5 knots recorded); highly variable
+- **Water Temperature**: 21–27°C surface, with thermoclines dropping to 15–18°C
+- **Best Time**: June to November for hammerheads and whale sharks; mantas more common January–May
 
 ## Marine Life
 
-Divers at this site can expect to encounter hammerhead sharks, whale sharks, sea lions, marine iguanas, manta rays, eagle rays, sea turtles, dolphins. Additional species commonly sighted include penguins, moray eels.
+Scalloped hammerhead sharks are the signature encounter — schools of dozens to hundreds concentrate at 15–20 meters around the Theatre. Whale sharks appear seasonally (most reliably July–November), typically large females. Galápagos sharks, silky sharks, and blacktip sharks are present year-round. Massive schools of big-eye jacks form dark clouds silhouetted against the surface light. Green sea turtles congregate in large groups. Yellowfin tuna, rainbow runners, and pompanos patrol the blue water. Manta rays visit during the warm season (January–May). Dolphins and false killer whales have been reported during safety stops and surface intervals. Cold-season visitors include mola mola. On the reef structure itself: king angelfish, creolefish, Mexican hogfish, razor surgeonfish, leather bass, blue-gold snappers, garden eels, and moray eels.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Divers make negative entries from the panga directly into blue water, descending quickly to reach the Theatre — a submerged rocky plateau at 15–18 meters. Once on the plateau, the strategy is to anchor to rocks and hold position, letting the current bring marine life past. The two remaining rock pillars (former arch columns) rise from this plateau. Walls extend from the plateau edges and can be used for drift diving when current direction allows. Downcurrents have been reported at 25–33 meters — avoid descending below your planned depth. Safety stops are frequently conducted in open blue water rather than on structure. Nitrox is described by operators as "virtually essential."
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access exclusively by liveaboard — Darwin Island requires an overnight crossing from the main archipelago. Entry by panga with negative descent. Operators provide satellite beacons for separated divers. Deploy SMBs during safety stops for panga retrieval. The crossing itself can be rough; motion sickness medication is advisable.
 
-## Tips and Recommendations
+## Tips
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Nitrox 32% or higher is strongly recommended for every dive here
+- Bring a reef hook if your operator allows them — holding position on the Theatre in strong current is the key to great encounters
+- Multiple dives are scheduled at Darwin on liveaboard itineraries — conditions vary dramatically between dives, so a disappointing first dive may be followed by a spectacular one
+- Carry a satellite beacon; currents at 3–5 knots can separate divers from the group rapidly
+- The post-2021 arch collapse has not affected underwater diving conditions
 
-## Safety Considerations
+## Safety
 
-Be aware of strong currents, cold thermoclines, surge in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-06
+Currents at Darwin's Arch are among the strongest in recreational diving — 3 knots is common and 5 knots has been recorded. Currents eddy and swirl unpredictably around the formation. Downcurrents at depth are a real hazard. Negative entries are mandatory. This site demands solid drift diving experience, excellent buoyancy control, and comfort in open-ocean blue water conditions. Never swim against the current. Carry an SMB, audible signaling device, and satellite beacon. Dive within your certification limits — the spectacle happens at 15–20 meters, not at depth.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-06.*
+*Sources: [Master Liveaboards](https://masterliveaboards.com/darwins-arch-pinnacle-galapogos-diving/), [Master Liveaboards – Advanced Guide](https://masterliveaboards.com/diving-darwins-arch-advanced-currents/), [Happy Gringo](https://happygringo.com/blog/darwin-and-wolf-islands/), [Scuba Diver Life](https://scubadiverlife.com/dive-site-darwin-island-galapagos/), [ScubaBoard](https://scubaboard.com/community/threads/liveaboard-report-calipso-galapagos-june-20-27-2024.650398/). GPS coordinates contributed by ScubaBoard user Dan. Last updated 2026-04-06.*

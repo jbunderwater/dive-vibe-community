@@ -162,53 +162,61 @@
     "depth": 15,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Advanced",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community",
       "addedBy": "scubaboard_user_dan",
-      "region": "San Cristobal"
+      "region": "San Cristobal",
+      "validated": "true",
+      "validation_source": "galapatours.com, scubaboard.com, dive-the-world.com, scubaiguana.com"
     }
   },
   {
     "name": "Baltra",
     "lat": -0.4005,
     "lon": -90.1251,
-    "depth": 18,
+    "depth": 12,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Advanced",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community",
       "addedBy": "scubaboard_user_dan",
-      "region": "North Seymour"
+      "region": "North Seymour",
+      "validated": "true",
+      "validation_source": "scubaboard.com, galapagossharkdiving.com, starfish.ch"
     }
   },
   {
     "name": "Landslide",
     "lat": 1.3776,
     "lon": -91.8125,
-    "depth": 30,
-    "site_type": "wall",
+    "depth": 37,
+    "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "community",
       "addedBy": "scubaboard_user_dan",
-      "region": "Wolf Island"
+      "region": "Wolf Island",
+      "validated": "true",
+      "validation_source": "galapatours.com, liveaboard.com, happygringo.com, scubaboard.com"
     }
   },
   {
     "name": "Shark Bay",
     "lat": 1.382,
     "lon": -91.8113,
-    "depth": 25,
+    "depth": 27,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "community",
       "addedBy": "scubaboard_user_dan",
-      "region": "Wolf Island"
+      "region": "Wolf Island",
+      "validated": "true",
+      "validation_source": "galapatours.com, liveaboard.com, happygringo.com, zentacle.com, scubaboard.com"
     }
   },
   {
@@ -222,21 +230,25 @@
     "tags": {
       "source": "community",
       "addedBy": "scubaboard_user_dan",
-      "region": "Darwin Island"
+      "region": "Darwin Island",
+      "validated": "true",
+      "validation_source": "masterliveaboards.com, happygringo.com, scubadiverlife.com, scubaboard.com"
     }
   },
   {
     "name": "Cabo Douglas",
     "lat": -0.3022,
     "lon": -91.6517,
-    "depth": 20,
-    "site_type": "wall",
+    "depth": 33,
+    "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "community",
       "addedBy": "scubaboard_user_dan",
-      "region": "Fernandina"
+      "region": "Fernandina",
+      "validated": "true",
+      "validation_source": "liveaboard.com, galapatours.com, starfish.ch, scubaboard.com, xray-mag.com"
     }
   }
 ]
