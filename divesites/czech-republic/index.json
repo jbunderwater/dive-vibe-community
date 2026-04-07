@@ -118,5 +118,77 @@
     "siteType": "wall",
     "ref": "",
     "osmId": null
+  },
+  {
+    "name": "Hranická Propast",
+    "filename": "hranická-propast.md",
+    "lat": 49.5322,
+    "lng": 17.7508,
+    "difficulty": "Advanced",
+    "maxDepth": 450,
+    "entryType": "shore",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Orlík - Kostel Technice",
+    "filename": "orlík-kostel-technice.md",
+    "lat": 49.581,
+    "lng": 14.161,
+    "difficulty": "Advanced",
+    "maxDepth": 60,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Lom Bořená Hora",
+    "filename": "lom-bořená-hora.md",
+    "lat": 49.6618,
+    "lng": 14.5056,
+    "difficulty": "Intermediate",
+    "maxDepth": 22,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Lom Výkleky",
+    "filename": "lom-výkleky.md",
+    "lat": 49.557,
+    "lng": 17.4824,
+    "difficulty": "Intermediate",
+    "maxDepth": 9,
+    "entryType": "shore",
+    "siteType": "beach",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Lom Leštinka",
+    "filename": "lom-leštinka.md",
+    "lat": 49.841,
+    "lng": 15.9743,
+    "difficulty": "Intermediate",
+    "maxDepth": 26,
+    "entryType": "shore",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Lom Jesenný",
+    "filename": "lom-jesenný.md",
+    "lat": 50.6621,
+    "lng": 15.3456,
+    "difficulty": "Intermediate",
+    "maxDepth": 14,
+    "entryType": "shore",
+    "siteType": "beach",
+    "ref": "",
+    "osmId": null
   }
 ]
