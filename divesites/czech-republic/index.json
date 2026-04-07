@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Jezero Barbora",
+    "filename": "jezero-barbora.md",
+    "lat": 50.6404,
+    "lng": 13.7546,
+    "difficulty": "Intermediate",
+    "maxDepth": 40,
+    "entryType": "shore",
+    "siteType": "beach",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Leštinka - Kaňon",
+    "filename": "leštinka-kaňon.md",
+    "lat": 49.8447,
+    "lng": 15.9601,
+    "difficulty": "Intermediate",
+    "maxDepth": 10,
+    "entryType": "shore",
+    "siteType": "beach",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Lom Opatovice u Hranic",
+    "filename": "lom-opatovice-u-hranic.md",
+    "lat": 49.503,
+    "lng": 17.744,
+    "difficulty": "Advanced",
+    "maxDepth": 37,
+    "entryType": "shore",
+    "siteType": "beach",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Černá Voda - Lom Rampa",
+    "filename": "černá-voda-lom-rampa.md",
+    "lat": 50.2966,
+    "lng": 17.1358,
+    "difficulty": "Intermediate",
+    "maxDepth": 12,
+    "entryType": "shore",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Slapská Přehrada",
+    "filename": "slapská-přehrada.md",
+    "lat": 49.766,
+    "lng": 14.412,
+    "difficulty": "Advanced",
+    "maxDepth": 56,
+    "entryType": "shore",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Písník Březhrad",
+    "filename": "písník-březhrad.md",
+    "lat": 50.1642,
+    "lng": 15.7909,
+    "difficulty": "Intermediate",
+    "maxDepth": 7,
+    "entryType": "shore",
+    "siteType": "beach",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Slezská Harta",
+    "filename": "slezská-harta.md",
+    "lat": 49.89,
+    "lng": 17.581,
+    "difficulty": "Advanced",
+    "maxDepth": 50,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Lom Hostěřadice",
+    "filename": "lom-hostěřadice.md",
+    "lat": 48.937,
+    "lng": 16.233,
+    "difficulty": "Intermediate",
+    "maxDepth": 13,
+    "entryType": "shore",
+    "siteType": "beach",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Lom Borek",
+    "filename": "lom-borek.md",
+    "lat": 49.716,
+    "lng": 15.597,
+    "difficulty": "Intermediate",
+    "maxDepth": 34,
+    "entryType": "shore",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Lom Šífr",
+    "filename": "lom-šífr.md",
+    "lat": 49.9408,
+    "lng": 17.6564,
+    "difficulty": "Advanced",
+    "maxDepth": 36,
+    "entryType": "shore",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  }
+]

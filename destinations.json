@@ -737,6 +737,28 @@
     "countryCode": "HR"
   },
   {
+    "name": "Czech Republic",
+    "slug": "czech-republic",
+    "region": "Europe",
+    "center": [
+      49.8,
+      15.5
+    ],
+    "bounds": [
+      [
+        48.5,
+        12.0
+      ],
+      [
+        51.1,
+        18.9
+      ]
+    ],
+    "description": "Freshwater diving in flooded quarries, reservoirs, and lakes with sunken artifacts, submerged forests, and unique geological formations.",
+    "overviewFile": "overview.md",
+    "countryCode": "CZ"
+  },
+  {
     "name": "Greece",
     "slug": "greece",
     "region": "Europe",
