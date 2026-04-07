@@ -23,7 +23,7 @@ Basura is a dive site in Philippines Anilao offering excellent diving on healthy
 
 - **Location**: Philippines Anilao, Asia
 - **Entry Type**: Shore entry
-- **Site Type**: Muck
+- **Site Type**: Muck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
@@ -60,7 +60,7 @@ This site offers excellent opportunities for both wide-angle and macro photograp
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-05
+- **Last Updated**: 2026-04-07
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*

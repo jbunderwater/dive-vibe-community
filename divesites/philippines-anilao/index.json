@@ -166,5 +166,113 @@
     "siteType": "muck",
     "ref": "",
     "osmId": null
+  },
+  {
+    "name": "Bethlehem",
+    "filename": "bethlehem.md",
+    "lat": 13.672934,
+    "lng": 120.841389,
+    "difficulty": "Beginner",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Caban Cove",
+    "filename": "caban-cove.md",
+    "lat": 13.686893,
+    "lng": 120.843525,
+    "difficulty": "Intermediate",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Dari Laut",
+    "filename": "dari-laut.md",
+    "lat": 13.678937,
+    "lng": 120.840976,
+    "difficulty": "Intermediate",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Olympic Point",
+    "filename": "olympic-point.md",
+    "lat": 13.669897,
+    "lng": 120.850766,
+    "difficulty": "Intermediate",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "muck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Sun View",
+    "filename": "sun-view.md",
+    "lat": 13.699308,
+    "lng": 120.882338,
+    "difficulty": "Intermediate",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "muck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Mainit Bubble Springs",
+    "filename": "mainit-bubble-springs.md",
+    "lat": 13.6887,
+    "lng": 120.899313,
+    "difficulty": "Intermediate",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Mainit Corner",
+    "filename": "mainit-corner.md",
+    "lat": 13.68285,
+    "lng": 120.89416,
+    "difficulty": "Beginner",
+    "maxDepth": 24,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Buceo House Reef",
+    "filename": "buceo-house-reef.md",
+    "lat": 13.686473,
+    "lng": 120.891774,
+    "difficulty": "Beginner",
+    "maxDepth": 30,
+    "entryType": "shore",
+    "siteType": "muck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Agahuta",
+    "filename": "agahuta.md",
+    "lat": 13.6686,
+    "lng": 120.8575,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
   }
 ]

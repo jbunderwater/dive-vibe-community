@@ -13,50 +13,54 @@ addedBy: osm_import
 
 ## Blue Lagoon
 
-Padangbai's most popular shore dive — crystal-clear, calm water with colourful coral bommies and rich marine life at beginner-friendly depths.
+Blue Lagoon is a reef dive site in Bali, Asia.
 
 ## Overview
 
-Blue Lagoon is Padangbai's signature dive site, set in a sheltered bay just east of the ferry port on Bali's east coast. The site starts at 3–5 m over a white sandy bottom scattered with coral bommies and transitions to a deeper wall section on the right side (Tanjung Sari, max 15–18 m). The calm, protected conditions make it the go-to site for Open Water certification training and introductory dives, yet the reef is rich enough to satisfy experienced divers. The crystal-clear water earns the site its name, and visibility regularly exceeds 15 m. It is commonly paired with Gili Tepekong or Gili Mimpang for divers wanting a contrast between gentle and challenging dives.
+Blue Lagoon is a dive site in Bali offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Padangbai, east Bali
+- **Location**: Bali, Asia
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10–20 m
-- **Current**: Minimal inside the bay
-- **Best Time**: April to November
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Clownfish in anemones are abundant throughout the bommies. Moray eels occupy coral crevices, and lionfish rest under overhangs. Sweetlips, butterflyfish, parrotfish, and triggerfish are commonly seen. Occasional turtles graze on the reef, and reef sharks have been sighted on the wall section. Nudibranchs and small crustaceans reward patient macro searchers.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-Enter from the beach and swim out to the bommies at 5–10 m. Follow the coral heads exploring the sandy channels between them before heading right to the Tanjung Sari wall section (15–18 m). Return via the shallow bommies for a relaxed final portion of the dive. Total dive time typically 50–60 minutes. Safety stop at 5 m.
+The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Shore entry from the Blue Lagoon beach. Walk to waist depth and submerge. The beach is a short walk or 5-minute drive from Padangbai town. Boat dives are also available from local operators for a shorter surface swim to the reef.
+Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
 
 ## Tips and Recommendations
 
-- An ideal site for the first ocean dive of a certification course or a checkout dive
-- The right-hand wall at Tanjung Sari offers more depth and variety for experienced divers
-- Night dives are excellent here — octopus, cuttlefish, and lobster are active after dark
-- Visit on a weekday morning to avoid the peak snorkel tour crowds
-- Combine with Gili Tepekong or Gili Mimpang for a varied diving day from Padangbai
+- Excellent site for newer divers — calm conditions and easy navigation
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-The bay is very calm, but boat traffic enters and exits the area — be visible when surfacing and deploy an SMB if returning from the wall. Lionfish are present under overhangs; do not touch. Sea urchins inhabit the rocky shore entry; wear booties and shuffle-step near rocks.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Excellent natural light in the shallows suits wide-angle reef shots and fish portraits. Clownfish in anemones are predictable subjects. Night dives add octopus, cuttlefish, and nudibranchs. The white sand bottom reflects light beautifully for macro shots.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+
+## Additional Resources
+
+- **Last Updated**: 2026-04-07
 
 ---
-*Sources: [Aquamarine Diving - Bali Dive Sites](https://www.aquamarinediving.com/bali-diving/dive-sites/), [Dive The World - Bali Indonesia](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [Bluewater Dive Travel - Bali Diving](https://www.bluewaterdivetravel.com/destination/bali-diving), [World Adventure Divers - Best Dive Sites Bali](https://worldadventuredivers.com/best-dive-sites-bali/), [Neptune Scuba Diving - Scuba Diving Bali](https://neptunescubadiving.com/scuba-diving-bali/), [Dive The World - Bali](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [PADI - Diving in Bali](https://www.padi.com/diving-in/bali/). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*

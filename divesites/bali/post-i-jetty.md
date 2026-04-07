@@ -13,50 +13,55 @@ addedBy: osm_import
 
 ## Post I Jetty
 
-A pleasant sandy slope in front of Menjangan Island's ranger station — an often-overlooked site that rewards patient divers with critters under the jetty.
+Post I Jetty is a reef dive site in Bali, Asia.
 
 ## Overview
 
-Post I Jetty sits directly in front of the West Bali National Park ranger station on Menjangan Island and is a gentle sandy slope with a good variety of hard and soft corals reaching to around 30 m. While it lacks the dramatic vertical walls of other Menjangan sites, the shallow area beneath the jetty is genuinely special for critter hunters — ornate ghost pipefish, pipefish, frogfish, and various nudibranchs inhabit the structures and rubble. The site works well as a final dive of the day, providing a relaxed, lower-intensity experience to complement the deeper wall dives at Pos 2 or Bat Cave earlier in the day.
+Post I Jetty is a dive site in Bali offering excellent diving on healthy coral reef structures . Reef dive site at jetty location in Menjangan Island. Beginner-friendly with coral formations and calm conditions. Gentle drift possible. Good for training dives.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Menjangan Island, West Bali National Park, northwest Bali
+- **Location**: Bali, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10–25 m
-- **Current**: Minimal
-- **Best Time**: April to November
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-The jetty pilings host ornate ghost pipefish, pipefish, various nudibranch species, and small crustaceans. The sandy slope outside has garden eels, blue-spotted stingrays, and occasional cuttlefish. Lionfish rest under overhangs, and batfish congregate near the structure. Turtles are frequently seen on the reef.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-Descend under the jetty and spend time searching the pilings and rubble for cryptic critters before moving onto the sandy slope. Dive the slope between 8–20 m exploring coral heads and sandy patches. The dive is typically 45–55 minutes at a comfortable pace. Ascend slowly and complete a 3-minute safety stop.
+The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Jukung boat from Labuhan Lalang. Entry at the jetty area. Currents are minimal at this site. Surface marker buoy recommended for boat pickup in open water.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Check jetty pilings carefully for ghost pipefish — they are masters of camouflage
-- Use this as the third dive of the day when bottom time budgets are tighter
-- The site is excellent for Open Water training dives due to its calm, predictable conditions
-- Garden eels are found in sandy patches at around 15 m
-- Carry a small torch for illuminating crevices beneath the jetty
+- Excellent site for newer divers — calm conditions and easy navigation
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-Currents are minimal but be aware of boat traffic around the jetty. Maintain good buoyancy near the jetty structure to avoid entanglement. Lionfish under overhangs are venomous — do not touch. Stingrays on the sandy bottom may be partially buried — shuffle feet if wading near shore.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-The jetty creates an interesting structural dive shot opportunity. Macro photographers will enjoy the ghost pipefish, pipefish, and nudibranchs on the pilings. Garden eels on the sand require slow, patient approach for close-up shots. Cuttlefish in mid-water make excellent wide-angle subjects.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+
+## Additional Resources
+
+- **Last Updated**: 2026-04-07
 
 ---
-*Sources: [Aquamarine Diving - Bali Dive Sites](https://www.aquamarinediving.com/bali-diving/dive-sites/), [Dive The World - Bali Indonesia](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [Bluewater Dive Travel - Bali Diving](https://www.bluewaterdivetravel.com/destination/bali-diving), [World Adventure Divers - Best Dive Sites Bali](https://worldadventuredivers.com/best-dive-sites-bali/), [Neptune Scuba Diving - Scuba Diving Bali](https://neptunescubadiving.com/scuba-diving-bali/), [Dive The World - Bali](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [PADI - Diving in Bali](https://www.padi.com/diving-in/bali/). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*

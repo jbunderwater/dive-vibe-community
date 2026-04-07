@@ -13,69 +13,55 @@ addedBy: osm_import
 
 ## Ann's Rock / Astrid's Wall
 
-Ann's Rock is a popular and accessible Poor Knights wall dive where small boats can anchor directly on the rock. Divers can swim with or against the currents depending on conditions, offering flexibility in dive planning. The site offers good wall structure with marine growth and fish life, making it a reliable intermediate-level wall dive at Poor Knights.
+Ann's Rock / Astrid's Wall is a wall dive site in Poor Knights Islands, Oceania.
 
 ## Overview
 
-Ann's Rock is a wall dive featuring a dramatic vertical structure at a moderate depth, suitable for intermediate divers. The rock formation allows direct boat anchoring, making entry straightforward. The site's location allows divers to plan dives swimming with or against current depending on conditions and preferences. The wall provides excellent opportunity to observe vertical reef ecosystems and current-associated fish behaviour.
+Ann's Rock / Astrid's Wall is a dive site in Poor Knights Islands featuring a dramatic vertical wall that drops into the deep blue. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
 
 ## Site Information
 
-- **Location**: Poor Knights Islands, Northland, New Zealand
+- **Location**: Poor Knights Islands, Oceania
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15-30 meters
-- **Water Temperature**: 14-17°C (winter/May-Sept), 19-25°C (summer/Nov-april)
-- **Current**: Variable; often present—key feature of the site
-- **Best Time**: Year-round, especially in good visibility periods (May-Sept)
+- **Typical Visibility**: 15-40 meters (50-130 feet)
+- **Current**: Variable
+- **Best Time**: September to February
 
 ## Marine Life
 
-The wall structure supports varied marine life:
-- Kingfish, snapper, and giant trevally
-- Blue maomao and pink maomao schools
-- Short-tailed stingrays (warmer months)
-- Hard and soft corals
-- Sponges and anemones covering the wall
-- Moray eels and nudibranchs
-- Small reef fish and crustaceans in crevices
+Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Descend to the wall structure and follow the vertical profile downward. The wall extends from shallow water (5-10m) down to your maximum depth of 25 meters. Current direction, if present, will influence your dive direction—work with your guide on the best approach. Maintain good depth awareness as wall dives can encourage deeper-than-intended descents. Work the wall methodically, looking in crevices and overhangs for hidden marine life. The wall is colourful and supports varied marine growth.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-25 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
 
 ## Entry and Exit
 
-Boat entry via giant stride directly to the wall. Your guide will brief on current direction and depth management. Exit is via ascent and boat pickup at the surface.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- **Current awareness**: The often-present current is a feature, not a problem—work with it
-- **Depth monitoring**: Wall dives can encourage inadvertent deep descents—watch your depth gauge
-- **Flexible dive planning**: Discuss current direction with your guide before entering the water
-- **Excellent for learning Poor Knights**: A solid intermediate wall dive for building experience
-- **Look in crevices**: The wall has numerous interesting hiding spots for fish and invertebrates
-- **Reliable site**: The anchoring capability and moderate depth make this consistent
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
-- Excellent intermediate-level wall dive
-- Current, while present, is generally manageable
-- Good buoyancy control essential to prevent unintentional deep descents
-- Depth management important—maintain awareness of your depth gauge
-- Suitable for intermediate divers and those building Poor Knights experience
-- Always dive with a buddy
+Be aware of strong currents, jellyfish (box jellyfish in summer), crocodiles (north) in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Wall dives offer diverse photographic opportunities:
-- **Wide-angle**: The wall structure with fish in the blue water beyond
-- **Macro**: Close-ups of creatures in wall crevices and overhangs
-- **Current effects**: Fish positioning relative to current flow creates interesting compositions
-- **Vertical perspective**: Shooting up along the wall shows the vertical ecosystem
-- **Light and shadow**: The interplay of light and shadow along the wall creates compelling depth
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+
+## Additional Resources
+
+- **Last Updated**: 2026-04-07
 
 ---
-*Sources: [Wikivoyage Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands), [Dive! Tutukaka - Poor Knights Islands](https://diving.co.nz/poor-knights-islands), [New Zealand Tourism Poor Knights Islands](https://www.newzealand.com/us/poor-knights-islands/), [First Light Travel Poor Knights Dive Sites](https://www.firstlighttravel.com/nz-diving/dive-sites/poor-knights-island), [Yukon Dive Poor Knights Specialists](https://yukon.co.nz/). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*

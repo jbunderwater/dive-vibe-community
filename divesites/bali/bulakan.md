@@ -13,50 +13,54 @@ addedBy: osm_import
 
 ## Bulakan
 
-Known as Ghost Bay — one of Amed's best muck dive sites, where garden eels, flying gurnard, and frogfish inhabit the black volcanic sand.
+Bulakan is a reef dive site in Bali, Asia.
 
 ## Overview
 
-Bulakan (also known as Ghost Bay) is regarded as one of the finest muck dive sites in the Amed area, situated on the black volcanic sand coastline of northeast Bali. Unlike the classic Amed coral reef sites, Bulakan is characterised by an open sandy bay where the substrate is alive with small burrows, scattered rubble, and sparse coral patches. Garden eels extend from the sand in large colonies, retracting as divers approach. Flying gurnard — a striking fish that spreads its wing-like pectoral fins when disturbed — are a highlight. Blue-spotted stingrays, frogfish, mantis shrimp, and an exceptional diversity of nudibranchs make this a must-visit for underwater photographers.
+Bulakan is a dive site in Bali offering rewarding diving on healthy coral reef structures . Reef dive site in Amed area. Intermediate-level site with healthy coral structures and good marine life diversity.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Amed area, northeast Bali
+- **Location**: Bali, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10–20 m
-- **Current**: Generally mild
-- **Best Time**: April to November
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Garden eels in large sandy colonies. Flying gurnard — spread their elaborate pectoral fins when approached. Blue-spotted stingrays partially buried in the sand. Frogfish in various colour forms. Mantis shrimp at burrow entrances. Diverse nudibranchs throughout the rubble zone. Cuttlefish hunt over the sand, and ghost pipefish are found among sparse algae growth.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-Descend to the sandy bottom at 8–25 m and move slowly across the substrate. Approach garden eel colonies gradually to get close before they retract. When a flying gurnard is located, circle slowly to encourage it to spread its fins for photography. Cover the site systematically in a back-and-forth pattern with the guide, who will point out located critters.
+The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Boat dive from Amed. Short transit, typically 5–10 minutes. Entry via back roll or giant stride. Currents are minimal. Communicate with the boat crew for pickup location after the drift dive if current is running.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Approach garden eel colonies very slowly at eye level for the best viewing distance
-- Specifically ask your guide to locate a flying gurnard — it is the iconic species here
-- Carry a small torch even during the day to illuminate crevices and burrows
-- Combining with the Pyramids site in the morning creates an ideal Amed diving day
-- Dusk and dawn dives produce the most active critter behaviour on the sand
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-Camouflaged scorpionfish and stonefish on muck sites are a real hazard — never place hands on the substrate. Maintain positive buoyancy at all times. Stirring the black sand by finning reduces visibility to near zero rapidly. Stingrays on the sand can sting if accidentally contacted — maintain clear distance.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Flying gurnard and garden eels are the headline subjects. Wide-angle with close focus captures the gurnard's wing-like fins spread against the dark sand. Garden eels require a long lens or careful approach — shoot from a distance with a telephoto macro setup. Nudibranchs reward a 100mm macro lens with diopter.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+
+## Additional Resources
+
+- **Last Updated**: 2026-04-07
 
 ---
-*Sources: [Aquamarine Diving - Bali Dive Sites](https://www.aquamarinediving.com/bali-diving/dive-sites/), [Dive The World - Bali Indonesia](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [Bluewater Dive Travel - Bali Diving](https://www.bluewaterdivetravel.com/destination/bali-diving), [World Adventure Divers - Best Dive Sites Bali](https://worldadventuredivers.com/best-dive-sites-bali/), [Neptune Scuba Diving - Scuba Diving Bali](https://neptunescubadiving.com/scuba-diving-bali/), [Dive The World - Bali](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [PADI - Diving in Bali](https://www.padi.com/diving-in/bali/). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*

@@ -13,50 +13,54 @@ addedBy: osm_import
 
 ## Planet Rock Madang
 
-Planet Rock is Madang's signature dive — a submerged offshore pinnacle that rises from deep water to within meters of the surface, attracting one of the most impressive fish aggregations on the Papua New Guinea coast.
+Planet Rock Madang is a pinnacle dive site in Papua New Guinea, Pacific.
 
 ## Overview
 
-Planet Rock sits in open water several kilometres from Madang Harbour, an isolated seamount summit that serves as a gathering point for the entire surrounding ocean community. The pinnacle crests at approximately 3 meters below the surface and the flanks slope steeply into the blue. On any given dive, the site lives up to its reputation as one of PNG's most reliably spectacular: dense schools of chevron barracuda orbit the summit, bigeye trevally pack into tight balls in the water column, and grey reef sharks patrol the reef edge with quiet authority. Sweetlips aggregate under overhangs in their hundreds — one of the largest congregations of sweetlips regularly documented in PNG waters. Dog-tooth tuna power through the bait schools, and Napoleon wrasse of impressive size hold territory on the reef face. The shallowness of the summit, combined with the exceptionally clear open-ocean water Madang is known for, means visibility regularly exceeds 25 meters with brilliant natural illumination right to the pinnacle base. Planet Rock consistently ranks as one of the best dives in all of Papua New Guinea.
+Planet Rock Madang is a dive site in Papua New Guinea offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: Offshore Madang, Madang Province, Papua New Guinea
+- **Location**: Papua New Guinea, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Pinnacle
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 20-35 meters (65-115 feet)
-- **Current**: Moderate to strong (open water, tidal)
-- **Best Time**: May to November (dry season, best visibility)
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
+- **Best Time**: April to November
 
 ## Marine Life
 
-Chevron barracuda schools, bigeye trevally, sweetlips (in large aggregations under overhangs), grey reef sharks, whitetip reef sharks, dog-tooth tuna, Napoleon wrasse, rainbow runners. The pinnacle face supports healthy hard and soft corals with dense anthias populations. Sea turtles frequently rest on the pinnacle top. Occasional hammerhead and oceanic whitetip sharks in stronger current conditions.
+Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
 
 ## Dive Profile
 
-Descend directly to the pinnacle summit at 3-5 meters and spend time in the thick of the fish aggregations before dropping along the flanks. The sweetlips aggregations are typically found on the sheltered (current-shadow) side of the pinnacle between 8 and 15 meters. Grey reef sharks tend to work the current-facing flank. With a 15-meter maximum depth on the summit plateau, bottom time is generous — 60-70 minute dives are standard. Stronger-current visits concentrate more pelagics but require active management of position.
+The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Access by day boat from Madang Resort or Madang town operators. The site is in open water and can be choppy with trade winds — confirm conditions before departure. Giant stride entry. Deploy SMB on ascent; this is a high-traffic boating area and diver visibility from the surface is essential.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Time the dive to arrive at the site on a building incoming current — the aggregations are at their peak when nutrients are flowing over the pinnacle
-- Approach the sweetlips aggregation slowly from below — sudden movements disperse the school
-- Wide-angle photography is the priority here; bring a dome port and fast shutter speed for tracking moving fish
-- The summit is shallow enough for safe free-diving exploration on surface intervals if sea conditions permit
-- Combine Planet Rock with an afternoon wreck dive (MV Pacific Gas or Henry Leith) for a full day
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-Open-water currents are the primary concern. The site is exposed and conditions can change between entry and exit. Brief carefully with your guide on abort procedures and emergency surface signal protocols. Always carry an SMB — surface pickup at Planet Rock is in open water with boat traffic present. If swept off the pinnacle in a strong current, deploy SMB immediately and stay calm.
+Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Planet Rock is one of Papua New Guinea's best wide-angle subjects. The combination of clear water, abundant natural light, and dense schooling fish makes for exceptional photography. Barracuda and trevally tornadoes framed with a diver silhouette are the classic images. The sweetlips aggregations under overhangs reward a patient approach with extremely saturated colour shots. A fast wide-angle lens (f/4 or wider) handles the fast-moving school subjects well.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+
+## Additional Resources
+
+- **Last Updated**: 2026-04-07
 
 ---
-*Sources: [PADI Diving in Papua New Guinea](https://www.padi.com/diving-in/papua-new-guinea/), [Indopacific Images PNG Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [Bluewater Dive Travel PNG](https://www.bluewaterdivetravel.com/destination/papua-new-guinea-diving), [Divezone PNG Dive Sites](https://divezone.net/diving/papua-new-guinea), [Dive Adventures Papua New Guinea](https://diveadventures.com.au/country/papua-new-guinea/). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*

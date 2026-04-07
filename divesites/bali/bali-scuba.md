@@ -13,50 +13,54 @@ addedBy: osm_import
 
 ## Bali Scuba
 
-A reef dive site off the Sanur/Nusa Dua coast — coral gardens with varied fish life and calm conditions convenient to south Bali.
+Bali Scuba is a reef dive site in Bali, Asia.
 
 ## Overview
 
-Bali Scuba is a reef dive site accessible from south Bali, located in the waters off the Sanur area. The reef features coral gardens with a mix of hard and soft corals on a sloping bottom, offering a convenient dive option for travellers based in the south of the island who cannot make the longer journeys to Tulamben, Menjangan, or Nusa Penida. The site is particularly useful as a refresher or check dive, and conditions inside the sheltered reef channel are generally calm. Visibility averages 10–20 m and water temperatures are a consistent 28–30°C.
+Bali Scuba is a dive site in Bali offering rewarding diving on healthy coral reef structures . Reef dive site in Nusa Penida area. Intermediate-level site with healthy coral structures and diverse marine life. Standard Bali reef diving experience.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: South Bali, Sanur area
+- **Location**: Bali, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10–20 m
-- **Current**: Generally mild inside the bay
-- **Best Time**: April to November
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Reef fish typical of the Bali coast — butterflyfish, parrotfish, surgeonfish, and triggerfish. Moray eels and lionfish in coral crevices. Sea turtles are occasionally sighted. Batfish, sea snakes, cuttlefish, and nudibranchs are common finds along the Sanur reef system.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-Descend from the boat to the reef at 5–10 m and follow the coral gardens to the maximum depth of 20 m. Most of the interesting reef life is concentrated at 8–15 m. Ascend gradually along the coral slope and complete the safety stop in the shallow reef zone.
+The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Jukung boat from Sanur beach. Short transit to the reef. Entry via giant stride. Conditions are typically calm and manageable for intermediate divers.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- A convenient option for divers staying in Sanur, Kuta, or Nusa Dua
-- Works well as a refresher dive before heading to more demanding destinations
-- Best dived in the morning before afternoon boat traffic increases
-- Pair with a Nusa Penida day trip for a complete south Bali diving itinerary
-- Ask operators about combining with nearby batfish and cuttlefish sites in the channel
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-Boat traffic in the Sanur channel can be significant — surface carefully and use an SMB. Lionfish in the reef are venomous. Be mindful of sea urchins in the shallower rocky areas near the beach.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Calmer conditions suit learning photographers and those testing new equipment. Cuttlefish and sea snakes are approachable subjects. Batfish schools in the channel create interesting wide-angle compositions.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+
+## Additional Resources
+
+- **Last Updated**: 2026-04-07
 
 ---
-*Sources: [Aquamarine Diving - Bali Dive Sites](https://www.aquamarinediving.com/bali-diving/dive-sites/), [Dive The World - Bali Indonesia](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [Bluewater Dive Travel - Bali Diving](https://www.bluewaterdivetravel.com/destination/bali-diving), [World Adventure Divers - Best Dive Sites Bali](https://worldadventuredivers.com/best-dive-sites-bali/), [Neptune Scuba Diving - Scuba Diving Bali](https://neptunescubadiving.com/scuba-diving-bali/), [Dive The World - Bali](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [PADI - Diving in Bali](https://www.padi.com/diving-in/bali/). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*

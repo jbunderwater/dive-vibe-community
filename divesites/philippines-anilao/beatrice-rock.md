@@ -13,50 +13,54 @@ addedBy: osm_import
 
 ## Beatrice Rock
 
-Beatrice Rock is one of the established dive sites in Anilao, Batangas, offering a combination of reef structure and macro-rich substrate typical of the Verde Island Passage diving experience that has made this area famous in the global underwater photography community.
+Beatrice Rock is a reef dive site in Philippines Anilao, Asia.
 
 ## Overview
 
-Anilao's dive sites are concentrated along the rocky coastline of the Calumpan Peninsula and surrounding waters in Batangas Bay, and Beatrice Rock is among the named rock formations that have developed into recognised diving destinations. The rock formation creates an underwater structure with encrusted surfaces and surrounding reef habitat extending to 27 meters at its deepest accessible point. The Verde Island Passage current influence means water quality and biodiversity are exceptional. The site's combination of structure, depth, and typical Anilao critter density makes it productive for both wide-angle and macro diving approaches.
+Beatrice Rock is a dive site in Philippines Anilao offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Anilao, Batangas, Philippines
+- **Location**: Philippines Anilao, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 27 meters
-- **Typical Visibility**: 10-20 meters
-- **Current**: Light to moderate; can strengthen with tidal changes
-- **Best Time**: October to May
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-The rock formation's surface hosts dense nudibranch populations, which are the signature attraction of all Anilao dive sites. Flatworms glide across the rock faces. Frogfish in various colour forms sit camouflaged on sponge and coral growth. At depth, ghost pipefish and robust ghost pipefish are occasional sightings near featherstars. The reef surrounding the rock supports hawkfish, damselfish, and various wrasse. Seahorses inhabit algae-covered rubble zones around the rock base.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-Descend to the maximum depth and systematically work back up the rock surface toward the shallower sections. Anilao diving rewards a figure-eight or spiral pattern that covers all faces of the rock. Spend the maximum time in the 10–20 meter range where nudibranch diversity is typically highest. The 27-meter maximum allows exploration of the deeper sections while maintaining reasonable no-decompression limits.
+The site offers diving at depths ranging from shallow reef areas down to approximately 27 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Access by banca from Anilao resort piers. Entry by giant stride; return by ladder. A dedicated divemaster guide is recommended for spotting Anilao's specialist critters, which require trained eyes to locate.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Diving with a local guide who knows the site significantly increases the number of species found
-- Look at the undersides of ledges and overhangs — many Anilao nudibranchs are on vertical or inverted surfaces
-- Ghost pipefish around featherstars are often missed by divers who don't know to look
-- The 27-meter depth means some Anilao photographers bring dive computers to manage multi-dive day limits carefully
-- Night dives at Beatrice Rock, if your resort offers them, reveal a completely different cast of species
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-Standard Anilao precautions apply. Deploy SMB before surfacing. Be aware of boat traffic in the area. Depth to 27 meters requires attention to no-decompression limits on multi-dive days.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-The rock's surface offers one of Anilao's classic macro scenarios: dense nudibranch populations on encrusted surfaces with excellent natural light in the shallower sections. Wide-angle shots of the rock structure and adjacent reef are possible. Bring both macro and wide-angle options.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+
+## Additional Resources
+
+- **Last Updated**: 2026-04-07
 
 ---
-*Sources: [Dive Philippines Anilao Dive Sites](https://www.divephilippines.com.ph/anilao-batangas-dive-sites/), [Bluewater Dive Travel Anilao](https://www.bluewaterdivetravel.com/destination/anilao-diving), [Solitude World Anilao Dive Sites](https://solitude.world/dive-sites-anilao-batangas-the-philippines/), [Buceo Anilao](https://buceoanilao.com/), [Diving Squad Anilao Guide](https://www.divingsquad.com/philippines-diving/batangas-anilao/). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*

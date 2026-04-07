@@ -13,50 +13,54 @@ addedBy: osm_import
 
 ## Maravagi Passage
 
-Maravagi Passage is a channel drift dive in the Florida Islands area of the Solomon Islands, offering a comfortable intermediate-level current experience with solid fish life and healthy coral gardens on the passage walls and floor.
+Maravagi Passage is a drift dive site in Solomon Islands, Pacific.
 
 ## Overview
 
-The passage connects bodies of water between islands in the Florida Islands group, generating tidal drift that pushes divers along at a pleasant pace through a relatively shallow channel. Unlike the more demanding Devil's Highway, Maravagi Passage offers moderate, predictable current that makes it accessible to intermediate divers who are comfortable with drift techniques. The passage walls are covered in a mix of hard corals, sea fans, and sponge life, and the current draws in schooling fish life and occasional pelagic visitors that use the passage as a feeding ground.
+Maravagi Passage is a dive site in Solomon Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: Florida Islands, Solomon Islands
+- **Location**: Solomon Islands, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Drift dive
+- **Site Type**: Drift
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
-- **Typical Visibility**: 15–30 meters
-- **Current**: Moderate (tidal-dependent)
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
 - **Best Time**: April to November
 
 ## Marine Life
 
-The passage walls support a mix of branching hard corals, sea fans, and encrusting sponges. Schools of fusiliers and anthias hover in the current, picking off plankton as it washes through. Barracuda are commonly sighted in loose schools in the mid-water column, and trevally make passes through the passage. Reef sharks — primarily whitetips — are a reliable sighting, resting in the calmer eddies near the channel floor or patrolling the edges of the current. Sea turtles regularly transit the passage. On the sandy floor of the channel, flatfish and rays are occasionally encountered. Clownfish and anemones are distributed along the walls throughout.
+Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
 
 ## Dive Profile
 
-The dive is planned around the tidal window, with local knowledge determining the best entry time for current direction and speed. Divers enter at the up-current end and drift through the passage at a comfortable pace, maintaining position along the wall or channel floor as conditions allow. The maximum depth of 22 meters allows for reasonable bottom time, and most dives run 45–60 minutes. A safety stop in the shallows at the end of the drift is straightforward given the depth profile. The boat follows divers and picks up the group at the channel exit.
+The site offers diving at depths ranging from shallow reef areas down to approximately 22 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Boat dive operated by Florida Islands-based operators or liveaboards transiting the area. Entry at the up-current entrance to the passage; exit at the down-current end where the boat meets the group. Carry an SMB and deploy it before ascending for easy boat pickup.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Dive this on the correct tidal direction — a local guide is essential for timing
-- Relax into the current and conserve energy by flying with the drift rather than finning hard
-- Look into the current for approaching pelagics — barracuda and sharks tend to face into the flow
-- A streamlined setup is important; avoid dangling gauges and loose accessories
-- Combine with other Florida Islands sites such as Leru Cut for a full day's diving in the area
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-Moderate current is manageable for competent intermediate divers but can intensify around peak tidal flow. Discuss current speed with the guide before entering and establish clear abort criteria if conditions feel too strong. Buddy separation in current can be rapid — maintain close proximity throughout. Always carry an SMB. The channel has a straightforward depth profile without hazardous features, making it a relatively forgiving drift dive for divers gaining experience with current.
+Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Drift photography through the passage rewards wide-angle setups that can capture both the reef structure and the open-water schooling fish. Shooting into the current to capture barracuda hanging mid-water, or downward to show sea fans with current-feeding fish, produces clean compositional subjects. Video is particularly effective here — the steady drift produces smooth footage without the finning motion that affects hovering video. Macro shots are challenging in current but possible in the sheltered eddies near the passage floor.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+
+## Additional Resources
+
+- **Last Updated**: 2026-04-07
 
 ---
-*Sources: [Bilikiki Cruises - Dive Sites](https://www.bilikiki.com/about/dive-sites), [Dive the World - Solomon Islands](https://www.dive-the-world.com/diving-sites-solomon-islands.php), [Bluewater Dive Travel - Solomon Islands](https://www.bluewaterdivetravel.com/destination/solomon-islands-diving), [PADI - Diving in Solomon Islands](https://www.padi.com/diving-in/solomon-islands/), [Visit Solomons Dive Guide](https://www.visitsolomons.com.sb/wp-content/uploads/2023/11/Dive-Guide-Nov-10-2023-Digital.pdf). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*

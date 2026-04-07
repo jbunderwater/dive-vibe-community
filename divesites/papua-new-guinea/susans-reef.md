@@ -13,50 +13,54 @@ addedBy: osm_import
 
 ## Susan's Reef
 
-Susan's Reef is a beloved macro and reef dive in Kimbe Bay, West New Britain, Papua New Guinea, named after a diver who helped pioneer diving in the bay.
+Susan's Reef is a reef dive site in Papua New Guinea, Pacific.
 
 ## Overview
 
-Susan's Reef is a compact coral structure in the sheltered waters of Kimbe Bay, rising from a sandy bottom to just below the surface. While modest in size compared to some of Kimbe Bay's larger pinnacles, it punches well above its weight for marine life density. The reef is festooned with enormous sea fans — gorgonians measuring over a meter across that angle out into the current — and colonies of bright soft corals that cover almost every hard surface. The site has developed a well-deserved reputation for pygmy seahorses: Hippocampus bargibanti is reliably found on the fans between 12 and 20 meters, and patient divers often spot two or three individuals on a single dive. Ghost pipefish hover near crinoids, nudibranchs of a dozen species browse the coral heads, and resident anemonefish colonies occupy nearly every anemone on the reef. For photographers chasing the miniature, Susan's Reef consistently delivers.
+Susan's Reef is a dive site in Papua New Guinea offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: Kimbe Bay, West New Britain, Papua New Guinea
+- **Location**: Papua New Guinea, Pacific
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 15-30 meters (50-100 feet)
-- **Current**: Light to moderate
-- **Best Time**: October to May
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
+- **Best Time**: April to November
 
 ## Marine Life
 
-Pygmy seahorses (Hippocampus bargibanti) on sea fans, ghost pipefish, ornate ghost pipefish, robust ghost pipefish, nudibranchs, flatworms, anemonefish (clownfish), hawkfish, frogfish occasionally reported. Larger visitors include Napoleon wrasse, whitetip reef sharks resting on the sand, and occasional eagle rays passing through the blue. Sea turtles are regularly sighted resting on the reef.
+Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
 
 ## Dive Profile
 
-Descend to the reef base at 18-20 meters and work upward, spending most of the dive between 8 and 18 meters where sea fans are most prolific. Currents are typically gentle here compared to offshore pinnacle sites, making it an excellent site for extended bottom time and careful macro searching. A thorough dive takes 50-60 minutes with a comfortable air consumption rate.
+The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Access by boat from Walindi Plantation Resort or Kimbe Bay day operators. The site is in sheltered bay waters and conditions are generally calm. Giant stride entry. SMB on ascent for boat pickup.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Bring a good macro lens and focus light — pygmy seahorses require patience and good illumination
-- Ask your dive guide to point out the known pygmy seahorse sea fans — some individuals have been resident for extended periods
-- Move slowly and methodically across the reef; good buoyancy control is essential to avoid damaging the fragile gorgonians
-- Ghost pipefish are often found hovering near crinoids — check each crinoid carefully
-- A 45-60 minute dive at a relaxed pace will reveal far more than a rushed survey
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-Currents are generally light at this site but can increase with tidal changes. The site is accessed by boat and the bay waters are calm, making this suitable for divers who meet the intermediate certification requirement. Always carry an SMB. Be cautious around the large sea fans — they are delicate and slow-growing.
+Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Susan's Reef is one of Kimbe Bay's best macro destinations. Pygmy seahorses on gorgonian fans, nudibranchs on soft coral, and ghost pipefish against crinoid backgrounds are all classic shots here. A 100mm macro lens with a single strobe is the standard setup. Wide-angle shots of the fan-covered reef faces at 15 meters are also rewarding.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+
+## Additional Resources
+
+- **Last Updated**: 2026-04-07
 
 ---
-*Sources: [PADI Diving in Papua New Guinea](https://www.padi.com/diving-in/papua-new-guinea/), [Indopacific Images PNG Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [Bluewater Dive Travel PNG](https://www.bluewaterdivetravel.com/destination/papua-new-guinea-diving), [Divezone PNG Dive Sites](https://divezone.net/diving/papua-new-guinea), [Dive Adventures Papua New Guinea](https://diveadventures.com.au/country/papua-new-guinea/). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*

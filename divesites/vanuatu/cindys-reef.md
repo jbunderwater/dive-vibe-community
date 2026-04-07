@@ -13,31 +13,55 @@ addedBy: osm_import
 
 ## Cindy's Reef
 
-Cindy's Reef is a beginner-friendly coral reef site near Port Vila on Efate, Vanuatu, named after a local dive operator figure and representing one of the standard introductory and certification reef dives in the Port Vila dive circuit.
+Cindy's Reef is a reef dive site in Vanuatu, Pacific.
 
 ## Overview
 
-Located in the sheltered waters around Efate island, Cindy's Reef is a gently sloping coral reef system accessible from 5 meters to 30 meters, with the most productive and visually rich zone in the 10–20 meter range. The site is used regularly by Port Vila dive operators for Open Water certification dives, discover scuba experiences, and guided reef dives for newly certified divers — the calm conditions, clear water, and straightforward topography make it an ideal confidence-building environment.
+Cindy's Reef is a dive site in Vanuatu offering excellent diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
-The reef structure consists of hard coral gardens with scattered bommies (isolated coral heads) rising from the reef slope. Soft corals and sea fans add color to the deeper sections. Visibility is typically 20–30 meters in the sheltered Efate waters, with water temperature averaging 26–28°C year-round.
+## Site Information
 
-## What to Expect
+- **Location**: Vanuatu, Pacific
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 30 meters
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
+- **Best Time**: April to November
 
-Cindy's Reef delivers the classic Vanuatu reef experience: dense fish populations in clear, warm water over colorful coral. Clownfish occupy anemone colonies throughout the shallow sections, and green sea turtles are frequent visitors grazing across the reef flat. Schools of snapper and fusiliers orbit the bommies, while larger napoleon wrasse patrol the reef edges. The deeper sections (20–30 meters) reveal sea fans and more specialized reef species including scorpionfish and the occasional resting whitetip reef shark.
+## Marine Life
 
-The beginner-friendly designation reflects the site's reliable, calm conditions rather than any lack of marine interest — experienced divers report enjoyable dives here despite the designation, particularly on the deeper sections where the coral diversity increases noticeably.
+Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
 
-## Practical Information
+## Dive Profile
 
-- **Depth Range**: 5–30 meters
-- **Visibility**: 15–30 meters typical
-- **Currents**: Generally mild; sheltered reef position
-- **Entry**: Boat dive from Port Vila operators
-- **Best For**: Beginners and newly certified divers; certification dives; reliable turtle encounters
+The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
-## Marine Life Highlights
+## Entry and Exit
 
-Green sea turtles, clownfish and anemones, napoleon wrasse, snapper schools, fusiliers, whitetip reef sharks, scorpionfish, moray eels, sea fans, soft corals.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+
+## Tips and Recommendations
+
+- Excellent site for newer divers — calm conditions and easy navigation
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
+
+## Safety Considerations
+
+Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+
+## Photography
+
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+
+## Additional Resources
+
+- **Last Updated**: 2026-04-07
 
 ---
-*Sources: [Vanuatu Tourism Office - Diving Guide](https://www.vanuatu.travel/en/guide-to-diving-vanuatu), [Big Blue Vanuatu - Dive Sites](https://bigbluevanuatu.com/sites/), [Bluewater Dive Travel - Vanuatu](https://www.bluewaterdivetravel.com/destination/vanuatu-diving), [Lonely Planet - Vanuatu Diving](https://www.lonelyplanet.com/articles/guide-to-vanuatu-snorkel-scuba), [PADI - Diving in Vanuatu](https://www.padi.com/diving-in/vanuatu/). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*

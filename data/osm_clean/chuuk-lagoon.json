@@ -1,8 +1,8 @@
 [
   {
     "name": "Fujikawa Maru",
-    "lat": 7.3445825,
-    "lon": 151.8844405,
+    "lat": 7.344639,
+    "lon": 151.884861,
     "osm_id": 4031617721,
     "osm_type": "node",
     "depth": 33,
@@ -10,7 +10,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "Wikipedia, Master Liveaboards, SS Thorfinn",
+    "validation_source": "Wikipedia, Master Liveaboards, SS Thorfinn, michaelmcfadyenscuba.info",
     "tags": {
       "name": "Fujikawa Maru",
       "scuba_diving:dangers:current": "no",
@@ -70,8 +70,8 @@
   },
   {
     "name": "Heian Maru",
-    "lat": 7.3827083,
-    "lon": 151.8556827,
+    "lat": 7.38286,
+    "lon": 151.85575,
     "osm_id": 4031617722,
     "osm_type": "node",
     "depth": 35,
@@ -79,7 +79,7 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": "true",
-    "validation_source": "Wikipedia, SS Thorfinn, Scuba Diving Earth, Dirty Dozen Expeditions",
+    "validation_source": "Wikipedia, SS Thorfinn, Scuba Diving Earth, Dirty Dozen Expeditions, michaelmcfadyenscuba.info",
     "tags": {
       "name": "Heian Maru",
       "scuba_diving:dangers:current": "no",
@@ -139,8 +139,8 @@
   },
   {
     "name": "Kensho Maru",
-    "lat": 7.3768704,
-    "lon": 151.8457254,
+    "lat": 7.37689,
+    "lon": 151.84583,
     "osm_id": 4031617723,
     "osm_type": "node",
     "depth": 40,
@@ -148,7 +148,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "Diver Trek, Dirty Dozen Expeditions, Scuba Diving Earth",
+    "validation_source": "Diver Trek, Dirty Dozen Expeditions, Scuba Diving Earth, michaelmcfadyenscuba.info",
     "tags": {
       "name": "Kensho Maru",
       "scuba_diving:dangers:current": "no",
@@ -208,8 +208,8 @@
   },
   {
     "name": "Kiyosumi Maru",
-    "lat": 7.3735956,
-    "lon": 151.8432342,
+    "lat": 7.373806,
+    "lon": 151.843667,
     "osm_id": 4031617724,
     "osm_type": "node",
     "depth": 30,
@@ -217,7 +217,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "Argunners, Diver Trek, Dive3D, Scuba Diving Earth",
+    "validation_source": "Argunners, Diver Trek, Dive3D, Scuba Diving Earth, michaelmcfadyenscuba.info",
     "tags": {
       "name": "Kiyosumi Maru",
       "scuba_diving:dangers:current": "no",
@@ -277,8 +277,8 @@
   },
   {
     "name": "Rio de Janeiro Maru",
-    "lat": 7.3041719,
-    "lon": 151.894137,
+    "lat": 7.30439,
+    "lon": 151.89467,
     "osm_id": 4031617725,
     "osm_type": "node",
     "depth": 33,
@@ -286,7 +286,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "Scuba Diving Earth, Master Liveaboards, Diver Trek",
+    "validation_source": "Scuba Diving Earth, Master Liveaboards, Diver Trek, michaelmcfadyenscuba.info",
     "tags": {
       "name": "Rio de Janeiro Maru",
       "scuba_diving:dangers:current": "no",
@@ -346,8 +346,8 @@
   },
   {
     "name": "Sankisan Maru",
-    "lat": 7.295224,
-    "lon": 151.8686103,
+    "lat": 7.295472,
+    "lon": 151.868944,
     "osm_id": 4031617726,
     "osm_type": "node",
     "depth": 30,
@@ -355,7 +355,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "Scuba Diving Earth, Diver Trek, Dirty Dozen Expeditions",
+    "validation_source": "Scuba Diving Earth, Diver Trek, Dirty Dozen Expeditions, michaelmcfadyenscuba.info",
     "tags": {
       "name": "Sankisan Maru",
       "scuba_diving:dangers:current": "no",
@@ -415,8 +415,8 @@
   },
   {
     "name": "Shinkoku Maru",
-    "lat": 7.400096,
-    "lon": 151.7789273,
+    "lat": 7.400111,
+    "lon": 151.779111,
     "osm_id": 4031617727,
     "osm_type": "node",
     "depth": 39,
@@ -424,7 +424,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": "true",
-    "validation_source": "Dive3D, Scuba Diving Earth, Fly & Sea Dive Adventures, DIVE Magazine",
+    "validation_source": "Dive3D, Scuba Diving Earth, Fly & Sea Dive Adventures, DIVE Magazine, michaelmcfadyenscuba.info",
     "tags": {
       "name": "Shinkoku Maru",
       "scuba_diving:dangers:current": "no",
@@ -504,6 +504,312 @@
       "wreck:width": "9.1m",
       "source": "osm_extended",
       "addedBy": "extended_overpass"
+    }
+  },
+  {
+    "name": "Aikoku Maru",
+    "lat": 7.37278,
+    "lon": 151.91183,
+    "depth": 63,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Aikoku Maru",
+      "historic": "wreck",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Amagisan Maru",
+    "lat": 7.29097,
+    "lon": 151.86478,
+    "depth": 58,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Amagisan Maru",
+      "historic": "wreck",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Mitsubishi G4M Betty Bomber",
+    "lat": 7.35183,
+    "lon": 151.87836,
+    "depth": 15,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Mitsubishi G4M Betty Bomber",
+      "historic": "wreck",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Kawanishi H8K Emily Flying Boat",
+    "lat": 7.35581,
+    "lon": 151.87303,
+    "depth": 16,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Kawanishi H8K Emily Flying Boat",
+      "historic": "wreck",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Fujisan Maru",
+    "lat": 7.42156,
+    "lon": 151.89461,
+    "depth": 58,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Fujisan Maru",
+      "historic": "wreck",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Gosei Maru",
+    "lat": 7.31119,
+    "lon": 151.88739,
+    "depth": 35,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Gosei Maru",
+      "historic": "wreck",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Hanakawa Maru",
+    "lat": 7.33447,
+    "lon": 151.64394,
+    "depth": 34,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Hanakawa Maru",
+      "historic": "wreck",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Hoki Maru",
+    "lat": 7.35375,
+    "lon": 151.91342,
+    "depth": 49,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Hoki Maru",
+      "historic": "wreck",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Hoyo Maru",
+    "lat": 7.37114,
+    "lon": 151.84453,
+    "depth": 36,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Hoyo Maru",
+      "historic": "wreck",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Kikukawa Maru",
+    "lat": 7.35736,
+    "lon": 151.91197,
+    "depth": 40,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Kikukawa Maru",
+      "historic": "wreck",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Momokawa Maru",
+    "lat": 7.37319,
+    "lon": 151.90797,
+    "depth": 41,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Momokawa Maru",
+      "historic": "wreck",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Nagano Maru",
+    "lat": 7.36597,
+    "lon": 151.91444,
+    "depth": 59,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Nagano Maru",
+      "historic": "wreck",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Nippo Maru",
+    "lat": 7.38258,
+    "lon": 151.91028,
+    "depth": 48,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Nippo Maru",
+      "historic": "wreck",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Yamagiri Maru",
+    "lat": 7.383389,
+    "lon": 151.8215,
+    "depth": 34,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Yamagiri Maru",
+      "historic": "wreck",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "San Francisco Maru",
+    "lat": 7.364056,
+    "lon": 151.910194,
+    "depth": 62,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "San Francisco Maru",
+      "historic": "wreck",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Seiko Maru",
+    "lat": 7.361417,
+    "lon": 151.904167,
+    "depth": 40,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Seiko Maru",
+      "historic": "wreck",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Shotan Maru",
+    "lat": 7.362167,
+    "lon": 151.917972,
+    "depth": 40,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Shotan Maru",
+      "historic": "wreck",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
     }
   }
 ]

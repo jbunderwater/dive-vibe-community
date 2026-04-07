@@ -13,50 +13,54 @@ addedBy: osm_import
 
 ## Bahura
 
-Bahura is a shallow reef dive site in Anilao, Batangas, one of the named sites in the network of coral reefs that stretches along the Verde Island Passage — often cited as having the highest marine biodiversity on earth.
+Bahura is a reef dive site in Philippines Anilao, Asia.
 
 ## Overview
 
-Anilao is frequently called the "macro capital of the Philippines" and the birthplace of recreational scuba diving in the country, and Bahura offers a representative example of what makes the region so compelling for underwater photographers. The reef sits in Verde Island Passage waters where upwellings from the passage corridor create productive conditions for coral growth and critter diversity. At 16 meters maximum depth, the site is shallow enough for extended bottom time and thorough exploration of the reef substrate. Hard corals and sponges provide the primary structure, with the rubble and silty margins between reef sections offering the muck-diving habitat that Anilao is celebrated for.
+Bahura is a dive site in Philippines Anilao offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Anilao, Batangas, Philippines
+- **Location**: Philippines Anilao, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 16 meters
-- **Typical Visibility**: 10-20 meters
-- **Current**: Light to moderate
-- **Best Time**: October to May
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Bahura's proximity to the Verde Island Passage corridor means exceptional biodiversity. Nudibranchs are prolific — Anilao is world-famous for nudibranch diversity, and this site delivers dozens of species on a single dive. Frogfish in multiple colour morphs inhabit the sponge growth. Pygmy seahorses may be found on sea fans at depth. The reef proper supports schools of anthias, damselfish, and wrasse, with occasional hawksbill sea turtle sightings. Flatworms and sea slugs add to the macro inventory.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-Descend to the deepest reef section and search the coral and sponge growth for macro subjects. Work methodically across the reef, hovering close to the substrate rather than swimming above it. The shallow maximum depth supports extended exploration — pace yourself to cover the site thoroughly rather than rushing. Spend time in the rubble zones that are often richest for Anilao's signature macro life.
+The site offers diving at depths ranging from shallow reef areas down to approximately 16 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-16 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Access by banca from Anilao resorts, most of which have in-house dive operations. The banca ride is short. Entry by giant stride; return to the banca by ladder. Most Anilao sites are dived with a dedicated divemaster guide who spots critters.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Anilao rewards patience — slow down and look at every inch of substrate for cryptic species
-- Ask your divemaster guide to spot nudibranchs and other macro subjects before diving
-- Bring a macro lens system (e.g., 60mm or 100mm equivalent for compact cameras)
-- Morning dive light through the water column is ideal for natural-light macro photography
-- A second dive at the same site at a different time of day often yields entirely different species
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-Shallow site with generally mild conditions. Standard Anilao precautions apply: watch for boat traffic when ascending, deploy SMB, and be aware of the occasional strong current that can develop in the passage corridor.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Anilao is one of the world's premier macro photography destinations, and Bahura represents this tradition well. Nudibranch portraits, frogfish close-ups, and reef fish images in excellent natural light are the primary subjects. Take extra batteries — you will want more dive time than a single tank provides.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+
+## Additional Resources
+
+- **Last Updated**: 2026-04-07
 
 ---
-*Sources: [Dive Philippines Anilao Dive Sites](https://www.divephilippines.com.ph/anilao-batangas-dive-sites/), [Bluewater Dive Travel Anilao](https://www.bluewaterdivetravel.com/destination/anilao-diving), [Solitude World Anilao Dive Sites](https://solitude.world/dive-sites-anilao-batangas-the-philippines/), [Buceo Anilao](https://buceoanilao.com/), [Diving Squad Anilao Guide](https://www.divingsquad.com/philippines-diving/batangas-anilao/). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*

@@ -13,50 +13,54 @@ addedBy: osm_import
 
 ## Underwater Cave
 
-A safe cavern dive on Menjangan Island's western wall, featuring a beautiful sandy-bottomed cave at 14 m lit by ambient light from above.
+Underwater Cave is a cave dive site in Bali, Asia.
 
 ## Overview
 
-Underwater Cave is located on the western side of Menjangan Island, where the coral wall is cut through with gullies and channels that create diverse micro-habitats. At 14 metres, a beautiful cavern opens with a sandy floor and light filtering down from above — an easy, non-penetration cave that divers of all levels can safely explore. The walls of the cavern are encrusted with sponges and small invertebrates, including electric clams that flash in the dim light. Outside the cave, the reef is a garden of soft and hard corals, with large grouper, frogfish, and anglerfish found in crevices. Currents are generally mild here, making it one of Menjangan's more relaxed diving environments.
+Underwater Cave is a dive site in Bali featuring underwater cave and cavern formations . Cave dive site in Menjangan Island area featuring underwater cave and cavern formations. Wall diving with cave features at 12m+ depth. Features gorgonians, sea fans and sponges.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Menjangan Island, West Bali National Park, northwest Bali
+- **Location**: Bali, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15–25 m
-- **Current**: Generally mild
-- **Best Time**: April to November
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-The cave interior hosts electric clams, small crustaceans, and invertebrates adapted to low-light conditions. Outside, large grouper, frogfish, and anglerfish reside in coral overhangs. Pygmy seahorses have been spotted in gorgonian fans near the cave entrance. Reef sharks, trevally, and tuna occasionally appear in the open water beyond the reef edge.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
 
 ## Dive Profile
 
-Descend along the wall from the boat and follow the reef to the cave entrance at approximately 14 m. Spend time in the cavern without penetrating beyond the light zone. Continue along the wall exploring channels and gullies between 15–25 m. Ascend gradually and complete a 3-minute safety stop at 5 m. Total dive time is typically 50–60 minutes.
+The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Access by jukung boat from Labuhan Lalang, West Bali. Entry via back roll or giant stride. The western side of Menjangan can have variable current; consult your dive guide for conditions on the day. Deploy SMB for ascent and surface pickup.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Bring a torch to see the cave walls clearly and to spot electric clams
-- Do not penetrate beyond natural daylight — the cavern is safe as a daylight dive only
-- Look for frogfish and anglerfish resting on coral rubble outside the cave
-- Combine with Coral Garden or Mangrove Point for a full Menjangan day
-- Check the sea fan colonies near the cave entrance for pygmy seahorses
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-Do not penetrate the cave beyond daylight illumination — turn around when light from outside becomes insufficient. Be aware of swell surges near the cave entrance that can move divers unexpectedly. Stay neutrally buoyant to avoid disturbing the sandy floor and reducing visibility. Always dive with a buddy.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-The cave interior offers unique shots with light streaming through the entrance creating a natural halo effect. Electric clams provide dramatic close-up subjects in the dim cave walls. Outside, wide-angle shots of the gully formations and soft coral walls work well with strobe lighting.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+
+## Additional Resources
+
+- **Last Updated**: 2026-04-07
 
 ---
-*Sources: [Aquamarine Diving - Bali Dive Sites](https://www.aquamarinediving.com/bali-diving/dive-sites/), [Dive The World - Bali Indonesia](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [Bluewater Dive Travel - Bali Diving](https://www.bluewaterdivetravel.com/destination/bali-diving), [World Adventure Divers - Best Dive Sites Bali](https://worldadventuredivers.com/best-dive-sites-bali/), [Neptune Scuba Diving - Scuba Diving Bali](https://neptunescubadiving.com/scuba-diving-bali/), [Dive The World - Bali](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [PADI - Diving in Bali](https://www.padi.com/diving-in/bali/). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*

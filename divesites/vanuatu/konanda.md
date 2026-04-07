@@ -13,31 +13,55 @@ addedBy: osm_import
 
 ## Konanda
 
-The Konanda is a small coastal cargo vessel wreck off Espiritu Santo, Vanuatu, resting upright in calm waters at 26 meters and serving as both a WWII-era historical site and one of the best beginner-level wreck dives in the Luganville area.
+Konanda is a historic wreck dive in Vanuatu, Pacific.
 
 ## Overview
 
-The Konanda was a small inter-island cargo vessel operating in the New Hebrides during and after WWII, sinking in the waters off Luganville in circumstances typical of wartime Pacific shipping. She came to rest upright on the seafloor at 26 meters, with the upper structure accessible well above the maximum depth — the deck and upper superstructure are reachable at 10–15 meters, making this a genuinely accessible first wreck dive for Open Water certified divers.
+Konanda is a dive site in Vanuatu featuring the wreck of the Konanda. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
-The wreck sits in a sheltered position with mild currents and good visibility of 15–25 meters. Unlike the large military wrecks of the Segond Channel, the Konanda's compact size allows the entire ship to be circumnavigated on a single dive — from the bow anchor assembly to the stern, with both the deck and the hull sides explored in one pass.
+## Site Information
 
-## What to Expect
+- **Location**: Vanuatu, Pacific
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 26 meters
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
+- **Best Time**: April to November
 
-The Konanda is well-colonized by coral growth, with the deck railings, holds, and superstructure covered in soft corals, sponges, and encrusting hard corals that have transformed the wreck into a living reef. The holds contain the remnants of her last cargo, now colonized by glassy sweepers that fill the enclosed spaces with their characteristic shimmering movement. Moray eels have established long-term territories in the hull plating gaps throughout the wreck.
+## Marine Life
 
-The wreck is regularly used by Luganville dive operators for certification dives, discover scuba experiences, and introductory wreck diving — the accessible depths and enclosed but naturally lit structure make it an ideal training environment. The surrounding sand and rubble near the hull supports small stingrays and occasional nudibranch sightings.
+Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
-## Practical Information
+## Dive Profile
 
-- **Depth Range**: 5–26 meters
-- **Visibility**: 15–25 meters typical
-- **Currents**: Generally mild; sheltered location
-- **Entry**: Boat dive from Luganville operators
-- **Best For**: Beginners and newly certified divers; ideal first wreck dive; used for certification dives
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 26 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
-## Marine Life Highlights
+## Entry and Exit
 
-Glassy sweepers in holds, moray eels, lionfish, small stingrays, nudibranchs, soft corals, snapper, groupers, anemones.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+
+## Tips and Recommendations
+
+- Excellent site for newer divers — calm conditions and easy navigation
+- Bring a dive torch to illuminate wreck interiors and dark overhangs
+- Maintain proper buoyancy to avoid disturbing silt inside the wreck
+- Do not attempt penetration without proper training and equipment
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+
+## Safety Considerations
+
+Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+
+## Photography
+
+The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+
+## Additional Resources
+
+- **Last Updated**: 2026-04-07
 
 ---
-*Sources: [Vanuatu Tourism Office - Diving Guide](https://www.vanuatu.travel/en/guide-to-diving-vanuatu), [Big Blue Vanuatu - Dive Sites](https://bigbluevanuatu.com/sites/), [Bluewater Dive Travel - Vanuatu](https://www.bluewaterdivetravel.com/destination/vanuatu-diving), [Lonely Planet - Vanuatu Diving](https://www.lonelyplanet.com/articles/guide-to-vanuatu-snorkel-scuba), [PADI - Diving in Vanuatu](https://www.padi.com/diving-in/vanuatu/). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*

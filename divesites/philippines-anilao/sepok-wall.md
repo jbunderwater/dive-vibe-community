@@ -17,7 +17,7 @@ Sepok Wall is a wall dive site in Philippines Anilao, Asia.
 
 ## Overview
 
-Sepok Wall runs along the northwest face of Maricaban Island, where a vertical drop from the reef crest at 5 meters to around 27 meters is covered in barrel sponges, large gorgonian fans, and dozens of Chromodoris nudibranch species that have made this wall a favorite among Anilao's macro photographers. Frogfish, leaf fish, twin-spot lionfish, and scorpionfish hide among the encrusted surfaces, while coral-covered bommies on the sandy floor offer complementary wide-angle compositions.
+Sepok Wall is a dive site in Philippines Anilao featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Sepok Wall runs along the northwest face of Maricaban Island, where a vertical d
 
 ## Marine Life
 
-Sepok Wall is one of Anilao's top macro sites, with dozens of Chromodoris nudibranch species distributed across the barrel sponges and gorgonian fans covering the wall face. Frogfish, leaf scorpionfish, twin-spot lionfish, and cryptic scorpionfish hide among the encrusted surfaces, while pygmy seahorses are reliably found in the large sea fans at mid-depth. The coral-covered bommies at the sandy base provide complementary wide-angle subjects, with moray eels, grouper, and small reef sharks occasionally patrolling the bottom.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
@@ -59,5 +59,9 @@ Be aware of strong currents, jellyfish, sea urchins in this area. Dive within yo
 
 Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
+## Additional Resources
+
+- **Last Updated**: 2026-04-07
+
 ---
-*Sources: [Dive Philippines Anilao Dive Sites](https://www.divephilippines.com.ph/anilao-batangas-dive-sites/), [Bluewater Dive Travel Anilao](https://www.bluewaterdivetravel.com/destination/anilao-diving), [Solitude World Anilao Dive Sites](https://solitude.world/dive-sites-anilao-batangas-the-philippines/), [Buceo Anilao](https://buceoanilao.com/), [Diving Squad Anilao Guide](https://www.divingsquad.com/philippines-diving/batangas-anilao/). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*

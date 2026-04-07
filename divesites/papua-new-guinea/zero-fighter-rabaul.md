@@ -13,50 +13,55 @@ addedBy: osm_import
 
 ## Zero Fighter Rabaul
 
-The Zero Fighter is a remarkably intact WWII Japanese Mitsubishi A6M Zero aircraft resting on a sandy seabed near Rabaul, East New Britain Province, Papua New Guinea — one of the Pacific's most photogenic aircraft wrecks at recreational depth.
+Zero Fighter Rabaul is a historic wreck dive in Papua New Guinea, Pacific.
 
 ## Overview
 
-Rabaul was Japan's principal Pacific air base during World War II, and the waters around the harbour hold numerous aircraft from the intense aerial campaigns of 1942-1944. The Zero Fighter — a Mitsubishi A6M, the most iconic Japanese fighter of the war — lies on a gently sloping sandy bottom at around 30 meters, largely upright and intact despite more than 80 years of submersion. The fuselage, wing sections, and distinctive radial engine cowling are clearly recognizable. The cockpit canopy is partially open, and the frame structure remains solid. Coral encrustation has been building steadily across the airframe — hard and soft corals now colonize the wing roots and tail, and sea fans have established on the engine mount. Lionfish have taken up residence in the wheel well and cockpit area. The aircraft rests in the shadow of Rabaul's volcanic peaks, and on particularly clear days the volcanic backdrop can be glimpsed from the surface before descending. At 30 meters, the Zero is accessible to advanced open-water divers without technical certification, making it one of the more accessible WWII aircraft wrecks in Papua New Guinea.
+Zero Fighter Rabaul is a dive site in Papua New Guinea featuring the wreck of the Zero Fighter Rabaul. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: Simpson Harbour area, Rabaul, East New Britain Province, Papua New Guinea
+- **Location**: Papua New Guinea, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 15-25 meters (50-80 feet)
-- **Current**: Generally light
-- **Best Time**: May to November
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
+- **Best Time**: April to November
 
 ## Marine Life
 
-Lionfish roosting in the cockpit and wheel well, scorpionfish on the wing surfaces, glassfish and damsels around the fuselage, coral and sponge growth on the airframe. Resident nudibranchs browse the encrusted surfaces. The sandy bottom around the aircraft hosts flatfish, garden eels in the distance, and occasional stingrays. Whitetip reef sharks sometimes rest on the sand near the wreck.
+Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
 ## Dive Profile
 
-Descend to the aircraft and begin at the nose and engine section, moving aft along the fuselage to the cockpit and tail. The cockpit area, at around 28-30 meters, is the deepest point and the most visually arresting feature — allow adequate time here while monitoring depth and no-decompression limits. The aircraft exterior can be thoroughly surveyed in 15-20 minutes, leaving time for a slow ascent with a full safety stop. Bottom time at 30 meters is limited; briefing and planning are important.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 30 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
-Access by boat from Rabaul dive operators. Giant stride or back roll entry. Descend via mooring line or anchor line to the aircraft. Ascend the line for a safety stop and SMB deployment. Harbour conditions are generally calm.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate the cockpit interior and the engine cowling — the details inside are extraordinary
-- Do not attempt to enter the cockpit or fuselage — the Zero is a protected historical site and structural integrity varies
-- Approach slowly and from below — this allows the best views of the aircraft silhouette against ambient light and minimises disturbance to resident fish
-- An AOWD certification or equivalent is strongly recommended given the 30-meter depth
-- Combine with a Rabaul wall dive (Barracuda Point) or harbour dive for a full day of historical diving
+- Bring a dive torch to illuminate wreck interiors and dark overhangs
+- Maintain proper buoyancy to avoid disturbing silt inside the wreck
+- Do not attempt penetration without proper training and equipment
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
 
 ## Safety Considerations
 
-Depth (30 meters) approaches the recreational limit — monitor no-decompression time carefully. The site is within the harbour and current is minimal, reducing decompression emergency risk. Do not touch or enter the aircraft structure; integrity has not been surveyed and sharp metal edges are present throughout. Rabaul's volcanic activity is monitored and operators will advise on any access restrictions related to seismic events.
+Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-The Zero Fighter is one of Papua New Guinea's most photographed WWII wrecks due to its intact condition, recognizable form, and accessible depth. Classic compositions include the full aircraft silhouette from the side or slightly below, the cockpit detail shot with torch illumination, and close-up macro shots of the encrusted engine cowling. A rectilinear wide-angle lens at the 16-20mm range captures the full aircraft. Natural light is adequate for ambient shots during morning dives; a torch or single strobe is needed for detail work.
+The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+
+## Additional Resources
+
+- **Last Updated**: 2026-04-07
 
 ---
-*Sources: [PADI Diving in Papua New Guinea](https://www.padi.com/diving-in/papua-new-guinea/), [Indopacific Images PNG Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [Bluewater Dive Travel PNG](https://www.bluewaterdivetravel.com/destination/papua-new-guinea-diving), [Divezone PNG Dive Sites](https://divezone.net/diving/papua-new-guinea), [Dive Adventures Papua New Guinea](https://diveadventures.com.au/country/papua-new-guinea/). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*

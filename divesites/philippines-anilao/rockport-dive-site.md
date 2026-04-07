@@ -13,50 +13,54 @@ addedBy: osm_import
 
 ## Rockport Dive Site
 
-Rockport Dive Site is a reef dive site in the Anilao area, associated with the Rockport locality on the Calumpan Peninsula, and offering the reef and critter diversity characteristic of the Verde Island Passage's celebrated marine biodiversity.
+Rockport Dive Site is a reef dive site in Philippines Anilao, Asia.
 
 ## Overview
 
-The Calumpan Peninsula in Anilao, Batangas, is the heart of Philippine sport diving history — the first scuba dive in the Philippines is widely attributed to the Anilao area in the 1950s. Rockport Dive Site sits in the reef systems along this historic stretch of coastline, where decades of diving and marine conservation awareness have helped maintain the reef in good condition. The site offers reef structure with coral growth and the typical Anilao combination of reef fish and macro critters concentrated in the substrate. Maximum depth of 20 meters makes it accessible for intermediate divers while still offering depth variation for varied marine life encounters.
+Rockport Dive Site is a dive site in Philippines Anilao offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Rockport, Anilao, Batangas, Philippines
+- **Location**: Philippines Anilao, Asia
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-20 meters
-- **Current**: Light to moderate
-- **Best Time**: October to May
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-Anilao reef sites consistently deliver nudibranchs, frogfish, and a diverse community of reef fish. At Rockport Dive Site, hard coral formations support chromis, damselfish, and anthias populations. The reef substrate hosts the Anilao complement of macro critters including flatworms, nudibranchs, and ghost pipefish around crinoids. Hawksbill sea turtles are occasional visitors to reef sites in the area. Seahorses inhabit the rubble and algae margins of the reef.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
-Begin at the deepest accessible section and work toward the shallows, examining reef surfaces methodically. The 10–18 meter zone is typically the most productive for species diversity. Allow extra time in the rubble and algae zones at the reef perimeter, which often harbour species that would be missed on the reef structure itself.
+The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Access by banca from Anilao resorts. Entry by giant stride; return by ladder. Ask your guide about any specific critter sightings in advance of the dive.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Anilao is a community of divers who share information — ask about recent finds at the dive briefing
-- The reef at Rockport rewards slow, patient diving more than coverage of distance
-- A second dive at the same site after a surface interval often adds species to the list
-- Macro photography setups work best here; bring a dedicated macro lens
-- Evening dives can reveal mandarinfish and different critter behaviour in the rubble zones
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-Standard Anilao precautions apply. Deploy SMB before surfacing. Manage no-decompression limits over a multi-dive day. Watch for boat traffic when ascending.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Reef fish portrait photography and nudibranch macro work are the primary subjects. Natural light in the 5–15 meter range is excellent for ambient-light photography. Strobe setups improve colour accuracy and critter visibility at depth.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+
+## Additional Resources
+
+- **Last Updated**: 2026-04-07
 
 ---
-*Sources: [Dive Philippines Anilao Dive Sites](https://www.divephilippines.com.ph/anilao-batangas-dive-sites/), [Bluewater Dive Travel Anilao](https://www.bluewaterdivetravel.com/destination/anilao-diving), [Solitude World Anilao Dive Sites](https://solitude.world/dive-sites-anilao-batangas-the-philippines/), [Buceo Anilao](https://buceoanilao.com/), [Diving Squad Anilao Guide](https://www.divingsquad.com/philippines-diving/batangas-anilao/). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*

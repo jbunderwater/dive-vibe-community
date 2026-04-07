@@ -89,8 +89,8 @@
   },
   {
     "name": "Cathedral Cave",
-    "lat": -17.7806,
-    "lon": 168.2567,
+    "lat": -17.78061,
+    "lon": 168.25667,
     "depth": 28,
     "site_type": "cave",
     "entry_type": "boat",
@@ -100,7 +100,8 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "michaelmcfadyenscuba.info, zentacle.com, bigbluevanuatu.com"
-    }
+    },
+    "validation_source": "michaelmcfadyenscuba.info"
   },
   {
     "name": "Hideaway Island Reef",
@@ -135,7 +136,7 @@
   {
     "name": "Ollies Lolly",
     "lat": -17.7025,
-    "lon": 168.2580,
+    "lon": 168.258,
     "depth": 9,
     "site_type": "reef",
     "entry_type": "boat",
@@ -160,6 +161,91 @@
       "addedBy": "fill_remaining_gaps",
       "validated": "true",
       "validation_source": "zentacle.com, bigbluevanuatu.com, wannadive.net"
+    }
+  },
+  {
+    "name": "Hat Island East",
+    "lat": -17.55,
+    "lon": 168.35,
+    "depth": 36,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Hat Island East",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Honeybone Drift",
+    "lat": -17.73,
+    "lon": 168.28,
+    "depth": 25,
+    "site_type": "drift",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Honeybone Drift",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Pango Reef",
+    "lat": -17.77,
+    "lon": 168.3,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Pango Reef",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Henri Bonneaud",
+    "lat": -15.52,
+    "lon": 167.19,
+    "depth": 35,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Henri Bonneaud",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "SS Tui Tuate",
+    "lat": -15.51,
+    "lon": 167.18,
+    "depth": 30,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "SS Tui Tuate",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
     }
   }
 ]

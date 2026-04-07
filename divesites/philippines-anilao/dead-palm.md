@@ -17,7 +17,7 @@ Dead Palm is a muck dive site in Philippines Anilao, Asia.
 
 ## Overview
 
-Dead Palm is a shallow muck dive adjacent to Arthur's Rock sanctuary, where a gently sloping sand-and-rubble bottom to 10 meters conceals the dense macro life that has made Anilao famous as the nudibranch capital of the world. The site is a shore-entry dive accessible directly from the beach, ideal for extended bottom time at minimal depth while hunting for resident frogfish, pipefish, and the Chromodoris and Phyllidiella nudibranchs scattered across the substrate.
+Dead Palm is a dive site in Philippines Anilao offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Dead Palm is a shallow muck dive adjacent to Arthur's Rock sanctuary, where a ge
 
 ## Marine Life
 
-Dead Palm's sand-and-rubble bottom is classic Anilao muck territory, with resident frogfish in multiple colour morphs sitting motionless among the debris and pipefish threading through algae-covered rubble. Chromodoris and Phyllidiella nudibranchs are scattered across the substrate in remarkable variety, and thorny seahorses cling to hydroid branches in the shallows. Patient divers scanning slowly will also turn up ghost pipefish, mantis shrimp, and the occasional blue-ringed octopus.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
 
 ## Dive Profile
 
@@ -58,5 +58,9 @@ Be aware of strong currents, jellyfish, sea urchins in this area. Dive within yo
 
 This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
+## Additional Resources
+
+- **Last Updated**: 2026-04-07
+
 ---
-*Sources: [Dive Philippines Anilao Dive Sites](https://www.divephilippines.com.ph/anilao-batangas-dive-sites/), [Bluewater Dive Travel Anilao](https://www.bluewaterdivetravel.com/destination/anilao-diving), [Solitude World Anilao Dive Sites](https://solitude.world/dive-sites-anilao-batangas-the-philippines/), [Buceo Anilao](https://buceoanilao.com/), [Diving Squad Anilao Guide](https://www.divingsquad.com/philippines-diving/batangas-anilao/). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*

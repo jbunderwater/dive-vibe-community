@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Arbuthnotts",
+    "filename": "arbuthnotts.md",
+    "lat": -21.195,
+    "lng": -159.745,
+    "difficulty": "Intermediate",
+    "maxDepth": 35,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Arorangi School Passage",
+    "filename": "arorangi-school-passage.md",
+    "lat": -21.225,
+    "lng": -159.835,
+    "difficulty": "Intermediate",
+    "maxDepth": 35,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Avaavaroa Passage",
+    "filename": "avaavaroa-passage.md",
+    "lat": -21.255,
+    "lng": -159.775,
+    "difficulty": "Advanced",
+    "maxDepth": 50,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Black Rock Chimneys",
+    "filename": "black-rock-chimneys.md",
+    "lat": -21.20525,
+    "lng": -159.8255,
+    "difficulty": "Beginner",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Black Rock Passage",
+    "filename": "black-rock-passage.md",
+    "lat": -21.206,
+    "lng": -159.826,
+    "difficulty": "Beginner",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Dianas Ridge",
+    "filename": "dianas-ridge.md",
+    "lat": -21.20273,
+    "lng": -159.82255,
+    "difficulty": "Intermediate",
+    "maxDepth": 40,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Maritime Reefer",
+    "filename": "maritime-reefer.md",
+    "lat": -21.23,
+    "lng": -159.76,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Matavera School Reef",
+    "filename": "matavera-school-reef.md",
+    "lat": -21.24,
+    "lng": -159.73,
+    "difficulty": "Beginner",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Sunset Ridge",
+    "filename": "sunset-ridge.md",
+    "lat": -21.22,
+    "lng": -159.84,
+    "difficulty": "Intermediate",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Tupis Passage",
+    "filename": "tupis-passage.md",
+    "lat": -21.21,
+    "lng": -159.81,
+    "difficulty": "Intermediate",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  }
+]

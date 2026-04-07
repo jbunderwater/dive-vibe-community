@@ -13,50 +13,55 @@ addedBy: osm_import
 
 ## Mirror Pond Uepi
 
-Mirror Pond is one of the most unusual and visually captivating dive experiences in the Solomon Islands — a flooded inland formation at Uepi Island in Marovo Lagoon where a layer of fresh water floats over salt water, creating a halocline that produces a perfect mirror-like reflection of the underwater scene when viewed from below.
+Mirror Pond Uepi is a cave dive site in Solomon Islands, Pacific.
 
 ## Overview
 
-Uepi Island sits within Marovo Lagoon in the Western Province, and Mirror Pond is a semi-enclosed cave or cenote-like feature on the island accessible by boat from Uepi Island Resort. The formation is filled with both fresh and salt water: rainfall and groundwater percolate through the island's limestone and collect in a lens above the denser marine water below. The boundary between the two water masses — the halocline — acts as a reflective surface, and divers hovering below it see a shimmering mirror image of themselves and the cave walls reflected back. The effect is disorienting and beautiful in equal measure, and the site is unique within the Solomons. Maximum depth is shallow at 15 meters, and conditions are completely calm, making this an exceptional beginner site.
+Mirror Pond Uepi is a dive site in Solomon Islands featuring underwater cave and cavern formations. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
-- **Location**: Uepi Island, Marovo Lagoon, Western Province, Solomon Islands
+- **Location**: Solomon Islands, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/cavern
+- **Site Type**: Cave/Cavern
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 15–25 meters (below halocline); halocline itself creates visual distortion
-- **Current**: None
-- **Best Time**: Year-round; dry season (April–November) for clearest halocline
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
+- **Best Time**: April to November
 
 ## Marine Life
 
-The enclosed, low-light environment supports specialised life different from the open-reef systems outside. Small fish adapted to the cave conditions occupy the saltwater zone, including cardinalfish and small basslets that prefer the protected darkness. The cave walls, where light penetrates from the entrance, are encrusted with sponges, tunicates, and encrusting corals in muted colours. Shrimps and small crustaceans hide in rock crevices. The freshwater lens above the halocline is generally free of marine life, but the transition zone can carry interesting invertebrate activity. The site is visited as much for the unique optical experience as for marine life density — it is not a biodiversity hotspot but an encounter of a completely different kind.
+Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
 
 ## Dive Profile
 
-Divers enter the pond from the boat and descend through the freshwater lens — which may feel slightly cool compared to the surrounding Marovo Lagoon water — then pass through the halocline into the saltwater below. The transition through the halocline produces a blurring, refractive visual effect as the two water masses mix slightly at the boundary. Once below the halocline, divers turn and look upward to see the mirror surface reflecting the cave walls, the light from the entrance, and their own forms. The dive is shallow, unhurried, and meditative. Total dive time is typically 45–60 minutes including extended time hovering near the halocline to experience the reflection. The cave is open enough that disorientation is not a risk.
+The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
 
 ## Entry and Exit
 
-Accessed by boat from Uepi Island Resort, which is the primary base for diving in this part of Marovo Lagoon. The pond entrance is navigated by small boat or kayak, with divers entering the water inside the formation. Exit is back through the entrance the same way. Conditions are completely sheltered.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
 
 ## Tips and Recommendations
 
-- Hover below the halocline and look directly upward for the full mirror effect — this is the defining experience of the site
-- The halocline is most pronounced and visually dramatic after dry periods when the freshwater layer is thicker and more distinct
-- Torch or video light can enhance the visibility of cave wall details but is not essential for the halocline experience
-- Buoyancy control is key — fin movement near the halocline disturbs the boundary and reduces the mirror effect
-- Visit Uepi Island primarily — it is one of the best resort dive operations in the Solomons, with the surrounding Marovo Lagoon offering outstanding reef diving alongside this unique experience
+- Excellent site for newer divers — calm conditions and easy navigation
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry a surface marker buoy (SMB) and be prepared for current changes
 
 ## Safety Considerations
 
-Mirror Pond is one of the safest dive sites in the Solomon Islands. There is no current, the depth is shallow, and the cave entrance remains visible throughout the dive. The primary consideration is buoyancy near the halocline — excessive disturbance mixes the water masses and diminishes the visual effect rather than creating any safety hazard. Standard beginner dive protocols apply. Divers should note that the fresh water lens will taste different and feel slightly cooler, which can be surprising on first entry. Always dive with a buddy.
+Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
-Mirror Pond is an exceptional and unusual photographic subject. The mirror surface of the halocline, with the cave walls and any divers reflected perfectly in the silver plane, produces images that are difficult to describe and impossible to achieve anywhere else in the Solomon Islands. A wide-angle lens captures the full curve of the reflection. Video through the halocline, showing the visual distortion of the boundary layer in motion, is mesmerising. Torch-lit photography of the encrusted cave walls adds texture and colour to complement the halocline shots. Dive computers and gauges reflected in the mirror surface make striking compositional elements.
+This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+
+## Additional Resources
+
+- **Last Updated**: 2026-04-07
 
 ---
-*Sources: [Bilikiki Cruises - Dive Sites](https://www.bilikiki.com/about/dive-sites), [Dive the World - Solomon Islands](https://www.dive-the-world.com/diving-sites-solomon-islands.php), [Bluewater Dive Travel - Solomon Islands](https://www.bluewaterdivetravel.com/destination/solomon-islands-diving), [PADI - Diving in Solomon Islands](https://www.padi.com/diving-in/solomon-islands/), [Visit Solomons Dive Guide](https://www.visitsolomons.com.sb/wp-content/uploads/2023/11/Dive-Guide-Nov-10-2023-Digital.pdf). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*

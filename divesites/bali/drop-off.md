@@ -7,46 +7,61 @@ maxDepth: 30
 entryType: shore
 siteType: wall
 ref: null
-addedBy: contributor
+osmId: null
+addedBy: osm_import
 ---
 
 ## Drop-off
 
-Tulamben's dramatic volcanic wall — a shore-entry wall dive formed by a historic Mount Agung lava flow, right next to the famous USAT Liberty wreck.
+Drop-off is a wall dive site in Bali, Asia.
 
 ## Overview
 
-The Tulamben Drop-off, also known as the Tulamben Wall, is a vertical wall formed by solidified lava from Mount Agung's eruptions. The wall begins just meters from shore, with the top at 3-5 meters dropping steeply to over 60 meters. Shore entry across a pebble beach leads to a short surface swim before the wall begins. A shallow "aquarium section" at 5 meters teems with reef fish, making the site accessible to beginners at shallow depths while offering deeper exploration for experienced divers. The wall is heavily encrusted with sponges, gorgonian fans, black coral bushes, and crinoids.
+Drop-off is a dive site in Bali featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
-- **Location**: Tulamben, east Bali (adjacent to USAT Liberty wreck)
+- **Location**: Bali, Asia
 - **Entry Type**: Shore entry
 - **Site Type**: Wall dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 15-30 m
-- **Current**: Generally mild
-- **Best Time**: Year-round; best visibility April to November
+- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Current**: Variable, can be very strong
+- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
-The wall supports prolific macro life including frogfish, ghost pipefish, leaf scorpionfish, nudibranchs, octopus, and cuttlefish. Larger species include white-tip reef sharks, Napoleon wrasse, and large moray eels. Clown triggerfish and schools of fusiliers are common along the wall face. The sandy slope before the wall is an excellent macro photography area. Occasional mola mola and pelagics pass in the blue water beyond the wall.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
-Enter from the pebble beach and swim a short distance to the wall edge. The shallow aquarium section at 3-5 meters is ideal for a warmup. Drop along the wall to your desired depth — the wall is productive at all levels from 5-30 meters. The sandy slope at the base of the wall transitions into deeper territory. Return along the wall at a shallower depth for your safety stop before swimming back to shore.
+Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+
+## Entry and Exit
+
+Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
 
 ## Tips and Recommendations
 
-- Easily combined with a dive on the adjacent USAT Liberty wreck
-- The sandy slope before the wall is excellent for macro photography — look for frogfish and ghost pipefish
-- Early morning dives offer the best lighting on the wall face
-- Night dives on the Drop-off are popular for hunting flashlight fish and Spanish dancers
+- Excellent site for newer divers — calm conditions and easy navigation
+- Watch your depth carefully — wall dives can lead to unintentional deep descents
+- Look in crevices and overhangs for hidden marine life
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Safety Considerations
 
-The shallow wall top makes this site very accessible for beginners, but depth increases rapidly. Watch your depth gauge carefully along the wall. Shore entry over loose pebbles can be slippery — water shoes or booties recommended.
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+
+## Photography
+
+Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+
+## Additional Resources
+
+- **Last Updated**: 2026-04-07
 
 ---
-*Sources: [Aquamarine Diving - Tulamben Drop Off](https://www.aquamarinediving.com/tulamben-drop-off-dive-site-bali/), [Ecodive Bali - Tulamben Wall](https://ecodivebali.com/tulamben-wall-drop-off-dive/), [Let's Dive Tulamben - Drop Off](https://letsdivetulamben.com/dive-sites/drop-off/). Last updated 2026-04-05.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*

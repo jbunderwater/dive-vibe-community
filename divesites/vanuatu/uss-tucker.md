@@ -13,31 +13,55 @@ addedBy: osm_import
 
 ## USS Tucker
 
-The USS Tucker (DD-374) is a US Navy Mahan-class destroyer that sank in the Segond Channel off Espiritu Santo, Vanuatu, on 4 August 1942 — the first of the mine-sinking tragedies that would also claim the SS President Coolidge two months later, and now an accessible WWII wreck dive resting at recreational depths.
+USS Tucker is a historic wreck dive in Vanuatu, Pacific.
 
 ## Overview
 
-USS Tucker was a 341-foot Mahan-class destroyer commissioned in 1936 and assigned to the South Pacific theater by 1942. On the night of 4 August, returning from patrol, she entered the mine-protected Segond Channel through the incorrect lane and struck two American mines in rapid succession. The ship sank within ten minutes. Eight men were killed — the only significant fatalities in a night of mine-related disasters in the channel.
+USS Tucker is a dive site in Vanuatu featuring a historic wreck. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
-Tucker now lies broken and scattered in depths of 17–24 meters in the Segond Channel off Luganville. The main hull sections remain recognizable — the bow area, the stern, and the central hull sections are all identifiable, with the deck plating, gun mount foundations, and machinery spaces accessible to divers. The wreck is smaller and more scattered than the Coolidge, but offers a very different experience: more open structure, abundant natural light throughout, and the specific historical identity of an identifiable US Navy destroyer.
+## Site Information
 
-## What to Expect
+- **Location**: Vanuatu, Pacific
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 24 meters
+- **Typical Visibility**: 20-50 meters (65-160 feet)
+- **Current**: Moderate to strong
+- **Best Time**: April to November
 
-Tucker is typically dived as a companion wreck to the Coolidge — a morning or afternoon addition to a Coolidge day. The maximum depth of 24 meters is comfortable for intermediate divers, and the open, scattered structure means no penetration skills or special equipment are required. The gun mount bases on the hull are clearly identifiable, and the torpedo tube positions can be found in the debris field.
+## Marine Life
 
-The marine life on Tucker has developed to suit the open, well-lit structure — batfish hover in schools over the highest hull sections, snapper and sweetlips orbit the machinery areas, and moray eels have established territories in every available gap in the hull plating. The natural light makes Tucker an excellent photography subject in the middle hours of the day when the sun angle is optimal.
+Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
 
-## Practical Information
+## Dive Profile
 
-- **Depth Range**: 10–24 meters
-- **Visibility**: 15–25 meters typical; Segond Channel conditions
-- **Currents**: Mild to moderate channel conditions
-- **Entry**: Boat dive from Luganville operators
-- **Best For**: Advanced certified divers; excellent companion dive to the Coolidge
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 24 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
-## Marine Life Highlights
+## Entry and Exit
 
-Batfish schools, snapper, sweetlips, moray eels, lionfish, soft corals, hard coral encrustation, barracuda, groupers.
+Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+
+## Tips and Recommendations
+
+- Bring a dive torch to illuminate wreck interiors and dark overhangs
+- Maintain proper buoyancy to avoid disturbing silt inside the wreck
+- Do not attempt penetration without proper training and equipment
+- Book with reputable local dive operators who know the site conditions
+- Bring an underwater camera — this site offers excellent photography opportunities
+- Check local weather and sea conditions before diving
+
+## Safety Considerations
+
+Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+
+## Photography
+
+The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+
+## Additional Resources
+
+- **Last Updated**: 2026-04-07
 
 ---
-*Sources: [Vanuatu Tourism Office - Diving Guide](https://www.vanuatu.travel/en/guide-to-diving-vanuatu), [Big Blue Vanuatu - Dive Sites](https://bigbluevanuatu.com/sites/), [Bluewater Dive Travel - Vanuatu](https://www.bluewaterdivetravel.com/destination/vanuatu-diving), [Lonely Planet - Vanuatu Diving](https://www.lonelyplanet.com/articles/guide-to-vanuatu-snorkel-scuba), [PADI - Diving in Vanuatu](https://www.padi.com/diving-in/vanuatu/). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*

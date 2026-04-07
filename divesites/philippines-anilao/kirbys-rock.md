@@ -17,7 +17,7 @@ Kirby's Rock is a wall dive site in Philippines Anilao, Asia.
 
 ## Overview
 
-Kirby's Rock on the northwest tip of Tingloy Island juts out into the Verde Island Passage, where a wall covered in gorgonians, whip corals, and crinoids descends from 5 meters to beyond 30 meters. Multiple moray eels occupy crevices in the wall, the rubble at the base hosts anemones with clownfish, and the exposure to open water means jacks and barracuda are regular visitors — hit slack water for the best visibility and the easiest photography.
+Kirby's Rock is a dive site in Philippines Anilao featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Kirby's Rock on the northwest tip of Tingloy Island juts out into the Verde Isla
 
 ## Marine Life
 
-Kirby's Rock offers a dual character: the gorgonian- and whip-coral-draped wall harbours moray eels in crevices and clownfish in anemones on the rubble base, while the site's exposure to the Verde Island Passage brings in jacks and barracuda from open water. Crinoids in the current at the wall's upper edge shelter the pygmy seahorses and ghost pipefish that reward macro photographers, and multiple nudibranch species are distributed across the encrusted surfaces. Slack water is the best time to hunt for critters before the current picks up and shifts attention to the pelagic action.
+Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
 
 ## Dive Profile
 
@@ -53,11 +53,15 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 
 Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
+## Additional Resources
+
+- **Last Updated**: 2026-04-07
+
 ---
-*Sources: [Dive Philippines Anilao Dive Sites](https://www.divephilippines.com.ph/anilao-batangas-dive-sites/), [Bluewater Dive Travel Anilao](https://www.bluewaterdivetravel.com/destination/anilao-diving), [Solitude World Anilao Dive Sites](https://solitude.world/dive-sites-anilao-batangas-the-philippines/), [Buceo Anilao](https://buceoanilao.com/), [Diving Squad Anilao Guide](https://www.divingsquad.com/philippines-diving/batangas-anilao/). Last updated 2026-04-04.*
+*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
