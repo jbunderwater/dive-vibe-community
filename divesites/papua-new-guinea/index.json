@@ -384,18 +384,6 @@
     "osmId": null
   },
   {
-    "name": "End Bommie",
-    "filename": "end-bommie.md",
-    "lat": -9.58,
-    "lng": 147.27,
-    "difficulty": "Intermediate",
-    "maxDepth": 30,
-    "entryType": "boat",
-    "siteType": "pinnacle",
-    "ref": "",
-    "osmId": null
-  },
-  {
     "name": "MV Coral Queen",
     "filename": "mv-coral-queen.md",
     "lat": -5.22,
@@ -452,6 +440,18 @@
     "maxDepth": 20,
     "entryType": "boat",
     "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Di's Delight",
+    "filename": "dis-delight.md",
+    "lat": -9.6042,
+    "lng": 147.3147,
+    "difficulty": "Intermediate",
+    "maxDepth": 32,
+    "entryType": "boat",
+    "siteType": "pinnacle",
     "ref": "",
     "osmId": null
   }

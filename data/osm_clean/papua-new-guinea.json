@@ -548,23 +548,6 @@
     }
   },
   {
-    "name": "End Bommie",
-    "lat": -9.58,
-    "lon": 147.27,
-    "depth": 30,
-    "site_type": "pinnacle",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
-    "tags": {
-      "name": "End Bommie",
-      "sport": "scuba_diving",
-      "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
-    }
-  },
-  {
     "name": "MV Coral Queen",
     "lat": -5.22,
     "lon": 145.8,
@@ -644,6 +627,23 @@
     "validation_source": "michaelmcfadyenscuba.info",
     "tags": {
       "name": "Eel Garden Madang",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Di's Delight",
+    "lat": -9.6042,
+    "lon": 147.3147,
+    "depth": 32,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Di's Delight",
       "sport": "scuba_diving",
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape"
