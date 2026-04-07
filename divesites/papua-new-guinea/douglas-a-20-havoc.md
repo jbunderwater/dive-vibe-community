@@ -23,7 +23,7 @@ Douglas A-20 Havoc is a dive site in Papua New Guinea featuring the wreck of the
 
 - **Location**: Papua New Guinea, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)

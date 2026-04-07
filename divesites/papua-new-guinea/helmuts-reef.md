@@ -23,7 +23,7 @@ Helmuts Reef is a dive site in Papua New Guinea offering rewarding diving on hea
 
 - **Location**: Papua New Guinea, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)

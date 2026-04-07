@@ -23,7 +23,7 @@ Barracuda Point Madang is a dive site in Papua New Guinea offering rewarding div
 
 - **Location**: Papua New Guinea, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Drift
+- **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)

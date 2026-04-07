@@ -23,7 +23,7 @@ Dinah's Beach is a dive site in Papua New Guinea offering excellent diving on he
 
 - **Location**: Papua New Guinea, Pacific
 - **Entry Type**: Shore entry
-- **Site Type**: Muck
+- **Site Type**: Muck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
