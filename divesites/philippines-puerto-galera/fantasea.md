@@ -23,7 +23,7 @@ Fantasea is a dive site in Philippines Puerto Galera offering rewarding diving o
 
 - **Location**: Philippines Puerto Galera, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Drift
+- **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 23 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

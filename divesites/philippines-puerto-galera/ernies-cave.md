@@ -23,7 +23,7 @@ Ernies Cave is a dive site in Philippines Puerto Galera featuring underwater cav
 
 - **Location**: Philippines Puerto Galera, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 26 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

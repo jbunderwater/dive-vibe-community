@@ -3,7 +3,7 @@ name: MV Alma Jane
 lat: 13.52
 lng: 120.985
 difficulty: Intermediate
-maxDepth: 30
+maxDepth: 29
 entryType: boat
 siteType: wreck
 ref: null
@@ -23,9 +23,9 @@ MV Alma Jane is a dive site in Philippines Puerto Galera featuring a historic wr
 
 - **Location**: Philippines Puerto Galera, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 29 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

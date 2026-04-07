@@ -23,7 +23,7 @@ Dry Dock is a dive site in Philippines Puerto Galera featuring the wreck of the 
 
 - **Location**: Philippines Puerto Galera, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

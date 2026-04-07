@@ -23,7 +23,7 @@ Hole in the Wall is a dive site in Philippines Puerto Galera featuring underwate
 
 - **Location**: Philippines Puerto Galera, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 27 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)

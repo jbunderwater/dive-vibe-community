@@ -3,9 +3,9 @@ name: Montani
 lat: 13.524
 lng: 120.968
 difficulty: Beginner
-maxDepth: 20
+maxDepth: 14
 entryType: shore
-siteType: reef
+siteType: muck
 ref: null
 osmId: null
 addedBy: osm_import
@@ -23,9 +23,9 @@ Montani is a dive site in Philippines Puerto Galera offering excellent diving on
 
 - **Location**: Philippines Puerto Galera, Asia
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Muck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 14 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
 - **Current**: Variable, can be very strong
 - **Best Time**: October to April (varies by location)

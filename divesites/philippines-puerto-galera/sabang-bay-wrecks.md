@@ -23,7 +23,7 @@ Sabang Bay Wrecks is a dive site in Philippines Puerto Galera featuring the wrec
 
 - **Location**: Philippines Puerto Galera, Asia
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 19 meters
 - **Typical Visibility**: 10-40 meters (30-130 feet)
