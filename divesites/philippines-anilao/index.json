@@ -274,5 +274,17 @@
     "siteType": "reef",
     "ref": "",
     "osmId": null
+  },
+  {
+    "name": "Aphols Point",
+    "filename": "aphols-point.md",
+    "lat": 13.658379,
+    "lng": 120.901393,
+    "difficulty": "Intermediate",
+    "maxDepth": 24,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
   }
 ]

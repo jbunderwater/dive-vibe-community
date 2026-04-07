@@ -418,5 +418,17 @@
     "siteType": "wall",
     "ref": "",
     "osmId": null
+  },
+  {
+    "name": "Barracuda Wall",
+    "filename": "barracuda-wall.md",
+    "lat": -8.344235,
+    "lng": 115.675122,
+    "difficulty": "Intermediate",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
   }
 ]

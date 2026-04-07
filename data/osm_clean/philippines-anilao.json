@@ -382,5 +382,22 @@
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape"
     }
+  },
+  {
+    "name": "Aphols Point",
+    "lat": 13.658379,
+    "lon": 120.901393,
+    "depth": 24,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Aphols Point",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
   }
 ]

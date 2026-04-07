@@ -690,5 +690,22 @@
       "source": "mcfadyen",
       "addedBy": "mcfadyen_scrape"
     }
+  },
+  {
+    "name": "Barracuda Wall",
+    "lat": -8.344235,
+    "lon": 115.675122,
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Barracuda Wall",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
   }
 ]
