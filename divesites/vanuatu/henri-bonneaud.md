@@ -2,8 +2,8 @@
 name: Henri Bonneaud
 lat: -15.52
 lng: 167.19
-difficulty: Intermediate
-maxDepth: 35
+difficulty: Advanced
+maxDepth: 45
 entryType: boat
 siteType: wreck
 ref: null
@@ -24,8 +24,8 @@ Henri Bonneaud is a dive site in Vanuatu featuring the wreck of the Henri Bonnea
 - **Location**: Vanuatu, Pacific
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 35 meters
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 45 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong
 - **Best Time**: April to November

@@ -2,8 +2,8 @@
 name: SS Tui Tuate
 lat: -15.51
 lng: 167.18
-difficulty: Intermediate
-maxDepth: 30
+difficulty: Advanced
+maxDepth: 44
 entryType: boat
 siteType: wreck
 ref: null
@@ -24,8 +24,8 @@ SS Tui Tuate is a dive site in Vanuatu featuring a historic wreck. Located in th
 - **Location**: Vanuatu, Pacific
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 44 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong
 - **Best Time**: April to November
