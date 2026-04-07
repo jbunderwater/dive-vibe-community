@@ -23,7 +23,7 @@ Grumman Hellcat is a dive site in Solomon Islands featuring the wreck of the Gru
 
 - **Location**: Solomon Islands, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 11 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)

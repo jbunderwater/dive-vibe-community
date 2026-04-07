@@ -23,7 +23,7 @@ Tokuyo Maru is a dive site in Solomon Islands featuring the wreck of the Tokuyo 
 
 - **Location**: Solomon Islands, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 38 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)

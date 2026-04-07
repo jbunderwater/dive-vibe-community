@@ -1,9 +1,9 @@
 ---
-name: Kawanishi Mavis Flying Boat
-lat: -9.108861
-lng: 160.186
-difficulty: Advanced
-maxDepth: 30
+name: Mitsubishi Zero Gizo
+lat: -8.103
+lng: 156.842
+difficulty: Beginner
+maxDepth: 10
 entryType: boat
 siteType: wreck
 ref: null
@@ -11,21 +11,21 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Kawanishi Mavis Flying Boat
+## Mitsubishi Zero Gizo
 
-Kawanishi Mavis Flying Boat is a historic wreck dive in Solomon Islands, Pacific.
+Mitsubishi Zero Gizo is a historic wreck dive in Solomon Islands, Pacific.
 
 ## Overview
 
-Kawanishi Mavis Flying Boat is a dive site in Solomon Islands featuring the wreck of the Kawanishi Mavis Flying Boat. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Mitsubishi Zero Gizo is a dive site in Solomon Islands featuring the wreck of the Mitsubishi Zero Gizo. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
 - **Location**: Solomon Islands, Pacific
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 10 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong
 - **Best Time**: April to November
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter coral growth, anemones, lionfish, sc
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 30 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 10 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 
@@ -44,16 +44,16 @@ Access is by dive boat from local operators. Entry is typically via giant stride
 
 ## Tips and Recommendations
 
+- Excellent site for newer divers — calm conditions and easy navigation
 - Bring a dive torch to illuminate wreck interiors and dark overhangs
 - Maintain proper buoyancy to avoid disturbing silt inside the wreck
 - Do not attempt penetration without proper training and equipment
 - Book with reputable local dive operators who know the site conditions
 - Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 

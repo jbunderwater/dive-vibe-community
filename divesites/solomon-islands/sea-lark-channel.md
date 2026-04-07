@@ -23,7 +23,7 @@ Sea Lark Channel is a dive site in Solomon Islands offering rewarding diving on 
 
 - **Location**: Solomon Islands, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Drift
+- **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)

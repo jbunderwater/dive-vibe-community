@@ -23,7 +23,7 @@ MV Roylen Petaj is a dive site in Solomon Islands featuring a historic wreck. Lo
 
 - **Location**: Solomon Islands, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 14 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)

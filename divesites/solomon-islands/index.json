@@ -322,5 +322,41 @@
     "siteType": "wreck",
     "ref": "",
     "osmId": null
+  },
+  {
+    "name": "USS Kanawha",
+    "filename": "uss-kanawha.md",
+    "lat": -9.116472,
+    "lng": 160.163806,
+    "difficulty": "Advanced",
+    "maxDepth": 58,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "USS Minneapolis Bow",
+    "filename": "uss-minneapolis-bow.md",
+    "lat": -9.069,
+    "lng": 160.144,
+    "difficulty": "Intermediate",
+    "maxDepth": 22,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Mitsubishi Zero Gizo",
+    "filename": "mitsubishi-zero-gizo.md",
+    "lat": -8.103,
+    "lng": 156.842,
+    "difficulty": "Beginner",
+    "maxDepth": 10,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
   }
 ]

@@ -23,7 +23,7 @@ Hundred Thousand Dollar Point is a dive site in Solomon Islands featuring the wr
 
 - **Location**: Solomon Islands, Pacific
 - **Entry Type**: Shore entry
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)

@@ -23,7 +23,7 @@ B-17 Flying Fortress is a dive site in Solomon Islands featuring the wreck of th
 
 - **Location**: Solomon Islands, Pacific
 - **Entry Type**: Shore entry
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 17 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)

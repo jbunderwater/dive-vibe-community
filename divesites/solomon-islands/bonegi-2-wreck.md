@@ -23,7 +23,7 @@ Bonegi 2 Wreck is a dive site in Solomon Islands featuring the wreck of the Bone
 
 - **Location**: Solomon Islands, Pacific
 - **Entry Type**: Shore entry
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 23 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)

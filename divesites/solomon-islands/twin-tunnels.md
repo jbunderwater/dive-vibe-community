@@ -23,7 +23,7 @@ Twin Tunnels is a dive site in Solomon Islands featuring underwater cave and cav
 
 - **Location**: Solomon Islands, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 45 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)

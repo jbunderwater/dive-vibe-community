@@ -1,9 +1,9 @@
 ---
-name: Kawanishi Mavis Flying Boat
-lat: -9.108861
-lng: 160.186
+name: USS Kanawha
+lat: -9.116472
+lng: 160.163806
 difficulty: Advanced
-maxDepth: 30
+maxDepth: 58
 entryType: boat
 siteType: wreck
 ref: null
@@ -11,13 +11,13 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Kawanishi Mavis Flying Boat
+## USS Kanawha
 
-Kawanishi Mavis Flying Boat is a historic wreck dive in Solomon Islands, Pacific.
+USS Kanawha is a historic wreck dive in Solomon Islands, Pacific.
 
 ## Overview
 
-Kawanishi Mavis Flying Boat is a dive site in Solomon Islands featuring the wreck of the Kawanishi Mavis Flying Boat. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+USS Kanawha is a dive site in Solomon Islands featuring a historic wreck. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
 
 ## Site Information
 
@@ -25,7 +25,7 @@ Kawanishi Mavis Flying Boat is a dive site in Solomon Islands featuring the wrec
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 58 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
 - **Current**: Moderate to strong
 - **Best Time**: April to November
@@ -36,7 +36,7 @@ Divers at this site can expect to encounter coral growth, anemones, lionfish, sc
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 30 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 58 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
 
 ## Entry and Exit
 

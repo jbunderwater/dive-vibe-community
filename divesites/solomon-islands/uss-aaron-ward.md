@@ -23,7 +23,7 @@ USS Aaron Ward is a dive site in Solomon Islands featuring a historic wreck. Loc
 
 - **Location**: Solomon Islands, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 70 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
