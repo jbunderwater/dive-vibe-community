@@ -11,56 +11,40 @@ osmId: null
 addedBy: osm_import
 ---
 
-## West Escareo
+# West Escareo
 
-West Escareo is a reef dive site in Philippines Puerto Galera, Asia.
+A small bay west of Lighthouse Headland with a sandy bottom and small coral outcrops -- an unspectacular but pleasant dive with banded sea snakes, orangutan crabs, and nudibranchs.
 
 ## Overview
 
-West Escareo is a dive site in Philippines Puerto Galera offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+West Escareo occupies a small bay west of Puerto Galera's Lighthouse Headland. The bottom is predominantly sandy with small coral outcrops scattered across it. By Puerto Galera's high standards, this is not the most spectacular site in the area -- but it still delivers reliable critter sightings including banded sea snakes, orangutan crabs in bubble coral, anemonefish, and nudibranchs. Visibility is typically around 20 meters, and the maximum depth of 24 meters keeps the dive well within recreational limits. It serves well as a relaxed second or third dive of the day.
 
 ## Site Information
 
-- **Location**: Philippines Puerto Galera, Asia
+- **Location**: West of Lighthouse Headland, Puerto Galera, Mindoro Island, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef (sandy bay with coral outcrops)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: ~20 meters
+- **Current**: Generally mild
+- **Water Temperature**: 28-29°C
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Banded sea snakes are regularly seen hunting through the coral outcrops and across the sandy bottom. Orangutan crabs hide in bubble coral -- look for the small hairy crabs tucked into the coral's bulbous lobes. Anemonefish defend their host anemones on the scattered outcrops. Nudibranchs provide macro interest across the site. The sandy areas between outcrops may yield additional small finds for patient observers.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 24 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Descend to the sandy bottom and navigate between the small coral outcrops, checking each for anemonefish, nudibranchs, and orangutan crabs in bubble coral. Watch for banded sea snakes moving through the area. The site is relatively compact, so there is time to explore thoroughly at a relaxed pace. Maximum depth is approximately 24 meters. Work gradually shallower through the outcrops and finish with a safety stop.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+- Look for orangutan crabs in bubble coral -- they are small and well-camouflaged
+- Keep an eye out for banded sea snakes, which are common here
+- A good site for a relaxed second or third dive of the day
+- Macro photography is more rewarding than wide-angle at this site
+- Not Puerto Galera's most dramatic site, but reliable for critter encounters
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1063). Last updated 2026-04-08.*

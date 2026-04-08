@@ -11,57 +11,52 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Barracuda Wall
+# Barracuda Wall
 
-Barracuda Wall is a wall dive site in Bali, Asia.
+A current-assisted drift dive starting off the eastern end of Bunutan Beach and heading east-southeast, featuring thousands of barrel sponges, hundreds of gorgonias, and some of the largest garden eel colonies in the region.
 
 ## Overview
 
-Barracuda Wall is a dive site in Bali featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Barracuda Wall is a drift dive site near Amed on Bali's northeast coast. The dive begins off the eastern end of Bunutan Beach and follows the current east-southeast along a wall densely covered in marine growth. The site is named for the barracuda that frequent the area, but the real draw is the sheer density of barrel sponges and gorgonia fans along the wall, along with an exceptional garden eel colony. The current typically carries divers along the wall, making this an effortless and visually spectacular drift dive.
 
 ## Site Information
 
-- **Location**: Bali, Asia
-- **Entry Type**: Boat dive
+- **Location**: Bunutan Beach, Amed, East Bali, Indonesia
+- **Entry Type**: Boat dive (drift dive)
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-25 meters
+- **Water Temperature**: 27-29°C
+- **Current**: Current-assisted drift (moderate to strong)
+- **Best Time**: April to November (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The wall at Barracuda is covered with thousands of barrel sponges and hundreds of gorgonia fans, creating one of the most densely covered walls in the Amed area. The sandy bottom adjacent to the wall supports some of the largest garden eel colonies described in the area -- dense fields of eels swaying in the current. Ribbon eels and moray eels inhabit crevices in the wall. Very large brain corals are present among the sponge and gorgonia coverage.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Enter the water off the eastern end of Bunutan Beach and descend to the wall. Allow the current to carry you east-southeast along the wall face. The current does the work -- simply maintain your depth and enjoy the scenery. Spend time scanning the wall for ribbon eels and morays in the crevices, and look toward the sandy bottom for the garden eel colonies. The wall extends to considerable depth, so monitor your depth gauge and avoid being carried deeper than planned by the current's downward component.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by boat from Amed-area operators. Enter by giant stride and descend to the wall. The drift carries you along the site, so the boat follows your bubbles or SMB for pickup. Deploy an SMB during your safety stop so the boat can locate you for collection.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Carry an SMB and deploy it before your safety stop -- this is a drift dive and the boat needs to track your position
+- Let the current do the work; fighting it wastes air and energy
+- Look down toward the sand for the garden eel colonies -- they retract as you approach, so observe from a distance
+- Morning dives often have the most predictable current direction
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+This is a current-assisted drift dive, so experience with drift diving technique is required. Carry an SMB and whistle. Stay with your group and guide, as separation in current can be difficult to recover from. The wall drops to significant depth -- watch your depth gauge carefully, as the current can push divers deeper than intended. Brief with your boat crew on pickup procedures before entering the water.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+Wide-angle photography excels here. The density of barrel sponges and gorgonias along the wall provides spectacular reef-scape compositions. The garden eel colony is an excellent wide-angle subject if you can approach slowly enough to avoid spooking them. Ribbon eels in the wall crevices are a rewarding macro target, though shooting macro on a drift dive requires skill and quick reflexes.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1090). Last updated 2026-04-08.*

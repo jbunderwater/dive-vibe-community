@@ -11,57 +11,42 @@ osmId: null
 addedBy: osm_import
 ---
 
-## USS Minneapolis Bow
+# USS Minneapolis Bow
 
-USS Minneapolis Bow is a historic wreck dive in Solomon Islands, Pacific.
+The severed bow section of the heavy cruiser USS Minneapolis (CA-36), cut off after torpedo damage sustained at the Battle of Tassafaronga on 30 November 1942. The bow lies upside down at 15-20 metres facing north -- a unique and accessible wreck with WWII debris scattered across the surrounding seabed.
 
 ## Overview
 
-USS Minneapolis Bow is a dive site in Solomon Islands featuring a historic wreck. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+At the Battle of Tassafaronga on 30 November 1942, the heavy cruiser USS Minneapolis took a torpedo hit that severely damaged her bow. The damaged bow section was later cut away to allow the ship to be repaired (the Minneapolis survived the war). The severed bow was disposed of and now lies upside down at 15-20 metres depth, facing north.
+
+The torpedo damage that caused the bow to be cut off is clearly visible in the hull plating. The anchor hawser remains in position. Scattered on and around the wreck are china plates, portlights, and other ship fittings. The surrounding seabed holds additional WWII debris including a landing craft and other military artefacts, extending the dive beyond the bow section itself. The maximum depth of 22 metres makes this an accessible intermediate-level dive.
 
 ## Site Information
 
-- **Location**: Solomon Islands, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Location**: Near Tulagi, Florida Islands, Solomon Islands
+- **Entry Type**: Boat dive from Tulagi
+- **Site Type**: Wreck dive (severed WWII cruiser bow)
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
-
-## Marine Life
-
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+- **Maximum Depth**: 22 metres
+- **Typical Visibility**: 15-30 metres
+- **Water Temperature**: 27-28°C
+- **Current**: Generally mild
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 22 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Descend to the inverted bow section at 15-20 metres. Orient yourself at the cut line where the bow was separated from the rest of the ship -- this is a clean, deliberate cut rather than battle damage. Move forward along the inverted hull to examine the torpedo damage that necessitated the amputation. The anchor hawser and hull fittings are visible along the structure. Spend time exploring the surrounding seabed where china plates, portlights, and other debris from the cruiser are scattered. A WWII landing craft and additional military debris lie nearby, extending the dive area. The 22-metre maximum depth allows generous bottom time for thorough exploration.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- The inverted orientation is disorienting at first -- take a moment to understand you are looking at the bottom of a hull, not the deck
+- The torpedo damage is clearly visible and makes for dramatic photography
+- Explore the surrounding sand for scattered artefacts -- china plates and portlights from the cruiser are found in the area
+- The nearby landing craft and military debris make this more than just a bow section dive
+- The 15-22 metre depth range is ideal for extended dives on air or Nitrox
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+This is a war grave site -- do not disturb or remove any artefacts, including the china plates and portlights on the seabed. The inverted hull structure has limited penetration opportunities but sharp corroded edges are present. Maintain good buoyancy to avoid contact with the structure. The moderate depth makes this one of the more forgiving wreck dives in the Tulagi area.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=752). Last updated 2026-04-08.*

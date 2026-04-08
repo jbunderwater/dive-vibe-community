@@ -11,57 +11,52 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Lipah Bay
+# Lipah Bay
 
-Lipah Bay is a wall dive site in Bali, Asia.
+A relaxed sandy slope dive about 12 minutes from Amed, mixing artificial reefs with natural coral patches, large bommies, and resident turtles -- a pleasant, easy site if not the most dramatic in the area.
 
 ## Overview
 
-Lipah Bay is a dive site in Bali featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Lipah Bay is located approximately 12 minutes from Amed on Bali's northeast coast. The site features a sandy slope descending to around 40 meters, with a mix of artificial reef structures (now colonized with coral growth), natural coral patches, and large bommies decorated with gorgonias and barrel sponges. While described as "not the most exciting dive at Amed," the site offers pleasant, relaxed diving with reliable turtle sightings, large moray eels, and abundant reef fish. It is well-suited to less experienced divers looking for an easy, enjoyable dive in the Amed area.
 
 ## Site Information
 
-- **Location**: Bali, Asia
+- **Location**: Lipah Bay, Amed, East Bali, Indonesia
 - **Entry Type**: Shore entry
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Site Type**: Reef dive (sandy slope with bommies and artificial reef)
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 30 meters (slope continues to ~40 m)
+- **Typical Visibility**: 15-25 meters
+- **Water Temperature**: 27-29°C
+- **Current**: Generally mild
+- **Best Time**: April to November (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Turtles are a regular sighting at Lipah Bay, often resting on the coral patches or grazing on the reef. Large moray eels inhabit the bommies and artificial reef structures. General reef fish are abundant, making use of the varied habitats created by the combination of natural and artificial reef. The artificial reef structures have been in place long enough to develop good coral coverage, providing established habitat for invertebrates and small fish.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Enter from shore and descend onto the sandy slope. The site is a mix of terrain types -- navigate between artificial reef structures, natural coral patches, and the larger bommies. The bommies are decorated with gorgonias and barrel sponges and are worth circling for turtles and moray eels. The slope descends gradually to around 40 meters, but most of the interesting features are in the 5-25 meter range. This is a relaxed dive well suited to slow exploration.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry from the beach at Lipah Bay, approximately 12 minutes by road from the main Amed area. The entry is straightforward over a sandy beach. Exit at the same point.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- A good choice for newer divers or for a relaxed second dive of the day
+- Turtles are the highlight -- approach slowly and let them come to you
+- Check around the artificial reef structures carefully for moray eels and other residents
+- Combine with a dive at one of the more dramatic Amed sites for variety
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Lipah Bay is a straightforward dive with generally mild conditions. Currents are usually light. The sandy slope is easy to navigate, but maintain awareness of your depth as the bottom slopes gradually deeper. Standard safety practices apply -- maintain adequate air reserves and perform a safety stop.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+The turtles at Lipah Bay are the primary photographic attraction and are often cooperative subjects. The large moray eels in the bommies reward patient photographers. The artificial reef structures with their coral growth provide interesting compositions showing reef colonization. Wide-angle is recommended for turtles and reef-scape; macro for the invertebrates on the artificial structures.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1096). Last updated 2026-04-08.*

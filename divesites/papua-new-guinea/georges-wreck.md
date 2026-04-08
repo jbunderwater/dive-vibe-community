@@ -11,57 +11,48 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Georges Wreck
+# Georges Wreck
 
-Georges Wreck is a historic wreck dive in Papua New Guinea, Pacific.
+A WWII Japanese freighter -- possibly the 1,916-ton Toyo Maru -- sitting upright on a 40-degree slope just 20-30 meters from shore, with holds containing mines, cables, engine room skylights, and bow gorgonias.
 
 ## Overview
 
-Georges Wreck is a dive site in Papua New Guinea featuring the wreck of the Georges Wreck. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Georges Wreck is a WWII Japanese freighter lying upright on a 40-degree slope near the Rabaul waterfront in East New Britain Province. The vessel is believed to be the 1,916-ton Toyo Maru, sunk in April 1943 by USAAF B-24 Liberator bombers during the Allied air campaign against the Japanese stronghold at Rabaul. The wreck is 60-66 meters long and sits remarkably close to shore, just 20-30 meters from the waterline. The depth range from 10 meters at the shallowest point to 55 meters at the stern makes it accessible across multiple experience levels, though the deeper sections require careful gas management. The holds contain wartime cargo including mines and cables, and the engine room skylights are accessible. Gorgonian sea fans have colonized the bow section, adding colour to the wreck.
 
 ## Site Information
 
-- **Location**: Papua New Guinea, Pacific
+- **Location**: Near Rabaul waterfront, East New Britain Province, Papua New Guinea
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck dive (WWII freighter)
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 55 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Maximum Depth**: 55 meters (stern)
+- **Typical Visibility**: 15-25 meters
+- **Current**: Mild to moderate
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck has become a thriving artificial reef. Large gorgonian sea fans have established on the bow section, some reaching impressive size. The hull is encrusted with hard and soft corals, sponges, and tunicates. Fish life includes the typical Rabaul reef species sheltering around the superstructure and inside the holds. Glassy sweepers form clouds inside the engine room and cargo spaces.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 55 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The wreck's proximity to shore and steep angled orientation mean the dive spans a wide depth range -- from 10 meters at the shallowest structures to 55 meters at the stern. Begin at the shallower bow section where the gorgonias are and work aft along the deck. The holds are accessible from above through open hatches, revealing mines and cables still in the cargo spaces. Engine room skylights allow light into the machinery spaces below. Winches on deck are visible along the way. The 40-degree slope means depth increases rapidly as you move aft, so plan your turnaround point based on your gas supply and depth limits.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from Rabaul, a very short ride given the wreck's proximity to shore (20-30 meters from the waterline). Entry is by giant stride. Descend directly to the wreck structure. Surface near the bow in shallower water for a comfortable safety stop and boat pickup.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Start at the bow (shallowest) and work aft -- this naturally takes you deeper, making gas management straightforward
+- The gorgonias on the bow are the most photogenic feature and make an excellent first stop
+- Bring a torch to peer into the holds and engine room skylights
+- The cargo of mines is a sobering reminder of the wreck's wartime history -- observe but do not touch
+- The 40-degree slope makes buoyancy management tricky; trim carefully to avoid sliding down the wreck
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+The stern reaches 55 meters, which is beyond recreational diving limits. Plan a maximum depth appropriate to your certification and experience, and turn the dive before reaching uncomfortable depths. The wartime cargo includes mines -- maintain a safe distance and do not disturb any ordnance. The holds contain confined spaces that require wreck penetration training and proper equipment to enter safely. Monitor air supply carefully given the depth range.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=707). Last updated 2026-04-08.*

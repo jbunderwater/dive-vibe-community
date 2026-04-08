@@ -11,56 +11,42 @@ osmId: null
 addedBy: osm_import
 ---
 
-## The Canyons
+# The Canyons
 
-The Canyons is a reef dive site in Philippines Puerto Galera, Asia.
+Puerto Galera's signature Advanced dive -- a series of three canyons with colourful walls, strong currents, huge schools of jacks, a large old Admiralty anchor, and occasional whale shark sightings.
 
 ## Overview
 
-The Canyons is a dive site in Philippines Puerto Galera offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The Canyons is widely considered Puerto Galera's premier dive site and carries an Advanced rating due to strong currents. The site comprises a series of three canyons with colourful walls, their tops ranging from 21-24 meters and floors at 26-29 meters. Strong currents sweep through the canyons, bringing nutrients that support impressive marine life -- most notably huge schools of jacks that gather in dense, swirling formations. A large old Admiralty anchor sits on the reef, a relic from a bygone era of sailing ships. Barrel sponges grow on the canyon walls and surrounding reef. Whale sharks have occasionally been sighted here, though such encounters are rare and unpredictable. Visibility typically ranges from 15-20 meters.
 
 ## Site Information
 
-- **Location**: Philippines Puerto Galera, Asia
+- **Location**: Puerto Galera, Mindoro Island, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef (canyon formations)
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 29 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-20 meters
+- **Current**: Strong -- this is a current-driven site
+- **Water Temperature**: 28-29°C
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Huge schools of jacks are the headline attraction, gathering in dense formations in and around the canyons. The current that makes this a challenging dive also sustains the impressive marine life concentrations. Barrel sponges grow on the canyon walls and surrounding reef areas. Whale sharks have been sighted occasionally, though this is not a reliable encounter. The colourful canyon walls themselves are covered in corals and invertebrates, and the strong flow attracts pelagic visitors.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 29 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+The three canyons have their tops at 21-24 meters and floors at 26-29 meters. Descend to the canyon system and work through the formations, using the canyon walls for shelter from the strongest current. The large Admiralty anchor is a distinctive landmark worth finding. Watch for schooling jacks in the water column, which often form dense walls of fish between the canyon walls. The strong currents require good buoyancy control and awareness of depth and position at all times. Gas management is critical given the depth and current -- plan conservatively and begin ascending with ample reserves.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+- This is an Advanced-rated site for good reason -- strong currents are the norm, not the exception
+- Stay close to your guide and group, as currents can separate divers quickly
+- The schooling jacks are best appreciated with a wide-angle lens
+- Look for the large old Admiralty anchor -- it is a distinctive historical feature
+- Carry an SMB and be prepared for drift conditions
+- Nitrox is recommended to extend limited bottom time at 24-29 meters
+- If current is exceptionally strong, your guide may call the dive -- respect this decision
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1051). Last updated 2026-04-08.*

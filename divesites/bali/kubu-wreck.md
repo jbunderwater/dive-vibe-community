@@ -11,57 +11,53 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Kubu Wreck
+# Kubu Wreck
 
-Kubu Wreck is a historic wreck dive in Bali, Asia.
+An approximately 80-meter coastal freighter sunk around 2014 as an artificial reef, sitting on a slope with the bow at 18 meters and the stern at 35-40 meters, located 400 meters southeast of Kubu Reef.
 
 ## Overview
 
-Kubu Wreck is a dive site in Bali featuring the wreck of the Kubu Wreck. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The Kubu Wreck is an approximately 80-meter coastal freighter that was intentionally sunk around 2014 to create an artificial reef off Kubu village on Bali's northeast coast. The wreck sits on a sloping bottom with the bow at around 18 meters and the stern descending to 35-40 meters. The deck has been decorated with props -- oxygen tanks, portholes, statues, and an old-style ship's helm -- giving the wreck a distinctive, almost theatrical character. Adjacent to the wreck is an artificial reef constructed from pushbikes, motorbikes, concrete blocks, and metal structures, many of which are now colonized by gorgonias. The site is located approximately 400 meters southeast of Kubu Reef.
 
 ## Site Information
 
-- **Location**: Bali, Asia
+- **Location**: Kubu Village, East Bali, Indonesia (400 m SE of Kubu Reef)
 - **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-25 meters
+- **Water Temperature**: 27-29°C
+- **Current**: Generally mild
+- **Best Time**: April to November (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter batfish, lionfish, sweetlips, coral growth, soft corals, manta rays, whale sharks, reef sharks. Additional species commonly sighted include sea turtles, barracuda, trevally. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+As a relatively recent artificial reef, the Kubu Wreck is in the process of being colonized by marine life. Gorgonia fans and soft corals are establishing on the metal structures of both the wreck and the adjacent artificial reef. The wreck structure provides shelter for reef fish, and the surrounding sand supports the same critter life found elsewhere along the Tulamben-Kubu coast. The adjacent artificial reef with its motorbikes and pushbikes draped in gorgonias creates unusual habitat that is steadily attracting more species.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 40 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Enter from shore and descend to the wreck. The bow at 18 meters is the shallowest point and a good place to begin exploration. Work aft along the deck, observing the prop decorations -- the statues, old-style helm, oxygen tanks, and portholes placed along the deck. The stern descends to 35-40 meters, so monitor depth and bottom time carefully when exploring the aft sections. Penetration of the wreck is possible but requires appropriate training and equipment. The adjacent artificial reef area with its pushbikes, motorbikes, and metal structures is worth exploring on the ascent or on a separate dive.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry at Kubu village, the same access point used for Kubu Reef. Local porters can assist with carrying equipment. Enter over the rocky shoreline and navigate to the wreck site. Exit at the same location.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Start at the bow (18 m) and work deeper to manage bottom time efficiently
+- Bring a torch to illuminate the wreck interior and highlight the prop decorations
+- The adjacent artificial reef is a separate dive in itself -- consider dedicating time to it
+- Nitrox extends bottom time significantly at the 18-25 meter deck level
+- The prop decorations make for unusual and entertaining photographs
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The stern depth of 35-40 meters makes this a deeper dive that limits bottom time on air. Plan gas management carefully and avoid spending too long at the deepest sections. Penetration is possible but requires wreck penetration training, a guideline or clear exit plan, and redundant lights -- never enter an overhead environment without proper training and equipment. The shore entry over rocks requires care, particularly with camera equipment.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+The Kubu Wreck offers unique photographic opportunities. The prop decorations on the deck -- statues, the old-style helm, portholes -- create distinctive compositions unlike any other wreck dive. The adjacent artificial reef with motorbikes and pushbikes draped in gorgonias provides surreal wide-angle subjects. A wide-angle lens is recommended for wreck exteriors and artificial reef structures. Bring a torch to bring out colours and illuminate details in the wreck's darker areas.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1065). Last updated 2026-04-08.*

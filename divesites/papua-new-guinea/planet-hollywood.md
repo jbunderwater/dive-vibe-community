@@ -11,57 +11,48 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Planet Hollywood
+# Planet Hollywood
 
-Planet Hollywood is a wall dive site in Papua New Guinea, Pacific.
+A vertical wall with dramatic overhangs at the mouth of Planet Channel between Enang and Nusalana Islands -- big gorgonias, sharks, eagle rays, and extremely strong, unpredictable currents that demand advanced experience.
 
 ## Overview
 
-Planet Hollywood is a dive site in Papua New Guinea featuring a dramatic vertical wall that drops into the deep blue. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Planet Hollywood is located at the mouth of Planet Channel, the passage between Enang and Nusalana Islands near Kavieng. The site features a vertical wall with pronounced overhangs, draped in large gorgonian sea fans. The channel mouth funnels tidal currents past the wall, attracting sharks, eagle rays, barracuda, and turtles. However, the currents here are extremely strong and unpredictable -- they can shift direction and intensity without warning, making this a site strictly for experienced divers. When conditions cooperate, the combination of dramatic wall topography, oversized gorgonias, and big-animal encounters makes Planet Hollywood one of the most exciting dives around Kavieng. Visibility is typically excellent at around 30 meters.
 
 ## Site Information
 
-- **Location**: Papua New Guinea, Pacific
+- **Location**: Planet Channel, between Enang and Nusalana Islands, Kavieng, New Ireland Province
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 45 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Maximum Depth**: 45+ meters (wall continues deeper)
+- **Typical Visibility**: 30 meters
+- **Current**: Extremely strong and unpredictable
+- **Best Time**: Year-round; current conditions vary with tides
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The current-swept wall attracts a parade of large marine life. Sharks are commonly seen patrolling the wall edge and in the blue water beyond. Eagle rays glide past, sometimes in groups. Schools of barracuda hang in the current. Turtles rest on ledges and in overhangs. The wall itself is decorated with large gorgonian sea fans that thrive in the strong water flow, along with soft corals and sponges in the overhangs.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-45 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+The dive plan depends entirely on current conditions, which the boat captain and guide will assess before committing. Descend to the wall and drift along it, using overhangs as shelter from the strongest flow when needed. The wall drops vertically well beyond 45 meters -- strict depth discipline is essential. The best marine life encounters tend to occur along the wall edge where the current is strongest. A reef hook may be useful for pausing at productive spots. The dive duration and profile are dictated by current direction and strength.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from Nusa Island Resort or Kavieng-based operators. The boat positions based on current assessment. Entry is by giant stride with immediate descent. The current dictates the exit -- deploy an SMB and drift clear of the wall for boat pickup. The boat follows the group and picks up divers downstream.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- This site is not for inexperienced divers -- assess your own comfort level with strong, unpredictable currents honestly
+- Carry a reef hook for pausing at productive spots along the wall
+- Stay close to the wall where you can use overhangs and topography for shelter from the current
+- A wide-angle lens captures the scale of the gorgonias and the drama of the wall overhangs
+- Be prepared to abort the dive if conditions deteriorate -- there is no shame in calling it
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+The extremely strong and unpredictable currents are the primary hazard. Currents can change direction during a dive, potentially sweeping divers away from the wall into open water. Carry an SMB, whistle, and mirror. Maintain visual contact with your buddy at all times. The vertical wall drops to extreme depth -- monitor your depth gauge constantly. This site should only be attempted with experienced local guides who know the current patterns.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=723). Last updated 2026-04-08.*

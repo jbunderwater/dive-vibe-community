@@ -11,57 +11,42 @@ osmId: null
 addedBy: osm_import
 ---
 
-## USS Kanawha
+# USS Kanawha
 
-USS Kanawha is a historic wreck dive in Solomon Islands, Pacific.
+A 137-metre fleet oiler (AO-1) sunk on 7 April 1943 by Japanese dive bombers near Tulagi. The Kanawha sits upright facing south, with multiple guns visible at 43-48 metres, an accessible engine room, and propellers buried at 57-58 metres. A large, deep wreck requiring technical diving experience.
 
 ## Overview
 
-USS Kanawha is a dive site in Solomon Islands featuring a historic wreck. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The USS Kanawha was a fleet oiler -- 137 metres long, designation AO-1 -- providing fuel support to US naval operations in the Solomon Islands. On 7 April 1943, the same Japanese air raid that sank HMNZS Moa also targeted the Kanawha near Tulagi. Japanese dive bombers scored multiple hits, and the oiler sank to the seabed where she now sits upright, facing south.
+
+The wreck retains multiple gun positions visible at 43-48 metres depth. The bridge area shows fire damage from the attack. The engine room is accessible through salvage holes cut into the hull, revealing internal machinery. The propellers are buried in the seabed at approximately 57-58 metres depth.
 
 ## Site Information
 
-- **Location**: Solomon Islands, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 58 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
-
-## Marine Life
-
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+- **Location**: Near Tulagi, Florida Islands, Solomon Islands
+- **Entry Type**: Boat dive from Tulagi
+- **Site Type**: Wreck dive (WWII fleet oiler)
+- **Difficulty Level**: Advanced (deep dive -- technical experience required)
+- **Maximum Depth**: 58 metres
+- **Typical Visibility**: 15-30 metres
+- **Water Temperature**: 27-28°C
+- **Current**: Variable
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 58 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Descend to the wreck, which sits upright facing south. The gun positions at 43-48 metres are a primary feature -- multiple weapons are still mounted in their positions along the deck. The bridge structure, showing fire damage from the air attack, can be examined at mid-ship depths. Salvage holes cut into the hull provide access to the engine room, where the propulsion machinery is visible -- a torch is essential inside. The propellers at 57-58 metres are partially buried in the seabed and represent the deepest point of the dive. The wreck's 137-metre length means a single dive can only cover a portion of the vessel; plan which sections to prioritise before descending.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- At 137 metres long, this is one of the largest diveable wrecks in the Solomon Islands -- plan to focus on specific sections rather than trying to see everything
+- The gun positions at 43-48 metres are the most accessible major features and make excellent photographic subjects
+- Engine room penetration through the salvage holes requires wreck diving experience, proper training, and redundant lighting
+- The fire-damaged bridge tells the story of the attack and is worth spending time on
+- Multiple dives are needed to fully explore a wreck of this size and depth
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+This is a war grave -- do not disturb or remove any artefacts. The 43-58 metre depth range places this wreck beyond standard recreational limits. Technical diving certification, trimix or deep air experience, and appropriate equipment are required. The engine room is an overhead environment accessible only through salvage holes -- enter only with proper wreck penetration training and redundant lighting. Decompression stops are mandatory for most dive profiles. The wreck was an oiler and may have residual fuel contamination -- avoid disturbing sediment inside the hull. Carry an SMB for ascent.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=382). Last updated 2026-04-08.*
