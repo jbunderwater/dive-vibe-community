@@ -464,7 +464,7 @@
     }
   },
   {
-    "name": "Coral garden",
+    "name": "Coral Garden Tulamben",
     "lat": -8.2769163,
     "lon": 115.5946864,
     "osm_id": 6428015268,
@@ -477,7 +477,7 @@
     "validation_source": "Tulamben area dive sites",
     "tags": {
       "description": "Reef dive site in Tulamben area. Intermediate-level site with healthy coral garden structures supporting diverse marine life.",
-      "name": "Coral garden",
+      "name": "Coral Garden Tulamben",
       "sport": "scuba_diving"
     }
   },

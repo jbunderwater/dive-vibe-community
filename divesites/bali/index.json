@@ -276,6 +276,18 @@
     "osmId": 5149607925
   },
   {
+    "name": "Coral Garden Tulamben",
+    "filename": "coral-garden-tulamben.md",
+    "lat": -8.2769163,
+    "lng": 115.5946864,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": 6428015268
+  },
+  {
     "name": "Big Fins TecDiving",
     "filename": "big-fins-tecdiving.md",
     "lat": -8.2784946,
