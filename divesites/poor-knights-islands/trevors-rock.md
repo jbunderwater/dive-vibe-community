@@ -11,55 +11,50 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Trevors Rock
+# Trevors Rock
 
-Trevors Rock is a pinnacle dive site in Poor Knights Islands, Oceania.
+A rocky pinnacle at the Poor Knights Islands named after champion diver Trev Zenovitch, featuring walls, gullies, and kelp passages from 10 to 30 meters. An excellent site for observing wrasses, triplefins, eagle rays, and stingrays.
 
 ## Overview
 
-Trevors Rock is a dive site in Poor Knights Islands offering rewarding diving on healthy coral reef structures. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Trevors Rock (also written Trevor's Rock or Trev's Rock) is a pinnacle formation at the Poor Knights Islands, named after Trev Zenovitch, a champion diver who was among the pioneers exploring these waters. The rock features a pitted surface that creates numerous refuges for a high variety of species, with walls beginning at around 20 meters depth and reaching the sand at 30 meters.
+
+Boats anchor on the shallow side in approximately 10 meters of water, giving access to both the shallow kelp-lit upper sections and the deeper wall. The pinnacle's varied topography -- walls, gullies, and passages through kelp -- provides diverse habitats in a compact area. The site is also noted as an excellent location for night diving, including deep night dives.
 
 ## Site Information
 
-- **Location**: Poor Knights Islands, Oceania
+- **Location**: Poor Knights Islands, Northland, New Zealand
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
+- **Site Type**: Pinnacle
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 15-40 meters (50-130 feet)
+- **Typical Visibility**: 10-20 meters
+- **Water Temperature**: 18-23 degrees C
 - **Current**: Variable
 - **Best Time**: September to February
 
 ## Marine Life
 
-Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals.
+Trevors Rock is noted as an excellent location for observing wrasses (labrids) and triplefins, along with the typical kelp forest inhabitants visible in the cathedral-lit shallow water areas. Eagle rays and long-tailed stingrays cruise the deeper water around the pinnacle. Moray eels shelter in the pitted rock surfaces, and scorpionfish hide among the kelp. Soft corals colonise shaded sections of the wall. Nudibranchs are found on the rocky surfaces throughout.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend the anchor line to approximately 10 meters on the shallow side of the pinnacle. From here, explore downward along the walls and gullies to the sand at 30 meters, where eagle rays and stingrays are most likely to be encountered. The pitted rock surfaces reward close inspection for small critters. Work your way back up through the kelp passages in the shallows, where light filtering through the kelp canopy creates atmospheric conditions. The shallow top of the pinnacle provides an excellent safety stop area.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from Tutukaka marina (approximately 45 minutes). The boat anchors on the shallow side of the pinnacle. Entry by giant stride. Return to the anchor line for ascent and boat pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- The pitted rock surfaces harbour a high density of small species -- take time to look closely rather than swimming past
+- Eagle rays and stingrays are best observed by hovering quietly near the deeper sections of the wall
+- An excellent night dive site for those seeking a different perspective on the pinnacle's inhabitants
+- The kelp passages in the shallows create beautiful natural lighting for photography
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish (box jellyfish in summer), crocodiles (north) in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+Currents around the pinnacle can be variable -- follow the dive guide's briefing. The wall drops to 30 meters, so monitor depth carefully. The kelp passages in the shallows can create mild entanglement risk -- maintain good buoyancy and avoid swimming into dense kelp. Adequate thermal protection is essential in New Zealand's temperate waters.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info), [Seafriends - Poor Knights Diving](https://www.seafriends.org.nz/issues/res/pk/msquart.htm), [Ross Cattell - Diving the Poor Knights Islands](https://rosscattell.net/diving/poor-knights/poor-knights.htm). Last updated 2026-04-08.*

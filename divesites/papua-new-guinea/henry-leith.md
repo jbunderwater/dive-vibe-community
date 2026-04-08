@@ -11,57 +11,48 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Henry Leith
+# Henry Leith
 
-Henry Leith is a historic wreck dive in Papua New Guinea, Pacific.
+A Scottish-built steam tug from 1887, scuttled in Nagada Harbour near Madang -- now beautifully covered in soft corals, sea whips, gorgonias, sponges, and anemones at an easy 20-meter maximum depth.
 
 ## Overview
 
-Henry Leith is a dive site in Papua New Guinea featuring the wreck of the Henry Leith. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The Henry Leith is a 32-meter steam tug built in Scotland in 1887. After a remarkably long working life, the vessel was sailed from Sydney to Papua New Guinea in 1968-69, where she continued service before being scuttled as a dive site off Wangat Island in Nagada Harbour, near Madang. At just 20 meters maximum depth, the wreck is accessible to divers of all experience levels. Over the decades, the Henry Leith has been colonized by a lush covering of soft corals, sea whips, gorgonian sea fans, sponges, and anemones, transforming her from a working vessel into an underwater garden. Firefish (lionfish), coral trout, and trevally are among the resident marine life. The wreck's manageable depth and rich coral coverage make it one of Madang's most photogenic dives.
 
 ## Site Information
 
-- **Location**: Papua New Guinea, Pacific
+- **Location**: Off Wangat Island, Nagada Harbour, Madang Province, Papua New Guinea
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck dive (scuttled steam tug)
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 10-20 meters
+- **Current**: Mild
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck's dense coral coverage supports diverse marine life. Soft corals in multiple colours drape the superstructure. Sea whips and gorgonian sea fans extend from the hull and deck structures. Large sponges and anemones (with resident clownfish) add variety. Firefish (lionfish) shelter in shaded areas. Coral trout and trevally patrol around the wreck. The combination of a heavily encrusted wreck at shallow depth creates a living reef structure that attracts a broad range of tropical species.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the wreck at approximately 20 meters maximum depth. The Henry Leith's 32-meter length is compact enough to explore thoroughly in a single dive. Begin at the stern and work forward, admiring the dense soft coral, sea whip, and gorgonia coverage on every surface. The deck and superstructure are the most heavily colonized areas. Look for firefish in sheltered spots and coral trout cruising along the hull. The shallow depth allows extended bottom time of 40-50 minutes or more, giving ample opportunity for photography. Ascend gradually and perform a safety stop at 5 meters.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from Madang-based operators, a short ride to Wangat Island in Nagada Harbour. Entry is by giant stride. The harbour location typically provides calm conditions. Surface near the wreck for boat pickup.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
+- The dense coral coverage makes this one of Madang's most photogenic wreck dives -- bring a camera
+- A macro lens rewards close-up shots of the soft corals, anemones, and firefish
+- The shallow depth and calm harbour conditions make this ideal for newer divers and wreck diving beginners
+- Combine with the nearby B-25 Mitchell Bomber (also off Wangat Island) for a two-wreck dive day
+- A torch helps bring out the vibrant colours of the soft corals, which can appear muted in natural light
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+This is a benign wreck dive suitable for all certification levels. The shallow depth eliminates decompression concerns for reasonable dive durations. Current is typically mild within the harbour. Maintain buoyancy control to avoid damaging the extensive coral growth on the wreck. The vessel is historic -- do not remove any artifacts.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=485). Last updated 2026-04-08.*

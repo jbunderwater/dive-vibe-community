@@ -11,57 +11,49 @@ osmId: null
 addedBy: osm_import
 ---
 
-## MV Coral Queen
+# MV Coral Queen
 
-MV Coral Queen is a historic wreck dive in Papua New Guinea, Pacific.
+A scuttled 31.7-meter island freighter in Madang Harbour, famous for its spectacular flashlight fish -- hundreds of Anomalops katoptron create glowing displays inside the cabins and funnel, best experienced at night.
 
 ## Overview
 
-MV Coral Queen is a dive site in Papua New Guinea featuring a historic wreck. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The MV Coral Queen was a 31.7-meter island freighter that formerly serviced Papua New Guinea's coastal communities before being scuttled in Madang Harbour to create a dive site. The wreck sits at 32 meters maximum depth with the deck at 28 meters and bridge at 23 meters. While the wreck itself is a solid dive with two large holds and penetrable interior spaces, the Coral Queen's real fame comes from its resident population of flashlight fish (Anomalops katoptron). These extraordinary fish have bioluminescent organs beneath their eyes that produce a bright blue-green glow. At night, hundreds of flashlight fish gather inside the wreck's cabins and funnel, creating one of the most surreal and memorable diving experiences in Papua New Guinea. Daytime dives are worthwhile for wreck exploration, but the night dive is the must-do experience.
 
 ## Site Information
 
-- **Location**: Papua New Guinea, Pacific
+- **Location**: Madang Harbour, Madang Province, Papua New Guinea
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck dive (scuttled freighter)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 32 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 10-20 meters (harbour conditions)
+- **Current**: Mild
+- **Best Time**: Year-round; night dives are the highlight
 
 ## Marine Life
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The flashlight fish (Anomalops katoptron) are the defining feature. By night, hundreds of these fish create an extraordinary bioluminescent display inside the wreck's cabins and funnel. Each fish has a light organ beneath its eye that it can "blink" on and off by rotating the organ -- the effect of hundreds doing this simultaneously in the darkness of the wreck interior is mesmerizing. By day, the wreck supports the typical Madang harbour marine community with coral growth on exterior surfaces, glassy sweepers in the holds, and reef fish sheltering around the superstructure.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 32 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The wreck lies on the harbour bottom at 32 meters, with the deck at 28 meters and bridge at 23 meters. For daytime dives, descend to the deck and explore the two large holds, which are accessible from above. The bridge and superstructure can be explored at 23-28 meters. Penetration through interior spaces is possible but requires proper equipment and training. For night dives -- the signature experience -- descend to the wreck and approach the cabins and funnel area with your torch. The flashlight fish are most spectacular when you turn off your torch and let the bioluminescence fill the space. They gather in their greatest numbers on dark nights.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from Madang-based operators, a short ride within the harbour. Entry is by giant stride. Descend directly to the wreck. Surface with an SMB for boat pickup.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- A night dive is mandatory to experience the flashlight fish -- do not visit this wreck without booking one
+- During the night dive, turn off your torch inside the cabins to see the full flashlight fish display
+- A red filter on your torch helps observe the fish without disturbing them as much
+- For video, use red light to navigate and film the bioluminescence against the darkness
+- The daytime dive is worthwhile for wreck photography, but the night dive is the unforgettable experience
+- Two dives (day then night) gives you the full Coral Queen experience
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+The wreck sits at 32 meters, limiting no-decompression time on air. The harbour location means visibility may be reduced. Night diving on a wreck at depth requires strong skills in buoyancy, navigation, and equipment management. Carry primary and backup torches. Penetration requires proper wreck diving training -- the interior spaces have low clearance and potential snag points. Do not touch or handle the flashlight fish.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=484). Last updated 2026-04-08.*

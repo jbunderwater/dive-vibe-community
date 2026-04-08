@@ -11,56 +11,49 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Arbuthnotts
+# Arbuthnotts
 
-Arbuthnotts is a reef dive site in Cook Islands Rarotonga, Pacific.
+A volcanic reef site on Rarotonga's northeast corner, seven minutes from Avatiu Harbour. Sandy bottom at 8 meters gives way to coral bommies and a reef dropoff at 25-30 meters with canyons, gullies, whitetip reef sharks, and guineafowl morays.
 
 ## Overview
 
-Arbuthnotts is a dive site in Cook Islands Rarotonga offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Arbuthnotts sits on the northeast corner of Rarotonga, just seven minutes by boat from Avatiu Harbour. The dive begins over a sandy bottom at approximately 8 meters, scattered with coral bommies that lead out to the reef dropoff at 25-30 meters. Beyond the edge, the reef slopes away to 35 meters and deeper, with canyons and gullies cutting through the volcanic rock substrate.
+
+Like much of Rarotonga's fringing reef, live coral cover here is relatively low -- around 5% -- with the reef structure being predominantly volcanic rock. However, the crystal-clear water (visibility regularly exceeds 40 meters) and the resident marine life more than compensate. Whitetip reef sharks patrol the deeper sections and guineafowl morays peer from crevices in the rock. Water temperature ranges from 24-27 degrees C year-round.
 
 ## Site Information
 
-- **Location**: Cook Islands Rarotonga, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Location**: Northeast corner, Rarotonga, Cook Islands
+- **Entry Type**: Boat dive (7 minutes from Avatiu Harbour)
+- **Site Type**: Volcanic reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 40+ meters
+- **Water Temperature**: 24-27 degrees C
+- **Current**: Generally mild
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Whitetip reef sharks are regularly seen along the reef edge and in the canyons. Guineafowl morays (spotted morays with a distinctive pattern) shelter in the volcanic rock crevices. The sandy bottom and bommie areas host smaller reef species. Live coral cover is approximately 5%, but the volcanic reef structure provides ample habitat.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 35 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Drop to the sandy bottom at 8 meters and navigate through the coral bommies toward the reef edge at 25-30 meters. Explore the canyons and gullies that cut through the reef, checking for sharks and morays. The reef slopes to 35 meters and beyond, so monitor depth carefully. Return via the bommies to the shallows for a safety stop. The excellent visibility makes navigation straightforward.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by dive boat from Avatui Harbour -- only seven minutes to the site. Entry by giant stride into calm water.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The exceptional visibility (40+ meters) makes this an outstanding wide-angle photography site
+- Whitetip reef sharks are most active early in the morning
+- The volcanic reef structure is characteristic of Rarotonga -- quite different from typical Pacific coral reefs
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+The reef edge drops into deeper water -- monitor depth carefully near the canyons. Currents are generally mild but can increase near the reef edge. The 35-meter maximum depth limits bottom time on air.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info). Last updated 2026-04-08.*

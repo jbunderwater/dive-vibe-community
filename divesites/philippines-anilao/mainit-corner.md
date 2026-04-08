@@ -11,57 +11,52 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Mainit Corner
+# Mainit Corner
 
-Mainit Corner is a reef dive site in Philippines Anilao, Asia.
+A bommie breaking the surface off the southern point of the Mainit peninsula, approximately 600 meters from the resort, with a wall covered in gorgonias and rich in nudibranchs, pygmy seahorses, and harlequin shrimps.
 
 ## Overview
 
-Mainit Corner is a dive site in Philippines Anilao offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Mainit Corner is centred on a large bommie that breaks the surface off the southern point of the Mainit peninsula, approximately 600 meters from the resort. The bommie drops into a wall covered with gorgonias, sponges, and sea whips, descending to around 24 meters. The site is particularly rich in nembrotha nudibranchs -- large, colourful species that are relatively easy to spot and photograph. Harlequin shrimps and pygmy seahorses add to the critter appeal. The relatively shallow depth and accessible location make this a good site for divers of all levels.
 
 ## Site Information
 
-- **Location**: Philippines Anilao, Asia
+- **Location**: S point of Mainit peninsula, Anilao, Batangas, Philippines (~600 m from resort)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef dive (bommie with wall)
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 24 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 10-20 meters
+- **Water Temperature**: 27-29°C
+- **Current**: Generally mild
+- **Best Time**: November to June (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Mainit Corner is notably rich in nembrotha nudibranchs -- these large, strikingly coloured nudibranchs in greens, blues, and blacks are found throughout the site and are a signature sighting. Harlequin shrimps hide under rocks and coral rubble. Pygmy seahorses cling to gorgonia fans on the wall. Sweetlips shelter under overhangs. Lionfish perch on coral outcrops. Boxfish cruise the reef edges. The gorgonias, sponges, and sea whips covering the wall create a rich habitat for invertebrates at every scale.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 24 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter from the boat near the bommie, which breaks the surface and serves as a clear landmark. Descend along the bommie to the wall below. Work along the wall face, scanning the gorgonias for pygmy seahorses and the surfaces for nembrotha nudibranchs. Check under overhangs for sweetlips and under rocks for harlequin shrimps. The wall descends to approximately 24 meters. The bommie top in the shallows makes for an excellent safety stop area with plenty to see.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by boat from the resort -- only approximately 600 meters away, making this one of the closest dive sites. Enter by giant stride near the bommie. Deploy an SMB during your safety stop for boat pickup, or ascend directly at the bommie.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The short boat ride makes this an ideal first or last dive of the day
+- Nembrotha nudibranchs are relatively large and easy to spot -- scan every sponge and coral surface
+- Check the gorgonias on the wall carefully for pygmy seahorses
+- The bommie top at the surface is excellent for an extended safety stop with good marine life to observe
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Mainit Corner is a straightforward dive suitable for beginners. Currents are generally mild. The maximum depth of 24 meters is within comfortable recreational limits. Be aware of boat traffic near the bommie, which breaks the surface -- ascend with caution and listen for engines.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+Mainit Corner excels for macro photography. The nembrotha nudibranchs are large enough to photograph easily with a 60mm macro lens and are often found in pairs or groups. Pygmy seahorses on the gorgonias require more patience and a 100mm macro or supermacro diopter. Harlequin shrimps are beautifully patterned macro subjects. The gorgonia-covered wall also provides colourful wide-angle compositions. The proximity to the resort makes it easy to return for multiple dives with different lens setups.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1046). Last updated 2026-04-08.*

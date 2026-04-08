@@ -11,55 +11,50 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Oculina Point
+# Oculina Point
 
-Oculina Point is a reef dive site in Poor Knights Islands, Oceania.
+Named after the rare ivory coral Oculina virgosa found here by early diving pioneers, this wall and reef site at the Poor Knights Islands offers drift diving along a current-swept point with speckled morays, leopard anemones, and abundant fish life.
 
 ## Overview
 
-Oculina Point is a dive site in Poor Knights Islands offering rewarding diving on healthy coral reef structures. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Oculina Point takes its name from the rare ivory coral Oculina virgosa discovered here by the diving pioneers who first explored the Poor Knights Islands. The site features a wall that can be drifted along when a mild current is running, passing through a rich environment of temperate and subtropical marine life that thrives where the warm East Auckland Current meets the cooler waters of the New Zealand continental shelf.
+
+The Poor Knights Islands are perched on the edge of the continental shelf, 23 kilometres from the Tutukaka Coast. Created by volcanic eruptions approximately 11 million years ago, the islands' sheer rock walls plunge into deep water, providing the dramatic underwater terrain that earned them recognition as one of the world's top ten dive locations.
 
 ## Site Information
 
-- **Location**: Poor Knights Islands, Oceania
+- **Location**: Poor Knights Islands, Northland, New Zealand
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall/reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 15-40 meters (50-130 feet)
-- **Current**: Variable
+- **Typical Visibility**: 15-30 meters
+- **Water Temperature**: 18-23 degrees C
+- **Current**: Variable; mild current enables drift diving
 - **Best Time**: September to February
 
 ## Marine Life
 
-Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals.
+The wall at Oculina Point hosts speckled morays sheltering in crevices, firebrick starfish on the rock surfaces, and banded wrasse cruising the reef face. Leopard anemones are a particular highlight -- delicate white bodies punctuated with brown spots that make them distinctive among the Poor Knights' invertebrate community. Leatherjackets and demoiselles are common in the water column. The rare ivory coral Oculina virgosa, for which the site is named, may still be found in deeper sections.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+When current is present, the dive is done as a drift along the wall, starting upstream and allowing the current to carry divers along the point. The wall extends to approximately 25 meters, with the most interesting marine life concentrated between 8-20 meters. Without current, the site is explored as a standard wall dive, swimming along the face and investigating crevices and overhangs. Ascend along the wall to the shallower sections for a safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from Tutukaka marina (approximately 45 minutes). When drifting, the boat drops divers upstream and picks up downstream. Deploy an SMB during ascent for boat pickup. When conditions are calm, the boat may anchor and divers explore locally.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Look for the leopard anemones on the wall -- they are photogenic and distinctive to this area
+- A mild current makes for excellent effortless drift diving; stronger currents may require more experience
+- The Poor Knights are a marine reserve -- nothing may be taken or disturbed
+- Bring both macro and wide-angle lenses if possible; the site rewards both approaches
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish (box jellyfish in summer), crocodiles (north) in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+Currents at the point are variable -- follow the dive guide's assessment and be prepared for changing conditions. The wall drops into deeper water, so monitor depth carefully to avoid exceeding planned limits. Water temperature in the Poor Knights can be cool, particularly outside summer months; adequate thermal protection is essential.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info), [New Zealand Geographic](https://www.nzgeo.com/stories/poor-knights-rich-seas/). Last updated 2026-04-08.*

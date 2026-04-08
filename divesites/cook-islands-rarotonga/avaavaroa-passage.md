@@ -11,57 +11,50 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Avaavaroa Passage
+# Avaavaroa Passage
 
-Avaavaroa Passage is a wall dive site in Cook Islands Rarotonga, Pacific.
+A passage through Rarotonga's fringing reef on the south side between Avaavaroa and Titikaveka villages. Walls create deep gullies from 12 to 50 meters, with grey reef sharks, leaf scorpionfish, and possible tidal currents. The deepest commonly dived site on Rarotonga.
 
 ## Overview
 
-Avaavaroa Passage is a dive site in Cook Islands Rarotonga featuring a dramatic vertical wall that drops into the deep blue. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Avaavaroa Passage cuts through Rarotonga's fringing reef on the south side of the island, between the villages of Avaavaroa and Titikaveka. Unlike the gentler ridge-and-gully sites on the north and west, this passage features vertical walls that create deep gullies extending from 12 meters at the reef top to 50 meters at the bottom. The dramatic topography and greater depth make it the most challenging regular dive site on Rarotonga.
+
+The south-side location brings the possibility of tidal currents running through the passage, which can range from negligible to significant depending on tidal state. The walls attract different marine life than the shallower sites -- grey reef sharks patrol the deeper sections and leaf scorpionfish hide on the rocky surfaces. Coral cover is approximately 10%.
 
 ## Site Information
 
-- **Location**: Cook Islands Rarotonga, Pacific
+- **Location**: South side, between Avaavaroa and Titikaveka, Rarotonga, Cook Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Wall/passage
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 50 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 40+ meters
+- **Water Temperature**: 24-27 degrees C
+- **Current**: Variable; tidal currents possible through the passage
+- **Best Time**: Year-round; best at slack tide
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Grey reef sharks are the headline species, seen cruising the deeper sections of the passage walls. Leaf scorpionfish are found on the rock faces, well camouflaged against the volcanic substrate. The walls support approximately 10% coral cover with associated reef fish.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-50 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Enter the passage and descend along the walls. The passage runs from approximately 12 meters at the top to 50 meters at the bottom -- depth management is critical. The grey reef sharks tend to patrol the deeper sections around 30-40 meters. Keep the wall to one side for orientation and reverse your path when it is time to ascend. The excellent visibility makes depth awareness somewhat deceptive -- divers can easily drift deeper than planned without realising it.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by dive boat from Avatui Harbour. The passage should be dived at or near slack tide to minimise current. Entry by giant stride.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- This is the deepest regularly dived site on Rarotonga -- plan your gas management conservatively
+- Look carefully along the walls for leaf scorpionfish; their camouflage is exceptional
+- The crystal-clear visibility can make depth deceptive -- check your computer frequently
+- Best dived at slack tide to avoid current in the passage
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+At 50 meters, this site requires deep diving certification and careful planning. Nitrogen narcosis is a concern at maximum depth. Tidal currents can develop in the passage without warning -- always dive at or near slack tide. The clear visibility can make depth deception a real issue. This site is suitable only for experienced, properly qualified divers.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info). Last updated 2026-04-08.*

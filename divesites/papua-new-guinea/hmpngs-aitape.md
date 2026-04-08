@@ -11,57 +11,48 @@ osmId: null
 addedBy: osm_import
 ---
 
-## HMPNGS Aitape
+# HMPNGS Aitape
 
-HMPNGS Aitape is a historic wreck dive in Papua New Guinea, Pacific.
+A former Australian Attack Class patrol boat (32.6 meters), donated to Papua New Guinea in 1974 and scuttled as a dive site in 1995 -- now home to huge schools of trevally, mangrove jacks, sweetlips, and batfish.
 
 ## Overview
 
-HMPNGS Aitape is a dive site in Papua New Guinea featuring the wreck of the HMPNGS Aitape. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+HMPNGS Aitape is a former Royal Australian Navy Attack Class patrol boat, 32.6 meters in length, that was donated to the Papua New Guinea Defence Force in 1974. After serving the PNG Navy, the vessel was deliberately scuttled in 1995 to create an artificial reef and dive site near Port Moresby. The wreck sits at approximately 30 meters depth, with the stern resting at 27 meters where the twin propellers are visible. Since sinking, the Aitape has become a magnet for marine life -- huge schools of trevally, mangrove jacks, sweetlips, and batfish swarm around and through the vessel. Penetration is possible but tight, with wires and cables creating snag hazards inside. Visibility is typically 10-15 meters, more limited than the outer reef sites.
 
 ## Site Information
 
-- **Location**: Papua New Guinea, Pacific
+- **Location**: Near Port Moresby, Papua New Guinea
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck dive (scuttled patrol boat)
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Maximum Depth**: 30 meters (stern with propellers at 27 meters)
+- **Typical Visibility**: 10-15 meters
+- **Current**: Mild to moderate
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck has become an exceptionally productive artificial reef. Huge schools of trevally engulf the superstructure, forming dense silvery walls of fish. Mangrove jacks shelter in and around the hull. Schools of sweetlips congregate under overhangs and along the hull sides. Batfish hover in formation above the wreck. The combination of a compact 32.6-meter vessel and dense marine life means the wreck feels alive from every angle.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 30 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the wreck at approximately 30 meters. The stern is a good starting point -- the twin propellers at 27 meters are a highlight and photographic subject. Move forward along the hull, observing the schools of fish swarming around the exterior. The superstructure provides multiple viewing angles for the trevally and batfish schools. Penetration is possible but the interior contains wires and cables that create snag hazards -- only enter with proper wreck penetration training, equipment, and lights. The compact size of the vessel means a thorough exterior tour is possible within a single dive. Ascend with adequate air for a 3-5 minute safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from Port Moresby operators. Entry is by giant stride. Descend directly to the wreck. Surface near the descent point with an SMB for boat pickup.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- The twin propellers at the stern are the most photogenic feature -- start here while air is full
+- Wide-angle is essential to capture the schools of fish surrounding the wreck
+- The trevally schools are impressive -- be patient and they will often swirl around divers
+- Keep penetration to simple swim-throughs with clear exits -- the interior has wires and cables that snag equipment
+- Visibility (10-15 meters) is lower than outer reef sites; adjust expectations and bring a torch
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+The wreck sits at 30 meters, limiting no-decompression time on air. Plan your dive time carefully. Penetration is risky due to wires and cables inside the hull -- only attempt with proper wreck diving certification, redundant lights, and a guideline or clear exit strategy. The lower visibility means maintaining buddy contact requires extra attention. Carry an SMB and signal devices.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=355). Last updated 2026-04-08.*

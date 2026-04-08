@@ -11,56 +11,49 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Arorangi School Passage
+# Arorangi School Passage
 
-Arorangi School Passage is a reef dive site in Cook Islands Rarotonga, Pacific.
+A passage through Rarotonga's fringing reef on the west side, off Arorangi School. Series of ridges and gullies running WNW from 10 meters to 35 meters, with spotted eagle rays, barracudas, bluefin trevally, and octopus.
 
 ## Overview
 
-Arorangi School Passage is a dive site in Cook Islands Rarotonga offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Arorangi School Passage is located on the west side of Rarotonga, directly offshore from Arorangi School. The site features a series of volcanic rock ridges and gullies running in a WNW direction from the sandy shallows at 10-18 meters out to the reef edge where the ridges drop to 30-35 meters.
+
+Coral cover is approximately 15% -- better than the island's northeastern sites -- with growth concentrated on the ridges and gully walls. The west-side location provides some of the better marine life encounters on Rarotonga, including spotted eagle rays that cruise along the ridge lines, schools of barracuda, and bluefin trevally hunting in the passages. Octopus are regularly found sheltering in the gullies.
 
 ## Site Information
 
-- **Location**: Cook Islands Rarotonga, Pacific
+- **Location**: West side, off Arorangi School, Rarotonga, Cook Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Volcanic reef (ridges and gullies)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 40+ meters
+- **Water Temperature**: 24-27 degrees C
+- **Current**: Generally mild
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Spotted eagle rays are a highlight, seen cruising along the ridge lines. Schools of barracuda and bluefin trevally patrol the deeper sections. Octopus shelter in the gullies and can be spotted by the observant diver. Coral cover at approximately 15% supports butterflyfish, wrasses, and other reef species on the ridge surfaces.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 35 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Drop to the sandy area at 10-18 meters and follow the ridges as they run WNW toward the reef edge. The gullies between the ridges are where the eagle rays and larger pelagics are most often encountered. The ridges drop to 30-35 meters at the outer edge. Return along a parallel ridge system for variety. The exceptional visibility makes the ridges easy to navigate.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by dive boat from Avatui Harbour. Entry by giant stride.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Keep an eye on the blue water beyond the ridge edges for eagle rays -- they tend to cruise parallel to the reef
+- The gullies are the best place to search for octopus, particularly in the shaded overhangs
+- The west side of Rarotonga catches afternoon light well for photography
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+Monitor depth carefully along the ridges as they slope into deeper water. Currents are generally mild but can strengthen near the outer reef edge.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info). Last updated 2026-04-08.*
