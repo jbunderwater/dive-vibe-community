@@ -7,61 +7,39 @@ maxDepth: 40
 entryType: boat
 siteType: wall
 ref: null
-osmId: null
-addedBy: osm_import
+addedBy: contributor
 ---
 
 ## Gili Biaha
 
-Gili Biaha is a wall dive site in Bali, Asia.
+The most remote of the three Amuk Bay islands — famous for its Shark Cave and strong currents that attract advanced divers seeking white-tip reef sharks and seasonal mola mola.
 
 ## Overview
 
-Gili Biaha is a dive site in Bali featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Gili Biaha is a small crescent-shaped island approximately 4 km northeast of Gili Tepekong, making it the outermost of the three islands off Padangbai in Amuk Bay. The island is surrounded by a dramatic black volcanic wall dropping to 40 meters, with a signature cave feature at around 10 meters where white-tip reef sharks rest. The site is exposed to open ocean swells and the Indonesian Throughflow, creating strong and unpredictable currents including downcurrents. Dense coral coverage on the wall includes hard and soft corals, gorgonians, and sponges. Best visibility and conditions are from June to October, which also coincides with mola mola season.
 
 ## Site Information
 
-- **Location**: Bali, Asia
+- **Location**: Amuk Bay, east of Padangbai, east Bali
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 10–25 m
+- **Current**: Strong and unpredictable; downcurrents possible
+- **Best Time**: June to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+White-tip reef sharks are the main attraction, frequently found resting inside the Shark Cave at around 10 meters. Schools of glass fish fill the cave entrance. Outside the cave, lobsters, octopuses, nudibranchs, pufferfish, turtles, barracuda, and tuna patrol the wall. From June to October, mola mola (oceanic sunfish) may be encountered in the thermocline. The site shares many of the same pelagic visitors as neighboring Gili Tepekong and Gili Mimpang.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+Descend along the wall on the sheltered side. The Shark Cave is located at approximately 10 meters on the western face. After visiting the cave, follow the wall along the reef slope from 15–30 meters where gorgonians and larger marine life are concentrated. Allow the current to drift you along the wall. Ascend gradually and deploy an SMB well away from the island.
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+This is one of Bali's most demanding dive sites. Strong, unpredictable currents and downcurrents are the primary hazards. Cold thermoclines can drop water temperature to 20°C without warning. Advanced Open Water certification and significant drift diving experience are required. Always dive with a local operator who knows the current conditions at Biaha.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [OK Divers - Gili Biaha](https://www.okdiversbali.com/portfolio/gili-biaha-bali/), [Nico Dives Cool Bali - Gili Biaha](https://nicodivescoolbali.com/go-diving/day-trips/candidasa/gili-biaha/), [PADI - Gili Biaha](https://www.padi.com/dive-site/indonesia/gili-biaha/). Last updated 2026-04-05.*

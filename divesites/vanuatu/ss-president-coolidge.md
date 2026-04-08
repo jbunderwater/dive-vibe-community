@@ -13,55 +13,39 @@ addedBy: osm_import
 
 ## SS President Coolidge
 
-SS President Coolidge is a historic wreck dive in Vanuatu, Pacific.
+The SS President Coolidge is one of the world's greatest wreck dives — a 200-meter luxury liner converted to a WWII troopship, sunk in October 1942 off Espiritu Santo, Vanuatu, accessible directly from shore and diveable from beginner depth (18m) to advanced technical depth (73m).
 
 ## Overview
 
-SS President Coolidge is a dive site in Vanuatu featuring a historic wreck. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Built in 1931 as a premier Pacific passenger liner, the President Coolidge had been converted to a troopship by the time she entered the Segond Channel at Luganville, Vanuatu, on 26 October 1942, carrying 5,000 American soldiers. Entering through the wrong lane, she struck two American defensive mines. Her captain ran the ship aground at full speed, successfully evacuating virtually all of her troops before she slipped off the shelf and came to rest on her port side at depths between 18 and 73 meters.
 
-## Site Information
+The wreck stretches 200 meters along the seabed in a gentle arc. The bow is accessible at 21 meters; the stern drops to 73 meters. The entire ship is oriented on her port side, which means decks that were horizontal are now vertical — a disorienting, spectacular experience that defines Coolidge diving. Eighty years of marine growth have carpeted every surface in soft corals, black coral trees, sponges, and crinoids.
 
-- **Location**: Vanuatu, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 73 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+The Coolidge accommodates every level of diver. The upper superstructure and cargo areas are accessible to Open Water certified divers at 18–30 meters. The deeper cargo holds and engine room are Advanced territory. Technical divers can reach the stern and deepest structural sections. Mandatory dive guide accompaniment is required for all penetration dives.
 
-## Marine Life
+## What to Expect
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+No two Coolidge dives are the same — the ship is so large that a week of daily diving leaves significant areas unexplored. Key highlights include:
 
-## Dive Profile
+- **The Lady**: A 1.8-meter ceramic tile mosaic panel depicting a hunting scene, located in what was the first-class smoking room, at approximately 38 meters. The most famous artifact on any wreck in the Pacific.
+- **The Holds**: Multiple cargo holds contain recognizable military vehicles, field guns, jeeps, trailers, and supply crates in extraordinary states of preservation.
+- **The Promenade Deck**: The tiled dining room and social spaces are hauntingly intact, with fixtures still in place.
+- **The Guns**: Anti-aircraft gun mounts still point skyward (now sideways) from the hull.
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 73 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Entry is from the beach at Luganville via a 200-meter swim along the surface to the descent line anchored at the hull. A guide is mandatory and non-negotiable — first-time Coolidge divers receive a shore briefing before water entry. Penetration without guide accompaniment is prohibited.
 
-## Entry and Exit
+## Practical Information
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+- **Depth Range**: 18–73 meters (recreational to technical)
+- **Visibility**: 15–30 meters typical; best in the dry season (April–October)
+- **Currents**: Generally mild; the Segond Channel shelters the site
+- **Entry**: Shore entry — 200m surface swim to descent point at Luganville beach
+- **Certification**: Open Water for upper sections (18–30m); Advanced for deeper cargo holds; Technical for 40m+ depth zones
+- **Guide Required**: Mandatory — all penetration dives require licensed guide accompaniment
 
-## Tips and Recommendations
+## Marine Life Highlights
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+Lionfish throughout the wreck, large moray eels in holds and crevices, batfish hovering over the hull, snapper and fusilier schools along the superstructure, barracuda in open water, groupers in shadowed spaces, black coral trees at depth, soft coral carpets, crinoids, sponge colonies.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Vanuatu Tourism Office - Diving Guide](https://www.vanuatu.travel/en/guide-to-diving-vanuatu), [Big Blue Vanuatu - Dive Sites](https://bigbluevanuatu.com/sites/), [Bluewater Dive Travel - Vanuatu](https://www.bluewaterdivetravel.com/destination/vanuatu-diving), [Lonely Planet - Vanuatu Diving](https://www.lonelyplanet.com/articles/guide-to-vanuatu-snorkel-scuba), [PADI - Diving in Vanuatu](https://www.padi.com/diving-in/vanuatu/). Last updated 2026-04-04.*

@@ -1,7 +1,7 @@
 ---
 name: Cathedral Cave
-lat: -17.78061
-lng: 168.25667
+lat: -17.7806
+lng: 168.2567
 difficulty: Intermediate
 maxDepth: 28
 entryType: boat
@@ -13,54 +13,33 @@ addedBy: osm_import
 
 ## Cathedral Cave
 
-Cathedral Cave is a cave dive site in Vanuatu, Pacific.
+Cathedral Cave is Vanuatu's most celebrated cavern dive, located near Port Vila on Efate, where geological forces have carved soaring limestone chambers through the reef — chambers that flood with dramatic shafts of filtered sunlight when the angle is right, creating the luminous, cathedral-like effect that defines the site.
 
 ## Overview
 
-Cathedral Cave is a dive site in Vanuatu featuring underwater cave and cavern formations. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Cathedral Cave is technically a cavern rather than a cave in the diving definition — natural light remains visible throughout the swim, and no overhead environment certification is required. The cavern system penetrates approximately 40 meters into the reef limestone, opening into a main chamber at around 20 meters depth where the ceiling rises into the rock above and openings allow sunlight to pour in from multiple angles. The effect in morning light (9–11am) is extraordinary: shafts of pale blue light slice through the water column, illuminating suspended particles and silhouetting divers in a scene unlike any open-water diving experience.
 
-## Site Information
+The surrounding outer reef approached on the way to the cavern entrance is also excellent — hard coral gardens, sea fans, and healthy fish populations in the 10–28 meter depth range. The dive naturally combines an approach reef dive, the cavern experience, and a return reef dive in a single outing.
 
-- **Location**: Vanuatu, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Cave/cavern
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 28 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+## What to Expect
 
-## Marine Life
+The cavern entry point is a clearly defined opening in the reef face, wide enough for small groups to enter simultaneously. Inside, the main chamber is spacious and well-lit enough that torch use is optional (though recommended for seeing full color in the darker corners). The ceiling vaults above, with fracture lines and chimney openings admitting natural light. Dense schools of glassy sweepers occupy the upper reaches of the chamber, parting and reforming around divers passing through.
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+Lionfish and scorpionfish are regular residents in the darker wall crevices — look carefully in the shadowed sections. The outside reef face around the cavern entrance hosts moray eels, groupers, and the occasional resting whitetip reef shark on ledges below the entrance.
 
-## Dive Profile
+The guide will navigate the cavern and is essential for first-time visitors — the disorientation of the enclosed space and the desire to look upward at the light effects rather than ahead can affect navigation in less experienced divers.
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 28 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+## Practical Information
 
-## Entry and Exit
+- **Depth Range**: 10–28 meters
+- **Visibility**: 20–30 meters; exceptional inside the cavern
+- **Currents**: Generally mild; cavern is sheltered
+- **Entry**: Boat dive from Port Vila operators
+- **Best For**: Intermediate divers; morning dives for best light; outstanding wide-angle photography site
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+## Marine Life Highlights
 
-## Tips and Recommendations
-
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+Glassy sweepers (dense schools inside cavern), lionfish, scorpionfish, moray eels, groupers, whitetip reef sharks on outer reef, sea fans, hard corals on approach reef.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Vanuatu Tourism Office - Diving Guide](https://www.vanuatu.travel/en/guide-to-diving-vanuatu), [Big Blue Vanuatu - Dive Sites](https://bigbluevanuatu.com/sites/), [Bluewater Dive Travel - Vanuatu](https://www.bluewaterdivetravel.com/destination/vanuatu-diving), [Lonely Planet - Vanuatu Diving](https://www.lonelyplanet.com/articles/guide-to-vanuatu-snorkel-scuba), [PADI - Diving in Vanuatu](https://www.padi.com/diving-in/vanuatu/). Last updated 2026-04-04.*

@@ -13,55 +13,50 @@ addedBy: osm_import
 
 ## Barracuda Point Rabaul
 
-Barracuda Point Rabaul is a wall dive site in Papua New Guinea, Pacific.
+Barracuda Point is a dramatic wall dive in Simpson Harbour, Rabaul, East New Britain Province, Papua New Guinea — set against one of the most geologically active and visually striking backdrops in the diving world.
 
 ## Overview
 
-Barracuda Point Rabaul is a dive site in Papua New Guinea featuring a dramatic vertical wall that drops into the deep blue. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Rabaul sits within a large volcanic caldera, and the above-water scenery at Barracuda Point is as impressive as what lies beneath: the smoke-trailing cone of Tavurvur volcano is visible from the surface, a reminder that these waters are geologically dynamic. The dive itself follows a steep wall that drops from the reef top at 5-8 meters into deep water, the face densely colonized with sea fans, sponges, and soft corals in rich variety. The site earns its name honestly — dense schools of great barracuda (Sphyraena barracuda) are the signature encounter here, often hovering in tight formations near the wall top or spiralling in slow tornados in the open water beyond. Grey reef sharks work the wall edge, and the current that rounds the point draws large schools of trevally and fusiliers. Deeper along the wall, gorgonian fans reach impressive sizes and staghorn coral outcroppings provide structure for anthias, butterflyfish, and groupers. The combination of reliable shark and barracuda encounters, the volcanic backdrop, and an interesting wall profile makes this one of Rabaul's premier dives.
 
 ## Site Information
 
-- **Location**: Papua New Guinea, Pacific
+- **Location**: Simpson Harbour, Rabaul, East New Britain Province, Papua New Guinea
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 15-25 meters (50-80 feet)
+- **Current**: Moderate to strong (tidal and point-generated)
+- **Best Time**: May to November (dry season, best visibility)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Great barracuda schools, grey reef sharks, bigeye trevally, fusiliers, anthias, Napoleon wrasse, hawksbill sea turtles, groupers, large sea fans, soft corals. The wall face supports a diverse invertebrate community including nudibranchs, Spanish dancer flatworms, and encrusting sponges. Occasional hammerhead sharks have been reported in the deeper sections.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Descend to the reef top at 5-8 meters and follow the wall edge down, staying between 15 and 30 meters for the bulk of the dive. The richest barracuda and shark activity is typically in the upper 20 meters where natural light is strongest and fish can be seen against the blue. The wall continues to 40+ meters — experienced deep divers may explore the lower sections briefly, but most of the interest is in the mid-section. Allow a generous ascent time given the wall's depth range, and complete a 5-minute safety stop at 5 meters.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by boat from Rabaul dive operators or accommodation with dive facilities. Giant stride or back roll entry. Conditions can be choppy when the point current is running — confirm sea conditions before entry. Deploy SMB on ascent for boat pickup.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Time the dive for an incoming current around the point for the best barracuda aggregation
+- The volcanic backdrop makes a striking wide-angle composition — position yourself below the wall top and shoot upward with Tavurvur in the distant background
+- Watch your depth along the wall — it drops steeply and the blue water is visually compelling, but depth creep is a real risk on steep walls
+- Carry a reef hook in case you need to hold position when the current surges
+- Rabaul operators can advise on the best tidal windows for this site
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Current is the primary hazard — strong point currents can sweep divers off the wall into open water. Stay close to the reef structure and have a clear plan for aborting if conditions exceed your capability. Depth discipline is important on the steep wall. The volcanic activity in Rabaul harbour is monitored, but be aware that the region is seismically active — your operator will advise on any activity-related dive restrictions.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+Barracuda Point offers some of the most dramatic wide-angle opportunities in East New Britain. Barracuda schools in formation against the deep blue, grey reef sharks on the wall face, and sea fan silhouettes with the blue water behind all make for powerful images. The volcanic landscape above water also presents unique topside photography between dives. A rectilinear wide-angle lens gives excellent results; a circular fisheye captures the full wall sweep.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [PADI Diving in Papua New Guinea](https://www.padi.com/diving-in/papua-new-guinea/), [Indopacific Images PNG Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [Bluewater Dive Travel PNG](https://www.bluewaterdivetravel.com/destination/papua-new-guinea-diving), [Divezone PNG Dive Sites](https://divezone.net/diving/papua-new-guinea), [Dive Adventures Papua New Guinea](https://diveadventures.com.au/country/papua-new-guinea/). Last updated 2026-04-04.*

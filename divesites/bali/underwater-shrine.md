@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Underwater Shrine
 
-Underwater Shrine is a reef dive site in Bali, Asia.
+Jemeluk Bay's iconic marked temple sculpture on the sandy bottom — batfish gather beneath it in a scene unique to Amed diving.
 
 ## Overview
 
-Underwater Shrine is a dive site in Bali offering rewarding diving on healthy coral reef structures . Artificial reef site with underwater shrine. Located in Amed area. Intermediate drift-dive potential with varied depth profile. Cultural and diving attraction.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The Underwater Shrine sits in Jemeluk Bay near Amed, where a traditional Balinese temple sculpture has been placed on the sandy seabed and is marked with a visible surface buoy. The shrine has become a gathering point for batfish, which hover in loose groups beneath the structure creating an atmospheric underwater scene. Jemeluk Bay itself is packed with diverse soft and hard corals along its perimeter, and the reef hosts lionfish, clownfish in anemones, butterflyfish, triggerfish, stingrays, and reliable schools of big-mouth mackerel. The bay is relatively sheltered with good visibility, making it a comfortable intermediate dive.
 
 ## Site Information
 
-- **Location**: Bali, Asia
+- **Location**: Jemeluk Bay, Amed, northeast Bali
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 29 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15–25 m
+- **Current**: Variable; generally mild inside the bay
+- **Best Time**: April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Batfish hover in groups beneath the shrine structure. Clownfish and their anemones are throughout the bay reef. Lionfish, stingrays, triggerfish, and butterflyfish are common. Dense schools of big-mouth mackerel patrol the bay in reliable formations. The sandy bottom around the shrine hosts garden eels and occasional octopus.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 29 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend and navigate to the surface buoy marking the shrine. Spend time photographing the batfish and the shrine before exploring the surrounding reef. The bay reef runs at 10–25 m with occasional deeper sandy patches. Ascend gradually via the reef and complete a 3-minute safety stop at 5 m.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive with Amed operators. Short trip from the main Amed beach. The buoy marking the shrine is visible from the surface. Entry via back roll or giant stride. Ascend away from the buoy line to avoid entanglement.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Locate the surface buoy first to orient yourself, then descend directly to the shrine
+- The batfish are accustomed to divers — approach slowly and they will remain in position
+- Combine the shrine visit with a full Jemeluk Bay circuit to see the mackerel schools
+- The Jemeluk Wall nearby is worth a second dive for its deeper reef and gorgonians
+- Good site for an afternoon dive after morning dives at Pyramids or Batu Kelebit
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Be cautious of boat traffic near the surface buoy when ascending. Maintain good buoyancy to avoid damaging the coral around the shrine base. Lionfish resting under overhangs near the shrine are venomous — observe from a safe distance. Current can pick up in the afternoon as tide changes.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+The shrine with batfish hovering beneath it is the signature subject of Jemeluk Bay. Wide-angle captures the full scene with the structure and fish together. Macro photographers will find clownfish, nudibranchs, and critters on the surrounding reef corals. The mackerel schools can produce stunning wide-angle action shots.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Aquamarine Diving - Bali Dive Sites](https://www.aquamarinediving.com/bali-diving/dive-sites/), [Dive The World - Bali Indonesia](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [Bluewater Dive Travel - Bali Diving](https://www.bluewaterdivetravel.com/destination/bali-diving), [World Adventure Divers - Best Dive Sites Bali](https://worldadventuredivers.com/best-dive-sites-bali/), [Neptune Scuba Diving - Scuba Diving Bali](https://neptunescubadiving.com/scuba-diving-bali/), [Dive The World - Bali](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [PADI - Diving in Bali](https://www.padi.com/diving-in/bali/). Last updated 2026-04-04.*

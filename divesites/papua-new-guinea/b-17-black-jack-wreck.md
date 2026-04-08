@@ -13,55 +13,50 @@ addedBy: osm_import
 
 ## B-17 Black Jack Wreck
 
-B-17 Black Jack Wreck is a historic wreck dive in Papua New Guinea, Pacific.
+The B-17 "Black Jack" is one of the most intact and historically significant WWII aircraft wrecks in the world, lying on the seabed near Rabaul at 50 meters depth in Papua New Guinea.
 
 ## Overview
 
-B-17 Black Jack Wreck is a dive site in Papua New Guinea featuring the wreck of the B-17 Black Jack Wreck. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+On July 11, 1943, B-17E Flying Fortress serial number 41-2429 — nicknamed "Black Jack" — was shot down during a mission out of Port Moresby over the waters near Rabaul, New Britain. The aircraft came to rest on a flat, sandy seabed at approximately 50 meters depth, where the cold, still conditions have preserved it in extraordinary condition for over 80 years. All four Wright Cyclone radial engines remain in place. The twin tail assembly is intact and recognizable from a distance. The bombardier's nose section, with its Plexiglas panels still partially surviving, allows a view into the forward compartment. The Norden bombsight has been documented on prior dives. Wing gun positions, the ball turret, and radio operator's section are all identifiable. The aircraft's fuselage retains its olive drab paint in patches. Coral encrustation is building steadily across the airframe, and the wreck now supports a reef community of its own — lionfish perch on the engines, glassfish swarm around the cockpit, and resident schools of batfish hover in the water column above. This is a technical dive by depth alone, placing it firmly in the advanced-to-technical category, but the reward is a dive site unlike almost any other in the world.
 
 ## Site Information
 
-- **Location**: Papua New Guinea, Pacific
+- **Location**: Kimbe Bay area, West New Britain, Papua New Guinea
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 50 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 20-35 meters (65-115 feet)
+- **Current**: Generally light at depth
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck hosts a developing reef community: lionfish roosting on the engines, schools of glassfish around the cockpit framing, batfish in the water column above, and a variety of coral and sponge growth beginning to colonize the airframe. Sea fans are establishing on the wing edges. Occasional whitetip reef sharks and grey reef sharks visit the site. The sandy bottom around the wreck supports flatfish and stingrays.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 50 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+This dive requires careful planning. At 50 meters on air, bottom time is strictly limited by no-decompression limits — most recreational divers have approximately 10-15 minutes at depth before mandatory decompression stops are required. Many operators conduct this dive on Nitrox 32 or offer it as a tech dive with decompression gas. Descend directly to the wreck and prioritize the most significant features — engines, nose, tail assembly — before beginning the ascent. Complete safety stop at 5 meters is non-negotiable. Divers without deep dive training or experience diving to 40+ meters regularly should not attempt this site.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by boat from operators based at Walindi Plantation Resort or other West New Britain dive operators. Giant stride entry. The site involves a potentially long surface swim to locate the wreck marker — stay close to the descent line. Deploy SMB on ascent.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Nitrox certification and a Nitrox fill are strongly recommended to extend bottom time and reduce narcosis risk
+- Brief exhaustively with your dive guide on the wreck layout before entering the water — bottom time is too precious to waste on navigation
+- Bring a dive light to illuminate the interior sections and read the instrument panel detail
+- Do not attempt penetration of the fuselage without proper wreck-penetration training and equipment
+- This is a historically protected site — do not touch, remove, or disturb any part of the aircraft or its contents
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Depth (50 meters) is the overriding hazard. Nitrogen narcosis can be significant and affects divers differently — be aware of the signs and be prepared to ascend if impaired. No-decompression limits are short; exceed them and you face mandatory decompression stops that may exceed your gas supply if not planned in advance. The site is remote — evacuation in a medical emergency is complex. Only attempt this dive with a qualified operator who knows the site and can supervise the ascent.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+The B-17 Black Jack is one of the most photogenic aircraft wrecks in the Pacific. The intact tail section frames beautifully against the blue water above, and the radial engines encrusted with coral and inhabited by lionfish make compelling wide-angle subjects. Time is limited — set up your camera configuration before entry and know exactly which shots you want. A fisheye or ultra-wide lens best captures the full scale of the aircraft. A powerful torch is needed to illuminate engine nacelle interiors and cockpit sections.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [PADI Diving in Papua New Guinea](https://www.padi.com/diving-in/papua-new-guinea/), [Indopacific Images PNG Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [Bluewater Dive Travel PNG](https://www.bluewaterdivetravel.com/destination/papua-new-guinea-diving), [Divezone PNG Dive Sites](https://divezone.net/diving/papua-new-guinea), [Dive Adventures Papua New Guinea](https://diveadventures.com.au/country/papua-new-guinea/). Last updated 2026-04-04.*

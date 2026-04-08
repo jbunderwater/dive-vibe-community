@@ -13,55 +13,50 @@ addedBy: osm_import
 
 ## Blue Corner
 
-Blue Corner is a wall dive site in Bali, Asia.
+A current-swept wall dive at the corner of Menjangan Island where the reef drops sharply and pelagic life congregates in the blue water.
 
 ## Overview
 
-Blue Corner is a dive site in Bali featuring a dramatic vertical wall that drops into the deep blue . Wall dive site in Menjangan Island area. Coral wall with varied depth and marine life. Part of Menjangan's famous wall-diving region with excellent gorgonian diversity.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Blue Corner is situated at a prominent point on Menjangan Island where the reef wall turns sharply and currents accelerate around the corner, attracting schooling fish and pelagic species. The wall drops vertically from the surface to beyond 30 m, draped in gorgonian fans, black coral trees, and colourful soft corals. The corner geometry channels current to produce reliable fish aggregations — schools of trevally, fusiliers, and snapper are a constant presence. The site sits between the main eastern and western wall dive zones and offers a slightly more exposed character suited to intermediate divers comfortable with moderate current.
 
 ## Site Information
 
-- **Location**: Bali, Asia
+- **Location**: Menjangan Island, West Bali National Park, northwest Bali
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15–30 m
+- **Current**: Moderate to strong at the corner point
+- **Best Time**: April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Schools of bigeye trevally and snapper dominate the corner point. Blacktip reef sharks are frequently seen at 20–30 m. Turtles feed on the wall corals, and large grouper inhabit the deeper overhangs. Moray eels are tucked into crevices throughout the wall, and the gorgonians host nudibranchs and pygmy seahorses for patient searchers.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Descend to 15–20 m and position on the upcurrent side of the corner. Allow the current to carry you around the point where fish aggregations are densest. After rounding the corner, ascend gradually up the wall and drift to a sheltered area for the safety stop at 5 m. Total dive time 45–55 minutes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Jukung boat from Labuhan Lalang. Entry via back roll on the upcurrent side. Currents at the corner can be significant — time your dive for moderate tidal flow. Deploy an SMB before ascending for boat pickup.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Approach the corner at depth to stay below the strongest surface current
+- Station yourself at 15–20 m to watch the show as fish circle the point
+- Check gorgonians on the wall for pygmy seahorses while currents are manageable
+- Carry a reef hook if your operator provides one for current-swept corners
+- Combine with Pos 2 or Bat Cave for a full Menjangan diving day
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Currents can be strong and may reverse unexpectedly as the tide changes. Do not round the corner if conditions are too strong — abort the dive and surface in a sheltered area. Always carry an SMB. Stay well clear of the wall to avoid being swept into it during current surges.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+The corner's fish aggregations provide spectacular wide-angle subjects — schools of trevally backlit against the blue water are the signature shot. Reef sharks on the wall add drama. Wide-angle with dual strobes works best; save macro for the calmer sections of the wall where current is reduced.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Aquamarine Diving - Bali Dive Sites](https://www.aquamarinediving.com/bali-diving/dive-sites/), [Dive The World - Bali Indonesia](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [Bluewater Dive Travel - Bali Diving](https://www.bluewaterdivetravel.com/destination/bali-diving), [World Adventure Divers - Best Dive Sites Bali](https://worldadventuredivers.com/best-dive-sites-bali/), [Neptune Scuba Diving - Scuba Diving Bali](https://neptunescubadiving.com/scuba-diving-bali/), [Dive The World - Bali](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [PADI - Diving in Bali](https://www.padi.com/diving-in/bali/). Last updated 2026-04-04.*

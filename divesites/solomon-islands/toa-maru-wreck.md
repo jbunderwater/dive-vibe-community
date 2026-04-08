@@ -13,55 +13,50 @@ addedBy: osm_import
 
 ## Toa Maru Wreck
 
-Toa Maru Wreck is a historic wreck dive in Solomon Islands, Pacific.
+The Toa Maru is widely considered one of the finest intact WWII wreck dives in the Solomon Islands and a highlight of any liveaboard or land-based dive itinerary around Gizo in the Western Province. This large Japanese transport ship sits upright on the seafloor in exceptional condition, with its holds still containing vehicles, military equipment, and personal effects from the war.
 
 ## Overview
 
-Toa Maru Wreck is a dive site in Solomon Islands featuring the wreck of the Toa Maru Wreck. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Sunk during WWII, the Toa Maru rests upright at around 40 meters, with the top of the superstructure rising to approximately 15 meters. The wreck is extraordinarily intact — divers who peer into the holds encounter trucks, motorcycles, gas masks, sake bottles, artillery shells, and personal items that have lain undisturbed for more than 80 years. The vessel has accumulated dense coral and sponge growth across its exterior, making it visually stunning from both a historical and a marine life perspective. It sits in excellent visibility in the waters near Gizo, accessible by boat from local operators and liveaboards.
 
 ## Site Information
 
-- **Location**: Solomon Islands, Pacific
+- **Location**: Near Gizo, Western Province, Solomon Islands
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
+- **Typical Visibility**: 20–40 meters
+- **Current**: Light to moderate
 - **Best Time**: April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Toa Maru's superstructure and open holds attract impressive aggregations of fish life. Glassy sweepers and cardinalfish school in dense clouds inside the companionways, while large grouper and Napoleon wrasse patrol the exterior. Lionfish and scorpionfish are common in the shadows of the holds. The mast and rigging are encrusted with large sea fans and soft corals, and resident clownfish occupy anemones on the upper deck. Whitetip reef sharks rest on the sand around the hull, and barracuda hover in the water column above the wreck. The cargo holds, where vehicles sit in eerie preservation, are a unique draw.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 40 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive begins with a descent to the top of the wreck at around 15 meters, giving an initial orientation to the scale of the vessel before dropping deeper. Most divers explore the upper decks and accessible cargo holds — the trucks and motorcycles in the forward hold are the most sought-after feature. The stern deck gun is another photographic highlight at around 35 meters. Bottom time at depth should be managed carefully; many divers plan a staged exploration across two dives rather than attempting everything in one descent. A safety stop at 5 meters on the upper structure is recommended.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by boat from Gizo. Local dive operators and liveaboards run regular trips to the site. The site is marked by a buoy. Entry by giant stride or back roll; follow the mooring line down to the wreck. Deploy an SMB for ascent when leaving the structure.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Plan a multi-dive visit — the wreck has enough content for two or three separate dives
+- A powerful torch is essential for the cargo holds; a backup torch is strongly recommended
+- Nitrox extends bottom time at these depths and is strongly recommended for intermediate divers
+- Do not disturb or remove artefacts — this is a war grave and a protected site
+- The morning is generally the best time for visibility and light penetrating the upper decks
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The 40-meter maximum depth is at the recreational limit. Divers should be comfortable with depth and aware of their no-decompression limits before descending to the deepest sections. NDL management is critical — the wreck rewards slow exploration, which is difficult at the maximum depth. Penetration of the cargo holds should be treated as overhead environment diving; a torch and line are advisable if venturing deep into the holds. The site is generally current-free but conditions can vary with tidal state. Always dive with a buddy.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+The Toa Maru is exceptional for wide-angle wreck photography. The cargo holds, with trucks and motorcycles visible in natural silhouette when a diver's torch creates backlighting, produce some of the most memorable wreck images in the Pacific. The superstructure at mid-depth offers colourful sponge and fan coral coverage ideal for ambient-light wide-angle. Macro photographers will find nudibranchs, flatworms, and small crustaceans throughout the encrusted hull.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Bilikiki Cruises - Dive Sites](https://www.bilikiki.com/about/dive-sites), [Dive the World - Solomon Islands](https://www.dive-the-world.com/diving-sites-solomon-islands.php), [Bluewater Dive Travel - Solomon Islands](https://www.bluewaterdivetravel.com/destination/solomon-islands-diving), [PADI - Diving in Solomon Islands](https://www.padi.com/diving-in/solomon-islands/), [Visit Solomons Dive Guide](https://www.visitsolomons.com.sb/wp-content/uploads/2023/11/Dive-Guide-Nov-10-2023-Digital.pdf). Last updated 2026-04-04.*

@@ -17,7 +17,7 @@ Cathedral Rock is a reef dive site in Philippines Anilao, Asia.
 
 ## Overview
 
-Cathedral Rock is a dive site in Philippines Anilao offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Cathedral Rock is an artificial reef created by transplanting live corals onto two rocky outcrops in Bagalangit, now one of Anilao's most productive marine sanctuaries with a centrepiece cement cross blessed by Pope John Paul II. The transplanted corals have thrived, and the site now hosts roughly a quarter of all nudibranch species recorded in Anilao, alongside swirling schools of surgeonfish and damsels, anemones with clownfish, and the soft corals and sea sponges the site is named for.
 
 ## Site Information
 
@@ -32,7 +32,7 @@ Cathedral Rock is a dive site in Philippines Anilao offering excellent diving on
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Cathedral Rock is celebrated for hosting roughly a quarter of all nudibranch species ever recorded in Anilao, making it one of the world's premier nudibranch dive sites. Chromodoris and Phyllidiella nudibranchs carpet the transplanted coral surfaces alongside anemones with resident clownfish, swirling schools of surgeonfish and damsels, and small frogfish tucked into the sponge-covered outcrops. Diligent macro hunters also find pygmy seahorses in the gorgonians and the occasional blue-ringed octopus in the rubble.
 
 ## Dive Profile
 
@@ -59,9 +59,5 @@ Be aware of strong currents, jellyfish, sea urchins in this area. Dive within yo
 
 This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
-
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Dive Philippines Anilao Dive Sites](https://www.divephilippines.com.ph/anilao-batangas-dive-sites/), [Bluewater Dive Travel Anilao](https://www.bluewaterdivetravel.com/destination/anilao-diving), [Solitude World Anilao Dive Sites](https://solitude.world/dive-sites-anilao-batangas-the-philippines/), [Buceo Anilao](https://buceoanilao.com/), [Diving Squad Anilao Guide](https://www.divingsquad.com/philippines-diving/batangas-anilao/). Last updated 2026-04-04.*

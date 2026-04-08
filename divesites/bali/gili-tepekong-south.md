@@ -13,55 +13,50 @@ addedBy: osm_import
 
 ## Gili Tepekong South
 
-Gili Tepekong South is a wall dive site in Bali, Asia.
+An adrenaline dive on Tepekong's exposed south face — the site known as "The Toilet" for its powerful currents, and home to Black Hole canyon and resident whitetip reef sharks.
 
 ## Overview
 
-Gili Tepekong South is a dive site in Bali featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Gili Tepekong South is the dramatic, exposed face of the largest island in Amuk Bay off Candidasa. The canyon section — colloquially called "The Toilet" because of the swirling downcurrents it generates — is one of the most challenging dive environments in Bali, reserved for advanced divers with significant current experience. The wall drops to beyond 35 m and is covered in hard and soft corals, sea fans, and sponges. Schools of sweetlips, jacks, and large grouper congregate in the current-swept canyon, and whitetip and blacktip reef sharks are frequently observed. The Blue Hole, a distinctive chimney formation on the south face, adds to the dramatic topography.
 
 ## Site Information
 
-- **Location**: Bali, Asia
+- **Location**: Amuk Bay, Candidasa area, east Bali
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 10–20 m
+- **Current**: Strong to very strong; powerful down-currents possible
+- **Best Time**: May to October (slack tide only)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Whitetip and blacktip reef sharks are the signature species on the south face. Large schools of sweetlips, jacks, fusiliers, and grouper gather in the canyon. Mola mola appear on the exposed south wall during the July–October season. Turtles and barracuda are regular sightings. The walls host nudibranchs, pygmy seahorses in gorgonians, and large moray eels.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-35 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Enter on the upcurrent side and descend quickly to the canyon opening at approximately 15–20 m. Time the canyon entry for manageable current — dive briefings will specify conditions for the day. Explore the Blue Hole chimney if conditions allow. Ascend on the sheltered side of the island and conduct a 3-minute safety stop in calmer water.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat from Padangbai or Candidasa. Entry timing is critical — experienced guides will select the entry point based on current direction and strength. Only dive with operators who have recent knowledge of the site conditions. SMB deployment mandatory.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- This site is for experienced advanced divers with a minimum of 50 logged dives and recent drift experience
+- Only attempt The Toilet / canyon section on neap tides with slack current
+- Listen carefully to the dive briefing — conditions dictate the entire dive plan
+- If down-currents are present in the canyon, ascend immediately along the wall
+- The Blue Hole is worth the effort — an extraordinary chimney formation with clear water
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Down-currents in the canyon are the primary hazard and have caused incidents. Never enter the canyon alone. Follow your guide's instructions precisely regarding depth and exit timing. If swept deep, maintain neutral buoyancy and swim horizontally to exit the down-current zone. Always carry an SMB and a safety sausage.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+The canyon walls create dramatic frame shots. Schools of sweetlips in the current produce action shots that require fast shutter speeds. Reef sharks at rest on the wall are excellent subjects with wide-angle. The Blue Hole chimney with divers backlit by the opening is a signature image of Bali diving.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Aquamarine Diving - Bali Dive Sites](https://www.aquamarinediving.com/bali-diving/dive-sites/), [Dive The World - Bali Indonesia](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [Bluewater Dive Travel - Bali Diving](https://www.bluewaterdivetravel.com/destination/bali-diving), [World Adventure Divers - Best Dive Sites Bali](https://worldadventuredivers.com/best-dive-sites-bali/), [Neptune Scuba Diving - Scuba Diving Bali](https://neptunescubadiving.com/scuba-diving-bali/), [Dive The World - Bali](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [PADI - Diving in Bali](https://www.padi.com/diving-in/bali/). Last updated 2026-04-04.*

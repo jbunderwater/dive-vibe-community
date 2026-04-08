@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Koala Reef
 
-Koala Reef is a muck dive site in Philippines Anilao, Asia.
+Koala Reef is a muck dive site in Anilao, Batangas, where sandy and silty substrate interspersed with coral patches creates the ideal habitat for the unusual cryptic creatures that define Anilao's worldwide reputation for macro diving.
 
 ## Overview
 
-Koala Reef is a dive site in Philippines Anilao offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The "muck" classification at Koala Reef indicates a substrate dominated by sand, silt, and rubble rather than hard reef, a habitat type that excels at hosting bizarre and unusual species that have evolved cryptic appearances to blend into the unremarkable-looking bottom. Anilao's muck sites are some of the most celebrated in the world, drawing photographers from across the globe specifically to find species like hairy frogfish, flamboyant cuttlefish, mimic octopus, and the extraordinary variety of nudibranchs and flatworms that inhabit these environments. The site extends to 20 meters, covering a range of depth zones each with distinct critter assemblages.
 
 ## Site Information
 
-- **Location**: Philippines Anilao, Asia
+- **Location**: Anilao, Batangas, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 5-15 meters (often reduced in muck)
+- **Current**: Light; muck sites are typically sheltered
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Muck diving at Koala Reef yields the species Anilao is famous for. Frogfish — including the spectacular hairy frogfish — hunt from camouflaged positions on sponge and rubble. Flamboyant cuttlefish (*Metasepia pfefferi*) strut across the sandy bottom displaying iridescent colour patterns. Nudibranchs in dozens of species inhabit every substrate type. Jawfish extend from burrows in the sand. Ghost pipefish and robust ghost pipefish shelter near sparse coral and crinoids. Octopus are common and can be found in hunting mode on the open muck substrate.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Muck diving technique differs from reef diving: descend directly to the deepest section and work methodically toward the shallows, covering the substrate in a slow, hovering pattern close to the bottom. Never kick up silt — good buoyancy control is essential both for visibility and for not disturbing hiding species. Allow substantial time at each depth zone before moving on.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by banca from Anilao resort. Entry by giant stride into the water above the dive site. Ascend slowly with SMB deployed — the featureless muck substrate makes navigation without a reference line important.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Anilao muck diving requires refined buoyancy control — practice hovering without using hands or kicking
+- A dive torch is essential for illuminating holes and crevices where critters hide
+- Frogfish move between dives and between days — ask your guide for the current position
+- Visit during the November to May season for the highest critter diversity
+- A second dive at the same muck site, even on the same day, often yields completely different finds
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Muck sites typically have good conditions — little current, manageable depth, and sheltered water. However, the reduced visibility common on muck dives means staying close to your buddy is important. Ascend slowly and deploy SMB well before surfacing.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+Anilao muck photography is world-class. The primary subjects — frogfish, nudibranchs, flatworms, cuttlefish, and octopus — reward close-focus macro setups. Reduced natural light on the muck substrate often requires strobe use even in daytime. The Anilao muck site experience is considered the ultimate macro photography challenge by many professional underwater photographers.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Dive Philippines Anilao Dive Sites](https://www.divephilippines.com.ph/anilao-batangas-dive-sites/), [Bluewater Dive Travel Anilao](https://www.bluewaterdivetravel.com/destination/anilao-diving), [Solitude World Anilao Dive Sites](https://solitude.world/dive-sites-anilao-batangas-the-philippines/), [Buceo Anilao](https://buceoanilao.com/), [Diving Squad Anilao Guide](https://www.divingsquad.com/philippines-diving/batangas-anilao/). Last updated 2026-04-04.*

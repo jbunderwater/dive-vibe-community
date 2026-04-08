@@ -13,55 +13,50 @@ addedBy: osm_import
 
 ## Ped
 
-Ped is a wall dive site in Bali, Asia.
+A drift dive along Nusa Penida's sheltered north coast — sloping reefs, resident turtles, and frequent pelagic encounters.
 
 ## Overview
 
-Ped is a dive site in Bali featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Pura PED is one of a string of north-coast Nusa Penida dive sites — alongside SD, Sental, and Buyuk — that line the more sheltered northern coastline of the island. The site features sloping coral reefs with consistent current that creates ideal conditions for drift diving through rich fish life. Unlike the dramatic, exposed southern sites, PED is more sheltered from the Indian Ocean swell, making it a reliable choice when conditions elsewhere are challenging. The current-swept slopes bring nutrient-rich water that supports dense populations of reef fish, turtles, and occasional pelagic visitors including giant trevally and, in season, mola mola.
 
 ## Site Information
 
-- **Location**: Bali, Asia
+- **Location**: North coast of Nusa Penida, Bali region
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15–25 m
+- **Current**: Moderate; consistent drift current along the wall
+- **Best Time**: April to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Green and hawksbill turtles are commonly found on the reef slope. Dense schools of fusiliers, anthias, and sweetlips follow the current along the wall. Giant trevally hunt in the blue water, and reef sharks are frequently sighted. During the July–October mola mola season, oceanic sunfish have been reported here. Macro life includes nudibranchs, shrimps, and small cephalopods in coral crevices.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Descend at the upstream end of the site and drift along the reef slope at 15–25 m. The gentle gradient allows divers to control depth easily while observing fish life. Watch for turtles feeding on the reef crest in the shallows. Ascend gradually and complete a 3-minute safety stop at 5 m before signalling the boat with an SMB.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Toyapakeh or Sanur. The north coast is more sheltered than the south, making crossings generally more comfortable. Entry via back roll. Drift toward the next site along the north coast if conditions and air allow.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- PED can be linked with nearby SD or Sental for a two-site drift along the north coast
+- The north coast is the best option on days when southern sites have too much swell
+- Watch the reef crest in the shallows for resident turtles grazing on the coral
+- Mola mola are occasionally seen between July and October on this north slope
+- A 3 mm wetsuit is usually sufficient; the north coast is warmer than southern sites
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Drift currents can be strong and may accelerate unexpectedly. Stay aware of depth and avoid being swept deeper than planned. Always carry an SMB for drift dive ascents. Coordinate with the boat crew on the drift direction and pickup point before descending.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+Wide-angle suits the sloping reef with schools of fusiliers and turtles. Turtles grazing in the shallows offer portrait opportunities with good natural light. The current-swept character of the site means quick composition is needed — practice shooting on the move.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Aquamarine Diving - Bali Dive Sites](https://www.aquamarinediving.com/bali-diving/dive-sites/), [Dive The World - Bali Indonesia](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [Bluewater Dive Travel - Bali Diving](https://www.bluewaterdivetravel.com/destination/bali-diving), [World Adventure Divers - Best Dive Sites Bali](https://worldadventuredivers.com/best-dive-sites-bali/), [Neptune Scuba Diving - Scuba Diving Bali](https://neptunescubadiving.com/scuba-diving-bali/), [Dive The World - Bali](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [PADI - Diving in Bali](https://www.padi.com/diving-in/bali/). Last updated 2026-04-04.*

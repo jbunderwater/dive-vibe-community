@@ -23,7 +23,7 @@ Kawanishi H8K Emily Flying Boat is a dive site in Chuuk Lagoon featuring the wre
 
 - **Location**: Chuuk Lagoon, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 16 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)

@@ -1,7 +1,7 @@
 ---
 name: Kulua Lodge Wrecks
-lat: -4.165
-lng: 151.914694
+lat: -4.202222
+lng: 152.1055
 difficulty: Beginner
 maxDepth: 20
 entryType: boat

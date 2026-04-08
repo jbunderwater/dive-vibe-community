@@ -13,53 +13,64 @@ addedBy: osm_import
 
 ## Blue Maomao Arch
 
-Blue Maomao Arch is a cave dive site in Poor Knights Islands, Oceania.
+The most famous and iconic arch at the Poor Knights Islands, Blue Maomao Arch is legendary for its extraordinary fish life. The arch is often home to such dense schools of blue maomao that they block out the sunlight, creating an unforgettable diving experience. This is the signature Poor Knights dive site offering excellent marine life viewing and photography opportunities.
 
 ## Overview
 
-Blue Maomao Arch is a dive site in Poor Knights Islands featuring underwater cave and cavern formations. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Blue Maomao Arch is the crown jewel of Poor Knights Islands diving. The arch cuts through a rocky point, creating a spectacular natural corridor. The site is famous for the dense schools of blue maomao (blue fish with distinctive markings) that congregate here, often accompanied by pink maomao and larger pelagic fish like kingfish, snapper, and giant trevally. The entrance to the arch is at approximately 10 meters, with shoals of blue maomao visible from the outer approach all the way through the passage.
 
 ## Site Information
 
-- **Location**: Poor Knights Islands, Oceania
+- **Location**: Poor Knights Islands, Northland, New Zealand
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 15-40 meters (50-130 feet)
-- **Current**: Variable
-- **Best Time**: September to February
+- **Typical Visibility**: 15-30 meters (excellent for fish viewing)
+- **Water Temperature**: 14-17°C (winter/May-Sept), 19-25°C (summer/Nov-April)
+- **Current**: Can be present; the nutrient-rich current feeds the abundant fish life
+- **Best Time**: September to February for calmest conditions
 
 ## Marine Life
 
-Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+Blue Maomao Arch is world-renowned for its fish schools. Divers encounter:
+- Dense schools of blue maomao (the arch's namesake) thick enough to reduce visibility and block sunlight
+- Pink maomao swimming in equally impressive numbers
+- Large kingfish, snapper, and giant trevally cruising the outer waters
+- Short-tailed stingrays gliding through warmer months
+- Moray eels and nudibranchs sheltering in crevices
+- Hard corals, sponges, and hydroids covering the arch walls
+
+The concentration of fish life is unmatched at Poor Knights.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin your descent at the boat drop-off to the arch entrance (10m). Approach the arch carefully, as fish may scatter when startled. Once inside the arch passage, prepare for an overwhelming display of fish life. The blue maomao school is so dense that they create a bioluminescent-like effect when light refracts through them. Work your way through the arch, looking for larger fish in the blue water just outside. The arch widens and narrows creating scenic passages. Maximum depth for the main dive is 18 meters, with pleasant safety stop time available at 5 meters.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat entry via giant stride to the arch entrance. Your guide will advise on current direction and descent procedures. The passage through the arch is wide and comfortable. Exit via ascent to the surface for boat pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- **Best photography site at Poor Knights**: Bring a quality wide-angle lens to capture fish schools
+- **Expect crowds**: The fish schools react to diver presence; move slowly and deliberately
+- **Look up and down**: Fish fill the entire water column—look in all directions
+- **Arrive early in the dive**: Fish behavior is most active in the first 10-15 minutes
+- **Book with operators experienced at this site**: All major Poor Knights operators run regular Blue Maomao dives
+- **Don't miss the outside approach**: Large pelagic fish hunt in the blue water outside the arch
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish (box jellyfish in summer), crocodiles (north) in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+- Good buoyancy control is important to avoid hitting the arch walls or disturbing fish
+- Currents can be present—maintain buddy contact
+- Cold water requires appropriate thermal protection
+- Never dive without a buddy; fish schools can be disorienting for solo divers
+- Be aware of the arch ceiling—depth management is simple but maintain awareness
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+This is the premier photographic dive at Poor Knights. Fish schools create stunning wide-angle compositions. Telephoto lenses capture individual fish within the school. Backlighting creates silhouettes of fish against lighter water. The best photography occurs in the first part of the dive when fish are most dense. Neutral buoyancy is essential for steady wide-angle shots. Consider a second camera body for close-up work on smaller species.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Wikivoyage Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands), [Dive! Tutukaka - Poor Knights Islands](https://diving.co.nz/poor-knights-islands), [New Zealand Tourism Poor Knights Islands](https://www.newzealand.com/us/poor-knights-islands/), [First Light Travel Poor Knights Dive Sites](https://www.firstlighttravel.com/nz-diving/dive-sites/poor-knights-island), [Yukon Dive Poor Knights Specialists](https://yukon.co.nz/). Last updated 2026-04-04.*

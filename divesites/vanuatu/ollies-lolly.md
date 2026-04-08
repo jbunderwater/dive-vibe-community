@@ -1,7 +1,7 @@
 ---
 name: Ollies Lolly
 lat: -17.7025
-lng: 168.258
+lng: 168.2580
 difficulty: Beginner
 maxDepth: 9
 entryType: boat
@@ -13,55 +13,31 @@ addedBy: osm_import
 
 ## Ollies Lolly
 
-Ollies Lolly is a reef dive site in Vanuatu, Pacific.
+Ollies Lolly is a very shallow beginner reef site off Espiritu Santo, Vanuatu, named after a local dive operator and representing one of the most relaxed and accessible reef dives in the Luganville area — a useful complement to the deeper wreck diving that dominates the Santo experience.
 
 ## Overview
 
-Ollies Lolly is a dive site in Vanuatu offering excellent diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Located in the waters around Espiritu Santo with a maximum depth of just 9 meters, Ollies Lolly is a reef flat and gentle slope site that operates almost in snorkeling territory. The site is used primarily for discover scuba diver experiences, first certification dives, and as a recovery/easy-day dive between more intensive wreck diving on the Coolidge or Tucker. The shallow position means virtually unlimited bottom time at recreational limits, and the gentle topography requires no particular navigation skill.
 
-## Site Information
+The reef quality is good for such a shallow, frequently visited site — the hard coral coverage is maintained by the clean Santo waters and the shallow depth that provides excellent natural light for coral health. Water temperature in the Santo area holds at 26–28°C year-round, and visibility of 15–25 meters is typical in the bay waters.
 
-- **Location**: Vanuatu, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 9 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+## What to Expect
 
-## Marine Life
+The primary draw at Ollies Lolly is the relaxed pace that an extremely shallow site allows — divers can move slowly, hover at will, and observe small subjects without the time pressure of deeper recreational dives. Anemone and clownfish colonies are scattered throughout the reef flat. Juvenile reef fish species in their distinctive color phases populate the coral heads. Sea turtles are regular visitors to the shallow feeding grounds here, and are often so comfortable with divers that approach within a few meters is possible without disturbance.
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+The site is particularly suited for macro photography of juvenile fish and small invertebrates — the excellent natural light, stable shallow conditions, and unhurried pace allow extended close-up observation of subjects that would be rushed past on deeper dives.
 
-## Dive Profile
+## Practical Information
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 9 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-9 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+- **Depth Range**: 2–9 meters
+- **Visibility**: 15–25 meters typical
+- **Currents**: Generally very mild
+- **Entry**: Boat dive from Luganville operators
+- **Best For**: Absolute beginners, discover scuba, certification dives; relaxed complement to wreck diving days
 
-## Entry and Exit
+## Marine Life Highlights
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+Clownfish and anemones, sea turtles, juvenile reef fish, parrotfish, damselfish, butterflyfish, moray eels in crevices, blue-spotted ribbontail rays on sandy patches.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Vanuatu Tourism Office - Diving Guide](https://www.vanuatu.travel/en/guide-to-diving-vanuatu), [Big Blue Vanuatu - Dive Sites](https://bigbluevanuatu.com/sites/), [Bluewater Dive Travel - Vanuatu](https://www.bluewaterdivetravel.com/destination/vanuatu-diving), [Lonely Planet - Vanuatu Diving](https://www.lonelyplanet.com/articles/guide-to-vanuatu-snorkel-scuba), [PADI - Diving in Vanuatu](https://www.padi.com/diving-in/vanuatu/). Last updated 2026-04-04.*

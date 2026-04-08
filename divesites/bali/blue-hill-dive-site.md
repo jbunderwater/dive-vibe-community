@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Blue Hill Dive Site
 
-Blue Hill Dive Site is a reef dive site in Bali, Asia.
+A sloping reef in the Tulamben area with a pleasant mix of coral formations and resident reef fish, ideal between the Liberty wreck and muck dive sites.
 
 ## Overview
 
-Blue Hill Dive Site is a dive site in Bali offering rewarding diving on healthy coral reef structures . Reef dive site near Amed. Intermediate-level reef diving with good visibility and moderate currents. Part of Bali's east coast diving area.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Blue Hill is a reef dive site in the Tulamben corridor of northeast Bali, situated between the major draw sites of the USAT Liberty wreck and the muck diving locations near Amed. The reef slopes from the shallows to around 25 m, offering a classic Indonesian tropical reef experience with hard coral bommies, sea fans, and a colourful fish community. The site is particularly useful for groups of mixed experience levels, providing enough depth and interest for intermediate divers without the demanding conditions of more exposed sites in the region. Current is generally moderate and predictable.
 
 ## Site Information
 
-- **Location**: Bali, Asia
+- **Location**: Tulamben area, northeast Bali
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15–22 m
+- **Current**: Moderate; generally predictable
+- **Best Time**: April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Parrotfish, fusiliers, and anthias are abundant on the upper reef. Turtles are regularly sighted grazing on the reef crest. Moray eels, grouper, and lionfish inhabit the coral cavities at 15–20 m. Smaller critters including nudibranchs and cleaner shrimps are found in the rubble zones at depth.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter at the boat and descend to the reef at 10 m. Follow the sloping reef to 20–25 m, then ascend gradually back along the slope. Most fish life is concentrated at 8–18 m. The shallow reef section between 3–8 m offers a colourful final exploration during the safety stop period.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive from Tulamben area operators. Entry via back roll. Currents are manageable. SMB deployment recommended for ascent in open water.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Excellent filler dive between the Liberty wreck and muck diving sites in the Tulamben area
+- Well-suited for Open Water divers progressing toward their Advanced certification
+- Check sea fans at depth for pygmy seahorses if available in the area
+- Pair with an early morning Liberty wreck dive for a productive two-dive morning
+- Afternoon dives can be affected by increased current — check with operators
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Maintain good buoyancy above the reef to avoid coral contact. Lionfish in overhangs are venomous — observe without touching. Sea urchins on the substrate can cause injury if handled or stepped on with bare skin.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+Good light in the shallows suits reef scene photography. Fish portraits of parrotfish and surgeonfish work well at the reef crest. Look for cleaner stations on prominent coral heads for fish portrait opportunities.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Aquamarine Diving - Bali Dive Sites](https://www.aquamarinediving.com/bali-diving/dive-sites/), [Dive The World - Bali Indonesia](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [Bluewater Dive Travel - Bali Diving](https://www.bluewaterdivetravel.com/destination/bali-diving), [World Adventure Divers - Best Dive Sites Bali](https://worldadventuredivers.com/best-dive-sites-bali/), [Neptune Scuba Diving - Scuba Diving Bali](https://neptunescubadiving.com/scuba-diving-bali/), [Dive The World - Bali](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [PADI - Diving in Bali](https://www.padi.com/diving-in/bali/). Last updated 2026-04-04.*

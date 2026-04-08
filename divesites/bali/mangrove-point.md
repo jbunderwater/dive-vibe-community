@@ -13,55 +13,50 @@ addedBy: osm_import
 
 ## Mangrove Point
 
-Mangrove Point is a reef dive site in Bali, Asia.
+A sheltered wall and reef dive on the western end of Menjangan Island where morning light filters through corals to spectacular effect.
 
 ## Overview
 
-Mangrove Point is a dive site in Bali offering excellent diving on healthy coral reef structures . Reef dive site near mangrove area in Menjangan Island region. Shallow, beginner-friendly diving with coral formations and calm conditions. Excellent for new divers.. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Mangrove Point is located at the western tip of Menjangan Island, where the reef turns a corner and the light conditions in the morning are particularly striking — sunshine penetrates the shallow corals and illuminates the wall with a vivid blue glow. The reef here is full of life from top to bottom, with fish nurseries in the shallow corals making the mandatory safety stop genuinely enjoyable rather than routine. The wall drops to around 30 m and hosts the same diversity of gorgonians, sponges, and corals characteristic of the rest of Menjangan, but with a slightly more sheltered character than the eastern wall sites.
 
 ## Site Information
 
-- **Location**: Bali, Asia
+- **Location**: Menjangan Island, West Bali National Park, northwest Bali
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15–30 m
+- **Current**: Generally light to moderate
+- **Best Time**: April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The shallow nursery areas host dense clouds of juvenile fish — anthias, chromis, and basslets — around branching corals. Lionfish, ornate ghost pipefish, and moray eels inhabit the wall. Turtles are frequently seen feeding along the reef crest. Reef sharks and trevally patrol the deeper sections, and batfish are often seen at mid-depth.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to 10–15 m and follow the reef wall westward. Spend the bulk of the dive between 8–18 m where fish density and coral quality are highest. The shallow section at 3–5 m near the mooring is a wonderful spot to spend the safety stop watching the fish nurseries at the reef edge. Total dive time 45–60 minutes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Jukung boat from Labuhan Lalang. Entry via back roll or giant stride from the gunwale. Currents are usually manageable. Ascend slowly up the wall for the safety stop and signal the boat with an SMB.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Dive in the morning to make the most of the beautiful light filtering through the corals
+- Spend your safety stop in the shallows watching the fish nurseries — it rivals the deeper reef
+- Look for ornate ghost pipefish near the gorgonian bases
+- Pair with Eel Garden or Pos 2 for a full Menjangan day
+- Suitable for Open Water certified divers and snorkellers
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Currents are usually mild but can increase at the point. Stay within recreational depth limits. Lionfish in coral overhangs are venomous — observe from a safe distance. Maintain good buoyancy to protect the reef structure. Always dive with a buddy.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+Morning dives offer exceptional natural light for shooting the shallow reef and fish schools. Wide-angle works well for the wall sections, while macro shooters will find ghost pipefish, nudibranchs, and juvenile fish in the corals. The safety stop in the shallows often yields some of the most colourful shots of the day.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Aquamarine Diving - Bali Dive Sites](https://www.aquamarinediving.com/bali-diving/dive-sites/), [Dive The World - Bali Indonesia](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [Bluewater Dive Travel - Bali Diving](https://www.bluewaterdivetravel.com/destination/bali-diving), [World Adventure Divers - Best Dive Sites Bali](https://worldadventuredivers.com/best-dive-sites-bali/), [Neptune Scuba Diving - Scuba Diving Bali](https://neptunescubadiving.com/scuba-diving-bali/), [Dive The World - Bali](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [PADI - Diving in Bali](https://www.padi.com/diving-in/bali/). Last updated 2026-04-04.*

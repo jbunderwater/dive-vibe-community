@@ -13,54 +13,50 @@ addedBy: osm_import
 
 ## Ema Reef
 
-Ema Reef is a reef dive site in Papua New Guinea, Pacific.
+Ema Reef is a healthy coral reef in Kimbe Bay, West New Britain, Papua New Guinea, offering well-rounded diving in one of the most biodiverse marine environments on Earth.
 
 ## Overview
 
-Ema Reef is a dive site in Papua New Guinea offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Ema Reef is a mid-bay reef structure in Kimbe Bay, rising from a sandy bottom to a broad coral crest just below the surface. Like all of Kimbe Bay's reefs, it benefits from the bay's exceptional water quality and extraordinary biodiversity — Kimbe Bay contains roughly 60% of all known Indo-Pacific coral species and the reef community here reflects that richness. The reef face features a mix of hard coral formations: large table Acropora corals, branching staghorn thickets, and encrusting species covering the slope down to 20-25 meters, all in healthy condition with minimal bleaching damage. Schools of anthias are omnipresent on the upper slope, and butterflyfish browse the coral in pairs. Sweetlips gather under coral overhangs, and resident Napoleon wrasse patrol the reef edge. On incoming currents, fusilier schools form large aggregations mid-water above the reef, attracting grey reef sharks and the occasional dog-tooth tuna. The reef also offers reliable turtle sightings — hawksbill turtles are frequently seen grazing on sponges on the deeper reef slope. Ema Reef is a dependable, unhurried dive that rewards attentive observation.
 
 ## Site Information
 
-- **Location**: Papua New Guinea, Pacific
+- **Location**: Kimbe Bay, West New Britain, Papua New Guinea
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Current**: Light to moderate
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Napoleon wrasse, grey reef sharks, hawksbill sea turtles, sweetlips, fusiliers, anthias, butterflyfish, angelfish, parrotfish, surgeonfish. Dog-tooth tuna visit on stronger tidal currents. Macro life includes nudibranchs, flatworms, and ornate ghost pipefish in crinoids on the deeper slope. Cleaning stations are active throughout the reef with cleaner wrasse and cleaner shrimps.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef crest at 5-8 meters and explore the upper slope before following the reef face down to 20-25 meters. The deeper slope offers the best turtle sightings and ghost pipefish opportunities. Work back up the slope through the fish-dense mid-section at 12-18 meters, finishing the dive in the shallower zone where visibility and natural light are best. Typical dive time is 50-60 minutes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by day boat from Walindi Plantation Resort or other Kimbe Bay operators. Bay conditions are generally calm but can be affected by westerly swells during the wet season. Giant stride entry. SMB deployment on ascent for boat pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Check crinoids on the deeper slope carefully for ornate and robust ghost pipefish — these are frequently overlooked by divers focused on the reef surface
+- Napoleon wrasse at this site are relatively approachable — maintain a non-threatening posture and they will often circle back
+- Cleaning stations are worth waiting at — watching sharks and large pelagics in the patient, stationary behaviour of a cleaning visit is one of the more unusual spectacles in diving
+- Carry a torch for investigating overhangs and crevices where sweetlips shelter
+- Combine with nearby Inglis Shoal or Susan's Reef for a contrasting second dive of the day
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Ema Reef is a straightforward intermediate site with light to moderate currents and calm bay conditions. Standard reef safety applies. Maintain good buoyancy to avoid contact with coral. Monitor dive time and depth approaching the 25-meter maximum. Always carry an SMB for boat pickup.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+Ema Reef works well for a variety of underwater photography styles. Wide-angle shots of the healthy table coral formations with schooling fish above, and the reef slope receding into blue, are the characteristic compositions. For macro, the deeper slope ghost pipefish are the standout subjects — bring a 100mm lens and a good torch. Turtle portraits require a slow, non-threatening approach from the side; most hawksbills will continue grazing if you approach calmly and maintain distance.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [PADI Diving in Papua New Guinea](https://www.padi.com/diving-in/papua-new-guinea/), [Indopacific Images PNG Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [Bluewater Dive Travel PNG](https://www.bluewaterdivetravel.com/destination/papua-new-guinea-diving), [Divezone PNG Dive Sites](https://divezone.net/diving/papua-new-guinea), [Dive Adventures Papua New Guinea](https://diveadventures.com.au/country/papua-new-guinea/). Last updated 2026-04-04.*

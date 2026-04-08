@@ -13,54 +13,49 @@ addedBy: osm_import
 
 ## Inglis Shoal
 
-Inglis Shoal is a pinnacle dive site in Papua New Guinea, Pacific.
+Inglis Shoal is a shallow seamount in Kimbe Bay, West New Britain, Papua New Guinea, known for dense fish aggregations and healthy hard coral on its summit plateau.
 
 ## Overview
 
-Inglis Shoal is a dive site in Papua New Guinea offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Inglis Shoal is a broad, flat-topped seamount that crests at around 3-5 meters below the surface, making it one of the shallower pinnacle dives in Kimbe Bay. The shallow summit supports a thriving hard coral garden — massive Porites heads, staghorn thickets, and table corals in excellent condition — that gives way to sloping rubble and sand on the flanks. The shoal's position in open water makes it a magnet for schooling fish: dense aggregations of yellowfin goatfish, surgeonfish, and snappers move across the top, while bigeye trevally school in the water column above. Grey reef sharks and whitetip reef sharks are regular visitors, often seen cruising the reef edge. When tidal currents run, pelagic fish push in from the open bay — including barracuda, dog-tooth tuna, and occasionally wahoo. The shoal's shallowness means long bottom times and excellent natural light for photography.
 
 ## Site Information
 
-- **Location**: Papua New Guinea, Pacific
+- **Location**: Kimbe Bay, West New Britain, Papua New Guinea
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Current**: Moderate to strong (current-dependent)
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Schooling barracuda, bigeye trevally, grey reef sharks, whitetip reef sharks, surgeonfish, yellowfin goatfish, snappers, Napoleon wrasse. Hard coral coverage on the summit is notably healthy. Reef fish density is high throughout. Pelagic visits (tuna, wahoo) occur with stronger currents.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the summit at 3-5 meters and survey the coral plateau before dropping to the reef slopes at 10-15 meters. The most interesting fish aggregations tend to be in mid-water just above the summit, so spend time hovering and observing rather than staying close to the bottom. Depth is limited, allowing extended dive times — 60-70 minutes is typical with good air management.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by boat from Walindi Plantation Resort or Kimbe Bay day operators. The site is exposed to open water and can have surface chop when trade winds are active. Giant stride or back roll entry depending on conditions. Deploy SMB on ascent — the shoal can be far from shore and boat pickup in open water requires good visibility of the diver.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Dive on an incoming current for best pelagic action — plan the dive so you drift over the top and descend the current-sheltered flank
+- The summit is shallow enough that even a diver approaching a half-tank still has bottom time available; use this for a second thorough survey
+- Hard coral health here is exceptional — good site for coral identification and underwater natural history photography
+- Watch the blue water off the reef edge during stronger currents for tuna and other pelagics
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The shoal's open-water position means currents can be strong and unpredictable. Assess current direction and speed before descent. If the current exceeds your comfort level, reschedule for a different tidal stage. Carry a reef hook for resting in strong flow without damaging coral. Always carry an SMB — boat pickup is in open water.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+The shallow clear water of Inglis Shoal provides excellent natural light throughout the dive. Wide-angle shots of shark and trevally silhouettes against the bright surface are the signature images. The hard coral summit makes a beautiful foreground for fish portrait shots. Bring a dome port for the best results.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [PADI Diving in Papua New Guinea](https://www.padi.com/diving-in/papua-new-guinea/), [Indopacific Images PNG Dive Guide](https://indopacificimages.com/papua-new-guinea/guide-to-diving-papua-new-guinea/), [Bluewater Dive Travel PNG](https://www.bluewaterdivetravel.com/destination/papua-new-guinea-diving), [Divezone PNG Dive Sites](https://divezone.net/diving/papua-new-guinea), [Dive Adventures Papua New Guinea](https://diveadventures.com.au/country/papua-new-guinea/). Last updated 2026-04-04.*

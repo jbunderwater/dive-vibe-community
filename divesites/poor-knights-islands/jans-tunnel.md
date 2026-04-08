@@ -13,53 +13,70 @@ addedBy: osm_import
 
 ## Jan's Tunnel
 
-Jan's Tunnel is a cave dive site in Poor Knights Islands, Oceania.
+Named after Jan Doak, a noted Poor Knights dive explorer, Jan's Tunnel is a spacious swim-through tunnel penetrating approximately 30 meters into the volcanic rock. The entrance is shallow and welcoming at 15 meters, making it accessible to snorkelers and scuba divers who don't wish to descend to deep sand (40m). As you penetrate the tunnel, it widens and narrows creating interesting passages. The tunnel's unusual characteristics include descending from 15 meters to 23 meters—uncommon for sea caves. Inside the darker sections, blue maomao school against the southern wall.
 
 ## Overview
 
-Jan's Tunnel is a dive site in Poor Knights Islands featuring underwater cave and cavern formations. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+Jan's Tunnel is a unique underwater tunnel system with extraordinary interior wall life but a barren sandy bottom. The tunnel is sheltered most of the time, making it a popular resting place for fish. The site is named after Jan Doak, with nearby Brady's Cove named after her son and Jan's Tunnel name commemorating her dive exploration of the area. The entrance is shallow enough for snorkelers to observe the tunnel entrance, with scuba divers able to explore the full penetration.
 
 ## Site Information
 
-- **Location**: Poor Knights Islands, Oceania
+- **Location**: Poor Knights Islands, Northland, New Zealand
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 23 meters
-- **Typical Visibility**: 15-40 meters (50-130 feet)
-- **Current**: Variable
-- **Best Time**: September to February
+- **Minimum Depth**: 15 meters (tunnel entrance)
+- **Typical Visibility**: 15-30 meters
+- **Water Temperature**: 14-17°C (winter/May-Sept), 19-25°C (summer/Nov-april)
+- **Current**: Mild, sheltered location
+- **Best Time**: Year-round; sheltered conditions make this reliable
 
 ## Marine Life
 
-Divers at this site can expect to encounter great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles, dolphins, dugongs, potato cod. Additional species commonly sighted include maori wrasse, giant trevally, hard corals, soft corals. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+The tunnel interior shelters fish as a sleepover:
+- Schools of blue maomao hugging the southern wall in darker sections
+- Fragile hydroids, bryozoans, sponges, anemones coating tunnel sides
+- Extraordinary richness of delicate organisms despite barren sandy bottom
+- Small crustaceans and fish seeking protection
+- Slipper lobsters observed in recent dives
+- Fish life less active than outer reef but unique sheltered-environment species
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 23 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the tunnel entrance at 15 meters. The tunnel entrance is accessible to snorkelers from the surface. As you enter the tunnel, it widens and narrows with the ceiling descending in places but remaining comfortable. The tunnel penetrates some 30 meters with an unusual feature: it descends from 15 meters at the entrance to 23 meters in its deepest sections. The bottom becomes barren sand, but the walls are extraordinarily rich in fragile life. In the darkest inner sections, blue maomao hug the southern wall. The sheltered environment makes this site excellent for observing fish behaviour adapted to low-light, confined spaces.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat entry via giant stride directly to tunnel entrance. Your guide will indicate the penetration depth and turning points. Many divers descend only to the first interesting sections (15-18m) rather than full penetration to the 23m sections, extending bottom time. Exit via ascent and boat pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- **Excellent fish behaviour watching**: The sheltered environment reveals unusual fish activity
+- **Fragile walls**: Maintain excellent buoyancy to avoid damaging delicate organisms
+- **Torch recommended**: A dive torch helps reveal colours and details in darker tunnel sections
+- **Shallow entrance**: Consider this as a later dive in your day when you have good air consumption patterns
+- **Partial penetration option**: You don't need to visit the deepest sections—the upper tunnel is fascinating
+- **Unique geological site**: The descending-then-leveling tunnel profile is geologically interesting
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish (box jellyfish in summer), crocodiles (north) in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+- Excellent intermediate site with manageable depth
+- The shallow entrance and sheltered conditions make this safe and reliable
+- Current rarely affects this protected site
+- Torch helps with navigation and light in darker sections
+- Never exceed your comfort penetration depth
+- Always dive with a buddy
+- Good buoyancy control important for delicate wall life
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+The dark tunnel sections offer low-light photography challenges and rewards:
+- **Macro**: Detailed shots of hydroids, bryozoans, and delicate organisms coating walls
+- **Fish behaviour**: Blue maomao activity in dark sections is unique photography opportunity
+- **Torch lighting**: Using your torch as a light source creates interesting shadow and depth effects
+- **Entrance framing**: The tunnel entrance framed by light is a classic composition
+- **Penetration perspective**: Wide-angle looking back toward the entrance shows tunnel perspective
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Wikivoyage Diving the Poor Knights Islands](https://en.wikivoyage.org/wiki/Diving_the_Poor_Knights_Islands), [Dive! Tutukaka - Poor Knights Islands](https://diving.co.nz/poor-knights-islands), [New Zealand Tourism Poor Knights Islands](https://www.newzealand.com/us/poor-knights-islands/), [First Light Travel Poor Knights Dive Sites](https://www.firstlighttravel.com/nz-diving/dive-sites/poor-knights-island), [Yukon Dive Poor Knights Specialists](https://yukon.co.nz/). Last updated 2026-04-04.*

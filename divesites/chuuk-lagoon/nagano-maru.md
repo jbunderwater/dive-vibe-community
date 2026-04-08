@@ -23,7 +23,7 @@ Nagano Maru is a dive site in Chuuk Lagoon featuring the wreck of the Nagano Mar
 
 - **Location**: Chuuk Lagoon, Pacific
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 59 meters
 - **Typical Visibility**: 20-50 meters (65-160 feet)
