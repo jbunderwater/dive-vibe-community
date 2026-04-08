@@ -11,57 +11,46 @@ osmId: null
 addedBy: osm_import
 ---
 
-## MV Roylen Petaj
+# MV Roylen Petaj
 
-MV Roylen Petaj is a historic wreck dive in Solomon Islands, Pacific.
+A former Royal Australian Navy Fairmile motor launch (ML 805) -- 112 feet long and 75 tons -- scuttled in Gizo Harbour. The vessel lists to starboard at only 14 metres depth, making it an easy and accessible wreck dive suitable for beginners. The wreck may have sustained additional damage from the 2008 tsunami.
 
 ## Overview
 
-MV Roylen Petaj is a dive site in Solomon Islands featuring a historic wreck. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The MV Roylen Petaj began life as ML 805, a Fairmile motor launch serving with the Royal Australian Navy during World War II. After the war, the vessel was converted for civilian use in the Solomon Islands before eventually being scuttled in Gizo Harbour. She now lies at approximately 14 metres depth, listing to starboard.
+
+The wreck's harbour location and shallow depth make it one of the most accessible dives in Gizo. Batfish, firefish (lionfish), and trevally are commonly found around the wreck structure. The 2008 Solomon Islands tsunami may have caused additional damage to the vessel, altering her condition from earlier descriptions.
 
 ## Site Information
 
-- **Location**: Solomon Islands, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Location**: Gizo Harbour, Ghizo Island, Western Province
+- **Entry Type**: Boat dive from Gizo (short ride within the harbour)
+- **Site Type**: Wreck dive (former WWII Fairmile motor launch)
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 14 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Maximum Depth**: 14 metres
+- **Typical Visibility**: 15-30 metres
+- **Water Temperature**: 27-28°C
+- **Current**: Generally sheltered within the harbour
 
 ## Marine Life
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Batfish are a characteristic resident of the wreck, often hovering in small groups around the superstructure. Firefish (lionfish) shelter in shadowed areas of the hull and deck fittings. Trevally patrol the mid-water around the vessel. The wreck structure provides habitat for a variety of small reef fish and invertebrates.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 14 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Descend to the wreck in the sheltered waters of Gizo Harbour. The vessel lists to starboard, allowing easy access to the deck and superstructure on the port (high) side. At 112 feet long, the wreck is compact enough to circumnavigate in a single dive with time to spare. The 14-metre maximum depth allows extended bottom time for thorough exploration. Look for batfish around the superstructure, firefish in the shadowed areas, and trevally in the surrounding water.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
+- Excellent introductory wreck dive -- the shallow depth and calm harbour conditions suit divers of all levels
+- The batfish often approach divers closely and make willing photographic subjects
+- A torch is useful for spotting firefish and examining interior details
+- The wreck's condition may differ from historical accounts due to possible 2008 tsunami damage -- ask local operators about its current state
+- Can be easily combined with the Mitsubishi Zero or other Gizo Harbour dives
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+The harbour location provides sheltered conditions, making this one of the safest wreck dives in the Gizo area. The shallow depth eliminates decompression concerns for standard dive profiles. The wreck structure may have been weakened by age and possible tsunami damage -- avoid entering unstable-looking sections. Maintain buoyancy to avoid disturbing silt inside the hull.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=393). Last updated 2026-04-08.*
