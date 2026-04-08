@@ -11,56 +11,52 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Caban Cove
+# Caban Cove
 
-Caban Cove is a reef dive site in Philippines Anilao, Asia.
+A drift dive along the steeply sloping western side of Caban Island, with sea whips, soft corals, critters including giant anglerfish and blue ribbon eels, and tens of thousands of niger triggerfish filling the water column.
 
 ## Overview
 
-Caban Cove is a dive site in Philippines Anilao offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Caban Cove is a drift dive site on the western side of Caban Island in the Anilao area. The reef slopes steeply to around 22 meters, with the bottom dropping to approximately 30 meters. The slope is covered with sea whips and soft corals that provide habitat for a variety of critters. The site's most spectacular feature is the enormous school of niger triggerfish -- tens of thousands of them -- that fills the water column and creates a dramatic visual display. Giant anglerfish and blue ribbon eels add to the critter appeal.
 
 ## Site Information
 
-- **Location**: Philippines Anilao, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Location**: West side of Caban Island, Anilao, Batangas, Philippines
+- **Entry Type**: Boat dive (drift dive)
+- **Site Type**: Drift dive (steeply sloping reef)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 10-20 meters
+- **Water Temperature**: 27-29°C
+- **Current**: Moderate (current-assisted drift)
+- **Best Time**: November to June (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The sheer number of niger triggerfish at Caban Cove is the site's defining feature -- tens of thousands of these fish form a massive school that engulfs divers as they drift along the slope. Beyond this spectacle, the site supports excellent critter life. Giant anglerfish sit camouflaged on the reef. Blue ribbon eels, with their vivid colouration, occupy burrows in the slope. Moray eels inhabit crevices in the reef. The sea whips and soft corals along the slope support nudibranchs and other invertebrates.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter from the boat and descend to the steeply sloping reef on the western side of Caban Island. The current carries you along the slope -- let it do the work. The reef slopes steeply to around 22 meters, with the bottom at approximately 30 meters. Scan the slope for anglerfish and check burrows for blue ribbon eels as you drift. The niger triggerfish school may be encountered at any depth. Follow your guide's lead on depth and drift direction.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by boat from Anilao-area resorts. Enter by giant stride and descend to the slope. The drift carries you along the site. Deploy an SMB during your safety stop so the boat can track your position for pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Carry an SMB -- this is a drift dive and boat pickup depends on your surface marker
+- The niger triggerfish school is best appreciated by hovering in mid-water and letting them surround you
+- Look carefully along the bottom and on the slope for anglerfish -- they are superbly camouflaged
+- Blue ribbon eels are skittish; approach slowly and they may extend from their burrows for a better view
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+This is a current-assisted drift dive -- experience with drift diving technique is recommended. Stay with your group and guide. The steep slope can lead to unintentional depth increases, so monitor your depth gauge carefully. Carry an SMB, whistle, and other signalling devices. Brief with the boat crew on pickup procedures before entering the water.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+Caban Cove offers both wide-angle and macro opportunities. The tens of thousands of niger triggerfish create a dramatic wide-angle subject -- a fisheye or wide-angle lens captures the scale of the school. Giant anglerfish and blue ribbon eels are excellent macro subjects, though shooting macro while drifting requires experience. The soft corals and sea whips provide colourful reef-scape compositions. Consider which subject is your priority and set up accordingly.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1031). Last updated 2026-04-08.*

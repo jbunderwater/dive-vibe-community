@@ -11,57 +11,52 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Bethlehem
+# Bethlehem
 
-Bethlehem is a reef dive site in Philippines Anilao, Asia.
+A sandy slope off Bethlehem village in the channel between Maricaban and Caban Islands, with a small wall section and good nudibranch hunting -- a straightforward, shallow site suitable for beginners.
 
 ## Overview
 
-Bethlehem is a dive site in Philippines Anilao offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Bethlehem is a boat dive site located off Bethlehem village in the channel between Maricaban and Caban Islands. The bottom starts at around 3 meters and descends as a sandy slope with coral rubble, sponges, and featherstars to approximately 18 meters, where a small wall drops to 20 meters or more. The site is relatively shallow and uncomplicated, making it well-suited to less experienced divers while still offering the nudibranch and invertebrate diversity that Anilao is known for.
 
 ## Site Information
 
-- **Location**: Philippines Anilao, Asia
+- **Location**: Bethlehem village, between Maricaban and Caban Islands, Anilao, Batangas, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef dive (sandy slope with small wall)
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 10-20 meters
+- **Water Temperature**: 27-29°C
+- **Current**: Generally mild
+- **Best Time**: November to June (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The sandy slope and coral rubble at Bethlehem support a variety of nudibranchs -- multiple species can be found on a single dive by searching carefully through the rubble and sponges. Shrimps associated with fire urchins are a regular sighting and a popular macro photography subject. Featherstars dot the slope, many with commensal shrimps. The sponges and coral rubble provide habitat for small invertebrates. While not as critter-dense as some of Anilao's marquee sites, Bethlehem offers a reliable selection of macro subjects in an easy, relaxed setting.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter from the boat and descend onto the sandy slope, which begins at around 3 meters. Work down the slope through the sand, coral rubble, and sponge-covered areas, scanning for nudibranchs and invertebrates. At approximately 18 meters, a small wall drops to 20 meters or beyond. Explore the wall face for additional marine life before beginning your ascent back up the slope. The shallow depth profile allows for extended bottom times.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by boat from Anilao-area resorts. Enter by giant stride and descend onto the slope. Deploy an SMB during your safety stop for boat pickup.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- A good site for newer divers or for a relaxed, shallow dive between deeper sites
+- Search the fire urchins carefully for commensal shrimps -- they are well camouflaged but colourful
+- Move slowly through the rubble areas for the best nudibranch hunting
+- The shallow depth makes this an excellent site for long bottom times and extended photography sessions
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Bethlehem is a straightforward site with generally mild conditions and shallow depths. Be cautious around fire urchins -- their spines can deliver a painful sting. Maintain basic awareness of current conditions, though they are typically gentle at this site. Standard safety practices apply.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+Macro photography is the primary focus at Bethlehem. Nudibranchs across the rubble areas and shrimps on fire urchins are the key subjects. The relatively shallow, calm conditions make this a good site for newer underwater photographers to practice macro techniques. A 60mm or 100mm macro lens is appropriate. The fire urchin shrimps are tiny, so a supermacro diopter can be useful.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1105). Last updated 2026-04-08.*

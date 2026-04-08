@@ -11,56 +11,52 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Agahuta
+# Agahuta
 
-Agahuta is a reef dive site in Philippines Anilao, Asia.
+A sandy slope with old broken coral and live coral outcrops approximately 5 kilometres east-southeast of Buceo Anilao Resort, packed with critters from giant anglerfish to clouds of redtoothed triggerfish.
 
 ## Overview
 
-Agahuta is a dive site in Philippines Anilao offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Agahuta is a boat dive site located approximately 5 kilometres east-southeast of Buceo Anilao Resort, east of the Olympic Resort area. The bottom is a sandy slope with patches of old broken coral, live coral outcrops, and featherstars with associated commensal shrimps. The site descends to around 24 meters and is rich in both macro critter life and schooling fish. Giant anglerfish are a regular attraction, and the site hosts thousands of redtoothed triggerfish that form impressive aggregations in the water column above the reef.
 
 ## Site Information
 
-- **Location**: Philippines Anilao, Asia
+- **Location**: Anilao, Batangas, Philippines (5 km ESE of Buceo Anilao Resort)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef dive (sandy slope with coral outcrops)
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 24 meters
+- **Typical Visibility**: 10-20 meters
+- **Water Temperature**: 27-29°C
+- **Current**: Variable
+- **Best Time**: November to June (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Agahuta supports an outstanding diversity of marine life across multiple scales. Giant anglerfish are regularly encountered, sitting camouflaged among the coral debris. The site is notable for massive schools of thousands of redtoothed triggerfish that fill the water column. Dozens of nudibranch species can be found on a single dive. Clownfish occupy anemones on the coral outcrops. Moray eels and juvenile ribbon eels hide in crevices. Mantis shrimp burrow in the sandy areas, and hairy squat lobsters cling to barrel sponges. The featherstars harbour commensal shrimps that are prized macro photography subjects.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter from the boat and descend onto the sandy slope. The bottom is a mix of sand with old broken coral fragments, live coral outcrops, and featherstars. Work along the slope at depth, scanning for anglerfish on the bottom and looking up periodically to appreciate the schools of redtoothed triggerfish overhead. Check featherstars carefully for commensal shrimps. The productive range is from around 8 meters down to 24 meters. Move slowly -- the critter density rewards patience.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by boat from Anilao-area resorts, approximately 20-30 minutes depending on departure point. Enter by giant stride and descend to the site. Deploy an SMB during your safety stop for boat pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Look carefully at featherstars -- the commensal shrimps are tiny but beautifully coloured
+- Giant anglerfish are well camouflaged, so a guide who knows their current hiding spots is invaluable
+- Bring both macro and wide-angle if possible -- the triggerfish schools are a wide-angle subject while the critters demand macro
+- Check under coral overhangs for juvenile ribbon eels
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Currents can be variable at this site, so follow your guide's briefing on conditions. The sandy bottom can reduce visibility if divers have poor buoyancy control -- maintain good trim to avoid silt disturbance. The maximum depth of 24 meters is manageable for most certified divers, but plan gas management for adequate bottom time.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+Agahuta is a versatile photography site. Macro subjects are the primary draw -- giant anglerfish, nudibranchs (dozens of species), featherstar shrimps, hairy squat lobsters, and juvenile ribbon eels. The thousands of redtoothed triggerfish provide an impressive wide-angle subject that is unusual for Anilao. A 60mm or 100mm macro lens handles most subjects, but consider a wide-angle option for the triggerfish schools if conditions allow.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1044). Last updated 2026-04-08.*

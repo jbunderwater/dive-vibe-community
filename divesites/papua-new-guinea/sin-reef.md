@@ -11,56 +11,48 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Sin Reef
+# Sin Reef
 
-Sin Reef is a reef dive site in Papua New Guinea, Pacific.
+A figure-8 shaped reef in Ataliklikum Bay featuring the biggest barrel sponge the author has ever seen -- large enough for a diver to fit inside -- plus gorgonias, sea whips, barracuda, and turtles.
 
 ## Overview
 
-Sin Reef is a dive site in Papua New Guinea offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Sin Reef is a figure-8 shaped reef formation located in Ataliklikum Bay, approximately 2 kilometres from Kabaira Resort near Rabaul. The reef top sits at 8-9 meters, while the southeast side drops more than 35 meters. The site's most remarkable feature is what the experienced dive writer Michael McFadyen describes as the biggest barrel sponge he has ever seen -- so large that a diver can fit inside it. Gorgonian sea fans, sea whips, and the usual diversity of Rabaul reef life complete the picture. Barracuda, turtles, and nudibranchs are regularly encountered. Visibility ranges from 20 to 25 meters. The shallow reef top makes this suitable for less experienced divers, while the deeper southeast wall provides more advanced exploration.
 
 ## Site Information
 
-- **Location**: Papua New Guinea, Pacific
+- **Location**: Ataliklikum Bay, 2 km from Kabaira Resort, Rabaul, East New Britain Province, Papua New Guinea
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Site Type**: Coral reef (figure-8 formation)
+- **Difficulty Level**: Beginner to Intermediate
+- **Maximum Depth**: 35+ meters (SE side)
+- **Typical Visibility**: 20-25 meters
+- **Current**: Mild
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+The enormous barrel sponge is the site's signature feature. Gorgonian sea fans and sea whips adorn the reef structure, particularly on the deeper southeast side. Barracuda patrol the water column. Turtles are regularly seen resting on the reef or cruising past. Nudibranchs are found on the reef surfaces, rewarding careful observation. The reef top at 8-9 meters supports healthy hard corals and the usual tropical reef community.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef top at 8-9 meters. The figure-8 shape provides two distinct reef areas connected by a narrow saddle. Explore the reef top for the barrel sponges -- the enormous specimen is the must-see feature. For more advanced exploration, follow the southeast side down where it drops past 35 meters, with gorgonias and sea whips increasing in density as you go deeper. The reef top is shallow enough for an extended safety stop among the hard corals. The figure-8 layout provides natural navigation -- follow one loop, cross the saddle, and explore the second loop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from Kabaira Resort, approximately 2 kilometres away. Entry is by giant stride. The sheltered bay location typically provides calm surface conditions. Surface near the reef top for boat pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Find the giant barrel sponge and photograph it with a diver for scale -- it is the defining feature of this site
+- The shallow reef top (8-9 meters) provides generous bottom time for photography
+- Search the reef surfaces and gorgonias carefully for nudibranchs
+- The figure-8 shape makes natural navigation easy -- follow the reef contour around each loop
+- Beginners can enjoy the shallow reef top while more experienced divers explore the deeper SE wall
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+The shallow reef top makes this a forgiving dive for less experienced divers. The southeast side drops to 35+ meters and requires depth awareness if you venture deeper. Current is generally mild in the sheltered bay. Standard safety procedures apply -- carry an SMB and plan your dive conservatively.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=713). Last updated 2026-04-08.*

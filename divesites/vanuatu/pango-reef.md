@@ -11,57 +11,48 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Pango Reef
+# Pango Reef
 
-Pango Reef is a reef dive site in Vanuatu, Pacific.
+A reef dive near Pango Point past Ifira Island, adjacent to the MV Semle Federsen wreck. East-west running gutters cut through the reef from 6 meters to 30-35 meters, with anemone gardens, banded sea snakes, and prolific invertebrate life.
 
 ## Overview
 
-Pango Reef is a dive site in Vanuatu offering excellent diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Pango Reef sits near Pango Point, past Ifira Island on the southern side of Port Vila harbour. The reef is characterised by a series of east-west running gutters that begin at around 6 meters depth and extend out to the reef edge at 30-35 meters. The adjacent wreck of the MV Semle Federsen adds interest to the area, though the reef itself is the primary attraction.
+
+Visibility at this site is more variable than other Port Vila dives, typically ranging from 7-15 meters depending on tidal conditions and recent weather. Despite the lower visibility, the site compensates with dense invertebrate populations -- anemones packed with clownfish and transparent commensal shrimp, colourful starfish, nudibranchs, and regular sightings of banded sea snakes gliding through the gutters.
 
 ## Site Information
 
-- **Location**: Vanuatu, Pacific
+- **Location**: Near Pango Point, past Ifira Island, Efate, Vanuatu
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
+- **Maximum Depth**: 35 meters
+- **Typical Visibility**: 7-15 meters
+- **Current**: Generally mild
 - **Best Time**: April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+The reef gutters host large anemone colonies with resident clownfish and transparent shrimp that are excellent macro photography subjects. Starfish and nudibranchs are found on the gutter walls. Banded sea snakes (Laticauda colubrina) are regularly encountered as they hunt through the reef structure -- they are venomous but docile and not aggressive toward divers. The adjacent MV Semle Federsen wreck attracts additional fish life to the area.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Drop into the shallows at 6 meters where the gutter system begins. Follow the gutters as they deepen toward the reef edge at 30-35 meters, checking the walls for nudibranchs and the sandy patches for starfish. The anemone gardens are scattered throughout the mid-depth range. Return to the shallows along a parallel gutter for the safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from Port Vila operators. The site is a short boat ride from the harbour. Entry by giant stride into relatively sheltered water.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Bring a macro lens -- the anemones with transparent shrimp and the nudibranchs are the stars of this site
+- Visibility is lower than other Efate sites, so a torch is useful for illuminating colours in the gutters
+- The banded sea snakes are photogenic but give them space; do not attempt to handle them
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+The lower visibility means maintaining good buddy contact is important. Currents are generally mild. The sea snakes are not aggressive but should not be cornered or touched. The maximum depth at the reef edge reaches 35 meters, so monitor depth carefully in the gutters as they slope outward.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info). Last updated 2026-04-08.*

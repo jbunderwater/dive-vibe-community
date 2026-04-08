@@ -11,56 +11,48 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Wonder World
+# Wonder World
 
-Wonder World is a reef dive site in Papua New Guinea, Pacific.
+Hundreds of garden eels, coral bommies, gorgonias, and eagle rays on the north shore of Ataliklikum Bay, with a wall dropping past 30 meters in current.
 
 ## Overview
 
-Wonder World is a dive site in Papua New Guinea offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Wonder World is located 2.3 kilometres from Kabaira Resort on the north shore of Ataliklikum Bay near Rabaul. The site features a sandy bottom populated by hundreds of garden eels, interspersed with coral bommies adorned with sponges and gorgonian sea fans. Eagle rays, snapper, and octopus are regularly encountered. A wall drops past 30 meters on one side of the site, where current is often present. Visibility ranges from 20 to 25 meters. The combination of the mesmerising garden eel colony, varied reef topography, and the deeper wall gives this site a range of interest that justifies its ambitious name.
 
 ## Site Information
 
-- **Location**: Papua New Guinea, Pacific
+- **Location**: North shore of Ataliklikum Bay, 2.3 km from Kabaira Resort, Rabaul, East New Britain Province
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef with wall
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 35 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Maximum Depth**: 35 meters (wall drops 30+ meters)
+- **Typical Visibility**: 20-25 meters
+- **Current**: Mild on reef, moderate on wall
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Hundreds of garden eels create a swaying meadow on the sandy bottom -- the signature feature of this dive. The eels retract into their burrows as divers approach, so a slow, patient approach is rewarded with closer views. Coral bommies scattered through the area support sponges, gorgonias, and typical reef species. Eagle rays pass over the sand flats. Snapper school around the bommies. Octopus are found hunting among the coral heads. Along the wall, the current attracts additional pelagic visitors.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 35 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin in the shallower bommie area where the garden eels are concentrated. Approach the eel colony slowly -- they are sensitive to vibration and will retreat into the sand if rushed. Spend time among the coral bommies, checking for octopus and exploring the sponge and gorgonia growth. When ready, move toward the wall where depth increases past 30 meters and current is typically present. The wall section adds a more dynamic element to the dive. Return to the shallower bommie area for your safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from Kabaira Resort, 2.3 kilometres away. Entry is by giant stride. The bay location provides generally calm surface conditions. Surface in the shallower area for boat pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Approach the garden eels slowly and low to the bottom -- sudden movements cause mass retreat into their burrows
+- A macro lens captures individual garden eel portraits; a wide-angle captures the colony effect
+- Check under coral bommie ledges for octopus -- they are masters of camouflage
+- Be aware that the wall section introduces current -- gauge your comfort before committing to the deeper area
+- Eagle rays are most commonly seen cruising over the sand flats between bommies
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+The shallower bommie area is straightforward for intermediate divers. The wall section introduces current and greater depth (30+ meters), requiring awareness and gas management. Transition between the two areas carefully. Carry an SMB, particularly if the current may carry you away from the planned exit point.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=712). Last updated 2026-04-08.*

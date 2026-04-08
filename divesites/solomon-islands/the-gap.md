@@ -11,56 +11,46 @@ osmId: null
 addedBy: osm_import
 ---
 
-## The Gap
+# The Gap
 
-The Gap is a reef dive site in Solomon Islands, Pacific.
+The main entrance to Gizo Harbour at the southeast corner of Ghizo Island -- a wall dive decorated with huge gorgonian sea fans and basket sponges, with thousands of garden eels on the sandy bottom. Eagle rays, grey reef sharks, barracuda, tuna, and trevally patrol the channel, and visibility regularly exceeds 30 metres.
 
 ## Overview
 
-The Gap is a dive site in Solomon Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The Gap is the main passage into Gizo Harbour, located at the southeast corner of Ghizo Island. The channel walls create a natural funnel for current, which supports an impressive diversity and density of marine life. The walls are adorned with huge gorgonian sea fans and basket sponges, while the sandy bottom is home to large colonies of garden eels -- thousands of them waving in the current.
+
+The reef top sits at approximately 9 metres, dropping away steeply into the channel. Visibility regularly exceeds 30 metres, making this one of the clearest dive sites in the Gizo area. The passage attracts pelagic visitors -- eagle rays, grey reef sharks, barracuda, tuna, and trevally all move through the channel.
 
 ## Site Information
 
-- **Location**: Solomon Islands, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Location**: SE corner of Ghizo Island, main entrance to Gizo Harbour
+- **Entry Type**: Boat dive from Gizo
+- **Site Type**: Wall dive / channel
+- **Difficulty Level**: Intermediate to Advanced
+- **Maximum Depth**: 25 metres
+- **Typical Visibility**: 30+ metres
+- **Water Temperature**: 27-28°C
+- **Current**: Can be strong through the channel
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+The garden eel colonies on the sandy bottom are spectacular -- thousands of eels extending from their burrows, retracting as divers approach. Eagle rays are regularly sighted cruising through the channel. Grey reef sharks patrol the deeper water. Barracuda, tuna, and trevally move through the gap, especially when current is running. The walls support huge gorgonian sea fans and basket sponges that thrive in the current-fed waters.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Descend to the reef top at approximately 9 metres, then drop down the wall to explore the gorgonians and basket sponges. Work along the channel wall, scanning the blue water for eagle rays, sharks, and pelagic schools. At the base of the wall, the sandy bottom hosts the garden eel colonies -- approach slowly and low to get the best views before they retract. The reef top at 9 metres provides an excellent safety stop area with plenty to see. Current direction determines whether you drift through the gap or hold position on the wall.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The garden eel colonies are easily spooked -- approach low and slow, and stop moving when you are within viewing distance
+- The huge gorgonians on the walls make excellent wide-angle subjects, especially with a diver for scale
+- Eagle rays often pass through mid-water -- keep one eye on the blue throughout the dive
+- Current can be strong in the channel; discuss conditions with your operator and plan the dive direction accordingly
+- The 30+ metre visibility makes this a superb photography site in almost any conditions
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+Current through the channel can be significant, particularly on tidal changes. The passage acts as a funnel that accelerates flow. Discuss current conditions with your operator before entering the water. Carry an SMB in case current carries you away from the planned exit point. The wall drops away steeply -- monitor depth when focused on the gorgonians and marine life on the wall face. The reef top at 9 metres provides a safe area to wait out current if needed.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=396). Last updated 2026-04-08.*

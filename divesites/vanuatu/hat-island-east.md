@@ -11,56 +11,49 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Hat Island East
+# Hat Island East
 
-Hat Island East is a reef dive site in Vanuatu, Pacific.
+A lush coral reef on the eastern side of Eretoka (Hat Island) in Port Havannah, featuring coral bommies rising from sand, reef fingers extending into deeper water, and some of the largest gorgonian sea fans in Vanuatu.
 
 ## Overview
 
-Hat Island East is a dive site in Vanuatu offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Hat Island East lies on the sheltered eastern side of Eretoka, the small cone-shaped island in Port Havannah that early sailors nicknamed "Hat Island" for its distinctive profile. The dive site begins over a sandy bottom at around 8 meters, dotted with coral bommies that give way to a series of reef fingers running out to 18-27 meters. Beyond the fingers, the reef slopes away to a maximum depth of approximately 36 meters.
+
+The defining feature of this site is the gorgonian sea fans -- some specimens exceed two meters across -- along with forests of sea whips that sway in the mild current. The combination of healthy hard coral growth, large soft coral formations, and consistently warm water (around 26 degrees C) makes this one of the more rewarding reef dives accessible from Port Vila or Havannah Harbour.
 
 ## Site Information
 
-- **Location**: Vanuatu, Pacific
+- **Location**: Port Havannah, Efate, Vanuatu
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 36 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
+- **Typical Visibility**: ~20 meters
+- **Water Temperature**: ~26 degrees C
+- **Current**: Generally mild
 - **Best Time**: April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+The reef fingers and bommies host anemones with resident clownfish, schools of bannerfish, and Moorish idols picking at the coral. Humphead wrasse patrol the deeper reef edge, and tuna occasionally pass through the blue water beyond the fingers. The gorgonian fans and sea whips harbour small crustaceans and nudibranchs for those who look closely.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 36 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The dive typically begins with a descent to the sandy bottom at 8 meters among scattered coral bommies. From here, swim outward along the reef fingers as they descend to 18-27 meters, where the largest gorgonians are found. The deepest sections reach approximately 36 meters at the outer reef edge. Work your way back to the shallower bommies for your safety stop, where the coral growth and fish life remain excellent in the 5-10 meter range.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from Port Vila or Havannah Harbour operators. Entry is by giant stride. The site is relatively sheltered on the eastern lee of the island, so surface conditions are typically calm.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Bring a wide-angle lens to capture the oversized gorgonians -- they are among the largest in Vanuatu
+- The reef fingers provide natural navigation -- swim out along one finger and return along the next
+- Morning dives often have the best visibility and light penetration on this east-facing site
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+The maximum depth of 36 meters limits bottom time on air. Plan gas management carefully and allow adequate reserves for ascent and safety stop. Currents are generally mild but monitor conditions throughout the dive.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info). Last updated 2026-04-08.*

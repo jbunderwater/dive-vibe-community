@@ -11,56 +11,46 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Grand Central Station
+# Grand Central Station
 
-Grand Central Station is a reef dive site in Solomon Islands, Pacific.
+The signature reef dive of the Gizo area, located west-northwest of the Toa Maru wreck. Named for the sheer volume of marine life that passes through, this site comes alive in strong current when whitetip and grey reef sharks, barracuda, giant sweetlips, and clown and titan triggerfish all converge on the reef.
 
 ## Overview
 
-Grand Central Station is a dive site in Solomon Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Grand Central Station earns its name from the volume and variety of marine life that congregates here, particularly when the current is running. Located WNW of the Toa Maru wreck site, this reef is considered the signature reef dive of the Gizo area. The site reaches depths of 30-35 metres and is best experienced when strong current is flowing, which concentrates predators and schooling fish along the reef.
+
+Whitetip and grey reef sharks are the headline attractions, but the supporting cast is equally impressive -- schools of barracuda sweep through, giant sweetlips hold station in the current, and both clown and titan triggerfish work the reef surface. The combination of current-driven action and species diversity makes this one of the most reliably exciting reef dives in the Western Province.
 
 ## Site Information
 
-- **Location**: Solomon Islands, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Location**: WNW of Toa Maru wreck, near Gizo, Western Province
+- **Entry Type**: Boat dive from Gizo
+- **Site Type**: Current-swept reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Maximum Depth**: 30-35 metres
+- **Typical Visibility**: 15-30 metres
+- **Water Temperature**: 27-28°C
+- **Current**: Best with strong current; variable
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Whitetip reef sharks and grey reef sharks are regularly present, especially when current is flowing. Barracuda schools patrol the mid-water. Giant sweetlips hold position in sheltered areas of the reef. Clown triggerfish and titan triggerfish are found along the reef structure. The current brings nutrients that support a rich food chain from small reef fish to apex predators.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Descend to the reef and position yourself to observe the passing marine life. In strong current, find a sheltered spot or use the reef structure to reduce your exposure while watching the sharks and barracuda work the current. The reef features at 30-35 metres hold the largest concentrations of fish life. Work shallower as the dive progresses, exploring the reef structure where triggerfish and sweetlips are found. The reef top provides a good safety stop area.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- This dive is at its absolute best in strong current -- ask your operator to time it for maximum flow
+- In calm conditions, the marine life disperses and the experience is significantly less impressive
+- Carry a reef hook if current is strong so you can hold position and observe without exhausting yourself
+- Wide-angle photography is essential here -- the action is in the schools and sharks, not the macro life
+- Combine with a dive on the nearby Toa Maru wreck for a varied dive day
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+Strong current is part of the appeal but demands respect. Carry an SMB and be prepared for a mid-water safety stop if current carries you off the reef. Stay close to the reef structure for shelter from the strongest flow. Titan triggerfish can be aggressive when nesting -- maintain distance from obvious nesting areas on the reef. The 30-35 metre depth requires good gas management, especially when exertion from current increases air consumption.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=395). Last updated 2026-04-08.*

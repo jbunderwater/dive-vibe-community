@@ -11,56 +11,52 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Aphols Point
+# Aphols Point
 
-Aphols Point is a reef dive site in Philippines Anilao, Asia.
+A critter-rich site on Maricaban Island approximately 3 kilometres south of Buceo Anilao, with a sandy bottom strewn with coral debris, boulders, barrel sponges, and featherstars -- home to pygmy seahorses, harlequin shrimps, and anglerfish.
 
 ## Overview
 
-Aphols Point is a dive site in Philippines Anilao offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Aphols Point is located on Maricaban Island, approximately 3 kilometres south of Buceo Anilao. The site features a sandy bottom with coral debris, scattered boulders, barrel sponges, featherstars, and sea whips. The terrain creates diverse microhabitats that support an exceptional range of critter life, from pygmy seahorses clinging to gorgonia fans to harlequin shrimps hiding under rocks. The maximum depth is around 24 meters. The combination of substrate types makes this one of Anilao's best all-round critter diving sites.
 
 ## Site Information
 
-- **Location**: Philippines Anilao, Asia
+- **Location**: Maricaban Island, Anilao, Batangas, Philippines (3 km S of Buceo Anilao)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef dive (sandy bottom with coral debris and boulders)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 10-20 meters
+- **Water Temperature**: 27-29°C
+- **Current**: Variable
+- **Best Time**: November to June (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Aphols Point is a critter hunter's paradise. Pygmy seahorses have been found on gorgonia fans here -- tiny, well-camouflaged, and a highlight for any diver lucky enough to spot them. Harlequin shrimps hide under rocks and coral debris. White anglerfish sit motionless on sponges or rubble. Banded sea snakes are occasionally encountered hunting among the rocks. Orangutan crabs cling to bubble corals. Spotted stingrays rest on the sandy bottom. Lionfish perch on coral outcrops. The funeral jorunna nudibranch -- a distinctive black and white species -- is among the many nudibranch species found at this site. Featherstars harbour commensal shrimps, and sea whips support associated gobies.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 24 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter from the boat and descend to the sandy bottom. Work along the site examining the varied terrain -- boulders, coral debris patches, barrel sponges, featherstars, and sea whips. Check gorgonia fans carefully for pygmy seahorses. Look under rocks and coral rubble for harlequin shrimps. Scan the sand for spotted stingrays and the rubble for anglerfish. The productive depth range is from around 8 to 24 meters. Move slowly and methodically to maximize critter sightings.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by boat from Anilao-area resorts, approximately 15-20 minutes to Maricaban Island. Enter by giant stride and descend to the site. Deploy an SMB during your safety stop for boat pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Ask your guide about current pygmy seahorse locations on the gorgonias -- they tend to stay in the same area for extended periods
+- Check under every rock and coral overhang for harlequin shrimps
+- Banded sea snakes are not aggressive but give them space -- they need to surface to breathe
+- A slow, careful dive will yield far more sightings than trying to cover the whole site
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Currents can be variable around Maricaban Island -- follow your guide's briefing on conditions. Be mindful of banded sea snakes; while they are generally docile, they are venomous and should not be handled or cornered. Maintain good buoyancy control to avoid disturbing the sandy bottom and reducing visibility.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+Aphols Point offers world-class macro photography. Pygmy seahorses on gorgonias are the ultimate prize -- a supermacro diopter and patience are required. Harlequin shrimps, white anglerfish, funeral jorunna nudibranchs, and orangutan crabs are all excellent subjects. A 60mm or 100mm macro lens covers most subjects. The variety of critters means you can fill an entire dive's worth of frames without moving far. A good focus light is essential for finding and illuminating subjects.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1045). Last updated 2026-04-08.*
