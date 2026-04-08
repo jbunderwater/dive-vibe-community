@@ -11,57 +11,42 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Hundred Thousand Dollar Point
+# Hundred Thousand Dollar Point
 
-Hundred Thousand Dollar Point is a historic wreck dive in Solomon Islands, Pacific.
+A WWII surplus military equipment dump on the northern end of Tulagi island, where Allied forces disposed of vehicles, machinery, and supplies rather than ship them home after the war. At least six trucks and jeeps, large engines, wheels, pontoons, and thousands of Coca-Cola bottles lie scattered along 200 metres of shoreline out to 30-35 metres depth.
 
 ## Overview
 
-Hundred Thousand Dollar Point is a dive site in Solomon Islands featuring the wreck of the Hundred Thousand Dollar Point. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+At the end of WWII, the cost of shipping surplus military equipment back to the United States was deemed too high. At the northern end of Tulagi, vast quantities of vehicles, machinery, and supplies were simply driven or pushed into the sea. The site takes its name from the estimated value of the dumped equipment.
+
+Today the seabed along approximately 200 metres of shoreline is littered with military artefacts. At least six trucks and jeeps are identifiable among the debris, along with large engines, wheels, pontoon sections, and miscellaneous military hardware. Thousands of Coca-Cola bottles -- the iconic refreshment of the US military -- are scattered among the larger items, many still intact. The debris field extends from the shore out to depths of 30-35 metres.
 
 ## Site Information
 
-- **Location**: Solomon Islands, Pacific
-- **Entry Type**: Shore entry
-- **Site Type**: Wreck dive
+- **Location**: Northern end of Tulagi, Florida Islands, Solomon Islands
+- **Entry Type**: Shore dive
+- **Site Type**: Wreck/debris field (WWII military surplus dump)
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 35 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
-
-## Marine Life
-
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+- **Maximum Depth**: 35 metres
+- **Typical Visibility**: 15-30 metres
+- **Water Temperature**: 27-28°C
+- **Current**: Generally mild close to shore
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 35 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Enter from the shore at the northern end of Tulagi. The debris field begins in shallow water and extends along approximately 200 metres of coastline, gradually deepening to 30-35 metres. Work your way along the shore, identifying the trucks, jeeps, engines, and other military hardware among the coral-encrusted debris. The Coca-Cola bottles are everywhere -- look carefully among the larger items. The deeper areas at 30-35 metres tend to have less-disturbed items. Choose a section to focus on based on your depth certification, as the full debris field is too extensive to cover in a single dive.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- The sheer quantity and variety of items means you will see something different on every dive -- multiple dives are rewarding
+- The Coca-Cola bottles are an iconic feature and make excellent photographic subjects
+- The trucks and jeeps are the largest items -- ask local operators for the best route to find them
+- A torch helps illuminate items that have settled into crevices or are heavily encrusted
+- The shallow end of the debris field (near shore) is suitable for less experienced divers; the deeper sections at 30-35 metres require more experience
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+Do not remove any artefacts -- this is a historically significant site. Rusted metal and sharp debris edges are present throughout the site. Maintain good buoyancy to avoid cuts and snagging on protruding metal. The deeper sections at 30-35 metres require appropriate certification and gas management. Some items may be unstable -- do not climb on or move any vehicles or heavy equipment.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=388). Last updated 2026-04-08.*

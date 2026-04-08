@@ -11,56 +11,48 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Harrys Step Up
+# Harrys Step Up
 
-Harrys Step Up is a reef dive site in Papua New Guinea, Pacific.
+A two-part reef dive starting on Harrys Sunken Reef then crossing a channel to the main reef -- hundreds of gorgonias including specimens over 4 meters wide, huge barrel sponges, and sharks. Rated by the author as among the best coral reef dives he has ever done.
 
 ## Overview
 
-Harrys Step Up is a dive site in Papua New Guinea offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Harrys Step Up is a two-part dive in the Rabaul area of East New Britain Province that the experienced dive writer Michael McFadyen rated among the best coral reef dives he has ever done anywhere in the world. The dive begins on Harrys Sunken Reef at approximately 22 meters, then crosses a channel to the main reef. The site is distinguished by hundreds of gorgonian sea fans, some exceeding 4 meters in width, along with huge barrel sponges that rank among the largest in the region. Reef sharks, barracuda, trevally, clown triggerfish, and turtles are commonly encountered. Visibility is typically around 25 meters.
 
 ## Site Information
 
-- **Location**: Papua New Guinea, Pacific
+- **Location**: Rabaul, East New Britain Province, Papua New Guinea
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral reef (two-part reef system)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 25 meters
+- **Current**: Mild to moderate
+- **Best Time**: Year-round; calmest conditions April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+The site supports exceptional marine life diversity. Hundreds of gorgonian sea fans blanket the reef, with some individual specimens spanning more than 4 meters across -- among the largest encountered anywhere. Huge barrel sponges anchor to the reef structure. Reef sharks patrol the channel between the two reef sections. Schools of barracuda and trevally move through the water column. Clown triggerfish, turtles, and the full complement of Rabaul reef species complete the picture. The sheer density and scale of the gorgonias are the primary attraction.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 40 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The dive has two distinct phases. Begin on Harrys Sunken Reef at approximately 22 meters, exploring the gorgonia-covered reef structure. When ready, cross the channel to the main reef -- the "step up" that gives the site its name. The main reef rises to shallower depths, allowing you to ascend naturally through the dive. Throughout both sections, the gorgonias are the stars -- their size and density are remarkable. Barrel sponges punctuate the reef. Keep one eye on the blue water for sharks, barracuda, and trevally passing through.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from Rabaul-based operators. Entry is by giant stride. Descend to Harrys Sunken Reef, cross to the main reef, and ascend gradually. Surface on the main reef for safety stop and boat pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Take a wide-angle lens -- the gorgonias exceeding 4 meters wide are the photographic highlight
+- Cross the channel with your guide to ensure you find the best path between the reef sections
+- Look carefully into the gorgonias for pygmy seahorses and other small residents
+- The barrel sponges make excellent foreground subjects for wide-angle reef shots
+- Allow plenty of air for the crossing and second reef section -- it is easy to use more air than planned on such a spectacular site
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+The channel crossing between the two reef sections requires awareness of your depth and current exposure. The maximum depth reaches 40 meters in the channel area, so gas management is important. Stay with your guide during the crossing. Current is generally manageable but can increase unexpectedly. Carry an SMB for safety stops.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=708). Last updated 2026-04-08.*
