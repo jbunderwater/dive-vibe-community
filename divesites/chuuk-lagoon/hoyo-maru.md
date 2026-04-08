@@ -11,57 +11,55 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Hoyo Maru
+# Hoyo Maru
 
-Hoyo Maru is a historic wreck dive in Chuuk Lagoon, Pacific.
+An 8,629-ton oil tanker lying upside down in two sections -- her hull visible from the surface at just 3 to 4 meters, with a large four-bladed propeller and accessible oil tank interiors.
 
 ## Overview
 
-Hoyo Maru is a dive site in Chuuk Lagoon featuring the wreck of the Hoyo Maru. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The Hoyo Maru was an 8,629-ton oil tanker, 143 meters long, that sank during the American attacks on Truk Lagoon in February 1944. Unlike most wrecks in Chuuk that rest upright or on their sides, the Hoyo Maru lies completely upside down on the lagoon floor, broken into two separate sections. The inverted hull is so shallow that it is visible from the surface at just 3 to 4 meters below the waterline.
+
+The wreck's inverted orientation creates a unique diving experience. The large four-bladed propeller is one of the most accessible and photogenic features, and the oil tanks can actually be entered by divers. The maximum depth is 36 meters on the lagoon floor beside the hull, though much of the dive takes place on the hull itself at significantly shallower depths. Visibility is typically 10 to 15 meters -- lower than many Chuuk wrecks, likely influenced by the shallow position and the oil still seeping from the wreck.
 
 ## Site Information
 
-- **Location**: Chuuk Lagoon, Pacific
+- **Location**: Chuuk Lagoon, Chuuk State, Micronesia
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 36 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 10-15 meters (33-50 feet)
+- **Current**: Generally mild inside the lagoon
+- **Best Time**: Year-round; December to April offers calmest conditions
 
 ## Marine Life
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Hoyo Maru's inverted hull creates extensive hard surface area near the surface that supports prolific coral growth. Hard corals, sea fans, and encrusting sponges cover the exposed hull plates in the well-lit shallows. The gap between the two broken sections and the spaces around the hull edges shelter schools of reef fish. Lionfish occupy the shadowed underside of hull sections. The sandy bottom beside the wreck supports anemones and small bottom-dwelling species.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 36 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The dive begins at the hull, which is visible from the surface at 3 to 4 meters. The inverted orientation means divers swim along the bottom of the ship, which is now the uppermost surface. The two sections of the wreck can be explored separately. The large four-bladed propeller at the stern section is a highlight and primary photo stop. The oil tanks can be entered -- their interiors are cavernous spaces accessed through openings in the hull plates. The maximum depth of 36 meters is found on the lagoon floor beside the hull. Most of the dive takes place at shallower depths along the hull itself, allowing generous bottom times.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from Weno-based operators. The wreck's hull is visible from the surface, making it easy to locate. Entry is by giant stride directly above the wreck. The shallow starting depth allows a gradual descent along the hull. Surface near the boat. The sheltered lagoon location means surface conditions are typically calm.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- The four-bladed propeller is the signature feature -- allocate time for photography here
+- Entering the oil tanks is a unique experience but constitutes overhead environment diving -- proper training and equipment are essential
+- The shallow hull (3-4 meters) makes an excellent extended safety stop area with interesting wreck structure to explore
+- Visibility is lower than typical Chuuk standards (10-15 meters) -- plan compositions accordingly and carry a torch
+- The two separated sections each deserve exploration -- plan your dive to cover both
+- An excellent second dive of the day given the shallow starting depth and generous bottom times
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The Hoyo Maru's inverted position creates unusual diving conditions. The oil tanks, while accessible, are overhead environments that require wreck penetration training, redundant lights, and careful awareness of exits. Oil residue from the tanks may be present -- avoid contact with skin and equipment where possible. The lower visibility (10-15 meters) compared to other Chuuk wrecks requires closer attention to buddy contact and navigation. The wreck is a war grave -- removing any artifacts is strictly illegal under Chuuk State law. While the hull is shallow, the lagoon floor beside the wreck reaches 36 meters -- monitor depth carefully when descending below the hull edges.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+The Hoyo Maru's inverted orientation provides photographic opportunities unlike any other wreck in Chuuk. The four-bladed propeller is a striking subject, accessible enough for careful composition. Wide-angle shots along the inverted hull create disorienting, dramatic images. The entrance points to the oil tanks frame interior shots with light coming through the hull openings. The lower visibility (10-15 meters) means tighter compositions work better than distant wide-angle shots. The shallow hull sections at 3-4 meters receive excellent ambient light for natural-light photography.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=233). Last updated 2026-04-08.*

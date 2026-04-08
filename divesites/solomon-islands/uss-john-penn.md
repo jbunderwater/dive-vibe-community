@@ -11,57 +11,42 @@ osmId: null
 addedBy: osm_import
 ---
 
-## USS John Penn
+# USS John Penn
 
-USS John Penn is a historic wreck dive in Solomon Islands, Pacific.
+The wreck of a US Naval Transport (AP-51, formerly the SS Excambion) torpedoed off Lunga Point on 13 August 1943 by Japanese torpedo bombers. The ship broke into two major sections now separated by approximately 400 metres on the seabed -- a deep, challenging dive with extraordinary historical features including a Japanese Kate aircraft wreck at the main hull.
 
 ## Overview
 
-USS John Penn is a dive site in Solomon Islands featuring a historic wreck. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+On 13 August 1943, the USS John Penn was attacked by Japanese torpedo bombers off Lunga Point, Guadalcanal. The ship sank and now lies in two pieces on the seabed. The main section rests on its starboard side with the shallowest point at approximately 36 metres. The bridge, holds, forward gun, and derricks are identifiable features on the main wreck. At the junction of the deck and bridge structure, at approximately 60 metres depth, lies the wreck of a Japanese Nakajima B5N "Kate" torpedo bomber -- likely the aircraft that delivered the fatal torpedo.
+
+Approximately 20 metres away from the main wreck, a military Jeep sits upright on the sand -- one of the more surreal sights on any Solomon Islands wreck dive. The stern section with its propeller lies roughly 400 metres from the main hull at approximately 72 metres depth.
 
 ## Site Information
 
-- **Location**: Solomon Islands, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Location**: Off Lunga Point, Guadalcanal, Solomon Islands
+- **Entry Type**: Boat dive from Honiara
+- **Site Type**: Wreck dive (WWII naval transport)
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 56 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
-
-## Marine Life
-
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+- **Maximum Depth**: 56 metres (main section); stern at ~72 metres
+- **Typical Visibility**: 15-30 metres
+- **Water Temperature**: 27-28°C
+- **Current**: Variable; can be moderate
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 56 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Most dives focus on the main hull section, with the shallowest point at around 36 metres. Descend to the wreck and explore the bridge area, forward gun, holds, and derrick structures. The Japanese Kate aircraft wreck at the deck/bridge junction sits at approximately 60 metres -- reaching it requires technical diving certification and appropriate gas mixes. The upright Jeep on the sand approximately 20 metres from the main hull is worth seeking out. The separated stern section with its propeller at around 72 metres depth is a separate dive entirely and strictly for experienced technical divers.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- This is a deep dive even at the shallowest point (36 metres) -- it demands advanced certification and careful gas planning
+- The Japanese Kate torpedo bomber at the wreck is an extraordinary find; discuss its location with your dive guide during the briefing
+- The upright Jeep on the sand nearby is easy to miss without guidance -- ask your operator for its bearing from the main hull
+- Nitrox or trimix is strongly recommended given the depths involved
+- Multiple dives are needed to fully explore the main section, the Kate wreck, and the Jeep
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+This is a war grave -- do not disturb or remove any artefacts. The minimum depth of 36 metres on the main section means all diving here is deep. Bottom time on air is extremely limited at these depths. The Kate wreck at 60 metres and the stern at 72 metres are beyond recreational limits and require technical diving training, equipment, and gas planning. Decompression stops are mandatory for most dive profiles on this wreck. Strong currents are possible off Lunga Point -- carry an SMB and be prepared for mid-water ascents away from the wreck.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=378). Last updated 2026-04-08.*

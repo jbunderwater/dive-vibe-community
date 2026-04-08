@@ -11,57 +11,55 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Fujisan Maru
+# Fujisan Maru
 
-Fujisan Maru is a historic wreck dive in Chuuk Lagoon, Pacific.
+A 9,527-ton oil tanker discovered in 1976 from an oil slick spotted by Air Micronesia pilots -- an excellent deep wreck that sees few divers and rewards those who make the effort with outstanding visibility.
 
 ## Overview
 
-Fujisan Maru is a dive site in Chuuk Lagoon featuring the wreck of the Fujisan Maru. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The Fujisan Maru was a 9,527-ton oil tanker that sank during the American attacks on Truk Lagoon. The wreck remained undiscovered for over three decades until 1976, when Air Micronesia pilots spotted an oil slick on the lagoon surface emanating from the wreck below. She lies on the lagoon floor at 58 meters, listing approximately 30 degrees to port, with the bridge at 38 meters.
+
+As one of the less frequently dived wrecks in Chuuk, the Fujisan Maru offers an experience largely free of other dive groups. Visibility on this wreck is nearly always excellent, consistently 30 meters or more. The combination of a large, relatively intact tanker, superb water clarity, and solitude makes the Fujisan Maru one of the lagoon's hidden gems for divers with the training and experience to reach her depth.
 
 ## Site Information
 
-- **Location**: Chuuk Lagoon, Pacific
+- **Location**: Chuuk Lagoon, Chuuk State, Micronesia
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 58 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 30+ meters (100+ feet)
+- **Current**: Generally mild inside the lagoon
+- **Best Time**: Year-round; December to April offers calmest conditions
 
 ## Marine Life
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Fujisan Maru's superstructure and hull support coral growth, sea fans, and encrusting sponges. The infrequent diver traffic means marine life is less habituated to humans compared to popular wrecks. Schools of fusiliers and jacks are present in the water column around the wreck. Glassy sweepers occupy interior spaces, and lionfish hunt along overhangs and in shadowed recesses.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 58 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The bridge at 38 meters offers the shallowest major structure and is the primary focus for most dives. The 30-degree list to port means that interior spaces are tilted but still navigable. From the bridge, divers can explore along the deck in either direction, though the depth increases rapidly toward the hull bottom at 58 meters. The excellent visibility allows the wreck's overall form to be appreciated even from a distance. Bottom time is severely limited at these depths -- most of the dive should be planned around the 38-meter bridge level, with only brief excursions deeper.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from Weno-based operators. As a less frequently visited site, advance arrangement with your operator is advisable. Entry is by giant stride. Descend along the mooring line to the wreck. The consistently excellent visibility makes orientation straightforward. Deploy an SMB for ascent if you drift from the mooring. Surface conditions inside the lagoon are typically calm.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Advanced or technical diving certification is required for this depth
+- The consistently superb visibility (30+ meters) makes this one of Chuuk's most visually rewarding deep wrecks
+- Focus your bottom time on the bridge area at 38 meters to maximize exploration within decompression limits
+- Nitrox or trimix is strongly recommended; plan gas management carefully for the depth
+- Request this wreck specifically from your operator -- it is often overlooked in favor of shallower, more famous sites, but well worth the effort
+- Carry primary and backup torches for any interior exploration
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The Fujisan Maru is a war grave -- removing any artifacts is strictly illegal under Chuuk State law. At 58 meters maximum depth, this wreck is firmly in technical diving territory and mandatory decompression stops will be required. The 30-degree list to port affects interior navigation -- orient yourself carefully before any penetration. As an oil tanker, residual petroleum products may be present in some compartments. Maintain proper trim and buoyancy at all times. Carry adequate gas reserves for ascent and decompression, and always dive with a buddy.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+The Fujisan Maru's greatest photographic asset is its exceptional visibility. With 30+ meters of water clarity, wide-angle shots can capture substantial portions of the wreck in a single frame -- a rarity at this depth in many dive destinations. The bridge structure at 38 meters provides the most accessible and compositionally interesting subject. Powerful strobes are essential to restore color at depth, where ambient light is significantly reduced. The lack of other dive groups means clean compositions without stray bubbles or divers in the background.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=823). Last updated 2026-04-08.*

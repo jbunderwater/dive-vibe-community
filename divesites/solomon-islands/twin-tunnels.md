@@ -11,56 +11,46 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Twin Tunnels
+# Twin Tunnels
 
-Twin Tunnels is a cave dive site in Solomon Islands, Pacific.
+A reef pinnacle at Bayldon Shoals, 3 kilometres south-southwest of Soghonangola Island, featuring two large vertical holes that drop to 35 metres where they join at a junction cave full of crayfish. The reef rises from depths exceeding 60 metres to a top at 12 metres, attracting whitetip and grey reef sharks, huge schools of fusiliers, and rainbow runners.
 
 ## Overview
 
-Twin Tunnels is a dive site in Solomon Islands featuring underwater cave and cavern formations. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Twin Tunnels is located at Bayldon Shoals, approximately 3 kilometres SSW of Soghonangola Island in the Florida Islands group. The site is a reef structure that rises from deep water -- more than 60 metres -- to a reef top at 12 metres. The defining feature is two large vertical holes that drop from the upper reef to approximately 35 metres, where they connect at a junction. A small cave at this junction point is packed with crayfish.
+
+The surrounding reef attracts significant marine life. Whitetip and grey reef sharks patrol the drop-offs, while huge schools of fusiliers and rainbow runners move through the water column above the reef top. Strong currents are possible, which both concentrate the fish life and add to the challenge of the dive.
 
 ## Site Information
 
-- **Location**: Solomon Islands, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Cave/cavern
+- **Location**: Bayldon Shoals, 3 km SSW of Soghonangola Island, Florida Islands
+- **Entry Type**: Boat dive from Tulagi
+- **Site Type**: Cave/pinnacle with vertical tunnels
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 45 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Maximum Depth**: 45 metres
+- **Typical Visibility**: 15-30 metres
+- **Water Temperature**: 27-28°C
+- **Current**: Can be strong
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+Whitetip reef sharks and grey reef sharks are regular visitors to the reef walls and tunnels. Huge schools of fusiliers and rainbow runners patrol above the reef top, concentrated by the current. The cave at the 35-metre junction of the two tunnels harbours crayfish. The reef structure rising from 60+ metres creates a rich habitat that attracts both resident and pelagic species.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 45 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Descend to the reef top at 12 metres and locate the openings of the two vertical tunnels. Drop into one of the holes and descend to approximately 35 metres where the two tunnels meet. The small cave at the junction is where the crayfish congregate -- a torch is needed to illuminate the interior. After exploring the junction, ascend through the second tunnel back to the reef top, completing a circuit. Alternatively, exit the junction to the outer reef wall and work up along the drop-off, watching for sharks and pelagic schools. The reef top at 12 metres provides an excellent safety stop location with schooling fish overhead.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The twin tunnel circuit (down one hole, up the other) is the signature experience -- plan your gas to allow time at the 35-metre junction
+- Carry a torch to illuminate the crayfish cave at the tunnel junction
+- Current can concentrate fish life dramatically but also makes the dive more demanding -- discuss conditions with your operator
+- Wide-angle photography captures the schooling fusiliers and rainbow runners above the reef top
+- The reef walls dropping into 60+ metre depths mean depth awareness is critical -- monitor your depth continuously
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+Strong current is possible at this exposed reef site. The tunnels create an overhead environment where direct ascent to the surface is not possible -- only enter them if comfortable with overhead diving. The 35-metre junction depth requires advanced certification and careful gas management. The reef drops away to 60+ metres on all sides, so losing the reef means a very deep descent. Carry an SMB for ascent if current carries you off the reef top.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=387). Last updated 2026-04-08.*

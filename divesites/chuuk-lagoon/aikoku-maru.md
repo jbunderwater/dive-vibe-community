@@ -11,57 +11,54 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Aikoku Maru
+# Aikoku Maru
 
-Aikoku Maru is a historic wreck dive in Chuuk Lagoon, Pacific.
+A 10,438-ton armed merchant cruiser whose catastrophic ammunition explosion on February 17, 1944 cleanly split the vessel in two -- one of the most dramatic and sobering wrecks in Chuuk Lagoon.
 
 ## Overview
 
-Aikoku Maru is a dive site in Chuuk Lagoon featuring the wreck of the Aikoku Maru. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The Aikoku Maru was a 10,438-ton armed merchant cruiser operating within the Japanese Combined Fleet at Truk Lagoon. On February 17, 1944, during Operation Hailstone, a direct hit on the forward ammunition magazine triggered a catastrophic explosion that destroyed the entire forward section of the ship, cleanly splitting the vessel. The blast killed most of the crew instantly and was so violent that it was observed from miles away. The remaining stern section sank to the lagoon floor at 63 meters, where it rests today.
+
+The wreck is dominated by the sheer scale of the destruction forward and the remarkably intact stern section aft. The stern gun remains in place at 48 meters, and twin anti-aircraft guns are still mounted in their positions. The funnel, largely intact, sits at approximately 27 meters. The bridge area is found at roughly 27 meters as well. The contrast between the obliterated bow and the preserved stern makes the Aikoku Maru a powerful and haunting dive.
 
 ## Site Information
 
-- **Location**: Chuuk Lagoon, Pacific
+- **Location**: Chuuk Lagoon, Chuuk State, Micronesia
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 63 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Current**: Generally mild inside the lagoon
+- **Best Time**: Year-round; December to April offers calmest conditions
 
 ## Marine Life
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+After more than eight decades on the lagoon floor, the Aikoku Maru has developed substantial coral colonization across its exposed surfaces. The superstructure and gun mounts support hard and soft coral growth, sea fans, and encrusting sponges. Schools of fusiliers and jacks are commonly seen around the wreck profile. Glassy sweepers occupy the darker interior spaces, and lionfish hunt along railings and overhangs. Reef sharks are occasionally sighted in the surrounding waters.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 63 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+This is a deep, demanding dive. The intact funnel at 27 meters provides the shallowest significant structure and a good orientation point. From there, divers can work aft along the superstructure toward the stern gun at 48 meters and the twin anti-aircraft gun mounts. The stern section at maximum depth rewards experienced divers with well-preserved military hardware. The obliterated forward section is a debris field on the lagoon floor. Bottom time at 63 meters is extremely limited -- careful gas planning is essential, and most divers restrict their deepest excursion to a brief visit before working back to shallower structure.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from Weno-based operators, typically a 20-40 minute ride depending on departure point. A permanent mooring marks the site. Entry is by giant stride. Descend along the mooring line to the wreck. Surface at the mooring line or deploy an SMB if current has moved you off the wreck. Lagoon conditions are generally calm at the surface.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- This is a deep wreck requiring advanced certification and ideally decompression diving experience
+- Carry a primary torch and backup for any interior exploration -- the deeper sections receive limited ambient light
+- Plan your deepest penetration first while gas supply is full, then work progressively shallower
+- Nitrox or trimix is strongly recommended given the depth; discuss gas planning with your operator
+- Multiple dives are needed to appreciate this large wreck -- consider one dive focused on the stern armament and another on the mid-section superstructure
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The Aikoku Maru is a war grave containing the remains of hundreds of crew members -- treat the site with appropriate respect. Removing any artifacts is strictly illegal under Chuuk State law. The depth of 63 meters places this wreck firmly in technical diving territory; mandatory decompression stops are virtually unavoidable. Live ordnance including ammunition remains scattered throughout the wreck -- do not touch or disturb any cargo or munitions. Overhead environments within the superstructure require wreck penetration training, redundant lights, and a continuous guideline or clear exit plan. Maintain proper trim and buoyancy at all times to avoid disturbing silt, which can reduce visibility to zero in enclosed spaces.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+The stern gun at 48 meters and the twin anti-aircraft mounts offer dramatic military hardware subjects for wide-angle photography, though the depth limits available light and bottom time for composition. The funnel area at 27 meters provides more accessible wide-angle opportunities with better ambient light. The contrast between the intact stern and the destroyed forward section tells a powerful visual story. Strobes are essential at depth to restore color.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=222). Last updated 2026-04-08.*

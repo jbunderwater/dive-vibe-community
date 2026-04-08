@@ -11,57 +11,40 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Sabang Bay Wrecks
+# Sabang Bay Wrecks
 
-Sabang Bay Wrecks is a historic wreck dive in Philippines Puerto Galera, Asia.
+Several scuttled small vessels on a sandy bottom in Sabang Bay, including a yacht lying on its port side that hosts a black giant anglerfish -- a beginner-friendly wreck and critter dive.
 
 ## Overview
 
-Sabang Bay Wrecks is a dive site in Philippines Puerto Galera featuring the wreck of the Sabang Bay Wrecks. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Sabang Bay Wrecks is a collection of several deliberately scuttled small vessels resting on the sandy bottom of Sabang Bay at shallow depths. The most notable is a yacht of approximately 10 meters in length, lying on its port side, which has become home to a resident black giant anglerfish -- one of the site's star attractions. Smaller boats are scattered across the sandy bottom nearby. The shallow depth (maximum 19 meters) and calm bay conditions make this an accessible site for beginners, while the critter life rewards any level of diver willing to look carefully. Turtles with remoras are frequently encountered, and the sand around the wrecks holds rare finds including peacock razorfish.
 
 ## Site Information
 
-- **Location**: Philippines Puerto Galera, Asia
+- **Location**: Sabang Bay, Puerto Galera, Mindoro Island, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck (scuttled vessels)
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 19 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 10-12 meters
+- **Current**: Generally calm
+- **Water Temperature**: 28-29°C
 
 ## Marine Life
 
-Divers at this site can expect to encounter batfish, lionfish, sweetlips, coral growth, soft corals, manta rays, whale sharks, reef sharks. Additional species commonly sighted include sea turtles, barracuda, trevally. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The black giant anglerfish residing on the yacht is the headline attraction -- ask your guide for its current location, as anglerfish can shift position over time. Turtles with accompanying remoras cruise the area and are frequently sighted. Mantis shrimps occupy burrows in the sand between the wrecks. The rare peacock razorfish has been observed at this site, making it a notable find for keen-eyed divers. The wreck structures shelter additional marine life in their recesses and on their encrusted surfaces.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 19 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Descend to the main yacht wreck lying on its port side and search for the resident black giant anglerfish. Explore the other smaller scuttled boats scattered across the sandy bottom. Check the sand between wrecks for mantis shrimps and peacock razorfish. Watch for turtles moving through the area. The maximum depth of 19 meters and calm conditions allow for relaxed, extended dives with plenty of time to hunt for critters.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+- Ask your guide where the anglerfish has been seen most recently
+- Move slowly over sandy areas between wrecks for peacock razorfish and mantis shrimps
+- Excellent beginner wreck dive -- shallow depth and no current
+- A torch helps reveal colours and life in the wreck shadows
+- Visibility is typically 10-12 meters, so macro photography is more rewarding than wide-angle
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1060). Last updated 2026-04-08.*

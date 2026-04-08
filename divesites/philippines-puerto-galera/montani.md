@@ -11,56 +11,41 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Montani
+# Montani
 
-Montani is a reef dive site in Philippines Puerto Galera, Asia.
+A shallow muck drift dive through the Puerto Galera channel with extraordinary macro life -- nudibranchs, pipefish, gobies, dancing shrimp, and banded sea snakes over sand and coral rubble with a water pipe as artificial habitat.
 
 ## Overview
 
-Montani is a dive site in Philippines Puerto Galera offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Montani is a shallow drift dive in the Puerto Galera channel that epitomises muck diving at its finest. The bottom is predominantly sand with coral rubble and a submerged water pipe that acts as artificial habitat, attracting a remarkable concentration of macro life. Despite the unassuming terrain, patient divers will find an extraordinary diversity of critters -- nudibranchs, pipefish, gobies perched on sponges, cowfish, banded sea snakes, dancing shrimp, and flatworms. The shallow maximum depth of 14 meters means extended bottom times are possible; one visiting diver logged an 81-minute dive here. Montani is suitable for beginners and is an excellent introduction to muck diving.
 
 ## Site Information
 
-- **Location**: Philippines Puerto Galera, Asia
+- **Location**: Puerto Galera channel, Mindoro Island, Philippines
 - **Entry Type**: Shore entry
-- **Site Type**: Muck dive
+- **Site Type**: Muck dive (drift)
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 14 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 10-15 meters
+- **Current**: Gentle drift
+- **Water Temperature**: 28-29°C
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The macro life density at Montani is exceptional. Nudibranchs of many species are found throughout the site. Pipefish hide among the rubble, and gobies sit on sponges waiting to be photographed. The submerged water pipe attracts its own community of residents. Cowfish trundle over the sand, banded sea snakes hunt through the rubble, and dancing shrimp can be found in sheltered spots. Flatworms glide across surfaces, easily mistaken for nudibranchs by the untrained eye. The gentle current drifts divers along, presenting a continuous procession of critter encounters.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Enter from shore and drift gently with the current through the channel. The maximum depth is only 14 meters, allowing for very long bottom times -- dives of over an hour are common here. Move slowly over the sand and rubble, examining the water pipe and any debris for small creatures. The drift carries you along gradually, so there is no need to swim against current. The shallow depth and gentle conditions make this an ideal site for extended macro photography sessions.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+- Bring a macro lens -- this is a dedicated critter site and wide-angle is largely wasted here
+- Move very slowly and scan the bottom carefully; the best finds are camouflaged
+- The shallow depth allows extremely long dives -- monitor air supply but enjoy the extended bottom time
+- Look for gobies on sponges and dancing shrimp in sheltered recesses
+- The water pipe is a critter magnet -- spend time examining it carefully
+- Suitable for beginners, but the macro life rewards experienced eyes
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1064). Last updated 2026-04-08.*

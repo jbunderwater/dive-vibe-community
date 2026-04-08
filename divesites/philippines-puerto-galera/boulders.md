@@ -11,56 +11,39 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Boulders
+# Boulders
 
-Boulders is a reef dive site in Philippines Puerto Galera, Asia.
+A boulder-strewn slope south of Lighthouse Headland where large gorgonian fans harbour pygmy seahorses and the rubble is alive with nudibranchs and critters.
 
 ## Overview
 
-Boulders is a dive site in Philippines Puerto Galera offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Boulders sits on the seaward slope south of Puerto Galera's Lighthouse Headland, taking its name from the jumble of large rocks that tumble down the incline to around 30 meters. The boulders create sheltered pockets and overhangs that attract a rich variety of reef life, while the exposed faces are decorated with impressive gorgonian sea fans. Macro hunters will find this site particularly rewarding -- pygmy seahorses cling to the gorgonians, and the crevices between boulders hide nudibranchs and other invertebrates at every turn.
 
 ## Site Information
 
-- **Location**: Philippines Puerto Galera, Asia
+- **Location**: South of Lighthouse Headland, Puerto Galera, Mindoro Island, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef (boulder slope)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-25 meters
+- **Current**: Variable
+- **Water Temperature**: 28-29°C
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The gorgonian sea fans growing on the boulders are the main attraction, and patient divers with a keen eye can spot pygmy seahorses living among the fan branches. Blue-spotted stingrays rest on the sandy patches between rocks. Razorfish hover vertically near the substrate, while clownfish defend their host anemones. Nudibranchs are abundant throughout the site, found on sponges and coral surfaces across the slope.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Descend to the boulder field and work along the slope, checking gorgonian fans for pygmy seahorses and scanning crevices between boulders for nudibranchs and stingrays. The maximum depth reaches approximately 30 meters at the base of the slope. Gradually work shallower during the second half of the dive, finishing with a safety stop.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+- Carry a magnifying glass or macro lens -- pygmy seahorses on gorgonians are tiny and easy to miss
+- Move slowly and check between boulders for blue-spotted stingrays resting on sand
+- A torch helps reveal nudibranch colours in the shadows between rocks
+- Ask your guide to point out the gorgonians most likely to host pygmy seahorses
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1057). Last updated 2026-04-08.*

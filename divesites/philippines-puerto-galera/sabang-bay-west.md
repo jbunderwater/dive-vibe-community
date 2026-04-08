@@ -11,57 +11,40 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Sabang Bay West
+# Sabang Bay West
 
-Sabang Bay West is a reef dive site in Philippines Puerto Galera, Asia.
+A sandy-bottomed bay dive with coral outcrops, two dumped aluminium boats, barrel sponges, and a range of macro subjects -- suitable for beginners.
 
 ## Overview
 
-Sabang Bay West is a dive site in Philippines Puerto Galera offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Sabang Bay West is a straightforward bay dive over a sandy bottom dotted with coral outcrops. Two dumped aluminium boats on the seabed add artificial reef interest to the natural formations. Barrel sponges grow among the coral outcrops, and the site supports a good variety of macro life including nudibranchs, moray eels, mantis shrimps, and anemonefish. Visibility is typically around 10 meters with water temperatures of 28°C, and the sheltered bay location keeps conditions calm. The moderate depth and easy conditions make this a solid beginner-friendly site.
 
 ## Site Information
 
-- **Location**: Philippines Puerto Galera, Asia
+- **Location**: Sabang Bay (western side), Puerto Galera, Mindoro Island, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef (sandy bay with outcrops)
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 22 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: ~10 meters
+- **Current**: Generally mild
+- **Water Temperature**: ~28°C
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Barrel sponges are a prominent feature among the coral outcrops. Nudibranchs are found across the site, and moray eels peer out from holes in the coral formations. Mantis shrimps occupy burrows in the sandy substrate -- look for their distinctive eyes protruding from the sand. Anemonefish defend their host anemones on the outcrops. The two dumped aluminium boats attract their own resident marine life, adding variety to the dive.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 22 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Descend to the sandy bottom and navigate between coral outcrops, checking each formation for moray eels, nudibranchs, and anemonefish. Locate the two aluminium boats and explore them for marine life. Barrel sponges are found throughout. The maximum depth is approximately 22 meters, and the calm bay conditions allow for a relaxed, unhurried dive. Work gradually shallower for safety stop.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+- A good site for newer divers -- calm conditions, moderate depth, and easy navigation
+- Scan the sand near coral outcrops for mantis shrimp eyes
+- Check both aluminium boats -- they attract different residents
+- Macro lens recommended; the visibility (~10 meters) favours close-up work
+- The sheltered bay means this site is diveable in most conditions
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1053). Last updated 2026-04-08.*

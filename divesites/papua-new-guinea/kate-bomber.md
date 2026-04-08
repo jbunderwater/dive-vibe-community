@@ -11,57 +11,48 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Kate Bomber
+# Kate Bomber
 
-Kate Bomber is a historic wreck dive in Papua New Guinea, Pacific.
+A fully intact WWII Nakajima B5N2 "Kate" torpedo bomber at 12 meters off Anelaua Island -- one of the best-preserved aviation wrecks in Papua New Guinea, with evidence of a controlled crash landing clearly visible.
 
 ## Overview
 
-Kate Bomber is a dive site in Papua New Guinea featuring the wreck of the Kate Bomber. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The Nakajima B5N2, codenamed "Kate" by the Allies, was the torpedo bomber that struck the decisive blows at Pearl Harbor. This example lies at approximately 12 meters off Anelaua Island, roughly 33 kilometres west of Nusa Island Resort in Kavieng. The aircraft is fully intact and shows clear evidence of a controlled crash landing -- the flaps are extended and the engine was dead when it hit the water, suggesting the pilot ditched deliberately rather than crashing under fire. Three cockpits are visible, and the joystick and oxygen cylinders can be seen inside. The shallow depth and excellent preservation make this one of the most rewarding WWII aviation dives in the region.
 
 ## Site Information
 
-- **Location**: Papua New Guinea, Pacific
+- **Location**: Off Anelaua Island, 33 km west of Nusa Island Resort, Kavieng, New Ireland Province
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 27 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Site Type**: Wreck dive (WWII aviation)
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 12 meters (aircraft depth)
+- **Typical Visibility**: 12-15 meters
+- **Current**: Generally mild
+- **Best Time**: Year-round; calmest conditions April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Decades of coral colonization have turned the Kate into a small artificial reef. Hard and soft corals encrust the wings and fuselage. Anemones with clownfish have established on various surfaces. Small reef fish -- damselfish, wrasse, and gobies -- shelter around the airframe. The surrounding reef hosts the typical Kavieng assemblage of tropical species.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 27 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+The longer boat ride (approximately 33 km from Nusa Resort) is rewarded by an exceptional wreck. Descend to the aircraft at 12 meters. Begin at the nose to examine the engine and the evidence of a dead-stick landing -- note the extended flaps. Move along the fuselage, peering into each of the three cockpits where the joystick and oxygen cylinders are visible. The wings extend in both directions with their full span intact. The shallow depth allows extended bottom time of 45 to 60 minutes, giving ample opportunity to examine every detail of this remarkable aircraft.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from Nusa Island Resort, a longer ride of approximately 40 minutes west to Anelaua Island. Entry is by giant stride into typically calm water. The site is sheltered by the island. Surface near your descent point and signal the boat.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Allow extra time for the boat journey -- this site is farther from Nusa Resort than most Kavieng dives
+- The extended flaps and dead engine are the key forensic details that tell the story of this aircraft's last moments
+- A torch helps illuminate the cockpit interiors where the joystick and oxygen cylinders are visible
+- Despite the "Intermediate" frontmatter rating, the shallow depth and calm conditions make this accessible to beginners
+- The long bottom time at 12 meters makes this an outstanding photography dive -- take your time
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+This is a straightforward shallow dive with no significant hazards. Current is typically negligible at the site. The shallow depth eliminates decompression concerns. Maintain buoyancy control to avoid damaging the coral growth on the airframe. Do not remove any artifacts -- all WWII wrecks in PNG are protected.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=705). Last updated 2026-04-08.*

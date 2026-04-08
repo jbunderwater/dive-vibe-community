@@ -11,56 +11,39 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Shark Cave
+# Shark Cave
 
-Shark Cave is a reef dive site in Philippines Puerto Galera, Asia.
+East of Lighthouse Headland, featuring a small overhang called Shark Cave (no sharks typically seen) and a distinctive mesa-like formation called "The Atoll" rising from 28 meters to 24 meters, with good visibility and gorgonians.
 
 ## Overview
 
-Shark Cave is a dive site in Philippines Puerto Galera offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Shark Cave lies east of Puerto Galera's Lighthouse Headland and despite its name, sharks are not a common sighting here. The site features a small rocky overhang known as Shark Cave, plus a distinctive mesa-like formation called "The Atoll" that rises from the seabed at 28 meters or more up to approximately 24 meters. The Atoll's vertical sides and top are decorated with gorgonian sea fans, sea whips, and sponges. Visibility at this site is typically good, around 25 meters, making it one of Puerto Galera's clearer diving locations and rewarding for photography.
 
 ## Site Information
 
-- **Location**: Philippines Puerto Galera, Asia
+- **Location**: East of Lighthouse Headland, Puerto Galera, Mindoro Island, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 28 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: ~25 meters
+- **Current**: Variable
+- **Water Temperature**: 28-29°C
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Gorgonian sea fans and sea whips grow on the Atoll formation and surrounding reef. Sponges of various types encrust the rock surfaces. The overhang area that gives the site its name provides shelter, though the sharks the name suggests are not typically encountered. The good visibility at this site makes it easy to appreciate the reef structure and spot marine life at a distance.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 28 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Descend to The Atoll formation, which rises from 28+ meters to about 24 meters, and explore its gorgonian- and sponge-covered sides. Visit the Shark Cave overhang to check underneath. The good visibility (~25 meters) makes navigation straightforward and allows you to appreciate the broader reef topography. Work gradually shallower for the second half of the dive and safety stop.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+- Do not expect sharks despite the name -- they are not commonly seen here
+- The Atoll formation is the main feature -- spend time exploring its sides for gorgonians and sea whips
+- The good visibility makes this a rewarding wide-angle photography site
+- Check under the Shark Cave overhang for sheltering marine life
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1049). Last updated 2026-04-08.*

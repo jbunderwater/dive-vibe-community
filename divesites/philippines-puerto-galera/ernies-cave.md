@@ -11,56 +11,39 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Ernies Cave
+# Ernies Cave
 
-Ernies Cave is a cave dive site in Philippines Puerto Galera, Asia.
+A combined site off Monkey Beach featuring a small scuttled steel vessel at 24 meters and a rocky overhang known as Ernies Cave at 14 meters, with excellent nudibranch hunting throughout.
 
 ## Overview
 
-Ernies Cave is a dive site in Philippines Puerto Galera featuring underwater cave and cavern formations. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Ernies Cave is a two-part dive site located off Monkey Beach in Puerto Galera. The deeper attraction is a small scuttled steel vessel, roughly 10 meters in length, resting at 24 meters on sand. Above it at around 14 meters sits Ernies Cave itself -- not a true cave but a substantial rocky overhang that provides shelter for marine life. The combination of wreck, overhang, and surrounding reef makes this a varied and interesting dive. The site is particularly noted for its excellent nudibranch diversity, with numerous species found on both the wreck structure and the reef surrounding the cave.
 
 ## Site Information
 
-- **Location**: Philippines Puerto Galera, Asia
+- **Location**: Off Monkey Beach, Puerto Galera, Mindoro Island, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/cavern
+- **Site Type**: Cave (overhang) and wreck
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 26 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-20 meters
+- **Current**: Generally mild
+- **Water Temperature**: 28-29°C
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+Nudibranchs are the standout feature of this site, with excellent diversity found on both the wreck and the reef around the overhang. Garden eels colonise the sandy areas near the scuttled vessel, retreating into their burrows as divers approach. Gorgonian sea fans grow on the reef sections and on the wreck structure. Christmas tree worms dot the coral surfaces, their colourful spiral feeding appendages snapping shut at the slightest disturbance.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 26 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Descend to the scuttled steel vessel at 24 meters first, exploring the small wreck and the sandy area where garden eels can be found. Then ascend gradually to 14 meters to explore Ernies Cave overhang, checking its surfaces and surrounding reef for nudibranchs and Christmas tree worms. The shallower sections above the overhang provide good reef diving for the remainder of the dive and safety stop.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+- Visit the deeper wreck first while air supply is fresh, then work up to the overhang
+- Bring a macro lens -- the nudibranch diversity here is among the best in Puerto Galera
+- Approach the sandy areas slowly to observe garden eels before they retract
+- A torch helps reveal nudibranchs in the shadows under the overhang
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1058). Last updated 2026-04-08.*

@@ -11,57 +11,54 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Amagisan Maru
+# Amagisan Maru
 
-Amagisan Maru is a historic wreck dive in Chuuk Lagoon, Pacific.
+A 7,620-ton cargo vessel discovered in 1973 by Sam Redford, listing heavily to port and packed with wartime cargo including aircraft parts -- one of Chuuk Lagoon's less-visited deep wrecks.
 
 ## Overview
 
-Amagisan Maru is a dive site in Chuuk Lagoon featuring the wreck of the Amagisan Maru. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The Amagisan Maru was a 7,620-ton cargo vessel that sank during the American attacks on Truk Lagoon in February 1944. The wreck remained unknown for nearly three decades until diver Sam Redford discovered it in 1973. She lies on the lagoon floor at 58 meters, listing 45 to 50 degrees to port.
+
+The holds contain a remarkable variety of wartime cargo. Hundreds of 200-litre drums fill much of the hold space, and divers have found a car, bicycles, and aircraft parts including wings and propeller blades. The heavy list makes navigation inside the wreck disorienting, as decks become near-vertical walls and bulkheads become floors. Visibility on the Amagisan Maru is typically excellent, often 30 to 40 meters, making the wreck's dramatic angle and cargo clearly visible even from a distance.
 
 ## Site Information
 
-- **Location**: Chuuk Lagoon, Pacific
+- **Location**: Chuuk Lagoon, Chuuk State, Micronesia
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 58 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 30-40 meters (100-130 feet)
+- **Current**: Generally mild inside the lagoon
+- **Best Time**: Year-round; December to April offers calmest conditions
 
 ## Marine Life
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Amagisan Maru's exposed surfaces support coral growth typical of Chuuk's deeper wrecks, with hard corals, sea fans, and encrusting sponges colonizing the hull and superstructure. Schools of fusiliers and jacks patrol the surrounding water column. Glassy sweepers congregate in the shadowed interior spaces of the holds. Lionfish and scorpionfish occupy overhangs and recesses along the hull.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 58 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+This is a deep wreck requiring careful planning. The severe 45-50 degree list to port means that interior spaces are dramatically tilted -- what were once horizontal decks are now steep inclines. Divers typically descend the mooring line to the upper (starboard) side of the hull, then work their way along the wreck to access the holds. The cargo of drums, aircraft wings, propeller blades, car, and bicycles can be observed from hold openings or with careful penetration. Bottom time at 58 meters is severely limited; plan gas consumption meticulously and begin ascent with substantial reserves.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from Weno-based operators. The site is less frequently visited than the marquee wrecks, so advance arrangement with your operator may be needed. Entry is by giant stride. Descend along the mooring line to the wreck. Deploy an SMB for ascent if you drift from the mooring. Surface conditions inside the lagoon are typically calm.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Advanced or technical diving certification is essential for this depth
+- The excellent visibility (often 30-40 meters) makes this one of the clearest wreck dives in Chuuk -- bring a wide-angle lens to capture the full scale
+- The severe list requires careful spatial awareness inside the wreck; orient yourself to exits before entering any hold
+- Carry primary and backup torches for hold exploration
+- Nitrox or trimix is strongly recommended; discuss appropriate gas mixes with your operator
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The Amagisan Maru is a war grave -- removing any artifacts is strictly illegal under Chuuk State law. At 58 meters, this wreck is in technical diving territory and mandatory decompression stops will be required on most profiles. The 45-50 degree list makes interior navigation disorienting and increases the risk of silt disturbance as fins contact surfaces at unexpected angles. Maintain excellent buoyancy control and proper trim throughout. The holds contain wartime cargo that may include unstable materials -- do not touch or disturb any items. Overhead environments require wreck penetration training, redundant lights, and a clear exit plan.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+The exceptional visibility on the Amagisan Maru (30-40 meters) combined with the dramatic 45-50 degree list creates striking compositional opportunities. Wide-angle shots capturing the full angle of the wreck against blue water are particularly effective. The aircraft parts in the holds -- wings, propeller blades -- make compelling subjects with proper lighting. The depth limits ambient light considerably, so powerful strobes are essential to restore color and detail.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=223). Last updated 2026-04-08.*

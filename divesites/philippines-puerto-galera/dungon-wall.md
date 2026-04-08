@@ -11,57 +11,39 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Dungon Wall
+# Dungon Wall
 
-Dungon Wall is a wall dive site in Philippines Puerto Galera, Asia.
+A steep slope transitioning to a sheer wall that extends beyond 35 meters, stretching roughly 100 meters along its face and decorated with large gorgonians hosting pygmy seahorses.
 
 ## Overview
 
-Dungon Wall is a dive site in Philippines Puerto Galera featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Dungon Wall begins as a steep slope before dropping into a sheer vertical wall that plunges past 35 meters. The wall face runs approximately 100 meters in length, providing a substantial area to explore. Large gorgonian sea fans adorn the wall, and these are known to harbour pygmy seahorses -- making Dungon Wall one of Puerto Galera's reliable sites for finding these tiny creatures. Featherstars add splashes of colour along the wall's ledges and outcrops, while the blue water off the wall edge attracts passing pelagics.
 
 ## Site Information
 
-- **Location**: Philippines Puerto Galera, Asia
+- **Location**: Puerto Galera, Mindoro Island, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-25 meters
+- **Current**: Variable
+- **Water Temperature**: 28-29°C
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The gorgonian sea fans growing on the wall face are the highlight, with pygmy seahorses hiding among the branches for sharp-eyed divers to spot. Featherstars perch along the wall's edges and on coral outcrops. Chevron barracuda school in the water column off the wall. Moray eels occupy holes and crevices in the rock face, and nudibranchs are found throughout the site. Clownfish defend their anemones on the shallower sections of the slope above the wall.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-35 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Descend along the slope to the wall's edge and follow it at depth, scanning gorgonian fans for pygmy seahorses. The wall drops beyond 35 meters, so careful depth management is essential. Work along the approximately 100-meter wall face, then gradually ascend to the slope section above for the remainder of the dive. The shallower slope offers clownfish and additional nudibranchs before your safety stop.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+- Scan the large gorgonians carefully -- pygmy seahorses blend in remarkably well
+- Watch the blue water off the wall edge for chevron barracuda schools
+- Monitor depth closely, as the wall drops well beyond recreational limits
+- The wall is roughly 100 meters long, so pick a direction and work with any current
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1052). Last updated 2026-04-08.*

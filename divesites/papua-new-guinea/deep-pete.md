@@ -11,57 +11,48 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Deep Pete
+# Deep Pete
 
-Deep Pete is a historic wreck dive in Papua New Guinea, Pacific.
+A WWII Mitsubishi F1M2 "Pete" biplane seaplane lying upside-down on a sandy bottom at 40 meters -- a demanding deep dive rewarded by excellent visibility and a remarkably well-preserved aircraft.
 
 ## Overview
 
-Deep Pete is a dive site in Papua New Guinea featuring the wreck of the Deep Pete. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The Mitsubishi F1M2, codenamed "Pete" by the Allies, was a reconnaissance biplane floatplane used by the Imperial Japanese Navy. This example rests inverted on a sandy bottom at 40 meters, approximately ten minutes by boat from Nusa Island Resort in Kavieng. The aircraft's engine was not running when it sank -- the propeller is unbent, suggesting a controlled ditching or sinking at anchor rather than a crash. Despite lying upside-down, the airframe is remarkably well-preserved, with the radio equipment, compass, and twin defensive guns still visible. The excellent visibility at this site -- typically 25 meters or more -- means the entire aircraft can be taken in from a short distance.
 
 ## Site Information
 
-- **Location**: Papua New Guinea, Pacific
+- **Location**: Kavieng, New Ireland Province, Papua New Guinea
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck dive (WWII aviation)
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 25+ meters
+- **Current**: Generally mild
+- **Best Time**: Year-round; calmest conditions April to November
 
 ## Marine Life
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The sandy bottom surrounding the aircraft is relatively sparse, which makes the seaplane itself stand out dramatically. Coral growth has begun colonizing the underside (now facing upward) of the wings and fuselage. Small reef fish shelter in and around the airframe. The surrounding sand may yield garden eels and occasional passing pelagics drawn by the structure.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 40 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+This is a deep air dive requiring careful gas management. Descend directly to the aircraft at 40 meters. Bottom time is strictly limited -- typically 10 to 12 minutes on air before decompression obligations begin. Use this time to examine the inverted airframe, noting the unbent propeller, the radio and compass equipment, and the twin guns. The inverted orientation means the cockpit area faces downward into the sand, limiting access, but the overall shape of the biplane is clearly recognizable. Begin your ascent with adequate reserves for a safety stop at 5 meters.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from Nusa Island Resort, approximately ten minutes away. Entry is by giant stride into calm water. Descend along a line or free-descend to the sandy bottom. Deploy an SMB during your ascent for boat pickup.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Deep air dive with limited bottom time -- plan your dive carefully and brief your buddy on what to prioritize
+- Nitrox (EANx32) is not suitable at 40 meters due to oxygen toxicity limits; this is an air dive unless using trimix
+- A dive torch is essential to illuminate details on the underside of the airframe
+- Photograph the unbent propeller as evidence of the aircraft's controlled descent
+- Combine with the shallow Aichi Jake Seaplane as a second dive to make the most of a WWII aviation theme day
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+At 40 meters, this dive pushes the limits of recreational diving. No-decompression time on air is approximately 8-10 minutes. Monitor depth, time, and air supply continuously. Narcosis is a real consideration at this depth -- abort the dive if you or your buddy show signs. Always carry an SMB and adequate reserves for ascent. This site is not appropriate for inexperienced divers.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=704). Last updated 2026-04-08.*

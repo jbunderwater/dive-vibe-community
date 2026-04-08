@@ -11,57 +11,40 @@ osmId: null
 addedBy: osm_import
 ---
 
-## MV Alma Jane
+# MV Alma Jane
 
-MV Alma Jane is a historic wreck dive in Philippines Puerto Galera, Asia.
+A roughly 30-meter coastal freighter scuttled upright at 29 meters in Sabang Bay, with twin engine and propeller cutouts, dozens of batfish at the bow, and a gentle reef slope for ascent.
 
 ## Overview
 
-MV Alma Jane is a dive site in Philippines Puerto Galera featuring a historic wreck. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The MV Alma Jane is a coastal freighter of approximately 30 meters in length that was deliberately scuttled upright in Sabang Bay, where she now rests on the sandy bottom at 29 meters. The wreck has developed good sponge and gorgonian growth on her structure, and the twin engine compartment with its propeller cutouts provides interesting features to explore. The bow area has become a gathering point for dozens of batfish, which form an impressive congregation around the forward section. A gentle reef slope extends from the wreck toward shallower water, providing a natural and pleasant ascent route with additional marine life encounters.
 
 ## Site Information
 
-- **Location**: Philippines Puerto Galera, Asia
+- **Location**: Sabang Bay, Puerto Galera, Mindoro Island, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck (scuttled)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 29 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-20 meters
+- **Current**: Generally mild within the bay
+- **Water Temperature**: 28-29°C
 
 ## Marine Life
 
-Divers at this site can expect to encounter batfish, lionfish, sweetlips, coral growth, soft corals, manta rays, whale sharks, reef sharks. Additional species commonly sighted include sea turtles, barracuda, trevally. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Dozens of batfish congregate around the bow of the wreck -- one of the site's most memorable sights. Sweetlips school near the stern. The sponge and gorgonian growth on the wreck structure provides habitat for a variety of species. Octopus and cuttlefish are found on and around the wreck. Nudibranchs graze on the encrusted surfaces. The gentle reef slope above the wreck offers additional encounters during ascent.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 30 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Descend to the wreck at 29 meters and explore the exterior, starting at the bow where the batfish gather. Move aft to examine the twin engine compartment and propeller cutouts. Check the stern area for sweetlips. Sponge- and gorgonian-covered surfaces throughout the wreck reward careful scanning for nudibranchs, octopus, and cuttlefish. As bottom time at 29 meters is limited, plan the deeper exploration first, then ascend along the gentle reef slope that leads from the wreck to shallower water. The reef slope makes for an easy and interesting ascent with a safety stop.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+- Spend time at the bow with the batfish -- they are remarkably tolerant of divers and make excellent photo subjects
+- A torch helps illuminate the engine compartment and reveal colours on encrusted surfaces
+- Use the reef slope for ascent rather than a free-water climb -- it is more interesting and easier to manage
+- Bottom time at 29 meters is limited on air; Nitrox extends the dive significantly
+- Penetration requires proper wreck diving training and equipment
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1056). Last updated 2026-04-08.*

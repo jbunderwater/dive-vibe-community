@@ -11,57 +11,39 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Dry Dock
+# Dry Dock
 
-Dry Dock is a historic wreck dive in Philippines Puerto Galera, Asia.
+A scuttled small floating dry dock resting at 25-30 meters off Scandi Dive Resort, encrusted with sponges and gorgonians and surrounded by an eclectic artificial reef of beer-bottle crates.
 
 ## Overview
 
-Dry Dock is a dive site in Philippines Puerto Galera featuring the wreck of the Dry Dock. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The Dry Dock is a small floating dry dock, roughly 40 meters long and 20 meters wide, that was deliberately scuttled off Scandi Dive Resort to create an artificial reef. Sitting at 25-30 meters depth, the structure has developed a healthy coating of sponges and gorgonian sea fans. Adding to the site's quirky character, beer-bottle crates have been placed nearby as additional artificial reef substrate, and these too have attracted coral growth and marine life. The shallower water above the wreck offers a pleasant finish to the dive, with turtles frequently seen during ascent.
 
 ## Site Information
 
-- **Location**: Philippines Puerto Galera, Asia
+- **Location**: Off Scandi Dive Resort, Puerto Galera, Mindoro Island, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck (scuttled artificial reef)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-20 meters
+- **Current**: Generally mild
+- **Water Temperature**: 28-29°C
 
 ## Marine Life
 
-Divers at this site can expect to encounter batfish, lionfish, sweetlips, coral growth, soft corals, manta rays, whale sharks, reef sharks. Additional species commonly sighted include sea turtles, barracuda, trevally. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The dry dock structure provides shelter for moray eels, which peer out from gaps in the metalwork. Lionfish hover around the wreck edges, and octopus can be found tucked into recesses. Nudibranchs of various species graze on the sponge-covered surfaces. The shallower reef slope above the wreck is where turtles are regularly encountered during safety stops and ascent. The beer-bottle crate artificial reef sections add extra habitat, attracting their own collection of small reef fish and invertebrates.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 30 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Descend to the dry dock at 25-30 meters and explore the exterior, checking sponge-covered surfaces for nudibranchs and looking into gaps for moray eels and octopus. The beer-bottle crate artificial reef sections are nearby and worth investigating. Work gradually shallower as bottom time at depth is limited, ascending along the reef slope where turtles are often encountered. Finish with a safety stop in the shallows.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+- Bring a torch to peer into the dry dock's interior spaces for moray eels and octopus
+- Check the beer-bottle crate structures -- they attract surprising amounts of life
+- Watch for turtles on the ascent through the shallower reef
+- Bottom time at 25-30 meters is limited, so plan your deeper exploration first
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1062). Last updated 2026-04-08.*

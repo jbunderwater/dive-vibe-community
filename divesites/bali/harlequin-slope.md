@@ -11,55 +11,52 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Harlequin Slope
+# Harlequin Slope
 
-Harlequin Slope is a muck dive site in Bali, Asia.
+A black sand muck slope located approximately 200 meters southeast of the famous USAT Liberty wreck in Tulamben, named for the harlequin shrimps that hide beneath rocks at depth.
 
 ## Overview
 
-Harlequin Slope is a dive site in Bali offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Harlequin Slope is a black sand muck diving site on the Tulamben coast of northeast Bali. The site sits roughly 200 meters southeast of the USAT Liberty wreck, offering a completely different diving experience from the wreck itself. The bottom is composed of volcanic black sand formed into ridges, with small coral outcrops scattered across the slope. The site descends to approximately 29 meters and is best known for its resident harlequin shrimps, which can be found sheltering under rocks at depth -- the feature that gives the site its name.
 
 ## Site Information
 
-- **Location**: Bali, Asia
-- **Entry Type**: Shore entry
+- **Location**: Tulamben, East Bali, Indonesia
+- **Entry Type**: Shore entry from rocky beach
 - **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 29 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-25 meters
+- **Water Temperature**: 27-29°C
+- **Current**: Generally mild
+- **Best Time**: April to November (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The black sand environment at Harlequin Slope supports a rich variety of critter life. The site's namesake harlequin shrimps are found under rocks at depth and are a prized sighting for macro photographers. The sand ridges and coral outcrops harbour diverse nudibranchs, cuttlefish, mantis shrimp, and various crab species. The dark volcanic sand provides excellent contrast for spotting small, well-camouflaged creatures that would be difficult to find on a traditional reef.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 29 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter from the rocky beach and descend onto the black sand slope. The bottom is composed of sand ridges running perpendicular to the shore with small coral outcrops between them. Work along the ridges at depth, checking under rocks and around coral heads for harlequin shrimps and other critters. The most productive hunting grounds for small invertebrates are in the 15-29 meter range. Allow adequate air for a gradual ascent and safety stop.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry from the rocky beach near Tulamben. The entry is over rocks and can be slippery, so take care with footing. Walk in with fins in hand and put them on once waist-deep. Exit at the same point.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Bring a dedicated macro lens setup -- this is primarily a critter-hunting dive
+- A good dive guide is essential for locating harlequin shrimps and other well-hidden subjects
+- Dive slowly and stay close to the bottom for the best chance of spotting camouflaged animals
+- Morning dives tend to offer calmer surface conditions at the entry point
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The rocky beach entry requires care, particularly when carrying camera equipment. The sand slope has no strong currents under normal conditions, but maintain good buoyancy control to avoid silting out the black sand and reducing visibility for yourself and other divers. The maximum depth of 29 meters limits bottom time on air -- plan your gas management accordingly.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+Harlequin Slope is a dedicated macro photography site. The black sand provides clean, dark backgrounds that make critter subjects stand out beautifully. A 60mm or 100mm macro lens is ideal. Harlequin shrimps, nudibranchs, and cuttlefish are the primary targets. Bring a focus light to assist with finding and illuminating small subjects on the dark substrate.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=878). Last updated 2026-04-08.*

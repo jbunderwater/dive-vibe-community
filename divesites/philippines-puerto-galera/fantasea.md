@@ -11,56 +11,40 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Fantasea
+# Fantasea
 
-Fantasea is a drift dive site in Philippines Puerto Galera, Asia.
+A current-driven drift dive over sandy bottom with coral outcrops and cone-shaped formations, famous for rare white Rhinopias frondosa (weedy scorpionfish) sightings.
 
 ## Overview
 
-Fantasea is a dive site in Philippines Puerto Galera offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Fantasea is a drift dive site where currents carry divers over a sandy bottom punctuated by coral outcrops and distinctive cone-shaped formations. The site has earned a reputation among critter hunters for sightings of the rare white Rhinopias frondosa (weedy scorpionfish) -- one of the most sought-after macro subjects in the Indo-Pacific. Beyond this headline species, Fantasea delivers a rich assortment of unusual creatures including orangutan crabs, mantis shrimp, and banded sea snakes. Scuttled small aluminium boats (tinnies) have been placed on the bottom as artificial reef structures, adding extra habitat and interest to the dive.
 
 ## Site Information
 
-- **Location**: Philippines Puerto Galera, Asia
+- **Location**: Puerto Galera, Mindoro Island, Philippines
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 23 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-20 meters
+- **Current**: Moderate to strong (drift dive)
+- **Water Temperature**: 28-29°C
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The star attraction is the rare white Rhinopias frondosa (weedy scorpionfish), which has been spotted at this site -- a remarkable find given the species' rarity. Turtles cruise the area, and banded sea snakes hunt among the coral outcrops. Orangutan crabs hide in bubble coral, and mantis shrimp occupy burrows in the sandy substrate. The scuttled tinnies serving as artificial reef have attracted their own resident populations. The current brings nutrients that support the varied life across the site.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 23 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+This is a current-driven drift dive -- enter the water upstream and let the current carry you over the sandy bottom and coral outcrops. Scan the substrate carefully for scorpionfish, mantis shrimp, and other bottom-dwellers. The cone-shaped coral formations are worth pausing at when the current allows. Check the scuttled tinnies for resident marine life. Maximum depth is approximately 23 meters. Deploy an SMB for boat pickup at the end of the drift.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+- Ask your guide about recent Rhinopias sightings -- they tend to stay in the same area for extended periods
+- Move slowly over sandy areas to spot mantis shrimp and other camouflaged creatures
+- Check bubble coral for orangutan crabs
+- Carry an SMB as this is a drift dive and you will surface away from the entry point
+- A macro lens is ideal for this site's critter-rich environment
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1059). Last updated 2026-04-08.*

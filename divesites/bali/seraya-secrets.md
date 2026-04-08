@@ -11,55 +11,52 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Seraya Secrets
+# Seraya Secrets
 
-Seraya Secrets is a muck dive site in Bali, Asia.
+A black sand muck diving site approximately 3 kilometres southeast of Tulamben, featuring two sub-sites with artificial reef structures that attract an extraordinary array of critters.
 
 ## Overview
 
-Seraya Secrets is a dive site in Bali offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Seraya Secrets is located near the village of Seraya, roughly 3 kilometres southeast of Tulamben along the northeast Bali coast. The site is divided into two sub-sites -- Seraya Secrets Left and Seraya Secrets Right -- each offering slightly different terrain and critter populations. The black sand bottom has been enhanced with artificial reef structures including a steel dome and an airplane frame, which provide hard substrate for coral colonization and shelter for the site's remarkable diversity of small marine life. The maximum depth is approximately 25 meters.
 
 ## Site Information
 
-- **Location**: Bali, Asia
-- **Entry Type**: Shore entry
+- **Location**: Seraya, East Bali, Indonesia (approximately 3 km SE of Tulamben)
+- **Entry Type**: Shore entry (access by car from Tulamben)
 - **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-25 meters
+- **Water Temperature**: 27-29°C
+- **Current**: Generally mild
+- **Best Time**: April to November (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Seraya Secrets is one of Bali's premier critter diving destinations. The artificial reef structures and black sand environment support an outstanding variety of small and unusual marine life. Anglerfish are regularly encountered, along with ornate ghost pipefish, orangutan crabs, and pom-pom crabs. Spanish dancers -- large, spectacularly coloured nudibranchs -- are a highlight, and the site hosts dozens of other nudibranch species. The artificial structures provide homes for a wide range of invertebrates that would not otherwise settle on the open sand.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter from shore and descend onto the black sand slope. The two sub-sites (Left and Right) offer different terrain, so follow your guide's briefing on which direction to take. The artificial reef structures -- including the steel dome and airplane frame -- are focal points where critters concentrate. Spend time carefully examining the structures and the surrounding sand for camouflaged subjects. The productive depth range is from around 8 meters down to 25 meters.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry, accessed by car from Tulamben (approximately 3 kilometres). The entry point is at the beach near Seraya village. Enter carefully over the rocky shore and descend onto the sand. Exit at the same location.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- This is a slow, focused critter dive -- resist the urge to cover too much ground
+- A knowledgeable local guide is essential for locating the best critter spots on both sub-sites
+- Night diving here is particularly rewarding, with Spanish dancers and other nocturnal species emerging after dark
+- Macro photography equipment is strongly recommended
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The shore entry can be rocky, so take care when entering and exiting. Currents are generally mild but can occasionally pick up. Maintain good buoyancy control over the sand to avoid silting out the bottom. The artificial structures have edges and openings -- be mindful of entanglement hazards if carrying camera rigs.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+Seraya Secrets is a world-class macro photography site. The black sand provides clean, high-contrast backgrounds for critter subjects. Anglerfish, ghost pipefish, and nudibranchs are the primary macro targets. The artificial reef structures offer interesting wide-angle compositions as well, particularly the airplane frame with coral growth. A dedicated macro lens (60mm or 100mm) and a good focus light are essential.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=879). Last updated 2026-04-08.*

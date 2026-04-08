@@ -11,56 +11,46 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Sea Lark Channel
+# Sea Lark Channel
 
-Sea Lark Channel is a drift dive site in Solomon Islands, Pacific.
+A drift dive along Sealark Reef east of Honiara, best done on an incoming tide. The reef drops from the surface to beyond 30 metres, with huge gorgonian sea fans bent over by the current and hump-headed wrasse patrolling the reef edge. A classic Solomon Islands reef dive with a 50-60 minute drift through healthy, current-swept coral formations.
 
 ## Overview
 
-Sea Lark Channel is a dive site in Solomon Islands offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Sea Lark Channel runs along Sealark Reef to the east of Honiara. Timed for the incoming tide, divers drift along the reef wall as the current carries them through the channel. The reef drops from the surface down to 30 metres and beyond, with the current feeding nutrients that support dense growths of large gorgonian sea fans -- many bent permanently by the persistent flow.
+
+Visibility is typically around 25 metres. Currents can reach 2 knots or more, particularly at bends in the channel, making this a genuine drift dive rather than a gentle float. A typical drift lasts 50 to 60 minutes with the current doing most of the work.
 
 ## Site Information
 
-- **Location**: Solomon Islands, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Drift dive
+- **Location**: Sealark Reef, east of Honiara, Guadalcanal
+- **Entry Type**: Boat dive from Honiara
+- **Site Type**: Drift dive along reef wall
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Maximum Depth**: 30+ metres
+- **Typical Visibility**: ~25 metres
+- **Water Temperature**: 27-28°C
+- **Current**: 2+ knots at bends; consistent incoming tide current
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+The current-swept reef supports large gorgonian sea fans that are a defining feature of this site. Hump-headed (Napoleon) wrasse are regularly seen along the reef edge. The nutrient-rich current attracts schooling fish and reef predators to the channel.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Enter the water upstream on the incoming tide and drift along the reef wall. The reef drops from the surface, so you can choose your depth -- the gorgonians and best marine life tend to be concentrated in the 15-25 metre range. The current does the work, carrying you along for 50-60 minutes. Be aware that currents accelerate at bends in the channel, sometimes exceeding 2 knots. Stay close to the reef to manage your speed. The dive boat picks you up at the downstream end.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Timing is critical -- this dive must be done on the incoming tide for the best current and conditions
+- Carry a reef hook if you want to pause at features along the wall; the current can be strong
+- The gorgonian sea fans are the photographic highlight -- wide-angle with natural light works well
+- Keep an eye on the blue water beyond the reef edge for passing pelagics
+- An SMB is essential for the boat to track your position during the drift
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+Currents of 2 knots or more at channel bends are not unusual -- this dive requires drift diving experience and comfort in current. Stay close to the reef wall to manage speed and avoid being swept into open water. Carry an SMB and deploy it well before your safety stop so the boat can track you. Ensure your boat crew is experienced with drift dive pickups. Do not attempt this dive on an ebbing tide or in unfamiliar current conditions.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=379). Last updated 2026-04-08.*

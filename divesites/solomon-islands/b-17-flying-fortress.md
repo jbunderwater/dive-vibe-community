@@ -11,57 +11,42 @@ osmId: null
 addedBy: osm_import
 ---
 
-## B-17 Flying Fortress
+# B-17 Flying Fortress
 
-B-17 Flying Fortress is a historic wreck dive in Solomon Islands, Pacific.
+A Boeing B-17E Flying Fortress bomber -- serial number 41-2420, nicknamed "Bessie the Jap Basher" -- resting in shallow water just offshore from the village of Ndomo on Guadalcanal. One of the most accessible WWII aircraft wrecks in the Solomon Islands and an excellent dive for all experience levels.
 
 ## Overview
 
-B-17 Flying Fortress is a dive site in Solomon Islands featuring the wreck of the B-17 Flying Fortress. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+On 24 September 1942, this B-17E crash-landed on the water while returning from a bombing mission over the Shortland Islands. The site lies approximately 19 kilometres east of Henderson Airfield, near the village of Ndomo. The plane came to rest only about 20 metres offshore, making it a straightforward shore dive.
+
+The aircraft is remarkably well preserved. The fuselage, wings, engines, and propellers remain mostly intact on the sandy bottom. The ball turret has detached and sits separately on the sand nearby. The port wing rests at approximately 17 metres depth while the starboard wing is shallower at around 9 metres, giving the wreck a slight tilt on the seabed.
 
 ## Site Information
 
-- **Location**: Solomon Islands, Pacific
-- **Entry Type**: Shore entry
-- **Site Type**: Wreck dive
+- **Location**: Near Ndomo village, Guadalcanal, Solomon Islands -- 19 km east of Henderson Airfield
+- **Entry Type**: Shore dive
+- **Site Type**: Wreck dive (WWII aircraft)
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 17 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
-
-## Marine Life
-
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+- **Maximum Depth**: 17 metres
+- **Typical Visibility**: 15-30 metres
+- **Water Temperature**: 27-28°C
+- **Current**: Generally mild at this site
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 17 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Enter from the shore near Ndomo village. The aircraft lies only about 20 metres offshore, so the swim out is short. Descend to the starboard wing at around 9 metres, then work along the fuselage toward the deeper port side at 17 metres. The four engines and propellers are key features to examine. Look for the detached ball turret sitting on the sand beneath the fuselage. The cockpit area and fuselage structure are well defined. The shallow depth allows extended bottom times, making this ideal for a thorough exploration of the entire airframe.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Excellent site for newer divers and snorkellers due to the shallow depth and shore access
+- Take time to identify each of the four engines and their propeller configurations
+- The detached ball turret on the sand is easy to miss -- ask your guide to point it out
+- Carry an underwater camera -- the intact airframe in clear shallow water makes for excellent wide-angle photography
+- Morning light provides the best conditions for photography with sun penetrating the shallow water
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+This is a war grave -- do not remove any artefacts. The shallow depth and shore access make this one of the safest wreck dives in the Solomon Islands. Be mindful of boat traffic in the area. The wreck structure may have sharp edges from corrosion -- maintain good buoyancy control and avoid contact with the airframe.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=380). Last updated 2026-04-08.*

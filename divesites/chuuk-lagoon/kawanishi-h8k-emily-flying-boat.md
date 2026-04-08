@@ -11,57 +11,54 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Kawanishi H8K Emily Flying Boat
+# Kawanishi H8K Emily Flying Boat
 
-Kawanishi H8K Emily Flying Boat is a historic wreck dive in Chuuk Lagoon, Pacific.
+The wreck of the finest flying boat of World War II -- the "Flying Porcupine" -- broken into four major pieces on the lagoon floor off Dublon Island at just 16 meters.
 
 ## Overview
 
-Kawanishi H8K Emily Flying Boat is a dive site in Chuuk Lagoon featuring the wreck of the Kawanishi H8K Emily Flying Boat. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The Kawanishi H8K, codenamed "Emily" by the Allies, was considered the finest flying boat produced by any nation during World War II. The Japanese aircraft earned the nickname "Flying Porcupine" from Allied pilots due to its bristling defensive armament, which made it exceptionally dangerous to intercept. This example lies off the southwest end of Dublon Island, near the site of the former Japanese seaplane base that once serviced these massive aircraft.
+
+The Emily rests inverted, broken into four major pieces on the sandy lagoon floor at 16 meters. All four engines have fallen off their wing mounts and lie nearby. Despite the breakup, the wreck retains enough structure to clearly identify its aircraft form, and the sheer size of the flying boat -- with a wingspan that originally exceeded 38 meters -- is immediately impressive even in its fragmented state. The dive takes only 20 to 25 minutes to explore thoroughly, making it an easy and accessible site suitable for all experience levels.
 
 ## Site Information
 
-- **Location**: Chuuk Lagoon, Pacific
+- **Location**: Off Dublon Island (SW end), Chuuk Lagoon, Chuuk State, Micronesia
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck dive (aircraft)
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 16 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 15-30 meters (50-100 feet)
+- **Current**: Generally mild inside the lagoon
+- **Best Time**: Year-round; December to April offers calmest conditions
 
 ## Marine Life
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Emily's broken structure provides multiple habitats for marine life. Coral growth covers the major fuselage and wing sections, with hard corals and sponges encrusting the metal surfaces. Glassy sweepers congregate in the sheltered spaces beneath the inverted fuselage. Lionfish occupy the shadows around the engine mounts. The sandy bottom surrounding the wreck supports anemones with clownfish, and small reef fish dart among the coral-encrusted wing fragments.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 16 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the wreck at 16 meters. The four major sections of the aircraft can be explored systematically, beginning with the main fuselage and working outward to the wing sections. The four detached engines are spread around the site and each is worth examination -- the radial engine design is clearly visible. The inverted orientation means the upper surfaces of the wings and fuselage are now on the bottom, which provides an unusual perspective. A complete circuit of all four sections and the engines takes approximately 20 to 25 minutes, leaving ample bottom time for a return to highlights or for photography.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from Weno-based operators, with a ride to the southwest end of Dublon Island. Entry is by giant stride into calm lagoon water. The wreck is on a sandy bottom with no significant current concerns. Surface near the boat or deploy an SMB for pickup.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
+- An easy, shallow dive perfect for all certification levels and ideal for a second or third dive of the day
+- The wreck can be fully explored in 20-25 minutes -- consider combining with the nearby Betty Bomber for a full aircraft dive morning
+- Bring a torch to examine the interior spaces beneath the inverted fuselage sections
+- The four detached engines scattered around the site make excellent individual subjects -- plan to visit each one
+- The proximity to the former Japanese seaplane base on Dublon Island adds historical context to the dive
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+This is one of Chuuk's most straightforward dives. The shallow depth of 16 meters allows extended bottom times well within no-decompression limits for all recreational divers. The wreck is broken apart with no significant overhead environments, minimizing entrapment risk. Maintain awareness of the sandy bottom -- careless fin kicks can reduce visibility locally. The inverted sections have some spaces underneath where a diver could enter, but these are open-sided and well-lit. The wreck is a war artifact -- removing any items is strictly illegal under Chuuk State law.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+The Emily offers unique aircraft photography at a shallow, well-lit depth. The four separated sections and detached engines provide multiple distinct subjects. Wide-angle shots capturing a full wing section or engine against the blue water background work well with natural light at this depth. The inverted fuselage sections create interesting compositions with coral growth on what were originally the upper surfaces. Macro subjects include coral polyps, nudibranchs, and the small reef fish that shelter around the engine mounts.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=225). Last updated 2026-04-08.*

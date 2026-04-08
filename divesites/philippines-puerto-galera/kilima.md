@@ -11,56 +11,40 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Kilima
+# Kilima
 
-Kilima is a reef dive site in Philippines Puerto Galera, Asia.
+A deeper reef south of Lighthouse Headland known for thresher shark sightings at depth, where the water temperature drops noticeably and larger marine life patrols.
 
 ## Overview
 
-Kilima is a dive site in Philippines Puerto Galera offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Kilima is a deeper reef site south of Puerto Galera's Lighthouse Headland, rated Advanced due to depth and the possibility of encountering large marine life. The site's claim to fame is thresher shark sightings -- these distinctive long-tailed sharks are occasionally seen at depth, particularly where the water temperature drops, indicating colder, nutrient-rich upwellings. The reef also supports humphead wrasse and banded sea snakes, along with the nudibranchs and flatworms that are found throughout Puerto Galera's dive sites.
 
 ## Site Information
 
-- **Location**: Philippines Puerto Galera, Asia
+- **Location**: South of Lighthouse Headland, Puerto Galera, Mindoro Island, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef (deep)
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-25 meters
+- **Current**: Variable, can be strong
+- **Water Temperature**: 28-29°C at the surface; noticeably cooler at depth
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Thresher sharks are the headline species, sighted at depth where the water temperature drops -- look into the blue water and along the deeper reef edges. Humphead wrasse, one of the reef's largest residents, can be encountered along the reef structure. Banded sea snakes hunt through the coral. Nudibranchs and flatworms provide macro interest across the reef surfaces for divers willing to alternate between watching the blue and scanning the substrate.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Descend to the deeper reef sections where thresher sharks have been observed. The temperature drop at depth is noticeable and can indicate where sharks are more likely to appear. Spend time scanning the blue water off the reef edge before working gradually shallower. The shallower reef provides good nudibranch and flatworm hunting for the second half of the dive. Maximum depth is approximately 30 meters, so gas management and bottom time planning are essential.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+- This is an Advanced-rated site -- ensure you are comfortable with depth and current management
+- Watch for temperature changes at depth, which can indicate where thresher sharks are more likely to appear
+- Scan the blue water off the reef edge for passing pelagics
+- Bring both macro and wide-angle capabilities if possible -- the site rewards both styles
+- Keep an eye out for banded sea snakes moving through the coral
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1055). Last updated 2026-04-08.*
