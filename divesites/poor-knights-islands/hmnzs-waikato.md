@@ -11,57 +11,52 @@ osmId: null
 addedBy: osm_import
 ---
 
-## HMNZS Waikato
+# HMNZS Waikato
 
-HMNZS Waikato is a historic wreck dive in Poor Knights Islands, Oceania.
+New Zealand's first Leander-class frigate, 113.4 meters long, scuttled in 2000 off Tutukaka and sunk in a world-record time of 2 minutes 40 seconds. Now resting on her port side in two sections at 28-32 meters with easy penetration opportunities and dramatic gun emplacements.
 
 ## Overview
 
-HMNZS Waikato is a dive site in Poor Knights Islands featuring the wreck of the HMNZS Waikato. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+HMNZS Waikato was the first of the Leander-class frigates built for the Royal New Zealand Navy, constructed by Harland and Wolff in Belfast, Ireland, and launched on 18 February 1966. At 113.4 meters long, 12.5 meters beam, and 5.5 meters draft, she was a substantial warship armed with twin 4.5-inch guns, 20mm machine guns, anti-aircraft missiles, torpedo tubes, and helicopter capability, with a top speed of 30 knots.
+
+After decommissioning in 1998, the Waikato was prepared as a dive attraction with large openings cut into the hull to make entry and exit safe for trained wreck divers. She was deliberately sunk on 25 November 2000 off Ngunguru Bay near Tutukaka in what was recorded as a world-record scuttling time of 2 minutes 40 seconds.
+
+The wreck now lies on her port side at approximately 45 degrees to the sand, broken into two sections. The bow section with the twin 115mm guns has separated from the main hull. The shallowest part of the wreck is only 12-14 meters from the surface, with the sand at 28-32 meters, making it accessible across a range of depths.
 
 ## Site Information
 
-- **Location**: Poor Knights Islands, Oceania
+- **Location**: Off Ngunguru Bay, Tutukaka Coast, Northland, New Zealand
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 28 meters
-- **Typical Visibility**: 15-40 meters (50-130 feet)
-- **Current**: Variable
+- **Maximum Depth**: 28 meters (to sand)
+- **Typical Visibility**: 10-20 meters
+- **Water Temperature**: 17-22 degrees C
+- **Current**: Variable; exposed location
 - **Best Time**: September to February
 
 ## Marine Life
 
-Divers at this site can expect to encounter wobbegong sharks, groupers, coral growth, great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles. Additional species commonly sighted include dolphins. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck structure attracts schools of fish that shelter within and around the hull. Kelp growth on the exposed starboard surfaces adds to the reef-like character. The twin-wreck area (combining with the nearby HMNZS Tui) creates a substantial artificial reef system off the Tutukaka Coast.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 28 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend the mooring line to the wreck. The starboard side is at 12-15 meters, providing an accessible starting point. From here, divers can explore along the hull, viewing the break between bow and stern sections where the internal deck levels are exposed. The twin 4.5-inch guns at the bow, shell storage areas, and the propeller at the stern are key highlights. Large openings cut for diver access make the wreck suitable as a penetration training site for qualified divers. The ship's dramatic 45-degree tilt can create a disorienting sensation, especially combined with kelp movement from swell.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from Tutukaka marina. The site is in a more exposed location than the HMNZS Tui, so surface conditions can be rougher. Entry by giant stride. The mooring line provides a reliable descent and ascent reference.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- The twin guns at the bow, shell storage compartments, and the propeller are the must-see features
+- The 45-degree tilt of the hull can be disorienting -- use the mooring line and surrounding water column as orientation references
+- Large openings cut into the hull make this an excellent wreck penetration training site
+- Combine with the HMNZS Tui for a twin-wreck day trip from Tutukaka
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish (box jellyfish in summer), crocodiles (north) in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+Advanced Open Water certification is required. The exposed location means sea conditions and visibility can change; follow the operator's assessment of conditions. The wreck's tilt combined with kelp movement from swell can cause vertigo -- maintain visual reference to fixed points. Penetration requires wreck diving certification. Loose metal edges exist where the hull has separated; maintain good buoyancy throughout. Adequate thermal protection is essential in New Zealand's temperate waters.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info), [NZ Diving - HMNZS Tui & Waikato](https://nzdiving.co.nz/hmnzs-tui-waikato/), [Dive Now - Waikato Wreck](https://divenow.co.nz/waikato-wreck/). Last updated 2026-04-08.*

@@ -11,57 +11,42 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Mitsubishi Zero Gizo
+# Mitsubishi Zero Gizo
 
-Mitsubishi Zero Gizo is a historic wreck dive in Solomon Islands, Pacific.
+A Mitsubishi A6M Zero-Sen fighter aircraft lying at just 8-10 metres depth, right off the Gizo market area near the Catholic Cathedral. The fuselage is broken behind the cockpit with the tail section upside down, the landing gear is in the down position, and the port wing is buried in sand. Shallow enough to be snorkelled.
 
 ## Overview
 
-Mitsubishi Zero Gizo is a dive site in Solomon Islands featuring the wreck of the Mitsubishi Zero Gizo. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+This A6M Zero fighter sits in very shallow water just offshore from the Gizo market area, near the Catholic Cathedral. At only 8-10 metres depth, the aircraft is visible from the surface in good conditions and can be snorkelled as well as dived.
+
+The Zero shows signs of having been deliberately placed rather than crash-landed -- the guns and instruments have been removed, and the landing gear is in the down position, which is inconsistent with a water landing. The fuselage is broken behind the cockpit, and the tail section lies upside down nearby. The port wing is buried in sand. Despite the missing armament and instruments, the airframe is clearly identifiable as a Zero and the shallow, sheltered location makes it one of the most accessible WWII aircraft wrecks in the Pacific.
 
 ## Site Information
 
-- **Location**: Solomon Islands, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
+- **Location**: Off Gizo market area, near the Catholic Cathedral, Ghizo Island
+- **Entry Type**: Boat dive or shore access from Gizo waterfront
+- **Site Type**: Wreck dive (WWII fighter aircraft)
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 10 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
-
-## Marine Life
-
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+- **Maximum Depth**: 8-10 metres
+- **Typical Visibility**: 15-30 metres
+- **Water Temperature**: 27-28°C
+- **Current**: Generally sheltered near shore
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 10 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+This is one of the simplest dive profiles in the Solomon Islands. Descend to the aircraft at 8-10 metres directly off the Gizo waterfront. The main fuselage section with the cockpit area (minus instruments and guns) is the primary feature. Examine the break point behind the cockpit where the fuselage is severed, then find the inverted tail section nearby. The port wing buried in sand and the landing gear in the down position are details worth noting. The extreme shallowness allows unlimited bottom time for photography and exploration. Snorkellers can observe the aircraft from the surface.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
+- Can be combined with a walk through the Gizo market for a unique half-day cultural and diving experience
+- The shallow depth and natural light make this an excellent photography site -- no flash or torch needed
+- Snorkellers and freedivers can enjoy this site without scuba equipment
+- The missing guns and instruments, combined with the gear-down position, suggest the aircraft was placed here rather than crashed -- an interesting point for history enthusiasts
+- This is an ideal first dive for newly certified divers or a warm-up dive before deeper Gizo-area sites
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+The shallow depth and sheltered harbour location make this one of the safest dive sites in the Solomon Islands. Be mindful of boat traffic in the Gizo waterfront area -- use a dive flag and maintain awareness of surface activity. Do not touch or stand on the aircraft. The broken fuselage may have sharp edges at the break point.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=391). Last updated 2026-04-08.*

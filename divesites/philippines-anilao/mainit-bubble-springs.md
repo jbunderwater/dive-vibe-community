@@ -11,57 +11,52 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Mainit Bubble Springs
+# Mainit Bubble Springs
 
-Mainit Bubble Springs is a wall dive site in Philippines Anilao, Asia.
+A unique site combining volcanic hot springs -- with bubbles and hot water rising from the sand -- and a 70-meter sheer wall covered in gorgonias, sponges, and sea whips, home to banded sea snakes, anglerfish, and turtles.
 
 ## Overview
 
-Mainit Bubble Springs is a dive site in Philippines Anilao featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Mainit Bubble Springs is one of Anilao's most distinctive dive sites, combining two unusual features. The first is the volcanic hot springs -- streams of bubbles and warm water rise from the sandy bottom, a reminder of the area's volcanic geology. The second is a sheer wall approximately 70 meters in length, dropping from 22 to 30 meters and covered in gorgonias, sponges, and sea whips. The combination of volcanic activity and rich wall diving creates a site unlike anything else in the Anilao area. Banded sea snakes are regularly encountered, and the wall supports anglerfish, leaf fish, batfish, turtles, and nudibranchs.
 
 ## Site Information
 
-- **Location**: Philippines Anilao, Asia
+- **Location**: Mainit, Anilao, Batangas, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Wall dive (with volcanic hot springs)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 10-20 meters
+- **Water Temperature**: 27-29°C (warmer near hot springs)
+- **Current**: Variable
+- **Best Time**: November to June (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Banded sea snakes are regularly encountered at Mainit Bubble Springs, hunting among the rocks and coral near the hot springs. The wall is home to anglerfish, which sit camouflaged on the gorgonia-covered surface. Leaf fish -- masterful mimics that sway like pieces of debris -- can be found along the wall. Batfish school near the wall face. Turtles are seen resting on ledges or swimming along the wall. The wall's gorgonias, sponges, and sea whips support a healthy population of nudibranchs. The volcanic hot springs themselves are fascinating to observe, with streams of bubbles and heated water creating visible distortion in the water column.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-30 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Enter from the boat and descend to explore both features of the site. The hot springs area is in the sandy shallows, where bubbles and hot water can be seen (and felt) rising from the bottom. The wall section runs approximately 70 meters, from 22 to 30 meters depth, and is covered in gorgonias, sponges, and sea whips. Work along the wall face, scanning for anglerfish, leaf fish, and nudibranchs. Check ledges for resting turtles. Keep an eye out for banded sea snakes throughout the dive.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by boat from Anilao-area resorts. Enter by giant stride and descend to the site. Deploy an SMB during your safety stop for boat pickup.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Feel the water near the hot springs -- the temperature difference is noticeable and adds to the unique character of the dive
+- The bubbles from the hot springs make for unusual photographs and video
+- Banded sea snakes are not aggressive but should be given space; they need to surface regularly to breathe
+- The wall section is the main attraction for marine life -- budget most of your bottom time there
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The volcanic hot springs produce heated water that can be surprisingly warm -- avoid putting your hand directly into a concentrated vent. Banded sea snakes are venomous, though they are generally docile and pose little threat if not harassed; give them room and do not attempt to handle them. The wall drops to 30 meters, so monitor your depth and gas supply carefully. Standard wall diving precautions apply -- watch for unintentional depth increases.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+Mainit Bubble Springs offers genuinely unique photographic opportunities. The volcanic bubbles rising from the sand create distinctive images found at very few dive sites worldwide. Wide-angle captures the bubble streams and wall structure effectively. On the wall, anglerfish and leaf fish are excellent macro subjects. Banded sea snakes in hunting posture make dramatic portrait images. The gorgonia-covered wall provides colourful reef-scape compositions. This site rewards photographers who bring both wide-angle and macro capability.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=1047). Last updated 2026-04-08.*

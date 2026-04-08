@@ -11,57 +11,48 @@ osmId: null
 addedBy: osm_import
 ---
 
-## The Finger
+# The Finger
 
-The Finger is a wall dive site in Papua New Guinea, Pacific.
+A finger-shaped reef on the east side of Basilisk Passage, with a western wall dropping past 40 meters and one of Papua New Guinea's most incredible night dives -- crayfish, flashlight fish, Spanish dancers, and giant eels.
 
 ## Overview
 
-The Finger is a dive site in Papua New Guinea featuring a dramatic vertical wall that drops into the deep blue. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The Finger is located on the east side of Basilisk Passage on Nateara Reef, near Port Moresby. The reef forms a distinctive finger shape pointing south, with a western wall that plunges more than 40 meters and a tip at 20-25 meters. By day, it is a solid wall and reef dive with excellent visibility (30-40 meters). By night, it transforms into something extraordinary -- crayfish emerge in numbers, flashlight fish with their bioluminescent organs create an eerie glow, Spanish dancers (large red nudibranchs) crawl across the reef, Moorish idols rest on ledges, spider crabs prowl the surfaces, giant moray eels hunt in the open, and rays glide over the sandy bottom. Strong currents are possible, particularly around the tip.
 
 ## Site Information
 
-- **Location**: Papua New Guinea, Pacific
+- **Location**: East side of Basilisk Passage, Nateara Reef, Port Moresby, Papua New Guinea
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Wall/reef dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 40 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Maximum Depth**: 40+ meters (western wall)
+- **Typical Visibility**: 30-40 meters
+- **Current**: Mild to strong (especially at the tip)
+- **Best Time**: Year-round; night dives are the standout experience
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The night dive marine life is the main draw. Crayfish (spiny lobsters) emerge from crevices in abundance. Flashlight fish (Anomalops) produce bioluminescent light from organs beneath their eyes, creating an otherworldly display in the darkness. Spanish dancers -- large, brilliantly red nudibranchs -- swim and crawl across the reef. Moorish idols settle into resting positions, their colours muted. Spider crabs traverse the reef surfaces. Giant moray eels leave their daytime hiding spots to hunt. Rays pass over the sandy areas below the reef. By day, the wall supports the typical Port Moresby reef community with good coral coverage and reef fish.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+For day dives, descend to the reef and follow the finger shape southward toward the tip. The western wall drops past 40 meters and provides the deepest section. The tip at 20-25 meters is where current is strongest and pelagic sightings most likely. For night dives, stay shallower on the reef top and work slowly, scanning with your torch for the nocturnal creatures that make this site exceptional. The finger shape provides natural navigation even in darkness -- follow the reef edge and reverse course.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from Port Moresby, transiting through or near Basilisk Passage. Entry is by giant stride. For night dives, the boat will typically anchor or moor in a sheltered position and divers stay within the vicinity. Deploy an SMB for pickup, particularly if current is present.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Book a night dive here -- it is the signature experience and one of the best night dives in PNG
+- For night dives, bring a strong primary torch and a backup; a red filter can help observe flashlight fish without scaring them
+- Spanish dancers are most active at night -- photograph them both crawling and "swimming" with their undulating bodies
+- During day dives, the excellent visibility (30-40 meters) makes wide-angle shots along the wall particularly dramatic
+- Be prepared for current at the tip of the finger, especially on tidal changes
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+Strong currents are possible, particularly around the tip of the finger and during tidal exchanges through Basilisk Passage. Monitor current conditions and do not push past the tip if the flow is strong. For night dives, maintain visual contact with your buddy and carry backup lighting. The western wall drops to significant depth -- monitor your depth gauge carefully on day dives. Deploy an SMB during ascent.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=365). Last updated 2026-04-08.*

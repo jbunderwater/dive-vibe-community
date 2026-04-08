@@ -11,57 +11,49 @@ osmId: null
 addedBy: osm_import
 ---
 
-## HMNZS Tui
+# HMNZS Tui
 
-HMNZS Tui is a historic wreck dive in Poor Knights Islands, Oceania.
+A former naval hydrographic research vessel scuttled off the Tutukaka Coast in 1999, now broken into three sections at 32 meters and rapidly becoming part of the reef. Famous for large schools of golden snapper and delicate Jason's nudibranchs on her hull.
 
 ## Overview
 
-HMNZS Tui is a dive site in Poor Knights Islands featuring the wreck of the HMNZS Tui. Located in the Oceania region, this site offers 15-40 meters of visibility with water temperatures averaging 20-29°C.
+HMNZS Tui began her career as the USNS Charles H Davis, an American hydrographic research vessel working for a university before being leased to the United States Navy. She was subsequently transferred to the Royal New Zealand Navy, where she served as HMNZS Tui conducting naval hydrographic survey work. During her service, the vessel was sent to Mururoa to observe the last series of French nuclear bomb tests in the Pacific.
+
+After decommissioning, the Tui was gifted to the Tutukaka Coast Promotions group following lengthy negotiations. She was prepared for her new role as a dive attraction and deliberately sunk off Tutukaka on 20 February 1999. The wreck now rests at approximately 32 meters and has broken into three main sections, rapidly becoming part of the surrounding reef ecosystem.
 
 ## Site Information
 
-- **Location**: Poor Knights Islands, Oceania
+- **Location**: Off Tutukaka Coast, Northland, New Zealand
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 33 meters
-- **Typical Visibility**: 15-40 meters (50-130 feet)
+- **Typical Visibility**: 10-25 meters
+- **Water Temperature**: 17-22 degrees C
 - **Current**: Variable
 - **Best Time**: September to February
 
 ## Marine Life
 
-Divers at this site can expect to encounter wobbegong sharks, groupers, coral growth, great white sharks, grey nurse sharks, whale sharks, manta rays, sea turtles. Additional species commonly sighted include dolphins. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The Tui is renowned for large schools of golden snapper that congregate around and within her broken hull sections. Jason's nudibranchs -- delicate, branching nudibranchs -- are found on the hydroid trees that now cover the hull plating. Schools of fish weave through the metal corridors of the wreck, and the fragmented structure creates habitat niches for a variety of reef species.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 33 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend the mooring line to the wreck at approximately 32 meters. The three main sections can be explored in sequence, with the wreck structure providing shelter from current. The fragmentation of the hull means there are numerous openings and passages to look through, though formal penetration requires wreck diving qualification. Work your way around the exterior, checking the hydroid-covered hull for nudibranchs and watching for snapper schools in the surrounding water. Ascend the mooring line with time for a safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from Tutukaka marina (a short ride to the wreck site). Entry by giant stride. The wreck is in a more sheltered location than the HMNZS Waikato, so conditions are generally calmer.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Look closely at the hydroid trees growing on the hull for the beautiful Jason's nudibranchs -- a macro lens is essential
+- The golden snapper schools are best observed by hovering quietly at a distance and letting the fish approach
+- Combining this dive with the nearby HMNZS Waikato on a twin-wreck day trip is a popular option
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish (box jellyfish in summer), crocodiles (north) in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+Divers require Advanced Open Water certification and a minimum of 35 logged dives. At 32 meters, bottom time on air is limited -- plan gas management carefully. The wreck's fragmented structure means loose metal edges exist; maintain good buoyancy and avoid contact with the hull. Do not attempt internal penetration without wreck diving certification. Carry a torch for illuminating interior sections.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info), [NZ Diving - HMNZS Tui & Waikato](https://nzdiving.co.nz/hmnzs-tui-waikato/), [Dive! Tutukaka](https://diving.co.nz/). Last updated 2026-04-08.*
