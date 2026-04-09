@@ -11,56 +11,49 @@ osmId: null
 addedBy: osm_import
 ---
 
-## The Arc
+# The Arc
 
-The Arc is a reef dive site in Philippines Bohol, Asia.
+A reef dive site off Panglao Island near the old Bohol Beach Club, featuring coral formations and reef fish along a sloping reef. An easy to moderate site that showcases Panglao's typical underwater landscape.
 
 ## Overview
 
-The Arc is a dive site in Philippines Bohol offering rewarding diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+The Arc is a reef dive site located off Panglao Island, near the former Bohol Beach Club resort. The site features a sloping reef with varied coral formations that provide habitat for a range of reef species. The terrain includes both hard coral sections and sandy patches, creating a mixed environment.
+
+The site is accessible to intermediate-level divers, with a maximum depth of approximately 25 meters. Conditions are generally moderate, though currents can vary. The proximity to Alona Beach makes it a convenient dive that can be easily combined with other Panglao sites.
 
 ## Site Information
 
-- **Location**: Philippines Bohol, Asia
+- **Location**: Off Panglao Island, Bohol, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Sloping reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 10-25 meters
+- **Water Temperature**: 26-30 degrees C
+- **Current**: Variable
+- **Best Time**: October to April
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+The reef supports typical Panglao marine life including nudibranchs, frogfish, and other macro subjects on the coral formations. Reef fish including butterflyfish, wrasses, damselfish, and anthias are present. Larger species occasionally pass through from deeper water.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend along the sloping reef, exploring the coral formations from the shallows down to 25 meters. The varied terrain -- coral sections alternating with sandy patches -- creates different micro-habitats worth investigating. The slope is gradual, making depth management straightforward. Return along the reef to the shallows for the safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by dive boat from Alona Beach area, a short ride. Entry by giant stride.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- A good site for macro photography -- check the coral formations for nudibranchs and frogfish
+- Can be easily combined with nearby Panglao dive sites for a multi-dive day
+- The mixed terrain provides variety in a compact area
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+Currents can be variable -- follow the dive guide's briefing. The maximum depth of 25 meters is moderate. Standard dive safety practices apply.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info). Last updated 2026-04-08.*

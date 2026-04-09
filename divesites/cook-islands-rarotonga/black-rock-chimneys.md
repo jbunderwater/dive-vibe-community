@@ -11,57 +11,49 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Black Rock Chimneys
+# Black Rock Chimneys
 
-Black Rock Chimneys is a reef dive site in Cook Islands Rarotonga, Pacific.
+An easy, shallow dive off Rarotonga's prominent Black Rock landmark on the west side, eight minutes from the harbour. Ridges and gullies from 7 meters anchor depth to 25 meters, with Christmas tree worms, giant clams, barracudas, and guineafowl pufferfish.
 
 ## Overview
 
-Black Rock Chimneys is a dive site in Cook Islands Rarotonga offering excellent diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Black Rock Chimneys takes its name from the prominent Black Rock (Tuoro) landmark on Rarotonga's west coast -- a dark volcanic outcrop that is also a sacred site in Cook Islands culture. The dive site sits just offshore, eight minutes from Avatui Harbour, in a system of ridges and gullies running perpendicular to the coast.
+
+The boat anchors at approximately 7 meters on the reef top. A gully drops to 12 meters, and the ridges extend out to a maximum of 25 meters. The shallow depths and generally calm conditions on the west side make this an excellent site for less experienced divers. Coral cover is approximately 15%, with the volcanic reef structure decorated by Christmas tree worms (Spirobranchus) in vivid reds, blues, and yellows, and giant clams (Tridacna) nestled in the gullies.
 
 ## Site Information
 
-- **Location**: Cook Islands Rarotonga, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Location**: Off Black Rock (Tuoro), west side, Rarotonga, Cook Islands
+- **Entry Type**: Boat dive (8 minutes from Avatui Harbour)
+- **Site Type**: Volcanic reef (ridges and gullies)
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 40+ meters
+- **Water Temperature**: 24-27 degrees C
+- **Current**: Generally mild
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Christmas tree worms in brilliant colours dot the reef surface. Giant clams sit in the gullies, their mantles displaying vivid patterns. Small schools of barracuda pass through the ridges. Guineafowl pufferfish (spotted black and white) are regular residents. The shallows support the typical west-side reef fish community.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+From the anchor at 7 meters, drop into the main gully at 12 meters and follow the ridges outward to 25 meters. The Christmas tree worms and giant clams are found throughout the depth range. The gullies provide natural navigation -- swim out along one and return along a parallel gully. The shallow depths allow extended bottom times.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by dive boat from Avatui Harbour, approximately eight minutes to the site. Entry by giant stride into sheltered water.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- A macro lens is ideal for the Christmas tree worms -- their colours are spectacular against the dark volcanic rock
+- The giant clams will close their mantles if approached too quickly; hover at a distance and let them relax
+- This is one of the best sites on Rarotonga for newer divers due to the shallow depth and calm conditions
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+This is a gentle site with minimal hazards. Currents are rarely an issue. The maximum depth of 25 meters keeps the site well within recreational limits. Maintain good buoyancy near the clams and coral to avoid damage.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info). Last updated 2026-04-08.*

@@ -11,57 +11,52 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Snake Island
+# Snake Island
 
-Snake Island is a reef dive site in Philippines Bohol, Asia.
+Also known as Cervera Shoal or Spaghetti Reef -- a remote shoal 11 kilometres from Panglao famous for its enormous population of black-and-white banded sea snakes. A steep slope and 300-meter-wide sandbar with bucket sponges, moray eels, nudibranchs, and drift diving in strong surface currents.
 
 ## Overview
 
-Snake Island is a dive site in Philippines Bohol offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Snake Island -- officially Cervera Shoal, also nicknamed Spaghetti Reef -- is located 11 kilometres from Panglao at a bearing of 128 degrees, approximately 30 minutes by pump boat. The site earned its name from the enormous population of black-and-white banded sea snakes (Laticauda colubrina) that inhabit the steep slope and 300-meter-wide sandbar on the shoal's southern side.
+
+The sea snakes are the primary attraction, encountered in large numbers throughout the dive. The reef also features bucket sponges, coral species that have recovered from previous dynamite fishing damage thanks to increased diver traffic discouraging destructive practices, and a variety of macro subjects including white-eyed moray eels, starry moray eels, and colourful nudibranchs.
+
+Surface currents can be strong, mellowing as you descend, making this a good drift dive site for experienced divers. The shoal is commonly dived as a second dive after visiting Pamilacan Island.
 
 ## Site Information
 
-- **Location**: Philippines Bohol, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
+- **Location**: Cervera Shoal, 11 km from Panglao, Bohol, Philippines
+- **Entry Type**: Boat dive (~30 min from Panglao)
+- **Site Type**: Shoal reef with steep slope
+- **Difficulty Level**: Intermediate (strong surface currents)
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 10-20 meters
+- **Water Temperature**: 26-30 degrees C
+- **Current**: Strong at surface, mellowing at depth
+- **Best Time**: March to June
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Black-and-white banded sea snakes (Laticauda colubrina) are present in large numbers -- the defining feature of this site. White-eyed moray eels and starry moray eels shelter in the reef. Nudibranchs and other macro subjects are found on the coral surfaces. Bucket sponges are prominent features. Sharks and dolphins are occasional visitors. Tropical reef fish inhabit the recovered coral formations.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter the water and descend quickly to escape the stronger surface currents. The currents mellow at depth, allowing comfortable exploration of the steep slope and sandbar. The sea snakes are found throughout the dive, particularly on the southern slope. Drift with the current along the reef, checking the bucket sponges and coral for macro subjects. The moray eels are found in crevices on the steeper sections.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by pump boat from Panglao, approximately 30 minutes. Often combined as a second dive on a Pamilacan Island day trip. Entry by giant stride with a negative entry to descend quickly through the surface current.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The sea snakes are venomous but docile and not aggressive toward divers -- do not harass or corner them
+- Macro photography is recommended for the nudibranchs, morays, and snake portraits
+- The surface currents can be strong -- negative entry and quick descent are advisable
+- Often combined with Pamilacan Island for a full-day dive trip
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+Surface currents can be strong -- drift diving experience is recommended despite the shallow maximum depth. The banded sea snakes are venomous but extremely unlikely to bite unless provoked; do not handle, chase, or corner them. The remote shoal location means a long surface return to shore. Follow the dive guide's assessment of current conditions.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Dive Scotty - Cervera Shoal Snake Island](https://www.divescotty.com/scuba-diving/cervera-shoal-snake-island.php), [Bohol Philippines - Cervera Shoal](https://www.bohol-philippines.com/cervera-shoal.html), [SM Divers Bohol - Sea Snakes of Bohol](https://www.smdiversbohol.com/sea-snakes-of-bohol-mysterious-and-misunderstood/). Last updated 2026-04-08.*

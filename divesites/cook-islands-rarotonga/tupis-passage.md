@@ -11,56 +11,49 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Tupis Passage
+# Tupis Passage
 
-Tupis Passage is a reef dive site in Cook Islands Rarotonga, Pacific.
+A passage on Rarotonga's northeast corner, 100 meters south of Arbuthnotts. Ridges and gullies running WNW from flat sand at 12 meters to a broken reef edge dropping to 30+ meters. Whitetip reef sharks, guineafowl moray eels, and giant clams.
 
 ## Overview
 
-Tupis Passage is a dive site in Cook Islands Rarotonga offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Tupis Passage sits on the northeast corner of Rarotonga, approximately 100 meters south of the Arbuthnotts dive site. The terrain features ridges and gullies running WNW from a flat sandy area at 12 meters, sloping to a 20-meter reef edge that then drops to 30 meters and beyond. The reef edge is broken and irregular, with small overhangs and ledges that provide shelter for marine life.
+
+Coral cover is approximately 10%, and the volcanic reef structure supports a similar community to the adjacent Arbuthnotts -- whitetip reef sharks patrol the reef edge, guineafowl moray eels peer from crevices, and giant clams sit in the gullies. The site is eight minutes from Avatui Harbour.
 
 ## Site Information
 
-- **Location**: Cook Islands Rarotonga, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Location**: Northeast corner, Rarotonga, Cook Islands (100m south of Arbuthnotts)
+- **Entry Type**: Boat dive (8 minutes from Avatui Harbour)
+- **Site Type**: Volcanic reef (ridges and gullies)
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 40+ meters
+- **Water Temperature**: 24-27 degrees C
+- **Current**: Generally mild
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Whitetip reef sharks are seen along the broken reef edge. Guineafowl moray eels shelter in volcanic rock crevices. Giant clams (Tridacna) sit in the gullies. The broken reef edge with its overhangs and ledges concentrates fish life at the 20-30 meter depth range.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Drop to the flat sand at 12 meters and follow the ridges WNW as they slope toward the reef edge at 20 meters. The broken reef edge drops to 30+ meters with small overhangs worth investigating for sharks and morays. Return along a parallel gully system. The proximity to Arbuthnotts means the two sites can sometimes be combined in a single long dive.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by dive boat from Avatui Harbour, approximately eight minutes. Entry by giant stride.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Check the broken reef edge overhangs carefully for whitetip reef sharks resting underneath
+- The guineafowl morays are photogenic -- approach slowly with a macro lens
+- Can be combined with Arbuthnotts as a longer single dive if air supply permits
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+The reef edge drops into deeper water -- monitor depth carefully. Currents are generally mild but can strengthen near the reef edge. The 30-meter depth requires careful gas management.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info). Last updated 2026-04-08.*

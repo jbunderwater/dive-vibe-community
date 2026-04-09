@@ -11,56 +11,50 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Oupere Grotto
+# Oupere Grotto
 
-Oupere Grotto is a cave dive site in New Caledonia, Pacific.
+A myriad of caves, tunnels, and arches near Oupere Island off the Isle of Pines. Tight squeezes and large passages create one of New Caledonia's most spectacular underwater photography environments.
 
 ## Overview
 
-Oupere Grotto is a dive site in New Caledonia featuring underwater cave and cavern formations. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Oupere Grotto is located near Oupere Island off the Isle of Pines, at the southern end of New Caledonia's lagoon. The site features a complex network of caves, tunnels, and natural arches carved through the reef limestone. The passages vary from tight squeezes that require careful maneuvering to large open chambers where multiple divers can swim abreast.
+
+The variety of passage sizes and the interplay of light through the arch openings make this one of the most photogenic dive sites in New Caledonia. Shafts of natural light penetrate through ceiling openings and tunnel exits, creating dramatic lighting effects. The cave walls support encrusting invertebrate growth, and fish shelter in the protected passages.
 
 ## Site Information
 
-- **Location**: New Caledonia, Pacific
+- **Location**: Near Oupere Island, Isle of Pines, New Caledonia
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/tunnel/arch system
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 20-40 meters
+- **Water Temperature**: 22-27 degrees C
+- **Current**: Generally mild inside the caves
+- **Best Time**: September to December
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+The cave and tunnel system shelters species adapted to low-light conditions. Fish congregate in the larger passages and arch openings. The walls support encrusting sponges, bryozoans, and small invertebrates. Outside the cave entrances, the surrounding reef hosts the typical Isle of Pines fish community.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter the cave system and navigate through the interconnected tunnels and arches. Some passages are tight squeezes that require careful body positioning, while others are large enough for comfortable swim-throughs. The maximum depth within the cave system reaches 30 meters in some passages. Maintain orientation by noting the natural light from openings throughout the system. Exit through one of the arch openings onto the surrounding reef.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by dive boat from Isle of Pines operators. Entry by giant stride near the cave entrance. Multiple exit points through different arches are possible.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- This is a premier underwater photography location -- wide-angle lenses capture the dramatic light shafts through the arch and tunnel openings
+- The tight squeezes require good buoyancy and streamlined equipment configuration
+- Take time in the larger chambers to appreciate the cathedral-like atmosphere
+- A torch is essential for illuminating the cave walls and dark passages
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+The cave and tunnel system contains overhead environments. While multiple openings provide natural light and exit points, divers should maintain awareness of their position and nearest exit at all times. The tight squeezes require good buoyancy control and body awareness -- avoid forcing through any passage that feels too narrow. Carry a torch with backup. Avoid stirring up sediment with careless fin kicks.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info). Last updated 2026-04-08.*

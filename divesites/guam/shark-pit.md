@@ -11,56 +11,50 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Shark Pit
+# Shark Pit
 
-Shark Pit is a reef dive site in Guam, Pacific.
+An unusual dive along Orote Peninsula with WWII artifacts, sea fans at 12 meters, a pinnacle rising from 30 meters to 4 meters, and resident sea turtles. One of the few Guam sites with gorgonian sea fans in the shallows. Named for its turtle-like shape, though sharks are also present.
 
 ## Overview
 
-Shark Pit is a dive site in Guam offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Shark Pit is located along Orote Peninsula, just south of the Blue Hole off Orote Point. Despite its name, the site is actually shaped like a turtle when viewed from above, and sea turtles -- not sharks -- are the most reliable large animal encounter, visible on most dives. That said, reef sharks and even pilot whales have been reported in the area.
+
+The site features a pinnacle that rises dramatically from approximately 30 meters to just 4 meters below the surface. One of the distinguishing features of Shark Pit is the presence of gorgonian sea fans at just 12 meters depth -- unusual for Guam, where sea fans are typically found much deeper. WWII artifacts including tanks and trucks are scattered in the area, adding historical interest to the dive. The site is popular for macro photography.
 
 ## Site Information
 
-- **Location**: Guam, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Location**: Orote Peninsula, south of Blue Hole, Guam
+- **Entry Type**: Boat dive (also accessible by shore via Naval Base)
+- **Site Type**: Pinnacle with WWII artifacts
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Maximum Depth**: 30 meters (sand around pinnacle); pinnacle top at 4 meters
+- **Typical Visibility**: 15-25 meters
+- **Water Temperature**: 28-29 degrees C
+- **Current**: Variable
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Sea turtles are seen on most dives. Gorgonian sea fans at 12 meters are a highlight -- unusually shallow for Guam. The pinnacle structure attracts fish schools. Macro subjects are abundant on the pinnacle surfaces. Sharks are occasional visitors to the deeper sections. Pilot whales have been reported in the surrounding waters.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the pinnacle, which rises from the sand at approximately 30 meters to a peak at 4 meters. Explore the deeper sections first for the sea fans and WWII artifacts, then work upward along the pinnacle walls. The turtles are encountered at various depths. The pinnacle top at 4 meters provides an excellent safety stop area with fish life to observe. The variable depth range means the dive can be tailored to certification level.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Primarily accessed by boat. Can also be dived from shore via Naval Base Guam, but boat access is more convenient. Entry by giant stride.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The sea fans at 12 meters are a rarity in Guam waters -- bring a wide-angle lens
+- Look for the WWII artifacts (tanks, trucks) scattered around the base of the pinnacle
+- The pinnacle top at 4 meters makes an excellent extended safety stop
+- The macro photography opportunities on the pinnacle surfaces are outstanding
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+Currents at Orote Peninsula can be variable -- follow the dive guide's assessment. The pinnacle drops to 30 meters at the base, so monitor depth when exploring the deeper sections. The WWII artifacts should be observed but not touched or disturbed.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [MDA Guam - Sharks Pit](https://www.mdaguam.com/destination/sharks-pit/), [SSI - Sharks Pit](https://www.divessi.com/en/mydiveguide/divesite/sharks-pit-guam-309332), [Asia Dive Site](http://www.asiadivesite.com/micronesia-dive-sites/guam/sharks-pit.php). Last updated 2026-04-08.*

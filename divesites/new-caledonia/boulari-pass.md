@@ -11,56 +11,50 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Boulari Pass
+# Boulari Pass
 
-Boulari Pass is a drift dive site in New Caledonia, Pacific.
+A drift dive through the outer barrier reef near Amadee Island, famous as one of the best sites in New Caledonia for manta ray encounters. Reef sharks, barracuda, and large fish in the pass, with guided shark feeding.
 
 ## Overview
 
-Boulari Pass is a dive site in New Caledonia offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Boulari Pass is a break in the outer barrier reef near Amadee Island, south of Noumea. The site is dived as a drift, riding the tidal current through the pass where nutrient-rich water from the open ocean funnels into the lagoon. This concentration of nutrients attracts large marine life, making Boulari Pass one of the premier big-animal dive sites in New Caledonia.
+
+The pass is famous for manta ray encounters -- the mantas come to the pass to feed on plankton concentrated by the tidal flow. Reef sharks (grey reef and whitetip) are resident, and barracuda schools patrol the pass. Some local dive operators conduct guided shark feeds at this site, bringing additional sharks into the area. The maximum depth is approximately 21 meters, keeping the dive well within recreational limits despite the larger marine life encounters.
 
 ## Site Information
 
-- **Location**: New Caledonia, Pacific
+- **Location**: Outer barrier reef near Amadee Island, south of Noumea, New Caledonia
 - **Entry Type**: Boat dive
-- **Site Type**: Drift
+- **Site Type**: Drift dive through reef pass
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 21 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 20-30 meters
+- **Water Temperature**: 22-27 degrees C (reported as 23 degrees C in October)
+- **Current**: Moderate to strong (tidal)
+- **Best Time**: September to December for mantas
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Manta rays are the headline attraction, drawn to the pass by plankton concentrations. Grey reef sharks and whitetip reef sharks are resident. Large schools of barracuda patrol the pass. Other large fish species are attracted by the nutrient-rich water funneling through the break in the barrier reef. Some operators conduct guided shark feeds that bring additional sharks to the area.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 21 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter the water upstream of the pass and drift through with the tidal current. The bottom of the pass sits at approximately 21 meters, with the reef walls rising on either side. Maintain a comfortable depth of 12-18 meters to watch for mantas and sharks in the water column above and below. If a shark feed is conducted, the guide will indicate positioning. The drift ends as the pass opens into the lagoon, where the current dissipates and the boat picks up.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by dive boat from Noumea -- approximately 40 minutes to the Amadee Island area. Entry by giant stride upstream of the pass. Exit by SMB pickup in the lagoon after drifting through the pass.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The mantas are most frequently seen during the September-December period when plankton blooms are heaviest
+- A wide-angle lens is essential for the large marine life encounters
+- If a shark feed is offered, follow the guide's instructions precisely for positioning and behavior
+- The drift through the pass is exhilarating -- relax and let the current do the work
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+The tidal current through the pass can be strong -- this drift dive requires comfort with current diving. Stay with the group and follow the guide's signals. During shark feeds, maintain the position indicated by the guide and do not make sudden movements. Deploy an SMB well before surfacing for boat pickup.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info). Last updated 2026-04-08.*

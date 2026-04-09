@@ -11,57 +11,50 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Amadee Island Reef
+# Amadee Island Reef
 
-Amadee Island Reef is a reef dive site in New Caledonia, Pacific.
+The reef surrounding Amadee Island and its iconic 56-meter lighthouse south of Noumea. A beginner-friendly site in the UNESCO-listed lagoon with colourful coral, abundant tropical fish, sea snakes, and sea turtles. Located in a Marine Protected Area.
 
 ## Overview
 
-Amadee Island Reef is a dive site in New Caledonia offering excellent diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Amadee Island (Ilot Amedee) is a small islet -- just 400 meters long and 270 meters wide -- located approximately 40 minutes by boat south of Noumea. The island is dominated by the Amedee Lighthouse, a 56-meter iron structure inaugurated on 15 November 1865 that is the sole remaining metal lighthouse in France. The surrounding reef sits within the New Caledonia lagoon, a UNESCO World Heritage site.
+
+The reef around Amadee Island is protected as a Marine Protected Area, and the calm, shallow conditions make it one of the most accessible dive sites near Noumea. The coral formations are colourful and well-maintained within the protected zone, and the diversity of tropical fish is high. Sea snakes are abundant around the island, and sea turtles are frequently encountered. The site is popular for both scuba diving and snorkelling, with glass-bottom boats also operating in the area.
 
 ## Site Information
 
-- **Location**: New Caledonia, Pacific
+- **Location**: Amadee Island, south of Noumea, New Caledonia (UNESCO lagoon)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Coral reef (Marine Protected Area)
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 15-20 meters
+- **Water Temperature**: 22-27 degrees C (24 degrees C typical)
+- **Current**: Generally mild inside the lagoon
+- **Best Time**: October to April (warmest water)
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Sea turtles are frequently encountered on the reef. Banded sea snakes are abundant around the island. The protected reef supports over 200 species of fish and 80 species of coral. Clownfish in anemones, butterflyfish, parrotfish, and wrasses are common throughout. The Marine Protected Area status has allowed fish populations to flourish.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The reef extends around the island at depths from 3-20 meters, with the most developed coral and fish life in the 5-15 meter range. Navigate along the reef edge, exploring the coral formations and watching for turtles and sea snakes. The shallow maximum depth allows extended bottom times and relaxed exploration. The site can be dived from multiple entry points around the island.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by dive boat or day-trip boat from Noumea (approximately 40 minutes). The island also receives tourist boats with snorkelling programs. Entry by giant stride from the dive boat.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The sea snakes are photogenic but maintain a respectful distance; they are venomous though not aggressive
+- Turtles are regularly seen -- approach slowly and they will often continue feeding undisturbed
+- The shallow, calm conditions make this an excellent site for underwater photography beginners
+- Combine with a visit to the lighthouse -- the 247 steps to the top offer panoramic views of the lagoon
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+A gentle site with minimal hazards. Sea snakes are venomous but docile; do not handle them. Currents are generally mild inside the lagoon. Boat traffic from tourist vessels is possible -- deploy an SMB during ascent and stay aware of surface activity.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info), [Solo Passport - Diving in Amedee Island](https://solopassport.com/diving-in-amedee-island/), [New Caledonia Tourism](https://au.newcaledonia.travel/destination/noumea/amedee-lighthouse/). Last updated 2026-04-08.*

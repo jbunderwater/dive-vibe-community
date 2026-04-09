@@ -11,57 +11,52 @@ osmId: null
 addedBy: osm_import
 ---
 
-## SMS Cormoran
+# SMS Cormoran
 
-SMS Cormoran is a historic wreck dive in Guam, Pacific.
+A WWI German armed raider (ex-SS Ryazan), 87 meters long, scuttled by her crew on 7 April 1917 when the United States entered the war. Lying on her port side in Apra Harbor adjacent to the WWII Japanese transport Tokai Maru -- one of the only places in the world where divers can touch wrecks from both World Wars on the same dive.
 
 ## Overview
 
-SMS Cormoran is a dive site in Guam featuring the wreck of the SMS Cormoran. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+SMS Cormoran II was originally the Russian steamer SS Ryazan, an 87-meter, 3,500-ton vessel captured by the German Navy at the outbreak of World War I and converted into an armed raider. After a brief commerce-raiding career in the Pacific, she was forced to seek refuge in the neutral port of Apra Harbor, Guam, where she was interned by the Americans.
+
+When the United States declared war on Germany on 7 April 1917, the crew of the Cormoran chose to scuttle their ship rather than surrender her. They opened the sea cocks and the vessel sank in the harbor, coming to rest on her port side at approximately 30-32 meters.
+
+The wreck's claim to global diving fame came decades later when the Japanese transport Tokai Maru sank during World War II and settled immediately adjacent to the Cormoran. The two wrecks now share a mooring buoy, and divers can reach out and touch both vessels simultaneously -- spanning two World Wars with their arms. This is one of the only places in the world where this is possible.
 
 ## Site Information
 
-- **Location**: Guam, Pacific
+- **Location**: Apra Harbor, Guam
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 32 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Maximum Depth**: 32 meters (propeller to forward funnel)
+- **Typical Visibility**: 10-15 meters (Apra Harbor)
+- **Water Temperature**: 28-29 degrees C
+- **Current**: Generally mild inside the harbor
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The combined wreck site (Cormoran and adjacent Tokai Maru) has become a significant artificial reef in Apra Harbor. Coral and sponge growth encrust both hulls. Fish shelter in and around the wreck structures. The harbor environment means visibility is typically lower than open-ocean sites but marine life is abundant.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 32 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend the shared mooring line to the wrecks. The Cormoran lies on her port side with the hull rising from approximately 32 meters at the keel to the starboard side at around 20 meters. The adjacent Tokai Maru is close enough to touch from the Cormoran -- the point where both wrecks can be reached simultaneously is the signature experience. Explore the Cormoran's exterior, noting the size and construction of this early 20th-century vessel. At 32 meters, bottom time is limited -- plan the dive to include the Two-World-Wars photo opportunity before gas runs low.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by dive boat from Apra Harbor operators. The wrecks share a mooring buoy, making descent straightforward. Entry by giant stride. The sheltered harbor provides calm surface conditions.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- The two-wars-one-dive experience is unique globally -- bring a camera and have your buddy photograph you touching both wrecks
+- Visibility in Apra Harbor averages 10-15 meters; a torch helps illuminate the hull details
+- The Cormoran and Tokai Maru can be explored on a single dive, but two separate dives allow more thorough exploration of each vessel
+- The scuttling history adds significant historical interest -- research the story before your dive
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+At 32 meters with limited harbor visibility, this is an advanced dive. Gas management must be planned carefully for the depth. The wrecks are deteriorating and loose metal is present -- maintain good buoyancy and avoid contact with the hull structure. Interior penetration requires wreck diving certification. The harbor location means boat traffic above -- deploy an SMB during ascent.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info). Last updated 2026-04-08.*

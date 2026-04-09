@@ -11,57 +11,50 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Tokai Maru
+# Tokai Maru
 
-Tokai Maru is a historic wreck dive in Guam, Pacific.
+A WWII Japanese transport, 139 meters long and 8,365 tons, sunk in Apra Harbor adjacent to the WWI German raider SMS Cormoran. Together they form one of the only dive sites in the world where you can touch wrecks from two World Wars on the same dive.
 
 ## Overview
 
-Tokai Maru is a dive site in Guam featuring the wreck of the Tokai Maru. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The Tokai Maru was a 139-meter, 8,365-ton Japanese transport ship sunk during World War II in Apra Harbor, Guam. The vessel came to rest immediately adjacent to the SMS Cormoran II, a WWI German armed raider that had been scuttled in the same harbor in 1917. The proximity of the two wrecks creates one of the most historically significant dive sites in the world -- divers can simultaneously touch vessels from both World Wars.
+
+The Tokai Maru is substantially larger than the Cormoran (139 meters vs 87 meters) and extends to greater depths, with sections reaching approximately 40 meters. The wreck provides extensive exploration opportunities along its hull and superstructure.
 
 ## Site Information
 
-- **Location**: Guam, Pacific
+- **Location**: Apra Harbor, Guam
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: ~12 meters (Apra Harbor typical)
+- **Water Temperature**: 28-29 degrees C
+- **Current**: Generally mild inside the harbor
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The massive hull structure has become a significant artificial reef. Coral growth, sponges, and anemones encrust the exterior. Fish of various species shelter in and around the wreck. The combined wreck site (with the adjacent Cormoran) supports a substantial reef community despite the harbor location.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 40 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend the shared mooring line to the wreck complex. The Tokai Maru's 139-meter length means a single dive cannot cover the entire vessel -- focus on either the bow or stern section plus the connection point with the Cormoran. The deepest sections reach 40 meters, so plan your deepest exploration first while gas supply is full, then work shallower. The point where the Tokai Maru and SMS Cormoran can be touched simultaneously is in the mid-section. Bottom time at 40 meters is severely limited on air.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by dive boat from Apra Harbor operators. The shared mooring buoy with the Cormoran provides a convenient descent line. Entry by giant stride. The harbor provides calm surface conditions.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- The touching-two-World-Wars experience is the must-do moment -- coordinate with your buddy for the photograph
+- At 139 meters, this wreck is too large for a single dive; plan at least two dives to explore different sections
+- Visibility in Apra Harbor typically averages around 12 meters -- carry a powerful torch
+- The historical significance of both wrecks is remarkable; research both vessels' stories before diving
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+At 40 meters maximum depth with harbor visibility of approximately 12 meters, this is a challenging deep wreck dive. Gas management is critical -- plan conservatively and do not exceed your planned bottom time. The wreck structure is deteriorating; avoid contact with hull plating that could give way. Interior penetration is for wreck-certified divers only. The harbor location means boat traffic overhead -- always deploy an SMB during ascent.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info). Last updated 2026-04-08.*

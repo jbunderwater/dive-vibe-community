@@ -11,57 +11,50 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Maritime Reefer
+# Maritime Reefer
 
-Maritime Reefer is a historic wreck dive in Cook Islands Rarotonga, Pacific.
+The wreck of a fishing vessel southwest of Black Rock on Rarotonga's west side, broken into two pieces at 26 meters. The stern lies on its port side at 45 degrees with a bent propeller and rudder; the bow faces the opposite direction. Refrigerated holds and diesel engine visible inside.
 
 ## Overview
 
-Maritime Reefer is a dive site in Cook Islands Rarotonga featuring the wreck of the Maritime Reefer. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The Maritime Reefer is the wreck of a fishing vessel estimated at 40-50 meters in length, lying in two pieces at approximately 26 meters on the west side of Rarotonga, southwest of Black Rock. The vessel is believed to have sunk around 1981, though the exact circumstances are not well documented.
+
+The stern section rests on its port side at approximately 45 degrees, with the propeller and rudder visible -- both bent from the sinking or subsequent storm damage. The bow section has come to rest facing the opposite direction from the stern. The wreck's interior is partially accessible, with the refrigerated holds and diesel engine visible through openings in the hull. The crystal-clear Rarotonga visibility (40+ meters) means the entire wreck is visible from above during descent.
 
 ## Site Information
 
-- **Location**: Cook Islands Rarotonga, Pacific
+- **Location**: SW of Black Rock, west side, Rarotonga, Cook Islands
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Maximum Depth**: 26 meters
+- **Typical Visibility**: 40+ meters
+- **Water Temperature**: 24-27 degrees C
+- **Current**: Generally mild
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck structure attracts fish life that is otherwise sparse on Rarotonga's low-coral reefs. Eagle rays have been observed in the vicinity. The hull surfaces support encrusting growth and small reef species shelter in and around the broken sections.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the wreck at 26 meters -- the exceptional visibility means you will see it from well above during descent. Start at either the stern or bow section, noting the bent propeller and rudder at the stern and the separation point where the vessel broke apart. The refrigerated holds and diesel engine can be viewed from outside through hull openings. Move between the two sections, which face in opposite directions, before ascending. The 26-meter depth allows a reasonable bottom time on air.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by dive boat from Avatui Harbour. Entry by giant stride. The west-side location typically provides calm surface conditions.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- The bent propeller and rudder at the stern make for dramatic photos against the clear blue water
+- Use a torch to illuminate the diesel engine and refrigerated hold interiors
+- The two broken sections facing opposite directions create an unusual wreck layout -- photograph both for the full picture
+- Good conditions for wreck photography due to the exceptional visibility
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+At 26 meters, gas management is important but the depth is well within recreational limits. Do not enter the hull -- the broken structure could shift. The interior can be viewed adequately from outside through the openings. Sharp metal edges exist at the break point between the two sections.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info). Last updated 2026-04-08.*

@@ -11,57 +11,50 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Pamilacan Island
+# Pamilacan Island
 
-Pamilacan Island is a wall dive site in Philippines Bohol, Asia.
+A remote island 12 kilometres southeast of Panglao with steep sloping reefs, large hard and soft corals, and strong currents attracting pelagic species. Multiple dive sites including walls, coral shelves, and sandy slopes. Hawksbill turtles, barracuda schools, and rare macro life.
 
 ## Overview
 
-Pamilacan Island is a dive site in Philippines Bohol featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Pamilacan Island is a remote island located approximately 12 kilometres southeast of Panglao Island, requiring a 45-60 minute boat ride from Alona Beach. The island's isolation and exposure to strong currents from the Bohol Sea attract both large pelagic species and an impressive array of smaller marine life.
+
+The island offers several dive sites -- including Dakit Dakit, Spanish Tower, and Sanctuary -- each providing different underwater terrain from coral shelves and walls to sandy slopes and strong-current drift conditions. The reef structure features large hard and soft corals that have grown to impressive sizes in the nutrient-rich currents. Hawksbill sea turtles are present year-round, schools of barracuda and jackfish patrol the deeper slopes, and the site is known for rare macro finds.
 
 ## Site Information
 
-- **Location**: Philippines Bohol, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Location**: Pamilacan Island, 12 km SE of Panglao, Bohol, Philippines
+- **Entry Type**: Boat dive (45-60 min from Alona Beach)
+- **Site Type**: Wall/slope
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 15-30 meters
+- **Water Temperature**: 26-30 degrees C
+- **Current**: Often strong; drift diving common
+- **Best Time**: March to June
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Hawksbill sea turtles are encountered year-round. Schools of jackfish are common on the deeper slopes. Barracuda schools patrol the walls. The strong currents occasionally attract larger pelagic visitors. The reef supports both large coral formations and rare macro life including nudibranchs and unusual crustaceans. Colourful coral gardens line the walls and shelves.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-35 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+The specific profile depends on which of the island's dive sites is selected. Generally, the dive begins along a coral shelf at 5-10 meters, then descends along a wall or slope to 25-35 meters. The strong currents often make this a drift dive. The deeper slopes at Dakit Dakit are the best location for jackfish encounters. The shallower coral gardens at Spanish Tower and Sanctuary offer the best coral diversity.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by dive boat from Panglao Island (Alona Beach area), approximately 45-60 minutes. The long boat ride means this is typically a full-day trip with 2-3 dives. Entry by giant stride.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- The boat ride is long -- plan for a full-day trip with multiple dives
+- The currents at Pamilacan can be significant; prior drift diving experience is strongly recommended
+- Advanced Open Water certification is highly recommended for the conditions here
+- The combination of pelagics and macro makes this site rewarding for photographers with both lens types
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+Strong currents are common and can develop rapidly -- drift diving skills are essential. The remote location means a long surface interval return to medical facilities. Follow the dive guide's assessment of conditions; some sites may not be diveable in strong current periods. The 35-meter maximum depth requires careful gas management, especially in current.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info), [SM Divers Bohol - Pamilacan Island](https://www.smdiversbohol.com/exploring-the-underwater-beauty-of-pamilacan-island/), [Dive Scotty - Pamilacan Island](https://www.divescotty.com/scuba-diving/pamilacan-island.php). Last updated 2026-04-08.*

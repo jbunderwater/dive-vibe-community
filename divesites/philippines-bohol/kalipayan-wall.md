@@ -11,57 +11,50 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Kalipayan Wall
+# Kalipayan Wall
 
-Kalipayan Wall is a wall dive site in Philippines Bohol, Asia.
+The house reef of Alona Beach, also known as the "Happy Wall" -- close enough to swim from shore. A vertical wall starting at 3 meters dropping to 20 meters with soft corals, sea fans, batfish, lionfish, nudibranchs, and robust ghostpipefish in the adjacent sandy area.
 
 ## Overview
 
-Kalipayan Wall is a dive site in Philippines Bohol featuring a dramatic vertical wall that drops into the deep blue. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Kalipayan Wall is the house reef of Alona Beach, located just 4-5 minutes by banca from the closest dive centres -- or reachable by a short swim from the beach. Known locally as the "Happy Wall" (Kalipayan means happy in Visayan), this site provides easy access to a vertical wall dive right on Panglao's doorstep.
+
+The wall starts at approximately 3 meters and drops to around 20 meters, decorated with soft and colourful coral heads and small gorgonian sea fans. The conditions are typically calm, without currents, and visibility can reach 25 meters. A sandy area adjacent to the wall is a known habitat for robust ghostpipefish (a rare macro find) and large stonefish have been spotted in the deeper sections.
 
 ## Site Information
 
-- **Location**: Philippines Bohol, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 35 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Location**: Off Alona Beach, Panglao Island, Bohol, Philippines
+- **Entry Type**: Boat or shore dive
+- **Site Type**: Vertical wall
+- **Difficulty Level**: Beginner to Intermediate
+- **Maximum Depth**: 20 meters (wall base)
+- **Typical Visibility**: Up to 25 meters
+- **Water Temperature**: 26-30 degrees C
+- **Current**: Normally calm, without currents
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+A group of batfish is nearly always present along the wall. Lionfish shelter in crevices and overhangs. Colourful nudibranchs are found on the coral surfaces. The sandy area adjacent to the wall hosts robust ghostpipefish -- a prized macro sighting. Large stonefish have been spotted in the deeper sections. Small groupers and juvenile barracuda cruise the wall face. Sea fans and soft corals decorate the wall.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-35 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Enter from the beach or banca and descend to the wall top at 3 meters. Follow the wall down to its base at approximately 20 meters, checking the coral heads for nudibranchs and the crevices for lionfish. The batfish group is usually found mid-wall. Explore the sandy area adjacent to the wall for ghostpipefish -- they are well camouflaged among debris and algae. Return along the wall to the shallows. The calm conditions and shallow depth allow extended bottom times.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by banca from Alona Beach (4-5 minutes) or by swimming directly from the beach. Entry by giant stride from banca or wade-in from shore.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- The robust ghostpipefish in the sandy area are a highlight for macro photographers -- ask your guide to point out their current location
+- The batfish group is photogenic and usually cooperative -- approach slowly
+- This is an excellent night dive site due to the easy access and calm conditions
+- Perfect for a relaxed morning dive or a last dive of the day
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+An easy, sheltered site with minimal hazards. The stonefish in the deeper sections are a reminder not to touch the bottom or rest on the sand. Watch for sea urchins on the wall. The calm conditions make this one of the safest dive sites on Panglao.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [SSI - Kalipayan](https://www.divessi.com/en/mydiveguide/divesite/kalipayan-bohol-wall-panglao-philippines-100620), [Bohol Philippines - Kalipayan](https://www.bohol-philippines.com/kalipayan-dive-site.html), [Starfish - Bohol Diving](https://www.starfish.ch/dive/Bohol.html). Last updated 2026-04-08.*

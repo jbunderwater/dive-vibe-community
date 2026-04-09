@@ -11,57 +11,50 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Matavera School Reef
+# Matavera School Reef
 
-Matavera School Reef is a reef dive site in Cook Islands Rarotonga, Pacific.
+A dramatic reef on Rarotonga's northeast corner, off Matavera School. Slopes from 10 meters to a 30-meter intermittent wall with overhangs, then drops severely to 100+ meters. Turtles and large firefish, but the lowest coral cover on the island (~5%). Twelve minutes from harbour.
 
 ## Overview
 
-Matavera School Reef is a dive site in Cook Islands Rarotonga offering excellent diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Matavera School Reef lies on the northeast corner of Rarotonga, offshore from Matavera School. The anchor drops at approximately 10 meters, and the reef slopes to a 30-meter intermittent wall with overhangs before plunging severely into water exceeding 100 meters -- making the dropoff here one of the most dramatic on the island.
+
+Despite the impressive topography, coral cover at this site is the lowest observed around Rarotonga at approximately 5%. The volcanic rock substrate dominates, with scattered coral colonies on the wall and overhangs. The compensation comes from the marine life: two resident turtles are regularly seen, and large firefish (lionfish) inhabit the overhangs along the wall. The site is twelve minutes from Avatui Harbour.
 
 ## Site Information
 
-- **Location**: Cook Islands Rarotonga, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Location**: Northeast corner, off Matavera School, Rarotonga, Cook Islands
+- **Entry Type**: Boat dive (12 minutes from Avatui Harbour)
+- **Site Type**: Volcanic reef/wall
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 30 meters (wall drops to 100+ meters)
+- **Typical Visibility**: 40+ meters
+- **Water Temperature**: 24-27 degrees C
+- **Current**: Generally mild
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Two turtles are regularly seen at this site. Large firefish (lionfish) shelter under the wall overhangs. The low coral cover (~5%) means fewer small reef fish than the west-side sites, but the dramatic dropoff attracts occasional pelagic visitors from deeper water.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Drop to the anchor at 10 meters and follow the slope to the intermittent wall at 30 meters. The overhangs along the wall are where the firefish and turtles are most often encountered. Do not descend beyond 30 meters -- the wall drops severely into very deep water. The excellent visibility means the abyss beyond the wall is visible, which can be both dramatic and disorienting. Return along the slope to the shallows for your safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by dive boat from Avatui Harbour, approximately twelve minutes to the site. Entry by giant stride.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The overhangs along the 30-meter wall are the highlight -- look for the firefish tucked underneath
+- The turtles are accustomed to divers but do not approach too closely
+- The dropoff into 100+ meters is dramatic in the clear water -- worth a look but watch your depth
+- Despite low coral cover, the topography and marine life make this a rewarding dive
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+The severe dropoff beyond 30 meters demands careful depth monitoring. The crystal-clear visibility can make the abyss inviting -- resist the temptation to go deeper. Currents are generally mild but can increase near the wall edge.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info). Last updated 2026-04-08.*

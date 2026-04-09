@@ -11,56 +11,49 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Sunset Ridge
+# Sunset Ridge
 
-Sunset Ridge is a reef dive site in Cook Islands Rarotonga, Pacific.
+A ridge running parallel to shore near Sunset Resort and Black Rock on Rarotonga's west side. Anchor at 7 meters, gully at 12 meters, ridges dropping to 25 meters. Similar marine life to other west-side sites. Ten minutes from harbour.
 
 ## Overview
 
-Sunset Ridge is a dive site in Cook Islands Rarotonga offering rewarding diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Sunset Ridge is located on Rarotonga's west side near the Sunset Resort and the Black Rock landmark, approximately ten minutes from Avatui Harbour. A volcanic rock ridge runs parallel to the shore, with the boat anchor at approximately 7 meters, a gully at 12 meters, and the ridges extending to a maximum depth of 25 meters.
+
+The site shares the same general character as the other west-side sites (Black Rock Chimneys, Black Rock Passage) -- volcanic rock ridges and gullies with moderate coral cover, Christmas tree worms, giant clams, and the typical west-side fish community in crystal-clear water. The shallow maximum depth and generally calm west-side conditions make this suitable for beginner divers.
 
 ## Site Information
 
-- **Location**: Cook Islands Rarotonga, Pacific
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Location**: Near Sunset Resort/Black Rock, west side, Rarotonga, Cook Islands
+- **Entry Type**: Boat dive (10 minutes from Avatui Harbour)
+- **Site Type**: Volcanic reef (ridge and gully)
+- **Difficulty Level**: Beginner
+- **Maximum Depth**: 25 meters
+- **Typical Visibility**: 40+ meters
+- **Water Temperature**: 24-27 degrees C
+- **Current**: Generally mild
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Similar to other west-side sites: Christmas tree worms, giant clams, barracuda, guineafowl pufferfish, butterflyfish, wrasses, and other reef fish. The ridge and gully system provides habitat throughout the depth range.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+From the anchor at 7 meters, drop into the main gully at 12 meters and follow the ridge parallel to shore. The ridge extends to 25 meters at its deepest point. Explore the gully walls for invertebrates and the ridge surfaces for Christmas tree worms and giant clams. The shallow depth allows extended bottom time.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by dive boat from Avatui Harbour, approximately ten minutes to the site. Entry by giant stride into sheltered water.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Afternoon dives on the west side can have dramatic lighting as the sun lowers -- fitting for a site named "Sunset Ridge"
+- Similar marine life to Black Rock Chimneys but a different ridge orientation offers a fresh perspective
+- Good site for training dives due to the calm, shallow conditions
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+A gentle site with minimal hazards. Currents are rarely significant. The 25-meter maximum depth is well within recreational limits.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info). Last updated 2026-04-08.*

@@ -11,56 +11,50 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Les Pitons
+# Les Pitons
 
-Les Pitons is a cave dive site in New Caledonia, Pacific.
+A protected corner of reef near Poum in northern New Caledonia, featuring numerous caves, tunnels, holes, and bays. Divers are totally surrounded by reef with narrow tunnel exits. Good coral and fish life in pristine, rarely dived conditions.
 
 ## Overview
 
-Les Pitons is a dive site in New Caledonia featuring underwater cave and cavern formations. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Les Pitons is located near Poum at the far northern tip of Grande Terre, adjacent to the False Pass dive site. The name refers to the pinnacle-like reef formations that create a complex underwater landscape of caves, tunnels, holes, and small bays. The defining characteristic of this dive is the sense of immersion -- at times, divers find themselves completely surrounded by reef walls, with only narrow tunnel exits leading back to open water.
+
+The remote northern location, 410 kilometres from Noumea, means this site sees minimal diving traffic. The reef is in excellent condition with good coral coverage and abundant fish life. The caves and tunnels vary in size, from tight passages to larger chambers, and the interplay of light through the various openings creates atmospheric conditions throughout the dive.
 
 ## Site Information
 
-- **Location**: New Caledonia, Pacific
+- **Location**: Near Poum, northern tip of Grande Terre, New Caledonia
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/tunnel system in reef pinnacles
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 20-40 meters
+- **Water Temperature**: 22-27 degrees C
+- **Current**: Generally mild in the protected bays
+- **Best Time**: September to December
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+The caves and tunnels shelter a variety of reef species. The good coral condition supports diverse fish communities including butterflyfish, angelfish, and groupers. The protected bays within the reef structure concentrate fish life. The pristine, rarely dived conditions mean larger and less wary fish than around more popular dive areas.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 30 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter the water near the pinnacle formations and navigate through the caves, tunnels, and bays. The maximum depth reaches approximately 30 meters in some of the deeper passages. The enclosed bays provide sheltered areas to observe fish life. Navigate through the narrow tunnel exits to move between different sections of the reef. The multiple passages and bays allow for extended exploration -- it is easy to spend an entire dive discovering new routes through the formation.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access requires a dive boat from Poum or a liveaboard -- this is an extremely remote dive site. Entry by giant stride near the reef pinnacles.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The narrow tunnel exits between reef-enclosed bays are the signature experience -- take time to pause and appreciate the surroundings before swimming through
+- A torch is useful for illuminating cave interiors and bringing out coral colours
+- This site pairs naturally with nearby False Pass for a day of exceptional diving
+- The remote location means exceptional reef condition -- take advantage of the pristine conditions
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+The caves and tunnels create overhead environments. While the passages generally have visible exit points, maintain awareness of your position and nearest exit throughout. Some tunnels are narrow -- maintain good buoyancy and avoid forcing through tight spaces. The 30-meter maximum depth requires appropriate gas management. The remote location means medical facilities are distant; dive conservatively.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info). Last updated 2026-04-08.*

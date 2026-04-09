@@ -11,57 +11,49 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Black Rock Passage
+# Black Rock Passage
 
-Black Rock Passage is a reef dive site in Cook Islands Rarotonga, Pacific.
+Adjacent to Black Rock Chimneys on Rarotonga's west side, featuring similar ridge-and-gully volcanic reef topography in shallow, beginner-friendly conditions. Same marine life community as the neighbouring Chimneys site.
 
 ## Overview
 
-Black Rock Passage is a dive site in Cook Islands Rarotonga offering excellent diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Black Rock Passage sits adjacent to the Black Rock Chimneys site, just offshore from the prominent Black Rock (Tuoro) landmark on Rarotonga's west coast. The topography mirrors its neighbour -- a series of ridges and gullies running through the volcanic reef substrate from the shallows out to approximately 25 meters.
+
+The site shares the same marine life community and conditions as Black Rock Chimneys, making it an easy alternative or second dive in the same area. The west-side location is typically sheltered, with calm surface conditions and mild currents. The exceptional visibility (40+ meters) and shallow maximum depth make this another excellent choice for less experienced divers.
 
 ## Site Information
 
-- **Location**: Cook Islands Rarotonga, Pacific
+- **Location**: Off Black Rock (Tuoro), west side, Rarotonga, Cook Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Volcanic reef (ridges and gullies)
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 40+ meters
+- **Water Temperature**: 24-27 degrees C
+- **Current**: Generally mild
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+The same community as adjacent Black Rock Chimneys: Christmas tree worms, giant clams, barracuda, guineafowl pufferfish, butterflyfish, and wrasses. The ridges and gullies provide habitats for small reef fish throughout the depth range.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Navigate through the ridge-and-gully system from shallower areas to the outer edge at 25 meters. The volcanic rock ridges provide natural orientation. The shallow depths allow extended bottom times and relaxed exploration.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by dive boat from Avatui Harbour. Entry by giant stride.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Often dived as a second dive after Black Rock Chimneys, covering different sections of the same reef system
+- The calm, shallow conditions make this an excellent site for underwater photography practice
+- The west side of the island typically has the calmest conditions
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+Minimal hazards at this gentle site. Currents are rarely significant. The 25-meter maximum depth keeps the dive well within recreational limits.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info). Last updated 2026-04-08.*

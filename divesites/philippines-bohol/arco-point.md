@@ -11,57 +11,50 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Arco Point
+# Arco Point
 
-Arco Point is a reef dive site in Philippines Bohol, Asia.
+Also known as the "Hole in the Wall" -- one of Panglao's most famous dive sites featuring a natural archway swim-through in the reef wall. The cave-like opening enters at approximately 18 meters and exits at 8 meters, with cardinal fish, moray eels, scorpionfish, frogfish, and nudibranchs.
 
 ## Overview
 
-Arco Point is a dive site in Philippines Bohol offering excellent diving on healthy coral reef structures. Located in the Asia region, this site offers 10-40 meters of visibility with water temperatures averaging 26-30°C.
+Arco Point, also known as the "Hole in the Wall," is located at Libaong on Panglao Island, approximately 14 minutes by pump boat from shore. The site is famous for its unique rock formation -- a natural archway or cave-like opening in the reef wall that creates a dramatic swim-through.
+
+The swim-through enters at approximately 18 meters and exits at around 8 meters, making it accessible to Open Water certified divers. The walls inside the passage host cardinal fish, white-eyed moray eels, and black-finned snake eels, while the surrounding reef supports groupers, wrasses, butterflyfish, raggy scorpionfish, frogfish, and a variety of nudibranchs. Visibility ranges from 10-25 meters.
 
 ## Site Information
 
-- **Location**: Philippines Bohol, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Location**: Libaong, Panglao Island, Bohol, Philippines
+- **Entry Type**: Boat dive (~14 min from shore)
+- **Site Type**: Reef with natural arch swim-through
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 27 meters (reef base)
+- **Typical Visibility**: 10-25 meters
+- **Water Temperature**: 26-30 degrees C
+- **Current**: Mild (0-3 on scale)
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, whale sharks, reef sharks, sea turtles, barracuda, trevally, napoleon wrasse, clownfish. Additional species commonly sighted include nudibranchs, frogfish, seahorses, pygmy seahorses.
+Inside the swim-through: cardinal fish swarm the passage, white-eyed moray eels and black-finned snake eels shelter in crevices. On the surrounding reef: raggy scorpionfish, groupers, wrasses, butterflyfish, frogfish (angler fish), lionfish, and colourful nudibranchs. The arch structure concentrates marine life, making it a productive site for both macro and wide-angle subjects.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The dive begins at shallow depth and proceeds to the arch entrance at approximately 18 meters. Swim through the passage, ascending as you go, to exit at approximately 8 meters. The transition from the darker interior to the brighter exit creates a dramatic visual experience. After the swim-through, explore the surrounding reef slopes and coral gardens. The maximum reef depth is approximately 27 meters, but most of the interesting diving is in the 8-18 meter range around the arch.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by pump boat from Panglao, approximately 14 minutes. Entry by giant stride.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The swim-through is the signature experience -- carry a torch to illuminate the moray eels and cardinal fish inside
+- The transition from dark to light at the exit makes for dramatic wide-angle photography
+- Check the reef around the arch carefully for frogfish -- they are well camouflaged
+- An excellent site for newer divers due to shallow depths and mild conditions
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+The swim-through is an overhead environment, though short and with clearly visible exits. Maintain good buoyancy inside the passage to avoid contact with the walls. The gentle conditions and shallow depth make this one of the more accessible dive sites on Panglao.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Bohol Philippines - Arco Point](https://www.bohol-philippines.com/arco-point-dive-site.html), [Bohol Fun Divers - Arco Point](https://boholfundivers.com/arco-point-panglao-island-dive-spot/), [PADI - Arco Point](https://www.padi.com/dive-site/philippines/arco-point/). Last updated 2026-04-08.*

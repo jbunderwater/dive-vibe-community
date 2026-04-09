@@ -11,57 +11,52 @@ osmId: null
 addedBy: osm_import
 ---
 
-## La Dieppoise
+# La Dieppoise
 
-La Dieppoise is a historic wreck dive in New Caledonia, Pacific.
+A former French Navy minesweeper (ex-HMCS Chaleur Bay), 46 meters long, scuttled on 19 January 1988 near Amadee Island. Sitting upright with the ship's wheel still in place, she offers easy interior exploration at accessible depths -- rear deck at 22 meters, front deck at 18 meters, flybridge at 15 meters.
 
 ## Overview
 
-La Dieppoise is a dive site in New Caledonia featuring the wreck of the La Dieppoise. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+La Dieppoise was originally HMCS Chaleur Bay, a Canadian-built minesweeper that was later transferred to the French Navy. After decommissioning, the 46-meter vessel was deliberately scuttled on 19 January 1988 near Amadee Island south of Noumea to create an artificial reef and dive attraction.
+
+The wreck sits upright on the sandy bottom, remarkably intact after more than three decades underwater. The ship's wheel remains in place on the bridge -- one of the most photographed features of the wreck. The depth profile is very diver-friendly: the rear deck sits at 22 meters, the front deck at 18 meters, and the flybridge at just 15 meters, making the upper sections accessible to less experienced divers.
+
+The wreck has attracted many large fish to the area, and the interior spaces are open and well-lit, making exploration straightforward for divers with appropriate experience. This is widely considered one of the most accessible and enjoyable wreck dives near Noumea.
 
 ## Site Information
 
-- **Location**: New Caledonia, Pacific
+- **Location**: Near Amadee Island, south of Noumea, New Caledonia
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 26 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Maximum Depth**: 26 meters (sand)
+- **Typical Visibility**: 20-30 meters
+- **Water Temperature**: 22-27 degrees C
+- **Current**: Generally mild
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The upright wreck structure has attracted many large fish species to take up residence. The interior spaces shelter schools of fish. The hull surfaces support coral and sponge growth after more than three decades of colonization.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 26 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the wreck -- the flybridge at 15 meters is the shallowest point. Begin with the upper decks and bridge area, where the ship's wheel is still in position. The front deck at 18 meters and rear deck at 22 meters are easily reached. The sand at the base of the hull is at approximately 26 meters. Interior exploration is possible through the spacious, well-lit compartments. The multi-level depth profile allows you to start deep and work shallower as the dive progresses, ending on the flybridge for an efficient safety stop transition.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by dive boat from Noumea -- approximately 40 minutes to the Amadee Island area. Entry by giant stride. The wreck has a permanent mooring.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- The ship's wheel on the bridge is the signature photo -- arrive early in the dive while air supply is full
+- The multi-level depth profile makes this wreck excellent for managing bottom time
+- The easy interior access makes this a good introductory wreck dive for divers interested in wreck penetration
+- Combine with a dive at nearby Boulari Pass or Amadee Island Reef
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+While the interior is spacious and well-lit, it remains an overhead environment. Do not penetrate beyond sight of natural light without wreck diving certification and appropriate equipment. The maximum depth of 26 meters to the sand is moderate but requires proper gas management. Maintain good buoyancy to avoid disturbing silt inside the wreck.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info). Last updated 2026-04-08.*

@@ -11,56 +11,50 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Fish Eye Marine Park
+# Fish Eye Marine Park
 
-Fish Eye Marine Park is a reef dive site in Guam, Pacific.
+A marine preserve in Piti Bay featuring Guam's only underwater observatory, over 200 fish species, and 80 coral species. Walk across a sea bridge and descend to a 10-meter-deep viewing chamber, or dive and snorkel the surrounding protected reef.
 
 ## Overview
 
-Fish Eye Marine Park is a dive site in Guam offering excellent diving on healthy coral reef structures. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+Fish Eye Marine Park is located in Piti Bay, Guam's most famous marine preserve. The park's centerpiece is the only underwater observatory in Micronesia -- a 10-meter-deep chamber accessed by walking across a sea bridge and descending a stairway. From the observatory, visitors can view the reef without getting wet, but divers and snorkelers can explore the same reef from the outside.
+
+The Piti Bay Marine Preserve protects over 200 species of fish and approximately 80 species of coral, making this one of the most biodiverse shallow reef environments on Guam. The protected status has allowed marine life to flourish, and the easy access makes it popular for introductory dives and snorkeling. A resident population of wild dolphins is found offshore.
 
 ## Site Information
 
-- **Location**: Guam, Pacific
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Location**: Piti Bay Marine Preserve, Guam
+- **Entry Type**: Shore entry (via sea bridge)
+- **Site Type**: Marine preserve reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Typical Visibility**: 10-20 meters
+- **Water Temperature**: 28-29 degrees C
+- **Current**: Generally calm inside the bay
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks, sea turtles, napoleon wrasse, barracuda, tuna, clownfish. Additional species commonly sighted include butterflyfish, groupers, moray eels, hard corals.
+Over 200 fish species and 80 coral species inhabit the protected bay. The marine preserve status means fish are abundant and relatively unafraid of divers. Colourful reef fish, including butterflyfish, parrotfish, damselfish, and wrasses, are present in large numbers. The coral formations are well-developed within the protected zone.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 10 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-10 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter from the sea bridge area and explore the surrounding reef at depths of 3-10 meters. The shallow depth allows extended bottom time. The reef extends around the observatory structure, with the best coral and fish life within the preserved zone. The calm bay conditions make this ideal for relaxed exploration and underwater photography.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Access via the sea bridge walkway from the Fish Eye Marine Park visitor centre. Walk across the bridge and enter the water near the observatory. Exit at the same location.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- The protected marine preserve means fish populations are denser than at unprotected sites
+- Excellent for underwater photography beginners -- calm water, abundant subjects, shallow depth
+- Combine the dive with a visit to the underwater observatory for a different perspective on the same reef
+- Dolphin watching cruises are also offered from the park
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+An extremely gentle dive site. Calm bay conditions and shallow depth make this one of the safest dive locations on Guam. Maintain awareness of snorkelers and observatory visitors sharing the water.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Fish Eye Marine Park](https://fisheyeguamtours.com/), [Visit Guam](https://www.visitguam.com/listing/fish-eye-marine-park/116/). Last updated 2026-04-08.*
