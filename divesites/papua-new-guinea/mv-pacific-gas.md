@@ -11,57 +11,63 @@ osmId: null
 addedBy: osm_import
 ---
 
-## MV Pacific Gas
+# MV Pacific Gas
 
-MV Pacific Gas is a historic wreck dive in Papua New Guinea, Pacific.
+A purposely scuttled vessel resting on a sloping bottom at Port Moresby -- a deep wreck dive with excellent fish life and marine growth that rivals the encrustation found on Chuuk Lagoon wrecks.
 
 ## Overview
 
-MV Pacific Gas is a dive site in Papua New Guinea featuring a historic wreck. Located in the Pacific region, this site offers 20-50 meters of visibility with water temperatures averaging 24-30°C.
+The MV Pacific Gas was purposely scuttled off Port Moresby, where she came to rest on a sloping sandy bottom at depths ranging from 28 to 45 meters. The wreck sits at an angle on the slope, with the propeller at the deepest point at 45 meters, the stern railing at 36-38 meters, the engine room at 41 meters, and the bridge at the shallowest point at 28 meters.
+
+Despite her relatively recent sinking compared to the World War II fleet in Chuuk Lagoon, the MV Pacific Gas has developed marine growth comparable in quality to those famous wrecks. The warm, nutrient-rich waters of Port Moresby have accelerated coral colonization across the entire hull and superstructure. Combined with excellent fish life -- including a leaf scorpionfish residing on the bow winch -- this wreck delivers a dive experience that belies its lesser-known status.
 
 ## Site Information
 
-- **Location**: Papua New Guinea, Pacific
+- **Location**: Port Moresby, Papua New Guinea
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 45 meters
-- **Typical Visibility**: 20-50 meters (65-160 feet)
-- **Current**: Moderate to strong
-- **Best Time**: April to November
+- **Maximum Depth**: 45 meters (propeller)
+- **Bridge Depth**: 28 meters
+- **Stern Railing**: 36-38 meters
+- **Engine Room**: 41 meters
+- **Typical Visibility**: 15-20 meters
+- **Water Temperature**: 26°C
+- **Best Time**: April to November (dry season)
 
 ## Marine Life
 
-Divers at this site can expect to encounter coral growth, anemones, lionfish, scorpionfish, glassy sweepers, manta rays, reef sharks (grey, whitetip, blacktip), hammerhead sharks. Additional species commonly sighted include sea turtles, napoleon wrasse, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The wreck supports impressive marine growth across its entire structure -- soft corals, hard corals, sponges, and hydroids cover the hull and superstructure in a living carpet that compares favorably with the encrusted wrecks of Chuuk Lagoon. Sea fans and whip corals extend from railings and mast stays into the current.
+
+A leaf scorpionfish has been documented on the bow winch -- a prized find for macro photographers. Lionfish lurk under overhangs and in doorways. Schools of fusiliers, batfish, and jacks patrol the water column around the wreck. Glassy sweepers pack into the interior spaces. Nudibranchs and flatworms colonize the encrusted surfaces throughout. The wreck acts as an oasis on the sandy slope, concentrating fish life from the surrounding area.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 45 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+This is a deep dive requiring careful gas management and planning. Most divers descend directly to the bridge at 28 meters -- the shallowest point of the wreck and the best starting point to maximize bottom time. From the bridge, work aft along the deck toward the stern. The stern railing at 36-38 meters and the propeller at 45 meters are the deepest features and should only be visited if gas supply and no-decompression time allow.
+
+The engine room at 41 meters is accessible for penetration, but this is an overhead environment at significant depth -- wreck penetration training, redundant gas supply, a guideline, and multiple lights are essential. Do not enter unless properly trained and equipped.
+
+Return to the bridge area and bow section for the remainder of the dive. Look for the leaf scorpionfish on the bow winch. Begin your ascent with adequate gas reserves for a safety stop -- given the depth, a minimum 5-minute stop at 5 meters is strongly recommended, and staged decompression may be required depending on bottom time.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from Port Moresby-based operators. The wreck is marked by a mooring buoy. Entry is by giant stride, with descent along the mooring line to the wreck. Surface conditions in Port Moresby harbor can include boat traffic -- maintain awareness during ascent and surface interval. Deploy an SMB during your safety stop.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Begin at the bridge (28 meters) and work deeper only as gas supply allows -- do not descend to the prop at 45 meters unless you have planned for the depth and potential deco obligation
+- Check the bow winch carefully for the leaf scorpionfish -- it is well camouflaged against the encrusted surfaces
+- The marine growth is the equal of many Chuuk Lagoon wrecks; take time to appreciate the soft coral and sponge coverage on railings and superstructure
+- Nitrox is highly recommended to extend no-decompression limits at the 28-35 meter range, though it cannot be used at the deepest sections (45 meters exceeds EANx32 MOD)
+- A dive torch reveals the true colors of the coral growth, which appears muted at depth under ambient light
 
 ## Safety Considerations
 
-Be aware of strong currents, remote locations, jellyfish in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+This is an advanced dive site. The maximum depth of 45 meters at the propeller severely limits bottom time on air and places divers at significant narcosis risk. Plan the dive conservatively and stick to the plan. The sloping bottom makes it easy to descend deeper than intended -- maintain constant depth awareness. Engine room penetration is only for divers with wreck penetration certification, redundant lights, and ideally redundant gas. Silt inside the engine room can reduce visibility to zero with careless finning. Visibility of 15-20 meters is adequate but not exceptional -- maintain buddy contact at all times. Water temperature of 26°C is comfortable but long safety stops or deco stops can still cause cooling.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-07
+The MV Pacific Gas rewards both wide-angle and macro approaches. Wide-angle compositions of the bridge and bow with diver models work well in the 15-20 meter visibility -- strobes are essential to bring out the color of the coral growth at depth. The leaf scorpionfish on the bow winch is a macro highlight. Lionfish in doorways and under overhangs make reliable portrait subjects. The propeller at 45 meters is dramatic but the depth limits the time available for careful composition. The dense marine growth on railings and deck fittings provides texture and color throughout the shallower sections of the wreck.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-07.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=354). Last updated 2026-04-08.*
