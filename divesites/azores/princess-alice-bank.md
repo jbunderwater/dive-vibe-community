@@ -11,51 +11,39 @@ osmId: 5875583620
 addedBy: osm_import
 ---
 
-## princess alice bank
+# princess alice bank
 
-princess alice bank is a pinnacle dive site in Azores, Europe.
+One of the world's best seamount dives — massive aggregations of devil rays, giant mantas, and Galapagos sharks 50 miles from land.
 
 ## Overview
 
-Princess Alice Bank is a deep-ocean seamount rising from over 2,500 metres to within 29 metres of the surface, reached by a 2.5 to 3 hour boat ride from Pico Island. The site is world-renowned for its summer aggregations of giant mobula rays (Mobula tarapacana), which gather in groups of up to 50 animals and often approach divers closely. Galapagos sharks, manta rays, barracuda, bonito, and tuna patrol the nutrient-rich blue water, with visibility regularly exceeding 30 metres between July and October.
+Princess Alice Bank is consistently ranked among the world's best seamount dives and is the most famous dive site in the Azores. Located 45–50 nautical miles from the nearest island, the seamount top sits at approximately 30–35 metres with the surrounding area dropping to 60+ metres. Visibility can reach 40 metres.
+
+The site is renowned for massive aggregations of mobula (devil) rays forming 'carousels' during summer, plus giant manta rays and Galapagos sharks. The 2.5–3 hour boat ride from Pico or Faial is an expedition in itself, often yielding whale, dolphin, turtle, and seabird sightings. The best season for mobula ray aggregations is July to September.
 
 ## Site Information
 
-- **Location**: Azores, Europe
+- **Location**: Open Atlantic, 45–50 NM from Pico/Faial, Azores
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 29 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: May to October
+- **Typical Visibility**: 20–40 meters
+- **Current**: Moderate to strong
+- **Best Time**: July to September
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 29 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Devil rays (massive summer aggregations forming carousels), giant manta rays, Galapagos sharks, Atlantic bonito, Almaco jacks, island groupers, and dusky groupers. The boat trip often yields whale, dolphin, turtle, and seabird sightings.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+- One of the world's most famous seamount dives
+- July–September for the mobula ray carousels — the peak experience
+- 2.5–3 hour boat ride from Pico or Faial — true blue-water expedition
+- Check dive may be required by operators
+- Experienced open-water diver required — remote location, currents, depth
+- The boat journey is part of the experience — whales and dolphins en route
 
 ---
-*Sources: [PADI - Diving in the Azores](https://www.padi.com/diving-in/azores/), [Visit Azores - Dive Spots](https://dive.visitazores.com/en/divespots), [Bluewater Dive Travel - Azores Diving](https://www.bluewaterdivetravel.com/destination/azores-diving), [SCUBA Travel - Portugal Diving (Azores)](https://www.scubatravel.co.uk/europe/portugal-diving.html), [Azores Getaways - Diving in the Azores](https://azoresgetaways.com/en-us/destination/azores/general-articles/diving-azores). Last updated 2026-04-04.*
+*Sources: [dive.visitazores.com](https://dive.visitazores.com/en/divespots/princesa-alice), [CW Azores](https://www.cwazores.com/princess-alice), [DeeperBlue](https://www.deeperblue.com/exploring-azores-princess-alice-bank/). Last updated 2026-04-10.*
