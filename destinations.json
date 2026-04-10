@@ -5,7 +5,21 @@
     "region": "Asia",
     "isGroup": true,
     "description": "Remote island diving in the Andaman Sea with pristine coral ecosystems.",
-    "countryCode": "IN"
+    "countryCode": "IN",
+    "center": [
+      12.0016,
+      92.8609
+    ],
+    "bounds": [
+      [
+        11.0934,
+        91.7123
+      ],
+      [
+        12.7237,
+        93.5931
+      ]
+    ]
   },
   {
     "name": "Indonesia",
@@ -13,7 +27,21 @@
     "region": "Asia",
     "isGroup": true,
     "description": "The heart of the Coral Triangle with unmatched marine biodiversity across thousands of islands.",
-    "countryCode": "ID"
+    "countryCode": "ID",
+    "center": [
+      -3.5388,
+      124.7033
+    ],
+    "bounds": [
+      [
+        -9.3,
+        114.0031
+      ],
+      [
+        2.7469,
+        134.7031
+      ]
+    ]
   },
   {
     "name": "Japan",
@@ -21,7 +49,21 @@
     "region": "Asia",
     "isGroup": true,
     "description": "Subtropical reefs, hammerhead schooling sites, and unique temperate marine life.",
-    "countryCode": "JP"
+    "countryCode": "JP",
+    "center": [
+      25.6579,
+      126.42
+    ],
+    "bounds": [
+      [
+        23.7671,
+        123.5908
+      ],
+      [
+        26.8291,
+        128.244
+      ]
+    ]
   },
   {
     "name": "Malaysia",
@@ -29,7 +71,21 @@
     "region": "Asia",
     "isGroup": true,
     "description": "World-renowned sites in Sabah and pristine reefs off the peninsula.",
-    "countryCode": "MY"
+    "countryCode": "MY",
+    "center": [
+      4.1145,
+      118.6288
+    ],
+    "bounds": [
+      [
+        3.6083,
+        118.1244
+      ],
+      [
+        4.62,
+        119.1333
+      ]
+    ]
   },
   {
     "name": "Philippines",
@@ -37,7 +93,21 @@
     "region": "Asia",
     "isGroup": true,
     "description": "Diverse diving from macro havens to pelagic encounters across 7,000+ islands.",
-    "countryCode": "PH"
+    "countryCode": "PH",
+    "center": [
+      10.8669,
+      120.4398
+    ],
+    "bounds": [
+      [
+        6.5483,
+        116.5234
+      ],
+      [
+        14.3303,
+        124.6947
+      ]
+    ]
   },
   {
     "name": "Thailand",
@@ -45,15 +115,29 @@
     "region": "Asia",
     "isGroup": true,
     "description": "Tropical diving with whale sharks, vibrant reefs, and world-class liveaboard routes.",
-    "countryCode": "TH"
+    "countryCode": "TH",
+    "center": [
+      9.4887,
+      98.8769
+    ],
+    "bounds": [
+      [
+        8.0717,
+        97.1347
+      ],
+      [
+        10.6719,
+        100.357
+      ]
+    ]
   },
   {
     "name": "Alor Archipelago",
     "slug": "alor-archipelago",
     "region": "Asia",
     "center": [
-      -8.3,
-      124.35
+      -8.2925,
+      124.3455
     ],
     "bounds": [
       [
@@ -75,8 +159,8 @@
     "slug": "ambon",
     "region": "Asia",
     "center": [
-      -3.7,
-      128.2
+      -3.7169,
+      128.1334
     ],
     "bounds": [
       [
@@ -98,8 +182,8 @@
     "slug": "andaman-islands",
     "region": "Asia",
     "center": [
-      12.0,
-      92.8
+      12.0016,
+      92.8609
     ],
     "bounds": [
       [
@@ -121,8 +205,8 @@
     "slug": "bali",
     "region": "Asia",
     "center": [
-      -8.3,
-      115.1
+      -8.3806,
+      115.2923
     ],
     "bounds": [
       [
@@ -144,8 +228,8 @@
     "slug": "banda-sea",
     "region": "Asia",
     "center": [
-      -4.57,
-      129.87
+      -4.6015,
+      129.9112
     ],
     "bounds": [
       [
@@ -167,8 +251,8 @@
     "slug": "gili-islands",
     "region": "Asia",
     "center": [
-      -8.35,
-      116.0
+      -8.3453,
+      116.0393
     ],
     "bounds": [
       [
@@ -190,8 +274,8 @@
     "slug": "halmahera",
     "region": "Asia",
     "center": [
-      1.0,
-      128.0
+      0.5276,
+      127.6377
     ],
     "bounds": [
       [
@@ -213,8 +297,8 @@
     "slug": "koh-tao",
     "region": "Asia",
     "center": [
-      10.1,
-      99.8
+      10.1039,
+      99.8233
     ],
     "bounds": [
       [
@@ -236,8 +320,8 @@
     "slug": "komodo-national-park",
     "region": "Asia",
     "center": [
-      -8.5,
-      119.5
+      -8.5924,
+      119.6168
     ],
     "bounds": [
       [
@@ -259,8 +343,8 @@
     "slug": "lembeh-strait",
     "region": "Asia",
     "center": [
-      1.5,
-      125.2
+      1.4749,
+      125.241
     ],
     "bounds": [
       [
@@ -282,8 +366,8 @@
     "slug": "lombok",
     "region": "Asia",
     "center": [
-      -8.6,
-      116.3
+      -8.348,
+      116.051
     ],
     "bounds": [
       [
@@ -305,8 +389,8 @@
     "slug": "maldives",
     "region": "Asia",
     "center": [
-      3.2028,
-      73.2207
+      3.7586,
+      73.2338
     ],
     "bounds": [
       [
@@ -327,8 +411,8 @@
     "slug": "manado-bunaken",
     "region": "Asia",
     "center": [
-      1.5,
-      124.8
+      1.6247,
+      124.7581
     ],
     "bounds": [
       [
@@ -350,8 +434,8 @@
     "slug": "okinawa",
     "region": "Asia",
     "center": [
-      26.2,
-      127.7
+      25.6579,
+      126.42
     ],
     "bounds": [
       [
@@ -373,8 +457,8 @@
     "slug": "philippines-anilao",
     "region": "Asia",
     "center": [
-      13.8,
-      120.9
+      13.7117,
+      120.87
     ],
     "bounds": [
       [
@@ -396,8 +480,8 @@
     "slug": "philippines-donsol",
     "region": "Asia",
     "center": [
-      12.75,
-      123.65
+      12.7138,
+      123.6382
     ],
     "bounds": [
       [
@@ -419,8 +503,8 @@
     "slug": "philippines-malapascua",
     "region": "Asia",
     "center": [
-      11.3,
-      124.1
+      11.3405,
+      124.1175
     ],
     "bounds": [
       [
@@ -442,8 +526,8 @@
     "slug": "philippines-palawan",
     "region": "Asia",
     "center": [
-      9.5,
-      118.7
+      9.5349,
+      117.8932
     ],
     "bounds": [
       [
@@ -465,8 +549,8 @@
     "slug": "philippines-tubbataha-reefs",
     "region": "Asia",
     "center": [
-      9.0,
-      120.0
+      8.8755,
+      119.8646
     ],
     "bounds": [
       [
@@ -534,8 +618,8 @@
     "slug": "raja-ampat",
     "region": "Asia",
     "center": [
-      -0.5,
-      130.5
+      -0.9683,
+      130.5538
     ],
     "bounds": [
       [
@@ -557,8 +641,8 @@
     "slug": "sangalaki",
     "region": "Asia",
     "center": [
-      2.19,
-      118.44
+      2.1317,
+      118.4525
     ],
     "bounds": [
       [
@@ -580,8 +664,8 @@
     "slug": "sipadan",
     "region": "Asia",
     "center": [
-      4.1,
-      118.6
+      4.1145,
+      118.6288
     ],
     "bounds": [
       [
@@ -603,8 +687,8 @@
     "slug": "sri-lanka",
     "region": "Asia",
     "center": [
-      7.8,
-      80.7
+      7.1016,
+      80.1066
     ],
     "bounds": [
       [
@@ -625,8 +709,8 @@
     "slug": "sumbawa",
     "region": "Asia",
     "center": [
-      -8.25,
-      118.3
+      -8.2417,
+      118.4578
     ],
     "bounds": [
       [
@@ -648,8 +732,8 @@
     "slug": "thailand-similan-islands",
     "region": "Asia",
     "center": [
-      8.6,
-      97.6
+      8.7416,
+      97.7277
     ],
     "bounds": [
       [
@@ -671,8 +755,8 @@
     "slug": "triton-bay",
     "region": "Asia",
     "center": [
-      -3.85,
-      134.1
+      -3.9249,
+      134.0694
     ],
     "bounds": [
       [
@@ -695,7 +779,21 @@
     "region": "Europe",
     "isGroup": true,
     "description": "Protected Mediterranean marine parks with exceptional biodiversity.",
-    "countryCode": "FR"
+    "countryCode": "FR",
+    "center": [
+      43.0124,
+      6.3854
+    ],
+    "bounds": [
+      [
+        42.48,
+        5.7739
+      ],
+      [
+        43.5919,
+        7.0138
+      ]
+    ]
   },
   {
     "name": "Iceland",
@@ -703,7 +801,21 @@
     "region": "Europe",
     "isGroup": true,
     "description": "Crystal-clear freshwater fissure diving between tectonic plates.",
-    "countryCode": "IS"
+    "countryCode": "IS",
+    "center": [
+      64.4835,
+      -20.6966
+    ],
+    "bounds": [
+      [
+        63.753,
+        -21.618
+      ],
+      [
+        66.351,
+        -17.693
+      ]
+    ]
   },
   {
     "name": "Italy",
@@ -711,7 +823,21 @@
     "region": "Europe",
     "isGroup": true,
     "description": "Mediterranean marine reserves with rich biodiversity and volcanic underwater landscapes.",
-    "countryCode": "IT"
+    "countryCode": "IT",
+    "center": [
+      39.3755,
+      11.164
+    ],
+    "bounds": [
+      [
+        38.19,
+        7.655
+      ],
+      [
+        41.4992,
+        13.7
+      ]
+    ]
   },
   {
     "name": "Norway",
@@ -719,7 +845,21 @@
     "region": "Europe",
     "isGroup": true,
     "description": "Cold-water diving with orcas, dramatic fjord walls, and Arctic marine life.",
-    "countryCode": "NO"
+    "countryCode": "NO",
+    "center": [
+      68.083,
+      13.738
+    ],
+    "bounds": [
+      [
+        67.378,
+        12.48
+      ],
+      [
+        68.734,
+        15.068
+      ]
+    ]
   },
   {
     "name": "Portugal",
@@ -727,7 +867,21 @@
     "region": "Europe",
     "isGroup": true,
     "description": "Atlantic volcanic island diving with pelagic encounters and rich marine life.",
-    "countryCode": "PT"
+    "countryCode": "PT",
+    "center": [
+      38.1948,
+      -27.1344
+    ],
+    "bounds": [
+      [
+        37.21,
+        -30.4476
+      ],
+      [
+        39.1667,
+        -24.93
+      ]
+    ]
   },
   {
     "name": "Scotland",
@@ -735,15 +889,29 @@
     "region": "Europe",
     "isGroup": true,
     "description": "Historic wreck diving in some of the world's most famous scuttled fleets.",
-    "countryCode": "GB"
+    "countryCode": "GB",
+    "center": [
+      58.8915,
+      -3.1968
+    ],
+    "bounds": [
+      [
+        58.3455,
+        -3.8131
+      ],
+      [
+        59.4268,
+        -2.6458
+      ]
+    ]
   },
   {
     "name": "Azores",
     "slug": "azores",
     "region": "Europe",
     "center": [
-      38.5,
-      -28.0
+      38.1948,
+      -27.1344
     ],
     "bounds": [
       [
@@ -765,8 +933,8 @@
     "slug": "croatia",
     "region": "Europe",
     "center": [
-      43.5,
-      16.0
+      44.7428,
+      14.6192
     ],
     "bounds": [
       [
@@ -809,8 +977,8 @@
     "slug": "greece",
     "region": "Europe",
     "center": [
-      38.0,
-      23.7
+      37.0734,
+      26.1669
     ],
     "bounds": [
       [
@@ -831,8 +999,8 @@
     "slug": "malta-and-gozo",
     "region": "Europe",
     "center": [
-      35.9,
-      14.4
+      36.0253,
+      14.2936
     ],
     "bounds": [
       [
@@ -853,8 +1021,8 @@
     "slug": "norway-lofoten-islands",
     "region": "Europe",
     "center": [
-      68.2,
-      13.6
+      68.083,
+      13.738
     ],
     "bounds": [
       [
@@ -876,8 +1044,8 @@
     "slug": "port-cros",
     "region": "Europe",
     "center": [
-      43.0,
-      6.4
+      43.0124,
+      6.3854
     ],
     "bounds": [
       [
@@ -899,8 +1067,8 @@
     "slug": "sardinia",
     "region": "Europe",
     "center": [
-      40.0,
-      9.0
+      40.0978,
+      8.9885
     ],
     "bounds": [
       [
@@ -922,8 +1090,8 @@
     "slug": "scapa-flow",
     "region": "Europe",
     "center": [
-      58.9,
-      -3.2
+      58.8915,
+      -3.1968
     ],
     "bounds": [
       [
@@ -945,8 +1113,8 @@
     "slug": "silfra-fissure",
     "region": "Europe",
     "center": [
-      64.2,
-      -21.1
+      64.4835,
+      -20.6966
     ],
     "bounds": [
       [
@@ -968,8 +1136,8 @@
     "slug": "turkey",
     "region": "Europe",
     "center": [
-      36.8,
-      30.5
+      36.7859,
+      27.9853
     ],
     "bounds": [
       [
@@ -990,8 +1158,8 @@
     "slug": "ustica",
     "region": "Europe",
     "center": [
-      38.71,
-      13.18
+      38.7086,
+      13.1721
     ],
     "bounds": [
       [
@@ -1014,7 +1182,21 @@
     "region": "Middle East",
     "isGroup": true,
     "description": "World-famous Red Sea diving with spectacular walls, wrecks, and coral gardens.",
-    "countryCode": "EG"
+    "countryCode": "EG",
+    "center": [
+      25.6997,
+      35.1432
+    ],
+    "bounds": [
+      [
+        18.0028,
+        33.2829
+      ],
+      [
+        30.0447,
+        39.5237
+      ]
+    ]
   },
   {
     "name": "Jordan",
@@ -1022,7 +1204,21 @@
     "region": "Middle East",
     "isGroup": true,
     "description": "Red Sea diving with unique military wrecks and vibrant coral gardens.",
-    "countryCode": "JO"
+    "countryCode": "JO",
+    "center": [
+      29.4678,
+      34.9613
+    ],
+    "bounds": [
+      [
+        28.9181,
+        34.4197
+      ],
+      [
+        30.0447,
+        35.4883
+      ]
+    ]
   },
   {
     "name": "Sudan",
@@ -1030,7 +1226,21 @@
     "region": "Middle East",
     "isGroup": true,
     "description": "Remote and pristine Red Sea reefs with legendary shark encounters.",
-    "countryCode": "SD"
+    "countryCode": "SD",
+    "center": [
+      20.6055,
+      37.4887
+    ],
+    "bounds": [
+      [
+        18.0028,
+        36.4789
+      ],
+      [
+        22.4879,
+        39.2774
+      ]
+    ]
   },
   {
     "name": "UAE",
@@ -1038,15 +1248,29 @@
     "region": "Middle East",
     "isGroup": true,
     "description": "Artificial reefs and accessible wreck diving in the Arabian Gulf.",
-    "countryCode": "AE"
+    "countryCode": "AE",
+    "center": [
+      25.5575,
+      56.3158
+    ],
+    "bounds": [
+      [
+        24.9917,
+        55.7583
+      ],
+      [
+        26.125,
+        56.8667
+      ]
+    ]
   },
   {
     "name": "Jordan - Aqaba",
     "slug": "jordan-aqaba",
     "region": "Middle East",
     "center": [
-      29.5,
-      35.0
+      29.4678,
+      34.9613
     ],
     "bounds": [
       [
@@ -1068,8 +1292,8 @@
     "slug": "oman",
     "region": "Middle East",
     "center": [
-      21.0,
-      57.0
+      18.6753,
+      55.0435
     ],
     "bounds": [
       [
@@ -1090,8 +1314,8 @@
     "slug": "red-sea",
     "region": "Middle East",
     "center": [
-      24.0,
-      36.0
+      25.6997,
+      35.1432
     ],
     "bounds": [
       [
@@ -1113,8 +1337,8 @@
     "slug": "sudan-red-sea",
     "region": "Middle East",
     "center": [
-      20.0,
-      37.0
+      20.6055,
+      37.4887
     ],
     "bounds": [
       [
@@ -1136,8 +1360,8 @@
     "slug": "uae-fujairah",
     "region": "Middle East",
     "center": [
-      25.5,
-      56.3
+      25.5575,
+      56.3158
     ],
     "bounds": [
       [
@@ -1205,8 +1429,8 @@
     "slug": "cape-town",
     "region": "Africa",
     "center": [
-      -34.0,
-      18.5
+      -34.147,
+      18.4311
     ],
     "bounds": [
       [
@@ -1228,8 +1452,8 @@
     "slug": "djibouti",
     "region": "Africa",
     "center": [
-      11.8,
-      42.6
+      11.7404,
+      43.0985
     ],
     "bounds": [
       [
@@ -1250,8 +1474,8 @@
     "slug": "kenya-coast",
     "region": "Africa",
     "center": [
-      -4.35,
-      39.55
+      -4.17,
+      39.636
     ],
     "bounds": [
       [
@@ -1272,8 +1496,8 @@
     "slug": "madagascar",
     "region": "Africa",
     "center": [
-      -19.0,
-      46.0
+      -13.3517,
+      48.0671
     ],
     "bounds": [
       [
@@ -1294,8 +1518,8 @@
     "slug": "mauritius",
     "region": "Africa",
     "center": [
-      -20.3,
-      57.6
+      -20.2558,
+      57.4962
     ],
     "bounds": [
       [
@@ -1316,8 +1540,8 @@
     "slug": "mozambique",
     "region": "Africa",
     "center": [
-      -18.0,
-      35.0
+      -23.4389,
+      35.3292
     ],
     "bounds": [
       [
@@ -1338,8 +1562,8 @@
     "slug": "seychelles",
     "region": "Africa",
     "center": [
-      -4.6,
-      55.5
+      -4.9825,
+      54.5618
     ],
     "bounds": [
       [
@@ -1360,8 +1584,8 @@
     "slug": "zanzibar",
     "region": "Africa",
     "center": [
-      -6.1,
-      39.3
+      -6.1514,
+      39.4736
     ],
     "bounds": [
       [
@@ -1384,7 +1608,21 @@
     "region": "North America",
     "isGroup": true,
     "description": "Cold-water diving with giant Pacific octopus, wolf eels, and Atlantic wrecks.",
-    "countryCode": "CA"
+    "countryCode": "CA",
+    "center": [
+      48.1486,
+      -108.0387
+    ],
+    "bounds": [
+      [
+        42.8981,
+        -128.2667
+      ],
+      [
+        51.4167,
+        -52.4237
+      ]
+    ]
   },
   {
     "name": "Hawaii",
@@ -1393,7 +1631,21 @@
     "isGroup": true,
     "description": "Tropical Pacific diving with manta rays, pelagics, and volcanic reef formations.",
     "countryCode": "US",
-    "parentSlug": "us"
+    "parentSlug": "us",
+    "center": [
+      20.9924,
+      -157.6074
+    ],
+    "bounds": [
+      [
+        18.9803,
+        -160.65
+      ],
+      [
+        22.7203,
+        -155.35
+      ]
+    ]
   },
   {
     "name": "Mexico",
@@ -1401,7 +1653,21 @@
     "region": "North America",
     "isGroup": true,
     "description": "From Caribbean reefs to Pacific pelagic encounters and Sea of Cortez adventures.",
-    "countryCode": "MX"
+    "countryCode": "MX",
+    "center": [
+      21.627,
+      -102.9956
+    ],
+    "bounds": [
+      [
+        18.21,
+        -112.5667
+      ],
+      [
+        25.1882,
+        -86.3948
+      ]
+    ]
   },
   {
     "name": "United States",
@@ -1409,15 +1675,29 @@
     "region": "North America",
     "isGroup": true,
     "description": "Diverse diving from tropical reefs to cold-water kelp forests and historic wrecks.",
-    "countryCode": "US"
+    "countryCode": "US",
+    "center": [
+      38.3161,
+      -103.4017
+    ],
+    "bounds": [
+      [
+        18.9803,
+        -163.6081
+      ],
+      [
+        61.3442,
+        -69.3508
+      ]
+    ]
   },
   {
     "name": "Alaska",
     "slug": "alaska",
     "region": "North America",
     "center": [
-      58.3,
-      -134.4
+      55.9763,
+      -139.0085
     ],
     "bounds": [
       [
@@ -1439,8 +1719,8 @@
     "slug": "british-columbia",
     "region": "North America",
     "center": [
-      49.3,
-      -123.2
+      49.04,
+      -123.9007
     ],
     "bounds": [
       [
@@ -1462,8 +1742,8 @@
     "slug": "cabo-pulmo",
     "region": "North America",
     "center": [
-      23.44,
-      -109.42
+      23.4384,
+      -109.4201
     ],
     "bounds": [
       [
@@ -1485,8 +1765,8 @@
     "slug": "california-channel-islands",
     "region": "North America",
     "center": [
-      34.0,
-      -119.5
+      34.0105,
+      -119.8767
     ],
     "bounds": [
       [
@@ -1508,8 +1788,8 @@
     "slug": "cozumel",
     "region": "North America",
     "center": [
-      20.4,
-      -86.9
+      20.371,
+      -87.0037
     ],
     "bounds": [
       [
@@ -1531,8 +1811,8 @@
     "slug": "dry-tortugas",
     "region": "North America",
     "center": [
-      24.6,
-      -82.9
+      24.6336,
+      -82.8785
     ],
     "bounds": [
       [
@@ -1554,8 +1834,8 @@
     "slug": "florida-keys",
     "region": "North America",
     "center": [
-      24.7,
-      -81.0
+      24.9389,
+      -80.8437
     ],
     "bounds": [
       [
@@ -1577,8 +1857,8 @@
     "slug": "flower-garden-banks",
     "region": "North America",
     "center": [
-      27.9,
-      -93.8
+      27.8888,
+      -93.624
     ],
     "bounds": [
       [
@@ -1600,8 +1880,8 @@
     "slug": "great-lakes",
     "region": "North America",
     "center": [
-      45.0,
-      -84.0
+      44.1826,
+      -80.1286
     ],
     "bounds": [
       [
@@ -1623,8 +1903,8 @@
     "slug": "hawaii-kauai",
     "region": "North America",
     "center": [
-      22.05,
-      -159.5
+      21.9192,
+      -159.5622
     ],
     "bounds": [
       [
@@ -1646,8 +1926,8 @@
     "slug": "hawaii-maui",
     "region": "North America",
     "center": [
-      20.8,
-      -156.3
+      20.6325,
+      -156.4965
     ],
     "bounds": [
       [
@@ -1669,8 +1949,8 @@
     "slug": "hawaii-oahu",
     "region": "North America",
     "center": [
-      21.47,
-      -158.0
+      21.3547,
+      -157.9143
     ],
     "bounds": [
       [
@@ -1692,8 +1972,8 @@
     "slug": "hawaii-big-island",
     "region": "North America",
     "center": [
-      19.5,
-      -155.5
+      19.6652,
+      -155.958
     ],
     "bounds": [
       [
@@ -1715,8 +1995,8 @@
     "slug": "la-paz-sea-of-cortez",
     "region": "North America",
     "center": [
-      24.1,
-      -110.3
+      24.3547,
+      -110.2027
     ],
     "bounds": [
       [
@@ -1738,8 +2018,8 @@
     "slug": "los-cabos",
     "region": "North America",
     "center": [
-      22.93,
-      -109.85
+      22.9261,
+      -109.814
     ],
     "bounds": [
       [
@@ -1761,8 +2041,8 @@
     "slug": "monterey-bay",
     "region": "North America",
     "center": [
-      36.6002,
-      -121.9
+      36.5845,
+      -121.9176
     ],
     "bounds": [
       [
@@ -1784,8 +2064,8 @@
     "slug": "new-england",
     "region": "North America",
     "center": [
-      41.5,
-      -70.5
+      42.2369,
+      -70.9249
     ],
     "bounds": [
       [
@@ -1807,8 +2087,8 @@
     "slug": "new-jersey",
     "region": "North America",
     "center": [
-      39.7,
-      -73.5
+      39.7857,
+      -73.3983
     ],
     "bounds": [
       [
@@ -1830,8 +2110,8 @@
     "slug": "newfoundland",
     "region": "North America",
     "center": [
-      49.0,
-      -56.0
+      47.4736,
+      -54.5214
     ],
     "bounds": [
       [
@@ -1853,8 +2133,8 @@
     "slug": "north-carolina",
     "region": "North America",
     "center": [
-      35.0,
-      -76.0
+      34.8365,
+      -76.1149
     ],
     "bounds": [
       [
@@ -1876,8 +2156,8 @@
     "slug": "nova-scotia",
     "region": "North America",
     "center": [
-      44.6,
-      -63.5
+      45.0916,
+      -63.2447
     ],
     "bounds": [
       [
@@ -1899,8 +2179,8 @@
     "slug": "puerto-vallarta",
     "region": "North America",
     "center": [
-      20.6,
-      -105.45
+      20.61,
+      -105.4361
     ],
     "bounds": [
       [
@@ -1922,8 +2202,8 @@
     "slug": "puget-sound",
     "region": "North America",
     "center": [
-      47.8,
-      -122.5
+      48.2422,
+      -122.6967
     ],
     "bounds": [
       [
@@ -1945,8 +2225,8 @@
     "slug": "san-diego-la-jolla",
     "region": "North America",
     "center": [
-      32.85,
-      -117.28
+      32.7539,
+      -117.2498
     ],
     "bounds": [
       [
@@ -1968,8 +2248,8 @@
     "slug": "socorro-islands",
     "region": "North America",
     "center": [
-      18.9,
-      -111.0
+      18.9886,
+      -111.0381
     ],
     "bounds": [
       [
@@ -1991,8 +2271,8 @@
     "slug": "south-florida",
     "region": "North America",
     "center": [
-      26.1,
-      -80.1
+      26.2452,
+      -80.0769
     ],
     "bounds": [
       [
@@ -2014,8 +2294,8 @@
     "slug": "vancouver-island",
     "region": "North America",
     "center": [
-      49.5,
-      -126.0
+      49.4696,
+      -124.1665
     ],
     "bounds": [
       [
@@ -2038,7 +2318,21 @@
     "region": "Central America",
     "isGroup": true,
     "description": "The world's second-largest barrier reef with the iconic Great Blue Hole.",
-    "countryCode": "BZ"
+    "countryCode": "BZ",
+    "center": [
+      17.4114,
+      -87.8281
+    ],
+    "bounds": [
+      [
+        16.4249,
+        -88.587
+      ],
+      [
+        18.4765,
+        -86.9602
+      ]
+    ]
   },
   {
     "name": "Costa Rica",
@@ -2046,7 +2340,21 @@
     "region": "Central America",
     "isGroup": true,
     "description": "Remote Pacific island diving with massive pelagic aggregations.",
-    "countryCode": "CR"
+    "countryCode": "CR",
+    "center": [
+      5.5443,
+      -87.0528
+    ],
+    "bounds": [
+      [
+        5.009,
+        -87.5912
+      ],
+      [
+        6.0628,
+        -86.523
+      ]
+    ]
   },
   {
     "name": "Honduras",
@@ -2054,7 +2362,21 @@
     "region": "Central America",
     "isGroup": true,
     "description": "Caribbean reef diving and whale shark encounters on the Mesoamerican Barrier Reef.",
-    "countryCode": "HN"
+    "countryCode": "HN",
+    "center": [
+      16.2991,
+      -86.5972
+    ],
+    "bounds": [
+      [
+        15.5688,
+        -87.4554
+      ],
+      [
+        16.8674,
+        -86.0007
+      ]
+    ]
   },
   {
     "name": "Panama",
@@ -2062,15 +2384,29 @@
     "region": "Central America",
     "isGroup": true,
     "description": "Caribbean and Pacific diving with rich biodiversity in national marine parks.",
-    "countryCode": "PA"
+    "countryCode": "PA",
+    "center": [
+      8.5529,
+      -81.9717
+    ],
+    "bounds": [
+      [
+        6.7133,
+        -82.755
+      ],
+      [
+        9.842,
+        -81.1231
+      ]
+    ]
   },
   {
     "name": "Belize Barrier Reef",
     "slug": "belize-barrier-reef",
     "region": "Central America",
     "center": [
-      16.7,
-      -88.0
+      17.4114,
+      -87.8281
     ],
     "bounds": [
       [
@@ -2092,8 +2428,8 @@
     "slug": "bocas-del-toro",
     "region": "Central America",
     "center": [
-      9.35,
-      -82.25
+      9.2883,
+      -82.1674
     ],
     "bounds": [
       [
@@ -2115,8 +2451,8 @@
     "slug": "cocos-island",
     "region": "Central America",
     "center": [
-      5.5,
-      -87.0
+      5.5443,
+      -87.0528
     ],
     "bounds": [
       [
@@ -2138,8 +2474,8 @@
     "slug": "coiba-national-park",
     "region": "Central America",
     "center": [
-      7.5,
-      -81.75
+      7.5968,
+      -81.7172
     ],
     "bounds": [
       [
@@ -2161,8 +2497,8 @@
     "slug": "roatan",
     "region": "Central America",
     "center": [
-      16.32,
-      -86.53
+      16.3106,
+      -86.5796
     ],
     "bounds": [
       [
@@ -2184,8 +2520,8 @@
     "slug": "utila",
     "region": "Central America",
     "center": [
-      16.1,
-      -86.9
+      16.091,
+      -86.9163
     ],
     "bounds": [
       [
@@ -2207,29 +2543,71 @@
     "slug": "dutch-caribbean",
     "region": "Caribbean",
     "isGroup": true,
-    "description": "Shore diving paradise with pristine reefs across the ABC islands and Windward Antilles."
+    "description": "Shore diving paradise with pristine reefs across the ABC islands and Windward Antilles.",
+    "center": [
+      13.0966,
+      -67.7943
+    ],
+    "bounds": [
+      [
+        11.5261,
+        -70.5634
+      ],
+      [
+        18.1501,
+        -62.4801
+      ]
+    ]
   },
   {
     "name": "Eastern Caribbean",
     "slug": "eastern-caribbean",
     "region": "Caribbean",
     "isGroup": true,
-    "description": "Volcanic island diving with dramatic underwater topography and vibrant reefs."
+    "description": "Volcanic island diving with dramatic underwater topography and vibrant reefs.",
+    "center": [
+      13.9027,
+      -61.0654
+    ],
+    "bounds": [
+      [
+        10.68,
+        -63.355
+      ],
+      [
+        18.08,
+        -59.08
+      ]
+    ]
   },
   {
     "name": "French Antilles",
     "slug": "french-antilles",
     "region": "Caribbean",
     "isGroup": true,
-    "description": "Caribbean marine parks with rich Creole diving culture and diverse reef systems."
+    "description": "Caribbean marine parks with rich Creole diving culture and diverse reef systems.",
+    "center": [
+      15.4537,
+      -61.4021
+    ],
+    "bounds": [
+      [
+        13.94,
+        -62.3
+      ],
+      [
+        16.8617,
+        -60.3495
+      ]
+    ]
   },
   {
     "name": "Antigua and Barbuda",
     "slug": "antigua-and-barbuda",
     "region": "Caribbean",
     "center": [
-      17.08,
-      -61.8
+      17.1198,
+      -61.8389
     ],
     "bounds": [
       [
@@ -2251,8 +2629,8 @@
     "slug": "aruba",
     "region": "Caribbean",
     "center": [
-      12.51,
-      -69.97
+      12.5371,
+      -70.0245
     ],
     "bounds": [
       [
@@ -2274,8 +2652,8 @@
     "slug": "bahamas",
     "region": "Caribbean",
     "center": [
-      24.25,
-      -76.0
+      24.8577,
+      -77.0737
     ],
     "bounds": [
       [
@@ -2296,8 +2674,8 @@
     "slug": "barbados",
     "region": "Caribbean",
     "center": [
-      13.18,
-      -59.55
+      13.1521,
+      -59.627
     ],
     "bounds": [
       [
@@ -2319,8 +2697,8 @@
     "slug": "bonaire",
     "region": "Caribbean",
     "center": [
-      12.1836,
-      -68.3177
+      12.1427,
+      -68.3078
     ],
     "bounds": [
       [
@@ -2342,8 +2720,8 @@
     "slug": "british-virgin-islands",
     "region": "Caribbean",
     "center": [
-      18.5,
-      -64.5
+      18.4458,
+      -64.5358
     ],
     "bounds": [
       [
@@ -2364,8 +2742,8 @@
     "slug": "cayman-islands",
     "region": "Caribbean",
     "center": [
-      19.35,
-      -81.25
+      19.4158,
+      -81.0537
     ],
     "bounds": [
       [
@@ -2386,8 +2764,8 @@
     "slug": "curacao",
     "region": "Caribbean",
     "center": [
-      12.221,
-      -69.0103
+      12.213,
+      -69.048
     ],
     "bounds": [
       [
@@ -2409,8 +2787,8 @@
     "slug": "dominica",
     "region": "Caribbean",
     "center": [
-      15.42,
-      -61.35
+      15.3537,
+      -61.4077
     ],
     "bounds": [
       [
@@ -2432,8 +2810,8 @@
     "slug": "dominican-republic",
     "region": "Caribbean",
     "center": [
-      18.75,
-      -69.95
+      18.7994,
+      -69.3245
     ],
     "bounds": [
       [
@@ -2454,8 +2832,8 @@
     "slug": "grenada",
     "region": "Caribbean",
     "center": [
-      12.12,
-      -61.68
+      12.0604,
+      -61.7333
     ],
     "bounds": [
       [
@@ -2477,8 +2855,8 @@
     "slug": "guadeloupe",
     "region": "Caribbean",
     "center": [
-      16.2,
-      -61.55
+      16.101,
+      -61.6687
     ],
     "bounds": [
       [
@@ -2500,8 +2878,8 @@
     "slug": "jamaica",
     "region": "Caribbean",
     "center": [
-      18.1,
-      -77.3
+      18.2216,
+      -77.4446
     ],
     "bounds": [
       [
@@ -2522,8 +2900,8 @@
     "slug": "martinique",
     "region": "Caribbean",
     "center": [
-      14.64,
-      -61.02
+      14.5812,
+      -61.0427
     ],
     "bounds": [
       [
@@ -2545,8 +2923,8 @@
     "slug": "providencia-island",
     "region": "Caribbean",
     "center": [
-      13.35,
-      -81.37
+      13.3611,
+      -81.3822
     ],
     "bounds": [
       [
@@ -2571,8 +2949,8 @@
     "slug": "puerto-rico",
     "region": "Caribbean",
     "center": [
-      18.22,
-      -66.5
+      18.2549,
+      -66.5569
     ],
     "bounds": [
       [
@@ -2593,8 +2971,8 @@
     "slug": "saba",
     "region": "Caribbean",
     "center": [
-      17.63,
-      -63.23
+      17.6335,
+      -63.2586
     ],
     "bounds": [
       [
@@ -2616,8 +2994,8 @@
     "slug": "sint-eustatius",
     "region": "Caribbean",
     "center": [
-      17.49,
-      -62.98
+      17.4707,
+      -62.9893
     ],
     "bounds": [
       [
@@ -2639,8 +3017,8 @@
     "slug": "st-kitts-and-nevis",
     "region": "Caribbean",
     "center": [
-      17.3,
-      -62.73
+      17.2391,
+      -62.6797
     ],
     "bounds": [
       [
@@ -2662,8 +3040,8 @@
     "slug": "st-lucia",
     "region": "Caribbean",
     "center": [
-      13.91,
-      -60.97
+      13.8712,
+      -61.0448
     ],
     "bounds": [
       [
@@ -2685,8 +3063,8 @@
     "slug": "st-vincent-grenadines",
     "region": "Caribbean",
     "center": [
-      13.15,
-      -61.2
+      12.9529,
+      -61.2788
     ],
     "bounds": [
       [
@@ -2708,8 +3086,8 @@
     "slug": "tobago",
     "region": "Caribbean",
     "center": [
-      11.22,
-      -60.67
+      11.26,
+      -60.5896
     ],
     "bounds": [
       [
@@ -2731,8 +3109,8 @@
     "slug": "turks-and-caicos",
     "region": "Caribbean",
     "center": [
-      21.8,
-      -72.0
+      21.7792,
+      -72.1033
     ],
     "bounds": [
       [
@@ -2753,8 +3131,8 @@
     "slug": "us-virgin-islands",
     "region": "Caribbean",
     "center": [
-      18.1,
-      -64.8
+      18.1232,
+      -64.8029
     ],
     "bounds": [
       [
@@ -2776,7 +3154,21 @@
     "region": "South America",
     "isGroup": true,
     "description": "Caribbean islands and remote Pacific pinnacles with pelagic encounters.",
-    "countryCode": "CO"
+    "countryCode": "CO",
+    "center": [
+      13.3611,
+      -81.3822
+    ],
+    "bounds": [
+      [
+        12.815,
+        -81.9187
+      ],
+      [
+        13.9,
+        -80.83
+      ]
+    ]
   },
   {
     "name": "Ecuador",
@@ -2784,15 +3176,29 @@
     "region": "South America",
     "isGroup": true,
     "description": "Legendary Galapagos diving with hammerheads, mantas, and marine iguanas.",
-    "countryCode": "EC"
+    "countryCode": "EC",
+    "center": [
+      -0.3875,
+      -90.394
+    ],
+    "bounds": [
+      [
+        -1.27,
+        -92.06
+      ],
+      [
+        0.45,
+        -89.02
+      ]
+    ]
   },
   {
     "name": "Gal\u00e1pagos Islands",
     "slug": "galapagos-islands",
     "region": "South America",
     "center": [
-      -0.7,
-      -90.5
+      -0.3875,
+      -90.394
     ],
     "bounds": [
       [
@@ -2814,29 +3220,71 @@
     "slug": "micronesia",
     "region": "Pacific",
     "isGroup": true,
-    "description": "World-class wreck diving and pristine reef systems across remote Pacific atolls."
+    "description": "World-class wreck diving and pristine reef systems across remote Pacific atolls.",
+    "center": [
+      8.1849,
+      153.0051
+    ],
+    "bounds": [
+      [
+        4.7588,
+        133.7202
+      ],
+      [
+        10.1045,
+        171.8737
+      ]
+    ]
   },
   {
     "name": "South Pacific",
     "slug": "south-pacific",
     "region": "Pacific",
     "isGroup": true,
-    "description": "Tropical island diving with shark encounters, coral gardens, and crystal-clear waters."
+    "description": "Tropical island diving with shark encounters, coral gardens, and crystal-clear waters.",
+    "center": [
+      -17.7598,
+      -167.8993
+    ],
+    "bounds": [
+      [
+        -21.8833,
+        166.6332
+      ],
+      [
+        -14.9923,
+        -140.474
+      ]
+    ]
   },
   {
     "name": "West Pacific",
     "slug": "west-pacific",
     "region": "Pacific",
     "isGroup": true,
-    "description": "Remote Melanesian diving with exceptional WWII wrecks and pristine reefs."
+    "description": "Remote Melanesian diving with exceptional WWII wrecks and pristine reefs.",
+    "center": [
+      -7.3246,
+      154.214
+    ],
+    "bounds": [
+      [
+        -11.1833,
+        145.2667
+      ],
+      [
+        -3.7,
+        160.75
+      ]
+    ]
   },
   {
     "name": "Chuuk Lagoon",
     "slug": "chuuk-lagoon",
     "region": "Pacific",
     "center": [
-      7.4,
-      151.8
+      7.3218,
+      151.8513
     ],
     "bounds": [
       [
@@ -2858,8 +3306,8 @@
     "slug": "fiji",
     "region": "Pacific",
     "center": [
-      -17.7,
-      178.0
+      -17.577,
+      178.8503
     ],
     "bounds": [
       [
@@ -2881,8 +3329,8 @@
     "slug": "french-polynesia",
     "region": "Pacific",
     "center": [
-      -15.0,
-      -140.0
+      -17.2712,
+      -150.0297
     ],
     "bounds": [
       [
@@ -2904,8 +3352,8 @@
     "slug": "marshall-islands",
     "region": "Pacific",
     "center": [
-      10.0,
-      167.0
+      8.2646,
+      167.4933
     ],
     "bounds": [
       [
@@ -2927,8 +3375,8 @@
     "slug": "micronesia-yap",
     "region": "Pacific",
     "center": [
-      9.5,
-      138.1
+      9.5478,
+      138.1079
     ],
     "bounds": [
       [
@@ -2950,8 +3398,8 @@
     "slug": "palau",
     "region": "Pacific",
     "center": [
-      7.5,
-      134.5
+      7.2104,
+      134.3073
     ],
     "bounds": [
       [
@@ -2973,8 +3421,8 @@
     "slug": "papua-new-guinea",
     "region": "Pacific",
     "center": [
-      -6.0,
-      147.0
+      -5.9972,
+      150.0236
     ],
     "bounds": [
       [
@@ -2996,8 +3444,8 @@
     "slug": "solomon-islands",
     "region": "Pacific",
     "center": [
-      -8.0,
-      159.0
+      -8.9175,
+      159.2425
     ],
     "bounds": [
       [
@@ -3019,8 +3467,8 @@
     "slug": "tonga",
     "region": "Pacific",
     "center": [
-      -20.0,
-      -175.0
+      -19.8071,
+      -174.5929
     ],
     "bounds": [
       [
@@ -3042,8 +3490,8 @@
     "slug": "vanuatu",
     "region": "Pacific",
     "center": [
-      -16.0,
-      167.0
+      -16.6338,
+      167.7383
     ],
     "bounds": [
       [
@@ -3135,7 +3583,21 @@
     "region": "Oceania",
     "isGroup": true,
     "description": "From the Great Barrier Reef to temperate southern waters and remote island territories.",
-    "countryCode": "AU"
+    "countryCode": "AU",
+    "center": [
+      -22.7624,
+      139.2919
+    ],
+    "bounds": [
+      [
+        -35.842,
+        113.1667
+      ],
+      [
+        -13.3014,
+        159.7494
+      ]
+    ]
   },
   {
     "name": "New Zealand",
@@ -3143,15 +3605,29 @@
     "region": "Oceania",
     "isGroup": true,
     "description": "Subtropical island diving with unique marine reserves and diverse fish life.",
-    "countryCode": "NZ"
+    "countryCode": "NZ",
+    "center": [
+      -35.4621,
+      174.732
+    ],
+    "bounds": [
+      [
+        -35.98,
+        174.215
+      ],
+      [
+        -34.945,
+        175.245
+      ]
+    ]
   },
   {
     "name": "Christmas Island",
     "slug": "christmas-island",
     "region": "Oceania",
     "center": [
-      -10.5,
-      105.7
+      -10.4615,
+      105.6394
     ],
     "bounds": [
       [
@@ -3172,8 +3648,8 @@
     "slug": "great-barrier-reef",
     "region": "Oceania",
     "center": [
-      -18.2871,
-      147.6992
+      -15.5662,
+      146.1177
     ],
     "bounds": [
       [
@@ -3195,8 +3671,8 @@
     "slug": "lord-howe-island",
     "region": "Oceania",
     "center": [
-      -31.55,
-      159.1
+      -31.5682,
+      159.0812
     ],
     "bounds": [
       [
@@ -3218,8 +3694,8 @@
     "slug": "ningaloo-reef",
     "region": "Oceania",
     "center": [
-      -22.5,
-      113.8
+      -22.0641,
+      113.9774
     ],
     "bounds": [
       [
@@ -3241,8 +3717,8 @@
     "slug": "poor-knights-islands",
     "region": "Oceania",
     "center": [
-      -35.5,
-      174.7
+      -35.4621,
+      174.732
     ],
     "bounds": [
       [
@@ -3264,8 +3740,8 @@
     "slug": "south-australia-neptune-islands",
     "region": "Oceania",
     "center": [
-      -35.3,
-      136.1
+      -35.266,
+      136.0908
     ],
     "bounds": [
       [
@@ -3287,8 +3763,8 @@
     "slug": "greenland",
     "region": "Arctic",
     "center": [
-      72.0,
-      -40.0
+      69.0126,
+      -47.1875
     ],
     "bounds": [
       [
@@ -3309,8 +3785,8 @@
     "slug": "svalbard",
     "region": "Arctic",
     "center": [
-      78.9,
-      11.9
+      78.1541,
+      14.3438
     ],
     "bounds": [
       [
@@ -3331,8 +3807,8 @@
     "slug": "bermuda",
     "region": "Atlantic",
     "center": [
-      32.3,
-      -64.8
+      32.3266,
+      -64.815
     ],
     "bounds": [
       [
