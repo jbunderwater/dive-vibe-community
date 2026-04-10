@@ -1,0 +1,306 @@
+[
+  {
+    "name": "Jezero Barbora",
+    "lat": 50.6404,
+    "lon": 13.7546,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 40,
+    "site_type": "beach",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Jezero Barbora",
+      "sport": "scuba_diving",
+      "source": "curated",
+      "addedBy": "stranypotapecske",
+      "validated": "true",
+      "validation_source": "stranypotapecske.cz, soprassub.com"
+    }
+  },
+  {
+    "name": "Leštinka - Kaňon",
+    "lat": 49.8447,
+    "lon": 15.9601,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 10,
+    "site_type": "beach",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Leštinka - Kaňon",
+      "sport": "scuba_diving",
+      "source": "curated",
+      "addedBy": "stranypotapecske",
+      "validated": "true",
+      "validation_source": "stranypotapecske.cz"
+    }
+  },
+  {
+    "name": "Lom Opatovice u Hranic",
+    "lat": 49.503,
+    "lon": 17.744,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 37,
+    "site_type": "beach",
+    "entry_type": "shore",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Lom Opatovice u Hranic",
+      "sport": "scuba_diving",
+      "source": "curated",
+      "addedBy": "stranypotapecske",
+      "validated": "true",
+      "validation_source": "stranypotapecske.cz"
+    }
+  },
+  {
+    "name": "Černá Voda - Lom Rampa",
+    "lat": 50.2966,
+    "lon": 17.1358,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 12,
+    "site_type": "wall",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Černá Voda - Lom Rampa",
+      "sport": "scuba_diving",
+      "source": "curated",
+      "addedBy": "stranypotapecske",
+      "validated": "true",
+      "validation_source": "stranypotapecske.cz"
+    }
+  },
+  {
+    "name": "Slapská Přehrada",
+    "lat": 49.766,
+    "lon": 14.412,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 56,
+    "site_type": "wall",
+    "entry_type": "shore",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Slapská Přehrada",
+      "sport": "scuba_diving",
+      "source": "curated",
+      "addedBy": "stranypotapecske",
+      "validated": "true",
+      "validation_source": "stranypotapecske.cz"
+    }
+  },
+  {
+    "name": "Písník Březhrad",
+    "lat": 50.1642,
+    "lon": 15.7909,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 7,
+    "site_type": "beach",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Písník Březhrad",
+      "sport": "scuba_diving",
+      "source": "curated",
+      "addedBy": "stranypotapecske",
+      "validated": "true",
+      "validation_source": "stranypotapecske.cz"
+    }
+  },
+  {
+    "name": "Slezská Harta",
+    "lat": 49.890,
+    "lon": 17.581,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 50,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Slezská Harta",
+      "sport": "scuba_diving",
+      "source": "curated",
+      "addedBy": "stranypotapecske",
+      "validated": "true",
+      "validation_source": "stranypotapecske.cz"
+    }
+  },
+  {
+    "name": "Lom Hostěřadice",
+    "lat": 48.937,
+    "lon": 16.233,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 13,
+    "site_type": "beach",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Lom Hostěřadice",
+      "sport": "scuba_diving",
+      "source": "curated",
+      "addedBy": "stranypotapecske",
+      "validated": "true",
+      "validation_source": "stranypotapecske.cz"
+    }
+  },
+  {
+    "name": "Lom Borek",
+    "lat": 49.716,
+    "lon": 15.597,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 34,
+    "site_type": "wall",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Lom Borek",
+      "sport": "scuba_diving",
+      "source": "curated",
+      "addedBy": "stranypotapecske",
+      "validated": "true",
+      "validation_source": "stranypotapecske.cz, divessi.com"
+    }
+  },
+  {
+    "name": "Lom Šífr",
+    "lat": 49.9408,
+    "lon": 17.6564,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 36,
+    "site_type": "wall",
+    "entry_type": "shore",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Lom Šífr",
+      "sport": "scuba_diving",
+      "source": "curated",
+      "addedBy": "stranypotapecske",
+      "validated": "true",
+      "validation_source": "stranypotapecske.cz, divechamp.com"
+    }
+  },
+  {
+    "name": "Hranická Propast",
+    "lat": 49.5322,
+    "lon": 17.7508,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 450,
+    "site_type": "cave",
+    "entry_type": "shore",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Hranická Propast",
+      "sport": "scuba_diving",
+      "source": "curated",
+      "addedBy": "curated",
+      "validated": "true",
+      "validation_source": "wikipedia.org, naui.org"
+    }
+  },
+  {
+    "name": "Orlík - Kostel Technice",
+    "lat": 49.581,
+    "lon": 14.161,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 60,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Orlík - Kostel Technice",
+      "sport": "scuba_diving",
+      "source": "curated",
+      "addedBy": "curated",
+      "validated": "true",
+      "validation_source": "scubaboard.com, soprassub.com"
+    }
+  },
+  {
+    "name": "Lom Bořená Hora",
+    "lat": 49.6618,
+    "lon": 14.5056,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 22,
+    "site_type": "wreck",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Lom Bořená Hora",
+      "sport": "scuba_diving",
+      "source": "curated",
+      "addedBy": "curated",
+      "validated": "true",
+      "validation_source": "stranypotapecske.cz, scubago.com"
+    }
+  },
+  {
+    "name": "Lom Výkleky",
+    "lat": 49.5570,
+    "lon": 17.4824,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 9,
+    "site_type": "beach",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Lom Výkleky",
+      "sport": "scuba_diving",
+      "source": "curated",
+      "addedBy": "curated",
+      "validated": "true",
+      "validation_source": "stranypotapecske.cz, divessi.com"
+    }
+  },
+  {
+    "name": "Lom Leštinka",
+    "lat": 49.8410,
+    "lon": 15.9743,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 26,
+    "site_type": "wall",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Lom Leštinka",
+      "sport": "scuba_diving",
+      "source": "curated",
+      "addedBy": "curated",
+      "validated": "true",
+      "validation_source": "stranypotapecske.cz, lestinkalom.cz"
+    }
+  },
+  {
+    "name": "Lom Jesenný",
+    "lat": 50.6621,
+    "lon": 15.3456,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 14,
+    "site_type": "beach",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Lom Jesenný",
+      "sport": "scuba_diving",
+      "source": "curated",
+      "addedBy": "curated",
+      "validated": "true",
+      "validation_source": "stranypotapecske.cz, buddymag.cz"
+    }
+  }
+]
