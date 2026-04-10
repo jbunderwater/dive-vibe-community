@@ -169,5 +169,61 @@
       "validated": "true",
       "validation_source": "perplexity"
     }
+  },
+  {
+    "name": "Santa Iria",
+    "lat": 37.841934,
+    "lon": -25.498948,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Santa Iria",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Bahia de Capelas",
+    "lat": 37.843244,
+    "lon": -25.688296,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Bahia de Capelas",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Lagoa",
+    "lat": 37.741148,
+    "lon": -25.57533,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Lagoa",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Rostro de Cao",
+    "lat": 37.743339,
+    "lon": -25.639832,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Rostro de Cao",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
   }
 ]

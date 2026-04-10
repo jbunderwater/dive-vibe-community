@@ -118,5 +118,53 @@
     "siteType": "wreck",
     "ref": "",
     "osmId": null
+  },
+  {
+    "name": "Santa Iria",
+    "filename": "santa-iria.md",
+    "lat": 37.841934,
+    "lng": -25.498948,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Bahia de Capelas",
+    "filename": "bahia-de-capelas.md",
+    "lat": 37.843244,
+    "lng": -25.688296,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Lagoa",
+    "filename": "lagoa.md",
+    "lat": 37.741148,
+    "lng": -25.57533,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Rostro de Cao",
+    "filename": "rostro-de-cao.md",
+    "lat": 37.743339,
+    "lng": -25.639832,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
   }
 ]
