@@ -176,5 +176,90 @@
       "validated": "true",
       "validation_source": "perplexity"
     }
+  },
+  {
+    "name": "Crystal Cave",
+    "lat": -35.457,
+    "lon": 174.735,
+    "depth": 20,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Crystal Cave",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "HMNZS Tui",
+    "lat": -35.476,
+    "lon": 174.735,
+    "depth": 33,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "HMNZS Tui",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "HMNZS Waikato",
+    "lat": -35.475,
+    "lon": 174.74,
+    "depth": 28,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "HMNZS Waikato",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Oculina Point",
+    "lat": -35.451,
+    "lon": 174.733,
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Oculina Point",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Trevors Rock",
+    "lat": -35.46,
+    "lon": 174.73,
+    "depth": 30,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Trevors Rock",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
   }
 ]

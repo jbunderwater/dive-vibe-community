@@ -1,0 +1,274 @@
+[
+  {
+    "name": "Boulders",
+    "lat": 13.511995,
+    "lon": 120.983276,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Boulders",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Dry Dock",
+    "lat": 13.525944,
+    "lon": 120.970377,
+    "depth": 30,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Dry Dock",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Dungon Wall",
+    "lat": 13.52259,
+    "lon": 120.986855,
+    "depth": 35,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Dungon Wall",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Ernies Cave",
+    "lat": 13.522959,
+    "lon": 120.981361,
+    "depth": 26,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Ernies Cave",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Fantasea",
+    "lat": 13.523807,
+    "lon": 120.974171,
+    "depth": 23,
+    "site_type": "drift",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Fantasea",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Hole in the Wall",
+    "lat": 13.523133,
+    "lon": 120.992837,
+    "depth": 27,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Hole in the Wall",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Kilima",
+    "lat": 13.518385,
+    "lon": 120.992266,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Kilima",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Montani",
+    "lat": 13.517826,
+    "lon": 120.959581,
+    "depth": 14,
+    "site_type": "muck",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Montani",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "MV Alma Jane",
+    "lat": 13.525066,
+    "lon": 120.973147,
+    "depth": 29,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "MV Alma Jane",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Sabang Bay West",
+    "lat": 13.522322,
+    "lon": 120.974608,
+    "depth": 22,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Sabang Bay West",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Sabang Bay Wrecks",
+    "lat": 13.522065,
+    "lon": 120.976133,
+    "depth": 19,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Sabang Bay Wrecks",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Sabang Point",
+    "lat": 13.523279,
+    "lon": 120.978238,
+    "depth": 27,
+    "site_type": "drift",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Sabang Point",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Shark Cave",
+    "lat": 13.521924,
+    "lon": 120.993825,
+    "depth": 28,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Shark Cave",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Sinandigan Wall",
+    "lat": 13.516359,
+    "lon": 120.989923,
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Sinandigan Wall",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "The Canyons",
+    "lat": 13.523407,
+    "lon": 120.992139,
+    "depth": 29,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "The Canyons",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "West Escareo",
+    "lat": 13.522229,
+    "lon": 120.988181,
+    "depth": 24,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "West Escareo",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  }
+]

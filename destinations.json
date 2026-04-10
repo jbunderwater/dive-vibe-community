@@ -484,6 +484,52 @@
     "parentSlug": "philippines"
   },
   {
+    "name": "Philippines Puerto Galera",
+    "slug": "philippines-puerto-galera",
+    "region": "Asia",
+    "center": [
+      13.52,
+      120.98
+    ],
+    "bounds": [
+      [
+        13.49,
+        120.95
+      ],
+      [
+        13.55,
+        121.01
+      ]
+    ],
+    "description": "Popular dive destination on Mindoro Island with diverse sites from walls and canyons to wrecks and muck diving around Sabang Bay.",
+    "overviewFile": "overview.md",
+    "countryCode": "PH",
+    "parentSlug": "philippines"
+  },
+  {
+    "name": "Philippines Bohol",
+    "slug": "philippines-bohol",
+    "region": "Asia",
+    "center": [
+      9.62,
+      123.85
+    ],
+    "bounds": [
+      [
+        9.3,
+        123.5
+      ],
+      [
+        10.0,
+        124.2
+      ]
+    ],
+    "description": "World-class wall diving at Balicasag Island and diverse reef sites around Panglao, with seasonal whale sharks at Pamilacan.",
+    "overviewFile": "overview.md",
+    "countryCode": "PH",
+    "parentSlug": "philippines"
+  },
+  {
     "name": "Raja Ampat",
     "slug": "raja-ampat",
     "region": "Asia",
@@ -821,7 +867,7 @@
         6.55
       ]
     ],
-    "description": "Europe's oldest marine reserve on France's Côte d'Azur, birthplace of modern scuba diving with over 50 dive sites and exceptional Mediterranean visibility.",
+    "description": "Europe's oldest marine reserve on France's C\u00f4te d'Azur, birthplace of modern scuba diving with over 50 dive sites and exceptional Mediterranean visibility.",
     "overviewFile": "overview.md",
     "countryCode": "FR",
     "parentSlug": "france"
@@ -2083,13 +2129,13 @@
         -81.3
       ]
     ],
-    "description": "Panama's UNESCO marine park dubbed the 'Central American Galápagos' with whale sharks, giant mantas, hammerheads, and pristine Pacific reef systems.",
+    "description": "Panama's UNESCO marine park dubbed the 'Central American Gal\u00e1pagos' with whale sharks, giant mantas, hammerheads, and pristine Pacific reef systems.",
     "overviewFile": "overview.md",
     "countryCode": "PA",
     "parentSlug": "panama"
   },
   {
-    "name": "Roatán",
+    "name": "Roat\u00e1n",
     "slug": "roatan",
     "region": "Central America",
     "center": [
@@ -2196,7 +2242,7 @@
         -69.87
       ]
     ],
-    "description": "The SS Antilla — one of the largest wreck dives in the Caribbean — plus pristine reefs, completing the famous ABC island diving trio.",
+    "description": "The SS Antilla \u2014 one of the largest wreck dives in the Caribbean \u2014 plus pristine reefs, completing the famous ABC island diving trio.",
     "overviewFile": "overview.md",
     "countryCode": "AW",
     "parentSlug": "dutch-caribbean"
@@ -2399,7 +2445,7 @@
         -61.58
       ]
     ],
-    "description": "Home to the Bianca C — the 'Titanic of the Caribbean' — and the world's first Underwater Sculpture Park, with pristine reefs and volcanic formations.",
+    "description": "Home to the Bianca C \u2014 the 'Titanic of the Caribbean' \u2014 and the world's first Underwater Sculpture Park, with pristine reefs and volcanic formations.",
     "overviewFile": "overview.md",
     "countryCode": "GD",
     "parentSlug": "eastern-caribbean"
@@ -2719,7 +2765,7 @@
     "countryCode": "EC"
   },
   {
-    "name": "Galápagos Islands",
+    "name": "Gal\u00e1pagos Islands",
     "slug": "galapagos-islands",
     "region": "South America",
     "center": [
@@ -2991,6 +3037,75 @@
     "overviewFile": "overview.md",
     "countryCode": "VU",
     "parentSlug": "south-pacific"
+  },
+  {
+    "name": "New Caledonia",
+    "slug": "new-caledonia",
+    "region": "Pacific",
+    "center": [
+      -22.27,
+      166.45
+    ],
+    "bounds": [
+      [
+        -22.8,
+        164.0
+      ],
+      [
+        -20.0,
+        167.5
+      ]
+    ],
+    "description": "French territory with the world's largest lagoon, pristine reefs, historic wrecks, and manta ray encounters along the barrier reef.",
+    "overviewFile": "overview.md",
+    "countryCode": "NC",
+    "parentSlug": "south-pacific"
+  },
+  {
+    "name": "Cook Islands Rarotonga",
+    "slug": "cook-islands-rarotonga",
+    "region": "Pacific",
+    "center": [
+      -21.23,
+      -159.78
+    ],
+    "bounds": [
+      [
+        -21.3,
+        -159.9
+      ],
+      [
+        -21.15,
+        -159.7
+      ]
+    ],
+    "description": "Tropical South Pacific diving with pristine visibility around volcanic reef systems and passages.",
+    "overviewFile": "overview.md",
+    "countryCode": "CK",
+    "parentSlug": "south-pacific"
+  },
+  {
+    "name": "Guam",
+    "slug": "guam",
+    "region": "Pacific",
+    "center": [
+      13.45,
+      144.75
+    ],
+    "bounds": [
+      [
+        13.23,
+        144.61
+      ],
+      [
+        13.66,
+        144.96
+      ]
+    ],
+    "description": "Unique WWII wreck diving with the only place to touch wrecks from both World Wars on a single dive, plus dramatic blue holes and reef sites.",
+    "overviewFile": "overview.md",
+    "countryCode": "GU",
+    "parentSlug": "west-pacific"
   },
   {
     "name": "Australia",

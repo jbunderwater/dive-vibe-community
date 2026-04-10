@@ -1,7 +1,7 @@
 ---
 name: Kensho Maru
-lat: 7.3768704
-lng: 151.8457254
+lat: 7.37689
+lng: 151.84583
 difficulty: Intermediate
 maxDepth: 40
 entryType: boat

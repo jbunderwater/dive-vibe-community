@@ -121,12 +121,12 @@
     }
   },
   {
-    "name": "MV Pacific Gas Madang",
-    "lat": -5.2167,
-    "lon": 145.7667,
+    "name": "MV Pacific Gas",
+    "lat": -9.5869,
+    "lon": 147.2883,
     "osm_id": null,
     "osm_type": null,
-    "depth": 35,
+    "depth": 45,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -136,7 +136,8 @@
       "validated": "true",
       "validation_source": "perplexity",
       "description": "Large cargo ship wreck in Madang area, depths 25-35m. Significant structure with hold access and marine growth. Groupers, snappers, and tropical fish abundant. Requires Advanced training for deep wreck exploration in tropical waters."
-    }
+    },
+    "validation_source": "michaelmcfadyenscuba.info"
   },
   {
     "name": "Planet Rock Madang",
@@ -204,6 +205,448 @@
       "addedBy": "gap_fill",
       "validated": "true",
       "validation_source": "perplexity"
+    }
+  },
+  {
+    "name": "Aichi Jake Seaplane",
+    "lat": -2.590861,
+    "lon": 150.781083,
+    "depth": 12,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Aichi Jake Seaplane",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Helmuts Reef",
+    "lat": -2.682028,
+    "lon": 150.513917,
+    "depth": 40,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Helmuts Reef",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Matrix",
+    "lat": -2.644167,
+    "lon": 150.533139,
+    "depth": 50,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Matrix",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Deep Pete",
+    "lat": -2.583722,
+    "lon": 150.766917,
+    "depth": 40,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Deep Pete",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Kate Bomber",
+    "lat": -2.587167,
+    "lon": 150.485194,
+    "depth": 27,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Kate Bomber",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Numnumin Reef",
+    "lat": -2.581667,
+    "lon": 150.770139,
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Numnumin Reef",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Planet Hollywood",
+    "lat": -2.665528,
+    "lon": 150.49125,
+    "depth": 45,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Planet Hollywood",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Dick",
+    "lat": -4.370611,
+    "lon": 151.974583,
+    "depth": 40,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Dick",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "East Point",
+    "lat": -4.185222,
+    "lon": 151.948583,
+    "depth": 40,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "East Point",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Georges Wreck",
+    "lat": -4.148667,
+    "lon": 152.177028,
+    "depth": 55,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Georges Wreck",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Harrys Step Up",
+    "lat": -4.187278,
+    "lon": 151.974583,
+    "depth": 40,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Harrys Step Up",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Kulua Lodge Wrecks",
+    "lat": -4.202222,
+    "lon": 152.1055,
+    "depth": 20,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Kulua Lodge Wrecks",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Pygmy Point",
+    "lat": -4.165,
+    "lon": 151.914694,
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Pygmy Point",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Sin Reef",
+    "lat": -4.237278,
+    "lon": 152.002528,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Sin Reef",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Wonder World",
+    "lat": -4.208667,
+    "lon": 151.978306,
+    "depth": 35,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Wonder World",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Douglas A-20 Havoc",
+    "lat": -9.5519,
+    "lon": 147.2931,
+    "depth": 18,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Douglas A-20 Havoc",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Suzies Bommie",
+    "lat": -9.58139,
+    "lon": 147.25889,
+    "depth": 45,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Suzies Bommie",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "The Finger",
+    "lat": -9.555,
+    "lon": 147.1333,
+    "depth": 40,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "The Finger",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "HMPNGS Aitape",
+    "lat": -9.57,
+    "lon": 147.3,
+    "depth": 30,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "HMPNGS Aitape",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Christmas Tree",
+    "lat": -9.56,
+    "lon": 147.26,
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Christmas Tree",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "MV Coral Queen",
+    "lat": -5.22,
+    "lon": 145.8,
+    "depth": 32,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "MV Coral Queen",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Henry Leith",
+    "lat": -5.21,
+    "lon": 145.79,
+    "depth": 20,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Henry Leith",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "B-25 Mitchell Bomber",
+    "lat": -5.23,
+    "lon": 145.79,
+    "depth": 25,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "B-25 Mitchell Bomber",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Barracuda Point Madang",
+    "lat": -5.2,
+    "lon": 145.78,
+    "depth": 40,
+    "site_type": "drift",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Barracuda Point Madang",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Eel Garden Madang",
+    "lat": -5.21,
+    "lon": 145.77,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Eel Garden Madang",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Di's Delight",
+    "lat": -9.6042,
+    "lon": 147.3147,
+    "depth": 32,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Di's Delight",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
     }
   }
 ]

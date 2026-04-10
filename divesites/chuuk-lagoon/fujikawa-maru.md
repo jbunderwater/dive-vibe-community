@@ -1,7 +1,7 @@
 ---
 name: Fujikawa Maru
-lat: 7.3445825
-lng: 151.8844405
+lat: 7.344639
+lng: 151.884861
 difficulty: Intermediate
 maxDepth: 33
 entryType: boat

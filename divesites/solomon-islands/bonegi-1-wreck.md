@@ -1,7 +1,7 @@
 ---
 name: Bonegi 1 Wreck
-lat: -9.3667
-lng: 159.95
+lat: -9.385861
+lng: 159.874056
 difficulty: Intermediate
 maxDepth: 34
 entryType: shore

@@ -1,7 +1,7 @@
 ---
 name: Heian Maru
-lat: 7.3827083
-lng: 151.8556827
+lat: 7.38286
+lng: 151.85575
 difficulty: Advanced
 maxDepth: 35
 entryType: boat

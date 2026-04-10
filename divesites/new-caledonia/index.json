@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Gorgonia Valley",
+    "filename": "gorgonia-valley.md",
+    "lat": -22.605,
+    "lng": 167.475,
+    "difficulty": "Intermediate",
+    "maxDepth": 35,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Oupere Grotto",
+    "filename": "oupere-grotto.md",
+    "lat": -22.61,
+    "lng": 167.47,
+    "difficulty": "Intermediate",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Devils Grotto",
+    "filename": "devils-grotto.md",
+    "lat": -22.62,
+    "lng": 167.48,
+    "difficulty": "Intermediate",
+    "maxDepth": 6,
+    "entryType": "shore",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Boulari Pass",
+    "filename": "boulari-pass.md",
+    "lat": -22.48,
+    "lng": 166.45,
+    "difficulty": "Intermediate",
+    "maxDepth": 21,
+    "entryType": "boat",
+    "siteType": "drift",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "La Dieppoise",
+    "filename": "la-dieppoise.md",
+    "lat": -22.475,
+    "lng": 166.455,
+    "difficulty": "Intermediate",
+    "maxDepth": 26,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "False Pass",
+    "filename": "false-pass.md",
+    "lat": -20.25,
+    "lng": 164.02,
+    "difficulty": "Intermediate",
+    "maxDepth": 32,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Les Pitons",
+    "filename": "les-pitons.md",
+    "lat": -20.24,
+    "lng": 164.01,
+    "difficulty": "Intermediate",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Amadee Island Reef",
+    "filename": "amadee-island-reef.md",
+    "lat": -22.48,
+    "lng": 166.47,
+    "difficulty": "Beginner",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  }
+]

@@ -130,5 +130,65 @@
     "siteType": "wall",
     "ref": "",
     "osmId": null
+  },
+  {
+    "name": "Crystal Cave",
+    "filename": "crystal-cave.md",
+    "lat": -35.457,
+    "lng": 174.735,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "cave",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "HMNZS Tui",
+    "filename": "hmnzs-tui.md",
+    "lat": -35.476,
+    "lng": 174.735,
+    "difficulty": "Intermediate",
+    "maxDepth": 33,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "HMNZS Waikato",
+    "filename": "hmnzs-waikato.md",
+    "lat": -35.475,
+    "lng": 174.74,
+    "difficulty": "Intermediate",
+    "maxDepth": 28,
+    "entryType": "boat",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Oculina Point",
+    "filename": "oculina-point.md",
+    "lat": -35.451,
+    "lng": 174.733,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Trevors Rock",
+    "filename": "trevors-rock.md",
+    "lat": -35.46,
+    "lng": 174.73,
+    "difficulty": "Intermediate",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "pinnacle",
+    "ref": "",
+    "osmId": null
   }
 ]

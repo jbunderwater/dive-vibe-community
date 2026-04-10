@@ -1,7 +1,7 @@
 ---
 name: Shinkoku Maru
-lat: 7.400096
-lng: 151.7789273
+lat: 7.400111
+lng: 151.779111
 difficulty: Intermediate
 maxDepth: 39
 entryType: boat

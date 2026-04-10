@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Black Forest",
+    "filename": "black-forest.md",
+    "lat": 9.5167,
+    "lng": 123.6833,
+    "difficulty": "Intermediate",
+    "maxDepth": 40,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Marine Sanctuary",
+    "filename": "marine-sanctuary.md",
+    "lat": 9.5167,
+    "lng": 123.685,
+    "difficulty": "Beginner",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Pamilacan Island",
+    "filename": "pamilacan-island.md",
+    "lat": 9.4917,
+    "lng": 123.935,
+    "difficulty": "Intermediate",
+    "maxDepth": 35,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "The Arc",
+    "filename": "the-arc.md",
+    "lat": 9.55,
+    "lng": 123.77,
+    "difficulty": "Intermediate",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Doljo Point",
+    "filename": "doljo-point.md",
+    "lat": 9.6,
+    "lng": 123.73,
+    "difficulty": "Intermediate",
+    "maxDepth": 30,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Kalipayan Wall",
+    "filename": "kalipayan-wall.md",
+    "lat": 9.56,
+    "lng": 123.76,
+    "difficulty": "Intermediate",
+    "maxDepth": 35,
+    "entryType": "boat",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Arco Point",
+    "filename": "arco-point.md",
+    "lat": 9.555,
+    "lng": 123.775,
+    "difficulty": "Beginner",
+    "maxDepth": 25,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Snake Island",
+    "filename": "snake-island.md",
+    "lat": 9.53,
+    "lng": 123.74,
+    "difficulty": "Beginner",
+    "maxDepth": 20,
+    "entryType": "boat",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  }
+]

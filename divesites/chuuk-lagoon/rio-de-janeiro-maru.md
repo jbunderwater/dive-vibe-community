@@ -1,7 +1,7 @@
 ---
 name: Rio de Janeiro Maru
-lat: 7.3041719
-lng: 151.894137
+lat: 7.30439
+lng: 151.89467
 difficulty: Intermediate
 maxDepth: 33
 entryType: boat

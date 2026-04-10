@@ -1,0 +1,138 @@
+[
+  {
+    "name": "Black Forest",
+    "lat": 9.5167,
+    "lon": 123.6833,
+    "depth": 40,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Black Forest",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Marine Sanctuary",
+    "lat": 9.5167,
+    "lon": 123.685,
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Marine Sanctuary",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Pamilacan Island",
+    "lat": 9.4917,
+    "lon": 123.935,
+    "depth": 35,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Pamilacan Island",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "The Arc",
+    "lat": 9.55,
+    "lon": 123.77,
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "The Arc",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Doljo Point",
+    "lat": 9.6,
+    "lon": 123.73,
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "gap_fill",
+    "tags": {
+      "name": "Doljo Point",
+      "sport": "scuba_diving",
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Kalipayan Wall",
+    "lat": 9.56,
+    "lon": 123.76,
+    "depth": 35,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "gap_fill",
+    "tags": {
+      "name": "Kalipayan Wall",
+      "sport": "scuba_diving",
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Arco Point",
+    "lat": 9.555,
+    "lon": 123.775,
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "validated": "true",
+    "validation_source": "gap_fill",
+    "tags": {
+      "name": "Arco Point",
+      "sport": "scuba_diving",
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Snake Island",
+    "lat": 9.53,
+    "lon": 123.74,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "validated": "true",
+    "validation_source": "gap_fill",
+    "tags": {
+      "name": "Snake Island",
+      "sport": "scuba_diving",
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  }
+]

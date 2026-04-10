@@ -1,0 +1,138 @@
+[
+  {
+    "name": "SMS Cormoran",
+    "lat": 13.4557,
+    "lon": 144.653883,
+    "depth": 32,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "SMS Cormoran",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Tokai Maru",
+    "lat": 13.4557,
+    "lon": 144.653883,
+    "depth": 40,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Tokai Maru",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Blue Hole",
+    "lat": 13.4365,
+    "lon": 144.626083,
+    "depth": 55,
+    "site_type": "cave",
+    "entry_type": "shore",
+    "difficulty": "Advanced",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Blue Hole",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Gab Gab Reef",
+    "lat": 13.445,
+    "lon": 144.643611,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Gab Gab Reef",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Fish Eye Marine Park",
+    "lat": 13.428,
+    "lon": 144.654,
+    "depth": 10,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "validated": "true",
+    "validation_source": "gap_fill",
+    "tags": {
+      "name": "Fish Eye Marine Park",
+      "sport": "scuba_diving",
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Gun Beach",
+    "lat": 13.52,
+    "lon": 144.78,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "validated": "true",
+    "validation_source": "gap_fill",
+    "tags": {
+      "name": "Gun Beach",
+      "sport": "scuba_diving",
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Hap's Reef",
+    "lat": 13.38,
+    "lon": 144.635,
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "gap_fill",
+    "tags": {
+      "name": "Hap's Reef",
+      "sport": "scuba_diving",
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  },
+  {
+    "name": "Shark Pit",
+    "lat": 13.435,
+    "lon": 144.625,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "gap_fill",
+    "tags": {
+      "name": "Shark Pit",
+      "sport": "scuba_diving",
+      "source": "curated",
+      "addedBy": "gap_fill"
+    }
+  }
+]

@@ -1,7 +1,7 @@
 ---
 name: Sankisan Maru
-lat: 7.295224
-lng: 151.8686103
+lat: 7.295472
+lng: 151.868944
 difficulty: Intermediate
 maxDepth: 30
 entryType: boat

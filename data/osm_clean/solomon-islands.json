@@ -1,8 +1,8 @@
 [
   {
     "name": "Bonegi 1 Wreck",
-    "lat": -9.3667,
-    "lon": 159.95,
+    "lat": -9.385861,
+    "lon": 159.874056,
     "osm_id": null,
     "osm_type": null,
     "depth": 34,
@@ -13,14 +13,16 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "websearch",
+      "validation_source": "websearch, michaelmcfadyenscuba.info",
       "notes": "Hirokawa Maru - 156m Japanese freighter, bow in 5m, stern in 60m, coral-covered"
-    }
+    },
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info"
   },
   {
     "name": "Bonegi 2 Wreck",
-    "lat": -9.3583,
-    "lon": 159.9417,
+    "lat": -9.378833,
+    "lon": 159.870222,
     "osm_id": null,
     "osm_type": null,
     "depth": 23,
@@ -31,9 +33,11 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": true,
-      "validation_source": "websearch",
+      "validation_source": "websearch, michaelmcfadyenscuba.info",
       "notes": "Kinugawa Maru - Japanese freighter, easy circumnavigation, soft coral-covered, beginner-friendly"
-    }
+    },
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info"
   },
   {
     "name": "Toa Maru Wreck",
@@ -178,6 +182,346 @@
       "validated": true,
       "validation_source": "websearch",
       "notes": "Mane Island (Russell Islands), iconic swim-through with sunlight shafts, scenic pond surrounded by shallow reef, pygmy seahorses, saltwater crocodiles occasional"
+    }
+  },
+  {
+    "name": "Kyusyu Maru",
+    "lat": -9.353139,
+    "lon": 159.843417,
+    "depth": 46,
+    "site_type": "wreck",
+    "entry_type": "shore",
+    "difficulty": "Advanced",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Kyusyu Maru",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Japanese Submarine I-1",
+    "lat": -9.382,
+    "lon": 159.844,
+    "depth": 30,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Japanese Submarine I-1",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "B-17 Flying Fortress",
+    "lat": -9.395,
+    "lon": 160.051,
+    "depth": 17,
+    "site_type": "wreck",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "B-17 Flying Fortress",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "USS John Penn",
+    "lat": -9.38,
+    "lon": 160.03,
+    "depth": 56,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "USS John Penn",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Tambea Caves",
+    "lat": -9.38,
+    "lon": 159.84,
+    "depth": 15,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Tambea Caves",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Sea Lark Channel",
+    "lat": -9.35,
+    "lon": 160.1,
+    "depth": 30,
+    "site_type": "drift",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Sea Lark Channel",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "HMNZS Moa",
+    "lat": -9.095028,
+    "lon": 160.149222,
+    "depth": 40,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "HMNZS Moa",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Kawanishi Mavis Flying Boat",
+    "lat": -9.108861,
+    "lon": 160.186,
+    "depth": 30,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Kawanishi Mavis Flying Boat",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Twin Tunnels",
+    "lat": -9.147083,
+    "lon": 160.142028,
+    "depth": 45,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Twin Tunnels",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "USS Aaron Ward",
+    "lat": -9.168417,
+    "lon": 160.197028,
+    "depth": 70,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "USS Aaron Ward",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Hundred Thousand Dollar Point",
+    "lat": -9.08,
+    "lon": 160.15,
+    "depth": 35,
+    "site_type": "wreck",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Hundred Thousand Dollar Point",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Grumman Hellcat",
+    "lat": -8.07,
+    "lon": 157.0,
+    "depth": 11,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Grumman Hellcat",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Grand Central Station",
+    "lat": -8.1,
+    "lon": 156.82,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Grand Central Station",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "The Gap",
+    "lat": -8.05,
+    "lon": 156.8,
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "The Gap",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Top Secret Place",
+    "lat": -8.09,
+    "lon": 156.78,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Top Secret Place",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "MV Roylen Petaj",
+    "lat": -8.1,
+    "lon": 156.84,
+    "depth": 14,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "MV Roylen Petaj",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Tokuyo Maru",
+    "lat": -8.03,
+    "lon": 156.95,
+    "depth": 38,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Tokuyo Maru",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "USS Kanawha",
+    "lat": -9.116472,
+    "lon": 160.163806,
+    "depth": 58,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "USS Kanawha",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "USS Minneapolis Bow",
+    "lat": -9.069,
+    "lon": 160.144,
+    "depth": 22,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "USS Minneapolis Bow",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Mitsubishi Zero Gizo",
+    "lat": -8.103,
+    "lon": 156.842,
+    "depth": 10,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Mitsubishi Zero Gizo",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
     }
   }
 ]

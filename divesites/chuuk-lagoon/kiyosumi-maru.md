@@ -1,7 +1,7 @@
 ---
 name: Kiyosumi Maru
-lat: 7.3735956
-lng: 151.8432342
+lat: 7.373806
+lng: 151.843667
 difficulty: Intermediate
 maxDepth: 30
 entryType: boat

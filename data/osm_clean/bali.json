@@ -464,7 +464,7 @@
     }
   },
   {
-    "name": "Coral garden",
+    "name": "Coral Garden Tulamben",
     "lat": -8.2769163,
     "lon": 115.5946864,
     "osm_id": 6428015268,
@@ -477,7 +477,7 @@
     "validation_source": "Tulamben area dive sites",
     "tags": {
       "description": "Reef dive site in Tulamben area. Intermediate-level site with healthy coral garden structures supporting diverse marine life.",
-      "name": "Coral garden",
+      "name": "Coral Garden Tulamben",
       "sport": "scuba_diving"
     }
   },
@@ -570,6 +570,142 @@
       "sport": "scuba_diving",
       "description": "Dramatic volcanic wall formed by a historic Mount Agung lava flow, also known as the Tulamben Wall. Shore entry across pebble beach with a short surface swim to the wall. Wall top at 3-5m drops to over 60m. A shallow aquarium section at 5m teems with reef fish. The wall is covered in sponges, gorgonian fans, black coral, and crinoids. Notable marine life includes white-tip reef sharks, Napoleon wrasse, frogfish, ghost pipefish, and nudibranchs. Adjacent to the USAT Liberty wreck.",
       "scuba_diving:entry": "shore"
+    }
+  },
+  {
+    "name": "Harlequin Slope",
+    "lat": -8.2755,
+    "lon": 115.593083,
+    "depth": 29,
+    "site_type": "muck",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Harlequin Slope",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Seraya Secrets",
+    "lat": -8.295722,
+    "lon": 115.611972,
+    "depth": 25,
+    "site_type": "muck",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Seraya Secrets",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Liberty Muck",
+    "lat": -8.275222,
+    "lon": 115.592806,
+    "depth": 28,
+    "site_type": "muck",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Liberty Muck",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Kubu Reef",
+    "lat": -8.249111,
+    "lon": 115.573917,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Kubu Reef",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Kubu Wreck",
+    "lat": -8.250966,
+    "lon": 115.577012,
+    "depth": 40,
+    "site_type": "wreck",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Kubu Wreck",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Jemeluk Wall",
+    "lat": -8.3373,
+    "lon": 115.6621,
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Jemeluk Wall",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Lipah Bay",
+    "lat": -8.35,
+    "lon": 115.6835,
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Lipah Bay",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
+    }
+  },
+  {
+    "name": "Barracuda Wall",
+    "lat": -8.344235,
+    "lon": 115.675122,
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": "true",
+    "validation_source": "michaelmcfadyenscuba.info",
+    "tags": {
+      "name": "Barracuda Wall",
+      "sport": "scuba_diving",
+      "source": "mcfadyen",
+      "addedBy": "mcfadyen_scrape"
     }
   }
 ]
