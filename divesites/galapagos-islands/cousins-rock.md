@@ -1,7 +1,7 @@
 ---
 name: Cousins Rock
-lat: -0.2
-lng: -90.56
+lat: -0.2364
+lng: -90.5742
 difficulty: Advanced
 maxDepth: 30
 entryType: boat

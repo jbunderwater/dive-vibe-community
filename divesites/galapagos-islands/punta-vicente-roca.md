@@ -1,7 +1,7 @@
 ---
 name: Punta Vicente Roca
-lat: -0.05
-lng: -91.56
+lat: -0.0531
+lng: -91.5597
 difficulty: Advanced
 maxDepth: 27
 entryType: boat
