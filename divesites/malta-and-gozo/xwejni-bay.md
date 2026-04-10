@@ -11,51 +11,34 @@ osmId: 13624763580
 addedBy: osm_import
 ---
 
-## Xwejni Bay
+# Xwejni Bay
 
-Xwejni Bay is a reef dive site in Malta and Gozo, Europe.
+Gozo's north coast reef — the starting point for Double Arch, Submarine Cave, and the Reqqa Point complex.
 
 ## Overview
 
-Xwejni Bay on Gozo's northwest coast sits beside the iconic Xwejni salt pans, where a rocky limestone reef drops to around 20 meters through thick sargassum weed beds that shelter scorpionfish, moray eels, and cuttlefish. The bay's protected position makes it diveable in northerly winds when more exposed sites are off limits, and its clear water often reaches 20-plus meters of visibility. Sea bream, wrasse, and occasional octopus are typical residents along the jumbled boulders and sand channels at the base of the reef.
+Xwejni Bay on Gozo's north coast is the access point for several famous dive sites including Double Arch Reef, Submarine Cave, and the broader Reqqa Point complex. The bay itself offers reef diving with typical north coast topography — rocky formations, sand patches, and Posidonia seagrass. The bay is exposed to north winds which can make diving conditions challenging.
 
 ## Site Information
 
-- **Location**: Malta and Gozo, Europe
+- **Location**: Xwejni Bay, north coast Gozo
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Typical Visibility**: 20–30 meters
 - **Current**: Light to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Typical north Gozo reef species. The area is known for good fish diversity.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+- Starting point for Double Arch, Submarine Cave, and Reqqa Point
+- Exposed to north winds — check conditions
+- Multiple dive sites accessible from one location
 
 ---
-*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [Atlantis Gozo Dive Sites](https://www.atlantisgozo.com/dive-sites/), [PADI Diving in Malta](https://www.padi.com/diving-in/malta/), [SCUBA Travel Malta Guide](https://www.scubatravel.co.uk/europe/malta-dive-in.html), [Dive Malta-Gozo](https://divemalta-gozo.com/diving-in-gozo/). Last updated 2026-04-04.*
+*Sources: [MaltaDives](https://maltadives.com/sites/en), [Atlantis Gozo](https://www.atlantisgozo.com/dive-sites/). Last updated 2026-04-10.*

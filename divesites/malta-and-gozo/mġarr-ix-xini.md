@@ -11,55 +11,36 @@ osmId: 4159831407
 addedBy: osm_import
 ---
 
-## Mġarr ix-Xini
+# Mġarr ix-Xini
 
-Mġarr ix-Xini is a beach dive site in Malta and Gozo, Europe.
+A protected Gozo inlet with exceptional macro diving — seahorses, stargazers, and dives lasting 80+ minutes.
 
 ## Overview
 
-Mġarr ix-Xini is a dive site in Malta and Gozo offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Mġarr ix-Xini ('harbour of galleons') is a protected inlet on Gozo's south coast offering some of the best macro and critter diving in Malta. The sheltered bay has a sandy bottom valley with Neptune grass (Posidonia), rocky reef walls, and two caves along the right-hand wall at 6 and 16 metres. The exceptionally diverse marine life includes lizardfish, goatfish, seabream, scorpionfish, octopus, cuttlefish, flounder, baby rays, gurnards, seahorses, pipefish, weaver-fish, sea-hares, stargazers, and moray eels. The gentle gradient (max 15–20 metres) allows very long dives — 80+ minutes have been reported. Shore entry is easy with shallow 1–2 metre initial access. Also a favourite spot for night dives.
 
 ## Site Information
 
-- **Location**: Malta and Gozo, Europe
+- **Location**: Mġarr ix-Xini, south coast Gozo
 - **Entry Type**: Boat dive
-- **Site Type**: Beach
+- **Site Type**: Beach dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Typical Visibility**: 15–25 meters
 - **Current**: Light to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Exceptionally diverse: lizardfish, goatfish, seabream, scorpionfish, octopus, cuttlefish, flounder, baby rays, flying gurnards, seahorses, pipefish, weaver-fish, sea-hares, stargazers, moray eels. One of the best macro diving locations in Malta/Gozo.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+- One of the best macro/critter diving spots in Malta
+- Look for seahorses and stargazers — patience rewarded
+- 80+ minute dives possible due to gentle depths
+- Favourite night dive location
+- Two caves on the right wall at 6m and 16m
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [MaltaDives](https://maltadives.com/sites/mgarrixxini/en), [Atlantis Gozo](https://www.atlantisgozo.com/dive-sites/mgarr-ix-xini/), [Blue Waters Dive Cove](https://www.divebluewaters.com/blog/gozos-top-dive-sites-mgarr-ix-xini). Last updated 2026-04-10.*

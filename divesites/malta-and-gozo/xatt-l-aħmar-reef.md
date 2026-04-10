@@ -11,55 +11,35 @@ osmId: 4159831405
 addedBy: osm_import
 ---
 
-## Xatt l-Aħmar Reef
+# Xatt l-Aħmar Reef
 
-Xatt l-Aħmar Reef is a reef dive site in Malta and Gozo, Europe.
+Gozo's second most popular dive destination — a wide shallow plateau with drop-off, caverns, and access to four scuttled wrecks.
 
 ## Overview
 
-Xatt l-Aħmar Reef is a dive site in Malta and Gozo offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Xatt l-Aħmar Reef (Red Bay) is the reef portion of Gozo's second most popular diving destination after Dwejra. A wide shallow 5-metre plateau with large boulders and Posidonia seagrass fields extends from shore, dropping off to a wall reaching 30+ metres. Two caverns are accessible from the wall. The bay also hosts four scuttled wrecks (MV Karwela, MV Cominoland, MV Xlendi, and MT Hephaestus). Shore access is medium difficulty.
 
 ## Site Information
 
-- **Location**: Malta and Gozo, Europe
+- **Location**: Xatt l-Aħmar (Red Bay), south coast Gozo
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Typical Visibility**: 20–30 meters
 - **Current**: Light to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Octopus, seahorses (on the reef), barracuda, and tuna on the deeper drop-off. The varied habitats support rich biodiversity.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+- Second most popular dive destination in Malta after Dwejra
+- Gateway to four scuttled wrecks
+- Look for seahorses on the shallow reef
+- Shore accessible — no boat needed for the reef
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [MaltaDives](https://maltadives.com/sites/xattlahmar/en), [Atlantis Gozo](https://www.atlantisgozo.com/dive-sites/xatt-l-ahmar/). Last updated 2026-04-10.*

@@ -11,54 +11,33 @@ osmId: 384936428
 addedBy: osm_import
 ---
 
-## Il-Ħofra tal-Bidwin
+# Il-Ħofra tal-Bidwin
 
-Il-Ħofra tal-Bidwin is a cave dive site in Malta and Gozo, Europe.
+Part of the greater Dwejra diving area — underwater topography, rock formations, and swim-throughs.
 
 ## Overview
 
-Il-Ħofra tal-Bidwin is a dive site in Malta and Gozo featuring underwater cave and cavern formations. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Il-Ħofra tal-Bidwin is part of the greater Dwejra diving area on Gozo's west coast, known for its underwater topography, rock formations, caves, and swim-throughs. The site is close to the Blue Hole, Inland Sea, Azure Reef, and other famous Dwejra sites. Depth reaches 40 metres. Limited site-specific information is available beyond the general Dwejra area characteristics.
 
 ## Site Information
 
-- **Location**: Malta and Gozo, Europe
+- **Location**: Dwejra, west coast Gozo
 - **Entry Type**: Shore entry
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Typical Visibility**: 20–30 meters
 - **Current**: Light to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 40 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Typical Dwejra marine life — the area supports rich biodiversity including grouper, moray eels, octopus, and Mediterranean corals.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+- Part of the famous Dwejra dive area
+- Combine with Blue Hole, Inland Sea, and Azure Reef
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [MaltaDives](https://maltadives.com/sites/en), [VisitGozo](https://visitgozo.com/places/dwejra/). Last updated 2026-04-10.*

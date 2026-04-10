@@ -2,64 +2,44 @@
 name: Ħondoq ir-Rummien
 lat: 36.0279462
 lng: 14.3220821
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 20
-entryType: boat
+entryType: shore
 siteType: beach
 ref: null
 osmId: 23738627
 addedBy: osm_import
 ---
 
-## Ħondoq ir-Rummien
+# Ħondoq ir-Rummien
 
-Ħondoq ir-Rummien is a beach dive site in Malta and Gozo, Europe.
+A Blue Flag beach with crystal-clear water — baby rays, flying gurnards, and some of the cleanest water in the Maltese Islands.
 
 ## Overview
 
-Ħondoq ir-Rummien is a dive site in Malta and Gozo offering rewarding diving on healthy coral reef structures . Beach and coastline with salt pans and caves. Popular for snorkelling and diving.. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Ħondoq ir-Rummien is a Blue Flag beach on Gozo's south-east coast with some of the cleanest water in Malta and Gozo — visibility averages 30 metres and can exceed 40. The sandy-bottomed bay with Posidonia seagrass meadows extends to 12 metres depth. A water pipeline runs through the middle toward Comino. Rocky reef sections and small caves at sea level add variety. Shore access is easy from the beach with parking 50 metres away, toilet, and restaurant facilities. The site is excellent for training, discover scuba dives, and beginners. Drift diving is possible when conditions allow.
 
 ## Site Information
 
-- **Location**: Malta and Gozo, Europe
-- **Entry Type**: Boat dive
-- **Site Type**: Beach
-- **Difficulty Level**: Intermediate
+- **Location**: Ħondoq ir-Rummien, SE coast Gozo
+- **Entry Type**: Shore entry
+- **Site Type**: Beach dive
+- **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Typical Visibility**: 20–40 meters (exceptional)
 - **Current**: Light to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Baby octopus, baby stingrays, young fish, wide-eyed flounder, cuttlefish, lizardfish, and flying gurnards. The seagrass meadows support juvenile marine life.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+- Some of the cleanest water in Malta/Gozo — exceptional visibility
+- Look for baby rays and flying gurnards in the sand
+- Easy beach access with facilities nearby
+- Excellent training site with calm conditions
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Divers Guide](https://www.divers-guide.com/en/hondoq-bay), [Wikipedia](https://en.wikipedia.org/wiki/%C4%A6ondoq_ir-Rummien). Last updated 2026-04-10.*

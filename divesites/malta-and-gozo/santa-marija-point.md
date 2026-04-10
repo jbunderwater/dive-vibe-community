@@ -11,51 +11,33 @@ osmId: 384931936
 addedBy: osm_import
 ---
 
-## Santa Marija Point
+# Santa Marija Point
 
-Santa Marija Point is a cave dive site in Malta and Gozo, Europe.
+A cave dive site on Comino's coast near the Santa Marija Caves complex.
 
 ## Overview
 
-Santa Marija Point sits on Comino's northern coast and offers a network of caverns and cave passages accessible by boat dive, with depths working down to around 19 metres. The clear Mediterranean water typical of the Comino area lets natural light filter into the shallower sections of the cave system, illuminating walls decorated with sponges and false corals and revealing groupers, moray eels, octopus, and nudibranchs tucked into the rock formations. The site rewards exploration with varied topography that connects open reef patches with sheltered cavern zones, making it a solid complement to the nearby Santa Marija Caves system.
+Santa Marija Point is a cave dive site on Comino's coast near the larger Santa Marija Caves complex. The site features cave formations in the limestone coastline typical of Comino, with good visibility and Mediterranean marine life. Depth reaches approximately 19 metres.
 
 ## Site Information
 
-- **Location**: Malta and Gozo, Europe
+- **Location**: Comino coast
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 19 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Typical Visibility**: 25–40 meters
 - **Current**: Light to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 19 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-19 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Typical Comino marine life in crystal-clear waters.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+- Near the Santa Marija Caves complex — combine for a full dive day
+- Comino's consistently excellent visibility
 
 ---
-*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [Atlantis Gozo Dive Sites](https://www.atlantisgozo.com/dive-sites/), [PADI Diving in Malta](https://www.padi.com/diving-in/malta/), [SCUBA Travel Malta Guide](https://www.scubatravel.co.uk/europe/malta-dive-in.html), [Dive Malta-Gozo](https://divemalta-gozo.com/diving-in-gozo/). Last updated 2026-04-04.*
+*Sources: [MaltaDives](https://maltadives.com/sites/en). Last updated 2026-04-10.*

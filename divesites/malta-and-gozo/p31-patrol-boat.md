@@ -11,53 +11,36 @@ osmId: 4159831390
 addedBy: osm_import
 ---
 
-## P31 - Patrol Boat
+# P31 - Patrol Boat
 
-P31 - Patrol Boat is a historic wreck dive in Malta and Gozo, Europe.
+A shallow Comino wreck visible from the surface in crystal-clear water — penetrable from stem to stern at just 18–20 metres.
 
 ## Overview
 
-The P31 is a 52-metre former East German Kondor I class minesweeper that was purchased by Malta in 1992, served as a coastal patrol vessel, and was deliberately scuttled off Comino in August 2009 as an artificial reef. The wreck lies almost upright on white sand at 18–20 metres with the top of the superstructure at just 7 metres, making the entire vessel visible on descent — visibility here regularly exceeds 20 metres thanks to the nearby Blue Lagoon. The hold shelters a large resident moray eel, saddled seabreams crowd the exterior, and scorpionfish and octopus hide in the silted-up corners; the open, hazard-free layout makes safe penetration from stern to bow achievable even for Open Water-certified divers.
+P31 is a former East German Kondor-class minesweeper (sister ship to P29 at Cirkewwa), scuttled off Comino as a dive attraction. At 18–20 metres depth on fine white sand, the wreck is much shallower than most Malta wrecks, allowing extended bottom time. In Comino's crystal-clear waters, the wreck is often visible from the surface. Divers can penetrate from stern to bow through the interior. It is the only wreck dive around Comino island.
 
 ## Site Information
 
-- **Location**: Malta and Gozo, Europe
+- **Location**: Comino island
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Typical Visibility**: 25–40 meters (crystal clear)
 - **Current**: Light to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
-
-## Dive Profile
-
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+The wreck attracts schools of bream and damselfish. Octopus and moray eels shelter in the hull. The surrounding sand supports flatfish.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-
-## Safety Considerations
-
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+- Visible from the surface in Comino's crystal-clear water
+- Penetrable from stern to bow — excellent introduction to wreck diving
+- Shallower than P29 (Cirkewwa) — more bottom time available
+- The only wreck dive around Comino
+- Combine with Santa Maria Caves and Lantern Point for a Comino dive day
 
 ---
-*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [Atlantis Gozo Dive Sites](https://www.atlantisgozo.com/dive-sites/), [PADI Diving in Malta](https://www.padi.com/diving-in/malta/), [SCUBA Travel Malta Guide](https://www.scubatravel.co.uk/europe/malta-dive-in.html), [Dive Malta-Gozo](https://divemalta-gozo.com/diving-in-gozo/). Last updated 2026-04-04.*
+*Sources: [Corsair Diving Malta](https://corsairdivingmalta.com), [MaltaDives](https://maltadives.com/sites/en), [Seashell Diving Malta](https://www.seashelldivingmalta.com). Last updated 2026-04-10.*
