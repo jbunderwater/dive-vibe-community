@@ -1,0 +1,310 @@
+[
+  {
+    "name": "Amphitheatre",
+    "lat": 34.857147,
+    "lon": 32.3492,
+    "depth": 22,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Amphitheatre",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Lara Bay",
+    "lat": 34.948885,
+    "lon": 32.308731,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Lara Bay",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "White River",
+    "lat": 34.91247,
+    "lon": 32.325554,
+    "depth": 12,
+    "site_type": "cave",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "White River",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Sea Caves",
+    "lat": 34.890507,
+    "lon": 32.324567,
+    "depth": 12,
+    "site_type": "cave",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Sea Caves",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "The Bends",
+    "lat": 34.884118,
+    "lon": 32.332506,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "The Bends",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Manajin Island",
+    "lat": 34.887656,
+    "lon": 32.322636,
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Manajin Island",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "The Channel",
+    "lat": 34.879999,
+    "lon": 32.331991,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "The Channel",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Dinosaur Bay",
+    "lat": 34.870687,
+    "lon": 32.338943,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Dinosaur Bay",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "The Stage",
+    "lat": 34.859225,
+    "lon": 32.345231,
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "The Stage",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Cynthiana",
+    "lat": 34.831868,
+    "lon": 32.389959,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Cynthiana",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Achilleas",
+    "lat": 34.800131,
+    "lon": 32.377224,
+    "depth": 11,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Achilleas",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Zenobia",
+    "lat": 34.891663,
+    "lon": 33.65167,
+    "depth": 42,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Zenobia",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Cricket wreck",
+    "lat": 34.94586,
+    "lon": 33.824372,
+    "depth": 33,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Cricket wreck",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Costandis",
+    "lat": 34.679611,
+    "lon": 33.085194,
+    "depth": 24,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Costandis",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Green Bay",
+    "lat": 34.999703,
+    "lon": 34.066737,
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Green Bay",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Caves",
+    "lat": 34.963563,
+    "lon": 34.073244,
+    "depth": 15,
+    "site_type": "cave",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Caves",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Cape Grecko Caves",
+    "lat": 34.965759,
+    "lon": 34.084424,
+    "depth": 15,
+    "site_type": "cave",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Cape Grecko Caves",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Macronissos Beach",
+    "lat": 34.982622,
+    "lon": 33.95537,
+    "depth": 10,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Macronissos Beach",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Liberty Wreck",
+    "lat": 35.050306,
+    "lon": 34.035172,
+    "depth": 27,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Liberty Wreck",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Plane Wreck",
+    "lat": 35.349769,
+    "lon": 33.546928,
+    "depth": 24,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Plane Wreck",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Fred Wreck",
+    "lat": 35.348333,
+    "lon": 33.336667,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Fred Wreck",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Pernera Bay",
+    "lat": 35.032275,
+    "lon": 34.043193,
+    "depth": 10,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Pernera Bay",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  }
+]

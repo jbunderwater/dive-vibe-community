@@ -1378,5 +1378,77 @@
     "siteType": "cave",
     "ref": "",
     "osmId": null
+  },
+  {
+    "name": "Anchor reef (Comino)",
+    "filename": "anchor-reef-comino.md",
+    "lat": 36.0149,
+    "lng": 14.3168,
+    "difficulty": "Intermediate",
+    "maxDepth": 20,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Marsalforn Bay",
+    "filename": "marsalforn-bay.md",
+    "lat": 36.071758,
+    "lng": 14.25918,
+    "difficulty": "Beginner",
+    "maxDepth": 12,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Xemxija Bay",
+    "filename": "xemxija-bay.md",
+    "lat": 35.951356,
+    "lng": 14.389257,
+    "difficulty": "Beginner",
+    "maxDepth": 12,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "St. George's Bay",
+    "filename": "st-georges-bay.md",
+    "lat": 35.926762,
+    "lng": 14.489565,
+    "difficulty": "Beginner",
+    "maxDepth": 15,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Zonqor Point Wrecks",
+    "filename": "zonqor-point-wrecks.md",
+    "lat": 35.8692,
+    "lng": 14.5732,
+    "difficulty": "Intermediate",
+    "maxDepth": 22,
+    "entryType": "shore",
+    "siteType": "wreck",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Dahlet Qorrot",
+    "filename": "dahlet-qorrot.md",
+    "lat": 36.049035,
+    "lng": 14.316621,
+    "difficulty": "Beginner",
+    "maxDepth": 10,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
   }
 ]

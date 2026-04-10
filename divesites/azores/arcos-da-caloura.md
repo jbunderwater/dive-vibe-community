@@ -3,7 +3,7 @@ name: Arcos da Caloura
 lat: 37.7167
 lng: -25.5
 difficulty: Beginner
-maxDepth: 20
+maxDepth: 18
 entryType: shore
 siteType: cave
 ref: null
@@ -11,51 +11,35 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Arcos da Caloura
+# Arcos da Caloura
 
-Arcos da Caloura is a cave dive site in Azores, Europe.
+An impressive cave system formed by ancient lava flows — the ceiling is packed with dozens of nudibranch species.
 
 ## Overview
 
-Arcos da Caloura is a cave and arch system on the south coast of São Miguel, a geosite within the Azores UNESCO Global Geopark, where a large cave at 16 metres is entered through one of four light-filled openings and the ceiling is covered in dozens of nudibranch species. Inside, schools of large white trevally and resident dusky groupers (Epinephelus marginatus) cruise the cavern while several species of moray eels and common octopuses occupy the surrounding lava rock crevices outside. The site is suitable for divers of all experience levels and can also be entered from shore, with the adjacent lava flows extending to 40 metres for those wanting a deeper profile.
+Arcos da Caloura is a cave system on São Miguel's south coast formed by ancient lava flows, with four underwater entrances. Located in a sheltered bay approximately 300 metres from the coast, the site is accessible to all levels. The cave ceiling is covered with dozens of nudibranch species, making it one of the Azores' best macro diving sites. Inside the cave, schools of large white trevallies and resident dusky groupers are regularly encountered. The reef top starts at 5 metres with the main cave entrance at 16 metres.
 
 ## Site Information
 
-- **Location**: Azores, Europe
+- **Location**: Caloura, south coast São Miguel, Azores
 - **Entry Type**: Shore entry
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Maximum Depth**: 18 meters
+- **Typical Visibility**: 15–25 meters
+- **Current**: Weak
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Inside the cave: schools of large white trevallies, resident dusky groupers, and a ceiling packed with nudibranchs. Outside: moray eels, Guinean puffers, Mediterranean rainbow wrasses, wide-eyed flounders, ornate wrasses, salema porgies, Azores chromis, parrotfish, and blacktail combers.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+- The cave ceiling covered in nudibranchs is one of the Azores' best macro sights
+- Four underwater entrances — well-lit and beginner-friendly
+- Shore accessible — also good for snorkelling and night dives
+- 15 min by boat from Vila Franca do Campo, 30 min from Ponta Delgada
 
 ---
-*Sources: [PADI - Diving in the Azores](https://www.padi.com/diving-in/azores/), [Visit Azores - Dive Spots](https://dive.visitazores.com/en/divespots), [Bluewater Dive Travel - Azores Diving](https://www.bluewaterdivetravel.com/destination/azores-diving), [SCUBA Travel - Portugal Diving (Azores)](https://www.scubatravel.co.uk/europe/portugal-diving.html), [Azores Getaways - Diving in the Azores](https://azoresgetaways.com/en-us/destination/azores/general-articles/diving-azores). Last updated 2026-04-04.*
+*Sources: [dive.visitazores.com](https://dive.visitazores.com/en/divespots/arcos-da-caloura), [Greatest Dive Sites](https://azores.greatestdivesites.com/sao_miguel/arcos_da_caloura). Last updated 2026-04-10.*

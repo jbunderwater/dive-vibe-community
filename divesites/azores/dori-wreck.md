@@ -1,7 +1,7 @@
 ---
 name: Dori Wreck
-lat: 37.75
-lng: -25.6667
+lat: 37.74398
+lng: -25.62578
 difficulty: Beginner
 maxDepth: 20
 entryType: boat
@@ -11,53 +11,39 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Dori Wreck
+# Dori Wreck
 
-Dori Wreck is a historic wreck dive in Azores, Europe.
+A D-Day Liberty ship now resting off Ponta Delgada — considered by many the best dive on São Miguel.
 
 ## Overview
 
-The Dori was a 130-metre WWII Liberty Ship (SS Thomas Donaldson) that participated in Operation Overlord before sinking off Ponta Delgada on 16 January 1964 while carrying a cargo of steel coils — she now rests just 5 minutes from the harbour in a designated underwater archaeological park and no-take zone. With the stern at 9 metres and the bow at 20 metres, this is an unusually accessible wreck open to Open Water divers, and the intact stern section is constantly surrounded by clouds of Moroccan white seabream, Almaco jacks, and yellowmouth barracudas. Moray eels, octopuses, and nudibranchs inhabit the hundreds of pipes and metal structures throughout the hull, and dolphins occasionally visit from the adjacent bay.
+The Dori Wreck is considered by many the best dive site on São Miguel. Originally named SS Thomas Donaldson, she was a WWII Liberty-class steam merchant (7,210 GRT) built in February 1944 at Bethlehem-Fairfield Shipyards, Baltimore. She participated in Operation Overlord (D-Day, Normandy) and Arctic convoys. On 20 March 1945 she was torpedoed by U-968 during Arctic Convoy JW-65 near Kilden Island (4 killed, 65 survived), then raised and repaired.
+
+Later renamed Dori and operated as a Liberian cargo ship, she sank on 16 January 1964 approximately 800 metres off the Ponta Delgada coast when she developed leaks while carrying steel coils en route to New Orleans. Now an Underwater Archaeological Park and no-take marine reserve, the wreck is an oasis of life on a sandy seabed. The stern top sits at 9 metres, with the bow at 20–22 metres.
 
 ## Site Information
 
-- **Location**: Azores, Europe
+- **Location**: 800m off Ponta Delgada, São Miguel, Azores
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 10–25 meters
+- **Current**: Weak
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
-
-## Dive Profile
-
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 20 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Clouds of small fish around the stern, Moroccan white seabreams around the boilers, moray eels, octopuses, nudibranchs, groupers, barracuda, and occasional pelagic schools. The wreck is an oasis of life on an otherwise barren sandy seabed.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-
-## Safety Considerations
-
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+- Considered the best dive on São Miguel by many operators
+- D-Day veteran — participated in Operation Overlord and Arctic convoys
+- Only 5 min by boat from Ponta Delgada — very accessible
+- Underwater Archaeological Park and no-take marine reserve
+- Stern at 9m is accessible to snorkellers; bow at 22m for deeper exploration
+- Also suitable for night diving
 
 ---
-*Sources: [PADI - Diving in the Azores](https://www.padi.com/diving-in/azores/), [Visit Azores - Dive Spots](https://dive.visitazores.com/en/divespots), [Bluewater Dive Travel - Azores Diving](https://www.bluewaterdivetravel.com/destination/azores-diving), [SCUBA Travel - Portugal Diving (Azores)](https://www.scubatravel.co.uk/europe/portugal-diving.html), [Azores Getaways - Diving in the Azores](https://azoresgetaways.com/en-us/destination/azores/general-articles/diving-azores). Last updated 2026-04-04.*
+*Sources: [dive.visitazores.com](https://dive.visitazores.com/en/divespots/dori), [PADI Portugal](https://www.padi.com/dive-site/portugal/dori-liberty-ship-wreck/), [uboat.net](https://uboat.net/allies/merchants/3475.html), [ScubaBoard](https://scubaboard.com/community/threads/ss-dori-sao-miguel-azores.638098/). Last updated 2026-04-10.*

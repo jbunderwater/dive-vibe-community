@@ -3,7 +3,7 @@ name: Dom João de Castro Bank
 lat: 38.2167
 lng: -26.6333
 difficulty: Advanced
-maxDepth: 13
+maxDepth: 60
 entryType: boat
 siteType: pinnacle
 ref: null
@@ -11,51 +11,38 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Dom João de Castro Bank
+# Dom João de Castro Bank
 
-Dom João de Castro Bank is a pinnacle dive site in Azores, Europe.
+The only seamount in the Atlantic with shallow-water hydrothermal activity — an underwater volcano that briefly became the 'tenth island' in 1720.
 
 ## Overview
 
-Dom João de Castro Bank is a massive submarine volcano rising over 1,000 metres from the seafloor between Sao Miguel and Terceira, with its shallowest peak at just 13 metres. The caldera summit hosts one of the Atlantic's only shallow-water hydrothermal vent fields, where yellow and white mineral deposits and gas bubbles create an otherworldly landscape. Strong currents sweep the pinnacle, drawing large pelagics including mobula rays, wahoo, tuna, and sea turtles, while dusky groupers and forkbeards inhabit the rocky ledges below.
+Dom João de Castro Bank is the only seamount in the Atlantic with shallow-water hydrothermal activity and the only seamount classified as an EU Natura 2000 site. This underwater volcano erupted in 1720, briefly creating what was called the 'tenth island of the Azores' before waves eroded it within months.
+
+Today the caldera top sits at 13 metres with active thermal springs and fumaroles releasing gas. Two distinct hydrothermal zones exist just 50 metres apart: a white zone (~37°C, high hydrogen sulphide) and a yellow zone (~60°C, high iron and manganese). The seamount drops to 60 metres around the caldera. Crystal-clear visibility is enhanced by the fumarole bubbles. The 2–3 hour boat ride from Pico or Faial makes this an expedition dive.
 
 ## Site Information
 
-- **Location**: Azores, Europe
+- **Location**: Between São Miguel and Terceira, open Atlantic
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 13 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: May to October
+- **Maximum Depth**: 60 meters
+- **Typical Visibility**: 30–50 meters (exceptional)
+- **Current**: Moderate to strong
+- **Best Time**: June to September
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 13 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-13 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Yellowmouth barracuda, Atlantic bonito, Almaco jacks, Bermuda chubs, wahoos, sea turtles, and devil rays. A unique hydrothermal-adapted mollusc community has been documented in scientific literature.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+- The only shallow-water hydrothermal seamount in the Atlantic
+- Two hydrothermal zones: white (37°C) and yellow (60°C) — 50m apart
+- EU Natura 2000 protected site
+- 2.5–3 hour boat ride from Pico or Faial — true expedition diving
+- Crystal-clear visibility enhanced by fumarole bubbles
 
 ---
-*Sources: [PADI - Diving in the Azores](https://www.padi.com/diving-in/azores/), [Visit Azores - Dive Spots](https://dive.visitazores.com/en/divespots), [Bluewater Dive Travel - Azores Diving](https://www.bluewaterdivetravel.com/destination/azores-diving), [SCUBA Travel - Portugal Diving (Azores)](https://www.scubatravel.co.uk/europe/portugal-diving.html), [Azores Getaways - Diving in the Azores](https://azoresgetaways.com/en-us/destination/azores/general-articles/diving-azores). Last updated 2026-04-04.*
+*Sources: [dive.visitazores.com](https://dive.visitazores.com/en/divespots/banco-d-joao-de-castro), [Wikipedia](https://en.wikipedia.org/wiki/Dom_Jo%C3%A3o_de_Castro_Bank), [Santos et al., Oceanography](https://tos.org/oceanography/assets/docs/23-1_santos1.pdf). Last updated 2026-04-10.*

@@ -1851,5 +1851,89 @@
       "sport": "scuba_diving",
       "source": "external_csv_import"
     }
+  },
+  {
+    "name": "Anchor reef (Comino)",
+    "lat": 36.0149,
+    "lon": 14.3168,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Anchor reef (Comino)",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Marsalforn Bay",
+    "lat": 36.071758,
+    "lon": 14.25918,
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Marsalforn Bay",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Xemxija Bay",
+    "lat": 35.951356,
+    "lon": 14.389257,
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Xemxija Bay",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "St. George's Bay",
+    "lat": 35.926762,
+    "lon": 14.489565,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "San Georges Bay",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Zonqor Point Wrecks",
+    "lat": 35.8692,
+    "lon": 14.5732,
+    "depth": 22,
+    "site_type": "wreck",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Zonqor Point Wreck's",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Dahlet Qorrot",
+    "lat": 36.049035,
+    "lon": 14.316621,
+    "depth": 10,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Dhalet Qorrot",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
   }
 ]

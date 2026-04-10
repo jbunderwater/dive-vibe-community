@@ -3,7 +3,7 @@ name: Ilhéu de Vila Franca do Campo
 lat: 37.71
 lng: -25.43
 difficulty: Beginner
-maxDepth: 20
+maxDepth: 22
 entryType: boat
 siteType: reef
 ref: null
@@ -11,52 +11,36 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Ilhéu de Vila Franca do Campo
+# Ilhéu de Vila Franca do Campo
 
-Ilhéu de Vila Franca do Campo is a reef dive site in Azores, Europe.
+A submerged volcanic crater forming a natural ring-shaped islet — dramatic cracks and canyons in a nature reserve.
 
 ## Overview
 
-Ilhéu de Vila Franca do Campo is a Surtseyan tuff-cone islet formed by a submarine volcanic eruption about 5,000 years ago, with a near-circular crater lagoon at its centre that has become a protected marine nature reserve since 1983. The western face features tunnels connecting the lagoon interior to the open sea, while the outer slopes offer canyons and crevices populated by dusky groupers, barred hogfish, ornate wrasses, parrotfish, moray eels, and common octopuses. The deeper outer reef at Cabeços do Ilhéu, accessible by short boat, descends to 45 metres over lava covered in black coral and Almaco jack schools — suitable only for experienced divers due to strong currents.
+The Ilhéu de Vila Franca do Campo is a submerged Surtseyan volcanic cone that formed 4,000–5,000 years ago, creating a natural ring-shaped islet with a sheltered bay inside the crater. Designated a nature reserve in 1983 and located less than 500 metres from shore, the volcanic geology creates dramatic cracks and canyons around the islet. Divers can adjust routes based on wave direction using the various passages. The site is suitable for all levels including introductory dives. Maximum depth 22 metres.
 
 ## Site Information
 
-- **Location**: Azores, Europe
+- **Location**: Off Vila Franca do Campo, south coast São Miguel, Azores
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Maximum Depth**: 22 meters
+- **Typical Visibility**: 15–25 meters
+- **Current**: Weak
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Azores chromis, ornate wrasses, blacktail combers, parrotfish, ballan wrasses, barred hogfish, moray eels, common octopuses, and dusky groupers. Rays, trevallies, barracudas, and jacks in the water column.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+- A volcanic crater islet — unique geology
+- Nature reserve since 1983
+- Only 5 min by boat from Vila Franca do Campo marina
+- Suitable for all levels including introductory dives
+- Great for night dives and underwater photography
 
 ---
-*Sources: [PADI - Diving in the Azores](https://www.padi.com/diving-in/azores/), [Visit Azores - Dive Spots](https://dive.visitazores.com/en/divespots), [Bluewater Dive Travel - Azores Diving](https://www.bluewaterdivetravel.com/destination/azores-diving), [SCUBA Travel - Portugal Diving (Azores)](https://www.scubatravel.co.uk/europe/portugal-diving.html), [Azores Getaways - Diving in the Azores](https://azoresgetaways.com/en-us/destination/azores/general-articles/diving-azores). Last updated 2026-04-04.*
+*Sources: [dive.visitazores.com](https://dive.visitazores.com/en/divespots/ilheu-de-vila-franca), [Wikipedia](https://en.wikipedia.org/wiki/Vila_Franca_Islet). Last updated 2026-04-10.*

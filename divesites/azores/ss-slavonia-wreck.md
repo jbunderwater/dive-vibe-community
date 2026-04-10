@@ -1,7 +1,7 @@
 ---
 name: SS Slavonia Wreck
-lat: 38.6667
-lng: -28.05
+lat: 39.38
+lng: -31.17
 difficulty: Intermediate
 maxDepth: 18
 entryType: boat
@@ -11,53 +11,41 @@ osmId: null
 addedBy: osm_import
 ---
 
-## SS Slavonia Wreck
+# SS Slavonia Wreck
 
-SS Slavonia Wreck is a historic wreck dive in Azores, Europe.
+The ship that sent the first SOS signal ever transmitted by a vessel — a 155-metre Cunard liner now resting at 18 metres off Flores.
 
 ## Overview
 
-The RMS Slavonia was a Cunard Line passenger ship that ran aground on the rocky coast of Flores Island on 10 June 1909 after straying off course in fog — a wreck notable for being the first in history to transmit an SOS distress signal. She now lies in 5–15 metres of water within the Slavonia Underwater Archaeological Park, a federally protected site since 2015, covering an area the size of two football fields and accessible to both snorkellers and divers. The exposed position off Flores means the surrounding water is crystal-clear with abundant marine life, and the wreck's timbers gave Flores residents new hardwood floors during salvage operations shortly after the sinking.
+The SS Slavonia (originally SS Yamuna) was built in 1902 by Sir J. Laing & Sons, Sunderland — at the time the largest ship built at a British shipyard in 11 years. At 10,606 GRT and 155 metres long, she was operated by the Cunard Line from 1904 as RMS Slavonia.
+
+On 10 June 1909, she ran aground at Ponta dos Fenais, Flores, in foggy weather while on a New York-to-Mediterranean voyage. She transmitted an **SOS signal — the first use of this distress code by a ship in history**. All 410 passengers were rescued with no casualties. Some cargo was recovered (400 bags of coffee, 1,000 copper ingots, 200 casks of oil) but the vessel was declared a total loss.
+
+The wreck now lies at approximately 18 metres depth, less than 50 metres from the coast at Lajedo, Flores. The site is designated as an Underwater Archaeological Park.
 
 ## Site Information
 
-- **Location**: Azores, Europe
+- **Location**: Lajedo, Flores Island, Azores
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: May to October
+- **Typical Visibility**: 10–20 meters
+- **Current**: Variable
+- **Best Time**: June to September
 
 ## Marine Life
 
-Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
-
-## Dive Profile
-
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 18 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+No site-specific marine life data available. The wreck provides artificial reef habitat typical of Azores volcanic coastline.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-
-## Safety Considerations
-
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+- The first ship ever to transmit an SOS distress signal (1909)
+- 155-metre Cunard liner — significant maritime historical site
+- Underwater Archaeological Park
+- Only 18m deep and 50m from shore — relatively accessible
+- Flores is remote — plan logistics carefully
+- All 410 passengers were rescued — no casualties
 
 ---
-*Sources: [PADI - Diving in the Azores](https://www.padi.com/diving-in/azores/), [Visit Azores - Dive Spots](https://dive.visitazores.com/en/divespots), [Bluewater Dive Travel - Azores Diving](https://www.bluewaterdivetravel.com/destination/azores-diving), [SCUBA Travel - Portugal Diving (Azores)](https://www.scubatravel.co.uk/europe/portugal-diving.html), [Azores Getaways - Diving in the Azores](https://azoresgetaways.com/en-us/destination/azores/general-articles/diving-azores). Last updated 2026-04-04.*
+*Sources: [Wikipedia - RMS Slavonia](https://en.wikipedia.org/wiki/RMS_Slavonia), [Azores Lovers](https://azoreslovers.com/en/blog/flores-mergulho-e-snorkeling/). Last updated 2026-04-10.*

@@ -3823,5 +3823,26 @@
     "description": "World-class shipwreck diving, coral reefs, and mysterious blue holes.",
     "overviewFile": "overview.md",
     "countryCode": "BM"
+  },
+  {
+    "name": "Cyprus",
+    "slug": "cyprus",
+    "region": "Europe",
+    "center": [
+      34.9,
+      33.1
+    ],
+    "bounds": [
+      [
+        34.6,
+        32.2
+      ],
+      [
+        35.4,
+        34.2
+      ]
+    ],
+    "description": "Mediterranean diving with the legendary Zenobia wreck, sea caves, and warm clear waters.",
+    "countryCode": "CY"
   }
 ]
