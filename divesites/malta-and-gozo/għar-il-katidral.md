@@ -11,55 +11,36 @@ osmId: 384935638
 addedBy: osm_import
 ---
 
-## Għar il-Katidral
+# Għar il-Katidral
 
-Għar il-Katidral is a cave dive site in Malta and Gozo, Europe.
+Surface inside a massive domed vault with a 15-metre ceiling — the Cathedral Cave on sunny afternoons is one of the Mediterranean's most magical dives.
 
 ## Overview
 
-Għar il-Katidral is a dive site in Malta and Gozo featuring underwater cave and cavern formations. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Għar il-Katidral (Cathedral Cave) in Ghasri Valley on Gozo's west coast features a huge mushroom-shaped opening between 6–18 metres deep leading to a massive domed vault. The ceiling rises approximately 15 metres above water level inside, creating a cathedral-like space where divers surface and can remove regulators to chat. Two ancient shafts carved into rock extend from the cave interior toward the cliff top, historically used to fill saltpans above (now covered by stone slabs). A small crack in the cliff face 2 metres above water provides fresh air and adds to the interior light. The cave is best dived in the afternoon when direct westward sunlight illuminates the interior, creating an unforgettable natural cathedral effect.
 
 ## Site Information
 
-- **Location**: Malta and Gozo, Europe
+- **Location**: Ghasri Valley, west coast Gozo
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/Cavern
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Light to moderate
+- **Typical Visibility**: 20–30 meters
+- **Current**: Light
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Nudibranchs, shrimp, and cardinalfish inside the cave. Parrotfish, groupers, and octopus at the entrance. Mediterranean moray eels on the rocky walls. Sea stars and flatfish on the sandy bottom. Pygmy locust lobsters and crabs in crevices. Dentex and amberjack on the drop-offs. Damselfish and seahorses in the shallows.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+- Best dived in the afternoon when westward sunlight illuminates the interior
+- Surface inside the dome — the 15-metre ceiling is breathtaking
+- Shore entry via 100+ steps down Ghasri Valley, or 30-minute boat from Xlendi
+- Suitable for all levels — one of Gozo's must-dive sites
+- The ancient saltpan shafts in the ceiling are a unique archaeological feature
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Atlantis Gozo](https://www.atlantisgozo.com/dive-sites/cathedral-cave-ghasri-valley/), [Dive Malta-Gozo](https://divemalta-gozo.com/diving-in-gozo/). Last updated 2026-04-10.*

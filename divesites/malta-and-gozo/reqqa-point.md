@@ -11,53 +11,34 @@ osmId: 663869711
 addedBy: osm_import
 ---
 
-## Reqqa Point
+# Reqqa Point
 
-Reqqa Point is a wall dive site in Malta and Gozo, Europe.
+Gozo's top north coast dive — a spectacular wall covered in sponges dropping to 60+ metres with vibrant marine life.
 
 ## Overview
 
-Reqqa Point on Gozo's remote north coast is widely considered the island's premier wall dive — the reef crest sits at 17 metres to the west and drops to over 60 metres to the east, and the vertical face is covered in gorgonians, sea fans, and colourful sponges that reward divers at every depth. Large groupers, Dentex, hunting barracuda, and rays are regularly seen cruising the blue water off the wall, while Tompot blennies, nudibranchs, and shrimps hide in the rock fissures. Technical divers seek out the legendary "Reqqa Bottle," a deep chimney with its entrance at 58 metres and exit at 35 metres, but shallower chimneys between 6 and 17 metres offer the same dramatic experience within recreational limits.
+Reqqa Point is rated as Gozo's top dive site on the northern coast. A large wall covered in sponges drops to over 60 metres with stunning visibility. The terrain includes The Point, Shrimp's Cave (30–34 metres), Billinghurst Cave, Anchor Reef, and Bottleneck Cave (37–58 metres). The site is described as 'really spectacular' with thrilling terrain and vibrant marine life. Controlled buoyancy is essential as the wall drops steeply.
 
 ## Site Information
 
-- **Location**: Malta and Gozo, Europe
+- **Location**: Reqqa Point, north coast Gozo
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 70 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Typical Visibility**: 20–40 meters (stunning)
 - **Current**: Light to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
-
-## Dive Profile
-
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-70 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Small fish, groupers, dentex, rays, barracudas, lobsters, and morays. The sponge-covered wall supports rich invertebrate life.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+- Gozo's top north coast dive — stunning visibility
+- The sponge-covered wall is spectacular
+- Multiple sub-sites: Shrimp's Cave, Billinghurst, Anchor Reef, Bottleneck
 
 ---
-*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [Atlantis Gozo Dive Sites](https://www.atlantisgozo.com/dive-sites/), [PADI Diving in Malta](https://www.padi.com/diving-in/malta/), [SCUBA Travel Malta Guide](https://www.scubatravel.co.uk/europe/malta-dive-in.html), [Dive Malta-Gozo](https://divemalta-gozo.com/diving-in-gozo/). Last updated 2026-04-04.*
+*Sources: [Corsair Diving Malta](https://corsairdivingmalta.com), [Atlantis Gozo](https://www.atlantisgozo.com/dive-sites/), [MaltaDives](https://maltadives.com/sites/en). Last updated 2026-04-10.*

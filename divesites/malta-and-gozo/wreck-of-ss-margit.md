@@ -11,53 +11,33 @@ osmId: 4159847956
 addedBy: osm_import
 ---
 
-## Wreck of SS Margit
+# Wreck of SS Margit
 
-Wreck of SS Margit is a historic wreck dive in Malta and Gozo, Europe.
+A historic shipwreck in Maltese waters.
 
 ## Overview
 
-The SS Margit was a 105-metre Italian passenger ship built in 1912 that was hit by German bombers while moored in Kalkara Creek on 19 April 1941, sinking to the silty harbour bottom at 22 metres on her port side. The scale of the wreck is impressive — roughly 100 metres of hull to explore — and large groupers, conger eels, and other fish shelter throughout the broken structure, though harbour visibility is typically poor by Maltese standards. This is a boat-access dive for intermediate divers who appreciate wartime history and don't mind trading crystal clarity for a genuinely large and atmospheric wreck.
+The wreck of SS Margit lies in Maltese waters. Limited detailed information is available about this vessel. The wreck provides habitat for Mediterranean marine life and offers wreck diving opportunities.
 
 ## Site Information
 
-- **Location**: Malta and Gozo, Europe
+- **Location**: Malta
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Typical Visibility**: 15–25 meters
 - **Current**: Light to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter conger eels, lobsters, crabs, anemones, coral encrustation, groupers, moray eels, octopus. Additional species commonly sighted include barracuda, sea bream, amberjack. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
-
-## Dive Profile
-
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 22 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+The wreck structure attracts grouper, moray eels, and octopus typical of Malta's wreck sites.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-
-## Safety Considerations
-
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+- Check with local operators for current condition
+- Carry a torch for wreck exploration
 
 ---
-*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [Atlantis Gozo Dive Sites](https://www.atlantisgozo.com/dive-sites/), [PADI Diving in Malta](https://www.padi.com/diving-in/malta/), [SCUBA Travel Malta Guide](https://www.scubatravel.co.uk/europe/malta-dive-in.html), [Dive Malta-Gozo](https://divemalta-gozo.com/diving-in-gozo/). Last updated 2026-04-04.*
+*Sources: *Limited site-specific sources available. Last updated 2026-04-10.**

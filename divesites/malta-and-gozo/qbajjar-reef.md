@@ -11,51 +11,33 @@ osmId: 13624763581
 addedBy: osm_import
 ---
 
-## Qbajjar Reef
+# Qbajjar Reef
 
-Qbajjar Reef is a reef dive site in Malta and Gozo, Europe.
+A reef dive off Gozo's north coast near Marsalforn.
 
 ## Overview
 
-Qbajjar Reef lies immediately adjacent to Xwejni Bay on Gozo's northwest coast, sharing the same rugged limestone terrain of boulders, gullies, and sand patches that bottom out near 20 meters. The reef is particularly good for cephalopod encounters — cuttlefish and octopus are frequently spotted in the rock crevices — along with grouper, sea bass, and colourful nudibranchs on the encrusted surfaces. Visibility is typically excellent in this part of Gozo, often 20-30 meters in calm conditions.
+Qbajjar Reef is a reef dive site off Gozo's north coast near Marsalforn. The reef features typical Gozo north coast topography with rocky formations and Mediterranean marine life. Marsalforn is a popular base for Gozo diving with several operators.
 
 ## Site Information
 
-- **Location**: Malta and Gozo, Europe
+- **Location**: Near Marsalforn, north coast Gozo
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Typical Visibility**: 20–30 meters
 - **Current**: Light to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Typical Mediterranean reef species. The north coast supports bream, wrasse, octopus, and nudibranchs.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+- Easy access from Marsalforn
+- Good for beginners and training
 
 ---
-*Sources: [MaltaDives.com](https://maltadives.com/sites/en), [Atlantis Gozo Dive Sites](https://www.atlantisgozo.com/dive-sites/), [PADI Diving in Malta](https://www.padi.com/diving-in/malta/), [SCUBA Travel Malta Guide](https://www.scubatravel.co.uk/europe/malta-dive-in.html), [Dive Malta-Gozo](https://divemalta-gozo.com/diving-in-gozo/). Last updated 2026-04-04.*
+*Sources: *Description based on regional characteristics. Last updated 2026-04-10.**

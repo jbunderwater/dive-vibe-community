@@ -590,7 +590,7 @@
     "osm_id": 4159831406,
     "osm_type": "node",
     "depth": 20,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
@@ -774,8 +774,8 @@
     "osm_type": "way",
     "depth": 20,
     "site_type": "beach",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "description": "Beach and coastline with salt pans and caves. Popular for snorkelling and diving.",
       "name": "Ħondoq ir-Rummien",
@@ -786,6 +786,1070 @@
       "wikipedia": "en:Ħondoq ir-Rummien",
       "validated": "true",
       "validation_source": "web_research"
+    }
+  },
+  {
+    "name": "Coral Gardens",
+    "lat": 35.914167,
+    "lon": 14.510556,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Coral Gardens",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Fortizza Reef",
+    "lat": 35.915822,
+    "lon": 14.508936,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Fortizza Reef",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Sliema House Reef",
+    "lat": 35.906363,
+    "lon": 14.509184,
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Sliema House Reef",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "South Reef",
+    "lat": 35.819623,
+    "lon": 14.459628,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "South Reef",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Blue Grotto",
+    "lat": 35.821162,
+    "lon": 14.45687,
+    "depth": 10,
+    "site_type": "cave",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Blue Grotto",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "HMS Stubborn",
+    "lat": 35.982533,
+    "lon": 14.446167,
+    "depth": 55,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "HMS Stubborn",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Beaufighter",
+    "lat": 35.922108,
+    "lon": 14.500279,
+    "depth": 38,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Beaufighter",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "HMS Hellespont",
+    "lat": 35.901312,
+    "lon": 14.54078,
+    "depth": 41,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "HMS Hellespont",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Ahrax Bay",
+    "lat": 35.996849,
+    "lon": 14.366201,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Ahrax Bay",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "The Canyon",
+    "lat": 35.966432,
+    "lon": 14.407786,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "The Canyon",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Carolita",
+    "lat": 35.901778,
+    "lon": 14.505896,
+    "depth": 20,
+    "site_type": "wreck",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Carolita",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Anchor Bay",
+    "lat": 35.960023,
+    "lon": 14.340259,
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Anchor Bay",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Jesus of Qawra",
+    "lat": 35.963326,
+    "lon": 14.433843,
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Jesus of Qawra",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Dragonara cave",
+    "lat": 35.998051,
+    "lon": 14.367929,
+    "depth": 18,
+    "site_type": "cave",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Dragonara cave",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Mellieha bay",
+    "lat": 35.97722,
+    "lon": 14.356835,
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Mellieha bay",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Madonna",
+    "lat": 35.987903,
+    "lon": 14.327728,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Madonna",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Ghar Lapsi",
+    "lat": 35.827178,
+    "lon": 14.4244,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Ghar Lapsi",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Ta Cenc",
+    "lat": 36.0131,
+    "lon": 14.2574,
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "shore",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Ta Cenc",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "San Dimitri Point",
+    "lat": 36.074728,
+    "lon": 14.185227,
+    "depth": 20,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "San Dimitri Point",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Mgarr-ix-Xini",
+    "lat": 36.019913,
+    "lon": 14.271798,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Mgarr-ix-Xini",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Inland Sea",
+    "lat": 36.053791,
+    "lon": 14.191187,
+    "depth": 26,
+    "site_type": "cave",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Inland Sea",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "HMS Russell",
+    "lat": 35.906924,
+    "lon": 14.534963,
+    "depth": 115,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "HMS Russell",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Captain Morgan Small World",
+    "lat": 36.001147,
+    "lon": 14.478292,
+    "depth": 103,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Captain Morgan Small World",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "HMS Southwold bow",
+    "lat": 35.871731,
+    "lon": 14.599842,
+    "depth": 68,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "HMS Southwold bow",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Xatt I-Ahmar",
+    "lat": 36.0192,
+    "lon": 14.2898,
+    "depth": 30,
+    "site_type": "cave",
+    "entry_type": "shore",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Xatt I-Ahmar",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Sanap Cliffs",
+    "lat": 36.0211,
+    "lon": 14.2201,
+    "depth": 40,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Sanap Cliffs",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Dawra Tas-Sanap",
+    "lat": 36.0236,
+    "lon": 14.2165,
+    "depth": 65,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Dawra Tas-Sanap",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Gozo chamber",
+    "lat": 36.038871,
+    "lon": 14.244804,
+    "depth": 18,
+    "site_type": "cave",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Gozo chamber",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Ulysses Cave",
+    "lat": 36.0336,
+    "lon": 14.2037,
+    "depth": 45,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Ulysses Cave",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Zurziep Reef",
+    "lat": 36.0333,
+    "lon": 14.1993,
+    "depth": 15,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Zurziep Reef",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Whale Cave",
+    "lat": 36.057,
+    "lon": 14.192,
+    "depth": 30,
+    "site_type": "cave",
+    "entry_type": "shore",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Whale Cave",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Tal-Barba Cave",
+    "lat": 36.059,
+    "lon": 14.191,
+    "depth": 30,
+    "site_type": "cave",
+    "entry_type": "shore",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Tal-Barba Cave",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Wied ir-Raheb",
+    "lat": 36.0754,
+    "lon": 14.1909,
+    "depth": 70,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Wied ir-Raheb",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Ta'Camma caves",
+    "lat": 36.0765,
+    "lon": 14.198,
+    "depth": 35,
+    "site_type": "cave",
+    "entry_type": "shore",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Ta'Camma caves",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Halq Hamiem",
+    "lat": 36.0794,
+    "lon": 14.201,
+    "depth": 20,
+    "site_type": "cave",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Halq Hamiem",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Hekka Point",
+    "lat": 36.0807,
+    "lon": 14.2045,
+    "depth": 30,
+    "site_type": "cave",
+    "entry_type": "shore",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Hekka Point",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Tac-Cawla Caves",
+    "lat": 36.0817,
+    "lon": 14.2091,
+    "depth": 35,
+    "site_type": "cave",
+    "entry_type": "shore",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Tac-Cawla Caves",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Wied il-Mielah",
+    "lat": 36.0795,
+    "lon": 14.213,
+    "depth": 50,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Wied il-Mielah",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Il-Margun",
+    "lat": 36.082,
+    "lon": 14.2162,
+    "depth": 40,
+    "site_type": "cave",
+    "entry_type": "shore",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Il-Margun",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Forna Point",
+    "lat": 36.0829,
+    "lon": 14.2229,
+    "depth": 32,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Forna Point",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Anchor reef (Gozo)",
+    "lat": 36.080667,
+    "lon": 14.241992,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Anchor reef (Gozo)",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Submarine cave",
+    "lat": 36.083773,
+    "lon": 14.247955,
+    "depth": 45,
+    "site_type": "cave",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Submarine cave",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Scotscraig",
+    "lat": 35.9642,
+    "lon": 14.3333,
+    "depth": 21,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Scotscraig",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Dornier Wal XI",
+    "lat": 35.9217,
+    "lon": 14.3413,
+    "depth": 12,
+    "site_type": "wreck",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Dornier Wal XI",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Patrol Boat P33",
+    "lat": 35.8658,
+    "lon": 14.5755,
+    "depth": 24,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Patrol Boat P33",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "West Reef/Caves",
+    "lat": 35.8196,
+    "lon": 14.4502,
+    "depth": 7,
+    "site_type": "cave",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "West Reef/Caves",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Filfla",
+    "lat": 35.7868,
+    "lon": 14.409,
+    "depth": 70,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Filfla",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Scorpion Cave",
+    "lat": 35.9589,
+    "lon": 14.3389,
+    "depth": 7,
+    "site_type": "cave",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Scorpion Cave",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Ghar Lapsi cavern",
+    "lat": 35.8266,
+    "lon": 14.4232,
+    "depth": 8,
+    "site_type": "cave",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Ghar Lapsi cavern",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Spitfire",
+    "lat": 36.059914,
+    "lon": 14.330489,
+    "depth": 70,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Spitfire",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Tower wreck",
+    "lat": 36.026158,
+    "lon": 14.210867,
+    "depth": 105,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Tower wreck",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Phoenician Shipwreck",
+    "lat": 36.031357,
+    "lon": 14.183162,
+    "depth": 110,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Phoenician Shipwreck",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Junkers JU88",
+    "lat": 35.97393,
+    "lon": 14.46623,
+    "depth": 106,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Junkers JU88",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Stuka–Ju87",
+    "lat": 35.9736,
+    "lon": 14.4682,
+    "depth": 100,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Stuka–Ju87",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Fairey Swordfish",
+    "lat": 35.935033,
+    "lon": 14.510767,
+    "depth": 70,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Fairey Swordfish",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "HMS Urge",
+    "lat": 35.923422,
+    "lon": 14.565246,
+    "depth": 130,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "HMS Urge",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Schnellboot S-31",
+    "lat": 35.904817,
+    "lon": 14.547683,
+    "depth": 65,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Schnellboot S-31",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Victorian Guns",
+    "lat": 35.897401,
+    "lon": 14.52754,
+    "depth": 3,
+    "site_type": "wreck",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Victorian Guns",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Xlighter 127",
+    "lat": 35.901201,
+    "lon": 14.504292,
+    "depth": 25,
+    "site_type": "wreck",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Xlighter 127",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Blenheim Bomber",
+    "lat": 35.8353,
+    "lon": 14.5747,
+    "depth": 42,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Blenheim Bomber",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "B24 Liberator",
+    "lat": 35.80569,
+    "lon": 14.551418,
+    "depth": 55,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "B24 Liberator",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Douglas A-1 Skyraider",
+    "lat": 35.794501,
+    "lon": 14.557918,
+    "depth": 96,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Douglas A-1 Skyraider",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Tac-Cawla Rocks",
+    "lat": 36.026,
+    "lon": 14.3159,
+    "depth": 10,
+    "site_type": "cave",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Tac-Cawla Rocks",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Rdum il-Qawwi",
+    "lat": 35.976,
+    "lon": 14.3211,
+    "depth": 6,
+    "site_type": "cave",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Rdum il-Qawwi",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Devil's Reef",
+    "lat": 35.9687,
+    "lon": 14.3202,
+    "depth": 50,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Devil's Reef",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Smugglers Cave",
+    "lat": 35.9903,
+    "lon": 14.3747,
+    "depth": 3,
+    "site_type": "cave",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Smugglers Cave",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Sirens",
+    "lat": 35.9523,
+    "lon": 14.4135,
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Sirens",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Fra Ben cave",
+    "lat": 35.9601,
+    "lon": 14.4277,
+    "depth": 18,
+    "site_type": "cave",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Fra Ben cave",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "MV Imperial Eagle",
+    "lat": 35.96351,
+    "lon": 14.43381,
+    "depth": 42,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "MV Imperial Eagle",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "HMS St. Angelo",
+    "lat": 35.9046,
+    "lon": 14.5423,
+    "depth": 54,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "HMS St. Angelo",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "HMS Trusty Star",
+    "lat": 35.906,
+    "lon": 14.5555,
+    "depth": 90,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "HMS Trusty Star",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Wied Bassasa",
+    "lat": 35.8152,
+    "lon": 14.4727,
+    "depth": 40,
+    "site_type": "cave",
+    "entry_type": "shore",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Wied Bassasa",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Tug 2",
+    "lat": 35.9205,
+    "lon": 14.4988,
+    "depth": 22,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Tug 2",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Tuna Farm (Qawra)",
+    "lat": 35.972825,
+    "lon": 14.423445,
+    "depth": 35,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Tuna farm.",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Tuna Farm",
+    "lat": 36.00566,
+    "lon": 14.43268,
+    "depth": 35,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Tuna Farm",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
+    }
+  },
+  {
+    "name": "Għar Ħarq Ħamiem",
+    "lat": 35.927128,
+    "lon": 14.486974,
+    "depth": 52,
+    "site_type": "cave",
+    "entry_type": "shore",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Għar Ħarq Ħamiem",
+      "sport": "scuba_diving",
+      "source": "external_csv_import"
     }
   }
 ]

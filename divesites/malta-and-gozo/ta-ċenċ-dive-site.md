@@ -5,61 +5,40 @@ lng: 14.2721718
 difficulty: Intermediate
 maxDepth: 20
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: 4159831406
 addedBy: osm_import
 ---
 
-## Ta' Ċenċ Dive Site
+# Ta' Ċenċ Dive Site
 
-Ta' Ċenċ Dive Site is a reef dive site in Malta and Gozo, Europe.
+A wall dive beneath Gozo's highest cliffs with boulder swim-throughs and a shallow cavern.
 
 ## Overview
 
-Ta' Ċenċ Dive Site is a dive site in Malta and Gozo offering rewarding diving on healthy coral reef structures. Located in the Europe region, this site offers 10-40 meters of visibility with water temperatures averaging 10-25°C.
+Ta' Ċenċ Dive Site is a wall dive beneath Gozo's highest cliffs on the south coast. A small platform at 8 metres juts from the headland, ideal for safety stops and anchoring. Below, steep drop-offs and a near-vertical wall full of holes and fissures descend to 30+ metres. Massive boulders at the base create swim-throughs. A shallow cavern is accessible. The site is the same cliff system as the separate Ta Cenc entry but approached from a slightly different angle.
 
 ## Site Information
 
-- **Location**: Malta and Gozo, Europe
+- **Location**: Ta' Ċenċ cliffs, south coast Gozo
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
+- **Typical Visibility**: 20–30 meters
 - **Current**: Light to moderate
 - **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, moray eels, octopus, barracuda, sea bream, amberjack, nudibranchs, seahorses. Additional species commonly sighted include posidonia seagrass, red coral, sea fans, sponges.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Nudibranchs, lobsters between boulders, shoals of damselfish, bream groups, grouper, and parrotfish.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of cold water (north), currents, boat traffic in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-05
+- Beneath Gozo's highest cliffs — dramatic surface scenery
+- The 8m platform is ideal for safety stops
+- Massive boulder swim-throughs at depth
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-05.*
+*Sources: [Atlantis Gozo](https://www.atlantisgozo.com/dive-sites/ta-cenc-cliffs/), [VisitGozo](https://www.visitgozo.com/what-to-do-in-gozo/escape/diving/dive-sites/ta-cenc-cliffs/). Last updated 2026-04-10.*

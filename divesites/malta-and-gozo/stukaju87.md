@@ -1,0 +1,66 @@
+---
+name: Stuka–Ju87
+lat: 35.9736
+lng: 14.4682
+difficulty: Advanced
+maxDepth: 100
+entryType: boat
+siteType: wreck
+ref: null
+osmId: null
+addedBy: osm_import
+---
+
+# Stuka–Ju87
+
+A WWII German dive bomber discovered at over 100 metres — filmed by ROV and featured in a National Geographic documentary on the Siege of Malta.
+
+## Overview
+
+This Junkers Ju 87 Stuka is a German single-engine dive bomber discovered in 2015 off Malta's north-east coast during the Malta Shipwreck Survey Project, using side-scan sonar on an autonomous underwater vehicle (AUV). First filmed by ROV, the wreck was featured in the National Geographic documentary "Buried Secrets of World War II."
+
+The aircraft lies at over 100 metres depth (some sources indicate ~112 metres) and is badly damaged — evidence suggests it hit the sea at terminal velocity rather than in a controlled ditching. The propeller is bent and detached from the engine. The double-ended canopy lies on the port side, complete with radio antenna still in position. One of two crew seats is visible, separated from the cockpit by the impact forces.
+
+Stukas were central to the Siege of Malta and the devastating blitz on HMS Illustrious in January 1941. The specific crash date, pilot identity, and mission details for this particular aircraft have not been verified.
+
+## Site Information
+
+- **Location**: Off NE coast, Malta
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 100 meters
+- **Typical Visibility**: Variable at depth
+- **Current**: Variable
+- **Best Time**: May to October
+
+## Marine Life
+
+Limited marine life at extreme depth. The aircraft structure provides some shelter for deep-water species.
+
+## Dive Profile
+
+Extreme technical dive at 100+ metres. The violent impact damage is immediately apparent — the bent detached propeller, separated crew seat, and displaced canopy tell the story of a high-speed crash. Bottom time is measured in single-digit minutes at this depth.
+
+## Entry and Exit
+
+Boat dive only. Heritage Malta managed site. Only accessible to very experienced technical divers with appropriate deep-diving capability.
+
+## Tips and Recommendations
+
+- Featured in National Geographic's 'Buried Secrets of World War II' documentary
+- The damage pattern suggests a terminal velocity impact — not a controlled ditching
+- Stukas were the primary Axis dive bombers during the Siege of Malta (1940–1942)
+- The radio antenna still in place on the canopy is a remarkable detail
+- The specific pilot and mission remain unidentified
+
+## Safety Considerations
+
+Extreme technical dive at 100+ metres. CCR or very heavy trimix mandatory. Full technical support team required. Heritage Malta managed. The aircraft's extreme depth and remote location make this one of Malta's most challenging dives.
+
+## Photography
+
+The impact-damaged aircraft tells a dramatic story — the bent detached propeller, separated seat, and displaced canopy with intact radio antenna are compelling subjects. Requires extremely powerful lighting at 100+ metres. The archaeological/documentary value of photography at this site is high.
+
+---
+*Sources: [Underwater Malta](https://underwatermalta.org), [ScubaDiving.com](https://www.scubadiving.com), National Geographic 'Buried Secrets of World War II'. Last updated 2026-04-10.*
