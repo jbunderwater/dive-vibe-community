@@ -3,62 +3,53 @@ name: Jeep Reef
 lat: 24.3704069
 lng: -76.6184592
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 15
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: community_contribution
 ---
 
 ## Jeep Reef
 
-Jeep Reef is a  dive site in Bahamas, Caribbean.
+Jeep Reef is a coral reef dive site located within the protected boundaries of the Exuma Cays Land and Sea Park, one of the Bahamas' most biologically rich marine reserves.
 
 ## Overview
 
-Jeep Reef is a dive site in Bahamas offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The site takes its name from a coral-encrusted Jeep that lies on the reef, now serving as an artificial reef structure. The Exuma Cays Land and Sea Park protects this site from fishing, and the results are visible underwater — the fish populations here are noticeably dense and unafraid of divers. The site is best dived at or near slack tide due to currents that can run through the cays.
 
 ## Site Information
 
-- **Location**: Bahamas, Caribbean
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Location**: Exuma Cays Land and Sea Park, Bahamas
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
+- **Maximum Depth**: 15 meters
+- **Typical Visibility**: 20-30 meters
+- **Current**: Moderate to strong at tidal change — dive at slack tide
+- **Best Time**: November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The park's no-take protections have allowed fish populations to recover fully. Divers commonly encounter Caribbean reef sharks, nurse sharks, southern stingrays, spotted eagle rays, large black grouper, yellowfin grouper, and yellowmouth grouper. Barracuda patrol the upper reef, and lobsters are plentiful on the reef structure. The sandy bottom areas host garden eels.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The reef sits at around 15 meters maximum depth. Begin the dive shallower and work deeper. The coral-encrusted Jeep is the focal point, surrounded by healthy hard and soft coral formations. Buoyancy control is important to protect the reef structure and avoid stirring up silt around the Jeep.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+All diving here is by boat. Most divers visit on organised day trips from Staniel Cay or aboard liveaboards transiting the Exuma Cays. Check tidal timing before entry — the channels between the cays generate strong currents.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Time your dive for slack water to avoid the strongest tidal currents
+- The park prohibits any collection of marine life — this is a strict no-take reserve
+- Bring a wide-angle lens — the shark and grouper encounters are ideal for photography
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+Currents can build quickly in the Exuma Cays. Plan your dive profile around the tidal cycle and carry a surface marker buoy (SMB). Boat traffic in the cays can be significant during peak season.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Diveboard - Jeep Reef](https://www.diveboard.com/explore/spots/bahamas/pimlico-cay-exumas-L4fMqzj/jeep-reef-S6nGw57), [Dive the World - Exuma Cays](https://www.dive-the-world.com/diving-sites-bahamas-exuma-cays.php). Last updated 2026-04-11.*

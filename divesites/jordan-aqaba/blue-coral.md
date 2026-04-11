@@ -2,64 +2,59 @@
 name: Blue Coral
 lat: 29.4116941
 lng: 34.977057
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 25
 entryType: shore
 siteType: reef
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: community
 ---
 
 ## Blue Coral
 
-Blue Coral is a  dive site in Jordan - Aqaba, Middle East.
+Blue Coral is a renowned reef dive site in southern Aqaba, named for the abundance of blue Acropora coral formations found across its three distinctive finger reefs. Consistently rated as one of Aqaba's top dive sites, it is particularly favored by underwater photographers.
 
 ## Overview
 
-Blue Coral is a dive site in Jordan - Aqaba offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The site is defined by three main spurs of coral reef — finger reefs — that extend perpendicular from the shore, separated by sandy gullies and seagrass beds. The reefs begin at around 10 meters depth and extend down to 25 meters and beyond, with a maximum recreational depth of approximately 36 meters. Most divers cover just one finger reef per dive, saving the others for subsequent visits. Shore entry is via a flat rock slab that marks the entrance, with some sea urchin and rubble hazards requiring careful footing.
 
 ## Site Information
 
-- **Location**: Jordan - Aqaba, Middle East
+- **Location**: Jordan - Aqaba, southern coastal reef zone
 - **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
+- **Site Type**: Coral reef
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 15–30 meters
+- **Current**: Mild to moderate
+- **Best Time**: Year-round; September–November for peak visibility
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Blue Coral is one of Aqaba's richest macro sites. Nudibranchs are particularly abundant here. Regular sightings include stingrays, hawksbill turtles, moray eels, seahorses (including thorny seahorses in the seagrass), crocodilefish, and frogfish. Reef fish schools of damselfish, fusiliers, and groupers are common. Black coral plants appear at depth, and the seagrass beds between the finger reefs host a variety of small invertebrates. Night dives reveal lionfish, octopus, and sleeping reef fish.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter from shore via the flat slab entry — take care with sea urchins on the approach. Descend through the seagrass zone and pick one of the three finger reefs to explore. Each reef runs from around 10 meters at the crest down to 25–35 meters, with sandy gullies in between. Coral coverage increases with depth, transitioning from branching Acropora to massive corals and eventually black coral trees below 25 meters. Plan multiple dives to cover all three sections adequately.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry over a flat rock slab. Watch for sea urchins in the entry zone. The seagrass flat between shore and reef begins at approximately 10 meters where the first reef spur starts.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Bring a macro lens — this is one of Aqaba's best nudibranch sites
+- Plan 2–3 separate dives to explore all three finger reefs fully
+- Check for seahorses in the seagrass beds during the descent
+- Excellent for night diving — the reef comes alive after dark
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Sea urchins are present at the entry point — appropriate footwear recommended. Moderate currents possible. Always carry a surface marker buoy (SMB) and dive with a buddy.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+One of Aqaba's premier photography sites. The diverse coral formations, abundant nudibranchs, resting crocodilefish and frogfish, and frequent turtle sightings make it excellent for both macro and wide-angle work.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Arab Divers - Blue Coral](https://www.arabdivers.jo/en/activities/dive-sites/blue-coral), [Coral Garden Diving Center - Blue Coral](https://www.dive-inaqaba.com/blue-coral-2/). Last updated 2026-04-11.*

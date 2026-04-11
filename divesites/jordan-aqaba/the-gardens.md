@@ -3,63 +3,58 @@ name: The Gardens
 lat: 29.3996183
 lng: 34.9661243
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 18
 entryType: shore
 siteType: reef
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: community
 ---
 
 ## The Gardens
 
-The Gardens is a  dive site in Jordan - Aqaba, Middle East.
+The Gardens is a coral reef dive site in the southern section of Aqaba's coastline, close to the Coral Garden area at approximately 29.40°N. The site sits within the protected fringing reef system that lines Aqaba's shore.
 
 ## Overview
 
-The Gardens is a dive site in Jordan - Aqaba offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The Gardens features branching hard coral formations over relatively flat to gently sloping reef topography. The site is accessible from shore and is suited to divers of intermediate experience, particularly those comfortable navigating moderate currents. Conditions here include medium-strength currents that sweep across the reef, and visibility is typically 15–20 meters. Water temperatures range from 22–28°C year-round.
 
 ## Site Information
 
-- **Location**: Jordan - Aqaba, Middle East
+- **Location**: Jordan - Aqaba, southern coastal reef zone
 - **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Site Type**: Coral reef
+- **Maximum Depth**: 18 meters
+- **Typical Visibility**: 15–20 meters
+- **Current**: Moderate
+- **Best Time**: Year-round; September–November for peak visibility
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The reef supports a diverse community of hard coral species including branching Acropora and lettuce corals. Common residents include large moray eels, frogfish, crocodilefish, clownfish in anemones, pufferfish, and schools of anthias and damselfish. Barracuda and other predators patrol the reef edges. The site is noted for macro photography opportunities including nudibranchs and small invertebrates.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Divers enter from the shore and swim out to the reef, which begins in shallow water and drops gently to around 18 meters. The flat topography means navigation requires attention, particularly in stronger currents. Spend time exploring individual coral heads, each of which supports its own distinct assemblage of marine life.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry over the fringing reef flat. Check the current direction before entering. Moderate currents can develop across the site; plan your exit accordingly. Snorkeling is possible in calmer conditions.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Bring a torch or dive light for exploring under coral overhangs
+- This site rewards slow, careful finning — ideal for macro photography
+- Plan dive time to allow for the swim back against current if conditions strengthen
+- Nitrox recommended to extend bottom time
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Moderate currents are common. Avoid surge zones near the entry point. Always dive with a buddy and carry a surface marker buoy (SMB).
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+Excellent macro photography site. Look for nudibranchs, frogfish, and crocodilefish resting among the coral heads. Wide-angle shots of the branching hard coral formations work well in good visibility.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Arab Divers - Coral Garden](https://www.arabdivers.jo/en/activities/dive-sites/coral-garden), [Coral Garden Diving Center - Dive Sites](https://www.dive-inaqaba.com/dive-sites-aqaba/). Last updated 2026-04-11.*

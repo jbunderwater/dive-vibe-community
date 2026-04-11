@@ -2,64 +2,59 @@
 name: Kiwi reef
 lat: 29.4065724
 lng: 34.9758983
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 20
 entryType: shore
 siteType: reef
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: community
 ---
 
-## Kiwi reef
+## Kiwi Reef
 
-Kiwi reef is a  dive site in Jordan - Aqaba, Middle East.
+Kiwi Reef is a popular dive site in southern Aqaba, named after a New Zealand visitor who first explored and documented it. The site's distinctive landscape of over a dozen coral pinnacles rising from dense seagrass beds makes it one of the most varied and rewarding reef dives in the area.
 
 ## Overview
 
-Kiwi reef is a dive site in Jordan - Aqaba offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The site features extensive seagrass beds along a gentle slope, with a garden of coral pinnacles distributed across the reef between 10 and 20 meters depth. Each pinnacle supports its own distinct ecosystem, creating an unusually high diversity of habitats within a single dive. The reef acts as a nursery for juvenile fish, and moray eel populations here are particularly dense. A mooring buoy marks the area between the pinnacles and the main reef. An advanced feature called the Kiwi Arch exists at technical diving depths beyond 70 meters.
 
 ## Site Information
 
-- **Location**: Jordan - Aqaba, Middle East
+- **Location**: Jordan - Aqaba, southern coastal reef zone
 - **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Site Type**: Coral reef
+- **Maximum Depth**: 20 meters
+- **Typical Visibility**: 15–30 meters
+- **Current**: Mild to moderate
+- **Best Time**: Year-round; popular for night dives
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Kiwi Reef is one of Aqaba's best sites for varied marine life encounters. Regular sightings include moray eels (exceptionally abundant here), lionfish, stingrays, thorny seahorses (in the seagrass), triggerfish, emperor fish, fusiliers, damselfish, and banner fish. Nudibranchs and octopus are found during night dives. Each coral pinnacle hosts its own community of resident fish and invertebrates. Juvenile fish nursery conditions mean unusually high fish densities for the pinnacle size.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter from shore and descend through seagrass beds, watching for seahorses among the seagrass fronds. The first coral pinnacles appear around 10 meters, with the main cluster between 12–20 meters. Explore each pinnacle individually — they reward thorough investigation. A navigation line and mooring buoy assist orientation. Night diving is particularly rewarding as large populations of lionfish emerge from the pinnacles after dark.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry. The current access point via a dive center platform may be restricted by a gated area — check with local dive operators for the current best access route. Snorkeling is available in calmer conditions.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Allow time to inspect each pinnacle individually — they differ significantly
+- Look in the seagrass beds for thorny seahorses during descent
+- Night dives are exceptional here — lionfish are particularly active
+- This is an excellent training and photography site at shallow to moderate depths
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Mild to moderate currents typical. Mooring buoy assists navigation. Always carry an SMB. Night divers need primary and backup torches.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+Superb macro photography: seahorses, nudibranchs, frogfish, and resting lionfish. Each pinnacle offers close-up reef portrait opportunities. Wide-angle shots of fish schooling around the pinnacles work well in clear conditions.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Arab Divers - Kiwi Reef](https://www.arabdivers.jo/en/activities/dive-sites/kiwi-reef), [Coral Garden Diving Center - Kiwi Reef](https://www.dive-inaqaba.com/kiwi-reef/), [Deep Blue Dive Center - Aqaba Dive Sites](https://www.deepbluedivecenter.com/red-sea-scuba-diving/). Last updated 2026-04-11.*

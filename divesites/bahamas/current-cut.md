@@ -2,63 +2,55 @@
 name: Current Cut
 lat: 25.4035704
 lng: -76.7922449
-difficulty: Intermediate
-maxDepth: 25
-entryType: shore
-siteType: reef
+difficulty: Advanced
+maxDepth: 18
+entryType: boat
+siteType: drift
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: community_contribution
 ---
 
 ## Current Cut
 
-Current Cut is a  dive site in Bahamas, Caribbean.
+Current Cut is one of the most exhilarating drift dives in the Bahamas — a narrow tidal channel between North Eleuthera and Current Island where the ocean tide funnels through at up to 10 knots, sweeping divers through in under 15 minutes.
 
 ## Overview
 
-Current Cut is a dive site in Bahamas offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The cut is a narrow channel just over 1 kilometre long separating the western tip of North Eleuthera from Current Island. As the tide changes, ocean water is forced through this restricted passage creating one of the fastest current dives in the Caribbean. The channel's 18-meter depth has a hard rock bottom studded with sea fans, sponges, and hardy coral growth that can withstand the constant current. The experience is one of free-flying through clear water — divers describe it as a natural rocket ride. Despite its brevity (the dive is over in 10-12 minutes), the intensity of the experience makes it memorable. A second dive option exists on the northern shore side, where a gentler shore entry accesses quieter reef.
 
 ## Site Information
 
-- **Location**: Bahamas, Caribbean
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Location**: North Eleuthera / Current Island channel, Eleuthera, Bahamas
+- **Entry Type**: Boat dive
+- **Site Type**: Drift dive
+- **Maximum Depth**: 18 meters
+- **Current**: 6-10 knots at peak tidal flow; 20-minute optimal dive window
+- **Typical Visibility**: 15-25 meters (incoming tide preferred for clearest water)
+- **Best Time**: November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The resident pod of stingrays at Current Cut is one of the site's defining features. Large fish that would flee in calm conditions hold position in crevices and feed on prey swept through by the current. Sharks, eagle rays, grouper, snapper, and barracuda are regularly encountered using the rock formations as shelter from the flow.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The incoming tide provides the best visibility and the preferred dive direction. There is a strict 20-minute window to catch optimal conditions. Divers are dropped at the up-current end of the channel and carried through to the exit point where the boat is waiting. Buoyancy control must be excellent — sharp buoyancy skills are needed to stay comfortable in 10-knot flow without crashing into the bottom or flying toward the surface.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Drift dive by boat. The boat drops divers at one end and moves to the other end to collect them as they surface. This is a one-way dive — there is no swimming back against the current. Work exclusively with local operators who know the 20-minute tidal window precisely.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- This dive requires sharp buoyancy skills and prior drift diving experience — beginner divers should not attempt it
+- Incoming tide is strongly preferred over outgoing for visibility and current direction
+- The dive is fast — have your camera ready from the moment you hit the water
+- A second, gentler dive on the northern shore of Current Island pairs well with this as a two-tank trip
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+The 10-knot current is unswimmable — once in, you must complete the drift. If you surface early, deploy your SMB immediately so the boat can locate you. Do not fight the current under any circumstances. Incoming tide conditions should be confirmed within the 20-minute window before any entry. This site is for Advanced certified divers with drift diving experience only.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Eleuthera.me - Current Cut](https://eleuthera.me/currentcut.html), [Zentacle - Current Cut](https://www.zentacle.com/Beach/3565/current-cut), [Dive the World - Eleuthera](https://www.dive-the-world.com/diving-sites-bahamas-eleuthera.php). Last updated 2026-04-11.*

@@ -3,62 +3,52 @@ name: Seabass
 lat: 23.6580471
 lng: -75.9427357
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 15
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: community_contribution
 ---
 
 ## Seabass
 
-Seabass is a  dive site in Bahamas, Caribbean.
+Seabass is a reef dive site off Great Exuma Island, documented among a cluster of local dive sites serviced by operators out of George Town, the main diving hub of the Exumas.
 
 ## Overview
 
-Seabass is a dive site in Bahamas offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Seabass sits in the Great Exuma area alongside Connected Dott and Amberjack Reef, and appears in regional dive condition databases as part of the local site inventory. The name likely reflects the fish species historically abundant at this location. Detailed published descriptions are limited; the information below draws on the broader Great Exuma diving context and conditions data.
 
 ## Site Information
 
-- **Location**: Bahamas, Caribbean
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Location**: Great Exuma Island, Bahamas
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
+- **Maximum Depth**: 15 meters
+- **Typical Visibility**: Good
+- **Water Temperature**: 25-27°C
+- **Best Time**: November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Great Exuma reefs support healthy populations of Caribbean reef fish. Groupers, snapper, barracuda, parrotfish, and angelfish are common across the region's reefs. Nurse sharks and southern stingrays are regularly encountered, and sea turtles are a frequent sight. The site name suggests historically notable grouper or bass populations.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+A moderate-depth reef dive. Suited to Open Water-certified divers with some experience. Local operators will provide a thorough briefing on the reef layout and current conditions before entry.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Access is by boat. Dive Exuma in George Town is the primary local operator offering trips to sites in this area. Pair this site with Amberjack Reef or Connected Dott on a two-tank morning trip.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Book with a local operator for the most current site-specific conditions
+- The Great Exuma sites are best dived in the morning when visibility is typically at its best
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+Check conditions with your operator before entry. Carry an SMB for open-water ascents.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [ScubaWeather - Great Exuma Island sites](https://www.scubaweather.com/Bahamas/Great_Exuma_Island/Connected%20Dott/Point_DiveSiteMap.html). No site-specific dive guide found; description based on regional diving characteristics. Last updated 2026-04-11.*

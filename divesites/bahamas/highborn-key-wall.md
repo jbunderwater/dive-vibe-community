@@ -2,63 +2,54 @@
 name: Highborn Key Wall
 lat: 24.7250818
 lng: -76.8025875
-difficulty: Intermediate
-maxDepth: 25
-entryType: shore
-siteType: reef
+difficulty: Advanced
+maxDepth: 30
+entryType: boat
+siteType: wall
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: community_contribution
 ---
 
 ## Highborn Key Wall
 
-Highborn Key Wall is a  dive site in Bahamas, Caribbean.
+Highborn Key Wall is a deep wall dive directly off Highbourne Cay in the northern Exuma Cays, where the island's eastern face drops into the Exuma Sound — one of the deepest bodies of water in the Bahamas.
 
 ## Overview
 
-Highborn Key Wall is a dive site in Bahamas offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The wall sits right off the Highbourne Cay coastline, facing the Exuma Sound. The drop-off begins at around 12 meters (40 feet) and descends to near 30 meters (98 feet) within recreational diving range, continuing well beyond into the Sound. This exposure to the open Atlantic-influenced Sound, combined with healthy coral on the wall face, makes it one of the more dramatic wall dives in the northern Exumas. The site is accessible by boat from Highbourne Cay's marina or via liveaboard.
 
 ## Site Information
 
-- **Location**: Bahamas, Caribbean
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Location**: Highbourne Cay, northern Exuma Cays, Bahamas
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
+- **Maximum Depth**: 30 meters
+- **Typical Visibility**: 20-30 meters
+- **Current**: Moderate — the open Sound can generate surge and current
+- **Best Time**: November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The wall face supports a rich community of hard and soft corals, large barrel sponges, and sea fans. Pelagic species move through the blue water off the wall, including sea turtles, spotted eagle rays, and Caribbean reef sharks. Large Nassau grouper, barracuda, and lobsters are present on the reef top. The open-water exposure occasionally brings hammerhead sharks into view, particularly in deeper water.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend the wall face, keeping the reef to one side and the open blue to the other. The wall top at 12-15 meters provides a good reference point for maintaining depth. Work down to your planned maximum depth, explore horizontally along the wall face, then ascend and complete a safety stop on the shallower reef at the wall top. Advanced certification recommended due to depth and open-water exposure.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat dive only. Access via Highbourne Cay marina or liveaboard. The site is directly off the cay, making it one of the most accessible wall dives in the northern Exuma Cays.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Bring a dive computer — the wall makes it easy to descend deeper than planned
+- Wide-angle photography works well for the wall structure and passing pelagics
+- Time the dive for morning when the light angles directly onto the wall face
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+The depth and open-water exposure make this an Advanced-level dive. Monitor your depth carefully on the wall — gradual deepening is easy to miss. Currents can be unpredictable when exposed to the Exuma Sound. Always complete a 3-minute safety stop at 5 meters and carry an SMB.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Zentacle - Highborn Key Wall](https://www.zentacle.com/Beach/8446/highborn-key-wall), [Yachts Bahama Charters - Wall Diving in the Exumas](https://www.yachtsbahamacharters.com/blog/the-thrill-of-wall-diving-top-5-scuba-dive-sites-in-the-exumas/). Last updated 2026-04-11.*

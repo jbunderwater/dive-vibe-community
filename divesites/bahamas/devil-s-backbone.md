@@ -2,63 +2,62 @@
 name: Devil s Backbone
 lat: 25.5770333
 lng: -76.6869
-difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+difficulty: Beginner
+maxDepth: 8
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: community_contribution
 ---
 
-## Devil s Backbone
+## Devil's Backbone
 
-Devil s Backbone is a  dive site in Bahamas, Caribbean.
+The Devil's Backbone is a shallow, jagged reef extending across the northern tip of Eleuthera island — a site as notorious for wrecking ships as it is celebrated for the dive sites those wrecks have created.
 
 ## Overview
 
-Devil s Backbone is a dive site in Bahamas offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Stretching approximately 1.4 miles northeast of Spanish Wells at the north end of Eleuthera, the Devil's Backbone has been documented as a navigational hazard since 1648. More ships have wrecked here than on any other reef in the Bahamas. The result is a remarkable collection of shallow wrecks layered atop one another in 8-11 meters of water, all now heavily colonised by coral and sponge and hosting abundant marine life. The reef itself is an intricate system of coral heads, archways, and channels. The surf here is rarely calm, making the site effectively boat-access only despite the shallow depths.
+
+## Notable Wrecks
+
+- **The Cienfuegos** (1895): A 292-foot American iron-hull steamer lying in approximately 10 meters. One of the most intact century-old wrecks in the Bahamas.
+- **The Carnarvon** (1916): A 186-foot freighter in 8-10 meters. Its steam engine, boilers, and driveshaft are well-preserved. The steering quadrant is just 2-3 meters below the surface. Good for underwater photography.
+- **The Train Wreck** (1865): Remains of a cargo of railway equipment — wheels, axles, boiler plates — scattered in 5 meters. One of the more unusual wreck dives in the Caribbean.
+- **Potato and Onion / Vanaheim** (1969): An 86-foot freighter in the shallows.
 
 ## Site Information
 
-- **Location**: Bahamas, Caribbean
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Location**: North Eleuthera, Bahamas (near Spanish Wells and Preacher's Cave)
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
+- **Maximum Depth**: 8 meters
+- **Typical Visibility**: 5-6 meters (conditions can be variable due to surge and sand disturbance)
 - **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Best Time**: November to May (calmer conditions)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Abundant reef fish populations inhabit the wrecks and reef — snapper, grunts, parrotfish, angelfish, Nassau grouper, and barracuda. Nurse sharks and stingrays are commonly encountered resting around the wreck structures. Moray eels occupy crevices in the iron hulls. Brain coral, elkhorn coral, and star coral form the backdrop.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The entire site sits within recreational depth limits, making it suitable for newly certified divers. Begin on the shallower sections and move between wrecks. The Train Wreck at 5 meters makes an ideal end to the dive during the safety stop zone. Multiple dive profiles are possible — the wrecks are spread across the reef and require several dives to cover fully.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat dive. Ocean Fox Dive Shop on Harbour Island and other local operators offer guided wreck tours. The reef requires local knowledge to navigate safely due to its shallow, complex structure.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- The Carnarvon wreck is particularly photogenic — wide-angle shots of the engine room work well
+- The Train Wreck wheels and axles are unique subjects — found nowhere else in the Bahamas
+- Book multiple dives to cover the spread of wrecks; a single dive will not do the site justice
+- Check weather conditions — even moderate Atlantic swell makes the site difficult
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+Boat traffic in the area can be significant — always use a dive flag. The shallow depths create surge in any swell. Sand and silt in the wreck structures reduce visibility when disturbed; maintain good buoyancy. The reef is fragile — do not penetrate unguided wreck interiors.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Ocean Fox Bahamas - Devil's Backbone](https://oceanfoxbahamas.com/devils-backbone/), [Zentacle - Devil's Backbone](https://www.zentacle.com/Beach/3567/devils-backbone), [Dive the World - Eleuthera](https://www.dive-the-world.com/diving-sites-bahamas-eleuthera.php). Last updated 2026-04-11.*

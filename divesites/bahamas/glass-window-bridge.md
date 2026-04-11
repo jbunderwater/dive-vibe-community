@@ -2,63 +2,54 @@
 name: Glass Window Bridge
 lat: 25.4381736
 lng: -76.6036052
-difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+difficulty: Beginner
+maxDepth: 8
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: community_contribution
 ---
 
 ## Glass Window Bridge
 
-Glass Window Bridge is a  dive site in Bahamas, Caribbean.
+Glass Window Bridge is a shallow reef dive at one of the most striking geographic features in the Bahamas — the narrow rock bridge where Eleuthera Island pinches to just 9 meters wide and the turquoise Caribbean meets the deep blue Atlantic.
 
 ## Overview
 
-Glass Window Bridge is a dive site in Bahamas offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Glass Window Bridge dive site sits just east of the famous land bridge on North Eleuthera where the Atlantic Ocean and the calmer Bight of Eleuthera are separated by a sliver of rock. The underwater dive area features large boulders that have fallen or been deposited on the sea floor, creating an environment of cracks, tunnels, and small caverns sheltering significant marine life. The visual contrast above water — aquamarine Caribbean versus deep blue Atlantic — extends underwater into distinct reef communities on each side of the isthmus.
 
 ## Site Information
 
-- **Location**: Bahamas, Caribbean
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Location**: Glass Window Bridge area, North Eleuthera, Bahamas
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
+- **Maximum Depth**: 8 meters
+- **Typical Visibility**: 15-25 meters
+- **Current**: Variable — Atlantic swell can affect the site
+- **Best Time**: November to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Large groupers are resident in the boulder crevices and overhang areas. The sheltered crack and tunnel formations attract an assortment of reef fish, invertebrates, and small shark species. The relatively protected Caribbean side of the site supports healthy coral growth with typical Bahamian reef fish communities.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+A shallow dive well within beginner certification limits. The site is more about exploring the boulder landscape than depth. Penetrate the cracks and tunnels with a torch to find resident groupers and resting fish. Visibility is typically good on the protected Caribbean side of the bridge. Be aware that surge from Atlantic swells can build quickly in the crevice areas.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat dive. Work with a local North Eleuthera dive operator who can assess conditions on the day — the Atlantic exposure makes this site weather-dependent despite its shallow depth.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- The above-water scenery at Glass Window Bridge is extraordinary — plan to visit the land feature as well
+- The boulder and cavern areas are best explored with a small torch to illuminate the crevices
+- The dive is a natural pairing with the nearby Current Cut, combining a gentle reef dive with a more dramatic drift
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+**Important:** Glass Window Bridge is subject to sudden Atlantic "rage waves" — enormous waves driven by distant storms that surge over the narrow rock bridge. Check weather forecasts for Atlantic swell carefully before any visit, surface or underwater. Even modest Atlantic swells can be amplified in the narrow channel between the two bodies of water.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Zentacle - Glass Window Bridge](https://www.zentacle.com/Beach/3566/glass-window-bridge), [Bahamas.com - Glass Window Bridge](https://www.bahamas.com/natural-wonders/glass-window-bridge). Last updated 2026-04-11.*

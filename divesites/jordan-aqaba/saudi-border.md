@@ -3,63 +3,58 @@ name: Saudi border
 lat: 29.3607735
 lng: 34.9647188
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 40
 entryType: shore
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
-addedBy: osm_import
+addedBy: community
 ---
 
-## Saudi border
+## Saudi Border
 
-Saudi border is a  dive site in Jordan - Aqaba, Middle East.
+Saudi Border is one of Aqaba's most dramatic dive sites, located at the southernmost accessible section of Jordan's coastline, approximately 4 km south of the Royal Diving Club and just north of the Saudi Arabian frontier. The site's defining feature is a long coral wall that drops steeply from 12–15 meters at the crest to well beyond 100 meters — one of the most impressive wall dives in the Gulf of Aqaba.
 
 ## Overview
 
-Saudi border is a dive site in Jordan - Aqaba offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The wall starts approximately 70 meters from shore and runs north-west. Divers swim out across a shallow plateau before dropping over the edge to experience the full scale of the wall drop-off. The wall itself begins at 15 meters and plunges rapidly to depths well beyond recreational limits. Coral coverage changes with depth: branching colonies dominate the shallower sections, transitioning to dense encrusting corals at depth. The site is sometimes accessed as a drift dive along the wall.
 
 ## Site Information
 
-- **Location**: Jordan - Aqaba, Middle East
+- **Location**: Jordan - Aqaba, southernmost dive zone near Saudi Arabia border
 - **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Site Type**: Wall dive
+- **Maximum Depth**: 40 meters
+- **Typical Visibility**: 20–30 meters
+- **Current**: Moderate; can be used as a drift dive
+- **Best Time**: Year-round; advanced divers recommended
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The wall's dramatic topography attracts larger marine life. Sharks and moray eels have been reported along the wall. The shallower plateau before the drop-off supports colorful cabbage coral formations — the best coral growth is on the plateau, so divers are advised not to descend too steeply too soon. The encrusting corals on the deeper wall sections host invertebrates and reef fish adapted to lower-light conditions. The area's position at the far end of Aqaba's fringing reef means the reef has seen less diving pressure than northern sites.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter from shore and cross the shallow sandy area (6 meters) to reach the reef edge. Follow the plateau out to the wall — approximately 70 meters from shore — and descend along the right side of the wall. The plateau area offers cabbage coral worth exploring before dropping deeper. Follow the wall north-west at your target depth. A strong current can make this a drift dive; plan exit strategy accordingly. Ascend with adequate air for a safety stop.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry. The site requires approximately a 6-meter swim to the reef. Access to the far southern section near the Saudi border may require special arrangements — confirm current access permissions with local dive operators. Located about 6 minutes by car from the main dive village in Aqaba.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Spend time on the plateau exploring cabbage coral before descending the wall
+- The current can be used for a drift dive along the wall — plan your exit point accordingly
+- Advanced divers only beyond 30 meters; the wall drops to extreme depths rapidly
+- Confirm current access arrangements with your dive operator — this is a remote site
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The wall drops to depths well beyond recreational limits — maintain strict depth discipline. Drift currents can develop. Remote location from the main dive centers means any emergency requires additional response time. Minimum Intermediate diver experience recommended. Always carry a surface marker buoy (SMB).
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+Wide-angle photography of the wall face is the primary draw. The scale of the drop-off provides dramatic compositional opportunities. The shallower cabbage coral plateau offers colorful reef shots in good natural light.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [ScubaBoard - Aqaba Diving](https://scubaboard.com/community/threads/aqaba-diving-the-best-place-for-shore-dive.276387/), [Aqaba Adventure Divers - Dive Sites](https://aqaba-diving.com/dive-sites-in-aqaba-red-sea/), [Freediving Jordan - The Dive Sites of Aqaba](https://freedivingjordan.wordpress.com/2013/07/17/the-dive-sites-of-aqaba/). Last updated 2026-04-11.*

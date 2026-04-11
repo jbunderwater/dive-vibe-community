@@ -268,168 +268,216 @@
     "name": "Jeep Reef",
     "lat": 24.3704069,
     "lon": -76.6184592,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "diveboard.com, dive-the-world.com, yachtsbahamacharters.com",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "diveboard.com, dive-the-world.com"
     }
   },
   {
     "name": "Amberjack Reef",
     "lat": 24.4079488,
     "lon": -76.6494548,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "uncommoncaribbean.com, zentacle.com, dive-the-world.com",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "uncommoncaribbean.com, zentacle.com"
     }
   },
   {
     "name": "Connected dott",
     "lat": 23.584598,
     "lon": -75.8545017,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "scubaweather.com",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "scubaweather.com"
     }
   },
   {
     "name": "The Cutt",
     "lat": 26.7456104,
     "lon": -77.8710938,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 18,
+    "site_type": "drift",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "scubaboard.com",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "scubaboard.com"
     }
   },
   {
     "name": "Seabass",
     "lat": 23.6580471,
     "lon": -75.9427357,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "scubaweather.com",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "scubaweather.com"
     }
   },
   {
     "name": "Normans Key Cut",
     "lat": 24.5729238,
     "lon": -76.7908287,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 15,
+    "site_type": "drift",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "divein.com, dive-the-world.com",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "divein.com, dive-the-world.com"
     }
   },
   {
     "name": "Highborn Key Wall",
     "lat": 24.7250818,
     "lon": -76.8025875,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "zentacle.com, yachtsbahamacharters.com",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "zentacle.com, yachtsbahamacharters.com"
     }
   },
   {
     "name": "Off The Wall",
     "lat": 24.8446182,
     "lon": -76.3736916,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "zentacle.com, allstarliveaboards.com",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "zentacle.com, allstarliveaboards.com"
     }
   },
   {
     "name": "Off Cape Eleuthera",
     "lat": 24.8172378,
     "lon": -76.3499165,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 27,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "validated": true,
+    "validation_source": "capeeleuthera.com, scubadiving.com",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "capeeleuthera.com, scubadiving.com"
     }
   },
   {
     "name": "Devil s Backbone",
     "lat": 25.5770333,
     "lon": -76.6869,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 8,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "zentacle.com, oceanfoxbahamas.com, dive-the-world.com",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "zentacle.com, oceanfoxbahamas.com"
     }
   },
   {
     "name": "Glass Window Bridge",
     "lat": 25.4381736,
     "lon": -76.6036052,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 8,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "validated": true,
+    "validation_source": "zentacle.com, bahamas.com",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "zentacle.com, bahamas.com"
     }
   },
   {
     "name": "Current Cut",
     "lat": 25.4035704,
     "lon": -76.7922449,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 18,
+    "site_type": "drift",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "validated": true,
+    "validation_source": "zentacle.com, eleuthera.me, dive-the-world.com",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "zentacle.com, eleuthera.me"
     }
   }
 ]
