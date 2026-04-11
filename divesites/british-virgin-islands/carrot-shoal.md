@@ -13,53 +13,55 @@ addedBy: osm_import
 
 ## Carrot Shoal
 
-Carrot Shoal is a pinnacle dive site in British Virgin Islands, Caribbean.
+Two open-water pinnacles between Norman Island and Peter Island, named for their orange coral and sponge coverage — one of the BVI's premier night dive destinations.
 
 ## Overview
 
-Carrot Shoal is a dive site in British Virgin Islands offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Carrot Shoal consists of two submerged pinnacles rising from open water between Norman Island and Peter Island, named after both the nearby Carrot Rock and the dense orange corals and sponges that encrust their surfaces. The site sits away from any island shoreline, offering the open-water character typical of pinnacle dives: good pelagic fish presence, stronger-than-average currents when they run, and the sense of a seamount rising out of deeper blue water. It is relatively lightly dived compared to the famous sites at Norman Island and the Indians, which makes it a rewarding choice for divers seeking quieter conditions. It is particularly well-regarded as a night dive, when the reef comes alive with lobsters, eels, and nocturnal invertebrates.
 
 ## Site Information
 
-- **Location**: British Virgin Islands, Caribbean
+- **Location**: Open water between Norman Island and Peter Island, British Virgin Islands
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: Good to excellent — north side typically clearest
+- **Current**: Variable; can be strong on exposed faces
+- **Swell**: High (open water)
+- **Best Time**: December to April; night dives particularly rewarding year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Carrot Shoal's orange and red encrusting sponges and corals are home to spotted and Spanish lobsters, spiny lobsters, hermit crabs, and moray eels — the classic reclusive reef dwellers the BVI notes are most reliably seen with a careful eye. Angelfish and butterflyfish are common on the shallower sections. Basslets hover over the coral. Sea turtles visit the pinnacle tops. Nurse sharks rest in deeper crevices. The open-water setting means reef sharks and barracuda appear regularly, with better encounters on the north side of the shoal.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend onto one of the two pinnacles and work the perimeter, exploring the nooks and crannies that shelter lobsters and eels. Depths range from the top of the pinnacles at around 5–8 meters down to approximately 18 meters at the base where the structure meets the sand. The north side of the shoal generally offers better visibility. Night dives follow the same profile but with a torch, exploring the structure slowly to spot nocturnal species emerging from the reef.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access only. Mooring buoys are available; tie to them rather than anchoring on the structure. For night dives, have a clear pre-dive briefing on the ascent point and keep close track of the vessel's position lights. An SMB is essential for daytime ascents. Current monitoring is important — if current is strong on one face, the leeward side will often be calmer.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- This is one of the best night dives in the BVI; book it as an evening two-tank if available
+- The north side of the shoal typically has the clearest water and best pelagic fish activity
+- Monitor your air supply carefully — lobster hunting in crevices is absorbing and easy to lose track of time
+- Strong currents can develop; keep the pinnacle structure in view and don't drift off
+- Not heavily dived, making it a good alternative when the Indians or Caves are crowded
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The open-water position means this site is exposed to swell and current with no nearby island for shelter. Check conditions carefully before committing. At night, ensure the dive boat is clearly lit and maintains position. An SMB is mandatory for day dives. Strong current can sweep divers away from the pinnacle — if in doubt about conditions, defer to a calmer site.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The encrusting orange and red sponges create distinctive coloring for wide-angle reef shots. Night dives are exceptional for macro photography: lobsters, crabs, and sleeping reef fish are accessible and relatively slow-moving. The open-water position above the pinnacle affords good natural light shots of pelagic fish in the blue water column during the day.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-04-11
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/carrot-shoal/), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/). Last updated 2026-04-11.*

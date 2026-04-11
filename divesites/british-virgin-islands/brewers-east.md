@@ -13,53 +13,54 @@ addedBy: osm_import
 
 ## Brewer's East
 
-Brewer's East is a reef dive site in British Virgin Islands, Caribbean.
+A quieter alternative on the eastern side of Brewers Bay, northern Tortola, where isolated rocky formations on sandy bottom attract southern stingrays, nurse sharks, glassy sweepers, and tarpons away from the crowds.
 
 ## Overview
 
-Brewer's East is a dive site in British Virgin Islands offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Brewer's East lies on the eastern side of Brewers Bay on the northern coast of Tortola. While Brewers Bay is known for its beautiful beach, the eastern dive site is tucked away from the more heavily trafficked spots, offering a more secluded experience. The underwater terrain consists of isolated rocky formations sitting on sandy bottom, adorned with colorful corals and sponges. Depths range from roughly 12 to 21 meters. Swell can run high at this north-facing site, making it an advanced-level dive that rewards those who pick the right conditions.
 
 ## Site Information
 
-- **Location**: British Virgin Islands, Caribbean
+- **Location**: Eastern side of Brewers Bay, northern Tortola
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 21 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: Good; consistently clear in calm conditions
+- **Current**: Low
+- **Swell**: High (north-facing exposure)
+- **Best Time**: Calmer summer months; check conditions in winter
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Rays and nurse sharks are a consistent draw here — southern stingrays cruise the sandy bottom and nurse sharks rest in crevices beneath the rock formations. Glassy sweepers school densely in the overhangs, and tarpons hunt along the sandy margins. Schools of baitfish attract mackerel. Smaller invertebrates inhabit the nooks and crannies of the rock formations.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 21 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin at the rocky formations in the shallower section and navigate through the nooks and crannies of the underwater rocks. The sandy bottom around the formations is productive for ray and nurse shark sightings. The depth profile is gradual — spend time at intermediate depths where the most interesting geological and biological features are concentrated. Budget adequate bottom time to explore the site thoroughly before ascending for a 5-meter safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from Tortola operators. Entry via giant stride or back roll. This is a north-facing site and swell exposure is significant — confirm conditions with your operator before committing. Deploy an SMB for boat pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Check conditions carefully before diving — swell can be high at this exposed site
+- Patience is rewarded: nurse sharks and stingrays tend to be stationary or slow-moving
+- Scan the sandy bottom between rocky formations for rays resting or feeding
+- The glassy sweeper clouds in overhangs are dense — worth a torch to illuminate
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+The north-facing exposure means swell can be significant, particularly in winter. This site is rated Advanced due to exposure and depth. Dive within your certification limits. Fire coral is present on the formations. Carry an SMB. Dive with a buddy.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The isolated rock formations on open sand create clean backgrounds for wide-angle work. Southern stingrays and nurse sharks in the sandy sections are natural subjects. The sweeper clouds in overhangs benefit from a combination of ambient light and a torch for illuminating colors.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-04-11
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/brewers-east/). Last updated 2026-04-11.*

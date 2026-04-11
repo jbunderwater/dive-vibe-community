@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## Devil's Kitchen
 
-Devil's Kitchen is a wall dive site in British Virgin Islands, Caribbean.
+A hidden gem on the eastern shore of Cooper Island, named for its fiery red wall — accessible only on calm days and consistently less crowded than the BVI's more famous sites.
 
 ## Overview
 
-Devil's Kitchen is a dive site in British Virgin Islands featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Devil's Kitchen sits on the eastern shoreline of Cooper Island, facing into the Sir Francis Drake Channel. The site takes its name from the vivid red encrusting sponges and corals that cover its rocky formations — when lit by a torch or in good ambient light, the wall appears to glow in reds and oranges. The exposed eastern aspect means the site is subject to significant swell and can be undiveable on rougher days, which is precisely why it stays less crowded than better-known Cooper Island sites. When conditions are right, it is considered a hidden gem: colorful, diverse in structure, and offering genuine wildlife encounters in the nooks and crannies of its rocky formations. Diveable depths reach 15 meters (50 feet).
 
 ## Site Information
 
-- **Location**: British Virgin Islands, Caribbean
+- **Location**: Eastern shoreline of Cooper Island, British Virgin Islands
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: Good on calm days
+- **Current**: Low
+- **Swell**: High (exposed eastern face) — dive only on calm days
+- **Best Time**: Calmer summer months; confirm conditions day-of
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The red wall and rocky formations shelter parrotfish, grunts, cherub fish, and sea breams in the open reef areas. Lobsters and turtles are reliably present around the coral structures. Tarpons cruise the water column near the site. The ledges and crevices harbor smaller invertebrates, and the swaying underwater plants respond to any surge, giving the site a dynamic quality. The concentration of color from encrusting sponges is the defining visual characteristic.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-15 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Approach from the mooring and drop along the cliff face, where the wall drops to approximately 15 meters before transitioning to reef and sand. The upper section (5–10 meters) shows the most dramatic sponge coloring and is where the rocky overhangs are densest. Work along the wall face, ducking under ledges and probing crevices for lobsters and small fish. Given the shallow maximum depth, bottom time is generous when conditions cooperate. The site rewards thorough, unhurried exploration rather than a single sweep along the wall.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access only. The exposed eastern aspect means seas must be checked carefully before diving. If swell is running from the northeast or east, this site will likely be undiveable; the dive operator will recommend nearby alternatives such as Markoe Point or Carvel Rock. Entry is via giant stride or back roll from the dive boat. An SMB is standard for ascent.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- This site is weather-dependent; have a backup site in mind (Markoe Point is a good alternative)
+- Bring a torch to fully appreciate the red and orange sponge coloring on the wall
+- Morning dives on calm days offer the best conditions
+- Swim slowly along the wall and check every ledge — the smaller subjects here are the real reward
+- The site's advanced rating is primarily due to swell and exposure, not depth or current
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+The primary hazard is swell from the exposed eastern face. Do not dive this site if conditions are marginal — the surge against the rocky wall is a real risk. Dive operators familiar with Cooper Island will know the threshold conditions for this site. The shallow maximum depth reduces decompression risk but surge can make buoyancy control challenging. Always dive with a buddy and carry an SMB.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+The red and orange sponge-covered wall is the main photographic subject — a wide-angle lens with a strobe to illuminate the warm colors produces dramatic shots. Close-focus wide-angle along the wall face works well. Lobsters in crevices and tarpons in the water column offer secondary subjects. Morning light, when it penetrates the wall from the right angle, can reduce reliance on strobes.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-04-11
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/devils-kitchen/), [Dive BVI](https://divebvi.com/dive-sites/). Last updated 2026-04-11.*

@@ -13,55 +13,54 @@ addedBy: osm_import
 
 ## Spyglass Wall
 
-Spyglass Wall is a wall dive site in British Virgin Islands, Caribbean.
+A 1,500-foot-long mini wall on the north side of Norman Island, named after Spyglass Hill from Robert Louis Stevenson's Treasure Island, decorated with sea fans and purple tube sponges and visited by eagle rays, tarpons, and sea turtles.
 
 ## Overview
 
-Spyglass Wall is a dive site in British Virgin Islands featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Spyglass Wall runs along the north side of Norman Island — the island widely believed to have inspired Robert Louis Stevenson's Treasure Island — and takes its name from Spyglass Hill, which rises above the dive site on the island's ridge. The wall stretches approximately 460 meters (1,500 feet) and is described as one of the most captivating mini walls in the BVI. The site is only about 5 minutes by boat from The Bight, the main anchorage on Norman Island, making it easy to reach from the popular Norman Island sites. The wall is draped in sea fans and purple tube sponges with coral outcrops throughout. The upper portion offers good snorkeling, while the main dive zone descends to around 18 meters. Swell is moderate at this site and current is low.
 
 ## Site Information
 
-- **Location**: British Virgin Islands, Caribbean
+- **Location**: North side of Norman Island, ~5 minutes by boat from The Bight
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: Good
+- **Current**: Low
+- **Swell**: Moderate
+- **Best Time**: Year-round; calmer conditions in summer
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+The wall hosts fairy basslets, damselfish, blue tangs, tobaccofish, and anthias throughout. Tarpons and Atlantic spadefish are regularly seen in the water column. Eagle rays and southern stingrays pass along the base of the wall. Sea turtles are frequently sighted. Occasional squid are reported at this site.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-18 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Begin at the shallow upper section of the wall, which is also accessible for snorkeling. Descend along the wall to explore the sea fans and tube sponge formations — these are most densely concentrated in the mid-depth section between 8 and 15 meters. Look out into the blue water periodically for eagle rays and tarpons. The base of the wall at around 18 meters offers a natural turnaround depth before ascending back along the wall face. Complete a 5-meter safety stop before pickup.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from Norman Island operators or day-trippers from Tortola and the BVI's southern islands. Entry via giant stride or back roll. Low current makes entry and exit straightforward. Deploy an SMB for boat pickup.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- This site pairs naturally with The Caves at Norman Island and The Indians for a full Norman Island dive day
+- The sea fans and tube sponges along the wall are the main structural highlights — swim slowly along the wall face
+- Look out into open water regularly for eagle rays and tarpons
+- The upper shallow section is worth time for snorkelers; divers can work deeper on the wall
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Moderate swell is possible at this north-facing site. Monitor depth on the wall — it's easy to drift deeper than intended when following the wall. Carry an SMB. Dive within your certification limits. Dive with a buddy.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+Spyglass Wall is scenic rather than wildlife-dense, rewarding photographers who focus on the wall's structural beauty. The sea fans and purple tube sponges make excellent wide-angle compositions with blue water backgrounds. Eagle rays passing the wall offer dramatic action shots when they appear. Natural light is good throughout the dive.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-04-11
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/spyglass-wall/). Last updated 2026-04-11.*

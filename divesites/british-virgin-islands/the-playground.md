@@ -13,53 +13,55 @@ addedBy: osm_import
 
 ## The Playground
 
-The Playground is a reef dive site in British Virgin Islands, Caribbean.
+Voted the BVI's number one "Big Animal Dive" by Sport Diver magazine in 2004, this National Park site east of Green Cay delivers seamount-style boulder formations, dense corals and gorgonians, and regular encounters with manta rays, reef sharks, and tarpons.
 
 ## Overview
 
-The Playground is a dive site in British Virgin Islands offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Playground is located east of Green Cay West, near Little Jost Van Dyke in the western BVI. It sits within a National Park zone and is accessible only by boat. The site is large enough that it can realistically be split into two separate dives. Seamount-style large boulders dominate the topography, creating ideal habitat for diverse reef fish. The sandy bottom between and beneath the boulders is covered in corals and gorgonians. The north side of the site features exciting pinnacles decorated with vibrantly colored sponges, hydroid fans, and corals. Depth ranges from about 25–35 feet for most of the dive, with a maximum around 27 meters (90 ft) in deeper sections. Most of the interesting activity occurs at 8–11 meters (25–35 ft). Its isolated location means it sees fewer divers than the more central BVI sites, and conditions can occasionally be challenging.
 
 ## Site Information
 
-- **Location**: British Virgin Islands, Caribbean
+- **Location**: East of Green Cay West, near Little Jost Van Dyke, western BVI
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 27 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Depth Range**: 8–27 meters (25–90 feet); most diving at 8–11 meters
+- **Typical Visibility**: Generally good
+- **Current**: Low to moderate; can be occasionally challenging
+- **Best Time**: Year-round; calmer in summer
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Manta rays and spotted eagle rays are the headline sightings that earned the site its Sport Diver "Big Animal Dive" designation. Reef sharks cruise the outer edges of the boulders. Tarpons school in open water above the formations. Angelfish and parrotfish are abundant throughout. Dog snappers hold near the larger coral heads. Reef squids hover in mid-water. Glassy minnows swirl in dense schools around the boulder bases.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 27 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the main boulder field and begin exploring the passages between the formations. The sandy bottom between boulders is covered with gorgonians — stay neutral to avoid contact. Work toward the north side of the site to reach the pinnacles, which carry the most colorful sponge and coral growth. Keep an eye on the open water above and to the sides for manta rays and sharks passing through. The site is large; a guide familiar with the layout is recommended for a first visit. Allow ample air for the return to the boat and a safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access only. Entry via giant stride or back roll. Deploy an SMB during your safety stop for boat pickup. The site's isolated position means boat coordination is important — discuss pickup procedures with your operator before descending.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- A knowledgeable divemaster guide is strongly recommended for a first visit to navigate the large site efficiently
+- The best pelagic action — mantas, rays, sharks — tends to occur on the outer edges and north side pinnacles
+- Large enough for two separate dives if time and conditions allow
+- The isolated location means fewer divers; conditions can include swell and current, so check forecasts
+- Sandy Spit, a tiny half-acre islet nearby, is an ideal surface interval stop
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+Advanced certification recommended. The site experiences occasional swell and current that can make conditions challenging. The open-water exposure around the boulders increases drift risk. Always carry and deploy an SMB before ascending. A guided dive is advisable for those unfamiliar with the site.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Wide-angle coverage of the boulder field with gorgonian foreground and divers in the frame works well. The north pinnacles with their colorful sponges and hydroid fans are excellent close-focus wide-angle subjects. Manta and eagle ray encounters offer high-reward open-water shots — maintain distance and avoid chasing. Reef squid in mid-water are good for behavioral shots in natural light.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-04-11
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/the-playground/), [Virgin Islands Charter Yachts](https://www.virgin-islands-charter-yachts.com/British_Virgin_Islands/Jost_Van_Dyke_The_Playground_dive_site.html). Last updated 2026-04-11.*

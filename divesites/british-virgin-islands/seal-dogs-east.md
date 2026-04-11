@@ -13,53 +13,53 @@ addedBy: osm_import
 
 ## Seal Dogs East
 
-Seal Dogs East is a reef dive site in British Virgin Islands, Caribbean.
+An advanced open-water reef on the eastern edge of the Seal Dog Islands group, where steep walls, canyons, and monster boulder formations are exposed to Atlantic influence and attract open-water pelagics alongside colorful reef species.
 
 ## Overview
 
-Seal Dogs East is a dive site in British Virgin Islands offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Seal Dogs East occupies the eastern and northeastern side of the Seal Dog Islands group, a small collection of islets northwest of Virgin Gorda in The Dogs area. The site sits on the edge of open Atlantic waters, giving it the exposure and current that attract large pelagic fish not found at more sheltered BVI sites. The underwater terrain is dramatic: monster boulders form rocky formations with canyons, swim-throughs, ledges, and small caves. The bottom begins at around 8 meters and descends to approximately 20 meters, with the walls dropping further into the blue. The circum-navigation of Seal Dog Rock — a breaking rock northeast of the main islands — is a classic route at this site, involving steep wall sections and open blue vistas. Strong currents and open-water exposure make this suitable for advanced divers only.
 
 ## Site Information
 
-- **Location**: British Virgin Islands, Caribbean
+- **Location**: Eastern side of the Seal Dog Islands group, northwest of Virgin Gorda
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Maximum Depth**: 25 meters (walls drop deeper)
+- **Typical Visibility**: Excellent — open Atlantic influence
+- **Current**: Strong; open-water exposure
+- **Best Time**: Calmer summer months; avoid during strong trade wind periods
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The open-water setting draws jacks, Spanish mackerel, kingfish, and cero mackerel from the Atlantic. Eagle rays are regularly sighted in the open water beyond the walls. Creole wrasse are abundant and nudibranchs and flamingo tongues are found on the rocky surfaces. Smaller reef sharks patrol the outer wall sections. The colorful exotic reef fish are described as a highlight for underwater photographers.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+A typical dive involves circumnavigating the rock formations, starting on the sheltered side before moving to the more exposed eastern wall sections. The canyons and swim-throughs in the boulder formations reward careful exploration. Maintain orientation by keeping the wall on one side — currents can push divers along the wall at this exposed site. Look out into the blue regularly for passing pelagics. The route back to the mooring requires adequate air reserves given the distance covered.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from Tortola or Virgin Gorda operators. Entry via giant stride or back roll. Conditions at this exposed site must be checked before diving — current can be strong and swell significant. Deploy an SMB for boat pickup; current may move you away from the mooring during the dive.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- This is a site for experienced divers comfortable with current
+- Look out into open water regularly — pelagic sightings are one of the main draws
+- Check the rocky surfaces carefully for nudibranchs and flamingo tongues
+- Underwater photographers will find the combination of pelagics and colorful reef life excellent for wide-angle work
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+Strong current and open-water exposure make Seal Dogs East an Advanced site. Always carry and deploy an SMB — current may separate you from the boat. Monitor air consumption carefully when circumnavigating the rock. Dive within your certification limits. Always dive with a buddy.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The combination of open-water pelagics and colorful rocky reef formations makes Seal Dogs East one of the better wide-angle photography sites in The Dogs group. The creole wrasse and flamingo tongue nudibranchs on the rocky surfaces offer macro subjects. Excellent natural light from the open-water setting.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-04-11
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/seal-dogs-east/), [BVI Diving – Seal Dogs](https://www.bvidiving.com/diving-seal-dogs-bvi.html). Last updated 2026-04-11.*

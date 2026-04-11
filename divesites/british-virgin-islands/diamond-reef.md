@@ -13,53 +13,53 @@ addedBy: osm_import
 
 ## Diamond Reef
 
-Diamond Reef is a reef dive site in British Virgin Islands, Caribbean.
+A small wall reef off Great Camanoe — just two minutes by boat from Scrub Island — where soft and hard corals, colorful sponges, and a dense mix of reef fish make it one of the most accessible and reliably good dives in the northern BVI.
 
 ## Overview
 
-Diamond Reef is a dive site in British Virgin Islands offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Diamond Reef lies off Great Camanoe Island, a short boat ride from Scrub Island Resort in the northeastern BVI. The site takes its name from a local legend: a diver reportedly lost a diamond ring here years ago and it was never recovered. The reef itself runs approximately 200 yards as a small wall, its surface coated with soft and hard corals and colorful sponges on both the wall face and the rocky formations sitting on the sandy bottom. Visibility tends to be better on the northern side of the reef. The site is calm and accessible in nearly all weather conditions, making it a dependable choice when conditions elsewhere are unfavorable. It works well for divers and snorkelers alike.
 
 ## Site Information
 
-- **Location**: British Virgin Islands, Caribbean
+- **Location**: Off Great Camanoe Island, 2 minutes by boat from Scrub Island, northeastern BVI
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: Good; best on the northern side
+- **Current**: Generally low
+- **Best Time**: Year-round; accessible in most weather conditions
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The reef hosts a rich mix of reef fish and invertebrates. Sergeant majors are abundant throughout. Grey snappers and blue chromis school over the coral formations. Tiny wrasses and parrotfish work the coral surface. Mackerel pass through periodically. In the sandy areas off the reef, garden eels emerge from their burrows and stingrays rest or cruise the bottom. Turtles are regularly sighted at the site.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend from the boat and orient to the wall. Follow the reef structure along its 200-yard run, keeping the wall on one side. The rocky formations on the sandy bottom offer opportunities to look for garden eels and stingrays away from the main wall. The northern end of the reef has consistently better visibility, so consider working toward it during the dive. Ascent is straightforward from anywhere along the reef — complete a safety stop at 5 meters and surface for boat pickup.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by boat from Scrub Island or other nearby operators. Entry via giant stride or back roll. Deploy an SMB during your safety stop for boat pickup.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- A reliable fallback site when conditions at more exposed BVI sites are poor — the reef is sheltered in most weather
+- The northern side offers the best visibility — plan the dive to finish there if possible
+- Works well as a snorkel site for less experienced swimmers on the same boat
+- Scrub Island Resort is nearby — various local operators offer trips to this site
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Conditions are typically calm and forgiving. Standard reef precautions apply: watch for fire coral, maintain buoyancy to protect the reef structure, and carry an SMB for ascent signaling.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The sponge-encrusted wall face is colorful and photogenic in wide-angle. The sandy bottom garden eels are a good macro challenge — approach slowly and stay well off the bottom to avoid spooking them back into their burrows. Turtles resting or feeding on the reef make excellent portrait subjects.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-04-11
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/diamond-reef/), [BVI Diving](https://www.bvidiving.com). Last updated 2026-04-11.*

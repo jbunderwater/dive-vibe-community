@@ -13,54 +13,59 @@ addedBy: osm_import
 
 ## Rainbow Canyons
 
-Rainbow Canyons is a reef dive site in British Virgin Islands, Caribbean.
+A colorful, beginner-friendly reef near Pelican Island with dense coral, sponges, gorgonians, garden eel colonies, and resident nurse sharks — one of the BVI's most photogenic shallow sites.
 
 ## Overview
 
-Rainbow Canyons is a dive site in British Virgin Islands offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Rainbow Canyons lies north of Norman Island and southwest of Peter Island, close to the well-known snorkel site of The Indians. The site takes its name from the vivid spectrum of corals, sponges, and gorgonians that blanket the reef — visually one of the most colorful dive sites in the southern BVI. Depths range from 6 to 18 meters, making it accessible and unhurried. The terrain combines reef ridges and sandy patches, with the sandy areas hosting large colonies of garden eels.
+
+Robert Louis Stevenson reportedly based his novel Treasure Island partly on Norman Island, which lies just to the south — though the site's real treasure is its marine life density.
+
+When mooring, approach from the north side; the shallow waters between The Indians and Pelican Island can be reef-damaging if boats anchor carelessly.
 
 ## Site Information
 
-- **Location**: British Virgin Islands, Caribbean
+- **Location**: North of Norman Island, near Pelican Island, southwest of Peter Island
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 20–30 meters
+- **Current**: Low
+- **Swell**: Low
+- **Best Time**: Year-round; excellent for afternoon dives
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The reef supports exceptional diversity. Juvenile trunkfish are frequently spotted in the shallows. Spotted drums move slowly beneath overhangs. Creole wrasse school in mid-water above the reef. Garden eels inhabit sandy patches in large colonies — approach slowly to watch them retract. Queen angelfish patrol the coral heads. Nurse sharks rest on the sandy bottom or under ledges. Look for small juveniles of various species sheltering in the gorgonian sea fans.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 18 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-18 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend from the mooring to the reef top at around 6–9 meters, then work outward and downward as the reef slope extends toward 18 meters. The sandy patches with garden eel colonies appear in the middle depth range — approach flat and slowly. Gorgonians and sponges are concentrated throughout, making the entire depth range rewarding. A thin sandy patch near the deeper end provides a resting spot before ascending. Allow time on the shallow reef top for photography and observation of juveniles.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access, mooring on the north side. Entry by giant stride or back roll. The protected location between Norman and Peter Islands typically means calm surface and underwater conditions. Exit via the mooring or with SMB as briefed.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Approach sandy patches with garden eels very slowly and horizontally — abrupt movement will cause them to retract completely
+- This site is excellent for macro photography; bring a close-up lens or diopter
+- The high coral density rewards slow, methodical exploration rather than covering distance
+- Good site for a second or afternoon dive after a morning wreck dive at nearby RMS Rhone
+- Look under larger coral heads for spotted drums, which favor shaded overhangs
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+This is a calm, protected site with low hazards. Standard precautions apply: be aware of boat traffic, avoid contact with fire coral, and maintain buoyancy above the reef. Always carry an SMB for ascent. Watch for the shallow reef area between The Indians and Pelican Island when on the surface.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+One of the BVI's top macro and wide-angle reef sites. The color saturation of the sponges and gorgonians rewards wide-angle with a strobe to restore reds. Juvenile trunkfish and spotted drums make excellent close-focus subjects. Garden eel colonies in sandy patches are distinctive — shoot horizontal and low for the best framing.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-04-11
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/rainbow-canyons/). Last updated 2026-04-11.*

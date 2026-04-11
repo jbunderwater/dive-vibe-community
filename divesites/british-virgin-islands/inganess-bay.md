@@ -13,55 +13,54 @@ addedBy: osm_import
 
 ## Inganess Bay
 
-Inganess Bay is a historic wreck dive in British Virgin Islands, Caribbean.
+A 136-foot steel inter-island freighter deliberately sunk in 1996 by the BVI Dive Operators Association, resting upright south of Cooper Island with cargo holds, corridors, and intact glass windowpanes to explore.
 
 ## Overview
 
-Inganess Bay is a dive site in British Virgin Islands featuring the wreck of the Inganess Bay. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Inganess Bay was a steel-hulled inter-island cargo freighter that plied Caribbean trade routes between Puerto Rico and Trinidad. Built in Holland in 1950, the vessel was later sold to Captain Cosmos Sealey in 1988 and continued working Caribbean routes until 1996, when it ran aground near The Moorings charter yacht base after a storm snapped its anchor cable. Rather than salvage the damaged ship, the BVI Dive Operators Association deliberately sank it in August 1996 to create an artificial reef dive site. The wreck rests upright and flat on the sandy bottom south of Cooper Island. The mastheads are visible from the surface at around 14 meters (45 feet), with the wreck bottom at approximately 29 meters (95 feet). Before sinking, crews removed the main engine, fuel tanks, loose wood, and most doors, making the structure relatively safe for exploration. The hull is now encrusted with corals and colorful sponges, and some windows still retain their glass panes.
 
 ## Site Information
 
-- **Location**: British Virgin Islands, Caribbean
+- **Location**: South of Cooper Island, between Cooper and Salt Islands
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 29 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: Good
+- **Current**: Low
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+Lizardfish are commonly observed on and around the wreck. Schools of snappers and grunts congregate throughout the structure. Southern stingrays are found on the sandy bottom around the wreck perimeter. The corals and sponges encrusting the hull attract invertebrates and smaller reef fish. The cargo hold and corridors provide shelter for resident species.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 29 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the mastheads at around 14 meters, which are often used as a landmark and orientation point. From here, work down the exterior of the hull toward the sandy bottom at 29 meters. The upright orientation makes it straightforward to navigate the exterior. Divers can enter the cargo hold and move through the corridors — the removal of most doors before sinking allows relatively easy passage through the interior. The eerie creaking of the bow from surge movement is a notable atmospheric feature. Ascend along the exterior back to the mastheads, then complete a 5-meter safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from Cooper Island, Tortola, or Peter Island operators. Entry via giant stride or back roll. Wreck penetration requires proper overhead environment training; do not enter confined spaces without it. Deploy an SMB for boat pickup.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- A dive torch is essential — interior sections are dark and the coral encrustation on walls is colorful up close
+- Maintain good buoyancy to avoid stirring up silt inside the wreck
+- Wreck penetration is possible here but requires proper training and equipment
+- Check for lizardfish on the open sandy sections around the hull
+- The intact windows are a distinctive feature worth photographing
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Maximum depth is nearly 30 meters — plan your dive carefully to stay within recreational limits and no-decompression time. Interior penetration requires proper training. Maintain neutral buoyancy to avoid disturbing silt. Carry an SMB. Dive with a buddy.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The upright orientation of the wreck allows dramatic exterior wide-angle shots framing the full hull profile. The coral and sponge encrustation on interior surfaces rewards macro work. Windows retaining their glass panes are unusual and photogenic. A torch significantly improves color rendition inside.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-04-11
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [BVI Diving – Inganess Bay](https://www.bvidiving.com/diving-wreck-of-the-inganess-bay.html), [BVI Dive Map](https://bvi-dive-map.com/site/inganess-bay/). Last updated 2026-04-11.*

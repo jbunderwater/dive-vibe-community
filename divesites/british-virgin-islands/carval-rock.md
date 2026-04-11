@@ -13,53 +13,53 @@ addedBy: osm_import
 
 ## Carval Rock
 
-Carval Rock is a pinnacle dive site in British Virgin Islands, Caribbean.
+A seldom-visited rocky pinnacle between Cooper and Ginger Islands, densely populated with fish and offering encounters with sharks, barracuda, and amberjacks in open-ocean conditions.
 
 ## Overview
 
-Carval Rock is a dive site in British Virgin Islands offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Carval Rock sits in the channel between Cooper and Ginger Islands, an exposed rocky formation rising from depth with boulders that attract a remarkable concentration of marine life. Because it faces the open ocean and current flows are common, the site draws large pelagics and schooling fish rarely seen at more sheltered locations. It is one of the less frequently dived sites in the BVI, which contributes to the undisturbed character of its marine ecosystem. Visibility typically reaches 60–100 feet, and the underwater topography features walls and boulders covered in vibrant corals and sponges.
 
 ## Site Information
 
-- **Location**: British Virgin Islands, Caribbean
+- **Location**: Between Cooper Island and Ginger Island, BVI
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 27 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 18–30 meters (60–100 feet)
+- **Current**: Variable; can be strong on incoming/outgoing tide
+- **Best Time**: November to May for calmer conditions
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The site is known for schooling sennet and larger pelagics attracted by open-ocean current flows. Reef sharks, barracuda, and mackerel are regularly sighted on the exposed rock face. Moray eels inhabit the boulder crevices, while lobsters shelter beneath ledge overhangs. Amberjacks and groupers patrol the rock perimeter. Spotted drums have been recorded here. Brain corals, sea fans, and tube sponges colonize the rock faces alongside queen angelfish and yellowtail snapper.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 27 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the base of the formation and work around the boulders, staying alert to the open water beyond the rock where pelagics tend to appear. The most productive area for large fish sightings is typically the seaward face where current runs across the structure. Mid-water schools of sennet form around the rock's upper sections in the 10–20 meter range. Lobsters and morays concentrate in the deeper boulder fields at 20–27 meters. The shallower sections around the top of the formation offer good light for photography. Current direction and strength should be checked before diving; surface conditions can deteriorate faster here than at sheltered sites.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by boat only. Entry via giant stride or back roll depending on sea conditions. The site's exposure means conditions should be assessed carefully before descent. Deploy a surface marker buoy (SMB) during the safety stop for pickup, as current may carry divers away from the descent point.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Dive early in the day before afternoon swells build
+- Monitor the open-water side of the rock throughout the dive for pelagic passes
+- The site's infrequent visitation keeps marine life less habituated to divers — approach slowly for best encounters
+- Carry a surface signaling device as drift from the mooring is possible
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+Current is the primary hazard at this site; strength varies with tidal state and can run in unexpected directions. The exposed location means conditions can change quickly. This site is suitable for Advanced divers only. Always dive with a buddy. Carry a surface marker buoy (SMB) and a compass for navigation back to the mooring.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The combination of dense fish aggregations, boulder structures, and open-water pelagics makes Carval Rock a strong wide-angle site. Schooling sennet make excellent subjects when backlit from above. Moray eels and spotted drums in the boulder fields reward macro shooters. Morning light provides the best natural illumination into the deeper sections.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-04-11
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/carval-rock/), [Dive BVI](https://divebvi.com/dive-sites/), [BoatyBall Carvel Rock](https://boatyball.com/dive-sites/carvel_rock/). Last updated 2026-04-11.*

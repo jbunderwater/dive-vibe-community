@@ -13,53 +13,54 @@ addedBy: osm_import
 
 ## Joe's Cave
 
-Joe's Cave is a cave dive site in British Virgin Islands, Caribbean.
+A dramatic boulder and cave dive west of West Dog Island where huge granite formations up to 8 meters high frame a narrow-topped cave that widens at its base — its sponge-draped walls and swarm of glassy sweepers create one of the BVI's most atmospheric dives.
 
 ## Overview
 
-Joe's Cave is a dive site in British Virgin Islands featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Joe's Cave sits west of West Dog Island and south of the Flintstones dive site. The site's defining topography is a cluster of huge boulders — some reaching up to 8 meters (25 ft) in height — resting on a sandy bottom. The main cave entrance is narrow at the top, where ambient light filters down into the blue water creating what bvi-dive-map.com describes as "a very magical view." The cave widens toward its base, allowing easier movement inside. Walls and rock surfaces are covered with colorful corals and sponges. The cave interior is home to a swarm of glassy sweepers that fill the space toward the exit. Maximum depth is around 14 meters (45 ft). Swell at the site can be high, though current is typically low. The site is rated advanced due to the cave environment and swell exposure.
 
 ## Site Information
 
-- **Location**: British Virgin Islands, Caribbean
+- **Location**: West of West Dog Island, south of Flintstones
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 14 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: Good; light penetrates through the narrow cave opening
+- **Current**: Low
+- **Best Time**: Calmer conditions preferred; swell can be high
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+Giant groupers shelter at the base of the boulder formations and around the cave entrance. Lobsters occupy crevices in the rocky structures. Eagle rays cruise the sandy areas surrounding the boulders. Glassy sweepers form a dense swarm inside the cave, particularly toward the back. Colorful corals and sponges coat the cave walls, supporting small invertebrates and fish in the low-light zone.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 14 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-14 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the sandy bottom at around 14 meters and approach the boulder field. Navigate around the base of the large boulders, watching for groupers and lobsters at close range. Locate the cave entrance — narrow at the top, where light creates striking rays into the water — and swim through or into it as far as conditions and comfort allow. The interior widens at the base and the glassy sweepers fill the back portion. Exit the cave and continue exploring the outer boulder formations before ascending. The site's low current makes for a relaxed dive once you are beneath any surface swell.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat. Entry via giant stride or back roll. Swell can be present at the surface; coordinate with the boat crew for safe entry and exit timing. Deploy an SMB before ascending.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- The narrow top of the cave opening is the best spot for sunlight ray photography — morning dives have the strongest light effect
+- Approach the boulder base slowly to give groupers and lobsters time to remain in position rather than retreating
+- The cave widens inside — experienced divers can move comfortably at the base without feeling confined
+- Do not force entry into sections that feel too tight; a cavern-level exploration of the cave entrance is rewarding on its own
+- Swell can be significant at the surface — check conditions with your operator and discuss entry timing
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+Advanced certification is recommended. Do not attempt full cave penetration without proper cave diving certification, a guideline, and redundant lighting. The cave environment restricts direct ascent in the deeper sections — plan the dive with adequate air reserves for a controlled exit. Swell at the surface can complicate boat entry and exit. Always carry an SMB.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The narrow cave opening creates natural light rays when the sun is at the right angle — morning is best. Wide-angle shots framing the silhouetted cave mouth with a diver inside are the signature image of this site. The glassy sweeper swarm inside the cave is a compelling subject in available light. Groupers resting at the boulder base respond well to slow, patient approach.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-04-11
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/joes-cave/). Last updated 2026-04-11.*

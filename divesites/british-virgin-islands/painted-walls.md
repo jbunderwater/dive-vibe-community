@@ -13,55 +13,55 @@ addedBy: osm_import
 
 ## Painted Walls
 
-Painted Walls is a wall dive site in British Virgin Islands, Caribbean.
+Considered the most vivid dive site in the BVI — four gullies and canyon walls blanketed in bold yellow, red, orange, and purple corals near Dead Chest Island.
 
 ## Overview
 
-Painted Walls is a dive site in British Virgin Islands featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Painted Walls lies near Dead Chest Island, forming part of the same dive area as Dead Chest Coral Gardens and Dead Chest Wall. The site earns its name from the extraordinary density and variety of color on its canyon walls — bold yellow, red, orange, and purple encrusting sponges and soft corals cover the rock face from floor to ceiling, giving the impression of a painted canvas. The structure consists of four distinct gullies with canyons, walls, and a narrow cave, all running roughly perpendicular to the island. A large coral reef on the southern ridge shelters abundant small fish and invertebrates. The site is widely described by BVI operators as the most vivid and picturesque dive in the territory. Maximum depth reaches 18 meters, with the most colorful sections in the upper half of the water column.
 
 ## Site Information
 
-- **Location**: British Virgin Islands, Caribbean
+- **Location**: Near Dead Chest Island, between Salt Island and Peter Island, British Virgin Islands
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: Good
+- **Current**: Low
+- **Swell**: Moderate
+- **Best Time**: December to April; accessible most of the year
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Hawksbill turtles are reliably sighted at Painted Walls and appear comfortable around divers at this site. Nurse sharks rest along the base of the gully walls and on sandy pockets at depth. Lobsters, shrimps, and banded coral shrimp inhabit the crevices throughout the canyon system. Green moray eels occupy rock features along the walls. Barracuda and silversides (silverside baitfish schools) appear in open water above the gullies. Tarpons cruise through the site, particularly in the mornings. The southern ridge reef hosts dense populations of small fish including chromis, basslets, and wrasses. The pillar corals anchored on sandy bottoms at depth are a distinctive feature.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-18 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Descend from the mooring onto the top of the southern ridge reef and work into the first gully entrance. The four gullies run from the reef top at 5–8 meters down to approximately 18 meters where the canyon floors meet sandy bottom. Work through each gully in turn, ascending back to the ridge between them. The narrow cave is located in one of the inner gullies — it is an ambient-light cavern that can be viewed from the entrance. The color intensity on the walls is greatest between 8–15 meters where sponge growth is densest. The safety stop can be done on the ridge top in shallow water with good views of the encrusting coral.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access via mooring buoy. The site's moderate swell exposure means it is accessible on most days but can have surge in the gullies during periods of heavy swell. Entry via back roll or giant stride. An SMB for ascent is standard. A dive torch is recommended to illuminate the full range of color in the deeper gully sections.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Bring a torch: the warm colors of the sponges and corals are most vivid with supplemental lighting
+- Work methodically through all four gullies — each is slightly different in character
+- Move slowly in the gullies to observe the small critters in crevices and under overhangs
+- The narrow cave should be viewed from the entrance only; it is not a penetration site
+- This site pairs naturally with Dead Chest Coral Gardens or Dead Chest Wall for a two-tank day
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The canyon structure is not a penetration dive environment — only the narrow cave entrance is involved, and it is explored by looking in from outside. Surge in the gullies can be a factor during heavy swell; stay away from the walls if surge is active to avoid contact with coral. Maintain buoyancy carefully throughout — the gully walls are densely colonized and damage-prone. Carry an SMB for ascent. Hawksbill turtles are protected; do not approach closely or attempt to touch them.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+Painted Walls offers some of the best wide-angle reef photography in the BVI. The canyon walls with bold color blocks of sponges create striking backgrounds for portraits and environmental shots. Hawksbill turtles posing against the colored walls are a classic BVI image. A strobe or video light is almost mandatory to render the sponge colors accurately — ambient light alone makes them appear muted. The gully openings, viewed from below looking up, frame well with blue water above.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-04-11
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/painted-walls/), [Sail Caribbean Divers](https://www.sailcaribbeandivers.com/more-info/dive-sites/). Last updated 2026-04-11.*

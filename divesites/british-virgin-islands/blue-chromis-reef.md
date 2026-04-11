@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Blue Chromis Reef
 
-Blue Chromis Reef is a reef dive site in British Virgin Islands, Caribbean.
+A relaxed sandy-bottomed reef named for the shimmering schools of blue chromis that weave constantly through its sea fans and gorgonians — straightforward navigation and calm conditions make it one of the BVI's best training and confidence-building dives.
 
 ## Overview
 
-Blue Chromis Reef is a dive site in British Virgin Islands offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Blue Chromis Reef sits in the southern BVI and takes its name from the iridescent blue chromis fish that school throughout the site. The bottom is sandy, punctuated by gorgonian fans and sea fan formations, with the reef rising from around 27 meters (90 ft) up to roughly 9 meters (30 ft). The layout is open and uncomplicated — bvi-dive-map.com notes it is "difficult to get lost" here — which makes it a reliable choice for newly certified divers or those wanting a low-stress dive. Conditions are typically calm with low current. Visibility is generally good.
 
 ## Site Information
 
-- **Location**: British Virgin Islands, Caribbean
+- **Location**: Southern BVI
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 27 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Depth Range**: 9–27 meters (30–90 feet)
+- **Typical Visibility**: Good
+- **Current**: Low
+- **Best Time**: Year-round; calmer in summer months
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The site's sandy seafloor hosts quillfin blennies, which perch in small burrows and crevices between the gorgonian branches. Blue chromis are the defining species here, present in dense schools at all depths. Sea fans and gorgonians shelter small invertebrates and shrimp. Occasional stingrays cross the open sandy patches between coral formations.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 27 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend from the boat to the sandy bottom at around 27 meters. Work up through the gorgonian and sea fan zone, observing blennies and chromis at mid-depth. The open, flat topography allows flexible navigation — most divers move across the reef at depth and return along a parallel track, gradually ascending. Finish the dive in the shallower coral zone before a safety stop and boat pickup. The site's forgiving layout makes it well-suited for practicing navigation skills in open water conditions.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat. Entry is typically via giant stride or back roll. Mooring may be available — check with your operator. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- An excellent choice for newly certified divers seeking deeper-water experience in stable, calm conditions
+- Good for training dives — the open sandy bottom and straightforward layout build navigation confidence
+- Carry a small torch to check gorgonian crevices for shrimp and small invertebrates
+- Confirm conditions with your operator beforehand; occasional swells can reach the site
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Current is generally low but can vary with tidal conditions. Always carry an SMB for ascent signaling. Be mindful of boat traffic in the area.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The combination of sandy seafloor, gorgonian fans, and dense chromis schools creates good wide-angle compositions. Macro shooters will find quillfin blennies positioned in coral crevices. Morning light provides the best natural illumination at depth.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-04-11
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/blue-chromis-reef/). Last updated 2026-04-11.*

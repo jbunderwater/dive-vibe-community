@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Blackbeard's
 
-Blackbeard's is a reef dive site in British Virgin Islands, Caribbean.
+A novice-friendly coral reef northeast of Dead Chest Island, where brain, sheet, and star corals share the rocky formations with jawfish, squirrelfish, and barracuda in low-current, calm conditions.
 
 ## Overview
 
-Blackbeard's is a dive site in British Virgin Islands offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Blackbeard's sits northeast of Dead Chest Island, roughly 12 minutes by boat from Spanish Town on Virgin Gorda. The site takes its name from the pirate Edward Teach (Blackbeard), whose legend is woven throughout this stretch of the BVI. The underwater terrain is rocky formations and sandy bottom blanketed in brain, sheet, and star corals with large sea fans and flowing aquatic plants. Conditions here are typically calm — low swell and low current — making it one of the more accessible sites in the area for novice divers and snorkelers. Visibility on the northern side is reported at around 9 meters (30 feet), somewhat reduced compared to other BVI sites, but the fish life more than compensates.
 
 ## Site Information
 
-- **Location**: British Virgin Islands, Caribbean
+- **Location**: Northeast of Dead Chest Island, ~12 minutes by boat from Spanish Town, Virgin Gorda
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: ~9 meters (30 feet) on the northern side
+- **Current**: Low
+- **Swell**: Low
+- **Best Time**: Year-round; calm conditions make this site accessible in most seasons
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The rocky crevices and coral formations host an impressive variety of smaller reef species. Jawfish are a highlight — look for them hovering at the entrance to their burrows in the sandy bottom. Squirrelfish and damselfish are abundant, along with puffer fish, filefish, chub, large snappers, goatfish, and grunts. Barracuda patrol mid-water. Green moray eels and hawksbill turtles are regularly spotted, and nurse sharks rest in the deeper crevices.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 15 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-15 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin at the reef crest and work horizontally through the rocky formations, spending time at the coral heads where the greatest fish density is found. The sandy bottom between formations is worth checking for jawfish activity. Depths are manageable throughout — maximum 15 meters — making this an excellent site for thorough, unhurried exploration. The site rewards patient divers who look closely into every crevice rather than swimming quickly over the top.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from Virgin Gorda or day-trip operators serving the Dead Chest area. Entry via giant stride or back roll. Conditions are typically calm; follow the crew's briefing for descent and ascent procedures. Deploy an SMB during your safety stop for boat pickup.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- This is an ideal site for newer divers — calm conditions and manageable depths
+- Slow down and look into crevices for jawfish, moray eels, and lobsters
+- The sandy patches between coral heads are productive for bottom-dwelling species
+- Snorkelers can enjoy the shallower sections while divers explore deeper
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Conditions are generally mild at this site, but always check local weather before diving. Be aware of fire coral on the formations. Dive within your certification limits. Carry an SMB for boat pickup.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Blackbeard's rewards macro photographers. The fish diversity — jawfish, squirrelfish, filefish — offers countless close-focus subjects in the crevices. The star and brain corals provide attractive framing elements for wide-angle reef compositions.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-04-11
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/blackbeards/). Last updated 2026-04-11.*

@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## Angelfish Reef
 
-Angelfish Reef is a reef dive site in British Virgin Islands, Caribbean.
+A shallow canyon reef southwest of Norman Island with a fascinating maze of ridges and gorgonians, ideal for beginner divers and macro enthusiasts alike.
 
 ## Overview
 
-Angelfish Reef is a dive site in British Virgin Islands offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Angelfish Reef lies southwest of Norman Island in open water exposed to the Caribbean Sea. The site is built around a series of shallow canyons that rise toward the surface, alternating with sandy-bottomed channels thick with colorful gorgonians. The interplay of reef structure and white sand makes this one of the more varied dive profiles in the BVI — not just a wall or a mound, but a genuine labyrinth of ridges, crevices, and openings. The site is exposed to swell but generally sees light current, and visibility is typically excellent in the open water setting.
 
 ## Site Information
 
-- **Location**: British Virgin Islands, Caribbean
+- **Location**: Southwest of Norman Island, British Virgin Islands
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 27 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 20-30 meters
+- **Current**: Low
+- **Swell**: Can be moderate to high (open water exposure)
+- **Best Time**: December to April (dry season, calmest seas)
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The site earns its name from the multiple angelfish species resident here. Other reliably sighted species include yellowhead jawfish (look for them hovering above their burrows on sandy patches), spotted drums, triplefin blennies, seahorses, and jack-knifes. Snake eels and moray eels patrol the sandy channels. Eagle rays and southern stingrays are common visitors, as are sea turtles and lobsters. Nurse sharks rest under ledges in the deeper canyons.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 27 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend onto the reef top and work into the canyon system, which runs roughly parallel formations at depths between 5–27 meters. The shallowest ridges come up close to the surface, making the upper portion excellent for beginners. Sandy corridors between the ridges are productive ground for jawfish and snake eels. The deepest parts of the site sit around 27 meters where the canyons open onto sandy flats. Finish the dive by rising into the shallower ridge tops for a safety stop among the gorgonians.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by dive boat only — there is no shore entry. Entry is via giant stride or back roll. The site is moored; tie to available mooring buoys rather than anchoring. Deploy an SMB during your safety stop for boat pickup. Given the open-water location and swell potential, confirm conditions with the operator before committing.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Bring a torch: the canyon walls and crevices shelter critters that are easy to miss without light
+- Move slowly through the sandy channels — jawfish and seahorses are easily spooked
+- Morning dives typically offer the best visibility before afternoon swell builds
+- The site's exposure means it can be cancelled on rougher days; have an alternative in mind
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+The open-water location makes this site more susceptible to surge and swell than protected sites in the Sir Francis Drake Channel. Monitor conditions throughout the dive. Bring an SMB for ascent — boat traffic in the Norman Island area is active. Fire coral is present on some ridge tops; maintain good buoyancy.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The sandy-bottomed canyons are ideal for macro subjects: jawfish, blennies, seahorses, and drums are all photogenic and reliably present. Wide-angle shots along the gorgonian ridges work well in morning light when the water is clearest. Eagle rays and stingrays on the sandy bottom offer good opportunities for mid-water shots.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-04-11
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/angelfish-reef/), [Last Stop Sports BVI](https://www.laststopsports.com/Dive_sites.htm). Last updated 2026-04-11.*

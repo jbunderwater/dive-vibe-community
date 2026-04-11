@@ -13,53 +13,55 @@ addedBy: osm_import
 
 ## Flintstones
 
-Flintstones is a reef dive site in British Virgin Islands, Caribbean.
+An overlooked boulder dive west of West Dog Island, where underwater formations resembling prehistoric Bedrock create ledge-rich habitat for eagle rays, nurse sharks, gold-spotted eels, and lobsters.
 
 ## Overview
 
-Flintstones is a dive site in British Virgin Islands offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Flintstones lies west of West Dog Island in the Dog Islands group. The site takes its name from the large underwater boulders that gave early divers the impression of Bedrock, the fictional prehistoric city from the cartoon — the jumbled, rounded rock formations stacked on a sandy bottom do have a certain Jurassic quality. The boulders create a maze of ledges, overhangs, and crevices that provide refuge for a wide variety of marine life. The site is consistently described as underappreciated, passed over by divers heading to the Chimney or the Indians, which means encounters here are relatively undisturbed. The Dog Islands overall are a strong dive area, and Flintstones is a worthwhile addition to any two-tank trip in the group.
 
 ## Site Information
 
-- **Location**: British Virgin Islands, Caribbean
+- **Location**: West of West Dog Island, The Dogs group, British Virgin Islands
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: Good
+- **Current**: Low
+- **Swell**: High (exposed position west of West Dog)
+- **Best Time**: Calmer conditions; December to April generally most stable
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The boulder ledges and overhangs are the defining habitat. Nurse sharks rest under larger boulder overhangs — Flintstones is a reliable site for resting nurse shark encounters. Eagle rays patrol the sandy patches between the boulders. Gold-spotted eels (goldentail moray) occupy rock crevices and are a distinctive species less commonly seen at other BVI sites. Snappers and cobias school in the water column. Lobsters are abundant in the deeper crevices. Tube sponges and sea fans cover the upper boulder surfaces, and the sandy bottom supports small invertebrates between coral heads.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend onto the boulder field and work along the contour, keeping the larger boulders to one side. The topography is varied — some boulders are large enough to swim around individually; others cluster into complex passages that reward careful navigation. Maximum depth reaches approximately 20 meters on the sandy floor between the outermost boulders. Shallower sections at 5–12 meters offer dense coral and sponge growth. Check under every significant overhang for nurse sharks and moray eels. The sandy patches at depth are good spots to wait quietly for eagle ray passes.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access only from Virgin Gorda or other Dog Islands operators. The site is exposed to swell from the west; conditions should be verified before diving. Mooring buoys should be used if available. Entry via back roll or giant stride. An SMB is essential for ascent given the offshore location.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Check systematically under boulder overhangs — nurse sharks and goldentail morays are the highlights
+- Swim slowly across sandy patches between boulders and watch for eagle rays approaching from the blue
+- This site is worth diving even without the famous landmarks — it is genuinely good and rarely crowded
+- Combine with the Chimney at Great Dog for a strong two-tank Dog Islands day
+- Bring a torch for the deeper overhangs and crevices
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+The exposed western position means swell can be significant, particularly on winter days with northerly or westerly swells. The boulder maze requires good buoyancy control to avoid disturbing coral and sponge growth on boulder surfaces. Monitor depth carefully — it is easy to follow the terrain deeper than intended. Always carry an SMB for open-water ascent.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The jumbled boulder field offers excellent compositional variety for wide-angle shots — arches between boulders, silhouettes of eagle rays in the blue water column, tube sponges and sea fans in natural light. Nurse sharks under overhangs are classic reef portraits. Gold-spotted eels peering from crevices are a distinctive macro subject. Sandy patches with backlit boulders frame well for medium-range shots.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-04-11
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/flintstones/), [Dive BVI](https://divebvi.com/dive-sites/). Last updated 2026-04-11.*

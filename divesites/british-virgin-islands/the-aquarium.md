@@ -13,54 +13,54 @@ addedBy: osm_import
 
 ## The Aquarium
 
-The Aquarium is a reef dive site in British Virgin Islands, Caribbean.
+Also known as Fischer's Rocks, this shallow beginner site between The Baths and Spanish Town on Virgin Gorda features granite boulders, small caves, pillar coral formations, and a wealth of colorful reef fish in just 9 meters of water.
 
 ## Overview
 
-The Aquarium is a dive site in British Virgin Islands offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Aquarium — also known as Fischer's Rocks — sits in the southwest of Virgin Gorda, between the famous Baths and the town of Spanish Town. The site closely resembles the above-water landscape of The Baths: volcanic granite boulders line the sandy bottom, some rising to within 3 meters of the surface, with small caves, nooks, and caverns creating a labyrinthine structure packed with fish. Pillar and fire corals along with colorful sponges coat the rocks. The shallow maximum depth of 9 meters (30 feet) and low current make this one of the most beginner-friendly sites in the BVI, equally excellent for snorkelers and certified divers alike. Swell can be high here at times — confirm conditions before diving.
 
 ## Site Information
 
-- **Location**: British Virgin Islands, Caribbean
+- **Location**: Southwest Virgin Gorda, between The Baths and Spanish Town
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 9 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: Good
+- **Current**: Low
+- **Swell**: Can be high
+- **Best Time**: Calm conditions; year-round suitable for novices when settled
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The crevices and caves shelter a wide variety of reef fish: chromis, French grunts, angelfish, parrotfish, moorish idols, chubs, snappers, sergeant majors, and blue tangs populate the site in large numbers. More elusive species — moray eels and lobsters — tuck into darker recesses. Stingrays are found on the sandy patches between boulders, and nurse sharks rest under overhangs. The density and variety of fish has earned the site its aquarium reputation.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 9 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-9 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin in the shallower boulder zone and navigate between the granite formations, following the natural channels and caves. The boulders create a maze of passages at various depths within the 9-meter limit. Spend time near the sandy floor between formations to spot stingrays and lobsters. The site is small enough to cover thoroughly in a single dive, rewarding repeated passes for shy species. Complete your safety stop in the open water above the site before pickup.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from Virgin Gorda operators, typically including Dive BVI based in Spanish Town. Entry via giant stride or back roll. The site is close to The Baths and can be combined with a surface visit to the landmark. Deploy an SMB for boat pickup.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Take time to look into every crevice — the boulders shelter many shy species
+- This site is ideal for newer divers and underwater photographers
+- The shallow depth allows extended bottom time for thorough exploration
+- Snorkelers can enjoy much of the site in the shallowest sections
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Fire coral is present on the formations — avoid contact. Low depth minimizes decompression risk but always complete a safety stop. Swell can occasionally complicate entry — confirm conditions with your operator. Carry an SMB. Dive with a buddy.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The Aquarium is an outstanding photography site. The granite boulder formations, cave passages, and dense fish populations offer wide-angle and macro opportunities at every turn. The shallow depth means excellent natural light throughout the dive, and the variety of species means there is always something interesting to frame.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-04-11
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/the-aquarium/), [Aerial BVI Dive Guide](https://aerialbvi.com/blog/bvi-scubadiving-guide/). Last updated 2026-04-11.*

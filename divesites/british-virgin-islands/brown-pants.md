@@ -13,53 +13,59 @@ addedBy: osm_import
 
 ## Brown Pants
 
-Brown Pants is a cave dive site in British Virgin Islands, Caribbean.
+A rugged maze of canyons, grottos, and open caves on the south shore of Norman Island — named after the reaction of early divers who turned a corner and encountered several large bull sharks.
 
 ## Overview
 
-Brown Pants is a dive site in British Virgin Islands featuring underwater cave and cavern formations. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Brown Pants sits on the exposed south side of Norman Island and is one of the wilder, more dramatic dive sites in the BVI. Unlike the calmer, reef-rich sites on Norman Island's northwest coast, Brown Pants is defined by rocky terrain: rugged cliffs descend from the surface into a network of underwater ledges, canyons, and caverns cut through by ridges extending from shore. A large open cave set within one of the canyons is a highlight — inside, encrusting sponges glow in brilliant colors under a dive light.
+
+The site gets its memorable name from the founders of BVI liveaboard diving, Annie and Duncan Muirhead of the vessel Misty Law. On an exploratory dive, they rounded a canyon corner and came face to face with several large bull sharks, prompting a rapid retreat. The name stuck.
+
+The site feels more untamed than other Norman Island dives — less coral, more raw rock — and the open-ocean exposure means conditions are more variable.
 
 ## Site Information
 
-- **Location**: British Virgin Islands, Caribbean
+- **Location**: South shore of Norman Island
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 12 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 20–25 meters on calm days
+- **Current**: Low
+- **Swell**: High — weather-dependent; not recommended in large swell
+- **Best Time**: Calm-weather days; summer typically better than winter
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The cave environment shelters species adapted to low-light conditions, including crustaceans and small fish that seek protection in the overhangs.
+Queen angelfish, black durgon, schools of palmetto, white-spotted filefish, barracuda, stingrays, lobsters, moray eels, and sea turtles have all been observed here. Eagle rays make occasional passes in the open water between canyons. The cave interior shelters lobsters and crabs; look carefully at sponge-encrusted surfaces with your torch for smaller invertebrates. The site's proximity to open ocean means pelagic encounters are possible — bull sharks have been reported historically, though encounters are not common.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 12 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-12 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter from the mooring and work along the south-facing rock face. Explore the ridges and the gaps between them, which form narrow canyon corridors. Depths range from 3–12 meters throughout; the terrain is complex, so orient yourself relative to the cliff face above. The open cave is located within one of the deeper canyons — enter carefully, illuminate the walls with a dive light, and do not go beyond the daylight zone without proper training. The site rewards thorough, patient exploration.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access from Norman Island anchorage or Road Town. The south exposure means swell can make entry and exit difficult — listen carefully to the operator's briefing on conditions. Entry is typically by giant stride or back roll. Do not attempt the site if swell is significant; conditions can deteriorate quickly on this exposed coast.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Bring a dive light — the cave interior's encrusting sponges are dramatically different with artificial light
+- Check swell forecasts before planning this site; it should only be dived in calm conditions
+- Stay close to the reef and canyon walls to navigate the maze effectively
+- This is not a site for casual penetration of the cave — go in only as far as natural light penetrates unless properly trained and equipped
+- Experienced divers will appreciate the more wild character compared to Norman Island's other sites
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+The south-facing exposure creates surge and swell risk that does not affect calmer BVI sites. Conditions can deteriorate during the dive if weather changes. Do not enter the cave beyond the daylight zone without appropriate training and equipment. Penetration diving requires proper certification, redundant air sources, and a guideline. Always dive with a buddy and carry an SMB.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Wide-angle for the canyon approach shots and the cave mouth. Inside the cave, a strobe or strong dive light is essential — the encrusting sponges are the primary subject. The contrast of dark cave interiors against blue-lit canyon exits makes for dramatic compositions. Turtle and eagle ray encounters in open water require a larger field of view.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-04-11
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/brown-pants/), [BVI Diving](https://www.bvidiving.com/diving-brown-pants.html). Last updated 2026-04-11.*

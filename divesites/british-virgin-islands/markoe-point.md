@@ -13,53 +13,55 @@ addedBy: osm_import
 
 ## Markoe Point
 
-Markoe Point is a reef dive site in British Virgin Islands, Caribbean.
+A quiet, uncrowded reef south of Cooper Island with a v-groove wall section dropping to 20 meters, ideal for photographers seeking diverse reef fish and unhurried conditions.
 
 ## Overview
 
-Markoe Point is a dive site in British Virgin Islands offering rewarding diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Markoe Point sits on the south side of Cooper Island, facing the open water south of the Sir Francis Drake Channel. The site is characterized by small rocky formations, flowing underwater plants responding to gentle current, and sandy patches — a scenic, varied bottom that supports a strong and diverse reef fish community. The coastline at Markoe Point drops vertically in a distinctive v-shaped groove section, creating an overhung ledge along part of the dive route. The site is notably uncrowded compared to other Cooper Island dives: most dive groups favor the more famous Wreck Alley or Dead Chest sites, which leaves Markoe Point reliably quiet. BVI dive operators consistently recommend it as a strong photography site.
 
 ## Site Information
 
-- **Location**: British Virgin Islands, Caribbean
+- **Location**: South of Cooper Island, British Virgin Islands
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: Good
+- **Current**: Low
+- **Swell**: High (south-facing, exposed)
+- **Best Time**: Calmer conditions; best on days with no southerly swell
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+Markoe Point supports a notably diverse reef fish community. Black durgons (triggerfish) are particularly associated with this site. Snappers, jacks, grunts, and blackbar soldierfish populate the rocky formations. Groupers occupy deeper reef sections. Mackerels, pompanos, and spadefish school in the water column alongside larger barracuda. Carangids patrol the deeper sandy areas. Lobsters are found in crevices throughout the reef. The flowing underwater plants and mixed rocky-sandy habitat create conditions that attract a range of species not commonly seen at coral-dominant sites.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Descend to the reef and follow the southern edge of Cooper Island's base, keeping the island to the north. The v-groove section drops vertically to around 20 meters with an overhung lip — this is the deepest and most structurally interesting part of the dive. Work back shallower into the rocky formation zone at 10–15 meters, where the reef fish density is highest. The sandy patches between rocky formations are productive areas for flatfish and lobsters. The site's calm, low-current nature allows a slow, systematic approach. End the dive on the shallower rocky platforms for the safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access only. The south-facing exposure means southerly or trade-wind-generated swell can make the site uncomfortable or undiveable; operators will have local knowledge of threshold conditions. Entry via back roll or giant stride. An SMB is standard for ascent.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Bring an underwater camera — this site is specifically recommended for photography by local operators
+- Look for black durgons on the rocky outcrops; they are a distinctive and photogenic species
+- The uncrowded conditions here mean wildlife is less disturbed; move slowly and give fish time to return
+- Pair with Devil's Kitchen or Cistern Point for a strong Cooper Island two-tank
+- The varied bottom (rock, sand, plants) repays a wide-field search pattern rather than following a single contour
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+The south-facing exposure is the primary environmental factor to check: conditions can deteriorate with southerly swell. The advanced rating reflects the exposure and depth rather than inherent complexity. Standard precautions apply: dive with a buddy, carry an SMB, and monitor air supply. The overhung v-groove section should not be penetrated.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Markoe Point is well-suited to reef fish portraiture: the relatively undisturbed conditions mean fish approach closer than at busier sites. Black durgons, groupers, and snappers are reliable portrait subjects. The v-groove section offers structural wide-angle shots. Sandy patches with underwater plants blowing in gentle current produce natural-looking habitat images. Macro subjects (lobsters, invertebrates in crevices) are abundant throughout.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-04-11
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/markoe-point/), [Dive BVI](https://divebvi.com/dive-sites/). Last updated 2026-04-11.*

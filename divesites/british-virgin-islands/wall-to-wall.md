@@ -13,55 +13,54 @@ addedBy: osm_import
 
 ## Wall to Wall
 
-Wall to Wall is a wall dive site in British Virgin Islands, Caribbean.
+A novice-friendly wall on the southwest tip of West Dog island in The Dogs group, where dense schools of fish pack the ledges and overhangs so thickly the site earned its name — sometimes it's just wall to wall with fish.
 
 ## Overview
 
-Wall to Wall is a dive site in British Virgin Islands featuring a dramatic vertical wall that drops into the deep blue. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Wall to Wall sits on the southwest corner of West Dog, the closest point of that island to Scrub Island. The site is located immediately next to Joe's Cave, making the two sites natural companions on a day trip to The Dogs. The dive is named for the sheer density of fish life that accumulates in the ledges and overhangs: at times the abundance is literally wall to wall. The mooring sits above a sand patch surrounded by ledges and overhangs, with a canyon of boulders and undercut ledges at around 13 meters (45 feet) where the largest fish schools congregate. The healthy corals here benefit from protection against winter north swells by the island's position, making the site one of the more reliably diveable spots in The Dogs group. The low current and calm conditions make it suitable for beginner divers.
 
 ## Site Information
 
-- **Location**: British Virgin Islands, Caribbean
+- **Location**: Southwest tip of West Dog island, The Dogs group; closest point to Scrub Island
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Maximum Depth**: 25 meters (65 feet at the deepest canyon section)
+- **Typical Visibility**: Good
+- **Current**: Low
+- **Swell**: Low (protected by island)
+- **Best Time**: Year-round; summer most reliable
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters. The wall structure creates a vertical ecosystem with different species at varying depths, often with pelagic visitors in the blue water beyond the wall.
+Schools of porkfish, blue-striped grunts, squirrelfish, bigeyes, and sergeant majors pack the ledges and overhangs. Spotted rock lobster are found in the sand patches under the mooring alongside juvenile angelfish and lacy crinoids. A sleeping nurse shark or octopus are not uncommon finds in the crevices. The fish abundance gives the site its name — on productive days the schools are dense enough to fill every visible space.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-25 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Begin at the mooring's sand patch, exploring the coral and rock recesses at the shallower sections first. Then head southwest down the slope to the canyon at approximately 13 meters, where boulders and undercut ledges create overhangs packed with the largest fish schools. The deepest accessible section is around 20 meters; keep an eye on depth as the wall drops further. Work back up through the canyon and spend time in the overhangs before ascending for a 5-meter safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from Tortola or Virgin Gorda operators. The site has a mooring buoy. Entry via giant stride or back roll. Low swell and low current make entry and exit generally straightforward. Deploy an SMB for safety stop and boat pickup.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- This site pairs well with Joe's Cave next door — many operators run them back-to-back
+- Look carefully in the sand patches beneath the mooring for lobster, juvenile angelfish, and crinoids
+- Check crevices and overhangs for sleeping nurse sharks and octopus
+- The canyon at around 13 meters has the densest fish aggregations — give yourself time there
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Low current and swell make this a generally safe site for novice divers. Monitor depth carefully in the canyon section — the wall continues deeper. Fire coral may be present on some formations. Carry an SMB. Dive with a buddy.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+The fish density makes Wall to Wall an excellent wide-angle photography site — a single frame of the canyon overhang can contain hundreds of fish. The sand patch offers clean backgrounds for macro work on lobster and crinoids. Natural light is good throughout at shallow depths.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-04-11
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/wall-to-wall/), [BVI Diving – Wall to Wall](https://www.bvidiving.com/diving-wall-to-wall-bvi.html). Last updated 2026-04-11.*

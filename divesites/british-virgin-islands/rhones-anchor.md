@@ -13,55 +13,57 @@ addedBy: osm_import
 
 ## Rhone's Anchor
 
-Rhone's Anchor is a historic wreck dive in British Virgin Islands, Caribbean.
+The 3,000-pound bower anchor of the RMS Rhone, lost on October 29, 1867 when the anchor line wrapped around a coral head during a hurricane and could not be raised — still encrusted in coral 150 years later.
 
 ## Overview
 
-Rhone's Anchor is a dive site in British Virgin Islands featuring the wreck of the Rhone's Anchor. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+Between Fearless and Randy's Reef in the Sir Francis Drake Channel, Rhone's Anchor marks a pivotal moment in one of the Caribbean's most famous maritime tragedies. On October 29, 1867, the RMS Rhone and the RMS Conway were sheltering at Great Harbour on Peter Island, taking on coal. When hurricane signals were spotted, the Rhone's captain ordered the anchor raised to run for open sea. The anchor chain had become wrapped around a coral head during the storm, and the heavy bower anchor could not be freed. The captain cut the chain and fled — but the Rhone was caught by the hurricane and sank off Salt Island, killing most aboard.
+
+The anchor itself — approximately 3,000 pounds of iron — dropped to the sandy bottom where it remains today, wrapped around the same coral head and now extensively encrusted in colorful coral growth. Unlike the main Rhone wreck, which is managed as a Marine Park, this anchor lies in the broader Sir Francis Drake Channel without the same level of visitor traffic.
 
 ## Site Information
 
-- **Location**: British Virgin Islands, Caribbean
+- **Location**: Between Fearless and Randy's Reef, Sir Francis Drake Channel
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: 20–25 meters
+- **Current**: Low
+- **Swell**: High (exposed location — weather-dependent)
+- **Best Time**: Calm conditions; morning dives preferred
 
 ## Marine Life
 
-Divers at this site can expect to encounter groupers, snappers, soldierfish, glassy sweepers, coral growth, sponge encrustation, sea turtles (green, hawksbill), southern stingrays. Additional species commonly sighted include eagle rays, nurse sharks, reef sharks, barracuda. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
+The anchor and its surrounding sandy floor support a coral-encrusted habitat. Blennies, ballan wrasses, and damselfish are commonly observed around the coral-covered anchor structure. The northern section of the site has better visibility and concentrates most fish activity. The sandy floor around the anchor hosts small invertebrates, and the coral-encrusted chain itself shelters a variety of small reef organisms. Occasional turtles and barracuda pass through in the open water.
 
 ## Dive Profile
 
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
+Descend to the sandy floor and approach the anchor from the north for the best visibility and greatest fish activity. The anchor lies on its side, chain still partially wrapped around the coral structure as it was in 1867. Depths at the anchor are moderate — explore the immediate area before working the reef sections north toward the greatest marine life concentration. Plan your profile to allow adequate time at the anchor before beginning ascent with air for a 5-meter safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access. The site has high swell exposure — assess conditions carefully before diving. Entry by giant stride or back roll. The exposed location means surface conditions can change; brief your buddy on SMB deployment and surface pickup procedure before entering.
 
 ## Tips and Recommendations
 
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
+- Bring a dive torch to illuminate the coral-encrusted anchor surface and reveal encrusting life detail
+- Combine this with a dive at Randy's Reef or Fearless for a full day in the area
+- The northern section has the best fish concentrations — spend time there if bottom time allows
+- The historical context makes this a meaningful dive; knowing the anchor's story before you descend enriches the experience
+- The main RMS Rhone wreck is the deeper, more comprehensive Rhone dive — this site offers an accessible complement
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. This site is recommended for experienced divers only. Always dive with a buddy and carry a safety sausage (SMB).
+The exposed position in the Drake Channel means swell can run. Dive only in appropriate conditions. The site is rated Advanced due to the open-ocean exposure and depth — not due to site complexity. Always carry an SMB and deploy it on ascent. Dive with a buddy and communicate your air turn-around pressure before descending.
 
 ## Photography
 
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+The anchor itself is the primary subject — wide-angle with a torch or strobe to illuminate the coral encrustation. Detail shots of the chain's coral growth and resident blennies reward macro work. The scale of the anchor relative to a diver makes for a compelling wide-angle composition. Morning light from the east can provide nice ambient conditions.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-04-11
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/rhones-anchor/), [RMS Rhone Wikipedia](https://en.wikipedia.org/wiki/RMS_Rhone). Last updated 2026-04-11.*

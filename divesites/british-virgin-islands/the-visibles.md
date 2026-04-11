@@ -13,54 +13,55 @@ addedBy: osm_import
 
 ## The Visibles
 
-The Visibles is a pinnacle dive site in British Virgin Islands, Caribbean.
+A massive pinnacle on the southwestern edge of the BVI, embroidered with corals, sea fans, and hydroids — best in summer when strong currents and rough weather subside.
 
 ## Overview
 
-The Visibles is a dive site in British Virgin Islands offering excellent diving on healthy coral reef structures. Located in the Caribbean region, this site offers 20-40 meters of visibility with water temperatures averaging 26-29°C.
+The Visibles sits on the southwestern side of the British Virgin Islands, roughly 12 minutes by boat from Spanish Town on Virgin Gorda. The site is named for the rocky outcrops that break the surface, marking a submerged pinnacle system below. The formation drops through caves, canyons, ledges, and huge boulders to a sandy floor, creating layered habitat for an exceptional range of fish life. Visibility is typically excellent, and the lack of strong current at the site (despite the exposed setting) makes it accessible to novice divers when conditions cooperate. The recommended season is summer; wintertime swells can make the site challenging or inaccessible.
 
 ## Site Information
 
-- **Location**: British Virgin Islands, Caribbean
+- **Location**: Southwestern BVI, approximately 12 minutes by boat from Spanish Town, Virgin Gorda
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: Near-excellent; best in calm summer conditions
+- **Current**: Low
+- **Swell**: High (seasonally)
+- **Best Time**: Summer months
 
 ## Marine Life
 
-Divers at this site can expect to encounter sea turtles (green, hawksbill), southern stingrays, eagle rays, nurse sharks, reef sharks, barracuda, parrotfish, angelfish. Additional species commonly sighted include blue tangs, trumpetfish, moray eels, lobsters.
+The pinnacle's layered terrain supports an exceptional variety of fish. Schools of glassy sweepers and tomtates shelter in the caves and overhangs, alongside blue-striped grunts, large snappers, angelfish, high hats, breams, corvals, and squirrelfish. Horse-eye jacks and African pompano cruise the open water around the structure, and tarpons are frequently seen. Permits, spadefish, and barracuda patrol mid-water, while sea turtles and eagle rays visit from the blue. Reef sharks — and occasionally nurse sharks — are sighted at this site.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin at the surface marks and descend to the top of the pinnacle, where the reef crest is covered in sea fans, hydroids, and flowing underwater plants. Work down through the caves and canyons where glassy sweepers pack tightly into overhangs. The boulders and ledges are worth exploring closely for jawfish, lobsters, and resting turtles. The sandy bottom provides a natural turnaround point before ascending back up through the pinnacle's upper structure. Keep an eye into the blue water for passing rays and sharks.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access is by dive boat from Virgin Gorda or day-trip operators. Entry is via giant stride or back roll from the boat. Deploy an SMB during your safety stop at 5 meters for boat pickup.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Visit in summer for the most reliable conditions — wintertime swells can make the site rough or unsafe
+- This site is productive for underwater photographers due to the sheer variety of fish species and coral coverage
+- Keep an eye into open water off the pinnacle for eagle rays, tarpons, and sharks
+- Explore the caves and crevices carefully — glassy sweepers, high hats, and lobsters congregate here
+- The upper pinnacle structure is the most fish-dense section; work it slowly
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+This site is exposed and best dived in settled summer weather. Dive within your certification limits. Always carry a surface marker buoy (SMB) — conditions can change and boat pickup is essential at this offshore location. Dive with a buddy.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The Visibles is one of the BVI's premier photography sites. The sheer density of fish life — stacked sweepers in cave mouths, parrotfish on coral heads, rays gliding past the pinnacle — offers wide-angle subjects at every depth. The coral and sea fan encrustation on the upper pinnacle rewards close-focus shooting as well.
 
 ## Additional Resources
 
 - **Last Updated**: 2026-04-11
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [BVI Dive Map](https://bvi-dive-map.com/site/the-visibles/). Last updated 2026-04-11.*
