@@ -1,0 +1,2298 @@
+[
+  {
+    "name": "ALMOG B",
+    "lat": 29.509708,
+    "lon": 34.922121,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "ARDAG",
+    "lat": 29.553445,
+    "lon": 34.970301,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "BRIDGE N",
+    "lat": 29.495246,
+    "lon": 34.907867,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "BUOY 2",
+    "lat": 29.537421,
+    "lon": 34.945364,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "BUOY 4",
+    "lat": 29.541283,
+    "lon": 34.948805,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "CORALSEA",
+    "lat": 29.515699,
+    "lon": 34.924405,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "DAGSUF",
+    "lat": 29.544588,
+    "lon": 34.97346,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "DOLPHIN",
+    "lat": 29.526975,
+    "lon": 34.935478,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "FishHaven (Pyramid??)",
+    "lat": 29.54391,
+    "lon": 34.956436,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Japanese Gardens",
+    "lat": 29.505683,
+    "lon": 34.91912,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "LightHouse",
+    "lat": 29.499155,
+    "lon": 34.914093,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Pier 1",
+    "lat": 29.548023,
+    "lon": 34.953687,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Pier/Jetty (Pantoon)",
+    "lat": 29.547772,
+    "lon": 34.961371,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "PINILEK",
+    "lat": 29.553867,
+    "lon": 34.945754,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "PORT",
+    "lat": 29.534324,
+    "lon": 34.940795,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "BRDGE",
+    "lat": 29.553158,
+    "lon": 34.962858,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "אילת - סאן בואט ורכבים אמפיביים",
+    "lat": 29.5432268,
+    "lon": 34.968307,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "ספינת הזכוכית‎",
+    "lat": 29.5140418,
+    "lon": 34.9303394,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "אילת - עתליה - ספינת הזכוכית‎",
+    "lat": 29.5189671,
+    "lon": 34.9386951,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "אילת - אופירה‎",
+    "lat": 29.5022267,
+    "lon": 34.9251435,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "BUOY",
+    "lat": 32.795391,
+    "lon": 34.935322,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "BUOY1",
+    "lat": 32.03167,
+    "lon": 34.606419,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "CAVE",
+    "lat": 33.042412,
+    "lon": 35.098755,
+    "depth": null,
+    "site_type": "cave",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "CHANNEL",
+    "lat": 32.679832,
+    "lon": 34.926535,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Dangerous Rock",
+    "lat": 32.284012,
+    "lon": 34.832153,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "EXPLOSIVES",
+    "lat": 31.858098,
+    "lon": 34.361174,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "HFSHKET",
+    "lat": 32.833374,
+    "lon": 34.987371,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Lookout near pole#8",
+    "lat": 33.083084,
+    "lon": 35.106498,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "MARI-B",
+    "lat": 31.734009,
+    "lon": 34.29451,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "MarineFarm",
+    "lat": 32.412415,
+    "lon": 34.844513,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "MvHatzvi",
+    "lat": 32.120247,
+    "lon": 34.685726,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "PUTSKER",
+    "lat": 33.012902,
+    "lon": 35.089919,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Sparta Canyon",
+    "lat": 32.85237,
+    "lon": 34.95456,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "VAL TAL",
+    "lat": 32.83115,
+    "lon": 34.969365,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Water Line Shikmona",
+    "lat": 32.825776,
+    "lon": 34.955824,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "WRECK",
+    "lat": 33.040352,
+    "lon": 35.077457,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck 3",
+    "lat": 32.834315,
+    "lon": 35.02892,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck -20.0m",
+    "lat": 32.858348,
+    "lon": 35.021152,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck -27.0m",
+    "lat": 31.833315,
+    "lon": 34.599981,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck 1",
+    "lat": 33.000183,
+    "lon": 34.917641,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck 10",
+    "lat": 31.666975,
+    "lon": 34.507713,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck 11",
+    "lat": 32.675571,
+    "lon": 34.831638,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck 12",
+    "lat": 32.267532,
+    "lon": 34.744949,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck 13",
+    "lat": 31.696672,
+    "lon": 34.533677,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck 14",
+    "lat": 31.847649,
+    "lon": 34.639635,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck 1a",
+    "lat": 32.697933,
+    "lon": 34.916231,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck 2",
+    "lat": 32.881351,
+    "lon": 35.012183,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck 2a",
+    "lat": 32.819722,
+    "lon": 34.935556,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck 4",
+    "lat": 32.695313,
+    "lon": 34.924507,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck 5",
+    "lat": 32.104111,
+    "lon": 34.623413,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck 6",
+    "lat": 32.652054,
+    "lon": 34.838848,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck 7",
+    "lat": 32.444344,
+    "lon": 34.714737,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck 8",
+    "lat": 32.33963,
+    "lon": 34.73671,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck 9",
+    "lat": 31.716671,
+    "lon": 34.529815,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck Annette",
+    "lat": 31.832222,
+    "lon": 34.633056,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck Antilean \"Rocky\"",
+    "lat": 31.802383,
+    "lon": 34.629483,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck Arlozorov",
+    "lat": 32.836976,
+    "lon": 34.981799,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck coastal",
+    "lat": 31.948917,
+    "lon": 34.699722,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck Dovra Gdola",
+    "lat": 32.797623,
+    "lon": 34.926739,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck Dovra unk",
+    "lat": 32.826056,
+    "lon": 34.940611,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck EXPOSED",
+    "lat": 31.515141,
+    "lon": 34.423943,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck German Wreck",
+    "lat": 32.631667,
+    "lon": 34.916389,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck Jaffo",
+    "lat": 32.061417,
+    "lon": 34.728889,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck Kidon",
+    "lat": 33.004028,
+    "lon": 35.048417,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck l. dovra",
+    "lat": 32.817778,
+    "lon": 34.901667,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck Leonid",
+    "lat": 32.869752,
+    "lon": 34.954043,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck Luna",
+    "lat": 32.800139,
+    "lon": 34.88425,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck Maapilim",
+    "lat": 32.812778,
+    "lon": 34.899167,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck Mema_SS",
+    "lat": 32.607222,
+    "lon": 34.891667,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck mizdakeret",
+    "lat": 32.811944,
+    "lon": 34.8875,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck Naharia",
+    "lat": 33.012278,
+    "lon": 35.073333,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck OBSTN",
+    "lat": 33.04533,
+    "lon": 35.025272,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck OBSTN1",
+    "lat": 33.008938,
+    "lon": 35.008965,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck OBSTN11",
+    "lat": 32.674713,
+    "lon": 34.862881,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck OBSTN2",
+    "lat": 32.992802,
+    "lon": 34.948368,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck OBSTN3",
+    "lat": 32.954865,
+    "lon": 35.025616,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck OBSTN4",
+    "lat": 32.925167,
+    "lon": 34.948196,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck OBSTN6",
+    "lat": 32.804146,
+    "lon": 34.890347,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck OBSTN7",
+    "lat": 32.14325,
+    "lon": 34.684868,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck OBSTN8",
+    "lat": 32.125053,
+    "lon": 34.705467,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck OBSTRUCTIO",
+    "lat": 31.509476,
+    "lon": 34.380341,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck Obstruction",
+    "lat": 31.843615,
+    "lon": 34.633069,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck Obstruction -26.0m",
+    "lat": 31.466904,
+    "lon": 34.330215,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck Obstruction -49.0m",
+    "lat": 31.478577,
+    "lon": 34.216232,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck Obstruction-23.5m",
+    "lat": 31.834989,
+    "lon": 34.628606,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck Obstruction-26.0m (2)",
+    "lat": 32.443829,
+    "lon": 34.852924,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck Obstruction-39.0m",
+    "lat": 32.408981,
+    "lon": 34.82872,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck Obstruction-44.0m",
+    "lat": 31.411972,
+    "lon": 34.121475,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck Obstruction-45.0m",
+    "lat": 32.202301,
+    "lon": 34.719543,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck Obstruction-49.0m (2)",
+    "lat": 32.194061,
+    "lon": 34.708557,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck Obstruction-51.0m",
+    "lat": 32.334137,
+    "lon": 34.751129,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck Obstruction-53.0m",
+    "lat": 32.552834,
+    "lon": 34.838848,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck Obstruction1-51.0m",
+    "lat": 32.557812,
+    "lon": 34.858074,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck Scire",
+    "lat": 32.91152,
+    "lon": 34.970641,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck SDG",
+    "lat": 32.953833,
+    "lon": 34.950889,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck Turkish",
+    "lat": 32.841139,
+    "lon": 34.974203,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck Zehava 3 bears",
+    "lat": 31.710889,
+    "lon": 34.504083,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck-30.0m",
+    "lat": 32.017422,
+    "lon": 34.654999,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wrecl ExposedWreck",
+    "lat": 31.901078,
+    "lon": 34.683366,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "עמוד 5‎",
+    "lat": 33.0883552,
+    "lon": 35.1056875,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "ספינת הקיטור האיטלקית‎‎",
+    "lat": 32.8415159,
+    "lon": 34.9456719,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "שונית עכו",
+    "lat": 32.9257736,
+    "lon": 35.0662186,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "אי הזבובים‎",
+    "lat": 32.9188859,
+    "lon": 35.0731511,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "ריף שקמונה",
+    "lat": 32.8308608,
+    "lon": 34.9507849,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "חדרה - כרישים",
+    "lat": 32.4657547,
+    "lon": 34.8829914,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "מפרץ נחשולים",
+    "lat": 32.6111024,
+    "lon": 34.914722,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "קיסריה אי דרומי",
+    "lat": 32.5078735,
+    "lon": 34.8909473,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "קיסריה - עוגנים",
+    "lat": 32.5031816,
+    "lon": 34.887498,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "קיסריה דרום ‎",
+    "lat": 32.4972569,
+    "lon": 34.8886032,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "שדות ים - הגרנד קניון",
+    "lat": 32.4910945,
+    "lon": 34.8862434,
+    "depth": null,
+    "site_type": "cave",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "ספינת הדיג נץ (אלישבע)",
+    "lat": 32.6500267,
+    "lon": 34.9255151,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "המערה הכחולה",
+    "lat": 32.645417,
+    "lon": 34.9222263,
+    "depth": null,
+    "site_type": "cave",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "מכמורת הריף הקרוב",
+    "lat": 32.413946,
+    "lon": 34.8684098,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "מכמורת הריף הרחוק",
+    "lat": 32.4183904,
+    "lon": 34.8639008,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "SS Hilda",
+    "lat": 32.2161919,
+    "lon": 34.8139497,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "אפולוניה",
+    "lat": 32.1950291,
+    "lon": 34.8046825,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "סידנא עלי",
+    "lat": 32.1887825,
+    "lon": 34.8022041,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "תל אביב - ריף גורדון‎",
+    "lat": 32.086374,
+    "lon": 34.762909,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "ריף ציפור",
+    "lat": 32.093191,
+    "lon": 34.765205,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "תל אביב -צינור רידיג‎",
+    "lat": 32.111078,
+    "lon": 34.771557,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "מערת הצמיגים",
+    "lat": 32.0406885,
+    "lon": 34.7428586,
+    "depth": null,
+    "site_type": "cave",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "חוף הסלע",
+    "lat": 32.0232891,
+    "lon": 34.7368807,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "הדוברה בפלמחים",
+    "lat": 31.9310928,
+    "lon": 34.6960598,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "פלמחים - הרוקי",
+    "lat": 31.9242614,
+    "lon": 34.6909471,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "אשדוד - הדיונונים",
+    "lat": 31.7932165,
+    "lon": 34.6259998,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "הנקרות ‎‎",
+    "lat": 33.093124,
+    "lon": 35.103797,
+    "depth": null,
+    "site_type": "cave",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "קניון אכזיב",
+    "lat": 33.0690873,
+    "lon": 35.0933259,
+    "depth": null,
+    "site_type": "cave",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "המרכב",
+    "lat": 33.0396078,
+    "lon": 35.0852465,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "סטי\"ל אח\"י כידון ‎‎",
+    "lat": 33.003049,
+    "lon": 35.058403,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "הגוררת איתנה‎",
+    "lat": 33.047378,
+    "lon": 35.085697,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "המנוף בפולג‎‎",
+    "lat": 32.2745167,
+    "lon": 34.8032833,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "ספינת גלעוז‎",
+    "lat": 32.1777222,
+    "lon": 34.7778889,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "ריף המערה",
+    "lat": 32.1748491,
+    "lon": 34.7913388,
+    "depth": null,
+    "site_type": "cave",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "ספינה טבועה גלרם",
+    "lat": 31.8012761,
+    "lon": 34.5956264,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "סלע טבעי 1",
+    "lat": 31.69645,
+    "lon": 34.5415441,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "הענבר",
+    "lat": 31.6890738,
+    "lon": 34.5364801,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "אשקלון - העוגנים",
+    "lat": 31.6938209,
+    "lon": 34.555792,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "סלע טבעי 2",
+    "lat": 31.6906075,
+    "lon": 34.5256655,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "The \"Corvette\"",
+    "lat": 32.774141,
+    "lon": 34.861164,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "SADAG",
+    "lat": 32.108169,
+    "lon": 34.62822,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "קול השלום",
+    "lat": 31.968474,
+    "lon": 34.554749,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "דוברה הפוכה",
+    "lat": 31.795306,
+    "lon": 34.579124,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "IDx51",
+    "lat": 32.196678,
+    "lon": 34.72847,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "אתר התחמושת",
+    "lat": 32.126779,
+    "lon": 34.757309,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "ברייר",
+    "lat": 32.102644,
+    "lon": 34.750443,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "צינור הגז",
+    "lat": 32.092755,
+    "lon": 34.745121,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "התעלה / הצלקת",
+    "lat": 32.855509,
+    "lon": 34.944592,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "IDx50",
+    "lat": 32.206701,
+    "lon": 34.728642,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Sahir",
+    "lat": 32.23894,
+    "lon": 34.771729,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "גלרם‎",
+    "lat": 31.801725,
+    "lon": 34.601784,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Cemal Ocan",
+    "lat": 32.010114,
+    "lon": 34.658089,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "IDx11",
+    "lat": 32.673483,
+    "lon": 34.819794,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Foca",
+    "lat": 32.83027,
+    "lon": 34.814301,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "צוללת U372",
+    "lat": 32.472695,
+    "lon": 34.63028,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Electro Dag",
+    "lat": 32.152217,
+    "lon": 34.700489,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "NIKOLAOS K",
+    "lat": 32.069774,
+    "lon": 34.491577,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "אשקלון 5",
+    "lat": 31.8264722,
+    "lon": 34.5768333,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "הדרג'ר",
+    "lat": 32.092173,
+    "lon": 34.758854,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "אלטלנה Altalena‎",
+    "lat": 32.194209,
+    "lon": 34.329529,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "דרג'ר",
+    "lat": 32.877713,
+    "lon": 34.93412,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "צוללת U559",
+    "lat": 32.314991,
+    "lon": 33.200684,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "צוללת U97",
+    "lat": 33.123751,
+    "lon": 33.667603,
+    "depth": null,
+    "site_type": "wreck",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "אמיר פארוק",
+    "lat": 31.591404,
+    "lon": 34.324036,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "לאוניד",
+    "lat": 32.871946,
+    "lon": 34.961586,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  }
+]

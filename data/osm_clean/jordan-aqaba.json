@@ -169,5 +169,89 @@
       "validated": "true",
       "validation_source": "perplexity"
     }
+  },
+  {
+    "name": "The Gardens",
+    "lat": 29.3996183,
+    "lon": 34.9661243,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "First Bay",
+    "lat": 29.4439235,
+    "lon": 34.9687958,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Blue Coral",
+    "lat": 29.4116941,
+    "lon": 34.977057,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Kiwi reef",
+    "lat": 29.4065724,
+    "lon": 34.9758983,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Cazar reef",
+    "lat": 29.4485576,
+    "lon": 34.9693322,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Saudi border",
+    "lat": 29.3607735,
+    "lon": 34.9647188,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
   }
 ]

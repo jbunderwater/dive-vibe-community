@@ -1,3 +1,7 @@
+## Community Contributions
+
+- **Jaibar** ([GitHub Issue #52](https://github.com/jbunderwater/dive-vibe-community/issues/52)): 396 dive sites across Bahamas, Jordan-Aqaba, Red Sea, and Israel. Site coordinates sourced from personal GPS waypoints (Locus Map) and wannadive.net (geographic coordinates only — factual data).
+
 ## OpenStreetMap Attribution Requirements
 
 This project contains data derived from OpenStreetMap.

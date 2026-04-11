@@ -263,5 +263,173 @@
       "source": "curated",
       "addedBy": "gap_fill"
     }
+  },
+  {
+    "name": "Jeep Reef",
+    "lat": 24.3704069,
+    "lon": -76.6184592,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Amberjack Reef",
+    "lat": 24.4079488,
+    "lon": -76.6494548,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Connected dott",
+    "lat": 23.584598,
+    "lon": -75.8545017,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "The Cutt",
+    "lat": 26.7456104,
+    "lon": -77.8710938,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Seabass",
+    "lat": 23.6580471,
+    "lon": -75.9427357,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Normans Key Cut",
+    "lat": 24.5729238,
+    "lon": -76.7908287,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Highborn Key Wall",
+    "lat": 24.7250818,
+    "lon": -76.8025875,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Off The Wall",
+    "lat": 24.8446182,
+    "lon": -76.3736916,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Off Cape Eleuthera",
+    "lat": 24.8172378,
+    "lon": -76.3499165,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Devil s Backbone",
+    "lat": 25.5770333,
+    "lon": -76.6869,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Glass Window Bridge",
+    "lat": 25.4381736,
+    "lon": -76.6036052,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Current Cut",
+    "lat": 25.4035704,
+    "lon": -76.7922449,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
   }
 ]
