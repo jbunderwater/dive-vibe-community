@@ -2,8 +2,8 @@
 name: Pier 1
 lat: 29.548023
 lng: 34.953687
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 20
 entryType: shore
 siteType: reef
 ref: null
@@ -13,53 +13,44 @@ addedBy: osm_import
 
 ## Pier 1
 
-Pier 1 is a  dive site in Israel, Middle East.
+Pier 1 is a shore-entry dive site in northern Eilat, located near a pier structure in the northern resort and marina zone of Israel's Red Sea coast.
 
 ## Overview
 
-Pier 1 is a dive site in Israel offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Pier 1 sits in the northern section of Eilat's coastline at approximately lat 29.548, placing it north of the main Coral Beach Nature Reserve and near the resort and marina complex. This area of the coast features pier and jetty infrastructure associated with Eilat's northern marina and tourist facilities. Like the EAPC (Katza) pier to the south, pier structures in Eilat accumulate coral cover over the years, creating productive dive environments around their submerged supports. The northern pier zone is less intensively dived than the southern nature reserves, offering a quieter alternative with a different marine character.
 
 ## Site Information
 
-- **Location**: Israel, Middle East
+- **Location**: Northern Eilat, pier/marina zone, Red Sea, Israel
 - **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Site Type**: Coral reef
+- **Maximum Depth**: 20 meters
+- **Typical Visibility**: 15-30 meters
+- **Current**: Generally mild
+- **Water Temperature**: 21°C (winter) to 26°C (summer)
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Pier and jetty structures in Eilat accumulate soft corals, sponges, and encrusting organisms on their submerged pilings. These structures attract small fish — anthias, damselfish, and wrasse — which in turn attract larger predators including grouper and barracuda. Pufferfish are common in pier environments. The sandy substrate near pier footings hosts garden eels, flatfish, and occasional rays. Lionfish use the pier structures as hunting perches.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Shore entry near the pier structure. The diving area includes the submerged supports and the adjacent natural reef or sandy substrate. Maximum practical depth is approximately 20 meters in this northern coastal zone. The pier structures themselves provide the primary points of interest.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry from the northern beach near the pier. Check for boat traffic associated with marina activity before and during the dive. The northern marina area has active water sports and boat operations, particularly during summer months.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Inspect pier pilings carefully — they accumulate cryptic marine life including nudibranchs and juvenile fish
+- Combine with nearby northern sites (Pier/Jetty Pantoon, PINILEK, BRDGE) for a full northern zone exploration
+- Calm conditions make this suitable for early Open Water divers
+- Good site for evening or night dives when pier lights attract plankton and the fish that feed on them
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Marina and pier areas have active boat traffic. Stay close to the pier structure and avoid open water where vessels operate. Carry an SMB for ascents. Be aware of mooring lines and anchor chains.
 
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [eilat.city](https://eilat.city/en/info/the-guide-to-scuba-diving-in-eilat), [divezone.net](https://divezone.net/diving/eilat). Last updated 2026-04-11.*

@@ -3,9 +3,9 @@ name: Wreck Kidon
 lat: 33.004028
 lng: 35.048417
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
-siteType: reef
+maxDepth: 26
+entryType: boat
+siteType: wreck
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,53 +13,42 @@ addedBy: osm_import
 
 ## Wreck Kidon
 
-Wreck Kidon is a  dive site in Israel, Middle East.
+The INS Kidon is a decommissioned Israeli Navy Sa'ar 4.5-class missile boat resting at 26 metres depth, approximately 3 km offshore, serving as both an artificial reef and a memorial dive site.
 
 ## Overview
 
-Wreck Kidon is a dive site in Israel offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The INS Kidon (Hebrew: כידון, meaning "javelin") was a Sa'ar 4.5-class missile boat that served in the Israeli Navy's Shayetet 3 Flotilla. After being decommissioned, the vessel was deliberately sunk offshore to serve as an artificial reef and as a memorial to twelve IDF Naval Commandos (Shayetet 13) who were killed during an operation in Lebanon. Alongside the sunken vessel, a memorial monument with twelve empty chairs — each bearing the name of one of the fallen — rests on the ocean floor.
+
+The wreck lies approximately 3 km offshore at a depth of 26 metres. The vessel's superstructure and hull provide habitat for Mediterranean marine life, and the site has become a popular dive for those wishing to pay respects to the fallen soldiers as well as for recreational wreck diving.
 
 ## Site Information
 
-- **Location**: Israel, Middle East
+- **Location**: Northern Mediterranean coast, Israel (near Nahariya/Shavei Zion area)
 - **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Site Type**: Wreck dive
+- **Maximum Depth**: 26 metres
+- **Typical Visibility**: 5–12 metres (seasonal variation)
+- **Current**: Moderate
+- **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The wreck structure attracts groupers, sea bream, moray eels, and schools of Mediterranean fish. Sponges and soft corals are colonising the hull. Octopus are commonly found around the propeller and lower structures.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat dive to the wreck, approximately 3 km from shore. Descend to the hull and explore the deck and superstructure. The memorial chairs monument is a key feature. At 26 metres, recreational divers have adequate bottom time for a thorough exploration before ascending for a safety stop.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Approach the memorial monument with respect — this is a war memorial
+- A shore-based memorial in the Shavei Zion Beach area complements the underwater monument
+- Dive with local operators based in Nahariya or Shavei Zion (e.g., Indigo Diving Club)
+- IDF Navy clearance may be required due to proximity to the Lebanese border area
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+The site is approximately 3 km offshore, requiring boat access. Current can be present. Carry an SMB. The area is near the Lebanese border and may have restricted military access zones — always dive with a local operator who knows current permissions.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [JGD — Five Top Shipwrecks Israel](https://www.justgottadive.com/dive_resources/travel_articles/ancient-modern-five-top-shipwrecks-israels-mediterranean-sea), [scubadiving.guide — Scuba Diving in Israel](https://scubadiving.guide/scuba-diving-in-israel/). Last updated 2026-04-11.*

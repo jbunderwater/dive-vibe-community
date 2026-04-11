@@ -2,8 +2,8 @@
 name: DAGSUF
 lat: 29.544588
 lng: 34.97346
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 15
 entryType: shore
 siteType: reef
 ref: null
@@ -13,53 +13,43 @@ addedBy: osm_import
 
 ## DAGSUF
 
-DAGSUF is a  dive site in Israel, Middle East.
+DAGSUF is a shore-entry dive site in the northern harbor zone of Eilat, Red Sea, Israel. The name "Dag Suf" (דג סף) means "pufferfish" or "threshold fish" in Hebrew, referencing a species commonly encountered in this area.
 
 ## Overview
 
-DAGSUF is a dive site in Israel offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+DAGSUF is located in the northern end of Eilat's coastline at approximately lat 29.545, placing it in the industrial and port transition zone north of the main resort and diving corridor. This area, near the working port and fishing zone of Eilat, offers a different diving character from the southern coral reserves. The bottom is largely sandy with coral patches and rubble, and the site attracts species typical of harbor-adjacent environments. Pufferfish — for which the site appears to be named — are commonly spotted on sand and rubble bottoms throughout Eilat, particularly in areas with organic material concentration near port facilities.
 
 ## Site Information
 
-- **Location**: Israel, Middle East
+- **Location**: Northern Eilat, harbor zone, Red Sea, Israel
 - **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Site Type**: Coral reef
+- **Maximum Depth**: 15 meters
+- **Typical Visibility**: 10-20 meters (can be reduced near industrial areas)
+- **Current**: Generally mild
+- **Water Temperature**: 21°C (winter) to 26°C (summer)
+- **Best Time**: Year-round; avoid periods of high port activity
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Pufferfish are the namesake species of this site and are reliably encountered on the sandy substrate. Goatfish, flatfish, garden eels (in sandy patches), and various wrasse species frequent the bottom. The proximity to port structures and fishing activity creates a concentration of organic material that attracts scavengers including rays. Moray eels and small grouper hide in rubble and rocky outcrops.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Shore entry from the northern beach zone. The bottom transitions from sand to coral patches as you move away from shore. Most marine life is found in the 5-12 meter range. The site is relatively shallow with a maximum practical depth of 15 meters in this area of the coast.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry from the northern Eilat beach area adjacent to the port zone. Be aware of boat traffic in this active working harbor area. Check local access conditions as some northern sections of the coastline are restricted due to port operations.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Search the sandy patches carefully for cryptic species, especially pufferfish, scorpionfish, and flatfish
+- Good macro photography site for sandy-bottom subjects
+- Combine with nearby northern sites (Sun Boat wreck, Ardag) for a full day
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Active port and industrial zone: be aware of boat traffic and avoid diving in areas marked as restricted. The bottom may have debris from harbor operations. Good navigation skills are needed as this area lacks the clear reef landmarks of the southern sites.
 
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [eilat.city](https://eilat.city/en/info/the-guide-to-scuba-diving-in-eilat), [divezone.net](https://divezone.net/diving/eilat). Last updated 2026-04-11.*

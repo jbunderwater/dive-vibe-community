@@ -3,8 +3,8 @@ name: BUOY1
 lat: 32.03167
 lng: 34.606419
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 40
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -13,53 +13,26 @@ addedBy: osm_import
 
 ## BUOY1
 
-BUOY1 is a  dive site in Israel, Middle East.
+BUOY1 is a dive site marked in OSM data at approximately 32.03°N, 34.61°E — a position roughly 7-10 km offshore of Bat Yam in the central Israeli Mediterranean. The name "BUOY1" suggests this site is marked by a navigation buoy or mooring buoy on the surface, which typically indicates a wreck, obstruction, or designated dive site below.
 
 ## Overview
 
-BUOY1 is a dive site in Israel offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The offshore position at this longitude (~34.61°E) places the site in open Mediterranean water well beyond the coastal shelf edge for the Bat Yam area, likely at depths of 30-50 meters. The site was likely marked as a hazard to navigation (wreck or obstruction) with a surface buoy, which local dive operators then began using as a dive site.
+
+No specific historical records for this site were found in available English-language sources. The name suggests it may be one of several numbered buoy-marked dive sites in this area of the Israeli Mediterranean.
 
 ## Site Information
 
-- **Location**: Israel, Middle East
+- **Location**: Offshore Bat Yam / Jaffa, deep Israeli Mediterranean
 - **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- **Site Type**: Coral reef
+- **Maximum Depth**: Approximately 30-45 meters (estimated from offshore position)
+- **Typical Visibility**: 5-15 meters
+- **Current**: Offshore current conditions
+- **Best Time**: Spring and autumn
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Deep dive requiring Advanced certification and appropriate gas planning. Deploy SMB on ascent. Be aware of offshore currents and boat traffic near the surface buoy.
 
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Description based on OSM data and geographic analysis. No site-specific records found in available sources. Last updated 2026-04-11.*

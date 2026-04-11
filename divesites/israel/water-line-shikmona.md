@@ -3,7 +3,7 @@ name: Water Line Shikmona
 lat: 32.825776
 lng: 34.955824
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 5
 entryType: shore
 siteType: reef
 ref: null
@@ -13,53 +13,27 @@ addedBy: osm_import
 
 ## Water Line Shikmona
 
-Water Line Shikmona is a  dive site in Israel, Middle East.
+A shallow shore dive along the waterline at Tel Shikmona, Haifa — at the intersection of the ancient Phoenician archaeological site and the Mediterranean shoreline.
 
 ## Overview
 
-Water Line Shikmona is a dive site in Israel offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Water Line Shikmona is a dive site at the waterline of the Shikmona area in Haifa, adjacent to Tel Shikmona — an ancient Phoenician tell (mound) located near the National Institute of Oceanography. This site likely refers to the very shallow diving zone directly at the shoreline, where the ancient stone foundations of Tel Shikmona extend into the sea. Snorkelling and shallow diving at this type of site often reveals ancient stonework, pottery fragments, and the natural rocky reef structure.
+
+Depths at the waterline are typically very shallow (1–5 metres). The site is suitable for beginner divers and snorkellers.
 
 ## Site Information
 
-- **Location**: Israel, Middle East
+- **Location**: Tel Shikmona, Haifa, Israel
 - **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Site Type**: Coral reef
+- **Maximum Depth**: Approximately 5 metres
+- **Typical Visibility**: 3–8 metres (harbour proximity affects clarity)
+- **Current**: Mild
+- **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+Typical very-shallow Mediterranean species: sea bream, mullet, sea urchins, hermit crabs, and occasional octopus in crevices.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Description based on site name, location, and regional context. No site-specific sources found.*

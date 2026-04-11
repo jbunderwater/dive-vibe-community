@@ -2,8 +2,8 @@
 name: ARDAG
 lat: 29.553445
 lng: 34.970301
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 15
 entryType: shore
 siteType: reef
 ref: null
@@ -13,53 +13,43 @@ addedBy: osm_import
 
 ## ARDAG
 
-ARDAG is a  dive site in Israel, Middle East.
+ARDAG is a shore-entry dive site in the northern industrial/harbor zone of Eilat, located near the Ardag fishing pier and port facilities on Israel's Red Sea coast.
 
 ## Overview
 
-ARDAG is a dive site in Israel offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+ARDAG sits at the northern end of Eilat's coastline near the port and fishing industry area. The name likely refers to the Ardag fishing and aquaculture facility in northern Eilat. This part of the coast is less visited than the southern coral reserve areas but still offers sandy-bottom habitat with coral patches. The site is in the transition zone between the northern beaches and the working port, giving it a different character from the famous natural reserves to the south. Visibility and reef quality are generally lower here than at the Coral Beach Nature Reserve, but the site can offer encounters with species attracted to pier structures and sandy substrate.
 
 ## Site Information
 
-- **Location**: Israel, Middle East
+- **Location**: Northern Eilat, near Ardag fishing area, Red Sea, Israel
 - **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Site Type**: Coral reef
+- **Maximum Depth**: 15 meters
+- **Typical Visibility**: 10-25 meters
+- **Current**: Generally mild
+- **Water Temperature**: 21°C (winter) to 26°C (summer)
+- **Best Time**: Year-round; avoid periods of industrial activity at the adjacent facilities
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Sandy-bottom habitat with coral patches typical of northern Eilat. Expect pufferfish (the Hebrew "dag suf" — pufferfish — refers to species common in this area), moray eels, goatfish, sea stars, and flatfish on the sand. Coral patches host damselfish, wrasse, and anthias. The proximity to port structures may attract larger predatory fish and rays.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Shore entry from the northern beach area near the Ardag facility. The bottom is primarily sand with scattered coral outcrops. The reef slope is gentle. Most marine life activity is concentrated around any hard substrate or rubble fields. Maximum recreational depth is approximately 15 meters in this area.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry from the northern beach zone. The area near working port and fishing facilities requires attention to boat traffic. Check access permissions as portions of the northern coastline are adjacent to restricted industrial areas.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Best combined with a visit to the nearby Sun Boat wreck to the southwest
+- Sandy substrate makes this a good site for spotting cryptic species (flatfish, stonefish, and nudibranchs)
+- Be aware of industrial boat traffic in the area
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The northern harbor zone has active boat traffic. Stay close to the shoreline when at the surface and use a surface marker buoy. Avoid areas marked as restricted near port infrastructure.
 
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [eilat.city](https://eilat.city/en/info/the-guide-to-scuba-diving-in-eilat), [divezone.net](https://divezone.net/diving/eilat). Last updated 2026-04-11.*

@@ -3,9 +3,9 @@ name: Wreck OBSTRUCTIO
 lat: 31.509476
 lng: 34.380341
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
-siteType: reef
+maxDepth: 30
+entryType: boat
+siteType: wreck
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,53 +13,30 @@ addedBy: osm_import
 
 ## Wreck OBSTRUCTIO
 
-Wreck OBSTRUCTIO is a  dive site in Israel, Middle East.
+Wreck OBSTRUCTIO is a charted nautical obstruction — a wreck or submerged structure recorded on navigational charts south of Ashkelon. The truncated name "OBSTRUCTIO" (rather than "OBSTRUCTION") reflects a character limit in the original nautical chart annotation. This site lies at approximately 31.509°N 34.380°E, approximately 15–20 kilometres offshore in open Mediterranean water.
 
 ## Overview
 
-Wreck OBSTRUCTIO is a dive site in Israel offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+"Wreck obstruction" entries on nautical charts identify submerged structures that pose a risk to navigation. They are not always recreationally dived, but many have become known to local divers. At this offshore distance, water depth is likely in the 25–35 metre range based on the coastal bathymetry south of Ashkelon.
+
+No vessel identification or published dive description has been found for this site. The southern Israeli coast has numerous such charted obstructions from WWII, the 1948 War of Independence, and subsequent decades of commercial shipping.
 
 ## Site Information
 
-- **Location**: Israel, Middle East
+- **Location**: Open Mediterranean, south of Ashkelon (15–20 km offshore)
 - **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+- **Site Type**: Wreck dive
+- **Maximum Depth**: Estimated 25–30 metres (unconfirmed)
+- **Typical Visibility**: 5–10 metres (seasonal)
+- **Current**: Moderate to strong (open water)
+- **Best Time**: October to April
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- Boat dive only — far offshore
+- Contact local dive operators in Ashkelon or Ashdod for current access
+- Advanced certification recommended for this depth and open-water location
+- Carry an SMB for all open-water dives
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Description based on nautical chart annotation, coordinates, and regional Mediterranean diving knowledge. No vessel identification or site-specific published source found. Last updated 2026-04-11.*

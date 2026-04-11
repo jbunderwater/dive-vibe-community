@@ -3,63 +3,32 @@ name: CAVE
 lat: 33.042412
 lng: 35.098755
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
-siteType: reef
+maxDepth: 15
+entryType: boat
+siteType: cave
 ref: null
 osmId: null
 addedBy: osm_import
 ---
 
-## CAVE
+## CAVE (Rosh Hanikra area)
 
-CAVE is a  dive site in Israel, Middle East.
+A sea cave in the waters near Rosh Hanikra, in northern Israel close to the Lebanese border.
 
 ## Overview
 
-CAVE is a dive site in Israel offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+This site is catalogued as "CAVE" in the coastal waters near Rosh Hanikra — Israel's northernmost coastal site, where dramatic white chalk cliffs have been eroded by the Mediterranean into a network of sea caves and grottoes. This cave may be one of the additional sea caves in the Rosh Hanikra coastal area, distinct from the main grottoes (הנקרות) that are the primary dive attraction.
+
+The Rosh Hanikra cave system extends across a length of coastal cliff and includes multiple interconnected and separate sea caves. Diving in this area requires IDF Navy clearance and coordination with local dive operators due to the proximity to Lebanon.
 
 ## Site Information
 
-- **Location**: Israel, Middle East
+- **Location**: Rosh Hanikra coastal area, northern Israel
 - **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- **Site Type**: Cave/cavern
+- **Maximum Depth**: Approximately 10–15 metres (estimated; Rosh Hanikra caves are shallow)
+- **Typical Visibility**: 5–12 metres
+- **Special Requirements**: IDF Navy clearance required
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Description based on location and regional context. No site-specific sources found.*

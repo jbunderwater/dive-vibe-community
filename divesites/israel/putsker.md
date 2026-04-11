@@ -3,8 +3,8 @@ name: PUTSKER
 lat: 33.012902
 lng: 35.089919
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: null
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -13,53 +13,22 @@ addedBy: osm_import
 
 ## PUTSKER
 
-PUTSKER is a  dive site in Israel, Middle East.
+A dive site named after the Putsker Diving Club — one of the main dive operations based in Nahariya, northern Israel.
 
 ## Overview
 
-PUTSKER is a dive site in Israel offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+"Putsker" is the name of a well-established diving club headquartered in Nahariya (located at HaMaapilim 5, Nahariya), which operates dives across the northern Israeli Mediterranean coast from Haifa Bay to Rosh Hanikra. This site appears to be named after the club, suggesting it may be a "house reef" or frequently-visited site associated with the Putsker Diving Club's operations in the Nahariya-Rosh Hanikra area.
+
+The Putsker Diving Club offers boat and shore dives to various sites along the northern coast, including wrecks, reef sites, and the Rosh Hanikra area. No specific site descriptions for this particular entry have been found in public sources beyond the club's general operation area.
 
 ## Site Information
 
-- **Location**: Israel, Middle East
+- **Location**: Northern Israeli Mediterranean, Nahariya/Rosh Hanikra area
 - **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- **Site Type**: Coral reef
+- **Maximum Depth**: Unknown
+- **Typical Visibility**: Typical northern Israeli Mediterranean 5–12 metres
+- **Operator**: Putsker Diving Club, Nahariya (HaMaapilim 5)
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Putsker Diving Club — TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g297757-d10955440-Reviews-Putsker_diving_club-Nahariya_Northern_District.html). Last updated 2026-04-11.*

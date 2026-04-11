@@ -3,280 +3,320 @@
     "name": "ALMOG B",
     "lat": 29.509708,
     "lon": 34.922121,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "israelbylocals.com, eilat.city"
     }
   },
   {
     "name": "ARDAG",
     "lat": 29.553445,
     "lon": 34.970301,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validated": "false",
+      "validation_source": "eilat.city"
     }
   },
   {
     "name": "BRIDGE N",
     "lat": 29.495246,
     "lon": 34.907867,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "israelbylocals.com, shulamit-diving.com"
     }
   },
   {
     "name": "BUOY 2",
     "lat": 29.537421,
     "lon": 34.945364,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validated": "false",
+      "validation_source": "eilat.city"
     }
   },
   {
     "name": "BUOY 4",
     "lat": 29.541283,
     "lon": 34.948805,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validated": "false",
+      "validation_source": "eilat.city"
     }
   },
   {
     "name": "CORALSEA",
     "lat": 29.515699,
     "lon": 34.924405,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "en.parks.org.il, eilat.city"
     }
   },
   {
     "name": "DAGSUF",
     "lat": 29.544588,
     "lon": 34.97346,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validated": "false",
+      "validation_source": "eilat.city"
     }
   },
   {
     "name": "DOLPHIN",
     "lat": 29.526975,
     "lon": 34.935478,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "snorkeling-report.com, ahla-dive.com"
     }
   },
   {
     "name": "FishHaven (Pyramid??)",
     "lat": 29.54391,
     "lon": 34.956436,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 32,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "eilatredsea.com, zentacle.com"
     }
   },
   {
     "name": "Japanese Gardens",
     "lat": 29.505683,
     "lon": 34.91912,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 60,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "israelbylocals.com, shulamit-diving.com"
     }
   },
   {
     "name": "LightHouse",
     "lat": 29.499155,
     "lon": 34.914093,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "eilat.city, shulamit-diving.com"
     }
   },
   {
     "name": "Pier 1",
     "lat": 29.548023,
     "lon": 34.953687,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validated": "false",
+      "validation_source": "eilat.city"
     }
   },
   {
     "name": "Pier/Jetty (Pantoon)",
     "lat": 29.547772,
     "lon": 34.961371,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validated": "false",
+      "validation_source": "eilat.city"
     }
   },
   {
     "name": "PINILEK",
     "lat": 29.553867,
     "lon": 34.945754,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validated": "false",
+      "validation_source": "eilat.city"
     }
   },
   {
     "name": "PORT",
     "lat": 29.534324,
     "lon": 34.940795,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validated": "false",
+      "validation_source": "eilat.city"
     }
   },
   {
     "name": "BRDGE",
     "lat": 29.553158,
     "lon": 34.962858,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validated": "false",
+      "validation_source": "eilat.city"
     }
   },
   {
     "name": "אילת - סאן בואט ורכבים אמפיביים",
     "lat": 29.5432268,
     "lon": 34.968307,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 15,
+    "site_type": "wreck",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "snorkeling-report.com, shulamit-diving.com"
     }
   },
   {
     "name": "ספינת הזכוכית‎",
     "lat": 29.5140418,
     "lon": 34.9303394,
-    "depth": null,
+    "depth": 55,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "eilat.city, shulamit-diving.com"
     }
   },
   {
     "name": "אילת - עתליה - ספינת הזכוכית‎",
     "lat": 29.5189671,
     "lon": 34.9386951,
-    "depth": null,
+    "depth": 55,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "eilat.city, shulamit-diving.com"
     }
   },
   {
     "name": "אילת - אופירה‎",
     "lat": 29.5022267,
     "lon": 34.9251435,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "eilat.city, en.parks.org.il"
     }
   },
   {

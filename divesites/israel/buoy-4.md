@@ -2,8 +2,8 @@
 name: BUOY 4
 lat: 29.541283
 lng: 34.948805
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 20
 entryType: shore
 siteType: reef
 ref: null
@@ -13,53 +13,44 @@ addedBy: osm_import
 
 ## BUOY 4
 
-BUOY 4 is a  dive site in Israel, Middle East.
+BUOY 4 is a shore-entry coral reef dive site in Eilat's central diving corridor, marked by a navigation buoy approximately 400 meters north of Buoy 2 along the Red Sea coast.
 
 ## Overview
 
-BUOY 4 is a dive site in Israel offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+BUOY 4 is one of the numbered buoy reference positions along Eilat's central coastline, slightly north of Buoy 2 and situated in the transition zone between the main Coral Beach resort strip and the northern beaches. The numbered buoy system along Eilat's coast serves to delineate swimming zones and provides navigation reference points for divers. This area sits close to the central resort district where several dive centers operate, making it an easily accessible dive from multiple hotels and beaches. The gentle slope, excellent visibility, and minimal currents characteristic of the Gulf of Aqaba make this a welcoming site for recreational divers of all levels.
 
 ## Site Information
 
-- **Location**: Israel, Middle East
+- **Location**: Central Eilat coastline, Red Sea, Israel
 - **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Site Type**: Coral reef
+- **Maximum Depth**: 20 meters
+- **Typical Visibility**: 20-35 meters
+- **Current**: Very light
+- **Water Temperature**: 21°C (winter) to 26°C (summer)
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Typical central Eilat reef fauna: anthias cloud the coral heads, chromis form schools in open water, and grouper and parrotfish cruise the reef slope. Lionfish, moray eels, and octopus are common residents. The sandy patches between reef sections are good areas to spot stingrays and flatfish. Napoleon wrasse have been reported in Eilat's central reef zone.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Shore entry with a short swim to the reef slope. The buoy line provides a descent and ascent reference. Dive the slope between 5 and 15 meters for highest fish density. The reef can be explored north or south along the coast from the buoy reference point.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry from the central Eilat beach near the buoy. Good access from multiple resort beaches in this zone. Calm water conditions throughout the year.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Use the buoy line for controlled descents — helpful for beginners
+- The central resort zone location makes this convenient for hotel-based divers
+- Night diving can be arranged through nearby dive centers
+- Combine with Buoy 2 site to the south for a longer reef exploration
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Watch for surface boat traffic near buoys. The central resort area has higher water activity than the nature reserve zones. Always carry an SMB and use it for ascents.
 
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [eilat.city](https://eilat.city/en/info/the-guide-to-scuba-diving-in-eilat), [divezone.net](https://divezone.net/diving/eilat). Last updated 2026-04-11.*

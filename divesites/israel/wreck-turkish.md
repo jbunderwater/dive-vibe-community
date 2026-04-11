@@ -3,63 +3,54 @@ name: Wreck Turkish
 lat: 32.841139
 lng: 34.974203
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
-siteType: reef
+maxDepth: 11
+entryType: boat
+siteType: wreck
 ref: null
 osmId: null
 addedBy: osm_import
 ---
 
-## Wreck Turkish
+## Wreck Turkish (The Ardo)
 
-Wreck Turkish is a  dive site in Israel, Middle East.
+Long known by local divers as the "Turkish ship," this is actually the Ardo — a British coal steamer that ran aground in a violent storm in December 1911, lying in 9–11 metres off Nahariya.
 
 ## Overview
 
-Wreck Turkish is a dive site in Israel offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+For decades this wreck off Nahariya was known among Israeli divers simply as "the Turkish ship" — nobody could remember who gave it that name, but it appeared in all local dive guides. Research using 1912 British court documents eventually revealed the true identity: the Ardo, a 100-metre iron coal steamer built in Glasgow in 1894.
+
+The Ardo departed Newport, England on 6 December 1911, carrying approximately 10,000 tonnes of coal bound for Haifa. It ran aground on 27 December 1911 during a violent storm, striking a sandstone reef southwest of Achziv. The 22-person crew attempted evacuation; one lifeboat capsized in the surf, killing seven sailors. Captain Ernest Howe was subsequently tried for negligence. For years the upper structure was visible above the waterline until the Israeli Navy demolished it in the early 1960s to clear the navigation hazard.
+
+The wreck lies approximately 900 metres offshore at 9–11 metres depth. Remaining structure includes massive boilers, mast, anchor chain, and a large Admiralty anchor, all covered in rich Mediterranean marine life.
 
 ## Site Information
 
-- **Location**: Israel, Middle East
+- **Location**: Approximately 900 metres offshore from Nahariya, Israel
 - **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Site Type**: Wreck dive
+- **Maximum Depth**: 11 metres
+- **Typical Visibility**: 5–12 metres (best in calm conditions; popular as a night dive)
+- **Current**: Mild to moderate
+- **Best Time**: Year-round; particularly popular as a night dive
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The wreck structure is heavily encrusted with Mediterranean sponges, molluscs, and coral organisms. Groupers, sea bream, moray eels, and octopus are resident. The shallow depth and abundant structure make this a productive Mediterranean macro life site.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+A relatively easy dive with modest depth, suitable for divers of various experience levels. The boilers are the dominant structural feature. A torch is useful for investigating crevices. Night diving on this site is reportedly excellent, with octopus and nocturnal species active.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- An excellent night dive — arrange through local operators in Nahariya (Putsker Diving Club)
+- The Admiralty anchor and massive boilers are the visual highlights
+- Despite shallow depth, scattered wreck debris covers a wide area
+- Frequently used for training dives due to accessible depth
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+Shallow and accessible, but wreck metal edges can be sharp. In poor conditions, surge can be a factor. Boat traffic in the area warrants the use of an SMB.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Ynetnews — Truth revealed about Turkish ship off Nahariya](https://www.ynetnews.com/environment/article/hyh424fclg), [JGD — Five Top Shipwrecks Israel Mediterranean](https://www.justgottadive.com/dive_resources/travel_articles/ancient-modern-five-top-shipwrecks-israels-mediterranean-sea). Last updated 2026-04-11.*

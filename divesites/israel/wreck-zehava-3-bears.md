@@ -3,9 +3,9 @@ name: Wreck Zehava 3 bears
 lat: 31.710889
 lng: 34.504083
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
-siteType: reef
+maxDepth: 30
+entryType: boat
+siteType: wreck
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,53 +13,29 @@ addedBy: osm_import
 
 ## Wreck Zehava 3 bears
 
-Wreck Zehava 3 bears is a  dive site in Israel, Middle East.
+Wreck Zehava 3 bears is a wreck site off the coast of Ashkelon. The full name "Zehava 3 Bears" (זהבה 3 דובים) appears to combine a vessel name "Zehava" (Hebrew for "golden/Zehava") with the nickname "3 Bears" — a local dive community designation that may refer to three large features (hull sections, anchor points, or bollards) visible on the wreck.
 
 ## Overview
 
-Wreck Zehava 3 bears is a dive site in Israel offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+This wreck lies at approximately 31.711°N 34.504°E, around 10–12 kilometres offshore from Ashkelon. At this offshore distance along Israel's southern Mediterranean shelf, depth is estimated at 25–35 metres — placing this in the Advanced diver range.
+
+The name "3 Bears" as a dive site nickname is not unusual in the Israeli diving community, where distinctive features of wrecks are used as navigational reference points. No specific vessel history or published dive description has been found for this site.
+
+The Zehava 3 Bears wreck is likely accessed by boat from Ashdod Marina or a local Ashkelon operator, and may be combined with nearby Wreck 10 and Wreck 13 sites in the same offshore zone.
 
 ## Site Information
 
-- **Location**: Israel, Middle East
+- **Location**: Offshore Ashkelon, southern Mediterranean coast
 - **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Site Type**: Wreck dive
+- **Maximum Depth**: Estimated 25–30 metres (unconfirmed)
+- **Typical Visibility**: 5–10 metres (seasonal)
+- **Current**: Moderate
+- **Best Time**: October to May
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+Wrecks at this depth range in the eastern Mediterranean attract grouper, dentex, sea bream, large moray eels, octopus, and encrusting invertebrates. Cuttlefish are seasonally present in this coastal zone.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Description based on OSM data, site name, coordinates, and regional Mediterranean diving knowledge. No vessel history or site-specific published source found. Last updated 2026-04-11.*

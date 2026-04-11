@@ -3,63 +3,38 @@ name: אלטלנה Altalena‎
 lat: 32.194209
 lng: 34.329529
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 300
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
 addedBy: osm_import
 ---
 
-## אלטלנה Altalena‎
+## אלטלנה Altalena
 
-אלטלנה Altalena‎ is a  dive site in Israel, Middle East.
+The Altalena (originally USS LST-138, a US landing ship tank) was an arms-carrying vessel central to one of the most significant and painful episodes of Israel's founding period.
 
 ## Overview
 
-אלטלנה Altalena‎ is a dive site in Israel offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+In June 1948, during the first weeks of Israeli statehood, the Irgun underground movement organized a shipment of weapons and approximately 900 immigrants from France aboard the Altalena. The ship arrived off Kfar Vitkin on 20 June 1948. Following a breakdown in negotiations between the Irgun and the newly established Israeli government, Prime Minister David Ben-Gurion ordered the IDF to open fire on the ship. The Altalena was hit and beached near Tel Aviv on 22 June 1948; 16 people were killed and many more wounded. The burning wreck became a potent symbol of the tensions — and ultimate consolidation — of Israeli state authority.
+
+About a year later, the badly damaged hulk was refloated and towed approximately 15 nautical miles offshore, where it was scuttled.
+
+**Depth and accessibility:** In 2012, a sonar survey commissioned by the Menachem Begin Heritage Center located an acoustic signature consistent with the Altalena approximately several kilometers off the coast of Rishon LeZion at a depth of approximately 300 meters. This depth is far beyond recreational and most technical diving limits. The wreck is not a recreational dive site. The coordinates recorded in OSM (32.194°N, 34.329°E) place it in deep offshore water, consistent with this account.
+
+As of 2025, the Israeli government was exploring options to survey and potentially raise the wreck as a national monument.
 
 ## Site Information
 
-- **Location**: Israel, Middle East
+- **Location**: Offshore, approximately near Rishon LeZion / Jaffa coast, deep water
 - **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Site Type**: Coral reef
+- **Depth**: Approximately 300 meters — beyond recreational and sport diving limits
+- **Access**: No known dive operations; wreck location confirmed by sonar survey in 2012
 
-## Marine Life
+## Historical Significance
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The Altalena Affair is documented in Israeli historical records and multiple published histories as a defining moment of the War of Independence that tested the primacy of the new state's military command. The ship's name derived from the pen name of Zionist thinker Ze'ev Jabotinsky.
 
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Altalena Affair — Wikipedia](https://en.wikipedia.org/wiki/Altalena_Affair), [The Times of Israel](https://www.timesofisrael.com/fire-in-the-hole-blasting-the-altalena/), [Ynet News](https://www.ynetnews.com/magazine/article/bytczrnph). Last updated 2026-04-11.*

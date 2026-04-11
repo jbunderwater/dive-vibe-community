@@ -3,63 +3,41 @@ name: Wrecl ExposedWreck
 lat: 31.901078
 lng: 34.683366
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 8
 entryType: shore
-siteType: reef
+siteType: wreck
 ref: null
 osmId: null
 addedBy: osm_import
 ---
 
-## Wrecl ExposedWreck
+## Wrecl ExposedWreck (Exposed Wreck)
 
-Wrecl ExposedWreck is a  dive site in Israel, Middle East.
+Wrecl ExposedWreck — note: "Wrecl" is a typo in the original OSM data, should be "Wreck" — is a partially exposed wreck in the nearshore zone north of Ashdod, in the Palmachim coastal area. The site lies at approximately 31.901°N 34.683°E, very close to the shoreline.
 
 ## Overview
 
-Wrecl ExposedWreck is a dive site in Israel offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+This near-shore exposed wreck sits in very shallow water close to the Palmachim coast. "Exposed wreck" in nautical terminology means the wreck is partially above or at water level, or lies at extremely shallow depth. Based on the coastal coordinates, this is likely a small vessel — perhaps a barge or fishing vessel — that came to rest in the surf zone or nearshore shallows.
+
+Shallow exposed wrecks like this are accessible to snorkelers as well as divers. The proximity to the Palmachim area, known for its barge wrecks and rocky reef, suggests this may be one of the small barge wrecks associated with that dive area.
 
 ## Site Information
 
-- **Location**: Israel, Middle East
+- **Location**: Near-shore, Palmachim area, north of Ashdod
 - **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- **Site Type**: Wreck dive
+- **Maximum Depth**: Estimated 3–8 metres
+- **Typical Visibility**: 3–8 metres (nearshore; seasonal)
+- **Current**: Mild to moderate
+- **Best Time**: Calm weather periods; October to May
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Shallow exposed wrecks can be hazardous in swell — metal edges and surge combine to create injury risk. Only approach in calm conditions. The surrounding water is very shallow; maintain careful buoyancy to avoid contact with the wreck structure.
 
-## Photography
+## Note on Name Typo
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+The OSM entry records this as "Wrecl ExposedWreck" — the "Wrecl" is a data entry error. The site should be understood as "Wreck - Exposed Wreck."
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Description based on OSM data (typo noted), coordinates, and regional Mediterranean diving knowledge. No vessel identification or site-specific published source found. Last updated 2026-04-11.*

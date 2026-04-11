@@ -3,8 +3,8 @@ name: SADAG
 lat: 32.108169
 lng: 34.62822
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 35
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -13,53 +13,30 @@ addedBy: osm_import
 
 ## SADAG
 
-SADAG is a  dive site in Israel, Middle East.
+SADAG is a dive site in the Israeli Mediterranean at approximately 32.11°N, 34.63°E — located significantly offshore (approximately 10-15 km from the coast) west of Tel Aviv at a point where water depth would be in the 30-40 meter range. The name may be an acronym or vessel abbreviation.
 
 ## Overview
 
-SADAG is a dive site in Israel offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The offshore position of SADAG places it beyond typical shore-diving range and in water deep enough to require advanced certification. The site is likely a vessel wreck or major obstruction on the seafloor. No historical vessel records matching "SADAG" in Israeli waters were found in available English-language sources.
+
+Given the depth suggested by its offshore position (likely 30-40 m), this is an advanced dive site requiring boat access and appropriate gas planning.
 
 ## Site Information
 
-- **Location**: Israel, Middle East
+- **Location**: Offshore central Israeli Mediterranean, west of Tel Aviv
 - **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Site Type**: Coral reef
+- **Maximum Depth**: Approximately 30-40 meters (estimated from offshore position)
+- **Typical Visibility**: 5-15 meters
+- **Current**: Offshore current conditions
+- **Best Time**: Spring and autumn
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Deep Mediterranean wreck species including large grouper, sea bream, dentex, moray eels, and invertebrate communities on hard substrate.
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Deep dive — Advanced Open Water certification or higher required. Plan gas appropriately for depth and potential current. Carry an SMB and deploy on ascent.
 
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Description based on OSM data and geographic analysis. No verified historical records for this site found in available sources. Last updated 2026-04-11.*

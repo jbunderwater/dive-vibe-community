@@ -5,7 +5,7 @@ lng: 34.639635
 difficulty: Intermediate
 maxDepth: 25
 entryType: shore
-siteType: reef
+siteType: wreck
 ref: null
 osmId: null
 addedBy: osm_import
@@ -24,7 +24,7 @@ Wreck 14 is a dive site in Israel offering rewarding diving on healthy coral ree
 - **Location**: Israel, Middle East
 - **Entry Type**: Shore entry
 - **Site Type**: 
-Coral reef
+Wreck dive
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 20-40 meters (65-130 feet)
 - **Current**: Moderate to strong

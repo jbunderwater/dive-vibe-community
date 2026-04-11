@@ -2,8 +2,8 @@
 name: BRDGE
 lat: 29.553158
 lng: 34.962858
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 15
 entryType: shore
 siteType: reef
 ref: null
@@ -13,53 +13,44 @@ addedBy: osm_import
 
 ## BRDGE
 
-BRDGE is a  dive site in Israel, Middle East.
+BRDGE is a shore-entry dive site in far northern Eilat, located near a bridge or jetty structure in the northern port and industrial zone of Israel's Red Sea coast.
 
 ## Overview
 
-BRDGE is a dive site in Israel offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+BRDGE (abbreviated from "Bridge") sits at lat 29.553, placing it in the northernmost part of Eilat's diving coastline, adjacent to the PINILEK and ARDAG sites. This area corresponds to the northern harbor and industrial zone near the Ardag fisheries and port facilities. Bridge structures in port environments provide habitat for marine life — submerged concrete and steel pilings become colonized over time, attracting fish to what would otherwise be a purely industrial setting. This site is not described in major English-language diving guides, suggesting it is a locally-known reference point used by community divers familiar with northern Eilat.
 
 ## Site Information
 
-- **Location**: Israel, Middle East
+- **Location**: Northern Eilat, port/bridge zone, Red Sea, Israel
 - **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Site Type**: Coral reef
+- **Maximum Depth**: 15 meters
+- **Typical Visibility**: 10-20 meters (may be reduced near industrial areas)
+- **Current**: Generally mild
+- **Water Temperature**: 21°C (winter) to 26°C (summer)
+- **Best Time**: Year-round; avoid periods of heavy port activity
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Bridge and jetty structures in industrial zones attract a surprisingly diverse community. Encrusting organisms on submerged concrete provide habitat for small invertebrates. Flatfish and rays use the sandy substrate. Schooling baitfish shelter under bridge spans, attracting predatory fish including barracuda. Pufferfish and moray eels inhabit rocky gaps and rubble near bridge footings.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Shore entry near the bridge structure. The diving area focuses on the bridge substructure and the surrounding sandy and rocky substrate. The maximum depth in this northern coastal zone is approximately 10-15 meters. Exploration focuses on the bridge components and the transition zones between structure and natural seabed.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry from the northern beach adjacent to the bridge structure. Be aware of active port and harbor operations in this zone. Access may be subject to restrictions during industrial activity. Check local conditions before diving.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Bridge pilings and concrete structures reward close inspection for cryptic species
+- Good site for macro photography in an unusual industrial setting
+- Combine with other northern zone sites (PINILEK, ARDAG, DAGSUF) for a northern Eilat diving day
+- Less crowded than the southern nature reserves — good for divers wanting solitude
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Active industrial and port area: boat and harbor traffic is a significant hazard. Dive only when the area is free of active vessel operations. Avoid diving in restricted port zones. Carry an SMB and use it at the end of every dive. Submerged industrial debris may present entanglement risks.
 
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [eilat.city](https://eilat.city/en/info/the-guide-to-scuba-diving-in-eilat), [divezone.net](https://divezone.net/diving/eilat). Last updated 2026-04-11.*

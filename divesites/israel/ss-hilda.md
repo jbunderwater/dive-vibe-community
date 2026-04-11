@@ -4,7 +4,7 @@ lat: 32.2161919
 lng: 34.8139497
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -13,53 +13,30 @@ addedBy: osm_import
 
 ## SS Hilda
 
-SS Hilda is a  dive site in Israel, Middle East.
+A shipwreck located off the central Israeli Mediterranean coast at approximately 32.22°N, 34.81°E — placing it roughly offshore of the Herzliya/Ra'anana coastal area. The site is recorded in OSM as a wreck dive.
 
 ## Overview
 
-SS Hilda is a dive site in Israel offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The name "SS Hilda" suggests a steam vessel, likely from the late 19th or early 20th century. The position offshore of Herzliya in the central Israeli Mediterranean is consistent with a vessel that either sank in transit along the Levantine coast or was deliberately scuttled. No verified historical records matching this specific "SS Hilda" wreck in Israeli waters were located in available English-language sources — the well-documented SS Hilda (lost 1905 off Saint-Malo, France) is a different vessel entirely.
+
+This appears to be a locally known wreck site accessible by boat from Herzliya or Netanya. The Reef Israel Diving and Surfing Club at Herzliya operates in this general area.
 
 ## Site Information
 
-- **Location**: Israel, Middle East
+- **Location**: Offshore, central Israeli Mediterranean coast (approx. Herzliya area)
 - **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Site Type**: Coral reef
+- **Maximum Depth**: Approximately 20-25 meters (based on seafloor depth at this offshore location)
+- **Typical Visibility**: 5-12 meters
+- **Current**: Variable offshore conditions
+- **Best Time**: Spring and autumn
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Mediterranean wreck species including grouper, sea bream, moray eels, octopus, and nudibranchs that typically colonize wreck structures.
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Boat dive — carry an SMB. Wreck penetration requires appropriate training and equipment. Exercise caution around metal edges and compromised structure.
 
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Description based on OSM data and geographic location. No verified historical records for this specific wreck found in available sources. Last updated 2026-04-11.*

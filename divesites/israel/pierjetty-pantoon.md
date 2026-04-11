@@ -2,8 +2,8 @@
 name: Pier/Jetty (Pantoon)
 lat: 29.547772
 lng: 34.961371
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 20
 entryType: shore
 siteType: reef
 ref: null
@@ -13,53 +13,44 @@ addedBy: osm_import
 
 ## Pier/Jetty (Pantoon)
 
-Pier/Jetty (Pantoon) is a  dive site in Israel, Middle East.
+Pier/Jetty (Pantoon) is a shore-entry dive site in northern Eilat associated with a pontoon jetty structure in the marina zone of Israel's Red Sea coast.
 
 ## Overview
 
-Pier/Jetty (Pantoon) is a dive site in Israel offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The Pier/Jetty (Pantoon) site is located approximately 600 meters east of Pier 1 in northern Eilat's marina and resort complex. The "Pantoon" name indicates a pontoon jetty — a floating platform structure anchored to the seafloor — rather than a fixed concrete pier. Pontoon structures in Eilat's northern zone are used for mooring tourist and recreational boats. Their submerged anchor chains, floats, and connected structures become colonized by marine life over time, creating dive environments distinct from natural reefs. The site sits in slightly deeper water than the nearby shore sites, with the approach leading through sandy substrate to the structure itself.
 
 ## Site Information
 
-- **Location**: Israel, Middle East
+- **Location**: Northern Eilat, marina/pontoon zone, Red Sea, Israel
 - **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Site Type**: Coral reef
+- **Maximum Depth**: 20 meters
+- **Typical Visibility**: 15-25 meters
+- **Current**: Very light
+- **Water Temperature**: 21°C (winter) to 26°C (summer)
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Pontoon structures and mooring systems accumulate soft corals and encrusting organisms on their submerged components. Schooling fish congregate around the structure for protection. The sandy approach to the pontoon typically harbors flatfish, garden eels, and stingrays. Cuttlefish are commonly seen near anchor blocks and chain systems. Yellowtail barracuda may shelter under the pontoon platform.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Shore entry from the beach below or adjacent to the pontoon. Swim out along the sandy bottom, following the anchor chains or mooring lines down to the seafloor attachment points. The pontoon platform itself casts a shadow that concentrates fish below. Maximum depth is approximately 15-20 meters at the deeper anchor points.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry near the marina pontoon. Coordinate with local dive shops or marina staff regarding access. The marina area has active boat traffic, particularly in summer. Use an SMB for ascents and give boats adequate notice when surfacing.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Floating pontoon platforms create shaded underwater environments that attract cuttlefish and reef fish
+- The anchor chains are good for finding nudibranchs, shrimp, and small crustaceans
+- Combine with Pier 1 for a northern marina zone dive day
+- Good site for beginners due to calm water and shallow depths
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Active marina zone — boat traffic is a primary hazard. Never ascend directly under the pontoon platform. Use the edge of the pontoon shadow zone for ascents and safety stops. Mooring lines and anchor chains can be entanglement hazards; maintain awareness of surroundings.
 
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [eilat.city](https://eilat.city/en/info/the-guide-to-scuba-diving-in-eilat), [snorkeling-report.com](https://www.snorkeling-report.com/spot/snorkeling-eapc-beach-eilat/). Last updated 2026-04-11.*

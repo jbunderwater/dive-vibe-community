@@ -3,7 +3,7 @@ name: FishHaven (Pyramid??)
 lat: 29.54391
 lng: 34.956436
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 32
 entryType: shore
 siteType: reef
 ref: null
@@ -11,55 +11,46 @@ osmId: null
 addedBy: osm_import
 ---
 
-## FishHaven (Pyramid??)
+## FishHaven (Pyramid)
 
-FishHaven (Pyramid??) is a  dive site in Israel, Middle East.
+FishHaven (Pyramid) is a shore-entry artificial reef dive site in Eilat featuring a distinctive metal pyramid structure built in 1992 as both an artificial reef and a scientific research installation.
 
 ## Overview
 
-FishHaven (Pyramid??) is a dive site in Israel offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Known locally as "The Pyramid," this site features two nested metal pyramid structures placed on the seafloor in 1992 by the Interuniversity Institute for Marine Sciences in Eilat. The outer pyramid's tip reaches up to approximately 18 meters depth, while an inner pyramid reaches to about 23 meters, with the sandy seafloor at around 31-32 meters. Over the decades since installation, the metal structures have been colonized by red corals and other encrusting organisms. The Pyramid is divided into four levels, allowing the Institute to conduct long-term experiments on coral growth and reef colonization. The "Fish Haven" label in the site name reflects its function as a constructed fish habitat. The site sits in the northern Eilat resort zone, close to shore with a manageable swim.
 
 ## Site Information
 
-- **Location**: Israel, Middle East
+- **Location**: Northern Eilat resort zone, Red Sea, Israel
 - **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Site Type**: Coral reef
+- **Maximum Depth**: 32 meters
+- **Typical Visibility**: 20-35 meters
+- **Current**: Generally light
+- **Water Temperature**: 21°C (winter) to 26°C (summer)
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The pyramid frames have been colonized by red corals, soft corals, and encrusting organisms. Schools of fish congregate around the structure. Red Sea anthias, grouper, barracuda, and pufferfish are commonly sighted. The researchers from the Interuniversity Institute use the site to monitor coral growth rates; over the years the structure has developed a rich biological community. The sandy bottom surrounding the pyramid harbors flatfish and garden eels.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Shore entry from the nearby beach. Good air consumption and navigation skills are required to reach the site from shore. Descend to the outer pyramid at 18 meters and circle the structure before venturing deeper to 23-32 meters if qualified. The inner pyramid and sandy floor at 32 meters are for Advanced Open Water certified divers. North of the structure, the seafloor shallows with natural coral gardens.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry from the northern resort beach zone. The swim to the structure requires solid navigation as the site is not immediately visible from shore. Look for the buoy or reference rope if present. Good air management is essential for the swim back.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Bring a torch: the pyramid frames are covered in encrusting life and worth close inspection
+- Wide-angle photography works well with the pyramid as a structural backdrop
+- Advanced divers can reach the 32m sandy floor; OWD divers should stay on the upper pyramid at 18-23m
+- The scientific value of this site means preservation is essential — do not touch the structure
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Depth profile requires Advanced certification for full exploration to 32 meters. The shore entry requires good navigation to find the structure underwater. Carry adequate air for the swim distance and safety stop. Be aware of gradual narcosis effects at 30+ meters.
 
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [eilatredsea.com](https://www.eilatredsea.com/?CategoryID=169), [zentacle.com](https://www.zentacle.com/loc/il/south-district/beer-sheva/eilat), [mdpi.com](https://www.mdpi.com/2673-1924/5/1/5). Last updated 2026-04-11.*

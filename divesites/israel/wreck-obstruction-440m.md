@@ -3,9 +3,9 @@ name: Wreck Obstruction-44.0m
 lat: 31.411972
 lng: 34.121475
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
-siteType: reef
+maxDepth: 44
+entryType: boat
+siteType: wreck
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,53 +13,28 @@ addedBy: osm_import
 
 ## Wreck Obstruction-44.0m
 
-Wreck Obstruction-44.0m is a  dive site in Israel, Middle East.
+Wreck Obstruction-44.0m is a charted nautical obstruction at a recorded depth of 44 metres in deep open Mediterranean water, far offshore to the west-southwest of Ashkelon. The "-44.0m" notation records the depth to the top of the obstruction. This is the most remote site in this cluster, at approximately 31.412°N 34.121°E — some 40+ kilometres offshore in international waters.
 
 ## Overview
 
-Wreck Obstruction-44.0m is a dive site in Israel offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+At 44 metres depth and extreme offshore distance, this wreck is firmly in technical dive territory. The seabed at this location is estimated to be at 50–60 metres. Only experienced technical divers with appropriate training and equipment should consider this site, and only from a properly equipped offshore vessel.
+
+No vessel identification or published dive description has been found. The remote position may represent a wartime casualty, a commercial vessel, or other obstruction recorded during hydrographic surveys of the Israeli continental shelf margin.
 
 ## Site Information
 
-- **Location**: Israel, Middle East
+- **Location**: Open Mediterranean, approximately 40–45 km offshore (far offshore, south of Ashkelon area)
 - **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- **Site Type**: Wreck dive
+- **Depth of Obstruction Top**: 44 metres below surface
+- **Maximum Depth (seabed)**: Estimated 50–60 metres
+- **Typical Visibility**: 10–20 metres (cleaner water further offshore)
+- **Current**: Moderate to strong (open water)
+- **Best Time**: October to April
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+This is a deep technical dive (44 metres) in very remote open water. Requires Tec 45/50 training or equivalent, double cylinders or rebreather, and decompression planning. Not suitable for recreational divers. A capable offshore vessel with dedicated surface support, safety diver, and emergency oxygen supply is essential. Consider proximity to shipping lanes at this offshore distance.
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Description based on nautical chart depth annotation, coordinates, and regional Mediterranean diving knowledge. No vessel identification or site-specific published source found. Last updated 2026-04-11.*

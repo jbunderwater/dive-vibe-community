@@ -3,8 +3,8 @@ name: MARI-B
 lat: 31.734009
 lng: 34.29451
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 243
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -13,53 +13,24 @@ addedBy: osm_import
 
 ## MARI-B
 
-MARI-B is a  dive site in Israel, Middle East.
+**Note: MARI-B is an offshore gas production platform, not a recreational dive site. It is recommended for removal from this database.**
 
-## Overview
+MARI-B is a decommissioned natural gas production platform located approximately 20 kilometres offshore Israel in the Eastern Mediterranean, in approximately 243 metres (796 feet) of water. It was part of the Yam Tethys Project operated by Noble Energy and was the first offshore natural gas production facility in Israel. The platform produced gas from 2004 until decommissioning.
 
-MARI-B is a dive site in Israel offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+## Why This Is Not a Dive Site
+
+- The platform sits in 243 metres of water — far beyond recreational or even most technical diving limits
+- It is an industrial offshore structure, not an underwater site
+- No dive operator offers dives to this location
+- Its presence in this database appears to be an OSM tagging error
 
 ## Site Information
 
-- **Location**: Israel, Middle East
+- **Location**: Open Mediterranean, approximately 20 km offshore
 - **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
-
-## Marine Life
-
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- **Site Type**: Coral reef
+- **Depth**: 243 metres to seabed
+- **Status**: Decommissioning
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [Mari-B — Global Energy Monitor](https://www.gem.wiki/Mari-B_Oil_and_Gas_Field_(Israel)), [Noble Energy Mari-B — Offshore Magazine](https://www.offshore-mag.com/home/article/16771037/noble-energy-starts-natural-gas-production-from-mari-b-field). Not a recreational dive site — recommend removal from database. Last updated 2026-04-11.*

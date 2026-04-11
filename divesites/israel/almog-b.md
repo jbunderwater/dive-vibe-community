@@ -2,8 +2,8 @@
 name: ALMOG B
 lat: 29.509708
 lng: 34.922121
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 20
 entryType: shore
 siteType: reef
 ref: null
@@ -13,53 +13,44 @@ addedBy: osm_import
 
 ## ALMOG B
 
-ALMOG B is a  dive site in Israel, Middle East.
+ALMOG B is a shore-entry coral reef dive site in the Almog Beach Reserve area of Eilat, situated north of the Coral World Underwater Observatory on Israel's Red Sea coast.
 
 ## Overview
 
-ALMOG B is a dive site in Israel offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Almog B lies within the Almog Beach Reserve, a protected coastal strip stretching from the Coral World Underwater Observatory in the south to the Isrotel Red Sea hotel area in the north. The reserve features a rich coral reef adorned with small canyons and shallow bays, making it accessible to divers of all levels. Unlike the fee-based Coral Beach Nature Reserve to the south, the Almog Beach area offers free shore access. The reef begins close to shore and the slope drops off gradually, allowing easy navigation and excellent exploration at multiple depth levels.
 
 ## Site Information
 
-- **Location**: Israel, Middle East
+- **Location**: Eilat, Red Sea, Israel (Almog Beach Reserve)
 - **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Site Type**: Coral reef
+- **Maximum Depth**: 20 meters
+- **Typical Visibility**: 20-40 meters
+- **Current**: Generally mild — the Gulf of Aqaba has minimal tidal currents
+- **Water Temperature**: 21°C (winter) to 26°C (summer)
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+The Almog Beach Reserve is home to typical Red Sea reef species. Divers can expect to encounter parrotfish, wrasse, butterflyfish, angelfish, grouper, and moray eels among the coral heads. Lionfish are commonly seen resting in crevices. The northern edge of the reserve connects to the Japanese Gardens, one of Eilat's most biodiverse sites. Sea turtles and octopus are also reported in the area.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Begin entry from shore along the sandy margin and swim out to the reef edge. The reef starts shallow and the slope descends gradually. Most productive diving is between 5 and 15 meters. The canyons and bays provide sheltered areas where fish density is high. Return to exit point using compass or shore landmarks.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry from the Almog Beach area, north of the Coral World Underwater Observatory. No entry fee applies at this section of reef. Water is typically calm with minimal surge. Watch for occasional boat traffic in the vicinity.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Best visited in the morning for optimal light and calmer surface conditions
+- Bring an underwater torch for exploring the small canyon formations
+- Good site for photographers: macro subjects are abundant in the coral rubble
+- Night diving is possible given the calm conditions
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Currents are generally light in this part of the Gulf of Aqaba. Be aware of boat traffic near the shoreline. Avoid touching corals and maintain buoyancy to protect the reef. Carry an SMB for ascents away from the shore.
 
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [israelbylocals.com](https://israelbylocals.com/eilat-diving-locations/), [eilat.city](https://eilat.city/en/info/the-guide-to-scuba-diving-in-eilat). Last updated 2026-04-11.*

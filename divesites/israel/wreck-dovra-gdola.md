@@ -3,63 +3,42 @@ name: Wreck Dovra Gdola
 lat: 32.797623
 lng: 34.926739
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
-siteType: reef
+maxDepth: 20
+entryType: boat
+siteType: wreck
 ref: null
 osmId: null
 addedBy: osm_import
 ---
 
-## Wreck Dovra Gdola
+## Wreck Dovra Gdola (Big Barge)
 
-Wreck Dovra Gdola is a  dive site in Israel, Middle East.
+"Dovra Gdola" means "Big Barge" in Hebrew — a large barge wreck lying in the waters off the Haifa area of the northern Israeli Mediterranean coast.
 
 ## Overview
 
-Wreck Dovra Gdola is a dive site in Israel offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The Wreck Dovra Gdola ("Big Barge" in Hebrew) is a barge that sank or was deliberately placed in the coastal waters south of Haifa. Barge wrecks are common features of the Israeli Mediterranean coast, where various commercial vessels were retired and sunk as artificial reefs or were lost to weather events. This site is catalogued as a wreck dive in the Haifa coastal area.
+
+No detailed historical documentation about this specific barge — including when it sank, its original purpose, or dimensions — has been found in public diving sources. Local dive operators in Haifa or the surrounding area are the best source for current site details, including exact depth and condition.
 
 ## Site Information
 
-- **Location**: Israel, Middle East
+- **Location**: Off Haifa, northern Israeli Mediterranean coast
 - **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Site Type**: Wreck dive
+- **Maximum Depth**: Approximately 15–20 metres (unconfirmed)
+- **Typical Visibility**: 5–12 metres (typical northern Israeli Mediterranean)
+- **Current**: Moderate
+- **Best Time**: May to October
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Typical Mediterranean wreck species: groupers, sea bream, moray eels, octopus, and encrusting sponges and anemones on the barge structure.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
-
-## Safety Considerations
-
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- Contact local Haifa dive operators for current conditions and access
+- The barge structure may provide interesting penetration-style exploration
 
 ---
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Description based on nautical chart data and site name. No site-specific sources found.*

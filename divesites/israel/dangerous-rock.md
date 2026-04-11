@@ -3,8 +3,8 @@ name: Dangerous Rock
 lat: 32.284012
 lng: 34.832153
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 15
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -13,53 +13,28 @@ addedBy: osm_import
 
 ## Dangerous Rock
 
-Dangerous Rock is a  dive site in Israel, Middle East.
+"Dangerous Rock" is a rocky underwater formation off the Israeli central Mediterranean coast at approximately 32.28°N, 34.83°E — placing it offshore of the Netanya / Poleg area. The name suggests a hazard to navigation: a submerged or barely-exposed rock that poses risk to vessels but creates a habitat feature for marine life and a dive site.
 
 ## Overview
 
-Dangerous Rock is a dive site in Israel offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Rocky pinnacles and submerged hazards along the Israeli Mediterranean coast typically consist of kurkar (coastal sandstone) formations that have been eroded and partially submerged. These rocky features provide hard substrate for encrusting organisms and shelter for fish communities. A "dangerous rock" feature at this depth range would be a locally prominent rock or reef that breaks or nearly breaks the surface, with its underwater slopes offering diving.
 
 ## Site Information
 
-- **Location**: Israel, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Location**: Offshore Netanya / Poleg coastal area, central Israeli Mediterranean
+- **Entry Type**: Boat (offshore rocky feature)
+- **Site Type**: Rocky reef / pinnacle
+- **Maximum Depth**: Approximately 10-15 meters
+- **Typical Visibility**: 5-12 meters
+- **Current**: Can be strong around isolated rock features
+- **Best Time**: Spring and autumn
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Sea bream, grouper, moray eels, octopus, and invertebrates typical of rocky reef structures. Isolated pinnacles often support higher fish density than flat reef areas due to the concentration of prey.
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Rock pinnacles can create unpredictable current patterns. Be alert to swells breaking on the formation in rough weather. Keep clear of the rock's upper reaches when a swell is running.
 
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Description based on site name and geographic location. No site-specific English-language sources found. Last updated 2026-04-11.*

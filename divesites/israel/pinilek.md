@@ -2,8 +2,8 @@
 name: PINILEK
 lat: 29.553867
 lng: 34.945754
-difficulty: Intermediate
-maxDepth: 25
+difficulty: Beginner
+maxDepth: 15
 entryType: shore
 siteType: reef
 ref: null
@@ -13,53 +13,44 @@ addedBy: osm_import
 
 ## PINILEK
 
-PINILEK is a  dive site in Israel, Middle East.
+PINILEK is a shore-entry dive site in the far northern zone of Eilat's coastline, situated near the northern beaches and leisure area of Israel's Red Sea coast.
 
 ## Overview
 
-PINILEK is a dive site in Israel offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+PINILEK sits at approximately lat 29.554, making it one of the northernmost dive points along Eilat's Red Sea coastline. This area corresponds to the northern beaches zone — the city-side beaches of Eilat including the northern resort strip — rather than the southern Coral Beach Nature Reserve. The name "PINILEK" does not correspond to a widely documented dive site in English-language diving guides, suggesting it may be a local name, a specific entry point, or a community-contributed navigation reference point. This northern area of the coast is characterized by sandy beaches with limited reef development compared to the protected southern shore, though some coral patches exist.
 
 ## Site Information
 
-- **Location**: Israel, Middle East
+- **Location**: Northern Eilat beach zone, Red Sea, Israel
 - **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Site Type**: Coral reef
+- **Maximum Depth**: 15 meters
+- **Typical Visibility**: 15-25 meters
+- **Current**: Very light
+- **Water Temperature**: 21°C (winter) to 26°C (summer)
+- **Best Time**: Year-round
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Northern Eilat beaches adjacent to the resort zone support sandy-bottom species: flatfish, stingrays, pufferfish, and garden eels. Where coral patches exist, small reef fish communities develop. The calmer, shallower water near shore provides habitat for juvenile reef fish and invertebrates. Sea snakes are occasionally encountered along sandy margins.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Shore entry from the northern beach. The bottom is primarily sandy with patchy reef development. Depths are relatively shallow in this area of the northern coast. Explore the interface between sand and any coral outcrops for maximum marine life diversity.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry from the northern Eilat beach area. This section of coastline is less organized for diving than the southern nature reserve zone — there are no designated entry ladders or marked paths. Water conditions are generally calm.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Suitable for Open Water Diver certification check-out dives given calm conditions and gentle depths
+- Sandy bottom is productive for macro photography
+- Combine with northern zone sites (BRDGE, Pier 1, Pier/Jetty, ARDAG) for a full northern area day
+- Early mornings offer best conditions before resort beach activity begins
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The northern beach zone lacks the organized dive infrastructure of the southern reserve. Dive with a buddy and carry an SMB. Be aware of jet ski and water sports activity common on northern Eilat beaches during summer.
 
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [eilat.city](https://eilat.city/en/info/the-guide-to-scuba-diving-in-eilat), [divezone.net](https://divezone.net/diving/eilat). Last updated 2026-04-11.*

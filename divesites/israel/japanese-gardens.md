@@ -3,8 +3,8 @@ name: Japanese Gardens
 lat: 29.505683
 lng: 34.91912
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 60
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -13,53 +13,45 @@ addedBy: osm_import
 
 ## Japanese Gardens
 
-Japanese Gardens is a  dive site in Israel, Middle East.
+Japanese Gardens is Eilat's most celebrated coral reef dive site — a nearly 500-meter stretch of pristine, protected reef accessible by boat, featuring both a shallow beginner section and a dramatic coral wall descending to 60 meters.
 
 ## Overview
 
-Japanese Gardens is a dive site in Israel offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Located in the southern (fenced) section of the Almog Coast Reserve, between the southern bridge of the reserve and the Coral World Underwater Observatory, Japanese Gardens is widely considered the largest and best-preserved dive site in Eilat. The site spans approximately 500 meters of continuous coral reef and is divided into distinct zones: a shallow section with dense hard coral starting at around 8 meters suitable for beginners, and a deeper coral wall that cascades dramatically to over 60 meters for advanced divers. The heart of the reef cannot be reached directly from shore due to conservation fencing, requiring boat access coordinated through local dive operators. High demand means advance booking is typically required.
 
 ## Site Information
 
-- **Location**: Israel, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Location**: Almog Coast Reserve, Eilat, Red Sea, Israel (south of Coral World Observatory)
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
+- **Maximum Depth**: 60 meters
+- **Typical Visibility**: 20-40 meters; often exceptional
+- **Current**: Generally light; visibility consistently excellent due to protected location
+- **Water Temperature**: 21°C (winter) to 26°C (summer)
+- **Best Time**: Year-round; minimum 4 divers typically required
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
+Japanese Gardens hosts exceptional biodiversity for its latitude as the northernmost flourishing coral ecosystem in the world. The shallow section teems with colorful anthias, damselfish, butterflyfish, and clownfish. Napoleon (humphead) wrasse are resident. Moray eels emerge from coral heads at night. Sea turtles patrol the deeper sections of the wall. Parrotfish, grouper, and snapper round out the fish community. The soft corals and sea fans on the deeper wall provide habitat for small invertebrates and nudibranchs. Occasional whale shark sightings have been reported in summer months.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The dive typically begins on the shallow coral garden at 8-10 meters, which is packed with hard coral structures and diverse fish life. From here, divers can follow the wall down to recreational depths of 30-40 meters, where the coral wall is draped in soft corals and sea fans. The vast extent of the site — nearly 500 meters — means multiple dives are needed to see it fully. Boat drop-off and pickup is coordinated with the dive club.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Boat access only. Contact one of Eilat's licensed dive operators (Manta, Aqua Sport, Nautilus Red Sea, or others) to arrange. A minimum group size of four divers is typically required. Advance booking is essential as this is Eilat's most popular dive site and slots fill quickly.
 
 ## Tips and Recommendations
 
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Book well in advance, especially during peak season (summer and Jewish holidays)
+- Bring both wide-angle and macro photography equipment — the site rewards both approaches
+- Two-tank dives are recommended to cover both the shallow and deep zones adequately
+- The shallow section is genuinely accessible to Open Water Diver-certified divers
+- Nitrox certification allows more time on the deeper wall sections
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+The deep coral wall reaches beyond recreational diving limits. Adhere to your certification level. Boat access means potential surface traffic above — always deploy an SMB before ascending. The site is a marine protected area; absolutely no collecting or touching coral.
 
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [israelbylocals.com](https://israelbylocals.com/eilat-diving-locations/), [shulamit-diving.com](https://shulamit-diving.com/dives.htm), [thebrokebackpacker.com](https://www.thebrokebackpacker.com/scuba-diving-in-eilat/), [divezone.net](https://divezone.net/diving/eilat). Last updated 2026-04-11.*
