@@ -2,7 +2,7 @@
 name: Wreck Scire
 lat: 32.91152
 lng: 34.970641
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 33
 entryType: boat
 siteType: wreck
@@ -26,9 +26,9 @@ In 2023, the wreck was declared Israel's first official underwater historical si
 ## Site Information
 
 - **Location**: Haifa Bay, Israel, Mediterranean
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Maximum Depth**: 33 metres
+- **Maximum Depth**: 33 meters
 - **Typical Visibility**: 5–15 metres (conditions vary seasonally)
 - **Current**: Variable; can be strong
 - **Best Time**: May to October (calmer conditions)

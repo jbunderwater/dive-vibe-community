@@ -2,7 +2,7 @@
 name: Wreck Turkish
 lat: 32.841139
 lng: 34.974203
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 11
 entryType: boat
 siteType: wreck
@@ -26,9 +26,9 @@ The wreck lies approximately 900 metres offshore at 9–11 metres depth. Remaini
 ## Site Information
 
 - **Location**: Approximately 900 metres offshore from Nahariya, Israel
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Maximum Depth**: 11 metres
+- **Maximum Depth**: 11 meters
 - **Typical Visibility**: 5–12 metres (best in calm conditions; popular as a night dive)
 - **Current**: Mild to moderate
 - **Best Time**: Year-round; particularly popular as a night dive

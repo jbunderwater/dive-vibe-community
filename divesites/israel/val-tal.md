@@ -22,7 +22,7 @@ VAL TAL is catalogued as a dive site in northern Haifa Bay, between Haifa and Ac
 ## Site Information
 
 - **Location**: Northern Haifa Bay, Israel
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Maximum Depth**: Unknown
 - **Typical Visibility**: Typical northern Israeli Mediterranean 5–12 metres

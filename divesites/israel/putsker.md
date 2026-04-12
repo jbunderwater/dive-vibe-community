@@ -24,7 +24,7 @@ The Putsker Diving Club offers boat and shore dives to various sites along the n
 ## Site Information
 
 - **Location**: Northern Israeli Mediterranean, Nahariya/Rosh Hanikra area
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Maximum Depth**: Unknown
 - **Typical Visibility**: Typical northern Israeli Mediterranean 5–12 metres

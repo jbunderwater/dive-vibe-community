@@ -22,7 +22,7 @@ Wreck Luna is catalogued on Israeli Mediterranean nautical charts and dive datab
 ## Site Information
 
 - **Location**: South of Haifa, central Israeli Mediterranean
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Maximum Depth**: Unknown
 - **Typical Visibility**: Typical Israeli Mediterranean 5–12 metres

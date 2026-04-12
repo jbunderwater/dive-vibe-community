@@ -24,9 +24,9 @@ The wreck is accessed by boat from Ashdod Marina and is likely dived alongside t
 ## Site Information
 
 - **Location**: Offshore Ashdod, southern Mediterranean coast of Israel
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Maximum Depth**: Estimated 20–25 metres (unconfirmed)
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 5–10 metres (seasonal)
 - **Current**: Moderate
 - **Best Time**: October to May

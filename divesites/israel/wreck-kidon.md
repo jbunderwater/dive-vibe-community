@@ -24,9 +24,9 @@ The wreck lies approximately 3 km offshore at a depth of 26 metres. The vessel's
 ## Site Information
 
 - **Location**: Northern Mediterranean coast, Israel (near Nahariya/Shavei Zion area)
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Maximum Depth**: 26 metres
+- **Maximum Depth**: 26 meters
 - **Typical Visibility**: 5–12 metres (seasonal variation)
 - **Current**: Moderate
 - **Best Time**: May to October

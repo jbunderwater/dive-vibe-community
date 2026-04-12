@@ -24,7 +24,7 @@ No public diving records, wreck identification, or historical documentation for 
 ## Site Information
 
 - **Location**: Northern Israeli Mediterranean coast
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Maximum Depth**: Unknown (nautical chart notation only)
 - **Typical Visibility**: Typical northern Israeli Mediterranean 5–12 metres

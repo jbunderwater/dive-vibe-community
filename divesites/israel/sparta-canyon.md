@@ -5,7 +5,7 @@ lng: 34.95456
 difficulty: Intermediate
 maxDepth: null
 entryType: boat
-siteType: reef
+siteType: wall
 ref: null
 osmId: null
 addedBy: osm_import
@@ -24,8 +24,8 @@ No detailed site descriptions or depth data have been confirmed in public diving
 ## Site Information
 
 - **Location**: Northern Haifa Bay, Israel
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
 - **Maximum Depth**: Unknown
 - **Typical Visibility**: Typical northern Israeli Mediterranean 5–12 metres
 - **Current**: Moderate; can be variable in canyon topography

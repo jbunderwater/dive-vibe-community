@@ -22,7 +22,7 @@ This site is catalogued simply as "WRECK" on nautical charts of the Israeli Medi
 ## Site Information
 
 - **Location**: Near Rosh Hanikra, northern Israeli Mediterranean
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Maximum Depth**: Unknown
 - **Special Requirements**: IDF Navy clearance likely required due to proximity to Lebanese border

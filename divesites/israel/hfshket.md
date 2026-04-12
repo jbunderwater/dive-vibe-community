@@ -22,7 +22,7 @@ HFSHKET is catalogued as a dive site in the northern Haifa Bay area near Haifa. 
 ## Site Information
 
 - **Location**: Northern Haifa Bay area
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Maximum Depth**: Unknown
 - **Typical Visibility**: Typical northern Israeli Mediterranean 5–12 metres

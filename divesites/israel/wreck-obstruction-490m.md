@@ -2,7 +2,7 @@
 name: Wreck Obstruction -49.0m
 lat: 31.478577
 lng: 34.216232
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 49
 entryType: boat
 siteType: wreck
@@ -24,7 +24,7 @@ No vessel identification has been found. This deep, remote obstruction is not kn
 ## Site Information
 
 - **Location**: Open Mediterranean, approximately 30 km offshore (south of Ashkelon area)
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Depth of Obstruction Top**: 49 metres below surface
 - **Typical Visibility**: 10–20 metres (open deep water; cleaner than near-coast)

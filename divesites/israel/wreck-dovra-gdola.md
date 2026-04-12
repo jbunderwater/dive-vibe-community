@@ -24,7 +24,7 @@ No detailed historical documentation about this specific barge — including whe
 ## Site Information
 
 - **Location**: Off Haifa, northern Israeli Mediterranean coast
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Maximum Depth**: Approximately 15–20 metres (unconfirmed)
 - **Typical Visibility**: 5–12 metres (typical northern Israeli Mediterranean)

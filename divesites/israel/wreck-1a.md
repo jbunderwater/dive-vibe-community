@@ -24,7 +24,7 @@ Local dive operators in the nearest coastal city may have explored this wreck an
 ## Site Information
 
 - **Location**: Israeli Mediterranean coast
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Maximum Depth**: Unknown
 - **Typical Visibility**: Typical Israeli Mediterranean 5–12 metres

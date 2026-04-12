@@ -2,7 +2,7 @@
 name: Wreck OBSTRUCTIO
 lat: 31.509476
 lng: 34.380341
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 30
 entryType: boat
 siteType: wreck
@@ -24,9 +24,9 @@ No vessel identification or published dive description has been found for this s
 ## Site Information
 
 - **Location**: Open Mediterranean, south of Ashkelon (15–20 km offshore)
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Maximum Depth**: Estimated 25–30 metres (unconfirmed)
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 5–10 metres (seasonal)
 - **Current**: Moderate to strong (open water)
 - **Best Time**: October to April

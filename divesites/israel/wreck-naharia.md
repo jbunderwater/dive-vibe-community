@@ -24,7 +24,7 @@ Local operators based in Nahariya are the best source for current information ab
 ## Site Information
 
 - **Location**: Off Nahariya, northern Israeli Mediterranean
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Maximum Depth**: Unknown
 - **Typical Visibility**: Typical northern Israeli Mediterranean 5–12 metres

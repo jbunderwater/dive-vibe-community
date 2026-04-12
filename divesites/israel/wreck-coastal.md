@@ -2,7 +2,7 @@
 name: Wreck coastal
 lat: 31.948917
 lng: 34.699722
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 10
 entryType: shore
 siteType: wreck
@@ -26,7 +26,7 @@ Coastal wreck sites in Israel's central Mediterranean zone are often small vesse
 - **Location**: Near-shore, north of Ashdod / Palmachim area
 - **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
-- **Maximum Depth**: Estimated 5–10 metres
+- **Maximum Depth**: 10 meters
 - **Typical Visibility**: 5–10 metres (seasonal)
 - **Current**: Mild (nearshore)
 - **Best Time**: October to May

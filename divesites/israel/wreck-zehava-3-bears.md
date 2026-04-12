@@ -2,7 +2,7 @@
 name: Wreck Zehava 3 bears
 lat: 31.710889
 lng: 34.504083
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 30
 entryType: boat
 siteType: wreck
@@ -26,9 +26,9 @@ The Zehava 3 Bears wreck is likely accessed by boat from Ashdod Marina or a loca
 ## Site Information
 
 - **Location**: Offshore Ashkelon, southern Mediterranean coast
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Maximum Depth**: Estimated 25–30 metres (unconfirmed)
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 5–10 metres (seasonal)
 - **Current**: Moderate
 - **Best Time**: October to May

@@ -24,7 +24,7 @@ Note: The Wreck Arlozorov, also in the Haifa area, is another known Ma'apilim sh
 ## Site Information
 
 - **Location**: Off Haifa, northern Israeli Mediterranean
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Maximum Depth**: Unknown
 - **Typical Visibility**: Typical northern Israeli Mediterranean 5–12 metres

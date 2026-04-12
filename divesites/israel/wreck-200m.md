@@ -22,9 +22,9 @@ A wreck at approximately 20 metres depth in the waters east of Haifa Bay. The si
 ## Site Information
 
 - **Location**: Eastern Haifa Bay area, Israel
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Maximum Depth**: ~20 metres (per chart notation)
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 5–12 metres
 
 ---

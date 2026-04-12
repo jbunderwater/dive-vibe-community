@@ -2,7 +2,7 @@
 name: BUOY
 lat: 32.795391
 lng: 34.935322
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: null
 entryType: shore
 siteType: reef

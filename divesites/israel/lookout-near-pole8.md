@@ -24,7 +24,7 @@ No specific diving records or underwater feature descriptions for this particula
 ## Site Information
 
 - **Location**: Northern Israeli coast near Rosh Hanikra
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Maximum Depth**: Unknown
 - **Special Requirements**: IDF Navy clearance may be required

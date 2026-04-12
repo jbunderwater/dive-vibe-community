@@ -24,7 +24,7 @@ Local dive operators in the Haifa area may have information about whether this w
 ## Site Information
 
 - **Location**: Off Haifa, northern Israeli Mediterranean
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Maximum Depth**: Unknown
 - **Typical Visibility**: Typical northern Israeli Mediterranean 5–12 metres

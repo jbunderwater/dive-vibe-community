@@ -2,10 +2,10 @@
 name: SADAG
 lat: 32.108169
 lng: 34.62822
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 35
 entryType: boat
-siteType: reef
+siteType: wreck
 ref: null
 osmId: null
 addedBy: osm_import
@@ -24,9 +24,9 @@ Given the depth suggested by its offshore position (likely 30-40 m), this is an 
 ## Site Information
 
 - **Location**: Offshore central Israeli Mediterranean, west of Tel Aviv
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Maximum Depth**: Approximately 30-40 meters (estimated from offshore position)
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 5-15 meters
 - **Current**: Offshore current conditions
 - **Best Time**: Spring and autumn

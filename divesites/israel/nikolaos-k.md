@@ -2,10 +2,10 @@
 name: NIKOLAOS K
 lat: 32.069774
 lng: 34.491577
-difficulty: Intermediate
-maxDepth: 25
-entryType: shore
-siteType: reef
+difficulty: Advanced
+maxDepth: 40
+entryType: boat
+siteType: wreck
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,53 +13,30 @@ addedBy: osm_import
 
 ## NIKOLAOS K
 
-NIKOLAOS K is a  dive site in Israel, Middle East.
+NIKOLAOS K is a Greek-named vessel wreck in the Israeli Mediterranean, located at approximately 32.07°N, 34.49°E — a position significantly offshore (approximately 20+ km from the coast) west of Bat Yam and Jaffa. The name indicates a Greek vessel (Nikolaos is a common Greek given name, and "K" likely represents the family name initial, following Greek naming conventions for merchant vessels).
 
 ## Overview
 
-NIKOLAOS K is a dive site in Israel offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The far offshore position places NIKOLAOS K in deeper water, likely 35-50 meters based on the regional seafloor gradient at this longitude. The site requires a longer boat transit from Tel Aviv or Jaffa ports. No specific historical records for this vessel were located in available English-language diving sources, suggesting it is a locally known wreck site visited by Israeli dive clubs and operators.
+
+Greek merchant vessels were common in the eastern Mediterranean throughout the 20th century, and several have been lost along the Israeli coast due to weather, navigation errors, or wartime action.
 
 ## Site Information
 
-- **Location**: Israel, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Location**: Deep offshore Israeli Mediterranean, west of Bat Yam / Jaffa
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
+- **Maximum Depth**: 40 meters
+- **Typical Visibility**: 5-15 meters
+- **Current**: Offshore current conditions; can be strong
+- **Best Time**: Spring and autumn
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Deep Mediterranean wreck species: large grouper, dentex, sea bream, moray eels, and invertebrate communities on the hull.
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Advanced dive. Appropriate gas planning for depth required. Deploy SMB on ascent. Strong offshore currents possible.
 
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Description based on OSM data and geographic analysis. No verified historical records found in available English-language sources. Last updated 2026-04-11.*

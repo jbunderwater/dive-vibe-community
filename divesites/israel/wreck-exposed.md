@@ -24,9 +24,9 @@ This wreck's identity and vessel history have not been established from availabl
 ## Site Information
 
 - **Location**: Offshore, south of Ashkelon, southern Mediterranean
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Maximum Depth**: Estimated 10–15 metres
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: 5–10 metres (seasonal)
 - **Current**: Moderate
 - **Best Time**: October to May (calm weather periods only)

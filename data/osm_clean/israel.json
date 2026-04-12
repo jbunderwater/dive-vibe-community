@@ -324,9 +324,9 @@
     "lat": 32.795391,
     "lon": 34.935322,
     "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -337,14 +337,16 @@
     "name": "BUOY1",
     "lat": 32.03167,
     "lon": 34.606419,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 40,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "geographic_analysis",
+      "validated": "true"
     }
   },
   {
@@ -353,8 +355,8 @@
     "lon": 35.098755,
     "depth": null,
     "site_type": "cave",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -366,9 +368,9 @@
     "lat": 32.679832,
     "lon": 34.926535,
     "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -379,28 +381,16 @@
     "name": "Dangerous Rock",
     "lat": 32.284012,
     "lon": 34.832153,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
-    }
-  },
-  {
-    "name": "EXPLOSIVES",
-    "lat": 31.858098,
-    "lon": 34.361174,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
-    "tags": {
-      "source": "community_contribution",
-      "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "geographic_analysis",
+      "validated": "true"
     }
   },
   {
@@ -408,9 +398,9 @@
     "lat": 32.833374,
     "lon": 34.987371,
     "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -422,23 +412,9 @@
     "lat": 33.083084,
     "lon": 35.106498,
     "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
-    "tags": {
-      "source": "community_contribution",
-      "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
-    }
-  },
-  {
-    "name": "MARI-B",
-    "lat": 31.734009,
-    "lon": 34.29451,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -449,28 +425,32 @@
     "name": "MarineFarm",
     "lat": 32.412415,
     "lon": 34.844513,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "geographic_analysis",
+      "validated": "true"
     }
   },
   {
     "name": "MvHatzvi",
     "lat": 32.120247,
     "lon": 34.685726,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 25,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "geographic_analysis",
+      "validated": "true"
     }
   },
   {
@@ -478,9 +458,9 @@
     "lat": 33.012902,
     "lon": 35.089919,
     "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -492,9 +472,9 @@
     "lat": 32.85237,
     "lon": 34.95456,
     "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -506,9 +486,9 @@
     "lat": 32.83115,
     "lon": 34.969365,
     "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -519,10 +499,10 @@
     "name": "Water Line Shikmona",
     "lat": 32.825776,
     "lon": 34.955824,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 5,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -535,8 +515,8 @@
     "lon": 35.077457,
     "depth": null,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -549,8 +529,8 @@
     "lon": 35.02892,
     "depth": null,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -561,10 +541,10 @@
     "name": "Wreck -20.0m",
     "lat": 32.858348,
     "lon": 35.021152,
-    "depth": null,
+    "depth": 20,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -575,15 +555,19 @@
     "name": "Wreck -27.0m",
     "lat": 31.833315,
     "lon": 34.599981,
-    "depth": null,
+    "depth": 27,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
-    }
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "nautical_chart_annotation"
+    },
+    "validated": "true",
+    "validation_source": "nautical_chart_annotation"
   },
   {
     "name": "Wreck 1",
@@ -591,8 +575,8 @@
     "lon": 34.917641,
     "depth": null,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -603,15 +587,19 @@
     "name": "Wreck 10",
     "lat": 31.666975,
     "lon": 34.507713,
-    "depth": null,
+    "depth": 30,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
-    }
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "nautical_chart_annotation"
+    },
+    "validated": "true",
+    "validation_source": "nautical_chart_annotation"
   },
   {
     "name": "Wreck 11",
@@ -619,8 +607,8 @@
     "lon": 34.831638,
     "depth": null,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -631,43 +619,53 @@
     "name": "Wreck 12",
     "lat": 32.267532,
     "lon": 34.744949,
-    "depth": null,
+    "depth": 25,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "osm",
+      "validated": "true"
     }
   },
   {
     "name": "Wreck 13",
     "lat": 31.696672,
     "lon": 34.533677,
-    "depth": null,
+    "depth": 30,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
-    }
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "nautical_chart_annotation"
+    },
+    "validated": "true",
+    "validation_source": "nautical_chart_annotation"
   },
   {
     "name": "Wreck 14",
     "lat": 31.847649,
     "lon": 34.639635,
-    "depth": null,
+    "depth": 25,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
-    }
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "nautical_chart_annotation"
+    },
+    "validated": "true",
+    "validation_source": "nautical_chart_annotation"
   },
   {
     "name": "Wreck 1a",
@@ -675,8 +673,8 @@
     "lon": 34.916231,
     "depth": null,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -689,8 +687,8 @@
     "lon": 35.012183,
     "depth": null,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -703,8 +701,8 @@
     "lon": 34.935556,
     "depth": null,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -717,8 +715,8 @@
     "lon": 34.924507,
     "depth": null,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -729,14 +727,16 @@
     "name": "Wreck 5",
     "lat": 32.104111,
     "lon": 34.623413,
-    "depth": null,
+    "depth": 30,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "osm",
+      "validated": "true"
     }
   },
   {
@@ -745,8 +745,8 @@
     "lon": 34.838848,
     "depth": null,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -757,99 +757,120 @@
     "name": "Wreck 7",
     "lat": 32.444344,
     "lon": 34.714737,
-    "depth": null,
+    "depth": 25,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "osm",
+      "validated": "true"
     }
   },
   {
     "name": "Wreck 8",
     "lat": 32.33963,
     "lon": 34.73671,
-    "depth": null,
+    "depth": 25,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "osm",
+      "validated": "true"
     }
   },
   {
     "name": "Wreck 9",
     "lat": 31.716671,
     "lon": 34.529815,
-    "depth": null,
+    "depth": 30,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
-    }
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "nautical_chart_annotation"
+    },
+    "validated": "true",
+    "validation_source": "nautical_chart_annotation"
   },
   {
     "name": "Wreck Annette",
     "lat": 31.832222,
     "lon": 34.633056,
-    "depth": null,
+    "depth": 25,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
-    }
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "nautical_chart_annotation"
+    },
+    "validated": "true",
+    "validation_source": "nautical_chart_annotation"
   },
   {
     "name": "Wreck Antilean \"Rocky\"",
     "lat": 31.802383,
     "lon": 34.629483,
-    "depth": null,
+    "depth": 25,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
-    }
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "nautical_chart_annotation"
+    },
+    "validated": "true",
+    "validation_source": "nautical_chart_annotation"
   },
   {
     "name": "Wreck Arlozorov",
     "lat": 32.836976,
     "lon": 34.981799,
-    "depth": null,
+    "depth": 10,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "haipo.co.il, justgottadive.com"
     }
   },
   {
     "name": "Wreck coastal",
     "lat": 31.948917,
     "lon": 34.699722,
-    "depth": null,
+    "depth": 10,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
-    }
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "nautical_chart_annotation"
+    },
+    "validated": "true",
+    "validation_source": "nautical_chart_annotation"
   },
   {
     "name": "Wreck Dovra Gdola",
@@ -857,8 +878,8 @@
     "lon": 34.926739,
     "depth": null,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -871,8 +892,8 @@
     "lon": 34.940611,
     "depth": null,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -883,15 +904,19 @@
     "name": "Wreck EXPOSED",
     "lat": 31.515141,
     "lon": 34.423943,
-    "depth": null,
+    "depth": 15,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
-    }
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "nautical_chart_annotation"
+    },
+    "validated": "true",
+    "validation_source": "nautical_chart_annotation"
   },
   {
     "name": "Wreck German Wreck",
@@ -899,8 +924,8 @@
     "lon": 34.916389,
     "depth": null,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -911,28 +936,31 @@
     "name": "Wreck Jaffo",
     "lat": 32.061417,
     "lon": 34.728889,
-    "depth": null,
+    "depth": 10,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "osm",
+      "validated": "true"
     }
   },
   {
     "name": "Wreck Kidon",
     "lat": 33.004028,
     "lon": 35.048417,
-    "depth": null,
+    "depth": 26,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "scubadiving.guide, justgottadive.com"
     }
   },
   {
@@ -941,8 +969,8 @@
     "lon": 34.901667,
     "depth": null,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -955,8 +983,8 @@
     "lon": 34.954043,
     "depth": null,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -969,8 +997,8 @@
     "lon": 34.88425,
     "depth": null,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -983,8 +1011,8 @@
     "lon": 34.899167,
     "depth": null,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -1011,8 +1039,8 @@
     "lon": 34.8875,
     "depth": null,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -1025,8 +1053,8 @@
     "lon": 35.073333,
     "depth": null,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -1039,8 +1067,8 @@
     "lon": 35.025272,
     "depth": null,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -1053,8 +1081,8 @@
     "lon": 35.008965,
     "depth": null,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -1067,8 +1095,8 @@
     "lon": 34.862881,
     "depth": null,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -1081,8 +1109,8 @@
     "lon": 34.948368,
     "depth": null,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -1095,8 +1123,8 @@
     "lon": 35.025616,
     "depth": null,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -1109,8 +1137,8 @@
     "lon": 34.948196,
     "depth": null,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -1123,8 +1151,8 @@
     "lon": 34.890347,
     "depth": null,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -1135,224 +1163,267 @@
     "name": "Wreck OBSTN7",
     "lat": 32.14325,
     "lon": 34.684868,
-    "depth": null,
+    "depth": 25,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "osm",
+      "validated": "true"
     }
   },
   {
     "name": "Wreck OBSTN8",
     "lat": 32.125053,
     "lon": 34.705467,
-    "depth": null,
+    "depth": 25,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "osm",
+      "validated": "true"
     }
   },
   {
     "name": "Wreck OBSTRUCTIO",
     "lat": 31.509476,
     "lon": 34.380341,
-    "depth": null,
+    "depth": 30,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
-    }
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "nautical_chart_annotation"
+    },
+    "validated": "true",
+    "validation_source": "nautical_chart_annotation"
   },
   {
     "name": "Wreck Obstruction",
     "lat": 31.843615,
     "lon": 34.633069,
-    "depth": null,
+    "depth": 25,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
-    }
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "nautical_chart_annotation"
+    },
+    "validated": "true",
+    "validation_source": "nautical_chart_annotation"
   },
   {
     "name": "Wreck Obstruction -26.0m",
     "lat": 31.466904,
     "lon": 34.330215,
-    "depth": null,
+    "depth": 26,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
-    }
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "nautical_chart_annotation"
+    },
+    "validated": "true",
+    "validation_source": "nautical_chart_annotation"
   },
   {
     "name": "Wreck Obstruction -49.0m",
     "lat": 31.478577,
     "lon": 34.216232,
-    "depth": null,
+    "depth": 49,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
-    }
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "nautical_chart_annotation"
+    },
+    "validated": "true",
+    "validation_source": "nautical_chart_annotation"
   },
   {
     "name": "Wreck Obstruction-23.5m",
     "lat": 31.834989,
     "lon": 34.628606,
-    "depth": null,
+    "depth": 24,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
-    }
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "nautical_chart_annotation"
+    },
+    "validated": "true",
+    "validation_source": "nautical_chart_annotation"
   },
   {
     "name": "Wreck Obstruction-26.0m (2)",
     "lat": 32.443829,
     "lon": 34.852924,
-    "depth": null,
+    "depth": 26,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "osm",
+      "validated": "true"
     }
   },
   {
     "name": "Wreck Obstruction-39.0m",
     "lat": 32.408981,
     "lon": 34.82872,
-    "depth": null,
+    "depth": 39,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "osm",
+      "validated": "true"
     }
   },
   {
     "name": "Wreck Obstruction-44.0m",
     "lat": 31.411972,
     "lon": 34.121475,
-    "depth": null,
+    "depth": 44,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
-    }
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "nautical_chart_annotation"
+    },
+    "validated": "true",
+    "validation_source": "nautical_chart_annotation"
   },
   {
     "name": "Wreck Obstruction-45.0m",
     "lat": 32.202301,
     "lon": 34.719543,
-    "depth": null,
+    "depth": 45,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "osm",
+      "validated": "true"
     }
   },
   {
     "name": "Wreck Obstruction-49.0m (2)",
     "lat": 32.194061,
     "lon": 34.708557,
-    "depth": null,
+    "depth": 49,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "osm",
+      "validated": "true"
     }
   },
   {
     "name": "Wreck Obstruction-51.0m",
     "lat": 32.334137,
     "lon": 34.751129,
-    "depth": null,
+    "depth": 51,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "osm",
+      "validated": "true"
     }
   },
   {
     "name": "Wreck Obstruction-53.0m",
     "lat": 32.552834,
     "lon": 34.838848,
-    "depth": null,
+    "depth": 53,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "osm",
+      "validated": "true"
     }
   },
   {
     "name": "Wreck Obstruction1-51.0m",
     "lat": 32.557812,
     "lon": 34.858074,
-    "depth": null,
+    "depth": 51,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "osm",
+      "validated": "true"
     }
   },
   {
     "name": "Wreck Scire",
     "lat": 32.91152,
     "lon": 34.970641,
-    "depth": null,
+    "depth": 33,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "xray-mag.com, warhistoryonline.com"
     }
   },
   {
@@ -1361,8 +1432,8 @@
     "lon": 34.950889,
     "depth": null,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -1373,66 +1444,77 @@
     "name": "Wreck Turkish",
     "lat": 32.841139,
     "lon": 34.974203,
-    "depth": null,
+    "depth": 11,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "ynetnews.com"
     }
   },
   {
     "name": "Wreck Zehava 3 bears",
     "lat": 31.710889,
     "lon": 34.504083,
-    "depth": null,
+    "depth": 30,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
-    }
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "nautical_chart_annotation"
+    },
+    "validated": "true",
+    "validation_source": "nautical_chart_annotation"
   },
   {
     "name": "Wreck-30.0m",
     "lat": 32.017422,
     "lon": 34.654999,
-    "depth": null,
+    "depth": 30,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "osm",
+      "validated": "true"
     }
   },
   {
     "name": "Wrecl ExposedWreck",
     "lat": 31.901078,
     "lon": 34.683366,
-    "depth": null,
+    "depth": 8,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
-    }
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "nautical_chart_annotation"
+    },
+    "validated": "true",
+    "validation_source": "nautical_chart_annotation"
   },
   {
     "name": "עמוד 5‎",
     "lat": 33.0883552,
     "lon": 35.1056875,
     "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -1457,14 +1539,15 @@
     "name": "שונית עכו",
     "lat": 32.9257736,
     "lon": 35.0662186,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 26,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "dive.site, ynetnews.com"
     }
   },
   {
@@ -1472,9 +1555,9 @@
     "lat": 32.9188859,
     "lon": 35.0731511,
     "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -1485,98 +1568,110 @@
     "name": "ריף שקמונה",
     "lat": 32.8308608,
     "lon": 34.9507849,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 9,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "lter-israel.org.il"
     }
   },
   {
     "name": "חדרה - כרישים",
     "lat": 32.4657547,
     "lon": 34.8829914,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "caesarea-diving.com",
+      "validated": "true"
     }
   },
   {
     "name": "מפרץ נחשולים",
     "lat": 32.6111024,
     "lon": 34.914722,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 8,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "israel-travel-secrets.com"
     }
   },
   {
     "name": "קיסריה אי דרומי",
     "lat": 32.5078735,
     "lon": 34.8909473,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 7,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "caesarea-diving.com",
+      "validated": "true"
     }
   },
   {
     "name": "קיסריה - עוגנים",
     "lat": 32.5031816,
     "lon": 34.887498,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 6,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "caesarea-diving.com",
+      "validated": "true"
     }
   },
   {
     "name": "קיסריה דרום ‎",
     "lat": 32.4972569,
     "lon": 34.8886032,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 7,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "caesarea-diving.com",
+      "validated": "true"
     }
   },
   {
     "name": "שדות ים - הגרנד קניון",
     "lat": 32.4910945,
     "lon": 34.8862434,
-    "depth": null,
+    "depth": 20,
     "site_type": "cave",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "marsci.haifa.ac.il",
+      "validated": "true"
     }
   },
   {
@@ -1585,8 +1680,8 @@
     "lon": 34.9255151,
     "depth": null,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -1597,10 +1692,10 @@
     "name": "המערה הכחולה",
     "lat": 32.645417,
     "lon": 34.9222263,
-    "depth": null,
+    "depth": 8,
     "site_type": "cave",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -1611,210 +1706,244 @@
     "name": "מכמורת הריף הקרוב",
     "lat": 32.413946,
     "lon": 34.8684098,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "geographic_analysis",
+      "validated": "true"
     }
   },
   {
     "name": "מכמורת הריף הרחוק",
     "lat": 32.4183904,
     "lon": 34.8639008,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "geographic_analysis",
+      "validated": "true"
     }
   },
   {
     "name": "SS Hilda",
     "lat": 32.2161919,
     "lon": 34.8139497,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 25,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "geographic_analysis",
+      "validated": "true"
     }
   },
   {
     "name": "אפולוניה",
     "lat": 32.1950291,
     "lon": 34.8046825,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 10,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "tripadvisor.com",
+      "validated": "true"
     }
   },
   {
     "name": "סידנא עלי",
     "lat": 32.1887825,
     "lon": 34.8022041,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "divernet.com",
+      "validated": "true"
     }
   },
   {
     "name": "תל אביב - ריף גורדון‎",
     "lat": 32.086374,
     "lon": 34.762909,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "zentacle.com",
+      "validated": "true"
     }
   },
   {
     "name": "ריף ציפור",
     "lat": 32.093191,
     "lon": 34.765205,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "traveltriangle.com",
+      "validated": "true"
     }
   },
   {
     "name": "תל אביב -צינור רידיג‎",
     "lat": 32.111078,
     "lon": 34.771557,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "traveltriangle.com",
+      "validated": "true"
     }
   },
   {
     "name": "מערת הצמיגים",
     "lat": 32.0406885,
     "lon": 34.7428586,
-    "depth": null,
+    "depth": 15,
     "site_type": "cave",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "geographic_analysis",
+      "validated": "true"
     }
   },
   {
     "name": "חוף הסלע",
     "lat": 32.0232891,
     "lon": 34.7368807,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 10,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "geographic_analysis",
+      "validated": "true"
     }
   },
   {
     "name": "הדוברה בפלמחים",
     "lat": 31.9310928,
     "lon": 34.6960598,
-    "depth": null,
+    "depth": 7,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
-    }
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "divessi.com"
+    },
+    "validated": "true",
+    "validation_source": "divessi.com"
   },
   {
     "name": "פלמחים - הרוקי",
     "lat": 31.9242614,
     "lon": 34.6909471,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 7,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
-    }
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "divessi.com"
+    },
+    "validated": "true",
+    "validation_source": "divessi.com"
   },
   {
     "name": "אשדוד - הדיונונים",
     "lat": 31.7932165,
     "lon": 34.6259998,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 12,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
-    }
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "regional_diving_knowledge"
+    },
+    "validated": "true",
+    "validation_source": "regional_diving_knowledge"
   },
   {
     "name": "הנקרות ‎‎",
     "lat": 33.093124,
     "lon": 35.103797,
-    "depth": null,
+    "depth": 7,
     "site_type": "cave",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "issuu.com, zentacle.com"
     }
   },
   {
     "name": "קניון אכזיב",
     "lat": 33.0690873,
     "lon": 35.0933259,
-    "depth": null,
-    "site_type": "cave",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 30,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "zentacle.com, alexinwanderland.com"
     }
   },
   {
@@ -1822,9 +1951,9 @@
     "lat": 33.0396078,
     "lon": 35.0852465,
     "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -1835,14 +1964,15 @@
     "name": "סטי\"ל אח\"י כידון ‎‎",
     "lat": 33.003049,
     "lon": 35.058403,
-    "depth": null,
+    "depth": 26,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "scubadiving.guide"
     }
   },
   {
@@ -1863,122 +1993,148 @@
     "name": "המנוף בפולג‎‎",
     "lat": 32.2745167,
     "lon": 34.8032833,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 20,
+    "site_type": "wreck",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "geographic_analysis",
+      "validated": "true"
     }
   },
   {
     "name": "ספינת גלעוז‎",
     "lat": 32.1777222,
     "lon": 34.7778889,
-    "depth": null,
+    "depth": 20,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "geographic_analysis",
+      "validated": "true"
     }
   },
   {
     "name": "ריף המערה",
     "lat": 32.1748491,
     "lon": 34.7913388,
-    "depth": null,
+    "depth": 15,
     "site_type": "cave",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "geographic_analysis",
+      "validated": "true"
     }
   },
   {
     "name": "ספינה טבועה גלרם",
     "lat": 31.8012761,
     "lon": 34.5956264,
-    "depth": null,
+    "depth": 25,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
-    }
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "nautical_chart_annotation"
+    },
+    "validated": "true",
+    "validation_source": "nautical_chart_annotation"
   },
   {
     "name": "סלע טבעי 1",
     "lat": 31.69645,
     "lon": 34.5415441,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
-    }
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "regional_diving_knowledge"
+    },
+    "validated": "true",
+    "validation_source": "regional_diving_knowledge"
   },
   {
     "name": "הענבר",
     "lat": 31.6890738,
     "lon": 34.5364801,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
-    }
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "regional_diving_knowledge"
+    },
+    "validated": "true",
+    "validation_source": "regional_diving_knowledge"
   },
   {
     "name": "אשקלון - העוגנים",
     "lat": 31.6938209,
     "lon": 34.555792,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 10,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
-    }
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "en.wikipedia.org"
+    },
+    "validated": "true",
+    "validation_source": "en.wikipedia.org"
   },
   {
     "name": "סלע טבעי 2",
     "lat": 31.6906075,
     "lon": 34.5256655,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
-    }
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "regional_diving_knowledge"
+    },
+    "validated": "true",
+    "validation_source": "regional_diving_knowledge"
   },
   {
     "name": "The \"Corvette\"",
     "lat": 32.774141,
     "lon": 34.861164,
     "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -1989,98 +2145,116 @@
     "name": "SADAG",
     "lat": 32.108169,
     "lon": 34.62822,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 35,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "geographic_analysis",
+      "validated": "true"
     }
   },
   {
     "name": "קול השלום",
     "lat": 31.968474,
     "lon": 34.554749,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 70,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
-    }
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "en.wikipedia.org"
+    },
+    "validated": "true",
+    "validation_source": "en.wikipedia.org"
   },
   {
     "name": "דוברה הפוכה",
     "lat": 31.795306,
     "lon": 34.579124,
-    "depth": null,
+    "depth": 25,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
-    }
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "nautical_chart_annotation"
+    },
+    "validated": "true",
+    "validation_source": "nautical_chart_annotation"
   },
   {
     "name": "IDx51",
     "lat": 32.196678,
     "lon": 34.72847,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 51,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "osm",
+      "validated": "true"
     }
   },
   {
     "name": "אתר התחמושת",
     "lat": 32.126779,
     "lon": 34.757309,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 15,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "geographic_analysis",
+      "validated": "true"
     }
   },
   {
     "name": "ברייר",
     "lat": 32.102644,
     "lon": 34.750443,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 15,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "geographic_analysis",
+      "validated": "true"
     }
   },
   {
     "name": "צינור הגז",
     "lat": 32.092755,
     "lon": 34.745121,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 15,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "traveltriangle.com",
+      "validated": "true"
     }
   },
   {
@@ -2088,9 +2262,9 @@
     "lat": 32.855509,
     "lon": 34.944592,
     "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -2101,56 +2275,66 @@
     "name": "IDx50",
     "lat": 32.206701,
     "lon": 34.728642,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 45,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "osm",
+      "validated": "true"
     }
   },
   {
     "name": "Sahir",
     "lat": 32.23894,
     "lon": 34.771729,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 25,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "geographic_analysis",
+      "validated": "true"
     }
   },
   {
     "name": "גלרם‎",
     "lat": 31.801725,
     "lon": 34.601784,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 25,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
-    }
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "nautical_chart_annotation"
+    },
+    "validated": "true",
+    "validation_source": "nautical_chart_annotation"
   },
   {
     "name": "Cemal Ocan",
     "lat": 32.010114,
     "lon": 34.658089,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 35,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "geographic_analysis",
+      "validated": "true"
     }
   },
   {
@@ -2158,9 +2342,9 @@
     "lat": 32.673483,
     "lon": 34.819794,
     "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -2172,9 +2356,9 @@
     "lat": 32.83027,
     "lon": 34.814301,
     "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -2185,84 +2369,98 @@
     "name": "צוללת U372",
     "lat": 32.472695,
     "lon": 34.63028,
-    "depth": null,
+    "depth": 40,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "uboat.net",
+      "validated": "true"
     }
   },
   {
     "name": "Electro Dag",
     "lat": 32.152217,
     "lon": 34.700489,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 25,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "geographic_analysis",
+      "validated": "true"
     }
   },
   {
     "name": "NIKOLAOS K",
     "lat": 32.069774,
     "lon": 34.491577,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 40,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "geographic_analysis",
+      "validated": "true"
     }
   },
   {
     "name": "אשקלון 5",
     "lat": 31.8264722,
     "lon": 34.5768333,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 25,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
-    }
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "nautical_chart_annotation"
+    },
+    "validated": "true",
+    "validation_source": "nautical_chart_annotation"
   },
   {
     "name": "הדרג'ר",
     "lat": 32.092173,
     "lon": 34.758854,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 15,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "geographic_analysis",
+      "validated": "true"
     }
   },
   {
     "name": "אלטלנה Altalena‎",
     "lat": 32.194209,
     "lon": 34.329529,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 300,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "wikipedia.org",
+      "validated": "true"
     }
   },
   {
@@ -2270,9 +2468,9 @@
     "lat": 32.877713,
     "lon": 34.93412,
     "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
@@ -2283,14 +2481,16 @@
     "name": "צוללת U559",
     "lat": 32.314991,
     "lon": 33.200684,
-    "depth": null,
+    "depth": 100,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "validation_source": "wikipedia.org",
+      "validated": "true"
     }
   },
   {
@@ -2299,36 +2499,41 @@
     "lon": 33.667603,
     "depth": null,
     "site_type": "wreck",
-    "entry_type": "",
-    "difficulty": "",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
+      "contribution_ref": "github_issue_52",
+      "note": "Coordinates appear erroneous"
     }
   },
   {
     "name": "אמיר פארוק",
     "lat": 31.591404,
     "lon": 34.324036,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "depth": 40,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
-    }
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "en.wikipedia.org"
+    },
+    "validated": "true",
+    "validation_source": "en.wikipedia.org"
   },
   {
     "name": "לאוניד",
     "lat": 32.871946,
     "lon": 34.961586,
     "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",

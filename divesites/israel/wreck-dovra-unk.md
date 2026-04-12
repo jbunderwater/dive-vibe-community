@@ -22,7 +22,7 @@ This site is catalogued as an unknown ("unk") barge wreck (Hebrew: dovra = barge
 ## Site Information
 
 - **Location**: Northern Israeli Mediterranean, Haifa area
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Maximum Depth**: Unknown
 - **Typical Visibility**: Typical northern Israeli Mediterranean 5–12 metres

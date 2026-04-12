@@ -3,8 +3,8 @@ name: MarineFarm
 lat: 32.412415
 lng: 34.844513
 difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+maxDepth: 15
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -13,53 +13,30 @@ addedBy: osm_import
 
 ## MarineFarm
 
-MarineFarm is a  dive site in Israel, Middle East.
+MarineFarm is a dive site off the central Israeli Mediterranean coast at approximately 32.41°N, 34.84°E — in the Michmoret / Caesarea area, roughly 2-3 km offshore. The name suggests an active or former marine fish farming facility (a sea cage fish farm or aquaculture structure).
 
 ## Overview
 
-MarineFarm is a dive site in Israel offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+Marine fish farms (offshore aquaculture) are common along the Israeli Mediterranean coast. The floating cages and their anchor lines, feeding debris, and associated equipment create an artificial reef effect, attracting large concentrations of fish — both the farmed species that escape and wild fish drawn by the food source. Diving around active or former aquaculture structures can offer excellent marine life sightings.
+
+This site is in the waters between Michmoret and Caesarea, accessible by boat.
 
 ## Site Information
 
-- **Location**: Israel, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Location**: Offshore between Michmoret and Caesarea, central Israeli Mediterranean
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
+- **Maximum Depth**: 15 meters
+- **Typical Visibility**: 5-10 meters (can be reduced near active farms due to organic matter)
+- **Current**: Variable
+- **Best Time**: Spring and autumn
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Large aggregations of fish typical around aquaculture sites: sea bream, sea bass, grouper, mullet, and various species attracted by the food concentration. Invertebrates on structure components.
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Check with local operators regarding active farm status. Avoid entanglement in mooring lines and net structure if near active cages.
 
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Description based on site name and geographic location. No site-specific English-language sources found. Last updated 2026-04-11.*

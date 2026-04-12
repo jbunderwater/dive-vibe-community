@@ -5,7 +5,7 @@ lng: 34.819794
 difficulty: Intermediate
 maxDepth: null
 entryType: boat
-siteType: reef
+siteType: wreck
 ref: null
 osmId: null
 addedBy: osm_import
@@ -24,8 +24,8 @@ No diving records, vessel identification, or public source information about thi
 ## Site Information
 
 - **Location**: South of Haifa, central Israeli Mediterranean
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Maximum Depth**: Unknown
 - **Typical Visibility**: Typical Israeli Mediterranean 5–12 metres
 

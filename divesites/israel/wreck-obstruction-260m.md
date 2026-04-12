@@ -2,7 +2,7 @@
 name: Wreck Obstruction -26.0m
 lat: 31.466904
 lng: 34.330215
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 26
 entryType: boat
 siteType: wreck
@@ -24,7 +24,7 @@ No vessel identification has been found. The location on the open southern Medit
 ## Site Information
 
 - **Location**: Open Mediterranean, south of Ashkelon (~20 km offshore)
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Depth of Obstruction Top**: 26 metres below surface
 - **Typical Visibility**: 5–15 metres (open water; seasonal)

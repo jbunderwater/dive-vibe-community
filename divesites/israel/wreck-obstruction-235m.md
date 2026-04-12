@@ -24,7 +24,7 @@ No vessel identification or published dive description has been found for this s
 ## Site Information
 
 - **Location**: Offshore Ashdod, southern Mediterranean coast
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Depth of Obstruction Top**: 23.5 metres
 - **Maximum Depth (seabed)**: Estimated 25–30 metres

@@ -22,7 +22,7 @@ This site is catalogued as a small barge wreck ("l. dovra" — likely abbreviati
 ## Site Information
 
 - **Location**: South of Haifa, Israeli Mediterranean coast
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Maximum Depth**: Unknown
 - **Typical Visibility**: Typical Israeli Mediterranean 5–12 metres

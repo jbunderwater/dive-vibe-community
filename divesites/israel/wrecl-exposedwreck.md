@@ -2,7 +2,7 @@
 name: Wrecl ExposedWreck
 lat: 31.901078
 lng: 34.683366
-difficulty: Intermediate
+difficulty: Beginner
 maxDepth: 8
 entryType: shore
 siteType: wreck
@@ -26,7 +26,7 @@ Shallow exposed wrecks like this are accessible to snorkelers as well as divers.
 - **Location**: Near-shore, Palmachim area, north of Ashdod
 - **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
-- **Maximum Depth**: Estimated 3–8 metres
+- **Maximum Depth**: 8 meters
 - **Typical Visibility**: 3–8 metres (nearshore; seasonal)
 - **Current**: Mild to moderate
 - **Best Time**: Calm weather periods; October to May

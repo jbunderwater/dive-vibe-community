@@ -5,7 +5,7 @@ lng: 34.8139497
 difficulty: Intermediate
 maxDepth: 25
 entryType: boat
-siteType: reef
+siteType: wreck
 ref: null
 osmId: null
 addedBy: osm_import
@@ -24,9 +24,9 @@ This appears to be a locally known wreck site accessible by boat from Herzliya o
 ## Site Information
 
 - **Location**: Offshore, central Israeli Mediterranean coast (approx. Herzliya area)
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Maximum Depth**: Approximately 20-25 meters (based on seafloor depth at this offshore location)
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 5-12 meters
 - **Current**: Variable offshore conditions
 - **Best Time**: Spring and autumn

@@ -22,9 +22,9 @@ Rocky pinnacles and submerged hazards along the Israeli Mediterranean coast typi
 ## Site Information
 
 - **Location**: Offshore Netanya / Poleg coastal area, central Israeli Mediterranean
-- **Entry Type**: Boat (offshore rocky feature)
-- **Site Type**: Rocky reef / pinnacle
-- **Maximum Depth**: Approximately 10-15 meters
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: 5-12 meters
 - **Current**: Can be strong around isolated rock features
 - **Best Time**: Spring and autumn

@@ -2,10 +2,10 @@
 name: BUOY1
 lat: 32.03167
 lng: 34.606419
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 40
 entryType: boat
-siteType: reef
+siteType: wreck
 ref: null
 osmId: null
 addedBy: osm_import
@@ -24,9 +24,9 @@ No specific historical records for this site were found in available English-lan
 ## Site Information
 
 - **Location**: Offshore Bat Yam / Jaffa, deep Israeli Mediterranean
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Maximum Depth**: Approximately 30-45 meters (estimated from offshore position)
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 5-15 meters
 - **Current**: Offshore current conditions
 - **Best Time**: Spring and autumn

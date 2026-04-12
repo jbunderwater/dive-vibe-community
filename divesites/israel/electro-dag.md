@@ -4,8 +4,8 @@ lat: 32.152217
 lng: 34.700489
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
-siteType: reef
+entryType: boat
+siteType: wreck
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,53 +13,28 @@ addedBy: osm_import
 
 ## Electro Dag
 
-Electro Dag is a  dive site in Israel, Middle East.
+Electro Dag is a wreck dive site in the Israeli Mediterranean at approximately 32.15°N, 34.70°E — positioned offshore west of Herzliya in water approximately 20-30 meters deep. The name "Electro Dag" is unusual; a ScubaBoard post from an Israeli diver referenced "Electo-Dag" as a technical wreck at approximately 46 meters depth in the Tel Aviv area, which may be this same site.
 
 ## Overview
 
-Electro Dag is a dive site in Israel offering rewarding diving on healthy coral reef structures. Located in the Middle East region, this site offers 20-40 meters of visibility with water temperatures averaging 22-30°C.
+The site is accessible by boat from Herzliya marina. Detailed English-language documentation is limited, suggesting this is primarily visited by local Israeli dive clubs and operators. The wreck has been colonized by Mediterranean marine life typical of submerged structures.
 
 ## Site Information
 
-- **Location**: Israel, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
+- **Location**: Offshore Herzliya, central Israeli Mediterranean
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Moderate to strong
-- **Best Time**: September to May
+- **Typical Visibility**: 5-15 meters
+- **Current**: Variable offshore
+- **Best Time**: Spring and autumn
 
 ## Marine Life
 
-Divers at this site can expect to encounter whale sharks, manta rays, hammerhead sharks, oceanic whitetip sharks, sea turtles, dolphins, napoleon wrasse, giant moray eels. Additional species commonly sighted include lionfish, clownfish, butterflyfish, anthias.
-
-## Dive Profile
-
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+Mediterranean wreck species: grouper, sea bream, moray eels, octopus, and encrusting invertebrates on the wreck structure.
 
 ## Safety Considerations
 
-Be aware of strong currents, fire coral, lionfish stings in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Plan gas appropriately for depth. Deploy SMB on ascent. If diving the deeper variant (~46 m), Advanced certification required.
 
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
-
----
-*This dive site information was compiled from OpenStreetMap data and regional diving knowledge. Last updated 2026-04-11.*
+*Sources: [ScubaBoard Israel thread](https://scubaboard.com/community/threads/is-there-any-good-diving-near-tel-aviv.70339/). Last updated 2026-04-11.*

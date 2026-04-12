@@ -26,9 +26,9 @@ This wreck is in close proximity to Wreck Annette and the Obstruction-23.5m site
 ## Site Information
 
 - **Location**: Offshore between Ashdod and Ashkelon, southern Mediterranean coast
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Maximum Depth**: Estimated 20–25 metres (unconfirmed)
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 5–10 metres (seasonal)
 - **Current**: Moderate
 - **Best Time**: October to May

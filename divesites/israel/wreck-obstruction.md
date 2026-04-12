@@ -24,9 +24,9 @@ Depth at this location is estimated at 20–25 metres based on the offshore dist
 ## Site Information
 
 - **Location**: Offshore Ashdod, southern Mediterranean coast
-- **Entry Type**: Shore entry
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Maximum Depth**: Estimated 20–25 metres (unconfirmed)
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 5–10 metres (seasonal)
 - **Current**: Moderate
 - **Best Time**: October to May

@@ -2,10 +2,10 @@
 name: אלטלנה Altalena‎
 lat: 32.194209
 lng: 34.329529
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 300
 entryType: boat
-siteType: reef
+siteType: wreck
 ref: null
 osmId: null
 addedBy: osm_import
@@ -28,8 +28,8 @@ As of 2025, the Israeli government was exploring options to survey and potential
 ## Site Information
 
 - **Location**: Offshore, approximately near Rishon LeZion / Jaffa coast, deep water
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Depth**: Approximately 300 meters — beyond recreational and sport diving limits
 - **Access**: No known dive operations; wreck location confirmed by sonar survey in 2012
 
