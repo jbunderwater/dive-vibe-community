@@ -46,10 +46,14 @@ DIVESITES_DIR = PROJECT_ROOT / "divesites" / "roatan"
 SOURCE_TAG = "rmp_canonical_2026_03"
 ADDED_BY_TAG = "rmp_canonical_kml_import"
 
-# Wreck names (substring match, uppercase) — RMP source uses these.
+# Wreck names (substring match, uppercase). Only include names with a
+# documented Roatán wreck at that location — never classify by name alone.
+# A 2026-04 research pass confirmed RMP's "ATOCHA" placemark does NOT
+# correspond to a known Roatán wreck (the famous Atocha is the 1622 Spanish
+# galleon in Florida) so it is intentionally excluded.
 WRECK_NAME_TOKENS = {
     "WRECK", "AGUILA", "ODYSSEY", "SHANG YING", "DOS ANGUILAS",
-    "ATOCHA", "HALLIBURTON", "PRINCE ALBERT",
+    "HALLIBURTON", "PRINCE ALBERT",
 }
 
 

@@ -13,7 +13,7 @@ addedBy: rmp_canonical_kml_import
 
 ## Newman's Wall
 
-Newman's Wall is a Roatan Marine Park mooring site. The RMP canonical map records its location and mooring designation; site-specific details (depth profile, marine life, conditions) have not been independently validated and are placeholders pending research.
+Spectacular vertical walls with sand chutes and soft corals, accessed by boat from CoCo View Resort on the south shore.
 
 ## Site Information
 
@@ -23,5 +23,5 @@ Newman's Wall is a Roatan Marine Park mooring site. The RMP canonical map record
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 
----
-*Source: [Roatan Marine Park canonical mooring map](https://www.google.com/maps/d/u/0/viewer?mid=1VAAlEKHNYaqEzG1-mQVxQSmVTYVjdyfA). Site details not yet validated against dive-operator or ScubaBoard sources.*
+*Sources: [cocoviewresort.com](https://cocoviewresort.com). Last updated 2026-04-19.*
+

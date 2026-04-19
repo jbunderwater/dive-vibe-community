@@ -4131,17 +4131,18 @@
     "name": "The Channel",
     "lat": 16.401553,
     "lon": -86.425328,
-    "depth": 18,
-    "site_type": "reef",
+    "depth": 9,
+    "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "rmp_canonical_2026_03",
       "addedBy": "rmp_canonical_kml_import",
       "coordinate_source": "rmp_canonical_kml_2026_03",
-      "validated": false,
-      "validation_source": "rmp_canonical_kml_only",
-      "depth_inferred_from_name": false
+      "validated": true,
+      "validation_source": "roatan-diving.com",
+      "depth_inferred_from_name": false,
+      "validated_at": "2026-04-19"
     }
   },
   {
@@ -4455,16 +4456,17 @@
     "lat": 16.4180458,
     "lon": -86.3830755,
     "depth": 18,
-    "site_type": "reef",
+    "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "tags": {
       "source": "rmp_canonical_2026_03",
       "addedBy": "rmp_canonical_kml_import",
       "coordinate_source": "rmp_canonical_kml_2026_03",
-      "validated": false,
-      "validation_source": "rmp_canonical_kml_only",
-      "depth_inferred_from_name": false
+      "validated": true,
+      "validation_source": "sundiversroatan.com",
+      "depth_inferred_from_name": false,
+      "validated_at": "2026-04-19"
     }
   },
   {
@@ -5373,15 +5375,15 @@
     "lat": 16.359757,
     "lon": -86.416801,
     "depth": 18,
-    "site_type": "wreck",
+    "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "source": "rmp_canonical_2026_03",
       "addedBy": "rmp_canonical_kml_import",
       "coordinate_source": "rmp_canonical_kml_2026_03",
       "validated": false,
-      "validation_source": "rmp_canonical_kml_only",
+      "validation_source": "rmp_canonical_kml_only — name 'Atocha' does NOT correspond to a documented Roatán wreck (the famous Atocha is in Florida)",
       "depth_inferred_from_name": false
     }
   },
@@ -5516,9 +5518,10 @@
       "source": "rmp_canonical_2026_03",
       "addedBy": "rmp_canonical_kml_import",
       "coordinate_source": "rmp_canonical_kml_2026_03",
-      "validated": false,
-      "validation_source": "rmp_canonical_kml_only",
-      "depth_inferred_from_name": false
+      "validated": true,
+      "validation_source": "cocoviewresort.com",
+      "depth_inferred_from_name": false,
+      "validated_at": "2026-04-19"
     }
   },
   {

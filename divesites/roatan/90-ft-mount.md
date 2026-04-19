@@ -23,5 +23,5 @@ addedBy: rmp_canonical_kml_import
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 27 meters
 
----
-*Source: [Roatan Marine Park canonical mooring map](https://www.google.com/maps/d/u/0/viewer?mid=1VAAlEKHNYaqEzG1-mQVxQSmVTYVjdyfA). Site details not yet validated against dive-operator or ScubaBoard sources.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-04-19.*
+

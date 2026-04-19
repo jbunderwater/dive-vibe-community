@@ -3065,9 +3065,9 @@
     "lat": 16.401553,
     "lng": -86.425328,
     "difficulty": "Beginner",
-    "maxDepth": 18,
+    "maxDepth": 9,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "drift",
     "ref": "",
     "osmId": null
   },
@@ -3295,7 +3295,7 @@
     "difficulty": "Beginner",
     "maxDepth": 18,
     "entryType": "boat",
-    "siteType": "reef",
+    "siteType": "wall",
     "ref": "",
     "osmId": null
   },
@@ -3940,10 +3940,10 @@
     "filename": "atocha.md",
     "lat": 16.359757,
     "lng": -86.416801,
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "maxDepth": 18,
     "entryType": "boat",
-    "siteType": "wreck",
+    "siteType": "reef",
     "ref": "",
     "osmId": null
   },

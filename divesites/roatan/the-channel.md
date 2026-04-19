@@ -3,9 +3,9 @@ name: The Channel
 lat: 16.401553
 lng: -86.425328
 difficulty: Beginner
-maxDepth: 18
+maxDepth: 9
 entryType: boat
-siteType: reef
+siteType: drift
 ref: null
 osmId: null
 addedBy: rmp_canonical_kml_import
@@ -13,15 +13,15 @@ addedBy: rmp_canonical_kml_import
 
 ## The Channel
 
-The Channel is a Roatan Marine Park mooring site. The RMP canonical map records its location and mooring designation; site-specific details (depth profile, marine life, conditions) have not been independently validated and are placeholders pending research.
+A popular, relatively easy channel dive around 30 ft (9 m) deep, frequented by many West End dive operators.
 
 ## Site Information
 
 - **Location**: Roatán, Honduras
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Drift dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 18 meters
+- **Maximum Depth**: 9 meters
 
----
-*Source: [Roatan Marine Park canonical mooring map](https://www.google.com/maps/d/u/0/viewer?mid=1VAAlEKHNYaqEzG1-mQVxQSmVTYVjdyfA). Site details not yet validated against dive-operator or ScubaBoard sources.*
+*Sources: [roatan-diving.com](https://roatan-diving.com). Last updated 2026-04-19.*
+
