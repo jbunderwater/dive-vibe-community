@@ -106,5 +106,77 @@
     "siteType": "wreck",
     "ref": "",
     "osmId": 8577535117
+  },
+  {
+    "name": "The Gardens",
+    "filename": "the-gardens.md",
+    "lat": 29.3996183,
+    "lng": 34.9661243,
+    "difficulty": "Intermediate",
+    "maxDepth": 18,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "First Bay",
+    "filename": "first-bay.md",
+    "lat": 29.4439235,
+    "lng": 34.9687958,
+    "difficulty": "Beginner",
+    "maxDepth": 30,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Blue Coral",
+    "filename": "blue-coral.md",
+    "lat": 29.4116941,
+    "lng": 34.977057,
+    "difficulty": "Beginner",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Kiwi reef",
+    "filename": "kiwi-reef.md",
+    "lat": 29.4065724,
+    "lng": 34.9758983,
+    "difficulty": "Beginner",
+    "maxDepth": 20,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Cazar reef",
+    "filename": "cazar-reef.md",
+    "lat": 29.4485576,
+    "lng": 34.9693322,
+    "difficulty": "Beginner",
+    "maxDepth": 25,
+    "entryType": "shore",
+    "siteType": "reef",
+    "ref": "",
+    "osmId": null
+  },
+  {
+    "name": "Saudi border",
+    "filename": "saudi-border.md",
+    "lat": 29.3607735,
+    "lng": 34.9647188,
+    "difficulty": "Intermediate",
+    "maxDepth": 40,
+    "entryType": "shore",
+    "siteType": "wall",
+    "ref": "",
+    "osmId": null
   }
 ]

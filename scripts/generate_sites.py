@@ -8,6 +8,7 @@ high-quality content following the Curaçao quality standard.
 import json
 import re
 import os
+import sys
 from pathlib import Path
 from datetime import datetime
 
@@ -537,7 +538,7 @@ def generate_index_entry(site, filename):
     }
 
 
-def process_destination(dest, osm_data, divesites_dir):
+def process_destination(dest, osm_data, divesites_dir, new_only=False):
     """Process a single destination: generate markdown files and index.json."""
     slug = dest["slug"]
     region = dest["region"]
@@ -556,11 +557,13 @@ def process_destination(dest, osm_data, divesites_dir):
             continue
         seen_filenames.add(filename)
 
-        # Generate markdown
-        content = generate_site_markdown(site, dest, region_data)
         md_path = output_dir / f"{filename}.md"
-        with open(md_path, "w", encoding="utf-8") as f:
-            f.write(content)
+
+        # In new_only mode, skip sites that already have a markdown file
+        if not (new_only and md_path.exists()):
+            content = generate_site_markdown(site, dest, region_data)
+            with open(md_path, "w", encoding="utf-8") as f:
+                f.write(content)
 
         # Generate index entry
         entry = generate_index_entry(site, filename)
@@ -581,6 +584,14 @@ def main():
     osm_dir = project_root / "data" / "osm_clean"
     divesites_dir = project_root / "divesites"
 
+    # Parse arguments
+    args = [a for a in sys.argv[1:] if not a.startswith("--")]
+    new_only = "--new-only" in sys.argv[1:]
+    requested_slugs = set(args) if args else None
+
+    if new_only:
+        print("Running in --new-only mode (skipping existing markdown files)")
+
     # Load destinations
     with open(project_root / "destinations.json", "r", encoding="utf-8") as f:
         destinations = json.load(f)
@@ -598,6 +609,9 @@ def main():
             continue
 
         slug = osm_file.stem
+
+        if requested_slugs and slug not in requested_slugs:
+            continue
         if slug in skip_slugs:
             continue
 
@@ -620,7 +634,7 @@ def main():
             results.append({"name": dest["name"], "slug": slug, "sites": 0})
             continue
 
-        created = process_destination(dest, osm_data, divesites_dir)
+        created = process_destination(dest, osm_data, divesites_dir, new_only=new_only)
         total_created += created
         results.append({"name": dest["name"], "slug": slug, "sites": created})
         print(f"  {dest['name']:40s} {created} sites")

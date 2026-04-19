@@ -5394,5 +5394,2931 @@
       "validated": "true",
       "validation_source": "openstreetmap.org"
     }
+  },
+  {
+    "name": "M GHAZLANI",
+    "lat": 27.823618,
+    "lon": 34.266015,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "S ABU NUHS",
+    "lat": 27.572511,
+    "lon": 33.92428,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "SHAAB ALI",
+    "lat": 27.789457,
+    "lon": 33.906156,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "SHARM",
+    "lat": 27.856359,
+    "lon": 34.280859,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck Gubal",
+    "lat": 27.650871,
+    "lon": 33.770943,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck Gubal Strait",
+    "lat": 27.741852,
+    "lon": 33.865356,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck JAckson ExposedWreck",
+    "lat": 28.011703,
+    "lon": 34.473553,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck Maria Shredder ExposedWreck",
+    "lat": 28.188858,
+    "lon": 34.447632,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck Merset EtAt ExposedWreck",
+    "lat": 27.91317,
+    "lon": 34.364891,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck Nabq 1ExposedWreck",
+    "lat": 28.061657,
+    "lon": 34.445229,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck Nuweiba -40.0m",
+    "lat": 28.933182,
+    "lon": 34.652252,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck Sarah H ExposedWreck",
+    "lat": 27.777901,
+    "lon": 33.875656,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck Sha'b Ali",
+    "lat": 27.79541,
+    "lon": 33.8554,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck Shadwan ExposedWreck",
+    "lat": 27.507362,
+    "lon": 34.006805,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wreck Um Qamar",
+    "lat": 27.339478,
+    "lon": 33.915825,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Ras Malek",
+    "lat": 27.0588827,
+    "lon": 33.9006731,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Citadel housereef",
+    "lat": 27.0719489,
+    "lon": 33.8910795,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Sha ab Adel",
+    "lat": 27.139183,
+    "lon": 33.945303,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Sharm El Arab",
+    "lat": 26.966149,
+    "lon": 33.9232365,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Gribal",
+    "lat": 27.5532333,
+    "lon": 33.9035167,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Sadana",
+    "lat": 26.9136333,
+    "lon": 33.9604833,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Sha ab Ali",
+    "lat": 27.7993833,
+    "lon": 33.8980333,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "La Sirene housereef",
+    "lat": 29.009158,
+    "lon": 34.686857,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Gubal Barge",
+    "lat": 27.6693902,
+    "lon": 33.8038588,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Ras Umm Hesiwa",
+    "lat": 26.9020942,
+    "lon": 33.9969778,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Beacon Rock (2)",
+    "lat": 27.7094049,
+    "lon": 34.1228485,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Swiss Inn House Reef",
+    "lat": 28.4791456,
+    "lon": 34.4936961,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Sonesta Beach Reef",
+    "lat": 27.9135243,
+    "lon": 34.33492,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Sunk Buoy",
+    "lat": 28.9785706,
+    "lon": 34.6845889,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Falfulea",
+    "lat": 27.2019689,
+    "lon": 33.9556503,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Ras Murat",
+    "lat": 28.0326158,
+    "lon": 34.4441772,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Abu Talha",
+    "lat": 28.5478672,
+    "lon": 34.5183241,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Stella Beach Reef",
+    "lat": 27.9040907,
+    "lon": 34.3313634,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "El Gilwa East",
+    "lat": 27.55755,
+    "lon": 33.8729167,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Erg Abu Nugar",
+    "lat": 27.3614167,
+    "lon": 33.8293333,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "South Lagoona Reef",
+    "lat": 28.0005401,
+    "lon": 34.4825649,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "El Dahr",
+    "lat": 27.7442015,
+    "lon": 34.1654205,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Last Alternative",
+    "lat": 27.7293687,
+    "lon": 34.2035294,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Marsa Shabir",
+    "lat": 27.992412,
+    "lon": 34.4854188,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "North Lagoona Reef",
+    "lat": 28.0132331,
+    "lon": 34.4852686,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Ras Fanar",
+    "lat": 27.7330724,
+    "lon": 34.2243004,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Aquanaut house reef",
+    "lat": 27.2627363,
+    "lon": 33.822248,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Small Gubal",
+    "lat": 27.6116033,
+    "lon": 33.7954903,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Siyul Soraya",
+    "lat": 27.5523972,
+    "lon": 33.8591552,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Mohammed Hasabella wreck",
+    "lat": 27.2255405,
+    "lon": 33.8474125,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "North Passage",
+    "lat": 27.7755318,
+    "lon": 34.0559435,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Sha ab Khanzir",
+    "lat": 28.4019331,
+    "lon": 34.4510651,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Lonely Mushroom",
+    "lat": 27.735266,
+    "lon": 34.1598094,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Shag Rock (2)",
+    "lat": 27.7957683,
+    "lon": 33.8616228,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Stingray Station",
+    "lat": 27.7338321,
+    "lon": 34.1852474,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Turtle beach",
+    "lat": 27.7857834,
+    "lon": 34.2403293,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Royal Azur Coral",
+    "lat": 26.9861111,
+    "lon": 33.9166667,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Siyul Kebira",
+    "lat": 27.5586667,
+    "lon": 33.8832833,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Diver s Alley",
+    "lat": 27.1867,
+    "lon": 33.9837,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Sand Beach",
+    "lat": 27.2167,
+    "lon": 33.9397,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Habibty Reef",
+    "lat": 27.2461972,
+    "lon": 33.8488278,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Ulysses (2)",
+    "lat": 27.6902924,
+    "lon": 33.7919551,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "El Fanadir South",
+    "lat": 27.2649632,
+    "lon": 33.8322902,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Abu Lou Lou",
+    "lat": 28.975905,
+    "lon": 34.6793318,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Police Station",
+    "lat": 27.1850206,
+    "lon": 33.9652848,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Ghazala Beach Housereef",
+    "lat": 27.9108333,
+    "lon": 34.3294444,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Oberoi Housereef",
+    "lat": 27.08295,
+    "lon": 33.8807111,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Ras Peter",
+    "lat": 27.8512711,
+    "lon": 34.2907172,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Domina Coral Bay reef",
+    "lat": 27.9320099,
+    "lon": 34.3717146,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Makadi Bay Reef",
+    "lat": 26.9977982,
+    "lon": 33.9100742,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Sha ab Talata",
+    "lat": 27.141216,
+    "lon": 33.883469,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "El Aruk - Aruk Diana",
+    "lat": 27.1629916,
+    "lon": 33.9477968,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Marsa Bereika",
+    "lat": 27.7874017,
+    "lon": 34.2062491,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Ras Ghamila",
+    "lat": 27.9734819,
+    "lon": 34.4285238,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Ras Burg",
+    "lat": 27.7563739,
+    "lon": 34.2520452,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Amphoras",
+    "lat": 27.8661157,
+    "lon": 34.3236011,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Fiasco",
+    "lat": 27.8532489,
+    "lon": 34.3175125,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Turtle Bay",
+    "lat": 27.2695408,
+    "lon": 33.8937718,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Temple",
+    "lat": 27.8472964,
+    "lon": 34.308849,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "El Shugarat",
+    "lat": 28.3559833,
+    "lon": 34.4399167,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Carraba",
+    "lat": 27.9507387,
+    "lon": 34.4091797,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Petra",
+    "lat": 27.3607909,
+    "lon": 33.9154816,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Sharm el-Naga (2)",
+    "lat": 26.9207,
+    "lon": 33.9587,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Susana Wreck",
+    "lat": 27.2106711,
+    "lon": 33.8481903,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Napoleon Reef (2)",
+    "lat": 28.4662014,
+    "lon": 34.5045805,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "The Excalibur Wreck",
+    "lat": 27.2158333,
+    "lon": 33.8444667,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Laguna Reef (2)",
+    "lat": 27.9939833,
+    "lon": 34.4923667,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Middle Reef (2)",
+    "lat": 26.7082288,
+    "lon": 34.1046095,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Zingara",
+    "lat": 28.0177274,
+    "lon": 34.4874197,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Nabeq",
+    "lat": 28.1278569,
+    "lon": 34.4443703,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Sha ab Umm Usk",
+    "lat": 27.5829167,
+    "lon": 33.8694,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Sha ab Sheer - Shark Point",
+    "lat": 26.65955,
+    "lon": 34.0587833,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Tobia Hamra (2)",
+    "lat": 26.8251267,
+    "lon": 33.984925,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Um Hal Hal",
+    "lat": 26.7001667,
+    "lon": 34.1109333,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Abu Kefan",
+    "lat": 26.6558778,
+    "lon": 34.1133642,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Panorama reef (2)",
+    "lat": 26.7518091,
+    "lon": 34.0873575,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Gota El Dir",
+    "lat": 27.4348962,
+    "lon": 33.7380351,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Fjord",
+    "lat": 29.4165727,
+    "lon": 34.8455429,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Kurkle reef",
+    "lat": 29.6944444,
+    "lon": 32.4081944,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Dolphin reef",
+    "lat": 29.6879444,
+    "lon": 32.3902778,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Aquarium Reef (2)",
+    "lat": 29.6285278,
+    "lon": 32.4035,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "House Reef Taba",
+    "lat": 29.4898343,
+    "lon": 34.9020624,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Pharao s Island Pinnacle",
+    "lat": 29.4611133,
+    "lon": 34.8566151,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Angels net",
+    "lat": 29.3837457,
+    "lon": 34.8197079,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Zac s Tables",
+    "lat": 29.3798192,
+    "lon": 34.8090219,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Marsa Elmugabila",
+    "lat": 29.3734991,
+    "lon": 34.7925854,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Maxwell s Reef",
+    "lat": 29.4000483,
+    "lon": 34.8347282,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Aquarium (2)",
+    "lat": 29.3927199,
+    "lon": 34.822154,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Turtle reef",
+    "lat": 29.6308889,
+    "lon": 32.387,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "ELPHINSTON",
+    "lat": 25.30424,
+    "lon": 34.861574,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "WECH",
+    "lat": 26.389115,
+    "lon": 34.186845,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Abo Soyaeer",
+    "lat": 25.4291968,
+    "lon": 34.6921216,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Habili Gouda",
+    "lat": 25.5098923,
+    "lon": 34.6636737,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Tulip Housereef",
+    "lat": 25.4389442,
+    "lon": 34.6970471,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Shaab Sharm (2)",
+    "lat": 24.83775,
+    "lon": 35.1707667,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Habili Dahara",
+    "lat": 24.7439167,
+    "lon": 35.1804,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Habili Wadi Gimal",
+    "lat": 24.6864667,
+    "lon": 35.2478167,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Torfa El Mesheich",
+    "lat": 24.664154,
+    "lon": 35.1144236,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wadi Gimal DC Housereef",
+    "lat": 24.6884585,
+    "lon": 35.0858192,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Erg Gubar",
+    "lat": 24.6570659,
+    "lon": 35.1322607,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Gorgonia Housereef",
+    "lat": 24.7085481,
+    "lon": 35.0904165,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Habbibi",
+    "lat": 24.375,
+    "lon": 35.3583333,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Ras Hornkorab",
+    "lat": 24.5510447,
+    "lon": 35.1508457,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Arba reef",
+    "lat": 24.3083333,
+    "lon": 35.45,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Siyul South",
+    "lat": 24.3733333,
+    "lon": 35.3833333,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Skawarit",
+    "lat": 24.3566667,
+    "lon": 35.4016667,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Little One",
+    "lat": 24.2167,
+    "lon": 35.5834333,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Makabi",
+    "lat": 24.3,
+    "lon": 35.4216667,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Eagle Fish",
+    "lat": 24.205,
+    "lon": 35.5533333,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Sandy Island 1",
+    "lat": 23.9933333,
+    "lon": 35.7766667,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "White Rock",
+    "lat": 23.81,
+    "lon": 35.8033333,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Zabargad West",
+    "lat": 23.6166667,
+    "lon": 36.1833333,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Paradise Reef (2)",
+    "lat": 24.1884133,
+    "lon": 35.4429245,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Styphano 1",
+    "lat": 23.5473,
+    "lon": 35.80345,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Styphano 2",
+    "lat": 23.5290667,
+    "lon": 35.80025,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Saint John North",
+    "lat": 23.4784833,
+    "lon": 35.79125,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Abu Dabab",
+    "lat": 25.3132833,
+    "lon": 34.7680167,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Reef Sud 8 Patates",
+    "lat": 23.67395,
+    "lon": 35.79615,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Fleck Reef",
+    "lat": 24.5596123,
+    "lon": 35.1701576,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Sharm Lulli",
+    "lat": 24.625,
+    "lon": 35.1166667,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Ras Banas",
+    "lat": 23.8933333,
+    "lon": 35.7833333,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Three Corners Fayrouz House Reef North",
+    "lat": 25.522611,
+    "lon": 34.649055,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Marsa Murena",
+    "lat": 25.3951,
+    "lon": 34.7023,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Happy Life Housereef",
+    "lat": 25.370436,
+    "lon": 34.730603,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Torombi Pinnacles",
+    "lat": 25.6541383,
+    "lon": 34.5856905,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Hamra",
+    "lat": 25.5819498,
+    "lon": 34.6322751,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Shaab Samaka",
+    "lat": 24.8517057,
+    "lon": 34.9969053,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Sharm Coraya",
+    "lat": 25.6118798,
+    "lon": 34.600035,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Gotha Abu Diab",
+    "lat": 24.0424469,
+    "lon": 35.6365371,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Gotta Kebira",
+    "lat": 23.4100333,
+    "lon": 35.9306833,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Abu Dabour",
+    "lat": 25.380711,
+    "lon": 34.7191143,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Sharm Shoona",
+    "lat": 25.4035583,
+    "lon": 34.6994306,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Abo Nawas Housereef",
+    "lat": 25.2372879,
+    "lon": 34.8002726,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Marsa Egla",
+    "lat": 25.1713889,
+    "lon": 34.8405556,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Shaab Shabrur II",
+    "lat": 24.8842564,
+    "lon": 34.9925709,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Shaab shabror",
+    "lat": 24.8908745,
+    "lon": 34.9948883,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Marsa Selmi",
+    "lat": 23.3861667,
+    "lon": 35.8058333,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "House reef oasis",
+    "lat": 25.266219,
+    "lon": 34.785969,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Halg Salmaan",
+    "lat": 25.500538,
+    "lon": 34.6691608,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Menaville House Reef",
+    "lat": 26.7889274,
+    "lon": 33.9377439,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Abu Sawatir",
+    "lat": 26.2059183,
+    "lon": 34.2209208,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Marsa Ghalib North",
+    "lat": 25.5338257,
+    "lon": 34.6410191,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Zreab Soraya",
+    "lat": 26.0303323,
+    "lon": 34.3241322,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Marsa Shona Sogayar",
+    "lat": 25.417598,
+    "lon": 34.6951675,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Marsa Trombi Garden",
+    "lat": 25.6481614,
+    "lon": 34.585197,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Gabel Rosas",
+    "lat": 25.2058925,
+    "lon": 34.8095906,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Marsa Asalay",
+    "lat": 25.1558898,
+    "lon": 34.8542225,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Resta Reef",
+    "lat": 25.6007557,
+    "lon": 34.6143687,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Serib Sogayar",
+    "lat": 26.0226003,
+    "lon": 34.3260151,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Torfet Zeyad",
+    "lat": 25.5169409,
+    "lon": 34.652102,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "El Mohgar",
+    "lat": 26.0051111,
+    "lon": 34.3347917,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Lahami Bay Buoy 3 Batfish Pinnacle",
+    "lat": 24.2133087,
+    "lon": 35.4433966,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Sharks Point",
+    "lat": 24.8389226,
+    "lon": 35.0338876,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Dreams Reef",
+    "lat": 24.8596738,
+    "lon": 34.995119,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Habili Dawoud",
+    "lat": 24.869924,
+    "lon": 34.994368,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Habili Ghadir",
+    "lat": 24.8430667,
+    "lon": 35.1249833,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Helioland",
+    "lat": 25.9714525,
+    "lon": 34.3658137,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Wadi El Gimal",
+    "lat": 24.3627547,
+    "lon": 35.2996087,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Marsa Salim",
+    "lat": 23.9090656,
+    "lon": 35.4899597,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Shabrour Lahmi",
+    "lat": 24.2237978,
+    "lon": 35.446701,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Gota Soraya",
+    "lat": 23.4116667,
+    "lon": 35.9031333,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Shaab Rahma",
+    "lat": 26.3266,
+    "lon": 34.1791278,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Halg Dawoud",
+    "lat": 24.870805,
+    "lon": 34.9881345,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Pharao Housereef",
+    "lat": 26.0922081,
+    "lon": 34.2910552,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "The Garden of Eden",
+    "lat": 24.8390443,
+    "lon": 35.0256371,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Gassous Bay",
+    "lat": 26.5725229,
+    "lon": 34.0326834,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Siyul",
+    "lat": 24.3811079,
+    "lon": 35.3738952,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Torfa Tany",
+    "lat": 25.6695339,
+    "lon": 34.5877075,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Sha ab Ghadir",
+    "lat": 24.841269,
+    "lon": 35.073638,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Shaab Ghadir Soraya",
+    "lat": 24.8646336,
+    "lon": 35.0638962,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Brayka Bay Housereef North",
+    "lat": 25.2189772,
+    "lon": 34.8054814,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "El Bohar Kebir",
+    "lat": 24.3030556,
+    "lon": 35.5355556,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Lahami Bay Buoy 2 Housereef",
+    "lat": 24.1969276,
+    "lon": 35.4388368,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "El Arish",
+    "lat": 26.6568174,
+    "lon": 33.9767647,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Lahami Bay Beach Housereef",
+    "lat": 24.208377,
+    "lon": 35.4345989,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Marsa Abu Dabab South",
+    "lat": 25.3375,
+    "lon": 34.7419444,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Coraya Beach Housereef North",
+    "lat": 25.6069444,
+    "lon": 34.6069444,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Marsa Abu Dabbab North",
+    "lat": 25.3420674,
+    "lon": 34.741559,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Sharm el Bahari",
+    "lat": 25.8486056,
+    "lon": 34.4325972,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Shaab Samadai East",
+    "lat": 24.9857333,
+    "lon": 34.9966333,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Shaab Samadai West",
+    "lat": 24.9897923,
+    "lon": 35.0278473,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Sharm Anbaut",
+    "lat": 24.9645061,
+    "lon": 34.9403858,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Erg Marsa Alam",
+    "lat": 25.0685349,
+    "lon": 34.9434757,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Ras Torombi",
+    "lat": 25.6633837,
+    "lon": 34.5880938,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Utopia Bay",
+    "lat": 25.9399176,
+    "lon": 34.3898571,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Marsa shagra",
+    "lat": 25.2451181,
+    "lon": 34.7968286,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "House Reef",
+    "lat": 24.2563749,
+    "lon": 35.4067469,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Azra",
+    "lat": 26.6274825,
+    "lon": 34.00069,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Sha ab Bagul",
+    "lat": 26.6588118,
+    "lon": 33.9877725,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Sha ab Ghaza",
+    "lat": 26.6194067,
+    "lon": 34.013232,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Spit Reef",
+    "lat": 26.6916,
+    "lon": 33.9733,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Daedalus Reef (2)",
+    "lat": 24.92835,
+    "lon": 35.8618,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Zabargad South",
+    "lat": 23.6040396,
+    "lon": 36.2129455,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
+  },
+  {
+    "name": "Sha ab Sheer - Coral Paradise",
+    "lat": 26.6555333,
+    "lon": 34.0409833,
+    "depth": null,
+    "site_type": "",
+    "entry_type": "",
+    "difficulty": "",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52"
+    }
   }
 ]

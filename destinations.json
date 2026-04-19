@@ -1243,6 +1243,28 @@
     ]
   },
   {
+    "name": "Israel",
+    "slug": "israel",
+    "region": "Middle East",
+    "center": [
+      31.5,
+      34.75
+    ],
+    "bounds": [
+      [
+        29.44,
+        33.10
+      ],
+      [
+        33.58,
+        35.21
+      ]
+    ],
+    "description": "Red Sea coral reefs at Eilat and Mediterranean wreck diving along the coast.",
+    "overviewFile": "overview.md",
+    "countryCode": "IL"
+  },
+  {
     "name": "UAE",
     "slug": "uae",
     "region": "Middle East",

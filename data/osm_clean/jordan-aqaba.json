@@ -169,5 +169,101 @@
       "validated": "true",
       "validation_source": "perplexity"
     }
+  },
+  {
+    "name": "The Gardens",
+    "lat": 29.3996183,
+    "lon": 34.9661243,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "arabdivers.jo, dive-inaqaba.com"
+    }
+  },
+  {
+    "name": "First Bay",
+    "lat": 29.4439235,
+    "lon": 34.9687958,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "arabdivers.jo, deepbluedivecenter.com, redseadivecenter.com"
+    }
+  },
+  {
+    "name": "Blue Coral",
+    "lat": 29.4116941,
+    "lon": 34.977057,
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "arabdivers.jo, dive-inaqaba.com"
+    }
+  },
+  {
+    "name": "Kiwi reef",
+    "lat": 29.4065724,
+    "lon": 34.9758983,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "arabdivers.jo, dive-inaqaba.com, deepbluedivecenter.com"
+    }
+  },
+  {
+    "name": "Cazar reef",
+    "lat": 29.4485576,
+    "lon": 34.9693322,
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "aqabadivingseastar.com, freedivingjordan.wordpress.com"
+    }
+  },
+  {
+    "name": "Saudi border",
+    "lat": 29.3607735,
+    "lon": 34.9647188,
+    "depth": 40,
+    "site_type": "wall",
+    "entry_type": "shore",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "community_contribution",
+      "addedBy": "JaiBar",
+      "contribution_ref": "github_issue_52",
+      "validated": "true",
+      "validation_source": "scubaboard.com, aqaba-diving.com, freedivingjordan.wordpress.com"
+    }
   }
 ]
