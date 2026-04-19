@@ -3497,5 +3497,3578 @@
       "validated": true,
       "validation_source": "roatantourismbureau.com, payamag.com, roatan_historical_records"
     }
+  },
+  {
+    "name": "Land Of The Giants",
+    "lat": 16.36848,
+    "lon": -86.508575,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Alaina's Sandy Bottom",
+    "lat": 16.368733,
+    "lon": -86.505994,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Key Hole",
+    "lat": 16.3692854,
+    "lon": -86.5026757,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Pearson's Prize",
+    "lat": 16.369268,
+    "lon": -86.501018,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Emma's Plummet",
+    "lat": 16.370931,
+    "lon": -86.497662,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Giuliana's Grace",
+    "lat": 16.372681,
+    "lon": -86.494819,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Thad's Joy",
+    "lat": 16.373582,
+    "lon": -86.493043,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Canyonlands",
+    "lat": 16.372991,
+    "lon": -86.488795,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "One Minute West",
+    "lat": 16.372675,
+    "lon": -86.487449,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Joan's Peace",
+    "lat": 16.371079,
+    "lon": -86.486461,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Granmarie",
+    "lat": 16.3738207,
+    "lon": -86.4827866,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Moray Lagoon",
+    "lat": 16.37582,
+    "lon": -86.481261,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Nicolettes",
+    "lat": 16.377435,
+    "lon": -86.481281,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Satoshi's Grave",
+    "lat": 16.378712,
+    "lon": -86.47934,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "David's Deep",
+    "lat": 16.380474,
+    "lon": -86.47827,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Barrel Sponge",
+    "lat": 16.3811255,
+    "lon": -86.4764998,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Julian's Wall",
+    "lat": 16.382156,
+    "lon": -86.475092,
+    "depth": 18,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Salish Retreat",
+    "lat": 16.382848,
+    "lon": -86.474823,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Ocho Locos",
+    "lat": 16.382879,
+    "lon": -86.472725,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Wonderbar",
+    "lat": 16.3847091,
+    "lon": -86.4706093,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Singledivers.com 2017",
+    "lat": 16.386072,
+    "lon": -86.468233,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Shipwreck",
+    "lat": 16.3875983,
+    "lon": -86.4659413,
+    "depth": 18,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Pepper Point",
+    "lat": 16.387432,
+    "lon": -86.464105,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Rock Star",
+    "lat": 16.3887724,
+    "lon": -86.4612887,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "El Rancho",
+    "lat": 16.390049,
+    "lon": -86.459857,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Maze",
+    "lat": 16.3904677,
+    "lon": -86.458597,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Big Bight",
+    "lat": 16.3922701,
+    "lon": -86.4529598,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Barracuda",
+    "lat": 16.3932528,
+    "lon": -86.4486403,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Garden Of Eden",
+    "lat": 16.3943521,
+    "lon": -86.4485973,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "The View",
+    "lat": 16.3945336,
+    "lon": -86.4441971,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Kennedys",
+    "lat": 16.396227,
+    "lon": -86.441461,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Fish Pot",
+    "lat": 16.3976006,
+    "lon": -86.4374923,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "The King",
+    "lat": 16.3993264,
+    "lon": -86.4343387,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Seastar Wall",
+    "lat": 16.4001613,
+    "lon": -86.4304459,
+    "depth": 18,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Seastar Channel",
+    "lat": 16.4004173,
+    "lon": -86.4290394,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Andy's Wall",
+    "lat": 16.401319,
+    "lon": -86.426954,
+    "depth": 18,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Vivaro",
+    "lat": 16.397867,
+    "lon": -86.423511,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "The Channel",
+    "lat": 16.401553,
+    "lon": -86.425328,
+    "depth": 9,
+    "site_type": "drift",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": true,
+      "validation_source": "roatan-diving.com",
+      "depth_inferred_from_name": false,
+      "validated_at": "2026-04-19"
+    }
+  },
+  {
+    "name": "Doug's Dream",
+    "lat": 16.4028383,
+    "lon": -86.4228401,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Sponges",
+    "lat": 16.4035467,
+    "lon": -86.4207345,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Eaglerays",
+    "lat": 16.403887,
+    "lon": -86.418678,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "No Name",
+    "lat": 16.404711,
+    "lon": -86.417458,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Whitehole",
+    "lat": 16.4053901,
+    "lon": -86.41597,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Underground",
+    "lat": 16.4063855,
+    "lon": -86.413394,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Labyrinth",
+    "lat": 16.4063394,
+    "lon": -86.4122134,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Turquoise Bay Wall",
+    "lat": 16.4066729,
+    "lon": -86.4118025,
+    "depth": 18,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Labyrith",
+    "lat": 16.4075832,
+    "lon": -86.409861,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Emily's Escape",
+    "lat": 16.4083746,
+    "lon": -86.406886,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Miltons Wall",
+    "lat": 16.4090306,
+    "lon": -86.4053927,
+    "depth": 18,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Nabs",
+    "lat": 16.4089023,
+    "lon": -86.4031515,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Beasley's North 40",
+    "lat": 16.408825,
+    "lon": -86.4012203,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Polytilly",
+    "lat": 16.409635,
+    "lon": -86.397688,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Fuego Del Mar",
+    "lat": 16.412513,
+    "lon": -86.39427,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Outside Dolphins",
+    "lat": 16.414697,
+    "lon": -86.3897614,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Dolphins Den",
+    "lat": 16.415832,
+    "lon": -86.388312,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Dolphins Inside Den",
+    "lat": 16.4143149,
+    "lon": -86.386257,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Cemetery",
+    "lat": 16.4180458,
+    "lon": -86.3830755,
+    "depth": 18,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": true,
+      "validation_source": "sundiversroatan.com",
+      "depth_inferred_from_name": false,
+      "validated_at": "2026-04-19"
+    }
+  },
+  {
+    "name": "Punta Blanca",
+    "lat": 16.427383,
+    "lon": -86.352117,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Mangoose",
+    "lat": 16.424417,
+    "lon": -86.3559,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Two Crabs",
+    "lat": 16.425857,
+    "lon": -86.3571177,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Yellow Wall",
+    "lat": 16.425167,
+    "lon": -86.360683,
+    "depth": 18,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Spy Glass",
+    "lat": 16.42435,
+    "lon": -86.365683,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Gretchens Shell",
+    "lat": 16.429133,
+    "lon": -86.345467,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Classroom",
+    "lat": 16.4295,
+    "lon": -86.340933,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Edwards Place",
+    "lat": 16.4301,
+    "lon": -86.3386,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Marianas Dream",
+    "lat": 16.431667,
+    "lon": -86.333733,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Diamond Rock",
+    "lat": 16.432183,
+    "lon": -86.3323,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Duka Luka",
+    "lat": 16.434734,
+    "lon": -86.323709,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Tutu",
+    "lat": 16.436884,
+    "lon": -86.314805,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Astra's",
+    "lat": 16.436769,
+    "lon": -86.309295,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Big D",
+    "lat": 16.43619,
+    "lon": -86.307139,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Shkaboodle's",
+    "lat": 16.436715,
+    "lon": -86.306134,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Shane's Labyrinth",
+    "lat": 16.436073,
+    "lon": -86.303783,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Pinacles",
+    "lat": 16.4357335,
+    "lon": -86.3016547,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Vani's Ocean Oasis",
+    "lat": 16.4359986,
+    "lon": -86.3003313,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "New Site",
+    "lat": 16.435997,
+    "lon": -86.298512,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Jimmy Jim's Happy Place",
+    "lat": 16.436789,
+    "lon": -86.296961,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Camp Bay Lodge Canyon",
+    "lat": 16.437512,
+    "lon": -86.295044,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Julie's Dive-in",
+    "lat": 16.437589,
+    "lon": -86.293923,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Bowen's Back Yard",
+    "lat": 16.4382577,
+    "lon": -86.2926085,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Puma Posse Pass",
+    "lat": 16.438271,
+    "lon": -86.291731,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Beatty's Beauty",
+    "lat": 16.438803,
+    "lon": -86.29037,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Linda's Garden",
+    "lat": 16.438437,
+    "lon": -86.287874,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Eden & Avery's Playground",
+    "lat": 16.438083,
+    "lon": -86.285211,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Boo!",
+    "lat": 16.4387302,
+    "lon": -86.2812349,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Edelson's Envy",
+    "lat": 16.40896,
+    "lon": -86.26402,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Old Port Royal",
+    "lat": 16.40772,
+    "lon": -86.26888,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Fort Morgan Wall",
+    "lat": 16.40283,
+    "lon": -86.27876,
+    "depth": 18,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Reagan's Reef",
+    "lat": 16.399158,
+    "lon": -86.286799,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Port Royal Channel",
+    "lat": 16.39629,
+    "lon": -86.30254,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Lime Key Wall",
+    "lat": 16.39603,
+    "lon": -86.3088,
+    "depth": 18,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Port Royal West",
+    "lat": 16.39492,
+    "lon": -86.31512,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Brady's World",
+    "lat": 16.38276,
+    "lon": -86.36869,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Oakridge Wall",
+    "lat": 16.38346,
+    "lon": -86.3662,
+    "depth": 18,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Calvin's Crack Aggressor",
+    "lat": 16.381288,
+    "lon": -86.371805,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Patty's Place",
+    "lat": 16.37787,
+    "lon": -86.3773,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Jonesville Wall",
+    "lat": 16.37699,
+    "lon": -86.37961,
+    "depth": 18,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Singledivers.com 2014",
+    "lat": 16.3803951,
+    "lon": -86.3752349,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Casablanca",
+    "lat": 16.3713538,
+    "lon": -86.3858834,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Carib Point",
+    "lat": 16.36857,
+    "lon": -86.38907,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Unnamed 1",
+    "lat": 16.36613,
+    "lon": -86.40028,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Neverstain",
+    "lat": 16.3653127,
+    "lon": -86.40216,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Unnamed 2",
+    "lat": 16.36501,
+    "lon": -86.40638,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Daniel's Dream",
+    "lat": 16.365387,
+    "lon": -86.404562,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Singledivers.com 2013",
+    "lat": 16.3645721,
+    "lon": -86.4076154,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Carols Coral",
+    "lat": 16.36342,
+    "lon": -86.41048,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Pamela's Garden",
+    "lat": 16.362238,
+    "lon": -86.411331,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Pirate's Point",
+    "lat": 16.3601699,
+    "lon": -86.4119399,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Tulio's Reef",
+    "lat": 16.359574,
+    "lon": -86.413664,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Inside Outside",
+    "lat": 16.359669,
+    "lon": -86.415775,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Atocha",
+    "lat": 16.359757,
+    "lon": -86.416801,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only — name 'Atocha' does NOT correspond to a documented Roatán wreck (the famous Atocha is in Florida)",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Patrick's Point F B",
+    "lat": 16.360124,
+    "lon": -86.417723,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "First Bight",
+    "lat": 16.358756,
+    "lon": -86.419328,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Ironshore",
+    "lat": 16.35907,
+    "lon": -86.420402,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Rick's Romance",
+    "lat": 16.3591,
+    "lon": -86.42293,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Ankas",
+    "lat": 16.3580688,
+    "lon": -86.4246496,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Too Tall Too Small",
+    "lat": 16.3575001,
+    "lon": -86.4266482,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Karen's Octopus Garden",
+    "lat": 16.354591,
+    "lon": -86.434234,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Newman's Wall",
+    "lat": 16.3535771,
+    "lon": -86.4350463,
+    "depth": 18,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": true,
+      "validation_source": "cocoviewresort.com",
+      "depth_inferred_from_name": false,
+      "validated_at": "2026-04-19"
+    }
+  },
+  {
+    "name": "Bens Clubhouse",
+    "lat": 16.354928,
+    "lon": -86.437542,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "40 Ft Point",
+    "lat": 16.3522124,
+    "lon": -86.4354044,
+    "depth": 12,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": true
+    }
+  },
+  {
+    "name": "Valley Of Kings",
+    "lat": 16.350948,
+    "lon": -86.4378207,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Goldchain Reef",
+    "lat": 16.3509871,
+    "lon": -86.4395802,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Jeff's Spot",
+    "lat": 16.350285,
+    "lon": -86.441128,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Singledivers.com 2015",
+    "lat": 16.349595,
+    "lon": -86.443336,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Pg&me@cocoview",
+    "lat": 16.34943,
+    "lon": -86.4443,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "French Key Cut",
+    "lat": 16.3502043,
+    "lon": -86.4460447,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Mr Bud",
+    "lat": 16.348363,
+    "lon": -86.446089,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Follow The Bubbles",
+    "lat": 16.34693,
+    "lon": -86.44668,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Arch Bank",
+    "lat": 16.3492024,
+    "lon": -86.4481193,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Malu's Mermaid Retreat",
+    "lat": 16.34819,
+    "lon": -86.44734,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Osman's Reef",
+    "lat": 16.34854,
+    "lon": -86.44871,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Harv's Hangout",
+    "lat": 16.34772,
+    "lon": -86.45524,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Roatan Rotary Reef",
+    "lat": 16.348078,
+    "lon": -86.45608,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "French Harbor Channel",
+    "lat": 16.34678,
+    "lon": -86.45775,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Yuny's Point",
+    "lat": 16.344119,
+    "lon": -86.462428,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Lobster Fingers",
+    "lat": 16.3424539,
+    "lon": -86.4651213,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Doc's Spot",
+    "lat": 16.340074,
+    "lon": -86.466334,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Anders' Valhalla",
+    "lat": 16.3383559,
+    "lon": -86.4684258,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Doc's Retreat",
+    "lat": 16.337241,
+    "lon": -86.470004,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Sally's Look",
+    "lat": 16.335087,
+    "lon": -86.471888,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "John's Spot",
+    "lat": 16.3336628,
+    "lon": -86.473032,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Howard's Happy Place",
+    "lat": 16.33327,
+    "lon": -86.47439,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Jeff's Junk",
+    "lat": 16.333023,
+    "lon": -86.475908,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Elbow 2",
+    "lat": 16.332432,
+    "lon": -86.477994,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Elbow",
+    "lat": 16.33215,
+    "lon": -86.47904,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Inside Brick Bay",
+    "lat": 16.33303,
+    "lon": -86.4797,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Cat 1",
+    "lat": 16.330643,
+    "lon": -86.480685,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Brick Bay Wall",
+    "lat": 16.3297608,
+    "lon": -86.480824,
+    "depth": 18,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Cat 2",
+    "lat": 16.329282,
+    "lon": -86.481446,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Maccallum Girls",
+    "lat": 16.328434,
+    "lon": -86.482153,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Cat 3",
+    "lat": 16.327735,
+    "lon": -86.482424,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Cat 6",
+    "lat": 16.328724,
+    "lon": -86.481754,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Tricia's Playground",
+    "lat": 16.327311,
+    "lon": -86.482197,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Cat 4",
+    "lat": 16.326763,
+    "lon": -86.482435,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Marilyn's",
+    "lat": 16.3258194,
+    "lon": -86.4823782,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Cat 5",
+    "lat": 16.325737,
+    "lon": -86.483044,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Veale’s Hangover Surprise",
+    "lat": 16.32477,
+    "lon": -86.48317,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Connie's Dream",
+    "lat": 16.32366,
+    "lon": -86.48381,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Patty's Point",
+    "lat": 16.32294,
+    "lon": -86.48464,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Shark Bait Deep",
+    "lat": 16.321839,
+    "lon": -86.485385,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Zuli Palacio",
+    "lat": 16.321623,
+    "lon": -86.487939,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Shark Bait Shallow",
+    "lat": 16.3218015,
+    "lon": -86.4900098,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "D2t",
+    "lat": 16.320339,
+    "lon": -86.492794,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Lita's Hole / Dirty Dog",
+    "lat": 16.3193349,
+    "lon": -86.4946389,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Artificial Reef",
+    "lat": 16.318348,
+    "lon": -86.504567,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Garden Wall",
+    "lat": 16.316345,
+    "lon": -86.501702,
+    "depth": 18,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Honeymooners Delight",
+    "lat": 16.313826,
+    "lon": -86.502998,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "South Blue Hole",
+    "lat": 16.2968861,
+    "lon": -86.5196791,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Insidious",
+    "lat": 16.2932825,
+    "lon": -86.5187734,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Cara Cara",
+    "lat": 16.2874419,
+    "lon": -86.5200682,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Submerged Line",
+    "lat": 16.286914,
+    "lon": -86.517913,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "65 Ft Mount",
+    "lat": 16.02517,
+    "lon": -86.743545,
+    "depth": 20,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": true
+    }
+  },
+  {
+    "name": "73 Ft Mount",
+    "lat": 16.034575,
+    "lon": -86.726664,
+    "depth": 22,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": true
+    }
+  },
+  {
+    "name": "90 Ft Mount",
+    "lat": 16.054369,
+    "lon": -86.680633,
+    "depth": 27,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": true
+    }
+  },
+  {
+    "name": "60 Ft Mount",
+    "lat": 16.057552,
+    "lon": -86.634552,
+    "depth": 18,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": true
+    }
+  },
+  {
+    "name": "61 Ft Mount",
+    "lat": 16.057713,
+    "lon": -86.629779,
+    "depth": 19,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": true
+    }
+  },
+  {
+    "name": "85 Ft Seamount",
+    "lat": 16.05349,
+    "lon": -86.608366,
+    "depth": 26,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": true
+    }
+  },
+  {
+    "name": "75 Ft Seamount",
+    "lat": 16.053953,
+    "lon": -86.595026,
+    "depth": 23,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": true
+    }
+  },
+  {
+    "name": "80 Ft Seamount",
+    "lat": 16.064344,
+    "lon": -86.502986,
+    "depth": 24,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": true
+    }
+  },
+  {
+    "name": "35 Ft Seamount",
+    "lat": 16.064094,
+    "lon": -86.500413,
+    "depth": 11,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": true
+    }
+  },
+  {
+    "name": "40 Ft Kidney Mount",
+    "lat": 16.065023,
+    "lon": -86.482085,
+    "depth": 12,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": true
+    }
+  },
+  {
+    "name": "60 Ft Kidney Mount",
+    "lat": 16.064108,
+    "lon": -86.47885,
+    "depth": 18,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": true
+    }
+  },
+  {
+    "name": "100 Ft Mount",
+    "lat": 16.066329,
+    "lon": -86.454305,
+    "depth": 30,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": true
+    }
+  },
+  {
+    "name": "67 Ft",
+    "lat": 16.0871996,
+    "lon": -86.2848898,
+    "depth": 20,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": true
+    }
+  },
+  {
+    "name": "Y1",
+    "lat": 16.29383,
+    "lon": -86.5977,
+    "depth": 18,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Y2",
+    "lat": 16.29127,
+    "lon": -86.5987,
+    "depth": 18,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Y3",
+    "lat": 16.29112,
+    "lon": -86.5972,
+    "depth": 18,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Y4",
+    "lat": 16.29073,
+    "lon": -86.5991,
+    "depth": 18,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Y5",
+    "lat": 16.29083,
+    "lon": -86.5984,
+    "depth": 18,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Y6",
+    "lat": 16.29085,
+    "lon": -86.5977,
+    "depth": 18,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Y7",
+    "lat": 16.29017,
+    "lon": -86.599,
+    "depth": 18,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Y8",
+    "lat": 16.29034,
+    "lon": -86.5977,
+    "depth": 18,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Y9",
+    "lat": 16.28955,
+    "lon": -86.5989,
+    "depth": 18,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Y10",
+    "lat": 16.2937,
+    "lon": -86.5983,
+    "depth": 18,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Y11",
+    "lat": 16.29308,
+    "lon": -86.5979,
+    "depth": 18,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Y12",
+    "lat": 16.29247,
+    "lon": -86.5972,
+    "depth": 18,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Y13",
+    "lat": 16.29217,
+    "lon": -86.598,
+    "depth": 18,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Y14",
+    "lat": 16.29176,
+    "lon": -86.5978,
+    "depth": 18,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Y15",
+    "lat": 16.29231,
+    "lon": -86.5987,
+    "depth": 18,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Y16",
+    "lat": 16.28875,
+    "lon": -86.5996,
+    "depth": 18,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Y17",
+    "lat": 16.28745,
+    "lon": -86.5995,
+    "depth": 18,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Y18",
+    "lat": 16.29498,
+    "lon": -86.5975,
+    "depth": 18,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Y19",
+    "lat": 16.29322,
+    "lon": -86.5987,
+    "depth": 18,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Y20",
+    "lat": 16.29319,
+    "lon": -86.5971,
+    "depth": 18,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Y21",
+    "lat": 16.29384,
+    "lon": -86.5972,
+    "depth": 18,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Y22",
+    "lat": 16.29175,
+    "lon": -86.5988,
+    "depth": 18,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Y23",
+    "lat": 16.29386,
+    "lon": -86.5986,
+    "depth": 18,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Y24",
+    "lat": 16.29272,
+    "lon": -86.5984,
+    "depth": 18,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
+  },
+  {
+    "name": "Y25",
+    "lat": 16.29173,
+    "lon": -86.5972,
+    "depth": 18,
+    "site_type": "pinnacle",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "source": "rmp_canonical_2026_03",
+      "addedBy": "rmp_canonical_kml_import",
+      "coordinate_source": "rmp_canonical_kml_2026_03",
+      "validated": false,
+      "validation_source": "rmp_canonical_kml_only",
+      "depth_inferred_from_name": false
+    }
   }
 ]
