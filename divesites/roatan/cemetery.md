@@ -25,3 +25,5 @@ Rare south-side Roatan site with fields of flowing soft corals and a dramatic sh
 
 *Sources: [sundiversroatan.com](https://sundiversroatan.com). Last updated 2026-04-19.*
 
+---
+*Sources: [Roatan Marine Park canonical mooring map](https://www.google.com/maps/d/u/0/viewer?mid=1VAAlEKHNYaqEzG1-mQVxQSmVTYVjdyfA), [sundiversroatan.com](https://sundiversroatan.com). Last updated 2026-04-19.*

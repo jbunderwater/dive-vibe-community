@@ -25,3 +25,5 @@ Spectacular vertical walls with sand chutes and soft corals, accessed by boat fr
 
 *Sources: [cocoviewresort.com](https://cocoviewresort.com). Last updated 2026-04-19.*
 
+---
+*Sources: [Roatan Marine Park canonical mooring map](https://www.google.com/maps/d/u/0/viewer?mid=1VAAlEKHNYaqEzG1-mQVxQSmVTYVjdyfA), [cocoviewresort.com](https://cocoviewresort.com). Last updated 2026-04-19.*

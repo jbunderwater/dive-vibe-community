@@ -132,6 +132,19 @@ def render_match_overview(name: str, description: str, site_type: str) -> str:
     return desc
 
 
+RMP_KML_URL = (
+    "https://www.google.com/maps/d/u/0/viewer"
+    "?mid=1VAAlEKHNYaqEzG1-mQVxQSmVTYVjdyfA"
+)
+RMP_FOOTER_NO_OTHER_SOURCE = (
+    "*Source: [Roatan Marine Park canonical mooring map](" + RMP_KML_URL + "). "
+    "Site coordinates and mooring designation come from the RMP-maintained KML; "
+    "no site-specific dive description (depth profile, marine life, conditions) "
+    "has been confirmed against dive-operator listings or ScubaBoard. "
+    "Last updated {today}.*"
+)
+
+
 def render_footer(found_in: list[str], today: str) -> str:
     parts = []
     for f in found_in:
@@ -141,7 +154,10 @@ def render_footer(found_in: list[str], today: str) -> str:
         else:
             parts.append(f"[{f}](https://{f})" if "." in f and "/" not in f else f)
     if not parts:
-        return f"*Description based on regional diving characteristics. No site-specific sources found. Last updated {today}.*"
+        return RMP_FOOTER_NO_OTHER_SOURCE.format(today=today)
+    # When other sources were found, RMP is still the coordinate source —
+    # cite it alongside the dive-shop/forum source.
+    parts.insert(0, f"[Roatan Marine Park canonical mooring map]({RMP_KML_URL})")
     return f"*Sources: {', '.join(parts)}. Last updated {today}.*"
 
 
