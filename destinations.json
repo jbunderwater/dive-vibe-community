@@ -29,17 +29,17 @@
     "description": "The heart of the Coral Triangle with unmatched marine biodiversity across thousands of islands.",
     "countryCode": "ID",
     "center": [
-      -3.5388,
-      124.7033
+      -2.45,
+      118.05
     ],
     "bounds": [
       [
-        -9.3,
-        114.0031
+        -11.0,
+        95.0
       ],
       [
-        2.7469,
-        134.7031
+        6.1,
+        141.05
       ]
     ]
   },
