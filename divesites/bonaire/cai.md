@@ -3,9 +3,9 @@ name: Cai
 lat: 12.1032167
 lng: -68.2224528
 difficulty: Advanced
-maxDepth: 35
+maxDepth: 20
 entryType: shore
-siteType: reef
+siteType: drift
 ref: 
 osmId: 663869416
 addedBy: jbunderwater_ai
@@ -13,49 +13,53 @@ addedBy: jbunderwater_ai
 
 # Cai
 
+*An advanced drift dive at the mouth of Lac Bay on Bonaire's wild east coast — channel currents, large tarpon schools, giant anemones, and turtles for experienced divers with a local guide.*
+
 ## Overview
-Cai is a beautiful dive site located in southern Bonaire near Willemstoren Lighthouse. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Cai is on Bonaire's east (Atlantic-exposed) coast at the mouth of Lac Bay, well away from the calm western dive belt where most island diving happens. The site is widely described as the most famous and most challenging dive on the east coast. A natural sand channel cuts out of Lac Bay and funnels tidal water past the dive site, generating strong, changing currents that drive plankton and pelagic fish through the channel. Diving here is not an option in marginal conditions, and a local guide is mandatory: surface logistics, currents, and the lack of nearby exit points make this a different kind of dive from the western shore sites.
 
 ## Site Information
-- **Location**: South Bonaire (near Willemstoren Lighthouse)
+
+- **Location**: East coast Bonaire, at the mouth of Lac Bay (near the village of Cai)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 35 meters
-- **Typical Visibility**: 20-30 meters
-- **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Maximum Depth**: 20 meters
+- **Typical Visibility**: Variable; depends on wind and tidal flow
+- **Current**: Strong and changing — channel currents combined with open-ocean influence
+- **Best Time**: Calm-weather windows only; consult local operators
 
 ## Marine Life
-Cai is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+The sand channel out of Lac Bay acts as a highway for large fish. Tarpon are the signature species — schools of 50 or more are commonly reported. Green sea turtles, eagle rays, large barracuda, groupers, snappers, and parrotfish all frequent the site. Bonaire's highest concentrations of giant anemones have been documented here. The transition between mangrove nursery (inside Lac Bay) and open coast supports a wide mix of juvenile and adult species in close proximity.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+The channel itself drops down a steeply sloping wall on one side; the inside of Lac Bay is shallow and protected. A standard plan is a current-assisted drift along the channel with a guided exit back to shore. Hard coral grows in formations interspersed with sand patches and soft corals; rays, lobsters, and flatfish inhabit the sand. Profile is generally shallow but the current and exit logistics keep this firmly in advanced territory.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
 
-## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+Access by 4WD from Kralendijk via the road to Cai. The shore entry is over sand near the shell piles at the bay mouth. Boat entry is also possible and removes the surface-swim and exit complexity. Either way, plan with a local operator who runs this site regularly — entry/exit timing must match the current state.
 
-## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+## Tips
+
+- Do not dive Cai without a local guide
+- Check forecasts and abort if east-coast wind/wave conditions are unfavorable
+- Bring an SMB; a surface drift exit is possible if conditions change
+- Combine with kayaking the Lac Bay mangroves on the same day — a unique ecosystem few divers visit
+
+## Safety
+
+Cai is exposed to Atlantic swell and tide-driven channel current. Conditions can change during a dive, and exit options outside the channel are limited. Local guides are essential not as a formality but because they know which channel current is safe to enter and when to call the day. Carry SMB and reel; never attempt this dive solo or on the wrong tide.
 
 ## Photography
-Cai offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+Wide-angle works well for the tarpon schools, particularly when the current concentrates them into the channel. The giant anemones photograph beautifully on macro. Visibility is the variable that drives everything — on a calm day with clean water, Cai is genuinely spectacular; in surge it is unphotographable.
 
 ## Nearby Sites
-Nearby sites include Willemstoren Lighthouse, Sweet Dreams, and Vista Blue. All are accessible along the southern coast of Bonaire.
 
-## Additional Resources
-- **Website**: https://www.divers-guide.com/en/dive-spots/cai
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
+White Hole, the other true east-coast site, lies a short distance south near Sorobon. Both are advanced and weather-dependent. The remainder of Bonaire's dive sites are on the western leeward coast, well away from this side of the island.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Sources: [Divers-Guide – Cai](https://www.divers-guide.com/en/cai), [Bonaire.com – Cai](https://bonaire.com/en/dive-sites/cai-dive/), [ScubaBoard – Shore diving the east side](https://scubaboard.com/community/threads/shore-diving-the-east-side.612521/). Last updated 2026-05-16.*

@@ -2,7 +2,7 @@
 name: Carel's Vision
 lat: 12.230709
 lng: -68.4127451
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 30
 entryType: boat
 siteType: reef
@@ -13,48 +13,52 @@ addedBy: jbunderwater_ai
 
 # Carel's Vision
 
+*Named for Carel Steensma — Dutch WWII resistance fighter and Bonaire Marine Park founder — this primarily boat-accessed reef sits at the BOPEC end of the north coast. High-density hard coral cover and a westward current with limited shore exit options.*
+
 ## Overview
-Carel's Vision is a beautiful dive site located in northern Bonaire near Washington Slagbaai National Park. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Carel's Vision is named after Carel Steensma, a Dutch WWII resistance fighter who was instrumental in the founding of Bonaire National Marine Park. The site opened in 2005 and lies near the BOPEC oil terminal on Bonaire's north coast (mainland, not Klein Bonaire). It is primarily a boat dive — road access requires a difficult 4WD route past BOPEC plus a 50-meter walk to a stony beach, and there is limited mobile reception. The reef itself features high-density hard- and soft-coral cover, including substantial black coral, and shows reasonable recovery from Hurricane Lenny (1999) damage.
 
 ## Site Information
-- **Location**: North Bonaire (near Washington Slagbaai National Park)
+
+- **Location**: North Bonaire mainland, near the BOPEC oil terminal
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-30 meters
-- **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Typical Visibility**: ~25 meters
+- **Current**: Westward, with limited exit options
+- **Best Time**: Calm-weather days with reliable boat support
 
 ## Marine Life
-Carel's Vision is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+Black coral is a defining feature here, along with plate, star, and cobble corals. Parrotfish, sponges, stingrays, triggerfish, and a variety of juvenile fish populate the reef. The healthy coral structure draws species variety beyond the average western Bonaire site.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+The reef begins shallow and slopes through the 6–25 meter range, continuing deeper. The westward current is the operational concern: shore exit points are limited, so a boat-supported plan is the realistic choice for most divers. Plan depth and gas conservatively given the current's effect on the return swim.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
 
-## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+Boat access via an operator running the BOPEC end of the coast. Shore access — for those committed to it — is via a 4WD route past the BOPEC facility plus a 50-meter walk to a stony beach. Mobile reception is limited; bring an emergency plan that doesn't rely on a phone call.
 
-## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+## Tips
+
+- Dive this from a boat unless you have specific reason to attempt shore access
+- Carry an SMB; westward drift exit can leave you well away from the entry
+- The black coral is a highlight — bring a light to bring out color at depth
+
+## Safety
+
+Limited shore exit options combined with a westward current make this an Advanced site even with a boat overhead. Mobile reception is unreliable in the area. Avoid in marginal conditions.
 
 ## Photography
-Carel's Vision offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+The dense hard- and soft-coral cover photographs well on wide-angle. Black coral close-ups reward a light source.
 
 ## Nearby Sites
-Nearby sites include Boka Bartol, Boka Katuna, and Boka Slagbaai. All are accessible along the northern coast of Bonaire.
 
-## Additional Resources
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
+Playa Frans lies further north along the coast at the Washington-Slagbaai boundary. Boka Slagbaai and other park sites are reached via the park's 4WD access road. Karpata and Taylor Made are to the southeast.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Sources: [Divers-Guide – Carel's Vision](https://www.divers-guide.com/en/carels-vision), [InfoBonaire – Carel's Vision](https://infobonaire.com/carels-vision/), [Greatest Dive Sites – Carel's Vision](https://bonaire.greatestdivesites.com/north_bonaire/carels_vision). Last updated 2026-05-16.*

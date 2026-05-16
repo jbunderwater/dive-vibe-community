@@ -2,8 +2,8 @@
 name: Boka Bartol
 lat: 12.3048091
 lng: -68.3975477
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 40
 entryType: shore
 siteType: reef
 ref: 
@@ -13,49 +13,53 @@ addedBy: jbunderwater_ai
 
 # Boka Bartol
 
+*The northernmost dive on Bonaire — remote, surf-pounded entry over a rocky beach inside Washington-Slagbaai National Park. Pristine reef in exchange for difficult access and very strong current.*
+
 ## Overview
-Boka Bartol is a beautiful dive site located in northern Bonaire near Washington Slagbaai National Park. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Boka Bartol is the northernmost dive site on Bonaire (BNMP #1), at the far end of the route through Washington-Slagbaai National Park. The remoteness has kept the coral healthy and brings larger species in, but the entry, the surf, and the current all make this an experienced-divers-only site. The adjacent salt lake (Salina Bartol) hosts flamingos, and the coastline is dramatic cliff-and-cove terrain.
 
 ## Site Information
-- **Location**: North Bonaire (near Washington Slagbaai National Park)
+
+- **Location**: Northernmost Bonaire, inside Washington-Slagbaai National Park (4WD + Nature Tag required)
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-30 meters
-- **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 40 meters
+- **Typical Visibility**: 20–30 meters
+- **Current**: Often very strong; turbulent surf at entry
+- **Best Time**: Calm-weather days only
 
 ## Marine Life
-Boka Bartol is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+Sightings include eagle rays, large groupers, barracuda, spotted garden eels, peacock flounders, thornback rays, and sea turtles. The remote location and healthy reef draw larger species more reliably than the busier southern sites.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+Once past the surf line, the reef slopes from shallow water to ~40 meters. The wall has dense hard- and soft-coral cover; the deeper slope continues beyond recreational limits. Plan a conservative depth profile and time the entry/exit carefully against surf sets.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
 
-## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+Approach via Washington-Slagbaai park road (4WD required). Park near the marked Boka Bartol area and walk approximately 60 meters across unpaved terrain to the rocky beach. The entry is genuinely difficult in any meaningful surf — boat access is the safer option when available. Exit at the same point, again timed between sets.
 
-## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+## Tips
+
+- Boat dive is the recommended approach
+- If shore-diving, walk-in gear is heavier than you remember — pace yourself
+- Do not attempt on any windward swell
+- The park closes at 5pm; plan time for the drive out
+
+## Safety
+
+The combination of surf, rocky entry, strong current, remote location, and lack of nearby emergency services make Boka Bartol one of Bonaire's higher-risk sites. Conservative gas management is essential. Carry an SMB. Avoid in any but the calmest conditions.
 
 ## Photography
-Boka Bartol offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+The pristine reef and dramatic coastline reward wide-angle. Larger pelagics are realistic targets. Visibility is typically excellent on calm days.
 
 ## Nearby Sites
-Nearby sites include Boka Slagbaai, Boka Katuna, and Boka Di Tolo. All are accessible along the northern coast of Bonaire.
 
-## Additional Resources
-- **Website**: https://www.divers-guide.com/en/boka-bartol
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
+Boka Slagbaai, Boka Katuna, Playa Funchi, and Playa Benge are the nearest sites — all within Washington-Slagbaai Park, all with similar 4WD access requirements.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Sources: [Divers-Guide – Boka Bartol](https://www.divers-guide.com/en/boka-bartol), [InfoBonaire – Insider's Guide to Washington Park](https://infobonaire.com/the-insiders-guide-to-washington-park/). Last updated 2026-05-16.*

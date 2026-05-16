@@ -2,7 +2,7 @@
 name: Invisibles
 lat: 12.077631
 lng: -68.2801815
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 30
 entryType: shore
 siteType: reef
@@ -20,7 +20,7 @@ Invisibles is a beautiful dive site located in southern Bonaire near Salt Pier. 
 - **Location**: South Bonaire (near Salt Pier)
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-30 meters
 - **Current**: Usually light

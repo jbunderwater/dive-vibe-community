@@ -2,7 +2,7 @@
 name: Larry's Lair
 lat: 12.0952821
 lng: -68.2840519
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 30
 entryType: shore
 siteType: reef
@@ -20,7 +20,7 @@ Larry's Lair is a beautiful dive site located in central Bonaire near Salt Pier.
 - **Location**: Central Bonaire (near Salt Pier)
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-30 meters
 - **Current**: Usually light

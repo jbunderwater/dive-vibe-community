@@ -2,7 +2,7 @@
 name: White Slave
 lat: 12.0575572
 lng: -68.2812043
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 30
 entryType: shore
 siteType: reef
@@ -13,51 +13,53 @@ addedBy: jbunderwater_ai
 
 # White Slave
 
-A stunning reef dive site on Bonaire's southwestern coast, featuring dramatic coral formations and abundant marine life
+*A soft-coral reef on Bonaire's southern coast named for the white-painted slave huts on shore, fronted by a long sandy approach where eagle rays and stingrays patrol.*
 
 ## Overview
-White Slave is a beautiful dive site located on Bonaire's southwestern coast, known for its dramatic coral formations and excellent marine life viewing opportunities. The site features a steep wall that drops from shallow waters to depths of over 100 feet, creating an impressive underwater landscape. The reef is characterized by large brain corals, elkhorn coral formations, and colorful soft corals. The site offers excellent visibility and is particularly popular for its abundance of reef fish and occasional sightings of larger marine animals.
+
+White Slave is the counterpart to Red Slave on Bonaire's southern leeward coast. Both sites take their names from the small slave huts built around 1850 to shelter enslaved workers from the southern salt pans — color-coded so that occupants could find the right hut on dark nights. White Slave sits adjacent to the white-painted set of huts; Red Slave lies further south near the red huts. The dive itself is a sloping soft-coral reef accessed after a substantial swim out across a shallow white-sand expanse.
 
 ## Site Information
-- **Location**: Southwest Bonaire (near Kralendijk)
+
+- **Location**: Southern Bonaire, adjacent to the historic white slave huts (north of Red Slave)
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-30 meters
-- **Current**: Light to moderate
-- **Best Time**: Morning to early afternoon
+- **Typical Visibility**: 20–30 meters
+- **Current**: Variable — can become strong with little warning
+- **Best Time**: Early morning, when seas are typically calmer
 
 ## Marine Life
-White Slave is home to a rich diversity of marine life. Expect to see large schools of blue tangs, parrotfish, and grunts swimming along the reef wall. The site is particularly known for its abundance of butterflyfish, angelfish, and damselfish. Look for sea turtles, eagle rays, and occasionally nurse sharks patrolling the deeper waters. The coral formations provide habitat for cleaner shrimp, arrow crabs, and various nudibranchs. The site also supports healthy populations of moray eels and lobster.
+
+The long sandy approach is itself a feature here — eagle rays and stingrays are regularly seen cruising the shallows, particularly in the early morning. Once at the reef, expect soft corals, sponges, surgeonfish schools, turtles, and the usual Caribbean reef fish (parrotfish, butterflyfish, angelfish, snappers). Moray eels and lobster shelter in the reef structure. Larger pelagics occasionally pass by, drawn by the deeper water just offshore.
 
 ## Dive Profile
-Begin your dive by entering from the shore and swimming out to the reef wall. The site features a dramatic drop-off that starts at about 15 feet and descends steeply to depths of 100+ feet. Most of the interesting marine life and coral formations are found between 30-70 feet along the wall. Plan your dive to explore the wall at different depths, taking time to observe the coral formations and marine life. The steep wall makes this site particularly suitable for wall diving techniques.
+
+From the entry, kick out across roughly 200 meters of shallow white sand before the reef edge appears at around 8 meters. The slope then descends through the 8–30 meter range with most of the coral cover and fish life concentrated between 10–25 meters. The long swim back across the sand is part of every dive plan here, so monitor gas accordingly. Many divers turn the swim out into a snorkel on the surface to save air for the reef.
 
 ## Entry and Exit
-Access White Slave via a marked entry point along the southwestern coast. The entry area features a rocky shoreline that leads to the reef wall. Enter the water carefully from the rocks and swim out to the drop-off. Exit at the same location, being mindful of the rocky shoreline when approaching. The entry and exit can be challenging due to the rocky terrain, so take your time and use appropriate footwear.
 
-## Tips and Recommendations
-- The rocky entry can be challenging - wear appropriate footwear
-- The best diving is along the wall, not in the shallow areas
-- Look for the large brain corals and elkhorn coral formations
-- This site is excellent for wall diving techniques
-- Consider diving during morning hours for the best light conditions
-- Be mindful of your buoyancy when diving along the wall
+A marked dirt-track turn leads off the southern coast road to the white huts. The entry is over a small rocky/sandy beach. Conditions can vary — when wind picks up, surf can make the rocky entry awkward. Exit at the same location, mindful of timing between sets when there is any swell.
 
-## Safety Considerations
-The rocky entry and exit require careful navigation. The steep wall requires good buoyancy control and wall diving experience. Be aware of potential currents along the wall, especially at depth. Maintain proper distance from the coral formations to avoid damage. The site can experience boat traffic, so use a dive flag when appropriate.
+## Tips
+
+- The long sand swim is unavoidable — surface-kick out to save air
+- Watch for rays in the shallows on the way out and back, especially at dawn
+- This is not a protected cove; current can come up unexpectedly, particularly later in the day
+- Bring an SMB given the open exposure
+
+## Safety
+
+The exposure here is similar in character to Red Slave but somewhat less severe. Current direction and strength can change during the dive, so reference your exit point regularly. The long shallow swim back is gas-intensive; conservative turn-pressure is essential. Avoid in heavy swell or strong wind.
 
 ## Photography
-White Slave offers exceptional photography opportunities with its dramatic wall and abundant marine life. The steep drop-off creates impressive wide-angle shots, while the coral formations provide great subjects for macro photography. The clear water and good visibility make it ideal for capturing the full scale of the underwater landscape. Natural light is best during morning hours when the sun illuminates the wall.
+
+Wide-angle works well across the sand-to-reef transition, particularly with rays in the frame. The soft corals and sponges on the slope photograph well with strobes once below 10 meters. Late afternoon light over the white sand can be striking from below.
 
 ## Nearby Sites
-Nearby sites include Red Slave, Pink Beach, and other southwestern Bonaire dive sites. All are accessible along the southwestern coast of the island.
 
-## Additional Resources
-- **Website**: https://www.divers-guide.com/en/dive-spots/white-slave
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Last Updated**: 2025-06-24
+Red Slave lies further south along the same coast near the red slave huts. Willemstoren Lighthouse marks the southern tip of the island. Sweet Dreams and the southern double-reef sites lie north along the same coastline.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Sources: [InfoBonaire – White Slave](https://infobonaire.com/white-slave/), [PADI – White Slave](https://www.padi.com/dive-site/bonaire/white-slave/), [Divers-Guide – White Slave](https://www.divers-guide.com/en/white-slave). Last updated 2026-05-16.*

@@ -2,7 +2,7 @@
 name: Salt City
 lat: 12.079695
 lng: -68.2806859
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 25
 entryType: shore
 siteType: reef
@@ -22,7 +22,7 @@ Salt City is a distinctive dive site located on Bonaire's southwestern coast, kn
 - **Location**: Southwest Bonaire (near Kralendijk)
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15-25 meters
 - **Current**: Light to moderate

@@ -2,7 +2,7 @@
 name: Bisé Morto
 lat: 12.2935303
 lng: -68.4132212
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 30
 entryType: shore
 siteType: reef
@@ -20,7 +20,7 @@ Bisé Morto is a beautiful dive site located in northern Bonaire near Washington
 - **Location**: North Bonaire (near Washington Slagbaai National Park)
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-30 meters
 - **Current**: Usually light

@@ -2,60 +2,64 @@
 name: Lighthouse Point
 lat: 12.1139501
 lng: -68.2952067
-difficulty: Intermediate
-maxDepth: 25
-entryType: shore
-siteType: reef
+difficulty: Advanced
+maxDepth: 35
+entryType: boat
+siteType: wall
 ref: 
-osmId: 663869398
+osmId: 663869420
 addedBy: jbunderwater_ai
 ---
 
 # Lighthouse Point
 
+*A steep south-coast wall north of Willemstoren Lighthouse — variable currents make this a natural drift dive for experienced divers; shore entry is discouraged and the dive is preferred from a boat in calm conditions only.*
+
 ## Overview
-Lighthouse Point is a beautiful dive site located in southern Bonaire near Punt Vierkant. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Lighthouse Point is on Bonaire's south coast, several hundred meters north of the historic Willemstoren Lighthouse (built 1837). The reef wall starts close to the surface — as little as 2 meters in places — and drops in a series of steps and slopes through the 12–14 meter range before sloping more gradually to 30+ meters. The site is exposed near the island's southern tip, where unpredictable currents make this a de-facto drift dive. It is rarely dived precisely because of those conditions, with the upside that the soft coral cover remains in excellent shape.
 
 ## Site Information
-- **Location**: South Bonaire (near Punt Vierkant)
-- **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 20-30 meters
-- **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+
+- **Location**: South coast Bonaire, north of Willemstoren Lighthouse
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 35 meters
+- **Typical Visibility**: 20–30 meters
+- **Current**: Variable and often strong — drift-dive conditions are typical
+- **Best Time**: Calm-conditions days only
 
 ## Marine Life
-Lighthouse Point is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+The combination of steep wall, current, and proximity to open water draws larger species. Expect pelagic visitors — barracuda, tarpon, and jacks pass along the wall. Healthy soft corals, sponges, and gorgonians cover the reef face. Resident species include groupers, snappers, parrotfish, and the usual Caribbean reef fish. Turtles are seen periodically.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+The shallow shelf starts at 2 meters and drops to roughly 12–14 meters before the slope continues to 30 meters and beyond. Plan a drift along the wall in the direction of the prevailing current — fighting current here is futile and burns gas quickly. Stay close to the wall and use it as a current break where possible.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
 
-## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+Shore entry is officially possible but heavily discouraged because of current, surge, and exit logistics. Boat dives from a local operator are the standard approach. From a boat, descent on the line in current is straightforward; pickup at the end of a drift is the operator's responsibility.
 
-## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+## Tips
+
+- Treat as a drift dive: plan exit point with the boat, not the entry point
+- Check current and surface conditions before committing
+- This site rewards advanced buoyancy and gas management — the shallow shelf rewards a slow ascent and safety stop with extra colour and life
+- Carry an SMB and reel
+
+## Safety
+
+Currents at the south end are unpredictable in both direction and strength. This is not a site to learn drift technique on. Boat operators sometimes call the day at the surface, before descent — trust that judgement. Avoid in any meaningful swell.
 
 ## Photography
-Lighthouse Point offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+The shallow shelf at 2–5 meters has excellent ambient light and dense soft coral, ideal for wide-angle compositions. The wall face is photogenic but requires steady positioning in the current.
 
 ## Nearby Sites
-Nearby sites include Punt Vierkant, Margate Bay, and English Garden. All are accessible along the southern coast of Bonaire.
 
-## Additional Resources
-- **Website**: https://www.divers-guide.com/en/dive-spots/lighthouse-point
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
+Willemstoren Lighthouse lies just south. Sweet Dreams and the unmarked southern sites are further north along the same coastline.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Sources: [Bonaire.com – Lighthouse Point](https://bonaire.com/en/dive-sites/lighthouse-point/), [Divers-Guide – Lighthouse Point](https://www.divers-guide.com/en/lighthouse-point), [Reef Smart Guides – Lighthouse Point](https://reefsmartguides.com/lighthouse-point/). Last updated 2026-05-16.*
