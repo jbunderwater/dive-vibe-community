@@ -3,7 +3,7 @@ name: White Hole
 lat: 12.0940583
 lng: -68.2280778
 difficulty: Advanced
-maxDepth: 40
+maxDepth: 15
 entryType: shore
 siteType: reef
 ref: 
@@ -21,7 +21,7 @@ White Hole is a beautiful dive site located in southern Bonaire near Willemstore
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: 20-30 meters
 - **Current**: Usually light
 - **Best Time**: Morning to early afternoon

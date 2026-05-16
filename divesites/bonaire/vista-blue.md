@@ -2,7 +2,7 @@
 name: Vista Blue
 lat: 12.0386524
 lng: -68.2648116
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 30
 entryType: shore
 siteType: reef
@@ -22,7 +22,7 @@ Vista Blue is a beautiful dive site located on Bonaire's southern coast, known f
 - **Location**: Southern Bonaire (near Willemstoren)
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15-25 meters
 - **Current**: Light to moderate

@@ -3,7 +3,7 @@ name: Chachacha Beach
 lat: 12.1460122
 lng: -68.276318
 difficulty: Beginner
-maxDepth: 45
+maxDepth: 15
 entryType: shore
 siteType: reef
 ref: 
@@ -23,7 +23,7 @@ Chachacha Beach is a beautiful dive site located in central Bonaire near Oil Sli
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 45 meters
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: 20-30 meters
 - **Current**: Usually light
 - **Best Time**: Morning to early afternoon

@@ -13,52 +13,53 @@ addedBy: jbunderwater_ai
 
 # Bari Reef
 
-One of Bonaire's most accessible and popular dive sites featuring excellent coral formations and abundant marine life
+*House reef of the Sand Dollar Resort just north of Kralendijk — ranked #1 in the Caribbean for fish diversity by REEF.org survey data, with hundreds of species recorded.*
 
 ## Overview
-Bari Reef is one of Bonaire's most popular and easily accessible dive sites, located just south of Kralendijk near the Sand Dollar Resort. The site features a beautiful reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with healthy coral formations, including large brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it perfect for divers of all experience levels.
+
+Bari Reef is the house reef of Sand Dollar Resort on Bonaire's central west coast, just north of Kralendijk. It has a strong claim as the highest-fish-diversity dive site in the Caribbean: REEF.org volunteer surveys have logged 300+ species here, with some counts going considerably higher. The site is also notably easy — calm conditions, gentle slope, sandy entry — which makes it accessible for divers of all levels and ideal as a first or warm-up dive on the island.
 
 ## Site Information
-- **Location**: Near Kralendijk, central Bonaire (close to Sand Dollar Resort)
+
+- **Location**: Just north of Kralendijk, Sand Dollar Resort house reef
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-30 meters
+- **Typical Visibility**: 20–30 meters
 - **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Best Time**: All day; dawn and dusk are particularly active
 
 ## Marine Life
-Bari Reef is renowned for its diverse marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also home to sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish. The site is particularly known for its abundance of juvenile fish.
+
+The high fish count is what defines Bari Reef. Tarpon greet divers in the shallows, particularly on early or late dives. Resident species include yellowhead jawfish, frogfish (find them on sponges), octopus, queen and French angelfish, large schools of chromis, parrotfish, and grunts. Eels — green and spotted moray, goldentail — are common. Macro subjects are abundant. The site is excellent for night diving, when octopus, lobsters, and tarpon become more active.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+Enter from the sand and follow the reef edge that runs parallel to shore. The slope begins around 6–8 meters and continues down past 30 meters. Most marine life is concentrated in the 6–20 meter range, making this an ideal long, shallow dive. Plan a relaxed pace — Bari rewards careful observation more than distance covered.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
 
-## Tips and Recommendations
-- This is one of Bonaire's most popular sites, so arrive early to avoid crowds
-- The easy entry makes it perfect for beginners and families
-- Look for the large brain corals and elkhorn coral formations
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+Sandy beach entry at Sand Dollar Resort. Easy on/off with no rocks or surf to navigate. Exit at the same location. The reef is close enough to shore that air management is rarely an issue.
 
-## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+## Tips
+
+- Slow down and look — this is a species-spotting dive
+- Bring a fish ID slate or memory; the diversity is the experience
+- Night dives are particularly rewarding for tarpon, octopus, and squid
+- Excellent for trying out new camera setups or first Bonaire dives
+
+## Safety
+
+A genuinely benign site. Watch boat traffic when surfacing — the marina and dock areas are close. Otherwise the calm, shallow profile makes this one of Bonaire's easiest dives.
 
 ## Photography
-Bari Reef offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+Macro photography excels here given the species density. Wide-angle works for tarpon in the shallows, particularly on dawn/dusk dives. Strobes recover color on the slope.
 
 ## Nearby Sites
-Nearby sites include Oil Slick Leap, 18th Palm, and Calabas Reef. All are accessible along the central coast of Bonaire.
 
-## Additional Resources
-- **Reference**: Site #30
-- **Website**: https://www.scubadiving.com/bari-reef-bonaire
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: One of Bonaire's most accessible dive sites
-- **Last Updated**: 2025-06-24
+Buddy's Reef, La Machaca, and Cliff are within walking or short driving distance along the same coast. Something Special — the muck/critter dive — is also nearby.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Sources: [InfoBonaire – Bari Reef / Sand Dollar](https://infobonaire.com/bari-reef-sand-dollar-bonaire/), [Scuba Diving Magazine – Bari Reef](https://www.scubadiving.com/dive-bari-reef), [Bonaire Island – Bari Reef](https://bonaireisland.com/experiences/diving/sites/bari-reef/), [REEF.org Volunteer Fish Survey](https://www.reef.org/). Last updated 2026-05-16.*

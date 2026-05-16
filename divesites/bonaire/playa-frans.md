@@ -2,7 +2,7 @@
 name: Playa Frans
 lat: 12.245742
 lng: -68.4141402
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 35
 entryType: shore
 siteType: reef
@@ -13,48 +13,53 @@ addedBy: jbunderwater_ai
 
 # Playa Frans
 
+*Remote far-north shore dive at the edge of Washington-Slagbaai Park — concrete quay entry, moderate-to-strong currents, and a nutrient-rich slope that supports diverse life.*
+
 ## Overview
-Playa Frans is a beautiful dive site located in northern Bonaire near Washington Slagbaai National Park. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Playa Frans sits at the far north of Bonaire's western coast, technically just outside the Washington-Slagbaai National Park boundary along a rugged 7-kilometer dirt road. The combination of remote location, limited mobile reception, and a small concrete quay rather than a sandy beach makes this a site for self-sufficient experienced divers. The reef itself is healthy and the currents — though they require respect — bring plankton and pelagic species along the slope.
 
 ## Site Information
-- **Location**: North Bonaire (near Washington Slagbaai National Park)
+
+- **Location**: Far north Bonaire west coast, at the Washington-Slagbaai Park boundary
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
+- **Difficulty Level**: Advanced
 - **Maximum Depth**: 35 meters
-- **Typical Visibility**: 20-30 meters
-- **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Typical Visibility**: 20–30 meters
+- **Current**: Moderate to strong; nutrient-rich
+- **Best Time**: Calm-weather days only
 
 ## Marine Life
-Playa Frans is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+Large schools of blue tangs, black surgeonfish, parrotfish, rock beauty, green moray, barracuda, triggerfish, and sea turtles. The nutrient-rich current supports a denser fish community than the calmer southern sites.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+The reef begins around 8 meters and slopes gradually with old reef structure nearly reaching the surface. Sandy channels cut through the reef. Most of the life is in the 8–25 meter range. Plan against the current rather than with it on the outbound leg.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
 
-## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+Drive ~7 km on a rugged dirt road from the main coastal route — 4WD strongly recommended; phones may be out of range. Use the small concrete quay for entry. Exit at the same point.
 
-## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+## Tips
+
+- Confirm road condition before driving in — the access road deteriorates after rain
+- Self-sufficiency required — limited emergency services within reach
+- Bring an SMB
+- Avoid in any meaningful swell
+
+## Safety
+
+Remote location, limited mobile reception, moderate-to-strong currents, and difficult emergency access. Plan conservatively and never dive solo here.
 
 ## Photography
-Playa Frans offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+The nutrient-rich slope rewards wide-angle for the fish schools and rays. Calm-day visibility is excellent.
 
 ## Nearby Sites
-Nearby sites include Boka Bartol, Boka Katuna, and Carel's Vision. All are accessible along the northern coast of Bonaire.
 
-## Additional Resources
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
+Boka Bartol, Boka Katuna, and Wayaka 2 lie inside the adjacent Washington-Slagbaai Park. Carel's Vision is the nearest non-park site to the south.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Sources: [Divers-Guide – Playa Frans](https://www.divers-guide.com/en/playa-frans), [BonairePros – Four Great Dives For The Experienced](https://bonairepros.com/). Last updated 2026-05-16.*

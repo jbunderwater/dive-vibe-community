@@ -2,7 +2,7 @@
 name: Jeannie's Glory
 lat: 12.0867114
 lng: -68.282629
-difficulty: Beginner
+difficulty: Intermediate
 maxDepth: 30
 entryType: shore
 siteType: reef
@@ -20,7 +20,7 @@ Jeannie's Glory is a beautiful dive site located in central Bonaire near Salt Pi
 - **Location**: Central Bonaire (near Salt Pier)
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-30 meters
 - **Current**: Usually light

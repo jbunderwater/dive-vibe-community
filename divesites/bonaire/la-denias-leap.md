@@ -2,60 +2,65 @@
 name: La Denia's Leap
 lat: 12.2181417
 lng: -68.3481483
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 30
 entryType: shore
-siteType: wall
+siteType: drift
 ref: 
 osmId: 663869441
 addedBy: jbunderwater_ai
 ---
 
-# La Denia's Leap
+# La Dania's Leap
+
+*Bonaire's only true drift dive — a committed cliff giant-stride into deep water, then a one-way northward swim along the wall toward Karpata. No exit point in between.*
 
 ## Overview
-La Denia's Leap is a beautiful dive site located in northern Bonaire near Karpata. The site features a dramatic entry point with a giant stride from a rocky ledge into deep water. The reef starts immediately below the entry point and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its dramatic entry and abundance of marine life.
+
+La Dania's Leap is widely cited as Bonaire's only genuine drift dive. The dive begins with a giant stride off a low cliff straight into deep water, followed by a current-assisted northward swim of roughly 600 meters along the reef face to exit at Karpata. There is no exit between the two points: once you commit to the leap, the only way out is at Karpata. The site is therefore advanced not because the diving itself is technically demanding but because the logistics demand experienced planning — two vehicles, gear at both ends, and a willingness to abort if the current is wrong.
 
 ## Site Information
-- **Location**: North Bonaire (near Karpata)
+
+- **Location**: Northwest coast Bonaire, between Karpata and Boka di Tolo
 - **Entry Type**: Shore entry
-- **Site Type**: Wall dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 20-30 meters
-- **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Exit**: At Karpata, ~600 m north
+- **Site Type**: Drift dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters (slope continues deeper)
+- **Typical Visibility**: 20–30 meters
+- **Current**: Northward — relied upon for the drift; check before committing
+- **Best Time**: Morning, when current is typically steady
 
 ## Marine Life
-La Denia's Leap is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+The wall and slope are densely covered with hard and soft corals, sponges, and gorgonians. Drifting along the wall brings sightings of turtles, eagle rays, large groupers, snappers, and occasional barracuda. Tarpon and jacks pass through the open water along the wall. Macro subjects line the slope on both sides of the drift.
 
 ## Dive Profile
-Enter the water with a giant stride from the rocky ledge into deep water. The reef starts immediately below the entry point and gradually slopes down. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The dramatic entry makes this site popular with experienced divers.
+
+Enter with a giant stride off the cliff into water that drops away immediately. The wall lies just below the surface and continues steeply through the recreational range. Maintain reef-side orientation as the current carries you north toward Karpata. Plan the dive so that you are within recreational depth limits well before reaching the Karpata exit, and surface near the Karpata mooring or follow the wall to the exit point.
 
 ## Entry and Exit
-The entry is via a giant stride from a rocky ledge into deep water. This dramatic entry requires proper technique and confidence. Exit at the same location, though the rocky ledge can be challenging to climb back onto.
 
-## Tips and Recommendations
-- This site is particularly popular with experienced divers due to the dramatic entry
-- The giant stride entry requires proper technique and confidence
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+Park at the marked spot on the coast road and walk to the cliff. The giant-stride entry is committed — there is no climbing back up. The drift then carries divers northward to Karpata, where the standard exit uses the concrete platform and steps. A vehicle (or a shuttle from a buddy) must be staged at Karpata for the return.
 
-## Safety Considerations
-The giant stride entry requires proper technique and confidence. The rocky ledge can be slippery and challenging to climb back onto. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+## Tips
+
+- Plan exit logistics before kitting up: vehicle or shuttle at Karpata is non-negotiable
+- Verify current direction is northward before committing — a southward current makes this dive unsafe
+- Bring an SMB and reel; surface conditions can shift during the drift
+- Conservative gas planning is essential — there is no early exit option
+
+## Safety
+
+The cliff entry is irreversible: divers cannot exit at the entry point. Any equipment problem after the leap must be solved on the drift, not by returning to shore. Confirm current direction and strength from the cliff before committing. Avoid the dive if the current is weak (no drift), reversed (drift takes you away from Karpata), or strong enough to make exit at Karpata difficult. Always dive with a buddy.
 
 ## Photography
-La Denia's Leap offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+The wall photographs well in the morning when sun lights the reef face. The committed nature of the dive limits how much you can pause for shots — choose subjects pragmatically and keep moving with the current.
 
 ## Nearby Sites
-Nearby sites include Karpata, Oil Slick Leap, and Boka Di Tolo. All are accessible along the northern coast of Bonaire.
 
-## Additional Resources
-- **Website**: https://www.divers-guide.com/en/la-danias-leap
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Entry Type**: Shore entry
-- **Last Updated**: 2025-06-24
+Karpata is the exit point and a worthwhile dive in its own right. 1000 Steps and Weber's Joy / Witches Hut lie further south along the same coastline. Boka di Tolo is the nearest site to the north.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Sources: [InfoBonaire – La Dania's Leap](https://infobonaire.com/la-danias-leap/), [Bonaire.com – La Dania's Leap](https://bonaire.com/en/dive-sites/la-danias-leap/), [PADI – La Dania's Leap](https://www.padi.com/dive-site/bonaire/la-danias-leap/), [ScubaBoard – La Dania's Leap thread](https://scubaboard.com/community/threads/la-danias-leap.255674/). Last updated 2026-05-16.*

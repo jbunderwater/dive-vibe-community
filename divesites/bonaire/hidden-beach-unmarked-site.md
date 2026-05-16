@@ -57,4 +57,4 @@ Nearby sites include Atlantis, Red Beryl, and Margate Bay. All are accessible al
 - **Last Updated**: 2025-06-24
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics of the southern Bonaire fringing reef. This is an unmarked "dive like a local" site — it does not appear on the official BNMP yellow-stone marker system, InfoBonaire, STINAPA, or PADI dive-site indexes. Limited site-specific information available; [kasdivi.com beach guide](https://www.kasdivi.com/) lists it between Vista Blue and Fisherman's Hut on the south coast. Last updated 2026-05-16.*

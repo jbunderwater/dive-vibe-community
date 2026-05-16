@@ -5,7 +5,7 @@ lng: -68.2838525
 difficulty: Beginner
 maxDepth: 30
 entryType: shore
-siteType: reef
+siteType: muck
 ref: 
 osmId: 635942336
 addedBy: jbunderwater_ai
@@ -13,51 +13,54 @@ addedBy: jbunderwater_ai
 
 # Something Special
 
-A unique reef dive site on Bonaire's northern coast, offering distinctive underwater features and excellent marine life viewing
+*Bonaire's standout muck dive — a silty slope next to Harbour Village marina entrance, hands-down the island's best site for seahorses, frogfish, and yellowhead jawfish.*
 
 ## Overview
-Something Special is a distinctive dive site located on Bonaire's northern coast, known for its unique underwater topography and excellent coral formations. The site features a gradual slope that leads to a vibrant reef system with interesting coral formations and abundant marine life. The reef is particularly characterized by its mix of hard and soft corals, creating a diverse underwater landscape. The site offers good visibility and is suitable for divers of various experience levels, though intermediate skills are recommended due to the depth and potential currents.
+
+Also known by its Papiamentu name "Pali Grandi," Something Special sits at the entrance to Harbour Village marina, just north of Kralendijk. The bottom here is silt and rubble rather than the hard reef of most western Bonaire sites — and that is precisely the point. The site is sheltered, calm, easily accessible from shore, and consistently produces the kind of macro and critter sightings that elsewhere on Bonaire are rare. Sources unanimously cite it as the island's best site for seahorses, frogfish, and yellowhead jawfish.
 
 ## Site Information
-- **Location**: Northern Bonaire (near Washington Slagbaai National Park)
+
+- **Location**: Just north of Kralendijk, next to the Harbour Village marina entrance
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Muck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 15-25 meters
-- **Current**: Light to moderate
-- **Best Time**: Morning to early afternoon
+- **Typical Visibility**: 15–25 meters
+- **Current**: Light, sheltered
+- **Best Time**: Morning or night — night dives are particularly productive here
 
 ## Marine Life
-Something Special supports a diverse ecosystem with numerous fish species and marine invertebrates. Expect to see large schools of blue tangs, parrotfish, and grunts swimming among the coral formations. The site is home to various species of butterflyfish, angelfish, and damselfish. Look for sea turtles, eagle rays, and occasionally nurse sharks. The coral formations provide habitat for cleaner shrimp, arrow crabs, and various nudibranchs. The site also supports healthy populations of moray eels and lobster.
+
+The site is a critter checklist: seahorses (both longsnout and lined), several species of frogfish, yellowhead jawfish (incubating eggs in the mouth at the right time of year), seahorses, octopus, juvenile spotted drums, peacock flounders, and a long list of macro invertebrates. The marina-channel sand attracts garden eels and stingrays. Goldentail and spotted moray eels are common. Bonaire's macro photographers come back here repeatedly.
 
 ## Dive Profile
-Begin your dive by entering from the shore and swimming out to the reef. The site features a gradual slope that starts at about 10 feet and descends to depths of 100 feet. Most of the interesting marine life and coral formations are found between 30-60 feet. Plan your dive to explore the reef at different depths, taking time to observe the coral formations and marine life. The site is suitable for recreational diving with appropriate bottom time based on your certification level.
+
+A gentle slope leads from the shallow entry down through a silty bottom dotted with isolated coral heads, sponges, and rubble. Most macro work is in the 6–18 meter range; the slope continues deeper but the interesting subjects are typically in the shallows. The flat profile and absence of current make this an ideal site for slow, patient diving.
 
 ## Entry and Exit
-Access Something Special via a marked entry point along the northern coast. The entry area features a sandy or rocky shoreline that leads to the reef. Enter the water from the shore and swim out to the reef system. Exit at the same location, being mindful of the coral formations when approaching the shore. The entry and exit can vary depending on weather and sea state.
 
-## Tips and Recommendations
-- Check local conditions before diving, as currents can vary
-- The best diving is along the reef slope, not in the sandy areas
-- Look for the unique coral formations and sea fans
-- This site is excellent for both wide-angle and macro photography
-- Consider diving during morning hours for the best light conditions
-- Be mindful of your buoyancy to protect the coral formations
-- The northern location offers a different diving experience from southern sites
+Park at the marina/Eden Beach area and walk a short distance to the entry. The entry is over sand and shallow reef. Note that this is near a marina channel — be aware of boat traffic on the surface and use a dive flag when appropriate.
 
-## Safety Considerations
-Always dive within your certification limits and experience level. Be aware of potential currents, especially during certain tide conditions. Maintain proper buoyancy control to protect the coral formations and avoid contact with marine life. The site can experience boat traffic, so use a dive flag when appropriate.
+## Tips
+
+- Slow down: this is a critter dive, not a swimming dive
+- Bring a dive light even by day to peer into recesses and crevices
+- Night dives here are excellent and consistently productive
+- Check coral heads carefully for frogfish that match the sponge color
+- Macro lens or compact camera with macro mode is the right tool
+
+## Safety
+
+The proximity to the marina channel means boats transit the area — keep to the reef side of the channel and use an SMB or dive flag near the entry/exit. Otherwise the site is benign: shallow, calm, and beginner-friendly.
 
 ## Photography
-Something Special offers excellent photography opportunities with its diverse coral formations and abundant marine life. The clear water and good visibility make it ideal for wide-angle shots of the reef and fish schools. The coral formations provide great subjects for macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+A muck/critter photographer's site. Macro lens, focus light, and patience produce the goods. The seahorses are well-known and often stay put for portraits. Frogfish reward slow circling and varied compositions. Avoid stirring silt — buoyancy control is the difference between great shots and a fog of suspended sediment.
 
 ## Nearby Sites
-Nearby sites include other northern Bonaire dive sites such as those near Washington Slagbaai National Park. All are accessible along the northern coast of the island.
 
-## Additional Resources
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Last Updated**: 2025-06-24
+Bari Reef, La Machaca, and Cliff lie nearby along the central west coast, all within a short drive. Buddy's Reef and Calabas Reef are also close.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Sources: [InfoBonaire – Something Special / Pali Grandi](https://infobonaire.com/something-special-pali-grandi/), [Sunwise Bonaire – Something Special](https://sunwisebonaire.com/blog/bonaire-dive-sites-something-special/), [DiveGlobe – Something Special](https://www.thediveglobe.com/app/en/dive/somethings-special-bonaire). Last updated 2026-05-16.*

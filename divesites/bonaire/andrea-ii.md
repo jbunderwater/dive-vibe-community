@@ -3,7 +3,7 @@ name: Andrea II
 lat: 12.1913607
 lng: -68.2978203
 difficulty: Intermediate
-maxDepth: 38
+maxDepth: 30
 entryType: shore
 siteType: reef
 ref: 
@@ -13,49 +13,52 @@ addedBy: jbunderwater_ai
 
 # Andrea II
 
+*A double-reef profile on Bonaire's central west coast, sister site to Andrea I — the "II" denotes a paired naming, not a shipwreck.*
+
 ## Overview
-Andrea II is a beautiful dive site located in northern Bonaire, just north of Andrea I with similar conditions. The site features a healthy reef that starts at about 15 feet and gradually slopes down to depths of over 100 feet. The reef is in excellent condition with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its abundance of marine life and excellent visibility. The easy sandy entry makes it accessible to divers of all experience levels.
+
+Andrea II is a paired site with Andrea I on Bonaire's central west coast. Despite the numbered suffix, neither is a wreck — they are reef dives named in sequence by the same person/source. Andrea II has a classic double-reef profile: a shallow shelf and inner reef, a sandy plateau at intermediate depth, and a drop-off that continues steeply beyond recreational limits. Visibility is typically good and current is moderate, with the deeper drop-off introducing depth and current considerations that put this site in Intermediate territory rather than Beginner.
 
 ## Site Information
-- **Location**: North Bonaire (just north of Andrea I, similar conditions)
+
+- **Location**: Central west coast Bonaire (between Oil Slick Leap and Karpata)
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 38 meters
-- **Typical Visibility**: 20-30 meters
-- **Current**: Usually light
-- **Best Time**: Morning to early afternoon
+- **Maximum Depth**: 30 meters
+- **Typical Visibility**: 20–30 meters
+- **Current**: Moderate, can pick up at depth
+- **Best Time**: Morning
 
 ## Marine Life
-Andrea II is home to a diverse array of marine life. Large schools of blue tangs, parrotfish, and grunts are commonly seen. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.
+
+The shallow plateau supports schools of sergeant majors and blue tangs across the coral heads. Hawksbill turtles feed on sponges along the slope. Parrotfish, surgeonfish, butterflyfish, and angelfish populate the reef face. The deeper drop-off attracts larger species — barracuda, jacks, and groupers patrol the wall. Macro subjects (cleaning stations, nudibranchs, arrow crabs) are scattered throughout the reef structure.
 
 ## Dive Profile
-Enter the water from the sandy beach and swim out to the reef, which starts at about 15 feet. The reef gradually slopes down, making it easy to explore at different depths. Plan your dive to explore the reef at various depths, with most of the marine life found between 20-60 feet. The gradual slope makes this site excellent for divers of all experience levels.
+
+Enter at the shore and swim out across the shallow shelf to the reef edge at around 9 meters. The slope drops away to a sandy bottom; the inner reef gives way to a deeper second reef and drop-off. Most of the interesting structure and life is in the 12–25 meter range; the deeper drop-off rewards careful depth and gas management. Plan a turn-around well within recreational limits.
 
 ## Entry and Exit
-The entry is via an easy sandy beach that provides comfortable access to the water. The site is well-marked and easy to find. The sandy bottom extends for a short distance before reaching the reef. Exit at the same location, making this one of Bonaire's most convenient dive sites.
 
-## Tips and Recommendations
-- This site is particularly popular with families and beginner divers
-- The easy entry makes it perfect for all experience levels
-- Look for the diverse coral formations and abundant marine life
-- The site is excellent for both wide-angle and macro photography
-- This is a great site for night diving
+Shore entry over rocky/sandy beach. The entry can be uneven — appropriate footwear helps. Exit at the same location.
 
-## Safety Considerations
-The sandy entry is easy and safe for all experience levels. The gradual slope makes it easy to control your depth. Be aware of boat traffic in the area, though it's typically light. Maintain proper buoyancy control to protect the coral formations.
+## Tips
+
+- Watch depth carefully — the drop-off invites deeper diving than may be planned
+- Look for hawksbill turtles on the slope feeding on sponges
+- Bring a light to bring out color on the deeper wall
+
+## Safety
+
+The drop-off is steep enough that an inattentive descent can leave divers deeper than intended. Monitor depth and gas, and plan a deliberate ascent profile back to the shallow shelf for safety stop.
 
 ## Photography
-Andrea II offers excellent photography opportunities. The clear water and healthy coral formations make it ideal for wide-angle shots. The abundant marine life provides great subjects for both wide-angle and macro photography. Natural light is best during morning hours when the sun illuminates the reef.
+
+The shallow shelf is good for wide-angle reef-and-fish compositions; the drop-off rewards diver-with-wall framing. Macro subjects are present on the slope and at cleaning stations.
 
 ## Nearby Sites
-Nearby sites include Andrea I, Bari Reef, and Oil Slick Leap. All are accessible along the northern coast of Bonaire.
 
-## Additional Resources
-- **Website**: https://www.divers-guide.com/en/dive-spots/andrea-2
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Accessibility**: Excellent for all experience levels
-- **Last Updated**: 2025-06-24
+Andrea I is the paired sister site immediately to the south, with similar profile. Oil Slick Leap, Jeff Davis Memorial, and Karpata are within easy driving distance along the same coast.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Sources: [Bonaire.com – Andrea II](https://bonaire.com/en/dive-sites/andrea-ii/), [Sunwise Bonaire – Andrea I/II](https://sunwisebonaire.com/blog/bonaire-dive-sites-andrea-i-ii/), [Divers-Guide – Andrea 2](https://www.divers-guide.com/en/andrea-2). Last updated 2026-05-16.*

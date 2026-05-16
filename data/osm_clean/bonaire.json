@@ -202,7 +202,7 @@
     "osm_id": 635942336,
     "osm_type": "node",
     "depth": 30,
-    "site_type": "reef",
+    "site_type": "muck",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
@@ -211,7 +211,7 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire,divers-guide,bonaire-com,padi,dreamwrecks"
     }
   },
   {
@@ -220,7 +220,7 @@
     "lon": -68.2978203,
     "osm_id": 636400643,
     "osm_type": "node",
-    "depth": 38,
+    "depth": 30,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Intermediate",
@@ -230,7 +230,7 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire,divers-guide,bonaire-com,padi,dreamwrecks"
     }
   },
   {
@@ -319,14 +319,14 @@
     "depth": 30,
     "site_type": "reef",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Vista Blue",
       "source": "osm_extended",
       "sport": "scuba_diving",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire,padi,divers-guide"
     }
   },
   {
@@ -335,17 +335,17 @@
     "lon": -68.2515176,
     "osm_id": 663869397,
     "osm_type": "node",
-    "depth": null,
-    "site_type": "reef",
+    "depth": 40,
+    "site_type": "wall",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Red Slave",
       "source": "osm_extended",
       "sport": "scuba_diving",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "infobonaire,divers-guide,bonaire-digital,padi"
     }
   },
   {
@@ -354,10 +354,10 @@
     "lon": -68.2952067,
     "osm_id": 663869398,
     "osm_type": "node",
-    "depth": 25,
-    "site_type": "reef",
-    "entry_type": "shore",
-    "difficulty": "Intermediate",
+    "depth": 35,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Lighthouse Point",
       "scuba_diving:divespot": "yes",
@@ -366,7 +366,7 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire,divers-guide,bonaire-com,padi,dreamwrecks"
     }
   },
   {
@@ -439,14 +439,14 @@
     "depth": 30,
     "site_type": "reef",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Invisibles",
       "sport": "scuba_diving",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire,padi,divers-guide"
     }
   },
   {
@@ -458,14 +458,14 @@
     "depth": 25,
     "site_type": "reef",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Salt City",
       "sport": "scuba_diving",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire,padi,divers-guide"
     }
   },
   {
@@ -553,7 +553,7 @@
     "depth": 30,
     "site_type": "reef",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "White Slave",
       "scuba_diving:divespot": "yes",
@@ -562,7 +562,7 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire,padi,divers-guide"
     }
   },
   {
@@ -593,14 +593,14 @@
     "depth": 30,
     "site_type": "reef",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Larry's Lair",
       "sport": "scuba_diving",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire,padi,divers-guide"
     }
   },
   {
@@ -609,7 +609,7 @@
     "lon": -68.2280778,
     "osm_id": 663869411,
     "osm_type": "node",
-    "depth": 40,
+    "depth": 15,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Advanced",
@@ -620,7 +620,7 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire,divers-guide,bonaire-com,padi"
     }
   },
   {
@@ -632,14 +632,14 @@
     "depth": 30,
     "site_type": "reef",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "Jeannie's Glory",
       "sport": "scuba_diving",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire,padi,divers-guide"
     }
   },
   {
@@ -687,8 +687,8 @@
     "lon": -68.2224528,
     "osm_id": 663869416,
     "osm_type": "node",
-    "depth": 35,
-    "site_type": "reef",
+    "depth": 20,
+    "site_type": "drift",
     "entry_type": "shore",
     "difficulty": "Advanced",
     "tags": {
@@ -698,7 +698,7 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire,divers-guide,bonaire-com,padi"
     }
   },
   {
@@ -726,7 +726,7 @@
     "lon": -68.4135635,
     "osm_id": 663869419,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 40,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Intermediate",
@@ -736,7 +736,7 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire,divers-guide,bonaire-com,padi"
     }
   },
   {
@@ -756,7 +756,7 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire,divers-guide,bonaire-com,padi"
     }
   },
   {
@@ -775,7 +775,7 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire,divers-guide,bonaire-com,padi"
     }
   },
   {
@@ -849,10 +849,10 @@
     "lon": -68.3374389,
     "osm_id": 663869427,
     "osm_type": "node",
-    "depth": 45,
+    "depth": 25,
     "site_type": "reef",
     "entry_type": "shore",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "alt_name": "Ol' Blue",
       "name": "Boka di Tolo",
@@ -861,7 +861,7 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire,divers-guide,bonaire-com,padi"
     }
   },
   {
@@ -928,9 +928,9 @@
     "osm_id": 663869441,
     "osm_type": "node",
     "depth": null,
-    "site_type": "wall",
+    "site_type": "drift",
     "entry_type": "shore",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "La Denia's Leap",
       "scuba_diving:divespot": "yes",
@@ -938,7 +938,7 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "infobonaire,divers-guide,bonaire-com,padi,dreamwrecks"
     }
   },
   {
@@ -947,17 +947,17 @@
     "lon": -68.3975477,
     "osm_id": 663869442,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 40,
     "site_type": "reef",
     "entry_type": "shore",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Boka Bartol",
       "sport": "scuba_diving",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire,divers-guide,bonaire-com,padi"
     }
   },
   {
@@ -988,14 +988,14 @@
     "depth": 30,
     "site_type": "reef",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Carel's Vision",
       "sport": "scuba_diving",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire,divers-guide,bonaire-com,padi"
     }
   },
   {
@@ -1014,7 +1014,7 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire,divers-guide,bonaire-com,padi"
     }
   },
   {
@@ -1026,14 +1026,14 @@
     "depth": 35,
     "site_type": "reef",
     "entry_type": "shore",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Playa Frans",
       "sport": "scuba_diving",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire,divers-guide,bonaire-com,padi"
     }
   },
   {
@@ -1043,16 +1043,16 @@
     "osm_id": 1420984809,
     "osm_type": "node",
     "depth": 27,
-    "site_type": "reef",
+    "site_type": "pinnacle",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "name": "The Rock",
       "sport": "scuba_diving",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire,divers-guide,bonaire-com,padi"
     }
   },
   {
@@ -1061,17 +1061,17 @@
     "lon": -68.3753404,
     "osm_id": 2625769975,
     "osm_type": "node",
-    "depth": null,
+    "depth": 55,
     "site_type": "wreck",
-    "entry_type": "shore",
-    "difficulty": "Beginner",
+    "entry_type": "boat",
+    "difficulty": "Technical",
     "tags": {
       "name": "Windjammer",
       "sport": "scuba_diving",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "scubaboard"
+      "validation_source": "infobonaire,divers-guide,bonaire-com,padi,dreamwrecks"
     }
   },
   {
@@ -1080,7 +1080,7 @@
     "lon": -68.276318,
     "osm_id": 4017913908,
     "osm_type": "node",
-    "depth": 45,
+    "depth": 15,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
@@ -1091,26 +1091,26 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire,divers-guide,bonaire-com,padi"
     }
   },
   {
-    "name": "Bisé Morto",
+    "name": "Bis\u00e9 Morto",
     "lat": 12.2935303,
     "lon": -68.4132212,
     "osm_id": 4200486589,
     "osm_type": "node",
-    "depth": null,
+    "depth": 30,
     "site_type": "reef",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
-      "name": "Bisé Morto",
+      "name": "Bis\u00e9 Morto",
       "source": "osm_extended",
       "sport": "scuba_diving",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire,divers-guide,bonaire-com,padi"
     },
     "depth_max": 18
   },
@@ -1120,17 +1120,17 @@
     "lon": -68.4139081,
     "osm_id": 4437663289,
     "osm_type": "node",
-    "depth": 30,
+    "depth": 45,
     "site_type": "reef",
     "entry_type": "shore",
-    "difficulty": "Beginner",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Wayaka 2",
       "sport": "scuba_diving",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire,divers-guide,bonaire-com,padi"
     }
   },
   {
@@ -1142,14 +1142,14 @@
     "depth": 25,
     "site_type": "reef",
     "entry_type": "shore",
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "tags": {
       "name": "Boka Katuna",
       "sport": "scuba_diving",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "infobonaire,divers-guide,bonaire-com,padi"
     }
   },
   {

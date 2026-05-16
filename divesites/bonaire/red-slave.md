@@ -2,10 +2,10 @@
 name: Red Slave
 lat: 12.0260699
 lng: -68.2515176
-difficulty: Beginner
-maxDepth: 30
+difficulty: Advanced
+maxDepth: 40
 entryType: shore
-siteType: reef
+siteType: wall
 ref: 
 osmId: 663869397
 addedBy: jbunderwater_ai
@@ -13,52 +13,54 @@ addedBy: jbunderwater_ai
 
 # Red Slave
 
-A fascinating wreck dive site on Bonaire's southern coast, featuring the remains of the Red Slave vessel
+*Bonaire's southernmost reasonable dive site — a current-swept drop-off named for the historic red slave huts onshore, with soft coral gardens, sponges, and pelagic visitors for experienced divers only.*
 
 ## Overview
-Red Slave is an intriguing wreck dive site located on Bonaire's southern coast, featuring the remains of a vessel that has become an artificial reef. The wreck lies in relatively shallow water and has been colonized by marine life, creating a unique underwater environment. The site offers excellent opportunities for wreck exploration and marine life observation. The wreck structure provides habitat for various fish species and invertebrates, making it a popular destination for both wreck diving enthusiasts and marine life photographers.
+
+Red Slave takes its name from the small red-painted slave huts that still stand on the shoreline — 19th-century shelters where enslaved workers from the southern salt pans slept. There is no shipwreck at this site. What lies beneath the surface is a steep, sponge-covered reef slope that drops past 60 meters (200 feet), so abrupt in places that it dives like a wall. Located near the southern tip of the island, roughly 3.3 km west of Willemstoren Lighthouse, Red Slave sits exposed to swell and current sweeping around the point. It is widely rated as Bonaire's most challenging shore dive and is recommended for experienced divers only.
 
 ## Site Information
-- **Location**: Southern Bonaire (near Willemstoren)
+
+- **Location**: Southern Bonaire, adjacent to the southern set of slave huts (south of White Slave, west of Willemstoren)
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 30 meters
-- **Typical Visibility**: 15-25 meters
-- **Current**: Light to moderate
-- **Best Time**: Morning to early afternoon
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 40 meters
+- **Typical Visibility**: 20–30 meters
+- **Current**: Often strong and unpredictable — can switch direction or strength quickly
+- **Best Time**: Early morning, when wind and seas are typically calmer
 
 ## Marine Life
-Red Slave supports a diverse ecosystem that has developed around the wreck structure. Expect to see large schools of fish that use the wreck as shelter, including grunts, snappers, and jacks. The wreck provides habitat for moray eels, lobster, and various crustaceans. Look for sea turtles, eagle rays, and occasionally nurse sharks that patrol the area around the wreck. The structure also supports coral growth and attracts cleaner shrimp and other invertebrates.
+
+The reef face is covered in soft corals and sponges, making it one of the more colorful slopes on the south end. Horse-eye jacks, barracuda, tuna, and large grouper are reported here, drawn by the proximity to deeper water and the point. Turtles are seen along the slope. In the shallows over the sandbar, divers in the early morning sometimes encounter stingrays and eagle rays. Offshore schools of baitfish pass through, occasionally trailed by larger predators.
 
 ## Dive Profile
-Begin your dive by entering from the shore and swimming out to the wreck location. The wreck lies at a depth suitable for recreational diving, with the main structure accessible to intermediate divers. Plan your dive to explore the exterior of the wreck first, then carefully examine the structure and surrounding marine life. The site is suitable for wreck diving with appropriate training and experience.
+
+The standard approach is to descend over a rocky/sandy entry zone and then turn north along the reef. Local guidance is consistent on this point: always turn north when you reach the reef, so that if a strong current sets in, you can drift north toward calmer water and exit at a more sheltered site rather than getting pushed south around the point. The drop-off is steep — most of the interesting structure and life lies between 12 and 30 meters along the wall-like slope, with the bottom continuing well beyond recreational limits.
 
 ## Entry and Exit
-Access Red Slave via a marked entry point along the southern coast. The entry area features a sandy or rocky shoreline that leads to the wreck site. Enter the water from the shore and swim out to the wreck location. Exit at the same location, being mindful of the shoreline conditions when approaching. The entry and exit can vary depending on weather and sea state.
 
-## Tips and Recommendations
-- Exercise caution when exploring wreck interiors - only enter if properly trained
-- The wreck structure can be fragile - maintain proper buoyancy
-- Look for marine life that has colonized the wreck
-- This site is excellent for both wreck and marine life photography
-- Consider diving during morning hours for the best light conditions
-- Be mindful of your buoyancy to avoid damaging the wreck structure
-- The wreck provides excellent shelter for marine life - observe from a distance
+Turn off the coast road at the yellow BNMP marker rock near the slave huts and park close to the huts. The entry is over rocky shoreline, so get underwater fairly quickly after entering. Always assess surf and surface current from shore before committing — Red Slave's conditions can change between one visit and the next. If the surface is rough or current is visibly strong, do not dive this site.
 
-## Safety Considerations
-Wreck diving requires special training and experience. Never enter confined spaces without proper wreck diving certification. The wreck structure can be unstable and sharp - maintain proper distance and buoyancy control. Be aware of potential currents around the wreck. The site can experience boat traffic, so use a dive flag when appropriate.
+## Tips
+
+- Treat current assessment as the first step of every dive here — observe a surface buoy or floating debris from shore before gearing up
+- Turn north on the reef and stay alert to current direction throughout the dive
+- If the current is too strong to swim against, abort and surface — you may end up doing a drift exit further north
+- Bring an SMB and consider a reel; a surface drift is a real possibility here
+- This is not a site for newly certified divers or for divers unfamiliar with current conditions
+
+## Safety
+
+Red Slave's current can be both strong and unpredictable — it can switch on or off within a single dive. Divers have been pushed south around the point in unfavorable conditions, where exiting is difficult. Plan turn-around well within gas limits, use the surface to evaluate current before descent, and always carry an SMB. The rocky entry can be slippery and is best crossed with appropriate footwear and timing between sets.
 
 ## Photography
-Red Slave offers excellent photography opportunities with its unique wreck structure and abundant marine life. The wreck provides interesting subjects for wide-angle photography, while the marine life offers great opportunities for macro shots. The artificial reef environment creates unique lighting and composition opportunities. Natural light is best during morning hours when the sun illuminates the wreck.
+
+The dense sponge and soft coral cover photographs well on wide-angle, particularly when the slope drops away into blue. Schooling jacks and barracuda against the wall make strong silhouette shots. Macro subjects shelter throughout the sponge-encrusted slope. A strobe is essential below 15 meters to restore color in the sponges.
 
 ## Nearby Sites
-Nearby sites include Willemstoren Lighthouse and other southern Bonaire dive sites. All are accessible along the southern coast of the island.
 
-## Additional Resources
-- **Website**: https://www.shorediving.com/Earth/ABC/BonaireS/Red_Slave/index.htm
-- **Dive Guide**: Bonaire Shore Diving Made Easy
-- **Last Updated**: 2025-06-24
+White Slave lies a short drive north along the same southern coast, near the second set of slave huts. Willemstoren Lighthouse marks the southern tip of the island east of the site.
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Sources: [InfoBonaire – Red Slave](https://infobonaire.com/red-slave/), [Bonaire Digital – Dive Site 60: Red Slave](https://www.bonaire.digital/dive-site-60-red-slave/), [Divers-Guide – Red Slave](https://www.divers-guide.com/en/red-slave), [Bonaire Island – Red Slave](https://bonaireisland.com/experiences/diving/sites/red-slave/), [PADI – Red Slave](https://www.padi.com/dive-site/bonaire/red-slave/). Last updated 2026-05-16.*

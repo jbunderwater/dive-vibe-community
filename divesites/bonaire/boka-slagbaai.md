@@ -3,7 +3,7 @@ name: Boka Slagbaai
 lat: 12.2646664
 lng: -68.4135635
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 40
 entryType: shore
 siteType: reef
 ref: 
@@ -21,7 +21,7 @@ Boka Slagbaai is a beautiful dive site located in northern Bonaire near Washingt
 - **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20-30 meters
 - **Current**: Usually light
 - **Best Time**: Morning to early afternoon

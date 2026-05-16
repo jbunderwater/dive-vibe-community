@@ -57,4 +57,4 @@ Nearby sites include Atlantis, Hidden Beach, and Red Beryl. All are accessible a
 - **Last Updated**: 2025-06-24
 
 ---
-*Sources: [InfoBonaire Dive Site Map](https://infobonaire.com/scuba-diving/dive-site-map/), [STINAPA Bonaire Marine Park](https://stinapabonaire.org/bonaire-national-marine-park/dive-map/), [Tourism Corporation Bonaire](https://bonaireisland.com/experiences/diving/sites/), [Scuba Diving Magazine – Bonaire Guide](https://www.scubadiving.com/divers-guide-to-bonaire), [Buddy Dive Resort Bonaire](https://buddydive.com/about-bonaire/diving/). Last updated 2026-04-04.*
+*Unmarked "dive like a local" site on the southern west coast between Sweet Dreams and Chogogo (off EEG Boulevard); not on the official BNMP yellow-stone marker system. Site-specific details from [Divers-Guide – Yellow Hut](https://www.divers-guide.com/en/yellow-hut). Last updated 2026-05-16.*
