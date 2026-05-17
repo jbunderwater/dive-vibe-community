@@ -23,9 +23,9 @@ Discovered in 2014 by the team at Weda Resort, the Foya Wreck is a Japanese Worl
 
 - **Location**: Weda Bay, Central Halmahera, North Maluku, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive (WWII)
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 metres
+- **Maximum Depth**: 30 meters
 - **Typical Depth Range**: 10–30 metres
 
 ## Marine Life

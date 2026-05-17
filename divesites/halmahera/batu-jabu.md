@@ -23,9 +23,9 @@ Batu Jabu is an oval-shaped reef built around a submerged rock seamount whose ti
 
 - **Location**: Off Pulau Kusu, Patinti Strait, South Halmahera, North Maluku, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef / seamount
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 metres
+- **Maximum Depth**: 30 meters
 
 ## Marine Life
 

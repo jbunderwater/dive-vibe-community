@@ -22,10 +22,10 @@ Tifore Island sits in open sea, exposed to strong tidal flows that concentrate n
 ## Site Information
 
 - **Location**: Molucca Sea, between Halmahera and North Sulawesi, North Maluku, Indonesia
-- **Entry Type**: Boat dive (liveaboard)
-- **Site Type**: Reef / open-ocean seamount
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 metres
+- **Maximum Depth**: 30 meters
 
 ## Marine Life
 

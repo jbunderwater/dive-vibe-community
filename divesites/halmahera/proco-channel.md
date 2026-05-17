@@ -25,7 +25,7 @@ Proco Channel is one of the most talked-about dive sites in the Patinti Strait a
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 metres
+- **Maximum Depth**: 30 meters
 - **Typical Depth Range**: 5–30 metres (pelagic action concentrated around 20–24 metres)
 
 ## Marine Life

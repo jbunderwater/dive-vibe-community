@@ -22,10 +22,10 @@ Taman Nukila is an urban waterfront park in the centre of Ternate City, and the 
 ## Site Information
 
 - **Location**: Taman Nukila, Ternate City, Ternate Island, North Maluku, Indonesia
-- **Entry Type**: Shore entry (beach access from the park)
-- **Site Type**: Wreck dive (artificial reef)
+- **Entry Type**: Shore entry
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 23 metres
+- **Maximum Depth**: 23 meters
 
 ## Marine Life
 

@@ -22,10 +22,10 @@ Reenie's Rock is one of three primary dive sites around the Goraici island group
 ## Site Information
 
 - **Location**: Goraici Islands, between Halmahera and Bacan, North Maluku, Indonesia
-- **Entry Type**: Boat dive (liveaboard)
-- **Site Type**: Coral reef / wall
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 40 metres
+- **Maximum Depth**: 40 meters
 
 ## Marine Life
 

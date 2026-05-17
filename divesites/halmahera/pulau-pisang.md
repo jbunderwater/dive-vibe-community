@@ -23,9 +23,9 @@ Pulau Pisang ("banana island") is a group of four islands in southern Halmahera,
 
 - **Location**: Southern Halmahera, North Maluku, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle / reef
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 35 metres
+- **Maximum Depth**: 35 meters
 
 ## Marine Life
 

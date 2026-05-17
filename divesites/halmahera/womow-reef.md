@@ -22,10 +22,10 @@ Womow Reef is a submerged seamount whose top rises to approximately 7 metres bel
 ## Site Information
 
 - **Location**: North Halmahera, North Maluku, Indonesia
-- **Entry Type**: Boat dive (liveaboard)
+- **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 35 metres
+- **Maximum Depth**: 35 meters
 - **Shallowest Point**: ~7 metres
 
 ## Marine Life

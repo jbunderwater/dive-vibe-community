@@ -25,7 +25,7 @@ Shark Mountain is an offshore underwater mountain in Weda Bay, located approxima
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 metres
+- **Maximum Depth**: 40 meters
 - **Shallowest Point**: ~31 metres (open water)
 
 ## Marine Life

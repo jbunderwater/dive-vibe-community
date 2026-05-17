@@ -23,9 +23,9 @@ USS PT-371 was an American patrol torpedo boat lost during World War II. Accordi
 
 - **Location**: Galela area, North Halmahera, North Maluku, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive (WWII, US Navy PT boat)
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 15 metres
+- **Maximum Depth**: 15 meters
 
 ## Marine Life
 

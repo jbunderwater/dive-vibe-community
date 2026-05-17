@@ -25,7 +25,7 @@ Batu Mandi ("bathing rock" in Indonesian) is a rock that is visible above the su
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 50 metres (wall continues to depth; recreational limit ~30 m)
+- **Maximum Depth**: 50 meters
 
 ## Marine Life
 

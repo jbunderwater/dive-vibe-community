@@ -23,9 +23,9 @@ Makian is a stratovolcano island, and its eruptions have blanketed the surroundi
 
 - **Location**: Off Makian Island, South Halmahera, North Maluku, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Muck dive (volcanic black sand)
+- **Site Type**: Muck dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 metres
+- **Maximum Depth**: 20 meters
 - **Typical Depth Range**: 5–20 metres
 
 ## Marine Life

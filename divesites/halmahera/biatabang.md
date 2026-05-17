@@ -25,7 +25,7 @@ Biatabang is a boat-access wall dive on the flanks of Ternate — an active volc
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 30 metres
+- **Maximum Depth**: 30 meters
 
 ## Marine Life
 

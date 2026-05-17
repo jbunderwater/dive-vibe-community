@@ -22,10 +22,10 @@ Terumbu Gora is one of three primary dive sites in the Goraici island group — 
 ## Site Information
 
 - **Location**: Goraici Islands, between Halmahera and Bacan, North Maluku, Indonesia
-- **Entry Type**: Boat dive (liveaboard)
+- **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 35 metres
+- **Maximum Depth**: 35 meters
 
 ## Marine Life
 
