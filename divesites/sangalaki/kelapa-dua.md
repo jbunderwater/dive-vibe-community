@@ -13,23 +13,55 @@ addedBy: osm_import
 
 ## Kelapa Dua
 
-Kelapa Dua is a wall dive site in Sangalaki (Derawan Islands), Asia.
+Kelapa Dua is a wall dive site near Kakaban Island in the Derawan Archipelago, East Kalimantan, Indonesia, noted for thresher shark cleaning behaviour in the early morning.
 
 ## Overview
 
-No site-specific dive sources have been validated for this entry yet — marine life, typical dive profile, currents, visibility, and photography conditions are not documented.
+Kelapa Dua is a relatively recent addition to the Kakaban dive circuit — PADI describes it as "a relatively new site, making it less crowded than established dive locations." The site features a steep vertical wall "bursting with colourful coral and sea fans" (PADI), descending to depths well beyond recreational limits. Its primary draw is thresher shark (*Alopias* spp.) cleaning behaviour: thresher sharks visit the wall in the early morning hours, where resident cleaner fish remove parasites — similar to the cleaning station dynamics observed at Malapascua in the Philippines. Open Water divers can explore the colourful upper wall to 18 metres; deeper sections with thresher activity require Advanced certification with deep dive specialty.
+
+## Marine Life
+
+- Thresher sharks (*Alopias* spp.) — cleaning behaviour in early morning (conditions-dependent)
+- White-tip reef sharks, grey reef sharks, and leopard sharks on the wall
+- Eagle rays and devil rays passing in the blue
+- Dense gorgonian sea fans and soft corals on the wall face
+- Turtles passing along the reef edge
+- Schooling fusiliers and reef fish throughout
+
+## Dive Profile
+
+The wall top begins in shallow water (approximately 5–8 metres) and drops steeply to beyond 40 metres. Upper sections (5–18 metres) are accessible to Open Water divers and feature the richest coral growth. Thresher sharks are reported at the wall in the 20–40 metre range during early morning dives. Currents are variable; the wall structure provides shelter from stronger flows. Visibility can be excellent in clean oceanic water.
+
+## Entry and Exit
+
+Boat dive only. Early morning departures (typically 06:00–07:00) are recommended for maximum thresher shark encounter probability. The boat anchors or drifts along the wall; divers navigate along the face.
+
+## Tips
+
+- Book the first dive of the day and arrive early — thresher activity at cleaning stations typically occurs at first light and diminishes by mid-morning.
+- Hover neutrally and avoid sudden movements near the wall — threshers are cautious animals that will retreat from disturbance.
+- Open Water divers can still have an excellent dive on the shallow wall sections even without reaching thresher depths.
+- A torch helps illuminate sea fan details in the deeper, darker sections.
+
+## Safety Considerations
+
+Depths of 20–40 metres require careful dive computer monitoring and conservative ascent rates. Advanced Open Water with deep dive specialty is recommended for the deeper sections. The wall's vertical nature means it is easy to drift deeper than planned — set a maximum depth alarm on your dive computer. Medical evacuation from Kakaban takes over 3 hours.
+
+## Photography
+
+Thresher sharks at cleaning stations are one of the most prized underwater photography subjects in the Indo-Pacific. A wide-angle lens on a 15 mm or fisheye setting allows full-shark shots in clear water; darker ambient light at depth may require raising ISO. The wall's gorgonian fans and soft coral structures are excellent subjects for both wide-angle and macro work.
 
 ## Site Information
 
-- **Location**: Sangalaki (Derawan Islands), Asia
+- **Location**: Kakaban Island, Derawan Archipelago, East Kalimantan, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters
+- **Site Type**: Wall
+- **Difficulty Level**: Advanced (upper wall accessible to OW divers)
+- **Maximum Depth**: 40 metres (recreational depth limit)
 
 ## Additional Resources
 
-- **Last Updated**: 2026-04-05
+- **Last Updated**: 2026-05-17
 
 ---
-*Sources: [PADI Travel – Derawan Islands](https://www.padi.com/dive-site/indonesia/), [Scuba Junkie Sangalaki](https://www.scubajunkiesangalaki.com/), [Green Nirvana Resort](https://www.greennirvanaresort.com/Fun-Dives), [AsiaDiveSite – Kalimantan](https://www.asiadivesite.com/indonesia-dive-sites/kalimantan/), [Starfish.ch – Kalimantan Diving](https://www.starfish.ch/dive/Kalimantan.html), [Dive The World – Sangalaki](https://www.dive-the-world.com/diving-sites-indonesia-sangalaki-island.php). Last updated 2026-04-05.*
+*Sources: [PADI – Kelapa Dua](https://www.padi.com/dive-site/indonesia/kelapa-dua/), [Scuba Junkie Sangalaki – Diving Maratua](https://www.scubajunkiesangalaki.com/diving-maratua/), [Green Nirvana Resort – Fun Dives](https://www.greennirvanaresort.com/Fun-Dives). Last updated 2026-05-17.*

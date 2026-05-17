@@ -13,19 +13,41 @@ addedBy: osm_import
 
 ## Jackpot
 
-Jackpot is a pinnacle dive site in Banda Sea, Asia.
+Jackpot is an advanced pinnacle dive site in the Banda Sea, associated with the Serua or Suanggi Island areas — remote volcanic outcrops southeast of the main Banda archipelago. The name reflects the site's reputation for high-payoff encounters: when conditions are right, this is one of the Banda Sea's better-regarded spots for pelagic action, including scalloped hammerhead sharks.
 
 ## Overview
 
-No site-specific dive sources have been validated for this entry yet — marine life, typical dive profile, currents, visibility, and photography conditions are not documented.
+The site features deep-water pinnacles rising from the Banda Sea floor, covered in large coral formations and substantial pink and orange barrel sponges. Strong currents sweep the pinnacle tops and flanks, concentrating fish in impressive aggregations. Schooling jacks, dogtooth tuna, groupers, and grey reef sharks are regular presences; scalloped hammerhead sharks are reported here during peak hammerhead season (April–May and September–October when the Suanggi seamount produces optimal upwelling conditions).
 
-## Site Information
+The site earns its "Jackpot" name from the unpredictability typical of remote Banda Sea pinnacles — conditions and encounters vary considerably, but on a productive dive, divers can witness schooling fish, schooling barracuda, coral walls, and huge sponge formations in a single dive. Sources describe it as "boasting schooling fish, coral walls and huge barrel sponges."
 
-- **Location**: Banda Sea, Asia
-- **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 meters
+Negative entries may be required when current is strong. Dive operators typically time entries around current windows.
+
+## Dive Profile
+
+Pinnacle dive from the surface to 40+ m. Most action at 15–35 m on the pinnacle shoulders and in the water column above. Strong to very strong currents — negative entry may be needed. Visibility variable but can reach 25–30 m in good conditions. Water temperature: 27–29°C.
+
+## Marine Life
+
+- Scalloped hammerhead sharks (seasonal; April–May and September–October peak)
+- Grey reef sharks in the water column
+- Schooling jacks and dogtooth tuna
+- Large groupers
+- Schooling barracuda
+- Large pink and orange barrel sponges
+- Hard and soft coral formations on pinnacle faces
+
+## Entry / Exit
+
+Boat dive from liveaboard. The remote location (Serua/Suanggi area) is only accessible by liveaboard. Negative entry may be required. Drift exit with SMB pickup by tender.
+
+## Safety
+
+Advanced dive due to strong currents and remote location. Surface marker buoy mandatory. Liveaboard guide essential — local knowledge of current windows is critical for safe entry and productive positioning.
+
+## Photography
+
+Wide-angle pinnacle photography — the barrel sponge formations and schooling fish make strong subjects. Hammerhead encounters in clear water are exceptional but not guaranteed. High-ISO capability useful in deeper water.
 
 ---
-*Sources: [Bottles Up Diving - Banda Islands](https://www.bottles-up-diving.com/EN-pages/BU_divingother_banda_EN.html), [Dive The World - Banda Islands](https://www.dive-the-world.com/diving-sites-indonesia-banda-islands.php), [X-Ray Mag - Banda Sea](https://xray-mag.com/content/indonesias-banda-sea), [Merapi Tours - Banda Archipelago](https://www.merapitours.com/indonesia/moluccas/dive-spots-banda-archipelago), [All Star Liveaboards - Banda Sea](https://allstarliveaboards.com/banda-sea-dive-liveaboard-forgotten-islands/). Last updated 2026-04-05.*
+*Sources: [Original Diving - Mermaid II Banda Sea Trip Report](https://www.originaldiving.com/blog/just-back-emilys-trip-to-the-banda-sea-aboard-the-mermaid-ii), [X-Ray Mag - Indonesia's Banda Sea](https://xray-mag.com/content/indonesias-banda-sea), [DivePlanIt - Diving the Banda Sea](https://www.diveplanit.com/dive-destination/diving-the-banda-sea/), [Dive The World - Banda Islands](https://www.dive-the-world.com/diving-sites-indonesia-banda-islands.php). Last updated 2026-05-17.*

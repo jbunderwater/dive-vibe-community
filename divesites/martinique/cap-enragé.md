@@ -13,23 +13,28 @@ addedBy: osm_import
 
 ## Cap Enragé
 
-Cap Enragé is a reef dive site in Martinique, Caribbean.
+Cap Enragé (Furious Cape) is a canyon and drop-off dive site on Martinique's Caribbean coast north of Case-Pilote. The site is characterised by a succession of small canyons and natural corridors descending from the surface to approximately 15 metres, then continuing as a drop-off to around 25 metres.
 
 ## Overview
 
-No site-specific dive sources have been validated for this entry yet — marine life, typical dive profile, currents, visibility, and photography conditions are not documented.
+The site's topography consists of a series of canyons with caves, natural arches, and rock corridors between 0 and 25 metres depth. The shallow canyon section down to 15 metres is particularly rich in marine life and well-suited to all experience levels. The site is frequently offered as a drift dive by local operators, making it a good choice for an afternoon outing.
 
-## Site Information
+## Dive Profile
 
-- **Location**: Martinique, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22 meters
+- **Depth range**: 0–25 m (recorded maximum 22–23 m)
+- **Entry**: Boat dive
+- **Current**: Generally light; conditions support drift diving
+- **Visibility**: Good
+- **Best time**: Afternoon dives — fish activity is highest later in the day; the site is considered ideal for post-lunch excursions
 
-## Additional Resources
+## Marine Life
 
-- **Last Updated**: 2026-04-05
+The canyon walls host large feather gorgonians (*gorgones plumeau*). Commonly encountered species include moray eels, angelfish, stonefish camouflaged in the sand, turtles, lobsters, and octopuses. The site is well regarded for underwater photography due to the variety of invertebrates and reef fish.
+
+## Photography
+
+The gorgonians and canyon light shafts provide excellent wide-angle subjects. Stonefish, frogfish, and other bottom-dwelling cryptic species are regular macro finds. Afternoon light angles work particularly well for illuminating the canyon interiors.
 
 ---
-*Description based on OpenStreetMap-recorded data. No site-specific dive sources were located. Last updated 2026-04-05.*
+
+*Sources: [Coconews Martinique — Cap Enragé dive spots](https://martinique.coconews.com/guide-martinique/sports-nautiques/plongee-sous-marine/nord-caraibes/quelques-spots-de-plongee-du-nord-de-letrsquo-ile-cap-enrage-0-25-metres-tous-niveaux.html), [Tribloo — Cap Enragé dive site](https://tribloo.com/en/dive-sites/76/cap-enrage.html). Last updated 2026-05-17.*
