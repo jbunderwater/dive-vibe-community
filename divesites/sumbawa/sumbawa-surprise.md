@@ -25,7 +25,7 @@ Sumbawa Surprise sits in a part of Sumbawa's north coast that is infrequently do
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 30 metres
+- **Maximum Depth**: 30 meters
 - **Best Season**: April–November
 
 ---

@@ -56,10 +56,10 @@ Wide-angle photography of barracuda schools and silhouettes of sharks against bl
 ## Site Information
 
 - **Location**: Kakaban Island, Derawan Archipelago, East Kalimantan, Indonesia
-- **Entry Type**: Boat dive (25 min from Sangalaki)
-- **Site Type**: Wall / drift
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 25 metres (wall continues deeper)
+- **Maximum Depth**: 25 meters
 
 ## Additional Resources
 

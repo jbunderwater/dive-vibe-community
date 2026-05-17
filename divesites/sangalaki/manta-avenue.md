@@ -55,9 +55,9 @@ The coral staircase creates natural framing for wide-angle reef compositions. Ma
 
 - **Location**: Sangalaki Island, Derawan Archipelago, East Kalimantan, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef / manta highway
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 metres
+- **Maximum Depth**: 30 meters
 
 ## Additional Resources
 

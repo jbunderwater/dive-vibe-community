@@ -22,10 +22,10 @@ Tanduk Rusa sits at the northern part of Gili Banta and features an underwater s
 ## Site Information
 
 - **Location**: Northern tip of Gili Banta, near Komodo National Park boundary
-- **Entry Type**: Boat dive (liveaboard or day charter)
-- **Site Type**: Reef / cleaning station
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 40 metres
+- **Maximum Depth**: 40 meters
 - **Currents**: Strong; vertical and horizontal
 - **Best Season**: April–November
 

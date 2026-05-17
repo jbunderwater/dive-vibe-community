@@ -57,9 +57,9 @@ Big Fish Country offers some of the most dramatic wide-angle underwater photogra
 
 - **Location**: Maratua Island (north channel entrance), Derawan Archipelago, East Kalimantan, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Drift / channel
-- **Difficulty Level**: Advanced (experienced drift divers only)
-- **Maximum Depth**: 30 metres (at channel entrance)
+- **Site Type**: Drift dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 30 meters
 
 ## Additional Resources
 

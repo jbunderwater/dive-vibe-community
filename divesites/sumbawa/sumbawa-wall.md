@@ -25,7 +25,7 @@ Sumbawa Wall is one of the deep wall dives on the northern coast of Sumbawa. Liv
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 40 metres
+- **Maximum Depth**: 40 meters
 - **Best Season**: April–November
 
 ## Dive Profile

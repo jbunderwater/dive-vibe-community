@@ -57,7 +57,7 @@ Turtle Town's gully structure allows close-proximity turtle photography in natur
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 metres
+- **Maximum Depth**: 20 meters
 
 ## Additional Resources
 

@@ -25,7 +25,7 @@ Angel Reef sits just south of Panjang Reef and is the signature dive of the Moyo
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 40 metres
+- **Maximum Depth**: 40 meters
 - **Visibility**: 20–35 metres
 - **Water Temperature**: 24–28°C
 - **Best Season**: April–November

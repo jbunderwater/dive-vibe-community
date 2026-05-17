@@ -25,7 +25,7 @@ The diving at Satonda is primarily a macro and muck experience in a sheltered ba
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 metres
+- **Maximum Depth**: 18 meters
 - **Currents**: Weak
 - **Best Season**: April–November (year-round accessible)
 - **Protected Area**: Marine Nature Park (designated 1999)

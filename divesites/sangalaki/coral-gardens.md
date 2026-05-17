@@ -57,7 +57,7 @@ The colourful hard coral garden in 5–10 metres of water makes excellent wide-a
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 27 metres
+- **Maximum Depth**: 27 meters
 
 ## Additional Resources
 

@@ -13,23 +13,29 @@ addedBy: osm_import
 
 ## Frégate-de-Bas
 
-Frégate-de-Bas is a reef dive site in Guadeloupe, Caribbean.
+Frégate-de-Bas is a coral reef dive site in the Grand Cul-de-Sac Marin area of northern Guadeloupe. The coordinates place it within the sheltered lagoon system of the marine reserve, north-east of Pointe-à-Pitre.
 
 ## Overview
 
-No site-specific dive sources have been validated for this entry yet — marine life, typical dive profile, currents, visibility, and photography conditions are not documented.
+Frégate-de-Bas (Lower Frigate) and its companion site Frégate-de-Haut (Upper Frigate) appear to be named after local reef features or navigation cayes in the Grand Cul-de-Sac Marin. The site is a boat dive within the protected lagoon, reaching a maximum depth of 20 metres and suitable for beginner divers.
 
-## Site Information
+The Grand Cul-de-Sac Marin encompasses approximately 15,000 hectares and hosts the largest coral reef system in the Lesser Antilles — nearly 29 kilometres of reef supporting 250 fish species and 60 species of coral, sponges, and gorgonians.
 
-- **Location**: Guadeloupe, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 meters
+## Dive Profile
 
-## Additional Resources
+- **Depth range**: Shallow to 20 m
+- **Entry**: Boat dive
+- **Current**: Typically calm within the protected lagoon
+- **Conditions**: Sheltered from Atlantic swell
 
-- **Last Updated**: 2026-04-05
+## Marine Life
+
+The broader Grand Cul-de-Sac Marin reef ecosystem documented by Guadeloupe Islands Tourism includes French angelfish, yellowtail snapper, hawksbill turtles, red starfish, sea urchins, crustaceans, and schooling reef fish. Seagrass zones adjacent to reef structures attract juvenile fish and herbivorous species.
+
+## Notes
+
+No site-specific published dive guide documentation has been located for Frégate-de-Bas as a named dive site distinct from the broader Grand Cul-de-Sac Marin area. Operators based in Sainte-Rose are the primary access point for this part of the reserve.
 
 ---
-*Description based on OpenStreetMap-recorded data. No site-specific dive sources were located. Last updated 2026-04-05.*
+
+*Sources: [Guadeloupe Islands Tourism — Diving](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Experience Transat — Dive Sites Guadeloupe](https://experience.transat.com/dive-sites-guadeloupe-islands/). Last updated 2026-05-17.*

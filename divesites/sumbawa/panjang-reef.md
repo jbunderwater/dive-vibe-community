@@ -25,7 +25,7 @@ Panjang is a banked, colourful reef sitting in shallow water north of Angel Reef
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 30 metres
+- **Maximum Depth**: 30 meters
 - **Visibility**: 15–35 metres
 - **Best Season**: April–November
 

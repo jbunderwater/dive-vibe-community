@@ -25,7 +25,7 @@ Little Angel lies in the same reef complex as Angel Reef on Moyo's west coast an
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 35 metres
+- **Maximum Depth**: 35 meters
 - **Best Season**: April–November
 
 ## Marine Life

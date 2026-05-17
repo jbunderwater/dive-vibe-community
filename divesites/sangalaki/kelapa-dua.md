@@ -55,9 +55,9 @@ Thresher sharks at cleaning stations are one of the most prized underwater photo
 
 - **Location**: Kakaban Island, Derawan Archipelago, East Kalimantan, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Wall
-- **Difficulty Level**: Advanced (upper wall accessible to OW divers)
-- **Maximum Depth**: 40 metres (recreational depth limit)
+- **Site Type**: Wall dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 40 meters
 
 ## Additional Resources
 

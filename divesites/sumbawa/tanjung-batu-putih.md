@@ -22,10 +22,10 @@ The topography at Tanjung Batu Putih consists of a shallow fringing reef to arou
 ## Site Information
 
 - **Location**: ~5 km east of Bima port, north coast of Sumbawa
-- **Entry Type**: Boat dive (liveaboard or day charter from Bima)
+- **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 40 metres
+- **Maximum Depth**: 40 meters
 - **Visibility**: 15–35 metres
 - **Currents**: Occasional
 - **Best Season**: April–November

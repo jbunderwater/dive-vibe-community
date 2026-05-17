@@ -13,23 +13,29 @@ addedBy: osm_import
 
 ## Frégate-de-Haut
 
-Frégate-de-Haut is a reef dive site in Guadeloupe, Caribbean.
+Frégate-de-Haut is a coral reef dive site in the Grand Cul-de-Sac Marin area of northern Guadeloupe. It lies adjacent to Frégate-de-Bas, with both sites positioned within the protected lagoon system north-east of Pointe-à-Pitre.
 
 ## Overview
 
-No site-specific dive sources have been validated for this entry yet — marine life, typical dive profile, currents, visibility, and photography conditions are not documented.
+Frégate-de-Haut (Upper Frigate) sits slightly south and inshore of Frégate-de-Bas, with coordinates suggesting both sites are closely related reef features within the Grand Cul-de-Sac Marin reserve. The site is a boat dive reaching a maximum depth of 20 metres, suitable for beginner divers.
 
-## Site Information
+The Grand Cul-de-Sac Marin is a 15,000-hectare marine reserve protecting the largest coral reef in the Lesser Antilles — nearly 29 kilometres of reef. It is one of Guadeloupe's most biologically rich marine environments, encompassing coral reefs, seagrass beds, and mangroves.
 
-- **Location**: Guadeloupe, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 20 meters
+## Dive Profile
 
-## Additional Resources
+- **Depth range**: Shallow to 20 m
+- **Entry**: Boat dive
+- **Current**: Typically calm within the protected lagoon
+- **Conditions**: Sheltered from Atlantic swell; visibility generally good in settled weather
 
-- **Last Updated**: 2026-04-05
+## Marine Life
+
+The Grand Cul-de-Sac Marin ecosystem supports French angelfish, yellowtail snapper, hawksbill turtles, red starfish, sea urchins, lobsters, and diverse schooling reef fish. Seagrass beds adjacent to coral reef areas attract juvenile fish and herbivorous species.
+
+## Notes
+
+No site-specific published dive guide documentation has been located for Frégate-de-Haut as a named dive site distinct from the broader Grand Cul-de-Sac Marin. Operators based in Sainte-Rose are the primary access point for reef dives in this section of the reserve.
 
 ---
-*Description based on OpenStreetMap-recorded data. No site-specific dive sources were located. Last updated 2026-04-05.*
+
+*Sources: [Guadeloupe Islands Tourism — Diving](https://www.lesilesdeguadeloupe.com/en/experiences/diving-in-guadeloupe/), [Experience Transat — Dive Sites Guadeloupe](https://experience.transat.com/dive-sites-guadeloupe-islands/). Last updated 2026-05-17.*

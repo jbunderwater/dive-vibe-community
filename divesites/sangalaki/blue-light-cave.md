@@ -54,9 +54,9 @@ The blue ambient light filtering through the chimney creates striking atmospheri
 
 - **Location**: Kakaban Island, Derawan Archipelago, East Kalimantan, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Cave / cavern
-- **Difficulty Level**: Advanced (cave/technical experience recommended)
-- **Maximum Depth**: 65 metres
+- **Site Type**: Cave/cavern
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 65 meters
 
 ## Additional Resources
 
