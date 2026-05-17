@@ -13,23 +13,19 @@ addedBy: osm_import
 
 ## Shipwrecks
 
-Shipwrecks is a wreck diving site in the southern Sea of Cortez featuring multiple wreck structures accessible by boat.
+> **DATA QUALITY NOTE**: This entry requires verification. The OSM node (ID 1461976052, tagged `seamark:type=wreck`, source: Bing) is located at approximately 23.12°N, 109.52°W — near the Los Cabos / East Cape area, roughly 140 km south of La Paz. This coordinates area is associated with "Shipwrecks Beach" (Playa Barco Varado), a surf spot near San José del Cabo named after a now-removed Japanese tuna boat wreck. No active scuba dive site by this name at these coordinates has been confirmed by La Paz operators or regional dive databases. This entry may be a misidentified seamark (a nautical hazard marker, not a dive site) or a false positive from the extended OSM scrape. **Recommend removing this entry from the osm_clean dataset pending confirmation of a legitimate dive site at these coordinates.**
 
 ## Overview
 
-The Shipwrecks site consists of several wreck structures in the southern Sea of Cortez (near the Baja California Sur coast). This remote wreck site is accessible primarily by boat and offers intermediate diving on the wreck structures with good historical and ecological value. The wrecks have become artificial reefs supporting abundant marine life, making the site both historically interesting and biologically productive.
+The OSM source tags this node as a maritime wreck seamark near the East Cape coast of Baja California Sur. The location is outside the primary La Paz diving area and does not correspond to any named scuba dive site documented by La Paz operators, PADI, DAN, or regional diving resources. The nearest named wreck dive sites in this southern zone are located at Cabo Pulmo (El Vencedor wreck, approximately 45 feet depth) and Cabo San Lucas.
 
 ## Site Information
 
-- **Location**: Southern Sea of Cortez, Baja California Sur coast
-- **Entry Type**: Shore entry
-- **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-
-## Marine Life
-
-The wreck structures provide excellent habitat for reef fish including snappers, groupers, jacks, and numerous other fish species. Corals and sponges encrust the wrecks, and macro subjects including nudibranchs and crustaceans are abundant. Sea lions, eagle rays, mobula rays, and occasionally larger pelagic species may be encountered. The remote location offers good opportunities for experiencing less-crowded wreck diving.
+- **Location**: Near East Cape / Los Cabos area (approximately 140 km south of La Paz)
+- **Entry Type**: Shore (per OSM tag — unverified)
+- **Site Type**: Wreck (per OSM seamark tag — unverified as dive site)
+- **Difficulty Level**: Intermediate (placeholder — unverified)
+- **Maximum Depth**: 25 meters (placeholder — unverified)
 
 ---
-*Sources: [Cortez Club - La Paz Dive Sites](https://cortezclub.com/dive-sites/), [Cortez Club - Scuba Diving La Paz](https://cortezclub.com/scuba-diving/), [La Paz Divers - Diving in La Paz](https://lapazdivers.com/diving-in-la-paz/), [Dive in La Paz](https://diveinlapaz.com/), [Underwater Photography Guide - Diving La Paz Baja](https://www.uwphotographyguide.com/diving-la-paz-baja). Last updated 2026-04-04.*
+*Sources: [OpenStreetMap Node 1461976052](https://www.openstreetmap.org/node/1461976052) (seamark:type=wreck, source=Bing), [Cabosanlucasbeaches.com — Shipwrecks (East Cape surf/beach)](https://www.cabosanlucasbeaches.com/shipwrecks/). No scuba dive site confirmed at these coordinates. Last updated 2026-05-17.*
