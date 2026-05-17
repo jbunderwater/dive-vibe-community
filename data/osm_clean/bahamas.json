@@ -10,7 +10,7 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "PADI Dive Sites, Bureau of Aircraft Accidents Archives",
+    "validation_source": "baaa-acro.com,aviation-safety.net,bahamasairtours.com,wikipedia.org",
     "tags": {
       "access": "yes",
       "aircraft:type": "transport",
@@ -18,7 +18,7 @@
       "damage:structure": "heavy",
       "historic": "wreck",
       "name": "Curtiss C-46A-45-CU Commando",
-      "note": "Civil registration, N355BY, cancelled on 15 November 1980.",
+      "note": "Civil registration, N355BY, cancelled on 15 November 1980. Crashed off Norman's Cay, not generic Exuma Cays.",
       "seamark:type": "wreck",
       "sport": "scuba_diving",
       "tourism": "attraction",
@@ -27,7 +27,8 @@
       "wreck:date_sunk": "15 November 1980",
       "wreck:visible_at_high_tide": "no",
       "wreck:visible_at_low_tide": "yes",
-      "year_of_construction": "1940-1945"
+      "year_of_construction": "1940-1945",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -41,7 +42,7 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "Atlas Obscura, Wikipedia, DiveBooker",
+    "validation_source": "en.wikipedia.org,bahamas.com,dreamwrecks.com,thevintagenews.com",
     "tags": {
       "access": "yes",
       "building": "yes",
@@ -57,7 +58,9 @@
       "wikipedia": "en:SS Sapona",
       "wreck:date_sunk": "1926",
       "wreck:visible_at_high_tide": "yes",
-      "wreck:visible_at_low_tide": "yes"
+      "wreck:visible_at_low_tide": "yes",
+      "note": "Built 1919 by Liberty Shipbuilding Co for US Shipping Board WWI Emergency Fleet. NOT built for Henry Ford. Purchased 1924 by Carl G. Fisher, then Bruce Bethell. Wrecked in 1926 hurricane. Used for WWII bombing practice by US Army/Navy. Hemingway target practice claim is unverified. Length 281 ft 10 in; 3,500 DWT.",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -71,10 +74,12 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "PADI, Epic Diving, Bluewater Dive Travel",
+    "validation_source": "padi.com,epicdiving.com,dive-the-world.com,bluewaterdivetravel.com",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "note": "Located 32km (20 miles) off west end of Grand Bahama. Tiger sharks year-round, peak Oct-Jan. Great hammerheads Dec-Mar. Depth 6-12m.",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -88,10 +93,11 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "Stuart Cove's Dive Bahamas, Scuba Diving Magazine",
+    "validation_source": "stuartcove.com,scubadiving.com,bluewaterdivetravel.com",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -105,10 +111,12 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "Stuart Cove's Dive Bahamas, Scuba Diving Magazine",
+    "validation_source": "stuartcove.com,scubadiving.com,bahamastourcenter.com",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "note": "Also known as The Arena and The Runway (two separate Stuart Cove feeding sites). Primary species: Caribbean reef sharks (5-6ft). Depth ~12m (40ft).",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -122,10 +130,12 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "Bahamas.com, TripAdvisor, Staniel Cay Official Sites",
+    "validation_source": "bahamasairtours.com,stanielcayadventures.com,nassaubahamasguide.com,sandals.com",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "note": "Filmed for Thunderball (1965) and Never Say Never Again (1983). Multiple underwater entrances. Best visited at low/slack tide.",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -139,10 +149,12 @@
     "entry_type": "shore",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "Wikipedia, Bahamas.com, Atlas Obscura, SANDALS",
+    "validation_source": "en.wikipedia.org,atlasobscura.com,bahamasairtours.com,scuba.com",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "note": "World's THIRD deepest known ocean blue hole (not second) — after Taam Ja' Blue Hole (Mexico) and Dragon Hole (South China Sea). Surface diameter ~30m, widens to ~100m. William Trubridge world record 101m in Dec 2010. Hosts annual Vertical Blue competition.",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -156,10 +168,12 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "Discover Eleuthera, Zentacle, Eleuthera.me, DiveScore",
+    "validation_source": "discover-eleuthera-bahamas.com,eleuthera.me,zentacle.com,dive-the-world.com",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "note": "This is the same as the Current Cut OSM entry. Both entries reference the same channel between North Eleuthera and Current Island.",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -173,10 +187,11 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "Stuart Cove's Dive Bahamas, Scuba Diving Magazine, DiveBuddy",
+    "validation_source": "stuartcove.com,scubadiving.com,bluewaterdivetravel.com",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -190,10 +205,11 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "All Star Liveaboards, Master Liveaboards, Discovery Channel",
+    "validation_source": "scubadiving.com,discovery.com,explorersweb.com,myoutislands.com",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -207,10 +223,12 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "DiveBooker, Zentacle, Scuba Diver Life, Wannadive",
+    "validation_source": "dreamwrecks.com,wannadive.net,scubadiverlife.com,ashunderwater.com",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "note": "130ft (39.6m) steel freighter built Netherlands 1966. Served as Bahamas mailboat from 1980. Sank in 1988 during tow at Clifton Pier. Stuart Cove's refloated and resank in current position. NOT a passenger ferry. NOT deliberately sunk as artificial reef initially — accidental sinking then repositioned.",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -219,15 +237,17 @@
     "lon": -75.4333,
     "osm_id": null,
     "osm_type": null,
-    "depth": 8,
+    "depth": 12,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "Epic Diving, Big Fish Expeditions, Dive Ninja Expeditions",
+    "validation_source": "epicdiving.com,scubadiverlife.com,southernboating.com,bigfishexpeditions.com",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "note": "Oceanic whitetip sharks primary April-May (following tuna migration). Not year-round. Depth up to 12m (40ft). Caribbean reef sharks year-round.",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -236,15 +256,17 @@
     "lon": -75.1167,
     "osm_id": null,
     "osm_type": null,
-    "depth": 43,
+    "depth": 40,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "Sea Dragon Bahamas, Geoff Schultz Dive Logs, TripAdvisor",
+    "validation_source": "seadragonbahamas.com,geoffschultz.org,dive-the-world.com,tripadvisor.com",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "note": "Wall top at 15-24m, drops to 40m+ into abyss. Swim-throughs and tunnels on south wall in 21-30m. Conception Island is Bahamas National Trust national park.",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -253,15 +275,17 @@
     "lon": -77.475,
     "osm_id": null,
     "osm_type": null,
-    "depth": 50,
+    "depth": 18,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "Stuart Cove's Dive Bahamas, DeeperBlue, Scuba Diving Magazine",
+    "validation_source": "dreamwrecks.com,deeperblue.com,scubadiving.com,stuartcove.com",
     "tags": {
       "source": "curated",
-      "addedBy": "gap_fill"
+      "addedBy": "gap_fill",
+      "note": "200ft Haitian cargo freighter. Sunk 2003 by Stuart Cove's as artificial reef. Bow at 12m, stern at 18m (40-60ft). Sits next to Bahama Mama wreck. 16th wreck on New Providence SW side. PREVIOUS depth of 50m was WRONG — corrected to 18m.",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -273,13 +297,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "diveboard.com, dive-the-world.com, yachtsbahamacharters.com",
+    "validation_source": "diveboard.com,dive-the-world.com,yachtsbahamacharters.com",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
-      "validation_source": "diveboard.com, dive-the-world.com"
+      "validation_source": "diveboard.com, dive-the-world.com, yachtsbahamacharters.com",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -291,13 +316,14 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "uncommoncaribbean.com, zentacle.com, dive-the-world.com",
+    "validation_source": "uncommoncaribbean.com,zentacle.com,dive-the-world.com",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
-      "validation_source": "uncommoncaribbean.com, zentacle.com"
+      "validation_source": "uncommoncaribbean.com, zentacle.com, dive-the-world.com",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -308,14 +334,16 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
+    "validated": false,
     "validation_source": "scubaweather.com",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
-      "validated": "true",
-      "validation_source": "scubaweather.com"
+      "validated": "false",
+      "validation_source": "scubaweather.com",
+      "note": "Insufficient sources for validation (only 1 source found). Needs 2 additional independent sources.",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -326,14 +354,16 @@
     "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
+    "validated": false,
     "validation_source": "scubaboard.com",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
-      "validated": "true",
-      "validation_source": "scubaboard.com"
+      "validated": "false",
+      "validation_source": "scubaboard.com",
+      "note": "Insufficient sources for validation (only 1 source found). Needs 2 additional independent sources.",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -344,14 +374,16 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
+    "validated": false,
     "validation_source": "scubaweather.com",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
-      "validated": "true",
-      "validation_source": "scubaweather.com"
+      "validated": "false",
+      "validation_source": "scubaweather.com",
+      "note": "Insufficient sources for validation (only 1 source found). Needs 2 additional independent sources.",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -363,13 +395,14 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "divein.com, dive-the-world.com",
+    "validation_source": "divein.com,dive-the-world.com,zentacle.com",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
-      "validation_source": "divein.com, dive-the-world.com"
+      "validation_source": "divein.com, dive-the-world.com, zentacle.com",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -381,13 +414,14 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "zentacle.com, yachtsbahamacharters.com",
+    "validation_source": "zentacle.com,yachtsbahamacharters.com,dive-the-world.com",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
-      "validation_source": "zentacle.com, yachtsbahamacharters.com"
+      "validation_source": "zentacle.com, yachtsbahamacharters.com, dive-the-world.com",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -399,13 +433,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "zentacle.com, allstarliveaboards.com",
+    "validation_source": "zentacle.com,allstarliveaboards.com,capeeleuthera.com",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
-      "validation_source": "zentacle.com, allstarliveaboards.com"
+      "validation_source": "zentacle.com, allstarliveaboards.com, capeeleuthera.com",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -417,13 +452,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "capeeleuthera.com, scubadiving.com",
+    "validation_source": "capeeleuthera.com,scubadiving.com,dive-the-world.com",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
-      "validation_source": "capeeleuthera.com, scubadiving.com"
+      "validation_source": "capeeleuthera.com, scubadiving.com, dive-the-world.com",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -431,17 +467,19 @@
     "lat": 25.5770333,
     "lon": -76.6869,
     "depth": 8,
-    "site_type": "reef",
+    "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "zentacle.com, oceanfoxbahamas.com, dive-the-world.com",
+    "validation_source": "oceanfoxbahamas.com,zentacle.com,projecteleuthera.org,tribune242.com",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
-      "validation_source": "zentacle.com, oceanfoxbahamas.com"
+      "validation_source": "oceanfoxbahamas.com, zentacle.com, projecteleuthera.org, tribune242.com",
+      "note": "Site type changed from 'reef' to 'wreck' — primary draw is the multiple historic wrecks (Cienfuegos 1895, Carnarvon 1916, Train Wreck 1865, Vanaheim 1969). Depth 5-10m.",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -453,13 +491,14 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "zentacle.com, bahamas.com",
+    "validation_source": "zentacle.com,bahamas.com,dive-the-world.com",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
-      "validation_source": "zentacle.com, bahamas.com"
+      "validation_source": "zentacle.com, bahamas.com, dive-the-world.com",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -471,13 +510,14 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "zentacle.com, eleuthera.me, dive-the-world.com",
+    "validation_source": "eleuthera.me,zentacle.com,dive-the-world.com",
     "tags": {
       "source": "community_contribution",
       "addedBy": "JaiBar",
       "contribution_ref": "github_issue_52",
       "validated": "true",
-      "validation_source": "zentacle.com, eleuthera.me"
+      "validation_source": "eleuthera.me, zentacle.com, dive-the-world.com",
+      "last_qa_date": "2026-05-17"
     }
   }
 ]

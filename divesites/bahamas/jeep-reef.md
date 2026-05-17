@@ -23,7 +23,7 @@ The site takes its name from a coral-encrusted Jeep that lies on the reef, now s
 
 - **Location**: Exuma Cays Land and Sea Park, Bahamas
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 20-30 meters
 - **Current**: Moderate to strong at tidal change — dive at slack tide
@@ -52,4 +52,4 @@ All diving here is by boat. Most divers visit on organised day trips from Stanie
 Currents can build quickly in the Exuma Cays. Plan your dive profile around the tidal cycle and carry a surface marker buoy (SMB). Boat traffic in the cays can be significant during peak season.
 
 ---
-*Sources: [Diveboard - Jeep Reef](https://www.diveboard.com/explore/spots/bahamas/pimlico-cay-exumas-L4fMqzj/jeep-reef-S6nGw57), [Dive the World - Exuma Cays](https://www.dive-the-world.com/diving-sites-bahamas-exuma-cays.php). Last updated 2026-04-11.*
+*Sources: [Diveboard - Jeep Reef](https://www.diveboard.com/explore/spots/bahamas/pimlico-cay-exumas-L4fMqzj/jeep-reef-S6nGw57), [Dive the World - Exuma Cays](https://www.dive-the-world.com/diving-sites-bahamas-exuma-cays.php), [Yachts Bahama Charters - Wall Diving in the Exumas](https://www.yachtsbahamacharters.com/blog/the-thrill-of-wall-diving-top-5-scuba-dive-sites-in-the-exumas/). Last updated 2026-05-17.*

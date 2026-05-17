@@ -17,7 +17,7 @@ A Prohibition-era concrete freighter lying half-submerged off Bimini — a Baham
 
 ## Overview
 
-The S.S. Sapona is one of the most unusual and historically evocative wrecks in the Bahamas. Built in 1919 for Henry Ford as part of a fleet of concrete-hulled ships (an experimental wartime construction technique), the Sapona was later used as a floating warehouse during Prohibition and subsequently served other commercial purposes before being grounded in a 1926 hurricane in the shallow waters between North and South Bimini. Today the wreck lies on its side in just 3–5 metres of water — largely above the waterline — making it as much a surface landmark as an underwater dive. Ernest Hemingway, who lived in Bimini in the 1930s, reportedly used the Sapona for target practice. The wreck is visible from the surface and diveable year-round as a snorkel or introductory scuba dive.
+The S.S. Sapona is one of the most unusual and historically evocative wrecks in the Bahamas. Launched in October 1919 by the Liberty Shipbuilding Company in Wilmington, North Carolina, the Sapona was built as a concrete-hulled cargo steamer for the United States Shipping Board's WWI Emergency Fleet — but the armistice came first and she never served in wartime. After changing hands several times, she was purchased in 1924 by Carl G. Fisher, the developer of Miami Beach, for just $4,000, and subsequently acquired by Bruce Bethell, a former British officer who moved her to Bimini to serve as a floating warehouse for his Prohibition-era liquor operation. She was driven aground at Barnett Harbour during the Great Miami Hurricane of 1926 and abandoned — salvage was deemed too costly. During World War II, the wreck served as a target for U.S. Army and Navy training exercises; she was strafed with machine-gun fire and bombed repeatedly. The Sapona lay near the area where Flight 19 — five U.S. Navy torpedo bombers — disappeared on 5 December 1945, after which all target practice on the wreck ceased. Today the 281-foot concrete hull lies partially above the waterline in 3–5 metres of water, as much a surface landmark as an underwater dive site, and is visible and diveable year-round.
 
 ## Site Information
 
@@ -45,7 +45,7 @@ Boat dive from Bimini-based operators. The wreck is close to the main islands of
 
 ## Tips and Recommendations
 
-The Sapona is excellent as both a scuba dive and snorkel — the very shallow depth means the underwater sections are visible from the surface. Historical context (the Hemingway connection, the Prohibition story, the unusual concrete construction) significantly enhances the experience — read about the wreck's history before visiting. Fire coral is extensive on the hull surface — maintain awareness and avoid contact. The above-water sections of the wreck make for dramatic photos from the surface.
+The Sapona is excellent as both a scuba dive and snorkel — the very shallow depth means the underwater sections are visible from the surface. Historical context (the Prohibition-era liquor warehouse story, the WWII bombing practice connection, and the Flight 19 proximity) significantly enhances the experience — read about the wreck's history before visiting. Fire coral is extensive on the hull surface — maintain awareness and avoid contact. The above-water sections of the wreck make for dramatic photos from the surface.
 
 ## Safety Considerations
 
@@ -61,4 +61,4 @@ The partially above-water wreck creates unique photography opportunities. Split-
 - Bimini dive operators: the Sapona is typically the first stop on any Bimini dive itinerary
 
 ---
-*Sources: [Bahamas Tourism - Diving](https://www.bahamas.com/plan-your-trip/diving), [Bluewater Dive Travel - Bahamas Diving](https://www.bluewaterdivetravel.com/destination/bahamas-diving), [Dive The World - Best Diving in the Bahamas](https://www.dive-the-world.com/posts/bahamas/best-diving-in-the-bahamas-top-7-sites.php), [DiveIn - Best Diving in the Bahamas](https://www.divein.com/diving/destination/bahamas/), [PADI - Diving in the Bahamas](https://www.padi.com/diving-in/bahamas/). Last updated 2026-04-04.*
+*Sources: [Wikipedia - SS Sapona](https://en.wikipedia.org/wiki/SS_Sapona), [Bahamas.com - Sapona Shipwreck](https://www.bahamas.com/natural-wonders/sapona-shipwreck), [DreamWrecks - SS Sapona Bimini](https://dreamwrecks.com/sapona-bimini-shipwreck), [The Vintage News - WWII Bombing Practice](https://www.thevintagenews.com/2016/04/24/chilling-wreck-ss-sapona-used-target-practice-us-forces-wwii/). Last updated 2026-05-17.*

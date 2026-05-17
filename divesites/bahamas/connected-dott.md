@@ -23,7 +23,7 @@ Connected Dott sits in the Great Exuma area alongside other local reef sites inc
 
 - **Location**: Great Exuma Island, Bahamas
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: Good, approximately 21 meters (69 feet) reported in conditions data
 - **Water Temperature**: 25-27°C
@@ -51,4 +51,4 @@ Access is by boat. Dive Exuma in George Town is the primary local operator offer
 Check current and visibility conditions with your dive operator before entry. Carry an SMB for open-water ascents.
 
 ---
-*Sources: [ScubaWeather - Connected Dott](https://www.scubaweather.com/Bahamas/Great_Exuma_Island/Connected%20Dott/Point_DiveSiteMap.html). No site-specific dive guide found; description based on regional diving characteristics and conditions data. Last updated 2026-04-11.*
+*Sources: [ScubaWeather - Connected Dott](https://www.scubaweather.com/Bahamas/Great_Exuma_Island/Connected%20Dott/Point_DiveSiteMap.html). Only one source found; validation status set to false pending additional independent sources. Description based on regional diving characteristics. Last updated 2026-05-17.*

@@ -2,8 +2,8 @@
 name: Ray of Hope Nassau
 lat: 25.0583
 lng: -77.475
-difficulty: Intermediate
-maxDepth: 50
+difficulty: Beginner
+maxDepth: 18
 entryType: boat
 siteType: wreck
 ref: null
@@ -13,18 +13,18 @@ addedBy: osm_import
 
 # Ray of Hope Nassau
 
-A sizeable cargo freighter deliberately sunk as an artificial reef off Nassau, resting at 50 meters in clear Bahamian water and heavily colonised by corals and sponges across its entire superstructure.
+A 200-foot Haitian cargo freighter deliberately sunk as an artificial reef off Nassau in 2003, resting upright at 12–18 metres in clear Bahamian water and one of the most accessible wreck dives in the archipelago.
 
 ## Overview
 
-The Ray of Hope is a steel cargo freighter deliberately sunk as an artificial reef off the southwest coast of New Providence Island, Nassau. The vessel sits upright on the sandy bottom at 50 meters — making it primarily a technical or deep recreational dive — with the highest points of the superstructure reaching to approximately 35 meters. The Bahamas' clear water delivers 25–35 meters of visibility at this site. The wreck has been colonised over the years by hard and soft corals, sponges, and encrusting organisms, and now hosts a productive community of fish including large groupers and schools of snapper. Due to the significant depth, recreational scuba divers typically see only the upper portions of the wreck.
+The Ray of Hope is a 200-foot Haitian cargo freighter deliberately sunk as an artificial reef off the southwest coast of New Providence Island, Nassau, in 2003. Nassau port authorities donated the vessel to Stuart Cove's Dive Bahamas for sinking — it became the 16th wreck placed on the southwestern side of New Providence. The ship sits upright with its bow at approximately 12 metres and the stern sloping down to 18 metres, making this one of the most accessible and diver-friendly wrecks in Nassau. The Bahamas' clear water delivers 20–30 metres of visibility at this site. The wreck is fully intact, allowing divers to explore its interior, cabins, and gangways. It sits adjacent to an older wreck called Bahama Mama, creating a two-wreck dive option. Caribbean reef sharks regularly patrol the area and the wreck is used for structured shark-feeding dives by Stuart Cove's.
 
 ## Site Information
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 35–50 m |
-| Difficulty | Intermediate (upper structure) / Advanced (full wreck) |
+| Depth Range | 12–18 m |
+| Difficulty | Beginner to Intermediate |
 | Entry Type | Boat |
 | Site Type | Wreck |
 | Visibility | 25–35 m |
@@ -37,7 +37,7 @@ The wreck hosts large groupers throughout the superstructure and hull. Schools o
 
 ## Dive Profile
 
-Descent to the uppermost superstructure at 35 meters. Intermediate divers explore the upper deck and superstructure features in the 35–40 meter range, which offers the best light and most marine life activity. Advanced divers can descend along the hull to the sandy bottom at 50 meters for a brief exploration before ascending along the other side. Total bottom time at 40 meters: approximately 15–20 minutes before NDL limits on air.
+Descent to the bow at approximately 12 metres. The wreck slopes gently toward the stern at 18 metres. The accessible depth allows generous bottom times — a complete circuit of the wreck takes 30–45 minutes. Interior exploration of the hold, cabins, and gangways is possible from multiple deck hatches. The adjacent Bahama Mama wreck can be included in a single dive for experienced divers.
 
 ## Entry and Exit
 
@@ -45,15 +45,15 @@ Boat dive from Nassau-based operators. Entry by backward roll or giant stride. P
 
 ## Tips and Recommendations
 
-The significant depth of the Ray of Hope means this is primarily for experienced recreational divers comfortable at 35–40 meters. The wreck's maximum depth (50 m) is beyond recreational limits on air — do not exceed 40 meters without nitrox certification or technical diving training. A torch greatly enhances the interior sections of the wreck. Morning dives have the best light and least boat traffic.
+The accessible depth (12–18 m) makes this one of Nassau's most diver-friendly wrecks, suitable for newly certified divers. A torch greatly enhances the interior sections — the hold and cabins have interesting structure but reduced natural light. Morning dives have the best light and least boat traffic. Stuart Cove's runs structured shark-feeding dives at this site if the shark encounter experience is a priority.
 
 ## Safety Considerations
 
-This wreck sits at significant depth for recreational diving — 40 meters is the maximum advisable depth for recreational air divers, and NDL limits at this depth are very short. Narcosis risk increases at depth. Do not descend to the sandy bottom at 50 meters without appropriate experience and equipment. DSMB mandatory for the open-water ascent. Ascend conservatively and allow an adequate safety stop at 5 meters.
+Interior sections should not be penetrated beyond natural light without wreck diving training. Silt disturbance in the interior can reduce visibility rapidly. DSMB recommended for the ascent. The site is operated by Stuart Cove's — follow divemaster briefings for the shark encounter component.
 
 ## Photography
 
-The Ray of Hope's depth means natural light is reduced — supplemental strobe or video lighting enhances colour on the encrusted surfaces. Wide-angle shots of the superstructure with a diver descending provide scale. Interior shots through port holes and deck openings use the classic "window frame" wreck photography composition. The best colour is in the 35–42 meter range where some natural light still reaches.
+The accessible depth (12–18 m) means excellent natural light — strobes are optional for exterior shots. Wide-angle shots of the superstructure with a diver descending provide scale. Interior shots through portholes and deck openings use the classic "window frame" wreck photography composition. The shark encounters at this site provide additional photographic opportunities.
 
 ## Additional Resources
 
@@ -61,4 +61,4 @@ The Ray of Hope's depth means natural light is reduced — supplemental strobe o
 - Combine with Stuart Cove Wall for a Nassau two-tank deep dive day
 
 ---
-*Sources: [Bahamas Tourism - Diving](https://www.bahamas.com/plan-your-trip/diving), [Bluewater Dive Travel - Bahamas Diving](https://www.bluewaterdivetravel.com/destination/bahamas-diving), [Dive The World - Best Diving in the Bahamas](https://www.dive-the-world.com/posts/bahamas/best-diving-in-the-bahamas-top-7-sites.php), [DiveIn - Best Diving in the Bahamas](https://www.divein.com/diving/destination/bahamas/), [PADI - Diving in the Bahamas](https://www.padi.com/diving-in/bahamas/). Last updated 2026-04-04.*
+*Sources: [DreamWrecks - Ray of Hope Bahamas](https://dreamwrecks.com/ray-of-hope-bahamas-shipwreck), [DeeperBlue - Ray of Hope newest wreck](https://www.deeperblue.com/the-ray-of-hope-is-the-newest-wreck-dive-in-the-bahamas/), [Scuba Diving Magazine - Wreck Diving with Stuart Cove's](https://www.scubadiving.com/wreck-diving-in-bahamas-with-stuart-coves), [Stuart Cove's Dive Bahamas](https://stuartcove.com/). Last updated 2026-05-17.*

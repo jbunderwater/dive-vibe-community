@@ -13,14 +13,15 @@
       "shark_cage": "true",
       "cage_type": "surface",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "rodneyfox.com.au,wikipedia.org,marineparks.sa.gov.au,parks.sa.gov.au,wikivoyage.org",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
     "name": "Neptune Islands South",
     "lat": -35.3377,
     "lon": 136.1174,
-    "depth": 21,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -30,14 +31,15 @@
       "shark_cage": "true",
       "cage_type": "submerged",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "rodneyfox.com.au,wikipedia.org,marineparks.sa.gov.au,parks.sa.gov.au,wikivoyage.org",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
     "name": "North Neptune Reef",
     "lat": -35.2333,
     "lon": 136.0656,
-    "depth": 21,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -46,15 +48,17 @@
       "addedBy": "fill_remaining_gaps",
       "shark_cage": "true",
       "cage_type": "submerged",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-05-17",
+      "qa_note": "No source confirms this as a distinct named dive site separate from Neptune Islands North. Site name may be duplicate/redundant."
     }
   },
   {
     "name": "The Monument",
     "lat": -35.252,
     "lon": 136.078,
-    "depth": 21,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -63,8 +67,10 @@
       "addedBy": "fill_remaining_gaps",
       "shark_cage": "true",
       "cage_type": "submerged",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-05-17",
+      "qa_note": "The Rodney Fox website mentions two natural crevasses on North Neptune Island East but no site named 'The Monument' is confirmed by any independent source."
     }
   },
   {
@@ -81,29 +87,33 @@
       "shark_cage": "true",
       "cage_type": "surface",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "rodneyfox.com.au,wikipedia.org,marineparks.sa.gov.au,parks.sa.gov.au,wikivoyage.org",
+      "last_qa_date": "2026-05-17",
+      "qa_note": "Surface cage dive in Main Bay or Action Bay; confirmed by multiple sources. Likely represents same physical site as Neptune Islands North from a different operator perspective."
     }
   },
   {
     "name": "South Neptune Pinnacles",
     "lat": -35.342,
     "lon": 136.125,
-    "depth": 21,
+    "depth": 20,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-05-17",
+      "qa_note": "Wikipedia confirms the South Neptune Islands have steep rocky formations with seabed dropping to 80m within 1.5km, consistent with pinnacle diving. However, no source confirms this specific named site or its dive characteristics."
     }
   },
   {
     "name": "Hopkins Island",
     "lat": -35.17,
     "lon": 136.08,
-    "depth": 15,
+    "depth": 6,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -112,7 +122,9 @@
       "addedBy": "fill_remaining_gaps",
       "seal_dive": "true",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "rodneyfox.com.au,dan.org,paparazsea.com,bluewaterdivetravel.com,diveinaustralia.com.au",
+      "last_qa_date": "2026-05-17",
+      "qa_note": "Depth corrected from 15m to 6m per multiple source confirmation. Hopkins Island is a shallow seal dive site at approximately 6m depth."
     }
   },
   {
@@ -126,8 +138,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-05-17",
+      "qa_note": "No source confirms this as a named dive site. Rocky reef/kelp reef habitat is consistent with the area's geology but site-specific information unavailable."
     }
   },
   {
@@ -141,8 +155,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-05-17",
+      "qa_note": "No source confirms this as a named dive site. The Neptune Islands have igneous rock formations (porphyritic granite gneiss) that could support cave/cavern features, but no site-specific source found."
     }
   },
   {
@@ -156,8 +172,10 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_remaining_gaps",
-      "validated": "true",
-      "validation_source": "perplexity"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-05-17",
+      "qa_note": "No source confirms this as a named dive site in the Neptune Islands group."
     }
   }
 ]

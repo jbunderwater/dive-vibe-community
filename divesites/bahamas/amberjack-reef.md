@@ -23,7 +23,7 @@ This compact patch reef — roughly 50 feet in length — punches well above its
 
 - **Location**: Exuma Cays Land and Sea Park, Bahamas
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 20-30 meters
 - **Current**: Moderate

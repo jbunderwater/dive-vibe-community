@@ -5,7 +5,7 @@ lng: -76.6869
 difficulty: Beginner
 maxDepth: 8
 entryType: boat
-siteType: reef
+siteType: wreck
 ref: null
 osmId: null
 addedBy: community_contribution
@@ -21,16 +21,16 @@ Stretching approximately 1.4 miles northeast of Spanish Wells at the north end o
 
 ## Notable Wrecks
 
-- **The Cienfuegos** (1895): A 292-foot American iron-hull steamer lying in approximately 10 meters. One of the most intact century-old wrecks in the Bahamas.
-- **The Carnarvon** (1916): A 186-foot freighter in 8-10 meters. Its steam engine, boilers, and driveshaft are well-preserved. The steering quadrant is just 2-3 meters below the surface. Good for underwater photography.
-- **The Train Wreck** (1865): Remains of a cargo of railway equipment — wheels, axles, boiler plates — scattered in 5 meters. One of the more unusual wreck dives in the Caribbean.
-- **Potato and Onion / Vanaheim** (1969): An 86-foot freighter in the shallows.
+- **The Cienfuegos** (wrecked 1895): A 292-foot American steam passenger ship operated by the Ward Line — launched in 1883 from Chester, Pennsylvania. She measured 2,332 tons and ran aground on the reef approximately 5 miles north of Harbour Island. Now flattened in 3–10 metres of water; the bow, steam engine, boiler, two giant heat exchangers, and main driveshaft remain identifiable. The wreck resembles an underwater junkyard at this point, spread across the reef.
+- **The Carnarvon** (wrecked 1916): A 186-foot steel-hulled Welsh freighter that serviced lighthouses in the Bahamas for the British Admiralty. Sits in 5–8 metres of water on the southern edge of the Backbone, northeast of Preacher's Cave beach. The top of the steering quadrant is just 2–3 metres below the surface; the steam engine and driveshaft are remarkably intact for a wreck over a century old.
+- **The Train Wreck** (wrecked 1865): A barge carrying Confederate-era railway equipment — reportedly en route from the southern United States to a Cuban sugar plantation during the Civil War — which struck the reef in a storm. Lies in 3–5 metres of water. Remaining artifacts include train wheels, three-wheel trucks, boiler plate, brass spikes, coal, and ballast stones.
+- **The Vanaheim** (wrecked 1969): An 86-foot coastal freighter whose cargo of potatoes and onions gave the site its informal name "Potato and Onion Wreck." Lies in the shallows near the Cienfuegos.
 
 ## Site Information
 
 - **Location**: North Eleuthera, Bahamas (near Spanish Wells and Preacher's Cave)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Wreck dive
 - **Maximum Depth**: 8 meters
 - **Typical Visibility**: 5-6 meters (conditions can be variable due to surge and sand disturbance)
 - **Current**: Light to moderate
@@ -60,4 +60,4 @@ Boat dive. Ocean Fox Dive Shop on Harbour Island and other local operators offer
 Boat traffic in the area can be significant — always use a dive flag. The shallow depths create surge in any swell. Sand and silt in the wreck structures reduce visibility when disturbed; maintain good buoyancy. The reef is fragile — do not penetrate unguided wreck interiors.
 
 ---
-*Sources: [Ocean Fox Bahamas - Devil's Backbone](https://oceanfoxbahamas.com/devils-backbone/), [Zentacle - Devil's Backbone](https://www.zentacle.com/Beach/3567/devils-backbone), [Dive the World - Eleuthera](https://www.dive-the-world.com/diving-sites-bahamas-eleuthera.php). Last updated 2026-04-11.*
+*Sources: [Ocean Fox Bahamas - Devil's Backbone](https://oceanfoxbahamas.com/devils-backbone/), [Zentacle - Devil's Backbone](https://www.zentacle.com/Beach/3567/devils-backbone), [Project Eleuthera - Underwater Sites](https://www.projecteleuthera.org/underwater-sites), [The Tribune Bahamas - 200 Years of Wrecks](https://www.tribune242.com/news/2026/jan/09/200-years-of-wrecks-across-the-north-central-bahamas-especially-the-devils-backbone/). Last updated 2026-05-17.*

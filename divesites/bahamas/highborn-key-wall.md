@@ -52,4 +52,4 @@ Boat dive only. Access via Highbourne Cay marina or liveaboard. The site is dire
 The depth and open-water exposure make this an Advanced-level dive. Monitor your depth carefully on the wall — gradual deepening is easy to miss. Currents can be unpredictable when exposed to the Exuma Sound. Always complete a 3-minute safety stop at 5 meters and carry an SMB.
 
 ---
-*Sources: [Zentacle - Highborn Key Wall](https://www.zentacle.com/Beach/8446/highborn-key-wall), [Yachts Bahama Charters - Wall Diving in the Exumas](https://www.yachtsbahamacharters.com/blog/the-thrill-of-wall-diving-top-5-scuba-dive-sites-in-the-exumas/). Last updated 2026-04-11.*
+*Sources: [Zentacle - Highborn Key Wall](https://www.zentacle.com/Beach/8446/highborn-key-wall), [Yachts Bahama Charters - Wall Diving in the Exumas](https://www.yachtsbahamacharters.com/blog/the-thrill-of-wall-diving-top-5-scuba-dive-sites-in-the-exumas/), [Dive the World - Exuma Cays](https://www.dive-the-world.com/diving-sites-bahamas-exuma-cays.php). Last updated 2026-05-17.*

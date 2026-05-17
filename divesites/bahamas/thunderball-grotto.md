@@ -61,4 +61,4 @@ Thunderball Grotto is one of the Caribbean's most photographed underwater locati
 - The cave is approximately 15 minutes by boat from Staniel Cay
 
 ---
-*Sources: [Bahamas Tourism - Diving](https://www.bahamas.com/plan-your-trip/diving), [Bluewater Dive Travel - Bahamas Diving](https://www.bluewaterdivetravel.com/destination/bahamas-diving), [Dive The World - Best Diving in the Bahamas](https://www.dive-the-world.com/posts/bahamas/best-diving-in-the-bahamas-top-7-sites.php), [DiveIn - Best Diving in the Bahamas](https://www.divein.com/diving/destination/bahamas/), [PADI - Diving in the Bahamas](https://www.padi.com/diving-in/bahamas/). Last updated 2026-04-04.*
+*Sources: [Bahamas Air Tours - Thunderball Grotto](https://www.bahamasairtours.com/destination/thunderball-grotto/), [Staniel Cay Adventures - Thunderball Grotto](https://stanielcayadventures.com/thunderball-grotto-staniel-cay-james-bond/), [Nassau Bahamas Guide - Thunderball Grotto](https://nassaubahamasguide.com/destination/thunderball-grotto-james-bond/), [Sandals - Visiting Thunderball Grotto](https://www.sandals.com/blog/thunderball-grotto/). Last updated 2026-05-17.*

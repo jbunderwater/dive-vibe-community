@@ -5,7 +5,7 @@
     "lon": -29.9476204,
     "osm_id": 5875583620,
     "osm_type": "node",
-    "depth": 29,
+    "depth": 35,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -13,7 +13,8 @@
       "name": "princess alice bank",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "dive.visitazores.com,cwazores.com,wikipedia.org,deeperblue.com",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -30,7 +31,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "dive.visitazores.com,portugaldive.com,turismo.azores.gov.pt",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -47,7 +49,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "dive.visitazores.com,wikipedia.org,portugaldive.com",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -64,7 +67,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "dive.visitazores.com,wikipedia.org,turismo.azores.gov.pt",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -73,15 +77,16 @@
     "lon": -25.62578,
     "osm_id": null,
     "osm_type": null,
-    "depth": 20,
+    "depth": 21,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "dive.visitazores.com,uboat.net,padi.com,scubaboard.com",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -92,13 +97,14 @@
     "osm_type": null,
     "depth": 18,
     "site_type": "cave",
-    "entry_type": "shore",
-    "difficulty": "Beginner",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "dive.visitazores.com,portugaldive.com,scubadiving.com",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -115,9 +121,9 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
-    },
-    "depth_max": 30
+      "validation_source": "dive.visitazores.com,diveazores.net,diveworldwide.com",
+      "last_qa_date": "2026-05-17"
+    }
   },
   {
     "name": "Fradinhos",
@@ -125,7 +131,7 @@
     "lon": -27.22,
     "osm_id": null,
     "osm_type": null,
-    "depth": 40,
+    "depth": 60,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -133,7 +139,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "dive.visitazores.com,portugaldive.com,azoresgetaways.com",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -142,7 +149,7 @@
     "lon": -31.12,
     "osm_id": null,
     "osm_type": null,
-    "depth": 18,
+    "depth": 23,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -150,7 +157,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "dive.visitazores.com,turismo.azores.gov.pt,explorefloresisland.com",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -167,7 +175,8 @@
       "source": "curated",
       "addedBy": "gap_fill",
       "validated": "true",
-      "validation_source": "perplexity"
+      "validation_source": "wikipedia.org,dive.visitazores.com,ggarchives.com",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -181,7 +190,8 @@
     "tags": {
       "name": "Santa Iria",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -195,7 +205,8 @@
     "tags": {
       "name": "Bahia de Capelas",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -209,7 +220,8 @@
     "tags": {
       "name": "Lagoa",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -223,7 +235,8 @@
     "tags": {
       "name": "Rostro de Cao",
       "sport": "scuba_diving",
-      "source": "external_csv_import"
+      "source": "external_csv_import",
+      "last_qa_date": "2026-05-17"
     }
   }
 ]

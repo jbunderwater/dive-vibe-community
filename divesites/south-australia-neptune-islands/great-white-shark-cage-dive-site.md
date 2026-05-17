@@ -23,7 +23,7 @@ Great White Shark Cage Dive Site is the most accessible Neptune Islands diving e
 
 - **Location**: Main Bay or Action Bay, Neptune Islands, 40 nautical miles south of Port Lincoln, South Australia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Depth**: 2 meters (cage floats at surface)
 - **Typical Visibility**: 15-20 meters (50-65 feet)
@@ -33,7 +33,7 @@ Great White Shark Cage Dive Site is the most accessible Neptune Islands diving e
 
 ## Marine Life
 
-Great white sharks (males year-round, occasional large females April-August), Australian sea lions, long-nosed fur seals, cold-water fish species, seabirds.
+Great white sharks (males year-round, large females arriving approximately April–August), Australian sea lions, long-nosed fur seals. Surface cage participants primarily observe sharks and marine mammals from above; fish and seabed species visible to submerged cage divers are not accessible from the surface. Note: cuttlefish are not confirmed at Neptune Islands.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Open to all ages and swimming abilities. No diving certification needed. Entry v
 Surface cage diving prioritizes safety with secure cage construction, professional guide supervision, and no decompression or equalization requirements. Great whites are naturally cautious apex predators; cage encounters are conducted safely. Hypothermia risk in cold 14-22°C water — proper thermal protection essential. Seasickness risk on boat; bring anti-nausea medication if sensitive. Always verify operator licensing, safety records, and insurance before booking. Follow all operator briefing instructions.
 
 ---
-*Sources: [Rodney Fox Shark Expeditions - Neptune Islands](https://rodneyfox.com.au/great-white-shark-central/the-neptune-islands/), [Scuba Diving Magazine - Cage Diving Neptune Islands](https://www.scubadiving.com/cage-diving-with-great-white-sharks-in-neptune-islands-australia), [DAN Alert Diver - South Australia Great White Sharks](https://dan.org/alert-diver/article/south-australias-great-white-shark-adventure/), [SA Marine Parks Neptune Islands Group](https://www.marineparks.sa.gov.au/find-a-park/eyre-peninsula/neptune-islands), [Dive Worldwide South Australia](https://www.diveworldwide.com/locations/south-australia). Last updated 2026-04-04.*
+*Sources: [Rodney Fox Shark Expeditions](https://rodneyfox.com.au/great-white-shark-central/the-neptune-islands/), [Neptune Islands – Wikipedia](https://en.wikipedia.org/wiki/Neptune_Islands), [Marine Parks SA – Neptune Islands](https://www.marineparks.sa.gov.au/find-a-park/eyre-peninsula/neptune-islands), [DAN Alert Diver – South Australia Great White Sharks](https://dan.org/alert-diver/article/south-australias-great-white-shark-adventure/), [Wikivoyage – Shark cage diving at the Neptune Islands](https://en.wikivoyage.org/wiki/Diving_in_South_Australia/Shark_cage_diving_at_the_Neptune_Islands). Last updated 2026-05-17.*
