@@ -13,17 +13,17 @@ addedBy: osm_import
 
 # Lagoa
 
-A south coast dive site near the municipality of Lagoa on São Miguel — volcanic arches, caves, and sandy areas.
+A south coast dive site near the municipality of Lagoa on São Miguel — volcanic reef in the island's primary diving area.
 
 ## Overview
 
-Lagoa is located on the south coast of São Miguel near the municipality of Lagoa. The south coast is São Miguel's primary diving area, featuring volcanic rock formations, arches, caves, and sandy areas. Nearby documented sites include Arcos da Caloura (12–18m, cave swim-throughs) and Cozinha (18m, lava rock and sand mix). The south coast generally offers more sheltered conditions and better visibility than the north coast.
+Lagoa is located on the south coast of São Miguel near the municipality of Lagoa. The south coast is São Miguel's primary diving area, offering more sheltered conditions and generally better visibility than the north coast. The volcanic terrain features rocky reef, arches, and sandy patches. Nearby documented sites in this area include Arcos da Caloura (cave system, 18 m) to the east and various reef sites along the south coast.
 
 ## Site Information
 
-- **Location**: South coast, São Miguel, Azores
+- **Location**: South coast, São Miguel, Azores (Lagoa municipality)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10–25 meters
@@ -32,13 +32,13 @@ Lagoa is located on the south coast of São Miguel near the municipality of Lago
 
 ## Marine Life
 
-Groupers, wrasse, parrotfish, stingrays, chromis, combers, moray eels, octopus, and nudibranchs on the volcanic reef.
+No site-specific marine life records found for this named site. Typical south-coast Azorean reef species are expected — groupers, wrasse, parrotfish, stingrays, chromis, combers, moray eels, octopus, and nudibranchs. Regional species data should not be attributed specifically to this site.
 
 ## Tips and Recommendations
 
 - On São Miguel's more sheltered and diveable south coast
-- Near other established dive sites (Arcos da Caloura, Cozinha)
-- Volcanic geology creates arches and swim-throughs
+- Close to Arcos da Caloura cave system — can be combined as a dive trip
+- Volcanic geology typical of the Azores
 
 ---
-*Sources: [Dive Buddies 4 Life](https://divebuddies4life.com/portugal-the-azores-sao-miguel-island-from-underwater/), [Visit Azores Dive](https://dive.visitazores.com/en/islands/sao-miguel). Last updated 2026-04-10.*
+*Description based on general south-coast São Miguel diving characteristics. No site-specific dive sources found for this named site. Last updated 2026-05-17.*

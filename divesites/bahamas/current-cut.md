@@ -53,4 +53,4 @@ Drift dive by boat. The boat drops divers at one end and moves to the other end 
 The 10-knot current is unswimmable — once in, you must complete the drift. If you surface early, deploy your SMB immediately so the boat can locate you. Do not fight the current under any circumstances. Incoming tide conditions should be confirmed within the 20-minute window before any entry. This site is for Advanced certified divers with drift diving experience only.
 
 ---
-*Sources: [Eleuthera.me - Current Cut](https://eleuthera.me/currentcut.html), [Zentacle - Current Cut](https://www.zentacle.com/Beach/3565/current-cut), [Dive the World - Eleuthera](https://www.dive-the-world.com/diving-sites-bahamas-eleuthera.php). Last updated 2026-04-11.*
+*Sources: [Eleuthera.me - Current Cut](https://eleuthera.me/currentcut.html), [Zentacle - Current Cut](https://www.zentacle.com/Beach/3565/current-cut), [Dive the World - Eleuthera](https://www.dive-the-world.com/diving-sites-bahamas-eleuthera.php). Last updated 2026-05-17.*

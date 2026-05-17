@@ -24,7 +24,7 @@ The defining feature is common stingrays (*Dasyatis pastinaca*) that regularly u
 ## Site Information
 
 - **Location**: Ponta da Caveira, Flores Island, Azores
-- **Entry Type**: Boat dive (10 min from Santa Cruz Quay)
+- **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 23 meters

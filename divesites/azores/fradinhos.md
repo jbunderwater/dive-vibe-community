@@ -24,8 +24,8 @@ The site is known both for resident demersal species and for open-water pelagic 
 ## Site Information
 
 - **Location**: 5 NM southeast of Terceira Island, Azores
-- **Entry Type**: Boat dive (20 min from Angra do Heroísmo)
-- **Site Type**: Pinnacle/underwater volcanic cone
+- **Entry Type**: Boat dive
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 60 meters
 - **Typical Visibility**: 15–30 meters

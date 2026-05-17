@@ -24,7 +24,7 @@ Raised, repaired, and later renamed *Dori*, she operated as a Liberian cargo shi
 ## Site Information
 
 - **Location**: 800 m off Ponta Delgada, São Miguel, Azores
-- **Entry Type**: Boat dive (5 minutes from Ponta Delgada Marina)
+- **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 21 meters

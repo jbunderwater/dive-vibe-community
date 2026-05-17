@@ -24,7 +24,7 @@ The cave ceiling is covered with dozens of nudibranch species, making it one of 
 ## Site Information
 
 - **Location**: Caloura, south coast São Miguel, Azores
-- **Entry Type**: Boat dive (15 min from Vila Franca do Campo Marina)
+- **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters

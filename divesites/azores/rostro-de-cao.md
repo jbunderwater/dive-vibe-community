@@ -13,17 +13,17 @@ addedBy: osm_import
 
 # Rostro de Cao
 
-A volcanic rock formation on São Miguel's south coast near Ponta Delgada — shore diving off basalt formations.
+A small volcanic islet off São Miguel's south coast near São Roque — named for its dog-face rock profile above the waterline.
 
 ## Overview
 
-Rostro de Cão (Dog's Face) is a coastal rock formation and islet on the south coast of São Miguel near Ponta Delgada, named for a natural rock formation resembling a dog's face. The area features basalt rocky formations along the sea wall of São Roque, with shore access via a walkway onto lava rocks and stairs down to the sea. The volcanic underwater landscape is typical of the Azores south coast.
+Rostro de Cão (Dog's Face) is a coastal volcanic islet and rock formation on the south coast of São Miguel, located near São Roque between Ponta Delgada and Lagoa. The islet is named for a natural rock formation resembling a dog's face, visible from the coastline. The surrounding underwater terrain consists of basalt volcanic rock typical of the Azores south coast. The area is accessible by boat from Ponta Delgada.
 
 ## Site Information
 
-- **Location**: Near Ponta Delgada, south coast, São Miguel, Azores
+- **Location**: Near São Roque, south coast, São Miguel, Azores
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10–25 meters
@@ -32,14 +32,13 @@ Rostro de Cão (Dog's Face) is a coastal rock formation and islet on the south c
 
 ## Marine Life
 
-Regional Azorean marine life on the volcanic basalt reef. The south coast supports groupers, wrasse, octopus, and moray eels.
+No site-specific marine life records found. Typical south-coast Azorean reef species expected — groupers, wrasse, octopus, and moray eels on the volcanic basalt reef. Regional species data should not be attributed specifically to this site.
 
 ## Tips and Recommendations
 
-- Named for a rock formation that resembles a dog's face
-- Close to Ponta Delgada — convenient access
-- Shore entry via stairs onto lava rocks
-- Volcanic basalt underwater landscape
+- Named for the dog-face profile visible in the rock formation above water
+- Close to Ponta Delgada — easy day-trip access
+- Volcanic basalt underwater landscape typical of the Azores south coast
 
 ---
-*Sources: [TripAdvisor - Ilhéu Rosto de Cão](https://www.tripadvisor.com/Attraction_Review-g189135-d17566801-Reviews-Ilheu_Rosto_de_cao). *Primarily documented as a scenic landmark; limited dive-specific sources.* Last updated 2026-04-10.*
+*Description based on general south-coast São Miguel diving characteristics. No site-specific dive sources found for this site. Last updated 2026-05-17.*

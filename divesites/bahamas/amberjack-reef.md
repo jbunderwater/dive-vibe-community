@@ -52,4 +52,4 @@ Access is by boat only, typically as part of organised dive trips from Staniel C
 The Caribbean reef sharks present here are habituated to divers but remain wild animals. Do not corner, chase, or attempt to touch sharks. The Exuma Cays Land and Sea Park rules prohibit any interaction that disturbs marine life. Carry an SMB for your ascent.
 
 ---
-*Sources: [Uncommon Caribbean - Amberjack Reef](https://www.uncommoncaribbean.com/exuma/amberjack-reef-exuma/), [Zentacle - Amberjack Reef](https://www.zentacle.com/Beach/10024/amberjack-reef), [Dive the World - Exuma Cays](https://www.dive-the-world.com/diving-sites-bahamas-exuma-cays.php). Last updated 2026-04-11.*
+*Sources: [Uncommon Caribbean - Amberjack Reef](https://www.uncommoncaribbean.com/exuma/amberjack-reef-exuma/), [Zentacle - Amberjack Reef](https://www.zentacle.com/Beach/10024/amberjack-reef), [Dive the World - Exuma Cays](https://www.dive-the-world.com/diving-sites-bahamas-exuma-cays.php). Last updated 2026-05-17.*

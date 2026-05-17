@@ -24,8 +24,8 @@ The defining feature is massive schools of blue jack mackerel (*Trachurus pictur
 ## Site Information
 
 - **Location**: Pico–Faial Channel, 2 NM north of Madalena Islets, Azores
-- **Entry Type**: Boat dive (20 min from Porto da Madalena)
-- **Site Type**: Submerged rocky reef/shoal
+- **Entry Type**: Boat dive
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 55 meters
 - **Typical Visibility**: 20–40 meters

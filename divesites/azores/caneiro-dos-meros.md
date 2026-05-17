@@ -25,7 +25,7 @@ The dive follows several large lava ravines ('caneiros') with sandy patches at 1
 
 - **Location**: Corvo Island, Azores (3 min by boat from Vila do Corvo quay)
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive with lava ravines
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 45 meters
 - **Typical Visibility**: 15–30 meters

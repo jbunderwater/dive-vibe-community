@@ -27,7 +27,7 @@ The site is renowned for massive aggregations of mobula rays (*Mobula tarapacana
 - **Entry Type**: Boat dive
 - **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: ~35 meters at peak (sources vary 29–38 m); platform to 60 m
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 20–40 meters
 - **Current**: Moderate to strong
 - **Best Time**: July to September (mobula aggregations)

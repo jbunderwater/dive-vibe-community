@@ -27,7 +27,7 @@ An eruption in December 1720 briefly created an island — locally called 'Ilha 
 
 - **Location**: Between São Miguel and Terceira, ~37 NM from Terceira Island
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/seamount with active hydrothermal vents
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 60 meters
 - **Typical Visibility**: 30–50 meters (exceptional — fumarole bubbles enhance clarity)
