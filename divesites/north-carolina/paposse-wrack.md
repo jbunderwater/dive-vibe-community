@@ -29,7 +29,33 @@ The wreck known to divers as the "Papoose" is actually the W.E. Hutton, a 435-fo
 
 ## Marine Life
 
-The Papoose (W.E. Hutton) is one of North Carolina's premier sand tiger shark sites — large individuals circle the inverted hull's shadowed underside throughout the dive season. Gulf Stream proximity also brings impressive pelagic action: schools of amberjack and barracuda sweep the wreck's exterior, Atlantic spadefish form dense clouds above the hull, and loggerhead sea turtles and occasional manta rays are spotted in the blue water surrounding the site.
+Discovery Diving lists this wreck at 70 ft depth with typical visibility 30–40 ft and water temperature 76–82°F. The anchor, engine, rudder, and boilers are visible on the seabed and attract the inshore community of sheepshead, black sea bass, and amberjack typical of North Carolina wreck sites at this depth range.
+
+## Wreck History — IDENTITY DISPUTED / CORRECTED
+
+**Important note:** The wreck widely known to divers as the "Papoose" is now confirmed by NOAA to be the W.E. Hutton — a separate vessel. This is one of the most significant wreck misidentifications in US diving history.
+
+The confusion originated with a 1943 US Coast Guard Gentian survey that incorrectly assigned wreck identities in the Cape Lookout area. For decades, divers believed this site was the tanker SS Papoose. In 2008, working with local divers and avocational researchers, NOAA re-identified the wrecks. The sites originally labelled as Mirlo, Papoose, W.E. Hutton, and San Delfino were reassigned as San Delfino, W.E. Hutton, Ario, and Papoose respectively.
+
+**The actual W.E. Hutton:** A steel tanker built in 1920 (435 ft, 7,076 GRT), originally named Portola Plumas and later purchased by Pure Oil Steamship Company. On 19 March 1942 she was struck by two torpedoes from German U-124 while carrying 65,000 barrels of heating oil from Texas to Pennsylvania. Of 36 crew, 23 survived and 13 died. NOAA multibeam sonar surveys in 2016 confirmed the hull identity. The wreck lies in approximately 125 ft of water (per NOAA), though Discovery Diving lists the dive site at 70 ft — sources vary and the site appears to have partial relief rising significantly above the seafloor.
+
+**The actual Papoose:** A different tanker torpedoed by U-124 on 18 March 1942 (one day earlier), now confirmed to lie in approximately 200 ft of water northeast of Cape Hatteras — well beyond recreational diving limits.
+
+## Dive Profile
+
+Discovery Diving lists the site at 65–70 ft depth with 30–40 ft typical visibility. The wreck has limited relief with the anchor, engine, rudder, and boilers as the most prominent structures. This is a novice-to-intermediate site given the shallower depth compared to the deep offshore wrecks. The site lies approximately 13.8 miles from Beaufort Inlet.
+
+## Entry and Exit
+
+Charter access from Beaufort or Morehead City. Discovery Diving serves this site and lists it as a novice-intermediate dive. Approximately 13.8 miles from Beaufort Inlet — significantly closer inshore than the deep offshore wrecks.
+
+## Tips and Recommendations
+
+Understand before diving that the "Papoose" name is a historical misnomer — you are diving the W.E. Hutton. The site offers a good introduction to North Carolina wreck diving at a shallower, more accessible depth than the famous offshore sites. Discovery Diving offers good briefings on the site's corrected identity.
+
+## Safety Considerations
+
+The shallower depth (70 ft) makes this more forgiving than the deep offshore wrecks, though offshore North Carolina conditions still require appropriate planning and charter experience. Currents can run in the open water between Beaufort Inlet and the site.
 
 ---
-*Sources: [Scuba Diving Magazine - Top 10 Wreck Dives of North Carolina](https://www.scubadiving.com/photos/top-10-wreck-dives-north-carolina), [NC Archaeology - Heritage Dive Sites](https://archaeology.ncdcr.gov/programs/uab/heritagedivesites), [DiveIn - Scuba Diving in North Carolina](https://www.divein.com/diving/destination/diving-in-north-carolina/), [Evolution Underwater - North Carolina Top Ten Wreck Dives](https://www.evolutionunderwater.com/the-outer-limits---north-carolina-s-top-ten-wreck-dives), [Outer Banks Official Travel Guide - Diving](https://www.outerbanks.org/things-to-do/land-activities/water-sports/diving/), [NC Heritage Dive Sites](https://archaeology.ncdcr.gov/programs/uab/heritagedivesites), [Visit North Carolina - Graveyard of the Atlantic](https://www.visitnc.com/list/scuba-diving-graveyard-atlantic-and-north-carolina-coast), [NOAA Office of National Marine Sanctuaries](https://sanctuaries.noaa.gov/news/nov18/maritime-archaeologists-document-history-graveyard-of-the-atlantic-shipwrecks.html), [Discovery Diving of Beaufort NC](https://discoverydiving.com/), [Olympus Dive Center - NC Wreck Diving](https://www.olympusdiving.com/en/ship-wreck-diving). Last updated 2026-04-04.*
+*Sources: [NOAA Monitor Sanctuary — Papoose](https://monitor.noaa.gov/shipwrecks/papoose.html), [NOAA Monitor Sanctuary — W.E. Hutton](https://monitor.noaa.gov/shipwrecks/hutton.html), [Discovery Diving — Dive Sites](https://discoverydiving.com/diving/dive-sites), [Scuba Diver Life — Preserving W.E. Hutton](https://scubadiverlife.com/preserving-americas-underwater-battlefield-w-e-hutton/). Last updated 2026-05-17.*

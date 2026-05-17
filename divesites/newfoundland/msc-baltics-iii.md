@@ -27,9 +27,13 @@ The MSC Baltics III is a large cargo vessel that grounded on the northern coast 
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 
-## Marine Life
+## Current Status
 
-Once accessible, the wreck's steel surfaces will likely attract the cold-water species typical of Newfoundland's northern coast — Atlantic cod, cunner, sea ravens, and shorthorn sculpin among the encrusting invertebrates. Northern lobster, snow crab, sea urchins, and cold-water anemones are expected to colonise the hull over time, as they do on established wrecks throughout the region.
+The MSC Baltic III grounded on February 15, 2025, after losing power in severe winter weather near Wild Cove in the Bay of Islands, Newfoundland. All 20 crew members were rescued by Royal Canadian Air Force helicopter. As of 2026, an emergency safety exclusion zone remains in place around the wreck while salvage and environmental response operations continue. The vessel's hull has sustained significant structural damage from subsequent winter storms, with visible steel plate buckling on both sides and the stern section settling visibly lower. Resolve Marine, contracted by Mediterranean Shipping Company, is leading the removal effort; full removal is expected around summer 2027. **The site is not accessible for recreational diving and approaching within the exclusion zone is prohibited under Transport Canada marine notices.**
+
+## Safety Considerations
+
+This site is off-limits to recreational divers as of 2026. An active exclusion zone enforced by the Canadian Coast Guard prohibits approach. Monitor Transport Canada and Canadian Coast Guard advisories for any updates on exclusion zone status before considering any visit.
 
 ---
-*Sources: [Ocean Quest Adventures - Newfoundland Diving](https://oceanquestadventures.com/), [Scuba Diving Magazine - Diving Newfoundland and Eastern Canada](https://www.scubadiving.com/scuba-diving-newfoundland-and-eastern-canada), [East Coast Scuba - Dive Newfoundland](https://www.eastcoastscuba.com/dive-newfoundland), [Tech Dive Travels - Newfoundland Canada](https://techdivetravels.com/country-profile/newfoundland-canada/), [PADI - Diving in Newfoundland and Labrador](https://www.padi.com/diving-in/newfoundland-labrador/). Last updated 2026-04-04.*
+*Sources: [CBC News - MSC Baltic III removal contract](https://www.cbc.ca/news/canada/newfoundland-labrador/baltic-iii-removal-contract-9.7187035), [CBC News - One year later Baltic III](https://www.cbc.ca/news/canada/newfoundland-labrador/baltic-grounded-one-year-9.7088860), [gCaptain - Baltic III hull further compromised](https://gcaptain.com/grounded-msc-baltic-iiis-hull-further-compromised-after-winter-storms/), [Maritime Executive - Salvage Efforts Baltic III](https://maritime-executive.com/article/salvage-efforts-prepare-grounded-msc-baltic-iii-for-winter). Last updated 2026-05-17.*

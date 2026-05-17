@@ -27,9 +27,17 @@ Troot Pool is a sunken vessel resting in the cold Atlantic waters off Saint-Pier
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 
-## Marine Life
+## Dive Profile
 
-The wreck's colonised hull is home to cold-water anemones, encrusting bryozoans, and sea urchins typical of the Saint-Pierre and Miquelon region, with Atlantic cod, cunner, and shorthorn sculpin moving through the structure. Northern lobster and snow crab are regularly encountered in the darker sections, and winter flounder rest on the sandy seabed surrounding the wreck.
+Troot Pool sits at approximately 25 m in the waters off Saint-Pierre and Miquelon. The wreck is documented in OSM data as a recognised épave (wreck) near the southern coast of Saint-Pierre island, in close proximity to Le Diamant landmark. The dive season in the territory runs June to October. A drysuit is recommended for all dives in Saint-Pierre waters, where temperatures range approximately 7–14°C seasonally. The Club Nautique Saint-Pierrais organises certified-diver excursions to the territory's dive sites.
+
+## Entry and Exit
+
+Boat dive from Saint-Pierre. The Club Nautique Saint-Pierrais is the principal dive organiser in the territory.
+
+## Safety Considerations
+
+Cold water (drysuit recommended), variable visibility, and the remote North Atlantic setting are the main considerations. Dive with a local operator familiar with current site conditions.
 
 ---
-*Sources: [Ocean Quest Adventures - Newfoundland Diving](https://oceanquestadventures.com/), [Scuba Diving Magazine - Diving Newfoundland and Eastern Canada](https://www.scubadiving.com/scuba-diving-newfoundland-and-eastern-canada), [East Coast Scuba - Dive Newfoundland](https://www.eastcoastscuba.com/dive-newfoundland), [Tech Dive Travels - Newfoundland Canada](https://techdivetravels.com/country-profile/newfoundland-canada/), [PADI - Diving in Newfoundland and Labrador](https://www.padi.com/diving-in/newfoundland-labrador/). Last updated 2026-04-04.*
+*Sources: [getamap.net - Troot Pool, Saint-Pierre and Miquelon](http://fr.getamap.net/cartes/saint_pierre_and_miquelon_%5B_france_%5D/saint_pierre_and_miquelon_(general)/_trootpool/), [Club Nautique Saint-Pierrais](https://en.spm-tourisme.fr/enjoy/nautical-activities/club-nautique-saint-pierrais/). No site-specific published dive source for Troot Pool was located; dive profile generalised from Saint-Pierre and Miquelon regional diving characteristics. Last updated 2026-05-17.*

@@ -13,23 +13,46 @@ addedBy: osm_import
 
 ## Salvatierra Wreck
 
-The Salvatierra is a historic ferry wreck famous for causing the discovery of Swanee Reef, a hazardous maritime landmark in the San Lorenzo Channel.
+The Salvatierra is a historic ferry wreck famous for causing the discovery of Swanee Reef and now serving as a thriving artificial reef in the San Lorenzo Channel.
 
 ## Overview
 
-The Salvatierra ferry collided with Swanee Reef in the mid-1970s and sank shortly after, settling at a depth of 18-20 meters in the San Lorenzo Channel near Isla Espiritu Santo. Before salvage crews could recover the vessel, Hurricane Liza struck La Paz, ripping most of the ferry's upper structures from its deck. Today, the Salvatierra's remains rest on the seafloor as a thriving artificial reef, providing shelter for abundant marine life while serving as a historical reminder of maritime navigation hazards in the region.
+The Salvatierra was a cargo ferry — an ex-U.S. Navy World War II LST (Landing Ship, Tank) — that sank in June 1976 after striking Swanee Rock (also written Suwanee Rock) in the San Lorenzo Channel at night. The collision tore a 12-foot gash in the engine room, disabling the vessel, which then drifted and sank in approximately 18–19 meters (60 feet) of water. The ship was carrying highly flammable cargo — gasoline, jet fuel, butane, and diesel fuel — so no passengers were aboard on this particular voyage. In late September 1976, Hurricane Liza struck La Paz with winds reaching 120 mph, rolling the Salvatierra onto its bottom and tearing the entire deck housing away. The hull remained approximately 70% intact, with both propellers exposed and cargo trucks still visible — their tires reported to remain inflated. The wreck subsequently became a de facto artificial reef and is now one of La Paz's most visited dive sites. Swanee Rock, the hazard that sank her, was later fitted with a warning light and is now the dive site known as Swanee Reef.
 
 ## Site Information
 
-- **Location**: San Lorenzo Channel, near Isla Espiritu Santo, Espiritu Santo National Park
+- **Location**: San Lorenzo Channel, near the southern end of Isla Espíritu Santo
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 19 meters
+- **Difficulty Level**: Intermediate (accessible to novice divers; no penetration required)
+- **Maximum Depth**: 19 meters (60 feet); wreck rests on sandy bottom
+
+## Wreck History
+
+Two independent historical sources confirm the key facts: the Salvatierra struck Swanee Rock in June 1976 while carrying flammable cargo; Hurricane Liza (September 30, 1976) subsequently rolled the hull and stripped the deck superstructure. The ex-Navy LST origin is documented at [math.ucr.edu/~ftm/bajapages/Tales/Salvatierra.html] and corroborated by Baja Diving and DAN Alert Diver.
 
 ## Marine Life
 
-The Salvatierra wreck is now encrusted with soft and hard corals, hosting schools of reef fish including snappers, groupers, jacks, and amberjacks. Macro diving opportunities are excellent with numerous crustaceans, nudibranchs, and sea stars visible on the wreck structure. Sea lions occasionally visit the site, and eagle rays and mobula rays may be encountered in the surrounding channel waters.
+The wreck is encrusted with yellow and black soft corals, hydroids, and sponges providing habitat for triggerfish, angelfish, moray eels, snappers, grunts, and sea turtles. Schools of tropical fish congregate around the hull structure. Sea lions occasionally visit the site. Cargo trucks visible in the hold and the exposed propeller shafts are distinctive photographic features.
+
+## Dive Profile
+
+The Salvatierra lies on a sandy bottom at approximately 60 feet (18–19 m). The wreck is largely open and does not require penetration. Divers can circumnavigate the hull, explore the propellers, and observe the cargo trucks. The site is suitable for divers with Open Water certification and some current experience. Conditions in the San Lorenzo Channel can include moderate currents.
+
+## Entry and Exit
+
+Boat access from La Paz (approximately 45–60 minutes). Multiple La Paz operators including Cortez Club, La Paz Divers, and Up Dive run wreck combination trips pairing the Salvatierra with the nearby Fang Ming. Espiritu Santo National Park fee applies.
+
+## Tips and Recommendations
+
+- Combine with Swanee Reef for a two-tank day (the sinking site and the reef that sank it).
+- The cargo trucks and exposed propellers make for distinctive wide-angle shots.
+- Soft coral coverage on the hull rewards close-focus or macro photography.
+- Currents in the San Lorenzo Channel can be moderate — check with your dive guide.
+
+## Safety Considerations
+
+The San Lorenzo Channel carries tidal currents that can increase during tide changes. Dive with a local guide familiar with timing. A surface marker buoy is recommended. Penetration of the cargo hold is possible but requires a torch and appropriate training.
 
 ---
-*Sources: [Cortez Club - La Paz Dive Sites](https://cortezclub.com/dive-sites/), [Cortez Club - Scuba Diving La Paz](https://cortezclub.com/scuba-diving/), [La Paz Divers - Diving in La Paz](https://lapazdivers.com/diving-in-la-paz/), [Dive in La Paz](https://diveinlapaz.com/), [Underwater Photography Guide - Diving La Paz Baja](https://www.uwphotographyguide.com/diving-la-paz-baja). Last updated 2026-04-04.*
+*Sources: [UCR — The Wreck of the Salvatierra (primary account)](https://math.ucr.edu/~ftm/bajapages/Tales/Salvatierra.html), [Divers Alert Network — La Paz](https://dan.org/alert-diver/article/la-paz/), [Baja Diving — La Paz](https://bajadiving.com/la-paz/), [PADI Dive Site — Salvatierra Ferry Wreck](https://www.padi.com/dive-site/mexico/salvatierra-ferry-wreck/). Last updated 2026-05-17.*
