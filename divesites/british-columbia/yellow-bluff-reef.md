@@ -27,5 +27,25 @@ Yellow Bluff Reef sits in the waters between the southern BC Gulf Islands and Wa
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 30 meters
 
+## Marine Life
+
+The Salish Sea wall and reef habitats in the southern Gulf Islands support lingcod, multiple rockfish species (quillback, copper, tiger, china), cabezon, giant Pacific octopus, and wolf eels in crevices. Plumose anemones, encrusting sponges, nudibranchs, feather stars, and sea stars colonise the current-flushed rock face. Harbour seals are commonly encountered. The area occasionally sees sixgill sharks in deeper water.
+
+## Dive Profile
+
+Boat dive on a wall structure descending to 30 m in the waters between the southern BC Gulf Islands and the US San Juan Islands. The passage-influenced environment keeps the water cold and nutrient-rich. The wall face hosts the greatest density of invertebrate life; the base grades into sandy/rocky bottom.
+
+## Entry and Exit
+
+Boat dive only. Access from operators in Victoria, Sidney, or the southern Gulf Islands area. Currents through the boundary passes and channels in this area can be strong — timing to slack is important.
+
+## Tips and Recommendations
+
+This region of the Salish Sea is influenced by both Haro Strait and Juan de Fuca Strait tidal flows, with passages that can run several knots. Dive at confirmed slack. Visibility is typically best fall through winter. Water temperature 8–12 °C year-round; drysuit required. Surface marker buoy essential on ascent.
+
+## Safety Considerations
+
+Tidal currents through the southern Gulf Islands passages can be dangerous outside of slack. Assess current tables carefully and have a local operator who knows the site. Cold water (8–12 °C) requires a drysuit. Advanced rating is appropriate given the depth and current potential.
+
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [X-Ray Mag — Southern Gulf Islands](https://xray-mag.com/content/british-columbias-southern-gulf-islands), [Rockfish Divers — Southern Gulf Islands](https://www.rockfishdivers.com/southern-gulf-islands.html), [Gulf Islands National Park — Diving](https://www.gulfislandsnationalpark.com/recreation/diving/). Last updated 2026-05-17.*

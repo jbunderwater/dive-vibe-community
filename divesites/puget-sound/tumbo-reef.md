@@ -21,12 +21,32 @@ Tumbo Reef is a rocky reef dive site located in the San Juan Islands area of nor
 
 ## Site Information
 
-- **Location**: San Juan Islands, Northern Puget Sound, Washington
+- **Location**: Off Tumbo Island, near Saturna Island, British Columbia (approximately 48°48'N, 123°03'W) — Canadian Gulf Islands side of the US–Canada border
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Rocky reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 21 meters
-- **Water Temperature**: 45-55°F (8-13°C)
+- **Water Temperature**: 8–13°C year-round
+
+## Marine Life
+
+Tumbo Reef sits in the strong tidal flows of Tumbo Channel between Tumbo Island and Saturna Island, generating the nutrient upwelling that drives the Salish Sea's characteristic invertebrate productivity. Lingcod are the apex fish predators here, with large individuals reported. Pacific spiny dogfish are frequently encountered. Plumose anemones and sea stars cover the reef structure, and bull kelp is present in shallower sections. Wolf eels use rock crevices as dens, and giant Pacific octopus are found in the boulder fields. The reefs and kelp beds at this end of Saturna Island are also a productive area for seabirds that exploit the churned-up feed from tidal currents.
+
+## Dive Profile
+
+Maximum depth 21 metres. Rocky reef structure descending gradually from the island chain into deeper water. Bull kelp fronds in shallower zones (5–10 m) require careful finning to avoid entanglement. Strong tidal currents in Tumbo Channel demand precise slack-water timing — both ebb and flood rip eastward through the channel. Drysuit essential.
+
+## Entry and Exit
+
+Boat access required from Canadian waters. Tumbo Island is part of Gulf Islands National Park Reserve administered by Parks Canada — moor at established buoys in Reef Harbour where available. Confirm current Canadian National Parks regulations for diving in protected areas.
+
+## Tips and Recommendations
+
+Dive within 30 minutes of slack water in Tumbo Channel — currents can run fast enough to make swimming impossible. The north side of the reef is productive but more exposed to current. Fall and winter typically offer better visibility than summer plankton months. Note: the site is in Canadian waters and Canadian regulations apply.
+
+## Safety Considerations
+
+Strong tidal currents — this is the primary hazard. Plan exclusively around slack water. Drysuit mandatory. SMB essential. Divers crossing the US–Canada maritime boundary should be aware of border regulations for private vessels.
 
 ---
-*Sources: [Washington Dept of Fish & Wildlife - Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [PNW Scuba - Pacific Northwest Dive Site Maps](https://www.pnwscuba.com/Pacific-Northwest-Dive-Sites/Maps), [Emerald Diving - Puget Sound Dive Sites](https://www.emeralddiving.com/local_sites_jf.html), [Scuba Diving Magazine - Seattle & Puget Sound](https://www.scubadiving.com/drive-and-dive-seattle-puget-sound), [UnderSea Adventures - Puget Sound Diving Charters](https://www.underseaadventures.net/puget-sound.htm). Last updated 2026-04-04.*
+*Sources: [Wikidata — Tumbo Reef (Q22541770)](https://www.wikidata.org/wiki/Q22541770), [Fishbrain — Tumbo Reef fishing reports, British Columbia](https://fishbrain.com/fishing-waters/NLtau8CI/tumbo-reef), [Gulf Islands National Park Reserve — Wikipedia](https://en.wikipedia.org/wiki/Gulf_Islands_National_Park_Reserve). Note: Tumbo Reef is in British Columbia, Canada, not in US Puget Sound waters — it is included in the Puget Sound destination as it sits on the international border near the San Juan Islands. Last updated 2026-05-17.*

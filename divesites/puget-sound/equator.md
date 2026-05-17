@@ -23,9 +23,15 @@ The Equator is a 1888-built pygmy schooner that served as a coconut trading vess
 
 - **Location**: Everett, Washington Waterfront (NOT a dive site)
 - **Entry Type**: Shore entry
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck (land-preserved historic vessel)
 - **Difficulty Level**: Beginner
-- **Status**: Not a dive site - preserved on land
+- **Status**: Not a dive site — preserved on land at Everett waterfront
+
+## Wreck History
+
+The schooner *Equator* was built in San Francisco in 1888 as a two-masted trading vessel. In 1889 author Robert Louis Stevenson chartered her for a voyage through Micronesia, an experience that formed the basis of his travel book *In the South Seas* (1896) and influenced *The Wrecker* (1892). The vessel subsequently worked as a wire drag survey ship for the U.S. Coast and Geodetic Survey and later as a Puget Sound tugboat. She was abandoned in 1956 on Jetty Island outside Everett. In 1967 volunteers hauled the deteriorating hull ashore and placed it in dry dock. The vessel was listed on the National Register of Historic Places in 1972. Ongoing deterioration — the stern collapsed in 2017 — led the Port of Everett to enclose the vessel in a protective shelter, and by 2023 the Port had taken custody and begun controlled dismantlement, with timbers reserved for public art and an interpretive exhibit.
+
+**The Equator is not a dive site.** The OSM node at these coordinates reflects the vessel's land location on the Everett waterfront, not a submerged wreck.
 
 ---
-*Sources: [Washington Dept of Fish & Wildlife - Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [PNW Scuba - Pacific Northwest Dive Site Maps](https://www.pnwscuba.com/Pacific-Northwest-Dive-Sites/Maps), [Emerald Diving - Puget Sound Dive Sites](https://www.emeralddiving.com/local_sites_jf.html), [Scuba Diving Magazine - Seattle & Puget Sound](https://www.scubadiving.com/drive-and-dive-seattle-puget-sound), [UnderSea Adventures - Puget Sound Diving Charters](https://www.underseaadventures.net/puget-sound.htm). Last updated 2026-04-04.*
+*Sources: [Wikipedia — Equator (schooner)](https://en.wikipedia.org/wiki/Equator_(schooner)), [Port of Everett — Equator partnership announcement](https://www.portofeverett.com/news_detail_T31_R1614.php), [Historic Everett Waterfront — The Equator](http://www.historiceverettwaterfront.com/waterfront-special-features/the-equator). Last updated 2026-05-17.*

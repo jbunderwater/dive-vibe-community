@@ -27,5 +27,25 @@ Palliser Rock is a rocky reef in the Sunshine Coast region near Jervis Inlet, wh
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 
+## Marine Life
+
+Palliser Rock is fed by the nutrient-rich convergence of Jervis Inlet and its tributary waterways, sustaining dense sessile invertebrate communities. Plumose anemones and cloud sponge clusters colonise the deeper rock formations. Sea urchins, nudibranchs, and colourful encrusting invertebrates are abundant across shallower surfaces. Giant Pacific octopus den reliably in the rock formations. Wolf eels are known residents in the deeper sections. Lingcod and rockfish (China, copper, quillback) patrol crevices and ledges throughout.
+
+## Dive Profile
+
+The reef descends to around 18 metres on rocky terrain typical of Jervis Inlet and Agamemnon Channel dive sites. Current-fed conditions maintain good visibility and a steady food supply for filter feeders. The Sunshine Coast's upper reaches — including sites accessible from Egmont at the entrance to Jervis Inlet — feature deep walls and excellent cold-water biodiversity; Palliser Rock shares this biological richness at a shallower, more accessible depth profile.
+
+## Entry and Exit
+
+Boat access only from Egmont or Sechelt Inlet-area launch points. The Jervis Inlet area is most commonly dived from Egmont, where local dive operators have intimate knowledge of tidal timing and site conditions.
+
+## Tips and Recommendations
+
+Dive around slack water — Jervis Inlet and Agamemnon Channel experience genuine tidal flow and conditions become uncomfortable when currents are running. The Sunshine Coast's exceptional cold-water visibility peaks in winter; summer brings more comfortable temperatures but reduced clarity. Connect with Egmont-based dive operators for current access information and tidal guidance.
+
+## Safety Considerations
+
+Cold water (7–10°C) requires a dry suit. Tidal currents in Jervis Inlet and adjacent channels can be strong, particularly around Skookumchuck Narrows at the inlet entrance — timing is critical. Carry a surface marker buoy. Boat traffic in the inlet warrants attention on ascent.
+
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [Diving on Sunshine — DAN Alert Diver](https://dan.org/alert-diver/article/diving-on-sunshine/), [British Columbia's Sunshine Coast — X-Ray Mag](https://xray-mag.com/content/british-columbias-sunshine-coast), [Scuba Diving Sunshine Coast — Sunshine Coast Tourism](https://www.sunshinecoastcanada.com/things-to-do/outdoor-activities/scuba-diving/). Last updated 2026-05-17.*

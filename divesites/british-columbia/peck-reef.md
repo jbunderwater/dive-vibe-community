@@ -27,5 +27,25 @@ Peck Reef is a rocky reef in the southern Gulf Islands between Salt Spring Islan
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 
+## Marine Life
+
+Peck Reef's current-fed structure supports the dense invertebrate communities characteristic of tidally active southern Gulf Islands sites. Plumose anemones dominate the upper surfaces, supplemented by encrusting sponges, decorator crabs, nudibranchs, and shrimp. Lingcod and multiple rockfish species hold on prominent outcrops. Giant Pacific octopus den in the deeper crevices. The shallower sections near the reef's crown receive the most nutrients and light, supporting the densest marine growth.
+
+## Dive Profile
+
+The reef peaks in the shallows and descends to 18 metres, with the main biological interest concentrated in the mid-range depths where current and ambient light overlap. Tidal flow through the nearby passages — Sansum Narrows and Active Pass are the primary current drivers in this part of the southern Gulf Islands — delivers nutrients and maintains visibility. Winter months offer the clearest water.
+
+## Entry and Exit
+
+Boat access only. Launch from Salt Spring Island or the Saanich Peninsula. Coordinate with local operators who know the specific tidal timing for this reef's location.
+
+## Tips and Recommendations
+
+Plan the dive around slack tide. The shallower sections reward methodical searching for nudibranchs and decorator crabs. A safety sausage/SMB is essential for ascent. This is typical Gulf Islands reef diving — rewarding when timed right, challenging when the current is running.
+
+## Safety Considerations
+
+Cold water (7–10°C) demands a dry suit. Tidal currents are the primary hazard; confirm the slack window using local tidal predictions. A live boat above is strongly recommended. Carry a surface marker buoy.
+
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [Diving — Salt Spring Island Tourism](https://saltspringisland.com/things-to-do-and-see/outdoor-adventure/diving/), [Gulf Islands Diving — Gulf Islands Guide](https://www.gulfislandsguide.com/activities-and-recreation/diving/), [Diving Coastal BC — X-Ray Mag](https://xray-mag.com/content/diving-coastal-british-columbia). Last updated 2026-05-17.*

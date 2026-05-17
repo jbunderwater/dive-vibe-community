@@ -27,5 +27,29 @@ Tozier Rock is a submerged rocky reef in the southern Gulf Islands near the Saan
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 
+## Marine Life
+
+Tozier Rock is listed among the established boat dive sites in Saanich Inlet, which is known for excellent cold-water diving year-round. Saanich Inlet boat dive sites in this depth range support plumose anemones, encrusting sponges, nudibranchs, sea stars, and diverse rockfish communities. Lingcod hold station on rocky structures. Giant Pacific octopus are regularly found in the rocky terrain. Harbour seals are common throughout the Gulf Islands / Saanich Peninsula waters. The southern Gulf Islands channel system concentrates marine life by funnelling nutrients through tidal flows.
+
+## Dive Profile
+
+Rocky reef to 18 metres in Saanich Inlet / southern Gulf Islands, one of the most productive cold-water diving zones on southern Vancouver Island. Saanich Inlet boat dives are noted for "crystal clear visibility" during winter months. The channel geometry of the southern Gulf Islands creates tidal flow that concentrates food and sustains dense invertebrate communities on rocky substrates. The site coordinates (48.62°N, 123.51°W) place it between the Saanich Peninsula and the southern Gulf Islands.
+
+## Entry and Exit
+
+Boat-only access. DIVE BC identifies Tozier Rock as a Saanich Inlet boat dive alongside Repulse Rock, McCurdy Point, and Senanus Island. Charter operators from Sidney, Brentwood Bay, and Victoria serve this area. No shore access.
+
+## Safety Considerations
+
+- Tidal currents through Gulf Islands channels can be strong; dive at slack water.
+- Cold water (7–12°C) year-round; drysuit recommended.
+- Plan boat access in advance; no facilities at the site.
+
+## Tips and Recommendations
+
+- Winter (November–February) offers the clearest visibility in Saanich Inlet.
+- Combine Tozier Rock with other nearby Saanich Inlet boat dives for a full day on the water.
+- Use local Victoria or Sidney dive charter operators for precise navigation to this site.
+
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [DIVE BC — Saanich Inlet Dive Sites](http://www.dive.bc.ca/guide/sect_iii.html), [Top Ten Dive Sites Greater Victoria — Rockfish Divers](https://www.rockfishdivers.com/blog/top-ten-dive-sites-in-the-greater-victoria-area). Last updated 2026-05-17.*

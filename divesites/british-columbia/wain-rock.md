@@ -27,5 +27,25 @@ Wain Rock is a rocky reef dive site in the southern Gulf Islands near Sidney and
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 
+## Marine Life
+
+The southern Gulf Islands channels are well-documented for rockfish diversity — copper, quillback, tiger, china, yellowtail, and blue rockfish are all present in this region. Lingcod, cabezon, kelp greenlings, and giant Pacific octopus occupy the rocky structure. Plumose anemones and encrusting sponges colonise current-swept faces; nudibranchs, sea stars, and hermit crabs are common throughout. Harbour seals regularly patrol these channels.
+
+## Dive Profile
+
+Boat dive at 18 m maximum on a rocky reef in the tidal channels between Vancouver Island and the southern Gulf Islands near Sidney. The Strait of Georgia and Haro Strait tidal system keeps water nutrient-rich and productive. Moderate to strong currents are a feature of this area, limiting diving to slack tide windows.
+
+## Entry and Exit
+
+Boat dive only. Sidney-area charter operators (Frank White's Dive Store, Rockfish Divers) provide regular access to boat dive sites throughout the Saanich Peninsula and southern Gulf Islands. Live-boat is standard. Timing to slack water is essential.
+
+## Tips and Recommendations
+
+The Saanich Peninsula and southern Gulf Islands area offers numerous boat dive sites of similar character; combining Wain Rock with a second site is standard practice on day charters. Visibility is typically best in fall and winter (10–20 m). Water temperature 8–12 °C; drysuit required.
+
+## Safety Considerations
+
+Tidal currents through the southern Gulf Islands channels can run several knots at peak flow. Dive only at slack water, and assess actual current conditions before entering. Cold water (8–12 °C) demands a drysuit. Surface marker buoy on ascent.
+
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [DIVE BC — Southern Gulf Islands](http://dive.bc.ca/guide/sect_iv.html), [Frank White's Dive Store — Charters](https://frankwhites.com/products/scuba-diving-charters), [X-Ray Mag — Southern Gulf Islands](https://xray-mag.com/content/british-columbias-southern-gulf-islands). Last updated 2026-05-17.*

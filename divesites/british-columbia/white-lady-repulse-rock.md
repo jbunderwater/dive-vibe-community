@@ -27,5 +27,25 @@ White Lady, also known as Repulse Rock, is a reef and rock dive site in the Haro
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 
+## Marine Life
+
+White Lady / Repulse Rock is noted for regular harbour seal encounters — seals here are described as playful. The rocky structure supports rockfish, lingcod, giant Pacific octopus, nudibranchs, sea stars, and plumose anemones typical of Saanich Inlet and Haro Strait channel diving. Cloud sponges have been documented at the site, though downrigger damage to sponge colonies has been reported by local divers. Current-swept rock faces show encrusting invertebrate growth.
+
+## Dive Profile
+
+Boat dive at 18 m maximum on a submerged rock in the Haro Strait/Saanich Inlet transition zone. A mooring buoy is in place for boat tie-off. Tidal currents through Haro Strait can be moderate to strong; the site is best dived at slack. Visibility in the area averages 6–9 m but can reach 18–21 m in cleaner water conditions.
+
+## Entry and Exit
+
+Boat dive only, mooring buoy available. Charter operators depart from Sidney (Tulista Park Boat Ramp) and the Saanich Peninsula. The site is included on regular charter itineraries alongside other Saanich Inlet and southern Gulf Islands sites.
+
+## Tips and Recommendations
+
+Cloud sponges at this site are at risk from boat anchor downriggers — do not touch or fin near any sponge colonies, and ensure the boat is tied to the mooring buoy rather than anchoring. Visit at slack water for the calmest conditions. Combined with other Saanich Inlet sites on a day charter, this is a productive outing for rockfish and seal encounters.
+
+## Safety Considerations
+
+Haro Strait currents can be significant at peak tidal flow. Dive at slack and monitor conditions. Cold water (8–12 °C); drysuit required. Cloud sponge fragility is both an ecological and a legal concern in BC — no-touch protocol applies.
+
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [ScubaBoard — Saanich Inlet Sites](https://scubaboard.com/community/threads/saanich-inlet-sites-w-buoys.223982/), [DIVE BC — Saanich Inlet](http://www.dive.bc.ca/guide/sect_iii.html), [Rockfish Divers — Charters](https://www.rockfishdivers.com/charters-805995-404646-553944.html). Last updated 2026-05-17.*

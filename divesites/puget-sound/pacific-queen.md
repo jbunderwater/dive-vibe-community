@@ -21,12 +21,18 @@ The MV Pacific Queen was a large wooden-hulled refrigerated vessel built during 
 
 ## Site Information
 
-- **Location**: North of Picnic Point, Edmonds, Washington (private beach)
+- **Location**: North of Picnic Point, Edmonds, Washington (private beach — NOT a dive site)
 - **Entry Type**: Shore entry
-- **Site Type**: Wreck dive
+- **Site Type**: Wreck (beached, not submerged)
 - **Difficulty Level**: Beginner
-- **Status**: Not a dive site - on private property
-- **Notes**: Visible from public viewing area at Picnic Point Park
+- **Status**: Not a dive site — beached on private property
+- **Notes**: Visible from Picnic Point Park at low tide approximately 800 yards north
+
+## Wreck History
+
+The MV Pacific Queen (official number 257731) was originally built in 1942–1943 as USS *Weight* (ARS-35), a U.S. Navy Auxiliary Rescue and Salvage vessel, one of eight of her type constructed during the war. After the war she was sold and rebuilt by Puget Sound Boat Building Corporation (1947–1949) as a refrigerated fish packer named *Pacific Queen*, transporting and processing salmon from Alaska to Puget Sound ports. On September 17, 1957, she sank at Tacoma's Old Town Dock following a gasoline explosion and fire originating under the afterdeck. Salvors raised the hull in 1958, stripped it of heavy equipment and steel superstructure, and then at the Coast Guard's request beached the 173-foot wooden hulk on Franzen Beach north of Picnic Point.
+
+**The Pacific Queen is not a dive site.** The hull sits on private property above or near the waterline. Property owners have posted No Trespassing signs and access from the beach is not permitted.
 
 ---
-*Sources: [Washington Dept of Fish & Wildlife - Puget Sound Dive Sites](https://wdfw.wa.gov/publications/00978), [PNW Scuba - Pacific Northwest Dive Site Maps](https://www.pnwscuba.com/Pacific-Northwest-Dive-Sites/Maps), [Emerald Diving - Puget Sound Dive Sites](https://www.emeralddiving.com/local_sites_jf.html), [Scuba Diving Magazine - Seattle & Puget Sound](https://www.scubadiving.com/drive-and-dive-seattle-puget-sound), [UnderSea Adventures - Puget Sound Diving Charters](https://www.underseaadventures.net/puget-sound.htm). Last updated 2026-04-04.*
+*Sources: [PSMHS Inside Passage — Picnic Point Mystery Revisited](http://psmhsinsidepassage.blogspot.com/2015/08/picnic-point-mystery-revisited.html), [PSMHS Inside Passage — Picnic Point Mystery Vessel](http://psmhsinsidepassage.blogspot.com/2015/02/picnic-point-mystery-vessel.html), [Virtual Globetrotting — MV Pacific Queen Mukilteo](https://virtualglobetrotting.com/map/mukilteo-shipwreck/). Last updated 2026-05-17.*

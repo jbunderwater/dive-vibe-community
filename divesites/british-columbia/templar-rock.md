@@ -27,5 +27,28 @@ Templar Rock is a rocky reef in the southern Strait of Juan de Fuca near Victori
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 
+## Marine Life
+
+Rocky reef sites in the southern Strait of Juan de Fuca near Victoria support plumose anemones, brooding anemones (*Epiactis prolifera*), encrusting sponges, and hydrocorals — cold-water filter-feeding communities sustained by tidal mixing at this junction of the Strait of Georgia and the open Pacific. Lingcod are the dominant large predator on rocky structure at this depth. Quillback rockfish and kelp greenlings are common mid-water fish. Giant Pacific octopus regularly inhabit crevices in rocky reef substrates in this area. Nudibranchs and solitary cup corals (*Balanophyllia elegans*) appear on shaded rock faces. Harbour seals are commonly encountered throughout southern Vancouver Island waters.
+
+## Dive Profile
+
+Rocky reef to 18 metres in the southern Juan de Fuca area. The Juan de Fuca Strait experiences significant tidal exchange between the Pacific and the Strait of Georgia, making tidal timing important for comfortable diving. Visibility is typically good in late autumn through winter. No specific dive profile data for this site was found in available sources; the site characteristics described reflect the documented conditions of the southern Victoria reef zone.
+
+## Entry and Exit
+
+Boat-only access. Charter operators from Victoria serve southern Strait of Juan de Fuca reef sites. The site's position (48.41°N, 123.33°W) places it in the outer southern approaches to the Gulf Islands near Victoria.
+
+## Safety Considerations
+
+- Tidal currents from the Strait of Juan de Fuca can be strong; dive around predicted slack water.
+- Cold water (7–11°C) year-round; drysuit required.
+- Remote boat site — maintain surface watch and carry SMB for ascent.
+
+## Tips and Recommendations
+
+- Best combined with other southern Juan de Fuca reef dives on a chartered day trip from Victoria.
+- Autumn and winter offer peak visibility; spring plankton blooms can significantly reduce clarity.
+
 ---
-*Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*
+*Sources: [Victoria BC — Scuba Diving Magazine](https://www.scubadiving.com/travel/canada/victoria-bc), [British Columbia's Southern Gulf Islands — X-Ray Mag](https://xray-mag.com/content/british-columbias-southern-gulf-islands), [Friends of Ecological Reserves — Juan de Fuca Marine Park species](https://ecoreserves.bc.ca/1975/05/30/the-intertidal-and-subtidal-macroflora-and-macrofauna-in-the-proposed-juan-de-fuca-national-marine-park-near-victoria-bc/). Last updated 2026-05-17.*
