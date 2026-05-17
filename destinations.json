@@ -1625,6 +1625,28 @@
     "parentSlug": "tanzania"
   },
   {
+    "name": "Réunion",
+    "slug": "reunion",
+    "region": "Africa",
+    "center": [
+      -21.115,
+      55.536
+    ],
+    "bounds": [
+      [
+        -21.4,
+        55.2
+      ],
+      [
+        -20.85,
+        55.85
+      ]
+    ],
+    "description": "Volcanic Indian Ocean island with sheltered west-coast reefs, lagoon snorkeling, and seasonal humpback whale encounters.",
+    "overviewFile": "overview.md",
+    "countryCode": "RE"
+  },
+  {
     "name": "Canada",
     "slug": "canada",
     "region": "North America",
