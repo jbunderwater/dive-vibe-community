@@ -5746,20 +5746,6 @@
     }
   },
   {
-    "name": "Beacon Rock (2)",
-    "lat": 27.7094049,
-    "lon": 34.1228485,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
-    "tags": {
-      "source": "community_contribution",
-      "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
-    }
-  },
-  {
     "name": "Swiss Inn House Reef",
     "lat": 28.4791456,
     "lon": 34.4936961,
@@ -6827,20 +6813,6 @@
     "name": "Turtle reef",
     "lat": 29.6308889,
     "lon": 32.387,
-    "depth": null,
-    "site_type": "",
-    "entry_type": "",
-    "difficulty": "",
-    "tags": {
-      "source": "community_contribution",
-      "addedBy": "JaiBar",
-      "contribution_ref": "github_issue_52"
-    }
-  },
-  {
-    "name": "ELPHINSTON",
-    "lat": 25.30424,
-    "lon": 34.861574,
     "depth": null,
     "site_type": "",
     "entry_type": "",

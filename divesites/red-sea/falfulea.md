@@ -26,7 +26,7 @@ The El Quseir coastline offers varied diving: coral-covered pinnacles on sandy s
 ## Site Information
 
 - **Location**: El Quseir area, central Red Sea coast
-- **Entry Type**: Shore or boat dive
+- **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: ~25 m

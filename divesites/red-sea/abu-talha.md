@@ -26,7 +26,7 @@ The northern Red Sea fringing reefs at this latitude feature hard coral gardens,
 ## Site Information
 
 - **Location**: ~30–40 km south of Hurghada / Safaga area, northern Red Sea
-- **Entry Type**: Boat or shore dive
+- **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: ~25 m

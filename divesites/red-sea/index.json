@@ -3648,18 +3648,6 @@
     "osmId": null
   },
   {
-    "name": "Beacon Rock (2)",
-    "filename": "beacon-rock-2.md",
-    "lat": 27.7094049,
-    "lng": 34.1228485,
-    "difficulty": "Intermediate",
-    "maxDepth": 25,
-    "entryType": "shore",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": null
-  },
-  {
     "name": "Swiss Inn House Reef",
     "filename": "swiss-inn-house-reef.md",
     "lat": 28.4791456,
@@ -4576,18 +4564,6 @@
     "filename": "turtle-reef.md",
     "lat": 29.6308889,
     "lng": 32.387,
-    "difficulty": "Intermediate",
-    "maxDepth": 25,
-    "entryType": "shore",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": null
-  },
-  {
-    "name": "ELPHINSTON",
-    "filename": "elphinston.md",
-    "lat": 25.30424,
-    "lng": 34.861574,
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "shore",
