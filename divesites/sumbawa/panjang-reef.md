@@ -13,19 +13,29 @@ addedBy: osm_import
 
 ## Panjang Reef
 
-Panjang Reef is a reef dive site in Sumbawa, Asia.
+Panjang Reef is a submerged reef lying approximately 1 km off the northwest corner of Moyo Island, directly in front of a small coastal fishing village. It is one of the main dive sites for the Moyo Island area and is notable for its biodiversity and a rare Indo-Pacific resident.
 
 ## Overview
 
-No site-specific dive sources have been validated for this entry yet — marine life, typical dive profile, currents, visibility, and photography conditions are not documented.
+Panjang is a banked, colourful reef sitting in shallow water north of Angel Reef. Common residents include bicolour angelfish, six-banded angelfish, yellow-bellied damsels, and harlequin sweetlips. The reef is perhaps best known as one of the few sites in Indonesia where patient, observant divers may encounter the blue-ringed octopus — its bright yellow colouration and distinctive blue rings are striking, though the animal is thumbnail-sized and its bite carries potent venom. Divers should never handle it. Depths to 30 m suit beginners and less experienced divers, and the site serves as a good check-out or first dive of the day. Visibility reaches 15–35 m in good conditions. Currents are occasional.
 
 ## Site Information
 
-- **Location**: Sumbawa, Asia
+- **Location**: Northwest corner of Moyo Island, Sumbawa
 - **Entry Type**: Boat dive
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 30 meters
+- **Maximum Depth**: 30 metres
+- **Visibility**: 15–35 metres
+- **Best Season**: April–November
+
+## Marine Life
+
+Bicolour angelfish, six-banded angelfish, yellow-bellied damsels, harlequin sweetlips, blue-ringed octopus (rare — do not touch).
+
+## Safety Note
+
+The blue-ringed octopus is highly toxic — its venom is not treated by antivenom and can cause respiratory paralysis. Never touch or provoke one. Observation only.
 
 ---
-*Sources: [Dive The World - Sumbawa](https://www.dive-the-world.com/diving-sites-indonesia-sumbawa.php), [Liveaboard Indonesia - Sumbawa](https://liveaboardindonesia.com/destinations/sumbawa/), [Asia Dive Site - Sumbawa](https://www.asiadivesite.com/indonesia-dive-sites/sumbawa/moyo-island.php), [Roctopus Dive Moyo Island](https://roctopusdivemoyoisland.com/moyo-island/), [Master Liveaboards - Sangeang Volcano](https://masterliveaboards.com/hot-rocks-sangeang-volcano-diving/). Last updated 2026-04-04.*
+*Sources: [Dive The World - Sumbawa](https://www.dive-the-world.com/diving-sites-indonesia-sumbawa.php), [Asia Dive Site - Moyo Island](http://www.asiadivesite.com/indonesia-dive-sites/sumbawa/moyo-island.php). Last updated 2026-05-17.*

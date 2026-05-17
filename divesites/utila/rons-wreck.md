@@ -13,23 +13,37 @@ addedBy: osm_import
 
 ## Ron's Wreck
 
-Ron's Wreck is a historic wreck dive in Utila, Caribbean.
+Ron's Wreck is a small sunken fishing boat sitting on a sandy bottom at 18 m (60 ft), nestled within a U-shaped reef wall on the south side of Utila — a relaxed wreck dive accessible to Intermediate divers.
 
 ## Overview
 
-No site-specific dive sources have been validated for this entry yet — marine life, typical dive profile, currents, visibility, and photography conditions are not documented.
+Ron's Wreck lies within a distinctive U-shaped coral reef enclosure, with the wreck itself resting on a gently sloping sandy bottom at approximately 18 m (60 ft). The fishing vessel is modest in size — roughly 18 m (60 ft) long — making it a thorough but manageable single-tank dive. The site can be approached by crossing over the western wall of the reef system, and the surrounding sandy area extends to about 10 m (35 ft). The site is sometimes included as a secondary stop within the Moon Hole area, which features a large sandy patch surrounded by coral ideal for buoyancy practice. The combination of a small wreck with adjacent coral habitat makes this a popular training site as well as a recreational dive.
 
-## Site Information
+## Marine Life
 
-- **Location**: Utila, Caribbean
-- **Entry Type**: Boat dive
-- **Site Type**: Wreck dive
-- **Difficulty Level**: Intermediate
-- **Maximum Depth**: 18 meters
+The wreck and surrounding sandy floor provide habitat for crustaceans — lobster and shrimp are common — and octopus that forage among the coral rubble. The U-shaped reef system surrounding the wreck hosts a typical south side mix of Caribbean reef fish including grouper and snapper. Pipefish and moray eels have been reported around the wreck structure itself.
 
-## Additional Resources
+## Dive Profile
 
-- **Last Updated**: 2026-04-05
+- **Wreck depth**: ~18 m (60 ft) on sand
+- **Surrounding reef / sand**: ~10 m (35 ft)
+- **Wreck size**: small fishing vessel, ~18 m in length
+- **Current**: minimal — sheltered south side location
+- **Visibility**: typically 15–25 m
+
+## Entry / Exit
+
+Boat dive from Utila town. Often combined with Moon Hole as a two-site dive given the close proximity of both within the same reef complex.
+
+## Tips
+
+- A gentle, unhurried dive — take time to search the wreck's nooks for shrimp, crabs, and octopus.
+- Good site for Underwater Navigation specialty training given the defined reef structure.
+- Can be combined with Moon Hole as a back-to-back dive or extended single dive.
+
+## Photography
+
+The wreck's encrusted hull and resident macro life (shrimp, crabs, octopus) reward close-focus photography. Natural light at 18 m is typically adequate for ambient shots.
 
 ---
-*Description based on OpenStreetMap-recorded data. No site-specific dive sources were located. Last updated 2026-04-05.*
+*Sources: [We Dive Utila – Dive Sites](https://www.wediveutila.com/utila-dive-sites), [Lena on the Move – Dive Guide Utila](https://lenaonthemove.com/dive-guide-utila/). Last updated 2026-05-17.*
