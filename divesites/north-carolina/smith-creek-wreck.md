@@ -29,7 +29,23 @@ The Smith Creek Wreck is a boat-access dive site in the estuarine waters of east
 
 ## Marine Life
 
-The brackish, tannin-rich waters of this Sound-adjacent wreck harbour species typical of North Carolina's inshore estuarine environment — flounder, black sea bass, sheepshead, and Atlantic croaker are the most commonly encountered fish. Blue crabs, oysters, and small crustaceans colonise the encrusted hull surfaces, and the site occasionally attracts striped bass during cooler months. Visibility is limited by suspended sediment and fresh-water mixing, so encounters are generally at close range.
+The brackish, tannin-influenced estuarine environment hosts inshore species typical of the Neuse River system: flounder, black sea bass, sheepshead, and Atlantic croaker are the most commonly encountered fish around submerged structure. Blue crabs and small crustaceans colonise encrusted hull surfaces. Visibility is limited by suspended sediment and freshwater mixing, so encounters are at close range.
+
+## Site Note
+
+The identity of this wreck is not confirmed in available public sources. No site-specific vessel history could be verified through the NC Underwater Archaeology Branch's public records, NOAA Monitor Sanctuary shipwreck list, or nc-wreckdiving.com. The Smith Creek confluence with the Neuse River historically had steamboat traffic, and submerged hull remains consistent with a 19th-century steamboat may be present. Divers should contact the NC Underwater Archaeology Branch (archaeology.ncdcr.gov) for any available site-specific information before visiting.
+
+## Dive Profile
+
+Located in the estuarine waters near Smith Creek's confluence with the Neuse River, in approximately 25 m of water in a sheltered inland waterway setting. Visibility is typically low (a few metres) due to tannin staining and silt. This is an inshore dive far removed from the Gulf Stream conditions of the offshore wreck sites.
+
+## Entry and Exit
+
+Boat access required. No charter services specifically advertising this site were found in available sources. Local dive shops in the New Bern area may be able to advise on access. Contact the NC Underwater Archaeology Branch for current site information.
+
+## Safety Considerations
+
+Estuarine visibility is characteristically very low — maintain close buddy contact throughout the dive. The sheltered inland waterway location means currents are less severe than offshore sites, but local tidal currents in the Neuse River system still require attention. Research the site identity through official channels before planning a visit.
 
 ---
-*Sources: [Scuba Diving Magazine - Top 10 Wreck Dives of North Carolina](https://www.scubadiving.com/photos/top-10-wreck-dives-north-carolina), [NC Archaeology - Heritage Dive Sites](https://archaeology.ncdcr.gov/programs/uab/heritagedivesites), [DiveIn - Scuba Diving in North Carolina](https://www.divein.com/diving/destination/diving-in-north-carolina/), [Evolution Underwater - North Carolina Top Ten Wreck Dives](https://www.evolutionunderwater.com/the-outer-limits---north-carolina-s-top-ten-wreck-dives), [Outer Banks Official Travel Guide - Diving](https://www.outerbanks.org/things-to-do/land-activities/water-sports/diving/), [NC Heritage Dive Sites](https://archaeology.ncdcr.gov/programs/uab/heritagedivesites), [Visit North Carolina - Graveyard of the Atlantic](https://www.visitnc.com/list/scuba-diving-graveyard-atlantic-and-north-carolina-coast), [NOAA Office of National Marine Sanctuaries](https://sanctuaries.noaa.gov/news/nov18/maritime-archaeologists-document-history-graveyard-of-the-atlantic-shipwrecks.html), [Discovery Diving of Beaufort NC](https://discoverydiving.com/), [Olympus Dive Center - NC Wreck Diving](https://www.olympusdiving.com/en/ship-wreck-diving). Last updated 2026-04-04.*
+*Description based on regional diving characteristics and geographic context. No site-specific verified sources found. Contact NC Underwater Archaeology Branch (https://archaeology.ncdcr.gov) for confirmed site information. Last updated 2026-05-17.*
