@@ -13,49 +13,53 @@ addedBy: osm_import
 
 ## Malmok Reef
 
-Malmok Reef is a reef dive site in Aruba, Caribbean.
+Malmok Reef is a shallow, calm shore dive on Aruba's northwest coast in crystal-clear water at 2–5 meters — Aruba's go-to site for certification training, first dives, and macro photography in a genuinely nursery-ground environment.
 
 ## Overview
 
-Malmok Reef is a shallow, protected shore dive on Aruba's western coast where a rubble and sand bottom at 2-5 meters supports scattered coral heads teeming with juvenile fish — it functions as a genuine nursery ground for a wide variety of reef species. Tiny neon gobies, baby trumpetfish, juvenile French angelfish, and small peacock flounders make it one of the best macro sites in Aruba, and the absence of current and current means it's also used for certification training dives. Night dives here are particularly productive, with octopus and Caribbean spiny lobster emerging from the reef rubble after dark.
+Malmok Reef sits adjacent to Malmok Beach on Aruba's protected leeward coast, directly south of the Antilla wreck area. The site features scattered coral heads, brain corals, and leaf corals on a sandy and rubble bottom, all in very shallow water with exceptional visibility documented at around 25 meters. The combination of zero current, warm water, and very shallow depth makes it the primary training site for multiple Aruba operators.
+
+The reef is genuinely a nursery ground — juvenile fish, small critters, and invertebrates are more prevalent here than at deeper sites further out. Stingrays are commonly seen on the sandy bottom; lobsters rest in the coral crevices; turtles pass through feeding on the reef bottom. The bank wall is noted in dive databases as covered with sea urchins, coral, and feather worms.
 
 ## Site Information
 
-- **Location**: Aruba, Caribbean
+- **Location**: Malmok Beach, northwest Aruba
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 5 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: ~25 meters
+- **Current**: None to minimal
+- **Best Time**: Year-round
 
 ## Marine Life
 
-The shallow nursery ground hosts neon gobies, baby trumpetfish, juvenile French angelfish, and small peacock flounders among the scattered coral heads — outstanding macro subjects in a beginner-friendly setting. Night dives add octopus and Caribbean spiny lobster emerging from the reef rubble after dark, making this one of Aruba's most productive sites for cryptic species observation.
+Documented species include stingrays on the sandy bottom, turtles feeding on the reef, lobsters in coral crevices, feather worms, brain coral, leaf coral, and sea urchins on the bank wall. Giant purple, orange, and green barrel sponges are noted as good photographic subjects. The shallow, calm conditions and nursery-ground character mean juvenile and small reef fish are common, making this a productive macro site.
+
+Note: The previous description mentioned juvenile French angelfish, peacock flounders, and neon gobies as specific residents — no source-confirmed documentation of these species at Malmok Reef specifically was found. The general characterization as a nursery and macro site is well-supported.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 5 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-5 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Enter from Malmok Beach. The entire site is within the top 5 meters. Spend the dive meandering over the coral heads and sandy channels, looking for critters on the bottom and in crevices. The near-zero depth means essentially unlimited bottom time for no-decompression purposes. An extended surface swim may be needed to reach the outer coral heads.
 
 ## Entry and Exit
 
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
+Shore entry from the beach. Easy access — good conditions year-round. Staircase or sand entry. Exit at the same point.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Bring a macro lens or set up for close-focus work — the critter density rewards it
+- This site is frequently used for Open Water referral dives and resort dives
+- Night dives are documented as productive here; check with operators
+- Combine with a nearby boat dive to Antilla for a mixed-depth day
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Very low-hazard site. Watch for sea urchins on the bank wall section. Be aware of any surface vessel traffic when ascending.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Excellent natural-light macro site — the shallow depth and clear water means no strobe is needed for many subjects. The barrel sponges and coral heads photograph well in wide-angle. A dedicated macro lens rewards patient divers.
 
 ---
-*Sources: PADI, TravelingWithScubaJay, IslandHopperGuides, Zentacle. Last updated 2026-03-16.*
+*Sources: [Divers Guide - Malmok Reef](https://www.divers-guide.com/en/malmok-reef), [Zentacle - Malmok Beach](https://www.zentacle.com/Beach/543/malmok-beach), [Yellow Cunucu - Scuba Diving Aruba Guide](https://www.yellowcunucu.com/blog/scuba-diving-aruba-guide). Last updated 2026-05-17.*

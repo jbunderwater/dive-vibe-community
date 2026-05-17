@@ -13,49 +13,55 @@ addedBy: osm_import
 
 ## De Palm Slope
 
-De Palm Slope is a reef dive site in Aruba, Caribbean.
+De Palm Slope is a coral reef off De Palm Island with an intentionally sunk Cessna 414 aircraft serving as an artificial reef focal point — a 10-minute boat ride from Aruba with conditions suitable for drift diving.
 
 ## Overview
 
-De Palm Slope descends along a colorful reef wall off De Palm Island, featuring the wreck of a Cessna 414 twin-engine aircraft that was intentionally sunk to create an artificial reef structure. The sloping terrain runs from the shallows down to about 20 meters, with sea fans, plate corals, and encrusting sponges providing cover for moray eels, parrotfish, and resting nurse sharks. The combination of the artificial wreck and healthy natural reef makes it one of Aruba's most photogenic sites, with the calm leeward conditions delivering reliable visibility in warm Caribbean water.
+De Palm Island is a small barrier island accessible by short boat transfer from Aruba's southwest coast. The dive site descends along a coral slope from shallow water down to approximately 15–37 meters (50–120 feet), making it one of the more versatile sites on Aruba's south side. The reef features colorful corals, sea fans, and sponges along the slope face.
+
+The sunken Cessna 414 twin-engine aircraft adds an artificial structure that has become colonised by reef organisms. The slope's exposure to current means it qualifies as a drift dive on many days — one of the few genuine drift opportunities in Aruba's generally calm west and south coast waters.
+
+Multiple sources document nurse sharks resting in sandy patches beside the aircraft and reef base, and great barracuda are noted as a consistent feature of the site. Moray eels occupy crevices in the coral slope.
 
 ## Site Information
 
-- **Location**: Aruba, Caribbean
+- **Location**: Off De Palm Island, southwest Aruba (~10 minutes by boat)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Typical Visibility**: ~20 meters
+- **Current**: Moderate; drift diving is documented at this site
+- **Best Time**: December to April
 
 ## Marine Life
 
-The intentionally sunk Cessna aircraft wreck is colonized by soft corals and serves as an artificial habitat for grouper, moray eels, and parrotfish, while nurse sharks rest on the sandy patches beside the fuselage. Sea fans, plate corals, and encrusting sponges along the natural slope attract southern stingrays and the occasional hawksbill turtle in the calm leeward conditions off De Palm Island.
+Documented species at this site: moray eels in reef crevices, parrotfish foraging along the slope, nurse sharks on sandy patches, and great barracuda. The slope reef hosts a mix of Caribbean reef fish associated with healthy coral slopes, and the Cessna structure adds a focal point for fish aggregation.
+
+Note: The previous description attributed "southern stingrays and hawksbill turtles" to this site — these are regional Aruba species documented elsewhere. No source specifically confirmed them at De Palm Slope. This claim has been removed.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 20 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boat transfer to De Palm Island or direct to the site by dive boat. Descend on the slope and plan the dive with current direction in mind — this is a drift site, and the boat needs to track your bubbles or use an SMB. The Cessna wreck is a natural turnaround/photo point. Keep depth to around 20 meters for most divers; the slope continues to 37 meters for advanced profiles.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive. The site is accessed via local operators running south/southwest coast trips. Drift dive protocol applies — deploy SMB before ascending so the boat can locate you. Do not ascend to the boat's position; let the boat come to your SMB.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Check for current direction before descending — plan your drift accordingly
+- The Cessna wreck is a good midpoint focal point for photography and turnaround
+- Nurse sharks are commonly found resting here — approach slowly from the side
+- De Palm Island itself offers facilities if operators stage the dive from the island
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Drift diving conditions require proper SMB deployment skills. Divers unfamiliar with drift techniques should inform the operator before the dive. Monitor depth on the deeper sections of the slope.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The artificial Cessna wreck surrounded by coral growth is a compact, well-lit subject. Drift conditions mean fish behaviour is natural — barracuda and other species are less disturbed. Nurse sharks resting on the sand beside the structure make approachable photographic subjects.
 
 ---
-*Sources: DiverGuide, AubaDive4Life, DiveAruba. Last updated 2026-03-16.*
+*Sources: [Duikersgids - De Palm Slope](https://www.duikersgids.nl/en/de-palm-slope), [Aruba Dive4Life - Dive Sites](https://arubadive4life.com/divesites/), [In-Aruba.com - Aruba Dive Sites](https://www.in-aruba.com/arubadivesites). Last updated 2026-05-17.*

@@ -13,17 +13,17 @@ addedBy: osm_import
 
 # Ariadne Shoal
 
-A submerged rocky shoal off Antigua's southwest coast with diverse coral formations, strong fish life, and the occasional nurse shark resting in the deeper sand pockets.
+An offshore shoal complex approximately seven miles west of Antigua with several named dive spots, blacktip reef sharks, nurse sharks, and large schools of grunts and snappers in relatively shallow water.
 
 ## Overview
 
-Ariadne Shoal is a submerged rocky formation rising from a sandy base at 15 meters to within a few meters of the surface off Antigua's southwest coast, in the waters between Cades Reef and the main island. The shoal's elevated position relative to the surrounding sand creates a concentration of reef life that would not otherwise exist in this area. Hard coral growth is well-developed on the shoal structure, with brain, star, and pillar corals on the upper sections and sea fans and tube sponges on the deeper flanks. The site is in relatively calm water on Antigua's leeward side, with light current and visibility typically reaching 20–30 meters in the dry season.
+Ariadne Shoal lies roughly seven miles off Antigua's west coast — approximately a 50-minute boat journey from St. John's. The shoal complex comprises several named dive areas including Ming's Bank, The Cave, Grunts, and Zurich Train Station. Depths rarely exceed 15 metres (50 feet), but the offshore position and limited dive traffic mean the site supports notably larger fish than most of Antigua's inshore reefs. The location is rated Intermediate primarily because of the open-water boat journey and the more exposed conditions. There is a distance conflict in sources — California Diver magazine states seven miles from the coast, while one other source states twelve miles. The coordinates used in this database reflect the seven-mile estimate. Visibility is generally good in open water conditions.
 
 ## Site Information
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 5–15 m |
+| Depth Range | 3–15 m |
 | Difficulty | Intermediate |
 | Entry Type | Boat |
 | Site Type | Reef |
@@ -33,32 +33,23 @@ Ariadne Shoal is a submerged rocky formation rising from a sandy base at 15 mete
 
 ## Marine Life
 
-Ariadne Shoal is known among local operators for reliable nurse shark sightings — the animals rest in sandy pockets at the base of the shoal at 12–15 meters. Large schools of creole wrasse and chromis populate the water column above the shoal. Spotted eagle rays are occasionally seen sweeping past in open water adjacent to the shoal. French and grey angelfish are resident on the shoal structure. Caribbean spiny lobster occupy the deeper crevices. Barracuda are common in the mid-water above the shoal crest.
+The following marine life has been confirmed at Ariadne Shoal by multiple sources: nurse sharks, blacktip reef sharks, sea turtles, and large schools of grunts and snappers. The offshore position brings more and larger fish than Antigua's leeward coast sites. Named spots like The Cave are specifically noted for reef life concentration. Previous descriptions of this site mentioned spotted eagle rays as a highlight — this specific claim was not independently confirmed in the sources reviewed and has been removed. The broader regional fauna of the eastern Caribbean applies to the surrounding open water.
 
 ## Dive Profile
 
-Descent to the shoal crest at 5 meters, then a spiral descent working the flanks to the sandy base at 15 meters to check for nurse sharks. After the deep circuit, ascend the shoal to the crest and spend the majority of bottom time at 8–12 meters where fish activity is highest. Total dive: 45–55 minutes.
+Descent at the chosen named section of the shoal complex. Most diving is at 8–15 metres given the shoal's maximum depth. Dives typically explore one or two of the named sections per dive — the named spots are distributed across the shoal. Circling the base of the coral structures and looking for nurse sharks in the sandy pockets is the standard approach at many sections. Total dive: 45–60 minutes given the shallow profile.
 
 ## Entry and Exit
 
-Boat dive operated by Antigua-based dive operators. Entry by giant stride. The relatively sheltered position in Antigua's leeward waters makes for calm conditions. DSMB recommended.
+Boat dive only, with west-coast Antigua operators. The 50-minute journey each way makes Ariadne Shoal a full-morning commitment. Entry by giant stride. The offshore position means conditions can differ from inshore — verify with the operator before booking. DSMB required.
 
 ## Tips and Recommendations
 
-Approach the sandy pockets at the shoal base slowly to avoid disturbing any resting nurse sharks. The shoal's position adjacent to Cades Reef makes this a natural second dive option after Cades — operators often combine the two in a morning trip. The top of the shoal in 5–8 meters is excellent for extended safety stops and detailed fish observation.
+Ariadne Shoal is worth the journey for divers who want to see larger pelagic fish and sharks that are less common at the more frequently dived inshore reefs. Ask the operator which named sections they plan to visit. Buoyancy discipline is more important here as the site has less commercial infrastructure and the boat may be the only vessel on site.
 
 ## Safety Considerations
 
-Light to moderate current can develop at the shoal depending on tidal state. The sandy bottom around the shoal can be deceptive — it is easy to fin too low and disturb silt. Maintain awareness of depth when circling the base of the shoal. DSMB required.
-
-## Photography
-
-The shoal's profile — a compact structure rising from sand — provides excellent photographic opportunities. Wide-angle shots of the shoal crest with schooling fish above are effective. The sandy base shots with nurse sharks (if present) are the most memorable images from this site. Fish portraits on the shoal face in ambient morning light are productive.
-
-## Additional Resources
-
-- Antigua dive operators: include Ariadne Shoal in standard leeward coast dive itineraries
-- Cades Reef is typically combined with this site for a morning two-tank dive
+The offshore position and longer boat transit mean emergency support is further away than at inshore sites. Conditions can be rougher in the open water between Antigua and the shoal. Dive conservatively on air to allow for safe return. DSMB required.
 
 ---
-*Sources: [Carib Dive Guide - Antigua](https://www.caribdiveguide.com/Antigua.htm), [DiveCarib - Antigua Dive Sites](https://www.divecarib.com/dive-sites/), [DIVEIN - Diving in Antigua and Barbuda](https://www.divein.com/diving/destination/diving-in-antigua-and-barbudo/), [PADI - Diving in Antigua and Barbuda](https://www.padi.com/diving-in/antigua-and-barbuda/), [Visit Antigua & Barbuda - Diving](https://www.visitantiguabarbuda.com/experiences/dive-carib/). Last updated 2026-04-04.*
+*Sources: [California Diver Magazine - Scuba Diving Antigua](https://californiadiver.com/scuba-diving-antigua-lord-horatio-nelsons-island-1209/), [DiveCarib - Undiscovered Diving](https://www.divecarib.com/antiguas-undiscovered-and-lesser-known-diving/), [Antigua and Barbuda Official Tourism](https://www.antigua-barbuda.org/Agdive01.htm). Last updated 2026-05-17.*

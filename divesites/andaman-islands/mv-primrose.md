@@ -2,9 +2,9 @@
 name: MV Primrose
 lat: 11.5934127
 lng: 92.2123352
-difficulty: Intermediate
-maxDepth: 25
-entryType: shore
+difficulty: null
+maxDepth: null
+entryType: null
 siteType: wreck
 ref: null
 osmId: 120523928
@@ -13,51 +13,26 @@ addedBy: osm_import
 
 ## MV Primrose
 
-MV Primrose is a historic wreck dive in Andaman Islands, Asia.
+The MV Primrose is a 16,000-ton cargo ship that ran aground on a reef off North Sentinel Island on 2 August 1981 and remains there today — but diving at this site is strictly prohibited under Indian law.
 
 ## Overview
 
-The MV Primrose was a 16,000-ton freighter that ran aground on a reef off North Sentinel Island on 2 August 1981 during a monsoon storm, triggering a days-long standoff as the Sentinelese emerged from the jungle armed with bows and spears while the crew radioed for help with improvised weapons. The Sentinelese later salvaged iron from the wreck to forge into arrowheads, one of the few documented instances of their using outside materials. The wreck remains visible on satellite imagery but is strictly off-limits under the Andaman and Nicobar Islands Protection of Aboriginal Tribes Regulation; no approach within five kilometres of North Sentinel Island is permitted and the Indian Navy patrols the area to enforce the exclusion zone.
+The MV Primrose was a Panamanian-registered cargo freighter operated by Hong Kong's Regent Shipping Company. On the night of 2 August 1981, while sailing from Bangladesh to Australia with a cargo of chicken feed, the vessel ran aground on a coral reef surrounding North Sentinel Island during a monsoon storm. The ship's 31 crew members — primarily Hong Kong-Chinese sailors under Captain Liu Chunglong — found themselves stranded on the hull as Sentinelese warriors appeared on the beach and began building boats, approaching with bows and spears. After several days during which heavy seas prevented both rescue ships and the islanders from reaching the vessel, an ONGC helicopter winched the crew to safety. The wreck remains on the reef. In 1991, salvage operators received Indian government authorisation to dismantle the vessel, and the Sentinelese — who had already been scavenging iron from the hull — are known to have cold-forged the recovered metal into arrowheads and harpoons, one of the few documented instances of the group using outside materials.
+
+**This is not a diveable site.** The wreck is located within five kilometres of North Sentinel Island. Indian law prohibits any approach within this exclusion zone under the Andaman and Nicobar Islands Protection of Aboriginal Tribes Regulation. The Indian Navy enforces the exclusion zone. No diving or tourism access is permitted.
 
 ## Site Information
 
-- **Location**: Andaman Islands, Asia
+- **Location**: Reef off North Sentinel Island, Andaman Islands
+- **Access**: Prohibited — exclusion zone enforced by Indian Navy
 - **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: Not applicable (surface wreck on reef)
 
-## Marine Life
+## Safety and Legal Considerations
 
-Divers at this site can expect to encounter batfish, lionfish, sweetlips, coral growth, soft corals, manta rays, whale sharks, reef sharks. Additional species commonly sighted include sea turtles, barracuda, trevally. The wreck structure provides shelter and habitat for a thriving marine ecosystem, attracting both resident and transient species.
-
-## Dive Profile
-
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 25 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
+Approaching within five kilometres of North Sentinel Island is a criminal offence under Indian law. No exceptions are granted for diving, photography, or tourism. The North Sentinel Island exclusion zone exists to protect the Sentinelese people, who have demonstrated hostility to outside contact and whose isolation is a matter of both legal protection and humanitarian concern.
 
 ---
-*Sources: [Dive Andaman - Dive Sites](https://www.diveandaman.com/), [SSI - Scuba Diving in Andaman Guide](https://www.divessi.com/en/blog/ultimate-scuba-diving-in-andaman-10091.html), [PADI - Diving in Andaman Islands](https://www.padi.com/diving-in/andaman-islands/), [Bluewater Dive Travel - Andaman Islands](https://www.bluewaterdivetravel.com/destination/andaman-islands-diving), [Sea Hawks Scuba - Andaman Diving Guide](https://seahawksscuba.in/scuba-diving-in-andaman/). Last updated 2026-04-04.*
+*Sources: [NZ Herald - MV Primrose](https://www.nzherald.co.nz/world/hair-raising-story-behind-mysterious-shipwreck-off-north-sentinel-island/7UWWHDCA35XKJ2Q3PGRXMBXYNQ/), [Wikipedia - North Sentinel Island](https://en.wikipedia.org/wiki/North_Sentinel_Island), [GEOSAT - Primrose Shipwreck](https://geosat.space/blog/the-mystery-of-north-sentinel-islandthe-primrose-shipwreck-and-the-sentinels/). Last updated 2026-05-17.*

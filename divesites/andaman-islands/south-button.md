@@ -13,50 +13,50 @@ addedBy: osm_import
 
 ## South Button
 
-South Button is a reef dive site in Andaman Islands, Asia.
+South Button is a protected reef within South Button Island National Park — India's smallest national park — featuring a western wall to 25 metres and a shallow eastern coral garden that receives regular visits from manta and devil rays.
 
 ## Overview
 
-South Button sits within India's smallest national park and boasts one of the highest concentrations of coral species in the world, with dense table corals and Acropora formations covering the shallows. The western side drops along a small wall to 25 metres where barracuda, bigeye trevally, surgeonfish, schooling snapper, and Napoleon wrasse patrol, while the eastern side features a coral garden at around 12 metres frequented by devil rays, manta rays, and the occasional leopard shark. Green turtles, batfish, crocodilefish, nudibranchs, moray eels, and octopuses are regular inhabitants of this pristine and protected reef system.
+South Button Island is part of South Button Island National Park, situated within the broader Rani Jhansi Marine National Park framework southwest of Havelock Island, approximately 24 kilometres away. The island and its surrounding reef are uninhabited and day-trip only, accessible December to April with forest department permits arranged by tour operators. The diving environment has two distinct characters: the western side features a small wall dropping to around 25 metres with stronger fish aggregations including barracuda, bigeye trevally, surgeonfish, snapper, and Napoleon wrasse; the eastern side offers a shallower coral garden at approximately 12 metres frequented by manta rays and devil rays. Visibility often exceeds 20 metres. The protected status of the national park contributes to the site's relatively undisturbed reef condition.
 
 ## Site Information
 
-- **Location**: Andaman Islands, Asia
+- **Location**: South Button Island National Park, Andaman Islands (~24 km from Havelock Island)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Typical Visibility**: 20+ meters
+- **Current**: Variable
+- **Best Time**: December to April (park access season)
 
 ## Marine Life
 
-The western wall attracts schooling bigeye trevally, barracuda, surgeonfish, snapper, and Napoleon wrasse, while manta rays and devil rays visit the shallower coral garden on the eastern side. Green turtles, batfish, crocodilefish, and moray eels are regular inhabitants throughout the reef, and patient observers will find nudibranchs and octopuses among the dense table and Acropora coral formations. The protected status of South Button Island National Park contributes to the exceptional biodiversity and high coral cover at this site.
+The western wall hosts schooling barracuda, bigeye trevally, surgeonfish, snapper, groupers, angelfish, butterflyfish, and Napoleon wrasse. Manta rays and devil rays visit the eastern coral garden. Green turtles and hawksbill turtles are frequently reported. Sea eagles and herons are visible above the waterline. Reef sharks have been reported at the site. No site-specific reports of leopard sharks could be confirmed from independent sources.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 25 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Two-sided dive site: plan a western wall dive to 25 metres focusing on fish aggregations, then shallow out to the eastern coral garden at 10–12 metres. Visibility is consistently good, aiding navigation between the two areas. Begin ascent with adequate air for a 5-metre safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat access only; approximately 1.5–2 hours from Havelock Island by chartered vessel. Forest department day permits are required and must be arranged in advance through licensed eco-certified operators. No overnight stays. Reef-safe sunscreen required; no touching corals.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Arrange permits well in advance — the park has limited daily visitor quotas
+- The site is only accessible December to April; confirm conditions and permits before booking
+- The eastern coral garden side is suitable for snorkellers; western wall requires dive certification
+- Plan for a long boat journey — bring sufficient water, food, and sun protection
+- This remote site rewards patient divers: allow time on both sides of the island
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Remote location with a long boat ride — ensure your operator has appropriate safety equipment and communication devices. Dive within certification limits. Carry an SMB.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The ray encounters on the eastern garden side provide exceptional wide-angle opportunities. The western wall's fish aggregations are suited to schooling-fish shots. Visibility exceeding 20 metres makes this a strong site for natural-light reef photography.
 
 ---
-*Sources: [Dive Andaman - Dive Sites](https://www.diveandaman.com/), [SSI - Scuba Diving in Andaman Guide](https://www.divessi.com/en/blog/ultimate-scuba-diving-in-andaman-10091.html), [PADI - Diving in Andaman Islands](https://www.padi.com/diving-in/andaman-islands/), [Bluewater Dive Travel - Andaman Islands](https://www.bluewaterdivetravel.com/destination/andaman-islands-diving), [Sea Hawks Scuba - Andaman Diving Guide](https://seahawksscuba.in/scuba-diving-in-andaman/). Last updated 2026-04-04.*
+*Sources: [DIVEIndia - Havelock Dive Sites](https://diveindia.com/havelock-dive-sites/), [Tourist in India - South Button Island](https://touristinindia.com/south-button-island-national-park-corals-andaman-guide/), [Andaman Islands - South Button Guide](https://www.andamanislands.com/blog/detail/all-you-need-to-know-about-visiting-south-button-island). Last updated 2026-05-17.*

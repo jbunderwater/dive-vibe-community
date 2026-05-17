@@ -13,52 +13,43 @@ addedBy: osm_import
 
 # Sunken Rock
 
-Antigua's deepest recreational wall dive — a submerged pinnacle on the exposed south coast dropping to 30 meters with black coral, large barrel sponges, and frequent pelagic encounters in open-ocean conditions.
+Antigua's only known wall dive — a massive submerged boulder on the exposed south coast where a sheer vertical face drops from 2 metres to 25 metres and beyond, with Caribbean reef sharks as regular residents and frequent drift conditions.
 
 ## Overview
 
-Sunken Rock is one of Antigua's most challenging and rewarding dive sites — a submerged rock formation on the exposed south coast that drops from a shallow crest to 30 meters, exposed to Atlantic swell and tidal current from the Caribbean passage. The site is not sheltered by the leeward coast's calmer water; it sits on the southern flank of the island where open-ocean conditions prevail. The rock's sides carry dense encrusting communities appropriate to its nutrient-rich, current-washed position: black coral bushes appear from 20 meters down, large barrel sponges and sea fans colonise the 15–25 meter zone, and the shallow crest carries typical hard coral coverage. The open-ocean character of the site attracts pelagic species rarely seen at the calmer leeward sites. Visibility can exceed 30 meters in good conditions.
+Sunken Rock is one of Antigua's most challenging and well-regarded dive sites, widely described as the island's only true wall dive. The site is a massive building-sized submerged rock formation on the exposed south coast. On the seaward side, a sheer wall drops from approximately 2 metres at the crest to 25 metres (80 feet) and deeper, with rock formations on the other side creating a gully with walls leading to 30 metres. The rock's exposed position means drift diving is common — a mooring exists but conditions often require drift techniques. Ocean triggerfish are resident at this site, and Caribbean reef sharks are regularly encountered. Dolphins have occasionally been reported. The site is exposed to Atlantic swell and is assessed on the day by operators.
 
 ## Site Information
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 8–30 m |
+| Depth Range | 2–30 m |
 | Difficulty | Advanced |
 | Entry Type | Boat |
 | Site Type | Wall |
-| Visibility | 25–35 m |
-| Current | Moderate to strong |
+| Visibility | 15–30 m |
+| Current | Moderate to strong (variable) |
 | Water Temp | 26–28°C |
 
 ## Marine Life
 
-Sunken Rock's exposed position brings pelagic encounters that are less common at Antigua's sheltered sites. Caribbean reef sharks are regular visitors to the outer wall. Schools of horse-eye jacks and amberjack orbit the rock structure in mid-water. Spotted eagle rays are frequently observed sweeping past in the open water. At depth, black coral provides habitat for long-nose hawkfish and other deep-dwelling species. The shallower sections of the rock host green and hawksbill turtles. Large barracuda hover near the rock surface. The combination of deep wall, open-ocean exposure, and pelagic activity makes this arguably Antigua's most exciting site for experienced divers.
+The following marine life has been confirmed at Sunken Rock by dive operators and sources: Caribbean reef sharks (resident), ocean triggerfish (resident), dolphins (occasional). The open-ocean exposure and current-washed wall attract pelagic species; however, specific species such as spotted eagle rays, black coral, horse-eye jacks, and amberjack mentioned in older versions of this description were regional generalisations not independently confirmed at this specific site. No site-specific marine life survey is available beyond what DiveCarib documents.
 
 ## Dive Profile
 
-Descent is direct to the rock crest at 8 meters, then down the seaward face to the planned maximum depth. Advanced divers typically reach the 25–30 meter zone to see the black coral and barrel sponge communities before ascending along the wall. The exposed face should be planned as an out-and-back rather than a circumnavigation unless conditions are very calm. Reserve sufficient gas for a 5-minute safety stop at 5 meters with current potentially requiring active positioning.
+Descent to the rock crest at 2 metres, then down the sheer seaward face. Advanced divers typically work to 25 metres on the wall face. A gully on the lee side has its own sheer walls reaching to 30 metres. When current is running, divers drift along the wall face and are picked up downstream. Mooring is available for calm-day non-drift dives. Reserve sufficient gas for a 5-minute safety stop — current may require active positioning at 5 metres.
 
 ## Entry and Exit
 
-Boat dive from Antigua's south coast operators. The exposed position means the site is weather-dependent — it is dived on suitable days only. Entry by backward roll or giant stride, descending quickly to avoid surface drift. DSMB essential for ascent.
+Boat dive from south-coast operators. The exposed position means the site is weather-dependent — southerly or easterly swell can make it unsuitable. DiveCarib describes it as suitable for certified divers comfortable with drift diving. DSMB essential; deployment should be planned before beginning ascent.
 
 ## Tips and Recommendations
 
-Sunken Rock should only be dived in calm conditions — southwest or westerly swell of any size makes the site uncomfortable or dangerous. April through October offers the best conditions for south-coast Antigua diving. The black coral at 22–28 meters requires careful depth management — set a firm turnaround depth. Advanced divers with strong buoyancy skills will get the most from the deeper sections of the wall.
+Sunken Rock is best dived in the calmest conditions on Antigua's south coast, typically April through October. Drift dive skills — particularly DSMB deployment in current — are essential. The site is rated Advanced because of the combination of significant depth, exposure, and variable current, not because the topography itself is technically difficult. First-time visitors should dive with a guide.
 
 ## Safety Considerations
 
-This is Antigua's most challenging recreational dive site. Strong or variable current, surge from ocean swells, and significant depth combine to make this unsuitable for less experienced advanced divers. Always dive with a guide on first visits. DSMB deployment is mandatory. Do not exceed planned maximum depth. The exposed location means emergency support is further away than at leeward sites.
-
-## Photography
-
-The deep wall at Sunken Rock rewards wide-angle photography of the full scene — barrel sponge formations at 25 meters with divers in frame, shark and eagle ray encounters in open water. The black coral trees at depth require supplemental lighting to reveal their full character. The shallow rock crest photographs well in ambient light for wide-angle reef and turtle shots.
-
-## Additional Resources
-
-- Antigua dive operators: south coast dives including Sunken Rock offered weather-permitting
-- Typically combined with Pillars of Hercules for a full day on Antigua's south coast
+This is Antigua's most demanding recreational dive site. Exposed location, variable current, significant depth, and ocean swell combine to make this unsuitable for less experienced divers. Emergency support is further away than at leeward sites. Always dive with a guide on first visits. Do not exceed planned maximum depth. DSMB mandatory.
 
 ---
-*Sources: [Carib Dive Guide - Antigua](https://www.caribdiveguide.com/Antigua.htm), [DiveCarib - Antigua Dive Sites](https://www.divecarib.com/dive-sites/), [DIVEIN - Diving in Antigua and Barbuda](https://www.divein.com/diving/destination/diving-in-antigua-and-barbudo/), [PADI - Diving in Antigua and Barbuda](https://www.padi.com/diving-in/antigua-and-barbuda/), [Visit Antigua & Barbuda - Diving](https://www.visitantiguabarbuda.com/experiences/dive-carib/). Last updated 2026-04-04.*
+*Sources: [DiveCarib - Antigua Dive Sites](https://www.divecarib.com/dive-sites/), [Antigua and Barbuda Official Tourism](https://www.antigua-barbuda.org/Agdive01.htm), [Lemongrass Antigua - Best Scuba Diving Sites 2026](https://www.lemongrassantigua.com/post/best-scuba-diving-sites-antigua-2026). Last updated 2026-05-17.*

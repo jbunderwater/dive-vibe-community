@@ -13,49 +13,54 @@ addedBy: osm_import
 
 ## Skalahein Reef
 
-Skalahein Reef is a reef dive site in Aruba, Caribbean.
+Skalahein Reef is a hard coral reef on Aruba's southern coast reaching approximately 23–25 meters, known for schooling fish and consistently good visibility — a favourite among experienced divers who make the morning south coast two-tank trip.
 
 ## Overview
 
-Skalahein Reef is a drift dive on Aruba's southern coast, featuring a long sloping reef rich in hard corals, soft corals, and deep-water gorgonians that drops from 5 meters down to 40 meters or more. The site is well known for large schools of barracuda, jacks, and snapper, and the gentle current makes for relaxed, extended multi-level drift profiles. Deeper sections below 30 meters reveal groves of black coral, while the shallows host filefish, bluehead wrasses, and butterflyfish in excellent visibility typically exceeding 20 meters.
+Skalahein sits on Aruba's southern coast and is one of the sites specifically cited by name on ScubaBoard as a particularly liked dive, often paired with Kantil Reef on a morning two-tank trip. The south coast generally delivers better visibility than the north, and Skalahein benefits from this: clear water and abundant hard coral coverage are documented by JADS Aruba, which lists maximum depth at approximately 75 feet (25 meters) and characterises the site by its hard corals and schooling fish.
+
+The reef is not a dramatic wall — it is a sloping hard coral reef with dense fish life driven by the current-fed southern coast conditions. Large schools of jacks and snapper are documented, with occasional barracuda.
+
+Note: The previous description described Skalahein as a "drift dive" with "drop-off from 5–40m" and included "black coral below 30m" — these specific claims were sourced from the existing notes tag and have not been independently confirmed. The JADS Aruba dive site listing (the most reliable operator source) documents max depth at 25m and categorises it as a standard reef dive, not specifically a drift. These claims have been made more conservative.
 
 ## Site Information
 
-- **Location**: Aruba, Caribbean
+- **Location**: Southern Aruba coast
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 23 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
+- **Typical Visibility**: 20+ meters (south coast)
 - **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
+- **Best Time**: December to April (morning south coast trips)
 
 ## Marine Life
 
-Large schools of barracuda, jacks, and snapper are a constant presence on this current-fed southern coast drift dive, with the gentle flow making extended encounters easy. Filefish, bluehead wrasses, and butterflyfish populate the shallower coral sections, while deeper areas below 23 metres reveal groves of black coral and gorgonians in the excellent visibility typical of Aruba's southern reefs.
+Documented at Skalahein: hard corals, schooling jacks and snapper, occasional barracuda. JADS Aruba specifically lists "hard corals, schooling fish" as the site's characteristic marine life. No source specifically documented individual reef fish species beyond these general categories for this site.
+
+*Regional Caribbean reef fauna applies; no site-specific marine life beyond schooling fish and hard corals was found in published sources for Skalahein.*
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 23 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-20 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+Boat dive on the south coast two-tank morning trip. Descend onto the hard coral reef and work the slope down to around 20–25 meters. The fish schools are typically encountered in open water above the reef. Ascend and conduct a safety stop at 5 meters. The moderate depth means good bottom times for recreational divers.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Boat dive only. Part of the south coast morning two-tank circuit operated by JADS Aruba and other operators. Giant stride or back roll entry. Deploy SMB for safety stop.
 
 ## Tips and Recommendations
 
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Book the morning south coast two-tank trip — visibility is best in the morning
+- Pair with Kantil Reef on the same trip for complementary wall and reef experiences
+- The south coast trip requires a longer boat ride than north coast sites — plan accordingly
 
 ## Safety Considerations
 
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
+Standard intermediate reef dive precautions. Monitor depth on the slope. South coast conditions can be more exposed than the west coast — follow operator briefing on current conditions.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+Good visibility and schooling fish make this a strong wide-angle photography site. The hard coral coverage provides reef scenery context for fish portraits.
 
 ---
-*Sources: PADI, DiveBuddy, DiveIn, AquaWindies. Last updated 2026-03-16.*
+*Sources: [JADS Aruba - Dive Sites](https://jadsaruba.com/scuba/dive-sites/), [ScubaBoard - Best Dive Sites in Aruba](https://scubaboard.com/community/threads/best-dive-sites-in-aruba.397724/), [Yellow Cunucu - Scuba Diving Aruba](https://www.yellowcunucu.com/blog/scuba-diving-aruba-guide). Last updated 2026-05-17.*

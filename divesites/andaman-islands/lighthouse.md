@@ -3,7 +3,7 @@ name: Lighthouse
 lat: 12.049892
 lng: 92.9641702
 difficulty: Beginner
-maxDepth: 13
+maxDepth: 20
 entryType: boat
 siteType: reef
 ref: null
@@ -13,51 +13,50 @@ addedBy: osm_import
 
 ## Lighthouse
 
-Lighthouse is a reef dive site in Andaman Islands, Asia.
+Lighthouse is a circular fringing reef surrounding a small lighthouse near Havelock Island's jetty, one of the most accessible beginner sites in the Andamans and one of the few where night diving is permitted.
 
 ## Overview
 
-Lighthouse is a large fringing coral reef circling a small white lighthouse at the entrance to Havelock Island's jetty channel, one of the island's most popular and accessible sites with a sloping reef running from 3 to 23 metres on a sandy bottom. The site is crowded with fan corals, cauliflower coral, staghorn coral, barrel sponges, and sea fans, hosting giant clams, angelfish, lionfish, triggerfish, pufferfish, unicorn fish, and the chance of encountering humpback parrotfish in large groups. One of very few sites in the Andamans open for night diving, Lighthouse is equally vivid after dark when octopuses and lobsters emerge from the reef.
+Lighthouse reef is located approximately 3 kilometres west of Havelock Island's main ferry jetty. The underwater topography is an oval-shaped reef encircling the base of a small lighthouse, with the sloping reef running from around 3 metres on the shallowest sections down to approximately 20 metres on the sandy bottom. The site is renowned for its variety of hard and soft corals and consistently calm conditions, making it the primary training and introductory dive site for Havelock Island operators. Night dives are offered here — unusually for the Andamans — because the site's proximity to shore and predictable layout make it manageable after dark for experienced divers.
 
 ## Site Information
 
-- **Location**: Andaman Islands, Asia
+- **Location**: Western coast of Havelock Island (Swaraj Dweep), ~3 km from ferry jetty
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 13 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 20 meters
+- **Typical Visibility**: Up to 25 meters
+- **Current**: Generally mild
+- **Best Time**: November to April
 
 ## Marine Life
 
-The shallow fringing reef hosts a dense community of reef fish including angelfish, triggerfish, pufferfish, unicorn fish, and schools of humpback parrotfish, with giant clams and sea fans adding to the coral garden scenery. Lionfish are common residents tucked under ledges, while moray eels and octopuses emerge on the reef at night. This is one of the few Andaman sites open for night diving, making it particularly rewarding for spotting crustaceans and nocturnal feeders after dark.
+Confirmed resident species include lionfish, angelfish, triggerfish, pufferfish, unicornfish, fusiliers, trumpetfish, humpback parrotfish, Moorish idols, moray eels, nudibranchs, Kuhl's stingrays, Jenkins' stingrays, and octopuses. Lobsters emerge after dark, making this one of the better night dive options in the Andamans.
 
 ## Dive Profile
 
-The site offers diving at depths ranging from shallow reef areas down to approximately 13 meters. Begin your dive in the shallower sections and gradually work deeper as conditions allow. The most abundant marine life is typically found between 5-13 meters. Plan your dive within your certification limits and allow adequate air for a safety stop.
+The reef slopes gently from 3 metres at the shallowest point to approximately 20 metres at the sandy bottom edge. Begin the dive exploring the shallower sections and work progressively deeper. The 5–13 metre range has the densest coral coverage and fish activity. Return to shallower depths for the safety stop.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by boat from Havelock Island operators. Entry via giant stride or back roll. Night dives require prior arrangement with the operator and are restricted to experienced divers. Deploy an SMB during ascent.
 
 ## Tips and Recommendations
 
-- Excellent site for newer divers — calm conditions and easy navigation
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-- Carry a surface marker buoy (SMB) and be prepared for current changes
+- Ideal as a first dive in the Andamans — calm, shallow, easy navigation
+- Night dives available through select operators; confirm in advance
+- The shallow reef top is excellent for new divers and underwater photography
+- Plastic waste is strictly prohibited at this site — reef-safe sunscreen required
+- Prescription dive masks available at some Havelock operators if needed
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Currents are generally mild but can increase with tidal changes. Night dives require experience and must be conducted with a qualified guide. Always carry an SMB.
 
 ## Photography
 
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
+The shallow, calm reef provides ideal conditions for both wide-angle reef photography and macro shots of nudibranchs and small reef fish. Natural light penetrates well in the shallows during morning hours.
 
 ---
-*Sources: [Dive Andaman - Dive Sites](https://www.diveandaman.com/), [SSI - Scuba Diving in Andaman Guide](https://www.divessi.com/en/blog/ultimate-scuba-diving-in-andaman-10091.html), [PADI - Diving in Andaman Islands](https://www.padi.com/diving-in/andaman-islands/), [Bluewater Dive Travel - Andaman Islands](https://www.bluewaterdivetravel.com/destination/andaman-islands-diving), [Sea Hawks Scuba - Andaman Diving Guide](https://seahawksscuba.in/scuba-diving-in-andaman/). Last updated 2026-04-04.*
+*Sources: [Dive Andaman - Lighthouse](https://www.diveandaman.com/lighthouse-havelock-island), [Seahawks Scuba - Lighthouse](https://seahawksscuba.in/light-house-havelock-island/), [DIVEIndia - Havelock Dive Sites](https://diveindia.com/havelock-dive-sites/). Last updated 2026-05-17.*

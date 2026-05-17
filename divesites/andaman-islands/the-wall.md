@@ -3,7 +3,7 @@ name: The Wall
 lat: 12.0547239
 lng: 92.962155
 difficulty: Intermediate
-maxDepth: 40
+maxDepth: 55
 entryType: boat
 siteType: wall
 ref: null
@@ -13,51 +13,50 @@ addedBy: osm_import
 
 ## The Wall
 
-The Wall is a wall dive site in Andaman Islands, Asia.
+The Wall is Havelock Island's signature wall dive — a reef formation that drops from 10 metres to a maximum of 55 metres along the channel between Havelock and Peel Islands, spanning over 200 metres of underwater terrain.
 
 ## Overview
 
-The Wall was the first dive site discovered on Havelock Island in 2004 and remains its most famous — a vertical drop-off that plunges from 10 metres down to 55 metres at the channel between Havelock and Peel Islands, with one side a sheer cliff face and the other a 60-degree slope covered in gorgonian fans. The wall is alive with hydroids, feather stars, soft corals, and dark caves, hosting giant groupers, sweetlips, parrotfish, angelfish, moray eels, and scorpionfish as permanent residents, with Napoleon wrasse and giant trevally drawn in by the medium to strong currents that make this best suited to experienced divers. The shallower sloping side is accessible to beginners with an instructor.
+The Wall is one of Havelock Island's most famous dive sites and is suitable for Open Water certified divers through to experienced fun divers. The reef structure forms a sheer wall on one side dropping into the channel between Havelock (Swaraj Dweep) and Peel Island, while the other side slopes more gradually. The site stretches over 200 metres and is home to multiple reef systems, with staghorn, star, valley, mushroom, fan, and cauliflower corals providing dense cover. Strong tidal currents sweep the channel, bringing in Napoleon wrasse, giant trevally, and barracuda. Mild currents from the east are the norm on most dives, but conditions can become more challenging. The site functions partly as a cleaning station, with large aggregations of fish gathering at certain sections of the reef. Day dives typically stay in the 21–24 metre range at the deeper sections; the shallower slope is accessible to beginners.
 
 ## Site Information
 
-- **Location**: Andaman Islands, Asia
+- **Location**: Channel between Havelock Island (Swaraj Dweep) and Peel Island, Andaman Islands
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 40 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
+- **Maximum Depth**: 55 meters
+- **Typical Visibility**: 10–25 meters
+- **Current**: Mild east current typical; tidal currents can be strong
+- **Best Time**: October to May
 
 ## Marine Life
 
-The wall's permanent residents include giant groupers, sweetlips, parrotfish, angelfish, moray eels, and scorpionfish sheltering in the darker crevices and cave openings. Napoleon wrasse and giant trevally are drawn in by the strong currents that sweep the channel, hunting alongside the gorgonian fans and feather stars that colonise the sheer cliff face. The gorgonian-draped slope on the calmer side offers additional encounters with reef sharks patrolling the deeper sections.
+Confirmed resident species include Napoleon wrasse, giant groupers, sweetlips, parrotfish, triggerfish, pufferfish, butterflyfish, bannerfish, rabbitfish, needlefish, sea anemones, and schools of trevally and barracuda. Occasional sightings include octopus, marble rays, squid, lionfish, and dolphins. Scorpionfish and stonefish are present and well-camouflaged — watch where you place hands and fins. Extensive coral coverage supports sea urchins, sea cucumbers, and encrusting communities throughout.
 
 ## Dive Profile
 
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
+Begin the dive on the shallower slope (10–18 metres) and descend along the wall as conditions allow. Most of the site's marine activity is in the 18–35 metre range during day dives. Monitor depth carefully — wall dives can lead to unintentional deep descents. Begin ascent with adequate reserve for a 5-metre safety stop. The channel currents can assist navigation but require awareness of direction.
 
 ## Entry and Exit
 
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
+Access by boat from Havelock Island operators. Entry via giant stride or back roll. Deploy an SMB during ascent for pickup.
 
 ## Tips and Recommendations
 
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
+- Monitor depth closely — the wall descends to 55 metres and can draw divers deeper than planned
+- Look in crevices and under overhangs for scorpionfish and stonefish
+- Check current direction at the surface before descending
+- Best visited in the morning before winds pick up
+- The shallower slope section (10–18 m) suits newer divers; deeper wall sections require experience
 
 ## Safety Considerations
 
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
+Strong currents are possible in the channel. Dive within your certification limits. Always carry an SMB and maintain buddy contact. Be aware of camouflaged stonefish and scorpionfish on the reef surface.
 
 ## Photography
 
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
+The wall face offers dramatic wide-angle shots with schools of barracuda or trevally silhouetted against blue water. Coral crevices provide macro subjects including scorpionfish and small invertebrates.
 
 ---
-*Sources: [Dive Andaman - Dive Sites](https://www.diveandaman.com/), [SSI - Scuba Diving in Andaman Guide](https://www.divessi.com/en/blog/ultimate-scuba-diving-in-andaman-10091.html), [PADI - Diving in Andaman Islands](https://www.padi.com/diving-in/andaman-islands/), [Bluewater Dive Travel - Andaman Islands](https://www.bluewaterdivetravel.com/destination/andaman-islands-diving), [Sea Hawks Scuba - Andaman Diving Guide](https://seahawksscuba.in/scuba-diving-in-andaman/). Last updated 2026-04-04.*
+*Sources: [Barefoot Scuba - The Wall](https://www.barefootscuba.in/dive-sites/dive-sites-in-andaman.html), [Seahawks Scuba - The Wall](https://seahawksscuba.in/the-wall-havelock-island/), [Dive Andaman - Dive Sites](https://www.diveandaman.com/page/scuba-diving-sites-havelock-island). Last updated 2026-05-17.*

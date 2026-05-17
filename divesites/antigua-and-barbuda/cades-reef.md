@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Cades Reef
 
-Antigua's most celebrated dive site — a 3-kilometre barrier reef on the southwest coast with outstanding hard coral diversity, excellent visibility, and consistent green sea turtle sightings.
+Antigua's premier dive destination — a two-mile barrier reef on the southwest coast protected within the Cades Bay Marine Reserve, with named dive spots, excellent hard coral diversity, and consistent encounters with nurse sharks, hawksbill turtles, and eagle rays.
 
 ## Overview
 
-Cades Reef is the flagship dive destination of Antigua and one of the most consistently praised dive sites in the northeastern Caribbean. Running for approximately 3 kilometres along Antigua's southwest coast, this barrier reef system features exceptional hard coral coverage with well-developed brain, star, pillar, and elkhorn coral formations. The reef descends from the shallows to approximately 15 meters at the outer edge and is protected as part of Antigua's marine park. The site was designated a protected area partly on the strength of its outstanding coral diversity and relatively pristine condition compared to reefs elsewhere in the Caribbean. Visibility typically reaches 25–35 meters in dry season conditions. Water temperature is 26–28°C year-round.
+Cades Reef is the flagship dive destination of Antigua and one of the most consistently visited sites in the northeastern Caribbean. Running for approximately two miles (about 3 km) along Antigua's southwest coast, this barrier reef is now partly contained within the Cades Bay Marine Reserve. The reserve protects mangrove wetlands, seagrass beds, and turtle nesting beaches as well as the reef itself. The reef has both inner and outer sections accessible to divers, with the outer edge reaching approximately 15 metres and various named spots offering distinct experiences: Bush Gardens, Bluff Cut, Snapper Ledge, and Monk's Head are among the regularly dived sections. Visibility is typically good in the dry season. Water temperature is 26–28°C year-round. Evidence of coral bleaching has been noted in recent reports; live coral coverage remains significant but conditions vary by section.
 
 ## Site Information
 
@@ -27,38 +27,33 @@ Cades Reef is the flagship dive destination of Antigua and one of the most consi
 | Difficulty | Beginner |
 | Entry Type | Boat |
 | Site Type | Reef |
-| Visibility | 25–35 m |
+| Visibility | 15–30 m (variable) |
 | Current | Light |
 | Water Temp | 26–28°C |
 
 ## Marine Life
 
-Cades Reef's diverse coral structure supports one of the richest Caribbean reef fish communities in Antigua's waters. Green sea turtles are essentially a guaranteed sighting — they are year-round residents of the reef and are highly accustomed to divers. Hawksbill turtles are also common. Large schools of blue tang and parrotfish move across the reef crest, and individual French and queen angelfish are ubiquitous throughout. Southern stingrays occupy the sandy patches between coral formations. Spotted moray eels extend from crevices throughout the reef. Nurse sharks rest in the deeper shadow areas. Schools of bar jacks patrol in mid-water.
+The following marine life has been confirmed at Cades Reef by multiple dive sources: nurse sharks rest in the sandy pockets along the reef; hawksbill turtles feed on the reef sponges; spotted eagle rays pass along the reef face; barracuda and moray eels are common throughout; angelfish are abundant. Parrotfish, trumpetfish, lobster, and spotted drum have also been reported at specific named sections. An octopus was observed at Monk's Head by a California Diver correspondent. Reef sharks have been reported at the reef by multiple divers. The reef fish community is diverse across the two-mile length.
 
 ## Dive Profile
 
-Multiple entry points exist along the 3-kilometre reef. Most dives focus on a 300–400 metre section of the outer reef face. Descent to the reef crest at 5 meters, then navigate east along the outer face to the planned turnaround point. The outer edge at 12–15 meters carries the largest coral formations and most impressive scenery. Return along the inner face or back along the outer face at shallower depth. Total dive: 50–60 minutes.
+Multiple dive entry points exist across the two-mile reef. Most operators focus on a 300–400 metre section relevant to the named spot for that dive. Descent to the reef crest, then navigation along the outer face at 10–15 metres to the planned turnaround. Inner reef sections are shallower and good for extended bottom time and safety stops. Total dive typically 50–60 minutes.
 
 ## Entry and Exit
 
-Boat dive from Antigua's multiple dive operators. The reef's proximity to the island (approximately 15 minutes by boat) makes it the standard choice for morning dives. Entry by giant stride. Permanent mooring buoys prevent anchor damage. DSMB recommended.
+Boat dive. Multiple operators visit Cades Reef daily, including DiveCarib, Indigo Divers, and Jolly Dive. The reef is approximately 15–20 minutes by dive boat from English Harbour, and 20–30 minutes from Jolly Harbour. Permanent mooring buoys prevent anchor damage. DSMB recommended.
 
 ## Tips and Recommendations
 
-Cades Reef dives best in the morning when visibility is at its peak and fish activity is highest. The middle section of the reef (roughly where the reef curves seaward) is widely regarded as the best stretch for coral diversity and turtle encounters. Take time at the reef crest in 5–8 meters — the fish density here is remarkable and the ambient light is excellent for photography.
+Cades Reef dives best in the morning when visibility is at its peak. Ask operators which section they plan to dive — Snapper Ledge and Bluff Cut have distinct characters compared to Bush Gardens. The outer reef face in 10–15 metres generally carries the largest coral formations. Fire coral is present on the shallow reef crest; avoid contact.
 
 ## Safety Considerations
 
-Cades Reef is exposed to some surge from the southwest in winter months — check operator conditions reports before diving. Fire coral is present throughout the reef; avoid contact. Do not stand on or hold the reef structure. All areas of Antigua's marine park are no-take zones.
+Cades Reef is exposed to some southwest swell in winter months — check conditions before diving. The Cades Bay Marine Reserve is a no-take zone: collecting, fishing, and touching the reef are prohibited. Do not stand on coral. DSMB recommended.
 
 ## Photography
 
-Cades Reef is one of the finest ambient-light wide-angle reef photography sites in the Caribbean. The combination of pristine coral, clear water, and accessible depth creates ideal conditions. Turtle portraits in the shallow water above the reef crest are the signature image. The pillar coral formations in 8–12 meters are distinctive and photogenic. Macro subjects are abundant throughout the reef structure.
-
-## Additional Resources
-
-- Antigua and Barbuda Department of Marine Resources: marine park information
-- Dive Antigua, Jolly Dive, and Indigo Divers: main operators visiting Cades Reef
+Cades Reef is an excellent wide-angle reef photography site with good ambient light at accessible depths. Nurse shark portraits at the sandy base pockets, hawksbill turtles at the reef crest, and eagle ray flyby shots are the most sought-after images. The named spots each have distinct character — Monk's Head and Snapper Ledge offer different compositions from the open reef sections.
 
 ---
-*Sources: [Carib Dive Guide - Antigua](https://www.caribdiveguide.com/Antigua.htm), [DiveCarib - Antigua Dive Sites](https://www.divecarib.com/dive-sites/), [DIVEIN - Diving in Antigua and Barbuda](https://www.divein.com/diving/destination/diving-in-antigua-and-barbudo/), [PADI - Diving in Antigua and Barbuda](https://www.padi.com/diving-in/antigua-and-barbuda/), [Visit Antigua & Barbuda - Diving](https://www.visitantiguabarbuda.com/experiences/dive-carib/). Last updated 2026-04-04.*
+*Sources: [DiveCarib - Antigua Dive Sites](https://www.divecarib.com/dive-sites/), [California Diver Magazine - Scuba Diving Antigua](https://californiadiver.com/scuba-diving-antigua-lord-horatio-nelsons-island-1209/), [Zentacle - Cades Reef](https://www.zentacle.com/Beach/5088/cades-reef). Last updated 2026-05-17.*
