@@ -25,9 +25,9 @@ New Jersey's artificial reef program, administered by the NJ DEP Division of Fis
 
 - **Location**: Southern New Jersey coast, Ocean City / Great Egg area (exact site identity unverified)
 - **Entry Type**: Boat dive
-- **Site Type**: Artificial reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters (~65 feet)
+- **Maximum Depth**: 20 meters
 
 ## Marine Life
 

@@ -25,7 +25,7 @@ The Great Isaac was a V4-M-A1 class ocean-going tugboat built in 1943 for the US
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: ~27 meters (90 feet)
+- **Maximum Depth**: 27 meters
 
 ## Wreck History
 

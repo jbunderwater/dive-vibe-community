@@ -23,9 +23,9 @@ The Axel Carlson Reef is one of New Jersey's developed artificial reef sites, si
 
 - **Location**: Approximately 2.1 miles off Point Pleasant Beach / Bay Head (Mantoloking area), New Jersey
 - **Entry Type**: Boat dive
-- **Site Type**: Artificial reef (wrecks, rock, reef balls, armor)
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 22–24 meters (71–80 feet)
+- **Maximum Depth**: 22 meters
 
 ## Marine Life
 
