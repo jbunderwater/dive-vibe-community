@@ -187,8 +187,72 @@
         "antigua-and-barbuda",
         "aruba"
       ],
-      "summary": {},
-      "pr_url": null,
+      "summary": {
+        "sites_total": 85,
+        "sites_validated_today": 18,
+        "sites_re_audited": 82,
+        "hallucinations_removed": 60,
+        "marine_life_stripped": 49,
+        "wreck_conflicts_flagged": 7,
+        "sites_unresolved": 31,
+        "by_destination": {
+          "alaska": {
+            "sites_total": 31,
+            "sites_validated_today": 5,
+            "sites_re_audited": 31,
+            "hallucinations_removed": 8,
+            "marine_life_stripped": 9,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 26
+          },
+          "alor-archipelago": {
+            "sites_total": 11,
+            "sites_validated_today": 1,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 22,
+            "marine_life_stripped": 18,
+            "wreck_conflicts_flagged": 0,
+            "sites_unresolved": 3
+          },
+          "ambon": {
+            "sites_total": 10,
+            "sites_validated_today": 10,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 6,
+            "marine_life_stripped": 5,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 0
+          },
+          "andaman-islands": {
+            "sites_total": 9,
+            "sites_validated_today": 2,
+            "sites_re_audited": 7,
+            "hallucinations_removed": 9,
+            "marine_life_stripped": 4,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 2
+          },
+          "antigua-and-barbuda": {
+            "sites_total": 10,
+            "sites_validated_today": 0,
+            "sites_re_audited": 10,
+            "hallucinations_removed": 6,
+            "marine_life_stripped": 7,
+            "wreck_conflicts_flagged": 1,
+            "sites_unresolved": 0
+          },
+          "aruba": {
+            "sites_total": 14,
+            "sites_validated_today": 0,
+            "sites_re_audited": 14,
+            "hallucinations_removed": 9,
+            "marine_life_stripped": 6,
+            "wreck_conflicts_flagged": 2,
+            "sites_unresolved": 0
+          }
+        }
+      },
+      "pr_url": "PENDING",
       "errors": []
     }
   ]
