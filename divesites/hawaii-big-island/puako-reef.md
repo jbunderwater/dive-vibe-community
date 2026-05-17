@@ -82,7 +82,6 @@ Lava formations create excellent compositional opportunities. Turtle photography
 
 Puako's health depends on responsible diving. Respect the reef, avoid touching corals, maintain proper buoyancy, and leave no trace. Report any signs of damage or marine pollution to local conservation groups.
 
-
 ---
 *This dive site information was researched from Kohala Coast dive guides, Hawaiian marine conservation resources, and diver community reviews. Last updated 2026-03-16.*
 

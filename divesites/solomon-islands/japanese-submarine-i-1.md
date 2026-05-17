@@ -24,10 +24,10 @@ The surviving section includes the dive planes, rudder, and propeller, all clear
 ## Site Information
 
 - **Location**: Kamimbo Bay, Guadalcanal -- approximately 40 km west of Honiara
-- **Entry Type**: Boat dive from Honiara
-- **Site Type**: Wreck dive (WWII submarine)
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 metres
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15-30 metres
 - **Water Temperature**: 27-28°C
 - **Current**: Generally mild in Kamimbo Bay

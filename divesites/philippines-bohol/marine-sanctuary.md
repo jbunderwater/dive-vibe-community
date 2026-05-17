@@ -24,10 +24,10 @@ The site is renowned for its large resident populations of green sea turtles and
 ## Site Information
 
 - **Location**: Western side, Balicasag Island, Bohol, Philippines
-- **Entry Type**: Boat dive (30 min from Alona Beach)
-- **Site Type**: Protected reef/wall
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 30 meters (deeper sections available)
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15-30 meters
 - **Water Temperature**: 26-30 degrees C
 - **Current**: Generally calm (protected zone)

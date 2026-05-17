@@ -18,8 +18,8 @@ El Bajo is a long reef bar roughly 500 yards long and 30 yards wide, running nor
 
 ## Site Information
 - **Location**: Cabo Pulmo National Marine Park, Baja California Sur
-- **Entry Type**: Boat dive (5-10 min from Cabo Pulmo village)
-- **Site Type**: Reef bar
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-25 meters

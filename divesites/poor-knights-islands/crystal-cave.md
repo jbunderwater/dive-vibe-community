@@ -25,7 +25,7 @@ The cave system features passages that allow divers to swim through sections of 
 
 - **Location**: Poor Knights Islands, Northland, New Zealand
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/cavern with swim-throughs
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15-30 meters

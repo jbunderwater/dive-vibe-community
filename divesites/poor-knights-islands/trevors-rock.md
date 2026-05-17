@@ -25,7 +25,7 @@ Boats anchor on the shallow side in approximately 10 meters of water, giving acc
 
 - **Location**: Poor Knights Islands, Northland, New Zealand
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-20 meters

@@ -22,7 +22,7 @@ Kubu Reef is located off the village of Kubu on Bali's northeast coast, approxim
 ## Site Information
 
 - **Location**: Kubu Village, East Bali, Indonesia (3.5 km NW of Tulamben)
-- **Entry Type**: Shore entry with porters
+- **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters

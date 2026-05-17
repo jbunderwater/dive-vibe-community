@@ -26,9 +26,6 @@ Located at 199 Dallas Road in downtown Victoria, the breakwater extends 800 mete
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
-- **Typical Visibility**: 8-15 meters (varies seasonally)
-- **Current**: Generally mild to moderate
-- **Best Time**: Year-round (popular destination)
 - **Water Temperature**: 8-12°C (cold water diving required)
 
 ## Site Characteristics
@@ -108,10 +105,6 @@ This is an Intermediate site suitable for trained recreational divers:
 - Always dive with a buddy
 - Exit carefully, watching for surge zones near shore
 - The site is safe and accessible but cold water remains a factor year-round
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ---
 *Sources: [ScubaBC](https://www.scubabc.ca/dive-sites/), [DIVE BC](https://dive.bc.ca/), [Divezone British Columbia](https://divezone.net/diving/british-columbia), [PADI British Columbia Dive Sites](https://www.padi.com/dive-sites/british-columbia/). Last updated 2026-04-04.*

@@ -18,7 +18,8 @@ scripts/
   gather_osm_extended.py       # Extended scraper (-d slug, --wrecks-only, --gaps-only)
   clean_osm_data.py            # Bulk cleaner
   fill_new_destinations.py     # Curated site gap-filler
-  generate_sites.py            # Markdown generator (full regeneration)
+  generate_sites.py            # Markdown stub generator (frontmatter + brief overview + structural Site Information only; no auto-generated marine life, dive profile, photography, or safety claims)
+  strip_boilerplate.py         # Removes auto-generated boilerplate sections from existing markdown
   sync_sites.py                # Sync osm_clean changes to markdown frontmatter + index.json
 ```
 
@@ -79,7 +80,7 @@ Use the `/add-destinations` slash command for the full agentic workflow, or foll
 4. Run quality checks (`/quality-check`)
 5. Gap-fill if < 8 sites with curated data
 6. **Validate site types and descriptions** (`/validate-sites`) — research each site against ScubaBoard and dive forums, update both JSON data and markdown descriptions
-7. Run `python3 scripts/generate_sites.py` to generate markdown (**first time only** — NEVER re-run on destinations with existing hand-curated descriptions, as it overwrites all markdown with generic template text)
+7. Run `python3 scripts/generate_sites.py` to generate markdown (**first time only** — NEVER re-run on destinations with existing hand-curated descriptions, as it overwrites them with the minimal stub). The generator intentionally produces only frontmatter + a brief identifying overview + structural Site Information — no marine life, dive profile, photography, or safety claims, since those require site-specific research
 8. Run `python3 scripts/sync_sites.py <slug>` after any osm_clean data changes to sync frontmatter + index.json (safe — only updates frontmatter fields, preserves description content)
 
 ## Anti-Hallucination Policy (CRITICAL)

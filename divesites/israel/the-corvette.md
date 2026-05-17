@@ -3,7 +3,7 @@ name: The "Corvette"
 lat: 32.774141
 lng: 34.861164
 difficulty: Intermediate
-maxDepth: null
+maxDepth: 20
 entryType: boat
 siteType: wreck
 ref: null
@@ -26,7 +26,7 @@ No confirmed historical records, vessel identification, depth data, or diving re
 - **Location**: South of Haifa, central Israeli Mediterranean (Caesarea area)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Maximum Depth**: Unknown
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: Typical Israeli Mediterranean 5–12 metres
 - **Current**: Moderate
 

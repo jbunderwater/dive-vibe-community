@@ -25,7 +25,7 @@ East Point is located at the eastern extremity of Urara Island in the Rabaul are
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 40+ meters
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 20 meters
 - **Current**: Mild to moderate
 - **Best Time**: Year-round; calmest conditions April to November

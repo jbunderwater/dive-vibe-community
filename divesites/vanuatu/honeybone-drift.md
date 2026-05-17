@@ -26,8 +26,8 @@ The highlight of the drift is reaching the Twin Bommies -- two large coral forma
 - **Location**: Outside Port Vila Harbour, Mele Bay, Efate, Vanuatu
 - **Entry Type**: Boat dive
 - **Site Type**: Drift dive
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 27 meters
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: ~20 meters
 - **Water Temperature**: 26-28 degrees C
 - **Current**: Mild to moderate (incoming tide)

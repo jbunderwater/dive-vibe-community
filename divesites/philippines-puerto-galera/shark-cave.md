@@ -23,7 +23,7 @@ Shark Cave lies east of Puerto Galera's Lighthouse Headland and despite its name
 
 - **Location**: East of Lighthouse Headland, Puerto Galera, Mindoro Island, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 28 meters
 - **Typical Visibility**: ~25 meters

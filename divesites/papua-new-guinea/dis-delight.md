@@ -25,9 +25,9 @@ The defining feature is the enormous gorgonia sea fans that decorate the bommies
 
 - **Location**: Bootless Bay, south of Loloata Island, Port Moresby
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/bommie
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 32 metres
+- **Maximum Depth**: 32 meters
 - **Typical Visibility**: 15-30 metres
 - **Current**: Mild to moderate; best on incoming tide
 - **Best Time**: Year-round; incoming tide for pelagic action

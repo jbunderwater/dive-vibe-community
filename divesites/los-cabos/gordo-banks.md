@@ -18,8 +18,8 @@ A submerged seamount approximately 13 kilometers offshore from San Jose del Cabo
 ## Site Information
 
 - **Location**: 13 km offshore from San Jose del Cabo
-- **Entry Type**: Boat dive (long boat ride)
-- **Site Type**: Seamount / pinnacle
+- **Entry Type**: Boat dive
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 15-30 meters (open ocean)

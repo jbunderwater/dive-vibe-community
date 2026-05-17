@@ -25,7 +25,7 @@ Coral cover is approximately 15% -- better than the island's northeastern sites 
 
 - **Location**: West side, off Arorangi School, Rarotonga, Cook Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Volcanic reef (ridges and gullies)
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 40+ meters

@@ -19,7 +19,7 @@ A rock-covered slope with layers of hidden life. The dive begins over a shallow 
 
 - **Location**: Cabo San Lucas Marine Park
 - **Entry Type**: Boat dive
-- **Site Type**: Wall / slope
+- **Site Type**: Wall dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 27 meters
 - **Typical Visibility**: 10-20 meters

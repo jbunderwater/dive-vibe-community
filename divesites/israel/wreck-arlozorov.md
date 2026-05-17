@@ -2,8 +2,8 @@
 name: Wreck Arlozorov
 lat: 32.836976
 lng: 34.981799
-difficulty: Intermediate
-maxDepth: 10
+difficulty: Beginner
+maxDepth: 7
 entryType: shore
 siteType: wreck
 ref: null
@@ -26,7 +26,7 @@ The wreck lies within easy reach of shore in up to 10 metres of water, spread ac
 - **Location**: Bat Galim beach, Haifa, Mediterranean
 - **Entry Type**: Shore entry
 - **Site Type**: Wreck dive
-- **Maximum Depth**: 10 meters
+- **Maximum Depth**: 7 meters
 - **Typical Visibility**: 3–8 metres (affected by harbour conditions and seasonal variation)
 - **Current**: Mild to moderate
 - **Best Time**: May to October

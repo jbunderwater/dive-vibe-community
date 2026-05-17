@@ -3,7 +3,7 @@ name: Wreck SDG
 lat: 32.953833
 lng: 34.950917
 difficulty: Intermediate
-maxDepth: null
+maxDepth: 20
 entryType: boat
 siteType: wreck
 ref: null
@@ -24,7 +24,7 @@ The Wreck SDG is catalogued as a patrol boat wreck on the Israeli Mediterranean 
 - **Location**: Northern Israeli Mediterranean, north of Haifa
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Maximum Depth**: Unknown
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: Typical northern Israeli Mediterranean 5–12 metres
 - **Current**: Moderate
 

@@ -19,7 +19,7 @@ Two reef systems blended with coral canyons near the eastern end of the Corridor
 
 - **Location**: The Corridor, near San Jose del Cabo
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-20 meters

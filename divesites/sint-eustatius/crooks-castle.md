@@ -59,7 +59,6 @@ Boat traffic along the southwest coast requires deploying an SMB on ascent. Fire
 
 Wide-angle shots capturing encrusted anchors and cannons against healthy coral create compelling historical-underwater compositions. Macro subjects include flamingo tongue cowries on sea fans, cleaning shrimp in crevices, and peacock flounders on the sand. Morning light angles from the east provide good ambient illumination at these shallow depths.
 
-
 ---
 *Dive site information compiled from STENAPA marine park records and Sint Eustatius diving guides. Last updated 2026-03-28.*
 

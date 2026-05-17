@@ -23,7 +23,7 @@ The MV Alma Jane is a coastal freighter of approximately 30 meters in length tha
 
 - **Location**: Sabang Bay, Puerto Galera, Mindoro Island, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck (scuttled)
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 29 meters
 - **Typical Visibility**: 15-20 meters

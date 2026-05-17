@@ -25,7 +25,7 @@ The site is accessible to intermediate-level divers, with a maximum depth of app
 
 - **Location**: Off Panglao Island, Bohol, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Sloping reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-25 meters

@@ -18,8 +18,8 @@ Las Navajas features deep canyons and dramatic rock formations within Cabo Pulmo
 
 ## Site Information
 - **Location**: Cabo Pulmo National Marine Park, Baja California Sur
-- **Entry Type**: Boat dive (5-10 min from Cabo Pulmo village)
-- **Site Type**: Reef with canyons
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 10-25 meters

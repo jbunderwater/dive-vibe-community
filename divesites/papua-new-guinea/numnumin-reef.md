@@ -23,9 +23,9 @@ Numnumin Reef is a wall dive located just five minutes by boat from Nusa Island 
 
 - **Location**: Kavieng, New Ireland Province, Papua New Guinea (5 min from Nusa Resort)
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive (macro-focused)
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 22 meters
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 25 meters
 - **Current**: None to negligible
 - **Best Time**: Year-round; outstanding as both day and night dive

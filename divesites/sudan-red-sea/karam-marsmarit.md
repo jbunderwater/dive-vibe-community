@@ -26,9 +26,6 @@ Karam Marsmarit is visited as part of specialized deep south liveaboard itinerar
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 25-40 meters (80-130+ feet)
-- **Current**: Strong
-- **Best Time**: February to April
 
 ## Marine Life
 
@@ -54,10 +51,6 @@ Access only via specialized south-expedition liveaboards. Descents follow the wa
 ## Safety Considerations
 
 Significant hazards include strong currents, nitrogen narcosis below 30m, and deep diving dangers. The remote location limits emergency response—only dive if you have 50+ logged deep dives and strong current experience. Maintain strict depth discipline and monitor air consumption carefully; bottom times at 35-40m must be conservative. Abort immediately if nitrogen narcosis impairs judgment or if current becomes unmanageable. Always dive with an experienced buddy and carry redundant signaling equipment (SMB, mirror, light).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ---
 *Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*

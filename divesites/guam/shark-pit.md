@@ -24,10 +24,10 @@ The site features a pinnacle that rises dramatically from approximately 30 meter
 ## Site Information
 
 - **Location**: Orote Peninsula, south of Blue Hole, Guam
-- **Entry Type**: Boat dive (also accessible by shore via Naval Base)
-- **Site Type**: Pinnacle with WWII artifacts
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters (sand around pinnacle); pinnacle top at 4 meters
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: 15-25 meters
 - **Water Temperature**: 28-29 degrees C
 - **Current**: Variable

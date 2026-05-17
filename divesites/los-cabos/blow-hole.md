@@ -19,7 +19,7 @@ Named for a small blowhole on the nearby shore. The underwater terrain features 
 
 - **Location**: The Corridor, between Cabo San Lucas and San Jose del Cabo
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle / boulders
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-25 meters

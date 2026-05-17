@@ -3,7 +3,7 @@ name: Wreck Naharia
 lat: 33.012278
 lng: 35.073306
 difficulty: Intermediate
-maxDepth: null
+maxDepth: 18
 entryType: boat
 siteType: wreck
 ref: null
@@ -26,7 +26,7 @@ Local operators based in Nahariya are the best source for current information ab
 - **Location**: Off Nahariya, northern Israeli Mediterranean
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Maximum Depth**: Unknown
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: Typical northern Israeli Mediterranean 5–12 metres
 - **Current**: Variable
 

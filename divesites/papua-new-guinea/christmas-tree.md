@@ -23,9 +23,9 @@ Christmas Tree is located outside the barrier reef near Port Moresby, past Basil
 
 - **Location**: Outside barrier reef past Basilisk Passage, Port Moresby, Papua New Guinea
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
-- **Difficulty Level**: Advanced
-- **Maximum Depth**: 55+ meters (wall); 45 meters (Mark's Ravine)
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 25 meters
 - **Current**: Moderate to strong
 - **Best Time**: Year-round; sea conditions may limit access

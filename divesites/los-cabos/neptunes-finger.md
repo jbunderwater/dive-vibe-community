@@ -19,7 +19,7 @@ Home to the largest sandfall in the Cabo San Lucas marine park and a dramatic ve
 
 - **Location**: Cabo San Lucas Marine Park
 - **Entry Type**: Boat dive
-- **Site Type**: Wall
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 33 meters
 - **Typical Visibility**: 10-25 meters

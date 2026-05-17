@@ -26,9 +26,6 @@ The USS or HMCS Yukon (DE-429/DDE-265) is a primary wreck dive in the Wreck Alle
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Wreck Features
 
@@ -41,27 +38,6 @@ The wreck supports thriving populations of lingcod, rockfish, cabezon, and other
 ## Dive Profile
 
 Descend to the top of the wreck (20-25 meters) and begin systematic exploration of the exterior. Divers can work around the hull, exploring exposed features and any "Swiss-cheesed" openings that allow safe penetration. Most dives focus on 35-45 minutes of bottom time with appropriate air management for the depth. The three-dimensional nature of wreck exploration can lead to inadvertent depth gain, so careful monitoring is essential.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-
-## Safety Considerations
-
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
 
 ---
 *Sources: [Dive California - La Jolla Cove Scuba Diving](https://divecalifornia.com/la-jolla-cove-scuba-diving/), [San Diego Scuba Guide - Guided Dives](https://sandiegoscubaguide.com/guided-dives/), [SSI - Scuba Diving in San Diego Guide](https://www.divessi.com/en/blog/scuba-diving-san-diego-guide-10278.html), [La Jolla Dive](https://www.lajolladive.com), [Scuba Diver Girls - Best Spots for Scuba Diving in La Jolla](https://scubadivergirls.com/la-jolla-scuba-diving/). Last updated 2026-04-04.*

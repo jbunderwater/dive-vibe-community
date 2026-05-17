@@ -3,7 +3,7 @@ name: Wreck mizdakeret
 lat: 32.811944
 lng: 34.8875
 difficulty: Intermediate
-maxDepth: null
+maxDepth: 15
 entryType: boat
 siteType: wreck
 ref: null
@@ -24,7 +24,7 @@ The Wreck mizdakeret takes its name from the Hebrew word for "souvenir." Whether
 - **Location**: South of Haifa, central Israeli Mediterranean
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Maximum Depth**: Unknown
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: Typical Israeli Mediterranean 5–12 metres
 - **Current**: Moderate
 

@@ -26,9 +26,6 @@ Browning Wall in God's Pocket is a world-class cold-water wall dive that showcas
 - **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 10-20 meters (seasonal variation)
-- **Current**: Strong tidal currents (timed to slack tide)
-- **Best Time**: Early spring and fall (avoid summer algae blooms)
 
 ## Marine Life
 
@@ -37,19 +34,6 @@ This site is densely populated with marine life. The wall is covered in a checke
 ## Dive Profile
 
 Dives are timed to slack tide and typically begin with a controlled descent along the wall. Most of the colorful invertebrate life is between 20-40 meters. Plan a bottom time of 20-25 minutes to allow adequate time for your safety stop. The interplay of color and the sheer face make this a favorite for photography.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
 
 ## Tips and Recommendations
 

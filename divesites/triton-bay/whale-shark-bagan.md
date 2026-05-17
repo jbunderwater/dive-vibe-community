@@ -61,7 +61,6 @@ Conditions near the bagan are generally calm with mild currents. However, this i
 
 The Kaimana Bay bagan offers extraordinary whale shark photography. The shallow, close-range encounters are ideal for wide-angle and fisheye shots showing the full body of the animal against the blue water. Backlit shots with the bagan structure silhouetted above provide dramatic context. Adult whale sharks at this site give a sense of scale rarely captured at other bagan locations. For video, the surface feeding behavior — mouth wide open, baitfish scattering — is among the most spectacular sequences available to underwater filmmakers anywhere in the Indo-Pacific.
 
-
 ---
 *This dive site information was updated with firsthand diver corrections and cross-referenced against regional liveaboard operator sources. Last updated 2026-04-04.*
 

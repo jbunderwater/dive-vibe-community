@@ -26,38 +26,10 @@ The Wall was the first dive site discovered on Havelock Island in 2004 and remai
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 10-40 meters (30-130 feet)
-- **Current**: Variable, can be very strong
-- **Best Time**: October to April (varies by location)
 
 ## Marine Life
 
 The wall's permanent residents include giant groupers, sweetlips, parrotfish, angelfish, moray eels, and scorpionfish sheltering in the darker crevices and cave openings. Napoleon wrasse and giant trevally are drawn in by the strong currents that sweep the channel, hunting alongside the gorgonian fans and feather stars that colonise the sheer cliff face. The gorgonian-draped slope on the calmer side offers additional encounters with reef sharks patrolling the deeper sections.
-
-## Dive Profile
-
-Begin along the reef top at shallower depths before descending along the wall. The wall descends to significant depths, so careful depth management is essential. Most of the interesting features and marine life are found between 10-40 meters. Maintain good buoyancy control and monitor your depth gauge regularly.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish, sea urchins in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-Wall dives offer stunning wide-angle opportunities with dramatic depth perspectives. The interplay of light and shadow along the wall creates compelling compositions. Look for macro subjects in wall crevices and overhangs.
 
 ---
 *Sources: [Dive Andaman - Dive Sites](https://www.diveandaman.com/), [SSI - Scuba Diving in Andaman Guide](https://www.divessi.com/en/blog/ultimate-scuba-diving-in-andaman-10091.html), [PADI - Diving in Andaman Islands](https://www.padi.com/diving-in/andaman-islands/), [Bluewater Dive Travel - Andaman Islands](https://www.bluewaterdivetravel.com/destination/andaman-islands-diving), [Sea Hawks Scuba - Andaman Diving Guide](https://seahawksscuba.in/scuba-diving-in-andaman/). Last updated 2026-04-04.*

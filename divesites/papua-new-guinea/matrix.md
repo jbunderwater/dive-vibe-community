@@ -22,10 +22,10 @@ Matrix is a wall dive in Steffen Strait, approximately 40 minutes by boat from N
 ## Site Information
 
 - **Location**: Steffen Strait, Kavieng, New Ireland Province, Papua New Guinea
-- **Entry Type**: Boat dive (drift)
+- **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 50 meters (wall continues deeper)
+- **Maximum Depth**: 50 meters
 - **Typical Visibility**: 30 meters
 - **Current**: Moderate (drift dive)
 - **Best Time**: Year-round; current direction determines dive plan

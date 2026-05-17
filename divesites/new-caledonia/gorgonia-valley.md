@@ -25,7 +25,7 @@ The wall is decorated with healthy coral growth including gorgonian sea fans tha
 
 - **Location**: Gadji Reef, NW corner of Isle of Pines, New Caledonia
 - **Entry Type**: Boat dive
-- **Site Type**: Wall with swim-throughs
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 20-40 meters

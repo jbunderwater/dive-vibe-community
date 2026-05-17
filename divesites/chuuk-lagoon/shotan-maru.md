@@ -27,7 +27,7 @@ The Shotan Maru is one of Chuuk's under-dived wrecks. She lacks the famous cargo
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 50 meters
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 15-30 meters (50-100 feet)
 - **Current**: Generally mild inside the lagoon
 - **Best Time**: Year-round; December to April offers calmest conditions

@@ -23,7 +23,7 @@ The Henry Leith is a 32-meter steam tug built in Scotland in 1887. After a remar
 
 - **Location**: Off Wangat Island, Nagada Harbour, Madang Province, Papua New Guinea
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive (scuttled steam tug)
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-20 meters

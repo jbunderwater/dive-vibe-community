@@ -24,8 +24,8 @@ The island offers several dive sites -- including Dakit Dakit, Spanish Tower, an
 ## Site Information
 
 - **Location**: Pamilacan Island, 12 km SE of Panglao, Bohol, Philippines
-- **Entry Type**: Boat dive (45-60 min from Alona Beach)
-- **Site Type**: Wall/slope
+- **Entry Type**: Boat dive
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 15-30 meters

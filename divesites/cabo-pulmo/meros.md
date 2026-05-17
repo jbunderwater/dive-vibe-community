@@ -18,8 +18,8 @@ Meros is a northern reef bar paired with El Bajo, featuring meandering coral and
 
 ## Site Information
 - **Location**: Cabo Pulmo National Marine Park, Baja California Sur (northern reef)
-- **Entry Type**: Boat dive (5-10 min from Cabo Pulmo village)
-- **Site Type**: Reef bar / pinnacle
+- **Entry Type**: Boat dive
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-25 meters

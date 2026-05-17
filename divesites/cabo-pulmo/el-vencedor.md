@@ -18,8 +18,8 @@ El Vencedor is the most famous dive site in Cabo Pulmo National Marine Park and 
 
 ## Site Information
 - **Location**: Cabo Pulmo National Marine Park, Baja California Sur
-- **Entry Type**: Boat dive (5-10 min from Cabo Pulmo village)
-- **Site Type**: Wreck
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 14 meters
 - **Typical Visibility**: 10-25 meters

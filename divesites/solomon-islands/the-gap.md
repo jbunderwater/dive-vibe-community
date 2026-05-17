@@ -24,10 +24,10 @@ The reef top sits at approximately 9 metres, dropping away steeply into the chan
 ## Site Information
 
 - **Location**: SE corner of Ghizo Island, main entrance to Gizo Harbour
-- **Entry Type**: Boat dive from Gizo
-- **Site Type**: Wall dive / channel
-- **Difficulty Level**: Intermediate to Advanced
-- **Maximum Depth**: 25 metres
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 30+ metres
 - **Water Temperature**: 27-28°C
 - **Current**: Can be strong through the channel

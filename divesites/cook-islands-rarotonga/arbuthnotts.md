@@ -24,8 +24,8 @@ Like much of Rarotonga's fringing reef, live coral cover here is relatively low 
 ## Site Information
 
 - **Location**: Northeast corner, Rarotonga, Cook Islands
-- **Entry Type**: Boat dive (7 minutes from Avatiu Harbour)
-- **Site Type**: Volcanic reef
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 35 meters
 - **Typical Visibility**: 40+ meters

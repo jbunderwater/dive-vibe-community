@@ -22,7 +22,7 @@ Buceo House Reef is the house reef of Buceo Anilao Dive Resort, accessible direc
 ## Site Information
 
 - **Location**: Buceo Anilao Dive Resort, Anilao, Batangas, Philippines
-- **Entry Type**: Shore dive (directly off resort)
+- **Entry Type**: Shore entry
 - **Site Type**: Muck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 30 meters

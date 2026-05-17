@@ -25,9 +25,9 @@ The wreck is well preserved at this depth. Her guns, torpedo tubes, and depth ch
 
 - **Location**: Iron Bottom Sound, near Guadalcanal/Tulagi, Solomon Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive (WWII destroyer)
-- **Difficulty Level**: Advanced (extreme depth -- technical diving only)
-- **Maximum Depth**: 70 metres
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 70 meters
 - **Typical Visibility**: 15-30 metres
 - **Water Temperature**: 27-28°C (cooler at depth)
 - **Current**: Variable

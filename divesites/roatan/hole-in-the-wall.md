@@ -26,34 +26,10 @@ Hole In The Wall is one of Roatan's most distinctive dive sites, centered on a s
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 20-40 meters (65-130 feet)
-- **Current**: Light to moderate
-- **Best Time**: December to April (dry season)
-
-## Marine Life
-
-Divers at this site can expect to encounter glassy sweepers, lobsters, crabs, and small fish sheltering in the overhangs. The cave environment attracts species adapted to low-light conditions including soldierfish, squirrelfish, and spotted drum. Outside the cave entrance, look for groupers, moray eels, and coral formations framing the opening.
 
 ## Dive Profile
 
 Approach the cave entrance carefully and assess conditions before entering. Maintain excellent buoyancy to avoid disturbing sediment. Follow the cave walls and always keep the entrance in sight unless properly trained for overhead environments. Exit the same way you entered.
-
-## Entry and Exit
-
-Access is by dive boat from local operators. Entry is typically via giant stride or back roll. Follow the dive briefing for descent and ascent procedures. Deploy a surface marker buoy (SMB) during your safety stop for boat pickup. Coordinate with the boat crew for exit procedures.
-
-## Tips and Recommendations
-
-- Watch your depth carefully — wall dives can lead to unintentional deep descents
-- Look in crevices and overhangs for hidden marine life
-- Book with reputable local dive operators who know the site conditions
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of boat traffic, fire coral, sea urchins in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
 
 ## Photography
 

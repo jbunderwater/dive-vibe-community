@@ -23,9 +23,9 @@ Lipah Bay is located approximately 12 minutes from Amed on Bali's northeast coas
 
 - **Location**: Lipah Bay, Amed, East Bali, Indonesia
 - **Entry Type**: Shore entry
-- **Site Type**: Reef dive (sandy slope with bommies and artificial reef)
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 30 meters (slope continues to ~40 m)
+- **Site Type**: Wall dive
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15-25 meters
 - **Water Temperature**: 27-29°C
 - **Current**: Generally mild

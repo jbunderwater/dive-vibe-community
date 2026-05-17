@@ -2,8 +2,8 @@
 name: Wreck Dovra Gdola
 lat: 32.797623
 lng: 34.926739
-difficulty: Intermediate
-maxDepth: 20
+difficulty: Advanced
+maxDepth: 36
 entryType: boat
 siteType: wreck
 ref: null
@@ -26,7 +26,7 @@ No detailed historical documentation about this specific barge — including whe
 - **Location**: Off Haifa, northern Israeli Mediterranean coast
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Maximum Depth**: Approximately 15–20 metres (unconfirmed)
+- **Maximum Depth**: 36 meters
 - **Typical Visibility**: 5–12 metres (typical northern Israeli Mediterranean)
 - **Current**: Moderate
 - **Best Time**: May to October

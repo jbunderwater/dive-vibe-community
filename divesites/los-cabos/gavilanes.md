@@ -19,7 +19,7 @@ Situated between Chileno Bay and Santa Maria Bay, Gavilanes hosts one of the hea
 
 - **Location**: The Corridor, between Chileno Bay and Santa Maria Bay
 - **Entry Type**: Boat dive
-- **Site Type**: Reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-20 meters

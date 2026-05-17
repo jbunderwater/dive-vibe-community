@@ -62,7 +62,6 @@ Dives typically focus on Ka'awaloa Cove, where the reef slope is gentle and suit
 
 This site's pristine condition is the result of strict protection. Divers must follow all guidelines to preserve this sanctuary for future generations. Respect marine life, do not touch corals or fish, and maintain proper buoyancy.
 
-
 ---
 *This dive site information was researched from Hawaii Division of Aquatic Resources, Kealakekua Bay MLCD documentation, and dive operator reviews. Last updated 2026-03-16.*
 

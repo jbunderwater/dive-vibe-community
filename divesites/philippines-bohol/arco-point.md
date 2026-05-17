@@ -24,10 +24,10 @@ The swim-through enters at approximately 18 meters and exits at around 8 meters,
 ## Site Information
 
 - **Location**: Libaong, Panglao Island, Bohol, Philippines
-- **Entry Type**: Boat dive (~14 min from shore)
-- **Site Type**: Reef with natural arch swim-through
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 27 meters (reef base)
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-25 meters
 - **Water Temperature**: 26-30 degrees C
 - **Current**: Mild (0-3 on scale)

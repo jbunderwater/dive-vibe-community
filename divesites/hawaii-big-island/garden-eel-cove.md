@@ -66,7 +66,6 @@ Snorkelers and divers typically get in the water just after sunset. Tour operato
 
 This site's manta activity depends on healthy plankton populations. Respect the marine environment and do not touch or chase mantas.
 
-
 ---
 *This dive site information was researched from Kona dive operator reviews, manta ray viewing guides, and marine biology sources. Last updated 2026-03-16.*
 

@@ -26,10 +26,7 @@ Comets Hole is Lord Howe Island's most accessible and easiest dive site, formed 
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 7 meters
-- **Typical Visibility**: 15-40 meters (50-130 feet)
-- **Current**: Minimal (protected lagoon)
 - **Coral Wall**: 3-4 meter high coral reef wall surrounding the hole
-- **Best Time**: Year-round, nearly all weather conditions
 
 ## Marine Life
 
@@ -38,25 +35,6 @@ Comets Hole is renowned for its abundance of fish life. Species include endemic 
 ## Dive Profile
 
 The site features a natural hole surrounded by a 3-4 meter high coral reef wall. Maximum depth is approximately 7 meters. The hole was formed by natural freshwater upwelling and never fills with sand. Explore the hole's interior and the surrounding coral walls. The shallow depth allows for extended bottom time and relaxed diving.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Excellent site for newer divers — calm conditions and easy navigation
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of strong currents, jellyfish (box jellyfish in summer), crocodiles (north) in this area. Dive within your certification limits and experience level. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ---
 *Sources: [Lord Howe Island Official Diving Guide](https://lordhoweisland.info/experiences/snorkelling-and-diving/diving/), [Howea Divers Lord Howe Island](https://www.howeadivers.com.au/), [Dive Lord Howe Island Dive Centre](https://divelordhowe.com/), [PADI Diving in Lord Howe Island](https://www.padi.com/diving-in/australia/lord-howe-island/), [Dive Tours Australia Lord Howe Island](https://divetours.com.au/scuba-diving-australia/lord-howe-island/). Last updated 2026-04-04.*

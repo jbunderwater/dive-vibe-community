@@ -24,7 +24,7 @@ Despite the harbor location and relatively modest visibility (10-15 meters), Gab
 ## Site Information
 
 - **Location**: Gab Gab Beach, Naval Reserve, Apra Harbor, Guam
-- **Entry Type**: Shore dive
+- **Entry Type**: Shore entry
 - **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters

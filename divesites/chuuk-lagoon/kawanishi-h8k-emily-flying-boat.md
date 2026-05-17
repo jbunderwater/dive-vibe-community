@@ -25,7 +25,7 @@ The Emily rests inverted, broken into four major pieces on the sandy lagoon floo
 
 - **Location**: Off Dublon Island (SW end), Chuuk Lagoon, Chuuk State, Micronesia
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive (aircraft)
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 16 meters
 - **Typical Visibility**: 15-30 meters (50-100 feet)

@@ -25,7 +25,7 @@ The fuselage is nearly intact and large enough to be entered from either the fro
 
 - **Location**: Off Eten Island, Chuuk Lagoon, Chuuk State, Micronesia
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive (aircraft)
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 15-30 meters (50-100 feet)

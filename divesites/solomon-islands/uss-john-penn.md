@@ -24,10 +24,10 @@ Approximately 20 metres away from the main wreck, a military Jeep sits upright o
 ## Site Information
 
 - **Location**: Off Lunga Point, Guadalcanal, Solomon Islands
-- **Entry Type**: Boat dive from Honiara
-- **Site Type**: Wreck dive (WWII naval transport)
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 56 metres (main section); stern at ~72 metres
+- **Maximum Depth**: 56 meters
 - **Typical Visibility**: 15-30 metres
 - **Water Temperature**: 27-28°C
 - **Current**: Variable; can be moderate

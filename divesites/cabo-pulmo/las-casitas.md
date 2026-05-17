@@ -18,8 +18,8 @@ Las Casitas is the only site in Cabo Pulmo National Marine Park dominated by hug
 
 ## Site Information
 - **Location**: Cabo Pulmo National Marine Park, Baja California Sur
-- **Entry Type**: Boat dive (5-10 min from Cabo Pulmo village)
-- **Site Type**: Cave/rock formations
+- **Entry Type**: Boat dive
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 15 meters
 - **Typical Visibility**: 10-25 meters

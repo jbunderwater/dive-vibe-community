@@ -23,9 +23,9 @@ The Douglas A-20A Havoc was a twin-engine light attack bomber used by the United
 
 - **Location**: Port Moresby Harbour, National Capital District, Papua New Guinea
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive (WWII aviation)
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 16-18 meters
+- **Maximum Depth**: 18 meters
 - **Typical Visibility**: Variable; often poor due to harbour conditions
 - **Current**: Mild to moderate
 - **Best Time**: Year-round; visibility may improve during drier months

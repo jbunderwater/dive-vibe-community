@@ -2,8 +2,8 @@
 name: CAVE
 lat: 33.042412
 lng: 35.098755
-difficulty: Intermediate
-maxDepth: 15
+difficulty: Advanced
+maxDepth: 12
 entryType: boat
 siteType: cave
 ref: null
@@ -26,7 +26,7 @@ The Rosh Hanikra cave system extends across a length of coastal cliff and includ
 - **Location**: Rosh Hanikra coastal area, northern Israel
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
-- **Maximum Depth**: Approximately 10–15 metres (estimated; Rosh Hanikra caves are shallow)
+- **Maximum Depth**: 12 meters
 - **Typical Visibility**: 5–12 metres
 - **Special Requirements**: IDF Navy clearance required
 

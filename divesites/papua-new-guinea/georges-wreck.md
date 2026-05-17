@@ -23,9 +23,9 @@ Georges Wreck is a WWII Japanese freighter lying upright on a 40-degree slope ne
 
 - **Location**: Near Rabaul waterfront, East New Britain Province, Papua New Guinea
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive (WWII freighter)
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 55 meters (stern)
+- **Maximum Depth**: 55 meters
 - **Typical Visibility**: 15-25 meters
 - **Current**: Mild to moderate
 - **Best Time**: Year-round

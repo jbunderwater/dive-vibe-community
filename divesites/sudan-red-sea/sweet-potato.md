@@ -26,9 +26,6 @@ Sweet Potato is one of Sudan's most unusual and rewarding reef dives, named for 
 - **Site Type**: Coral reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 18 meters
-- **Typical Visibility**: 25-35 meters (80-115 feet)
-- **Current**: Strong
-- **Best Time**: January to May
 
 ## Resident Marine Life
 
@@ -54,10 +51,6 @@ Access is exclusively via liveaboard dive boat. Descend on the reef structure in
 ## Safety Considerations
 
 Strong currents are the primary hazard. Maintain proper buoyancy and be aware of drift. The compact reef and grouper-watching focus means divers may spend extended time in current—monitor air supply carefully. Fire coral and lionfish are present. Always dive with a buddy and deploy SMB during ascent. Abort if currents exceed your comfort level.
-
-## Photography
-
-This site offers excellent opportunities for both wide-angle and macro photography. The reef structures and marine life provide diverse subjects. Natural light conditions are typically best during morning hours.
 
 ---
 *Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*

@@ -25,9 +25,9 @@ The northwest tip location provides a significant advantage: the point is geogra
 
 - **Location**: Northwest tip of Panglao Island, Bohol, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Vertical wall
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30 meters (wall continues to 60+ meters)
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 30+ meters
 - **Water Temperature**: 26-30 degrees C
 - **Current**: Variable; can be strong at the point

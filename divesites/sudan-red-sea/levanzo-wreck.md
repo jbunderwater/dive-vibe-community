@@ -28,9 +28,6 @@ The SS Isola di Levanzo is an Italian cargo vessel (113 meters long, 3,713 tons,
 - **Maximum Depth**: 65 meters
 - **Wreck Top**: 22 meters
 - **Broken Sections**: 40 meters
-- **Typical Visibility**: 25-40+ meters (80-130+ feet)
-- **Current**: Moderate
-- **Best Time**: March to November
 
 ## Wreck Structure & Marine Life
 
@@ -57,10 +54,6 @@ Access is by liveaboard dive boat from Elba Reef operators. Entry via giant stri
 ## Safety Considerations
 
 Critical hazards include nitrogen narcosis below 40m, decompression sickness, entanglement risks, silt entrapment in wreck sections, and deep diving risks. The wreck is partially broken/unstable in sections—avoid uncertain structures. Only dive sections you can clearly see; turn back before visibility drops. Nitrogen narcosis impairs judgment significantly at 45-65m—abort immediately if affected. Always dive with an experienced buddy. Mandatory staged decompression on ascent. This is NOT a site for divers pushing their limits.
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
 
 ---
 *Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*

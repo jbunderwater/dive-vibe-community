@@ -18,8 +18,8 @@ A protected horseshoe-shaped cove designated as a marine sanctuary. Shallow cora
 ## Site Information
 
 - **Location**: The Corridor, marine sanctuary
-- **Entry Type**: Boat dive (also snorkeling from beach)
-- **Site Type**: Reef
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 18 meters
 - **Typical Visibility**: 10-20 meters

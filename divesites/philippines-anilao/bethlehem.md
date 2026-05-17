@@ -23,7 +23,7 @@ Bethlehem is a boat dive site located off Bethlehem village in the channel betwe
 
 - **Location**: Bethlehem village, between Maricaban and Caban Islands, Anilao, Batangas, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Reef dive (sandy slope with small wall)
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10-20 meters

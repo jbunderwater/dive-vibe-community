@@ -27,7 +27,7 @@ The Seiko Maru's holds contain a varied military cargo, highlighted by torpedoes
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 50 meters (bottom)
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 15-30 meters (50-100 feet)
 - **Current**: Generally mild inside the lagoon
 - **Best Time**: Year-round; December to April offers calmest conditions

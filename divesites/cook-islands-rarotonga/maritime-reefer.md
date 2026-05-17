@@ -25,9 +25,9 @@ The stern section rests on its port side at approximately 45 degrees, with the p
 
 - **Location**: SW of Black Rock, west side, Rarotonga, Cook Islands
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 26 meters
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 40+ meters
 - **Water Temperature**: 24-27 degrees C
 - **Current**: Generally mild

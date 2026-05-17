@@ -3,7 +3,7 @@ name: Foca
 lat: 32.83027
 lng: 34.814301
 difficulty: Intermediate
-maxDepth: null
+maxDepth: 20
 entryType: boat
 siteType: wreck
 ref: null
@@ -26,7 +26,7 @@ However, "Foca" is also used in regional languages as a common marine wildlife t
 - **Location**: South-southwest of Haifa, Israeli Mediterranean
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Maximum Depth**: Unknown
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: Typical Israeli Mediterranean 5–12 metres
 
 ---

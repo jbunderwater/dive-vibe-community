@@ -78,7 +78,6 @@ This is not a beginner site. Divers should have solid Open Water fundamentals, g
 
 This site offers a unique diving experience showcasing Hawaii's volcanic geology from the interior, with dramatic cavern features and specialized marine life. It's a step beyond standard reef diving but remains accessible without technical cave training.
 
-
 ---
 *This dive site information was researched from Kona cavern diving guides, lava tube diving resources, and Kona dive operator reviews. Last updated 2026-03-16.*
 

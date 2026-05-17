@@ -24,10 +24,10 @@ The site shares the same general character as the other west-side sites (Black R
 ## Site Information
 
 - **Location**: Near Sunset Resort/Black Rock, west side, Rarotonga, Cook Islands
-- **Entry Type**: Boat dive (10 minutes from Avatui Harbour)
-- **Site Type**: Volcanic reef (ridge and gully)
-- **Difficulty Level**: Beginner
-- **Maximum Depth**: 25 meters
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 40+ meters
 - **Water Temperature**: 24-27 degrees C
 - **Current**: Generally mild

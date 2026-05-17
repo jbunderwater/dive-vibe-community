@@ -3,7 +3,7 @@ name: Wreck Maapilim
 lat: 32.812778
 lng: 34.899167
 difficulty: Intermediate
-maxDepth: null
+maxDepth: 15
 entryType: boat
 siteType: wreck
 ref: null
@@ -26,7 +26,7 @@ Note: The Wreck Arlozorov, also in the Haifa area, is another known Ma'apilim sh
 - **Location**: Off Haifa, northern Israeli Mediterranean
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Maximum Depth**: Unknown
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: Typical northern Israeli Mediterranean 5–12 metres
 - **Historical Significance**: Part of Israel's pre-state immigration history
 

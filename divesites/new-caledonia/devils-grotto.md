@@ -26,8 +26,8 @@ At just 6 meters maximum depth, this is a shallow dive or snorkel that is access
 ## Site Information
 
 - **Location**: Isle of Pines (Ile des Pins), New Caledonia
-- **Entry Type**: Shore entry into cave pool
-- **Site Type**: Landlocked limestone cave
+- **Entry Type**: Shore entry
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 6 meters
 - **Typical Visibility**: Crystal clear (unlimited within the cave)

@@ -24,8 +24,8 @@ The site's other claim to fame is a resident school of 10-12 spotted eagle rays 
 ## Site Information
 
 - **Location**: Off airport runway, west side, Rarotonga, Cook Islands
-- **Entry Type**: Boat dive (9 minutes from Avatui Harbour)
-- **Site Type**: Volcanic reef (ridges and gullies)
+- **Entry Type**: Boat dive
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 40+ meters

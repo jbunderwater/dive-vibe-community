@@ -24,10 +24,10 @@ The surrounding reef attracts significant marine life. Whitetip and grey reef sh
 ## Site Information
 
 - **Location**: Bayldon Shoals, 3 km SSW of Soghonangola Island, Florida Islands
-- **Entry Type**: Boat dive from Tulagi
-- **Site Type**: Cave/pinnacle with vertical tunnels
+- **Entry Type**: Boat dive
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 45 metres
+- **Maximum Depth**: 45 meters
 - **Typical Visibility**: 15-30 metres
 - **Water Temperature**: 27-28°C
 - **Current**: Can be strong

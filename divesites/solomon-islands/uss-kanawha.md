@@ -24,10 +24,10 @@ The wreck retains multiple gun positions visible at 43-48 metres depth. The brid
 ## Site Information
 
 - **Location**: Near Tulagi, Florida Islands, Solomon Islands
-- **Entry Type**: Boat dive from Tulagi
-- **Site Type**: Wreck dive (WWII fleet oiler)
-- **Difficulty Level**: Advanced (deep dive -- technical experience required)
-- **Maximum Depth**: 58 metres
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
+- **Difficulty Level**: Advanced
+- **Maximum Depth**: 58 meters
 - **Typical Visibility**: 15-30 metres
 - **Water Temperature**: 27-28°C
 - **Current**: Variable

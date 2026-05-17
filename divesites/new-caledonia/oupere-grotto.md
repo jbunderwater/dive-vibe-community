@@ -25,7 +25,7 @@ The variety of passage sizes and the interplay of light through the arch opening
 
 - **Location**: Near Oupere Island, Isle of Pines, New Caledonia
 - **Entry Type**: Boat dive
-- **Site Type**: Cave/tunnel/arch system
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 20-40 meters

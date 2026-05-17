@@ -16,7 +16,8 @@ addedBy: jbunderwater_ai
 A beautiful wreck dive site featuring the La Machaca at 10m depth
 
 ## Overview
-La Machaca is a beautiful dive site located in central Bonaire near Bari Reef, featuring the wreck of the La Machaca fishing vessel. The wreck lies at a depth of 10 meters and is easily accessible from shore. The site features a healthy reef surrounding the wreck with diverse coral formations, including brain corals, elkhorn coral, and colorful soft corals. The site is particularly known for its wreck diving opportunities and abundance of marine life. The easy sandy entry makes it accessible to divers of all experience levels.
+
+No site-specific dive sources have been validated for this entry yet — marine life, typical dive profile, currents, visibility, and photography conditions are not documented.
 
 ## Site Information
 - **Location**: Central Bonaire (near Bari Reef)
@@ -24,9 +25,6 @@ La Machaca is a beautiful dive site located in central Bonaire near Bari Reef, f
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
-- **Typical Visibility**: 20-30 meters
-- **Current**: Usually light
-- **Best Time**: Morning to early afternoon
 
 ## Marine Life
 La Machaca is home to a diverse array of marine life. The wreck attracts larger fish species including barracuda, jacks, and groupers. Large schools of blue tangs, parrotfish, and grunts are commonly seen around the reef. The site is also frequented by sea turtles, eagle rays, and occasionally nurse sharks. Macro life includes cleaner shrimp, arrow crabs, and various nudibranchs. The healthy coral formations provide habitat for countless reef fish species, including angelfish, butterflyfish, and damselfish.

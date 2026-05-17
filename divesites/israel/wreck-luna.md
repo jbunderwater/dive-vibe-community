@@ -3,7 +3,7 @@ name: Wreck Luna
 lat: 32.800139
 lng: 34.884306
 difficulty: Intermediate
-maxDepth: null
+maxDepth: 20
 entryType: boat
 siteType: wreck
 ref: null
@@ -24,7 +24,7 @@ Wreck Luna is catalogued on Israeli Mediterranean nautical charts and dive datab
 - **Location**: South of Haifa, central Israeli Mediterranean
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Maximum Depth**: Unknown
+- **Maximum Depth**: 20 meters
 - **Typical Visibility**: Typical Israeli Mediterranean 5–12 metres
 - **Current**: Moderate
 

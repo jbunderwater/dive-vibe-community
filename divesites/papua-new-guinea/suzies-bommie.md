@@ -23,9 +23,9 @@ Suzies Bommie is widely regarded as the best dive site in the Port Moresby area.
 
 - **Location**: Outside barrier reef at Bootless Bay, west of Padana Nahua Passage, Port Moresby
 - **Entry Type**: Boat dive
-- **Site Type**: Pinnacle/bommie
+- **Site Type**: Pinnacle/seamount
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 30+ meters (bommie base)
+- **Maximum Depth**: 45 meters
 - **Typical Visibility**: 20 meters
 - **Current**: Mild to moderate
 - **Best Time**: Year-round

@@ -27,7 +27,7 @@ Despite her relatively recent sinking compared to the World War II fleet in Chuu
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: 45 meters (propeller)
+- **Maximum Depth**: 45 meters
 - **Bridge Depth**: 28 meters
 - **Stern Railing**: 36-38 meters
 - **Engine Room**: 41 meters

@@ -23,9 +23,9 @@ Agahuta is a boat dive site located approximately 5 kilometres east-southeast of
 
 - **Location**: Anilao, Batangas, Philippines (5 km ESE of Buceo Anilao Resort)
 - **Entry Type**: Boat dive
-- **Site Type**: Reef dive (sandy slope with coral outcrops)
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 24 meters
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10-20 meters
 - **Water Temperature**: 27-29°C
 - **Current**: Variable

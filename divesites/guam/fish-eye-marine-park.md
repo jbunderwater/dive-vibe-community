@@ -24,8 +24,8 @@ The Piti Bay Marine Preserve protects over 200 species of fish and approximately
 ## Site Information
 
 - **Location**: Piti Bay Marine Preserve, Guam
-- **Entry Type**: Shore entry (via sea bridge)
-- **Site Type**: Marine preserve reef
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 10 meters
 - **Typical Visibility**: 10-20 meters

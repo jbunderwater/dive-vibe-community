@@ -24,10 +24,10 @@ This is a guided dive -- a divemaster leads divers through the labyrinth, naviga
 ## Site Information
 
 - **Location**: Near Tambea village, Guadalcanal -- approximately 40 km west of Honiara
-- **Entry Type**: Boat dive from Honiara
-- **Site Type**: Cave/cavern (interconnected tunnel system)
+- **Entry Type**: Boat dive
+- **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 15 metres
+- **Maximum Depth**: 15 meters
 - **Typical Visibility**: ~24 metres (outside caves)
 - **Water Temperature**: 27-28°C
 - **Current**: Generally mild at this site

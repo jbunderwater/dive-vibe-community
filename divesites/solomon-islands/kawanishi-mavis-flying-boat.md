@@ -24,10 +24,10 @@ The best-preserved aircraft, known as Mavis No 2, lies at approximately 30 metre
 ## Site Information
 
 - **Location**: Near Ghavutu and Tanambogo islands, Florida Islands, Solomon Islands
-- **Entry Type**: Boat dive from Tulagi
-- **Site Type**: Wreck dive (WWII flying boat aircraft)
+- **Entry Type**: Boat dive
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Maximum Depth**: ~30 metres
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15-30 metres
 - **Water Temperature**: 27-28°C
 - **Current**: Variable

@@ -19,7 +19,7 @@ Featured in Jacques Cousteau's television series, Sand Falls is one of the most 
 
 - **Location**: Cabo San Lucas Marine Park, canyon edge near Pelican Rock
 - **Entry Type**: Boat dive
-- **Site Type**: Wall / canyon
+- **Site Type**: Wall dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 15-30 meters

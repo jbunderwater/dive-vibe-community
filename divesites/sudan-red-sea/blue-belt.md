@@ -27,9 +27,6 @@ Blue Belt, also known as the Toyota Wreck, is the wreck of the Saudi Arabian car
 - **Difficulty Level**: Expert
 - **Maximum Depth**: 45 meters
 - **Safe Depth for Most Divers**: 21-50 meters (external wreck only)
-- **Typical Visibility**: 20-30 meters
-- **Current**: Moderate
-- **Best Time**: January to May
 - **Note**: Wreck is unstable and upsidedown—deep dives only
 
 ## Wreck History
@@ -61,10 +58,6 @@ Access is exclusively via liveaboard dive boat from Port Sudan operators. Entry 
 ## Safety Considerations
 
 This is a demanding deep technical dive. Hazards include nitrogen narcosis below 40m, decompression sickness, shallow water blackout, entanglement risks on the unstable wreck structure, and limited visibility in silt. Only dive if you have deep diving training and recent experience with technical decompression. Shallow water blackout is a real risk on ascent—always maintain proper buoyancy and controlled ascent rates. Abort the dive immediately if visibility drops significantly or if you experience any signs of nitrogen narcosis affecting judgment.
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
 
 ---
 *Sources: [Dive The World - Sudan Red Sea Dive Sites](https://www.dive-the-world.com/diving-sites-sudan.php), [Scuba Diving Magazine - Five Great Sudan Dive Sites](https://www.scubadiving.com/five-great-dive-sites-in-sudans-red-sea), [Bluewater Dive Travel - Sudan Diving](https://www.bluewaterdivetravel.com/destination/sudan-diving), [Red Sea Diving - Sudan Liveaboard](https://www.redsea-diving.com/sudan-diving/), [Scuba Diving Guide - Sudan](https://scubadiving.guide/scuba-diving-in-sudan/). Last updated 2026-04-04.*

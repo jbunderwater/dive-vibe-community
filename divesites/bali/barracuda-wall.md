@@ -22,7 +22,7 @@ Barracuda Wall is a drift dive site near Amed on Bali's northeast coast. The div
 ## Site Information
 
 - **Location**: Bunutan Beach, Amed, East Bali, Indonesia
-- **Entry Type**: Boat dive (drift dive)
+- **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters

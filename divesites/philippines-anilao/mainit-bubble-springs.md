@@ -23,7 +23,7 @@ Mainit Bubble Springs is one of Anilao's most distinctive dive sites, combining 
 
 - **Location**: Mainit, Anilao, Batangas, Philippines
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive (with volcanic hot springs)
+- **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 30 meters
 - **Typical Visibility**: 10-20 meters

@@ -3,7 +3,7 @@ name: Wreck Leonid
 lat: 32.869812
 lng: 34.953980
 difficulty: Intermediate
-maxDepth: null
+maxDepth: 22
 entryType: boat
 siteType: wreck
 ref: null
@@ -26,7 +26,7 @@ Local dive operators in the Haifa area may have information about whether this w
 - **Location**: Off Haifa, northern Israeli Mediterranean
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
-- **Maximum Depth**: Unknown
+- **Maximum Depth**: 22 meters
 - **Typical Visibility**: Typical northern Israeli Mediterranean 5–12 metres
 - **Current**: Moderate
 

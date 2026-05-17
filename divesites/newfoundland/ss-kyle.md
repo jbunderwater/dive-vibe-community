@@ -26,38 +26,10 @@ The SS Kyle is a 1913-built Clyde-side steamship that ran aground at Harbour Gra
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 6 meters
-- **Typical Visibility**: 5-25 meters (15-80 feet)
-- **Current**: Variable, can be strong
-- **Best Time**: June to October
 
 ## Marine Life
 
 The shallow hull of the SS Kyle is encrusted with horse mussels, sea urchins, and cold-water anemones, with cunner and Atlantic cod sheltering around the rusting steel plates. Sea ravens and shorthorn sculpin are frequently spotted tucked into crevices along the wreck's lower hull, and the barnacle-covered superstructure provides ideal macro subjects including northern lobster and sea stars.
-
-## Dive Profile
-
-The dive typically begins with a descent to the top of the wreck structure. Plan for a maximum depth of 6 meters with appropriate bottom time for your certification level. Explore the exterior features and any accessible penetration points while monitoring air supply and depth. Begin your ascent with adequate reserve for a safety stop at 5 meters.
-
-## Entry and Exit
-
-Enter from the shore following established entry points. Check conditions before entering and be mindful of waves, surge, and underwater obstacles. Navigate to the dive site using natural landmarks or compass bearings. Exit at the same location, approaching the shore carefully to avoid surge zones.
-
-## Tips and Recommendations
-
-- Bring a dive torch to illuminate wreck interiors and dark overhangs
-- Maintain proper buoyancy to avoid disturbing silt inside the wreck
-- Do not attempt penetration without proper training and equipment
-- Bring an underwater camera — this site offers excellent photography opportunities
-- Check local weather and sea conditions before diving
-- Respect marine life and maintain proper buoyancy to protect the reef
-
-## Safety Considerations
-
-Be aware of cold water, surge, limited visibility in this area. Dive within your certification limits and experience level. Strong currents are possible — carry appropriate signaling devices and be prepared to abort the dive if conditions deteriorate. Always dive with a buddy and carry a safety sausage (SMB).
-
-## Photography
-
-The wreck structure provides dramatic wide-angle subjects with natural light filtering through openings. A torch is essential for illuminating interior details and bringing out colors. Macro opportunities abound on the encrusted surfaces.
 
 ---
 *Sources: [Ocean Quest Adventures - Newfoundland Diving](https://oceanquestadventures.com/), [Scuba Diving Magazine - Diving Newfoundland and Eastern Canada](https://www.scubadiving.com/scuba-diving-newfoundland-and-eastern-canada), [East Coast Scuba - Dive Newfoundland](https://www.eastcoastscuba.com/dive-newfoundland), [Tech Dive Travels - Newfoundland Canada](https://techdivetravels.com/country-profile/newfoundland-canada/), [PADI - Diving in Newfoundland and Labrador](https://www.padi.com/diving-in/newfoundland-labrador/). Last updated 2026-04-04.*

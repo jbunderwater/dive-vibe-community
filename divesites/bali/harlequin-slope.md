@@ -22,7 +22,7 @@ Harlequin Slope is a black sand muck diving site on the Tulamben coast of northe
 ## Site Information
 
 - **Location**: Tulamben, East Bali, Indonesia
-- **Entry Type**: Shore entry from rocky beach
+- **Entry Type**: Shore entry
 - **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 29 meters

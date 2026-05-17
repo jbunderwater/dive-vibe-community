@@ -25,9 +25,9 @@ The relatively shallow depth and slight currents make it an ideal site for less 
 
 - **Location**: Agat Bay, Guam
 - **Entry Type**: Boat dive
-- **Site Type**: Coral mound reef
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 15 meters (reef top); surrounding sand to 25 meters
+- **Maximum Depth**: 25 meters
 - **Typical Visibility**: 15-25 meters
 - **Water Temperature**: 28-29 degrees C
 - **Current**: Slight

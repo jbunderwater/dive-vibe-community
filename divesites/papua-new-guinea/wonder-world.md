@@ -23,9 +23,9 @@ Wonder World is located 2.3 kilometres from Kabaira Resort on the north shore of
 
 - **Location**: North shore of Ataliklikum Bay, 2.3 km from Kabaira Resort, Rabaul, East New Britain Province
 - **Entry Type**: Boat dive
-- **Site Type**: Reef with wall
+- **Site Type**: Coral reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 35 meters (wall drops 30+ meters)
+- **Maximum Depth**: 35 meters
 - **Typical Visibility**: 20-25 meters
 - **Current**: Mild on reef, moderate on wall
 - **Best Time**: Year-round

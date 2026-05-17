@@ -23,7 +23,7 @@ This B-25D Mitchell medium bomber, serial number 41-30118 and nicknamed "Green D
 
 - **Location**: Off Wangat Island, Madang Province, Papua New Guinea
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck dive (WWII aviation)
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 8-10 meters

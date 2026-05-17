@@ -25,9 +25,9 @@ The other main feature is the wreckage of a large catamaran resting on the sand 
 
 - **Location**: Passage between Pig Island and Massus Island, Madang Lagoon, Papua New Guinea
 - **Entry Type**: Boat dive
-- **Site Type**: Reef with sandy bottom and wreckage
+- **Site Type**: Coral reef
 - **Difficulty Level**: Beginner
-- **Maximum Depth**: 14 meters (catamaran wreck at 11-20 meters)
+- **Maximum Depth**: 20 meters
 - **Current**: Gentle on outgoing tide
 - **Best Time**: April to November; best dived on outgoing tide
 
