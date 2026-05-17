@@ -4,7 +4,7 @@ lat: 24.870805
 lng: 34.9881345
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -13,23 +13,21 @@ addedBy: osm_import
 
 ## Halg Dawoud
 
-Halg Dawoud is a  dive site in Red Sea, Middle East.
+Halg Dawoud is a dive site in the southern Red Sea at approximately 24.87°N, 34.99°E, in the Ras Banas / Marsa Alam offshore reef zone. In Arabic, "halg" can refer to a crack or opening in a reef wall. The coordinates are extremely close to Habili Dawoud — these may be two OSM records for the same reef feature recorded under slightly different names.
 
 ## Overview
 
-No site-specific dive sources have been validated for this entry yet — marine life, typical dive profile, currents, visibility, and photography conditions are not documented.
+The offshore reef zone near Ras Banas is home to a series of submerged reef structures, ledges, and pinnacles that are accessible from Marsa Alam and Port Ghalib by RIB. Sites in this vicinity typically offer healthy coral cover, calm-to-moderate conditions, and the possibility of encountering turtles, reef sharks, and diverse reef fish. No operator-confirmed description for this specific site was independently located.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
+- **Location**: Ras Banas / Marsa Alam offshore zone, southern Red Sea
+- **Entry Type**: Boat
+- **Site Type**: Coral reef / reef crack
+- **Maximum Depth**: ~25 metres (OSM data; unconfirmed)
+- **Difficulty**: Intermediate
 
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+**Note:** Coordinates overlap closely with Habili Dawoud — these may represent the same reef recorded under two names. Verification with local operators recommended.
 
 ---
-*Description based on OpenStreetMap-recorded data. No site-specific dive sources were located. Last updated 2026-04-11.*
+*Description based on coordinate position and regional context. No site-specific dive sources found. Last updated 2026-05-17.*

@@ -17,7 +17,7 @@ A beautiful wreck dive site featuring the La Machaca at 10m depth
 
 ## Overview
 
-No site-specific dive sources have been validated for this entry yet — marine life, typical dive profile, currents, visibility, and photography conditions are not documented.
+La Machaca is a classic Bonaire shore dive located off the dock of Captain Don's Habitat, marked as BNMP #27 in the Bonaire National Marine Park. The site centres on a 14-metre (45-foot) locally-built fishing boat that was intentionally sunk as a dive target. It rests upside-down on a sandy bottom approximately 30–40 metres from shore at 14 metres depth, surrounded by healthy fringing reef. The site is one of Bonaire's most beginner-friendly wreck dives and is diveable day and night.
 
 ## Site Information
 - **Location**: Central Bonaire (near Bari Reef)

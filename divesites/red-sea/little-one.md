@@ -4,7 +4,7 @@ lat: 24.2167
 lng: 35.5834333
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -13,23 +13,19 @@ addedBy: osm_import
 
 ## Little One
 
-Little One is a  dive site in Red Sea, Middle East.
+Little One is a dive site in the southern Egyptian Red Sea at approximately 24.22°N, 35.58°E — a position in the coastal reef zone south of Marsa Alam, in the vicinity of the Fury Shoals approach and the Lahami Bay area. The name "Little One" suggests a small isolated reef structure, likely a compact coral formation or minor pinnacle rather than a major site.
 
 ## Overview
 
-No site-specific dive sources have been validated for this entry yet — marine life, typical dive profile, currents, visibility, and photography conditions are not documented.
+The southern Egyptian Red Sea coastline between Marsa Alam and Hamata features numerous small inshore and offshore reef structures. Sites in this zone benefit from the Fury Shoals proximity — excellent water clarity, rich coral growth, and good fish populations are characteristic of the entire area. No site-specific description from local dive operators has been independently located for this particular site.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- **Location**: Southern Egyptian Red Sea, Marsa Alam / Hamata coastal zone
+- **Entry Type**: Boat (likely, given offshore position)
+- **Site Type**: Coral reef (small isolated structure)
+- **Maximum Depth**: ~25 metres (OSM data; unconfirmed)
+- **Difficulty**: Intermediate
 
 ---
-*Description based on OpenStreetMap-recorded data. No site-specific dive sources were located. Last updated 2026-04-11.*
+*Description based on coordinate position and regional context. No site-specific dive sources found. Last updated 2026-05-17.*

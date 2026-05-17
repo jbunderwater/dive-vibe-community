@@ -264,18 +264,6 @@
     "osmId": 845732602
   },
   {
-    "name": "棕滩",
-    "filename": "棕滩.md",
-    "lat": 10.6099416,
-    "lng": 117.3608486,
-    "difficulty": "Intermediate",
-    "maxDepth": 22,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 845732611
-  },
-  {
     "name": "Brown Bank",
     "filename": "brown-bank.md",
     "lat": 10.8121361,
@@ -286,18 +274,6 @@
     "siteType": "reef",
     "ref": "",
     "osmId": 845732612
-  },
-  {
-    "name": "Bãi cạn Nâu Bắc Lớn",
-    "filename": "bãi-cạn-nâu-bắc-lớn.md",
-    "lat": 10.8848062,
-    "lng": 117.3954798,
-    "difficulty": "Intermediate",
-    "maxDepth": 21,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 845732613
   },
   {
     "name": "Egeria Rocks",
@@ -348,30 +324,6 @@
     "osmId": 914181792
   },
   {
-    "name": "神仙暗沙",
-    "filename": "神仙暗沙.md",
-    "lat": 11.0527884,
-    "lng": 117.6451538,
-    "difficulty": "Intermediate",
-    "maxDepth": 23,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 914181793
-  },
-  {
-    "name": "莪兰暗沙",
-    "filename": "莪兰暗沙.md",
-    "lat": 10.3483211,
-    "lng": 117.2926287,
-    "difficulty": "Intermediate",
-    "maxDepth": 20,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 914181796
-  },
-  {
     "name": "Carnatic Shoal",
     "filename": "carnatic-shoal.md",
     "lat": 10.1074727,
@@ -382,30 +334,6 @@
     "siteType": "reef",
     "ref": "",
     "osmId": 914181797
-  },
-  {
-    "name": "雄南礁",
-    "filename": "雄南礁.md",
-    "lat": 11.5223635,
-    "lng": 117.1743593,
-    "difficulty": "Intermediate",
-    "maxDepth": 22,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 1317451379
-  },
-  {
-    "name": "彬礁",
-    "filename": "彬礁.md",
-    "lat": 10.5959052,
-    "lng": 117.023449,
-    "difficulty": "Intermediate",
-    "maxDepth": 21,
-    "entryType": "boat",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": 1352284995
   },
   {
     "name": "Dry Reef",

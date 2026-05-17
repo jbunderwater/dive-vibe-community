@@ -11,25 +11,29 @@ osmId: null
 addedBy: osm_import
 ---
 
-## Aquanaut house reef
+## Aquanaut House Reef
 
-Aquanaut house reef is a  dive site in Red Sea, Middle East.
+Aquanaut House Reef is the dive site associated with Aquanaut Dive Club, located at Sand Beach Hotel in Hurghada at approximately 27.26°N, 33.82°E. Aquanaut Dive Club has operated in Hurghada since 1992 and is noted as the first and only dive centre in Hurghada to use speedboats for diving operations, accessing more than 40 dive sites in the northern Red Sea.
 
 ## Overview
 
-No site-specific dive sources have been validated for this entry yet — marine life, typical dive profile, currents, visibility, and photography conditions are not documented.
+The house reef at Aquanaut Dive Club (Sand Beach Hotel) provides direct shore access for resort guests and day divers. Hurghada's nearshore reefs in this zone feature typical northern Red Sea coral communities. Aquanaut's primary dive operations focus on boat trips to notable offshore sites including Umm Gamar, Carless Reef, Giannis D, the Carnatic, and Dolphin House (Shaab El Erg), rather than a prominent house reef. The house reef serves for training, check dives, and shore diving.
+
+## Marine Life
+
+Hurghada nearshore reefs typically support:
+- Reef fish: angelfish, parrotfish, triggerfish, wrasse
+- Moray eels and lionfish in coral structure
+- Occasional dolphins near the Shaab El Erg system
+- Blue-spotted stingrays on sandy patches
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Sand Beach Hotel, Hurghada, northern Red Sea
 - **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- **Site Type**: Fringing coral reef / nearshore reef
+- **Maximum Depth**: ~25 metres
+- **Difficulty**: Intermediate — suitable for training and all levels
 
 ---
-*Description based on OpenStreetMap-recorded data. No site-specific dive sources were located. Last updated 2026-04-11.*
+*Sources: [Aquanaut Dive Club – Dive Sites](https://www.aquanautclub.com/dive-sites), [Aquanaut Dive Club – Dive Center](https://www.aquanautclub.com/dive-center). Last updated 2026-05-17.*

@@ -469,26 +469,6 @@
     }
   },
   {
-    "name": "\u68d5\u6ee9",
-    "lat": 10.6099416,
-    "lon": 117.3608486,
-    "osm_id": 845732611,
-    "osm_type": "way",
-    "depth": 22,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "description": "Southern Palawan reef site. Coral formations and reef fish.",
-      "name": "\u68d5\u6ee9",
-      "natural": "reef",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "osm_extended"
-    }
-  },
-  {
     "name": "Brown Bank",
     "lat": 10.8121361,
     "lon": 117.4042305,
@@ -503,26 +483,6 @@
       "name": "Brown Bank",
       "name:tl": "Kayumanggi Bank",
       "name:zh": "\u52c7\u58eb\u6ee9",
-      "natural": "reef",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "osm_extended"
-    }
-  },
-  {
-    "name": "B\u00e3i c\u1ea1n N\u00e2u B\u1eafc L\u1edbn",
-    "lat": 10.8848062,
-    "lon": 117.3954798,
-    "osm_id": 845732613,
-    "osm_type": "way",
-    "depth": 21,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "description": "Southern Palawan reef dive site. Vietnamese named feature. Coral formations.",
-      "name": "B\u00e3i c\u1ea1n N\u00e2u B\u1eafc L\u1edbn",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",
@@ -634,51 +594,6 @@
     }
   },
   {
-    "name": "\u795e\u4ed9\u6697\u6c99",
-    "lat": 11.0527884,
-    "lon": 117.6451538,
-    "osm_id": 914181793,
-    "osm_type": "way",
-    "depth": 23,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "description": "Southern Palawan reef site. Chinese named feature. Coral formations.",
-      "name": "\u795e\u4ed9\u6697\u6c99",
-      "name:zh": "\u795e\u4ed9\u6697\u6c99",
-      "natural": "reef",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "osm_extended"
-    }
-  },
-  {
-    "name": "\u83aa\u5170\u6697\u6c99",
-    "lat": 10.3483211,
-    "lon": 117.2926287,
-    "osm_id": 914181796,
-    "osm_type": "way",
-    "depth": 20,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "description": "Southern Palawan reef site. Chinese named feature. Coral formations and reef fish.",
-      "gns_classification": "RF",
-      "gns_uni": "-1911881",
-      "name": "\u83aa\u5170\u6697\u6c99",
-      "name:zh-Hans": "\u83aa\u5170\u6697\u6c99",
-      "name:zh-Hant": "\u83aa\u862d\u6697\u6c99",
-      "natural": "reef",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "osm_extended"
-    }
-  },
-  {
     "name": "Carnatic Shoal",
     "lat": 10.1074727,
     "lon": 117.3573603,
@@ -695,46 +610,6 @@
       "name": "Carnatic Shoal",
       "name:zh-Hans": "\u7ea2\u77f3\u6697\u6c99",
       "name:zh-Hant": "\u7d05\u77f3\u6697\u6c99",
-      "natural": "reef",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "osm_extended"
-    }
-  },
-  {
-    "name": "\u96c4\u5357\u7901",
-    "lat": 11.5223635,
-    "lon": 117.1743593,
-    "osm_id": 1317451379,
-    "osm_type": "way",
-    "depth": 22,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "description": "Southern Palawan reef site. Chinese named feature. Coral formations.",
-      "name": "\u96c4\u5357\u7901",
-      "natural": "reef",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass",
-      "validated": "true",
-      "validation_source": "osm_extended"
-    }
-  },
-  {
-    "name": "\u5f6c\u7901",
-    "lat": 10.5959052,
-    "lon": 117.023449,
-    "osm_id": 1352284995,
-    "osm_type": "way",
-    "depth": 21,
-    "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "tags": {
-      "description": "Southern Palawan reef site. Chinese named feature. Coral and reef fish habitat.",
-      "name": "\u5f6c\u7901",
       "natural": "reef",
       "source": "osm_extended",
       "addedBy": "extended_overpass",

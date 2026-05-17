@@ -4,7 +4,7 @@ lat: 24.869924
 lng: 34.994368
 difficulty: Intermediate
 maxDepth: 25
-entryType: shore
+entryType: boat
 siteType: reef
 ref: null
 osmId: null
@@ -13,23 +13,29 @@ addedBy: osm_import
 
 ## Habili Dawoud
 
-Habili Dawoud is a  dive site in Red Sea, Middle East.
+Habili Dawoud is a submerged pinnacle (habili) in the southern Red Sea, located at approximately 24.87°N, 34.99°E — placing it in the Ras Banas / Marsa Alam offshore zone. In Arabic, "habili" refers to a reef that never breaks the surface. The coordinates are very close to Halg Dawoud (24.87°N, 34.99°E), suggesting these may be the same reef complex recorded under two names from different sources.
 
 ## Overview
 
-No site-specific dive sources have been validated for this entry yet — marine life, typical dive profile, currents, visibility, and photography conditions are not documented.
+The Ras Banas offshore zone hosts numerous named habili pinnacles that are favourite sites for day boats from Marsa Alam and Port Ghalib. Habili dive sites in this region characteristically feature submerged pinnacles rising from sandy seabeds, covered in hard and soft corals, and attracting resident reef fish communities. Pelagic species including reef sharks and tuna are drawn by the exposed offshore position. No operator-confirmed description for this specific site was independently located.
+
+## Marine Life
+
+Typical for southern Red Sea habili sites:
+- Blue-spotted stingrays on sandy base
+- Groupers, wrasse, and basslets on the pinnacle flanks
+- Schools of anthias around the coral-covered summit
+- Reef sharks and occasional pelagic species
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
-- **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
+- **Location**: Ras Banas / Marsa Alam offshore zone, southern Red Sea
+- **Entry Type**: Boat
+- **Site Type**: Submerged pinnacle (habili)
+- **Maximum Depth**: ~25 metres (OSM data; unconfirmed)
+- **Difficulty**: Intermediate
 
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+**Note:** Coordinates overlap closely with Halg Dawoud — these may represent the same reef recorded under two names.
 
 ---
-*Description based on OpenStreetMap-recorded data. No site-specific dive sources were located. Last updated 2026-04-11.*
+*Description based on coordinate position and regional context. No site-specific operator descriptions found. Last updated 2026-05-17.*

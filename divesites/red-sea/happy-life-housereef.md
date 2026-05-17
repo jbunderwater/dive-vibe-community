@@ -13,23 +13,27 @@ addedBy: osm_import
 
 ## Happy Life Housereef
 
-Happy Life Housereef is a  dive site in Red Sea, Middle East.
+Happy Life Housereef is the house reef of the Three Corners Happy Life Beach Resort in northern Marsa Alam, operated by Blue Submarine Diving Center. The resort is located in the Marsa Alam coastal zone, providing direct beach access to a fringing reef typical of this stretch of the Egyptian Red Sea.
 
 ## Overview
 
-No site-specific dive sources have been validated for this entry yet — marine life, typical dive profile, currents, visibility, and photography conditions are not documented.
+The Three Corners Happy Life Beach Resort is a well-established all-inclusive property in the Marsa Alam area. Blue Submarine Diving Center operates from the resort and provides easy access to the house reef as well as boat trips to famous nearby sites such as Elphinstone Reef, Marsa Abu Dabbab, and Shaab Samadai (Dolphin House). The house reef offers an accessible shore dive for resort guests, typical of Marsa Alam's coastal fringing reefs.
+
+## Marine Life
+
+Marsa Alam's fringing reefs in this zone typically support:
+- Reef fish communities: angelfish, parrotfish, wrasse, groupers
+- Moray eels and octopus in reef crevices
+- Sea turtles as regular visitors
+- Occasional dugong sightings along the seagrass-fringed coast
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Northern Marsa Alam, southern Red Sea
 - **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- **Site Type**: Fringing coral reef
+- **Maximum Depth**: ~25 metres
+- **Difficulty**: Intermediate
 
 ---
-*Description based on OpenStreetMap-recorded data. No site-specific dive sources were located. Last updated 2026-04-11.*
+*Sources: [Blue Submarine Diving Center – Happy Life Hotel](https://www.bluesubmarine.it/en/bluesubmarine-marsa-alam-4/bluesubmarine-marsa-alam.html). No site-specific house reef description found. Last updated 2026-05-17.*
