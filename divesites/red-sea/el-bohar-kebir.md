@@ -42,9 +42,9 @@ Transit from Hamata in the open Red Sea can be choppy — seasickness prevention
 ## Site Information
 
 - **Location**: Fury Shoals, north section, ~1 hour from Hamata, southern Red Sea
-- **Entry Type**: Boat dive (day boat from Hamata or liveaboard)
-- **Site Type**: Coral reef / pinnacles
-- **Difficulty Level**: Intermediate (all levels for Anemone City section)
+- **Entry Type**: Shore entry
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 m (pinnacles); 12 m (Anemone City)
 
 ---

@@ -17,19 +17,19 @@ Eagle Fish is a  dive site in Red Sea, Middle East.
 
 ## Overview
 
-No site-specific dive sources have been validated for this entry yet — marine life, typical dive profile, currents, visibility, and photography conditions are not documented.
+Eagle Fish is a dive site recorded at coordinates 24.205°N, 35.553°E, placing it in the Fury Shoals / Hamata area of the southern Red Sea — in the same general reef chain as Shaab Bohar Kebir and other Fury Shoals sites. The name may refer to the eagle rays (Aetobatus narinari) that are commonly sighted throughout the Fury Shoals and broader Marsa Alam reef system. Dedicated site-specific sources for this exact entry were not located; the site does not appear by this name in major dive databases covering the Marsa Alam or Fury Shoals area.
+
+*No site-specific dive sources were located for Eagle Fish. The following reflects the general character of the Fury Shoals reef complex at this location.*
+
+The Fury Shoals reefs at this latitude feature coral gardens, pinnacles, and outer walls descending from shallow reef tops (3–10 m) to 25+ m. Eagle rays, whitetip reef sharks, and schools of snapper are typical of the area. Dive access is by boat from Hamata (approximately 1 hour) or from liveaboards covering the Fury Shoals route.
 
 ## Site Information
 
-- **Location**: Red Sea, Middle East
+- **Location**: Fury Shoals area, ~24.2°N, southern Red Sea
 - **Entry Type**: Shore entry
-- **Site Type**: 
-Coral reef
-- **Maximum Depth**: 25 meters
-
-## Additional Resources
-
-- **Last Updated**: 2026-04-11
+- **Site Type**: Coral reef
+- **Difficulty Level**: Intermediate
+- **Maximum Depth**: ~25 m
 
 ---
-*Description based on OpenStreetMap-recorded data. No site-specific dive sources were located. Last updated 2026-04-11.*
+*No site-specific dive sources located for Eagle Fish. Description reflects general characteristics of the Fury Shoals reef system. Last updated 2026-05-17.*

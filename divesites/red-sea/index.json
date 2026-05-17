@@ -4296,18 +4296,6 @@
     "osmId": null
   },
   {
-    "name": "Napoleon Reef (2)",
-    "filename": "napoleon-reef-2.md",
-    "lat": 28.4662014,
-    "lng": 34.5045805,
-    "difficulty": "Intermediate",
-    "maxDepth": 25,
-    "entryType": "shore",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": null
-  },
-  {
     "name": "The Excalibur Wreck",
     "filename": "the-excalibur-wreck.md",
     "lat": 27.2158333,
@@ -5812,18 +5800,6 @@
     "filename": "spit-reef.md",
     "lat": 26.6916,
     "lng": 33.9733,
-    "difficulty": "Intermediate",
-    "maxDepth": 25,
-    "entryType": "shore",
-    "siteType": "reef",
-    "ref": "",
-    "osmId": null
-  },
-  {
-    "name": "Daedalus Reef (2)",
-    "filename": "daedalus-reef-2.md",
-    "lat": 24.92835,
-    "lng": 35.8618,
     "difficulty": "Intermediate",
     "maxDepth": 25,
     "entryType": "shore",
