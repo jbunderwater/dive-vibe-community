@@ -17,7 +17,7 @@ S.S. Chickasaw is a historic wreck dive in California Channel Islands, North Ame
 
 ## Overview
 
-The S.S. Chickasaw is a steel-hulled steam freighter that wrecked off Santa Cruz Island in 1962, and her remains lie on a rocky reef at around 12 meters, one of the shallower and more accessible wreck dives in the northern Channel Islands. The intact boiler and large hull sections are encrusted with orange and pink invertebrates that colour up brilliantly under a dive light, and the surrounding kelp forest filters sunlight down through the canopy in shifting shafts. Garibaldi are abundant here, and the wreck's proximity to Santa Cruz's sea lion haul-outs means playful interactions with the local colony are a regular part of the dive.
+The S.S. Chickasaw is a 439-foot C-2-type steel-hulled cargo freighter (ex-USS *Thurston*) that grounded on the south side of Santa Rosa Island on February 7, 1962. Her remains lie on a rocky reef at around 3–12 meters — one of the shallower and more accessible wreck dives in the northern Channel Islands. The intact boiler and large hull sections are encrusted with orange and pink invertebrates that colour up brilliantly under a dive light, and the surrounding kelp forest filters sunlight down through the canopy in shifting shafts. Garibaldi are abundant here, and the area's sea lion haul-outs mean playful interactions with the local colony are a regular part of the dive.
 
 ## Site Information
 

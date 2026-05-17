@@ -286,30 +286,6 @@
     }
   },
   {
-    "name": "Equator",
-    "lat": 48.0039264,
-    "lon": -122.2180318,
-    "osm_id": 542865620,
-    "osm_type": "way",
-    "depth": null,
-    "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": "Beginner",
-    "tags": {
-      "building": "yes",
-      "historic": "wreck",
-      "name": "Equator",
-      "seamark:type": "wreck",
-      "wikidata": "Q5384243",
-      "wikipedia": "en:Equator (schooner)",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research",
-      "notes": "Historic schooner (1888) with literary history (Robert Louis Stevenson chartered it in 1889). Now preserved on Everett waterfront, NOT a diving site."
-    }
-  },
-  {
     "name": "Center Reef",
     "lat": 48.6357132,
     "lon": -123.1616104,
@@ -518,30 +494,6 @@
       "validated": true,
       "validation_source": "web_research",
       "notes": "U.S. Coast Guard vessel wreck, visible at both tides, south Puget Sound"
-    }
-  },
-  {
-    "name": "Pacific Queen",
-    "lat": 47.8930647,
-    "lon": -122.3285542,
-    "osm_id": 1319352424,
-    "osm_type": "way",
-    "depth": null,
-    "site_type": "wreck",
-    "entry_type": null,
-    "difficulty": "Beginner",
-    "tags": {
-      "historic": "wreck",
-      "name": "Pacific Queen",
-      "seamark:type": "wreck",
-      "seamark:wreck:category": "hull_showing",
-      "wreck:visible_at_high_tide": "yes",
-      "wreck:visible_at_low_tide": "yes",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass",
-      "validated": true,
-      "validation_source": "web_research",
-      "notes": "Historic refrigerated vessel beached north of Picnic Point, NOT a diving site. Private beach access."
     }
   },
   {

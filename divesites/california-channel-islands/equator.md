@@ -17,7 +17,7 @@ Equator is a historic wreck dive in California Channel Islands, North America.
 
 ## Overview
 
-The Equator is a 19th-century wooden-hulled brigantine that wrecked on the rocks off Anacapa Island, one of the oldest shipwrecks in the Channel Islands and notable for its well-preserved bronze and iron hardware visible among the kelp-covered debris field. The site sits in shallow water around 12 meters and is frequently visited by the California sea lions that haul out on Anacapa's rocky shores, often swooping through the wreckage in playful spirals. The surrounding kelp forest adds atmosphere to the dive, with garibaldi and sheephead patrolling the amber fronds above the scattered hull remains.
+The Equator is a 93-foot commercial fishing vessel built in Tacoma in 1949 that wrecked on the rocks at Middle Anacapa Island the same year. The dynamic sand-buried debris field sits in shallow water around 12 meters, where bronze and iron hardware is occasionally exposed among the kelp. California sea lions haul out on Anacapa's rocky shores and frequently swoop through the wreckage in playful spirals. The surrounding kelp forest adds atmosphere to the dive, with garibaldi and sheephead patrolling the amber fronds above the scattered hull remains.
 
 ## Site Information
 

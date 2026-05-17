@@ -23,9 +23,9 @@ The SS Monte Carlo (originally SS McKittrick) was a concrete and iron oil tanker
 
 - **Location**: Coronado Beach, Coronado, San Diego (in front of Coronado Shores condominiums)
 - **Entry Type**: Shore entry
-- **Site Type**: Wreck (partially buried, very shallow)
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters (scattered sections; accessible portions typically 3–6 m)
+- **Maximum Depth**: 20 meters
 - **Water Temperature**: 15–20°C
 
 ## Wreck History

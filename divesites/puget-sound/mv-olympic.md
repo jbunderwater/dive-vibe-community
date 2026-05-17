@@ -23,7 +23,7 @@ The MV Olympic rests at 15 meters off the Steilacoom area of Puget Sound, one of
 
 - **Location**: Ketron Island / Steilacoom area, South Puget Sound, Washington
 - **Entry Type**: Boat dive
-- **Site Type**: Wreck
+- **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 15 meters
 - **Water Temperature**: 8–12°C year-round

@@ -17,7 +17,7 @@ Aggi is a historic wreck dive in California Channel Islands, North America.
 
 ## Overview
 
-The Aggi is a Norwegian bark that wrecked on the rocks off Santa Cruz Island in 1915, and her heavily encrusted iron hull frames now lie on a rocky reef at around 21 meters, draped in coralline algae and sea stars. The wreck has fully integrated into the reef ecosystem and the boundary between wreck and natural rock is blurry — lingcod and cabezon stake out territory on the larger hull sections, while rockfish hover in loose groups in the midwater above. Santa Cruz Island's kelp forests frame the site, and harbor seals from the island's resident population occasionally investigate divers exploring the scattered debris.
+The Aggi is a Norwegian-flag, Scottish-built 265-foot steel full-rigger (ex-*Aspice*) that stranded on Talcott Shoal off the south side of Santa Rosa Island on May 4, 1915 while under tow. Her heavily encrusted iron hull frames now lie across Talcott Shoal at around 6–15 meters, draped in coralline algae and sea stars. The wreck has fully integrated into the reef ecosystem and the boundary between wreck and natural rock is blurry — lingcod and cabezon stake out territory on the larger hull sections, while rockfish hover in loose groups in the midwater above. Santa Rosa Island's kelp forests frame the site, and harbor seals from the island's resident population occasionally investigate divers exploring the scattered debris.
 
 ## Site Information
 
