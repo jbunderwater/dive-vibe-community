@@ -13,49 +13,49 @@ addedBy: osm_import
 
 ## Babylon
 
-Babylon is a wall dive site in the Alor Archipelago, East Nusa Tenggara, Indonesia — one of Alor's most visually striking reefs, named for the layered, almost architectural columns of coral that line its upper edge before the wall drops away.
+Babylon is a wall dive site in the Alor Archipelago, East Nusa Tenggara, Indonesia — also known as Biatabang, it is a colourful reef wall that descends to 28 metres with interesting overhangs, exceptional nudibranch diversity, and the distinctive presence of traditional Alorese fish traps (bubu) set by local fishermen along the shallow reef.
 
 ## Overview
 
-Babylon sits along the northern coast of Alor and presents a gently sloping reef top that gives way to a near-vertical wall falling well past recreational limits. The wall face is blanketed with large sea fans, barrel sponges, and encrusting corals in vivid oranges and purples. Visibility regularly reaches 20–30 metres in the dry season, and the site sees moderate to strong currents that sweep nutrients along the wall and attract a steady parade of reef and pelagic fish. Because currents are manageable here compared to Alor's more exposed passages, Babylon is accessible to intermediate divers, making it a favourite first-day site on liveaboard itineraries that need something spectacular but not overwhelming.
+Babylon (Biatabang) sits on Ternate Island in the Alor Archipelago and presents a wall dropping to approximately 28 metres with notable overhangs at around 30 metres. The site is culturally distinctive: traditional woven fish traps (bubu) set by local Alorese fishermen are positioned at 5–15 metres depth, and observant divers can watch the process of subsistence fishing as it has been practiced here for generations. One ScubaBoard trip report described Babylon as "insane visibility" with a "huge drop off," noting that divers could observe local fishermen free-diving to tend their traps. The wall face supports colourful corals and reef fish communities. Multiple sources rate it as an excellent introductory dive for the area, often used as a first dive on liveaboard itineraries.
 
 ## Site Information
 
-- **Location**: Alor Archipelago, East Nusa Tenggara, Indonesia
+- **Location**: Ternate Island, Alor Archipelago, East Nusa Tenggara, Indonesia (also known as Biatabang)
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 28 meters
 - **Typical Visibility**: 15–30 metres
 - **Current**: Moderate to strong; direction reverses with tidal cycle
-- **Best Time**: April to November (dry season, calmer seas and best visibility)
+- **Best Time**: April to November (dry season)
 
 ## Marine Life
 
-The upper reef at 5–12 metres is dense with hard coral gardens and clouds of anthias. Descending the wall, large gorgonian sea fans anchor at 15–25 metres, and moray eels peer from every crevice. Bumphead parrotfish cruise the reef top in small schools, and grey reef sharks patrol the wall edge at depth. Hawksbill turtles are regularly encountered resting on the larger coral outcrops, and Napoleon wrasse make appearances in the deeper sections. At the right current state, schools of big-eye trevally and rainbow runners hang in the blue beyond the wall face.
+Starfish.ch documented six distinct species of nudibranchs on a single dive at Babylon, making it an above-average nudibranch site. The Occasional Traveller confirmed orangutan crabs, squat lobsters, peacock mantis shrimp, moray eels, and leaf scorpionfish at this site. Sea snakes are reported in the water column. The overhangs at 30 metres and the varied wall structure concentrate invertebrate life throughout the dive profile. Shallower sections support reef fish communities typical of Alor.
 
 ## Dive Profile
 
-Drop in up-current and drift along the wall, spending the first third of the dive in the 18–28 metre range where the largest fans and deepest overhangs concentrate the most interesting life. Work shallower through the middle of the dive, finishing the last 15 minutes on the coral-rich plateau at 5–10 metres. A 3-minute safety stop at 5 metres is straightforward and the reef top provides shelter from most surface current. Signal the tender with your SMB before ascending.
+Drop in up-current and drift along the wall, spending time in the 15–28 metre range where the overhangs and wall features are most interesting. The fish traps at 5–15 metres are worth a dedicated pass — they attract small fish and provide context for the traditional culture of the area. Work shallower through the middle of the dive, finishing the last 15 minutes on the coral-rich reef top at 5–10 metres. An SMB deployment before the safety stop signals the tender for pickup.
 
 ## Entry and Exit
 
-All access is by live-aboard or day-boat tender. Entry via giant stride or back roll. The crew monitors drifting divers and repositions the tender for pick-up at the end of the drift; always deploy your SMB at the start of your safety stop.
+Access by liveaboard or day-boat tender. Entry via giant stride or back roll. The crew monitors drifting divers and repositions the tender for pick-up.
 
 ## Tips and Recommendations
 
-- Plan your dive for slack water or the early part of an incoming current — the wall comes alive when water is moving but not yet running hard
-- Work the wall methodically rather than heading straight to depth; the shallow section at 8–15 metres often holds the most fish life
-- A wide-angle lens captures the sweeping fan corals and schooling fish; carry a macro lens extension for the nudibranchs tucked into sponge bases
-- Night dives at Babylon reveal basket stars unfurling and sleeping parrotfish cocooned in mucus bubbles
+- Take time to observe the traditional bubu fish traps in the shallows — they are an unusual underwater encounter and part of what makes Babylon culturally distinctive
+- Work the overhangs and wall nooks methodically for nudibranchs; six species on a single dive has been confirmed here
+- The wall is productive enough for multiple consecutive dives on liveaboard itineraries
+- Sea snakes in the water column are harmless unless directly handled; observe from a respectful distance
 
 ## Safety Considerations
 
-Currents can accelerate quickly as tides shift; monitor conditions throughout the dive. The wall drops beyond recreational limits, so watch your depth gauge on the descending sections. Always carry an SMB and dive whistle. Strong downwellings occasionally occur along the wall face — if you feel yourself being pushed down, fin horizontally away from the wall into open water rather than fighting the current vertically.
+Currents can accelerate as tides shift; monitor conditions throughout the dive. The wall drops past recreational limits in places — watch your depth gauge on descending sections. Always carry an SMB.
 
 ## Photography
 
-The sea fans at 18–22 metres are the signature wide-angle shot, best composed with a diver silhouetted against the open blue. The reef top offers clean macro opportunities on nudibranchs and small crustaceans. Morning light penetrates to the upper wall most effectively, giving warm colour to the orange sponges without strobe dependence at shallower depths.
+The nudibranchs concentrated along the wall and overhangs are the primary macro subject; a 60–100 mm macro handles most finds. The traditional fish traps make for unusual wide-angle social-documentary images. The wall face with its coral coverage rewards medium wide-angle shooting.
 
 ---
-*Sources: [Alami Alor Dive Resort Diving](https://www.alamialor.com/diving-snorkeling/scuba-diving/), [Alor Divers Resort](https://www.alor-divers.com/), [ZuBlu Scuba Diving in Alor](https://www.zubludiving.com/destination/indonesia/nusa-tenggara/alor), [Solitude World Alor Diving Guide](https://solitude.world/alor-diving-guide/), [Dive the World Alor](https://www.dive-the-world.com/diving-sites-indonesia-alor.php). Last updated 2026-04-04.*
+*Sources: [Starfish.ch Alor Dive Guide](https://www.starfish.ch/dive/Alor.html), [The Occasional Traveller Alor Dive Logs](https://theoccasionaltraveller.com/scuba-diving-in-alor/), [Malaysia Asia Alor Dive Sites](https://www.malaysia-asia.my/2017/10/dive-sites-at-alor-island.html), [Girls That Scuba Alor](https://www.girlsthatscuba.com/scuba-diving-in-alor-indonesia/). Last updated 2026-05-17.*

@@ -13,23 +13,38 @@ addedBy: osm_import
 
 ## Guoddus Garden
 
-Guoddus Garden is a reef dive site in Andaman Islands, Asia.
+Guoddus Garden is a reef dive site near Havelock Island in the Andaman Islands. No site-specific information was found in dive operator databases or published dive sources.
 
 ## Overview
 
-Guoddus Garden is a reef dive site near Havelock Island in the Andamans, featuring the coral garden and reef structures typical of Ritchie's Archipelago in the Bay of Bengal. The Andaman Islands host over 1,200 fish species and some of the most pristine reef systems in India, with visibility regularly reaching 40 metres in the calm season from November to May and water temperatures staying between 26–29°C year-round. The site is accessible by short boat ride from Havelock's jetty and suits divers across a range of experience levels.
+Guoddus Garden is logged in OpenStreetMap as a dive site near Havelock Island at coordinates placing it in Ritchie's Archipelago in the Bay of Bengal. The site is not listed by name on any of the major Havelock Island dive operator websites consulted (including Dive Andaman, Seahawks Scuba, Barefoot Scuba, DIVEIndia, ScubaLov, or Lacadives). It may be a lesser-known site, an alternative local name for a site known by another name, or a site that is no longer actively dived. No site-specific depths, topography, or marine life information could be confirmed from independent sources.
 
 ## Site Information
 
-- **Location**: Andaman Islands, Asia
+- **Location**: Andaman Islands, near Havelock Island (Swaraj Dweep)
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 25 meters
+- **Current**: Unknown
+- **Best Time**: November to April (general Andaman season)
 
 ## Marine Life
 
-The coral garden supports the rich fish diversity typical of Ritchie's Archipelago, with grouper, angelfish, parrotfish, and batfish among the common encounters across the reef structures. Lionfish and moray eels are regularly spotted in the crevices of the coral formations, while trevally and Napoleon wrasse cruise the mid-water. With over 1,200 fish species recorded in the Andamans, careful observation of the reef often reveals nudibranchs and smaller critters alongside the larger schooling fish.
+*No site-specific marine life sources found. Description based on regional diving characteristics for Ritchie's Archipelago.*
+
+## Dive Profile
+
+No site-specific information available.
+
+## Entry and Exit
+
+Contact local Havelock Island dive operators for current access information.
+
+## Tips and Recommendations
+
+- Consult local dive operators regarding whether this site is currently active
+- General Andaman diving season runs November to April
 
 ---
-*Sources: [Dive Andaman - Dive Sites](https://www.diveandaman.com/), [SSI - Scuba Diving in Andaman Guide](https://www.divessi.com/en/blog/ultimate-scuba-diving-in-andaman-10091.html), [PADI - Diving in Andaman Islands](https://www.padi.com/diving-in/andaman-islands/), [Bluewater Dive Travel - Andaman Islands](https://www.bluewaterdivetravel.com/destination/andaman-islands-diving), [Sea Hawks Scuba - Andaman Diving Guide](https://seahawksscuba.in/scuba-diving-in-andaman/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-17.*

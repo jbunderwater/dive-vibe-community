@@ -13,52 +13,43 @@ addedBy: osm_import
 
 # Carpenter's Reef
 
-A current-swept reef channel on Antigua's southwest coast where tidal flow creates a fast drift past coral walls rich in sea fans, barrel sponges, and large schooling fish.
+A coral boulder site on Antigua's exposed southeastern coast — also known as Carpenter's Rock and Carpenter's Hole — with Caribbean reef sharks, spotted eagle rays, nurse sharks, and a shallow "aquarium" zone packed with schooling fish, dived primarily as a drift in calmer months.
 
 ## Overview
 
-Carpenter's Reef is a drift dive site in the channel area off Antigua's southwest coast, positioned to intercept the tidal flow that runs through the passages between the offshore reef systems and the main island. When current is running, divers drift effortlessly along a coral-encrusted reef wall dropping from 12 to 24 meters, carried past formations of sea fans, barrel sponges, and black coral that flourish in the nutrient-rich moving water. The site requires good conditions timing — the drift is best when tidal flow aligns with the reef face, allowing sustained drifting without fighting the current. Visibility can reach 25–35 meters in optimal conditions. Water temperature is 26–28°C.
+Carpenter's Reef (also known locally as Carpenter's Rock or Carpenter's Hole) sits in the passage between Nanton Point and Stoney Cove in Antigua's Windward Bay area. The site consists of large, coral-covered boulders rather than a continuous reef wall, with the most dramatic diving in the form of a drift when tidal current is running. In the shallower upper zone (top 6 metres), the site functions as an "aquarium" with large schools of sergeant majors and chub — an entirely different character from the deeper sections. Below 6 metres, the coral boulders are interspersed with moray eels, nurse sharks, and invasive lionfish. Caribbean reef sharks and spotted eagle rays have been confirmed at this site by DiveCarib, which operates it regularly. The site is fully exposed to the Atlantic Ocean and requires calm conditions; the best diving window is mid-December through mid-May.
 
 ## Site Information
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 12–24 m |
+| Depth Range | 3–24 m |
 | Difficulty | Intermediate |
 | Entry Type | Boat |
 | Site Type | Drift |
-| Visibility | 20–35 m |
+| Visibility | 5–15 m (variable, exposed site) |
 | Current | Moderate to strong (tidal) |
-| Water Temp | 26–28°C |
+| Water Temp | 25–27°C |
 
 ## Marine Life
 
-Current-washed reef sites attract pelagic species that are less common at calmer locations. Spotted eagle rays sweep past the reef face during drift dives at this site. Schools of horse-eye jacks and bar jacks use the current to hunt efficiently, creating large, dynamic formations. Caribbean reef sharks are consistent sightings at depth. On the reef itself, large barrel sponges at 18–24 meters and sea fan formations at 15–20 meters support dense invertebrate communities. Hawksbill turtles are regularly seen at the shallower sections of the reef face.
+The following marine life has been confirmed at Carpenter's Reef by DiveCarib and corroborating sources: Caribbean reef sharks, spotted eagle rays, nurse sharks, green moray eels, and invasive lionfish in the boulder zone; large schools of sergeant majors and chub in the shallow aquarium zone. These species are confirmed at this specific site. General Caribbean reef fish (parrotfish, angelfish, snapper) inhabit the boulder complex. Previous descriptions mentioning horse-eye jacks, bar jacks, hawksbill turtles, and black coral at this site were unconfirmed regional generalisations that have been removed.
 
 ## Dive Profile
 
-Entry at the upstream end of the reef and drift with the current along the face at chosen depth. Drift divers typically start at 15–18 meters and let the current carry them along the wall, ascending gradually to 12–15 meters as the dive progresses. The downstream end of the drift is the pickup point where the chase boat recovers divers. Total dive: 35–45 minutes typically, depending on current speed.
+When current is running: entry at the upstream end of the boulder zone, drift along the coral-covered boulders at 10–18 metres, ascend gradually and exit at the downstream pickup point. When current is slack: dive the aquarium zone in the top 6 metres and explore the boulder base for eels and nurse sharks. Total dive: 35–50 minutes depending on current speed.
 
 ## Entry and Exit
 
-The operator times the dive with the tidal cycle for optimal drift conditions. Entry by backward roll, descending quickly to working depth before being swept past the entry point. Ascent at the downstream end with DSMB deployment for boat pickup. No mooring — this is a true drift dive.
+Boat dive. The operator assesses current conditions and times the dive accordingly. Entry by backward roll, descending quickly to working depth. When drifting, ascent occurs at the downstream pickup point with DSMB deployment. No mooring — the drift dive pickup is coordinated with the chase boat.
 
 ## Tips and Recommendations
 
-Carpenter's Reef is only worth diving when current is running — a slack-water dive here is far less interesting than nearby Cades Reef. Operators check tidal tables before booking this site. DSMB skills are essential — this is not a site for divers who have not yet mastered DSMB deployment under current conditions. A wrist computer with dive planning capability helps manage depth on the descent.
+Carpenter's Reef is not dived very often precisely because the exposed position requires calm conditions. The mid-December to mid-May window gives the best chance of good conditions. The shallow aquarium zone at the top of the site is the most visually striking section — don't rush past it chasing depth. DSMB skills are essential before diving here. Ask the operator whether conditions favour a drift or a static dive on the day.
 
 ## Safety Considerations
 
-Drift diving requires solid buoyancy control and the ability to maintain depth while moving horizontally. Do not fight the current — go with it. All divers must carry a DSMB, and deployment should occur well before the planned ascent point. Separate from the group in a drift is more serious than at moored sites. The dive operator must be an experienced drift dive captain who knows the pickup procedure.
-
-## Photography
-
-Drift photography at Carpenter's Reef rewards wide-angle lenses — the combination of moving water, large fish schools, and expansive reef creates dynamic compositions. Tracking an eagle ray in mid-current with the reef face in the background is a signature image. The barrel sponge and sea fan formations photographed from below with ambient light from above are characteristic deep Caribbean drift photography.
-
-## Additional Resources
-
-- Antigua dive operators: check conditions before booking — this site is tide-dependent
-- Local operators provide drift dive briefings specific to Carpenter's Reef current patterns
+Exposed to the full Atlantic; only dive in appropriate conditions assessed by the operator. DSMB deployment is mandatory — never ascend without deploying. The exposed position means wave action can make entry and exit difficult. Lionfish are present — avoid contact. Moray eels under boulder overhangs can be large; maintain distance.
 
 ---
-*Sources: [Carib Dive Guide - Antigua](https://www.caribdiveguide.com/Antigua.htm), [DiveCarib - Antigua Dive Sites](https://www.divecarib.com/dive-sites/), [DIVEIN - Diving in Antigua and Barbuda](https://www.divein.com/diving/destination/diving-in-antigua-and-barbudo/), [PADI - Diving in Antigua and Barbuda](https://www.padi.com/diving-in/antigua-and-barbuda/), [Visit Antigua & Barbuda - Diving](https://www.visitantiguabarbuda.com/experiences/dive-carib/). Last updated 2026-04-04.*
+*Sources: [DiveCarib - Antigua Dive Sites](https://www.divecarib.com/dive-sites/), [Xtreme Spots - Carpenter's Hole Antigua](https://www.xtremespots.com/water-sports/scuba-diving/cades-reef-antigua-antigua-and-barbuda/), [Antigua and Barbuda Official Tourism](https://www.antigua-barbuda.org/Agdive01.htm). Last updated 2026-05-17.*

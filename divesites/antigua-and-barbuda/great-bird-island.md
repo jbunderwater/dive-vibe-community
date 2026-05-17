@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Great Bird Island
 
-A coral reef surrounding one of Antigua's most scenic offshore cays — combining excellent marine life with above-water encounters on an island that hosts the Antiguan racer snake, one of the world's rarest.
+A coral reef within the North East Marine Management Area northeast of Antigua — clear water, hawksbill turtles, southern stingrays, and spotted eagle rays, plus the above-water spectacle of the critically endangered Antiguan racer snake.
 
 ## Overview
 
-Great Bird Island is a small, uninhabited cay in the northeast corner of Antigua — part of the North Sound Marine Park — that offers both excellent diving and a notable above-water natural history experience. Underwater, the island is ringed by a coral reef that descends from 3 meters at the crest to 14 meters at the sandy base. The reef is in good condition, benefiting from the lower visitor pressure of the northeast coast compared to the more heavily dived southwest. Hard coral formations include healthy brain, star, and finger corals. Visibility is typically 20–30 meters. The island above water is the primary remaining refuge for the Antiguan racer snake (Alsophis antiguae), a critically endangered species found nowhere else on Earth.
+Great Bird Island is a small, uninhabited cay approximately three kilometres northeast of Antigua, set within the North East Marine Management Area — a protected zone known for biodiversity. The island is ringed by coral reef that descends from 3 metres at the crest to 14 metres at the sandy base. The northeast coast sees lower diver traffic than Antigua's southwest, which benefits the reef's condition. The island also hosts the primary remaining population of the Antiguan racer snake (Alsophis antiguae), a harmless and critically endangered species found nowhere else in the world following a successful invasive-species eradication program on the offshore cays. Red-billed tropicbirds, brown noddies, and sooty terns also nest here seasonally.
 
 ## Site Information
 
@@ -33,32 +33,23 @@ Great Bird Island is a small, uninhabited cay in the northeast corner of Antigua
 
 ## Marine Life
 
-The reef around Great Bird Island supports a diverse Caribbean reef community. Hawksbill and green sea turtles are regular presences. French angelfish and queen angelfish are particularly abundant compared to many Antigua sites. Schools of blue tang and doctorfish move across the reef crest. Spotted moray eels occupy reef crevices. Southern stingrays rest in the sandy clearings at the reef base. Caribbean spiny lobster can be found beneath coral overhangs. The clear northeast waters provide above-average visibility for fish observation.
+The following marine life has been confirmed at or immediately around Great Bird Island: hawksbill sea turtles, southern stingrays, spotted eagle rays, and diverse reef fish. Green sea turtles nest on nearby beaches and are present in the area. The specific species composition of the reef (angelfish species, snapper populations, etc.) reflects the broader northeastern Caribbean reef community. Previous descriptions citing specific abundance of French and queen angelfish at this site were not independently confirmed at Great Bird Island specifically and have been removed. The Antiguan racer snake is visible above the waterline on the island itself, not underwater.
 
 ## Dive Profile
 
-Descent from the boat to the reef crest at 3–5 meters, then navigation east or west along the island's reef perimeter at chosen depth. The reef on the northeast face of the island is typically the most productive section. Maximum depth of 14 meters allows 60+ minutes of bottom time at recreational consumption rates.
+Descent from the boat to the reef crest at 3–5 metres, then navigation along the reef perimeter at chosen depth. The reef on the northeast face of the island is typically the most productive section. Maximum depth of 14 metres allows extended bottom time at recreational consumption rates. The clear northeast water provides good horizontal visibility for fish observation.
 
 ## Entry and Exit
 
-Boat dive from operators based at English Harbour or Jolly Harbour on Antigua. Great Bird Island is a longer boat ride than the southwest coast sites (approximately 30–45 minutes). Entry by giant stride. The North Sound Marine Park prohibits anchoring — mooring buoys available.
+Boat dive from operators based at English Harbour or Jolly Harbour. The journey is approximately 30–45 minutes. The North East Marine Management Area prohibits anchoring; mooring buoys are available. Entry by giant stride. DSMB recommended.
 
 ## Tips and Recommendations
 
-Great Bird Island is best visited as a full-day trip that includes both the dive and a landing on the island to see the Antiguan racer snake habitat. Environmental awareness guided tours are available with some operators. Combining the dive with a visit to the adjacent cays in North Sound creates a full-day northeast Antigua experience. The northeast coast dives best in the dry season (December–April) when trade winds keep the seas calm.
+Great Bird Island works well as a full-day trip combining the dive with a landing on the cay to observe the Antiguan racer snake in its natural habitat — an experience not available anywhere else in the world. The northeast coast dives best in the dry season (December–April) when trade winds keep seas relatively calm.
 
 ## Safety Considerations
 
-The northeast coast of Antigua is more exposed to Atlantic swell than the leeward southwest — check sea state conditions before booking. Current in the North Sound area can be moderate on tidal flows. Standard marine park rules apply: no touching or collecting. DSMB required.
-
-## Photography
-
-Great Bird Island's clear northeast water provides excellent conditions for wide-angle reef photography. The island visible at the surface above the reef crest creates distinctive above-below split-level photography opportunities. Angelfish and turtle portraits in clear water are excellent. The reef's relatively undisturbed condition means fish are large and numerous by Caribbean standards.
-
-## Additional Resources
-
-- North Sound Marine Park: governed by Antigua and Barbuda's Department of Marine Resources
-- Antigua Racer Conservation Project: information on the island's rare snake population
+The northeast coast is more exposed to Atlantic swell than the leeward southwest — verify sea state before booking. Marine management area rules apply: no touching or collecting. DSMB required. The longer boat transit means emergency support is further away than at southwest coast sites.
 
 ---
-*Sources: [Carib Dive Guide - Antigua](https://www.caribdiveguide.com/Antigua.htm), [DiveCarib - Antigua Dive Sites](https://www.divecarib.com/dive-sites/), [DIVEIN - Diving in Antigua and Barbuda](https://www.divein.com/diving/destination/diving-in-antigua-and-barbudo/), [PADI - Diving in Antigua and Barbuda](https://www.padi.com/diving-in/antigua-and-barbuda/), [Visit Antigua & Barbuda - Diving](https://www.visitantiguabarbuda.com/experiences/dive-carib/). Last updated 2026-04-04.*
+*Sources: [Yacht Warriors - Great Bird Island](https://yachtwarriors.com/destinations/antigua-and-barbuda/islands/great-bird-island), [International Parks - Great Bird Island](https://www.internationalparks.org/antigua-and-barbuda/Great%20Bird%20Island), [TripAdvisor - Great Bird Island](https://www.tripadvisor.com/Attraction_Review-g147243-d10172584-Reviews-Great_Bird_Island-St_John_s_Saint_John_Parish_Antigua_Antigua_and_Barbuda.html). Last updated 2026-05-17.*

@@ -13,44 +13,43 @@ addedBy: osm_import
 
 ## Swan Lake Wooden Barge
 
-Swan Lake Wooden Barge is a historic wreck dive in Alaska, North America.
+The Swan Lake Wooden Barge is an OSM-documented wooden wreck in the waters near Sand Point on the Alaska Peninsula, resting at approximately 14 meters depth.
 
 ## Overview
 
-The Swan Lake Wooden Barge is a deteriorating wooden vessel resting at around 14 meters in the waters near Sand Point on the Alaska Peninsula, where the cold, productive waters of the Bering Sea side of the peninsula circulate. Wooden wrecks age faster in Alaska's cold, oxygenated seawater, and the barge's decaying hull has become a complex structure of broken planking, ribs, and frames that create excellent habitat for lingcod, rockfish, and the invertebrate communities that favor sheltered substrate. The remote setting near the Shumagin Islands means this is a seldom-dived site encountered primarily by visiting divers on chartered vessels exploring the outer Alaska Peninsula coast.
+The Swan Lake Wooden Barge is an OSM-tagged wreck (historic=wreck, seamark:type=wreck) at approximately 55.25°N, 162.71°W. This location is in the waters near Sand Point, Alaska, in the Shumagin Islands area of the southwestern Alaska Peninsula. No vessel-specific history, identity, or recreational dive site documentation was found for this location in available maritime records, the Alaska Shipwrecks database, or dive operator sources during this QA pass.
+
+The Alaska Shipwrecks database does document a wooden barge designated APS CO NO 10 (a 42-ton, 60-foot wooden barge that burned November 1, 1964 at Sand Point), which may or may not correspond to this site. Without confirmed cross-reference data, no specific vessel identity can be attributed.
+
+The Sand Point area sits at the edge of the Bering Sea and Pacific Ocean approaches on the Alaska Peninsula, with cold, productive waters influenced by the Bering Sea. The region is remote, with limited transportation and no established dive infrastructure. Any dive at this location requires logistical self-sufficiency.
 
 ## Site Information
 
-- **Location**: Southeast Alaska (Ketchikan area), Alaska
+- **Location**: Near Sand Point, Shumagin Islands area, Alaska Peninsula
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Water Temperature**: 8-14°C (46-57°F) summer; 4-10°C (39-50°F) winter
+- **Maximum Depth**: 14 meters
+- **Typical Visibility**: Unknown — no recreational dive reports found
+- **Current**: Moderate to strong tidal
+- **Water Temperature**: 3–10°C (37–50°F)
+- **Best Time**: June–August (narrow weather window)
 
 ## Marine Life
 
-The wreck structure creates excellent habitat attracting rich cold-water fauna. Common species include lingcod, rockfish, cabezon, and occasional wolf eels. Giant Pacific octopus inhabit crevices and encrusted surfaces. Invertebrates include anemones, nudibranchs, sea stars, and sea urchins. Encrusting growth on hull is extensive and colorful.
+No site-specific marine life reports have been found for this wreck. The Alaska Peninsula region's cold, nutrient-dense waters support halibut, Pacific cod, rockfish, king crab, lingcod, and Steller sea lions. What species colonize this specific wreck is unconfirmed.
 
 ## Dive Profile
 
-Descend directly to wreck structure. Explore exterior and accessible openings. Observe encrusting growth and marine life. Spend 20-30 minutes exploring, then ascend with air reserve. Plan adequate time for safety stop in cold water.
+No confirmed dive profile is available for this site. The 14-meter depth is accessible to Advanced divers but the remote location and cold temperatures require careful gas management and thermal planning.
 
 ## Entry and Exit
 
-Access by boat from Whittier or Valdez area dive operators. Direct descent on line or GPS. Exit is straightforward ascent with safety buoy for coordination.
-
-## Tips and Recommendations
-
-- Bring high-quality dive torch for dark wreck interiors
-- Contact local operators for access and conditions
-- Wear properly-fitted dry suit for prolonged cold exposure
-- Use dive computer with cold-water settings
-- Excellent macro and wide-angle photography opportunities
-- Maintain proper buoyancy to avoid silt clouds
+Sand Point is the nearest community with an airstrip. Access to the water would require a local boat or charter. No dive operators are known to serve this location regularly.
 
 ## Safety Considerations
 
-Cold-water wreck dive for Advanced+ divers with wreck experience. Never penetrate without full wreck training. Maintain buddy contact. Deploy SMB at ascent. Cold water demands thermal awareness during safety stops.
+Extremely remote location on the Alaska Peninsula. Emergency response times are measured in hours. Wooden wrecks in cold Alaskan waters can be in an advanced state of structural deterioration — penetration is not recommended. Full cold-water dry suit and redundant gear required. Buddy diving mandatory.
 
 ---
-*Sources: [Dive Alaska - Anchorage Dive Operator](https://divealaska.net/), [Scuba Diving Magazine - Where to Go Scuba Diving in Alaska](https://www.scubadiving.com/where-to-go-scuba-diving-in-alaska), [Scuba Diving Magazine - Mountain Point Ketchikan](https://www.scubadiving.com/diving-alaskas-mountain-point), [Bluewater Dive Travel - Best Scuba Diving in Alaska](https://www.bluewaterdivetravel.com/destination/alaska-diving), [SSI - Scuba Diving in Alaska Guide](https://www.divessi.com/en/blog/scuba-diving-in-alaska-10373.html). Last updated 2026-04-04.*
+*Description based on OSM data and regional diving characteristics. No site-specific sources found. Last updated 2026-05-17.*

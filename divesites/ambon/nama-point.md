@@ -13,23 +13,53 @@ addedBy: osm_import
 
 ## Nama Point
 
-Nama Point is a wall dive site in Ambon, Asia.
+Nama Point (Pantai Nama Wall) is a coral-rich wall on the inner Ambon Bay shore where large sponges, gorgonian fans, and black coral bushes reward divers who also scan the blue for pelagic species passing the point.
 
 ## Overview
 
-Nama Point is a rocky headland at the entrance to Ambon Bay where the steep reef wall drops through coral formations to sandy slopes below 30 meters, with stronger currents than the inner bay sites pushing nutrients along the wall and driving a richer fish community. Schooling bannerfish, barracuda, and big-eye trevally work the current at the point, while the wall itself carries impressive gorgonian sea fans and hard corals in good condition. The current exposure makes this an intermediate site that rewards divers who time the dive with the tidal flow — on the right current it becomes one of the most dramatic dives in the Ambon area.
+Pantai Nama Wall is described by bottles-up-diving.com as "a very nice wall covered in lots of corals and large sponges." The wall drops through impressive coral formations, with a notable section completely covered by black coral bushes harbouring small damselfish, longnose hawkfish, and butterflyfish. Another area features a large outcropping on a mild current where butterflyfish and other species aggregate.
+
+At the southwest end of the Tanjung Nama headland lies an adjacent feature noted by bottles-up-diving.com: a field of colourful elephant ear sponges hosting giant frogfish — offering both macro and wide-angle photography from the same site visit. A nearby slope section (Pantai Nama Slope) transitions from the wall to a rubble-heavy slope with ghost pipefish, ornate ghost pipefish, sea cucumbers carrying emperor shrimps, and other critters.
+
+The site is positioned on the inner Ambon Bay south shore and offers the combination of a coral wall, pelagic exposure at the point, and a critter slope — making it one of the more versatile dive sites in the bay.
 
 ## Site Information
 
-- **Location**: Ambon, Asia
+- **Location**: Tanjung Nama headland, inner south shore of Ambon Bay
 - **Entry Type**: Boat dive
 - **Site Type**: Wall dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 18 meters
+- **Typical Visibility**: 10–20 meters
+- **Current**: Variable at the point; mild along the wall
+- **Best Time**: October to April
 
 ## Marine Life
 
-Nama Point's exposed headland position creates the current conditions that attract schooling bannerfish, big-eye trevally, and barracuda working the point, making this one of the fishiest dives in the Ambon area. The wall carries impressive gorgonian sea fans in good condition with pygmy seahorses tucked into the fans, and crevices shelter moray eels and reef fish less common in the calmer inner bay sites. On the right tidal flow, the current brings excellent visibility and the possibility of mackerel and jacks appearing in the blue beyond the wall.
+Confirmed species at Pantai Nama Wall and its immediate vicinity include: large groupers, hawksbill turtles, sea snakes, damselfish (in black coral bushes), longnose hawkfish, butterflyfish, shrimps, nudibranchs, orangutan crabs in bubble corals, frogfish (giant/Commerson's frogfish in the elephant ear sponge field), ornate ghost pipefish, sea cucumbers with emperor shrimps, and decorator spidercrabs. At the point itself, starfish.ch records mackerel and fusilier schools passing in the blue on suitable current conditions. Looking out from the wall into the blue is specifically recommended by multiple sources when current is present.
+
+## Dive Profile
+
+Boat approach from Ambon Bay operators. Descend along the wall from the reef top in shallower water, working down to 15–18 meters where the main coral formations are concentrated. Navigate along the wall, spending time in the black coral bush section and at the current-exposed point before transitioning to the elephant ear sponge slope for a macro phase. Allow air for a shallow safety stop.
+
+## Entry and Exit
+
+Boat dive only; no shore entry. Entry by giant stride or back roll; follow guide for descent direction. Surface with SMB for boat pickup.
+
+## Tips and Recommendations
+
+- Look closely in the black coral bushes for longnose hawkfish — they are small and cryptic
+- At the point, occasionally look away from the wall into the blue for passing mackerel and jacks
+- The elephant ear sponge field with giant frogfish is particularly suitable for wide-angle compositions
+- Combine with a critter dive on the adjacent slope for maximum variety
+
+## Safety Considerations
+
+Current at the point can strengthen on tidal changes — time your arrival at the exposed section with local operator advice. Wall dives can lead to unintentional depth increases; monitor gauge regularly. Always deploy SMB before ascending in open water.
+
+## Photography
+
+The black coral bush section with hawkfish is a strong macro subject. The elephant ear sponge field suits wide-angle. Looking back at a diver silhouetted against the wall coral structures creates dramatic compositions. When pelagics pass the point, switch to a wider lens setting quickly.
 
 ---
-*Sources: [Dive Into Ambon](https://diveintoambon.com/tag/psychedelic-frogfish/), [ZuBlu Scuba Diving in Ambon](https://www.zubludiving.com/destination/indonesia/maluku/ambon), [Mikumba Diving Rare Critters of Ambon](https://www.mikumbadiving.com/rare-critters-of-ambon/), [Starfish Ambon Dive Sites](https://www.starfish.ch/dive/Ambon.html), [Neptune Liveaboards Ambon Diving](https://www.neptuneliveaboards.com/blog/ambon-diving/). Last updated 2026-04-04.*
+*Sources: [Starfish — Ambon Dive Sites](https://www.starfish.ch/dive/Ambon.html), [Bottles Up Diving — Ambon](https://www.bottles-up-diving.com/EN-pages/BU_divingother_ambon_EN.html), [IndoPacificImages — Ambon South Coast](https://indopacificimages.com/indonesia/maluku/diving-indonesia-maluku-province-ambons-south-coast-dives/). Last updated 2026-05-17.*

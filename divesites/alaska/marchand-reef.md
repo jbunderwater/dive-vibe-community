@@ -23,7 +23,7 @@ Marchand Reef is one of the named reef formations clustered in the Dixon Entranc
 
 - **Location**: Ketchikan area reef cluster, Southeast Alaska
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 26 meters
 - **Typical Visibility**: 8–18 meters (26–60 feet)
@@ -60,4 +60,4 @@ Current management is the critical skill for this site. Aborting the dive and re
 Marchand Reef is a strong photography site within the Ketchikan cluster. The dense anemone coverage provides excellent textured backgrounds for fish portraits. Lingcod are highly photogenic and relatively cooperative. Macro subjects — nudibranchs, tube worms, sea stars — reward slow, careful exploration of the encrusted surfaces.
 
 ---
-*Sources: [Dive Alaska - Anchorage Dive Operator](https://divealaska.net/), [Scuba Diving Magazine - Where to Go Scuba Diving in Alaska](https://www.scubadiving.com/where-to-go-scuba-diving-in-alaska), [Scuba Diving Magazine - Mountain Point Ketchikan](https://www.scubadiving.com/diving-alaskas-mountain-point), [Bluewater Dive Travel - Best Scuba Diving in Alaska](https://www.bluewaterdivetravel.com/destination/alaska-diving), [SSI - Scuba Diving in Alaska Guide](https://www.divessi.com/en/blog/scuba-diving-in-alaska-10373.html). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-17.*

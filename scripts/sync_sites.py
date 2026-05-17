@@ -23,7 +23,7 @@ from pathlib import Path
 
 # Map site_type codes to display names used in markdown body
 SITE_TYPE_DISPLAY = {
-    "reef": "Coral reef",
+    "reef": "Reef",
     "wall": "Wall dive",
     "wreck": "Wreck dive",
     "cave": "Cave/cavern",

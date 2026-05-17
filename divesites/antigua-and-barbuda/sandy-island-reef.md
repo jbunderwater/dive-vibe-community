@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Sandy Island Reef
 
-A shallow, photogenic reef surrounding one of Antigua's prettiest uninhabited sand-and-palm cays, offering classic Caribbean reef diving in calm, sheltered conditions.
+A shallow reef complex near Antigua's St. John's Harbour with several distinct named dive spots — including a sunken barge, a nurse shark ledge, and a critter-rich coral garden — in calm, clear leeward waters.
 
 ## Overview
 
-Sandy Island is a tiny, uninhabited sand cay with a few palm trees and brilliant turquoise water, located in Jolly Harbour on Antigua's leeward coast. The surrounding reef is among the most photogenic in Antigua — the combination of white sand cay, shallow turquoise water, and healthy coral reef creates the quintessential Caribbean scenery. The reef descends from 2 meters at the crest to 12 meters at the outer sandy base. Hard coral coverage is good, featuring brain, star, and staghorn coral formations. The site is a marine park zone with permanent moorings and no anchoring permitted. Visibility is consistently good at 20–30 meters. Water temperature is 26–28°C.
+Sandy Island is a small island near the entrance to St. John's Harbour on Antigua's leeward coast, ringed by reefs and rocky outcroppings that support a diverse marine community. The reef complex has several named dive spots that operators rotate between: The Ledge is known for nurse shark sightings; Jewel Box is a coral garden where critters hide in cracks and crevices; The Barge (or Sunken Barge) is a small artificial reef structure hosting parrotfish, snapper, spadefish, and barracuda. Away from the reef, sandy patches host garden eels and southern stingrays. The site is in calm leeward conditions, making it consistently accessible. Visibility is generally good at 20–30 metres. Water temperature is 26–28°C year-round.
 
 ## Site Information
 
@@ -33,32 +33,23 @@ Sandy Island is a tiny, uninhabited sand cay with a few palm trees and brilliant
 
 ## Marine Life
 
-Sandy Island Reef supports a typical Caribbean reef community in excellent numbers given the protected status. Green and hawksbill sea turtles are among the most reliable encounters — they feed on the reef and rest in the shallow sandy areas. Large populations of blue tang, parrotfish, and sergeant majors occupy the reef crest. Spotted moray eels are common in the coral crevices. Southern stingrays are frequently found resting on the sand at the reef base. Schools of yellowtail snapper congregate on the outer reef edge. Flamingo tongue snails are consistently found on sea fan branches throughout the reef.
+The following marine life has been confirmed at Sandy Island Reef dive spots: nurse sharks (at The Ledge), parrotfish, snapper, spadefish, and barracuda (at The Barge), garden eels (in sandy patches), southern stingrays (in sandy patches), and reef fish throughout the coral complex. California Diver also documents sea fans, gorgonians, and colourful corals throughout. Sea turtles are reported in the general area. Species mentioned in previous descriptions — such as flamingo tongue snails, spotted moray eels, and blue tang — are plausible regional reef species but have not been independently confirmed at this specific site in the sources reviewed.
 
 ## Dive Profile
 
-Descent from the mooring to the reef crest at 2–3 meters. Navigation east along the outer face to the planned turnaround, exploring the reef slope at 8–12 meters before ascending for the return. The sandy beach of the cay is visible from shallow sections of the reef, creating an unusually scenic perspective. Total dive: 50–60 minutes.
+Operators choose which named section to dive based on the day and group preference. The Ledge is typically explored along its coral face at 8–12 metres. The Barge sits shallower (3–8 metres) and allows extended bottom time. Jewel Box is a slower, detailed dive through coral structure in 5–10 metres. Sandy patches around the reef provide a contrasting terrain for garden eel and stingray observation. Total dive: 45–60 minutes.
 
 ## Entry and Exit
 
-Boat dive from Jolly Harbour or English Harbour operators. The site is very close to Jolly Harbour (5 minutes by dive boat), making it the most convenient dive on Antigua's leeward coast. Entry by giant stride. Permanent moorings in use. DSMB recommended.
+Boat dive, with Jolly Harbour and St. John's–based operators both operating here. Entry by giant stride. The sheltered leeward position means conditions are reliably calm. DSMB recommended when surfacing away from the mooring.
 
 ## Tips and Recommendations
 
-Sandy Island Reef combines extremely well with a surface interval on the sandy cay itself — most operators tie up to the cay for a snorkel and surface interval between dives. The combination of the beautiful cay and the reef diving makes this a highlight of any Antigua itinerary. The reef photographs best with a morning dive when the cay is illuminated from the east.
+Ask the operator which named section is planned — The Ledge, Jewel Box, and The Barge offer quite different experiences. Sandy Island is frequently combined with Cades Reef for a morning two-tank trip. Take time in the sandy patches adjacent to the reef for garden eel observation; approach slowly and stay low to avoid disturbing them.
 
 ## Safety Considerations
 
-The site is in a marine park zone — collecting, fishing, and touching the reef are all prohibited. Fire coral is present on the shallow reef crest. The cay is uninhabited — no facilities on the island. Boat traffic in Jolly Harbour approaches can be busy.
-
-## Photography
-
-Sandy Island Reef is exceptional for split-level photography — the cay and palm trees above the waterline with the reef below create the iconic Caribbean image. Wide-angle in 2–5 meters with strong ambient light delivers blue-water, coral, and turtle compositions. Close-focus wide-angle with flamingo tongue snails on sea fans is a consistently popular subject here.
-
-## Additional Resources
-
-- Jolly Dive and Indigo Divers: both operate regular morning and afternoon dives at Sandy Island Reef
-- Sandy Island cay is accessible by kayak from Jolly Harbour beach for snorkelling
+The site is within the marine reserve zone — no collecting or touching the reef. Fire coral is present on some shallow sections. Boat traffic near St. John's Harbour approaches can be active; surface visibly with a DSMB.
 
 ---
-*Sources: [Carib Dive Guide - Antigua](https://www.caribdiveguide.com/Antigua.htm), [DiveCarib - Antigua Dive Sites](https://www.divecarib.com/dive-sites/), [DIVEIN - Diving in Antigua and Barbuda](https://www.divein.com/diving/destination/diving-in-antigua-and-barbudo/), [PADI - Diving in Antigua and Barbuda](https://www.padi.com/diving-in/antigua-and-barbuda/), [Visit Antigua & Barbuda - Diving](https://www.visitantiguabarbuda.com/experiences/dive-carib/). Last updated 2026-04-04.*
+*Sources: [California Diver Magazine - Scuba Diving Antigua](https://californiadiver.com/scuba-diving-antigua-lord-horatio-nelsons-island-1209/), [DiveCarib - Antigua Dive Sites](https://www.divecarib.com/dive-sites/), [Antigua and Barbuda Official Tourism](https://www.antigua-barbuda.org/Agdive01.htm). Last updated 2026-05-17.*

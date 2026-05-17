@@ -13,8 +13,10 @@
       "name": "Guoddus Garden",
       "scuba_diving:divespot": "Guoddus Garden",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "web_research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-05-17",
+      "qa_note": "No site-specific sources found. Not listed by any Havelock dive operator. Cannot validate."
     }
   },
   {
@@ -23,7 +25,7 @@
     "lon": 92.962155,
     "osm_id": 649984298,
     "osm_type": "node",
-    "depth": 40,
+    "depth": 55,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -32,7 +34,8 @@
       "scuba_diving:divespot": "The Wall",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "barefootscuba.in,seahawksscuba.in,diveandaman.com",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -41,16 +44,17 @@
     "lon": 92.9633935,
     "osm_id": 649984299,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 15,
     "site_type": "wreck",
     "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "difficulty": "Beginner",
     "tags": {
       "name": "MV Mars",
       "scuba_diving:divespot": "MV Mars",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "scubalov.in,andamantourism.org,travelsetu.com",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -67,8 +71,10 @@
       "name": "Johnson's Reef",
       "scuba_diving:divespot": "Johnson's Reef",
       "sport": "scuba_diving",
-      "validated": "true",
-      "validation_source": "web_research"
+      "validated": "false",
+      "validation_source": "",
+      "last_qa_date": "2026-05-17",
+      "qa_note": "No site-specific sources found under this name. Karen brothers named sites are Dixon's Pinnacle, Johnny's Gorge, and Jackson's Bar — not Johnson's Reef. Cannot validate."
     }
   },
   {
@@ -86,7 +92,8 @@
       "scuba_diving:divespot": "South Button",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "diveindia.com,touristinindia.com,andamanislands.com",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -104,7 +111,8 @@
       "scuba_diving:divespot": "Duncan's Wreck",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "frogman.in,private-scuba.com,diveandaman.com",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -113,7 +121,7 @@
     "lon": 93.0930528,
     "osm_id": 649985251,
     "osm_type": "node",
-    "depth": 30,
+    "depth": 35,
     "site_type": "pinnacle",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -122,7 +130,8 @@
       "scuba_diving:divespot": "Dixon's",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "diveandaman.com,private-scuba.com,scubalov.in",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -131,7 +140,7 @@
     "lon": 92.9641702,
     "osm_id": 649985252,
     "osm_type": "node",
-    "depth": 13,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Beginner",
@@ -140,7 +149,8 @@
       "scuba_diving:divespot": "Lighthouse",
       "sport": "scuba_diving",
       "validated": "true",
-      "validation_source": "web_research"
+      "validation_source": "diveandaman.com,seahawksscuba.in,diveindia.com",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -165,8 +175,9 @@
       "source": "osm_extended",
       "addedBy": "extended_overpass",
       "validated": "true",
-      "validation_source": "web_research",
-      "note": "Protected site near North Sentinel Island. Diving prohibited per Indian regulations protecting indigenous population."
+      "validation_source": "wikipedia.org,nzherald.co.nz,geosat.space",
+      "last_qa_date": "2026-05-17",
+      "note": "Protected site near North Sentinel Island. Diving prohibited per Indian regulations protecting indigenous population. 16,000-ton cargo ship grounded August 2, 1981, en route Bangladesh to Australia with chicken feed. 31 crew rescued by ONGC helicopter. Wreck remains on reef; Sentinelese scavenged iron for arrowheads. Depth null — not a dive site."
     }
   }
 ]

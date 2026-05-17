@@ -13,44 +13,47 @@ addedBy: osm_import
 
 ## M/V Oduna
 
-M/V Oduna is a historic wreck dive in Alaska, North America.
+The M/V Oduna is a large WWII-era cargo vessel that stranded on the rocks at Cape Pankof on Unimak Island's south coast on November 26, 1965, now a seldom-visited wreck on one of Alaska's most remote and storm-battered coastlines.
 
 ## Overview
 
-The M/V Oduna sank on 26 November 1965 near False Pass at the tip of the Alaska Peninsula, where the Bering Sea meets the North Pacific in one of the most storm-prone stretches of water in North America. The vessel now rests at around 12 meters depth, with the cold, nutrient-dense waters of the area producing heavy encrusting growth on the hull over its six decades on the seabed. Accessing the wreck requires significant logistical effort from the nearest communities of False Pass or King Cove, making it an expedition-quality dive in a remarkably wild and remote corner of Alaska's coastline.
+The Oduna was built in 1945 at South Portland, Maine, as a Liberty-type cargo ship for the US Maritime Commission. The vessel measured 422.8 feet in length and 57 feet in breadth, with a gross tonnage of 7,252 tons. Originally launched as the *Francia A. Retka*, it was later renamed Oduna when acquired by the Alaska Steamship Company, which modified it to carry refrigerated shipping containers.
+
+On November 26, 1965, the Oduna stranded in heavy seas on the wave-cut rock platform at the base of sea cliffs at Cape Pankof, at the eastern tip of the Ikatan Peninsula on Unimak Island (54°40'N, 163°04'W) — approximately 18 miles southeast of False Pass, Alaska. The vessel's radar had become inoperative, and strong currents swept the ship onto the rocks. The crew was evacuated by breeches buoy and helicopter to the Cutter Storis and tug Adeline Foss. During salvage operations, 200,000 pounds of frozen crab were recovered by cutting large holes in the starboard hull. The vessel was declared a total loss.
+
+The Oduna now rests in shallow water at approximately 12 meters depth with portions visible at both high and low tide. The site is among the most logistically challenging wreck dives in North America — located on the south shore of Unimak Island in the Bering Sea approaches, with no regular transportation infrastructure and weather conditions that can deteriorate rapidly and severely. Access, if feasible, would require a well-equipped charter vessel from Dutch Harbor (approximately 148 miles to the northeast) or a dedicated offshore expedition.
 
 ## Site Information
 
-- **Location**: Southeast Alaska (Ketchikan area), Alaska
+- **Location**: Cape Pankof, Ikatan Peninsula, Unimak Island, southwest Alaska (approximately 18 miles SE of False Pass)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Water Temperature**: 8-14°C (46-57°F) summer; 4-10°C (39-50°F) winter
+- **Maximum Depth**: 12 meters
+- **Typical Visibility**: Unknown — no recreational dive reports found
+- **Current**: Strong tidal and oceanic currents typical of Unimak Pass approaches
+- **Water Temperature**: 3–8°C (37–46°F) — among the coldest recreational dive conditions in Alaska
+- **Best Time**: Summer months only; weather window is narrow and unpredictable
 
 ## Marine Life
 
-The wreck structure creates excellent habitat attracting rich cold-water fauna. Common species include lingcod, rockfish, cabezon, and occasional wolf eels. Giant Pacific octopus inhabit crevices and encrusted surfaces. Invertebrates include anemones, nudibranchs, sea stars, and sea urchins. Encrusting growth on hull is extensive and colorful.
+No site-specific marine life reports have been found for this wreck. The cold, nutrient-dense waters of the Unimak Pass area are among the most productive in the North Pacific, supporting large populations of king crab, halibut, cod, and Steller sea lions. What species actually colonize the wreck structure itself is unconfirmed by any available dive source.
 
 ## Dive Profile
 
-Descend directly to wreck structure. Explore exterior and accessible openings. Observe encrusting growth and marine life. Spend 20-30 minutes exploring, then ascend with air reserve. Plan adequate time for safety stop in cold water.
+No recreational dive profile information is available for this site. The wreck is at shallow depth (to approximately 12 meters) but the combination of extreme remoteness, cold water, and unpredictable Bering Sea/Pacific swell makes this an expedition-level undertaking requiring full logistical self-sufficiency.
 
 ## Entry and Exit
 
-Access by boat from Whittier or Valdez area dive operators. Direct descent on line or GPS. Exit is straightforward ascent with safety buoy for coordination.
-
-## Tips and Recommendations
-
-- Bring high-quality dive torch for dark wreck interiors
-- Contact local operators for access and conditions
-- Wear properly-fitted dry suit for prolonged cold exposure
-- Use dive computer with cold-water settings
-- Excellent macro and wide-angle photography opportunities
-- Maintain proper buoyancy to avoid silt clouds
+There is no established access infrastructure for this site. The nearest communities are False Pass (approximately 18 miles NW) and King Cove (approximately 50 miles NE). Dutch Harbor is the closest significant port at approximately 148 miles. An expedition approach using an ocean-capable charter vessel is the only realistic option. The south coast of Unimak Island is completely exposed to North Pacific swell.
 
 ## Safety Considerations
 
-Cold-water wreck dive for Advanced+ divers with wreck experience. Never penetrate without full wreck training. Maintain buddy contact. Deploy SMB at ascent. Cold water demands thermal awareness during safety stops.
+This is one of the most remote and exposed dive environments in Alaska. Emergency response would take many hours. Weather in the Unimak Pass area is notoriously severe and unpredictable. This site should only be approached by well-equipped expedition teams with extensive cold-water and remote diving experience. Abort protocols and emergency evacuation plans must be established before any dive attempt.
+
+## Photography
+
+No confirmed dive photographs from this site exist in publicly available sources. The wreck's scale (a 422-foot vessel) and the dramatic sea cliff setting of Cape Pankof would make for exceptional underwater and aerial imagery for any expedition capable of reaching the site.
 
 ---
-*Sources: [Dive Alaska - Anchorage Dive Operator](https://divealaska.net/), [Scuba Diving Magazine - Where to Go Scuba Diving in Alaska](https://www.scubadiving.com/where-to-go-scuba-diving-in-alaska), [Scuba Diving Magazine - Mountain Point Ketchikan](https://www.scubadiving.com/diving-alaskas-mountain-point), [Bluewater Dive Travel - Best Scuba Diving in Alaska](https://www.bluewaterdivetravel.com/destination/alaska-diving), [SSI - Scuba Diving in Alaska Guide](https://www.divessi.com/en/blog/scuba-diving-in-alaska-10373.html). Last updated 2026-04-04.*
+*Sources: [Alaska Shipwrecks — O](https://alaskashipwreck.com/shipwrecks-a-z/alaska-shipwrecks-o/), [CoastView — Cape Pankof, Ikatan Peninsula](https://coastview.org/2023/05/04/cape-pankof-unimak-island/), [ScubaBoard — Wreck diver dragged down and pinned, False Pass, Alaska](https://scubaboard.com/community/threads/wreck-diver-dragged-down-and-pinned-false-pass-alaska.567663/). Last updated 2026-05-17.*

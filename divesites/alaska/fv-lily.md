@@ -13,44 +13,37 @@ addedBy: osm_import
 
 ## F/V Lily
 
-F/V Lily is a historic wreck dive in Alaska, North America.
+The F/V Lily is an OSM-documented fishing vessel wreck in the waters of the Alaska Peninsula near Cold Bay, resting at approximately 15 meters depth.
 
 ## Overview
 
-The F/V Lily is a commercial fishing vessel lying in shallow water on the Alaska Peninsula near Cold Bay, one of the remote Bering Sea approaches where storms and unforgiving waters have claimed numerous working vessels over the decades. The wreck sits at around 15 meters on a sand and rock bottom, with the hull increasingly colonized by the cold-water invertebrate communities — anemones, sea stars, and encrusting organisms — that reclaim all submerged structures in these productive subarctic waters. The site is very remotely located and accessible only by float plane or vessel from the sparse communities of the western Alaska Peninsula.
+The F/V Lily is an OSM-tagged wreck (historic=wreck, seamark:type=wreck) at approximately 55.22°N, 161.36°W, which places it in the waters near the Cold Bay area on the western Alaska Peninsula — not in the Ketchikan area as incorrectly stated in the previous description. This location is in the remote southwestern Alaska Peninsula near the Bering Sea / North Pacific approaches. No vessel-specific history confirming the identity, build date, sinking date, or cause of loss for the F/V Lily at this location was found in any source searched during this QA pass.
+
+The Cold Bay area is extremely remote, with cold water (4–8°C year-round), strong currents, and no established recreational dive infrastructure. Access would require a charter from Cold Bay or King Cove.
 
 ## Site Information
 
-- **Location**: Southeast Alaska (Ketchikan area), Alaska
+- **Location**: Near Cold Bay, western Alaska Peninsula (approximately 55.22°N, 161.36°W)
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Water Temperature**: 8-14°C (46-57°F) summer; 4-10°C (39-50°F) winter
+- **Maximum Depth**: 15 meters
+- **Typical Visibility**: Unknown — no recreational dive reports found
+- **Current**: Strong tidal and oceanic currents
+- **Water Temperature**: 4–8°C (39–46°F)
+- **Best Time**: June–August (narrow weather window)
 
 ## Marine Life
 
-The wreck structure creates excellent habitat attracting rich cold-water fauna. Common species include lingcod, rockfish, cabezon, and occasional wolf eels. Giant Pacific octopus inhabit crevices and encrusted surfaces. Invertebrates include anemones, nudibranchs, sea stars, and sea urchins. Encrusting growth on hull is extensive and colorful.
-
-## Dive Profile
-
-Descend directly to wreck structure. Explore exterior and accessible openings. Observe encrusting growth and marine life. Spend 20-30 minutes exploring, then ascend with air reserve. Plan adequate time for safety stop in cold water.
+No site-specific marine life reports have been found for this wreck. The Alaska Peninsula waters support halibut, Pacific cod, rockfish, Atka mackerel, lingcod, and Steller sea lions as regional fauna. No species are attributed to this specific site.
 
 ## Entry and Exit
 
-Access by boat from Whittier or Valdez area dive operators. Direct descent on line or GPS. Exit is straightforward ascent with safety buoy for coordination.
-
-## Tips and Recommendations
-
-- Bring high-quality dive torch for dark wreck interiors
-- Contact local operators for access and conditions
-- Wear properly-fitted dry suit for prolonged cold exposure
-- Use dive computer with cold-water settings
-- Excellent macro and wide-angle photography opportunities
-- Maintain proper buoyancy to avoid silt clouds
+Cold Bay has a regional airport and serves as the nearest accessible community. No recreational dive operators are known to serve this location. Access requires significant logistical planning with a seaworthy charter vessel.
 
 ## Safety Considerations
 
-Cold-water wreck dive for Advanced+ divers with wreck experience. Never penetrate without full wreck training. Maintain buddy contact. Deploy SMB at ascent. Cold water demands thermal awareness during safety stops.
+Extremely remote location in some of Alaska's most challenging marine conditions. Emergency response is severely limited. Dry suit and full cold-water gear mandatory. Buddy diving required. This is an expedition-level site.
 
 ---
-*Sources: [Dive Alaska - Anchorage Dive Operator](https://divealaska.net/), [Scuba Diving Magazine - Where to Go Scuba Diving in Alaska](https://www.scubadiving.com/where-to-go-scuba-diving-in-alaska), [Scuba Diving Magazine - Mountain Point Ketchikan](https://www.scubadiving.com/diving-alaskas-mountain-point), [Bluewater Dive Travel - Best Scuba Diving in Alaska](https://www.bluewaterdivetravel.com/destination/alaska-diving), [SSI - Scuba Diving in Alaska Guide](https://www.divessi.com/en/blog/scuba-diving-in-alaska-10373.html). Last updated 2026-04-04.*
+*Description based on OSM data and regional diving characteristics. No site-specific sources found. Last updated 2026-05-17.*

@@ -5,7 +5,7 @@ lng: 124.35
 difficulty: Advanced
 maxDepth: 40
 entryType: boat
-siteType: wall
+siteType: drift
 ref: null
 osmId: null
 addedBy: osm_import
@@ -13,50 +13,49 @@ addedBy: osm_import
 
 ## Pantar Strait
 
-Pantar Strait is a wall dive site in the Alor Archipelago, East Nusa Tenggara, Indonesia — a high-current channel separating Alor from Pantar Island where the force of Pacific and Indian Ocean water exchange creates one of the most exhilarating and fish-rich dives in Eastern Indonesia.
+Pantar Strait is a drift dive site in the Alor Archipelago, East Nusa Tenggara, Indonesia — one of the major deep-water passages through which water masses exchange between the Pacific and Indian Oceans, generating powerful currents along its walls and creating conditions for large pelagic encounters and, between June and November, cetacean sightings.
 
 ## Overview
 
-The Pantar Strait is geographically significant: it is one of the deep-water passages through which water masses exchange between the Pacific and Indian Oceans, generating tidal flows that can reach 4–5 knots at peak. Diving here means committing to a serious current dive along a wall that drops precipitously from the island coastline into the strait channel. The reward is a site of exceptional marine density — the relentless upwelling of cold, nutrient-laden water from depth sustains fish life comparable to some of the most celebrated drift dive destinations in the world. The wall itself descends to beyond 40 metres, with the most productive recreational range at 15–40 metres. This is strictly an advanced dive requiring demonstrated comfort with strong currents and depth.
+The Pantar Strait runs between Alor and Pantar islands and is part of the Indonesian Throughflow — the oceanographic channel through which Pacific water moves into the Indian Ocean. The consequence for diving is fierce and reliable current, with some areas reportedly strong enough to turn boats sideways. Diving in the strait takes place along its walls, where nutrient upwellings sustain exceptional fish density. The strait is also notable for seasonal cetacean activity: blue whales, pilot whales, melon-headed whales, and spinner dolphins have been documented transiting the channel between June and November. The Bluewater Dive Travel guide notes that "Kalabahi Bay is for macro photography and the Pantar Strait is for wide-angle" — a useful summary of its character.
 
 ## Site Information
 
-- **Location**: Alor Archipelago, East Nusa Tenggara, Indonesia
+- **Location**: Between Alor and Pantar Islands, East Nusa Tenggara, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Wall dive
+- **Site Type**: Drift dive
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
-- **Typical Visibility**: 20–35 metres (best visibility in dry season upwelling conditions)
-- **Current**: Very strong; consistent 2–4 knots, peak flows 5+ knots
-- **Best Time**: May to September (upwelling season intensifies marine life activity)
+- **Typical Visibility**: 20–35 metres (best in dry season upwelling conditions)
+- **Current**: Very strong; consistent flows, can be extremely powerful
+- **Best Time**: May to September (upwelling season; cetacean activity June–November)
 
 ## Marine Life
 
-Pantar Strait is one of the most consistent sites in Alor for schooling hammerhead sharks, which appear along the wall face at 25–40 metres in groups that can reach 20–30 individuals during upwelling events. Grey reef sharks and whitetip reef sharks are ubiquitous, and silky sharks have been documented in the open water adjacent to the wall during peak current. Large dogtooth tuna and barracuda form dense schools that hang in the current stream mid-water, and giant trevally patrol the upper wall edge at 10–15 metres. The wall face itself is covered in black coral trees, large gorgonian fans, and massive barrel sponges, each of which hosts associated reef fish communities. Eagle rays and manta rays cross the strait during migration periods. Cooler upwelling temperatures occasionally trigger unusually dense plankton blooms that can reduce visibility but attract filter feeders and whale sharks.
+Sources confirm the following species in the Pantar Strait environment: Napoleon wrasse, bumphead parrotfish, sea snakes, bluefin trevallies, schooling fish. Thresher sharks and mola mola have been documented at Halerman, a wall site within the strait area. Blue whales, pilot whales, melon-headed whales, and spinner dolphins are documented cetacean visitors to the strait between June and November. Hammerhead sharks are present regionally at Alor's current-swept sites; specific sightings in the Pantar Strait as a defined dive site are not independently confirmed. The Bama Wall ("Great Wall of Pantar"), a specific site within the strait area, features a steep drop to beyond 40 metres with documented bumphead parrotfish, Napoleon wrasse, and healthy hard corals.
 
 ## Dive Profile
 
-A Pantar Strait dive is a one-way express drift: enter at the agreed up-current point, descend quickly to the 25–35 metre range, and let the current carry you along the wall face. The first 10 minutes are spent as deep as safely possible for the best shark encounters. As the dive progresses, work gradually up the wall to 15–20 metres, and finish in the upper 10 metres of the wall and reef top before surfacing. The powerful current makes this dive feel short — 40–50 minutes passes quickly. Surface current can be strong, so a large, highly visible SMB and a dive flag are essential for boat pickup in shipping-lane adjacent water.
+Diving the Pantar Strait is a one-way drift along wall sections. Entry is timed against tidal tables to catch the productive part of the flow — the liveaboard crew determines the window. Descent to 15–40 metres along the wall face, letting the current carry divers along. Surface current can be very strong; a large, highly visible SMB is essential for boat pickup.
 
 ## Entry and Exit
 
-Exclusively by liveaboard. Drop-in is timed against tidal tables to catch the productive part of the flow; the liveaboard crew will have researched optimal entry timing. Exit is by drift pickup well downflow from the entry point. A bright SMB and audible signal are non-negotiable; the strait sees occasional fishing boat and small vessel traffic. Never surface without deploying your SMB first.
+Exclusively by liveaboard. Drop-in is timed by crew against tidal tables. Exit by drift pickup well downflow. A bright SMB and audible signal are essential; the strait can have fishing boat traffic.
 
 ## Tips and Recommendations
 
-- Discuss tidal timing with the dive guide before this dive — entering on the wrong part of the cycle results in a challenging dive with fewer pelagic encounters; the correct timing turns this into a world-class experience
-- Neutralise your buoyancy carefully before descending — achieving trim in strong current is harder than in still water
-- Look into the blue regularly during the drift; hammerheads often appear from the open water rather than from along the wall
-- Do not chase sharks or mantas — hold your position and allow the animals to approach; chasing creates bow waves that spook them
-- Colder water (22–25°C during peak upwelling) is possible; bring a 5 mm wetsuit or a hooded vest
+- Timing the dive correctly against the tidal cycle is the most important factor; discuss this with the guide before entering
+- Bring a 5 mm wetsuit — cold upwellings from depth are common and can drop water temperature significantly
+- Scan the blue water column regularly rather than focusing only on the wall; cetacean and large pelagic encounters typically come from open water
+- Strong downwellings occur along wall faces without warning — move horizontally away from the wall face immediately if you feel downward pull
 
 ## Safety Considerations
 
-The Pantar Strait is one of the most demanding dives in the Alor region and should only be attempted by advanced divers with significant experience in strong currents. Downwellings along the wall face occur without warning and can drag divers to well beyond recreational limits within seconds — maintain constant awareness of your depth gauge and be prepared to move away from the wall face immediately if you feel downward pull. The strait's depth means that exceeding planned depth has serious decompression implications. Never dive this site without a dive computer. Boat traffic in the strait requires vigilance on ascent; always deploy SMB before surfacing.
+The Pantar Strait is one of the most demanding diving environments in the archipelago. Downwellings can pull divers rapidly deeper than planned. The current speeds recorded here are among the strongest in the region. This site should only be dived by Advanced-certified divers with significant current experience. Never dive without a dive computer and an SMB. Boat traffic in the strait requires vigilance on ascent — always surface with your SMB deployed and visible.
 
 ## Photography
 
-Wide-angle is mandatory here — the scale of the schooling fish and the shark encounters demands the widest coverage possible. A fisheye lens on a full-frame equivalent sensor captures hammerhead groups in their environment with the deep blue and wall providing context. The strong current means most images are taken from a stationary position with subjects moving through the frame; pre-setting exposure for mid-water ambient light and firing in bursts gives the best results. The wall itself rewards a second dive (in calmer conditions) for close-range black coral and gorgonian work.
+Wide-angle is the appropriate choice in the Pantar Strait. Schools of fish and wall structures suit a 16–35 mm equivalent or fisheye. For cetacean encounters, pre-set exposure for ambient mid-water light and shoot in bursts.
 
 ---
-*Sources: [Alami Alor Dive Resort Diving](https://www.alamialor.com/diving-snorkeling/scuba-diving/), [Alor Divers Resort](https://www.alor-divers.com/), [ZuBlu Scuba Diving in Alor](https://www.zubludiving.com/destination/indonesia/nusa-tenggara/alor), [Solitude World Alor Diving Guide](https://solitude.world/alor-diving-guide/), [Dive the World Alor](https://www.dive-the-world.com/diving-sites-indonesia-alor.php). Last updated 2026-04-04.*
+*Sources: [Starfish.ch Alor Dive Guide](https://www.starfish.ch/dive/Alor.html), [The Occasional Traveller Alor Dive Logs](https://theoccasionaltraveller.com/scuba-diving-in-alor/), [Bluewater Dive Travel Alor](https://www.bluewaterdivetravel.com/Alor-Diving), [Alor Tanapi Dive Resort](https://alortanapi.com/alor-diving/). Last updated 2026-05-17.*

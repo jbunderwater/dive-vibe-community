@@ -10,43 +10,46 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": true,
-      "validation_source": "zentacle.com",
-      "coordinates_updated": "2026-04-05"
+      "validated": "true",
+      "validation_source": "starfish.ch,neptuneliveaboards.com,diveplanit.com",
+      "coordinates_updated": "2026-04-05",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
     "name": "Rhino City",
     "lat": -3.7073,
     "lon": 128.098,
-    "depth": 12,
+    "depth": 20,
     "site_type": "muck",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": true,
-      "validation_source": "derived_from_laha_zentacle",
+      "validated": "true",
+      "validation_source": "starfish.ch,dive-the-world.com,bottles-up-diving.com",
       "coordinates_note": "West of Laha along same coastline per dive guides",
-      "coordinates_updated": "2026-04-05"
+      "coordinates_updated": "2026-04-05",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
     "name": "Psychedelic Frogfish Site",
     "lat": -3.706,
     "lon": 128.101,
-    "depth": 8,
+    "depth": 7,
     "site_type": "muck",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": true,
-      "validation_source": "derived_from_laha_zentacle",
-      "coordinates_note": "Sub-site of Laha area where psychedelic frogfish discovered in shallow water",
-      "coordinates_updated": "2026-04-05"
+      "validated": "true",
+      "validation_source": "en.wikipedia.org,starfish.ch,neptuneliveaboards.com",
+      "coordinates_note": "Laha I area (Maluku Divers/Spice Island Divers) where psychedelic frogfish was first photographed January 2008",
+      "coordinates_updated": "2026-04-05",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -60,26 +63,28 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": true,
-      "validation_source": "zentacle.com",
-      "coordinates_updated": "2026-04-05"
+      "validated": "true",
+      "validation_source": "diveplanit.com,bluewaterdivetravel.com,starfish.ch",
+      "coordinates_updated": "2026-04-05",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
     "name": "Hukurila Cave",
     "lat": -3.7365,
     "lon": 128.2515,
-    "depth": 20,
+    "depth": 28,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": true,
-      "validation_source": "zentacle.com",
-      "coordinates_note": "Zentacle Hukurila Canyon coordinates, south coast of Ambon",
-      "coordinates_updated": "2026-04-05"
+      "validated": "true",
+      "validation_source": "indonesia-tourism.com,indopacificimages.com,bottles-up-diving.com",
+      "coordinates_note": "South coast of Ambon Island",
+      "coordinates_updated": "2026-04-05",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -93,77 +98,82 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": true,
-      "validation_source": "derived_from_geography",
+      "validated": "true",
+      "validation_source": "starfish.ch,bottles-up-diving.com,indopacificimages.com",
       "coordinates_note": "South shore of inner Ambon Bay opposite Laha per dive guides",
-      "coordinates_updated": "2026-04-05"
+      "coordinates_updated": "2026-04-05",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
     "name": "Duke of Sparta Wreck",
     "lat": -3.6658,
     "lon": 128.1715,
-    "depth": 35,
+    "depth": 40,
     "site_type": "wreck",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": true,
-      "validation_source": "zentacle.com",
-      "coordinates_note": "Zentacle Shipwreck entry, northern Ambon Bay near main harbor",
-      "coordinates_updated": "2026-04-05"
+      "validated": "true",
+      "validation_source": "en.wikipedia.org,indopacificimages.com,coralia-liveaboard.com",
+      "coordinates_note": "Northern Ambon Bay near main harbor",
+      "coordinates_updated": "2026-04-05",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
     "name": "Pintu Kota",
     "lat": -3.771,
     "lon": 128.1508,
-    "depth": 16,
-    "site_type": "reef",
+    "depth": 20,
+    "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": true,
-      "validation_source": "worldplaces.me,evendo.com",
-      "coordinates_updated": "2026-04-05"
+      "validated": "true",
+      "validation_source": "starfish.ch,indopacificimages.com,bottles-up-diving.com",
+      "coordinates_updated": "2026-04-05",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
     "name": "Twilight Zone",
     "lat": -3.7055,
     "lon": 128.1025,
-    "depth": 10,
+    "depth": 20,
     "site_type": "muck",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": true,
-      "validation_source": "zentacle.com",
-      "coordinates_note": "Same area as Laha (Laha 1-3), slight offset to represent distinct dive entry",
-      "coordinates_updated": "2026-04-05"
+      "validated": "true",
+      "validation_source": "indopacificimages.com,divehappy.com,diveplanit.com",
+      "coordinates_note": "Jetty area near Laha village / Pertamina fuel jetty, northwestern Ambon Bay near airport",
+      "coordinates_updated": "2026-04-05",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
     "name": "Amahusu Reef",
     "lat": -3.7233,
     "lon": 128.1458,
-    "depth": 14,
+    "depth": 25,
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": true,
-      "validation_source": "hotelsekitar.com",
-      "coordinates_note": "Amahusu Beach coordinates, south side of Ambon Bay in Nusaniwe district",
-      "coordinates_updated": "2026-04-05"
+      "validated": "true",
+      "validation_source": "starfish.ch,bottles-up-diving.com,bluewaterdivetravel.com",
+      "coordinates_note": "Eastern Ambon Bay near Amahusu/Amahusa village",
+      "coordinates_updated": "2026-04-05",
+      "last_qa_date": "2026-05-17"
     }
   }
 ]
