@@ -21,28 +21,6 @@
     }
   },
   {
-    "name": "Sea King",
-    "lat": 39.7533579,
-    "lon": -74.101544,
-    "osm_id": 1404734824,
-    "osm_type": "node",
-    "depth": null,
-    "site_type": "wreck",
-    "entry_type": "shore",
-    "difficulty": "Beginner",
-    "validated": "true",
-    "validation_source": "njmaritimemuseum.org/barnegat-light-and-the-sea-king",
-    "tags": {
-      "historic": "wreck",
-      "name": "Sea King",
-      "seamark:type": "wreck",
-      "start_date": "1963-02",
-      "source": "osm_extended",
-      "addedBy": "extended_overpass",
-      "note": "Wreck is now buried in beach dunes at Barnegat Light; no longer a submerged dive site"
-    }
-  },
-  {
     "name": "Tices Shoal",
     "lat": 39.8335824,
     "lon": -74.092767,
@@ -137,22 +115,6 @@
     "tags": {
       "source": "curated",
       "addedBy": "gap_fill"
-    }
-  },
-  {
-    "name": "Andrea Doria",
-    "lat": 40.2958,
-    "lon": -69.8508,
-    "depth": 73,
-    "site_type": "wreck",
-    "entry_type": "boat",
-    "difficulty": "Advanced",
-    "validated": "true",
-    "validation_source": "njscuba.net/andrea-doria, scubadiving.com, Wikipedia/SS_Andrea_Doria",
-    "tags": {
-      "source": "curated",
-      "addedBy": "gap_fill",
-      "note": "Technical/extreme dive; nicknamed the Mount Everest of wreck diving. 240 ft max depth, 190 ft min. Located 100 miles offshore near Nantucket."
     }
   },
   {
