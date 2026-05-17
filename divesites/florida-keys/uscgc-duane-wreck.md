@@ -29,7 +29,7 @@ The USCGC Duane is a 327-foot Treasury-class US Coast Guard cutter intentionally
 
 ## Marine Life
 
-The Duane is known for resident goliath grouper that shelter in the holds and around the screws, joined by schools of barracuda, grunts, and yellowtail working the superstructure. Nurse sharks rest along the deck and inside larger compartments, and bull sharks are reported in the open water around the hull. Cobia, wrasse, damselfish, and the occasional cobia round out the resident fish life, while sea fans and encrusting growth now cover much of the railing and exposed steel.
+The Duane is known for resident goliath grouper that shelter in the holds and around the screws, joined by massive schools of grunt that pack the wheelhouse and formations of barracuda cruising the mooring lines. Sea turtles often rest inside the radar tower, and large tarpon and Caribbean reef sharks are regular sightings. Three decades of Gulf Stream nutrients have produced dense encrusting growth — orange cup corals and sponges blanket the superstructure and railings.
 
 ## Wreck History
 
@@ -55,4 +55,4 @@ Boat dive only. Mooring buoys are set at the bow and stern; descending and ascen
 Strong, variable currents are the defining hazard — divers without buoy-line discipline can be swept off the site quickly. Depths of 100-120 feet put divers well into the deep range with meaningful narcosis and short no-deco windows on air. Penetration is not safe by default and requires proper wreck training, a continuous guideline, and redundant lights and gas; entanglement from internal cables is a documented hazard. This is not a beginner dive.
 
 ---
-*Sources: [Florida Keys National Marine Sanctuary - Duane](https://floridakeys.noaa.gov/shipwrecktrail/duane.html), [Rainbow Reef Dive Center - USCG Duane](https://www.rainbowreef.com/dive-locations-in-key-largo/uscg-duane-wreck), [Florida Keys Vacation - USCG Duane](https://www.florida-keys-vacation.com/USCG-Duane.html). Last updated 2026-05-17.*
+*Sources: [Florida Keys National Marine Sanctuary - Duane](https://floridakeys.noaa.gov/shipwrecktrail/duane.html), [Wikipedia - USCGC Duane](https://en.wikipedia.org/wiki/USCGC_Duane), [DAN Alert Diver - Silver Anniversary of the USCGC Duane](https://dan.org/alert-diver/article/the-silver-anniversary-of-the-uscgc-duane/), [US Coast Guard - The Sinking of U-175](https://coastguard.dodlive.mil/2013/04/the-sinking-of-u-175/), [National Marine Sanctuary Foundation - USCGC Duane](https://marinesanctuary.org/blog/the-uscgc-duane-a-historic-ship-and-artificial-reef/). Last updated 2026-05-17.*
