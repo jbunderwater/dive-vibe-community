@@ -13,19 +13,50 @@ addedBy: osm_import
 
 ## Duncan's Wreck
 
-Duncan's Wreck is a historic wreck dive in Andaman Islands, Asia.
+Duncan's Wreck is the SS Inchkeith, a British steel-hulled steam cargo vessel built in 1923 that struck rocks near Duncan Island in March 1955 and now rests on the sandy seabed as one of the Andamans' most atmospheric wreck dives.
 
 ## Overview
 
-Duncan's Wreck near Duncan Island is the SS Inchkeith, a steel-hulled steam cargo vessel built in 1923 that struck an underwater rock in 1955 while carrying coal and timber, and has spent the past 70 years transforming into one of the Andamans' most atmospheric dive sites. The tilted bow appears first at 5–10 metres heavily covered in fluorescent rust, algae, and anemones with coal pieces still scattered on the seabed, while the stern sits upright at 18 metres where the massive bronze propeller acts as a cleaning station for groupers and snappers. The site's characteristically low visibility (4–12 metres) combined with the macro-life density — ghost pipefish in feather stars, nudibranchs across corroded surfaces, scorpionfish perfectly camouflaged, and a famous resident blind giant pufferfish — make it the ultimate macro playground in the archipelago.
+The SS Inchkeith was built in 1923 by John Priestman & Co. in Sunderland, UK. At 111 metres long, 16 metres wide, and 4,290 GRT, it was a substantial steam-powered cargo vessel. On March 2, 1955, while on a voyage from Calcutta to Bombay carrying coal and timber, the ship struck an underwater rock in bad weather near Duncan Island and sank. The wreck lies at 6–22 metres depth with the bow tilted to starboard, making the hatch covers and cargo hold clearly visible. The stern section sits more upright, with the massive propeller at around 18 metres serving as a focal point. After seven decades on the seabed the wreck is covered in fluorescent rust, algae, anemones, and patches of fan coral, with characteristically low visibility of 4–12 metres lending the site an atmospheric quality particularly suited to macro photography.
 
 ## Site Information
 
-- **Location**: Andaman Islands, Asia
+- **Location**: West of Havelock Island (Swaraj Dweep), approximately 20 km from Duncan Island
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 22 meters
+- **Typical Visibility**: 4–12 meters (wreck-typical low visibility)
+- **Current**: Variable
+- **Best Time**: November to April
+
+## Marine Life
+
+Confirmed resident species include giant groupers, great barracuda, scorpionfish, cleaner shrimp, ghost pipefish in feather stars, nudibranchs across corroded surfaces, bannerfish, triggerfish, rainbow wrasses, angelfish, pufferfish, lionfish, clownfish, boxfish, octopus, and moray eels. The bow area and cargo hold harbour dense encrusting communities. Torchlight reveals colours on the soft coral and sponge growth throughout the structure.
+
+## Dive Profile
+
+Entry by boat; descend to the bow at 5–10 metres where the starboard tilt exposes the hatch covers. Follow the hull aft to the stern section and propeller at approximately 18 metres. Maximum depth of 22 metres at the deepest points. Begin ascent with adequate reserve for a 5-metre safety stop. Low visibility — carry a dive torch.
+
+## Entry and Exit
+
+Access is by dive boat from Havelock Island operators. Entry via giant stride or back roll. Deploy an SMB during ascent for pickup.
+
+## Tips and Recommendations
+
+- Carry a dive torch — visibility is typically 4–12 metres and the wreck rewards careful illumination
+- Maintain neutral buoyancy to avoid disturbing silt, which can reduce visibility rapidly
+- Do not attempt hull penetration without proper wreck diving training and equipment
+- Macro photographers will find exceptional subjects: nudibranchs, ghost pipefish, scorpionfish, and cleaner shrimp
+- Allow extra air for a comfortable ascent and safety stop given the low-viz conditions
+
+## Safety Considerations
+
+Dive within your certification limits. Low visibility is a constant at this site — always maintain buddy contact. Strong currents are occasionally present. Carry an SMB.
+
+## Photography
+
+The wreck excels for macro work: corroded surfaces host nudibranchs, cleaner shrimp, and camouflaged scorpionfish. Wide-angle compositions of the bow section and propeller work well with a torch for illumination.
 
 ---
-*Sources: [Dive Andaman - Dive Sites](https://www.diveandaman.com/), [SSI - Scuba Diving in Andaman Guide](https://www.divessi.com/en/blog/ultimate-scuba-diving-in-andaman-10091.html), [PADI - Diving in Andaman Islands](https://www.padi.com/diving-in/andaman-islands/), [Bluewater Dive Travel - Andaman Islands](https://www.bluewaterdivetravel.com/destination/andaman-islands-diving), [Sea Hawks Scuba - Andaman Diving Guide](https://seahawksscuba.in/scuba-diving-in-andaman/). Last updated 2026-04-04.*
+*Sources: [Frogman - SS Inchkeith Wreck](https://frogman.in/dive-sites-in-havelock/ss-inchkeith-wreck/), [Private Scuba - Inchkeith Wreck](https://www.private-scuba.com/destinations/asia/india/andamans/havelock-island/inchkeith-wreck.html), [Dive Andaman - Inchkeith Wreck](https://www.diveandaman.com/inchkeith-wreck-havelock-island). Last updated 2026-05-17.*

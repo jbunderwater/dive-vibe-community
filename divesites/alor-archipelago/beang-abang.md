@@ -13,50 +13,49 @@ addedBy: osm_import
 
 ## Beang Abang
 
-Beang Abang is a muck dive site in the Alor Archipelago, East Nusa Tenggara, Indonesia — a sheltered bay with a silty, rubble-strewn bottom that harbours an astonishing concentration of small cryptic creatures rarely found at the archipelago's more dramatic reef and wall sites.
+Beang Abang is a muck dive site on the southern coast of Pantar Island, Alor Archipelago, East Nusa Tenggara, Indonesia — a volcanic sand bay with hot springs from the adjacent volcano, offering methodical critter hunting across three named dive areas on a cold-influenced black sand substrate.
 
 ## Overview
 
-Nestled on Alor's northern coast, Beang Abang is a calm, shallow embayment where the seafloor transitions from coarse volcanic sand to patches of rubble, sea grass, and scattered coral heads. The lack of heavy current makes it one of the few sites in Alor where slow, methodical muck diving is possible, and liveaboard guides have used it as an antidote to the high-octane wall and drift dives elsewhere in the itinerary. Visibility is typically 8–15 metres — lower than the open-water sites — but this matters little when the subjects are millimetres long. The site tops out at 20 metres, with most of the interesting life concentrated between 5 and 15 metres.
+Beang Abang Bay sits on the southern coast of Pantar Island, where volcanic activity from the area's geology warms the beach with hot springs. Underwater, the bay holds three distinct dive sites: Hot Property, Ribbon Eel Run, and The Lava Flow — all of them on black sand with critter communities that reward slow, careful searching. The water here tends to run cooler than northern Alor sites, which suppresses coral growth but concentrates macro life in the volcanic substrate. The Alor Tanapi and Starfish.ch guides both confirm this bay as a muck-diving destination with specific critter sightings. It functions as an alternative to the more exposed wall and drift dives elsewhere in the archipelago.
 
 ## Site Information
 
-- **Location**: Alor Archipelago, East Nusa Tenggara, Indonesia
+- **Location**: Southern Pantar Island, Alor Archipelago, East Nusa Tenggara, Indonesia
 - **Entry Type**: Boat dive
 - **Site Type**: Muck dive
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 8–15 metres
 - **Current**: Usually gentle; slight tidal flow possible
-- **Best Time**: April to November (dry season; reduced runoff improves visibility)
+- **Best Time**: April to November (dry season; cleaner water)
 
 ## Marine Life
 
-Beang Abang has a reputation for unusual nudibranch diversity, with experienced guides finding species uncommon elsewhere in East Nusa Tenggara. Robust ghost pipefish and ornate ghost pipefish appear among the sea grass blades, while hairy frogfish and painted frogfish sit motionless on rubble patches waiting to ambush prey. Mimic octopus and long-armed octopus are regularly spotted, and the site is good for flamboyant cuttlefish hunting small shrimp in the shallows. Blue-ringed octopus have been recorded here — beautiful but best observed without handling. Seahorses cling to soft coral stems at mid-depth, and mantis shrimp are resident in burrows throughout the sandy patches.
+Multiple sources confirm the following species at Beang Abang: ribbon eels, robust ghost pipefish, ornate ghost pipefish, octopus, nudibranchs, and hairy frogfish. The Emperor Divers guide also confirms wonderpus octopus as a species found here. The site is colder than northern Alor, and this is reflected in the fauna — the volcanic sand substrate and cooler temperatures create a distinct community from the warmer bay muck sites near Kalabahi.
 
 ## Dive Profile
 
-Enter over the shallows and work methodically across the sand and rubble, covering ground slowly and scanning each coral head, sponge base, and tuft of algae for cryptic animals. Guides will often lead in a zig-zag pattern to cover the richest habitat zones. Depth rarely exceeds 15 metres during the productive portion of the dive; save the last minutes for a slow ascent over the scattered corals in 5–8 metres. No significant current means air consumption drives the profile rather than drift position.
+Enter over the shallows and work systematically across the black sand and rubble, covering the three named dive areas when conditions allow. Most productive habitat is at 5–15 metres where the sand-rubble transitions concentrate the highest critter density. Air consumption rather than depth drives the dive profile; long bottom times of 60–80 minutes are practical.
 
 ## Entry and Exit
 
-Access is by liveaboard or day-boat tender. Entry via giant stride into calm water. The tender typically anchors nearby or follows divers from the surface. SMB deployment at the end of the dive alerts the crew for pick-up.
+Access by liveaboard or day-boat tender. Entry into calm water. The tender typically anchors nearby. SMB deployment before ascending signals the crew for pickup.
 
 ## Tips and Recommendations
 
-- Approach subjects extremely slowly — most muck creatures will freeze rather than flee if disturbance is minimal, but sudden movements will drive them into the substrate
-- Ask your guide specifically about ghost pipefish and frogfish, as their camouflage makes them nearly impossible to find without local knowledge
-- A dedicated macro lens (60 mm or 100 mm equivalent) is ideal; wide-angle is largely unnecessary here
-- Blue-ringed octopus are present — observe from a respectful distance and never touch
-- A pointer stick rather than your hands keeps you off the bottom and helps indicate subjects to dive buddies without disturbing them
+- The three named sub-sites — Hot Property, Ribbon Eel Run, and The Lava Flow — each have distinct characters; ask your guide which area is most productive on the day
+- Ribbon eels are a signature find at the aptly-named "Ribbon Eel Run" sub-site; they occupy burrows in the sand and extend their bodies to feed
+- Bring a torch to illuminate beneath rubble pieces — the volcanic substrate hides critters underneath
+- Water may be cooler than expected; a 5 mm wetsuit is recommended
 
 ## Safety Considerations
 
-Currents are generally mild, but monitor conditions and stay aware of boat traffic in the bay. Blue-ringed octopus venom is extremely dangerous; admire from a distance only. Maintain buoyancy to avoid disturbing the silty bottom, which reduces visibility for all divers behind you and damages cryptic habitat.
+Currents are generally mild, but volcanic activity nearby means the occasional warm patch of water can be encountered near bottom vents — these are not hazardous at recreational depths but are an unusual and disorienting sensation. Venomous benthic species typical of muck environments may be present; do not touch the substrate or unidentified invertebrates.
 
 ## Photography
 
-Beang Abang is a macro photographer's site. Use a dioptre or wet lens for extreme close-ups of nudibranchs and pygmy cephalopods. Two strobes allow precise lighting on small, three-dimensional subjects. The challenge here is finding the subjects — once located, cooperative critters allow extended shooting sessions that would be impossible at current-swept sites.
+Beang Abang is a macro site. The black volcanic sand provides a clean, high-contrast background for colourful subjects. Ribbon eels in their burrows — with body extended and mouth open — are one of the site's more dramatic photography opportunities and reward patience. A 100 mm macro handles most subjects.
 
 ---
-*Sources: [Alami Alor Dive Resort Diving](https://www.alamialor.com/diving-snorkeling/scuba-diving/), [Alor Divers Resort](https://www.alor-divers.com/), [ZuBlu Scuba Diving in Alor](https://www.zubludiving.com/destination/indonesia/nusa-tenggara/alor), [Solitude World Alor Diving Guide](https://solitude.world/alor-diving-guide/), [Dive the World Alor](https://www.dive-the-world.com/diving-sites-indonesia-alor.php). Last updated 2026-04-04.*
+*Sources: [Alor Tanapi Dive Resort](https://alortanapi.com/alor-diving/), [Starfish.ch Alor Dive Guide](https://www.starfish.ch/dive/Alor.html), [Emperor Divers Alor Itinerary](https://www.emperordivers.com/liveaboard-itinerary/alor/), [Bluewater Dive Travel Alor](https://www.bluewaterdivetravel.com/Alor-Diving). Last updated 2026-05-17.*

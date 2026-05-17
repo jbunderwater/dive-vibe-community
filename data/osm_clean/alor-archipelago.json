@@ -3,7 +3,7 @@
     "name": "Clown Valley",
     "lat": -8.3144,
     "lon": 124.367,
-    "depth": 30,
+    "depth": 20,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -11,7 +11,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "perplexity_and_web_research"
+      "validation_source": "starfish.ch,abyssoceanworld.com,thecrowdedplanet.com,merapitours.com,emperordivers.com",
+      "last_qa_date": "2026-05-17",
+      "notes": "Also known as Apuri or Anemone Valley. Depth confirmed ~20m. Confirmed species: Clark's anemonefish (Amphiprion clarkii), Tomato anemonefish (Amphiprion frenatus). False clown and pink anemonefish removed as unconfirmed at this site."
     }
   },
   {
@@ -26,7 +28,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "perplexity_and_web_research"
+      "validation_source": "starfish.ch,alortanapi.com,nautikadivealor.com,emperordivers.com",
+      "last_qa_date": "2026-05-17",
+      "notes": "Also known as Motolang. Swim-through cave at ~25m confirmed. Cold upwellings to 14°C confirmed. Confirmed species: Bargibant pygmy seahorses, Pontohi seahorses, leaffish, scorpionfish, bluering octopus, bamboo sharks, tawny nursesharks, marbled rays. 'Gothic nave arches', batfish schools, Christmas tree worms, giant clams, flame scallops, dogtooth tuna removed as unconfirmed."
     }
   },
   {
@@ -41,7 +45,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "perplexity_and_web_research"
+      "validation_source": "starfish.ch,merapitours.com,emperordivers.com,underwaterasia.info",
+      "last_qa_date": "2026-05-17",
+      "notes": "Local name Batu Mandi (not Batu Kepa). Named after Kal Muller, diving pioneer. Two pinnacles at 7m and 2m crowns. Confirmed species: barracuda, sharks (various), dogtooth tuna, Napoleon wrasse, sweetlips, giant trevally, blue-fin trevally, surgeonfish, fusiliers, coral crouchers, yellow-spotted scorpionfish. Hammerheads very occasional, not 'consistent'. Pygmy seahorses and mantis shrimp removed as unconfirmed at this site."
     }
   },
   {
@@ -55,15 +61,16 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": "true",
-      "validation_source": "perplexity_and_web_research"
+      "validated": "false",
+      "last_qa_date": "2026-05-17",
+      "notes": "No source confirms this specific site name. Closest match is 'Sharks Galore' (off eastern Pura Island) from starfish.ch and dive-the-world.com, but that source reported seeing no sharks and suggested renaming it. Could not obtain 3 independent confirmed sources. Wall type retained as plausible for Alor. Specific claims (silvertip sharks, groups 5-15) unverified."
     }
   },
   {
     "name": "Mike's Delight",
     "lat": -8.295,
     "lon": 124.36,
-    "depth": 28,
+    "depth": 25,
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Advanced",
@@ -71,14 +78,16 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "perplexity_and_web_research"
+      "validation_source": "merapitours.com,girlsthatscuba.com,malaysia-asia.my,emperordivers.com",
+      "last_qa_date": "2026-05-17",
+      "notes": "East coast of Pura Island. Drift dive on rugged slope with large boulders. Depth ~25-30m confirmed. Confirmed species: sea snakes, lobsters, lionfish, reef fish (parrotfish, sweetlips, angelfish, damselfish, Napoleon wrasse, jacks, butterflyfish, triggerfish, anthias), dolphin pods possible. Soft coral coverage confirmed. Grey reef sharks removed (not site-specific). Spanish dancers, eagle rays, marbled rays removed as unconfirmed. Depth updated from 28m to 25m."
     }
   },
   {
     "name": "Mucky Mosque",
     "lat": -8.268,
     "lon": 124.4255,
-    "depth": 18,
+    "depth": 27,
     "site_type": "muck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
@@ -86,7 +95,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "perplexity_and_web_research"
+      "validation_source": "underwaterjournal.com,starfish.ch,alortanapi.com,nautikadivealor.com,emperordivers.com",
+      "last_qa_date": "2026-05-17",
+      "notes": "Kalabahi Bay, black sand/dark substrate. Depth ~90ft (~27m) from underwaterjournal source (updated from 18m). Confirmed species: Rhinopias (paddleflap/weedy), frogfish (giant and multiple species), ghost pipefish, seahorses, wunderpus, harlequin shrimp, nudibranchs (multiple species), dragonets, bobtailed squid, pygmy squid, Spanish dancer, crocodile snake eel. Coconut octopus, mimic octopus, flamboyant cuttlefish removed as unconfirmed at this site (possible but not source-confirmed). Blue-ringed octopus not confirmed at this specific site."
     }
   },
   {
@@ -101,7 +112,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "perplexity_and_web_research"
+      "validation_source": "starfish.ch,theoccasionaltraveller.com,malaysia-asia.my,girlsthatscuba.com",
+      "last_qa_date": "2026-05-17",
+      "notes": "Also known as Biatabang. Wall to 28m, overhangs at 30m confirmed. Confirmed species: nudibranchs (6 species confirmed by starfish.ch), orangutan crabs, squat lobsters, peacock mantis shrimp, moray eels, leaf scorpionfish, traditional fish traps (bubu) at 5-15m, sea snakes. Grey reef sharks, bumphead parrotfish, Napoleon wrasse, hawksbill turtles removed as unconfirmed at this site."
     }
   },
   {
@@ -115,8 +128,9 @@
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": "true",
-      "validation_source": "perplexity_and_web_research"
+      "validated": "false",
+      "last_qa_date": "2026-05-17",
+      "notes": "Conflicting site descriptions found. starfish.ch (Tangaban, site 16) describes it as muck on a slope with pegasus sea moths and robust ghost pipefish. A second source describes 'Boardroom' as a wall on north Pura Island with 50m drop, caves, glassfish, jacks, snappers - possibly a different site with same name. Could not confirm 3 independent sources for either version. Wunderpus, mimic octopus, coconut octopus, flamboyant cuttlefish, seahorse species, frogfish species in existing markdown all unconfirmed."
     }
   },
   {
@@ -124,14 +138,15 @@
     "lat": -8.28,
     "lon": 124.35,
     "depth": 40,
-    "site_type": "wall",
+    "site_type": "drift",
     "entry_type": "boat",
     "difficulty": "Advanced",
     "tags": {
       "source": "curated",
       "addedBy": "fill_new_destinations",
-      "validated": "true",
-      "validation_source": "perplexity_and_web_research"
+      "validated": "false",
+      "last_qa_date": "2026-05-17",
+      "notes": "Pantar Strait is a geographic channel (site type drift is appropriate). Sources confirm very strong currents (documented 4-5 knots in description). Whale watching (blue whales, pilot whales, melon-headed whales, spinner dolphins Jun-Nov) confirmed. Hammerheads mentioned regionally but 'groups of 20-30' and 'silky sharks' are unconfirmed. Eagle rays, manta rays during migration also mentioned but not site-specific. The existing description overstates pelagic encounters. Could not verify 3 independent sources for the specific Pantar Strait as a dive site (vs. geographic area)."
     }
   },
   {
@@ -146,7 +161,9 @@
       "source": "curated",
       "addedBy": "fill_new_destinations",
       "validated": "true",
-      "validation_source": "perplexity_and_web_research"
+      "validation_source": "alortanapi.com,starfish.ch,emperordivers.com,bluewaterdivetravel.com",
+      "last_qa_date": "2026-05-17",
+      "notes": "South Pantar Island. Sandy bay with volcanic hot springs. Confirmed species: ribbon eels, ghost pipefish (robust and ornate), octopus (generic), nudibranchs, hairy frogfish. Three named dive sites within bay: Hot Property, Ribbon Eel Run, The Lava Flow. Water generally colder due to springs. Mimic octopus, long-armed octopus, painted frogfish, blue-ringed octopus, seahorse species removed as unconfirmed at this site. Flamboyant cuttlefish removed as unconfirmed."
     }
   },
   {
@@ -158,13 +175,15 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "alortanapi.com, mokoalordive.com, scubaboard.com",
+    "validation_source": "alortanapi.com,nautikadivealor.com,theoccasionaltraveller.com,ewdr.com,emperordivers.com",
     "tags": {
       "source": "curated",
       "addedBy": "manual_addition",
       "validated": "true",
-      "validation_source": "alortanapi.com, mokoalordive.com, scubaboard.com",
-      "alt_names": "Munaseli, Yellow Corner, Tanjung Muna"
+      "validation_source": "alortanapi.com,nautikadivealor.com,theoccasionaltraveller.com,ewdr.com,emperordivers.com",
+      "last_qa_date": "2026-05-17",
+      "alt_names": "Yellow Corner, Munaseli, Tanjung Muna",
+      "notes": "Multiple operator sources confirm: strong to ripping currents, underwater ridge exposed on all sides. Confirmed species: scalloped hammerhead sharks (seasonal, around full and new moon), barracuda, blacktip sharks, grey reef sharks, eagle rays, napoleon wrasse, trevally. Mola mola reported occasionally. Depth optimum 20-30m. Reef hook required."
     }
   }
 ]

@@ -13,44 +13,53 @@ addedBy: osm_import
 
 ## MV Leschi
 
-MV Leschi is a submerged historic ferry dating to 1913, now resting in Prince William Sound near Whittier. The wreck sits on the east shore of Shotgun Cove in shallow water, offering accessible wreck exploration in cold Alaskan waters.
+The MV Leschi is a historic steam ferry launched in 1913 that capsized near Whittier in the 1980s and now rests in the shallows of Shotgun Cove in Prince William Sound, with the hull visible at low tide.
 
 ## Overview
 
-The MV Leschi is a popular wreck dive in Prince William Sound, accessible from Whittier. The ferry ran aground and sank in 1978 during an autumn storm. The hull is visible at low tide and presents an engaging wreck structure for exploration. Water temperatures in the sound average 8-14°C (46-57°F) in summer, requiring a dry suit. Visibility typically ranges 8-15 meters. The wreck sits in shallow to moderate depths, making it one of the more accessible wreck dives in Alaska.
+The Leschi was launched on December 6, 1913, built by J. F. Duthie & Company in Seattle. It measured 169 feet (51.5 meters) in length with a gross tonnage of 433 tons. It began its career as a side-wheel steam ferry on Lake Washington before transitioning to propeller drive in 1931. In 1967 the vessel was sold to the Cape St. Elias Ocean Products Company and converted to a floating fish and crab cannery after a refit. It was subsequently operated as a cannery off Cordova and Valdez in Prince William Sound.
+
+The vessel capsized near Whittier and came to rest in Shotgun Cove, an arm of Passage Canal in Prince William Sound. Sources differ slightly on the date — the Alaska Shipwrecks database records December 30, 1979, while Wikipedia states the vessel capsized in 1986. The wreck is documented at 60°48'05"N 148°32'30"W in Neptune Cove within Shotgun Cove, where the hull remains visible at low tide and has been described as a popular dive site accessible from Whittier.
 
 ## Site Information
 
-- **Location**: Prince William Sound, Alaska
+- **Location**: Shotgun Cove (Neptune Cove), Passage Canal, Prince William Sound — accessible from Whittier, Alaska
 - **Entry Type**: Boat dive
 - **Site Type**: Wreck dive
 - **Difficulty Level**: Advanced
-- **Water Temperature**: 8-14°C (46-57°F) summer; 4-10°C (39-50°F) winter
+- **Maximum Depth**: 17 meters
+- **Typical Visibility**: 8–15 meters (26–49 feet); better October–May, reduced in summer
+- **Current**: Moderate, tidal
+- **Water Temperature**: 4–14°C (39–57°F) — coldest in winter
+- **Best Time**: October–May for best visibility
 
 ## Marine Life
 
-The wreck structure creates excellent habitat attracting rich cold-water fauna. Common species include lingcod, rockfish, cabezon, and occasional wolf eels. Giant Pacific octopus inhabit crevices and encrusted surfaces. Invertebrates include anemones, nudibranchs, sea stars, and sea urchins. Encrusting growth on hull is extensive and colorful.
+No site-specific marine life reports confirmed for this wreck. Prince William Sound waters in general support lingcod, rockfish, giant Pacific octopus, plumose anemones, and nudibranchs. The hull structure in shallow water may attract various rockfish and invertebrate species. No site-specific diver reports were found to confirm species at this location.
 
 ## Dive Profile
 
-Descend directly to wreck structure. Explore exterior and accessible openings. Observe encrusting growth and marine life. Spend 20-30 minutes exploring, then ascend with air reserve. Plan adequate time for safety stop in cold water.
+The hull is visible at low tide and the wreck sits in relatively shallow water (to approximately 17 meters). The capsized orientation means divers explore what was originally the vessel's side. The shallower sections can be affected by surge and surface conditions in Passage Canal.
 
 ## Entry and Exit
 
-Access by boat from Whittier or Valdez area dive operators. Direct descent on line or GPS. Exit is straightforward ascent with safety buoy for coordination.
+Access from Whittier, approximately 60 miles southeast of Anchorage via the Whittier Tunnel. Water taxi or charter dive boat from Whittier Harbor. DiveAlaska operates in Prince William Sound and may offer access to this site. Passage Canal conditions vary — check weather before departure.
 
 ## Tips and Recommendations
 
-- Bring high-quality dive torch for dark wreck interiors
-- Contact local operators for access and conditions
-- Wear properly-fitted dry suit for prolonged cold exposure
-- Use dive computer with cold-water settings
-- Excellent macro and wide-angle photography opportunities
-- Maintain proper buoyancy to avoid silt clouds
+- Whittier is the primary access point — the Anton Anderson Memorial Tunnel toll road connects it to the highway
+- Smitty's Cove in Whittier is a nearby shore dive if conditions prevent the boat trip to Shotgun Cove
+- Best visibility typically in winter/spring before summer plankton blooms
+- The hull shows at low tide — time your arrival for a tidal overview before descending
+- Dry suit is essential in Prince William Sound water temperatures
 
 ## Safety Considerations
 
-Cold-water wreck dive for Advanced+ divers with wreck experience. Never penetrate without full wreck training. Maintain buddy contact. Deploy SMB at ascent. Cold water demands thermal awareness during safety stops.
+Cold-water wreck in Prince William Sound. The capsized hull presents unusual interior geometry — penetration of a wooden cannery conversion vessel with uncertain structural integrity is not recommended without specific wreck training and knowledge of the site's current condition. Dry suit and buddy diving mandatory. Always carry SMB for ascent in boat traffic areas.
+
+## Photography
+
+The hull at low tide creates above-water photo opportunities before the dive. Underwater, the overturned structure and encrusting growth on the historic wooden hull offer distinctive wide-angle shots. Cold-water invertebrate life on and around the hull provides macro subjects.
 
 ---
-*Sources: [Dive Alaska - Anchorage Dive Operator](https://divealaska.net/), [Scuba Diving Magazine - Where to Go Scuba Diving in Alaska](https://www.scubadiving.com/where-to-go-scuba-diving-in-alaska), [Scuba Diving Magazine - Mountain Point Ketchikan](https://www.scubadiving.com/diving-alaskas-mountain-point), [Bluewater Dive Travel - Best Scuba Diving in Alaska](https://www.bluewaterdivetravel.com/destination/alaska-diving), [SSI - Scuba Diving in Alaska Guide](https://www.divessi.com/en/blog/scuba-diving-in-alaska-10373.html). Last updated 2026-04-04.*
+*Sources: [Wikipedia — Leschi (steam ferry)](https://en.wikipedia.org/wiki/Leschi_(steam_ferry)), [Alaska Shipwrecks — L](https://alaskashipwreck.com/shipwrecks-a-z/alaska-shipwrecks-l/), [Progressive Alaska — Carcass of the Ferry Leschi](http://progressivealaska.blogspot.com/2012/07/carcass-of-ferry-leschi-in-shotgun-cove.html). Last updated 2026-05-17.*

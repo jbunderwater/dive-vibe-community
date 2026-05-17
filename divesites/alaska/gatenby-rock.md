@@ -23,7 +23,7 @@ Gatenby Rock is a submerged rocky formation in the southern approaches to Ketchi
 
 - **Location**: Southern Ketchikan area, Southeast Alaska
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 24 meters
 - **Typical Visibility**: 8–18 meters (26–60 feet)
@@ -60,4 +60,4 @@ Current remains the primary hazard. Missing the slack window can result in stron
 The rock's encrusted surfaces offer rich macro and wide-angle possibilities. Aggregating anemones in clusters photograph well with a wide-angle setup. Nudibranch hunting on the rock faces can reveal species otherwise difficult to find in warmer destinations. A torch or strobe is necessary to reveal the reds and oranges stripped out by the water column.
 
 ---
-*Sources: [Dive Alaska - Anchorage Dive Operator](https://divealaska.net/), [Scuba Diving Magazine - Where to Go Scuba Diving in Alaska](https://www.scubadiving.com/where-to-go-scuba-diving-in-alaska), [Scuba Diving Magazine - Mountain Point Ketchikan](https://www.scubadiving.com/diving-alaskas-mountain-point), [Bluewater Dive Travel - Best Scuba Diving in Alaska](https://www.bluewaterdivetravel.com/destination/alaska-diving), [SSI - Scuba Diving in Alaska Guide](https://www.divessi.com/en/blog/scuba-diving-in-alaska-10373.html). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-17.*

@@ -23,7 +23,7 @@ Douglas Rock is a submerged rocky formation rising from the cold waters of the I
 
 - **Location**: Southeast Alaska (Ketchikan area), Inside Passage
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 26 meters
 - **Typical Visibility**: 8–18 meters (26–60 feet)
@@ -60,4 +60,4 @@ Strong tidal currents are the primary hazard at Douglas Rock, as with all expose
 The aggregating anemone colonies make excellent wide-angle subjects when illuminated with strobes. Macro photography of nudibranchs and small crustaceans on encrusting bryozoan mats is productive. Lingcod are photogenic subjects that often allow close approaches when not harassed.
 
 ---
-*Sources: [Dive Alaska - Anchorage Dive Operator](https://divealaska.net/), [Scuba Diving Magazine - Where to Go Scuba Diving in Alaska](https://www.scubadiving.com/where-to-go-scuba-diving-in-alaska), [Scuba Diving Magazine - Mountain Point Ketchikan](https://www.scubadiving.com/diving-alaskas-mountain-point), [Bluewater Dive Travel - Best Scuba Diving in Alaska](https://www.bluewaterdivetravel.com/destination/alaska-diving), [SSI - Scuba Diving in Alaska Guide](https://www.divessi.com/en/blog/scuba-diving-in-alaska-10373.html). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-17.*

@@ -13,17 +13,21 @@ addedBy: osm_import
 
 # Deep Bay Wreck (Andes)
 
-The 19th-century British merchant vessel Andes lies in the sheltered waters of Deep Bay — Antigua's most accessible wreck dive, reachable directly from the beach in just 9 meters of water.
+The early 20th-century steel barque Andes lies in the sheltered waters of Deep Bay — Antigua's most accessible wreck dive, reachable from the beach in under 9 metres of water and protected by Antiguan law since 1972.
 
 ## Overview
 
-The Andes was a British merchant sailing vessel that sank in Deep Bay in the late 19th century. The ship was carrying a cargo of pitch when it caught fire and sank in the sheltered anchorage. At a maximum depth of just 9 meters, the wreck is accessible from shore and is one of the easiest wreck dives in the Caribbean. The wooden hull has decayed over the decades, but the iron keel, ribs, and structural elements remain visible, along with anchors and cargo remnants spread across the sandy bay floor. The wreck is now heavily encrusted with coral and sponges and functions as an artificial reef. Deep Bay's sheltered position within a large, calm embayment means conditions are almost always suitable for diving here. Visibility is typically 15–25 meters.
+The Andes was a three-masted steel sailing barque built in England in 1874. On 5 June 1905, she departed Trinidad carrying 1,330 barrels of pitch intended for road paving in Chile. The pitch had been poorly stowed, and friction from the cargo ignited a fire that burned the vessel out of control. She sank in Deep Bay on 9 June 1905, her bow dipping first to the sandy bottom. The wreck lies due south of Shipstern Point in approximately 7.5–9 metres (25–30 feet) of water and is protected from disturbance by Antigua's Marine Areas Act of 1972.
+
+The vessel's wooden hull elements have long since deteriorated, but iron structural elements — the keel, ribs, and frames — remain visible across the sandy floor. Decades of coral and sponge encrustation have transformed the ironwork into an productive artificial reef structure. Deep Bay's sheltered position within a large, calm embayment means conditions are almost always suitable for access.
+
+**Note:** The Andes is also listed as "Andes Wreck" elsewhere in this database; both entries describe the same vessel and dive site.
 
 ## Site Information
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 3–9 m |
+| Depth Range | 2–9 m |
 | Difficulty | Beginner |
 | Entry Type | Shore |
 | Site Type | Wreck |
@@ -33,32 +37,23 @@ The Andes was a British merchant sailing vessel that sank in Deep Bay in the lat
 
 ## Marine Life
 
-The wreck structure hosts a productive community of reef fish. Large schools of sergeant majors and chromis occupy the upper surfaces of the wreck. Spotted moray eels are resident in the structural crevices. Caribbean spiny lobster shelter under the deeper structural elements. Southern stingrays rest in the sandy areas around the wreck perimeter. Hawksbill turtles visit the wreck to feed on sponge growth. At night, the wreck becomes dramatically more active as octopus, crab, and nocturnal fish emerge.
+The encrusted wreck structure provides habitat for reef fish. Sergeant majors and chromis occupy the upper surfaces of the ironwork. Sea turtles have been reported visiting the wreck. Moray eels and spiny lobster shelter in the structural crevices. Beyond these species confirmed by multiple sources, the wreck shares the general marine community of Antigua's leeward coast reefs. No site-specific survey data for species abundances is available for this wreck.
 
 ## Dive Profile
 
-Shore entry from the beach at Deep Bay. Divers wade in and descend on the sandy bottom, navigating approximately 100–150 meters to the wreck remains. The wreck spans an area roughly 60 meters long. Exploration is a circumnavigation followed by close-up examination of structural details. Total dive: 45–60 minutes. The depth (max 9 m) makes this excellent for extended dives and night diving.
+Shore entry from the Deep Bay beach. Divers navigate approximately 100–150 metres across the sandy floor to reach the wreck remains. The wreck area extends roughly 60 metres. Exploration consists of a circumnavigation followed by close inspection of structural details in the ironwork. Maximum depth of 9 metres gives exceptional bottom time, and the site is suitable for night diving with appropriate lighting and buddy contact.
 
 ## Entry and Exit
 
-Shore entry from the Deep Bay beach. Entry conditions are almost always calm due to the bay's sheltered position. Water shoes or booties recommended for the sandy beach entry. Navigation to the wreck requires a compass or guide for the first visit — the wreck is not visible from the surface entry point.
+Shore entry from Deep Bay beach. Conditions in the sheltered bay are almost always calm. Water shoes or booties are recommended. Navigation to the wreck requires a compass or guide on a first visit, as the wreck is not visible from the shore entry point. Boat traffic operates in Deep Bay, which functions as a working anchorage — surface alert (DSMB or raised fist) before ascending.
 
 ## Tips and Recommendations
 
-Deep Bay Wreck is one of Antigua's best night dive locations — the easily navigated route, shallow depth, and known wreck structure make it an ideal after-dark site. The pitch cargo that contributed to the fire and sinking can still be detected as dark residue near the keel area. Carry a torch even during the day for examining structural shadows. The site is also excellent for snorkelling in calm conditions.
+Deep Bay Wreck is one of Antigua's most convenient dives: no boat, no surge, no decompression concerns, and the historic context of the 1905 fire and sinking adds interest. The sheltered bay makes this a reliable dive option in conditions that would close the exposed south coast sites. Night diving is practical given the straightforward navigation to and from the wreck.
 
 ## Safety Considerations
 
-The shallow depth presents no decompression concerns, but boat traffic in Deep Bay is present as it is a working anchorage — surface with a DSMB and check for boats before surfacing. Fire coral grows on some structural elements. Do not enter confined spaces within the wreck structure. Night diving requires adequate torch equipment and a buddy within visual contact at all times.
-
-## Photography
-
-The shallow depth delivers outstanding natural light throughout the day — ideal for wide-angle natural-light wreck photography. Schools of sergeant majors above the wreck crest are visually strong compositions. Macro subjects on encrusted ironwork are numerous. Night photography reveals octopus and crab on the wreck surface with dramatic backscatter-free imaging in warm, clear water.
-
-## Additional Resources
-
-- Dive Antigua: offers guided shore dives including night dives at Deep Bay Wreck
-- Antigua sailing charter operators: often anchor in Deep Bay, where snorkel access to the wreck is possible
+The shallow depth presents no decompression risk, but boat traffic in Deep Bay is active — surface with a DSMB and check for vessels before ascending. Fire coral grows on some structural elements. Do not enter confined spaces within the wreck structure, which is not stabilised. Night diving requires adequate torches and buddy-within-visual-contact discipline.
 
 ---
-*Sources: [Carib Dive Guide - Antigua](https://www.caribdiveguide.com/Antigua.htm), [DiveCarib - Antigua Dive Sites](https://www.divecarib.com/dive-sites/), [DIVEIN - Diving in Antigua and Barbuda](https://www.divein.com/diving/destination/diving-in-antigua-and-barbudo/), [PADI - Diving in Antigua and Barbuda](https://www.padi.com/diving-in/antigua-and-barbuda/), [Visit Antigua & Barbuda - Diving](https://www.visitantiguabarbuda.com/experiences/dive-carib/). Last updated 2026-04-04.*
+*Sources: [Antigua Marine Guide - Deep Bay](https://www.antiguamarineguide.com/anchorages/deep-bay), [Ancient Origins - Antigua Shipwrecks](https://www.ancient-origins.net/ancient-places-americas/antigua-shipwreck-0015533), [Yacht Warriors - Deep Bay](https://yachtwarriors.com/destinations/antigua-and-barbuda/islands/deep-bay). Last updated 2026-05-17.*

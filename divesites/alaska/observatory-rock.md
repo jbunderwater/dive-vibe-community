@@ -23,7 +23,7 @@ Observatory Rock sits in the tidal waterways of the southern approaches to Ketch
 
 - **Location**: Southern approaches to Ketchikan, Southeast Alaska
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 26 meters
 - **Typical Visibility**: 8–18 meters (26–60 feet)
@@ -60,4 +60,4 @@ Observatory Rock sits in an active navigational waterway and SMB deployment is p
 The combination of lingcod portraits against anemone backgrounds and macro work on nudibranchs makes Observatory Rock a versatile photography site. The rock face offers good opportunities for environmental compositions showing the density of encrusting invertebrates. Strobe lighting is essential for accurate color rendition at depth.
 
 ---
-*Sources: [Dive Alaska - Anchorage Dive Operator](https://divealaska.net/), [Scuba Diving Magazine - Where to Go Scuba Diving in Alaska](https://www.scubadiving.com/where-to-go-scuba-diving-in-alaska), [Scuba Diving Magazine - Mountain Point Ketchikan](https://www.scubadiving.com/diving-alaskas-mountain-point), [Bluewater Dive Travel - Best Scuba Diving in Alaska](https://www.bluewaterdivetravel.com/destination/alaska-diving), [SSI - Scuba Diving in Alaska Guide](https://www.divessi.com/en/blog/scuba-diving-in-alaska-10373.html). Last updated 2026-04-04.*
+*Description based on regional diving characteristics. No site-specific sources found. Last updated 2026-05-17.*
