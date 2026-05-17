@@ -1,0 +1,249 @@
+[
+  {
+    "name": "Cap La Houssaye",
+    "lat": -21.018,
+    "lon": 55.233,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 18,
+    "site_type": "reef",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Cap La Houssaye",
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "dodopalme.com, bleumarineplongee.re, myscubadivinggearguide.com, padi.com, generationvoyage.fr",
+      "note": "Coordinates approximate based on cape position (lat -21, lon 55.2333 per getamap.net); dive depth 4-18m; shore access; all levels including beginners; reefs, small caves, drop-off, seagrass"
+    },
+    "depth_max": 18
+  },
+  {
+    "name": "Pain de Sucre",
+    "lat": -21.036,
+    "lon": 55.227,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 20,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Pain de Sucre",
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "dodopalme.com, bleumarineplongee.re, tribloo.com, souslesetoiles974.re",
+      "note": "Coordinates approximate; site is near Boucan Canot beach, west Reunion; depth 6-20m; fissures, canyons, arches, small caves; named for rock formation on beach"
+    },
+    "depth_max": 20
+  },
+  {
+    "name": "Tour de Boucan",
+    "lat": -21.042,
+    "lon": 55.223,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 22,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Tour de Boucan",
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "bleumarineplongee.re, dodopalme.com, le5element.com, souslesetoiles974.re",
+      "note": "Coordinates approximate; site is off Boucan Canot beach, Saint-Paul area; depth 6-22m; shore-accessible pinnacle; clownfish, turtles, anemones; isolated rock formation"
+    },
+    "depth_max": 22
+  },
+  {
+    "name": "Passe de l'Ermitage",
+    "lat": -21.08526,
+    "lon": 55.22158,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 25,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Passe de l'Ermitage",
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "padi.com, dodopalme.com, bleumarineplongee.re, le5element.com, souslesetoiles974.re",
+      "note": "GPS from PADI (-21.08526, 55.22158); depth 6-25m; pass/channel through reef crest; turtles, eagle rays, sandy floor, coral plateaus, caves and tunnels"
+    },
+    "depth_max": 25
+  },
+  {
+    "name": "Hai Siang",
+    "lat": -21.057,
+    "lon": 55.213,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 54,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Hai Siang",
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "dodopalme.com, bleumarineplongee.re, corail-plongee.com, tribloo.com, souslesetoiles974.re, linfo.re",
+      "note": "Coordinates approximate; 3km offshore from Aigrettes/Cap Homard area near Saint-Gilles; 49m Taiwanese fishing vessel sunk 1980s; sits upright on white sand at 54m; Level 3/Tech certification required; strong currents possible"
+    },
+    "depth_max": 54
+  },
+  {
+    "name": "Navarra",
+    "lat": -21.06,
+    "lon": 55.21,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 53,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Navarra",
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "dodopalme.com, corail-plongee.com, bleumarineplongee.re, myscubadivinggearguide.com",
+      "note": "Coordinates approximate; off Pointe des Aigrettes near Saint-Gilles port; 47m fishing vessel intentionally sunk 1996; broken in two parts by cyclonic swell; depth 40-53m; Level 3 required; one of two deep wrecks near Saint-Gilles alongside Hai Siang"
+    },
+    "depth_max": 53
+  },
+  {
+    "name": "Antonio Lorenzo",
+    "lat": -21.14939,
+    "lon": 55.26745,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 40,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Antonio Lorenzo",
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "padi.com, bleumarineplongee.re, tribloo.com, myscubadivinggearguide.com, souslesetoiles974.re",
+      "note": "GPS from PADI (-21.14939, 55.26745); 50m Chilean longliner caught illegal fishing near Kerguelen, sunk 1999; rests on port side at ~50m (slipped from original 40m position); near Tombant de la Pointe au Sel"
+    },
+    "depth_max": 50
+  },
+  {
+    "name": "Tombant de la Pointe au Sel",
+    "lat": -21.272,
+    "lon": 55.283,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 40,
+    "site_type": "wall",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "Tombant de la Pointe au Sel",
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "bleumarineplongee.re, tribloo.com, myscubadivinggearguide.com, souslesetoiles974.re, generationvoyage.fr, sea-seek.com",
+      "note": "Coordinates approximate based on Pointe au Sel cape location (getamap: -21.1833, 55.2833 is the cape tip); drop-off begins at 25-27m and descends to 60-80m; described as Reunion's finest dive by multiple operators; pelagics, hammerhead sharks, whale sharks, manta rays; Level 2+"
+    },
+    "depth_max": 80
+  },
+  {
+    "name": "Le Sec Jaune",
+    "lat": -21.20585,
+    "lon": 55.27990,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Le Sec Jaune",
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "padi.com, tribloo.com, bleumarineplongee.re",
+      "note": "GPS from PADI (-21.20585, 55.27990); coral plateau with drop-off to 20-30m; adjacent to Tombant de la Pointe au Sel; turtles, eagle rays, hard and soft corals; Open Water/CMAS 1 minimum"
+    },
+    "depth_max": 30
+  },
+  {
+    "name": "Le Jardin des Kiosques",
+    "lat": -21.18375,
+    "lon": 55.28417,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 30,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "Le Jardin des Kiosques",
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "padi.com, tribloo.com, souslesetoiles974.re",
+      "note": "GPS from PADI (-21.18375, 55.28417); depth 3-30m; external slope of coral barrier; crevices, tubes, overhangs; rich marine biodiversity; suitable beginners to advanced; Saint-Leu area"
+    },
+    "depth_max": 30
+  },
+  {
+    "name": "Sea Venture",
+    "lat": -21.012,
+    "lon": 55.237,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 49,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Advanced",
+    "tags": {
+      "name": "Sea Venture",
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "dodopalme.com, bleumarineplongee.re, myscubadivinggearguide.com, souslesetoiles974.re",
+      "note": "Coordinates approximate; in Saint-Paul Bay facing marine cemetery, ~100m from La Barge; 86m Panamanian cargo ship capsized and sunk 16 Nov 1981 while waiting for port entry; upside-down wreck; two large propellers intact; depth 40-49m; Level 2 minimum"
+    },
+    "depth_max": 49
+  },
+  {
+    "name": "La Barge de Saint-Paul",
+    "lat": -21.014,
+    "lon": 55.235,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 22,
+    "site_type": "wreck",
+    "entry_type": "boat",
+    "difficulty": "Intermediate",
+    "tags": {
+      "name": "La Barge de Saint-Paul",
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "dodopalme.com, bleumarineplongee.re, tribloo.com",
+      "note": "Coordinates approximate; in Saint-Paul Bay facing marine cemetery, ~100m from Sea Venture; 10m barge lying at 22m on black basaltic sand; large anchor chains; scorpionfish, electric rays, frogfish; popular night dive site; Level 2 minimum"
+    },
+    "depth_max": 22
+  },
+  {
+    "name": "La Passe des Trois-Bassins",
+    "lat": -21.098,
+    "lon": 55.238,
+    "osm_id": null,
+    "osm_type": null,
+    "depth": 22,
+    "site_type": "reef",
+    "entry_type": "boat",
+    "difficulty": "Beginner",
+    "tags": {
+      "name": "La Passe des Trois-Bassins",
+      "source": "curated",
+      "addedBy": "gap_fill",
+      "validation_source": "dodopalme.com, bleumarineplongee.re",
+      "note": "Coordinates approximate; pass through reef crest at Trois-Bassins village between Saint-Gilles and Saint-Leu; depth to 22m; sandy bottom; medium-sized fauna; beginners/Level 1"
+    },
+    "depth_max": 22
+  }
+]
