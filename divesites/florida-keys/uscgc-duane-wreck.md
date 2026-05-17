@@ -52,7 +52,11 @@ Boat dive only. Mooring buoys are set at the bow and stern; descending and ascen
 
 ## Safety Considerations
 
-Strong, variable currents are the defining hazard — divers without buoy-line discipline can be swept off the site quickly. Depths of 100-120 feet put divers well into the deep range with meaningful narcosis and short no-deco windows on air. Penetration is not safe by default and requires proper wreck training, a continuous guideline, and redundant lights and gas; entanglement from internal cables is a documented hazard. This is not a beginner dive.
+Strong, variable currents are the defining hazard — divers without buoy-line discipline can be swept off the site quickly. Currents at times are reported strong enough to pull the site's mooring buoys underwater. Depths of 100-120 feet put divers well into the deep range with meaningful narcosis and short no-deco windows on air. Penetration is not safe by default and requires proper wreck training, a continuous guideline, and redundant lights and gas; entanglement from internal cables is a documented hazard. This is not a beginner dive.
+
+## Photography
+
+The wreck's intact, upright silhouette and three decades of orange cup coral and sponge encrustation on the superstructure are the marquee subjects. The depth and current make this a wide-angle, strobe-or-video-light dive — bottom time and gas planning constrain shot count, so plan compositions before splashing. Schooling barracuda along the mooring lines and grunt clouds in the wheelhouse are reliable wildlife subjects.
 
 ---
 *Sources: [Florida Keys National Marine Sanctuary - Duane](https://floridakeys.noaa.gov/shipwrecktrail/duane.html), [Wikipedia - USCGC Duane](https://en.wikipedia.org/wiki/USCGC_Duane), [DAN Alert Diver - Silver Anniversary of the USCGC Duane](https://dan.org/alert-diver/article/the-silver-anniversary-of-the-uscgc-duane/), [US Coast Guard - The Sinking of U-175](https://coastguard.dodlive.mil/2013/04/the-sinking-of-u-175/), [National Marine Sanctuary Foundation - USCGC Duane](https://marinesanctuary.org/blog/the-uscgc-duane-a-historic-ship-and-artificial-reef/). Last updated 2026-05-17.*
