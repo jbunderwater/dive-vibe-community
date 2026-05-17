@@ -3,7 +3,7 @@ name: Conception Wall
 lat: 23.85
 lng: -75.1167
 difficulty: Intermediate
-maxDepth: 43
+maxDepth: 40
 entryType: boat
 siteType: wall
 ref: null
@@ -61,4 +61,4 @@ Conception Wall's pristine condition and extraordinary clarity make it a premier
 - Bahamas National Trust: manages Conception Island National Park
 
 ---
-*Sources: [Bahamas Tourism - Diving](https://www.bahamas.com/plan-your-trip/diving), [Bluewater Dive Travel - Bahamas Diving](https://www.bluewaterdivetravel.com/destination/bahamas-diving), [Dive The World - Best Diving in the Bahamas](https://www.dive-the-world.com/posts/bahamas/best-diving-in-the-bahamas-top-7-sites.php), [DiveIn - Best Diving in the Bahamas](https://www.divein.com/diving/destination/bahamas/), [PADI - Diving in the Bahamas](https://www.padi.com/diving-in/bahamas/). Last updated 2026-04-04.*
+*Sources: [Sea Dragon Bahamas - Diving Conception Island](https://www.seadragonbahamas.com/diving-conception-island), [Geoff Schultz Dive Logs - Conception Island](https://geoffschultz.org/Log_Page.php?subjectid=Conception_Island_Diving_Sites), [Dive the World - Bahamas Diving](https://www.dive-the-world.com/diving-sites-bahamas.php), [TripAdvisor - Conception Island Wall](https://www.tripadvisor.com/Attraction_Review-g147423-d149445-Reviews-Conception_Island_Wall-Out_Islands_Bahamas.html). Last updated 2026-05-17.*

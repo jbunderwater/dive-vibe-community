@@ -3,7 +3,7 @@ name: The Monument
 lat: -35.252
 lng: 136.078
 difficulty: Advanced
-maxDepth: 21
+maxDepth: 20
 entryType: boat
 siteType: reef
 ref: null
@@ -13,19 +13,21 @@ addedBy: osm_import
 
 ## The Monument
 
-Premier submerged cage diving site with exceptional shark encounters and deep kelp seabed exploration.
+Submerged cage diving area in the Neptune Islands associated with a distinctive rock formation on the kelp seabed.
+
+> **QA Note (2026-05-17):** No independent source confirms "The Monument" as a named dive site. The Rodney Fox website mentions "two stunning, natural crevasses" on North Neptune Island East, but does not name them "The Monument." Descriptions below reflect general Neptune Islands ocean-floor cage conditions until a site-specific source is found.
 
 ## Overview
 
-The Monument is an advanced submerged cage diving site in the Neptune Islands, known for exceptional great white shark activity and pristine kelp seabed exploration. The site's distinctive rock formation (the monument) provides a visual reference point at approximately 21 meters depth, where cages hover among kelp forests. This site consistently delivers dramatic shark encounters with excellent visibility.
+The Monument is a submerged cage diving location in the Neptune Islands reportedly associated with a distinctive rock formation at depth. No independent source confirms this site by name or provides details about the formation's dimensions, exact depth, or specific characteristics. The description below uses general Neptune Islands ocean-floor cage conditions as a proxy. Divers should confirm this site's existence and details with their licensed operator before booking.
 
 ## Site Information
 
 - **Location**: Central Neptune Islands, 40 nautical miles south of Port Lincoln, South Australia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
-- **Depth**: 21 meters (60-80 feet)
+- **Depth**: 18–20 meters (sources report 18–21 meters for Neptune Islands ocean-floor cage)
 - **Typical Visibility**: 15-20 meters (50-65 feet)
 - **Current**: Generally mild, occasionally variable
 - **Water Temperature**: 14-22°C (57-72°F) — coldest June-August, warmest December-May
@@ -33,11 +35,11 @@ The Monument is an advanced submerged cage diving site in the Neptune Islands, k
 
 ## Marine Life
 
-Great white sharks (males year-round, large females April-August during pup season), Australian sea lions, long-nosed fur seals, pups, cold-water reef fish (bream, trevally, wrasse), giant crabs, sea urchins, kelp forest fauna.
+Great white sharks, Australian sea lions, long-nosed fur seals. At Neptune Islands ocean-floor cage depth, southern eagle rays, giant blue wrasse, and trevally have been observed. Sea urchins and kelp-forest invertebrates are visible on the seabed. No site-specific marine life sources exist for this named location; marine life reflects general Neptune Islands ocean-floor cage conditions.
 
 ## Dive Profile
 
-Certified divers descend in cages to approximately 21 meters where the cage stabilizes above the kelp-covered seabed near the distinctive monument rock formation. Typical dive duration 30-45 minutes per rotation. Multiple cage cycles (usually 3-4) maximize observation time. Divers use scuba air supplies within the secure cage structure. The monument formation creates dramatic photography opportunities and serves as a reference point for shark behavior observation.
+Certified divers descend in cages to approximately 18–20 meters where the cage rests above the kelp-covered seabed. Typical dive duration 30-45 minutes per rotation. Multiple cage cycles maximize observation time. Divers use scuba air supplies within the secure cage structure. No source independently confirms the "monument" rock formation's dimensions, exact position, or visual characteristics.
 
 ## Entry and Exit
 
@@ -51,12 +53,12 @@ PADI Open Water or CMAS 1 Star certification required. Entry via cage platform; 
 - Experienced cage divers will maximize seabed observation and shark behavior documentation
 - May-October: peak shark activity; June-August: large females common
 - 2-3 cage rotations recommended for optimal experience
-- Bring waterproof camera for iconic monument formation shark photos
+- Bring waterproof camera for shark and seabed photography
 - Motion sickness medication advisable for sensitive individuals
 
 ## Safety Considerations
 
-Advanced cold-water diving at 21 meters requires proper thermal protection, equalization awareness, nitrogen narcosis management, and standard deep diving protocols. Operators provide professional supervision and secure cage construction. Always verify operator licensing, equipment maintenance records, and insurance. Maintain current certifications and adequate cold-water diving experience. Safety stop protocols are mandatory.
+Advanced cold-water diving at 18–20 meters requires proper thermal protection, equalization awareness, nitrogen narcosis management, and standard deep diving protocols. Operators provide professional supervision and secure cage construction. Always verify operator licensing, equipment maintenance records, and insurance. Maintain current certifications and adequate cold-water diving experience. Safety stop protocols are mandatory.
 
 ---
-*Sources: [Rodney Fox Shark Expeditions - Neptune Islands](https://rodneyfox.com.au/great-white-shark-central/the-neptune-islands/), [Scuba Diving Magazine - Cage Diving Neptune Islands](https://www.scubadiving.com/cage-diving-with-great-white-sharks-in-neptune-islands-australia), [DAN Alert Diver - South Australia Great White Sharks](https://dan.org/alert-diver/article/south-australias-great-white-shark-adventure/), [SA Marine Parks Neptune Islands Group](https://www.marineparks.sa.gov.au/find-a-park/eyre-peninsula/neptune-islands), [Dive Worldwide South Australia](https://www.diveworldwide.com/locations/south-australia). Last updated 2026-04-04.*
+*No site-specific sources found confirming "The Monument" as a named dive site. General Neptune Islands conditions sourced from: [Rodney Fox Shark Expeditions](https://rodneyfox.com.au/great-white-shark-central/the-neptune-islands/), [Neptune Islands – Wikipedia](https://en.wikipedia.org/wiki/Neptune_Islands), [Marine Parks SA](https://www.marineparks.sa.gov.au/find-a-park/eyre-peninsula/neptune-islands). Last updated 2026-05-17.*

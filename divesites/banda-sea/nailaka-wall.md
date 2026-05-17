@@ -2,7 +2,7 @@
 name: Nailaka Wall
 lat: -4.545
 lng: 129.622
-difficulty: Intermediate
+difficulty: Advanced
 maxDepth: 30
 entryType: boat
 siteType: wall
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Nailaka Wall
 
-Nailaka Wall is a wall dive adjacent to Pulau Nailaka, a tiny sandy island just off the western tip of Pulau Run (Rhun). Pulau Run is historically significant as one of the original nutmeg-producing Banda Islands, traded by the Dutch to the English in exchange for Manhattan Island in 1667. The dive site benefits from Run's remoteness — a 2-hour boat ride from Banda Neira — which has kept the reefs relatively intact.
+Nailaka Wall is a wall dive adjacent to Pulau Nailaka, a tiny sandbar island just off the western tip of Pulau Run (Rhun). Pulau Run is historically significant as one of the original nutmeg-producing Banda Islands, traded by the Dutch to the English in exchange for Manhattan Island in 1667. The remote location — approximately 2 hours by boat from Banda Neira — has kept the reefs in excellent condition.
 
 ## Overview
 
-The wall descends from around 5 m at the reef crest to beyond 30 m along a vertical face draped in large barrel sponges and sea fans. The shallower sections of Nailaka feature white sandy slopes interspersed with large coral heads and healthy hard coral gardens. A resident school of bumphead parrotfish is reported here, and divers can look into the blue for passing eagle rays.
+The wall descends from around 10 m at the reef crest to 30 m along a vertical face draped in large barrel sponges and sea fans. On the north side of the site, a steeper section drops to 45 m with an exceptional array of leather corals, yellow soft corals, massive sponges, and large table corals. A resident school of bumphead parrotfish is confirmed here, and turtles and napoleon wrasse are regular encounters.
 
-The wall is characterised by strong currents in places, which produce drift diving opportunities and concentrate schooling fish on the reef edge. The outer wall is notably healthy compared to more accessible sites closer to Banda Neira. Between Nailaka and Run there is a shallow reef passage with its own dive character — white sand channels between coral heads with abundant reef fish.
+The outer wall is notably healthy compared to more accessible sites closer to Banda Neira. Currents can be strong on exposed sections; the sandy shallows between Nailaka and Run offer a calmer alternative when current is running on the wall.
 
 ## Dive Profile
 
-Wall from 5 m to 30+ m with strong currents on exposed sections. Intermediate rating reflects the currents rather than depth. Visibility: 20–30 m. Water temperature: 27–29°C. The white sand shallows offer a calmer alternative when current is running on the wall.
+Wall from 10 m to 30 m+ (north section drops to 45 m) with strong currents on exposed sections. Advanced rating reflects the remote location and currents rather than depth alone. Visibility: 20–30 m (sources report 30 m+ in good conditions). Water temperature: 27–29°C.
 
 ## Marine Life
 
-- Bumphead parrotfish (resident school)
-- Eagle rays in open water off the wall
+- Bumphead parrotfish (resident school confirmed)
+- Napoleon wrasse and hawksbill turtles
 - Large barrel sponges and sea fans on the wall face
-- Schooling reef fish (fusiliers, snappers) concentrated by current
+- Leather corals and yellow soft corals on the deeper north section
 - Moray eels in barrel sponge crevices
-- Dense hard coral gardens on sandy slope
+- Reef fish (fusiliers, snappers) concentrated by current
 
 ## Entry / Exit
 
@@ -40,13 +40,13 @@ Boat dive from liveaboard. Pulau Run/Nailaka requires approximately a 2-hour tra
 
 ## Tips
 
-- Best combined with Run Island's other sites (Nutmeg Drop, etc.) on the same day's transit
+- Best combined with Run Island's other sites on the same day's transit
 - Check current conditions before committing to the wall — the sandy shallows provide a productive alternative on stronger-current days
-- Worth the transit for the pristine reef state
+- The north wall section (45 m) is for experienced deep divers; the main 10–30 m wall is accessible for most Advanced divers
 
 ## Photography
 
 Wide-angle barrel sponge and sea fan photography on the wall. The bumphead parrotfish school provides an excellent action subject. Clear water and healthy coral growth support ambient-light wide-angle work.
 
 ---
-*Sources: [Bottles Up Diving - Banda Islands](https://www.bottles-up-diving.com/EN-pages/BU_divingother_banda_EN.html), [Dive The World - Banda Islands](https://www.dive-the-world.com/diving-sites-indonesia-banda-islands.php), [Solitude World - Run Island Diving Guide](https://solitude.world/run-island-diving-guide/), [Merapi Tours - Banda Archipelago Dive Spots](https://www.merapitours.com/indonesia/moluccas/dive-spots-banda-archipelago). Last updated 2026-05-17.*
+*Sources: [Bottles Up Diving - Banda Islands](https://www.bottles-up-diving.com/EN-pages/BU_divingother_banda_EN.html), [Dive The World - Banda Islands](https://www.dive-the-world.com/diving-sites-indonesia-banda-islands.php), [Merapi Tours - Banda Archipelago Dive Spots](https://www.merapitours.com/indonesia/moluccas/dive-spots-banda-archipelago), [DAN Alert Diver - Banda Bound](https://dan.org/alert-diver/article/banda-bound/). Last updated 2026-05-17.*

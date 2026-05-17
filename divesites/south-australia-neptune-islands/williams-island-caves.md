@@ -13,11 +13,13 @@ addedBy: osm_import
 
 ## Williams Island Caves
 
-Advanced cave and cavern dive site with rocky overhangs, dark passages, and cave-adapted fauna.
+Cave and cavern dive site associated with the granite rock formations of the Neptune Islands.
+
+> **QA Note (2026-05-17):** No independent source confirms "Williams Island Caves" as a named dive site. The Neptune Islands are built from porphyritic granite gneiss and pink granite intruded with dolerite dykes (Wikipedia), rock types that can produce cave and overhang features. The Rodney Fox website mentions "two stunning, natural crevasses" on North Neptune Island East but does not name them "Williams Island Caves." No source provides depth, layout, or confirmed marine life for this location. Confirm existence and conditions with operator before planning a dive here.
 
 ## Overview
 
-Williams Island Caves is an advanced cave and cavern dive site near Williams Island in the Neptune Islands group. The site features rocky formations with caves, caverns, and dark passages accessible to experienced cave and cavern divers. This site offers unique exploration of dark crevices and overhangs supporting specialized low-light fauna. Recommended for divers with cavern diving experience or advanced open water training in cave environments.
+Williams Island Caves is described as a cave and cavern dive site in the Neptune Islands, associated with the area's granite and dolerite rock formations that could plausibly support cave features. No operator website, forum report, or dive database independently confirms this site's existence, layout, or dive conditions. Details below reflect general cave diving practices and Neptune Islands conditions, not site-specific research.
 
 ## Site Information
 
@@ -33,7 +35,7 @@ Williams Island Caves is an advanced cave and cavern dive site near Williams Isl
 
 ## Marine Life
 
-Cave-adapted species: crustaceans (crabs, lobsters), small fish seeking shelter, cuttlefish, sea urchins, zoanthids, anemones, sponges. Kelp forest species on external reef areas. Low-light adapted invertebrates concentrated in dark passages.
+No site-specific marine life sources found for this location. Cave and cavern environments in temperate South Australia generally shelter crustaceans, small fish, and sponges on overhanging surfaces. Lobsters, cuttlefish, and zoanthids are not confirmed at this specific site. Kelp forest and rocky reef fauna typical of the Neptune Islands would apply to external reef areas if they exist here.
 
 ## Dive Profile
 
@@ -59,4 +61,4 @@ PADI Cavern Diver certification or PADI Advanced Open Water with cave dive exper
 Advanced cavern diving in low-light, confined environments requires specialized training, excellent buoyancy control, and strict adherence to recreational cavern limits. Silt disturbance reduces visibility rapidly; avoid disturbing bottom and ceiling. Redundant lighting mandatory; single light failure creates disorientation risk. Cold water (14-22°C) demands proper thermal protection. Standard deep diving protocols apply plus cavern-specific safety: maintain light reference to exit, avoid deep penetration beyond light zone, use line/buddy contact protocols in zero-visibility conditions. Always dive with experienced cave diving buddy. Verify operator safety equipment and protocols before diving.
 
 ---
-*Sources: [Rodney Fox Shark Expeditions - Neptune Islands](https://rodneyfox.com.au/great-white-shark-central/the-neptune-islands/), [Scuba Diving Magazine - Cage Diving Neptune Islands](https://www.scubadiving.com/cage-diving-with-great-white-sharks-in-neptune-islands-australia), [DAN Alert Diver - South Australia Great White Sharks](https://dan.org/alert-diver/article/south-australias-great-white-shark-adventure/), [SA Marine Parks Neptune Islands Group](https://www.marineparks.sa.gov.au/find-a-park/eyre-peninsula/neptune-islands), [Dive Worldwide South Australia](https://www.diveworldwide.com/locations/south-australia). Last updated 2026-04-04.*
+*No site-specific sources found confirming Williams Island Caves as a named dive site. Rock formation geology from [Neptune Islands – Wikipedia](https://en.wikipedia.org/wiki/Neptune_Islands). General Neptune Islands conditions from [Marine Parks SA](https://www.marineparks.sa.gov.au/find-a-park/eyre-peninsula/neptune-islands) and [Rodney Fox Shark Expeditions](https://rodneyfox.com.au/great-white-shark-central/the-neptune-islands/). Last updated 2026-05-17.*

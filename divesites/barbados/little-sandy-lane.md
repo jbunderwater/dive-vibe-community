@@ -13,38 +13,41 @@ addedBy: scubadiving_bb_corroboration
 
 # Little Sandy Lane
 
-A west coast fringing reef named after the famous Sandy Lane Hotel, offering large schools of tropicals and multilevel diving
+A west coast fringing reef named after the landmark Sandy Lane Hotel, known for schooling barracuda, lobsters, and a multilevel depth range ideal for computer divers.
 
 ## Overview
-Little Sandy Lane takes its name from the iconic Sandy Lane Hotel that sits on the coast directly above. Part of a cluster of reef sites south of Holetown — along with Dottin's Reef and Barracuda Junction — it sits on Barbados' west coast fringing reef system. The site is known for large schools of tropical fish and a varied reef profile that rewards multilevel exploration. Calm, relatively shallow waters make it a versatile site for intermediate divers.
+
+Little Sandy Lane is part of a cluster of reef sites south of Holetown on Barbados's west coast, along with Barracuda Junction and Dottin's Reef. It takes its name from the iconic Sandy Lane Hotel directly above. Barbados Blue, which operates at this site, notes the depth range from 70–140 feet (21–43 metres) and lists barracuda and lobsters as key species. Dive Hightide's "Sandy Lane" entry confirms a 70–80 foot typical dive depth, abundant soft corals, barrel sponges, tube sponges, schooling fish, barracudas, turtles, and parrotfish. The multilevel profile makes it well-suited for computer-managed dive planning. Visibility averages 20–30 metres. Water temperature is 26–28°C.
 
 ## Site Information
 - **Location**: West coast, offshore from Sandy Lane Hotel south of Holetown
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 24 meters
-- **Typical Visibility**: 20-30 meters (65-100 feet)
+- **Typical Visibility**: 20–30 metres
 - **Current**: Light to moderate
 - **Best Time**: December to April (calmest seas)
 
 ## Marine Life
-The site is characterized by large schools of tropical fish — creole wrasse, blue tangs, sergeant majors — that swirl around the reef in impressive numbers. Hawksbill turtles frequent the area, and barracuda are commonly spotted patrolling the reef edges. The coral formations support butterflyfish, angelfish, and parrotfish. Moray eels shelter in reef crevices, and cleaner stations attract fish queuing for service.
+
+Barbados Blue confirms barracuda and lobsters as reliable species at this site. Dive Hightide's entries for the Sandy Lane area note soft corals, barrel sponges, tube sponges, schooling fish, turtles, and parrotfish. Schools of creole wrasse and blue tangs are typical of the fringing reef community. Moray eels shelter in reef crevices. No site-specific reports of other species beyond these operator sources were found.
 
 ## Dive Profile
-The reef offers a range of depths from 12 to 24 meters, making it well-suited to multilevel dive profiles. Work the shallower reef top first, then descend along the reef slope to explore the deeper sections. The varied topography keeps the dive interesting throughout, with overhangs, crevices, and coral mounds at different levels.
+
+The reef ranges from 12 to 24 metres with some sections extending deeper on the outer edge. Multilevel dive planning — work the shallower reef top first, descend along the reef slope, then ascend through the productive mid-reef for the safety stop. The varied topography keeps the dive interesting throughout.
 
 ## Entry and Exit
-Boat dive from Holetown operators. Part of a cluster with Dottin's Reef and Barracuda Junction, so operators often combine these sites for two-tank trips.
+
+Boat dive from Holetown operators. Part of a cluster with Barracuda Junction, so operators often combine these sites for two-tank trips.
 
 ## Tips and Recommendations
-- The multilevel profile makes this ideal for optimizing bottom time
-- Named after the landmark hotel — makes for a good reference point on the boat ride out
-- Combine with Dottin's Reef or Barracuda Junction for a varied two-tank experience
-- Good visibility makes this a reliable photography site
+
+The Sandy Lane Hotel is a visible landmark on the boat ride out — useful orientation for the dive. Combine with Barracuda Junction or Dottin's Reef for a varied two-tank experience. Best to monitor depth carefully on the outer reef edge where it drops beyond recreational limits.
 
 ## Safety Considerations
-Standard west coast reef dive. Moderate currents possible on the outer reef edge. Monitor depth at the deeper sections. Carry an SMB for boat pickup.
+
+Moderate currents possible on the outer reef edge. Monitor depth at the deeper sections. Carry an SMB for boat pickup.
 
 ---
-*Sources: Wikivoyage, DiveAdvisor, Active Caribbean Travel, Reefers & Wreckers, Maduro Dive, Maduro Dive - Named after Sandy Lane Hotel, multilevel reef, large schools of tropicals. Last updated 2026-04-02.*
+*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Barbados.org](https://barbados.org/divesite.htm). Last updated 2026-05-17.*

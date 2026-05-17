@@ -53,4 +53,4 @@ Drift dive by boat only. This site requires an experienced local boat captain wh
 The currents at Norman's Cay Cut are among the strongest in the Exuma Cays. Incorrect tidal timing can result in dangerous, uncontrollable drift. If you miss the exit point, stay at the surface and signal the boat with your SMB. Divers should have solid buoyancy skills and drift diving experience before attempting this site.
 
 ---
-*Sources: [DiveIn - Best Diving in the Bahamas](https://www.divein.com/diving/destination/bahamas/), [Dive the World - Exuma Cays](https://www.dive-the-world.com/diving-sites-bahamas-exuma-cays.php). Last updated 2026-04-11.*
+*Sources: [DiveIn - Best Diving in the Bahamas](https://www.divein.com/diving/destination/bahamas/), [Dive the World - Exuma Cays](https://www.dive-the-world.com/diving-sites-bahamas-exuma-cays.php), [Zentacle - Norman's Cay Cut](https://www.zentacle.com/). Last updated 2026-05-17.*

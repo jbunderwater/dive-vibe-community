@@ -23,7 +23,7 @@ Gili Mimpang (Batu Tiga, meaning "three rocks") is a series of three large rocks
 
 - **Location**: Amuk Bay, Candidasa area, east Bali
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10–25 m
@@ -59,4 +59,4 @@ Strong, variable, and unpredictable currents are the primary hazard. Down-curren
 Whitetip reef sharks resting on sand between coral heads provide some of the most photogenic shark shots in Bali. Wide-angle suits the coral formations and shark encounters. Mola mola in open water require fast shooting; use wide angle and be ready for sudden appearances. Macro opportunities on the reef include pygmy seahorses and nudibranchs.
 
 ---
-*Sources: [Aquamarine Diving - Bali Dive Sites](https://www.aquamarinediving.com/bali-diving/dive-sites/), [Dive The World - Bali Indonesia](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [Bluewater Dive Travel - Bali Diving](https://www.bluewaterdivetravel.com/destination/bali-diving), [World Adventure Divers - Best Dive Sites Bali](https://worldadventuredivers.com/best-dive-sites-bali/), [Neptune Scuba Diving - Scuba Diving Bali](https://neptunescubadiving.com/scuba-diving-bali/), [Dive The World - Bali](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [PADI - Diving in Bali](https://www.padi.com/diving-in/bali/). Last updated 2026-04-04.*
+*Sources: [Geko Dive Bali - Gili Mimpang](https://gekodivebali.com/en/bali-dive-sites/gili-mimpang), [Atlantis Bali Diving - Gilis](https://www.atlantis-bali-diving.com/gilis#gili-mimpang), [Bali AQua - Gili Tepekong, Mimpang & Biaha](https://baliaqua.com/bali-dive-sites/gili-tepekong-mimpang-diving/), [PADI - Gili Mimpang](https://www.padi.com/dive-site/indonesia/gili-mimpang/). Last updated 2026-05-17.*

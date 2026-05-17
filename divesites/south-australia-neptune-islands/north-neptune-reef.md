@@ -3,7 +3,7 @@ name: North Neptune Reef
 lat: -35.2333
 lng: 136.0656
 difficulty: Advanced
-maxDepth: 21
+maxDepth: 20
 entryType: boat
 siteType: reef
 ref: null
@@ -13,19 +13,21 @@ addedBy: osm_import
 
 ## North Neptune Reef
 
-Submerged cage diving site near the northern Neptune Islands with great white shark encounters at depth on kelp seabed.
+Submerged cage diving area near the North Neptune Islands with great white shark encounters at depth on a kelp-covered rocky seabed.
+
+> **QA Note (2026-05-17):** No independent source confirms "North Neptune Reef" as a distinct named dive site separate from the general Neptune Islands North cage diving area. This entry may duplicate Neptune Islands North. Treat details as approximate until operator confirmation.
 
 ## Overview
 
-North Neptune Reef is a submerged cage diving site in the northern Neptune Islands group. The site features cage diving to approximately 21 meters (60-80 feet) above the kelp-covered seabed. This deep cage site offers certified divers intimate encounters with great white sharks in their natural habitat with excellent visibility and strong shark activity.
+North Neptune Reef is a submerged cage diving site in the northern Neptune Islands group. The site features cage diving to approximately 18–20 meters above the kelp-covered seabed (sources report 18–21 meters). This deep cage site offers certified divers intimate encounters with great white sharks in their natural habitat with excellent visibility and strong shark activity.
 
 ## Site Information
 
 - **Location**: North Neptune Islands, 40 nautical miles south of Port Lincoln, South Australia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
-- **Depth**: 21 meters (60-80 feet)
+- **Depth**: 18–20 meters (sources report 18–21 meters)
 - **Typical Visibility**: 15-20 meters (50-65 feet)
 - **Current**: Generally mild
 - **Water Temperature**: 14-22°C (57-72°F) — coldest June-August, warmest December-May
@@ -33,11 +35,11 @@ North Neptune Reef is a submerged cage diving site in the northern Neptune Islan
 
 ## Marine Life
 
-Great white sharks (males year-round, large females April-August), Australian sea lions, long-nosed fur seals, pups, cold-water fish species, giant crabs, sea urchins, kelp forest invertebrates.
+Great white sharks, Australian sea lions, long-nosed fur seals. At ocean-floor depths, southern eagle rays, giant blue wrasse, and trevally have been observed from the seafloor cage at the Neptune Islands. Sea urchins and kelp-forest invertebrates are visible on the seabed. No site-specific marine life sources exist for this named location; marine life reflects general Neptune Islands ocean-floor cage conditions.
 
 ## Dive Profile
 
-Certified divers descend in secure cages to approximately 21 meters where the cage hovers above the kelp-covered seabed. Dive time 30-45 minutes per rotation. Divers use scuba air supplies while in the cage. Multiple cage rotations (typically 3-4) provide extended observation of shark behavior and cold-water reef ecosystems. This site is known for reliable shark activity and excellent visibility.
+Certified divers descend in secure cages to approximately 18–20 meters where the cage hovers above the kelp-covered seabed. Dive time 30-45 minutes per rotation. Divers use scuba air supplies while in the cage. Multiple cage rotations (typically 3-4) provide extended observation of shark behavior and cold-water reef ecosystems. This area is known for reliable shark activity and excellent visibility in the North Neptune Islands group.
 
 ## Entry and Exit
 
@@ -55,7 +57,7 @@ PADI Open Water certification or CMAS 1 Star equivalent required. Descent via ca
 
 ## Safety Considerations
 
-Cold-water diving at 21 meters requires proper thermal protection. Standard deep diving protocols apply: equalization awareness, nitrogen narcosis management, air consumption monitoring, safety stop compliance. Professional operator supervision and secure cage construction prioritize diver safety. Verify operator licensing, equipment maintenance, and insurance before booking. Maintain current certifications and cold-water diving experience.
+Cold-water diving at 18–20 meters requires proper thermal protection. Standard deep diving protocols apply: equalization awareness, nitrogen narcosis management, air consumption monitoring, safety stop compliance. Professional operator supervision and secure cage construction prioritize diver safety. Verify operator licensing, equipment maintenance, and insurance before booking. Maintain current certifications and cold-water diving experience.
 
 ---
-*Sources: [Rodney Fox Shark Expeditions - Neptune Islands](https://rodneyfox.com.au/great-white-shark-central/the-neptune-islands/), [Scuba Diving Magazine - Cage Diving Neptune Islands](https://www.scubadiving.com/cage-diving-with-great-white-sharks-in-neptune-islands-australia), [DAN Alert Diver - South Australia Great White Sharks](https://dan.org/alert-diver/article/south-australias-great-white-shark-adventure/), [SA Marine Parks Neptune Islands Group](https://www.marineparks.sa.gov.au/find-a-park/eyre-peninsula/neptune-islands), [Dive Worldwide South Australia](https://www.diveworldwide.com/locations/south-australia). Last updated 2026-04-04.*
+*No site-specific sources found confirming "North Neptune Reef" as a distinct named dive site. General Neptune Islands conditions sourced from: [Rodney Fox Shark Expeditions](https://rodneyfox.com.au/great-white-shark-central/the-neptune-islands/), [Neptune Islands – Wikipedia](https://en.wikipedia.org/wiki/Neptune_Islands), [Marine Parks SA](https://www.marineparks.sa.gov.au/find-a-park/eyre-peninsula/neptune-islands). Last updated 2026-05-17.*

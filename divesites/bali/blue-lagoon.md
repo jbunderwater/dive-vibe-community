@@ -23,7 +23,7 @@ Blue Lagoon is Padangbai's signature dive site, set in a sheltered bay just east
 
 - **Location**: Padangbai, east Bali
 - **Entry Type**: Shore entry
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Beginner
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10–20 m
@@ -59,4 +59,4 @@ The bay is very calm, but boat traffic enters and exits the area — be visible 
 Excellent natural light in the shallows suits wide-angle reef shots and fish portraits. Clownfish in anemones are predictable subjects. Night dives add octopus, cuttlefish, and nudibranchs. The white sand bottom reflects light beautifully for macro shots.
 
 ---
-*Sources: [Aquamarine Diving - Bali Dive Sites](https://www.aquamarinediving.com/bali-diving/dive-sites/), [Dive The World - Bali Indonesia](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [Bluewater Dive Travel - Bali Diving](https://www.bluewaterdivetravel.com/destination/bali-diving), [World Adventure Divers - Best Dive Sites Bali](https://worldadventuredivers.com/best-dive-sites-bali/), [Neptune Scuba Diving - Scuba Diving Bali](https://neptunescubadiving.com/scuba-diving-bali/), [Dive The World - Bali](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [PADI - Diving in Bali](https://www.padi.com/diving-in/bali/). Last updated 2026-04-04.*
+*Sources: [PADI - Diving in Bali](https://www.padi.com/diving-in/bali/), [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [Neptune Scuba Diving - Bali Dive Sites](https://neptunescubadiving.com/bali-diving/bali-dive-sites/). Last updated 2026-05-17.*

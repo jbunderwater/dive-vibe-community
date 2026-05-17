@@ -28,7 +28,7 @@ The Neptune Islands, located 40 nautical miles south of Port Lincoln, South Aust
 ### Marine Life & Environment
 
 - **Water Conditions**: Cold-water environment with temperatures 14-22°C (57-72°F), warmest December-May (18-19°C). Visibility 15-20 meters (50-65 feet). Current: Generally mild in sheltered bays.
-- **Marine Biodiversity**: Great white sharks (males year-round, females April-August), Australian sea lions, long-nosed fur seals, fur seal pups (peak vulnerability April-August), cold-water reef fish, cuttlefish, sea urchins, kelp forest ecosystems, giant crabs.
+- **Marine Biodiversity**: Great white sharks (males year-round, large females arriving approximately April–August), Australian sea lions, long-nosed fur seals and pups, trevally, southern eagle rays, giant blue wrasse, sea urchins, kelp forest ecosystems. Note: cuttlefish are not confirmed at the Neptune Islands — their well-known SA aggregation occurs at Whyalla in Spencer Gulf, a separate destination.
 - **Seasonal Patterns**: Peak great white activity May-October (cooler water, abundant seal pups); year-round diving possible with variable shark encounters.
 - **Conservation**: Neptune Islands Group Marine Park (established 2012) protects critical seal breeding habitat and regulates tourism. Diving supports marine research and ecosystem monitoring.
 
@@ -37,7 +37,7 @@ The Neptune Islands, located 40 nautical miles south of Port Lincoln, South Aust
 - **Best Time to Visit**: September to February. Diving is possible year-round.
 - **Currency**: Australian Dollar (AUD)
 - **Language**: English
-- **Safety**: Always dive within certification limits. Be aware of strong currents, jellyfish (box jellyfish in summer), crocodiles (north). Verify the location of the nearest hyperbaric chamber before diving.
+- **Safety**: Always dive within certification limits. Be aware of strong currents and cold water. The Neptune Islands are in temperate South Australia — box jellyfish and saltwater crocodiles are tropical-north hazards not present here. Verify the location of the nearest hyperbaric chamber (Port Lincoln Hospital) before diving.
 
 ---
-*Sources: [Rodney Fox Shark Expeditions - Neptune Islands](https://rodneyfox.com.au/great-white-shark-central/the-neptune-islands/), [Scuba Diving Magazine - Cage Diving Neptune Islands](https://www.scubadiving.com/cage-diving-with-great-white-sharks-in-neptune-islands-australia), [DAN Alert Diver - South Australia Great White Sharks](https://dan.org/alert-diver/article/south-australias-great-white-shark-adventure/), [SA Marine Parks Neptune Islands Group](https://www.marineparks.sa.gov.au/find-a-park/eyre-peninsula/neptune-islands), [Dive Worldwide South Australia](https://www.diveworldwide.com/locations/south-australia). Last updated 2026-04-04.*
+*Sources: [Rodney Fox Shark Expeditions](https://rodneyfox.com.au/great-white-shark-central/the-neptune-islands/), [Neptune Islands – Wikipedia](https://en.wikipedia.org/wiki/Neptune_Islands), [Neptune Islands Group Marine Park – parks.sa.gov.au](https://www.parks.sa.gov.au/parks/neptune-islands-group), [Marine Parks SA – Neptune Islands](https://www.marineparks.sa.gov.au/find-a-park/eyre-peninsula/neptune-islands), [DAN Alert Diver – South Australia Great White Sharks](https://dan.org/alert-diver/article/south-australias-great-white-shark-adventure/), [Dive Worldwide South Australia](https://www.diveworldwide.com/locations/south-australia), [Wikivoyage – Shark cage diving at the Neptune Islands](https://en.wikivoyage.org/wiki/Diving_in_South_Australia/Shark_cage_diving_at_the_Neptune_Islands). Last updated 2026-05-17.*

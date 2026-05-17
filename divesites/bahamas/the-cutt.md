@@ -51,4 +51,4 @@ Boat drift dive only. This is not a site suitable for solo diving or independent
 Strong tidal currents are the primary hazard. Do not attempt to dive against the current. If separated from the group, ascend and deploy your SMB. The current direction reverses fully — do not re-enter at the wrong tidal stage. Divers should be comfortable with drift diving techniques before attempting this site.
 
 ---
-*Sources: [ScubaBoard - Diving in Abaco](https://scubaboard.com/community/threads/diving-in-abaco-bahamas-on-our-own-asking-for-help-on-dive-locations.638372/). Limited site-specific information available; description based on confirmed GPS location and regional channel dive characteristics in Abaco. Last updated 2026-04-11.*
+*Sources: [ScubaBoard - Diving in Abaco](https://scubaboard.com/community/threads/diving-in-abaco-bahamas-on-our-own-asking-for-help-on-dive-locations.638372/). Only one source found; validation status set to false pending additional independent sources. Description based on confirmed GPS location and regional channel dive characteristics in Abaco. Last updated 2026-05-17.*

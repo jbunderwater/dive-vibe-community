@@ -59,4 +59,4 @@ The rocky beach entry requires care, particularly when carrying camera equipment
 Harlequin Slope is a dedicated macro photography site. The black sand provides clean, dark backgrounds that make critter subjects stand out beautifully. A 60mm or 100mm macro lens is ideal. Harlequin shrimps, nudibranchs, and cuttlefish are the primary targets. Bring a focus light to assist with finding and illuminating small subjects on the dark substrate.
 
 ---
-*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=878). Last updated 2026-04-08.*
+*Sources: [Michael McFadyen's Scuba Diving Web Site](https://www.michaelmcfadyenscuba.info/viewpage.php?page_id=878). Note: no second independent source found for this site — validation_source remains single-source until confirmed. Last updated 2026-05-17.*

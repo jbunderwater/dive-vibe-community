@@ -23,7 +23,7 @@ Gili Tepekong is the largest of the three volcanic islets in Amuk Bay off Candid
 
 - **Location**: Amuk Bay, Candidasa area, east Bali
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 25 meters
 - **Typical Visibility**: 10–20 m
@@ -59,4 +59,4 @@ Currents can intensify quickly and may reverse without warning near the island. 
 The swim-throughs provide dramatic frame shots with divers silhouetted against the light. Pygmy seahorses in gorgonians require macro lens and careful focus. Wide-angle captures the schools of sweetlips and the coral wall character.
 
 ---
-*Sources: [Aquamarine Diving - Bali Dive Sites](https://www.aquamarinediving.com/bali-diving/dive-sites/), [Dive The World - Bali Indonesia](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [Bluewater Dive Travel - Bali Diving](https://www.bluewaterdivetravel.com/destination/bali-diving), [World Adventure Divers - Best Dive Sites Bali](https://worldadventuredivers.com/best-dive-sites-bali/), [Neptune Scuba Diving - Scuba Diving Bali](https://neptunescubadiving.com/scuba-diving-bali/), [Dive The World - Bali](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [PADI - Diving in Bali](https://www.padi.com/diving-in/bali/). Last updated 2026-04-04.*
+*Sources: [Bali AQua - Gili Tepekong, Mimpang & Biaha](https://baliaqua.com/bali-dive-sites/gili-tepekong-mimpang-diving/), [Indopacific Images - Gili Tepekong](https://indopacificimages.com/indonesia/bali-anchor-page/diving-indonesia-bali-gili-tepekong/), [PADI - Gili Tepekong](https://www.padi.com/dive-site/indonesia/gili-tepekong-2/). Last updated 2026-05-17.*

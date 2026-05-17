@@ -13,17 +13,19 @@ addedBy: osm_import
 
 ## Langton Island
 
-Intermediate cold-water reef dive site with diverse fauna and accessible depths suitable for gaining Neptune Islands experience.
+Rocky reef dive site in the Neptune Islands area.
+
+> **QA Note (2026-05-17):** No independent source confirms "Langton Island" as a dive site in the Neptune Islands group. Wikipedia lists only North Neptune Islands and South Neptune Islands as the four islands comprising the Neptune Islands group; no "Langton Island" is mentioned. This may be a curated placeholder. Confirm existence with a licensed Neptune Islands operator before visiting.
 
 ## Overview
 
-Langton Island is an intermediate-level reef dive site in the southern Neptune Islands group. The site features rocky reef structures, kelp forests, and a diverse array of cold-water marine life. This site is popular for intermediate divers seeking recreational diving away from cage diving operations, or as a complement to cage diving expeditions. Good visibility, moderate depths, and abundant small fauna make this an excellent educational and enjoyable dive.
+Langton Island is listed as an intermediate rocky reef dive site in the Neptune Islands area. No operator website, Wikipedia article, dive forum, or dive database confirms the existence of a "Langton Island" within the Neptune Islands group, nor provides any dive-specific information for this location. Details below reflect general Neptune Islands temperate reef conditions.
 
 ## Site Information
 
 - **Location**: Langton Island, southern Neptune Islands, 40 nautical miles south of Port Lincoln, South Australia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Depth**: 6-16 meters (20-52 feet)
 - **Typical Visibility**: 15-20 meters (50-65 feet)
@@ -33,7 +35,7 @@ Langton Island is an intermediate-level reef dive site in the southern Neptune I
 
 ## Marine Life
 
-Cold-water reef fish (bream, trevally, wrasse), cuttlefish, sea urchins, giant crabs, kelp forest invertebrates, zoanthids, sponges, occasional seals during breeding season (April-August), small fish sheltering in reef crevices.
+No site-specific marine life sources found. This site is unconfirmed; no source names or describes it. Regional Neptune Islands temperate reef fauna would include sea urchins, kelp forest invertebrates, and the possibility of Australian sea lions or fur seals passing through. Cuttlefish, zoanthids, and "giant crabs" are not confirmed at this location.
 
 ## Dive Profile
 
@@ -59,4 +61,4 @@ PADI Open Water certification or equivalent required. Giant stride or back roll 
 Cold-water reef diving requires proper thermal protection and buddy awareness. Kelp forests present entanglement risk if moving too quickly; maintain controlled movements. Rocky substrate demands excellent buoyancy control to avoid abrasion and reef damage. Standard open water diving protocols apply: equalization, air consumption monitoring, safety stop compliance. Always dive with a buddy. Water temperature 14-22°C requires extended thermal protection and energy management. Verify current conditions with local operators before diving.
 
 ---
-*Sources: [Rodney Fox Shark Expeditions - Neptune Islands](https://rodneyfox.com.au/great-white-shark-central/the-neptune-islands/), [Scuba Diving Magazine - Cage Diving Neptune Islands](https://www.scubadiving.com/cage-diving-with-great-white-sharks-in-neptune-islands-australia), [DAN Alert Diver - South Australia Great White Sharks](https://dan.org/alert-diver/article/south-australias-great-white-shark-adventure/), [SA Marine Parks Neptune Islands Group](https://www.marineparks.sa.gov.au/find-a-park/eyre-peninsula/neptune-islands), [Dive Worldwide South Australia](https://www.diveworldwide.com/locations/south-australia). Last updated 2026-04-04.*
+*No site-specific sources found. "Langton Island" is not listed in [Neptune Islands – Wikipedia](https://en.wikipedia.org/wiki/Neptune_Islands) or any operator source. General Neptune Islands conditions from [Marine Parks SA](https://www.marineparks.sa.gov.au/find-a-park/eyre-peninsula/neptune-islands). Last updated 2026-05-17.*

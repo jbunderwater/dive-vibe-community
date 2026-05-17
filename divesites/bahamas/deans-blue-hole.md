@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Dean's Blue Hole
 
-The world's second-deepest known marine blue hole at 202 meters — a circular underwater sinkhole off Long Island that is the world record venue for freediving and a profound advanced scuba experience.
+A marine blue hole plunging 202 metres off Long Island — the world's third-deepest known ocean blue hole (after Taam Ja' and Dragon Hole), and the world record venue for competitive freediving.
 
 ## Overview
 
-Dean's Blue Hole is a spectacular natural geological formation off the western coast of Long Island, Bahamas. The sinkhole is approximately 35 meters in diameter at the surface, suddenly widening to roughly 100 meters diameter at a depth of around 20 meters, then plunging to a maximum depth of 202 meters. The hole is formed in limestone karst terrain and connects to the broader cave system of the Bahamas' complex underwater geology. It is world-famous as the venue for competitive freediving world records — William Trubridge has set multiple records here — and the hole's pure water, complete protection from current, and extraordinary visibility (easily 30–40+ meters in the sinkhole itself) make it one of the most visually dramatic dive experiences in the world. Recreational scuba divers are limited to the upper 40 meters, which still represents an extraordinary dive.
+Dean's Blue Hole is a spectacular natural geological formation in a bay west of Clarence Town, Long Island, Bahamas. The sinkhole is approximately 30 metres in diameter at the surface, widening to roughly 100 metres in diameter below, then plunging to a maximum depth of 202 metres. The hole formed through limestone karst collapse — geological sources describe it as caused either by a fault allowing corrosive solution to rise, or by a buried cavern ceiling collapsing to create a sinkhole. Wikipedia now classifies Dean's Blue Hole as the world's third-deepest known ocean blue hole, after Taam Ja' Blue Hole in Mexico and Dragon Hole in the South China Sea. It is world-famous as the venue for competitive freediving world records: William Trubridge (New Zealand) has set multiple records here, including a 101-metre unassisted dive in December 2010, and the site hosts the annual Vertical Blue freediving competition. The hole's still water, freedom from current, and extraordinary visibility (30–40+ metres in the sinkhole itself) make it one of the most visually dramatic dive experiences in the world. Recreational scuba divers are limited to the upper 40 metres, which still represents an extraordinary dive.
 
 ## Site Information
 
@@ -61,4 +61,4 @@ Dean's Blue Hole is one of the most photographed natural formations in the Baham
 - Long Island, Bahamas: accessible by flight from Nassau to Deadman's Cay Airport
 
 ---
-*Sources: [Bahamas Tourism - Diving](https://www.bahamas.com/plan-your-trip/diving), [Bluewater Dive Travel - Bahamas Diving](https://www.bluewaterdivetravel.com/destination/bahamas-diving), [Dive The World - Best Diving in the Bahamas](https://www.dive-the-world.com/posts/bahamas/best-diving-in-the-bahamas-top-7-sites.php), [DiveIn - Best Diving in the Bahamas](https://www.divein.com/diving/destination/bahamas/), [PADI - Diving in the Bahamas](https://www.padi.com/diving-in/bahamas/). Last updated 2026-04-04.*
+*Sources: [Wikipedia - Dean's Blue Hole](https://en.wikipedia.org/wiki/Dean%27s_Blue_Hole), [Atlas Obscura - Dean's Blue Hole](https://www.atlasobscura.com/places/deans-blue-hole), [Bahamas Air Tours - Dean's Blue Hole](https://www.bahamasairtours.com/deans-blue-hole-long-island-bahamas/), [Scuba.com - Freediving Haven Dean's Blue Hole](https://www.scuba.com/blog/free-diving-haven-deans-blue-hole-bahamas/). Last updated 2026-05-17.*

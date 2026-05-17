@@ -3,7 +3,7 @@ name: Shark Rodeo Cat Island
 lat: 24.3833
 lng: -75.4333
 difficulty: Intermediate
-maxDepth: 8
+maxDepth: 12
 entryType: boat
 siteType: reef
 ref: null
@@ -17,7 +17,7 @@ Cat Island's famous oceanic whitetip shark dive — one of the few places in the
 
 ## Overview
 
-The Shark Rodeo at Cat Island is one of the most significant shark diving experiences in the Bahamas — primarily because of the species involved. Oceanic whitetip sharks were once among the most abundant large sharks in the open ocean but have been devastated by long-line fishing globally. Cat Island's offshore waters, however, host a known population of oceanic whitetips that associates with the island's seamount structures and reef systems. The site operates in shallow water (8 meters maximum) over a sandy bottom, where the sharks are reliably encountered year-round. Caribbean reef sharks are also present throughout. The clear Bahamian water delivers 25–35 meters visibility in typical conditions.
+The Shark Rodeo at Cat Island is one of the most significant shark diving experiences in the Bahamas — primarily because of the species involved. Oceanic whitetip sharks (Carcharhinus longimanus) were once among the most abundant large sharks in the open ocean but have been devastated by longline fishing globally. Cat Island's offshore waters remain one of the last reliable places on Earth where divers can encounter them predictably. The oceanic whitetips arrive at Cat Island in large numbers in April and May, following the tuna migration through the area; they are the primary draw for dedicated expeditions. Caribbean reef sharks are present throughout the year. The site operates in shallow water (no more than 12 metres depth) over a sandy bottom near the island's continental shelf edge, where Cat Island drops to depths of nearly 1,000 metres within a short distance of shore. The clear Bahamian water delivers 25–35 metres visibility in typical conditions.
 
 ## Site Information
 
@@ -33,7 +33,7 @@ The Shark Rodeo at Cat Island is one of the most significant shark diving experi
 
 ## Marine Life
 
-Oceanic whitetip sharks are the primary attraction — typically 2–6 individuals are present, identifiable by their distinctive rounded, white-tipped fins and pectoral fins broad as wings. These are genuinely pelagic animals — their presence at a shallow, accessible reef site is extraordinary. Caribbean reef sharks are also consistent. Short-finned pilot whales have been observed offshore at Cat Island. The shallow sandy bottom supports stingrays and nurse sharks.
+Oceanic whitetip sharks are the primary attraction during April and May — identifiable by their distinctive rounded, white-tipped fins and pectoral fins broad as wings. These are genuinely pelagic animals; their seasonal concentration at Cat Island is exceptional and follows the annual tuna migration. Caribbean reef sharks are present year-round and are typically encountered on every dive. Sources report that the whitetips are generally slow-moving and stay near the surface, making them relatively approachable in clear conditions. The shallow, sandy bottom supports nurse sharks and southern stingrays.
 
 ## Dive Profile
 
@@ -41,7 +41,7 @@ Divers descend to the sandy bottom at 4–8 meters and remain stationary. Oceani
 
 ## Entry and Exit
 
-Boat dive from Cat Island operators — primarily Hawk's Nest Resort or dedicated Cat Island shark dive operators. Cat Island requires flights from Nassau. Entry by giant stride. DSMB required for surface pickup.
+Boat dive from Cat Island operators — primarily Epic Diving (based at Hawk's Nest Resort) which specialises in the oceanic whitetip expeditions, or via liveaboard visiting the island. Cat Island requires flights from Nassau (approximately 1 hour by small aircraft). Entry by giant stride. DSMB required for surface pickup.
 
 ## Tips and Recommendations
 
@@ -61,4 +61,4 @@ Oceanic whitetip photography is the primary goal. The broad pectoral fins and ro
 - Cat Island is 1 hour by small aircraft from Nassau
 
 ---
-*Sources: [Bahamas Tourism - Diving](https://www.bahamas.com/plan-your-trip/diving), [Bluewater Dive Travel - Bahamas Diving](https://www.bluewaterdivetravel.com/destination/bahamas-diving), [Dive The World - Best Diving in the Bahamas](https://www.dive-the-world.com/posts/bahamas/best-diving-in-the-bahamas-top-7-sites.php), [DiveIn - Best Diving in the Bahamas](https://www.divein.com/diving/destination/bahamas/), [PADI - Diving in the Bahamas](https://www.padi.com/diving-in/bahamas/). Last updated 2026-04-04.*
+*Sources: [Epic Diving - Oceanic Whitetip Shark Diving Cat Island](https://www.epicdiving.com/package/oceanic-whitetip-shark-diving/), [Scuba Diver Life - Oceanic Whitetips Cat Island](https://scubadiverlife.com/the-oceanic-whitetips-of-cat-island-bahamas/), [Southern Boating - Oceanic Whitetips Cat Island](https://southernboating.com/destinations/bahamas/oceanic-whitetip-sharks/), [Big Fish Expeditions - Cat Island Oceanic Whitetips](https://www.bigfishexpeditions.com/trips/scuba-diving/oceanic-whitetip-sharks/). Last updated 2026-05-17.*

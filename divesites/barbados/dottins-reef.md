@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Dottin's Reef
 
-One of Barbados's most popular and productive west coast reef dives — a broad, sloping fringing reef in the calm Caribbean waters north of Bridgetown, with reliable turtle encounters and a classic Barbadian reef fish community in the island's characteristically clear conditions.
+One of Barbados's most popular west coast reef dives — a broad fringing reef off Holetown with beautiful coral formations, reliable hawksbill turtle and barracuda encounters, and thousands of schooling tropical fish.
 
 ## Overview
 
-Dottin's Reef is a well-developed section of Barbados's west coast fringing reef system, lying in the sheltered Caribbean waters off the parish of St. James. The reef slopes gently from a crest at around 5 metres to a sandy base at 15 metres, providing a straightforward and accessible dive profile. The site is characterised by the healthy hard coral coverage — brain, star, and elkhorn coral formations — that is a signature of Barbados's protected west coast. Visibility averages 15–25 metres. Water temperature is 26–28°C year-round. The site is operated by most west coast dive operators as a standard beginner and intermediate dive destination.
+Dottin's Reef is a well-developed section of Barbados's west coast fringing reef, lying in the sheltered Caribbean waters off the parish of St. James. Barbados Blue describes it as "a very popular reef" with "beautiful corals," while Dive Hightide notes it as a site with "beautiful corals, hundreds of schooling fish" and regular barracuda and turtle sightings. The reef is accessible from 40 to 100 feet (12–30 metres) per Barbados Blue, though the primary dive depth is 12–15 metres. Characterised by healthy coral coverage typical of Barbados's protected west coast. Visibility averages 15–25 metres. Water temperature is 26–28°C year-round.
 
 ## Site Information
 
@@ -33,32 +33,27 @@ Dottin's Reef is a well-developed section of Barbados's west coast fringing reef
 
 ## Marine Life
 
-Dottin's Reef supports a classic Caribbean fringing reef community with above-average turtle encounter rates. Hawksbill turtles are virtually guaranteed — the west coast resident population is significant and individual animals patrol specific reef sections. Large parrotfish, French angelfish, and queen triggerfish are abundant. Schools of blue tang sweep the reef crest. Caribbean spiny lobster shelter under reef overhangs. Southern stingrays traverse the sandy base. Barracuda patrol the open water above the reef.
+Dottin's Reef consistently delivers hawksbill turtle encounters — one of the site's signature attractions. Barracuda patrol the water column. Large schools of tropical fish including yellowtail snappers, creole wrasse, and bar jacks sweep the reef. Parrotfish graze the coral surfaces. Dive Hightide also notes schooling fish as a defining feature. The sandy base at 15 metres hosts southern stingrays. Caribbean spiny lobster shelter under reef overhangs.
 
 ## Dive Profile
 
-Descent to the reef crest at 5 metres and follow the gentle slope to the sandy base at 15 metres. Navigate east or west along the reef, spending time at both the crest and the deeper sections. The turtle encounters typically occur throughout the depth range wherever sponge growth is densest. Safety stop at the reef crest.
+Descent to the reef crest and follow the gentle slope to 15 metres. Navigate along the reef structure, spending time at both the crest and the deeper sections. Turtle encounters occur throughout the depth range wherever sponge growth is densest. Safety stop at the reef crest.
 
 ## Entry and Exit
 
-Boat dive from west coast operators based at Bridgetown or St. James. Giant stride or backward roll entry. DSMB recommended. Commonly paired with a Carlisle Bay wreck dive for a two-tank day.
+Boat dive from west coast operators based at Holetown. Giant stride or backward roll entry. DSMB recommended. Commonly paired with the Stavronikita or a Carlisle Bay wreck dive for a two-tank day.
 
 ## Tips and Recommendations
 
-Dottin's Reef is an excellent orientation site for visitors to Barbados — the conditions are consistently calm, the depth is manageable, and the turtle encounters almost always happen. Early morning dives offer the best light and calmest sea surface. Ask the dive guide about individual turtle behaviour — experienced guides at some operators know the resident animals personally.
+Dottin's Reef is an excellent orientation site for visitors to Barbados — conditions are consistently calm and the turtle encounters are reliable. Early morning dives offer the best light. Ask the dive guide about current activity — barracuda congregation patterns vary. Dive Hightide and Barbados Blue both operate at this site regularly.
 
 ## Safety Considerations
 
-The site is forgiving and well-suited to beginners. DSMB recommended for the open-water ascent. Fire coral is present on some reef sections — maintain buoyancy. Boat traffic on the west coast is active.
+Forgiving and well-suited to beginners. DSMB recommended for the open-water ascent. Fire coral is present. Boat traffic on the west coast is active.
 
 ## Photography
 
-Dottin's Reef's clear water, shallow depth, and reliable turtle encounters make it one of Barbados's best natural-light photography sites. Turtle portraits in the 5–10 metre zone in morning light are the defining images. School-of-fish compositions and parrotfish grazing shots are also excellent subjects.
-
-## Additional Resources
-
-- Heatwave Water Sports and Barbados Blue: regularly operate Dottin's Reef as a standard west coast dive
-- Commonly paired with the Stavronikita for a two-tank morning
+Reliable turtle encounters in clear water at 5–10 metres make this one of Barbados's best natural-light photography sites. Barracuda formation shots and school-of-fish compositions over the reef also work well in morning conditions.
 
 ---
-*Sources: barbados.org - Shallow reef for beginners, south coast. Last updated 2026-03-28.*
+*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Barbados.org](https://barbados.org/divesite.htm). Last updated 2026-05-17.*

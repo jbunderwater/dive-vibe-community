@@ -61,4 +61,4 @@ Shark Wall is ideal for entry-level shark photography — multiple sharks, shall
 - Nassau day trips typically include Stuart Cove Wall and Shark Wall as a combined experience
 
 ---
-*Sources: [Bahamas Tourism - Diving](https://www.bahamas.com/plan-your-trip/diving), [Bluewater Dive Travel - Bahamas Diving](https://www.bluewaterdivetravel.com/destination/bahamas-diving), [Dive The World - Best Diving in the Bahamas](https://www.dive-the-world.com/posts/bahamas/best-diving-in-the-bahamas-top-7-sites.php), [DiveIn - Best Diving in the Bahamas](https://www.divein.com/diving/destination/bahamas/), [PADI - Diving in the Bahamas](https://www.padi.com/diving-in/bahamas/). Last updated 2026-04-04.*
+*Sources: [Stuart Cove's Dive Bahamas - Shark Diving](https://stuartcove.com/shark-diving/), [Scuba Diving Magazine - Stuart Cove's Bahamas](https://www.scubadiving.com/stuart-coves-dive-bahamas-0), [Bluewater Dive Travel - Stuart Cove's](https://www.bluewaterdivetravel.com/dive-operator/stuart-coves-habitat-bahamas), [PADI - Diving in Bahamas](https://www.padi.com/diving-in/bahamas/). Last updated 2026-05-17.*

@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Willaurie Wreck Nassau
 
-A passenger ferry deliberately sunk as an artificial reef off Nassau — an accessible, photogenic wreck covered in coral and sponges and home to large resident groupers.
+A 130-foot Bahamian mailboat that sank accidentally in 1988 and was resettled as an artificial reef off Nassau's southwest coast — an accessible wreck now colonised by sponges, corals, and large resident groupers.
 
 ## Overview
 
-The Willaurie was a Nassau-area passenger and cargo ferry that was sunk in the 1980s as an artificial reef off the southwest coast of New Providence Island. The vessel sits upright on the sandy bottom at 19 meters, making this an accessible and well-lit wreck dive compared to deeper Nassau wrecks. The Willaurie has been colonised over the decades by an excellent community of encrusting corals, sponges, and organisms, and the combination of accessible depth, clear Bahamian water, and productive marine life has made it one of the most popular Nassau wrecks for beginner and intermediate divers. Visibility is 20–30 meters. Water temperature 25–28°C.
+The Willaurie was a 130-foot (39.6 m) steel freighter built in the Netherlands in 1966, which served the Bahamas from 1980 as an inter-island mailboat — transporting mail and freight between Nassau and the outer islands of Rum Cay, San Salvador, and Cat Island. In 1988 the vessel sank while being towed in heavy seas near Clifton Pier on New Providence's western shore. Stuart Cove's Dive Bahamas subsequently patched the hull at low tide, partially refloated the wreck, and moved it to its current resting position on the southwest side of the island. The Willaurie now sits upright on the sandy bottom in 15–19 metres of water. Its most distinctive feature is the open cargo hold — the metal support bars of the original mail compartment now form an underwater cage that sponges and corals have colonised extensively. The site has been a popular Nassau wreck for over three decades. Visibility is 20–30 metres. Water temperature 25–28°C.
 
 ## Site Information
 
@@ -61,4 +61,4 @@ The accessible depth and clear water make the Willaurie an excellent introductio
 - Typically combined with other Nassau dives as part of a two-tank itinerary
 
 ---
-*Sources: [Bahamas Tourism - Diving](https://www.bahamas.com/plan-your-trip/diving), [Bluewater Dive Travel - Bahamas Diving](https://www.bluewaterdivetravel.com/destination/bahamas-diving), [Dive The World - Best Diving in the Bahamas](https://www.dive-the-world.com/posts/bahamas/best-diving-in-the-bahamas-top-7-sites.php), [DiveIn - Best Diving in the Bahamas](https://www.divein.com/diving/destination/bahamas/), [PADI - Diving in the Bahamas](https://www.padi.com/diving-in/bahamas/). Last updated 2026-04-04.*
+*Sources: [DreamWrecks - The Willaurie Bahamas](https://dreamwrecks.com/willaurie-mailboat-bahamas-shipwreck), [Wannadive - The Willaurie Wreck Nassau](https://www.wannadive.net/spot/Central_America/Bahamas/New_Providence_-_Nassau/The_Willaurie_Wreck/index.html), [Scuba Diver Life - Willaurie Nassau](https://scubadiverlife.com/willaurie-new-providence-nassau-bahamas/), [Ash Underwater - Diving Nassau Wrecks](https://www.ashunderwater.com/blog/diving-nassau-bahamas-wrecks-of-the-willaurie-and-anthony-bell/). Last updated 2026-05-17.*

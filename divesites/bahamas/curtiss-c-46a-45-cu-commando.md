@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Curtiss C-46A-45-CU Commando
 
-A remarkably intact twin-engine cargo aircraft resting on a sandy bottom at 20 meters in the Exuma Cays — one of the Bahamas' most unusual wreck dives.
+A remarkably intact twin-engine cargo aircraft resting in the shallows off Norman's Cay — one of the Bahamas' most unusual wreck dives, with a documented history connected to the island's notorious 1980s drug-trafficking era.
 
 ## Overview
 
-The Curtiss C-46 Commando (civil registration N355BY) crashed into the waters off the Exuma Cays on 15 November 1980 and came to rest on the sandy bottom at 20 meters. The twin-engine WWII-era cargo aircraft design was widely used postwar for Caribbean freight operations, and this particular aircraft sits remarkably intact — the fuselage, wings, and engine nacelles are all identifiable despite four decades of coral and sponge colonisation. The Bahamas' clear water and sandy environment have preserved the structure well. The Exumas' crystalline water delivers excellent visibility of 25–35 meters. Water temperature is 25–28°C seasonally.
+The Curtiss C-46A Commando (civil registration N355BY) crashed into the shallow waters off Norman's Cay on 15 November 1980 and came to rest on the sandy bottom. The accident occurred during touch-and-go training: the aircraft touched down short, the pilot attempted a go-around, clipped an earthen berm tearing the left landing gear loose, and the aircraft came down in the sea just off the runway. There were no fatalities. Norman's Cay was, between approximately 1978 and 1982, the base of operations for Carlos Lehder's cocaine trafficking network — the wreck is therefore historically associated with that period, though the accident itself was attributed to pilot error rather than any criminal activity. The twin-engine C-46 Commando design dates to the 1940s and was widely used postwar for Caribbean freight operations. The wreck sits remarkably intact — the fuselage, wings, and engine nacelles are all identifiable despite four decades of coral and sponge colonisation. Norman's Cay's crystalline water delivers excellent visibility. Water temperature is 25–28°C seasonally.
 
 ## Site Information
 
@@ -41,7 +41,7 @@ Descent to the aircraft top at 15 meters, with exploration of the full structure
 
 ## Entry and Exit
 
-Boat dive accessed via Exuma-based operators or liveaboard. The Exuma Cays are remote — this site requires either an overnight stay in the Exumas or a liveaboard. Entry by giant stride. The sandy surroundings mean easy navigation for exit. DSMB recommended.
+Boat dive accessed via Norman's Cay or Exuma-based operators, or liveaboard. Norman's Cay is remote — this site requires either an overnight stay or a liveaboard. Entry by giant stride. The sandy surroundings mean easy navigation for exit. DSMB recommended.
 
 ## Tips and Recommendations
 
@@ -57,8 +57,8 @@ An aircraft wreck in crystal-clear Bahamas water is an exceptional photography s
 
 ## Additional Resources
 
-- Exuma dive operators: based at Staniel Cay and George Town for access to this site
-- Bahamas liveaboard vessels frequently include this wreck in Exuma Cays itineraries
+- Norman's Cay and Exuma liveaboard operators provide access to this site
+- Bahamas liveaboard vessels frequently include Norman's Cay in Exuma Cays itineraries
 
 ---
-*Sources: [Bahamas Tourism - Diving](https://www.bahamas.com/plan-your-trip/diving), [Bluewater Dive Travel - Bahamas Diving](https://www.bluewaterdivetravel.com/destination/bahamas-diving), [Dive The World - Best Diving in the Bahamas](https://www.dive-the-world.com/posts/bahamas/best-diving-in-the-bahamas-top-7-sites.php), [DiveIn - Best Diving in the Bahamas](https://www.divein.com/diving/destination/bahamas/), [PADI - Diving in the Bahamas](https://www.padi.com/diving-in/bahamas/). Last updated 2026-04-04.*
+*Sources: [Bureau of Aircraft Accidents Archives - Norman's Cay crash](https://www.baaa-acro.com/crash/crash-curtiss-c-46a-45-cu-commando-normans-cay), [Aviation Safety Network - N355BY accident record](https://aviation-safety.net/wikibase/328206), [Bahamas Air Tours - Norman's Cay Plane Wreck](https://www.bahamasairtours.com/normans-cay/), [Wikipedia - List of C-46 accidents](https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_the_Curtiss_C-46_Commando). Last updated 2026-05-17.*

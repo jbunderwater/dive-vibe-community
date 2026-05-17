@@ -33,7 +33,7 @@ Shark Arena is one of Nassau's signature dive experiences, operated by Stuart Co
 
 ## Marine Life
 
-Caribbean reef sharks (Carcharhinus perezi) are the primary attraction — typically 8–15 individuals are present during dives at this site, ranging from juveniles to large adults over 2 metres. Nurse sharks rest on the sandy areas around the reef. Lemon sharks occasionally appear. The reef itself carries a healthy fish community including French angelfish, parrotfish, and blue tang. Southern stingrays are common on the surrounding sandy areas.
+Caribbean reef sharks (Carcharhinus perezi) are the primary attraction — Stuart Cove's describes them as "5–6 foot" individuals that approach divers within touching distance during the feeding dives, with dozens present per session. Nurse sharks rest on the sandy areas around the reef. The reef itself carries a healthy fish community including French angelfish, parrotfish, and blue tang. Southern stingrays are common on the surrounding sandy areas.
 
 ## Dive Profile
 
@@ -61,4 +61,4 @@ Shark Arena is one of the most photographically accessible shark dives in the wo
 - Typically offered as part of a two-tank trip combining Shark Arena with Stuart Cove Wall
 
 ---
-*Sources: [Bahamas Tourism - Diving](https://www.bahamas.com/plan-your-trip/diving), [Bluewater Dive Travel - Bahamas Diving](https://www.bluewaterdivetravel.com/destination/bahamas-diving), [Dive The World - Best Diving in the Bahamas](https://www.dive-the-world.com/posts/bahamas/best-diving-in-the-bahamas-top-7-sites.php), [DiveIn - Best Diving in the Bahamas](https://www.divein.com/diving/destination/bahamas/), [PADI - Diving in the Bahamas](https://www.padi.com/diving-in/bahamas/). Last updated 2026-04-04.*
+*Sources: [Stuart Cove's Dive Bahamas - Shark Adventure](https://stuartcove.com/shark-diving/shark-adventure/), [Stuart Cove's Dive Bahamas - Sharks](https://stuartcove.com/underwater-hollywood/sharks/), [Scuba Diving Magazine - Stuart Cove's Bahamas](https://www.scubadiving.com/stuart-coves-dive-bahamas-0), [Bahamas Tour Center - Stuart Cove Shark Adventure](https://www.bahamastourcenter.com/stuart-cove-shark-adventure-dive/). Last updated 2026-05-17.*

@@ -13,11 +13,11 @@ addedBy: osm_import
 
 # Friars Craig Wreck
 
-A well-established intermediate wreck off Barbados's southwest coast — a cargo vessel lying at 17 metres with extensive encrustation, rich fish community, and the classic character of a Barbadian artificial reef wreck that has matured over decades.
+A 170-foot (52-metre) Dutch-built inter-island freighter scuttled on 2 July 1985 off Barbados's south coast — broken into three sections by south coast swells and lying at 14–17 metres, with breeding French angelfish pairs, stingrays, and rich sponge and coral encrustation.
 
 ## Overview
 
-The Friars Craig is a cargo vessel that was sunk off Barbados's southwest coast as an artificial reef and now lies at 17 metres in the calm Caribbean waters. The vessel has been underwater long enough to develop substantial encrustation — sponges, corals, and encrusting organisms cover the hull surfaces — and the structure supports a mature and diverse fish community. The site is accessible to intermediate divers and is regularly included on boat-based dive itineraries covering the southwest coast wreck sites. Visibility averages 20–25 metres in the area. Water temperature is 26–28°C.
+The Friars Craig is a Dutch-built inter-island freighter and the sister ship of the Pamir (see separate entry). She was scuttled on 2 July 1985 off Barbados's south coast near the Asta Hotel in Christ Church parish, after spending a decade moored in Carlisle Bay. At 170 feet (approximately 52 metres), she is significantly larger than most other Barbados wrecks outside the Stavronikita. South coast ocean swells have over time fractured the hull into three pieces, which lie at 14–17 metres (45–55 feet). A combined wreck and reef dive is possible, as a productive reef is located immediately adjacent to the wreck site. Caribbean Beat magazine described her as one of Barbados's most richly encrusted wrecks. Visibility averages 15–25 metres. Water temperature is 26–28°C.
 
 ## Site Information
 
@@ -27,38 +27,33 @@ The Friars Craig is a cargo vessel that was sunk off Barbados's southwest coast 
 | Difficulty | Intermediate |
 | Entry Type | Boat |
 | Site Type | Wreck |
-| Visibility | 20–25 m |
+| Visibility | 15–25 m |
 | Current | Light |
 | Water Temp | 26–28°C |
 
 ## Marine Life
 
-The Friars Craig's mature community includes large groupers occupying the hold and deeper hull sections. Schools of yellowtail snappers and French grunts fill the deck spaces. Green and spotted morays occupy crevices throughout the hull structure. Hawksbill turtles visit the wreck. The encrusted surfaces carry sponge growth at all depth levels. Caribbean spiny lobster are found under hull overhangs at the base.
+The Friars Craig has developed a rich community across its three hull sections. Sergeant majors, trumpetfish, chromis, and Spanish hogfish inhabit the superstructure. A breeding pair of French angelfish has established at the wreck — a consistent and noteworthy sighting. Stingrays rest on the sandy bottom between hull sections. Anemones, feather dusters, and coral shrimp colonise the encrusted surfaces. Large groupers occupy the deeper hold sections. Hawksbill turtles visit the wreck and adjacent reef. Lobsters shelter under hull overhangs.
 
 ## Dive Profile
 
-Descent to the wreck top at 8–10 metres and explore the deck structure before descending to the base at 17 metres. Bow-to-stern exploration followed by a hull circumnavigation covers the site efficiently. Safety stop at the upper deck level. Total dive time 45–55 minutes.
+Descent to the largest hull section at 8–10 metres and exploration across all three sections, descending to the base at 17 metres. The fragmented hull creates interesting penetration-free exploration through the sections. The adjacent reef extends the dive after the wreck circuit. Safety stop at the upper hull. Total dive time typically 45–55 minutes.
 
 ## Entry and Exit
 
-Boat dive from southwest Barbados operators. Giant stride or backward roll entry. DSMB required. Often combined with the Stavronikita for a two-tank wreck day.
+Boat dive from south coast Barbados operators. Often combined with a reef site in the area for a two-tank day.
 
 ## Tips and Recommendations
 
-The Friars Craig is an excellent intermediate wreck site for divers looking to step beyond the Carlisle Bay beginner wrecks. Carry a torch for the interior sections and the deeper hull overhangs. Combine with the Stavronikita as a two-tank wreck diving day to experience the full range of Barbados's artificial reef character.
+The three-section hull fragmentation creates natural swim-throughs without requiring wreck penetration training — work between the sections at all depth levels. The breeding French angelfish pair is a reliable and photogenic subject. The adjacent reef is worth exploring after the wreck circuit — it adds significant marine life to the dive. Combine with the Stavronikita (north of Bridgetown) for a full Barbados wreck experience on a two-tank day.
 
 ## Safety Considerations
 
-Do not penetrate enclosed sections without wreck training. DSMB required. Monitor air consumption in the interesting terrain. Fire coral may be present on some hull sections.
+Do not penetrate enclosed hull spaces without wreck training. Monitor conditions on the south coast — ocean swells can periodically affect visibility. DSMB required. Fire coral may be present on some hull sections.
 
 ## Photography
 
-The Friars Craig's mature encrustation and rich fish community offer strong wreck photography subjects. Hull close-ups with sponge growth, moray portraits, grouper encounters in the hold section, and school-of-fish compositions are the main subjects. Natural light is adequate on the deck sections.
-
-## Additional Resources
-
-- Heatwave Water Sports and Coral Isle Divers (Barbados): include the Friars Craig on southwest wreck itineraries
-- Best combined with the Stavronikita for a two-tank Barbados wreck diving day
+The encrusted three-piece hull sections, breeding French angelfish pair, and the transition from wreck to reef at the site boundary offer varied photographic subjects. Natural light is adequate for the shallower deck sections.
 
 ---
-*Sources: padi.com, adventuredives.com - 100ft Dutch freighter (1984), 55ft depth, broken in 3 pieces. Last updated 2026-03-28.*
+*Sources: [Caribbean Beat](https://www.caribbean-beat.com/issue-44/shipwrecks-ahoy), [Dive Hightide](https://www.divehightide.com/dive-sites/), [Caribbean Warehouse](https://caribbeanwarehouse.co.uk/blog/2022/11/shipwrecks-sites-in-barbados/), [NUMA](https://numa.net/2015/05/shipwrecks-of-barbados/). Last updated 2026-05-17.*

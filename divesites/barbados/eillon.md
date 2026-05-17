@@ -13,17 +13,17 @@ addedBy: osm_import
 
 # Eillon
 
-A mid-depth boat-accessible wreck in Carlisle Bay — lying slightly deeper than the standard shore-dived cluster, the Eillon adds a more substantial wreck diving experience to the bay's exceptional range of accessible artificial reefs.
+A 110-foot (33-metre) former drug-smuggling vessel seized by the Barbados Coast Guard and deliberately sunk on 8 June 1996 — the deepest of Carlisle Bay's regularly dived wrecks, with a penetrable engine room, spiral staircase, and an accessible air pocket in the bow.
 
 ## Overview
 
-The Eillon is a vessel lying at 17 metres in Carlisle Bay off Barbados's west coast, positioned slightly further offshore than the shallower shore-accessible wrecks and typically visited by dive boat rather than as a shore dive. The additional depth compared to the Berwyn and Eilon allows more substantial coral and sponge colonisation — the hull surfaces carry a richer encrustation and the fish community is correspondingly more diverse. The vessel sits upright on a sandy bottom and offers accessible exterior exploration and some partially open interior sections. Visibility averages 15–25 metres. Water temperature is 26–28°C.
+The Eillon was a Colombian freighter caught carrying contraband into Barbadian waters. Seized by the Barbados Coast Guard, she was held at the Bridgetown Careenage for several years before being scuttled in Carlisle Bay Marine Park on 8 June 1996. The 110-foot vessel rests at a maximum depth of 17 metres (55 feet) and is one of the more structurally intact and complex wrecks in the bay. The engine room and a spiral staircase are among the features that draw divers ready to move beyond the shallowest bay wrecks. The bow section contains an air pocket accessible at approximately 8 metres. The site is typically accessed by boat rather than as a shore dive due to its slightly offshore position. Visibility averages 15–25 metres. Water temperature is 26–28°C.
 
 ## Site Information
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 8–17 m |
+| Depth Range | 5–17 m |
 | Difficulty | Beginner |
 | Entry Type | Boat |
 | Site Type | Wreck |
@@ -33,11 +33,11 @@ The Eillon is a vessel lying at 17 metres in Carlisle Bay off Barbados's west co
 
 ## Marine Life
 
-The Eillon's 17-metre depth gives it a richer encrustation than the very shallow Carlisle Bay wrecks. Large schools of glassy sweepers fill the partially enclosed sections. Spotted moray eels and green morays occupy crevices throughout the hull. Hawksbill turtles visit the wreck — Carlisle Bay's turtle population is resident and reliable. Southern stingrays rest on the sandy floor. The exterior hull carries sponge growth and encrusting corals in the 10–17 metre zone.
+The Eillon supports a diverse community. Large schools of glassy sweepers fill partially enclosed sections. Spotted moray eels and green morays occupy crevices throughout the hull. Hawksbill turtles visit the wreck — Carlisle Bay's resident turtle population is reliable and visits all the bay wrecks. Southern stingrays rest on the sandy floor around the wreck. The exterior hull carries substantial sponge growth and encrusting corals.
 
 ## Dive Profile
 
-Descent via dive boat mooring or line to the wreck deck at 8–10 metres. Explore the deck and superstructure before descending to the sandy base at 17 metres. The wreck's full length can be covered in a relaxed bow-to-stern circuit. Safety stop at the deck level before ascending to the boat.
+Descent via dive boat mooring line to the wreck deck. Explore the superstructure before descending to the sandy base at 17 metres. The engine room and spiral staircase reward careful exploration. The bow air pocket at approximately 8 metres is accessible with care. The wreck's full length can be covered in a relaxed circuit. Safety stop at deck level before ascending to the boat.
 
 ## Entry and Exit
 
@@ -45,20 +45,15 @@ Boat dive from Carlisle Bay operators. Giant stride or backward roll entry. DSMB
 
 ## Tips and Recommendations
 
-The Eillon's 17-metre depth makes it a natural second dive after the shallower Berwyn or Carlisle Bay Eilon wrecks, adding depth variety to a multi-wreck Carlisle Bay day. The boat approach gives access to the mooring line for a controlled descent. Carry a torch for the more sheltered interior sections.
+The Eillon's engine room and spiral staircase are the architectural highlights — carry a torch and take your time. The bow air pocket is a novel feature, but enter carefully and ensure you have an easy exit route. Best combined with the Berwyn and Ce-Trek for a comprehensive Carlisle Bay wreck day.
 
 ## Safety Considerations
 
-Standard wreck diving precautions apply. Do not penetrate enclosed sections without wreck training. DSMB required. Fire coral is present on some hull sections.
+Do not penetrate enclosed sections without wreck training. The air pocket in the bow is accessible but ensure a clear exit before entering. DSMB required. Fire coral is present.
 
 ## Photography
 
-At 17 metres in Carlisle Bay's clear water, the Eillon offers good natural light for hull and deck photography in morning conditions. The moray residents, school-of-fish compositions, and turtle encounters over the wreck are the main subjects.
-
-## Additional Resources
-
-- Barbados Blue and Heatwave Water Sports: boat access to the Eillon as part of Carlisle Bay wreck packages
-- Best combined with the shallower bay wrecks for a full Carlisle Bay wreck diving day
+At 17 metres in Carlisle Bay's clear water, the Eillon offers good natural light for deck and hull photography. Moray portraits, school-of-sweepers compositions, and the structural details of the engine room are the main subjects.
 
 ---
-*Sources: caribbeanwarehouse.co.uk, diveoclock.com - 110ft drug boat sunk June 8 1996, 55ft depth (17m), air pocket in bow for penetration. Last updated 2026-03-28.*
+*Sources: [Barbados Snorkeling Tours](https://barbadossnorkelingtours.org/shipwreck-exploration-guide/), [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Caribbean Warehouse](https://caribbeanwarehouse.co.uk/blog/2022/11/shipwrecks-sites-in-barbados/). Last updated 2026-05-17.*

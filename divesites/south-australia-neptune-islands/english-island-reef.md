@@ -13,17 +13,19 @@ addedBy: osm_import
 
 ## English Island Reef
 
-Intermediate cold-water reef dive site with rocky structures, kelp forests, and abundant small marine life.
+Rocky reef and kelp forest dive site in the central Neptune Islands.
+
+> **QA Note (2026-05-17):** No independent source confirms "English Island Reef" as a named dive site. The Neptune Islands are built from porphyritic granite gneiss and pink granite (per Wikipedia), consistent with rocky reef habitat. General Neptune Islands conditions are used as a baseline below. Confirm this site with your operator before diving.
 
 ## Overview
 
-English Island Reef is an intermediate-level reef dive site near English Island in the central Neptune Islands. The site features rocky reef structures, kelp forests, and a diverse array of cold-water invertebrates and small fish species. This site is suitable for intermediate divers with some cold-water experience seeking recreational kelp forest diving away from cage diving operations.
+English Island Reef is a rocky reef dive site near English Island in the Neptune Islands group. The area's granite rock formations support kelp forest habitats typical of temperate southern Australia's Great Southern Reef. No source provides site-specific dive conditions, depths, or marine life for this named location.
 
 ## Site Information
 
 - **Location**: Near English Island, central Neptune Islands, 40 nautical miles south of Port Lincoln, South Australia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Depth**: 8-18 meters (26-60 feet)
 - **Typical Visibility**: 15-20 meters (50-65 feet)
@@ -33,7 +35,7 @@ English Island Reef is an intermediate-level reef dive site near English Island 
 
 ## Marine Life
 
-Cold-water reef fish (bream, trevally, wrasse), cuttlefish, sea urchins, crustaceans, giant crabs, kelp forest invertebrates, occasional seals during breeding season (April-August), sea urchins, zoanthids.
+No site-specific marine life sources found for this location. Regional fauna of the Neptune Islands temperate rocky reef habitat includes sea urchins, kelp forest invertebrates, and the possibility of Australian sea lions or fur seals passing through. Zoanthids are not confirmed at this site. Species specifics require operator confirmation.
 
 ## Dive Profile
 
@@ -59,4 +61,4 @@ PADI Open Water certification or equivalent required. Giant stride or back roll 
 Cold-water reef diving requires proper thermal protection and buddy awareness. Kelp entanglement risk demands careful navigation and controlled movements. Rocky substrate presents abrasion hazard; maintain excellent buoyancy control. Standard open water diving protocols apply: monitor air consumption, equalization, and safety stop compliance. Always dive with a buddy in cold water. Verify current site conditions with local operators before diving. Be aware that water temperature 14-22°C requires extended thermal protection and energy management.
 
 ---
-*Sources: [Rodney Fox Shark Expeditions - Neptune Islands](https://rodneyfox.com.au/great-white-shark-central/the-neptune-islands/), [Scuba Diving Magazine - Cage Diving Neptune Islands](https://www.scubadiving.com/cage-diving-with-great-white-sharks-in-neptune-islands-australia), [DAN Alert Diver - South Australia Great White Sharks](https://dan.org/alert-diver/article/south-australias-great-white-shark-adventure/), [SA Marine Parks Neptune Islands Group](https://www.marineparks.sa.gov.au/find-a-park/eyre-peninsula/neptune-islands), [Dive Worldwide South Australia](https://www.diveworldwide.com/locations/south-australia). Last updated 2026-04-04.*
+*No site-specific sources found for English Island Reef. Regional Neptune Islands geology from [Neptune Islands – Wikipedia](https://en.wikipedia.org/wiki/Neptune_Islands). General Neptune Islands conditions from [Marine Parks SA](https://www.marineparks.sa.gov.au/find-a-park/eyre-peninsula/neptune-islands). Last updated 2026-05-17.*

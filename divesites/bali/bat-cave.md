@@ -3,7 +3,7 @@ name: Bat Cave
 lat: -8.093384
 lng: 114.5289757
 difficulty: Intermediate
-maxDepth: 20
+maxDepth: 40
 entryType: boat
 siteType: cave
 ref: null
@@ -25,7 +25,7 @@ Bat Cave Point sits on the eastern wall of Menjangan Island, inside West Bali Na
 - **Entry Type**: Boat dive
 - **Site Type**: Cave/cavern
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 20 meters
+- **Maximum Depth**: 40 meters
 - **Typical Visibility**: 15–30 m
 - **Current**: Moderate to strong; head-on current from the east
 - **Best Time**: April to November (dry season, best visibility)
@@ -59,4 +59,4 @@ Currents can be strong and unpredictable, particularly on incoming tides. Do not
 The cave entrances provide dramatic silhouette shots with ambient light streaming from above. Wide-angle lenses suit the wall sections with large gorgonians, while macro photographers will find electric clams, nudibranchs, and pygmy seahorses inside the cave crevasses. Morning dives produce the best water column colour.
 
 ---
-*Sources: [Aquamarine Diving - Bali Dive Sites](https://www.aquamarinediving.com/bali-diving/dive-sites/), [Dive The World - Bali Indonesia](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [Bluewater Dive Travel - Bali Diving](https://www.bluewaterdivetravel.com/destination/bali-diving), [World Adventure Divers - Best Dive Sites Bali](https://worldadventuredivers.com/best-dive-sites-bali/), [Neptune Scuba Diving - Scuba Diving Bali](https://neptunescubadiving.com/scuba-diving-bali/), [Dive The World - Bali](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [PADI - Diving in Bali](https://www.padi.com/diving-in/bali/). Last updated 2026-04-04.*
+*Sources: [Dive Concepts - Bat Cave Menjangan](https://diveconcepts.com/bali/spot-bat-cave.php), [Geko Dive Bali - Menjangan](https://gekodivebali.com/en/bali-dive-sites/menjangan), [Bali Fun Diving - Menjangan](https://www.balifundiving.com/bali-diving-site/menjangan-island/), [PADI - Menjangan Island](https://www.padi.com/diving-in/indonesia/menjangan-island/). Last updated 2026-05-17.*

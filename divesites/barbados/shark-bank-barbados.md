@@ -13,52 +13,47 @@ addedBy: osm_import
 
 # Shark Bank Barbados
 
-Barbados's premier advanced pelagic dive — an offshore rocky reef pinnacle at 30–43 metres off the west coast where Caribbean reef sharks, schooling pelagics, and large open-ocean species congregate in numbers rarely matched at inshore Barbadian sites.
+Barbados's deepest accessible reef and the island's closest equivalent to a wall dive — an offshore coral bank at 60–145 feet (18–44 metres) with strong currents, dense gorgonian growth, and the island's best opportunity for open-ocean pelagic encounters.
 
 ## Overview
 
-Shark Bank is an offshore submerged reef system lying approximately 3 kilometres off Barbados's west coast in 30–43 metres of water. The bank rises from the surrounding seabed to form a rocky reef structure that concentrates marine life in open-ocean water. The site is Barbados's best opportunity for Caribbean reef shark encounters and draws schooling pelagics and large open-ocean species that are not seen at the island's shallower inshore sites. The offshore position brings clearer, blue water with exceptional visibility that frequently exceeds 30 metres. Water temperature is 26–28°C. This is an advanced site requiring comfort with depth, open-water conditions, and the experience to manage encounters with large marine life.
+Shark Bank is an offshore submerged coral bank lying in 18–44 metres of water off Barbados's west coast. Dive Hightide describes it as "the closest we have to a coral wall" for Barbados, which is a coral island rather than volcanic, and notes reef depths of 60–145 feet with typical dive depths of 80–90 feet. The Villa Sunnyside Barbados dive guide confirms the 135–145 foot (41–44 metre) seabed depth. The bank rises from the surrounding floor to form a concentrated reef structure that draws both resident reef fish and open-ocean species. The exposed offshore position brings clearer, blue water with enhanced visibility. Currents can be strong and variable. This is an advanced site for divers comfortable with depth, open-water conditions, and unpredictable current.
 
 ## Site Information
 
 | Detail | Value |
 |--------|-------|
-| Depth Range | 20–43 m |
+| Depth Range | 18–44 m |
 | Difficulty | Advanced |
 | Entry Type | Boat |
 | Site Type | Reef |
 | Visibility | 25–35 m |
-| Current | Light to moderate |
+| Current | Light to strong (variable) |
 | Water Temp | 26–28°C |
 
 ## Marine Life
 
-Caribbean reef sharks are the signature species at Shark Bank — multiple individuals patrol the reef and open water, and the encounter rate is among the highest in Barbados. Large schools of horse-eye jacks and bar jacks sweep through the site. Spotted eagle rays and southern stingrays cruise the sandy sections at the base of the bank. Large Atlantic spadefish congregate in the water column above the reef. Barracuda lurk throughout. The rocky reef surface carries sponge encrustation, black coral at depth, and sea fans that increase in size with depth.
+Shark Bank draws the largest aggregations of open-ocean pelagic species available in Barbados. Large schools of horse-eye jacks and bar jacks sweep through the site in the current lanes. Barracuda are consistently present. Spotted eagle rays pass at the reef edge. The deep reef sections carry large barrel sponges, gorgonians, and sea fans. Note: while the site is named "Shark Bank," the Barbados.org shark resource notes that sharks are not commonly encountered in Barbados coastal waters overall; any shark sightings here should be treated as exceptional rather than guaranteed.
 
 ## Dive Profile
 
-Descent to the top of the bank structure at approximately 20 metres, then work the deeper sections to 30–35 metres maximum for the shark and pelagic activity. Bottom time at depth is limited by NDL constraints — plan carefully and ascend to the shallower sections of the bank for the remainder of the dive. Deploy DSMB for the open-water ascent.
+Descent to the shallower bank sections at approximately 18–20 metres, then work the deeper sections to 30–35 metres maximum within NDL limits. Plan descent early to maximise bottom time at the deeper sections where pelagic activity is greatest. Deploy DSMB for the open-water ascent. Live-boat pickup may be standard depending on operator and conditions.
 
 ## Entry and Exit
 
-Boat dive from west coast Barbados operators — the offshore position requires a 15–25 minute boat run. Entry by backward roll. DSMB required for open-water ascent; live-boat pickup may be standard depending on conditions.
+Boat dive from west coast Barbados operators — the offshore position requires a 15–25 minute boat run. Entry by backward roll. DSMB required for all open-water ascents.
 
 ## Tips and Recommendations
 
-Shark Bank is best dived early morning in calm conditions when the crossing is most comfortable and the sharks are most active. The site demands advanced diver experience — particularly comfort with open-water ascents and depth management at 30+ metres. Plan the deepest section first and ascend conservatively. The shark activity varies by season — check with operators for current encounter rates.
+Best dived early morning in calm conditions when the crossing is most comfortable. This site demands advanced diver experience, particularly comfort with open-water ascents and depth management at 30+ metres. Always confirm current state with operators before committing to the site. The deepest sections (40+ metres) exceed standard recreational limits for most certifications.
 
 ## Safety Considerations
 
-Maximum depth of 43 metres exceeds recreational dive limits for most standard certifications — 30 metres is the practical recreational maximum for this site. Do not exceed planned depth. DSMB required for all ascents in open water. The offshore position means incident response is more complex than at inshore sites. Minimum Advanced Open Water certification recommended.
+Maximum depth of 43–44 metres exceeds recreational limits for most standard certifications — 30 metres is the practical recreational maximum for most divers. Do not exceed planned depth. DSMB required for all ascents in open water. The offshore position makes incident response more complex than at inshore sites. Strong currents require drift diving experience. Minimum Advanced Open Water certification recommended.
 
 ## Photography
 
-Shark Bank is Barbados's best wide-angle pelagic photography site. Caribbean reef shark portraits, schooling jack formations against open-ocean blue water, and eagle ray passes are the defining images. The exceptional offshore clarity delivers colour and sharpness unavailable at the more turbid inshore sites.
-
-## Additional Resources
-
-- Heatwave Water Sports: regularly operates Shark Bank trips for advanced divers
-- Coral Isle Divers (Barbados): offers Shark Bank on request for groups of advanced divers
+Shark Bank offers open-ocean pelagic photography unavailable at Barbados's shallower inshore sites. Schooling jack formations against open-water blue, eagle ray encounters, and deep-reef barrel sponge compositions are the primary subjects. The exceptional offshore clarity improves colour reproduction at depth.
 
 ---
-*Sources: villasunnysidebarbados.com - Deep coral reef, 135-145ft depth (41-44m), strong currents, offshore pelagic encounters. Last updated 2026-03-28.*
+*Sources: [Dive Hightide](https://www.divehightide.com/dive-sites/), [Barbados Blue](https://www.divebarbadosblue.com/about-us/dive-sites/), [Villa Sunnyside Barbados](https://villasunnysidebarbados.com/scuba-diving-in-barbados/). Last updated 2026-05-17.*

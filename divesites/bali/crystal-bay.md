@@ -23,7 +23,7 @@ Crystal Bay is Bali's premier site for encountering the ocean sunfish (mola mola
 
 - **Location**: Northwest Nusa Penida, Bali, Indonesia
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Advanced
 - **Maximum Depth**: 40 meters
 - **Typical Visibility**: 15–30 meters (can drop to 5 m in algae blooms)
@@ -59,4 +59,4 @@ Downwellings at Crystal Bay can pull divers deep rapidly — this is a documente
 The mola mola is one of diving's most iconic and difficult photographic subjects. Use a wide-angle lens and approach slowly from below or to the side — never block the sunfish's path to the surface. Ambient light is usually sufficient at cleaning station depths. The reef boulders and sea fans provide dramatic backdrops for wide-angle reef shots. A macro lens is productive for nudibranchs and pygmy seahorses on the shallower sections.
 
 ---
-*Sources: [Aquamarine Diving - Bali Dive Sites](https://www.aquamarinediving.com/bali-diving/dive-sites/), [Dive The World - Bali Indonesia](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [Bluewater Dive Travel - Bali Diving](https://www.bluewaterdivetravel.com/destination/bali-diving), [World Adventure Divers - Best Dive Sites Bali](https://worldadventuredivers.com/best-dive-sites-bali/), [Neptune Scuba Diving - Scuba Diving Bali](https://neptunescubadiving.com/scuba-diving-bali/), [Dive The World - Bali](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [PADI - Diving in Bali](https://www.padi.com/diving-in/bali/). Last updated 2026-04-04.*
+*Sources: [Nusa Penida.org - Diving Crystal Bay](https://nusapenida.org/bali-nusa-penida-diving-guide/20-best-dive-sites-bali-nusa-penida/diving-crystal-bay-nusa-penida/), [ScubaBoard - Crystal Bay Safety](https://scubaboard.com/community/threads/lets-be-careful-down-there-excellent-article-on-crystal-bay-nusa-penida-bali.465688/), [Scuba Diver Life - Crystal Bay](https://scubadiverlife.com/dive-site-crystal-bay-nusa-penida-bali-indonesia/), [Purple Dive Penida - Crystal Bay](https://www.purpledivepenida.com/post/crystal-bay-nusa-penida-dive-guide). Last updated 2026-05-17.*

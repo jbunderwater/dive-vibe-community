@@ -23,7 +23,7 @@ Water Walk is a reef dive site in south Bali near Sanur, positioned in the shelt
 
 - **Location**: South Bali, Sanur area
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 20 meters
 - **Typical Visibility**: 10–18 m
@@ -59,4 +59,4 @@ Be aware of boat traffic in the Sanur channel — deploy SMB before surfacing. S
 Cuttlefish portrait shots are accessible here — their colour-changing skin makes for compelling close-up images. Sea snakes create interesting mid-water compositions. Wide-angle with a diver in the frame shows the classic Bali reef character.
 
 ---
-*Sources: [Aquamarine Diving - Bali Dive Sites](https://www.aquamarinediving.com/bali-diving/dive-sites/), [Dive The World - Bali Indonesia](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [Bluewater Dive Travel - Bali Diving](https://www.bluewaterdivetravel.com/destination/bali-diving), [World Adventure Divers - Best Dive Sites Bali](https://worldadventuredivers.com/best-dive-sites-bali/), [Neptune Scuba Diving - Scuba Diving Bali](https://neptunescubadiving.com/scuba-diving-bali/), [Dive The World - Bali](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [PADI - Diving in Bali](https://www.padi.com/diving-in/bali/). Last updated 2026-04-04.*
+*Description based on regional diving characteristics of the south Bali/Nusa Penida area. Note: "Water Walk" at Sanur is primarily known as a seawalker (helmet diving) activity rather than a conventional scuba dive site. Coordinates place this entry near Nusa Penida. No site-specific scuba diving sources found for a site named "Water Walk." Last updated 2026-05-17.*

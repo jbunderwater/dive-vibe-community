@@ -3,7 +3,7 @@ name: Emerald
 lat: -8.2837348
 lng: 115.6028731
 difficulty: Intermediate
-maxDepth: 25
+maxDepth: 30
 entryType: boat
 siteType: reef
 ref: null
@@ -13,26 +13,26 @@ addedBy: osm_import
 
 ## Emerald
 
-A scenic reef dive in the Tulamben area with healthy hard corals and a diverse mix of reef fish suited to intermediate divers.
+A sloping reef and drift site southeast of Tulamben Bay — accessible only by boat, with large gorgonian sea fans, pygmy seahorses, garden eels, and a submerged chair and table serving as additional artificial reef.
 
 ## Overview
 
-Emerald is a reef site in the Tulamben area of northeast Bali, named for the striking green hue of its shallow coral formations in good light. The site features sloping reef with a mix of hard coral tables, soft corals, and gorgonian fans from 5–25 m, with a character that complements the more famous USAT Liberty wreck nearby. Fish life is varied and abundant, with the reef providing a classic tropical reef experience distinct from the black sand muck sites that also characterise the region. The site is well-suited to intermediate divers looking for a relaxed, scenic dive between more technically demanding sites.
+Emerald (also called Batu Emerald) is a reef site located southeast of Tulamben Bay, past Batu Kelebit along the northeast Bali coastline, accessible by a short ~5-minute jukung boat ride from Tulamben. The site begins in a shallow sandy bay with scattered reef before transitioning to a sloping reef richer in hard corals, large barrel sponges, and gorgonian fans from approximately 12–30 metres. A submerged chair and table have been placed along the sandy slope as an additional artificial reef. Mild to moderate currents can create pleasant drift conditions on the right days. Due to its depth and drift potential, it is better suited to certified divers.
 
 ## Site Information
 
-- **Location**: Tulamben area, northeast Bali
+- **Location**: Southeast of Tulamben Bay, northeast Bali
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 30 meters
 - **Typical Visibility**: 15–25 m
-- **Current**: Generally mild to moderate
+- **Current**: Mild to moderate; drift possible
 - **Best Time**: April to November
 
 ## Marine Life
 
-Parrotfish, surgeonfish, triggerfish, and butterflyfish are abundant throughout the reef. Hawksbill turtles feed on sponges along the deeper reef sections. Moray eels inhabit coral crevices, and lionfish rest in overhangs. Small whitetip reef sharks have been reported on the deeper sections. Nudibranchs and cleaner shrimps are found in the rubble zones.
+Confirmed at this site: garden eels in sandy areas, sweetlips, angelfish, bannerfish, turtles, groupers, cuttlefish, octopus, trevally, and bumphead parrotfish. Gorgonian sea fans at depth host pygmy seahorses — up to 10 per fan have been found. Reef sharks are occasionally seen at the 20–30 metre level. The submerged furniture on the sandy slope has become colonised and functions as a critter habitat.
 
 ## Dive Profile
 
@@ -59,4 +59,4 @@ Currents are generally mild but can pick up in the afternoon. Lionfish in overha
 Good natural light in the shallows suits wide-angle reef shots and fish portraits. Turtles on the reef provide accessible wide-angle subjects. The fish diversity makes for productive "reef scene" photography. Macro shooters will find nudibranchs and cleaner shrimps in the rubble zones.
 
 ---
-*Sources: [Aquamarine Diving - Bali Dive Sites](https://www.aquamarinediving.com/bali-diving/dive-sites/), [Dive The World - Bali Indonesia](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [Bluewater Dive Travel - Bali Diving](https://www.bluewaterdivetravel.com/destination/bali-diving), [World Adventure Divers - Best Dive Sites Bali](https://worldadventuredivers.com/best-dive-sites-bali/), [Neptune Scuba Diving - Scuba Diving Bali](https://neptunescubadiving.com/scuba-diving-bali/), [Dive The World - Bali](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [PADI - Diving in Bali](https://www.padi.com/diving-in/bali/). Last updated 2026-04-04.*
+*Sources: [Bali Dive Cove - Emerald](https://www.balidivecove.com/bali-dive-site/emerald/), [Bali AQua - Tulamben Diving](https://baliaqua.com/bali-dive-sites/tulamben-diving/), [Bali Dive Resort & Spa - Tulamben Sites](https://www.balidiveresortandspa.com/dive-sites-tulamben/). Last updated 2026-05-17.*

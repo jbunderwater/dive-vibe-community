@@ -10,16 +10,17 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "scubaboard.com, BaliAqua, ScubaBoard user Dan (GPS)",
+    "validation_source": "gekodivebali.com,atlantis-bali-diving.com,baliaqua.com,padi.com",
     "tags": {
-      "description": "Drift dive site with strong currents. Also known as Batu Tiga, requires 50+ dives and Advanced Open Water certification. Diverse scuba diving with sloping reefs, craggy rocks and walls covered in hard and soft corals. Visibility often reaches 30 meters. Strong and unpredictable currents especially during full moon. Living Seas coral restoration projects nearby.",
+      "description": "Drift dive site with strong currents. Also known as Batu Tiga, requires Advanced Open Water certification. Sloping reefs, craggy rocks and walls covered in hard and soft corals. Visibility often reaches 30 meters. Strong and unpredictable currents especially during full moon. White-tip reef sharks, wobbegong sharks, turtles, mola mola (Jul-Oct).",
       "name": "Gili Mimpang",
       "place": "islet",
       "scuba_diving:dangers:current": "yes",
       "scuba_diving:depth": "20",
       "scuba_diving:entry": "boat",
       "scuba_diving:type:boat": "yes",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -28,14 +29,14 @@
     "lon": 115.5928056,
     "osm_id": 2480654035,
     "osm_type": "node",
-    "depth": 35,
+    "depth": 30,
     "site_type": "wreck",
     "entry_type": "shore",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "PADI, ScubaBoard, Multiple dive operators, ScubaBoard user Dan (GPS)",
+    "validation_source": "en.wikipedia.org,letsdivetulamben.com,diving-indo.com,baliaqua.com",
     "tags": {
-      "description": "Historic WWII-era American transport ship (USAT Liberty, sunk 1942). Accessible wreck dive from volcanic black-sand beach shore entry. Wreck top at 4-5m, bottom at 35m. Excellent for beginners and more experienced divers alike. Rich marine life including batfish, lionfish, sweetlips, manta rays, reef sharks and sea turtles. Notable for wreck penetration opportunities and excellent photography.",
+      "description": "US Army cargo ship launched 1918, torpedoed by Japanese submarine I-66 on 11 January 1942 while carrying railway parts and rubber. Beached at Tulamben same day; slid into sea during 1963 Mount Agung eruption. Lies parallel to shore ~25m offshore, spanning 3-30m depth. Wikipedia records length as ~125m (411ft 6in); dive operators commonly cite 120m. Wreck hull encrusted in soft corals, gorgonian fans, sponges. Marine life: bigeye trevally, bumphead parrotfish (night/dawn), Napoleon wrasse, turtles, reef sharks, great barracuda, garden eels.",
       "name": "USAT Liberty Wreck",
       "scuba_diving:type:apnoe": "yes",
       "scuba_diving:type:attraction": "yes",
@@ -44,7 +45,8 @@
       "tourism": "attraction",
       "wikidata": "Q2468064",
       "wikimedia_commons": "Category:USAT Liberty (ship, 1918)",
-      "wikipedia": "en:USAT Liberty"
+      "wikipedia": "en:USAT Liberty",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -58,12 +60,13 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "BaliAqua, Menjangan Island location",
+    "validation_source": "menjanganislandtrip.com,gekodivebali.com,padi.com,balifundiving.com",
     "tags": {
-      "description": "Located in Menjangan Island area (northwest Bali). Gentle coral reef site with calm waters and good visibility. Ideal for beginners and training dives. Part of West Bali National Marine Park. Rich marine life with coral formations and reef fish.",
+      "description": "North side of Menjangan Island in West Bali National Park. Shallow reef slopes from 5m to 40m+. Rich hard and soft corals, table corals, gorgonian fans, barrel sponges. Clownfish in anemones throughout shallows. Bigeye trevally, titan triggerfish, scorpionfish, sea turtles, garden eels, large grouper. Sharks (whitetip) occasionally below 20m.",
       "leisure": "marina",
       "name": "Coral Garden",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -72,17 +75,18 @@
     "lon": 114.5289757,
     "osm_id": 2888289770,
     "osm_type": "node",
-    "depth": 20,
+    "depth": 40,
     "site_type": "cave",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "BaliAqua, Menjangan Island guide",
+    "validation_source": "diveconcepts.com,gekodivebali.com,balifundiving.com,padi.com",
     "tags": {
-      "description": "Cave dive site in Menjangan Island area. Features cave formations and cavern diving opportunities. Wall starts at ~12m depth with gorgonians, sea fans, and sponges. Varied depth 3-40m depending on route. Requires intermediate diving skills.",
+      "description": "South/east wall of Menjangan Island. Cave entrances at 9-12m depth, wall drops to 60m. Bats inhabit caves at waterline giving site its name. Cave crevasses harbour nudibranchs, electric clams, moray eels, crustaceans. Wall section: large gorgonians, whip corals, barrel sponges. Schools of bigeye trevally, blacktip reef sharks at depth, octopus. Pygmy seahorses on gorgonians 20-30m. Typically dived as continuation from Pos 2 drift.",
       "leisure": "marina",
       "name": "Bat Cave",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -96,13 +100,14 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "PADI, Nusa Penida diving guides, Multiple operators, ScubaBoard user Dan (GPS)",
+    "validation_source": "nusapenida.org,neptunescubadiving.com,mantapointnusapenida.com,twofishdivers.com",
     "tags": {
-      "description": "Famous manta ray cleaning station on southwest coast of Nusa Penida. Manta cleaning stations at 5-10m depth with maximum depth ~18m. Primary attraction is manta rays visiting to be cleaned by small fish. Over 90% probability of manta encounters March-June. Also hosts blue-spotted stingrays, eagle rays, reef sharks, turtles and occasional mola mola. Shallow, easy water entry makes it accessible to all levels.",
+      "description": "Southwest coast of Nusa Penida. Manta ray cleaning stations at 8-15m; site extends to 35m on wall. Near year-round manta encounters (reef manta rays). Almost 10% of Nusa Penida manta population are melanistic (all-black) - documented at this site. Confirmed species: bamboo sharks, blue-spotted stingrays, blacktip reef sharks, turtles, nudibranchs, banded sea krait, crown jellyfish, mola mola (seasonal), whale sharks (rare, documented). Boat only; fully exposed to Indian Ocean swell.",
       "ele": "-13",
       "name": "Manta Point",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -116,14 +121,15 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "OpenStreetMap tags",
+    "validation_source": "baliaqua.com,atlantis-bali-diving.com,diveconcepts.com",
     "tags": {
-      "description": "Artificial reef site with underwater shrine. Located in Amed area. Intermediate drift-dive potential with varied depth profile. Cultural and diving attraction.",
+      "description": "Jemeluk Bay, Amed. Balinese temple sculpture on sandy seabed marked by surface buoy. Batfish gather beneath shrine structure. Jemeluk Bay reef hosts lionfish, clownfish in anemones, butterflyfish, triggerfish, stingrays, schools of big-mouth mackerel, garden eels. Coral-covered reef around bay perimeter 10-25m.",
       "name": "Underwater Shrine",
       "scuba_diving:depth": "29",
       "scuba_diving:type": "artificial_reef",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -136,12 +142,13 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Nusa Penida region dive sites",
+    "validated": false,
+    "validation_source": "",
     "tags": {
-      "description": "Reef dive site in Nusa Penida area. Intermediate-level site with healthy coral structures and diverse marine life. Standard Bali reef diving experience.",
+      "description": "Reef dive site near Nusa Penida/south Bali area. NOTE: Name 'Bali Scuba' does not appear as a named dive site in operator listings; may be an OSM entry for a dive business rather than a named dive site. No site-specific sources found.",
       "name": "Bali Scuba",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -150,16 +157,17 @@
     "lon": 115.6050638,
     "osm_id": 3747662782,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 15,
     "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Amed region dive sites",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
+    "validated": false,
+    "validation_source": "bluehilltulamben.com",
     "tags": {
-      "description": "Reef dive site near Amed. Intermediate-level reef diving with good visibility and moderate currents. Part of Bali's east coast diving area.",
+      "description": "Likely the house reef at Bluehill Dive Resort Tulamben, a shallow shore-entry reef (2-15m) between the USAT Liberty Wreck and the Tulamben Wall. Known for statues and stone carvings scattered on the reef. Single source only; requires additional independent validation.",
       "name": "Blue Hill Dive Site",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -172,12 +180,13 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Nusa Penida region dive sites",
+    "validated": false,
+    "validation_source": "",
     "tags": {
-      "description": "Reef dive site in Nusa Penida area. Intermediate-level reef diving with healthy coral structures and varied marine life.",
+      "description": "Reef dive site near Nusa Penida area. NOTE: 'Water Walk' at Sanur is primarily known as a seawalker (helmet diving) activity venue, not a conventional scuba dive site. No scuba dive site named 'Water Walk' confirmed in operator listings at these coordinates. Requires verification.",
       "name": "Water Walk",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -191,13 +200,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "Menjangan Island dive guide",
+    "validation_source": "menjanganislandtrip.com,gekodivebali.com,padi.com",
     "tags": {
-      "description": "Cave dive site in Menjangan Island area featuring underwater cave and cavern formations. Wall diving with cave features at 12m+ depth. Features gorgonians, sea fans and sponges.",
+      "description": "Western side of Menjangan Island. Sandy-bottomed cavern at 14m lit by ambient light. Cave walls: sponges, electric clams (flash in dim light), small invertebrates. Outside: large grouper, frogfish, anglerfish in overhangs. Pygmy seahorses on gorgonian fans near cave entrance. Wall with gullies and channels. Generally mild currents on this side.",
       "leisure": "marina",
       "name": "Underwater Cave",
       "natural": "cave_entrance",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -211,13 +221,14 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "Menjangan Island dive guide",
+    "validation_source": "diveconcepts.com,gekodivebali.com,balifundiving.com",
     "tags": {
-      "description": "Wall dive site in Menjangan Island area. Coral wall with varied depth and marine life. Part of Menjangan's famous wall-diving region with excellent gorgonian diversity.",
+      "description": "Corner point on Menjangan Island where reef wall turns sharply. Currents accelerate around corner. Wall drops vertically from surface to 30m+, covered in gorgonian fans, black coral trees, soft corals. Dense fish aggregations: bigeye trevally, snapper, fusiliers. Blacktip reef sharks at 20-30m. Turtles, large grouper, moray eels. Pygmy seahorses on gorgonians.",
       "leisure": "marina",
       "name": "Blue Corner",
       "reef": "coral",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -231,13 +242,14 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "Menjangan Island dive guide",
+    "validation_source": "menjanganislandtrip.com,gekodivebali.com",
     "tags": {
-      "description": "Reef dive site at jetty location in Menjangan Island. Beginner-friendly with coral formations and calm conditions. Gentle drift possible. Good for training dives.",
+      "description": "Menjangan Island main entrance, in front of West Bali National Park ranger station. Gentle sandy slope to 30m. Jetty pilings: ghost pipefish, pipefish, nudibranchs, crustaceans. Sandy slope: garden eels, blue-spotted stingrays, cuttlefish. Batfish near structure. Calm conditions, excellent for training dives.",
       "leisure": "marina",
       "name": "Post I Jetty",
       "reef": "coral",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -251,13 +263,14 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "Menjangan Island dive guide",
+    "validation_source": "menjanganislandtrip.com,gekodivebali.com,padi.com",
     "tags": {
-      "description": "Reef dive site near mangrove area in Menjangan Island region. Shallow, beginner-friendly diving with coral formations and calm conditions. Excellent for new divers.",
+      "description": "Western tip of Menjangan Island. Wall drops to ~30m. Good morning light through shallow corals. Dense juvenile fish nurseries in shallow branching corals. Lionfish, ghost pipefish, moray eels on wall. Turtles feeding on reef crest. Reef sharks and trevally at depth. Batfish mid-water. Slightly more sheltered than eastern wall sites.",
       "leisure": "marina",
       "name": "Mangrove Point",
       "reef": "coral",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -271,10 +284,9 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "Nusa Penida diving guides, ScubaBoard",
+    "validation_source": "balimarinediving.com,dpmdiving.com,twofishdivers.com",
     "tags": {
-      "description": "One of two Manta Bay dive sites in Nusa Penida. Primary feature is numerous manta rays usually feeding at site. Shallow cleaning station areas (10m) with maximum 20m depth. Listen to experienced boat captains - potential for very strong surges and currents, especially near cliff faces where waves break. Not recommended for beginners in poor conditions, but manageable during calm periods. Best viewed March-June.",
-      "description_extended": "Site location near cliffs creates wave surge hazard. Rock formations and wall structure. Marine life focused on manta encounters.",
+      "description": "Northwest Nusa Penida near Broken Beach (Pasih Uug). Sandy bottom slopes from 5m to 12m then to 30m. Reef mantas often seen at 1-6m, no fixed cleaning stations. ~80% encounter rate. Blue-spotted stingrays, reef sharks, turtles on coral bommies. Mola mola possible July-October. Less exposed than Manta Point. Clownfish, moray eels on bommies.",
       "name": "Manta Bay",
       "scuba_diving:current": "1",
       "scuba_diving:dangers": "stones",
@@ -283,7 +295,8 @@
       "scuba_diving:entry": "boat",
       "scuba_diving:maxdepth": "20",
       "scuba_diving:type": "biology",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -297,13 +310,14 @@
     "entry_type": "shore",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "BaliAqua, Amed dive guides",
+    "validation_source": "baliaqua.com,worldadventuredivers.com,ameddiveexplorer.com",
     "tags": {
-      "description": "Shore-entry wall dive site in Amed on Bali's east coast. Gentle sloping reef starting in shallow water, then dropping to colorful reef and wall structure. Excellent site for all experience levels. Abundant macro life including turtles and occasional reef sharks. Usually calm conditions with little current and good visibility. Easily accessed from shore.",
+      "description": "Shore-entry wall dive along Amed's northeast Bali coastline. Reef slope drops to wall at ~5m, descends to ~25m. Hard and soft corals, sea fans, sponges. Fusiliers, angelfish, surgeonfish, hawksbill turtles, reef whitetip sharks at depth. Macro: ghost pipefish, frogfish, nudibranchs in sea fans and muck base. Visibility 10-25m. Usually mild currents.",
       "name": "Amed wall",
       "scuba_diving:type": "reef;wall;apnoe",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -317,12 +331,13 @@
     "entry_type": "shore",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "PADI, Multiple dive operators, GetYourGuide",
+    "validation_source": "padi.com,baliaqua.com,neptunescubadiving.com",
     "tags": {
-      "description": "One of Bali's most beginner-friendly and accessible shore dive sites in Padang Bai. Entry from sandy beach, begins on plateau at 5m depth with gentle descent along sandy slope to ~20m. Ideal for Open Water certification courses. Features scattered coral bommies, rocks, table corals with excellent macro photography opportunities. Rich marine life: turtles, reef sharks, nudibranchs, seahorses, scorpionfish, and famous Spanish dancer nudibranch visible on night dives. Can have strong currents despite benign appearance. Mild currents and usually good visibility (15-20m). Underwater statues enhance the site.",
+      "description": "Sheltered bay east of Padangbai ferry port, east Bali. White sandy bottom with coral bommies starting at 5m, wall section (Tanjung Sari) to 15-18m. Shore entry from beach. Ideal for Open Water certification. Clownfish in anemones abundant. Moray eels, lionfish, sweetlips, turtles, reef sharks on wall, nudibranchs. Night dives: octopus, cuttlefish, lobster. Can have unexpected currents.",
       "name": "Blue Lagoon",
       "scuba_diving:depth": "20",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -336,14 +351,15 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "BaliAqua, Gili Tepekong dive guides, ScubaBoard user Dan (GPS)",
+    "validation_source": "baliaqua.com,indopacificimages.com,padi.com",
     "tags": {
-      "description": "Northern section of Gili Tepekong. Less challenging than southern canyon area. Dive toward north with huge boulders to swim among and open plains of corals. Moderate currents possible but manageable for intermediate divers. Popular for photography due to varied topography and marine life.",
+      "description": "Northern section of Gili Tepekong in Amuk Bay. Less challenging than the south canyon. Huge boulders to swim among and open coral plains. Moderate currents possible but manageable for intermediate divers. Boat dive from Padangbai. Reef and boulder formations 10-25m.",
       "name": "Gili Tepekong North",
       "scuba_diving:dangers:current": "yes",
       "scuba_diving:depth": "20",
       "scuba_diving:entry": "boat",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -357,14 +373,15 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "BaliAqua, ScubaBoard, Gili Tepekong experts",
+    "validation_source": "baliaqua.com,indopacificimages.com,okdiversbali.com,padi.com",
     "tags": {
-      "description": "The Canyon - southern section of Gili Tepekong, known as 'the toilet' due to intimidating swirling downdraft currents. Bali's most challenging and dangerous dive site. Requires Advanced Open Water or equivalent experience (50+ dives minimum). Features big tunnel, walls, and schools of sweetlips, jacks, groupers, white-tip reef sharks. Strong unpredictable currents and surge, especially southwest area. Must follow experienced guide. Best attempted by advanced divers only.",
+      "description": "The Canyon ('the toilet') - southern section of Gili Tepekong. Dramatic drop-off with swim-through tunnel (28m to 18m), shark boulder, canyon formation. Strong to very strong currents with dangerous downcurrents. Bali's most technically demanding dive site. Whitetip/blacktip reef sharks, sweetlips schools, jacks, groupers, tuna, mola mola (Jul-Oct). Advanced OW + 50 logged dives minimum.",
       "name": "Gili Tepekong South",
       "scuba_diving:dangers:current": "yes",
       "scuba_diving:depth": "30",
       "scuba_diving:entry": "boat",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -378,15 +395,16 @@
     "entry_type": "boat",
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "Nusa Penida diving experts, ScubaBoard, Multiple operators, ScubaBoard user Dan (GPS)",
+    "validation_source": "nusapenida.org,scubaboard.com,scubadiverlife.com,purpledivepenida.com",
     "tags": {
-      "description": "Penida Bay - famous for mola mola (ocean sunfish) encounters July-October. Also called Penida Bay. Site conditions heavily dependent on currents. Known for strong downcurrents that can force rapid unintended depth increases - serious hazard with multiple documented accidents and fatalities. Requires Advanced Open Water certification minimum. Mola divers typically work 20-40m depth range. Also hosts reef sharks, manta rays, and diverse reef life. Conditions can change rapidly - always use experienced local guides. Best season July-mid November for mola sightings (40-90% encounter rates July-October).",
+      "description": "Northwest tip of Nusa Penida. Bali's premier site for mola mola (ocean sunfish) July-October; peak August-September. Two shallow reefs on either side of bay plus deep channel to 190m. Powerful downcurrents documented causing multiple accidents and fatalities - advanced divers only. Water temperature drops to 16-18°C during cold upwellings. Mola mola cleaning stations at 20-35m. Also: manta rays, barracuda, giant trevally, whitetip/blacktip reef sharks, turtles, frogfish, wobbegong, nudibranchs.",
       "name": "Crystal Bay",
       "scuba_diving:access_easyness": "1",
       "scuba_diving:depth": "15",
       "scuba_diving:difficulty": "2",
       "scuba_diving:type": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -400,12 +418,13 @@
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "Nusa Penida diving guides, Dive site descriptions",
+    "validation_source": "nusapenida.org,purpledivepenida.com,aquamarinediving.com",
     "tags": {
-      "description": "Also known as Peed. Drift dive site with wall and reef features. Can be calm when currents absent - excellent for photography. Gentle reef from 0-20m depth, wall dropping from ~20m downward. Requires drift diving experience. Good for macro photography in calm conditions.",
+      "description": "North coast of Nusa Penida, near sacred Ped temple. Drift dive along wall with wide shallow plateau. Turtles regularly on plateau. Whitetip reef sharks, barracuda, mola mola (Jul-Oct peak). Moderate drift current; pull-out currents and occasional downdrafts possible. Visibility 25-30m. Boat from Toyapakeh (15-20 min). Links seamlessly with SD Point.",
       "name": "Ped",
       "scuba_diving:type": "reef",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -414,16 +433,17 @@
     "lon": 115.6208435,
     "osm_id": 4747124684,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 30,
     "site_type": "reef",
-    "entry_type": "boat",
+    "entry_type": "shore",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "Amed region dive sites",
+    "validation_source": "balifabdive.com,padi.com,divenavigator.com",
     "tags": {
-      "description": "Reef dive site in Amed area. Intermediate-level site with healthy coral structures, diverse marine life, and good visibility.",
+      "description": "Shore-entry reef in Amed area. Coral clump rising from sandy bottom. Nutrient-rich Lombok Strait waters. Schools of snappers, platax (batfish), fusiliers. Tuna in blue water. Giant frogfish and leaf scorpionfish confirmed. Nudibranchs, crabs, mantis shrimps. 5-30m depth. Nil to moderate current. Good visibility 15-30m.",
       "name": "Batu Belah",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -433,15 +453,16 @@
     "osm_id": 4747124685,
     "osm_type": "node",
     "depth": 25,
-    "site_type": "reef",
+    "site_type": "muck",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "Amed region dive sites",
+    "validation_source": "baliaqua.com,ameddiveexplorer.com",
     "tags": {
-      "description": "Reef dive site in Amed area. Intermediate-level site with healthy coral structures and good marine life diversity.",
+      "description": "Ghost Bay - muck dive in Amed area. Black volcanic sand bay with burrows, rubble, sparse coral. Garden eel colonies. Flying gurnard (iconic species). Blue-spotted stingrays, frogfish, mantis shrimp, nudibranchs, cuttlefish, ghost pipefish. 8-25m depth. Mild current. Note: only 2 sources found; further validation recommended.",
       "name": "Bulakan",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -450,17 +471,18 @@
     "lon": 115.6536502,
     "osm_id": 5149607925,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 22,
     "site_type": "reef",
-    "entry_type": "boat",
+    "entry_type": "both",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "Amed region dive sites",
+    "validation_source": "balidivecove.com,baliaqua.com,ameddiveexplorer.com",
     "tags": {
-      "description": "Distinctive reef dive site in Amed area known for pyramid-shaped rock formations. Intermediate-level diving with interesting topography and coral structures.",
+      "description": "Jemeluk Bay, Amed. Hollow concrete pyramid structures placed by local fishermen in early 1990s as reef enhancement. Now covered in soft corals, sea fans, hard coral. ~18-22m depth. Hawksbill and green turtles at cleaning stations. Blue-spotted stingrays on sandy floor. Frogfish, leaf/stone scorpionfish on pyramids. Pygmy seahorses on pink sea fans. Shore or boat access.",
       "name": "Pyramids",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -469,16 +491,17 @@
     "lon": 115.5946864,
     "osm_id": 6428015268,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 15,
     "site_type": "reef",
-    "entry_type": "boat",
-    "difficulty": "Intermediate",
+    "entry_type": "shore",
+    "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "Tulamben area dive sites",
+    "validation_source": "letsdivetulamben.com,balidiveresortandspa.com,michaelmcfadyenscuba.info",
     "tags": {
-      "description": "Reef dive site in Tulamben area. Intermediate-level site with healthy coral garden structures supporting diverse marine life.",
+      "description": "Shore-entry shallow reef between Liberty Wreck and Drop-off at Tulamben. 3-15m depth. Table corals, staghorn, massive Porites heads on black volcanic sand. Sunken Balinese statues (Buddha, Hindu deities) as focal points. Ghost pipefish, leaf scorpionfish, harlequin shrimp, mantis shrimp, clownfish in large anemone patches, ribbon eels, reef sharks, bumphead parrotfish (early morning). Night: Spanish dancers. Accessible all levels.",
       "name": "Coral Garden Tulamben",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -491,12 +514,13 @@
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": true,
-    "validation_source": "Tulamben area dive sites",
+    "validated": false,
+    "validation_source": "bigfins.asia",
     "tags": {
-      "description": "Reef dive site near Big Fins TecDiving facility in Tulamben area. Popular for technical and recreational diving. Good coral structures and marine life.",
+      "description": "Tulamben area. Note: 'Big Fins TecDiving' refers to a technical diving operator (bigfins.asia) rather than a named dive site. No independent dive site named 'Big Fins TecDiving' confirmed in operator site listings. Single source; requires verification as a legitimate dive site entry.",
       "name": "Big Fins TecDiving",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -510,12 +534,13 @@
     "entry_type": "boat",
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "PADI, BaliAqua, Menjangan diving guides",
+    "validation_source": "diveconcepts.com,gekodivebali.com,padi.com,balifundiving.com",
     "tags": {
-      "description": "Pos II - gentle drift dive along Menjangan Island's south coast. Wall diving starts at 12m with large gorgonians at depths below 25m. Cold water upwelling brings turtles, manta rays, sharks and occasional mola-mola. Part of Menjangan's famous wall-diving region. Calm conditions and shallow walls make it ideal for beginners despite its 30m maximum depth.",
+      "description": "Southeast point of Menjangan Island. Wall from 12m to 40m+. Most spectacular coral 15-25m: largest sea fans in Bali, whip corals, multi-coloured sponges. Denise pygmy seahorses on gorgonians 20-25m - one of best pygmy seahorse spots in Bali. Spotted eagle rays in mid-water. Dense fusiliers, triggerfish, trevally. Turtles. Cold upwellings; occasional mola mola and manta rays. Connects to Bat Cave for long drift.",
       "leisure": "marina",
       "name": "Menjangan - Pos 2",
-      "sport": "scuba_diving"
+      "sport": "scuba_diving",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -524,17 +549,18 @@
     "lon": 115.6028731,
     "osm_id": 12052475969,
     "osm_type": "node",
-    "depth": 25,
+    "depth": 30,
     "site_type": "reef",
     "entry_type": "boat",
     "difficulty": "Intermediate",
     "validated": true,
-    "validation_source": "Tulamben area dive sites",
+    "validation_source": "balidivecove.com,baliaqua.com,balidiveresortandspa.com",
     "tags": {
-      "description": "Reef dive site near Tulamben area. Intermediate-level site with healthy coral structures and good marine life diversity. Part of Bali's popular east coast diving region.",
+      "description": "Southeast of Tulamben Bay, ~5 min by jukung. Sloping reef 12-30m+. Hard corals, large barrel sponges, gorgonian sea fans with pygmy seahorses (up to 10 per fan). Garden eels, sweetlips, angelfish, bannerfish, turtles, groupers, cuttlefish, trevally, bumphead parrotfish. Reef sharks at 20-30m. Submerged chair and table as artificial reef on sandy slope. Mild-moderate drift possible.",
       "name": "Emerald",
       "sport": "scuba_diving",
-      "tourism": "attraction"
+      "tourism": "attraction",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -546,13 +572,14 @@
     "depth": 40,
     "difficulty": "Advanced",
     "validated": true,
-    "validation_source": "okdiversbali.com, nicodivescoolbali.com, padi.com, ScubaBoard user Dan (GPS)",
+    "validation_source": "nicodivescoolbali.com,okdiversbali.com,padi.com,baliaqua.com",
     "tags": {
       "name": "Gili Biaha",
       "sport": "scuba_diving",
-      "description": "The most remote of the three Amuk Bay islands east of Padangbai. Features a dramatic black wall with a signature Shark Cave at around 10m where white-tip reef sharks rest. Strong and unpredictable currents including downcurrents make this an advanced site. Seasonal mola mola sightings June through October. Rich marine life includes lobsters, nudibranchs, turtles, barracuda, and schools of glass fish. Depth range 6-40m with best visibility June to October.",
+      "description": "Most remote of Amuk Bay's three Gili islands; ~45 min boat from Padangbai. Black volcanic wall surrounding island drops to 40m+. Shark Cave at ~10-12m depth on northeastern face where whitetip reef sharks rest; schools of glass fish at cave entrance. Strong and unpredictable currents including downcurrents. Confirmed species: whitetip reef sharks, lobsters, crabs, pufferfish, nudibranchs, octopus, cuttlefish, frogfish, leaf scorpionfish, lionfish, turtles, mola mola (seasonal), dolphins. Best Jun-Oct.",
       "scuba_diving:entry": "boat",
-      "scuba_diving:dangers:current": "yes"
+      "scuba_diving:dangers:current": "yes",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -564,12 +591,13 @@
     "depth": 30,
     "difficulty": "Beginner",
     "validated": true,
-    "validation_source": "aquamarinediving.com, ecodivebali.com, letsdivetulamben.com, ScubaBoard user Dan (GPS)",
+    "validation_source": "aquamarinediving.com,ecodivebali.com,letsdivetulamben.com",
     "tags": {
       "name": "Drop-off",
       "sport": "scuba_diving",
-      "description": "Dramatic volcanic wall formed by a historic Mount Agung lava flow, also known as the Tulamben Wall. Shore entry across pebble beach with a short surface swim to the wall. Wall top at 3-5m drops to over 60m. A shallow aquarium section at 5m teems with reef fish. The wall is covered in sponges, gorgonian fans, black coral, and crinoids. Notable marine life includes white-tip reef sharks, Napoleon wrasse, frogfish, ghost pipefish, and nudibranchs. Adjacent to the USAT Liberty wreck.",
-      "scuba_diving:entry": "shore"
+      "description": "Tulamben Wall - volcanic wall formed by Mount Agung lava flow. Shore entry across pebble beach. Wall top 3-5m drops to 60m+. Shallow aquarium at 5m teems with reef fish. Wall: sponges, gorgonian fans, black coral, crinoids. Whitetip reef sharks, Napoleon wrasse, frogfish, ghost pipefish, nudibranchs. Adjacent to USAT Liberty wreck.",
+      "scuba_diving:entry": "shore",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -580,30 +608,34 @@
     "site_type": "muck",
     "entry_type": "shore",
     "difficulty": "Intermediate",
-    "validated": "true",
+    "validated": false,
     "validation_source": "michaelmcfadyenscuba.info",
     "tags": {
       "name": "Harlequin Slope",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "description": "Black sand muck slope ~200m southeast of USAT Liberty wreck. Named for resident harlequin shrimps found under rocks at depth. Volcanic sand ridges with small coral outcrops. Shore entry. Single source only - requires additional independent validation for 3-source requirement.",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
     "name": "Seraya Secrets",
     "lat": -8.295722,
     "lon": 115.611972,
-    "depth": 25,
+    "depth": 35,
     "site_type": "muck",
     "entry_type": "shore",
     "difficulty": "Intermediate",
-    "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validated": true,
+    "validation_source": "letsdivetulamben.com,diveotion.com,michaelmcfadyenscuba.info",
     "tags": {
       "name": "Seraya Secrets",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "description": "~3km SE of Tulamben near Seraya village. Three sub-sites: Top Secrets (shallow), Deep Secrets (to ~35m), Noisy Reef (juvenile triggerfish sounds). Silty black volcanic sand - strict buoyancy required. Metal dome artificial structure colonised by soft corals. Confirmed species: nudibranchs (donut, pikachu), harlequin shrimp, Coleman/tiger shrimp, boxer crabs, frogfish, ghost pipefish, pygmy seahorses, blue-spotted stingrays, mimic octopus, moray eels. Night: Spanish dancers. NOTE: No airplane frame exists at this site - earlier description was in error.",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -614,13 +646,15 @@
     "site_type": "muck",
     "entry_type": "shore",
     "difficulty": "Intermediate",
-    "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validated": false,
+    "validation_source": "michaelmcfadyenscuba.info,baliaqua.com",
     "tags": {
       "name": "Liberty Muck",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "description": "Black sand muck area adjacent to USAT Liberty wreck at Tulamben. Shore entry. Sand ridges perpendicular to shore, 12-28m. Only 2 sources found - requires additional independent validation for 3-source requirement.",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -631,13 +665,15 @@
     "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Intermediate",
-    "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validated": true,
+    "validation_source": "michaelmcfadyenscuba.info,baliaqua.com,pebbleandfins.com",
     "tags": {
       "name": "Kubu Reef",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "description": "Kubu village, 3.5km NW of Tulamben. Sandy ridges with coral outcrops shallowing to deeper reef with small wall beyond 30m. Two sub-sites. Anglerfish (multiple color morphs), pygmy seahorses on gorgonias, ghost pipefish, barrel sponges. Local porters assist with equipment. Shore entry over rocky shoreline.",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -648,13 +684,15 @@
     "site_type": "wreck",
     "entry_type": "shore",
     "difficulty": "Intermediate",
-    "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validated": true,
+    "validation_source": "letsdivetulamben.com,balidivecove.com,ecodivebali.com",
     "tags": {
       "name": "Kubu Wreck",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "description": "Boga Wreck - Dutch-built Indonesian government patrol vessel ~40-45m length, intentionally sunk September 2012 as artificial reef off Kubu village. Bow ~18m, stern 38-40m (has settled deeper over time). Deck props: non-original wooden steering wheel, Buddha statues, VW car, scuba tanks. Confirmed species: moray eels, barracuda, batfish, lionfish, nudibranchs, octopus, turtles. Gorgonian fans colonising structure.",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -665,13 +703,15 @@
     "site_type": "wall",
     "entry_type": "shore",
     "difficulty": "Intermediate",
-    "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validated": true,
+    "validation_source": "padi.com,baliaqua.com,michaelmcfadyenscuba.info",
     "tags": {
       "name": "Jemeluk Wall",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "description": "East end of Jemeluk Beach, Amed. Slope steepens to wall dropping to 50m+. Upper slope: small gorgonias, barrel sponges, large pink gorgonia fans, hard corals. Moray eels in crevices, ribbon eels in sandy areas, clownfish in anemones on upper slope. Wall top at ~15m. Shore entry from beach. ~10 min from Hotel Uyah. Intermediate to Advanced due to depth.",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -679,16 +719,18 @@
     "lat": -8.35,
     "lon": 115.6835,
     "depth": 30,
-    "site_type": "wall",
+    "site_type": "reef",
     "entry_type": "shore",
     "difficulty": "Intermediate",
-    "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validated": true,
+    "validation_source": "baliaqua.com,ameddiveexplorer.com,michaelmcfadyenscuba.info",
     "tags": {
       "name": "Lipah Bay",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "description": "~12 min from Amed. Sandy slope to 40m with artificial reef structures (coral-colonised), natural coral patches, large bommies with gorgonias and barrel sponges. Confirmed shark nursery area - baby and juvenile reef sharks shelter under large table corals alongside adult reef sharks. Hawksbill and green turtles regular. Large moray eels. Shore entry over black pebble beach. All levels when calm. Site_type corrected from wall to reef.",
+      "last_qa_date": "2026-05-17"
     }
   },
   {
@@ -699,13 +741,15 @@
     "site_type": "wall",
     "entry_type": "boat",
     "difficulty": "Intermediate",
-    "validated": "true",
-    "validation_source": "michaelmcfadyenscuba.info",
+    "validated": true,
+    "validation_source": "michaelmcfadyenscuba.info,ameddiveexplorer.com",
     "tags": {
       "name": "Barracuda Wall",
       "sport": "scuba_diving",
       "source": "mcfadyen",
-      "addedBy": "mcfadyen_scrape"
+      "addedBy": "mcfadyen_scrape",
+      "description": "Drift dive from east end of Bunutan Beach heading east-southeast. Wall densely covered in thousands of barrel sponges and hundreds of gorgonia fans. Large garden eel colonies on sandy bottom - among largest in Amed area. Ribbon eels and moray eels in wall crevices. Very large brain corals. Current-assisted drift; boat follows bubbles for pickup. Note: only 2 sources found.",
+      "last_qa_date": "2026-05-17"
     }
   }
 ]

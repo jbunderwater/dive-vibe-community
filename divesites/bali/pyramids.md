@@ -3,8 +3,8 @@ name: Pyramids
 lat: -8.3341953
 lng: 115.6536502
 difficulty: Intermediate
-maxDepth: 25
-entryType: boat
+maxDepth: 22
+entryType: both
 siteType: reef
 ref: null
 osmId: 5149607925
@@ -13,19 +13,19 @@ addedBy: osm_import
 
 ## Pyramids
 
-Amed's iconic artificial reef — concrete pyramid structures sunk in 1995, now fully encrusted with soft corals and functioning as a reliable turtle cleaning station.
+Amed's iconic artificial reef — hollow concrete pyramid structures placed by local fishermen in the early 1990s, now fully encrusted with soft corals, sea fans, and teeming with reef fish.
 
 ## Overview
 
-The Pyramids dive site near Jemeluk Bay in Amed was created in 1995 when the Balinese Diving Association sank more than 20 concrete cube structures stacked into pyramid shapes on the black sand bottom at 18–20 m. Three decades later, they are completely covered in soft corals, pink sea fans, and teeming with reef fish. The site functions as a reliable turtle cleaning station where hawksbill and green turtles visit the structures regularly. Blue-spotted stingrays are so abundant on the surrounding sandy floor they have been described as resembling a busy airport, with stingrays constantly "landing" and "taking off." Strong current sweeps through the area, providing excellent visibility — often exceeding 30 m.
+The Pyramids dive site near Jemeluk Bay in Amed was created when local fishermen placed more than 20 hollow concrete pyramid structures on the black sand bottom at approximately 18–22 metres as a reef enhancement effort in the early 1990s. Three decades on, they are covered in soft corals, pink sea fans, and hard coral growth, and are teeming with reef fish. The site functions as a reliable turtle cleaning station where hawksbill and green turtles visit the structures regularly. Blue-spotted stingrays rest on the surrounding sandy floor. Moderate to strong current can sweep through the area on some days, enabling drift-style dives with excellent visibility.
 
 ## Site Information
 
 - **Location**: Near Jemeluk Bay, Amed, northeast Bali
-- **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Entry Type**: Shore or boat entry
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
-- **Maximum Depth**: 25 meters
+- **Maximum Depth**: 22 meters
 - **Typical Visibility**: 20–30+ m (current-swept)
 - **Current**: Moderate to strong; drift possible
 - **Best Time**: April to November
@@ -59,4 +59,4 @@ Strong current can make it difficult to hold position at the deeper pyramids. Be
 The pyramids are a macro photographer's paradise — soft corals, frogfish, pygmy seahorses, and nudibranchs all on a single geometric structure. Wide-angle shots capturing turtles on the coral-covered pyramids are the signature image. Blue-spotted stingrays in groups on the black sand are striking wide-angle subjects.
 
 ---
-*Sources: [Aquamarine Diving - Bali Dive Sites](https://www.aquamarinediving.com/bali-diving/dive-sites/), [Dive The World - Bali Indonesia](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [Bluewater Dive Travel - Bali Diving](https://www.bluewaterdivetravel.com/destination/bali-diving), [World Adventure Divers - Best Dive Sites Bali](https://worldadventuredivers.com/best-dive-sites-bali/), [Neptune Scuba Diving - Scuba Diving Bali](https://neptunescubadiving.com/scuba-diving-bali/), [Dive The World - Bali](https://www.dive-the-world.com/diving-sites-indonesia-bali.php), [PADI - Diving in Bali](https://www.padi.com/diving-in/bali/). Last updated 2026-04-04.*
+*Sources: [Bali Dive Cove - Amed Pyramids](https://www.balidivecove.com/dive-sites/amed-pyramids/), [Bali AQua - Amed Diving](https://baliaqua.com/bali-dive-sites/amed-diving/), [Amed Dive Explorer - Dive Sites](https://ameddiveexplorer.com/en/dive-sites-amed-bali-tulamben/). Last updated 2026-05-17.*

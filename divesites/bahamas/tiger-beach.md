@@ -17,18 +17,18 @@ Tiger Beach is the world's most celebrated tiger shark dive, a shallow sand flat
 
 ## Overview
 
-Tiger Beach sits in the northwest Bahamas, roughly 20 km offshore from Grand Bahama Island in the Old Bahama Channel. The site is a broad, flat sandy bottom at 6–9 metres where warm Gulf Stream water delivers extraordinary 30–40-metre visibility. What makes Tiger Beach exceptional is sheer predictability: tiger sharks are present virtually year-round, and on any given dive it is common to count five to fifteen individuals simultaneously. Lemon sharks and Caribbean reef sharks frequent the same area, and great hammerheads have been documented on winter dives. There is no structured bait station — divers kneel or sit on the sand and the sharks work around them naturally. The shallow depth means long bottom times and excellent natural light for photography.
+Tiger Beach sits approximately 32 km (20 miles) off the west end of Grand Bahama Island. The site is a broad, flat sandy bottom at 6–12 metres where warm Atlantic water delivers extraordinary visibility often exceeding 30 metres. What makes Tiger Beach exceptional is the density and predictability of tiger shark encounters: multiple sources confirm an average of 5–7 tiger sharks per dive, alongside 15+ lemon sharks and over 20 Caribbean reef sharks. Tiger sharks and lemon sharks are present year-round, though October to January is peak season when tiger shark numbers are highest. Great hammerheads (Sphyrna mokarran) are most reliably seen from December to March. Divers kneel or sit on the sand and the sharks work around them naturally. The shallow depth means long bottom times and excellent natural light for photography.
 
 ## Site Information
 
 - **Location**: Northwest Bahamas, Grand Bahama offshore
 - **Entry Type**: Boat dive
-- **Site Type**: Coral reef
+- **Site Type**: Reef
 - **Difficulty Level**: Intermediate
 - **Maximum Depth**: 9 meters
 - **Typical Visibility**: 25–40 metres
 - **Current**: Light
-- **Best Time**: October to February for peak tiger shark presence; year-round viable
+- **Best Time**: October to January for peak tiger shark numbers; year-round viable; July–August fewest sharks; great hammerheads December–March
 
 ## Marine Life
 
@@ -40,7 +40,7 @@ Descend to the sandy bottom at 6–9 metres and remain stationary — kneeling, 
 
 ## Entry and Exit
 
-All access is by specialised liveaboard or dedicated day-charter dive boats. The site is 1.5–2.5 hours from Freeport. Back-roll or giant-stride entry. Ascent on the anchor or shotline; deploy an SMB before surfacing if conditions require.
+Primarily a liveaboard destination, though a handful of land-based operators now run day trips from West End, Grand Bahama. The site is approximately 1 hour by boat from West End. Back-roll or giant-stride entry. Ascent on the anchor or shotline; deploy an SMB before surfacing if conditions require.
 
 ## Tips and Recommendations
 
@@ -59,4 +59,4 @@ Tiger sharks are large, powerful animals. Follow all operator briefings without 
 Tiger Beach is arguably the best shark photography site on the planet. Shoot wide-angle to capture full-body shark portraits against the white sand and blue water. Afternoon light creates excellent backlit silhouette shots. Bring at least two dives to warm up before expecting close approaches.
 
 ---
-*Sources: [Bahamas Tourism - Diving](https://www.bahamas.com/plan-your-trip/diving), [Bluewater Dive Travel - Bahamas Diving](https://www.bluewaterdivetravel.com/destination/bahamas-diving), [Dive The World - Best Diving in the Bahamas](https://www.dive-the-world.com/posts/bahamas/best-diving-in-the-bahamas-top-7-sites.php), [DiveIn - Best Diving in the Bahamas](https://www.divein.com/diving/destination/bahamas/), [PADI - Diving in the Bahamas](https://www.padi.com/diving-in/bahamas/). Last updated 2026-04-04.*
+*Sources: [PADI - Tiger Beach dive site](https://www.padi.com/dive-site/bahamas/tiger-beach/), [Epic Diving - Tiger Beach Bahamas](https://www.epicdiving.com/), [Dive the World - Tiger Beach Grand Bahama](https://www.dive-the-world.com/diving-sites-bahamas-grand-bahama-tiger-beach.php), [Bluewater Dive Travel - Tiger Beach](https://www.bluewaterdivetravel.com/destination/tiger-beach-diving). Last updated 2026-05-17.*
