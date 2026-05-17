@@ -197,25 +197,75 @@ addedBy: osm_import
 
 
 def main():
+    import argparse
+
+    parser = argparse.ArgumentParser(
+        description=(
+            "Generate destination overview.md stubs from destinations.json.\n\n"
+            "By default, existing overview.md files are PRESERVED — only "
+            "missing files are created. Use --force to overwrite (destructive)."
+        ),
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+    )
+    parser.add_argument(
+        "slugs",
+        nargs="*",
+        help=(
+            "Destination slug(s) to process. If omitted, all non-group "
+            "destinations are processed."
+        ),
+    )
+    parser.add_argument(
+        "--force",
+        action="store_true",
+        help=(
+            "OVERWRITE existing overview.md files. DESTRUCTIVE: this will "
+            "replace any hand-curated overview with the minimal stub. "
+            "Requires explicit destination slugs to prevent accidentally "
+            "clobbering every destination at once."
+        ),
+    )
+    args = parser.parse_args()
+
     project_root = Path(__file__).parent.parent
     divesites_dir = project_root / "divesites"
+
+    force = args.force
+    requested_slugs = set(args.slugs) if args.slugs else None
+
+    if force and not requested_slugs:
+        parser.error(
+            "--force cannot be used without explicit destination slugs. "
+            "Refusing to overwrite every destination's overview at once."
+        )
+
+    if force:
+        print("WARNING: --force enabled — existing overview.md will be OVERWRITTEN.")
+    else:
+        print(
+            "Default mode: existing overview.md files will be preserved; only "
+            "missing files will be created. (Use --force to overwrite.)"
+        )
 
     with open(project_root / "destinations.json", "r", encoding="utf-8") as f:
         destinations = json.load(f)
 
-    # Skip destinations that already have hand-curated overviews
-    skip_slugs = {"bonaire", "curacao"}
-
-    generated = 0
+    written = 0
+    skipped = 0
     for dest in destinations:
         if dest.get("isGroup"):
             continue
         slug = dest["slug"]
-        if slug in skip_slugs:
+        if requested_slugs and slug not in requested_slugs:
             continue
 
         dest_dir = divesites_dir / slug
         dest_dir.mkdir(parents=True, exist_ok=True)
+
+        overview_path = dest_dir / "overview.md"
+        if overview_path.exists() and not force:
+            skipped += 1
+            continue
 
         # Get site stats
         index_path = dest_dir / "index.json"
@@ -226,15 +276,17 @@ def main():
 
         # Generate overview
         content = generate_overview(dest, stats, region_data)
-        overview_path = dest_dir / "overview.md"
         with open(overview_path, "w", encoding="utf-8") as f:
             f.write(content)
 
-        generated += 1
+        written += 1
+        verb = "OVERWROTE" if force else "wrote"
         status = f"{stats['total']} sites" if stats['total'] > 0 else "overview only"
-        print(f"  {dest['name']:40s} {status}")
+        print(f"  {dest['name']:40s} {verb} ({status})")
 
-    print(f"\nGenerated {generated} overview files")
+    print(f"\nWritten: {written}    Skipped (already exist): {skipped}")
+    if skipped and not force:
+        print("Use --force <slug> [<slug>...] to overwrite specific destinations.")
 
 
 if __name__ == "__main__":

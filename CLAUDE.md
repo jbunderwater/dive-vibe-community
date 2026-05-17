@@ -80,7 +80,7 @@ Use the `/add-destinations` slash command for the full agentic workflow, or foll
 4. Run quality checks (`/quality-check`)
 5. Gap-fill if < 8 sites with curated data
 6. **Validate site types and descriptions** (`/validate-sites`) — research each site against ScubaBoard and dive forums, update both JSON data and markdown descriptions
-7. Run `python3 scripts/generate_sites.py` to generate markdown (**first time only** — NEVER re-run on destinations with existing hand-curated descriptions, as it overwrites them with the minimal stub). The generator intentionally produces only frontmatter + a brief identifying overview + structural Site Information — no marine life, dive profile, photography, or safety claims, since those require site-specific research
+7. Run `python3 scripts/generate_sites.py <slug>` to generate markdown for a new destination. By default the script SKIPS files that already exist — it is safe to re-run. The generator intentionally produces only frontmatter + a brief identifying overview + structural Site Information — no marine life, dive profile, photography, or safety claims, since those require site-specific research. Pass `--force <slug>` only if you intentionally want to overwrite existing hand-curated content for a specific destination.
 8. Run `python3 scripts/sync_sites.py <slug>` after any osm_clean data changes to sync frontmatter + index.json (safe — only updates frontmatter fields, preserves description content)
 
 ## Anti-Hallucination Policy (CRITICAL)

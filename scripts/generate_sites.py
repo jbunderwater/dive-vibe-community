@@ -363,8 +363,12 @@ def generate_index_entry(site, filename):
     }
 
 
-def process_destination(dest, osm_data, divesites_dir, new_only=False):
-    """Process a single destination: generate markdown files and index.json."""
+def process_destination(dest, osm_data, divesites_dir, force=False):
+    """Process a single destination: generate markdown files and index.json.
+
+    By default, existing markdown files are LEFT UNTOUCHED — only missing
+    files are written. Pass `force=True` to overwrite existing files.
+    """
     slug = dest["slug"]
     region = dest["region"]
     region_data = get_region_data(region)
@@ -373,7 +377,8 @@ def process_destination(dest, osm_data, divesites_dir, new_only=False):
     output_dir.mkdir(parents=True, exist_ok=True)
 
     index_entries = []
-    created = 0
+    written = 0
+    skipped = 0
     seen_filenames = set()
 
     for site in osm_data:
@@ -384,38 +389,86 @@ def process_destination(dest, osm_data, divesites_dir, new_only=False):
 
         md_path = output_dir / f"{filename}.md"
 
-        # In new_only mode, skip sites that already have a markdown file
-        if not (new_only and md_path.exists()):
+        if md_path.exists() and not force:
+            skipped += 1
+        else:
             content = generate_site_markdown(site, dest, region_data)
             with open(md_path, "w", encoding="utf-8") as f:
                 f.write(content)
+            written += 1
 
-        # Generate index entry
+        # Generate index entry (index.json always reflects osm_clean)
         entry = generate_index_entry(site, filename)
         index_entries.append(entry)
-        created += 1
 
-    # Write index.json
+    # Write index.json (always — it's derived data tracking osm_clean)
     if index_entries:
         index_path = output_dir / "index.json"
         with open(index_path, "w", encoding="utf-8") as f:
             json.dump(index_entries, f, indent=2, ensure_ascii=False)
 
-    return created
+    return written, skipped
 
 
 def main():
+    import argparse
+
+    parser = argparse.ArgumentParser(
+        description=(
+            "Generate dive-site markdown stubs from data/osm_clean/*.json.\n\n"
+            "By default, existing markdown files are PRESERVED — only missing "
+            "files are created. Use --force to overwrite (destructive)."
+        ),
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+    )
+    parser.add_argument(
+        "slugs",
+        nargs="*",
+        help=(
+            "Destination slug(s) to process. If omitted, all destinations with "
+            "data/osm_clean/<slug>.json are processed."
+        ),
+    )
+    parser.add_argument(
+        "--force",
+        action="store_true",
+        help=(
+            "OVERWRITE existing markdown files. DESTRUCTIVE: this will replace "
+            "any hand-curated content with the minimal stub. Requires explicit "
+            "destination slugs to prevent accidentally clobbering every "
+            "destination at once."
+        ),
+    )
+    parser.add_argument(
+        "--new-only",
+        action="store_true",
+        help=(
+            "[deprecated] Skip existing files. This is now the DEFAULT "
+            "behavior; the flag is accepted for backward compatibility."
+        ),
+    )
+    args = parser.parse_args()
+
     project_root = Path(__file__).parent.parent
     osm_dir = project_root / "data" / "osm_clean"
     divesites_dir = project_root / "divesites"
 
-    # Parse arguments
-    args = [a for a in sys.argv[1:] if not a.startswith("--")]
-    new_only = "--new-only" in sys.argv[1:]
-    requested_slugs = set(args) if args else None
+    force = args.force
+    requested_slugs = set(args.slugs) if args.slugs else None
 
-    if new_only:
-        print("Running in --new-only mode (skipping existing markdown files)")
+    if force and not requested_slugs:
+        parser.error(
+            "--force cannot be used without explicit destination slugs. "
+            "Refusing to overwrite every destination's markdown at once."
+        )
+
+    if force:
+        print("WARNING: --force enabled — existing markdown will be OVERWRITTEN.")
+    else:
+        print(
+            "Default mode: existing markdown will be preserved; only missing "
+            "files will be created. (Use --force to overwrite.)"
+        )
 
     # Load destinations
     with open(project_root / "destinations.json", "r", encoding="utf-8") as f:
@@ -423,10 +476,8 @@ def main():
 
     dest_by_slug = {d["slug"]: d for d in destinations if not d.get("isGroup")}
 
-    # Skip destinations that already have hand-curated content
-    skip_slugs = {"bonaire", "curacao"}
-
-    total_created = 0
+    total_written = 0
+    total_skipped = 0
     results = []
 
     for osm_file in sorted(osm_dir.glob("*.json")):
@@ -436,8 +487,6 @@ def main():
         slug = osm_file.stem
 
         if requested_slugs and slug not in requested_slugs:
-            continue
-        if slug in skip_slugs:
             continue
 
         dest = dest_by_slug.get(slug)
@@ -450,24 +499,31 @@ def main():
             osm_data = json.load(f)
 
         if not osm_data:
-            # Create empty directory with just overview placeholder
+            # Create empty directory with just an empty index
             output_dir = divesites_dir / slug
             output_dir.mkdir(parents=True, exist_ok=True)
-            # Write empty index
             with open(output_dir / "index.json", "w", encoding="utf-8") as f:
                 json.dump([], f, indent=2)
-            results.append({"name": dest["name"], "slug": slug, "sites": 0})
+            results.append({"name": dest["name"], "slug": slug, "written": 0, "skipped": 0})
             continue
 
-        created = process_destination(dest, osm_data, divesites_dir, new_only=new_only)
-        total_created += created
-        results.append({"name": dest["name"], "slug": slug, "sites": created})
-        print(f"  {dest['name']:40s} {created} sites")
+        written, skipped = process_destination(dest, osm_data, divesites_dir, force=force)
+        total_written += written
+        total_skipped += skipped
+        results.append({"name": dest["name"], "slug": slug, "written": written, "skipped": skipped})
+        if written or skipped:
+            msg_bits = []
+            if written:
+                verb = "OVERWROTE" if force else "wrote"
+                msg_bits.append(f"{verb} {written}")
+            if skipped:
+                msg_bits.append(f"skipped {skipped} existing")
+            print(f"  {dest['name']:40s} {', '.join(msg_bits)}")
 
     print(f"\n{'='*60}")
-    print(f"Total: {total_created} dive site files generated")
-    print(f"Destinations processed: {len(results)}")
-    print(f"Destinations with sites: {sum(1 for r in results if r['sites'] > 0)}")
+    print(f"Total written:    {total_written} markdown files")
+    print(f"Total skipped:    {total_skipped} existing files (use --force to overwrite)")
+    print(f"Destinations:     {len(results)}")
 
 
 if __name__ == "__main__":
