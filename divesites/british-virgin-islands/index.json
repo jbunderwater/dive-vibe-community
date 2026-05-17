@@ -1,15 +1,12 @@
 [
   {
     "name": "RMS Rhone",
+    "lat": "18.3733",
+    "lng": "-64.6269",
     "filename": "rms-rhone.md",
-    "lat": 18.3733,
-    "lng": -64.6269,
+    "addedBy": "osm_import",
     "difficulty": "Intermediate",
-    "maxDepth": 26,
-    "entryType": "boat",
-    "siteType": "wreck",
-    "ref": "",
-    "osmId": null
+    "maxDepth": "26"
   },
   {
     "name": "The Indians",
